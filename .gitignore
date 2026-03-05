@@ -16,6 +16,7 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+.env
 
 # Hugo lock file
 .hugo_build.lock

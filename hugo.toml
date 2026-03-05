@@ -1,7 +1,6 @@
 baseURL = "https://brand-genome.github.io/"
 languageCode = "en-us"
 title = "Brand Identity Knowledge Graph"
-theme = ""
 
 # Build future-dated content (our dates are auto-generated)
 buildFuture = true
