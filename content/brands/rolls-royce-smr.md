@@ -2,7 +2,7 @@
 title: "Rolls-Royce SMR"
 slug: "rolls-royce-smr"
 description: ""
-date: "2026-03-05T15:56:45.612771"
+date: "2026-03-05T22:38:39.084311"
 draft: false
 sectors:
   - energy
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

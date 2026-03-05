@@ -2,7 +2,7 @@
 title: NSW Government
 slug: "nsw-government"
 description: ""
-date: "2026-03-05T15:56:45.792929"
+date: "2026-03-05T22:38:39.295833"
 draft: false
 sectors:
   - "public-sector"
@@ -40,31 +40,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - icon
+  - primary
 brand_colors:
-  - brown
-  - green
-  - yellow
-  - purple
-  - orange
-  - grey
-  - teal
-  - black
-  - blue
   - white
   - red
+  - teal
+  - grey
+  - orange
+  - black
+  - yellow
+  - blue
+  - brown
+  - green
+  - purple
 typographies:
   - arial
 imagery_styles:
-  - realistic
+  - bold
   - photography
   - staged
-  - flat
-  - illustration
-  - geometric
   - vibrant
-  - bold
+  - geometric
+  - illustration
+  - realistic
+  - flat
 wikidata_description: "State government of New South Wales, Australia"
 has_twitter: false
 has_guidelines: true

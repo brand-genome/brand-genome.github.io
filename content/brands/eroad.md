@@ -2,12 +2,12 @@
 title: EROAD
 slug: eroad
 description: ""
-date: "2026-03-05T15:56:46.073411"
+date: "2026-03-05T22:38:39.685923"
 draft: false
 sectors:
-  - hardware
-  - "logistics-supply-chain"
   - software
+  - "logistics-supply-chain"
+  - hardware
 regions:
   - "new-zealand"
 years:
@@ -42,8 +42,8 @@ logo_elements:
   - wordmark
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:

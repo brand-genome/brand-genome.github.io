@@ -2,12 +2,12 @@
 title: Expedia Group
 slug: "expedia-group"
 description: ""
-date: "2026-03-05T15:56:46.106876"
+date: "2026-03-05T22:38:39.735849"
 draft: false
 sectors:
-  - tourism
-  - "e-commerce"
   - software
+  - "e-commerce"
+  - tourism
 regions:
   - usa
 years:
@@ -41,22 +41,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
 brand_colors:
-  - gray
+  - white
   - orange
   - black
-  - white
   - blue
+  - gray
 typographies:
   - "century-gothic"
-  - display
   - arial
+  - display
 imagery_styles: []
 wikidata_description: "American-based parent company to several global online travel brands"
 has_twitter: false

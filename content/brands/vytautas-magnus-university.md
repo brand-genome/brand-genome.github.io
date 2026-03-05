@@ -2,11 +2,11 @@
 title: Vytautas Magnus University
 slug: "vytautas-magnus-university"
 description: ""
-date: "2026-03-05T15:56:45.782053"
+date: "2026-03-05T22:38:39.280245"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - lithuania
 years:

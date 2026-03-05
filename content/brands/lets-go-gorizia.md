@@ -2,7 +2,7 @@
 title: "Let’s Go! Gorizia"
 slug: "lets-go-gorizia"
 description: ""
-date: "2026-03-05T15:56:45.899412"
+date: "2026-03-05T22:38:39.422371"
 draft: false
 sectors:
   - "public-sector"
@@ -42,17 +42,17 @@ logo_elements:
   - badge
   - symbol
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
-  - minimal
-  - abstract
-  - dynamic
   - bold
   - graphic
+  - dynamic
+  - monochrome
+  - abstract
+  - minimal
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

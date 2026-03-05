@@ -2,7 +2,7 @@
 title: DNN Corporation
 slug: "dnn-corporation"
 description: ""
-date: "2026-03-05T15:56:45.693967"
+date: "2026-03-05T22:38:39.184236"
 draft: false
 sectors:
   - software
@@ -37,26 +37,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - alternate
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - "pantone-185"
-  - blue
-  - black
   - white
-  - "pantone-2995"
   - red
+  - "pantone-2995"
+  - "pantone-185"
+  - black
+  - blue
 typographies:
   - impact
-  - display
   - avenir
+  - display
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Technovation
 slug: technovation
 description: ""
-date: "2026-03-05T15:56:46.096447"
+date: "2026-03-05T22:38:39.717530"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -38,37 +38,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
+  - primary
   - symbol
   - secondary
+  - lockup
+  - horizontal
   - stacked
-  - primary
 brand_colors:
-  - "pantone-5126"
-  - "pantone-583"
-  - "pantone-7721"
-  - "pantone-690"
-  - green
-  - "pantone-262"
-  - "pantone-349"
-  - "pantone-325"
-  - "pantone-7642"
-  - "pantone-446"
-  - silver
-  - "pantone-415"
-  - "pantone-5135"
-  - "pantone-419"
-  - "pantone-2247"
-  - gray
-  - "pantone-7723"
-  - grey
-  - "pantone-413"
-  - "pantone-7640"
   - white
-  - "pantone-379"
-  - "pantone-414"
   - "pantone-326"
+  - "pantone-413"
+  - "pantone-690"
+  - "pantone-414"
+  - "pantone-419"
+  - "pantone-415"
+  - "pantone-7721"
+  - gray
+  - "pantone-5135"
+  - "pantone-349"
+  - "pantone-7642"
+  - "pantone-2247"
+  - "pantone-446"
+  - "pantone-262"
+  - grey
+  - "pantone-583"
+  - "pantone-7640"
+  - "pantone-325"
+  - "pantone-379"
+  - "pantone-5126"
+  - silver
+  - green
+  - "pantone-7723"
 typographies:
   - "source-sans"
 imagery_styles:

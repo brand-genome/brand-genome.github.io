@@ -2,11 +2,11 @@
 title: Silver Peak Systems
 slug: "silver-peak-systems"
 description: ""
-date: "2026-03-05T15:56:45.900573"
+date: "2026-03-05T22:38:39.424754"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -49,9 +49,9 @@ typographies:
   - slab
 imagery_styles:
   - bold
-  - vibrant
   - product
   - natural
+  - vibrant
 wikidata_description: American computer networking company
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Ubiregi
 slug: ubiregi
 description: ""
-date: "2026-03-05T15:56:45.933679"
+date: "2026-03-05T22:38:39.506645"
 draft: false
 sectors:
   - software

@@ -2,15 +2,15 @@
 title: Vodafone
 slug: vodafone
 description: ""
-date: "2026-03-05T15:56:45.707738"
+date: "2026-03-05T22:38:39.197542"
 draft: false
 sectors:
   - telecom
 regions:
   - "united-kingdom"
 years:
-  - 2017
   - 2001
+  - 2017
 languages:
   - english
 tags:
@@ -28,378 +28,301 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
   - "text-heavy"
-  - red
-  - dark
-  - bright
-  - white
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
-  - "inverted-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - "text-message"
-  - selfie
-  - interior
-  - commercial
-  - "event-promotion"
-  - branding
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - "auditorium-photography"
-  - audience
-  - cityscape
-  - "stage-performance"
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - instructional
-  - health
-  - "graphic-design"
-  - street
-  - landscape
-  - holiday
-  - logo
-  - corporate
-  - event
-  - business
-  - celebrity
-  - family
-  - text
-  - "digital-art"
-  - travel
-  - portrait
-  - advertisement
   - award
-  - "sci-fi"
-  - lifestyle
+  - celebrity
+  - audience
+  - selfie
+  - commercial
+  - health
   - awards
-  - product
-  - sports
-  - information
-  - "text-heavy"
-  - cartoon
-  - athletic
-  - architectural
-  - documentary
   - "party-photography"
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - food
+  - communication
+  - product
+  - "auditorium-photography"
+  - "text-message"
   - "text-based"
+  - "corporate-event"
+  - text
+  - lifestyle
+  - interior
   - abstract
   - illustration
   - "audience-perspective"
-  - "social-media"
-  - drama
-  - "corporate-event"
-  - action
-  - communication
+  - "digital-art"
+  - "event-promotion"
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - drama
+  - logo
+  - advertisement
+  - fashion
+  - event
+  - sky
+  - athletic
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - "stage-performance"
+  - portrait
+  - beauty
+  - holiday
+  - staged
+  - celebration
+  - historical
+  - business
+  - "event-photography"
+  - "social-media"
+  - instructional
+  - branding
+  - information
+  - "still-life"
+  - travel
+  - "sci-fi"
 concepts:
-  - "live-performance"
+  - award
+  - informative
+  - "logo-design"
+  - informational
+  - "wave-pattern"
+  - promotional
+  - illustration
+  - vintage
+  - advertising
+  - action
   - "live-stage"
   - group
-  - promotion
+  - textured
+  - advertisement
+  - logo
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
   - typography
+  - "graphic-design"
   - "framed-image"
   - "incomplete-art"
   - celebration
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - "graphic-design"
-  - logo
-  - advertisement
-  - award
-  - informational
   - "product-promotion"
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
-  - illustration
-  - "logo-design"
-  - action
-  - textured
-  - advertising
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "text-heavy"
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - "dark-green"
-  - black
   - white
   - red
   - "dark-red"
   - olive
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - engaged
-  - curly
-  - "braided-updo"
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - "long-beard"
-  - b
-  - long
-  - n
-  - focused
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
-  - "full-beard"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
+  - beard
+  - "braided-updo"
   - neutral
-  - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
+  - straight
+  - ponytail
+  - "long-beard"
+  - curly
+  - "full-beard"
+  - joyful
+  - red
+  - content
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
   - focused
-  - n
-  - p
+  - long
+  - contemplative
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
+  - casual
+  - vibrant
+  - muted
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
   - monochrome
-  - pastel
+  - costume
   - neutral
   - earthy
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
+  - formal
   - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
+  - swimwear
+  - traditional
   - pastel
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
-  - group
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
   - crouching
-  - standing
-  - b
-  - n
-  - p
+  - seated
+  - walking
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - group
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - group
-  - l
-  - e
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

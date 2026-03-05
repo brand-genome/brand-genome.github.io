@@ -2,7 +2,7 @@
 title: Stacks
 slug: stacks
 description: ""
-date: "2026-03-05T15:56:46.124244"
+date: "2026-03-05T22:38:39.763511"
 draft: false
 sectors:
   - software
@@ -37,28 +37,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - horizontal
-  - icon
 brand_colors:
-  - green
-  - yellow
-  - gray
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - green
   - "pantone-364"
 typographies:
   - montserrat
   - verdana
   - display
 imagery_styles:
+  - bold
+  - product
+  - geometric
   - artificial
   - minimal
-  - geometric
-  - product
-  - bold
 wikidata_description: macOS dock folder view
 has_twitter: false
 has_guidelines: true

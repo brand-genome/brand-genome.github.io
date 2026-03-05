@@ -2,7 +2,7 @@
 title: ERDF
 slug: erdf
 description: ""
-date: "2026-03-05T15:56:46.175327"
+date: "2026-03-05T22:38:39.817794"
 draft: false
 sectors:
   - utilities
@@ -42,12 +42,12 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - brown
-  - green
-  - blue
-  - black
   - white
   - red
+  - black
+  - blue
+  - brown
+  - green
 typographies: []
 imagery_styles:
   - graphic

@@ -2,12 +2,12 @@
 title: Secret Network
 slug: "secret-network"
 description: ""
-date: "2026-03-05T15:56:45.790336"
+date: "2026-03-05T22:38:39.292307"
 draft: false
 sectors:
   - "blockchain-crypto"
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

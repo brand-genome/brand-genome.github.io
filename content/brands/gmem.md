@@ -2,11 +2,11 @@
 title: GMEM
 slug: gmem
 description: ""
-date: "2026-03-05T15:56:45.865449"
+date: "2026-03-05T22:38:39.379771"
 draft: false
 sectors:
-  - entertainment
   - "arts-culture"
+  - entertainment
 regions:
   - france
 years:
@@ -42,13 +42,13 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - static
   - gradient
   - vibrant
-  - static
 wikidata_description: musical ensemble
 has_twitter: false
 has_guidelines: true

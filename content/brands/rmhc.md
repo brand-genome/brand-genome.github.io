@@ -2,7 +2,7 @@
 title: RMHC
 slug: rmhc
 description: ""
-date: "2026-03-05T15:56:45.765858"
+date: "2026-03-05T22:38:39.263594"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - featured
+  - charity
 industries: []
 countries:
   - "united-states"

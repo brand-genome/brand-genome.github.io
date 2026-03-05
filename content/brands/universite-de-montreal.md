@@ -2,7 +2,7 @@
 title: Université de Montréal
 slug: "universite-de-montreal"
 description: ""
-date: "2026-03-05T15:56:45.848054"
+date: "2026-03-05T22:38:39.360540"
 draft: false
 sectors:
   - university

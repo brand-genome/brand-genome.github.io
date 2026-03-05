@@ -2,11 +2,11 @@
 title: Université de Bordeaux
 slug: "universite-de-bordeaux"
 description: ""
-date: "2026-03-05T15:56:45.987813"
+date: "2026-03-05T22:38:39.562302"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:

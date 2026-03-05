@@ -2,11 +2,11 @@
 title: Cal Poly Pomona
 slug: "cal-poly-pomona"
 description: ""
-date: "2026-03-05T15:56:46.048248"
+date: "2026-03-05T22:38:39.639969"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - seal
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:

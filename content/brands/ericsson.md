@@ -2,7 +2,7 @@
 title: Ericsson
 slug: ericsson
 description: ""
-date: "2026-03-05T15:56:45.904784"
+date: "2026-03-05T22:38:39.435343"
 draft: false
 sectors:
   - networking
@@ -27,322 +27,245 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
   - white
-  - light
+  - "background-as-frame"
+  - wood
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
+  - audience
+  - selfie
+  - professional
+  - landscape
+  - promotional
+  - presenter
+  - product
+  - industrial
+  - text
+  - abstract
+  - interior
+  - illustration
+  - "digital-art"
+  - "audience-perspective"
+  - street
   - advertising
-  - infographic
-  - sky
-  - "still-life"
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - interview
-  - selfie
-  - interior
-  - industrial
-  - typography
-  - candid
-  - cityscape
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
-  - business
-  - event
-  - text
-  - "digital-art"
-  - presenter
-  - portrait
+  - infographic
+  - fashion
   - advertisement
-  - product
-  - sports
+  - event
+  - sky
+  - interview
+  - cityscape
   - "text-heavy"
-  - architectural
-  - professional
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - map
-  - "data-visualization"
-  - action
-  - technology
-concepts:
   - corporate
+  - "data-visualization"
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - map
+  - staged
   - business
-  - "incomplete-art"
+  - technology
+  - "still-life"
+concepts:
+  - "corporate-branding"
+  - informative
+  - advertisement
+  - business
+  - "data-visualization"
   - professional
   - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - informative
-  - "professional-headshot"
-  - "graphic-design"
-  - "data-visualization"
-  - cartoon
   - "text-heavy"
+  - cartoon
+  - illustration
+  - corporate
+  - vintage
   - typography
-  - "corporate-branding"
+  - "graphic-design"
+  - "professional-headshot"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - "bright-focal-point"
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
+  - white
   - "off-white"
   - orange
+  - "dark-blue"
   - black
-  - white
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - bald
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - wavy
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - bald
+  - neat
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - safety
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - safety
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - "safety-yellow"
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - subtle
-  - t
-  - i
-  - muted
-  - o
   - blue
-  - "safety-yellow"
-  - unknown
+  - subtle
+  - pastel
   - subdued
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
   - speaking
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - presenting
-  - p
+  - leaning
   - reclined
-gazes:
-  - l
-  - e
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
+  - holding
+  - active
+  - standing
+  - running
+  - presenting
+  - stretching
+  - confident
+gazes:
   - "at-audience"
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - engaged
+  - away
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
+  - "hand-only"
+  - "head-shot"
   - speaking
   - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - primary
 brand_colors: []

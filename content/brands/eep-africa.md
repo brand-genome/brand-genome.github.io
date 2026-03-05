@@ -2,7 +2,7 @@
 title: EEP Africa
 slug: "eep-africa"
 description: ""
-date: "2026-03-05T15:56:45.704656"
+date: "2026-03-05T22:38:39.194786"
 draft: false
 sectors:
   - "renewable-energy"

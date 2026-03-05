@@ -2,11 +2,11 @@
 title: La Plagne
 slug: "la-plagne"
 description: ""
-date: "2026-03-05T15:56:45.869488"
+date: "2026-03-05T22:38:39.384169"
 draft: false
 sectors:
-  - tourism
   - hospitality
+  - tourism
 regions:
   - france
 years:
@@ -39,12 +39,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
   - futura
 imagery_styles:

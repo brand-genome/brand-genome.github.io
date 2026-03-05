@@ -2,7 +2,7 @@
 title: Utah Valley University
 slug: "utah-valley-university"
 description: ""
-date: "2026-03-05T15:56:45.649357"
+date: "2026-03-05T22:38:39.117309"
 draft: false
 sectors:
   - university

@@ -2,7 +2,7 @@
 title: The Royal Parks
 slug: "the-royal-parks"
 description: ""
-date: "2026-03-05T15:56:46.006406"
+date: "2026-03-05T22:38:39.579622"
 draft: false
 sectors:
   - ngo
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

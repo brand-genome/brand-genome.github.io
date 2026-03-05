@@ -2,7 +2,7 @@
 title: "Banzai!"
 slug: banzai
 description: ""
-date: "2026-03-05T15:56:45.737495"
+date: "2026-03-05T22:38:39.229833"
 draft: false
 sectors:
   - education

@@ -2,7 +2,7 @@
 title: Los Angeles Rams
 slug: "los-angeles-rams"
 description: ""
-date: "2026-03-05T15:56:45.610437"
+date: "2026-03-05T22:38:39.082592"
 draft: false
 sectors:
   - sports
@@ -46,8 +46,8 @@ typographies:
   - helvetica
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: "NFL franchise in Inglewood, California, United States"
 has_twitter: false
 has_guidelines: true

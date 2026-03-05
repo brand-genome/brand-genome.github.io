@@ -2,7 +2,7 @@
 title: Avencia
 slug: avencia
 description: ""
-date: "2026-03-05T15:56:45.779656"
+date: "2026-03-05T22:38:39.278280"
 draft: false
 sectors:
   - consulting

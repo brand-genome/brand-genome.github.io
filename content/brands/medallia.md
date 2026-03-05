@@ -2,7 +2,7 @@
 title: Medallia
 slug: medallia
 description: ""
-date: "2026-03-05T15:56:45.914675"
+date: "2026-03-05T22:38:39.476984"
 draft: false
 sectors:
   - software
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - "app-icon"
+  - primary
 brand_colors:
-  - indigo
-  - gray
-  - black
   - white
+  - black
+  - indigo
   - blue
+  - gray
 typographies:
   - display
 imagery_styles:

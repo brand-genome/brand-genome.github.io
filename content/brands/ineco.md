@@ -2,11 +2,11 @@
 title: Ineco
 slug: ineco
 description: ""
-date: "2026-03-05T15:56:46.129091"
+date: "2026-03-05T22:38:39.769127"
 draft: false
 sectors:
-  - consulting
   - construction
+  - consulting
 regions:
   - spain
 years:

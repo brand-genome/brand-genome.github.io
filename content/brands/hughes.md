@@ -2,7 +2,7 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-03-05T15:56:46.087705"
+date: "2026-03-05T22:38:39.708215"
 draft: false
 sectors:
   - networking
@@ -16,8 +16,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "aerospace-industry"
   - "weapons-industry"
+  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -44,15 +44,15 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - magenta
   - cyan
-  - "pantone-3145"
+  - black
   - yellow
+  - blue
+  - "pantone-3145"
   - gray
   - "pantone-286"
-  - black
-  - white
-  - blue
 typographies: []
 imagery_styles:
   - gradient

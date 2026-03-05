@@ -2,7 +2,7 @@
 title: Aig
 slug: aig
 description: ""
-date: "2026-03-05T15:56:46.224319"
+date: "2026-03-05T22:38:39.964561"
 draft: false
 sectors:
   - insurance
@@ -24,201 +24,201 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
   - bright
-  - "two-tone"
-  - light
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - selfie
+  - professional
+  - landscape
+  - promotional
+  - product
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - sports
+  - fitness
+  - action
   - "live-stage"
   - group
-  - selfie
-  - typography
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - logo
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
   - documentary
-  - professional
-  - abstract
-  - action
-  - advertising
+  - logo
+  - advertisement
+  - fashion
+  - "text-heavy"
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - "still-life"
 concepts:
+  - promotional
+  - "logo-design"
+  - advertisement
   - realism
-  - "incomplete-art"
-  - "sports-promotion"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
   - illustration
   - vintage
-  - promotional
-  - advertisement
-  - promotion
-  - "graphic-design"
-  - "logo-design"
-  - "text-heavy"
-  - "ticket-giveaway"
   - typography
+  - "graphic-design"
+  - "sports-promotion"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "ticket-giveaway"
+  - photorealism
+  - promotion
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - silhouette
   - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
+  - "mud-green"
   - olive
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
-  - short
-  - updo
+  - "pulled-back"
   - red
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - surprised
-  - determined
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - determined
   - excited
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
+  - casual
+  - athletic
   - business
-  - swimwear
   - beachwear
   - "form-fitting"
-  - formal
-  - casual
-  - traditional
   - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
   - sports
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - group
-  - leaning
   - seated
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
+  - leaning
   - reclined
-gazes:
-  - sideways
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - group
+gazes:
+  - engaged
   - away
-  - focused
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - dynamic
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

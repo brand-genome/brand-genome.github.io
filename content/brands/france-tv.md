@@ -2,7 +2,7 @@
 title: France TV
 slug: "france-tv"
 description: ""
-date: "2026-03-05T15:56:46.131154"
+date: "2026-03-05T22:38:39.771475"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
   - "public-broadcasting"
   - unknown

@@ -2,11 +2,11 @@
 title: Gilette children’s
 slug: "gilette-childrens"
 description: ""
-date: "2026-03-05T15:56:45.735789"
+date: "2026-03-05T22:38:39.228101"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Scouts Australia
 slug: "scouts-australia"
 description: ""
-date: "2026-03-05T15:56:46.051221"
+date: "2026-03-05T22:38:39.642106"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - australia
 years:
@@ -42,19 +42,19 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - nunito
   - display
 imagery_styles:
-  - modern
-  - dynamic
-  - product
-  - clean
   - bold
+  - product
   - graphic
+  - dynamic
+  - modern
+  - clean
 wikidata_description: international youth organisation in Australia
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: IBDM
 slug: ibdm
 description: ""
-date: "2026-03-05T15:56:46.178762"
+date: "2026-03-05T22:38:39.821875"
 draft: false
 sectors:
   - research
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
-  - biology
-  - institution
   - science
+  - institution
+  - biology
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: US Soccer Federation
 slug: "us-soccer-federation"
 description: ""
-date: "2026-03-05T15:56:46.073532"
+date: "2026-03-05T22:38:39.686042"
 draft: false
 sectors:
   - sports
@@ -39,11 +39,11 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
+  - white
   - red
   - black
-  - navy
-  - white
   - blue
+  - navy
 typographies:
   - display
 imagery_styles:

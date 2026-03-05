@@ -2,7 +2,7 @@
 title: Roady Centre Auto
 slug: "roady-centre-auto"
 description: ""
-date: "2026-03-05T15:56:45.889765"
+date: "2026-03-05T22:38:39.409348"
 draft: false
 sectors:
   - automobile
@@ -38,16 +38,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
   - black
   - "pantone-485"
-  - red
 typographies:
   - arial
-  - display
   - helvetica
+  - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

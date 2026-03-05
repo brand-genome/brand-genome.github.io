@@ -2,11 +2,11 @@
 title: Chiesi
 slug: chiesi
 description: ""
-date: "2026-03-05T15:56:45.828087"
+date: "2026-03-05T22:38:39.334397"
 draft: false
 sectors:
-  - biotech
   - pharma
+  - biotech
 regions:
   - italy
 years:
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - black
-  - pink
   - white
+  - pink
+  - black
 typographies:
+  - gotham
   - verdana
   - montserrat
-  - gotham
 imagery_styles:
-  - clean
   - professional
+  - clean
 wikidata_description: Hospital or nursing home in Meldola (FC)
 has_twitter: false
 has_guidelines: true

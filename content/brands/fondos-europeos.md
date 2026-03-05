@@ -2,7 +2,7 @@
 title: Fondos Europeos
 slug: "fondos-europeos"
 description: ""
-date: "2026-03-05T15:56:45.674430"
+date: "2026-03-05T22:38:39.162419"
 draft: false
 sectors:
   - "public-sector"
@@ -40,13 +40,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
   - gray
 typographies:
-  - serif
   - "source-sans"
+  - serif
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

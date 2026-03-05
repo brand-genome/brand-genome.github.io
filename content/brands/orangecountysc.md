@@ -2,7 +2,7 @@
 title: Orangecountysc
 slug: orangecountysc
 description: ""
-date: "2026-03-05T15:56:46.194651"
+date: "2026-03-05T22:38:39.896498"
 draft: false
 sectors:
   - sports
@@ -19,204 +19,204 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
   - audience
+  - selfie
+  - landscape
   - promotional
   - food
-  - "graphic-design"
-  - street
-  - landscape
-  - event
-  - text
-  - portrait
-  - architecture
-  - advertisement
   - product
-  - sports
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
+  - text
+  - interior
   - "audience-perspective"
-  - action
+  - architecture
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - bridal
+  - "text-heavy"
   - "graphic-design"
+  - portrait
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "low-saturation"
   - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
+  - white
   - "off-white"
+  - red
+  - "mud-green"
+  - olive
   - orange
   - black
-  - white
-  - red
-  - olive
+  - "dark-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - neat
-  - long
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
   - bald
-  - short
-  - updo
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
   - straight
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - "form-fitting"
-  - uniform
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - orange
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - leaning
-  - seated
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+  - uniform
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - orange
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
+  - seated
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - "at-camera"
-  - forward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

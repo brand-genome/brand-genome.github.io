@@ -2,7 +2,7 @@
 title: OCAD University
 slug: "ocad-university"
 description: ""
-date: "2026-03-05T15:56:45.941575"
+date: "2026-03-05T22:38:39.511282"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - education
-  - art
   - university
+  - art
 industries: []
 countries:
   - canada
@@ -44,9 +44,9 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
+  - gotham
   - georgia
   - arial
-  - gotham
 imagery_styles:
   - photography
 wikidata_description: "public university in Toronto, Canada"

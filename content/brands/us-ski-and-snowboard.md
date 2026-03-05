@@ -2,7 +2,7 @@
 title: US Ski and Snowboard
 slug: "us-ski-and-snowboard"
 description: ""
-date: "2026-03-05T15:56:46.068460"
+date: "2026-03-05T22:38:39.679996"
 draft: false
 sectors:
   - sports
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
-  - secondary
-  - crest
   - primary
+  - secondary
+  - lockup
+  - crest
+  - horizontal
   - vertical
 brand_colors:
-  - "pantone-000"
-  - "pantone-1795"
-  - gray
-  - black
   - white
   - "pantone-282"
+  - "pantone-1795"
+  - "pantone-000"
+  - black
+  - gray
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - clean
   - bold
   - photography
+  - clean
 wikidata_description: national governing body for Olympic skiing and snowboarding
 has_twitter: false
 has_guidelines: true

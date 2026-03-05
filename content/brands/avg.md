@@ -2,11 +2,11 @@
 title: AVG
 slug: avg
 description: ""
-date: "2026-03-05T15:56:45.766599"
+date: "2026-03-05T22:38:39.264593"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

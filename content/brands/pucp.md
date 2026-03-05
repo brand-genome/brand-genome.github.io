@@ -2,12 +2,12 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-03-05T15:56:45.859860"
+date: "2026-03-05T22:38:39.374675"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - peru
 years:
@@ -42,10 +42,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-298"
   - "pantone-2239"
-  - "pantone-390"
   - "pantone-1495"
+  - "pantone-298"
+  - "pantone-390"
 typographies: []
 imagery_styles:
   - bold

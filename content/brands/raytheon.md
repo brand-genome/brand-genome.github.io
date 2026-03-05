@@ -2,14 +2,14 @@
 title: Raytheon
 slug: raytheon
 description: ""
-date: "2026-03-05T15:56:45.899751"
+date: "2026-03-05T22:38:39.423923"
 draft: false
 sectors:
-  - hardware
-  - aerospace
   - defense
-  - electronics
   - software
+  - hardware
+  - electronics
+  - aerospace
 regions:
   - usa
 years:
@@ -29,346 +29,269 @@ operating_income_buckets: []
 net_profit_buckets:
   - "1b-10b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "action-shot"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gradient
-  - light
-  - red
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - vintage
+  - light
+  - gradient
+  - pattern
   - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - light
+  - vintage
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
-  - light
-  - blue
   - "galaxy-colors"
+  - "inverted-colors"
+  - blue
+  - bright
+  - dark
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
-  - fashion
-  - sky
+  - celebrity
+  - selfie
+  - commercial
+  - professional
+  - aerial
+  - landscape
   - invitation
-  - "still-life"
+  - botanical
+  - food
+  - product
+  - "event-announcement"
+  - technical
+  - industrial
+  - text
+  - interior
+  - illustration
+  - abstract
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
+  - ceremony
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - industrial
-  - commercial
-  - candid
-  - botanical
-  - cityscape
-  - aerial
-  - celebration
-  - staged
-  - "event-announcement"
-  - historical
-  - food
-  - "graphic-design"
-  - ceremony
-  - street
-  - landscape
-  - logo
-  - celebrity
-  - event
-  - corporate
-  - family
-  - text
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - athlete
-  - "text-heavy"
-  - architectural
   - documentary
-  - professional
-  - technical
-  - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - action
+  - logo
+  - fashion
+  - event
+  - advertisement
+  - sky
   - emotional
-  - advertising
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - underwater
+  - family
+  - "graphic-design"
+  - portrait
+  - staged
+  - celebration
+  - historical
+  - athlete
+  - "still-life"
 concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - silhouette
-  - photorealism
-  - illustration
-  - vintage
-  - motherhood
   - "emotional-connection"
-  - "professional-headshot"
-  - "corporate-announcement"
+  - silhouette
+  - "wave-pattern"
+  - cartoon
+  - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
+  - typography
   - "graphic-design"
   - love
-  - "text-heavy"
-  - typography
-  - cartoon
+  - "professional-headshot"
+  - "corporate-announcement"
+  - "incomplete-art"
+  - motherhood
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
+  - "saturated-colors"
+  - symmetric
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
   - "motion-capture"
   - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - symmetric
-  - "short-exposure"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - red
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - focused
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - secondary
   - alternate
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
-  - gray
   - red
+  - black
+  - gray
 typographies:
-  - frutiger
   - arial
+  - frutiger
 imagery_styles:
-  - modern
-  - minimal
-  - product
-  - clean
   - bold
+  - product
+  - minimal
+  - modern
+  - clean
 wikidata_description: "1994-2006 aircraft manufacturer in the United States"
 has_twitter: true
 has_guidelines: true

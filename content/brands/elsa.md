@@ -2,11 +2,11 @@
 title: ELSA
 slug: elsa
 description: ""
-date: "2026-03-05T15:56:46.140374"
+date: "2026-03-05T22:38:39.780211"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - lato
   - garamond

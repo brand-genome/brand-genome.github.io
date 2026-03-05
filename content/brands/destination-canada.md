@@ -2,7 +2,7 @@
 title: Destination Canada
 slug: "destination-canada"
 description: ""
-date: "2026-03-05T15:56:45.988501"
+date: "2026-03-05T22:38:39.562753"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -42,35 +42,35 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - favicon
+  - primary
+  - secondary
 brand_colors:
-  - pink
-  - magenta
-  - cyan
-  - green
-  - "pantone-1795"
-  - yellow
-  - purple
-  - blue
-  - black
-  - grey
   - white
   - red
+  - magenta
+  - "pantone-1795"
+  - grey
+  - black
+  - yellow
+  - cyan
+  - blue
+  - pink
+  - green
+  - purple
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - modern
+  - bold
   - photography
+  - landscape
+  - colorful
   - minimal
+  - modern
+  - candid
   - natural
   - portrait
-  - colorful
-  - landscape
-  - candid
-  - bold
 wikidata_description: Canadian Crown corporation
 has_twitter: false
 has_guidelines: true

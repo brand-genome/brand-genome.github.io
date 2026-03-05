@@ -2,11 +2,11 @@
 title: Peloton
 slug: peloton
 description: ""
-date: "2026-03-05T15:56:45.968644"
+date: "2026-03-05T22:38:39.535617"
 draft: false
 sectors:
-  - fitness
   - software
+  - fitness
 regions:
   - usa
 years:

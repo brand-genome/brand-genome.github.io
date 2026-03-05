@@ -2,7 +2,7 @@
 title: Petsmart
 slug: petsmart
 description: ""
-date: "2026-03-05T15:56:46.190167"
+date: "2026-03-05T22:38:39.871288"
 draft: false
 sectors:
   - "pet-supermarket"
@@ -21,210 +21,210 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - bright
-  - "light-glare"
 perspectives:
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
-  - "aquatic-colors"
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - "aquatic-colors"
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - amateur
-  - "still-life"
+  - selfie
+  - landscape
+  - botanical
+  - promotional
+  - product
+  - lifestyle
+  - interior
+  - "pet-grooming"
+  - street
+  - advertising
+  - action
+  - candid
   - "live-stage"
   - group
-  - "pet-grooming"
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - family
+  - fashion
   - "pet-photography"
-  - portrait
-  - lifestyle
-  - product
-  - "text-heavy"
   - underwater
-  - action
-  - pet
-  - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - aquatic
-  - photorealism
-  - illustration
-  - vintage
-  - award
+  - "text-heavy"
+  - amateur
+  - family
   - "graphic-design"
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+concepts:
+  - award
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
+  - aquatic
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
+  - "low-saturation"
   - silhouette
   - "high-contrast"
+  - "high-saturation"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - "dark-green"
-  - black
   - white
-  - "dark-brown"
+  - "mud-green"
   - olive
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
   - flowing
-  - varied
+  - "pulled-back"
   - bald
-  - short
-  - updo
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - long
+  - curly
+  - updo
+  - short
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - uniform
-  - formal
   - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
   - traditional
   - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - protective
-  - athletic
+  - uniform
 clothing_colors:
-  - monochrome
-  - pastel
+  - vibrant
   - neutral
+  - monochrome
   - earthy
-  - muted
   - colorful
   - blue
-  - vibrant
+  - pastel
+  - muted
 posings:
-  - standing
-  - neutral
-  - active
-  - engaged
-  - reclined
-  - focused
+  - joyful
   - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - holding
-  - joyful
-  - running
-  - walking
-  - static
-gazes:
-  - sideways
-  - neutral
   - engaged
-  - upward
-  - away
-  - focused
-  - downward
-  - joyful
-  - forward
-  - outward
-body_sections:
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
+  - walking
   - neutral
+  - holding
+  - active
+  - standing
+  - running
+  - focused
+  - stretching
+  - static
+  - confident
+gazes:
+  - joyful
+  - engaged
+  - away
+  - downward
+  - neutral
+  - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
+  - "head-shot"
+  - joyful
+  - seated
+  - midsection
   - "lower-half"
   - engaged
-  - "upper-body"
-  - "close-up"
-  - focused
-  - seated
-  - content
-  - midsection
-  - "head-shot"
-  - "full-body"
   - relaxed
-  - joyful
-  - reclined
+  - "upper-body"
   - "full-back"
+  - neutral
+  - reclined
+  - "full-body"
+  - content
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

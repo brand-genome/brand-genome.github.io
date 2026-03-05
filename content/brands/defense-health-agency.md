@@ -2,11 +2,11 @@
 title: Defense Health Agency
 slug: "defense-health-agency"
 description: ""
-date: "2026-03-05T15:56:45.885272"
+date: "2026-03-05T22:38:39.399617"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
   - defense
 regions:
   - usa
@@ -40,25 +40,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
-  - green
-  - yellow
-  - "pantone-181"
-  - gray
-  - blue
   - white
   - red
   - "pantone-2768"
+  - yellow
+  - blue
+  - gray
+  - green
+  - "pantone-181"
 typographies:
   - serif
 imagery_styles:
-  - contemporary
-  - classic
   - product
-  - clean
   - graphic
+  - classic
+  - contemporary
+  - clean
 wikidata_description: clinical trial
 has_twitter: false
 has_guidelines: true

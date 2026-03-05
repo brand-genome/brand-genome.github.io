@@ -2,7 +2,7 @@
 title: Institut Polytechnique de Paris
 slug: "institut-polytechnique-de-paris"
 description: ""
-date: "2026-03-05T15:56:45.635011"
+date: "2026-03-05T22:38:39.096638"
 draft: false
 sectors:
   - education

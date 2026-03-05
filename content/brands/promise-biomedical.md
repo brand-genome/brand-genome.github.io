@@ -2,7 +2,7 @@
 title: Promise Biomedical
 slug: "promise-biomedical"
 description: ""
-date: "2026-03-05T15:56:45.666375"
+date: "2026-03-05T22:38:39.137547"
 draft: false
 sectors:
   - healthcare

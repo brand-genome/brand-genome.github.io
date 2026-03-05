@@ -2,7 +2,7 @@
 title: MilkMarket Limerick
 slug: "milkmarket-limerick"
 description: ""
-date: "2026-03-05T15:56:46.029256"
+date: "2026-03-05T22:38:39.596875"
 draft: false
 sectors:
   - food
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
   - "pantone-2748"
 typographies: []
 imagery_styles:

@@ -2,12 +2,12 @@
 title: Vizrt
 slug: vizrt
 description: ""
-date: "2026-03-05T15:56:45.713274"
+date: "2026-03-05T22:38:39.202529"
 draft: false
 sectors:
   - broadcasting
-  - networking
   - software
+  - networking
 regions:
   - norway
 years:

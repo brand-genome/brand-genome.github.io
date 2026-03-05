@@ -2,11 +2,11 @@
 title: Tricoya
 slug: tricoya
 description: ""
-date: "2026-03-05T15:56:46.090705"
+date: "2026-03-05T22:38:39.711485"
 draft: false
 sectors:
-  - "forestry-timber"
   - construction
+  - "forestry-timber"
 regions:
   - "united-kingdom"
 years:

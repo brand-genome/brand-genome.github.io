@@ -2,7 +2,7 @@
 title: Low Carbon Dorset
 slug: "low-carbon-dorset"
 description: ""
-date: "2026-03-05T15:56:46.032538"
+date: "2026-03-05T22:38:39.600964"
 draft: false
 sectors:
   - "public-sector"
@@ -40,14 +40,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
+  - white
   - grey
   - black
-  - white
   - blue
+  - green
 typographies:
-  - arial
   - avenir
+  - arial
 imagery_styles:
   - bold
   - graphic

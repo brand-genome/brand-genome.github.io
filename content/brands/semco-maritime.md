@@ -2,24 +2,24 @@
 title: Semco Maritime
 slug: "semco-maritime"
 description: ""
-date: "2026-03-05T15:56:45.666772"
+date: "2026-03-05T22:38:39.138467"
 draft: false
 sectors:
-  - gas
+  - construction
   - "renewable-energy"
   - oil
-  - construction
+  - gas
 regions:
   - denmark
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - english
 tags:
-  - corporate
-  - featured
   - environment
+  - featured
+  - corporate
 industries: []
 countries:
   - denmark
@@ -44,15 +44,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - orange
   - grey
   - black
-  - white
   - blue
+  - green
 typographies:
   - montserrat
 imagery_styles:

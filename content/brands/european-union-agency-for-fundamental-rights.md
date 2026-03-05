@@ -2,7 +2,7 @@
 title: European Union Agency for Fundamental Rights
 slug: "european-union-agency-for-fundamental-rights"
 description: ""
-date: "2026-03-05T15:56:45.798999"
+date: "2026-03-05T22:38:39.303057"
 draft: false
 sectors:
   - "public-sector"
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - vertical
   - horizontal
-  - icon
 brand_colors:
-  - blue
   - white
+  - blue
   - "pantone-109"
   - yellow
 typographies:
   - impact
-  - futura
   - "sans-serif"
+  - futura
 imagery_styles:
   - bold
   - professional

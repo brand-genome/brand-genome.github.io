@@ -2,7 +2,7 @@
 title: Voice of America
 slug: "voice-of-america"
 description: ""
-date: "2026-03-05T15:56:45.675331"
+date: "2026-03-05T22:38:39.164415"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - ambigram
   - media
-  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -42,11 +42,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - red
-  - gray
-  - black
   - white
+  - red
+  - black
   - blue
+  - gray
 typographies: []
 imagery_styles: []
 wikidata_description: United States international broadcaster

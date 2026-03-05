@@ -2,7 +2,7 @@
 title: "Wapo & Wapa"
 slug: "wapo-wapa"
 description: ""
-date: "2026-03-05T15:56:45.712787"
+date: "2026-03-05T22:38:39.202079"
 draft: false
 sectors:
   - software

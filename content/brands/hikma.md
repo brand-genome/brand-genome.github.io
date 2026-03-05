@@ -2,7 +2,7 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-03-05T15:56:45.972506"
+date: "2026-03-05T22:38:39.544964"
 draft: false
 sectors:
   - healthcare
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
   - white
+  - blue
   - coral
 typographies: []
 imagery_styles:

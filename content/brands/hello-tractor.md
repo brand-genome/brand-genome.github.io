@@ -2,11 +2,11 @@
 title: Hello Tractor
 slug: "hello-tractor"
 description: ""
-date: "2026-03-05T15:56:45.861843"
+date: "2026-03-05T22:38:39.376693"
 draft: false
 sectors:
-  - "agricultural-heavy-equipment"
   - software
+  - "agricultural-heavy-equipment"
 regions:
   - kenya
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - agriculture
   - industry
+  - agriculture
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,19 +40,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
   - blue
 typographies:
+  - avenir
   - serif
   - times
-  - avenir
 imagery_styles:
-  - graphic
   - bold
   - playful
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Handshake
 slug: handshake
 description: ""
-date: "2026-03-05T15:56:45.920976"
+date: "2026-03-05T22:38:39.488686"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2021
+  - 2019
 languages:
   - english
 tags:
-  - corporate
   - education
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,36 +40,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
-  - wordmark
-  - signature
-  - secondary
   - primary
   - icon
+  - secondary
+  - lockup
+  - horizontal
+  - signature
+  - wordmark
 brand_colors:
-  - pink
-  - indigo
-  - coral
-  - cyan
+  - white
   - "pantone-114"
+  - red
+  - black
+  - cyan
+  - indigo
+  - blue
+  - pink
   - "pantone-177"
   - gray
-  - blue
-  - black
-  - white
-  - red
+  - coral
   - "pantone-7443"
 typographies:
   - impact
   - display
 imagery_styles:
-  - modern
+  - bold
   - photography
   - vibrant
-  - clean
-  - bold
   - graphic
+  - modern
+  - clean
 wikidata_description: American employment company
 has_twitter: false
 has_guidelines: true

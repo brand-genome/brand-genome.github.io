@@ -2,7 +2,7 @@
 title: CALM
 slug: calm
 description: ""
-date: "2026-03-05T15:56:46.033886"
+date: "2026-03-05T22:38:39.602449"
 draft: false
 sectors:
   - ngo
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - pink
-  - magenta
-  - brown
-  - green
-  - yellow
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - magenta
+  - orange
+  - black
+  - yellow
+  - blue
+  - pink
+  - brown
+  - gray
+  - green
 typographies:
   - helvetica
 imagery_styles:
-  - vibrant
   - bold
+  - vibrant
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

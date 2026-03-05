@@ -2,7 +2,7 @@
 title: Mulino bianco
 slug: "mulino-bianco"
 description: ""
-date: "2026-03-05T15:56:45.767330"
+date: "2026-03-05T22:38:39.264830"
 draft: false
 sectors:
   - food

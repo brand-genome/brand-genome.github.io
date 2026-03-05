@@ -2,12 +2,12 @@
 title: Copernicus
 slug: copernicus
 description: ""
-date: "2026-03-05T15:56:46.015389"
+date: "2026-03-05T22:38:39.591030"
 draft: false
 sectors:
-  - "public-sector"
-  - satellite
   - research
+  - satellite
+  - "public-sector"
 regions:
   - europe
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - aeronautic
+  - institution
 industries: []
 countries:
   - germany
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

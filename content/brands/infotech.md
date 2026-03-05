@@ -2,7 +2,7 @@
 title: infotech
 slug: infotech
 description: ""
-date: "2026-03-05T15:56:45.721081"
+date: "2026-03-05T22:38:39.211507"
 draft: false
 sectors:
   - consulting

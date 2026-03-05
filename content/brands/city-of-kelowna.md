@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-03-05T15:56:46.119942"
+date: "2026-03-05T22:38:39.758013"
 draft: false
 sectors:
   - "public-sector"
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
   - horizontal
   - wordmark
   - stacked
-  - primary
-  - icon
 brand_colors:
-  - "pantone-200"
-  - "pantone-138"
-  - "pantone-284"
-  - "pantone-285"
-  - "pantone-166"
-  - "pantone-7408"
   - "pantone-390"
+  - "pantone-7408"
+  - "pantone-166"
+  - "pantone-200"
+  - "pantone-284"
+  - "pantone-138"
+  - "pantone-285"
 typographies: []
 imagery_styles:
   - dynamic

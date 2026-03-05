@@ -2,7 +2,7 @@
 title: RC Celta
 slug: "rc-celta"
 description: ""
-date: "2026-03-05T15:56:46.014317"
+date: "2026-03-05T22:38:39.589728"
 draft: false
 sectors:
   - sports
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - gotham
 imagery_styles:

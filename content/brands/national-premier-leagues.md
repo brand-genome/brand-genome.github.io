@@ -2,7 +2,7 @@
 title: National Premier Leagues
 slug: "national-premier-leagues"
 description: ""
-date: "2026-03-05T15:56:46.029139"
+date: "2026-03-05T22:38:39.596762"
 draft: false
 sectors:
   - sports
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
+  - horizontal
   - primary
   - vertical
-  - horizontal
+  - stacked
 brand_colors:
-  - "pantone-289"
-  - black
-  - "pantone-300"
   - white
   - "pantone-2995"
+  - black
+  - "pantone-289"
+  - "pantone-300"
 typographies:
   - gotham
 imagery_styles:
+  - bold
   - dynamic
   - flat
-  - bold
 wikidata_description: football league
 has_twitter: false
 has_guidelines: true

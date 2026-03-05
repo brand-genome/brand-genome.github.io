@@ -2,7 +2,7 @@
 title: Leaf Footwear
 slug: "leaf-footwear"
 description: ""
-date: "2026-03-05T15:56:45.739997"
+date: "2026-03-05T22:38:39.233819"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

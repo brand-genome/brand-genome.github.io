@@ -2,7 +2,7 @@
 title: Revolut
 slug: revolut
 description: ""
-date: "2026-03-05T15:56:45.704087"
+date: "2026-03-05T22:38:39.193786"
 draft: false
 sectors:
   - finance
@@ -39,29 +39,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - "pantone-7604"
-  - green
-  - "pantone-310"
-  - "pantone-699"
-  - orange
-  - "pantone-1495"
-  - black
-  - blue
   - red
   - "pantone-382"
+  - orange
   - "pantone-293"
+  - "pantone-310"
+  - black
+  - blue
+  - "pantone-7604"
+  - pink
+  - "pantone-1495"
+  - green
+  - "pantone-699"
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
-  - natural
   - bold
-  - graphic
   - photography
+  - natural
+  - graphic
 wikidata_description: financial technology company
 has_twitter: false
 has_guidelines: true

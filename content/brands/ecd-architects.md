@@ -2,7 +2,7 @@
 title: ECD Architects
 slug: "ecd-architects"
 description: ""
-date: "2026-03-05T15:56:45.835548"
+date: "2026-03-05T22:38:39.341145"
 draft: false
 sectors:
   - architecture
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - grey
   - white
+  - grey
   - green
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: "company in London, United Kingdom"
 has_twitter: false

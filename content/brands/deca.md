@@ -2,7 +2,7 @@
 title: Deca
 slug: deca
 description: ""
-date: "2026-03-05T15:56:46.053729"
+date: "2026-03-05T22:38:39.646307"
 draft: false
 sectors:
   - education
@@ -40,17 +40,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - gold
-  - silver
-  - black
   - white
+  - gold
+  - black
   - blue
+  - silver
 typographies:
-  - "source-sans"
   - gotham
+  - "source-sans"
 imagery_styles:
   - bold
 wikidata_description: French cycling team

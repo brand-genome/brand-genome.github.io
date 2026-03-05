@@ -2,7 +2,7 @@
 title: Shazam
 slug: shazam
 description: ""
-date: "2026-03-05T15:56:46.062941"
+date: "2026-03-05T22:38:39.667234"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - internet
-  - music
   - app
+  - music
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - secondary
   - primary
+  - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:
-  - product
   - bold
+  - product
   - graphic
 wikidata_description: music application
 has_twitter: false

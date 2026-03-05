@@ -2,7 +2,7 @@
 title: Né Nepal
 slug: "ne-nepal"
 description: ""
-date: "2026-03-05T15:56:45.698941"
+date: "2026-03-05T22:38:39.190580"
 draft: false
 sectors:
   - "consumer-goods"

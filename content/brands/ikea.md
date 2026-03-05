@@ -2,7 +2,7 @@
 title: Ikea
 slug: ikea
 description: ""
-date: "2026-03-05T15:56:45.711040"
+date: "2026-03-05T22:38:39.200245"
 draft: false
 sectors:
   - "consumer-goods"
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries:
   - "industrial-manufacturing"
-  - design
   - retail
+  - design
 countries: []
 revenue_buckets: []
 operating_income_buckets: []

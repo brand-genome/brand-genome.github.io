@@ -2,11 +2,11 @@
 title: Mvix
 slug: mvix
 description: ""
-date: "2026-03-05T15:56:46.026552"
+date: "2026-03-05T22:38:39.594177"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - favicon
+  - primary
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Mérida
 slug: merida
 description: ""
-date: "2026-03-05T15:56:45.983118"
+date: "2026-03-05T22:38:39.558852"
 draft: false
 sectors:
   - "public-sector"
@@ -39,18 +39,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - red
-  - black
   - crimson
+  - black
 typographies:
+  - slab
+  - "sans-serif"
   - serif
   - lato
-  - slab
   - roboto
-  - "sans-serif"
 imagery_styles:
   - photography
 wikidata_description: ""

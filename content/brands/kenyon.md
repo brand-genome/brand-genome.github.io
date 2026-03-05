@@ -2,11 +2,11 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-03-05T15:56:45.791046"
+date: "2026-03-05T22:38:39.292772"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,24 +40,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
+  - blue
   - green
   - purple
-  - white
-  - blue
 typographies:
   - serif
   - monospace
-  - helvetica
   - georgia
+  - helvetica
   - display
 imagery_styles:
   - photography
-  - graphic
   - duotone
+  - graphic
 wikidata_description: "private liberal arts college in Gambier, Ohio, United States"
 has_twitter: false
 has_guidelines: true

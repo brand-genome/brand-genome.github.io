@@ -2,7 +2,7 @@
 title: "Gares & Connexions SNCF"
 slug: "gares-connexions-sncf"
 description: ""
-date: "2026-03-05T15:56:45.833822"
+date: "2026-03-05T22:38:39.339326"
 draft: false
 sectors:
   - "public-transportation"

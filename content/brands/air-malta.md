@@ -2,7 +2,7 @@
 title: Air Malta
 slug: "air-malta"
 description: ""
-date: "2026-03-05T15:56:45.924445"
+date: "2026-03-05T22:38:39.494286"
 draft: false
 sectors:
   - airline
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
   - red
 typographies:
-  - arial
   - script
+  - arial
 imagery_styles:
-  - photography
-  - vibrant
   - modern
+  - photography
   - natural
+  - vibrant
 wikidata_description: defunct Maltese airline
 has_twitter: false
 has_guidelines: true

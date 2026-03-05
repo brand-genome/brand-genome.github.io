@@ -2,7 +2,7 @@
 title: Kitamoto City
 slug: "kitamoto-city"
 description: ""
-date: "2026-03-05T15:56:45.781218"
+date: "2026-03-05T22:38:39.279658"
 draft: false
 sectors:
   - "public-sector"

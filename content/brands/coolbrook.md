@@ -2,7 +2,7 @@
 title: Coolbrook
 slug: coolbrook
 description: ""
-date: "2026-03-05T15:56:45.790209"
+date: "2026-03-05T22:38:39.292190"
 draft: false
 sectors:
   - "renewable-energy"

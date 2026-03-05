@@ -2,7 +2,7 @@
 title: BASF
 slug: basf
 description: ""
-date: "2026-03-05T15:56:46.159643"
+date: "2026-03-05T22:38:39.799775"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -15,8 +15,8 @@ languages:
 tags:
   - chemical
 industries:
-  - "chemical-industry"
   - "extraction-of-petroleum"
+  - "chemical-industry"
   - "plant-protection"
 countries:
   - germany

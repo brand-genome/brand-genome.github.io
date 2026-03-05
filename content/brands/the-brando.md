@@ -2,7 +2,7 @@
 title: The Brando
 slug: "the-brando"
 description: ""
-date: "2026-03-05T15:56:46.080581"
+date: "2026-03-05T22:38:39.700453"
 draft: false
 sectors:
   - tourism
@@ -38,35 +38,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - secondary
-  - vertical
   - primary
   - icon
+  - secondary
+  - horizontal
+  - wordmark
+  - vertical
 brand_colors:
-  - green
-  - "pantone-647"
+  - white
+  - red
   - "pantone-1675"
-  - "pantone-467"
-  - "pantone-7473"
-  - "pantone-576"
+  - "pantone-165"
   - orange
   - blue
-  - white
-  - "pantone-165"
-  - red
+  - "pantone-576"
+  - "pantone-647"
+  - green
+  - "pantone-467"
+  - "pantone-7473"
 typographies:
   - serif
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
+  - bold
   - photography
-  - macro
-  - natural
   - geometric
   - subtle
-  - bold
+  - macro
+  - natural
 wikidata_description: online News TV show
 has_twitter: false
 has_guidelines: true

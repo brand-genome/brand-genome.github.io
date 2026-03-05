@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-03-05T15:56:46.181939"
+date: "2026-03-05T22:38:39.824990"
 draft: false
 sectors:
   - university
@@ -40,28 +40,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - seal
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-5425"
-  - "pantone-158"
+  - "pantone-7711"
+  - "pantone-390"
   - black
   - "pantone-485"
-  - "pantone-7711"
   - "pantone-424"
-  - "pantone-390"
+  - "pantone-5425"
+  - "pantone-158"
 typographies:
-  - "source-sans"
-  - serif
-  - times
   - impact
-  - gotham
+  - serif
   - "sans-serif"
+  - times
+  - gotham
+  - "source-sans"
 imagery_styles:
-  - professional
-  - modern
   - bold
+  - modern
+  - professional
 wikidata_description: "private research university in Troy, New York"
 has_twitter: false
 has_guidelines: true

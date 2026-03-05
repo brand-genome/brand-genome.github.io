@@ -2,7 +2,7 @@
 title: Seton Hall University
 slug: "seton-hall-university"
 description: ""
-date: "2026-03-05T15:56:46.158885"
+date: "2026-03-05T22:38:39.798984"
 draft: false
 sectors:
   - university
@@ -40,21 +40,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - crest
 brand_colors:
+  - white
+  - blue
   - silver
   - gray
   - "pantone-286"
-  - white
-  - blue
 typographies:
   - garamond
 imagery_styles:
-  - professional
   - bold
   - photography
+  - professional
 wikidata_description: "private Roman Catholic university in South Orange, New Jersey"
 has_twitter: false
 has_guidelines: true

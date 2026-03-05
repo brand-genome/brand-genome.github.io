@@ -2,7 +2,7 @@
 title: NJIT
 slug: njit
 description: ""
-date: "2026-03-05T15:56:46.125082"
+date: "2026-03-05T22:38:39.764592"
 draft: false
 sectors:
   - university
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - alternate
+  - signature
 brand_colors:
   - red
 typographies: []

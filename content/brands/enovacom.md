@@ -2,7 +2,7 @@
 title: Enovacom
 slug: enovacom
 description: ""
-date: "2026-03-05T15:56:46.166282"
+date: "2026-03-05T22:38:39.807140"
 draft: false
 sectors:
   - healthcare
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
-  - corporate
   - ambigram
   - software
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

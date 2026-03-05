@@ -2,7 +2,7 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-03-05T15:56:46.031748"
+date: "2026-03-05T22:38:39.600119"
 draft: false
 sectors:
   - finance
@@ -41,11 +41,11 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - red
-  - "pantone-485"
   - white
-  - blue
+  - red
   - "pantone-293"
+  - "pantone-485"
+  - blue
 typographies:
   - impact
   - display

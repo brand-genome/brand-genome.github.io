@@ -2,11 +2,11 @@
 title: Elrha
 slug: elrha
 description: ""
-date: "2026-03-05T15:56:45.793771"
+date: "2026-03-05T22:38:39.296950"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - "united-kingdom"
 years:

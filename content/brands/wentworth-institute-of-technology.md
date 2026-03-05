@@ -2,11 +2,11 @@
 title: Wentworth Institute of Technology
 slug: "wentworth-institute-of-technology"
 description: ""
-date: "2026-03-05T15:56:45.728274"
+date: "2026-03-05T22:38:39.219430"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

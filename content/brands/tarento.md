@@ -2,7 +2,7 @@
 title: Tarento
 slug: tarento
 description: ""
-date: "2026-03-05T15:56:45.970532"
+date: "2026-03-05T22:38:39.538150"
 draft: false
 sectors:
   - consulting
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - grey
   - navy

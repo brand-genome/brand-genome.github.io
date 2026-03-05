@@ -2,7 +2,7 @@
 title: Brandwerk Leipzig
 slug: "brandwerk-leipzig"
 description: ""
-date: "2026-03-05T15:56:45.788546"
+date: "2026-03-05T22:38:39.290390"
 draft: false
 sectors:
   - drink
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - product

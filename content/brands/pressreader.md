@@ -2,21 +2,21 @@
 title: Pressreader
 slug: pressreader
 description: ""
-date: "2026-03-05T15:56:46.109604"
+date: "2026-03-05T22:38:39.743762"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
   - "software-industry"
   - journalism
@@ -43,21 +43,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - "app-icon"
-  - stacked
   - primary
+  - "app-icon"
   - icon
+  - wordmark
+  - stacked
 brand_colors:
+  - green
   - black
   - gray
-  - green
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
-  - vibrant
   - modern
+  - monochrome
+  - vibrant
 wikidata_description: digital newspaper distribution and technology company based in Canada
 has_twitter: false
 has_guidelines: true

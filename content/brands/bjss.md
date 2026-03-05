@@ -2,7 +2,7 @@
 title: BJSS
 slug: bjss
 description: ""
-date: "2026-03-05T15:56:45.911347"
+date: "2026-03-05T22:38:39.471893"
 draft: false
 sectors:
   - consulting
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - abstract
+  - primary
 brand_colors:
-  - pink
-  - green
-  - purple
-  - orange
-  - teal
-  - black
-  - navy
-  - blue
   - white
   - red
+  - teal
+  - orange
+  - black
+  - blue
+  - pink
+  - navy
+  - green
+  - purple
 typographies:
   - times
 imagery_styles:
-  - monochrome
-  - modern
+  - bold
   - photography
+  - monochrome
   - abstract
   - gradient
+  - modern
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

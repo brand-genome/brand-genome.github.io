@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-03-05T15:56:45.720641"
+date: "2026-03-05T22:38:39.210978"
 draft: false
 sectors:
   - airline
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
   - aeronautic
+  - transport
 industries: []
 countries:
   - iceland
@@ -41,8 +41,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
   - impact

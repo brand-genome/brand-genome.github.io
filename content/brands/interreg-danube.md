@@ -2,7 +2,7 @@
 title: Interreg Danube
 slug: "interreg-danube"
 description: ""
-date: "2026-03-05T15:56:46.120914"
+date: "2026-03-05T22:38:39.759180"
 draft: false
 sectors:
   - "public-sector"

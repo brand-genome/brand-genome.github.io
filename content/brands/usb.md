@@ -2,11 +2,11 @@
 title: USB
 slug: usb
 description: ""
-date: "2026-03-05T15:56:45.815083"
+date: "2026-03-05T22:38:39.321334"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - international
 years:
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - blue
+  - red
   - black
   - gray
-  - red
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Caracas, Venezuela"

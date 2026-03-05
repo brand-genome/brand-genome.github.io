@@ -2,7 +2,7 @@
 title: Gothenburg
 slug: gothenburg
 description: ""
-date: "2026-03-05T15:56:45.953507"
+date: "2026-03-05T22:38:39.520255"
 draft: false
 sectors:
   - tourism
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-7405"
-  - "pantone-302"
-  - "pantone-376"
-  - black
   - white
   - "pantone-7472"
+  - "pantone-376"
+  - "pantone-7405"
+  - "pantone-302"
+  - black
   - blue
 typographies:
-  - din
-  - arial
   - georgia
+  - arial
+  - din
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - modern
   - graphic
 wikidata_description: "second-largest city in Sweden and capital of the Västra Götaland County"

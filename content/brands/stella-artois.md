@@ -2,7 +2,7 @@
 title: Stella Artois
 slug: "stella-artois"
 description: ""
-date: "2026-03-05T15:56:45.760591"
+date: "2026-03-05T22:38:39.257255"
 draft: false
 sectors:
   - brewery

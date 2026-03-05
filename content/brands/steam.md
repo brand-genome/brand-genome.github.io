@@ -2,11 +2,11 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-03-05T15:56:45.677041"
+date: "2026-03-05T22:38:39.170105"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - usa
 years:
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - product

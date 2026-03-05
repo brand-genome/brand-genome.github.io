@@ -2,7 +2,7 @@
 title: Sephora
 slug: sephora
 description: ""
-date: "2026-03-05T15:56:46.188236"
+date: "2026-03-05T22:38:39.842928"
 draft: false
 sectors:
   - beauty
@@ -21,296 +21,219 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - yellow
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - yellow
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - red
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
+  - selfie
+  - commercial
   - "social-awareness"
-  - "still-life"
+  - landscape
+  - botanical
+  - promotional
+  - food
+  - product
+  - text
+  - interior
+  - illustration
+  - abstract
+  - advertising
+  - architectural
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - typography
-  - botanical
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - landscape
-  - text
-  - portrait
-  - advertisement
-  - product
-  - "text-heavy"
-  - architectural
   - documentary
-  - abstract
-  - illustration
-  - advertising
-concepts:
-  - "awareness-campaign"
+  - fashion
+  - advertisement
+  - sky
+  - "text-heavy"
   - typography
-  - branding
-  - makeup
-  - "incomplete-art"
-  - "beauty-products"
-  - photorealism
-  - vintage
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+concepts:
+  - "beauty-product"
+  - "awareness-campaign"
+  - "before-and-after"
   - colorful
+  - "wave-pattern"
+  - illustration
+  - vintage
+  - makeup
+  - "social-message"
+  - textured
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - "beauty-products"
+  - typography
   - "graphic-design"
   - "product-photography"
-  - advertisement
-  - cartoon
-  - "text-heavy"
-  - "social-message"
-  - "wave-pattern"
-  - "before-and-after"
-  - illustration
-  - textured
-  - "beauty-product"
+  - "incomplete-art"
+  - branding
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "text-overlay"
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
+  - symmetrical
+  - "long-exposure"
+  - "text-overlay"
+  - "short-exposure"
+  - "vanishing-point"
   - "social-media-post"
   - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
 dominant_colors:
-  - pink
-  - cyan
-  - orange
-  - lilac
-  - black
   - white
-  - "dark-brown"
   - red
+  - lilac
+  - orange
+  - cyan
+  - black
+  - "dark-brown"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
   - "pulled-back"
+  - neat
   - wavy
-  - t
-  - i
-  - black
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - black
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - n
-  - focused
-  - i
-  - content
-  - p
-  - l
-  - a
-  - e
-  - contemplative
   - joyful
-  - unknown
-  - c
+  - engaged
   - relaxed
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - n
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - focused
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - t
-  - "close-up"
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

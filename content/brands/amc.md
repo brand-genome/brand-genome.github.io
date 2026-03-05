@@ -2,7 +2,7 @@
 title: Amc
 slug: amc
 description: ""
-date: "2026-03-05T15:56:46.233492"
+date: "2026-03-05T22:38:40.000024"
 draft: false
 sectors:
   - entertainment
@@ -19,261 +19,261 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
   - "low-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
-  - "aquatic-colors"
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - "aquatic-colors"
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - social
-  - sky
-  - "still-life"
+  - superhero
+  - selfie
+  - commercial
+  - animation
+  - landscape
+  - botanical
+  - promotional
+  - food
+  - product
+  - "character-study"
+  - "digital-art"
+  - illustration
+  - abstract
+  - interior
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - "event-promotion"
-  - typography
-  - candid
-  - botanical
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - corporate
-  - event
-  - family
-  - "digital-art"
-  - superhero
-  - poster
-  - "character-study"
-  - portrait
   - advertisement
-  - product
+  - fashion
+  - sky
+  - event
   - cartoon
-  - sports
-  - "text-heavy"
-  - architectural
   - underwater
-  - abstract
-  - illustration
-  - animation
+  - "text-heavy"
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - poster
+  - "still-life"
   - horror
-  - action
-  - advertising
+  - social
 concepts:
+  - advertisement
   - "live-performance"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - typography
   - music
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - symmetric
-  - "dark-focal-point"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
   - symmetrical
-  - "high-contrast"
-  - "light-glare"
-  - "low-saturation"
-  - "text-heavy"
+  - symmetric
+  - silhouette
+  - "dark-focal-point"
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - "dark-green"
-  - black
   - white
+  - red
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - pink
-  - bald
-  - black
-  - "buzz-cut"
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - shocked
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - uniform
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - workwear
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - dark
-  - earthy
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - uniform
+clothing_colors:
+  - vibrant
   - muted
+  - neutral
+  - monochrome
+  - earthy
   - colorful
   - blue
-  - vibrant
+  - dark
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - hugging
-  - focused
-  - walking
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
-  - surprised
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
-  - away
+  - active
+  - holding
+  - standing
+  - running
   - focused
+  - hugging
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - surprised
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - focused
   - active
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

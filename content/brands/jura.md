@@ -2,7 +2,7 @@
 title: Jura
 slug: jura
 description: ""
-date: "2026-03-05T15:56:45.992371"
+date: "2026-03-05T22:38:39.567793"
 draft: false
 sectors:
   - "public-sector"
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "open-sans"
   - times
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: French department
 has_twitter: false
 has_guidelines: true

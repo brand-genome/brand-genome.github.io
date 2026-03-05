@@ -2,11 +2,11 @@
 title: Be The Business
 slug: "be-the-business"
 description: ""
-date: "2026-03-05T15:56:45.880063"
+date: "2026-03-05T22:38:39.390076"
 draft: false
 sectors:
-  - consulting
   - ngo
+  - consulting
 regions:
   - "united-kingdom"
 years:

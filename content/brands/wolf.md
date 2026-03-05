@@ -2,7 +2,7 @@
 title: Wolf
 slug: wolf
 description: ""
-date: "2026-03-05T15:56:45.835740"
+date: "2026-03-05T22:38:39.341388"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies:
   - gotham
 imagery_styles:
+  - bold
   - photography
   - product
-  - clean
-  - bold
   - graphic
+  - clean
 wikidata_description: "food court in Brussels, Belgium"
 has_twitter: false
 has_guidelines: true

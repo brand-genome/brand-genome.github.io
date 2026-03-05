@@ -2,7 +2,7 @@
 title: The North Face
 slug: "the-north-face"
 description: ""
-date: "2026-03-05T15:56:46.058803"
+date: "2026-03-05T22:38:39.655500"
 draft: false
 sectors:
   - fashion
@@ -17,8 +17,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - sport
+  - corporate
 industries:
   - "clothing-industry"
   - retail
@@ -52,10 +52,10 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
+  - illustration
+  - clean
   - landscape
   - bold
-  - clean
-  - illustration
 wikidata_description: American company featuring outdoor apparel and sportswear
 has_twitter: false
 has_guidelines: true

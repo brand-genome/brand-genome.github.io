@@ -2,7 +2,7 @@
 title: The Indian Express
 slug: "the-indian-express"
 description: ""
-date: "2026-03-05T15:56:45.962064"
+date: "2026-03-05T22:38:39.529421"
 draft: false
 sectors:
   - broadcasting
@@ -40,22 +40,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - beige
+  - white
+  - red
   - grey
   - black
   - blue
-  - white
-  - red
+  - beige
 typographies:
-  - serif
   - roboto
+  - serif
 imagery_styles:
   - bold
-  - photography
   - modern
+  - photography
   - natural
 wikidata_description: daily broadsheet newspaper in India
 has_twitter: false

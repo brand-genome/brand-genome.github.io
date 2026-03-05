@@ -2,12 +2,12 @@
 title: NIHR
 slug: nihr
 description: ""
-date: "2026-03-05T15:56:46.109737"
+date: "2026-03-05T22:38:39.743914"
 draft: false
 sectors:
-  - "public-sector"
-  - healthcare
   - research
+  - healthcare
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:

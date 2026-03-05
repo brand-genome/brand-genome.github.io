@@ -2,17 +2,17 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-03-05T15:56:45.656382"
+date: "2026-03-05T22:38:39.123880"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
-  - 2025
-  - 2024
   - 2019
+  - 2024
+  - 2025
 languages:
   - english
 tags:
@@ -49,9 +49,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "Estonian company in field of peer-to-peer ridesharing and food delivery"

@@ -2,7 +2,7 @@
 title: Paab
 slug: paab
 description: ""
-date: "2026-03-05T15:56:45.890210"
+date: "2026-03-05T22:38:39.409800"
 draft: false
 sectors:
   - ngo
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-380"
-  - "pantone-7621"
-  - green
+  - white
+  - "pantone-325"
+  - "pantone-7683"
   - "pantone-185"
   - "pantone-2755"
-  - "pantone-325"
   - black
-  - navy
+  - "pantone-7621"
   - "pantone-1815"
-  - white
-  - "pantone-7683"
   - blue
+  - "pantone-380"
+  - navy
+  - green
 typographies: []
 imagery_styles:
   - photography

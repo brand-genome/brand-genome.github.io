@@ -2,11 +2,11 @@
 title: GreenPower
 slug: greenpower
 description: ""
-date: "2026-03-05T15:56:45.880820"
+date: "2026-03-05T22:38:39.390913"
 draft: false
 sectors:
-  - "public-sector"
   - "renewable-energy"
+  - "public-sector"
 regions:
   - australia
 years:
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - badge
+  - secondary
 brand_colors:
-  - green
-  - black
   - white
   - "pantone-2965"
+  - black
   - blue
+  - green
   - "pantone-7482"
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: Canadian electric bus manufactuer
 has_twitter: false
 has_guidelines: true

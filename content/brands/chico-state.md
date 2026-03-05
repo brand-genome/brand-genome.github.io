@@ -2,11 +2,11 @@
 title: Chico State
 slug: "chico-state"
 description: ""
-date: "2026-03-05T15:56:45.809181"
+date: "2026-03-05T22:38:39.315207"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -42,18 +42,18 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - serif
-  - gotham
   - impact
+  - serif
   - "sans-serif"
   - verdana
+  - gotham
   - georgia
 imagery_styles:
-  - professional
+  - bold
   - photography
   - dynamic
   - geometric
-  - bold
+  - professional
 wikidata_description: "university in California, United States"
 has_twitter: false
 has_guidelines: true

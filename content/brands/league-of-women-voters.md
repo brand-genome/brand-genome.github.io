@@ -2,7 +2,7 @@
 title: League of Women Voters
 slug: "league-of-women-voters"
 description: ""
-date: "2026-03-05T15:56:45.854208"
+date: "2026-03-05T22:38:39.368048"
 draft: false
 sectors:
   - ngo
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
   - gold
-  - purple
-  - white
   - blue
+  - purple
 typographies:
-  - serif
-  - times
   - impact
-  - merriweather
+  - serif
   - lato
+  - times
+  - merriweather
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: "non-profit, non-partisan advocacy group"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Virtus
 slug: virtus
 description: ""
-date: "2026-03-05T15:56:45.823608"
+date: "2026-03-05T22:38:39.330373"
 draft: false
 sectors:
   - ngo
@@ -41,19 +41,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - cyan
-  - purple
-  - yellow
-  - orange
-  - blue
   - white
   - red
+  - orange
+  - cyan
+  - yellow
+  - blue
+  - purple
 typographies:
   - "open-sans"
   - gotham
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "Italian League professional basketball club, based in Bologna."
 has_twitter: false
 has_guidelines: true

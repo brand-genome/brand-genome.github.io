@@ -2,7 +2,7 @@
 title: Alfa Bank
 slug: "alfa-bank"
 description: ""
-date: "2026-03-05T15:56:45.919682"
+date: "2026-03-05T22:38:39.487354"
 draft: false
 sectors:
   - finance

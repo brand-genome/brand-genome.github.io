@@ -2,7 +2,7 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-03-05T15:56:46.162954"
+date: "2026-03-05T22:38:39.803936"
 draft: false
 sectors:
   - automobile
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
   - transport
+  - corporate
 industries:
-  - "automotive-industry"
   - "battery-industry"
+  - "automotive-industry"
   - "solar-industry"
 countries:
   - "united-states"
@@ -49,8 +49,8 @@ body_sections: []
 logo_elements:
   - wordmark
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
   - red
   - black

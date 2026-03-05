@@ -2,16 +2,16 @@
 title: Cylance
 slug: cylance
 description: ""
-date: "2026-03-05T15:56:45.945172"
+date: "2026-03-05T22:38:39.513808"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - "pantone-376"
-  - gray
-  - black
   - white
+  - "pantone-376"
+  - black
+  - gray
+  - green
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - photography
-  - natural
-  - clean
-  - candid
   - bold
+  - photography
   - graphic
+  - candid
+  - clean
+  - natural
 wikidata_description: American software firm
 has_twitter: false
 has_guidelines: true

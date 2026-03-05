@@ -2,7 +2,7 @@
 title: Turksat Kablo
 slug: "turksat-kablo"
 description: ""
-date: "2026-03-05T15:56:46.015231"
+date: "2026-03-05T22:38:39.590925"
 draft: false
 sectors:
   - broadcasting
@@ -41,10 +41,10 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-16"
-  - gray
-  - blue
-  - "pantone-19"
   - "pantone-18"
+  - "pantone-19"
+  - blue
+  - gray
 typographies: []
 imagery_styles: []
 wikidata_description: organization

@@ -2,7 +2,7 @@
 title: Heineken
 slug: heineken
 description: ""
-date: "2026-03-05T15:56:45.897569"
+date: "2026-03-05T22:38:39.420394"
 draft: false
 sectors:
   - brewery
@@ -27,311 +27,234 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "galaxy-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
   - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
   - "sunset-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - indoor
+  - audience
+  - selfie
+  - landscape
+  - promotional
+  - product
+  - interior
+  - "audience-perspective"
+  - architecture
+  - advertising
+  - architectural
+  - sports
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - branding
-  - candid
-  - "event-photography"
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - crowd
-  - landscape
-  - music
-  - event
-  - indoor
   - "music-event"
-  - portrait
-  - advertisement
-  - architecture
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
   - documentary
-  - "audience-perspective"
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "live-event"
-  - performance
-  - promotional
+  - event
+  - fashion
   - advertisement
-  - "audience-perspective"
-  - "graphic-design"
-  - typography
-  - action
+  - sky
   - "text-heavy"
+  - music
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
   - branding
+  - "event-photography"
+  - "still-life"
+  - crowd
+concepts:
+  - advertisement
+  - branding
+  - "live-event"
+  - "wave-pattern"
+  - "text-heavy"
+  - illustration
+  - "live-stage"
+  - vintage
+  - "audience-perspective"
+  - typography
+  - "graphic-design"
   - advertising
+  - performance
+  - action
+  - promotional
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "saturated-colors"
+  - "low-saturation"
+  - symmetric
   - silhouette
+  - "saturated-colors"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "low-exposure"
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - symmetric
-  - asymmetry
-  - symmetrical
   - saturated
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
 dominant_colors:
+  - white
   - "mud-green"
   - emerald
-  - "dark-blue"
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - "buzz-cut"
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - up
+  - "buzz-cut"
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
   - wordmark
 brand_colors:
-  - green
+  - white
+  - red
   - "pantone-347"
   - grey
   - "pantone-485"
-  - white
-  - red
+  - green
 typographies: []
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: Dutch beer company
 has_twitter: true
 has_guidelines: true

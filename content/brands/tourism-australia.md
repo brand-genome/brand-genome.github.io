@@ -2,7 +2,7 @@
 title: Tourism Australia
 slug: "tourism-australia"
 description: ""
-date: "2026-03-05T15:56:46.164066"
+date: "2026-03-05T22:38:39.805281"
 draft: false
 sectors:
   - "public-sector"
@@ -43,8 +43,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: Australian Government tourism agency
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Commonwealth Games Federation
 slug: "commonwealth-games-federation"
 description: ""
-date: "2026-03-05T15:56:45.912267"
+date: "2026-03-05T22:38:39.473083"
 draft: false
 sectors:
   - ngo
@@ -40,23 +40,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
 typographies:
   - impact
-  - display
   - arial
   - helvetica
+  - display
 imagery_styles:
   - bold
-  - portrait
   - photography
+  - portrait
 wikidata_description: international organization responsible for the Commonwealth Games and Commonwealth Youth Games
 has_twitter: false
 has_guidelines: true

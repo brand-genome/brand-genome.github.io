@@ -2,7 +2,7 @@
 title: Adidas
 slug: adidas
 description: ""
-date: "2026-03-05T15:56:46.205537"
+date: "2026-03-05T22:38:39.931327"
 draft: false
 sectors:
   - fashion
@@ -14,8 +14,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "textile-industry"
   - "sports-industry"
+  - "textile-industry"
 countries:
   - germany
 revenue_buckets:
@@ -26,226 +26,226 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
   - "text-heavy"
   - bright
-  - "red-and-white"
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - "red-and-white"
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - environmental
-  - interior
-  - typography
-  - branding
-  - cityscape
-  - staged
-  - beauty
-  - "graphic-design"
-  - street
   - landscape
-  - fitness
-  - logo
-  - portrait
-  - advertisement
+  - environmental
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - athletic
-  - architectural
-  - documentary
   - abstract
   - illustration
-  - action
+  - interior
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - product
+  - architectural
   - sports
+  - fitness
+  - action
+  - "live-stage"
+  - documentary
+  - group
+  - logo
+  - fashion
+  - advertisement
+  - athletic
+  - sky
+  - cityscape
+  - "text-heavy"
+  - cartoon
   - typography
-  - "product-photography"
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "still-life"
+concepts:
+  - product
+  - logo
+  - advertisement
   - "sports-equipment"
   - branding
-  - logo
+  - "live-performance"
+  - "text-heavy"
   - cartoon
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "product-photography"
+  - sports
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - gray
+  - white
   - "off-white"
   - orange
-  - black
   - "dark-green"
-  - white
+  - black
+  - cyan
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - "pulled-back"
-  - wavy
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
-  - black
+  - "pulled-back"
   - bald
+  - neat
+  - wavy
+  - loose
+  - black
+  - ponytail
+  - braided
   - traditional
   - short
+  - curly
   - updo
+  - long
   - "tied-back"
-  - neat
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - elated
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - happy
-  - emotional
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - active
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - bright
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - leaning
-  - confident
-  - seated
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
+  - emotional
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - elated
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - active
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - bright
+  - pastel
+posings:
+  - seated
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

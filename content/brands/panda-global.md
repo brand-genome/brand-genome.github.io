@@ -2,11 +2,11 @@
 title: Panda Global
 slug: "panda-global"
 description: ""
-date: "2026-03-05T15:56:45.845040"
+date: "2026-03-05T22:38:39.356971"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - usa
 years:

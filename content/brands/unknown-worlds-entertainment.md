@@ -2,11 +2,11 @@
 title: Unknown Worlds Entertainment
 slug: "unknown-worlds-entertainment"
 description: ""
-date: "2026-03-05T15:56:45.676388"
+date: "2026-03-05T22:38:39.168396"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - usa
 years:
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - alternate
-  - icon
-  - horizontal
-  - stacked
   - primary
-  - vertical
+  - icon
+  - alternate
+  - lockup
+  - horizontal
   - favicon
+  - stacked
+  - vertical
 brand_colors:
-  - green
-  - purple
-  - orange
-  - teal
-  - black
-  - blue
   - white
   - red
+  - teal
+  - orange
+  - black
+  - blue
+  - green
+  - purple
 typographies: []
 imagery_styles:
   - bold

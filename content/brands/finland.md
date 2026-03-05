@@ -2,7 +2,7 @@
 title: Finland
 slug: finland
 description: ""
-date: "2026-03-05T15:56:45.634430"
+date: "2026-03-05T22:38:39.096373"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - finland

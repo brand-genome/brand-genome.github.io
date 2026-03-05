@@ -2,11 +2,11 @@
 title: Emergency Nurses Association
 slug: "emergency-nurses-association"
 description: ""
-date: "2026-03-05T15:56:45.897336"
+date: "2026-03-05T22:38:39.420119"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -39,33 +39,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - 2d68c4
   - ee2737
-  - ffc72c
-  - 53565a
-  - ff6a13
-  - purple
-  - gray
   - 00a5bd
-  - 590072
+  - 53565a
   - black
+  - 2d68c4
+  - 590072
+  - ffc72c
+  - ff6a13
+  - gray
   - 84bd00
+  - purple
 typographies:
-  - arial
-  - serif
-  - garamond
-  - "sans-serif"
   - nunito
+  - serif
+  - "sans-serif"
+  - garamond
+  - arial
 imagery_styles:
-  - professional
+  - bold
   - photography
   - dynamic
+  - professional
   - clean
-  - bold
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

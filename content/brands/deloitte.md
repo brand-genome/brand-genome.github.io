@@ -2,7 +2,7 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-03-05T15:56:46.012936"
+date: "2026-03-05T22:38:39.586288"
 draft: false
 sectors:
   - consulting
@@ -42,18 +42,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
-  - verdana
-  - "open-sans"
-  - times
   - impact
+  - "open-sans"
+  - verdana
+  - times
 imagery_styles:
   - bold
 wikidata_description: multinational professional services network founded in 1845

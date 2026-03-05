@@ -2,7 +2,7 @@
 title: Thomas Cook
 slug: "thomas-cook"
 description: ""
-date: "2026-03-05T15:56:46.084184"
+date: "2026-03-05T22:38:39.704816"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "tourism-industry"
   - "hospitality-industry"
+  - "tourism-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -42,9 +42,9 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - magenta
   - grey
   - yellow
-  - magenta
 typographies:
   - inter
 imagery_styles:

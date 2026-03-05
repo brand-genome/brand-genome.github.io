@@ -2,16 +2,16 @@
 title: Garmin
 slug: garmin
 description: ""
-date: "2026-03-05T15:56:45.800062"
+date: "2026-03-05T22:38:39.304297"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
-  - 2006
   - 2012
+  - 2006
 languages:
   - english
 tags:
@@ -41,16 +41,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - magenta
-  - cyan
-  - green
-  - blue
-  - black
   - white
   - red
+  - magenta
+  - black
+  - cyan
+  - blue
+  - green
 typographies:
   - impact
 imagery_styles:

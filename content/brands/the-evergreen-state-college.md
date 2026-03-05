@@ -2,11 +2,11 @@
 title: The Evergreen State College
 slug: "the-evergreen-state-college"
 description: ""
-date: "2026-03-05T15:56:45.795817"
+date: "2026-03-05T22:38:39.299799"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
-  - georgia
-  - arial
   - avenir
+  - arial
+  - georgia
 imagery_styles:
-  - photography
   - bold
-  - graphic
+  - photography
   - natural
+  - graphic
 wikidata_description: public liberal arts college in Washington State
 has_twitter: false
 has_guidelines: true

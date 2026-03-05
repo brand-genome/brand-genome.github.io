@@ -2,7 +2,7 @@
 title: Republik Österreich
 slug: "republik-osterreich"
 description: ""
-date: "2026-03-05T15:56:45.834193"
+date: "2026-03-05T22:38:39.339724"
 draft: false
 sectors:
   - "public-sector"

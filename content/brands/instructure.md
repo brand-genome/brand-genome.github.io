@@ -2,7 +2,7 @@
 title: Instructure
 slug: instructure
 description: ""
-date: "2026-03-05T15:56:45.895506"
+date: "2026-03-05T22:38:39.418411"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - education
   - technology
+  - corporate
 industries:
   - "software-industry"
   - "educational-technology"
@@ -43,23 +43,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
+  - white
   - red
   - orange
   - black
-  - white
   - blue
 typographies:
   - serif
-  - arial
   - "proxima-nova"
+  - arial
 imagery_styles:
-  - gradient
   - bold
   - photography
+  - gradient
 wikidata_description: American technology company
 has_twitter: false
 has_guidelines: true

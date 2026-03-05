@@ -2,7 +2,7 @@
 title: The American Alpine Club
 slug: "the-american-alpine-club"
 description: ""
-date: "2026-03-05T15:56:45.922745"
+date: "2026-03-05T22:38:39.493398"
 draft: false
 sectors:
   - ngo
@@ -41,8 +41,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

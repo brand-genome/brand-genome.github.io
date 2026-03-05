@@ -2,7 +2,7 @@
 title: New Launch Properties
 slug: "new-launch-properties"
 description: ""
-date: "2026-03-05T15:56:45.711314"
+date: "2026-03-05T22:38:39.200594"
 draft: false
 sectors:
   - "real-estate"

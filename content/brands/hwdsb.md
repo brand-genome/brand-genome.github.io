@@ -2,7 +2,7 @@
 title: HWDSB
 slug: hwdsb
 description: ""
-date: "2026-03-05T15:56:45.849882"
+date: "2026-03-05T22:38:39.362735"
 draft: false
 sectors:
   - education
@@ -40,15 +40,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "sans-serif"
 imagery_styles:
-  - professional
-  - clean
   - bold
   - photography
+  - professional
+  - clean
 wikidata_description: "school board in Ontario, Canada"
 has_twitter: false
 has_guidelines: true

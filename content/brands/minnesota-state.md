@@ -2,7 +2,7 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-03-05T15:56:46.001833"
+date: "2026-03-05T22:38:39.574691"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ regions:
   - usa
 years:
   - 2016
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
@@ -40,31 +40,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - icon
-  - horizontal
   - seal
-  - secondary
   - primary
+  - icon
+  - secondary
+  - lockup
+  - horizontal
   - vertical
 brand_colors:
-  - green
-  - gold
-  - purple
-  - gray
-  - orange
-  - grey
-  - teal
-  - black
   - white
-  - "pantone-7482"
+  - gold
+  - teal
+  - purple
   - "pantone-2757"
+  - grey
+  - orange
+  - black
   - blue
+  - gray
+  - green
+  - "pantone-7482"
 typographies:
   - brandon
   - serif
-  - times
   - "sans-serif"
+  - times
   - georgia
   - display
 imagery_styles:

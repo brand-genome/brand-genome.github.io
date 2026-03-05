@@ -2,7 +2,7 @@
 title: A.S. Watson Group
 slug: "as-watson-group"
 description: ""
-date: "2026-03-05T15:56:45.745997"
+date: "2026-03-05T22:38:39.243702"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - cosmetics
+  - health
 industries:
   - retail
 countries: []

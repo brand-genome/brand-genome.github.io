@@ -2,7 +2,7 @@
 title: Bently Heritage
 slug: "bently-heritage"
 description: ""
-date: "2026-03-05T15:56:45.985865"
+date: "2026-03-05T22:38:39.561339"
 draft: false
 sectors:
   - brewery
@@ -39,19 +39,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - monogram
   - stacked
-  - primary
 brand_colors:
-  - black
   - white
+  - black
   - "pantone-876"
 typographies: []
 imagery_styles:
   - bold
-  - candid
-  - product
   - photography
+  - product
+  - candid
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

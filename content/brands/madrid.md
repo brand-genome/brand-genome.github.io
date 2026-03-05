@@ -2,7 +2,7 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-03-05T15:56:45.824884"
+date: "2026-03-05T22:38:39.331532"
 draft: false
 sectors:
   - tourism
@@ -42,23 +42,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - crest
   - horizontal
   - abstract
-  - crest
-  - primary
   - vertical
 brand_colors:
-  - black
-  - blue
   - white
+  - blue
+  - black
   - gray
 typographies:
   - serif
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
-  - abstract
   - bold
+  - abstract
 wikidata_description: capital of Spain
 has_twitter: false
 has_guidelines: true

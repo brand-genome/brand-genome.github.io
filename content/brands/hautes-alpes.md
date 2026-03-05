@@ -2,7 +2,7 @@
 title: "Hautes-Alpes"
 slug: "hautes-alpes"
 description: ""
-date: "2026-03-05T15:56:45.961685"
+date: "2026-03-05T22:38:39.528979"
 draft: false
 sectors:
   - "public-sector"
@@ -40,11 +40,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - brandon
   - ubuntu
+  - brandon
 imagery_styles:
   - bold
 wikidata_description: department in southeastern France named after the Alps mountain range

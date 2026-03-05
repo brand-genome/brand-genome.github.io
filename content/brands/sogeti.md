@@ -2,7 +2,7 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-03-05T15:56:46.137713"
+date: "2026-03-05T22:38:39.778055"
 draft: false
 sectors:
   - consulting
@@ -17,8 +17,8 @@ tags:
   - technology
 industries: []
 countries:
-  - sweden
   - france
+  - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies: []
 imagery_styles: []

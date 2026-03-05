@@ -2,21 +2,21 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-03-05T15:56:46.036140"
+date: "2026-03-05T22:38:39.604909"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - usa
 years:
-  - 2008
   - 2018
+  - 2008
 languages:
   - english
 tags:
-  - corporate
   - technology
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

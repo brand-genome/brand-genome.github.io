@@ -2,12 +2,12 @@
 title: Bp
 slug: bp
 description: ""
-date: "2026-03-05T15:56:46.227018"
+date: "2026-03-05T22:38:39.981039"
 draft: false
 sectors:
-  - gas
-  - oil
   - petroleum
+  - oil
+  - gas
 regions:
   - unknown
 years: []
@@ -25,281 +25,204 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "wide-angle-shot"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "altered-perspective"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "low-angle-photo"
+  - "wide-angle-shot"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
+  - commercial
+  - professional
+  - landscape
+  - botanical
+  - product
+  - interior
+  - illustration
+  - abstract
+  - street
+  - advertising
+  - architectural
   - infographic
-  - sky
-  - "still-life"
+  - action
   - "live-stage"
   - group
-  - interior
-  - commercial
-  - botanical
+  - logo
+  - event
+  - sky
+  - advertisement
+  - "text-heavy"
+  - corporate
+  - "graphic-design"
+  - portrait
+  - map
   - staged
   - historical
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
   - business
-  - portrait
-  - advertisement
-  - product
-  - "text-heavy"
-  - architectural
-  - professional
-  - abstract
-  - illustration
-  - map
-  - action
-  - advertising
+  - "still-life"
 concepts:
   - studio
-  - "incomplete-art"
   - professional
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
   - "bright-focal-point"
+  - silhouette
   - "high-contrast"
+  - "high-saturation"
+  - "motion-blur"
   - "long-exposure"
   - "short-exposure"
-  - "motion-blur"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
-  - lavender
+  - cyan
+  - "dark-blue"
+  - black
   - "light-blue"
+  - lavender
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
   - "pulled-back"
+  - neat
   - wavy
-  - t
-  - i
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - joyful
-  - contemplative
-  - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
+  - ponytail
+  - braided
   - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - protective
+  - pastel
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - crouched
+  - walking
   - engaged
   - leaning
+  - relaxed
+  - reclined
   - dynamic
-  - a
+  - confident
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - group
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

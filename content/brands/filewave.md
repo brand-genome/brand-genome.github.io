@@ -2,11 +2,11 @@
 title: FileWave
 slug: filewave
 description: ""
-date: "2026-03-05T15:56:46.004369"
+date: "2026-03-05T22:38:39.577434"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - wordmark
-  - signature
-  - secondary
   - primary
+  - symbol
   - icon
+  - secondary
+  - signature
+  - wordmark
 brand_colors:
-  - gray
-  - blue
-  - black
   - white
-  - "pantone-2965"
   - red
+  - "pantone-2965"
+  - black
+  - blue
+  - gray
 typographies:
-  - "open-sans"
   - poppins
+  - "open-sans"
   - helvetica
 imagery_styles:
-  - professional
-  - photography
-  - natural
   - bold
+  - photography
   - graphic
+  - professional
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

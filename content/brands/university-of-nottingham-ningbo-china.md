@@ -2,7 +2,7 @@
 title: University of Nottingham Ningbo China
 slug: "university-of-nottingham-ningbo-china"
 description: ""
-date: "2026-03-05T15:56:45.704963"
+date: "2026-03-05T22:38:39.195179"
 draft: false
 sectors:
   - university

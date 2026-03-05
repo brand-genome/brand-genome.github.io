@@ -2,7 +2,7 @@
 title: Médecins Sans Frontières
 slug: "medecins-sans-frontieres"
 description: ""
-date: "2026-03-05T15:56:45.746778"
+date: "2026-03-05T22:38:39.244715"
 draft: false
 sectors:
   - ngo
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - ngo
   - featured
   - health
-  - ngo
 industries: []
 countries: []
 revenue_buckets: []

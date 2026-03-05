@@ -2,11 +2,11 @@
 title: ACTVET
 slug: actvet
 description: ""
-date: "2026-03-05T15:56:45.892000"
+date: "2026-03-05T22:38:39.411680"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - "abu-dhabi"
 years:
@@ -41,8 +41,8 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies: []
 imagery_styles:

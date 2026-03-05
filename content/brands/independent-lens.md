@@ -2,11 +2,11 @@
 title: Independent Lens
 slug: "independent-lens"
 description: ""
-date: "2026-03-05T15:56:45.990841"
+date: "2026-03-05T22:38:39.566359"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
+  - primary
   - icon
+  - secondary
+  - alternate
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
   - turquoise

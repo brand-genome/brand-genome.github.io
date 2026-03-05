@@ -2,7 +2,7 @@
 title: Government of Nunavut
 slug: "government-of-nunavut"
 description: ""
-date: "2026-03-05T15:56:45.788203"
+date: "2026-03-05T22:38:39.290006"
 draft: false
 sectors:
   - "public-sector"

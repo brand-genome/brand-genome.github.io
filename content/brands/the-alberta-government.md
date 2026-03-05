@@ -2,7 +2,7 @@
 title: The Alberta Government
 slug: "the-alberta-government"
 description: ""
-date: "2026-03-05T15:56:46.169160"
+date: "2026-03-05T22:38:39.811186"
 draft: false
 sectors:
   - "public-sector"

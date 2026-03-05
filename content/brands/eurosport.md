@@ -2,7 +2,7 @@
 title: Eurosport
 slug: eurosport
 description: ""
-date: "2026-03-05T15:56:46.168784"
+date: "2026-03-05T22:38:39.810930"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries:
   - "broadcasting-of-sports-events"
 countries:
@@ -41,9 +41,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
   - secondary
+  - monogram
 brand_colors:
   - navy
 typographies:

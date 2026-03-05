@@ -2,7 +2,7 @@
 title: Czech railway
 slug: "czech-railway"
 description: ""
-date: "2026-03-05T15:56:45.780848"
+date: "2026-03-05T22:38:39.279285"
 draft: false
 sectors:
   - "public-sector"
@@ -14,11 +14,11 @@ years:
 languages:
   - czech
 tags:
-  - transport
   - featured
+  - transport
 industries:
-  - "rail-transport"
   - "passenger-transport"
+  - "rail-transport"
 countries:
   - "czech-republic"
 revenue_buckets:

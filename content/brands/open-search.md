@@ -2,7 +2,7 @@
 title: Open Search
 slug: "open-search"
 description: ""
-date: "2026-03-05T15:56:45.899642"
+date: "2026-03-05T22:38:39.423719"
 draft: false
 sectors:
   - software
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - blue
   - purple
-  - white
   - black
 typographies:
-  - serif
   - "open-sans"
+  - serif
 imagery_styles:
-  - monochrome
-  - geometric
   - bold
+  - geometric
+  - monochrome
 wikidata_description: nonprofit organization
 has_twitter: false
 has_guidelines: true

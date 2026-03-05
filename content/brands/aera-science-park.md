@@ -2,7 +2,7 @@
 title: Aera Science Park
 slug: "aera-science-park"
 description: ""
-date: "2026-03-05T15:56:46.181582"
+date: "2026-03-05T22:38:39.824653"
 draft: false
 sectors:
   - research
@@ -37,20 +37,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
   - orange
   - grey
   - black
   - blue
+  - green
 typographies:
-  - din
   - "sans-serif"
+  - din
 imagery_styles:
-  - geometric
   - bold
+  - geometric
   - graphic
 wikidata_description: ""
 has_twitter: false

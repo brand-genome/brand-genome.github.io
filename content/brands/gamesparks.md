@@ -2,7 +2,7 @@
 title: GameSparks
 slug: gamesparks
 description: ""
-date: "2026-03-05T15:56:46.075378"
+date: "2026-03-05T22:38:39.689543"
 draft: false
 sectors:
   - gaming
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - alternate
   - icon
   - primary
+  - secondary
+  - alternate
 brand_colors:
-  - green
-  - purple
   - orange
   - grey
   - black
   - blue
+  - green
+  - purple
 typographies:
-  - display
   - roboto
+  - display
 imagery_styles:
   - flat
 wikidata_description: ""

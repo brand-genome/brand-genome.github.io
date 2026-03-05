@@ -2,12 +2,12 @@
 title: PlayStation 4 Pro
 slug: "playstation-4-pro"
 description: ""
-date: "2026-03-05T15:56:45.957499"
+date: "2026-03-05T22:38:39.523051"
 draft: false
 sectors:
-  - hardware
-  - entertainment
   - gaming
+  - entertainment
+  - hardware
 regions:
   - japan
 years:
@@ -40,19 +40,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
+  - white
+  - black
+  - blue
   - silver
   - gray
-  - black
-  - white
-  - blue
 typographies:
   - display
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

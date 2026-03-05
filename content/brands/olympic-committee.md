@@ -2,7 +2,7 @@
 title: Olympic Committee
 slug: "olympic-committee"
 description: ""
-date: "2026-03-05T15:56:45.936344"
+date: "2026-03-05T22:38:39.506754"
 draft: false
 sectors:
   - ngo
@@ -41,17 +41,17 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - green
-  - yellow
-  - blue
-  - black
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - green
 typographies: []
 imagery_styles:
+  - photography
   - monochrome
   - graphic
-  - photography
 wikidata_description: National Olympic Committee
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Barclays Football
 slug: "barclays-football"
 description: ""
-date: "2026-03-05T15:56:46.227504"
+date: "2026-03-05T22:38:39.986411"
 draft: false
 sectors:
   - sports
@@ -17,272 +17,272 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - team
-  - "still-life"
-  - "live-stage"
-  - group
-  - scheduling
-  - performance
+  - audience
   - selfie
+  - league
+  - scheduling
+  - landscape
+  - performance
+  - promotional
+  - "sports-photography"
+  - food
+  - product
+  - text
+  - abstract
+  - illustration
+  - "audience-perspective"
   - interior
   - "event-promotion"
-  - schedule
-  - typography
-  - candid
-  - political
-  - "event-photography"
-  - cityscape
-  - audience
-  - "music-festival"
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - tableau
-  - "graphic-design"
   - street
-  - landscape
-  - logo
-  - event
-  - text
-  - league
-  - portrait
-  - advertisement
-  - product
-  - "sports-photography"
-  - sports
-  - athlete
-  - "text-heavy"
-  - sport
-  - architectural
-  - documentary
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - action
-  - list
   - advertising
-concepts:
-  - "live-performance"
-  - realism
-  - "motion-capture"
-  - "live-stage"
-  - "action-shot"
-  - "logo-collection"
-  - typography
-  - "incomplete-art"
-  - "audience-participation"
-  - "singer-on-stage"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - silhouette
-  - "audience-experience"
-  - "sports-photography"
+  - architectural
   - sports
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
-  - illustration
-  - "music-concert"
+  - schedule
+  - candid
   - action
-  - textured
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - vignette
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "short-exposure"
-  - "neutral-density-filter"
+  - "live-stage"
+  - group
+  - team
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - event
+  - fashion
+  - cityscape
+  - "text-heavy"
+  - tableau
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - list
+  - staged
+  - historical
+  - "event-photography"
+  - athlete
+  - political
+  - "still-life"
+  - "music-festival"
+  - sport
+concepts:
+  - "singer-on-stage"
+  - "audience-participation"
+  - "wave-pattern"
+  - "logo-collection"
+  - "sports-photography"
   - silhouette
-  - "negative-space"
+  - illustration
+  - vintage
+  - sports
+  - action
+  - "live-stage"
+  - textured
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - "music-concert"
+  - typography
+  - "graphic-design"
+  - "audience-experience"
+  - "action-shot"
+  - "incomplete-art"
+  - realism
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
   - symmetrical
+  - silhouette
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
   - "high-contrast"
-  - "low-saturation"
-  - "motion-blur"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - vignette
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
+  - white
   - "mud-green"
-  - "dark-blue"
+  - olive
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
-  - olive
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - flowing
-  - varied
-  - bald
   - white
-  - short
-  - updo
-  - "tied-back"
-  - straight
+  - "pulled-back"
+  - flowing
   - neat
+  - bald
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - dynamic
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
   - surprised
   - elated
-  - engaged
-  - focused
-  - content
-  - dynamic
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - happy
-  - excited
 clothing_styles:
-  - business
-  - swimwear
-  - beachwear
-  - professional
-  - active
-  - "form-fitting"
-  - formal
   - casual
-  - traditional
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - active
+  - professional
   - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
   - sports
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
   - red
-  - earthy
-  - orange
-  - bright
+  - vibrant
   - muted
+  - neutral
+  - orange
+  - monochrome
+  - earthy
   - colorful
   - blue
-  - vibrant
+  - bright
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - group
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - group
+gazes:
+  - engaged
   - away
   - downward
-  - "at-camera"
-  - forward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
-  - active
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - engaged
-  - dynamic
-  - midsection
   - "head-shot"
-  - "full-body"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - active
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

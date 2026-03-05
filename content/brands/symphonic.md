@@ -2,11 +2,11 @@
 title: Symphonic
 slug: symphonic
 description: ""
-date: "2026-03-05T15:56:46.104054"
+date: "2026-03-05T22:38:39.730149"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - usa
 years:
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - raleway
-  - "open-sans"
   - "sans-serif"
+  - "open-sans"
 imagery_styles:
+  - bold
+  - photography
+  - clean
+  - lifestyle
   - contemporary
   - modern
-  - photography
-  - natural
-  - lifestyle
   - muted
-  - clean
-  - bold
+  - natural
 wikidata_description: "Russia's oldest symphony orchestra (est. 1882)"
 has_twitter: false
 has_guidelines: true

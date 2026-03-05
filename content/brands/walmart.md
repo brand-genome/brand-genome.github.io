@@ -2,7 +2,7 @@
 title: Walmart
 slug: walmart
 description: ""
-date: "2026-03-05T15:56:45.694125"
+date: "2026-03-05T22:38:39.184596"
 draft: false
 sectors:
   - "consumer-goods"
@@ -11,20 +11,20 @@ sectors:
 regions:
   - usa
 years:
-  - 2020
-  - 2009
   - 2014
+  - 2009
+  - 2020
 languages:
   - english
 tags:
-  - corporate
-  - featured
   - shopping
+  - featured
+  - corporate
 industries:
   - wholesale
-  - "big-box-store"
-  - "retail-chain"
   - retail
+  - "retail-chain"
+  - "big-box-store"
 countries:
   - "united-states"
 revenue_buckets:
@@ -34,336 +34,336 @@ operating_income_buckets:
 net_profit_buckets:
   - "10b-50b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
+  - red
   - wood
-  - transparent
-  - bright
-  - stadium
-  - gradient
-  - orange
-  - "galaxy-colors"
-  - light
-  - red
   - textured
-  - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - red
-  - "inverted-colors"
-  - "aquatic-colors"
-  - "analogous-colors"
-  - "complementary-colors"
-  - yellow
-  - "high-contrast"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
-  - blue
-  - grayscale
-  - bright
-  - white
-photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - "professional-headshot"
-  - selfie
-  - "character-design"
-  - packaging
-  - weather
-  - interior
-  - commercial
-  - "video-game"
-  - candid
-  - typography
-  - branding
-  - botanical
-  - baby
-  - urban
-  - staged
-  - promotional
-  - character
-  - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - business
-  - event
-  - family
+  - orange
   - text
-  - "digital-art"
-  - fantasy
-  - portrait
-  - advertisement
-  - lifestyle
-  - children
-  - product
-  - sports
-  - cartoon
-  - nature
-  - "text-heavy"
-  - "comic-book"
-  - architectural
-  - professional
-  - documentary
-  - arcade
-  - underwater
-  - abstract
-  - illustration
-  - action
-  - list
-  - advertising
-  - "family-game"
-concepts:
-  - "live-event"
-  - promotion
-  - branding
-  - typography
-  - "incomplete-art"
-  - "audience-participation"
-  - photorealism
-  - vintage
-  - "comic-book-art"
-  - "graphic-design"
-  - fantasy
-  - advertisement
-  - "fantasy-art"
-  - product
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
-  - illustration
-  - "logo-design"
-  - "product-display"
-  - list
-  - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "radial-blur"
-  - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
-  - asymmetry
-  - "artificial-shadow"
-dominant_colors:
-  - cyan
+  - blurred
+  - transparent
+  - solid
+  - light
+  - "galaxy-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - stadium
+color_schemes:
+  - white
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "two-tone"
   - red
-  - "dark-blue"
+  - "high-contrast"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
+  - grayscale
+  - monotone
+  - yellow
+  - blue
+  - "aquatic-colors"
+photography_genres:
+  - fantasy
+  - selfie
+  - commercial
+  - professional
+  - baby
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - "comic-book"
+  - product
+  - text
+  - lifestyle
+  - illustration
+  - abstract
+  - interior
+  - "digital-art"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - urban
+  - group
+  - character
+  - candid
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - weather
+  - cartoon
+  - underwater
+  - "text-heavy"
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - children
+  - portrait
+  - beauty
+  - list
+  - staged
+  - historical
+  - "video-game"
+  - branding
+  - business
+  - "character-design"
+  - arcade
+  - "family-game"
+  - "still-life"
+  - packaging
+concepts:
+  - "fantasy-art"
+  - fantasy
+  - "logo-design"
+  - "audience-participation"
+  - "wave-pattern"
+  - product
+  - illustration
+  - vintage
+  - advertising
+  - "live-event"
+  - advertisement
+  - cartoon
+  - "text-heavy"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "comic-book-art"
+  - list
+  - branding
+  - "product-display"
+  - photorealism
+  - promotion
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
+  - "short-exposure"
+  - saturated
+  - "low-saturation"
+  - "pixelated-image"
+  - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
+dominant_colors:
+  - white
+  - red
   - "dark-green"
   - black
-  - white
-  - "light-blue"
+  - "dark-blue"
+  - cyan
   - blue
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - pink
-  - bald
-  - black
-  - blue
-  - straight
-  - blonde
-  - long
   - casual
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - down
+  - blue
+  - long
 facial_expressions:
-  - friendly
-  - neutral
-  - surprised
+  - joyful
+  - smiling
+  - shocked
   - engaged
+  - relaxed
+  - neutral
+  - friendly
+  - content
+  - excited
   - focused
   - disbelief
-  - content
-  - joyful
   - contemplative
-  - relaxed
-  - smiling
   - happy
-  - shocked
-  - excited
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - "form-fitting"
-  - uniform
-  - formal
-  - sweater
   - casual
-  - traditional
   - work
-  - costume
-  - beachwear
-  - "business-casual"
-  - workwear
-  - protective
+  - sweater
   - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - comfortable
+  - uniform
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - purple
-  - earthy
-  - gray
-  - bright
+  - vibrant
   - muted
+  - neutral
+  - monochrome
+  - earthy
   - colorful
   - blue
-  - vibrant
+  - gray
+  - bright
+  - pastel
+  - purple
   - subdued
 posings:
-  - standing
+  - joyful
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
   - neutral
   - active
-  - engaged
-  - focused
-  - walking
-  - pointing
-  - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
   - holding
-  - joyful
+  - pointing
+  - standing
   - running
-  - reclined
-  - static
-gazes:
-  - friendly
-  - sideways
-  - engaged
-  - upward
-  - away
   - focused
-  - downward
+  - stretching
+  - static
+  - confident
+gazes:
   - joyful
-  - forward
+  - engaged
+  - away
+  - downward
   - outward
+  - friendly
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - joyful
+  - midsection
   - "lower-half"
+  - "full-back"
   - engaged
   - "upper-body"
-  - "close-up"
-  - focused
-  - active
   - dynamic
-  - midsection
-  - "head-shot"
+  - active
   - "full-body"
-  - joyful
   - running
-  - "full-back"
+  - focused
+  - "close-up"
 logo_elements:
-  - horizontal
-  - symbol
-  - stacked
   - primary
+  - symbol
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - green
+  - white
   - "pantone-1235"
-  - yellow
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
   - impact
+  - script
   - arial
   - times
-  - script
 imagery_styles:
-  - photography
-  - natural
-  - lifestyle
-  - product
-  - subtle
   - bold
+  - photography
+  - product
   - graphic
+  - lifestyle
+  - subtle
+  - natural
 wikidata_description: U.S. discount retailer based in Arkansas
 has_twitter: true
 has_guidelines: true

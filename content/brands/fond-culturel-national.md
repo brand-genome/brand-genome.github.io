@@ -2,11 +2,11 @@
 title: Fond Culturel National
 slug: "fond-culturel-national"
 description: ""
-date: "2026-03-05T15:56:46.171335"
+date: "2026-03-05T22:38:39.813358"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - luxembourg
 years:
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
-  - minimal
   - bold
+  - minimal
+  - monochrome
   - graphic
 wikidata_description: ""
 has_twitter: false

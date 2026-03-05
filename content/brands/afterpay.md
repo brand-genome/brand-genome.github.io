@@ -2,7 +2,7 @@
 title: Afterpay
 slug: afterpay
 description: ""
-date: "2026-03-05T15:56:45.976910"
+date: "2026-03-05T22:38:39.552946"
 draft: false
 sectors:
   - finance
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - "app-icon"
   - primary
   - badge
-  - "app-icon"
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: Australian financial technology company
 has_twitter: false
 has_guidelines: true

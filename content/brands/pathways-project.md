@@ -2,7 +2,7 @@
 title: Pathways Project
 slug: "pathways-project"
 description: ""
-date: "2026-03-05T15:56:45.793306"
+date: "2026-03-05T22:38:39.296486"
 draft: false
 sectors:
   - research
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - vertical
-  - icon
 brand_colors:
-  - cyan
-  - green
-  - brown
+  - white
   - red
-  - yellow
   - orange
   - black
-  - white
+  - cyan
+  - yellow
   - blue
+  - brown
+  - green
 typographies: []
 imagery_styles:
   - bold

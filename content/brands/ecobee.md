@@ -2,11 +2,11 @@
 title: Ecobee
 slug: ecobee
 description: ""
-date: "2026-03-05T15:56:46.138464"
+date: "2026-03-05T22:38:39.778567"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - canada
 years:
@@ -41,24 +41,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - "pantone-2256"
+  - white
   - grey
   - black
+  - "pantone-2256"
   - blue
-  - white
   - "pantone-2190"
+  - green
 typographies:
-  - display
   - gotham
+  - display
 imagery_styles:
-  - clean
   - modern
   - product
+  - clean
 wikidata_description: Canadian home automation company
 has_twitter: false
 has_guidelines: true

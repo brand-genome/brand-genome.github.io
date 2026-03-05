@@ -2,12 +2,12 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-03-05T15:56:46.061265"
+date: "2026-03-05T22:38:39.658550"
 draft: false
 sectors:
-  - hardware
-  - entertainment
   - gaming
+  - entertainment
+  - hardware
 regions:
   - japan
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
+  - entertainment
 industries:
   - "video-game-industry"
   - "game-industry"
@@ -43,13 +43,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
-  - gray
   - red
+  - black
+  - gray
 typographies: []
 imagery_styles:
   - bold

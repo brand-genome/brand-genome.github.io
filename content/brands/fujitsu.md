@@ -2,12 +2,12 @@
 title: Fujitsu
 slug: fujitsu
 description: ""
-date: "2026-03-05T15:56:46.180560"
+date: "2026-03-05T22:38:39.823500"
 draft: false
 sectors:
-  - hardware
   - consulting
   - software
+  - hardware
 regions:
   - japan
 years:
@@ -45,23 +45,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - lockup
+  - primary
+  - secondary
 brand_colors:
-  - grey
-  - red
-  - black
   - white
+  - red
+  - grey
+  - black
 typographies:
-  - times
-  - arial
   - impact
+  - arial
+  - times
   - helvetica
 imagery_styles:
-  - professional
   - photography
   - dynamic
+  - professional
   - duotone
   - clean
 wikidata_description: Japanese multinational information technology equipment and services company

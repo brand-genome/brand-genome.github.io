@@ -2,7 +2,7 @@
 title: Accoya
 slug: accoya
 description: ""
-date: "2026-03-05T15:56:46.008525"
+date: "2026-03-05T22:38:39.581659"
 draft: false
 sectors:
   - construction
@@ -39,16 +39,16 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - gray
   - green
+  - gray
 typographies:
-  - times
   - arial
+  - times
   - display
 imagery_styles:
+  - photography
   - product
   - graphic
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Meggitt
 slug: meggitt
 description: ""
-date: "2026-03-05T15:56:45.807003"
+date: "2026-03-05T22:38:39.312856"
 draft: false
 sectors:
-  - aerospace
   - defense
+  - aerospace
 regions:
   - "united-kingdom"
 years:

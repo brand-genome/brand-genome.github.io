@@ -2,11 +2,11 @@
 title: "Z-Wave"
 slug: "z-wave"
 description: ""
-date: "2026-03-05T15:56:46.106682"
+date: "2026-03-05T22:38:39.735618"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:

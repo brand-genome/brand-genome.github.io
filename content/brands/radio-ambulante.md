@@ -2,7 +2,7 @@
 title: Radio Ambulante
 slug: "radio-ambulante"
 description: ""
-date: "2026-03-05T15:56:46.094028"
+date: "2026-03-05T22:38:39.715301"
 draft: false
 sectors:
   - broadcasting
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - vertical
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
+  - vertical
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

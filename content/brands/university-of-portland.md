@@ -2,11 +2,11 @@
 title: University of Portland
 slug: "university-of-portland"
 description: ""
-date: "2026-03-05T15:56:45.676869"
+date: "2026-03-05T22:38:39.169887"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

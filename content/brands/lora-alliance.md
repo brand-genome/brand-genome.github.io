@@ -2,7 +2,7 @@
 title: LoRa Alliance
 slug: "lora-alliance"
 description: ""
-date: "2026-03-05T15:56:45.929706"
+date: "2026-03-05T22:38:39.504897"
 draft: false
 sectors:
   - ngo
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - cyan
-  - yellow
-  - grey
-  - black
   - white
   - "pantone-102"
+  - grey
+  - black
+  - cyan
+  - yellow
   - "pantone-532"
 typographies:
   - arial
 imagery_styles:
-  - landscape
   - bold
   - photography
+  - landscape
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,20 +2,20 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-03-05T15:56:45.803507"
+date: "2026-03-05T22:38:39.311719"
 draft: false
 sectors:
   - automobile
 regions:
   - usa
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
   - corporate
 industries:
   - "automotive-industry"
@@ -42,9 +42,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:

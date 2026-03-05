@@ -2,7 +2,7 @@
 title: Global Commons Alliance
 slug: "global-commons-alliance"
 description: ""
-date: "2026-03-05T15:56:45.658616"
+date: "2026-03-05T22:38:39.126046"
 draft: false
 sectors:
   - ngo

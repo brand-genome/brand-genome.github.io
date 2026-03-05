@@ -2,7 +2,7 @@
 title: Centro Paula Souza
 slug: "centro-paula-souza"
 description: ""
-date: "2026-03-05T15:56:45.781112"
+date: "2026-03-05T22:38:39.279565"
 draft: false
 sectors:
   - education

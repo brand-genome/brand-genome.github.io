@@ -2,7 +2,7 @@
 title: DTI
 slug: dti
 description: ""
-date: "2026-03-05T15:56:45.763826"
+date: "2026-03-05T22:38:39.260537"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - institution
+  - corporate
 industries: []
 countries:
   - "united-kingdom"

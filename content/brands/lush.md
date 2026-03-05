@@ -2,7 +2,7 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-03-05T15:56:45.854442"
+date: "2026-03-05T22:38:39.368344"
 draft: false
 sectors:
   - cosmetics
@@ -10,13 +10,13 @@ regions:
   - singapore
   - "united-kingdom"
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
-  - furnitures
   - cosmetics
+  - furnitures
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,36 +40,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - signature
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - signature
   - vertical
 brand_colors:
-  - maroon
-  - green
+  - white
   - orange
   - grey
   - black
-  - navy
-  - white
+  - maroon
   - blue
+  - navy
+  - green
 typographies:
-  - din
   - arial
+  - din
   - display
 imagery_styles:
+  - bold
+  - photography
+  - product
+  - vibrant
+  - professional
+  - geometric
   - contemporary
   - modern
-  - professional
-  - photography
-  - organic
-  - vibrant
-  - geometric
-  - product
   - clean
-  - bold
+  - organic
 wikidata_description: band
 has_twitter: false
 has_guidelines: true

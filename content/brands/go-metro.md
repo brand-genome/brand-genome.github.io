@@ -2,11 +2,11 @@
 title: Go Metro
 slug: "go-metro"
 description: ""
-date: "2026-03-05T15:56:45.831437"
+date: "2026-03-05T22:38:39.336967"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Lauak
 slug: lauak
 description: ""
-date: "2026-03-05T15:56:45.911881"
+date: "2026-03-05T22:38:39.472584"
 draft: false
 sectors:
-  - hardware
   - aerospace
+  - hardware
 regions:
   - france
 years:

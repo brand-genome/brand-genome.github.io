@@ -2,7 +2,7 @@
 title: Lowe’s
 slug: lowes
 description: ""
-date: "2026-03-05T15:56:45.877683"
+date: "2026-03-05T22:38:39.387012"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []

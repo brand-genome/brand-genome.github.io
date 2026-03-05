@@ -2,11 +2,11 @@
 title: Hager Group
 slug: "hager-group"
 description: ""
-date: "2026-03-05T15:56:45.913470"
+date: "2026-03-05T22:38:39.475120"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - germany
 years:

@@ -2,7 +2,7 @@
 title: openAi
 slug: openai
 description: ""
-date: "2026-03-05T15:56:45.679225"
+date: "2026-03-05T22:38:39.174502"
 draft: false
 sectors:
   - software

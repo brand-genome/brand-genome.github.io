@@ -2,7 +2,7 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-03-05T15:56:45.845243"
+date: "2026-03-05T22:38:39.357062"
 draft: false
 sectors:
   - ngo
@@ -42,22 +42,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
-  - gray
+  - blue
   - red
+  - gray
 typographies:
-  - times
   - akzidenz
   - arial
+  - times
 imagery_styles:
-  - vintage
-  - flat
   - bold
   - classic
+  - vintage
+  - flat
 wikidata_description: body of American red cross
 has_twitter: false
 has_guidelines: true

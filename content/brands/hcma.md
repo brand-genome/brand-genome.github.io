@@ -2,7 +2,7 @@
 title: HCMA
 slug: hcma
 description: ""
-date: "2026-03-05T15:56:45.712524"
+date: "2026-03-05T22:38:39.201760"
 draft: false
 sectors:
   - "design-creative"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - design
   - featured
+  - design
   - architecture
 industries: []
 countries: []

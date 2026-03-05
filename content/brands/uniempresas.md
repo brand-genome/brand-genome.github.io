@@ -2,7 +2,7 @@
 title: Uniempresas
 slug: uniempresas
 description: ""
-date: "2026-03-05T15:56:46.046792"
+date: "2026-03-05T22:38:39.636903"
 draft: false
 sectors:
   - consulting

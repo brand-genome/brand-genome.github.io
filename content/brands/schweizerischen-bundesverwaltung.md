@@ -2,7 +2,7 @@
 title: Schweizerischen Bundesverwaltung
 slug: "schweizerischen-bundesverwaltung"
 description: ""
-date: "2026-03-05T15:56:45.834090"
+date: "2026-03-05T22:38:39.339610"
 draft: false
 sectors:
   - "public-sector"
@@ -37,13 +37,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
-  - red
-  - "pantone-485"
   - white
+  - red
   - black
+  - "pantone-485"
 typographies:
   - frutiger
 imagery_styles: []

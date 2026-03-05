@@ -2,11 +2,11 @@
 title: Transport Scotland
 slug: "transport-scotland"
 description: ""
-date: "2026-03-05T15:56:46.065398"
+date: "2026-03-05T22:38:39.672245"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - scotland
 years:
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - stacked
+  - secondary
 brand_colors:
-  - "pantone-2717"
-  - black
   - white
+  - black
+  - "pantone-2717"
   - blue
   - "pantone-2736"
 typographies:
-  - arial
   - "gill-sans"
+  - arial
 imagery_styles:
   - bold
   - graphic

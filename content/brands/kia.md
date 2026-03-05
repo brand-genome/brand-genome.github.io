@@ -2,20 +2,20 @@
 title: Kia
 slug: kia
 description: ""
-date: "2026-03-05T15:56:45.831171"
+date: "2026-03-05T22:38:39.336643"
 draft: false
 sectors:
   - automobile
 regions:
   - "south-korea"
 years:
-  - 2020
   - 2021
+  - 2020
 languages:
   - english
 tags:
-  - transport
   - engineering
+  - transport
 industries:
   - "automotive-industry"
 countries:

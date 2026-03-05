@@ -2,7 +2,7 @@
 title: Luxembourg
 slug: luxembourg
 description: ""
-date: "2026-03-05T15:56:45.607767"
+date: "2026-03-05T22:38:39.079510"
 draft: false
 sectors:
   - "public-sector"
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
-  - cyan
+  - white
   - red
   - black
-  - white
+  - cyan
   - blue
 typographies:
-  - brandon
   - gotham
+  - brandon
 imagery_styles:
-  - monochrome
-  - portrait
-  - dynamic
-  - landscape
   - bold
   - graphic
+  - dynamic
+  - monochrome
+  - landscape
+  - portrait
 wikidata_description: capital and largest city of Luxembourg
 has_twitter: false
 has_guidelines: true

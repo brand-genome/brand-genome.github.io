@@ -2,7 +2,7 @@
 title: Action/2015
 slug: action2015
 description: ""
-date: "2026-03-05T15:56:45.959858"
+date: "2026-03-05T22:38:39.524664"
 draft: false
 sectors:
   - ngo
@@ -43,8 +43,8 @@ brand_colors:
   - blue
 typographies:
   - serif
-  - times
   - slab
+  - times
 imagery_styles:
   - photography
 wikidata_description: ""

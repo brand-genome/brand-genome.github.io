@@ -2,7 +2,7 @@
 title: Jamaica Tourist Board
 slug: "jamaica-tourist-board"
 description: ""
-date: "2026-03-05T15:56:45.991460"
+date: "2026-03-05T22:38:39.566986"
 draft: false
 sectors:
   - "public-sector"

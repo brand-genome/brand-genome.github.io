@@ -2,7 +2,7 @@
 title: ADA
 slug: ada
 description: ""
-date: "2026-03-05T15:56:46.103919"
+date: "2026-03-05T22:38:39.729977"
 draft: false
 sectors:
   - entertainment
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

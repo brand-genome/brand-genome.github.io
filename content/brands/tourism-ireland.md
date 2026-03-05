@@ -2,7 +2,7 @@
 title: Tourism Ireland
 slug: "tourism-ireland"
 description: ""
-date: "2026-03-05T15:56:46.133285"
+date: "2026-03-05T22:38:39.773877"
 draft: false
 sectors:
   - "public-sector"
@@ -42,14 +42,14 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
   - green
+  - black
 typographies: []
 imagery_styles:
-  - natural
   - playful
+  - natural
 wikidata_description: Republic of Ireland Tourism agency
 has_twitter: false
 has_guidelines: true

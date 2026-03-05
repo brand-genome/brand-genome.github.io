@@ -2,7 +2,7 @@
 title: Hanwag
 slug: hanwag
 description: ""
-date: "2026-03-05T15:56:46.003252"
+date: "2026-03-05T22:38:39.575868"
 draft: false
 sectors:
   - fashion
@@ -40,21 +40,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
-  - gray
   - red
+  - black
+  - gray
 typographies:
   - times
 imagery_styles:
   - photography
   - product
+  - graphic
   - flat
   - subtle
-  - graphic
 wikidata_description: German shoe company
 has_twitter: false
 has_guidelines: true

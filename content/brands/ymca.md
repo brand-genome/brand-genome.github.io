@@ -2,17 +2,17 @@
 title: YMCA
 slug: ymca
 description: ""
-date: "2026-03-05T15:56:45.857913"
+date: "2026-03-05T22:38:39.372430"
 draft: false
 sectors:
+  - education
   - ngo
   - fitness
-  - education
 regions:
   - usa
 years:
-  - 2017
   - 2012
+  - 2017
 languages:
   - english
 tags:

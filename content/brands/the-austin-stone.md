@@ -2,7 +2,7 @@
 title: The Austin Stone
 slug: "the-austin-stone"
 description: ""
-date: "2026-03-05T15:56:45.844924"
+date: "2026-03-05T22:38:39.356861"
 draft: false
 sectors:
   - ngo
@@ -39,18 +39,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
   - geometric
-  - bold
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

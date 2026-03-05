@@ -2,7 +2,7 @@
 title: Porto Holidays
 slug: "porto-holidays"
 description: ""
-date: "2026-03-05T15:56:46.121031"
+date: "2026-03-05T22:38:39.759267"
 draft: false
 sectors:
   - tourism
@@ -39,14 +39,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2728"
-  - "pantone-393"
-  - "pantone-299"
-  - "pantone-485"
   - "pantone-2395"
-  - "pantone-2756"
-  - "pantone-144"
   - "pantone-361"
+  - "pantone-2756"
+  - "pantone-393"
+  - "pantone-485"
+  - "pantone-144"
+  - "pantone-2728"
+  - "pantone-299"
 typographies: []
 imagery_styles: []
 wikidata_description: ""

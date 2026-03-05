@@ -2,7 +2,7 @@
 title: Flipkart
 slug: flipkart
 description: ""
-date: "2026-03-05T15:56:46.207622"
+date: "2026-03-05T22:38:39.936024"
 draft: false
 sectors:
   - "e-commerce"
@@ -21,338 +21,261 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - red
   - "text-heavy"
-  - bright
-  - white
-  - "autumnal-colors"
+  - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - interior
-  - industrial
-  - commercial
-  - trivia
-  - typography
-  - branding
-  - candid
-  - motivational
-  - "incomplete-art"
-  - quiz
-  - celebration
-  - staged
-  - poll
   - informative
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
-  - event
-  - conceptual
   - celebrity
-  - family
-  - "social-cause"
-  - "digital-art"
-  - text
-  - portrait
-  - advertisement
-  - informational
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
+  - selfie
+  - commercial
   - professional
-  - "information-graphic"
-  - documentary
+  - poll
+  - informational
+  - conceptual
+  - landscape
+  - performance
+  - promotional
+  - food
+  - "social-cause"
+  - product
+  - industrial
   - "text-based"
+  - text
+  - interior
+  - "digital-art"
   - abstract
   - illustration
-  - "social-media"
+  - street
+  - advertising
+  - trivia
+  - architectural
   - educational
+  - candid
   - action
-  - interactive
-concepts:
-  - "positive-message"
-  - promotion
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - "question-and-answer"
-  - "digital-illustration"
-  - "graphic-design"
-  - advertisement
-  - informational
-  - "product-promotion"
-  - cartoon
-  - "text-heavy"
+  - "live-stage"
+  - group
+  - infographic
+  - sports
   - documentary
+  - advertisement
+  - fashion
+  - event
+  - sky
+  - "text-heavy"
+  - corporate
+  - interactive
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - "information-graphic"
+  - staged
+  - celebration
+  - branding
+  - "social-media"
+  - "still-life"
+  - quiz
+  - motivational
+concepts:
+  - informative
+  - "digital-illustration"
+  - "positive-message"
+  - informational
   - "wave-pattern"
+  - "question-and-answer"
   - illustration
+  - vintage
+  - documentary
   - "social-media-promotion"
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "product-promotion"
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "vivid-colors"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - saturated
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "saturated-colors"
+  - "high-contrast"
   - "text-heavy"
-  - "short-exposure"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "vivid-colors"
+  - "short-exposure"
+  - "vanishing-point"
+  - saturated
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - purple
-  - "dark-blue"
-  - turquoise
   - white
-  - "light-blue"
+  - cyan
+  - "dark-blue"
   - blue
+  - "light-blue"
+  - "royal-blue"
+  - turquoise
+  - purple
 color_tones:
   - cool
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - black
-  - o
-  - unknown
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
+  - dark
   - "tied-back"
+  - beard
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - denim
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - dark
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - denim
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - "leopard-print"
-  - t
-  - i
-  - black
-  - muted
-  - o
   - blue
-  - unknown
-  - b
-  - n
-  - p
+  - "leopard-print"
+  - dark
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
+  - relaxed
   - reclined
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

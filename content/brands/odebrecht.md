@@ -2,11 +2,11 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-03-05T15:56:46.129681"
+date: "2026-03-05T22:38:39.769535"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
+  - "logistics-supply-chain"
 regions:
   - brazil
 years:
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies:
   - impact
 imagery_styles: []

@@ -2,7 +2,7 @@
 title: CHP
 slug: chp
 description: ""
-date: "2026-03-05T15:56:45.791971"
+date: "2026-03-05T22:38:39.293984"
 draft: false
 sectors:
   - "public-sector"
@@ -42,16 +42,16 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - red
   - white
+  - red
 typographies:
-  - futura
   - gotham
+  - futura
 imagery_styles:
-  - clean
-  - geometric
-  - modern
   - photography
+  - geometric
+  - clean
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

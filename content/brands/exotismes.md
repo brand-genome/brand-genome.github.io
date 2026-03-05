@@ -2,7 +2,7 @@
 title: Exotismes
 slug: exotismes
 description: ""
-date: "2026-03-05T15:56:46.089811"
+date: "2026-03-05T22:38:39.710484"
 draft: false
 sectors:
   - tourism
@@ -38,18 +38,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - georgia
   - lato
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

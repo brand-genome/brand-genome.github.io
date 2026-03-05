@@ -2,17 +2,17 @@
 title: Northern Ireland
 slug: "northern-ireland"
 description: ""
-date: "2026-03-05T15:56:45.984503"
+date: "2026-03-05T22:38:39.559967"
 draft: false
 sectors:
   - "public-sector"
   - tourism
 regions:
-  - ireland
   - "united-kingdom"
+  - ireland
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -42,31 +42,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - maroon
-  - green
-  - "pantone-2152"
-  - "pantone-298"
-  - black
   - white
-  - blue
   - "pantone-2627"
+  - black
+  - maroon
+  - blue
+  - "pantone-298"
+  - "pantone-2152"
+  - green
 typographies:
   - serif
   - display
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
-  - portrait
+  - vibrant
   - dynamic
   - landscape
-  - vibrant
   - candid
-  - bold
+  - natural
+  - portrait
 wikidata_description: "men's national association football team representing Northern Ireland"
 has_twitter: false
 has_guidelines: true

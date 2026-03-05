@@ -2,7 +2,7 @@
 title: Liberty Mutual Insurance
 slug: "liberty-mutual-insurance"
 description: ""
-date: "2026-03-05T15:56:45.868820"
+date: "2026-03-05T22:38:39.383576"
 draft: false
 sectors:
   - insurance
@@ -43,17 +43,17 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - yellow
-  - gray
+  - white
   - teal
   - black
-  - white
+  - yellow
   - blue
+  - gray
 typographies: []
 imagery_styles:
-  - staged
-  - photography
   - dramatic
+  - photography
+  - staged
   - natural
 wikidata_description: company
 has_twitter: false

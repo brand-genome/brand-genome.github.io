@@ -2,7 +2,7 @@
 title: AFMB
 slug: afmb
 description: ""
-date: "2026-03-05T15:56:45.843196"
+date: "2026-03-05T22:38:39.354834"
 draft: false
 sectors:
   - ngo
@@ -44,12 +44,12 @@ logo_elements:
   - symbol
 brand_colors:
   - blue
-  - black
   - orange
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: Beninese Islamic organization
 has_twitter: false
 has_guidelines: true

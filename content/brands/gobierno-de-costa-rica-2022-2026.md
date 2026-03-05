@@ -2,7 +2,7 @@
 title: "Gobierno de Costa Rica 2022-2026"
 slug: "gobierno-de-costa-rica-2022-2026"
 description: ""
-date: "2026-03-05T15:56:45.767659"
+date: "2026-03-05T22:38:39.265151"
 draft: false
 sectors:
   - "public-sector"

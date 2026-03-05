@@ -2,11 +2,11 @@
 title: Sylius
 slug: sylius
 description: ""
-date: "2026-03-05T15:56:45.992563"
+date: "2026-03-05T22:38:39.567959"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - poland
 years:
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
-  - gray
+  - blue
   - green
+  - gray
 typographies:
   - "proxima-nova"
 imagery_styles: []

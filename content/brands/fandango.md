@@ -2,7 +2,7 @@
 title: Fandango
 slug: fandango
 description: ""
-date: "2026-03-05T15:56:46.060613"
+date: "2026-03-05T22:38:39.657872"
 draft: false
 sectors:
   - entertainment
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - internet
+  - entertainment
 industries: []
 countries:
   - italy

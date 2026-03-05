@@ -2,7 +2,7 @@
 title: ESDAC
 slug: esdac
 description: ""
-date: "2026-03-05T15:56:46.026071"
+date: "2026-03-05T22:38:39.593755"
 draft: false
 sectors:
   - education
@@ -39,15 +39,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies: []
 imagery_styles:
+  - colorful
   - gradient
   - vibrant
-  - colorful
   - graphic
 wikidata_description: ""
 has_twitter: false

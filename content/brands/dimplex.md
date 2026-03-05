@@ -2,11 +2,11 @@
 title: Dimplex
 slug: dimplex
 description: ""
-date: "2026-03-05T15:56:45.664099"
+date: "2026-03-05T22:38:39.131939"
 draft: false
 sectors:
-  - utilities
   - "home-appliances"
+  - utilities
 regions:
   - ireland
 years:

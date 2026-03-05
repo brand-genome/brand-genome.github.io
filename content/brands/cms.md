@@ -2,11 +2,11 @@
 title: CMS
 slug: cms
 description: ""
-date: "2026-03-05T15:56:45.673903"
+date: "2026-03-05T22:38:39.156655"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - usa
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors:
+  - white
   - blue
   - gold
   - black
-  - white
 typographies:
   - serif
   - frutiger

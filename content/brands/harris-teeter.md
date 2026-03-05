@@ -2,7 +2,7 @@
 title: Harris Teeter
 slug: "harris-teeter"
 description: ""
-date: "2026-03-05T15:56:46.258936"
+date: "2026-03-05T22:38:40.032679"
 draft: false
 sectors:
   - supermarket
@@ -21,269 +21,192 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - "autumnal-colors"
   - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - "complementary-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
   - commercial
-  - typography
+  - landscape
   - promotional
   - food
-  - beauty
-  - "graphic-design"
+  - "social-cause"
+  - product
+  - text
+  - lifestyle
+  - illustration
+  - "food-photography"
   - street
-  - landscape
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - group
+  - documentary
   - "fine-art"
   - logo
-  - "social-cause"
-  - "food-photography"
-  - text
-  - family
-  - portrait
   - advertisement
-  - lifestyle
-  - product
-  - sports
+  - fashion
+  - sky
   - "text-heavy"
-  - architectural
-  - documentary
-  - illustration
-  - action
-  - advertising
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - "still-life"
 concepts:
   - "sports-event"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - athlete
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - athlete
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
-  - "deep-depth-of-field"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "deep-depth-of-field"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
-  - "dark-green"
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
   - mustard
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - neat
+  - wavy
+  - loose
+  - up
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - professional
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

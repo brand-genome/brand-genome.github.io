@@ -2,11 +2,11 @@
 title: ECCO Safety Group
 slug: "ecco-safety-group"
 description: ""
-date: "2026-03-05T15:56:45.863405"
+date: "2026-03-05T22:38:39.378022"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

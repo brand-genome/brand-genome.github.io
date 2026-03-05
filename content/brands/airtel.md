@@ -2,7 +2,7 @@
 title: Airtel
 slug: airtel
 description: ""
-date: "2026-03-05T15:56:46.253994"
+date: "2026-03-05T22:38:40.025903"
 draft: false
 sectors:
   - telecom
@@ -21,372 +21,295 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - white
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gray
-  - gradient
-  - brick
-  - white
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - gray
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - informative
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - pool
+  - beach
+  - resort
+  - conceptual
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - "social-cause"
+  - product
+  - wedding
+  - "text-based"
+  - statue
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - "audience-perspective"
+  - abstract
+  - "digital-art"
+  - comic
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - branding
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - outdoor
-  - cityscape
-  - audience
-  - resort
-  - staged
-  - informative
-  - promotional
-  - historical
-  - beauty
-  - food
-  - instructional
-  - "graphic-design"
   - ceremony
-  - street
-  - "red-carpet"
-  - landscape
-  - statue
-  - corporate
-  - wildlife
-  - event
-  - auditorium
-  - business
-  - family
-  - "social-cause"
-  - text
-  - "digital-art"
-  - wedding
-  - conceptual
-  - travel
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - "social-message"
-  - question
-  - pool
-  - "public-notice"
-  - architectural
-  - beach
-  - professional
   - documentary
-  - monument
-  - "social-media-post"
-  - "text-based"
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - "social-media"
-  - action
-  - comic
-  - advertising
-concepts:
-  - "live-stage"
-  - promotion
-  - entertainment
-  - commercial
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - "graphic-design"
-  - marketing
-  - "sports-promotion"
-  - "promotional-material"
-  - advertisement
-  - lifestyle
-  - cartoon
-  - athlete
-  - "text-heavy"
   - "social-message"
-  - "wave-pattern"
-  - "family-bonding"
-  - illustration
-  - "data-plan"
-  - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vivid-colors"
-  - "vanishing-point"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - advertisement
+  - fashion
+  - event
+  - sky
+  - "public-notice"
+  - cityscape
   - "text-heavy"
+  - corporate
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - monument
+  - wildlife
+  - portrait
+  - beauty
+  - "red-carpet"
+  - question
+  - staged
+  - historical
+  - business
+  - "event-photography"
+  - branding
+  - instructional
+  - "social-media"
+  - "still-life"
+  - travel
+  - "social-media-post"
+  - auditorium
+concepts:
+  - informative
+  - commercial
+  - "promotional-material"
+  - "wave-pattern"
+  - "data-plan"
+  - promotional
+  - lifestyle
+  - illustration
+  - vintage
+  - advertising
+  - "live-stage"
+  - "social-message"
+  - marketing
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "sports-promotion"
+  - "incomplete-art"
+  - entertainment
+  - branding
+  - athlete
+  - "family-bonding"
+  - photorealism
+  - promotion
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - "vivid-colors"
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - pink
+  - white
   - "off-white"
-  - gray
+  - red
   - orange
   - black
-  - white
   - "light-blue"
-  - red
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braids
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - costume
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - updo
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - sweater
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - modern
-  - t
-  - i
+  - braids
+  - straight
+  - ponytail
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - dynamic
-  - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - subtle
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - bright
-  - p
-posings:
-  - group
-  - seated
-  - confident
-  - l
-  - e
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - shocked
+  - engaged
   - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - casual
-  - p
-  - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
+  - neutral
+  - content
+  - excited
   - focused
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - sweater
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - relaxed
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - colorful
+  - traditional
+  - modern
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
   - dynamic
-  - midsection
-  - a
-  - c
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - subtle
+  - bright
+  - pastel
+posings:
+  - casual
+  - seated
+  - walking
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
+  - engaged
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - group
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,11 +2,11 @@
 title: Abu Dhabi Education Council
 slug: "abu-dhabi-education-council"
 description: ""
-date: "2026-03-05T15:56:46.179952"
+date: "2026-03-05T22:38:39.822750"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - "abu-dhabi"
 years:

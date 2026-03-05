@@ -2,7 +2,7 @@
 title: Nordic IT
 slug: "nordic-it"
 description: ""
-date: "2026-03-05T15:56:46.042381"
+date: "2026-03-05T22:38:39.613279"
 draft: false
 sectors:
   - software
@@ -38,17 +38,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - gotham
   - "sans-serif"
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

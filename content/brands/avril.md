@@ -2,11 +2,11 @@
 title: Avril
 slug: avril
 description: ""
-date: "2026-03-05T15:56:45.855253"
+date: "2026-03-05T22:38:39.369371"
 draft: false
 sectors:
-  - beauty
   - cosmetics
+  - beauty
 regions:
   - france
 years:
@@ -40,25 +40,25 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - gray
-  - black
   - white
+  - black
   - blue
+  - gray
+  - green
 typographies:
-  - lato
-  - display
-  - playfair
   - gotham
+  - lato
+  - playfair
+  - display
 imagery_styles:
-  - modern
-  - photography
-  - minimal
-  - natural
-  - lifestyle
-  - product
   - bold
+  - photography
+  - product
   - graphic
+  - lifestyle
+  - minimal
+  - modern
+  - natural
 wikidata_description: song by Yael Naim
 has_twitter: false
 has_guidelines: true

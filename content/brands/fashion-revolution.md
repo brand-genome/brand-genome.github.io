@@ -2,11 +2,11 @@
 title: Fashion Revolution
 slug: "fashion-revolution"
 description: ""
-date: "2026-03-05T15:56:46.112057"
+date: "2026-03-05T22:38:39.746369"
 draft: false
 sectors:
-  - ngo
   - fashion
+  - ngo
 regions:
   - international
 years:

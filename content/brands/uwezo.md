@@ -2,11 +2,11 @@
 title: Uwezo
 slug: uwezo
 description: ""
-date: "2026-03-05T15:56:46.072874"
+date: "2026-03-05T22:38:39.684616"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - kenya
 years:

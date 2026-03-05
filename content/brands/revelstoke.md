@@ -2,7 +2,7 @@
 title: Revelstoke
 slug: revelstoke
 description: ""
-date: "2026-03-05T15:56:46.108997"
+date: "2026-03-05T22:38:39.743013"
 draft: false
 sectors:
   - tourism
@@ -41,19 +41,19 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - green
-  - yellow
-  - black
   - white
   - red
+  - black
+  - yellow
+  - green
 typographies:
-  - times
-  - arial
   - impact
+  - arial
+  - times
   - helvetica
 imagery_styles:
-  - staged
   - photography
+  - staged
   - modern
   - natural
 wikidata_description: "city in British Columbia, Canada"

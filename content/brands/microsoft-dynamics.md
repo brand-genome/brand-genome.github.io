@@ -2,7 +2,7 @@
 title: Microsoft Dynamics
 slug: "microsoft-dynamics"
 description: ""
-date: "2026-03-05T15:56:46.117965"
+date: "2026-03-05T22:38:39.754943"
 draft: false
 sectors:
   - software
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - primary
   - lockup
-  - symbol
+  - secondary
 brand_colors:
+  - white
   - grey
   - black
-  - navy
-  - white
   - blue
+  - navy
 typographies: []
 imagery_styles: []
 wikidata_description: enterprise resource planning software produced by Microsoft

@@ -2,7 +2,7 @@
 title: GAPP
 slug: gapp
 description: ""
-date: "2026-03-05T15:56:45.945322"
+date: "2026-03-05T22:38:39.513948"
 draft: false
 sectors:
   - education
@@ -42,8 +42,8 @@ logo_elements:
   - signature
 brand_colors:
   - blue
-  - purple
   - orange
+  - purple
 typographies:
   - verdana
 imagery_styles:

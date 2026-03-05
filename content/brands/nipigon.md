@@ -2,7 +2,7 @@
 title: Nipigon
 slug: nipigon
 description: ""
-date: "2026-03-05T15:56:45.983403"
+date: "2026-03-05T22:38:39.559070"
 draft: false
 sectors:
   - "public-sector"
@@ -41,15 +41,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: "township municipality in Thunder Bay District, Ontario, Canada"
 has_twitter: false
 has_guidelines: true

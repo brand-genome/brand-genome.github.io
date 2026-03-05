@@ -2,7 +2,7 @@
 title: IWK Health
 slug: "iwk-health"
 description: ""
-date: "2026-03-05T15:56:45.791212"
+date: "2026-03-05T22:38:39.292989"
 draft: false
 sectors:
   - healthcare
@@ -42,17 +42,17 @@ logo_elements:
   - primary
   - logomark
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - contemporary
-  - professional
-  - photography
-  - natural
   - bold
+  - photography
+  - professional
+  - contemporary
+  - natural
 wikidata_description: "hospital in Nova Scotia, Canada"
 has_twitter: false
 has_guidelines: true

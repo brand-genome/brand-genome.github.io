@@ -2,7 +2,7 @@
 title: Seezle
 slug: seezle
 description: ""
-date: "2026-03-05T15:56:45.943606"
+date: "2026-03-05T22:38:39.512446"
 draft: false
 sectors:
   - finance
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
   - white
 typographies:

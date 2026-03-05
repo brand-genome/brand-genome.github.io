@@ -2,7 +2,7 @@
 title: TXI
 slug: txi
 description: ""
-date: "2026-03-05T15:56:45.777429"
+date: "2026-03-05T22:38:39.274828"
 draft: false
 sectors:
   - consulting

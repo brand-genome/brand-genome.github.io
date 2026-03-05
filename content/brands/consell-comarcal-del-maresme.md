@@ -2,7 +2,7 @@
 title: Consell Comarcal del Maresme
 slug: "consell-comarcal-del-maresme"
 description: ""
-date: "2026-03-05T15:56:45.705528"
+date: "2026-03-05T22:38:39.195793"
 draft: false
 sectors:
   - "public-sector"

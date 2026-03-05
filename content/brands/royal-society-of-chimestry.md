@@ -2,11 +2,11 @@
 title: Royal Society of Chimestry
 slug: "royal-society-of-chimestry"
 description: ""
-date: "2026-03-05T15:56:46.015101"
+date: "2026-03-05T22:38:39.590819"
 draft: false
 sectors:
-  - publishing
   - research
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
   - blue
 typographies:
-  - serif
   - "source-sans"
-  - display
   - gotham
+  - serif
+  - display
 imagery_styles:
-  - modern
-  - photography
-  - abstract
-  - natural
-  - vibrant
   - bold
+  - photography
+  - vibrant
   - graphic
+  - abstract
+  - modern
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

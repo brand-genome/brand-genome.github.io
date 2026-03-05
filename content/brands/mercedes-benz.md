@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-03-05T15:56:46.063291"
+date: "2026-03-05T22:38:39.669762"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2015
   - 2007
+  - 2015
 languages:
   - english
 tags:
@@ -40,29 +40,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
+  - primary
   - emblem
   - secondary
-  - primary
+  - horizontal
+  - wordmark
   - vertical
 brand_colors:
-  - "pantone-877"
-  - black
   - white
+  - black
+  - "pantone-877"
   - "pantone-282"
 typographies:
   - arial
 imagery_styles:
-  - modern
   - photography
+  - graphic
+  - clean
+  - modern
   - minimal
-  - natural
-  - portrait
   - gradient
   - landscape
-  - clean
-  - graphic
+  - natural
+  - portrait
 wikidata_description: "German automobile brand owned by Mercedes-Benz AG"
 has_twitter: false
 has_guidelines: true

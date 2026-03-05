@@ -2,7 +2,7 @@
 title: OTR Bristol
 slug: "otr-bristol"
 description: ""
-date: "2026-03-05T15:56:45.835009"
+date: "2026-03-05T22:38:39.340531"
 draft: false
 sectors:
   - ngo
@@ -43,8 +43,8 @@ brand_colors:
 typographies:
   - display
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - photography
 wikidata_description: ""
 has_twitter: false

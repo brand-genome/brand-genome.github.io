@@ -2,7 +2,7 @@
 title: Emaar Properties
 slug: "emaar-properties"
 description: ""
-date: "2026-03-05T15:56:45.608862"
+date: "2026-03-05T22:38:39.080859"
 draft: false
 sectors:
   - "real-estate"
@@ -42,19 +42,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies:
   - georgia
-  - optima
   - arial
+  - optima
 imagery_styles:
-  - lifestyle
   - graphic
+  - lifestyle
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

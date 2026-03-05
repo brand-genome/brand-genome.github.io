@@ -2,7 +2,7 @@
 title: Capital One
 slug: "capital-one"
 description: ""
-date: "2026-03-05T15:56:46.220001"
+date: "2026-03-05T22:38:39.959159"
 draft: false
 sectors:
   - finance
@@ -23,244 +23,244 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - red
+  - wood
+  - textured
+  - orange
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - orange
-  - gradient
-  - light
-  - red
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - white
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
   - orange
-  - white
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - interior
-  - "event-promotion"
-  - typography
-  - candid
-  - "event-photography"
   - audience
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - character
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - logo
-  - music
-  - corporate
-  - event
-  - "fine-dining"
-  - "food-photography"
-  - vacation
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - athlete
-  - "text-heavy"
-  - cartoon
-  - "concert-photography"
-  - architectural
-  - beach
   - concert
+  - selfie
+  - beach
+  - landscape
+  - performance
+  - promotional
+  - food
+  - product
+  - interior
   - abstract
   - "audience-perspective"
-  - action
+  - "food-photography"
+  - "event-promotion"
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - "incomplete-art"
-  - "wave-pattern"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
+  - candid
+  - group
+  - "fine-dining"
+  - character
+  - logo
+  - event
+  - sky
+  - vacation
   - advertisement
-  - "audience-perspective"
-  - "corporate-event"
+  - fashion
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - "concert-photography"
+  - music
+  - typography
   - "graphic-design"
-  - "performance-art"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - "event-photography"
+  - athlete
+  - "still-life"
+  - crowd
+concepts:
+  - advertisement
+  - "corporate-event"
+  - "live-performance"
+  - "wave-pattern"
   - cartoon
   - "text-heavy"
-  - typography
+  - illustration
+  - vintage
   - music
+  - "audience-perspective"
+  - typography
+  - "graphic-design"
+  - "performance-art"
   - action
+  - "live-stage"
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
-  - "negative-space"
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "cut-out"
+  - asymmetry
+  - "gaussian-blur"
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "gaussian-blur"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
+  - red
+  - orange
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - red
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - crowned
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - red
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - down
+  - long
+  - crowned
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
   - traditional
   - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - "team-colors"
-  - earthy
-  - muted
-  - colorful
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - "team-colors"
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - confident
-  - leaning
-  - dynamic
   - seated
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

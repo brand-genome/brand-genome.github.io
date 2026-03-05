@@ -2,7 +2,7 @@
 title: Iberia
 slug: iberia
 description: ""
-date: "2026-03-05T15:56:45.941322"
+date: "2026-03-05T22:38:39.511021"
 draft: false
 sectors:
   - airline
@@ -40,16 +40,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
-  - black
   - white
+  - red
   - orange
+  - black
 typographies:
   - optima
 imagery_styles:
+  - bold
   - dynamic
   - geometric
-  - bold
   - graphic
 wikidata_description: town in the U.S. state of Missouri
 has_twitter: false

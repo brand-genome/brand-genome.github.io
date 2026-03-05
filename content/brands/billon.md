@@ -2,12 +2,12 @@
 title: Billon
 slug: billon
 description: ""
-date: "2026-03-05T15:56:45.792436"
+date: "2026-03-05T22:38:39.294492"
 draft: false
 sectors:
   - "blockchain-crypto"
-  - finance
   - software
+  - finance
 regions:
   - poland
 years:
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - green
-  - yellow
-  - black
-  - navy
   - white
+  - black
+  - yellow
   - blue
+  - navy
+  - green
 typographies:
   - montserrat
 imagery_styles:
-  - realistic
-  - professional
-  - photography
-  - illustration
-  - product
-  - clean
   - bold
+  - photography
+  - product
+  - professional
+  - illustration
+  - realistic
+  - clean
 wikidata_description: distributed ledger technology for better bank account
 has_twitter: false
 has_guidelines: true

@@ -2,26 +2,26 @@
 title: AMD
 slug: amd
 description: ""
-date: "2026-03-05T15:56:45.980455"
+date: "2026-03-05T22:38:39.556212"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
-  - 2014
   - 2018
+  - 2014
 languages:
   - english
 tags:
-  - corporate
   - featured
   - technology
+  - corporate
 industries:
-  - "computer-industry"
-  - "electrical-industry"
   - "semiconductor-industry"
+  - "electrical-industry"
+  - "computer-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -31,370 +31,293 @@ operating_income_buckets:
 net_profit_buckets:
   - "10m-100m"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
+  - red
   - wood
-  - dark
-  - transparent
-  - bright
-  - orange
-  - gradient
-  - light
-  - red
   - textured
+  - orange
+  - blurred
   - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - orange
-  - "inverted-colors"
-  - red
-  - "aquatic-colors"
-  - "analogous-colors"
-  - "complementary-colors"
-  - "high-contrast"
-  - "galaxy-colors"
-  - "two-tone"
+  - transparent
   - light
-  - "text-heavy"
-  - blue
-  - grayscale
+  - gradient
+  - pattern
   - bright
+  - dark
+color_schemes:
+  - orange
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "two-tone"
+  - red
   - textured
+  - "high-contrast"
+  - "text-heavy"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
+  - grayscale
+  - monotone
+  - blue
+  - "aquatic-colors"
 photography_genres:
+  - fantasy
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - unboxed
+  - landscape
+  - botanical
+  - promotional
+  - "close-up"
+  - product
+  - "event-announcement"
+  - technical
+  - text
+  - abstract
+  - interior
+  - illustration
+  - "audience-perspective"
+  - vintage
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
+  - advertisement
   - fashion
   - sky
+  - event
+  - "text-heavy"
+  - corporate
+  - underwater
+  - cartoon
   - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - packaging
-  - interior
-  - commercial
-  - "event-promotion"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - historical
   - "video-game"
   - branding
-  - typography
-  - candid
-  - botanical
-  - "incomplete-art"
-  - audience
-  - staged
-  - "event-announcement"
-  - promotional
-  - historical
-  - beauty
-  - vintage
-  - "graphic-design"
-  - street
-  - landscape
-  - unboxed
-  - logo
-  - corporate
-  - event
-  - text
-  - "close-up"
-  - fantasy
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - documentary
-  - professional
-  - technical
-  - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - action
-  - pet
-  - advertising
+  - "still-life"
+  - packaging
 concepts:
-  - typography
-  - branding
-  - "incomplete-art"
-  - warning
-  - photorealism
+  - "fantasy-art"
   - informative
-  - vintage
-  - "technical-illustration"
   - "technical-documentation"
-  - "graphic-design"
+  - "wave-pattern"
+  - product
+  - technical
+  - "technical-illustration"
+  - illustration
+  - vintage
+  - "advertisement-design"
   - logo
   - advertisement
-  - "fantasy-art"
-  - product
-  - cartoon
   - "text-heavy"
-  - "advertisement-design"
-  - "wave-pattern"
-  - technical
-  - illustration
+  - cartoon
+  - typography
+  - "graphic-design"
+  - warning
+  - "incomplete-art"
+  - branding
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "gaussian-blur"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "radial-blur"
   - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
+  - "gaussian-blur"
   - "light-on-subject"
+  - symmetric
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - saturated
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - purple
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
-  - "dark-brown"
   - red
+  - orange
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
-  - engaged
-  - confused
-  - a
-  - happy
-  - c
   - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - confused
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - professional
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
-  - lockup
-  - alternate
-  - horizontal
   - primary
   - badge
+  - alternate
+  - lockup
+  - horizontal
 brand_colors:
-  - black
   - white
-  - gray
   - green
+  - black
+  - gray
 typographies:
   - arial
 imagery_styles:
-  - product
   - bold
-  - natural
   - photography
+  - product
+  - natural
 wikidata_description: American multinational semiconductor company
 has_twitter: true
 has_guidelines: true

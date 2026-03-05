@@ -2,11 +2,11 @@
 title: Greater Nevada Field
 slug: "greater-nevada-field"
 description: ""
-date: "2026-03-05T15:56:46.103104"
+date: "2026-03-05T22:38:39.729097"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - grey
-  - red
-  - navy
   - white
+  - red
+  - grey
+  - navy
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
   - professional
 wikidata_description: "baseball park in Reno, Nevada"

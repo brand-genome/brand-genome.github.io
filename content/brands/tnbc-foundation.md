@@ -2,7 +2,7 @@
 title: TNBC Foundation
 slug: "tnbc-foundation"
 description: ""
-date: "2026-03-05T15:56:45.959754"
+date: "2026-03-05T22:38:39.524580"
 draft: false
 sectors:
   - ngo

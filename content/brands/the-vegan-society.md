@@ -2,7 +2,7 @@
 title: The Vegan Society
 slug: "the-vegan-society"
 description: ""
-date: "2026-03-05T15:56:45.722964"
+date: "2026-03-05T22:38:39.212585"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - community
+  - charity
 industries: []
 countries:
   - "united-kingdom"

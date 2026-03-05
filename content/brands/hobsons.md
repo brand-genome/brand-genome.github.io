@@ -2,7 +2,7 @@
 title: Hobsons
 slug: hobsons
 description: ""
-date: "2026-03-05T15:56:46.066745"
+date: "2026-03-05T22:38:39.678057"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - teal
+  - green
   - purple
   - gray
-  - green
 typographies:
   - "open-sans"
 imagery_styles: []

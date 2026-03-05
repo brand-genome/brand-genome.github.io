@@ -2,13 +2,13 @@
 title: Thales
 slug: thales
 description: ""
-date: "2026-03-05T15:56:46.051389"
+date: "2026-03-05T22:38:39.643445"
 draft: false
 sectors:
-  - aerospace
   - cybersecurity
-  - defense
   - "space-technology"
+  - defense
+  - aerospace
 regions:
   - france
 years:
@@ -16,15 +16,15 @@ years:
 languages:
   - english
 tags:
-  - transport
   - technology
+  - transport
 industries:
-  - "software-industry"
   - "weapons-industry"
-  - "activities-of-head-offices"
-  - telecommunications
   - "aerospace-industry"
+  - "software-industry"
+  - "activities-of-head-offices"
   - "computer-security"
+  - telecommunications
 countries:
   - france
 revenue_buckets:
@@ -52,11 +52,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2765"
-  - "pantone-3125"
-  - black
   - white
+  - black
+  - "pantone-3125"
   - blue
+  - "pantone-2765"
 typographies:
   - times
 imagery_styles: []

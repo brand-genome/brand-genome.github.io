@@ -2,7 +2,7 @@
 title: 30Secondstomars
 slug: 30secondstomars
 description: ""
-date: "2026-03-05T15:56:46.251718"
+date: "2026-03-05T22:38:40.020616"
 draft: false
 sectors:
   - entertainment
@@ -19,222 +19,222 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
-perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
-image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
+  - "light-on-subject"
   - bright
-  - gradient
-  - light
+  - dark
+  - natural
+  - vignette
+  - colored
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
+image_backgrounds:
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - audience
+  - selfie
+  - landscape
+  - performance
+  - product
+  - text
+  - abstract
+  - interior
+  - "audience-perspective"
+  - street
+  - architectural
+  - action
+  - candid
+  - "live-stage"
+  - documentary
+  - group
   - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - interior
-  - candid
+  - "text-heavy"
+  - family
   - typography
-  - audience
+  - "graphic-design"
+  - portrait
+  - beauty
   - staged
   - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - family
-  - text
-  - portrait
-  - product
-  - "text-heavy"
-  - architectural
-  - documentary
-  - abstract
-  - "audience-perspective"
-  - action
+  - "still-life"
 concepts:
-  - "live-performance"
-  - "motion-capture"
-  - "incomplete-art"
   - audience
-  - "wave-pattern"
+  - "incomplete-art"
   - silhouette
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "live-event"
-  - "graphic-design"
-  - action
+  - "live-performance"
   - "text-heavy"
-  - typography
+  - "motion-capture"
+  - illustration
   - cartoon
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - action
+  - "live-event"
+  - photorealism
+  - "live-stage"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
+  - orange
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - dark
-  - curly
   - casual
   - flowing
-  - covered
+  - "pulled-back"
   - varied
-  - bald
-  - short
-  - updo
-  - "tied-back"
-  - straight
   - neat
+  - bald
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - long
+  - curly
+  - updo
+  - short
+  - dark
+  - "tied-back"
+  - covered
 facial_expressions:
-  - neutral
-  - surprised
-  - active
-  - engaged
-  - amazed
-  - focused
-  - content
-  - dynamic
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - happy
   - shocked
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - colorful
-  - beachwear
-  - "business-casual"
-  - streetwear
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - bright
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - energetic
-  - active
   - engaged
-  - reclined
-  - group
-  - leaning
-  - confident
-  - dynamic
-  - seated
-  - stretching
+  - surprised
   - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
-  - engaged
-  - upward
-  - away
+  - dynamic
+  - neutral
+  - active
+  - content
+  - excited
   - focused
+  - contemplative
+  - happy
+  - amazed
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - colorful
+  - traditional
+  - streetwear
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - bright
+  - pastel
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - energetic
+  - stretching
+  - group
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

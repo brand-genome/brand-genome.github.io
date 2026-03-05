@@ -2,12 +2,12 @@
 title: Holland America Line
 slug: "holland-america-line"
 description: ""
-date: "2026-03-05T15:56:46.187288"
+date: "2026-03-05T22:38:39.839522"
 draft: false
 sectors:
+  - cruise
   - tourism
   - hospitality
-  - cruise
 regions:
   - unknown
 years: []
@@ -25,299 +25,222 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
-  - blue
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - blue
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - social
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - artistic
-  - interior
-  - typography
-  - candid
-  - tabletop
+  - beach
+  - landscape
+  - waterfall
+  - nature
   - outdoor
+  - food
+  - product
+  - text
+  - lifestyle
+  - interior
+  - abstract
+  - "food-photography"
+  - tabletop
+  - street
+  - ocean
+  - artistic
+  - architectural
+  - architecture
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
   - urban
+  - event
+  - sky
+  - vacation
+  - fashion
+  - advertisement
   - cityscape
+  - "text-heavy"
+  - underwater
+  - family
+  - typography
+  - portrait
+  - beauty
+  - map
   - staged
   - historical
-  - food
-  - beauty
-  - street
-  - landscape
-  - event
-  - family
-  - "food-photography"
-  - text
+  - "still-life"
   - travel
-  - vacation
-  - portrait
-  - advertisement
-  - architecture
-  - lifestyle
-  - product
-  - nature
-  - "text-heavy"
-  - waterfall
-  - architectural
-  - beach
-  - documentary
-  - underwater
-  - abstract
-  - map
-  - action
-  - ocean
+  - social
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photography
-  - travel
-  - photorealism
-  - illustration
-  - vintage
-  - "vacation-theme"
-  - "graphic-design"
-  - cartoon
   - nature
+  - photography
+  - cartoon
   - "text-heavy"
+  - illustration
+  - "vacation-theme"
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - travel
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - gray
-  - "dark-green"
-  - black
   - white
+  - "dark-green"
+  - "dark-blue"
+  - cyan
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - bald
+  - neat
+  - wavy
+  - loose
+  - up
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - walking
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

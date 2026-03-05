@@ -2,7 +2,7 @@
 title: Subway
 slug: subway
 description: ""
-date: "2026-03-05T15:56:45.820754"
+date: "2026-03-05T22:38:39.327686"
 draft: false
 sectors:
   - food
@@ -42,19 +42,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
+  - primary
   - vertical
   - horizontal
-  - primary
 brand_colors:
-  - yellow
-  - purple
-  - green
   - orange
+  - green
+  - purple
+  - yellow
 typographies: []
 imagery_styles:
   - bold
-  - natural
   - aerial
+  - natural
 wikidata_description: American sandwich restaurant chain
 has_twitter: false
 has_guidelines: true

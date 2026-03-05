@@ -2,7 +2,7 @@
 title: Cricket Wireless
 slug: "cricket-wireless"
 description: ""
-date: "2026-03-05T15:56:46.216338"
+date: "2026-03-05T22:38:39.952714"
 draft: false
 sectors:
   - telecom
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - "united-states"
 revenue_buckets: []
@@ -22,220 +22,220 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - green
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - green
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - red
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - audience
+  - selfie
+  - commercial
+  - landscape
+  - promotional
+  - product
+  - interior
+  - illustration
+  - abstract
+  - "audience-perspective"
+  - comparative
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - typography
-  - branding
-  - candid
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - comparative
-  - portrait
+  - fashion
   - advertisement
-  - product
-  - sports
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "still-life"
+concepts:
+  - advertisement
+  - branding
+  - "wave-pattern"
   - cartoon
   - "text-heavy"
-  - architectural
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
   - typography
-  - cartoon
-  - "text-heavy"
-  - branding
+  - "graphic-design"
   - advertising
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - silhouette
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - green
-  - "dark-blue"
-  - gray
-  - black
   - white
-  - "light-blue"
   - olive
+  - black
+  - "dark-blue"
   - "light-green"
+  - "light-blue"
+  - gray
+  - green
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - red
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - bald
-  - black
-  - blonde
-  - long
   - casual
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - moustache
   - updo
   - "tied-back"
+  - beard
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - confident
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - pink
-  - earthy
-  - bright
-  - black
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - confident
-  - leaning
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
-  - engaged
-  - upward
-  - away
+  - neutral
+  - content
+  - excited
   - focused
+  - contemplative
+  - surprised
+  - confident
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - black
+  - earthy
+  - colorful
+  - pink
+  - bright
+  - pastel
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Bank Of America
 slug: "bank-of-america"
 description: ""
-date: "2026-03-05T15:56:46.249129"
+date: "2026-03-05T22:38:40.014116"
 draft: false
 sectors:
   - finance
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
+  - "financial-services"
   - "international-standard-industrial-classification"
   - "financial-sector"
-  - "financial-services"
 countries:
   - "united-states"
 revenue_buckets:
@@ -25,231 +25,231 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - interview
-  - selfie
-  - interior
-  - candid
-  - typography
-  - botanical
-  - cityscape
   - audience
-  - "incomplete-art"
-  - staged
-  - historical
-  - beauty
-  - "graphic-design"
+  - selfie
+  - professional
   - landscape
   - news
-  - logo
-  - corporate
-  - business
-  - event
-  - family
-  - office
-  - portrait
-  - advertisement
+  - botanical
   - product
-  - "text-heavy"
-  - architectural
-  - headshot
-  - professional
-  - documentary
+  - interior
   - "audience-perspective"
-  - action
   - advertising
-concepts:
-  - corporate
-  - "professional-image"
-  - "incomplete-art"
-  - professional
-  - "wave-pattern"
-  - informative
-  - illustration
-  - photorealism
-  - vintage
-  - "professional-headshot"
-  - informational
-  - "graphic-design"
-  - typography
-  - cartoon
-  - "text-heavy"
-  - branding
+  - architectural
+  - action
+  - candid
+  - infographic
+  - group
+  - headshot
+  - documentary
+  - "live-stage"
   - logo
+  - advertisement
+  - fashion
+  - sky
+  - interview
+  - event
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - business
+  - historical
+  - office
+  - "still-life"
+concepts:
   - "corporate-branding"
+  - informative
+  - logo
+  - professional
+  - branding
+  - "wave-pattern"
+  - "text-heavy"
+  - corporate
+  - illustration
+  - informational
+  - vintage
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "professional-image"
+  - "professional-headshot"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "negative-space"
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "dark-gray"
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - "royal-blue"
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - up
-  - curly
-  - "braided-updo"
-  - covered
-  - varied
-  - down
-  - short
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - bald
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - "braided-updo"
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - formal
-  - casual
-  - traditional
-  - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - professional
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - presenting
-  - walking
-  - speaking
   - seated
+  - speaking
+  - walking
   - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
   - reclined
-  - static
-gazes:
-  - sideways
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - presenting
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - speaking
-  - seated
-  - midsection
   - "head-shot"
-  - "full-body"
+  - seated
+  - speaking
+  - midsection
+  - "lower-half"
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

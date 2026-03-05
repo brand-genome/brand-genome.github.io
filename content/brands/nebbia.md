@@ -2,7 +2,7 @@
 title: Nebbia
 slug: nebbia
 description: ""
-date: "2026-03-05T15:56:46.061834"
+date: "2026-03-05T22:38:39.664647"
 draft: false
 sectors:
   - fashion
@@ -42,9 +42,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies:
   - helvetica
 imagery_styles: []

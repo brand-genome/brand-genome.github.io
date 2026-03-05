@@ -2,7 +2,7 @@
 title: ERA
 slug: era
 description: ""
-date: "2026-03-05T15:56:46.169365"
+date: "2026-03-05T22:38:39.811380"
 draft: false
 sectors:
   - "real-estate"
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - gray
-  - black
-  - navy
   - white
+  - red
+  - black
   - blue
+  - gray
+  - navy
 typographies:
   - gotham
   - arial
   - helvetica
 imagery_styles:
-  - monochrome
-  - modern
   - bold
   - dynamic
+  - modern
+  - monochrome
 wikidata_description: public research university in the Netherlands
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Pace University
 slug: "pace-university"
 description: ""
-date: "2026-03-05T15:56:45.942876"
+date: "2026-03-05T22:38:39.511738"
 draft: false
 sectors:
   - university
@@ -49,10 +49,10 @@ typographies:
   - serif
   - verdana
 imagery_styles:
-  - dynamic
-  - dramatic
   - bold
+  - dramatic
   - photography
+  - dynamic
 wikidata_description: private university in the New York metropolitan area
 has_twitter: false
 has_guidelines: true

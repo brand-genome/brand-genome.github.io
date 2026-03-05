@@ -2,11 +2,11 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-03-05T15:56:46.161529"
+date: "2026-03-05T22:38:39.801896"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "parcel-service"
+  - "logistics-supply-chain"
 regions:
   - netherlands
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - transport
+  - corporate
 industries:
   - "package-delivery"
 countries:
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
+  - white
+  - red
   - orange
   - grey
   - black
+  - yellow
   - blue
-  - white
-  - red
+  - green
 typographies:
-  - times
   - arial
+  - times
 imagery_styles:
-  - staged
   - bold
-  - natural
   - photography
+  - staged
+  - natural
 wikidata_description: International trademark owned by FedEx
 has_twitter: false
 has_guidelines: true

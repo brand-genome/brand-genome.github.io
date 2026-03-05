@@ -2,11 +2,11 @@
 title: Università di Macerata
 slug: "universita-di-macerata"
 description: ""
-date: "2026-03-05T15:56:45.916214"
+date: "2026-03-05T22:38:39.482088"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - icon
+  - alternate
 brand_colors:
-  - gray
-  - black
   - white
   - red
   - "pantone-7435"
+  - black
+  - gray
 typographies:
   - serif
   - frutiger

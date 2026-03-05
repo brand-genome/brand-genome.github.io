@@ -2,11 +2,11 @@
 title: University of Dayton
 slug: "university-of-dayton"
 description: ""
-date: "2026-03-05T15:56:46.132582"
+date: "2026-03-05T22:38:39.773136"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

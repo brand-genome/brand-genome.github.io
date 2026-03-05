@@ -2,7 +2,7 @@
 title: Genç Saadet
 slug: "genc-saadet"
 description: ""
-date: "2026-03-05T15:56:46.038276"
+date: "2026-03-05T22:38:39.607280"
 draft: false
 sectors:
   - ngo
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-298"
   - "pantone-2955"
+  - "pantone-298"
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

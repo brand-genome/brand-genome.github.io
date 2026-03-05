@@ -2,7 +2,7 @@
 title: Starbucks
 slug: starbucks
 description: ""
-date: "2026-03-05T15:56:46.193514"
+date: "2026-03-05T22:38:39.892966"
 draft: false
 sectors:
   - restaurant
@@ -23,324 +23,247 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - commercial
+  - astrology
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - text
+  - abstract
+  - interior
+  - "food-photography"
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - branding
-  - typography
-  - candid
-  - botanical
-  - cityscape
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - instructional
   - astronomy
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
-  - wildlife
-  - "food-photography"
-  - family
-  - text
-  - portrait
-  - advertisement
-  - product
-  - astrology
-  - nature
-  - "text-heavy"
-  - architectural
   - astronomical
-  - abstract
-  - illustration
-  - map
-  - action
-  - advertising
-concepts:
-  - typography
-  - branding
-  - "astronomy-and-astrology"
-  - "incomplete-art"
-  - "corporate-image"
-  - photorealism
-  - vintage
-  - instructional
-  - "graphic-design"
-  - "brand-identity"
-  - logo
-  - zodiac
   - advertisement
-  - "astrological-signs"
-  - cartoon
+  - fashion
+  - sky
+  - cityscape
   - "text-heavy"
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - wildlife
+  - portrait
+  - beauty
+  - map
+  - staged
+  - historical
+  - branding
+  - instructional
+  - "still-life"
+concepts:
+  - "brand-identity"
   - "wave-pattern"
   - illustration
+  - vintage
   - advertising
+  - logo
+  - advertisement
+  - zodiac
+  - "text-heavy"
+  - cartoon
+  - "astronomy-and-astrology"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "astrological-signs"
+  - branding
+  - instructional
+  - "corporate-image"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
-  - "saturated-colors"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "saturated-colors"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - cyan
-  - "dark-green"
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-green"
+  - black
+  - cyan
   - "dark-brown"
   - "light-blue"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
+  - "pulled-back"
   - red
-  - c
-  - ponytail
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
-  - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - n
-  - focused
-  - p
-clothing_styles:
-  - comfortable
-  - formal
   - traditional
-  - l
-  - e
-  - monochrome
-  - pastel
-  - sweater
-  - earthy
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - varied
+  - covered
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - vibrant
+  - beachwear
+  - monochrome
+  - swimwear
+  - traditional
+  - uniform
+  - costume
+  - earthy
+  - protective
+  - muted
+  - athletic
+  - "form-fitting"
+  - pastel
+  - "business-casual"
+  - sweater
+  - business
+  - formal
+  - comfortable
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
   - uniform
-  - p
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
+  - confident
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
+  - hugging
   - stretching
   - static
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - hugging
-  - n
-  - p
-  - reclined
+  - group
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
+  - downward
+  - outward
+  - upward
   - focused
   - "at-camera"
-  - p
+  - sideways
   - forward
-  - outward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
   - "group-shot"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

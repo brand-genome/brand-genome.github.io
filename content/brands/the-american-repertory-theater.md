@@ -2,7 +2,7 @@
 title: The American Repertory Theater
 slug: "the-american-repertory-theater"
 description: ""
-date: "2026-03-05T15:56:46.176341"
+date: "2026-03-05T22:38:39.818945"
 draft: false
 sectors:
   - "arts-culture"
@@ -39,12 +39,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - magenta
   - white
+  - black
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""

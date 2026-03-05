@@ -2,7 +2,7 @@
 title: Noor Fares
 slug: "noor-fares"
 description: ""
-date: "2026-03-05T15:56:46.032823"
+date: "2026-03-05T22:38:39.601232"
 draft: false
 sectors:
   - jewellery
@@ -37,12 +37,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
-  - black
   - "pantone-7632"
+  - black
 typographies:
   - display
 imagery_styles: []

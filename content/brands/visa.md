@@ -2,11 +2,11 @@
 title: Visa
 slug: visa
 description: ""
-date: "2026-03-05T15:56:45.851333"
+date: "2026-03-05T22:38:39.364440"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:

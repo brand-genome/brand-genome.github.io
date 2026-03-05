@@ -2,24 +2,24 @@
 title: American Express
 slug: "american-express"
 description: ""
-date: "2026-03-05T15:56:45.755915"
+date: "2026-03-05T22:38:39.252644"
 draft: false
 sectors:
   - finance
 regions:
   - usa
 years:
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
   - financial
   - featured
 industries:
+  - "financial-services"
   - "payment-card-industry"
   - "financial-service-activities-except-insurance-and-pension-funding"
-  - "financial-services"
 countries:
   - "united-states"
   - "united-kingdom"
@@ -32,164 +32,87 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - dark
-  - natural
   - moderate
   - bright
+  - dark
+  - natural
+  - colored
 perspectives:
-  - "rule-of-third"
   - "centered-composition"
+  - "rule-of-third"
   - "high-angle-photo"
   - "point-of-view-shot"
 image_backgrounds:
-  - blurred
-  - dark
-  - bright
   - textured
+  - blurred
   - solid
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - "two-tone"
+  - "analogous-colors"
+  - "pastel-colors"
   - "aquatic-colors"
 photography_genres:
   - architectural
-  - "still-life"
-  - "live-stage"
-  - portrait
   - product
-  - street
   - interior
+  - "still-life"
+  - street
   - landscape
   - action
+  - "live-stage"
+  - portrait
 concepts:
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
   - illustration
   - vintage
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - photorealism
 depths:
-  - "wide-angle-shot"
+  - "bright-focal-point"
   - "mid-shot"
   - "partly-focused-subject"
   - "fully-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "long-exposure"
   - "short-exposure"
   - "high-contrast"
+  - "neutral-density-filter"
+  - "long-exposure"
 dominant_colors:
   - "mud-green"
-  - cyan
-  - purple
-  - "dark-blue"
-  - gray
   - orange
+  - cyan
+  - "dark-blue"
   - black
   - blue
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
   - braided
-  - b
-  - t
-  - n
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
   - ponytail
 facial_expressions:
-  - b
-  - engaged
-  - t
   - focused
-  - n
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - engaged
 clothing_styles:
-  - b
-  - t
-  - n
   - traditional
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-clothing_colors:
-  - b
-  - t
-  - n
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-posings:
-  - b
-  - t
-  - n
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+clothing_colors: []
+posings: []
 gazes:
-  - b
-  - t
-  - n
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
   - forward
 body_sections:
-  - b
-  - t
-  - n
-  - i
-  - p
   - "head-shot"
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
 logo_elements: []
 brand_colors:
   - blue

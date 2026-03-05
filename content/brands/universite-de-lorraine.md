@@ -2,11 +2,11 @@
 title: Université de Lorraine
 slug: "universite-de-lorraine"
 description: ""
-date: "2026-03-05T15:56:46.172135"
+date: "2026-03-05T22:38:39.814201"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - black
-  - yellow
   - white
+  - yellow
+  - black
   - gray
 typographies:
   - arial

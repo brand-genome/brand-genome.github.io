@@ -2,7 +2,7 @@
 title: El Salvador
 slug: "el-salvador"
 description: ""
-date: "2026-03-05T15:56:45.910958"
+date: "2026-03-05T22:38:39.470122"
 draft: false
 sectors:
   - "public-sector"
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
+  - photography
   - gradient
   - clean
   - vibrant
-  - photography
 wikidata_description: city of the Philippines in the province of Misamis Oriental
 has_twitter: false
 has_guidelines: true

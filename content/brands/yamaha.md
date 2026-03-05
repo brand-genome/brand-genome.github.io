@@ -2,7 +2,7 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-03-05T15:56:46.031230"
+date: "2026-03-05T22:38:39.599556"
 draft: false
 sectors:
   - automobile
@@ -17,9 +17,9 @@ languages:
 tags:
   - corporate
 industries:
-  - "automotive-industry"
   - "manufacture-of-machinery-and-equipment"
   - "music-industry"
+  - "automotive-industry"
 countries:
   - japan
 revenue_buckets:
@@ -48,23 +48,23 @@ body_sections: []
 logo_elements:
   - wordmark
   - stacked
-  - vertical
   - logomark
+  - vertical
 brand_colors:
+  - white
+  - red
   - magenta
+  - black
   - yellow
   - silver
   - gray
-  - black
-  - white
-  - red
 typographies:
-  - verdana
   - ubuntu
+  - verdana
 imagery_styles:
+  - bold
   - dynamic
   - product
-  - bold
 wikidata_description: Japanese music and audio equipment maker
 has_twitter: false
 has_guidelines: true

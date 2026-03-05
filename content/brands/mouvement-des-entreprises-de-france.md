@@ -2,7 +2,7 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-03-05T15:56:45.818986"
+date: "2026-03-05T22:38:39.325745"
 draft: false
 sectors:
   - ngo
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
 typographies: []
 imagery_styles:
   - bold

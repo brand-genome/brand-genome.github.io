@@ -2,7 +2,7 @@
 title: Ofur
 slug: ofur
 description: ""
-date: "2026-03-05T15:56:45.682459"
+date: "2026-03-05T22:38:39.177789"
 draft: false
 sectors:
   - fashion
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - black
-  - magenta
   - white
+  - magenta
   - green
+  - black
 typographies:
-  - montserrat
   - "open-sans"
+  - montserrat
 imagery_styles:
-  - dynamic
   - bold
-  - product
+  - dynamic
   - photography
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

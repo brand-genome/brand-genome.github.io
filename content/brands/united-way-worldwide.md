@@ -2,7 +2,7 @@
 title: United Way Worldwide
 slug: "united-way-worldwide"
 description: ""
-date: "2026-03-05T15:56:46.065153"
+date: "2026-03-05T22:38:39.671971"
 draft: false
 sectors:
   - ngo
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - vertical
   - horizontal
-  - icon
 brand_colors:
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
 typographies:
-  - impact
-  - arial
   - roboto
+  - arial
+  - impact
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: Nonprofit organization
 has_twitter: false
 has_guidelines: true

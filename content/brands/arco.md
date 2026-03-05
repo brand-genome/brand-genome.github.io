@@ -2,7 +2,7 @@
 title: ARCO
 slug: arco
 description: ""
-date: "2026-03-05T15:56:45.763079"
+date: "2026-03-05T22:38:39.259814"
 draft: false
 sectors:
   - "petrol-station"

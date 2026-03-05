@@ -2,11 +2,11 @@
 title: Botswana
 slug: botswana
 description: ""
-date: "2026-03-05T15:56:46.070836"
+date: "2026-03-05T22:38:39.682416"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
   - tourism
 regions:
   - botswana
@@ -40,17 +40,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - green
-  - brown
   - gold
-  - yellow
   - orange
   - black
+  - yellow
   - blue
+  - brown
+  - green
 typographies:
   - serif
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Air Serbia
 slug: "air-serbia"
 description: ""
-date: "2026-03-05T15:56:45.702890"
+date: "2026-03-05T22:38:39.192539"
 draft: false
 sectors:
   - airline

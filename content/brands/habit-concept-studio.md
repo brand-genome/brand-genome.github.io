@@ -2,7 +2,7 @@
 title: Habit Concept Studio
 slug: "habit-concept-studio"
 description: ""
-date: "2026-03-05T15:56:45.653991"
+date: "2026-03-05T22:38:39.121364"
 draft: false
 sectors:
   - consulting

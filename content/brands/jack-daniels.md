@@ -2,7 +2,7 @@
 title: Jack Daniel’s
 slug: "jack-daniels"
 description: ""
-date: "2026-03-05T15:56:45.658064"
+date: "2026-03-05T22:38:39.125520"
 draft: false
 sectors:
   - drink

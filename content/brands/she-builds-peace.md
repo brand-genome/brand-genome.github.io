@@ -2,7 +2,7 @@
 title: She Builds Peace
 slug: "she-builds-peace"
 description: ""
-date: "2026-03-05T15:56:45.839363"
+date: "2026-03-05T22:38:39.349538"
 draft: false
 sectors:
   - ngo
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - icon
+  - lockup
 brand_colors:
+  - white
   - blue
   - gold
   - black
-  - white
 typographies:
-  - poppins
   - roboto
+  - poppins
   - "sans-serif"
 imagery_styles:
-  - geometric
   - bold
+  - geometric
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

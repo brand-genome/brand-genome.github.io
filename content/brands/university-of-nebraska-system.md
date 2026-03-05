@@ -2,11 +2,11 @@
 title: University Of Nebraska System
 slug: "university-of-nebraska-system"
 description: ""
-date: "2026-03-05T15:56:45.606197"
+date: "2026-03-05T22:38:39.078466"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

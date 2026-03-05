@@ -2,11 +2,11 @@
 title: CSUN Matadors Athletics
 slug: "csun-matadors-athletics"
 description: ""
-date: "2026-03-05T15:56:45.993858"
+date: "2026-03-05T22:38:39.569399"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
   - display
 imagery_styles:

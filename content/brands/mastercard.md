@@ -2,7 +2,7 @@
 title: Mastercard
 slug: mastercard
 description: ""
-date: "2026-03-05T15:56:45.734083"
+date: "2026-03-05T22:38:39.226939"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-service-activities-except-insurance-and-pension-funding"
   - "financial-services"
+  - "financial-service-activities-except-insurance-and-pension-funding"
 countries:
   - "united-states"
 revenue_buckets:
@@ -27,264 +27,264 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - white
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
   - commercial
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - cityscape
-  - "incomplete-art"
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - logo
-  - corporate
-  - event
-  - business
-  - agricultural
-  - family
-  - text
-  - office
-  - travel
-  - portrait
-  - advertisement
-  - informational
-  - art
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - architectural
-  - reportage
-  - documentary
   - professional
+  - "environmental-portrait"
+  - informational
+  - news
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - product
+  - art
+  - "corporate-event"
+  - text
+  - interior
   - abstract
   - illustration
   - "audience-perspective"
-  - "corporate-event"
-  - "environmental-portrait"
-  - "data-visualization"
-  - map
-  - action
+  - street
   - advertising
-concepts:
-  - studio
-  - "professional-headshot"
-  - commercial
-  - typography
-  - branding
-  - "incomplete-art"
-  - "corporate-image"
-  - celebration
-  - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - corporate
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - documentary
+  - group
+  - infographic
+  - logo
+  - event
   - advertisement
-  - "inspirational-quote"
-  - message
-  - informational
-  - cartoon
+  - fashion
+  - "data-visualization"
+  - sky
+  - reportage
   - "text-heavy"
+  - corporate
+  - cityscape
+  - family
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - map
+  - staged
+  - business
+  - "event-photography"
+  - agricultural
+  - office
+  - "still-life"
+  - travel
+concepts:
+  - informative
+  - studio
+  - commercial
   - professional
+  - informational
   - "wave-pattern"
+  - message
   - illustration
+  - vintage
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - "incomplete-art"
+  - celebration
+  - "inspirational-quote"
+  - branding
+  - "corporate-image"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - studio
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "close-up-shot"
-image_effects:
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - studio
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - professional
-  - silhouette
-  - "short-exposure"
-  - symmetric
-  - asymmetry
-  - "bright-focal-point"
-  - symmetrical
+  - "partly-focused-subject"
   - "high-contrast"
-  - "long-exposure"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - studio
+  - symmetric
   - "low-saturation"
-  - "sharp-focus"
-  - "cut-out"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - professional
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "cut-out"
+  - asymmetry
+  - "sharp-focus"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
+  - white
   - "off-white"
   - orange
+  - "dark-blue"
   - black
-  - white
   - "dark-brown"
   - "light-blue"
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - medium
-  - bald
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
   - updo
   - "tied-back"
+  - medium
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - workwear
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - rich
-  - earthy
-  - dynamic
-  - muted
-  - colorful
-  - vibrant
-  - subtle
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
-  - engaged
-  - upward
-  - away
+  - neutral
+  - content
   - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - rich
+  - vibrant
+  - muted
+  - dynamic
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - subtle
+  - pastel
+posings:
+  - seated
+  - walking
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements:
   - symbol
 brand_colors: []

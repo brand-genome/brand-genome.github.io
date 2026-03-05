@@ -2,11 +2,11 @@
 title: "Universidad Nacional Autónoma de Nicaragua, Managua"
 slug: "universidad-nacional-autonoma-de-nicaragua-managua"
 description: ""
-date: "2026-03-05T15:56:45.740281"
+date: "2026-03-05T22:38:39.234151"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - nicaragua
 years:

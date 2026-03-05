@@ -2,7 +2,7 @@
 title: Qantas
 slug: qantas
 description: ""
-date: "2026-03-05T15:56:46.001607"
+date: "2026-03-05T22:38:39.574442"
 draft: false
 sectors:
   - airline
@@ -15,8 +15,8 @@ languages:
 tags:
   - airline
 industries:
-  - "air-transport"
   - aviation
+  - "air-transport"
 countries:
   - australia
 revenue_buckets:
@@ -45,8 +45,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold

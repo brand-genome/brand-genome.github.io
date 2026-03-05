@@ -2,11 +2,11 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-03-05T15:56:45.837413"
+date: "2026-03-05T22:38:39.346625"
 draft: false
 sectors:
-  - automobile
   - "consumer-goods"
+  - automobile
 regions:
   - usa
 years:
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - montserrat
   - gotham
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: ""

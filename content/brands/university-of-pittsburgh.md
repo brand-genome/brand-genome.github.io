@@ -2,18 +2,18 @@
 title: University of Pittsburgh
 slug: "university-of-pittsburgh"
 description: ""
-date: "2026-03-05T15:56:45.677564"
+date: "2026-03-05T22:38:39.171320"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - usa
 years:
-  - 2015
-  - 2024
   - 2022
+  - 2024
+  - 2015
 languages:
   - english
 tags:
@@ -43,32 +43,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
+  - seal
+  - primary
   - icon
+  - alternate
+  - secondary
   - horizontal
   - signature
-  - seal
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - green
+  - white
   - gold
-  - gray
   - orange
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
   - serif
+  - "sans-serif"
   - script
   - merriweather
   - roboto
-  - "sans-serif"
 imagery_styles:
-  - modern
   - bold
+  - modern
   - graphic
 wikidata_description: "state-related research university located in Pittsburgh, Pennsylvania, United States"
 has_twitter: false

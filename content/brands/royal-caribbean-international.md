@@ -2,12 +2,12 @@
 title: Royal Caribbean International
 slug: "royal-caribbean-international"
 description: ""
-date: "2026-03-05T15:56:45.653881"
+date: "2026-03-05T22:38:39.121246"
 draft: false
 sectors:
-  - tourism
   - hospitality
   - cruise
+  - tourism
 regions:
   - norway
 years:

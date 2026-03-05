@@ -2,7 +2,7 @@
 title: John Knox Christian School
 slug: "john-knox-christian-school"
 description: ""
-date: "2026-03-05T15:56:45.677405"
+date: "2026-03-05T22:38:39.170314"
 draft: false
 sectors:
   - education
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - badge
   - logomark
+  - stacked
 brand_colors:
-  - teal
-  - black
   - white
+  - black
   - red
+  - teal
 typographies:
   - poppins
 imagery_styles:

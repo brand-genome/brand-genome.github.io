@@ -2,7 +2,7 @@
 title: Carthage Debate
 slug: "carthage-debate"
 description: ""
-date: "2026-03-05T15:56:45.964473"
+date: "2026-03-05T22:38:39.530823"
 draft: false
 sectors:
   - education
@@ -38,13 +38,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - icon
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

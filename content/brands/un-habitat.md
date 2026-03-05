@@ -2,11 +2,11 @@
 title: UN Habitat
 slug: "un-habitat"
 description: ""
-date: "2026-03-05T15:56:45.972698"
+date: "2026-03-05T22:38:39.545089"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - roboto
 imagery_styles:
-  - staged
   - bold
   - photography
+  - staged
 wikidata_description: An annual film festival associated with the United Nations Habitat Program
 has_twitter: false
 has_guidelines: true

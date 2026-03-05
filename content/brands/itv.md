@@ -2,11 +2,11 @@
 title: ITV
 slug: itv
 description: ""
-date: "2026-03-05T15:56:45.766713"
+date: "2026-03-05T22:38:39.264696"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - "united-kingdom"
 years:

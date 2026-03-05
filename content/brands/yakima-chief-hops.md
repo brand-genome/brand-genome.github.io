@@ -2,7 +2,7 @@
 title: Yakima Chief Hops
 slug: "yakima-chief-hops"
 description: ""
-date: "2026-03-05T15:56:45.991177"
+date: "2026-03-05T22:38:39.566699"
 draft: false
 sectors:
   - food
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
   - "pantone-1795"
-  - "pantone-9202"
-  - white
   - blue
   - "pantone-7463"
+  - "pantone-9202"
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

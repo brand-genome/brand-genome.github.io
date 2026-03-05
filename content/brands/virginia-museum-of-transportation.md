@@ -2,7 +2,7 @@
 title: Virginia Museum of Transportation
 slug: "virginia-museum-of-transportation"
 description: ""
-date: "2026-03-05T15:56:45.860512"
+date: "2026-03-05T22:38:39.375474"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - museum
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -40,14 +40,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gold
-  - gray
-  - black
   - white
   - red
+  - gold
+  - black
+  - gray
 typographies:
   - serif
 imagery_styles:

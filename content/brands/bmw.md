@@ -2,7 +2,7 @@
 title: BMW
 slug: bmw
 description: ""
-date: "2026-03-05T15:56:45.744032"
+date: "2026-03-05T22:38:39.241349"
 draft: false
 sectors:
   - automobile
@@ -13,12 +13,12 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
+  - "manufacture-of-motor-vehicles"
   - "automotive-industry"
   - "activities-of-holding-companies"
-  - "manufacture-of-motor-vehicles"
   - "aeronautical-engineering"
 countries:
   - germany

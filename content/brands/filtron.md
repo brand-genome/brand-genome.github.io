@@ -2,7 +2,7 @@
 title: Filtron
 slug: filtron
 description: ""
-date: "2026-03-05T15:56:46.065291"
+date: "2026-03-05T22:38:39.672135"
 draft: false
 sectors:
   - automobile
@@ -40,16 +40,16 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-186"
-  - "pantone-427"
-  - "pantone-376"
-  - "pantone-109"
-  - black
   - white
+  - "pantone-109"
+  - "pantone-376"
+  - "pantone-186"
+  - black
   - "pantone-429"
+  - "pantone-427"
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
   - bold
 wikidata_description: British company

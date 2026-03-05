@@ -2,11 +2,11 @@
 title: Girl Up
 slug: "girl-up"
 description: ""
-date: "2026-03-05T15:56:46.047339"
+date: "2026-03-05T22:38:39.638121"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - lockup
+  - horizontal
 brand_colors:
-  - pink
-  - green
-  - yellow
-  - purple
+  - white
   - teal
   - black
-  - white
+  - yellow
   - blue
+  - pink
+  - green
+  - purple
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - photography
 wikidata_description: NGO
 has_twitter: false

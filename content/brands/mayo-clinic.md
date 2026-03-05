@@ -2,7 +2,7 @@
 title: Mayo Clinic
 slug: "mayo-clinic"
 description: ""
-date: "2026-03-05T15:56:46.229117"
+date: "2026-03-05T22:38:39.993759"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "health-care"
   - research
+  - "health-care"
 countries:
   - "united-states"
 revenue_buckets:
@@ -25,335 +25,258 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "vertical-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - infographic
-  - "medical-illustration"
-  - sky
-  - amateur
-  - medical
-  - "still-life"
-  - group
-  - "live-stage"
-  - "macro-photography"
-  - anatomical
   - selfie
-  - healthcare
-  - weather
-  - anatomy
-  - interior
-  - typography
-  - candid
-  - botanical
-  - cityscape
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - health
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - holiday
-  - business
-  - family
-  - "food-photography"
-  - "close-up"
-  - office
-  - macro
-  - portrait
-  - advertisement
-  - illustrative
-  - lifestyle
-  - product
-  - religious
-  - cartoon
-  - information
-  - "text-heavy"
-  - sports
-  - nature
-  - bridal
-  - athletic
-  - architectural
   - "health-and-wellness"
   - professional
-  - "information-graphic"
-  - documentary
-  - abstract
-  - illustration
-  - educational
-  - action
-  - advertising
-concepts:
-  - "motion-capture"
-  - realism
-  - "medical-illustration"
-  - "educational-diagram"
-  - medical
-  - anatomical
-  - "educational-illustration"
-  - "educational-material"
+  - health
+  - religious
+  - landscape
+  - botanical
+  - promotional
+  - "close-up"
+  - nature
+  - food
+  - product
+  - illustrative
+  - "macro-photography"
   - anatomy
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - "anatomical-diagram"
-  - corporate
-  - "anatomy-diagram"
-  - cartoon
-  - "text-heavy"
-  - "motion-blur"
-  - professional
-  - "wave-pattern"
-  - "anatomical-illustration"
+  - lifestyle
   - illustration
+  - abstract
+  - interior
+  - "food-photography"
+  - "medical-illustration"
+  - street
+  - advertising
   - educational
+  - architectural
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - fitness
+  - sports
+  - documentary
+  - infographic
+  - advertisement
+  - fashion
+  - healthcare
+  - athletic
+  - sky
+  - cityscape
+  - "text-heavy"
+  - cartoon
+  - weather
+  - bridal
+  - amateur
+  - family
+  - typography
+  - "graphic-design"
+  - macro
+  - portrait
+  - beauty
+  - holiday
+  - "information-graphic"
+  - anatomical
+  - staged
+  - historical
+  - business
+  - medical
+  - office
+  - "still-life"
+  - information
+concepts:
+  - professional
+  - "educational-material"
+  - "wave-pattern"
+  - anatomy
+  - "educational-illustration"
+  - illustration
+  - "medical-illustration"
+  - vintage
+  - "anatomical-illustration"
+  - educational
+  - "anatomical-diagram"
+  - anatomical
   - "professional-attire"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - corporate
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "anatomy-diagram"
+  - "educational-diagram"
+  - realism
+  - medical
+  - "motion-blur"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
-  - "deep-depth-of-field"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "deep-depth-of-field"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
+  - white
   - "off-white"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - graying
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - wavy
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
   - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - professional
+  - beachwear
+  - active
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - protective
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
+  - leaning
   - reclined
+  - relaxed
+  - dynamic
+  - engaged
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

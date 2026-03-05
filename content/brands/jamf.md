@@ -2,11 +2,11 @@
 title: Jamf
 slug: jamf
 description: ""
-date: "2026-03-05T15:56:46.068991"
+date: "2026-03-05T22:38:39.680457"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -40,15 +40,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - stacked
   - icon
+  - stacked
 brand_colors:
   - white
   - gray
 typographies: []
 imagery_styles:
-  - product
   - playful
+  - product
 wikidata_description: U.S. technology company
 has_twitter: false
 has_guidelines: true

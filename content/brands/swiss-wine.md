@@ -2,11 +2,11 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-03-05T15:56:45.944952"
+date: "2026-03-05T22:38:39.513591"
 draft: false
 sectors:
-  - "marketing-advertising"
   - drink
+  - "marketing-advertising"
 regions:
   - switzerland
 years:
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
+  - white
+  - "pantone-1805"
+  - red
   - "pantone-411"
   - grey
   - black
-  - white
-  - red
-  - "pantone-1805"
 typographies: []
 imagery_styles:
   - bold

@@ -2,15 +2,15 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-03-05T15:56:45.692276"
+date: "2026-03-05T22:38:39.182473"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - english
 tags:
@@ -40,15 +40,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - photography
 wikidata_description: "an international body that brings together all national basketball federations, in charge of deciding basketball rules, disseminating basketball and organising international competitions"
 has_twitter: false

@@ -2,11 +2,11 @@
 title: Vogel’s
 slug: vogels
 description: ""
-date: "2026-03-05T15:56:45.716947"
+date: "2026-03-05T22:38:39.206971"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - netherlands
 years:

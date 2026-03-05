@@ -2,11 +2,11 @@
 title: Delta Gamma Fraternity
 slug: "delta-gamma-fraternity"
 description: ""
-date: "2026-03-05T15:56:46.046562"
+date: "2026-03-05T22:38:39.636604"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -38,25 +38,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - secondary
   - primary
   - symbol
+  - logomark
+  - secondary
 brand_colors:
-  - pink
-  - green
-  - blue
-  - black
-  - navy
   - red
+  - black
+  - blue
+  - pink
+  - navy
+  - green
 typographies:
-  - arial
   - avenir
+  - arial
   - garamond
 imagery_styles:
   - photography
-  - candid
   - professional
+  - candid
   - natural
 wikidata_description: ""
 has_twitter: false

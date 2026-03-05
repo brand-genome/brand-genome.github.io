@@ -2,11 +2,11 @@
 title: Idaho State University
 slug: "idaho-state-university"
 description: ""
-date: "2026-03-05T15:56:45.843535"
+date: "2026-03-05T22:38:39.355052"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,25 +40,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - black
   - white
-  - gray
   - orange
+  - black
+  - gray
 typographies:
-  - serif
-  - display
   - slab
+  - serif
   - "sans-serif"
+  - display
 imagery_styles:
-  - clean
   - bold
   - photography
+  - clean
 wikidata_description: "research university in eastern Idaho, USA"
 has_twitter: false
 has_guidelines: true

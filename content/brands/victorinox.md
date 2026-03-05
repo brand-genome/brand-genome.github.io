@@ -2,12 +2,12 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-03-05T15:56:46.150426"
+date: "2026-03-05T22:38:39.790248"
 draft: false
 sectors:
-  - hardware
   - "consumer-goods"
   - watches
+  - hardware
 regions:
   - switzerland
 years:
@@ -45,17 +45,17 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - "pantone-201"
-  - silver
-  - black
   - white
-  - "pantone-877"
   - red
+  - black
+  - silver
+  - "pantone-201"
+  - "pantone-877"
 typographies: []
 imagery_styles:
+  - photography
   - product
   - graphic
-  - photography
 wikidata_description: "Swiss manufacturer of Swiss Army Knives, cutlery, watches, travel gear, and fragrances"
 has_twitter: false
 has_guidelines: true

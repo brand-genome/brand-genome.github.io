@@ -2,11 +2,11 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-03-05T15:56:46.060997"
+date: "2026-03-05T22:38:39.658272"
 draft: false
 sectors:
-  - "retail-commerce"
   - publishing
+  - "retail-commerce"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - cultural
+  - entertainment
 industries:
   - bookselling
 countries:
@@ -43,20 +43,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - red
   - green
+  - black
 typographies:
   - serif
   - display
 imagery_styles:
-  - minimal
   - bold
   - photography
+  - minimal
 wikidata_description: American book retailer
 has_twitter: false
 has_guidelines: true

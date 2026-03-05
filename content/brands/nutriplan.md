@@ -2,7 +2,7 @@
 title: Nutriplan
 slug: nutriplan
 description: ""
-date: "2026-03-05T15:56:45.906490"
+date: "2026-03-05T22:38:39.437630"
 draft: false
 sectors:
   - horticulture
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - vertical
   - horizontal
-  - icon
 brand_colors:
-  - black
   - white
-  - green
   - red
+  - green
+  - black
 typographies: []
 imagery_styles:
   - photography

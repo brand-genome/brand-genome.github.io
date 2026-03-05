@@ -2,7 +2,7 @@
 title: Santander
 slug: santander
 description: ""
-date: "2026-03-05T15:56:45.697336"
+date: "2026-03-05T22:38:39.189133"
 draft: false
 sectors:
   - finance
@@ -11,14 +11,14 @@ regions:
 years:
   - 2020
 languages:
-  - english
   - spanish
+  - english
 tags:
   - financial
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - spain
 revenue_buckets: []

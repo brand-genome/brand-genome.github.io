@@ -2,11 +2,11 @@
 title: Boston Children’s Hospital
 slug: "boston-childrens-hospital"
 description: ""
-date: "2026-03-05T15:56:45.889982"
+date: "2026-03-05T22:38:39.409561"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - usa
 years:
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - secondary
   - alternate
-  - icon
 brand_colors:
-  - pink
-  - red
-  - black
   - white
-  - blue
+  - red
   - "pantone-287"
+  - black
+  - blue
+  - pink
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: ""
 has_twitter: false

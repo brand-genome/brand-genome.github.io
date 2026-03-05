@@ -2,7 +2,7 @@
 title: Turkish Airlines
 slug: "turkish-airlines"
 description: ""
-date: "2026-03-05T15:56:46.192991"
+date: "2026-03-05T22:38:39.891188"
 draft: false
 sectors:
   - airline
@@ -21,318 +21,241 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - white
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - white
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - "sky-colors"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
-  - dark
+  - "autumnal-colors"
+  - "galaxy-colors"
   - vintage
   - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
-  - "galaxy-colors"
+  - dark
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
+  - seascape
+  - audience
+  - selfie
+  - professional
+  - beach
+  - aerial
+  - landscape
+  - botanical
+  - nature
+  - food
+  - product
+  - interior
+  - abstract
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - documentary
+  - group
+  - logo
   - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - typography
-  - candid
-  - botanical
+  - vacation
+  - advertisement
+  - event
   - cityscape
-  - audience
-  - aerial
+  - "text-heavy"
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
   - staged
   - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - family
-  - "food-photography"
-  - travel
-  - vacation
-  - portrait
-  - advertisement
-  - outdoors
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - architectural
-  - beach
-  - documentary
-  - professional
-  - abstract
+  - "still-life"
   - calendar
-  - seascape
-  - action
-  - advertising
+  - travel
+  - outdoors
 concepts:
-  - corporate
   - "sports-event"
-  - "live-action"
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
   - advertisement
-  - "action-shot"
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - corporate
+  - vintage
+  - "live-action"
   - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "short-exposure"
-  - symmetric
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "cut-out"
+  - symmetric
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "cut-out"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
-  - "light-blue"
   - red
+  - orange
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - mustache
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - "buzz-cut"
-  - b
-  - long
-  - n
-  - uniform
   - casual
-  - gray
-  - p
+  - flowing
+  - wavy
+  - loose
   - bearded
+  - mustache
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - uniform
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - contemplative
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - uniform
   - casual
-  - p
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
   - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+  - uniform
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - red
+  - vibrant
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
   - uniform
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - uniform
-  - p
   - reclined
-gazes:
-  - l
-  - e
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
   - uniform
-  - p
-  - forward
+gazes:
+  - engaged
+  - away
+  - downward
   - outward
+  - upward
+  - sideways
+  - forward
+  - uniform
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - "close-up"
   - uniform
-  - p
-  - "full-back"
 logo_elements: []
 brand_colors: []
 typographies: []

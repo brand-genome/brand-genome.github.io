@@ -2,11 +2,11 @@
 title: ParentChild+
 slug: parentchild
 description: ""
-date: "2026-03-05T15:56:46.033684"
+date: "2026-03-05T22:38:39.602236"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -39,24 +39,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - yellow
-  - gray
+  - white
   - teal
   - black
-  - white
+  - yellow
   - blue
+  - pink
+  - gray
 typographies:
-  - montserrat
   - arial
+  - montserrat
 imagery_styles:
-  - vibrant
   - bold
   - playful
   - photography
+  - vibrant
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

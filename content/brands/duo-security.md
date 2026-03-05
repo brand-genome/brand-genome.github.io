@@ -2,11 +2,11 @@
 title: Duo Security
 slug: "duo-security"
 description: ""
-date: "2026-03-05T15:56:46.003503"
+date: "2026-03-05T22:38:39.576085"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

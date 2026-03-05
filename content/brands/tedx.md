@@ -2,11 +2,11 @@
 title: TEDx
 slug: tedx
 description: ""
-date: "2026-03-05T15:56:46.068132"
+date: "2026-03-05T22:38:39.679612"
 draft: false
 sectors:
-  - entertainment
   - "arts-culture"
+  - entertainment
 regions:
   - usa
 years:
@@ -40,13 +40,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - "pantone-485"
   - white
   - red
+  - black
+  - "pantone-485"
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
   - professional

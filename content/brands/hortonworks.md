@@ -2,7 +2,7 @@
 title: Hortonworks
 slug: hortonworks
 description: ""
-date: "2026-03-05T15:56:46.098639"
+date: "2026-03-05T22:38:39.719556"
 draft: false
 sectors:
   - software
@@ -39,22 +39,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - wordmark
-  - abstract
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - abstract
+  - wordmark
 brand_colors:
   - black
 typographies:
   - roboto
 imagery_styles:
-  - photography
-  - abstract
-  - natural
-  - lifestyle
-  - dramatic
   - bold
+  - photography
+  - lifestyle
+  - abstract
+  - dramatic
+  - natural
 wikidata_description: American software company
 has_twitter: false
 has_guidelines: true

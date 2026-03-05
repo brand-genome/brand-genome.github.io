@@ -2,11 +2,11 @@
 title: Northwest Missouri Bearcats
 slug: "northwest-missouri-bearcats"
 description: ""
-date: "2026-03-05T15:56:45.847122"
+date: "2026-03-05T22:38:39.359266"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -41,11 +41,11 @@ logo_elements:
   - mascot
   - primary
 brand_colors:
-  - green
-  - gray
-  - silver
-  - black
   - white
+  - black
+  - silver
+  - gray
+  - green
 typographies: []
 imagery_styles:
   - graphic

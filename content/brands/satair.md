@@ -2,7 +2,7 @@
 title: Satair
 slug: satair
 description: ""
-date: "2026-03-05T15:56:46.092581"
+date: "2026-03-05T22:38:39.713792"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -41,22 +41,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - silver
+  - white
+  - "pantone-7706"
   - "pantone-7635"
   - black
   - "pantone-3282"
-  - white
+  - silver
   - "pantone-2210"
-  - "pantone-7706"
 typographies:
   - helvetica
 imagery_styles:
-  - clean
-  - professional
   - aerial
+  - professional
+  - clean
 wikidata_description: satair
 has_twitter: false
 has_guidelines: true

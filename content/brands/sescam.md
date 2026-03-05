@@ -2,11 +2,11 @@
 title: Sescam
 slug: sescam
 description: ""
-date: "2026-03-05T15:56:45.794496"
+date: "2026-03-05T22:38:39.298169"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - spain
 years:
@@ -42,13 +42,13 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-339"
-  - green
-  - yellow
-  - black
-  - blue
   - "pantone-280"
   - "pantone-123"
+  - black
+  - yellow
+  - blue
+  - green
+  - "pantone-339"
 typographies:
   - helvetica
 imagery_styles:

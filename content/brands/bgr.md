@@ -2,7 +2,7 @@
 title: BGR
 slug: bgr
 description: ""
-date: "2026-03-05T15:56:45.850581"
+date: "2026-03-05T22:38:39.363620"
 draft: false
 sectors:
   - publishing
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - serif
   - display
 imagery_styles:
-  - gradient
   - bold
+  - gradient
   - graphic
 wikidata_description: "railway station in Khyber Pakhtunkhwa, Pakistan"
 has_twitter: false

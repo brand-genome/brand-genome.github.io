@@ -2,13 +2,13 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-03-05T15:56:45.974227"
+date: "2026-03-05T22:38:39.546989"
 draft: false
 sectors:
   - automobile
 regions:
-  - usa
   - "south-korea"
+  - usa
 years:
   - 2016
   - 2002
@@ -21,8 +21,8 @@ tags:
 industries:
   - "automotive-industry"
 countries:
-  - "south-korea"
   - germany
+  - "south-korea"
 revenue_buckets:
   - "under-1m"
 operating_income_buckets:
@@ -46,20 +46,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - symbol
+  - badge
   - lockup
   - horizontal
-  - symbol
   - wordmark
   - logomark
-  - primary
-  - badge
   - vertical
 brand_colors:
   - gold
-  - silver
   - grey
   - black
   - blue
+  - silver
 typographies: []
 imagery_styles:
   - graphic

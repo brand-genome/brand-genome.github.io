@@ -2,7 +2,7 @@
 title: California Teachers Association
 slug: "california-teachers-association"
 description: ""
-date: "2026-03-05T15:56:45.764237"
+date: "2026-03-05T22:38:39.260957"
 draft: false
 sectors:
   - education

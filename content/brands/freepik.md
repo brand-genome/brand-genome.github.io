@@ -2,11 +2,11 @@
 title: Freepik
 slug: freepik
 description: ""
-date: "2026-03-05T15:56:45.712156"
+date: "2026-03-05T22:38:39.201409"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - spain
 years:

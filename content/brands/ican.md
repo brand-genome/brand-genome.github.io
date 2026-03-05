@@ -2,7 +2,7 @@
 title: ICAN
 slug: ican
 description: ""
-date: "2026-03-05T15:56:46.180209"
+date: "2026-03-05T22:38:39.823093"
 draft: false
 sectors:
   - education
@@ -42,18 +42,18 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - green
+  - white
+  - violet
+  - "pantone-268"
   - "pantone-376"
+  - "pantone-1375"
   - orange
   - black
-  - white
-  - "pantone-268"
-  - "pantone-1375"
-  - violet
+  - green
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - graphic
 wikidata_description: organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces of the Internet
 has_twitter: false

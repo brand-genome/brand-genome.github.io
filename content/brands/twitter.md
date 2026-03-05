@@ -2,7 +2,7 @@
 title: Twitter
 slug: twitter
 description: ""
-date: "2026-03-05T15:56:45.943144"
+date: "2026-03-05T22:38:39.512005"
 draft: false
 sectors:
   - software
@@ -28,194 +28,194 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
   - bright
-  - "two-tone"
-  - light
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - product
+  - text
+  - interior
+  - illustration
+  - abstract
+  - street
+  - architectural
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - event
-  - text
-  - portrait
   - advertisement
-  - product
+  - fashion
+  - event
+  - sky
   - "text-heavy"
-  - architectural
+  - "graphic-design"
+  - portrait
+  - beauty
   - graduation
-  - abstract
-  - illustration
-  - action
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
+  - "text-heavy"
   - graduation
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
   - "mud-green"
-  - "dark-blue"
-  - "dark-gray"
-  - gray
   - orange
+  - "dark-blue"
   - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - up
-  - dark
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - bald
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - "form-fitting"
-  - formal
   - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - relaxed
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
   - traditional
   - "t-shirt"
-  - costume
-  - relaxed
-  - beachwear
+  - comfortable
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - subtle
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - confident
+  - engaged
+  - holding
+  - active
+  - standing
+  - running
   - "at-ease"
   - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
-  - focused
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - impact

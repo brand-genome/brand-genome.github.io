@@ -2,11 +2,11 @@
 title: UPS
 slug: ups
 description: ""
-date: "2026-03-05T15:56:45.998158"
+date: "2026-03-05T22:38:39.571740"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "parcel-service"
+  - "logistics-supply-chain"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - delivery
   - logistics
+  - delivery
 countries:
   - "united-states"
 revenue_buckets:
@@ -29,324 +29,247 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
+  - textured
+  - text
+  - blurred
+  - solid
   - transparent
-  - bright
+  - light
   - gradient
   - "autumnal-colors"
-  - light
-  - textured
-  - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
+  - pattern
   - bright
-  - "autumnal-colors"
-  - "sunset-colors"
+  - dark
+color_schemes:
   - "two-tone"
-  - light
-  - "inverted-colors"
+  - "bright-colors"
+  - grayscale
   - textured
+  - monotone
+  - "sunset-colors"
+  - "complementary-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - "professional-headshot"
-  - selfie
-  - interior
-  - industrial
-  - commercial
   - "awareness-campaign"
-  - candid
-  - branding
-  - botanical
-  - urban
-  - aerial
-  - staged
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - business
-  - family
-  - "social-cause"
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - headshot
+  - selfie
+  - commercial
   - professional
-  - documentary
+  - aerial
+  - landscape
+  - botanical
+  - "social-cause"
+  - product
+  - industrial
+  - lifestyle
+  - interior
   - abstract
   - illustration
-  - action
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - informative
-  - "professional-headshot"
-  - "graphic-design"
-  - typography
-  - cartoon
+  - architectural
+  - action
+  - candid
+  - "live-stage"
+  - group
+  - headshot
+  - urban
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - fashion
   - "text-heavy"
+  - corporate
+  - cartoon
+  - amateur
+  - family
+  - "graphic-design"
+  - "professional-headshot"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - business
+  - branding
+  - "still-life"
+concepts:
+  - informative
+  - logo
   - emotional
   - branding
-  - logo
+  - "wave-pattern"
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "color-enhancement"
-  - asymmetry
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
   - "sharp-focus"
   - "clean-background"
+  - "low-exposure"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
-  - "artificial-shadow"
+  - "vanishing-point"
+  - "color-enhancement"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - black
   - white
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - "royal-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - engaged
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
-  - focused
   - casual
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
-facial_expressions:
   - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
+  - straight
+  - ponytail
+  - curly
   - joyful
+  - content
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - focused
+  - long
   - contemplative
+facial_expressions:
+  - joyful
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - safety
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - safety
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - "safety-yellow"
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - "safety-yellow"
-  - b
-  - n
-  - p
   - "high-visibility"
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
-  - primary
   - alternate
+  - primary
   - symbol
 brand_colors:
   - brown

@@ -2,7 +2,7 @@
 title: SBCTA
 slug: sbcta
 description: ""
-date: "2026-03-05T15:56:45.986570"
+date: "2026-03-05T22:38:39.561708"
 draft: false
 sectors:
   - "public-sector"
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors:
   - blue
   - orange
-  - black
   - green
+  - black
 typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - clean
   - modern
   - professional
+  - clean
   - graphic
 wikidata_description: successor to San Bernardino Associated Governments
 has_twitter: false

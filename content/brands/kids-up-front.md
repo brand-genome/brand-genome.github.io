@@ -2,7 +2,7 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-03-05T15:56:45.888421"
+date: "2026-03-05T22:38:39.406281"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - ngo
+  - entertainment
 industries: []
 countries:
   - canada
@@ -41,17 +41,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - nunito
   - avenir
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: charitable organization from Canada
 has_twitter: false
 has_guidelines: true

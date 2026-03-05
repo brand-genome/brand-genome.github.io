@@ -2,7 +2,7 @@
 title: Energy Star
 slug: "energy-star"
 description: ""
-date: "2026-03-05T15:56:46.000724"
+date: "2026-03-05T22:38:39.573853"
 draft: false
 sectors:
   - "public-sector"
@@ -39,12 +39,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - alternate
   - seal
+  - alternate
+  - symbol
 brand_colors:
-  - blue
   - white
+  - blue
   - cyan
   - black
 typographies: []

@@ -2,7 +2,7 @@
 title: Nordstrom
 slug: nordstrom
 description: ""
-date: "2026-03-05T15:56:46.218849"
+date: "2026-03-05T22:38:39.956525"
 draft: false
 sectors:
   - fashion
@@ -21,286 +21,209 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
   - commercial
-  - candid
-  - typography
-  - botanical
-  - urban
-  - decorative
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
   - "home-decor"
-  - "graphic-design"
-  - street
   - landscape
-  - fitness
-  - "food-photography"
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
+  - botanical
+  - promotional
+  - food
   - product
-  - "text-heavy"
-  - bridal
-  - architectural
-  - underwater
+  - text
+  - lifestyle
+  - interior
   - abstract
-  - action
+  - "food-photography"
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - action
+  - "live-stage"
+  - urban
+  - group
+  - fitness
+  - candid
+  - decorative
+  - fashion
+  - advertisement
+  - sky
+  - bridal
+  - "text-heavy"
+  - underwater
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
+  - "low-saturation"
   - silhouette
-  - "vanishing-point"
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
   - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
   - "short-exposure"
-  - "artificial-shadow"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
+  - casual
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - varied
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
+  - ponytail
+  - braided
   - long
-  - n
-  - casual
-  - p
+  - curly
   - updo
+  - short
+  - dark
   - "tied-back"
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - dress
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - dress
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - focused
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

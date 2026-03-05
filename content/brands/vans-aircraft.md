@@ -2,7 +2,7 @@
 title: Van’s Aircraft
 slug: "vans-aircraft"
 description: ""
-date: "2026-03-05T15:56:46.074405"
+date: "2026-03-05T22:38:39.688183"
 draft: false
 sectors:
   - aerospace
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
-  - primary
   - horizontal
+  - primary
+  - stacked
 brand_colors:
-  - silver
+  - white
   - orange
   - grey
   - black
-  - white
+  - silver
 typographies: []
 imagery_styles:
   - bold

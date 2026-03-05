@@ -2,7 +2,7 @@
 title: Zenith Bank
 slug: "zenith-bank"
 description: ""
-date: "2026-03-05T15:56:46.212842"
+date: "2026-03-05T22:38:39.948427"
 draft: false
 sectors:
   - finance
@@ -21,360 +21,283 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
-  - red
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - white
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
+  - informative
   - selfie
-  - interior
-  - education
   - commercial
-  - candid
-  - typography
-  - botanical
-  - financial
-  - baby
-  - "event-photography"
-  - political
-  - motivational
-  - celebration
-  - staged
-  - inspirational
-  - informative
-  - promotional
-  - historical
-  - beauty
-  - food
-  - vintage
-  - instructional
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - holiday
-  - quote
-  - corporate
-  - conceptual
-  - event
-  - business
-  - family
-  - "food-photography"
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - religious
-  - sports
-  - cartoon
-  - "text-heavy"
-  - information
-  - nature
-  - architectural
   - professional
-  - documentary
-  - "information-graphic"
-  - underwater
-  - abstract
-  - illustration
-  - "social-media"
-  - educational
-  - action
-  - list
-  - advertising
-concepts:
-  - "information-design"
-  - "positive-message"
-  - typography
-  - "event-photography"
-  - "incomplete-art"
-  - motivational
-  - "audience-participation"
-  - warning
-  - inspirational
-  - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - quote
+  - religious
   - conceptual
-  - "digital-art"
-  - photography
+  - baby
+  - inspirational
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - abstract
+  - vintage
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - fitness
+  - documentary
+  - educational
+  - infographic
+  - quote
+  - fashion
   - advertisement
-  - cartoon
+  - sky
+  - financial
+  - event
   - "text-heavy"
+  - corporate
+  - underwater
+  - cartoon
+  - education
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - holiday
+  - list
+  - "information-graphic"
+  - staged
+  - celebration
+  - business
+  - historical
+  - "event-photography"
+  - "social-media"
+  - instructional
+  - political
+  - information
+  - "still-life"
+  - travel
+  - motivational
+concepts:
+  - informative
+  - "positive-message"
+  - "audience-participation"
+  - inspirational
+  - conceptual
   - "wave-pattern"
   - illustration
-  - "motivational-quote"
-  - "inspirational-message"
-  - list
+  - "digital-art"
+  - vintage
+  - "information-design"
   - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - "motivational-quote"
+  - quote
+  - advertisement
   - "text-heavy"
-  - "motion-blur"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - warning
+  - "incomplete-art"
+  - list
+  - photography
+  - "event-photography"
+  - "inspirational-message"
+  - motivational
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - silhouette
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
   - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
-  - "dark-brown"
+  - "off-white"
   - red
   - "dark-red"
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - updo
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - neutral
-  - engaged
-  - a
-  - c
-  - happy
-  - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
   - formal
-  - traditional
-  - l
-  - e
+  - long
+facial_expressions:
+  - joyful
+  - shocked
+  - engaged
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - traditional
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - relaxed
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "t-shirt"
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
+  - traditional
   - bright
-  - p
+  - pastel
+  - muted
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
+  - confident
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
   - saluting
   - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - contemplative
+  - group
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

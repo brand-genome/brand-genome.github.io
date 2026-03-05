@@ -2,7 +2,7 @@
 title: Wipeout
 slug: wipeout
 description: ""
-date: "2026-03-05T15:56:46.081339"
+date: "2026-03-05T22:38:39.701429"
 draft: false
 sectors:
   - entertainment
@@ -38,18 +38,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - alternate
   - primary
+  - secondary
 brand_colors:
-  - brown
-  - yellow
-  - gray
-  - blue
-  - black
-  - navy
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - gray
+  - navy
+  - brown
 typographies:
   - univers
 imagery_styles:

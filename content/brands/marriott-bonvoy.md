@@ -2,7 +2,7 @@
 title: Marriott Bonvoy
 slug: "marriott-bonvoy"
 description: ""
-date: "2026-03-05T15:56:45.743767"
+date: "2026-03-05T22:38:39.240907"
 draft: false
 sectors:
   - hospitality

@@ -2,7 +2,7 @@
 title: Guttman College
 slug: "guttman-college"
 description: ""
-date: "2026-03-05T15:56:45.946894"
+date: "2026-03-05T22:38:39.515557"
 draft: false
 sectors:
   - education
@@ -38,25 +38,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - mascot
-  - secondary
   - primary
+  - mascot
   - icon
+  - secondary
+  - horizontal
 brand_colors:
-  - indigo
-  - yellow
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - orange
+  - black
+  - yellow
+  - indigo
+  - blue
+  - gray
 typographies:
   - georgia
   - serif
-  - arial
   - "sans-serif"
+  - arial
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

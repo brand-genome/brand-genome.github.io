@@ -2,11 +2,11 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-03-05T15:56:45.863661"
+date: "2026-03-05T22:38:39.378326"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,17 +41,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - seal
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - "pantone-4515"
-  - "pantone-3435"
-  - gray
-  - black
   - white
+  - "pantone-3435"
+  - gold
+  - black
+  - gray
+  - green
+  - "pantone-4515"
 typographies: []
 imagery_styles:
   - bold

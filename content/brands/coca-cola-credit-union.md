@@ -2,7 +2,7 @@
 title: "Coca-cola Credit Union"
 slug: "coca-cola-credit-union"
 description: ""
-date: "2026-03-05T15:56:45.981817"
+date: "2026-03-05T22:38:39.558261"
 draft: false
 sectors:
   - finance
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - symbol
   - alternate
   - horizontal
-  - symbol
   - wordmark
-  - primary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
   - impact
   - script

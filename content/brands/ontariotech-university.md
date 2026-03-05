@@ -2,7 +2,7 @@
 title: OntarioTech University
 slug: "ontariotech-university"
 description: ""
-date: "2026-03-05T15:56:45.836535"
+date: "2026-03-05T22:38:39.342780"
 draft: false
 sectors:
   - university
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - education
-  - university
   - sport
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,11 +40,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:

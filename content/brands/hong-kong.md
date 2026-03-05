@@ -2,7 +2,7 @@
 title: Hong Kong
 slug: "hong-kong"
 description: ""
-date: "2026-03-05T15:56:45.721984"
+date: "2026-03-05T22:38:39.212182"
 draft: false
 sectors:
   - "public-sector"
@@ -11,8 +11,8 @@ regions:
   - "hong-kong"
   - china
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - chinese
 tags:
@@ -41,23 +41,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
-  - cyan
-  - green
-  - purple
-  - yellow
-  - orange
-  - blue
-  - black
   - white
   - red
+  - orange
+  - black
+  - yellow
+  - cyan
+  - blue
+  - green
+  - purple
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
   - graphic
 wikidata_description: city and special administrative region of China
 has_twitter: false

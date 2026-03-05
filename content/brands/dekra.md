@@ -2,11 +2,11 @@
 title: Dekra
 slug: dekra
 description: ""
-date: "2026-03-05T15:56:45.671067"
+date: "2026-03-05T22:38:39.153704"
 draft: false
 sectors:
-  - consulting
   - automobile
+  - consulting
   - cybersecurity
 regions:
   - germany
@@ -19,8 +19,8 @@ tags:
   - security
 industries: []
 countries:
-  - denmark
   - germany
+  - denmark
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -44,12 +44,12 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - green
-  - yellow
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies: []
 imagery_styles:
   - bold

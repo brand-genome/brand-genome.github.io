@@ -2,7 +2,7 @@
 title: Alma Shopping
 slug: "alma-shopping"
 description: ""
-date: "2026-03-05T15:56:45.988399"
+date: "2026-03-05T22:38:39.562649"
 draft: false
 sectors:
   - "consumer-goods"
@@ -37,17 +37,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
   - bold
-  - geometric
   - modern
+  - geometric
   - graphic
 wikidata_description: ""
 has_twitter: false

@@ -2,11 +2,11 @@
 title: BenQ
 slug: benq
 description: ""
-date: "2026-03-05T15:56:46.133421"
+date: "2026-03-05T22:38:39.774014"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -43,8 +43,8 @@ logo_elements:
   - primary
   - badge
 brand_colors:
-  - black
   - purple
+  - black
 typographies:
   - "gill-sans"
 imagery_styles: []

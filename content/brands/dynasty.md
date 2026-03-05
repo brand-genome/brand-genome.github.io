@@ -2,7 +2,7 @@
 title: Dynasty
 slug: dynasty
 description: ""
-date: "2026-03-05T15:56:46.034642"
+date: "2026-03-05T22:38:39.603369"
 draft: false
 sectors:
   - gaming
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - sport
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - gold
   - white
+  - gold
 typographies:
   - verdana
   - futura

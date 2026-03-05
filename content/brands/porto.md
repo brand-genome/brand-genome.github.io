@@ -2,7 +2,7 @@
 title: Porto
 slug: porto
 description: ""
-date: "2026-03-05T15:56:46.035614"
+date: "2026-03-05T22:38:39.604352"
 draft: false
 sectors:
   - "public-sector"
@@ -43,9 +43,9 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
+  - white
   - blue
   - gold
-  - white
 typographies: []
 imagery_styles:
   - bold

@@ -2,7 +2,7 @@
 title: Monsanto
 slug: monsanto
 description: ""
-date: "2026-03-05T15:56:46.149700"
+date: "2026-03-05T22:38:39.789527"
 draft: false
 sectors:
   - "consumer-goods"
@@ -15,8 +15,8 @@ languages:
   - english
 tags: []
 industries:
-  - biotechnology
   - agriculture
+  - biotechnology
 countries:
   - "united-states"
 revenue_buckets:
@@ -42,17 +42,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
-  - arial
-  - times
-  - helvetica
-  - garamond
   - verdana
+  - garamond
+  - times
+  - arial
+  - helvetica
 imagery_styles:
   - bold
   - photography

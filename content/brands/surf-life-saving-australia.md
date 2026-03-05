@@ -2,12 +2,12 @@
 title: Surf Life Saving Australia
 slug: "surf-life-saving-australia"
 description: ""
-date: "2026-03-05T15:56:46.130475"
+date: "2026-03-05T22:38:39.770681"
 draft: false
 sectors:
   - ngo
-  - "emergency-services"
   - sports
+  - "emergency-services"
 regions:
   - australia
 years:
@@ -45,8 +45,8 @@ brand_colors:
   - red
   - yellow
 typographies:
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
   - bold
 wikidata_description: organization

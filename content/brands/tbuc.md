@@ -2,11 +2,11 @@
 title: TBUC
 slug: tbuc
 description: ""
-date: "2026-03-05T15:56:46.123705"
+date: "2026-03-05T22:38:39.762945"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - cyan
   - orange
+  - cyan
 typographies:
-  - verdana
   - gotham
+  - verdana
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Green Party
 slug: "green-party"
 description: ""
-date: "2026-03-05T15:56:46.121770"
+date: "2026-03-05T22:38:39.760173"
 draft: false
 sectors:
   - "public-sector"
@@ -45,9 +45,9 @@ brand_colors:
 typographies: []
 imagery_styles:
   - minimal
+  - photography
   - vibrant
   - graphic
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

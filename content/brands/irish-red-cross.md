@@ -2,7 +2,7 @@
 title: Irish Red Cross
 slug: "irish-red-cross"
 description: ""
-date: "2026-03-05T15:56:45.940954"
+date: "2026-03-05T22:38:39.510620"
 draft: false
 sectors:
   - ngo
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - "pantone-485"
   - white
+  - red
   - black
+  - "pantone-485"
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
   - bold

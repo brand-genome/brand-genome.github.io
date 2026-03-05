@@ -2,7 +2,7 @@
 title: Form Assembly
 slug: "form-assembly"
 description: ""
-date: "2026-03-05T15:56:46.141204"
+date: "2026-03-05T22:38:39.782439"
 draft: false
 sectors:
   - software
@@ -38,28 +38,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - gold
+  - orange
+  - black
+  - blue
+  - gray
+  - green
 typographies:
+  - roboto
   - "open-sans"
   - slab
-  - roboto
 imagery_styles:
-  - professional
+  - bold
   - photography
+  - professional
   - gradient
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

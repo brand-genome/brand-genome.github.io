@@ -2,11 +2,11 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-03-05T15:56:46.031095"
+date: "2026-03-05T22:38:39.599427"
 draft: false
 sectors:
-  - biotech
   - research
+  - biotech
 regions:
   - belgium
 years:
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - lockup
+  - primary
+  - secondary
 brand_colors:
-  - black
-  - orange
   - white
+  - orange
   - green
+  - black
 typographies:
-  - "open-sans"
   - impact
+  - "open-sans"
 imagery_styles:
   - bold
 wikidata_description: Flemish research institute

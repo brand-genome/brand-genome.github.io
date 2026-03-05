@@ -2,11 +2,11 @@
 title: Commonwealth foundation
 slug: "commonwealth-foundation"
 description: ""
-date: "2026-03-05T15:56:45.719184"
+date: "2026-03-05T22:38:39.209573"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:

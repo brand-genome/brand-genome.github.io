@@ -2,11 +2,11 @@
 title: Rush Enterprises
 slug: "rush-enterprises"
 description: ""
-date: "2026-03-05T15:56:45.958764"
+date: "2026-03-05T22:38:39.523740"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
 regions:
   - usa
 years:

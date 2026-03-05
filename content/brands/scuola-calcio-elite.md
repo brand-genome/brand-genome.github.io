@@ -2,7 +2,7 @@
 title: Scuola Calcio Elite
 slug: "scuola-calcio-elite"
 description: ""
-date: "2026-03-05T15:56:45.913039"
+date: "2026-03-05T22:38:39.474238"
 draft: false
 sectors:
   - education
@@ -41,12 +41,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - gold
-  - blue
-  - black
   - white
   - red
+  - gold
+  - black
+  - blue
+  - green
 typographies:
   - arial
 imagery_styles:

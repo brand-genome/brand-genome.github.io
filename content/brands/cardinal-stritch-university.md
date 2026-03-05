@@ -2,11 +2,11 @@
 title: Cardinal Stritch University
 slug: "cardinal-stritch-university"
 description: ""
-date: "2026-03-05T15:56:46.033166"
+date: "2026-03-05T22:38:39.601614"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,11 +41,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - wordmark
+  - stacked
 brand_colors: []
 typographies:
   - serif

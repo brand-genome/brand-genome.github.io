@@ -2,22 +2,22 @@
 title: "Metro by T-Mobile"
 slug: "metro-by-t-mobile"
 description: ""
-date: "2026-03-05T15:56:45.785678"
+date: "2026-03-05T22:38:39.284068"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2020
   - 2018
+  - 2020
 languages:
   - english
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - "united-states"
 revenue_buckets: []
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - gold
   - purple

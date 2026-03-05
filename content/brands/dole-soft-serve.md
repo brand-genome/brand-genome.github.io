@@ -2,7 +2,7 @@
 title: Dole Soft Serve
 slug: "dole-soft-serve"
 description: ""
-date: "2026-03-05T15:56:45.882674"
+date: "2026-03-05T22:38:39.394728"
 draft: false
 sectors:
   - food
@@ -37,20 +37,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
   - blue
-  - yellow
   - black
+  - yellow
 typographies:
   - lato
 imagery_styles:
-  - organic
   - photography
   - product
   - natural
+  - organic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

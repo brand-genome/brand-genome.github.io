@@ -2,12 +2,12 @@
 title: Arthritis Foundation
 slug: "arthritis-foundation"
 description: ""
-date: "2026-03-05T15:56:46.122192"
+date: "2026-03-05T22:38:39.760759"
 draft: false
 sectors:
+  - research
   - ngo
   - healthcare
-  - research
 regions:
   - usa
 years:
@@ -41,28 +41,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
   - logomark
-  - secondary
-  - primary
   - vertical
 brand_colors:
   - "pantone-7725"
-  - green
-  - "pantone-3005"
-  - gray
   - black
   - blue
+  - "pantone-3005"
+  - gray
+  - green
 typographies:
   - roboto
 imagery_styles:
+  - bold
   - photography
   - staged
   - vibrant
-  - candid
-  - bold
   - graphic
+  - candid
 wikidata_description: "non-profit organization in the USA"
 has_twitter: false
 has_guidelines: true

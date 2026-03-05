@@ -2,11 +2,11 @@
 title: Bravida
 slug: bravida
 description: ""
-date: "2026-03-05T15:56:45.788764"
+date: "2026-03-05T22:38:39.290620"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - sweden
 years:

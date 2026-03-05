@@ -2,7 +2,7 @@
 title: Plan2go
 slug: plan2go
 description: ""
-date: "2026-03-05T15:56:46.002739"
+date: "2026-03-05T22:38:39.575525"
 draft: false
 sectors:
   - travel
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - alternate
   - primary
-  - symbol
+  - secondary
 brand_colors:
-  - green
+  - white
   - grey
   - black
-  - white
   - blue
+  - green
 typographies: []
 imagery_styles:
-  - realistic
   - bold
+  - realistic
   - photography
 wikidata_description: ""
 has_twitter: false

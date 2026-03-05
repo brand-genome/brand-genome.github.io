@@ -2,7 +2,7 @@
 title: Canvas Instructure
 slug: "canvas-instructure"
 description: ""
-date: "2026-03-05T15:56:46.094360"
+date: "2026-03-05T22:38:39.715620"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

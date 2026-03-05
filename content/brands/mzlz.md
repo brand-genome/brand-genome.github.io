@@ -2,7 +2,7 @@
 title: MZLZ
 slug: mzlz
 description: ""
-date: "2026-03-05T15:56:45.862296"
+date: "2026-03-05T22:38:39.377233"
 draft: false
 sectors:
   - "public-transportation"
@@ -37,18 +37,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - arial
   - helvetica
 imagery_styles:
+  - bold
   - monochrome
   - clean
-  - bold
 wikidata_description: group of stereoisomers with the chemical formula C₄₅H₇₂O₂₀
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-03-05T15:56:45.711726"
+date: "2026-03-05T22:38:39.201058"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
   - "direct-selling"
 countries:

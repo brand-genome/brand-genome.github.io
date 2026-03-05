@@ -2,7 +2,7 @@
 title: uniFrance
 slug: unifrance
 description: ""
-date: "2026-03-05T15:56:45.781509"
+date: "2026-03-05T22:38:39.279757"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - entertainment
   - featured
+  - entertainment
 industries:
   - "foreign-affairs"
 countries:

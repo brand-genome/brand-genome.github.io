@@ -2,11 +2,11 @@
 title: Liverpool City Region
 slug: "liverpool-city-region"
 description: ""
-date: "2026-03-05T15:56:45.824525"
+date: "2026-03-05T22:38:39.331282"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -43,9 +43,9 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
+  - aerial
   - dynamic
   - natural
-  - aerial
 wikidata_description: part of the 2020 UK local elections
 has_twitter: false
 has_guidelines: true

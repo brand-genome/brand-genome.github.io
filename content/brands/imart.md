@@ -2,7 +2,7 @@
 title: imart
 slug: imart
 description: ""
-date: "2026-03-05T15:56:46.129904"
+date: "2026-03-05T22:38:39.769777"
 draft: false
 sectors:
   - "design-creative"

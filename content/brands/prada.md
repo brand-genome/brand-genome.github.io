@@ -2,12 +2,12 @@
 title: Prada
 slug: prada
 description: ""
-date: "2026-03-05T15:56:46.218098"
+date: "2026-03-05T22:38:39.954771"
 draft: false
 sectors:
-  - beauty
   - fashion
   - footwear
+  - beauty
 regions:
   - unknown
 years: []
@@ -23,300 +23,223 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - formal
   - selfie
-  - interior
-  - candid
+  - professional
+  - landscape
   - botanical
   - outdoor
-  - staged
-  - beauty
-  - "red-carpet"
-  - street
-  - landscape
-  - event
-  - portrait
-  - advertisement
   - product
-  - sports
-  - architectural
-  - professional
   - abstract
-  - action
+  - interior
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "still-life"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - fashion
+  - sky
+  - event
   - advertisement
-  - academic
-  - "formal-attire"
-  - "text-heavy"
-  - "graphic-design"
+  - "red-carpet"
+  - beauty
+  - portrait
+  - staged
+  - formal
+  - "still-life"
+concepts:
   - product
+  - advertisement
+  - "formal-attire"
+  - "wave-pattern"
+  - "text-heavy"
   - cartoon
+  - illustration
+  - academic
+  - vintage
+  - typography
+  - "graphic-design"
+  - "still-life"
   - "product-display"
   - "product-photography"
-  - typography
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - "light-on-subject"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
+  - "vanishing-point"
+  - "long-exposure"
+  - "short-exposure"
+  - "light-on-subject"
+  - "negative-space"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - confident
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+  - confident
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

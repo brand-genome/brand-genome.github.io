@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-03-05T15:56:46.070053"
+date: "2026-03-05T22:38:39.681594"
 draft: false
 sectors:
   - "social-media"
@@ -13,15 +13,15 @@ years:
 languages:
   - russian
 tags:
-  - networks
   - featured
   - internet
+  - networks
 industries:
-  - investment
   - "technology-company"
+  - investment
 countries:
-  - cyprus
   - russia
+  - cyprus
 revenue_buckets:
   - "10b-50b"
 operating_income_buckets:
@@ -46,22 +46,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - wordmark
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - professional
-  - photography
-  - dynamic
-  - vibrant
   - bold
+  - photography
+  - vibrant
+  - dynamic
+  - professional
 wikidata_description: Russian internet company
 has_twitter: false
 has_guidelines: true

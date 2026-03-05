@@ -2,7 +2,7 @@
 title: Ticket To The Moon
 slug: "ticket-to-the-moon"
 description: ""
-date: "2026-03-05T15:56:46.067179"
+date: "2026-03-05T22:38:39.678578"
 draft: false
 sectors:
   - "consumer-goods"

@@ -2,7 +2,7 @@
 title: Dott
 slug: dott
 description: ""
-date: "2026-03-05T15:56:45.851209"
+date: "2026-03-05T22:38:39.364252"
 draft: false
 sectors:
   - "ride-sharing"
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - green
-  - yellow
+  - white
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies: []
 imagery_styles:
-  - organic
-  - vibrant
   - illustration
+  - vibrant
+  - organic
   - graphic
 wikidata_description: electric bicycle and scooter rental company
 has_twitter: false

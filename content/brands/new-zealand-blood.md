@@ -2,11 +2,11 @@
 title: New Zealand Blood
 slug: "new-zealand-blood"
 description: ""
-date: "2026-03-05T15:56:46.161813"
+date: "2026-03-05T22:38:39.802258"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - "new-zealand"
 years:
@@ -40,13 +40,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
+  - white
+  - red
   - "pantone-3435"
   - grey
   - black
-  - white
   - "pantone-485"
-  - red
+  - green
 typographies:
   - arial
   - helvetica

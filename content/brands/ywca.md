@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-03-05T15:56:45.810216"
+date: "2026-03-05T22:38:39.316083"
 draft: false
 sectors:
   - ngo
@@ -40,26 +40,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - alternate
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - alternate
+  - secondary
+  - lockup
+  - horizontal
+  - stacked
 brand_colors:
+  - white
   - "pantone-172"
   - black
-  - white
   - gray
 typographies:
   - "source-sans"
+  - avenir
   - arial
   - display
-  - avenir
 imagery_styles:
-  - candid
   - bold
   - photography
+  - candid
 wikidata_description: "social organization that promotes womens' emancipation, leadership and rights"
 has_twitter: false
 has_guidelines: true

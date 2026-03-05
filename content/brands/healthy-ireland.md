@@ -2,11 +2,11 @@
 title: Healthy Ireland
 slug: "healthy-ireland"
 description: ""
-date: "2026-03-05T15:56:46.086366"
+date: "2026-03-05T22:38:39.706987"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - "pantone-376"
   - white
+  - "pantone-376"
+  - black
   - green
 typographies: []
 imagery_styles:

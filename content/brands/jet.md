@@ -2,7 +2,7 @@
 title: Jet
 slug: jet
 description: ""
-date: "2026-03-05T15:56:46.086468"
+date: "2026-03-05T22:38:39.707087"
 draft: false
 sectors:
   - "e-commerce"
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - purple
 typographies: []
 imagery_styles:
-  - lifestyle
-  - candid
   - bold
   - photography
+  - candid
+  - lifestyle
 wikidata_description: Australian rock band
 has_twitter: false
 has_guidelines: true

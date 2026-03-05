@@ -2,7 +2,7 @@
 title: Netjets
 slug: netjets
 description: ""
-date: "2026-03-05T15:56:46.211443"
+date: "2026-03-05T22:38:39.943690"
 draft: false
 sectors:
   - aerospace
@@ -20,268 +20,191 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - "sunset-colors"
-  - light
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
+  - transparent
   - "sunset-colors"
-  - "two-tone"
   - light
-  - "aquatic-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - professional
+  - landscape
+  - product
+  - interior
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - staged
-  - beauty
-  - street
-  - landscape
   - event
+  - sky
+  - fashion
   - family
   - portrait
-  - product
-  - sports
-  - architectural
-  - professional
-  - abstract
-  - action
-  - advertising
+  - beauty
+  - staged
+  - "still-life"
 concepts:
+  - advertisement
   - "live-performance"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "low-saturation"
   - silhouette
   - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
+  - "high-saturation"
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - lavender
-  - gray
+  - olive
   - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
-  - olive
+  - lavender
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
   - "tied-back"
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
   - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - l
-  - a
-  - e
-  - colorful
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - n
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - t
-  - "close-up"
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Fédération Française de Karaté
 slug: "federation-francaise-de-karate"
 description: ""
-date: "2026-03-05T15:56:46.088713"
+date: "2026-03-05T22:38:39.709310"
 draft: false
 sectors:
   - sports
@@ -38,13 +38,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles:
-  - monochrome
   - classic
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

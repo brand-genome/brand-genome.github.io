@@ -2,7 +2,7 @@
 title: Eastern Illinois University
 slug: "eastern-illinois-university"
 description: ""
-date: "2026-03-05T15:56:45.762355"
+date: "2026-03-05T22:38:39.258746"
 draft: false
 sectors:
   - university

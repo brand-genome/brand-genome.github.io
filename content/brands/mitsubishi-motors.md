@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-03-05T15:56:45.999853"
+date: "2026-03-05T22:38:39.573099"
 draft: false
 sectors:
   - automobile
@@ -44,12 +44,12 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - magenta
-  - yellow
-  - gray
-  - silver
-  - black
   - red
+  - magenta
+  - black
+  - yellow
+  - silver
+  - gray
 typographies: []
 imagery_styles:
   - dynamic

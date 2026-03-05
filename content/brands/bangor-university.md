@@ -2,7 +2,7 @@
 title: Bangor University
 slug: "bangor-university"
 description: ""
-date: "2026-03-05T15:56:45.922396"
+date: "2026-03-05T22:38:39.493021"
 draft: false
 sectors:
   - university
@@ -40,27 +40,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
-  - white
-  - "pantone-152"
   - "pantone-124"
   - "pantone-1805"
+  - white
+  - black
+  - "pantone-152"
   - "pantone-105"
 typographies:
   - arial
 imagery_styles:
-  - contemporary
-  - modern
+  - bold
   - photography
-  - natural
-  - portrait
   - landscape
   - vibrant
-  - bold
   - graphic
+  - contemporary
+  - modern
+  - natural
+  - portrait
 wikidata_description: Welsh institute of higher education
 has_twitter: false
 has_guidelines: true

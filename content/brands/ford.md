@@ -2,7 +2,7 @@
 title: Ford
 slug: ford
 description: ""
-date: "2026-03-05T15:56:45.774222"
+date: "2026-03-05T22:38:39.271803"
 draft: false
 sectors:
   - automobile
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2006
   - 2021
+  - 2006
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -45,22 +45,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - emblem
-  - secondary
-  - vertical
-  - stacked
   - primary
+  - emblem
   - icon
+  - secondary
+  - horizontal
+  - stacked
+  - vertical
 brand_colors:
-  - black
   - "pantone-3262"
+  - black
 typographies:
   - impact
   - avenir
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: American multinational automotive company
 has_twitter: false

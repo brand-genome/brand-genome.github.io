@@ -2,11 +2,11 @@
 title: Matco Tools
 slug: "matco-tools"
 description: ""
-date: "2026-03-05T15:56:46.002859"
+date: "2026-03-05T22:38:39.575630"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:
@@ -40,13 +40,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: American professional tool distributor
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-03-05T15:56:46.162226"
+date: "2026-03-05T22:38:39.802724"
 draft: false
 sectors:
   - "public-sector"
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - arial
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Revere Health
 slug: "revere-health"
 description: ""
-date: "2026-03-05T15:56:46.141321"
+date: "2026-03-05T22:38:39.782599"
 draft: false
 sectors:
   - healthcare
@@ -41,26 +41,26 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - magenta
-  - green
-  - "pantone-367"
-  - purple
-  - gray
-  - black
-  - "pantone-306"
   - white
-  - blue
+  - "pantone-367"
+  - magenta
   - "pantone-538"
+  - "pantone-306"
+  - black
+  - blue
+  - gray
   - "pantone-241"
+  - green
+  - purple
 typographies:
+  - gotham
   - serif
   - "sans-serif"
   - "proxima-nova"
-  - gotham
 imagery_styles:
+  - photography
   - candid
   - natural
-  - photography
 wikidata_description: healthcare
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Karuna
 slug: karuna
 description: ""
-date: "2026-03-05T15:56:46.003114"
+date: "2026-03-05T22:38:39.575753"
 draft: false
 sectors:
   - ngo
@@ -41,19 +41,19 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - green
+  - white
   - red
-  - gray
   - grey
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
-  - din
   - verdana
+  - din
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
   - graphic
 wikidata_description: "non-profit organization based in Amherst, Massachusetts"
 has_twitter: false

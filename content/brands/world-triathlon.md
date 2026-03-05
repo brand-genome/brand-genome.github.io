@@ -2,7 +2,7 @@
 title: World Triathlon
 slug: "world-triathlon"
 description: ""
-date: "2026-03-05T15:56:45.852563"
+date: "2026-03-05T22:38:39.366054"
 draft: false
 sectors:
   - sports
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
-  - professional
-  - photography
-  - natural
-  - dynamic
-  - clean
   - bold
+  - photography
+  - dynamic
+  - professional
+  - clean
+  - natural
 wikidata_description: international triathlon governing body
 has_twitter: false
 has_guidelines: true

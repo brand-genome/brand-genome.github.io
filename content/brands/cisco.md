@@ -2,15 +2,15 @@
 title: Cisco
 slug: cisco
 description: ""
-date: "2026-03-05T15:56:46.166450"
+date: "2026-03-05T22:38:39.807341"
 draft: false
 sectors:
-  - hardware
-  - networking
-  - cybersecurity
-  - telecom
-  - electronics
   - software
+  - cybersecurity
+  - hardware
+  - electronics
+  - telecom
+  - networking
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - internet
+  - corporate
 industries:
   - telecommunications
 countries:
@@ -31,353 +31,276 @@ operating_income_buckets:
 net_profit_buckets:
   - "10b-50b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
   - "rule-of-thirds"
-  - "panorama-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gradient
-  - brick
+  - solid
   - light
   - blue
-  - textured
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - warehouse
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - packaging
-  - artistic
-  - interior
-  - industrial
-  - branding
-  - typography
-  - candid
-  - botanical
-  - baby
-  - "event-photography"
-  - cityscape
   - audience
-  - celebration
-  - staged
-  - promotional
-  - food
-  - beauty
-  - astronomy
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - wildlife
-  - business
-  - family
-  - text
-  - office
-  - portrait
-  - advertisement
-  - product
+  - selfie
   - astrology
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - bridal
-  - architectural
-  - candy
   - professional
-  - documentary
+  - baby
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
   - technical
-  - underwater
+  - industrial
+  - text
+  - interior
   - abstract
   - "audience-perspective"
   - illustration
-  - "social-media"
-  - action
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - documentary
-  - "wave-pattern"
-  - "industrial-design"
+  - artistic
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
+  - group
+  - documentary
+  - astronomy
+  - logo
+  - fashion
+  - sky
+  - event
   - advertisement
+  - warehouse
+  - bridal
+  - cityscape
+  - corporate
+  - "text-heavy"
+  - underwater
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - wildlife
+  - portrait
+  - beauty
+  - candy
+  - staged
+  - celebration
+  - business
+  - branding
+  - "social-media"
+  - "event-photography"
+  - office
+  - "still-life"
+  - packaging
+concepts:
   - informative
   - message
-  - "graphic-design"
-  - astrology
-  - cartoon
-  - interior
-  - "text-heavy"
   - textured
+  - advertisement
+  - astrology
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - interior
+  - vintage
+  - "industrial-design"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
+  - documentary
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
+  - "bokeh-effect"
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "text-heavy"
   - "motion-capture"
   - "high-saturation"
-  - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - asymmetry
-  - "bright-focal-point"
   - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "text-heavy"
-  - "short-exposure"
-  - "artificial-shadow"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - turquoise
-  - black
   - white
+  - black
+  - "dark-blue"
+  - cyan
   - "light-blue"
+  - "royal-blue"
+  - turquoise
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - up
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - wavy
+  - loose
   - updo
-  - "not-visible"
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - "collared-shirt"
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - logo
-  - business
-  - t
-  - i
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - "button-up"
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - relaxed
+  - beachwear
+  - professional
+  - swimwear
+  - traditional
+  - uniform
+  - costume
+  - protective
+  - logo
+  - athletic
+  - "form-fitting"
+  - "business-casual"
+  - business
+  - "collared-shirt"
+  - formal
+  - "button-up"
+  - "t-shirt"
+  - comfortable
+clothing_colors:
+  - vibrant
+  - logo
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
   - subtle
-  - logo
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
   - uniform
-  - p
 posings:
-  - "with-thumbs-up"
   - seated
-  - confident
-  - "at-ease"
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
   - standing
-  - b
-  - n
+  - running
   - focused
-  - p
-  - reclined
+  - "at-ease"
+  - stretching
+  - "with-thumbs-up"
+  - static
+  - confident
 gazes:
-  - l
-  - e
-  - engaged
-  - downward
   - "looking-at-camera"
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - inward
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
   - engaged
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - inward
+  - upward
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - reclined
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - reclined
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Bpay
 slug: bpay
 description: ""
-date: "2026-03-05T15:56:46.147521"
+date: "2026-03-05T22:38:39.788012"
 draft: false
 sectors:
   - finance
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:

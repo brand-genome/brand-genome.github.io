@@ -2,7 +2,7 @@
 title: UN Volunteers
 slug: "un-volunteers"
 description: ""
-date: "2026-03-05T15:56:46.033300"
+date: "2026-03-05T22:38:39.601746"
 draft: false
 sectors:
   - ngo
@@ -37,14 +37,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - grey
   - blue
+  - grey
 typographies: []
 imagery_styles:
   - photography

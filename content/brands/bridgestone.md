@@ -2,11 +2,11 @@
 title: Bridgestone
 slug: bridgestone
 description: ""
-date: "2026-03-05T15:56:46.208314"
+date: "2026-03-05T22:38:39.937129"
 draft: false
 sectors:
-  - tires
   - sports
+  - tires
 regions:
   - unknown
 years: []
@@ -22,327 +22,250 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
+  - light
+  - gradient
+  - pattern
+  - bright
   - dark
-  - "inverted-colors"
-  - red
-  - "aquatic-colors"
+color_schemes:
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
   - "analogous-colors"
+  - "two-tone"
+  - red
+  - textured
+  - "text-heavy"
   - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "text-heavy"
-  - blue
+  - "inverted-colors"
   - grayscale
-  - bright
-  - textured
+  - monotone
+  - blue
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - reminder
-  - performance
-  - selfie
-  - packaging
-  - interior
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - logo
-  - corporate
-  - business
-  - event
-  - signage
   - celebrity
-  - family
-  - "food-photography"
+  - signage
+  - audience
+  - concert
+  - selfie
+  - professional
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - food
+  - product
   - text
+  - abstract
+  - interior
+  - "food-photography"
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - reminder
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - "text-heavy"
+  - corporate
+  - "concert-photography"
+  - family
+  - typography
+  - "graphic-design"
   - macro
   - portrait
-  - advertisement
-  - product
-  - sports
-  - "text-heavy"
-  - "concert-photography"
-  - architectural
-  - concert
-  - professional
-  - documentary
-  - abstract
-  - "audience-perspective"
-  - action
-  - advertising
+  - beauty
+  - staged
+  - business
+  - "event-photography"
+  - "still-life"
+  - packaging
+  - crowd
 concepts:
-  - "live-performance"
-  - "live-stage"
   - "country-music"
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
   - "promotional-material"
-  - advertisement
-  - message
-  - cartoon
-  - "text-heavy"
   - "wave-pattern"
-  - "music-performance"
+  - message
   - illustration
-  - "music-concert"
+  - vintage
+  - "music-performance"
   - action
+  - "live-stage"
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "music-concert"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - branding
   - "product-display"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "saturated-colors"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - "saturated-colors"
-  - silhouette
-  - "vanishing-point"
   - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
+  - "low-contrast"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - "dark-green"
-  - gray
-  - black
   - white
   - red
+  - "mud-green"
   - olive
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - blonde
+  - flowing
+  - wavy
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - vibrant
-posings:
-  - seated
-  - confident
-  - l
-  - e
   - relaxed
-  - upright
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
   - crouching
-  - standing
-  - b
-  - n
-  - p
+  - seated
+  - walking
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - n
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - upright
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

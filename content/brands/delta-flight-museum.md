@@ -2,11 +2,11 @@
 title: Delta Flight Museum
 slug: "delta-flight-museum"
 description: ""
-date: "2026-03-05T15:56:46.168302"
+date: "2026-03-05T22:38:39.810417"
 draft: false
 sectors:
-  - entertainment
   - "arts-culture"
+  - entertainment
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - museum
+  - transport
 industries: []
 countries:
   - "united-states"

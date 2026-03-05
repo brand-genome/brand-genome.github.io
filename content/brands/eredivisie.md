@@ -2,7 +2,7 @@
 title: Eredivisie
 slug: eredivisie
 description: ""
-date: "2026-03-05T15:56:45.669206"
+date: "2026-03-05T22:38:39.143164"
 draft: false
 sectors:
   - sports

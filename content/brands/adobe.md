@@ -2,24 +2,24 @@
 title: Adobe
 slug: adobe
 description: ""
-date: "2026-03-05T15:56:45.988911"
+date: "2026-03-05T22:38:39.563174"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2010
   - 2018
+  - 2010
 languages:
   - english
 tags:
   - software
 industries:
-  - "software-industry"
   - "software-development"
-  - "artificial-intelligence"
+  - "software-industry"
   - "information-technology"
+  - "artificial-intelligence"
 countries:
   - "united-states"
 revenue_buckets:
@@ -29,486 +29,409 @@ operating_income_buckets:
 net_profit_buckets:
   - "1b-10b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "vertical-composition"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "bird-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "vertical-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
   - "worm-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - dark
-  - blurred
-  - wood
   - mossy
-  - "text-heavy"
-  - transparent
-  - bright
-  - gradient
-  - rocky
-  - brick
-  - white
-  - light
+  - "background-as-frame"
   - red
+  - white
+  - wood
+  - brick
   - textured
-  - "aquatic-colors"
+  - blurred
+  - transparent
   - solid
-color_schemes:
-  - "mossy-green"
-  - "autumnal-colors"
-  - "sunset-colors"
-  - green
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
+  - "text-heavy"
+  - light
+  - rocky
+  - gradient
+  - pattern
+  - bright
   - dark
-  - "inverted-colors"
   - "aquatic-colors"
+color_schemes:
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - green
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
   - "analogous-colors"
+  - "two-tone"
+  - textured
+  - "text-heavy"
   - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "text-heavy"
-  - blue
+  - "inverted-colors"
   - grayscale
-  - bright
-  - textured
+  - monotone
+  - "mossy-green"
+  - blue
+  - "aquatic-colors"
 photography_genres:
-  - "live-stage"
-  - animal
-  - "rocky-landscape"
-  - outdoor
-  - urban
-  - audience
-  - vintage
-  - music
-  - event
-  - wildlife
-  - poster
-  - portrait
-  - product
-  - "national-park"
-  - bridal
-  - "interface-design"
-  - "audience-perspective"
-  - calendar
-  - "social-media"
-  - flag
-  - fashion
-  - interior
-  - "event-promotion"
-  - botanical
-  - "incomplete-art"
-  - aerial
-  - promotional
-  - character
-  - food
-  - landscape
-  - corporate
-  - advertisement
-  - lifestyle
-  - sports
-  - architectural
-  - beach
-  - abstract
-  - infographic
-  - sky
-  - "still-life"
-  - group
   - "motion-media"
-  - newspaper
-  - automotive
-  - artistic
-  - winter
-  - typography
-  - branding
-  - "event-photography"
-  - historical
-  - "home-decor"
-  - "book-cover"
-  - instructional
-  - business
-  - superhero
-  - travel
-  - fantasy
-  - mountain
-  - architecture
-  - cartoon
-  - headshot
-  - documentary
-  - arcade
-  - underwater
-  - illustration
-  - horror
-  - action
-  - advertising
   - studio
-  - "information-design"
-  - "motion-capture"
-  - selfie
-  - industrial
-  - candid
-  - political
-  - cityscape
-  - staged
   - bird
-  - beauty
-  - "graphic-design"
-  - street
-  - fitness
-  - tutorial
-  - logo
-  - conceptual
-  - signage
-  - "food-photography"
-  - family
-  - "digital-art"
-  - text
-  - macro
-  - outdoors
-  - art
+  - fantasy
+  - superhero
+  - aerial
+  - landscape
+  - promotional
   - nature
-  - "text-heavy"
   - "comic-book"
+  - industrial
+  - "digital-art"
+  - "audience-perspective"
   - lighting
-  - waterfall
-  - "web-design"
-  - professional
-  - "wave-pattern"
-  - "text-based"
-  - "data-visualization"
-  - "logo-design"
-  - bridge
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - "thank-you-message"
-  - "nature-photography"
-  - "live-stage"
-  - naturalistic
-  - "social-media-interface"
-  - "game-character"
+  - advertising
+  - infographic
+  - action
+  - documentary
+  - logo
+  - advertisement
+  - family
+  - "rocky-landscape"
+  - "incomplete-art"
+  - mountain
+  - historical
+  - "event-photography"
   - branding
+  - political
+  - "still-life"
+  - calendar
+  - outdoors
+  - audience
+  - "book-cover"
+  - "wave-pattern"
+  - waterfall
+  - product
+  - art
+  - interior
+  - sky
+  - bridal
+  - "motion-capture"
   - typography
-  - "framed-image"
+  - "graphic-design"
+  - macro
+  - portrait
+  - staged
+  - business
+  - instructional
+  - poster
+  - newspaper
+  - horror
+  - animal
+  - "logo-design"
+  - professional
+  - beach
+  - conceptual
+  - food
+  - "national-park"
+  - "web-design"
+  - text
+  - candid
+  - urban
+  - character
+  - winter
+  - fashion
+  - corporate
+  - underwater
+  - music
+  - flag
+  - arcade
+  - tutorial
+  - signage
+  - selfie
+  - "home-decor"
+  - botanical
+  - automotive
+  - outdoor
+  - "text-based"
+  - lifestyle
+  - abstract
+  - "information-design"
+  - illustration
+  - vintage
+  - "food-photography"
+  - "event-promotion"
+  - street
+  - architecture
+  - artistic
+  - architectural
+  - sports
+  - fitness
+  - "live-stage"
+  - group
+  - headshot
+  - event
+  - "data-visualization"
+  - "interface-design"
+  - cityscape
+  - cartoon
+  - "text-heavy"
+  - wildlife
+  - beauty
+  - bridge
+  - "social-media"
+  - travel
+concepts:
+  - "fantasy-art"
+  - informative
+  - "logo-design"
+  - "game-character"
+  - "before-and-after"
+  - professional
+  - "text-on-image"
+  - "logo-variations"
+  - naturalistic
+  - "wave-pattern"
+  - "thank-you-message"
   - botanical
   - workstation
-  - "incomplete-art"
-  - "seamless-pattern"
-  - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - "logo-variations"
-  - logo
-  - business
-  - "photography-equipment"
-  - "pixelated-image"
-  - advertisement
-  - "fantasy-art"
   - art
-  - cartoon
   - "rocky-texture"
-  - "text-heavy"
-  - "cut-out"
-  - "motion-blur"
-  - "text-on-image"
-  - motion
-  - "wave-pattern"
-  - professional
-  - aquatic
-  - "motion-tracking"
-  - "before-and-after"
   - illustration
-  - "data-visualization"
-  - "logo-design"
-  - action
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "dark-focal-point"
-  - "gaussian-blur"
-  - "sharp-focus"
-  - "macro-shot"
-  - "motion-blur"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "dark-focal-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "radial-blur"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "light-glare"
+  - vintage
   - "cut-out"
+  - "motion-tracking"
+  - "social-media-interface"
+  - action
+  - "live-stage"
+  - "photography-equipment"
+  - logo
+  - advertisement
+  - "data-visualization"
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - aquatic
+  - typography
+  - "graphic-design"
+  - "seamless-pattern"
+  - "incomplete-art"
+  - motion
+  - "framed-image"
+  - "pixelated-image"
+  - business
+  - branding
+  - "nature-photography"
   - "motion-blur"
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "dark-focal-point"
+  - "high-contrast"
+  - "fully-focused-subject"
+  - "sharp-focus"
+  - "gaussian-blur"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
+  - "macro-shot"
+image_effects:
+  - symmetrical
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
+  - "dark-focal-point"
+  - "cut-out"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - "off-white"
-  - "dark-green"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
+  - "dark-green"
+  - "dark-blue"
+  - cyan
+  - black
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
   - flowing
-  - goatee
-  - l
-  - e
-  - braided
-  - up
+  - casual
+  - blonde
+  - white
+  - wavy
+  - loose
+  - curls
+  - bearded
+  - gray
+  - updo
   - dark
+  - "tied-back"
+  - beard
+  - goatee
+  - straight
+  - ponytail
   - curly
-  - covered
+  - red
+  - up
+  - braided
+  - pink
+  - short
   - balding
   - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
+  - covered
   - "pulled-back"
-  - pink
-  - t
-  - i
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
-  - bearded
-  - white
-  - updo
-  - "tied-back"
-  - curls
-facial_expressions:
-  - curious
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - disbelief
-  - a
-  - c
-  - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - determined
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
   - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - sweater
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - dynamic
-  - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - blue
-  - unknown
-  - b
-  - n
-  - p
-posings:
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - shocked
   - engaged
+  - relaxed
+  - neutral
+  - content
+  - curious
+  - determined
+  - excited
+  - focused
+  - disbelief
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - sweater
+  - relaxed
+  - athletic
+  - "form-fitting"
+  - professional
+  - business
+  - beachwear
+  - costume
+  - active
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "t-shirt"
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - dynamic
+  - neutral
+  - monochrome
+  - black
+  - earthy
+  - colorful
+  - blue
+  - pastel
+  - muted
+posings:
+  - casual
+  - engaged
+  - reclined
+  - relaxed
+  - pointing
+  - reaching
+  - static
+  - seated
   - speaking
   - leaning
-  - dynamic
-  - a
+  - active
   - holding
-  - c
-  - active
-  - reaching
-  - t
-  - pointing
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - presenting
-  - focused
-  - casual
-  - p
-  - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - engaged
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - active
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - stretching
+  - standing
+  - running
   - focused
-  - p
-  - reclined
+  - presenting
+  - contemplative
+  - confident
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - seated
+  - midsection
+  - engaged
+  - "lower-half"
   - "full-back"
+  - "upper-body"
+  - dynamic
+  - reclined
+  - active
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - clean
-  - product
   - photography
+  - product
+  - clean
 wikidata_description: American multinational computer software company
 has_twitter: true
 has_guidelines: true

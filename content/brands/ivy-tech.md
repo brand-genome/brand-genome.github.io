@@ -2,7 +2,7 @@
 title: Ivy Tech
 slug: "ivy-tech"
 description: ""
-date: "2026-03-05T15:56:46.070351"
+date: "2026-03-05T22:38:39.681927"
 draft: false
 sectors:
   - education
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - seal
-  - vertical
-  - stacked
   - icon
+  - horizontal
+  - stacked
+  - vertical
 brand_colors:
-  - green
-  - gray
+  - white
   - grey
   - black
-  - white
   - "pantone-342"
+  - gray
+  - green
 typographies:
-  - arial
   - serif
-  - avenir
-  - merriweather
   - "sans-serif"
+  - avenir
+  - arial
+  - merriweather
 imagery_styles:
-  - professional
   - bold
+  - professional
   - graphic
 wikidata_description: community college
 has_twitter: false

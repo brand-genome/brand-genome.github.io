@@ -2,12 +2,12 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-03-05T15:56:46.109856"
+date: "2026-03-05T22:38:39.744054"
 draft: false
 sectors:
+  - research
   - education
   - "arts-culture"
-  - research
 regions:
   - usa
 years:
@@ -43,8 +43,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors:
   - blue

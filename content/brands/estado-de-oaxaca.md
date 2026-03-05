@@ -2,7 +2,7 @@
 title: Estado de Oaxaca
 slug: "estado-de-oaxaca"
 description: ""
-date: "2026-03-05T15:56:45.663376"
+date: "2026-03-05T22:38:39.131163"
 draft: false
 sectors:
   - "public-sector"

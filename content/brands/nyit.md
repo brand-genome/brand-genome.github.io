@@ -2,11 +2,11 @@
 title: NYIT
 slug: nyit
 description: ""
-date: "2026-03-05T15:56:45.990104"
+date: "2026-03-05T22:38:39.565287"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -43,19 +43,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - abstract
+  - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
-  - abstract
   - bold
   - photography
+  - abstract
 wikidata_description: "private university in New York, USA"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Buenos Aires Ciudad
 slug: "buenos-aires-ciudad"
 description: ""
-date: "2026-03-05T15:56:45.963840"
+date: "2026-03-05T22:38:39.530506"
 draft: false
 sectors:
   - "public-sector"
@@ -41,10 +41,10 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - black
-  - yellow
-  - cyan
   - white
+  - black
+  - cyan
+  - yellow
 typographies: []
 imagery_styles: []
 wikidata_description: ""

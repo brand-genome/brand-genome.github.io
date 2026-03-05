@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-03-05T15:56:46.082529"
+date: "2026-03-05T22:38:39.703008"
 draft: false
 sectors:
   - publishing
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
   - green
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: "newspaper in Minneapolis, Minnesota"
 has_twitter: false
 has_guidelines: true

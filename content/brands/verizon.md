@@ -2,7 +2,7 @@
 title: Verizon
 slug: verizon
 description: ""
-date: "2026-03-05T15:56:46.198029"
+date: "2026-03-05T22:38:39.907596"
 draft: false
 sectors:
   - telecom
@@ -23,309 +23,232 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
   - white
-  - light
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
+  - light
   - vintage
-  - bright
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
-  - light
-  - "inverted-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - audience
+  - selfie
+  - commercial
+  - landscape
+  - botanical
+  - promotional
+  - food
+  - product
+  - environmental
+  - text
+  - parade
+  - interior
+  - illustration
+  - abstract
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - parade
-  - selfie
-  - environmental
-  - interior
-  - commercial
-  - typography
-  - branding
-  - candid
-  - botanical
-  - "incomplete-art"
-  - audience
-  - warning
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
+  - documentary
   - logo
-  - corporate
-  - event
-  - text
-  - portrait
+  - fashion
+  - sky
   - advertisement
-  - product
-  - sports
+  - event
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - typography
+  - "graphic-design"
+  - flag
+  - warning
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - map
+  - staged
+  - historical
+  - branding
+  - information
+  - "still-life"
+concepts:
+  - "information-graphic"
+  - "warning-sign"
+  - logo
   - cartoon
   - "text-heavy"
-  - information
-  - architectural
-  - documentary
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - map
-  - action
-  - flag
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "information-graphic"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - "warning-sign"
-  - cartoon
-  - "text-heavy"
   - typography
-  - logo
+  - "graphic-design"
+  - "wave-pattern"
   - action
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
   - "motion-capture"
-  - "low-exposure"
   - "high-saturation"
   - "low-contrast"
-  - silhouette
-  - "negative-space"
+  - "low-exposure"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
   - "vanishing-point"
   - vignette
-  - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
-  - "motion-blur"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - olive
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
+  - reclined
   - engaged
   - leaning
   - dynamic
-  - a
-  - holding
-  - c
+  - relaxed
   - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
+  - holding
   - standing
-  - b
-  - n
-  - p
-  - reclined
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,11 +2,11 @@
 title: Universidad de Sevilla
 slug: "universidad-de-sevilla"
 description: ""
-date: "2026-03-05T15:56:45.790724"
+date: "2026-03-05T22:38:39.292422"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:

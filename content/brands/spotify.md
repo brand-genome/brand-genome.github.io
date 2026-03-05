@@ -2,22 +2,22 @@
 title: Spotify
 slug: spotify
 description: ""
-date: "2026-03-05T15:56:46.064029"
+date: "2026-03-05T22:38:39.671200"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - sweden
 years:
-  - 2015
   - 2013
+  - 2015
 languages:
   - english
 tags:
   - app
-  - internet
   - music
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -26,381 +26,304 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
-  - light
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - white
   - "background-as-frame"
-  - dark
+  - red
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - brick
-  - white
-  - light
-  - red
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
   - vintage
   - bright
-  - red
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
-  - "inverted-colors"
-  - "galaxy-colors"
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - celebrity
+  - fantasy
   - studio
-  - fashion
-  - infographic
-  - sky
-  - amateur
-  - "still-life"
+  - audience
+  - selfie
+  - professional
+  - "top-10"
+  - romantic
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - promo
+  - food
+  - product
+  - art
+  - text
+  - "quick-questions"
+  - illustration
+  - chart
+  - abstract
+  - interior
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - performance
-  - promo
-  - selfie
-  - "quick-questions"
-  - interior
-  - typography
-  - branding
-  - botanical
-  - candid
-  - "album-cover"
-  - "top-10"
-  - "event-photography"
-  - urban
-  - audience
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - music
-  - celebrity
-  - event
-  - chart
-  - text
-  - romantic
-  - "album-art"
-  - fantasy
-  - portrait
-  - advertisement
-  - art
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - architectural
   - documentary
-  - professional
-  - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - "social-media"
-  - calendar
-  - action
-  - list
-  - advertising
-concepts:
-  - studio
-  - "live-performance"
-  - "live-stage"
-  - typography
-  - romance
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - promotional
-  - "graphic-design"
-  - music
+  - infographic
+  - urban
+  - fashion
   - advertisement
-  - "fantasy-art"
-  - cartoon
+  - sky
+  - event
   - "text-heavy"
+  - cartoon
+  - underwater
+  - music
+  - amateur
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - list
+  - "album-cover"
+  - staged
+  - historical
+  - branding
+  - "social-media"
+  - "event-photography"
+  - "album-art"
+  - "still-life"
+  - calendar
+  - crowd
+concepts:
+  - "fantasy-art"
+  - studio
   - professional
   - "wave-pattern"
+  - promotional
   - illustration
-  - calendar
-  - "data-visualization"
+  - vintage
   - action
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "dark-focal-point"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - "radial-blur"
-  - symmetrical
-  - "high-contrast"
-  - "light-glare"
-  - "low-saturation"
+  - "live-stage"
+  - advertisement
+  - "data-visualization"
+  - "live-performance"
   - "text-heavy"
-  - "cut-out"
-  - "motion-blur"
+  - cartoon
+  - music
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - romance
+  - calendar
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+image_effects:
+  - symmetrical
+  - "gaussian-blur"
   - "light-on-subject"
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - pink
-  - cyan
-  - purple
-  - "dark-blue"
+  - white
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
+  - cyan
   - "dark-brown"
+  - pink
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - mustache
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - pink
-  - t
-  - bald
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
-  - p
+  - blonde
+  - wavy
+  - loose
   - bearded
-  - updo
-  - "tied-back"
-  - "full-beard"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
+  - mustache
   - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
+  - updo
+  - dark
+  - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - "full-beard"
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - jacket
+  - athletic
+  - "form-fitting"
   - business
-  - t
-  - i
+  - beachwear
+  - professional
   - "jacket-and-jeans"
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - jacket
+  - formal
   - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - white
+  - vibrant
+  - muted
   - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
-  - white
+  - pastel
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - together
-  - running
-  - o
   - walking
-  - unknown
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
+  - together
+  - active
+  - holding
+  - confident
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - static
+  - group
+gazes:
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - "at-camera"
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - alternate
-  - horizontal
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
   - icon
+  - alternate
+  - secondary
+  - horizontal
+  - wordmark
 brand_colors:
-  - green
-  - gray
+  - white
   - grey
   - black
-  - white
+  - gray
+  - green
   - "pantone-7479"
 typographies:
   - impact

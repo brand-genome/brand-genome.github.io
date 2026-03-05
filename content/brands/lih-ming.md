@@ -2,11 +2,11 @@
 title: Lih Ming
 slug: "lih-ming"
 description: ""
-date: "2026-03-05T15:56:45.830341"
+date: "2026-03-05T22:38:39.335632"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - singapore
 years:
@@ -42,10 +42,10 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - black
-  - yellow
   - white
   - green
+  - black
+  - yellow
 typographies:
   - "source-sans"
 imagery_styles: []

@@ -2,11 +2,11 @@
 title: SDSU
 slug: sdsu
 description: ""
-date: "2026-03-05T15:56:45.830783"
+date: "2026-03-05T22:38:39.336114"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

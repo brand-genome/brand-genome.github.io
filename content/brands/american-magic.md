@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-03-05T15:56:45.950556"
+date: "2026-03-05T22:38:39.519854"
 draft: false
 sectors:
   - sports
@@ -38,28 +38,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - gold
-  - "pantone-420"
-  - gray
-  - blue
-  - black
-  - "pantone-193"
   - white
   - red
-  - "pantone-464"
+  - gold
+  - "pantone-420"
   - "pantone-282"
+  - black
+  - "pantone-464"
+  - blue
+  - gray
+  - "pantone-193"
 typographies:
   - helvetica
 imagery_styles:
-  - staged
   - bold
+  - staged
 wikidata_description: US sailing team
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Scout Association of Malta
 slug: "scout-association-of-malta"
 description: ""
-date: "2026-03-05T15:56:45.906729"
+date: "2026-03-05T22:38:39.438138"
 draft: false
 sectors:
   - ngo
@@ -38,17 +38,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
+  - black
 typographies:
   - times
 imagery_styles:
-  - staged
   - bold
+  - staged
   - natural
 wikidata_description: ""
 has_twitter: false

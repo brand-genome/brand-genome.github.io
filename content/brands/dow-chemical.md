@@ -2,7 +2,7 @@
 title: Dow Chemical
 slug: "dow-chemical"
 description: ""
-date: "2026-03-05T15:56:45.887232"
+date: "2026-03-05T22:38:39.403797"
 draft: false
 sectors:
   - "consumer-goods"
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - abstract
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - abstract
   - vertical
 brand_colors:
+  - white
   - red
   - black
-  - white
   - gray
 typographies:
   - serif
   - times
   - arial
 imagery_styles:
-  - macro
-  - abstract
-  - dynamic
-  - gradient
   - product
+  - dynamic
+  - abstract
+  - gradient
+  - macro
   - clean
 wikidata_description: American chemical company
 has_twitter: false

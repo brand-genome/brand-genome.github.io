@@ -2,7 +2,7 @@
 title: Virgin Money
 slug: "virgin-money"
 description: ""
-date: "2026-03-05T15:56:45.992816"
+date: "2026-03-05T22:38:39.568168"
 draft: false
 sectors:
   - insurance
@@ -41,11 +41,11 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies: []
 imagery_styles:

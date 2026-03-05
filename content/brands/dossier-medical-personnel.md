@@ -2,11 +2,11 @@
 title: Dossier Médical Personnel
 slug: "dossier-medical-personnel"
 description: ""
-date: "2026-03-05T15:56:46.168918"
+date: "2026-03-05T22:38:39.811095"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - france
 years:

@@ -2,11 +2,11 @@
 title: Produce For Better Health Foundation
 slug: "produce-for-better-health-foundation"
 description: ""
-date: "2026-03-05T15:56:45.909899"
+date: "2026-03-05T22:38:39.465152"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
   - healthcare
 regions:
   - usa
@@ -42,20 +42,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
   - green
+  - black
 typographies:
-  - din
   - arial
+  - din
 imagery_styles:
   - bold
-  - modern
   - photography
+  - modern
 wikidata_description: American nonprofit organization
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: International Space University
 slug: "international-space-university"
 description: ""
-date: "2026-03-05T15:56:46.102970"
+date: "2026-03-05T22:38:39.728945"
 draft: false
 sectors:
   - university
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - arial
 imagery_styles:

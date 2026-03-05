@@ -2,7 +2,7 @@
 title: New South Wales Government
 slug: "new-south-wales-government"
 description: ""
-date: "2026-03-05T15:56:46.174648"
+date: "2026-03-05T22:38:39.817124"
 draft: false
 sectors:
   - "public-sector"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - emblem
   - primary
   - vertical
-  - emblem
+  - horizontal
 brand_colors:
   - blue
   - red
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
   - monochrome
   - graphic

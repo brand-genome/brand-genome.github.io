@@ -2,11 +2,11 @@
 title: Université Laval
 slug: "universite-laval"
 description: ""
-date: "2026-03-05T15:56:46.131497"
+date: "2026-03-05T22:38:39.772052"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:

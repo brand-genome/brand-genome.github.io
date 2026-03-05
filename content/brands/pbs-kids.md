@@ -2,11 +2,11 @@
 title: PBS Kids
 slug: "pbs-kids"
 description: ""
-date: "2026-03-05T15:56:45.737681"
+date: "2026-03-05T22:38:39.230026"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - broadcast
+  - entertainment
 industries: []
 countries:
   - "united-states"

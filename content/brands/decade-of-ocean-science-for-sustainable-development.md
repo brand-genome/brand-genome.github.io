@@ -2,11 +2,11 @@
 title: Decade of Ocean Science for Sustainable Development
 slug: "decade-of-ocean-science-for-sustainable-development"
 description: ""
-date: "2026-03-05T15:56:45.844299"
+date: "2026-03-05T22:38:39.356019"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - international
 years:
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-534"
+  - white
+  - "pantone-2995"
+  - "pantone-1788"
+  - red
+  - teal
+  - "pantone-7470"
   - grey
   - black
-  - teal
-  - "pantone-1788"
-  - "pantone-7470"
-  - white
   - blue
-  - "pantone-2995"
-  - red
+  - "pantone-534"
 typographies:
-  - din
   - arial
+  - din
   - display
 imagery_styles:
   - monochrome

@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-03-05T15:56:45.899144"
+date: "2026-03-05T22:38:39.422060"
 draft: false
 sectors:
-  - publishing
-  - ngo
   - research
+  - ngo
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - biology
-  - community
   - science
+  - community
+  - biology
 industries: []
 countries:
   - "united-kingdom"
@@ -43,22 +43,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - abstract
   - wordmark
-  - primary
-  - abstract
   - icon
+  - primary
 brand_colors:
-  - cyan
-  - green
-  - black
   - white
+  - cyan
+  - black
   - blue
+  - green
 typographies:
-  - arial
   - avenir
+  - arial
 imagery_styles:
-  - flat
   - abstract
+  - flat
 wikidata_description: learned society for physiologists in the United Kingdom
 has_twitter: false
 has_guidelines: true

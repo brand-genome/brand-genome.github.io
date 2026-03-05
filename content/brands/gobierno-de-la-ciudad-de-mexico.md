@@ -2,7 +2,7 @@
 title: Gobierno de la Ciudad de México
 slug: "gobierno-de-la-ciudad-de-mexico"
 description: ""
-date: "2026-03-05T15:56:45.665353"
+date: "2026-03-05T22:38:39.135513"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: World of Life
 slug: "world-of-life"
 description: ""
-date: "2026-03-05T15:56:45.970407"
+date: "2026-03-05T22:38:39.537966"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
+  - secondary
   - alternate
   - horizontal
   - logomark
-  - secondary
   - vertical
-  - primary
-  - icon
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - impact
   - merriweather
-  - helvetica
   - roboto
   - georgia
+  - helvetica
 imagery_styles:
-  - dynamic
   - bold
-  - graphic
+  - dynamic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

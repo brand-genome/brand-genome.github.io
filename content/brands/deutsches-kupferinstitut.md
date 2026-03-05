@@ -2,7 +2,7 @@
 title: Deutsches Kupferinstitut
 slug: "deutsches-kupferinstitut"
 description: ""
-date: "2026-03-05T15:56:45.783650"
+date: "2026-03-05T22:38:39.281600"
 draft: false
 sectors:
   - ngo

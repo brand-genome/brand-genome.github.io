@@ -2,7 +2,7 @@
 title: United Arab Emirates
 slug: "united-arab-emirates"
 description: ""
-date: "2026-03-05T15:56:45.927609"
+date: "2026-03-05T22:38:39.503744"
 draft: false
 sectors:
   - "public-sector"
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - black
-  - "pantone-348"
   - white
   - red
+  - gold
+  - "pantone-348"
+  - black
+  - green
 typographies: []
 imagery_styles:
-  - monochrome
-  - gradient
   - bold
+  - gradient
+  - monochrome
 wikidata_description: combined military forces of the United Arab Emirates
 has_twitter: false
 has_guidelines: true

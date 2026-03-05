@@ -2,7 +2,7 @@
 title: ECHA
 slug: echa
 description: ""
-date: "2026-03-05T15:56:45.854759"
+date: "2026-03-05T22:38:39.368901"
 draft: false
 sectors:
   - "public-sector"
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
   - symbol
+  - secondary
 brand_colors:
-  - gray
-  - black
   - white
   - "pantone-129"
   - "pantone-293"
+  - black
+  - gray
 typographies:
-  - verdana
   - georgia
+  - verdana
 imagery_styles:
   - graphic
 wikidata_description: agency of the European Union

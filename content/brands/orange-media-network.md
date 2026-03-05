@@ -2,7 +2,7 @@
 title: Orange Media Network
 slug: "orange-media-network"
 description: ""
-date: "2026-03-05T15:56:46.153612"
+date: "2026-03-05T22:38:39.793344"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,22 +39,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - secondary
   - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - "pantone-5503"
-  - "pantone-1665"
-  - gray
-  - orange
-  - "pantone-7579"
-  - black
   - white
-  - "pantone-7539"
+  - orange
+  - black
   - "pantone-7540"
+  - "pantone-5503"
   - blue
+  - "pantone-7539"
+  - "pantone-1665"
+  - "pantone-7579"
+  - gray
 typographies: []
 imagery_styles:
   - photography

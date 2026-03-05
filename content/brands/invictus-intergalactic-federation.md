@@ -2,11 +2,11 @@
 title: Invictus Intergalactic Federation
 slug: "invictus-intergalactic-federation"
 description: ""
-date: "2026-03-05T15:56:45.838660"
+date: "2026-03-05T22:38:39.348321"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - international
 years:
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - seal
-  - stacked
   - primary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - blue
-  - navy
-  - black
   - white
+  - blue
+  - black
+  - navy
 typographies:
   - display
 imagery_styles:

@@ -2,11 +2,11 @@
 title: Eastern Memorization
 slug: "eastern-memorization"
 description: ""
-date: "2026-03-05T15:56:45.918540"
+date: "2026-03-05T22:38:39.486506"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "saudi-arabia"
 years:

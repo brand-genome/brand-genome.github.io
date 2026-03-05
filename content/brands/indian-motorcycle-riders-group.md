@@ -2,7 +2,7 @@
 title: Indian Motorcycle Riders Group
 slug: "indian-motorcycle-riders-group"
 description: ""
-date: "2026-03-05T15:56:45.893672"
+date: "2026-03-05T22:38:39.415249"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - community
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - red
+  - gold
   - crimson
   - brown
-  - gold
   - gray
-  - red
 typographies: []
 imagery_styles: []
 wikidata_description: ""

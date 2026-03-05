@@ -2,11 +2,11 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-03-05T15:56:45.820630"
+date: "2026-03-05T22:38:39.327545"
 draft: false
 sectors:
-  - "staffing-recruitment"
   - software
+  - "staffing-recruitment"
 regions:
   - usa
 years:
@@ -40,18 +40,18 @@ body_sections: []
 logo_elements:
   - lockup
   - primary
-  - secondary
   - symbol
+  - secondary
 brand_colors:
-  - "pantone-4162"
-  - green
+  - white
   - grey
   - black
-  - white
+  - "pantone-4162"
+  - green
 typographies:
+  - impact
   - serif
   - inter
-  - impact
 imagery_styles:
   - bold
 wikidata_description: Africa Tech company

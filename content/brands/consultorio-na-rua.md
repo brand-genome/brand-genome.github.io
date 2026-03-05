@@ -2,11 +2,11 @@
 title: Consultório na Rua
 slug: "consultorio-na-rua"
 description: ""
-date: "2026-03-05T15:56:46.128910"
+date: "2026-03-05T22:38:39.768546"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - brazil
 years:

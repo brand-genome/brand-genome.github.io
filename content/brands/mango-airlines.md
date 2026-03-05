@@ -2,7 +2,7 @@
 title: Mango Airlines
 slug: "mango-airlines"
 description: ""
-date: "2026-03-05T15:56:46.256647"
+date: "2026-03-05T22:38:40.029151"
 draft: false
 sectors:
   - airline
@@ -19,210 +19,210 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - "galaxy-colors"
   - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - "sunset-colors"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - seascape
+  - audience
+  - selfie
+  - beach
+  - resort
+  - landscape
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
+  - lifestyle
+  - interior
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - industrial
-  - typography
-  - candid
-  - "event-photography"
   - urban
-  - cityscape
-  - audience
-  - resort
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
+  - fashion
+  - sky
+  - advertisement
   - event
-  - travel
-  - portrait
-  - advertisement
-  - adventure
-  - lifestyle
-  - product
-  - sports
-  - nature
   - bridal
-  - architectural
-  - beach
-  - illustration
-  - seascape
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - promotional
-  - promotion
+  - cityscape
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - "event-photography"
+  - "still-life"
+  - adventure
+  - travel
+concepts:
+  - advertisement
   - cartoon
   - "text-heavy"
-  - typography
-  - advertising
+  - illustration
   - "travel-promotion"
+  - vintage
+  - typography
+  - "graphic-design"
+  - advertising
+  - "incomplete-art"
+  - promotional
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - cream
-  - gray
-  - orange
   - "off-white"
+  - olive
+  - orange
+  - cream
   - black
   - "dark-brown"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - ponytail
-  - curly
   - casual
-  - covered
   - flowing
-  - varied
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
   - short
+  - curly
   - updo
   - "tied-back"
-  - neat
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - business
-  - pastel
   - neutral
-  - formal
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
   - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - business
+  - neutral
+  - beachwear
+  - monochrome
+  - earthy
+  - colorful
+  - formal
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

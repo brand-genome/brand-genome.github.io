@@ -2,7 +2,7 @@
 title: Reconciliation Australia
 slug: "reconciliation-australia"
 description: ""
-date: "2026-03-05T15:56:45.911219"
+date: "2026-03-05T22:38:39.471267"
 draft: false
 sectors:
   - ngo
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
-  - yellow
+  - white
   - teal
   - black
-  - white
+  - yellow
   - blue
 typographies:
   - poppins

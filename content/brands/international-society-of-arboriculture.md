@@ -2,11 +2,11 @@
 title: International Society of Arboriculture
 slug: "international-society-of-arboriculture"
 description: ""
-date: "2026-03-05T15:56:46.174786"
+date: "2026-03-05T22:38:39.817308"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -40,11 +40,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - helvetica
   - "gill-sans"
+  - helvetica
   - garamond
 imagery_styles: []
 wikidata_description: "non-profit botanical organization"

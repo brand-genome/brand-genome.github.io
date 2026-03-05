@@ -2,7 +2,7 @@
 title: Onset Homes
 slug: "onset-homes"
 description: ""
-date: "2026-03-05T15:56:45.763723"
+date: "2026-03-05T22:38:39.260446"
 draft: false
 sectors:
   - "consumer-goods"

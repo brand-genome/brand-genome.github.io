@@ -2,13 +2,13 @@
 title: Astroc
 slug: astroc
 description: ""
-date: "2026-03-05T15:56:45.881309"
+date: "2026-03-05T22:38:39.391569"
 draft: false
 sectors:
-  - hardware
   - education
-  - electronics
   - gaming
+  - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -25,335 +25,258 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - red
+  - moderate
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "red-and-black"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
+  - "red-and-black"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - branding
-  - candid
-  - "event-photography"
   - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
+  - selfie
   - landscape
-  - logo
-  - event
-  - text
-  - portrait
-  - advertisement
-  - cosplay
+  - promotional
   - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - architectural
+  - text
+  - interior
   - abstract
   - "audience-perspective"
   - illustration
-  - action
+  - street
   - advertising
-concepts:
+  - architectural
+  - sports
+  - action
+  - candid
   - "live-stage"
   - group
-  - "live-event"
-  - "action-figure"
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - "product-photography"
-  - "gaming-equipment"
+  - logo
+  - event
+  - fashion
   - advertisement
-  - "branding-image"
-  - product
+  - sky
   - cartoon
   - "text-heavy"
-  - "wave-pattern"
-  - illustration
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "event-photography"
+  - "still-life"
+  - cosplay
+concepts:
   - "logo-design"
+  - "wave-pattern"
+  - product
+  - illustration
+  - vintage
+  - "gaming-equipment"
+  - "branding-image"
   - action
+  - "live-event"
+  - "live-stage"
+  - group
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "product-photography"
+  - "incomplete-art"
+  - branding
+  - "action-figure"
   - electronics
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
-  - "fully-focused-subject"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
+  - "high-contrast"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "isolated-focal-point"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - silhouette
+  - "long-exposure"
+  - "neutral-density-filter"
   - "bright-focal-point"
   - "high-contrast"
-  - "close-up-shot"
-image_effects:
-  - "high-saturation"
+  - "text-heavy"
   - "motion-capture"
-  - "low-exposure"
-  - "bright-focal-point"
-  - "long-exposure"
+  - asymmetry
   - "vanishing-point"
   - "short-exposure"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "radial-blur"
-  - "isolated-focal-point"
-  - symmetrical
-  - "high-contrast"
   - "low-saturation"
-  - "text-heavy"
+  - "high-saturation"
+  - "low-exposure"
   - "motion-blur"
-  - asymmetry
+  - "isolated-focal-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - "off-white"
-  - gray
-  - black
   - white
-  - "dark-brown"
+  - "off-white"
   - red
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - costume
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - joyful
-  - contemplative
-  - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
+  - ponytail
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - braided
+  - updo
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
+  - beard
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
+  - primary
+  - icon
   - lockup
   - horizontal
   - abstract
-  - primary
-  - icon
 brand_colors:
-  - "pantone-114"
-  - "pantone-180"
-  - "pantone-137"
-  - "pantone-7500"
-  - black
   - white
+  - "pantone-114"
+  - black
   - blue
   - "pantone-323"
+  - "pantone-7500"
+  - "pantone-137"
+  - "pantone-180"
 typographies:
   - futura
 imagery_styles:
-  - abstract
   - bold
-  - graphic
   - photography
+  - abstract
+  - graphic
 wikidata_description: ""
 has_twitter: true
 has_guidelines: true

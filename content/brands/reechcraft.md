@@ -2,11 +2,11 @@
 title: ReechCraft
 slug: reechcraft
 description: ""
-date: "2026-03-05T15:56:45.973398"
+date: "2026-03-05T22:38:39.546679"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - usa
 years:
@@ -40,13 +40,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
   - gray
 typographies:
-  - univers
   - impact
+  - univers
 imagery_styles:
   - bold
   - product

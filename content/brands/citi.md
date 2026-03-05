@@ -2,7 +2,7 @@
 title: Citi
 slug: citi
 description: ""
-date: "2026-03-05T15:56:46.201937"
+date: "2026-03-05T22:38:39.921328"
 draft: false
 sectors:
   - finance
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -23,357 +23,280 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
   - "text-heavy"
-  - bright
-  - "autumnal-colors"
+  - "complementary-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
+  - audience
+  - "solar-energy"
+  - concert
+  - selfie
+  - professional
   - "social-awareness"
-  - "still-life"
+  - landscape
+  - botanical
+  - promotional
+  - "sports-photography"
+  - outdoor
+  - food
+  - transportation
+  - product
+  - environmental
+  - wedding
+  - text
+  - illustration
+  - interior
+  - "audience-perspective"
+  - "food-photography"
+  - abstract
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - environmental
-  - interior
-  - "event-promotion"
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
   - urban
-  - outdoor
-  - audience
-  - cityscape
-  - "music-festival"
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - fitness
-  - holiday
-  - music
-  - logo
-  - action
-  - corporate
-  - event
-  - wedding
-  - "map-photography"
-  - business
-  - "food-photography"
-  - text
-  - portrait
-  - advertisement
-  - product
-  - "sports-photography"
-  - sports
-  - cartoon
-  - "text-heavy"
-  - athlete
-  - bridal
-  - architectural
-  - concert
-  - transportation
   - documentary
-  - professional
-  - underwater
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - map
-  - "solar-energy"
-  - advertising
-concepts:
-  - "live-performance"
-  - realism
-  - "live-event"
-  - promotion
-  - "event-promotion"
-  - schedule
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - "graphic-design"
-  - "holiday-greeting"
-  - "pop-culture"
+  - fitness
+  - infographic
+  - logo
+  - event
   - advertisement
-  - "audience-experience"
-  - informational
-  - product
-  - cartoon
-  - sports
+  - sky
+  - fashion
+  - bridal
   - "text-heavy"
-  - "environmental-message"
-  - athletic
-  - "sports-event"
-  - transportation
-  - "information-graphic"
+  - cartoon
+  - corporate
+  - underwater
+  - music
+  - cityscape
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - holiday
+  - "map-photography"
+  - map
+  - staged
+  - historical
+  - business
+  - "event-photography"
+  - athlete
+  - "still-life"
+  - "music-festival"
+  - crowd
+concepts:
+  - informative
+  - "pop-culture"
+  - informational
   - "wave-pattern"
-  - illustration
-  - "music-concert"
+  - "environmental-message"
+  - promotional
+  - "holiday-greeting"
+  - product
+  - transportation
   - competitive
+  - illustration
+  - vintage
+  - "event-promotion"
   - advertising
+  - sports
+  - schedule
+  - "live-event"
+  - "sports-event"
+  - advertisement
+  - athletic
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "music-concert"
+  - typography
+  - "graphic-design"
+  - "audience-experience"
+  - "incomplete-art"
+  - "information-graphic"
+  - realism
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
 dominant_colors:
-  - "royal-blue"
-  - emerald
-  - "dark-blue"
-  - black
   - white
+  - emerald
+  - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
   - blue
+  - "royal-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
   - formal
-  - traditional
-  - l
-  - e
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - relaxed
+  - active
+  - costume
+  - professional
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+  - comfortable
+  - uniform
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
   - subdued
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Matter insurance
 slug: "matter-insurance"
 description: ""
-date: "2026-03-05T15:56:45.740670"
+date: "2026-03-05T22:38:39.235308"
 draft: false
 sectors:
   - insurance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

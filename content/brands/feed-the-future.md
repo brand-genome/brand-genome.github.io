@@ -2,11 +2,11 @@
 title: Feed The Future
 slug: "feed-the-future"
 description: ""
-date: "2026-03-05T15:56:46.159380"
+date: "2026-03-05T22:38:39.799530"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - usa
 years:
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - seal
-  - secondary
   - primary
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - green
+  - white
+  - "pantone-7495"
+  - "pantone-7459"
   - orange
   - black
-  - white
   - blue
-  - "pantone-7459"
   - "pantone-7413"
-  - "pantone-7495"
+  - green
 typographies:
-  - arial
-  - "gill-sans"
   - serif
-  - times
   - garamond
+  - "gill-sans"
+  - times
+  - arial
 imagery_styles:
-  - muted
   - bold
+  - muted
   - graphic
 wikidata_description: program of the United States federal government
 has_twitter: false

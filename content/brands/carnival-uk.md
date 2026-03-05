@@ -2,12 +2,12 @@
 title: Carnival UK
 slug: "carnival-uk"
 description: ""
-date: "2026-03-05T15:56:45.663669"
+date: "2026-03-05T22:38:39.131485"
 draft: false
 sectors:
-  - tourism
   - hospitality
   - cruise
+  - tourism
 regions:
   - "united-kingdom"
 years:

@@ -2,7 +2,7 @@
 title: Veloe
 slug: veloe
 description: ""
-date: "2026-03-05T15:56:45.897472"
+date: "2026-03-05T22:38:39.420288"
 draft: false
 sectors:
   - automobile
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - green
+  - white
+  - red
   - grey
   - black
   - blue
-  - white
-  - red
+  - green
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

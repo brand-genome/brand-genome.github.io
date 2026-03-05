@@ -2,11 +2,11 @@
 title: Arts Council
 slug: "arts-council"
 description: ""
-date: "2026-03-05T15:56:46.177454"
+date: "2026-03-05T22:38:39.820113"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - graphic

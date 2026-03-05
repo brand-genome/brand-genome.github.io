@@ -2,11 +2,11 @@
 title: Bertelsman
 slug: bertelsman
 description: ""
-date: "2026-03-05T15:56:45.996578"
+date: "2026-03-05T22:38:39.571346"
 draft: false
 sectors:
-  - entertainment
   - publishing
+  - entertainment
 regions:
   - germany
 years:

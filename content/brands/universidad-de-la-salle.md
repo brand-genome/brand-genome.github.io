@@ -2,11 +2,11 @@
 title: Universidad de La Salle
 slug: "universidad-de-la-salle"
 description: ""
-date: "2026-03-05T15:56:46.128242"
+date: "2026-03-05T22:38:39.767818"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - yellow
@@ -50,9 +50,9 @@ typographies:
   - futura
   - helvetica
 imagery_styles:
-  - organic
-  - geometric
   - bold
+  - geometric
+  - organic
 wikidata_description: "private university in Philadelphia, Pennsylvania, United States"
 has_twitter: false
 has_guidelines: true

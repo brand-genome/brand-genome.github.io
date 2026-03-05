@@ -2,7 +2,7 @@
 title: "Ayrshire & Arran"
 slug: "ayrshire-arran"
 description: ""
-date: "2026-03-05T15:56:46.058258"
+date: "2026-03-05T22:38:39.654954"
 draft: false
 sectors:
   - tourism
@@ -39,17 +39,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - frutiger
   - arial
+  - frutiger
 imagery_styles:
+  - bold
   - photography
+  - graphic
   - lifestyle
   - landscape
-  - bold
-  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

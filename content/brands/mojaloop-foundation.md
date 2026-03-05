@@ -2,7 +2,7 @@
 title: Mojaloop Foundation
 slug: "mojaloop-foundation"
 description: ""
-date: "2026-03-05T15:56:45.891767"
+date: "2026-03-05T22:38:39.411551"
 draft: false
 sectors:
   - ngo
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - "open-sans"
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
-  - modern
-  - photography
-  - artificial
-  - staged
-  - clean
   - bold
+  - photography
+  - staged
+  - artificial
+  - modern
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

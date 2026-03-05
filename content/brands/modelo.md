@@ -2,7 +2,7 @@
 title: Modelo
 slug: modelo
 description: ""
-date: "2026-03-05T15:56:45.730452"
+date: "2026-03-05T22:38:39.222935"
 draft: false
 sectors:
   - brewery

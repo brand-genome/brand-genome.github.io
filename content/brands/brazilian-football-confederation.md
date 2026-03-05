@@ -2,7 +2,7 @@
 title: Brazilian Football Confederation
 slug: "brazilian-football-confederation"
 description: ""
-date: "2026-03-05T15:56:45.889506"
+date: "2026-03-05T22:38:39.408999"
 draft: false
 sectors:
   - sports
@@ -40,13 +40,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gold
-  - silver
   - "pantone-109"
-  - black
-  - "pantone-7482"
+  - gold
   - "pantone-2194"
+  - black
+  - silver
   - "pantone-288"
+  - "pantone-7482"
 typographies:
   - arial
 imagery_styles:

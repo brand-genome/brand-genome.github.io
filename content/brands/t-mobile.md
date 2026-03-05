@@ -2,7 +2,7 @@
 title: "T-Mobile"
 slug: "t-mobile"
 description: ""
-date: "2026-03-05T15:56:45.786441"
+date: "2026-03-05T22:38:39.285038"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - "united-states"
 revenue_buckets:

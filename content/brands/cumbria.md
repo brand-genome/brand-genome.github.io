@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-03-05T15:56:45.991288"
+date: "2026-03-05T22:38:39.566817"
 draft: false
 sectors:
   - tourism
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
-  - yellow
-  - black
   - white
   - orange
+  - black
+  - yellow
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
   - bold
   - photography

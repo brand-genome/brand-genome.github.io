@@ -2,7 +2,7 @@
 title: Tramways Coffee
 slug: "tramways-coffee"
 description: ""
-date: "2026-03-05T15:56:45.802629"
+date: "2026-03-05T22:38:39.310817"
 draft: false
 sectors:
   - food
@@ -43,15 +43,15 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-298"
-  - black
   - white
   - "pantone-115"
+  - "pantone-298"
+  - black
 typographies:
   - serif
 imagery_styles:
-  - geometric
   - bold
+  - geometric
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

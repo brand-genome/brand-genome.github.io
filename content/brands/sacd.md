@@ -2,7 +2,7 @@
 title: SACD
 slug: sacd
 description: ""
-date: "2026-03-05T15:56:46.088305"
+date: "2026-03-05T22:38:39.708850"
 draft: false
 sectors:
   - "arts-culture"
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
-  - gray
-  - black
-  - "pantone-485"
   - white
   - red
+  - black
+  - "pantone-485"
+  - gray
 typographies: []
 imagery_styles:
   - graphic

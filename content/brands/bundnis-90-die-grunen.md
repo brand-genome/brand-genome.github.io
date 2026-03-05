@@ -2,7 +2,7 @@
 title: Bündnis 90 / Die Grünen
 slug: "bundnis-90-die-grunen"
 description: ""
-date: "2026-03-05T15:56:45.889877"
+date: "2026-03-05T22:38:39.409455"
 draft: false
 sectors:
   - "public-sector"
@@ -45,9 +45,9 @@ brand_colors:
 typographies:
   - trebuchet
 imagery_styles:
-  - clean
   - bold
   - classic
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

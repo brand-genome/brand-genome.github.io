@@ -2,7 +2,7 @@
 title: Manchester United Foundation
 slug: "manchester-united-foundation"
 description: ""
-date: "2026-03-05T15:56:45.827443"
+date: "2026-03-05T22:38:39.334127"
 draft: false
 sectors:
   - ngo
@@ -39,22 +39,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
   - primary
   - secondary
+  - crest
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - photography
-  - portrait
-  - landscape
   - bold
+  - photography
   - graphic
+  - landscape
+  - portrait
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

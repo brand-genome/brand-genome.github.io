@@ -2,12 +2,12 @@
 title: Sentinels
 slug: sentinels
 description: ""
-date: "2026-03-05T15:56:45.954134"
+date: "2026-03-05T22:38:39.520655"
 draft: false
 sectors:
-  - entertainment
   - gaming
   - sports
+  - entertainment
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - sport
+  - entertainment
 industries: []
 countries:
   - "united-states"
@@ -41,17 +41,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - secondary
   - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - pink
+  - white
   - grey
   - black
-  - white
   - blue
+  - pink
 typographies: []
 imagery_styles:
   - bold

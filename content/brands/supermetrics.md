@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-03-05T15:56:45.788062"
+date: "2026-03-05T22:38:39.286852"
 draft: false
 sectors:
   - software
@@ -16,12 +16,12 @@ tags:
   - technology
 industries:
   - "software-engineering"
-  - "data-management"
   - "digital-marketing"
+  - "data-management"
 countries:
   - singapore
-  - finland
   - lithuania
+  - finland
   - ireland
 revenue_buckets:
   - "under-1m"

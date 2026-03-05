@@ -2,12 +2,12 @@
 title: Petroleum Authority of Thailand
 slug: "petroleum-authority-of-thailand"
 description: ""
-date: "2026-03-05T15:56:45.897021"
+date: "2026-03-05T22:38:39.419733"
 draft: false
 sectors:
-  - gas
   - petroleum
   - oil
+  - gas
 regions:
   - thailand
 years:

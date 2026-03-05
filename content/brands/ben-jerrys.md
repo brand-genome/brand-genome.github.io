@@ -2,7 +2,7 @@
 title: "Ben & Jerry’s"
 slug: "ben-jerrys"
 description: ""
-date: "2026-03-05T15:56:45.819973"
+date: "2026-03-05T22:38:39.326723"
 draft: false
 sectors:
   - food
@@ -45,9 +45,9 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - graphic
   - classic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

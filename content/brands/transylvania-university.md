@@ -2,11 +2,11 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-03-05T15:56:46.110816"
+date: "2026-03-05T22:38:39.745188"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,23 +41,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - seal
-  - secondary
-  - primary
 brand_colors:
-  - crimson
-  - "pantone-201"
-  - "pantone-400"
-  - gray
-  - black
   - white
+  - "pantone-400"
+  - crimson
+  - black
+  - "pantone-201"
+  - gray
 typographies:
-  - times
-  - arial
-  - script
   - akzidenz
+  - script
+  - arial
+  - times
 imagery_styles:
   - dynamic
   - professional

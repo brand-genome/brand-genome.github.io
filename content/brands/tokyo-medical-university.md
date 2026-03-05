@@ -2,11 +2,11 @@
 title: Tokyo Medical University
 slug: "tokyo-medical-university"
 description: ""
-date: "2026-03-05T15:56:45.784611"
+date: "2026-03-05T22:38:39.282906"
 draft: false
 sectors:
-  - university
   - healthcare
+  - university
 regions:
   - japan
 years:

@@ -2,11 +2,11 @@
 title: University of North Carolina at Chapel Hill
 slug: "university-of-north-carolina-at-chapel-hill"
 description: ""
-date: "2026-03-05T15:56:45.703441"
+date: "2026-03-05T22:38:39.193091"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

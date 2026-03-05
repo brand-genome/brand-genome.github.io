@@ -2,11 +2,11 @@
 title: Olivetti
 slug: olivetti
 description: ""
-date: "2026-03-05T15:56:45.746437"
+date: "2026-03-05T22:38:39.244272"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - italy
 years:
@@ -16,9 +16,9 @@ languages:
   - english
   - italian
 tags:
-  - corporate
-  - featured
   - vintage
+  - featured
+  - corporate
 industries:
   - "information-technology-industry"
 countries:

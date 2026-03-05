@@ -2,12 +2,12 @@
 title: Itron
 slug: itron
 description: ""
-date: "2026-03-05T15:56:46.076291"
+date: "2026-03-05T22:38:39.690868"
 draft: false
 sectors:
-  - hardware
   - utilities
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - vertical
+  - stacked
 brand_colors:
-  - yellow
-  - black
   - white
-  - "pantone-485"
   - red
   - "pantone-123"
+  - black
+  - yellow
+  - "pantone-485"
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - clean
-  - product
   - bold
+  - product
+  - clean
 wikidata_description: American technology company
 has_twitter: false
 has_guidelines: true

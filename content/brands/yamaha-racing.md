@@ -2,7 +2,7 @@
 title: Yamaha Racing
 slug: "yamaha-racing"
 description: ""
-date: "2026-03-05T15:56:46.102107"
+date: "2026-03-05T22:38:39.726423"
 draft: false
 sectors:
   - automobile
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-8001"
-  - gray
-  - silver
+  - "pantone-287"
   - grey
   - black
   - blue
-  - "pantone-287"
+  - silver
+  - gray
+  - "pantone-8001"
 typographies:
   - impact
 imagery_styles:

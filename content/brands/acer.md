@@ -2,11 +2,11 @@
 title: Acer
 slug: acer
 description: ""
-date: "2026-03-05T15:56:45.644400"
+date: "2026-03-05T22:38:39.108474"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - technology
 industries:
-  - "computer-hardware-industry"
   - "information-technology-industry"
+  - "computer-hardware-industry"
 countries:
   - taiwan
 revenue_buckets:
@@ -29,299 +29,222 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - branding
-  - botanical
-  - "event-photography"
   - audience
-  - staged
+  - selfie
+  - commercial
+  - professional
+  - conceptual
+  - landscape
+  - botanical
   - promotional
   - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - conceptual
-  - family
-  - "digital-art"
-  - office
-  - portrait
-  - advertisement
   - product
-  - sports
-  - "text-heavy"
-  - architectural
-  - professional
   - abstract
+  - interior
   - "audience-perspective"
   - illustration
-  - "social-media"
-  - action
+  - "digital-art"
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - group
+  - logo
+  - advertisement
+  - fashion
+  - event
+  - sky
+  - "text-heavy"
+  - corporate
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "event-photography"
+  - "social-media"
+  - branding
+  - office
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
   - informative
-  - photorealism
+  - textured
+  - advertisement
+  - technology
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - textured
   - typography
-  - technology
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
   - "dark-focal-point"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - green
-  - "dark-blue"
-  - "dark-green"
-  - gray
   - "off-white"
-  - black
   - white
+  - "mud-green"
+  - "dark-green"
+  - black
+  - "dark-blue"
+  - gray
+  - green
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - casual
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
+  - loose
   - black
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - white
+  - vibrant
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - black
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - white
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - n
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - t
-  - "close-up"
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

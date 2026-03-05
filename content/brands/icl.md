@@ -2,12 +2,12 @@
 title: ICL
 slug: icl
 description: ""
-date: "2026-03-05T15:56:46.116155"
+date: "2026-03-05T22:38:39.752107"
 draft: false
 sectors:
-  - chemicals
-  - "agricultural-heavy-equipment"
   - "manufacturing-industry"
+  - "agricultural-heavy-equipment"
+  - chemicals
 regions:
   - israel
 years:

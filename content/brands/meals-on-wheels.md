@@ -2,11 +2,11 @@
 title: Meals on Wheels
 slug: "meals-on-wheels"
 description: ""
-date: "2026-03-05T15:56:45.988786"
+date: "2026-03-05T22:38:39.563045"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - canada
 years:
@@ -41,20 +41,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - navy
   - "pantone-302"
   - "pantone-3115"
   - gray
+  - navy
 typographies:
   - "sans-serif"
 imagery_styles:
   - dynamic
+  - photography
   - geometric
   - natural
-  - photography
 wikidata_description: American nonprofit organization
 has_twitter: false
 has_guidelines: true

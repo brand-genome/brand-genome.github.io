@@ -2,7 +2,7 @@
 title: Amnesty International Australia
 slug: "amnesty-international-australia"
 description: ""
-date: "2026-03-05T15:56:46.085184"
+date: "2026-03-05T22:38:39.705893"
 draft: false
 sectors:
   - ngo

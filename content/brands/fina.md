@@ -2,7 +2,7 @@
 title: FINA
 slug: fina
 description: ""
-date: "2026-03-05T15:56:46.182996"
+date: "2026-03-05T22:38:39.826069"
 draft: false
 sectors:
   - sports
@@ -42,8 +42,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: international sport governing body
 has_twitter: false
 has_guidelines: true

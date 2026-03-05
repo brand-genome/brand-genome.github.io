@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-03-05T15:56:46.043287"
+date: "2026-03-05T22:38:39.614302"
 draft: false
 sectors:
   - finance
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
-  - gray
   - brown
+  - gray
 typographies: []
 imagery_styles:
   - photography

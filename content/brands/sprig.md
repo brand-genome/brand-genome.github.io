@@ -2,7 +2,7 @@
 title: Sprig
 slug: sprig
 description: ""
-date: "2026-03-05T15:56:46.081829"
+date: "2026-03-05T22:38:39.702035"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - technology
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - gotham
 imagery_styles:
-  - modern
   - photography
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

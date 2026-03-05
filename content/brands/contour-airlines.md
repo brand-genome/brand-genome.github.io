@@ -2,11 +2,11 @@
 title: Contour Airlines
 slug: "contour-airlines"
 description: ""
-date: "2026-03-05T15:56:45.999539"
+date: "2026-03-05T22:38:39.572991"
 draft: false
 sectors:
-  - aerospace
   - airline
+  - aerospace
 regions:
   - usa
 years:

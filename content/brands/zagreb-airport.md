@@ -2,7 +2,7 @@
 title: Zagreb Airport
 slug: "zagreb-airport"
 description: ""
-date: "2026-03-05T15:56:45.863501"
+date: "2026-03-05T22:38:39.378113"
 draft: false
 sectors:
   - "public-transportation"
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
-  - gold
-  - "pantone-292"
-  - silver
-  - blue
-  - black
-  - "pantone-2758"
   - white
-  - "pantone-485"
-  - "pantone-871"
-  - "pantone-877"
   - red
+  - gold
+  - "pantone-2758"
+  - "pantone-292"
+  - black
+  - "pantone-485"
+  - blue
+  - silver
+  - "pantone-877"
+  - "pantone-871"
 typographies:
   - helvetica
 imagery_styles:

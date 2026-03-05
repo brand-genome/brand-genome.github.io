@@ -2,11 +2,11 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-03-05T15:56:46.163701"
+date: "2026-03-05T22:38:39.804863"
 draft: false
 sectors:
-  - "public-sector"
   - "space-technology"
+  - "public-sector"
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "research-and-development-in-other-physical-and-natural-sciences"
   - research
+  - "research-and-development-in-other-physical-and-natural-sciences"
 countries:
   - france
 revenue_buckets: []

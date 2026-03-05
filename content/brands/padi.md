@@ -2,7 +2,7 @@
 title: Padi
 slug: padi
 description: ""
-date: "2026-03-05T15:56:46.247070"
+date: "2026-03-05T22:38:40.007774"
 draft: false
 sectors:
   - "underwater-diving"
@@ -19,305 +19,228 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "low-angle-photo"
+  - "rule-of-thirds"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
+  - solid
   - "sunset-colors"
   - light
-  - textured
+  - gradient
+  - pattern
+  - bright
+  - dark
   - "aquatic-colors"
-  - solid
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - "sky-colors"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
-  - light
   - blue
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "analogous-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - animal
   - selfie
-  - candid
-  - botanical
-  - staged
-  - beauty
-  - child
   - landscape
-  - "marine-life"
+  - botanical
+  - nature
+  - product
+  - abstract
+  - architectural
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - fashion
+  - sky
+  - bridal
+  - underwater
   - family
   - macro
   - portrait
-  - product
-  - nature
-  - bridal
-  - architectural
-  - underwater
-  - abstract
-  - action
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - "nature-photography"
-  - aquatic
-  - photorealism
-  - illustration
-  - vintage
-  - "text-heavy"
-  - "graphic-design"
-  - "marine-life-photography"
-  - nature
-  - ocean
+  - child
+  - beauty
+  - staged
+  - "still-life"
   - "marine-life"
-  - typography
+concepts:
+  - nature
+  - "wave-pattern"
+  - "text-heavy"
   - cartoon
+  - "motion-capture"
+  - illustration
+  - aquatic
+  - vintage
   - action
+  - "nature-photography"
+  - typography
+  - "graphic-design"
+  - ocean
+  - "marine-life-photography"
+  - "marine-life"
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+  - "radial-blur"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - "low-contrast"
-  - "light-on-subject"
-  - silhouette
   - "fish-eye-effect"
-  - "radial-blur"
-  - "natural-shadow"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
+  - "low-contrast"
   - "gaussian-blur"
-  - "short-exposure"
-  - "artificial-shadow"
+  - "natural-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "light-on-subject"
+  - "radial-blur"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
   - "dark-green"
-  - gray
   - black
+  - "dark-blue"
+  - cyan
   - "dark-brown"
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - cool
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - casual
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
-  - "not-visible"
+  - long
+  - curly
+  - short
   - "tied-back"
+  - varied
+  - covered
+  - "not-visible"
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
+  - content
   - focused
-  - n
-  - p
+  - contemplative
   - "not-visible"
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
   - casual
-  - p
-  - "not-visible"
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
   - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+  - "not-visible"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - white
+  - vibrant
+  - muted
   - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - pink
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - swimwear
-  - b
-  - n
-  - p
-  - white
-  - "not-visible"
   - protective
+  - swimwear
+  - pink
+  - pastel
+  - "not-visible"
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
-  - "not-visible"
+  - leaning
   - reclined
-gazes:
-  - l
-  - e
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - "not-visible"
+gazes:
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - "not-visible"
-  - forward
+  - downward
   - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - upward
+  - sideways
+  - forward
   - "not-visible"
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
+  - "not-visible"
 logo_elements: []
 brand_colors: []
 typographies: []

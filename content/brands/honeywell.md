@@ -2,30 +2,30 @@
 title: Honeywell
 slug: honeywell
 description: ""
-date: "2026-03-05T15:56:45.851534"
+date: "2026-03-05T22:38:39.364632"
 draft: false
 sectors:
-  - hardware
-  - aerospace
   - software
+  - aerospace
+  - hardware
 regions:
   - usa
 years:
-  - 2009
-  - 2014
   - 2004
+  - 2014
+  - 2009
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "supply-chain"
-  - "chemical-industry"
   - retail
-  - "industrial-safety"
-  - "aerospace-industry"
   - "manufacturing-industry"
+  - "supply-chain"
+  - "industrial-safety"
+  - "chemical-industry"
   - "health-care-industry"
+  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -52,24 +52,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - indigo
-  - green
-  - gray
-  - blue
-  - black
-  - grey
   - white
   - red
+  - grey
+  - black
+  - indigo
+  - blue
+  - gray
+  - green
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
   - graphic
 wikidata_description: American multinational conglomerate
 has_twitter: false

@@ -2,11 +2,11 @@
 title: Sonic The Hedgehog
 slug: "sonic-the-hedgehog"
 description: ""
-date: "2026-03-05T15:56:45.763575"
+date: "2026-03-05T22:38:39.260254"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []

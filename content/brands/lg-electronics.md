@@ -2,12 +2,12 @@
 title: LG Electronics
 slug: "lg-electronics"
 description: ""
-date: "2026-03-05T15:56:45.680590"
+date: "2026-03-05T22:38:39.177016"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - "south-korea"
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - electronics
+  - corporate
 industries:
-  - "wholesale-trade-business-to-business-of-household-appliances"
   - "retail-industry"
+  - "wholesale-trade-business-to-business-of-household-appliances"
 countries:
   - "south-korea"
 revenue_buckets:
@@ -29,319 +29,242 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - environmental
-  - interior
-  - industrial
-  - commercial
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - urban
   - audience
-  - staged
-  - promotional
-  - food
+  - selfie
+  - commercial
   - "home-decor"
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - family
-  - "food-photography"
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - nature
-  - lighting
-  - architectural
   - professional
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - environmental
+  - industrial
+  - lifestyle
+  - interior
   - abstract
+  - "food-photography"
   - illustration
   - "audience-perspective"
-  - action
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "sports-promotion"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - lighting
+  - architectural
+  - sports
+  - candid
+  - action
+  - urban
+  - "live-stage"
+  - group
+  - logo
   - advertisement
-  - "graphic-design"
+  - sky
+  - fashion
+  - event
+  - corporate
+  - family
   - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "event-photography"
+  - "still-life"
+concepts:
+  - advertisement
+  - branding
+  - "complete-art"
   - cartoon
   - "text-heavy"
-  - "complete-art"
-  - branding
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "sports-promotion"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
 dominant_colors:
-  - "dark-blue"
-  - "dark-green"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
   - updo
+  - short
+  - curly
+  - long
+  - gray
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - curious
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - dressy
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - homey
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - curious
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - active
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - homey
+  - traditional
+  - dressy
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
-  - p
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - reaching
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - walking
+  - holding
+  - active
+  - standing
+  - running
+  - focused
+  - stretching
+  - contemplative
+  - reaching
+  - confident
 gazes:
-  - curious
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - curious
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - t
-  - "close-up"
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - wordmark
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:

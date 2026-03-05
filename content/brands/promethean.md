@@ -2,12 +2,12 @@
 title: Promethean
 slug: promethean
 description: ""
-date: "2026-03-05T15:56:46.089231"
+date: "2026-03-05T22:38:39.709880"
 draft: false
 sectors:
-  - hardware
   - "e-learning-edtech"
   - software
+  - hardware
 regions:
   - usa
 years:

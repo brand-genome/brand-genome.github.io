@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-03-05T15:56:45.751416"
+date: "2026-03-05T22:38:39.251087"
 draft: false
 sectors:
-  - aerospace
   - satellite
   - defense
+  - aerospace
 regions:
   - europe
 years:
@@ -46,10 +46,10 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - grey
-  - blue
-  - black
   - white
+  - blue
+  - grey
+  - black
 typographies:
   - arial
 imagery_styles:

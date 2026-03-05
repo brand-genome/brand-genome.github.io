@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-03-05T15:56:45.740886"
+date: "2026-03-05T22:38:39.235437"
 draft: false
 sectors:
-  - "ride-sharing"
-  - finance
   - software
+  - finance
+  - "ride-sharing"
 regions:
   - indonesia
 years:

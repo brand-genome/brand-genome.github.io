@@ -2,7 +2,7 @@
 title: Icici Bank
 slug: "icici-bank"
 description: ""
-date: "2026-03-05T15:56:46.209517"
+date: "2026-03-05T22:38:39.939512"
 draft: false
 sectors:
   - finance
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - india
 revenue_buckets: []
@@ -23,318 +23,241 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
+  - red
   - wood
-  - dark
-  - transparent
-  - bright
-  - orange
-  - gradient
-  - light
-  - red
   - textured
-  - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - red
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - gold
   - orange
-  - bright
-  - white
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
+  - blurred
+  - transparent
+  - solid
   - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - gold
+  - grayscale
+  - white
+  - orange
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - branding
-  - candid
-  - staged
   - informative
+  - selfie
+  - commercial
+  - professional
+  - informational
+  - banking
+  - news
+  - landscape
   - promotional
   - food
-  - beauty
-  - instructional
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - corporate
-  - "digital-art"
-  - travel
-  - portrait
-  - advertisement
-  - lifestyle
-  - informational
   - product
-  - information
-  - sports
-  - "text-heavy"
-  - architectural
-  - documentary
-  - professional
+  - lifestyle
+  - "digital-art"
   - illustration
-  - banking
-  - couple
-  - educational
-  - action
+  - interior
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - educational
+  - candid
+  - "live-stage"
+  - action
+  - group
+  - documentary
+  - infographic
+  - sports
   - advertisement
-  - informative
-  - promotional
-  - promotion
-  - informational
+  - sky
+  - fashion
+  - "text-heavy"
+  - corporate
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - instructional
+  - couple
+  - "still-life"
+  - information
+  - travel
+concepts:
+  - informative
+  - advertisement
+  - advertising
   - cartoon
   - "text-heavy"
+  - illustration
+  - informational
+  - vintage
   - typography
-  - advertising
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
+  - "low-saturation"
+  - "bright-focal-point"
   - "neutral-density-filter"
+  - silhouette
+  - "saturated-colors"
+  - "high-contrast"
   - "high-saturation"
   - "motion-capture"
-  - "low-exposure"
-  - "saturated-colors"
-  - silhouette
-  - asymmetry
-  - "bright-focal-point"
   - symmetrical
-  - saturated
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - saturated
 dominant_colors:
-  - cream
-  - "dark-blue"
   - "off-white"
-  - orange
-  - black
   - white
   - red
   - "dark-red"
+  - orange
+  - cream
+  - "dark-blue"
+  - black
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
+  - braided
   - updo
-  - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - informal
-  - comfortable
-  - formal
   - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-  - simple
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - informal
+  - athletic
+  - business
+  - "form-fitting"
+  - beachwear
+  - professional
+  - simple
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - soft
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - soft
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
   - bright
-  - p
+  - pastel
+  - muted
 posings:
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - "crossed-legs"
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - laptop
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
   - casual
-  - p
-  - reclined
-gazes:
-  - l
-  - e
+  - seated
   - engaged
-  - downward
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - walking
+  - "crossed-legs"
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - laptop
+  - confident
+gazes:
   - "looking-at-camera"
-  - a
-  - c
-  - t
-  - upward
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
+  - engaged
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - t
-  - "close-up"
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

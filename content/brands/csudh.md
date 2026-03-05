@@ -2,11 +2,11 @@
 title: CSUDH
 slug: csudh
 description: ""
-date: "2026-03-05T15:56:45.888016"
+date: "2026-03-05T22:38:39.404186"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -42,32 +42,32 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-302"
-  - green
-  - "pantone-367"
-  - purple
-  - yellow
-  - gray
-  - black
-  - turquoise
-  - "pantone-7466"
   - white
-  - navy
   - "pantone-124"
-  - "pantone-526"
   - "pantone-209"
+  - "pantone-302"
+  - "pantone-367"
+  - "pantone-7466"
+  - black
+  - yellow
+  - "pantone-526"
+  - turquoise
+  - gray
+  - navy
+  - green
+  - purple
 typographies:
-  - arial
-  - serif
   - impact
+  - serif
   - times
-  - "proxima-nova"
   - "open-sans"
+  - arial
+  - "proxima-nova"
 imagery_styles:
-  - contemporary
-  - professional
   - photography
   - vibrant
+  - professional
+  - contemporary
   - clean
 wikidata_description: university
 has_twitter: false

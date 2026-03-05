@@ -2,7 +2,7 @@
 title: ACALL
 slug: acall
 description: ""
-date: "2026-03-05T15:56:45.884371"
+date: "2026-03-05T22:38:39.397779"
 draft: false
 sectors:
   - software
@@ -37,13 +37,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - vertical
   - symbol
+  - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

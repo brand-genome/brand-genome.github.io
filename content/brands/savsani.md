@@ -2,12 +2,12 @@
 title: Savsani
 slug: savsani
 description: ""
-date: "2026-03-05T15:56:45.860367"
+date: "2026-03-05T22:38:39.375297"
 draft: false
 sectors:
-  - fitness
   - healthcare
   - "wellness-spa"
+  - fitness
 regions:
   - usa
 years:
@@ -39,22 +39,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - wordmark
-  - abstract
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - abstract
+  - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
-  - abstract
+  - playful
   - product
   - duotone
+  - abstract
   - clean
-  - playful
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

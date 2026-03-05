@@ -2,7 +2,7 @@
 title: Vegetables by Bayer
 slug: "vegetables-by-bayer"
 description: ""
-date: "2026-03-05T15:56:45.731302"
+date: "2026-03-05T22:38:39.223780"
 draft: false
 sectors:
   - horticulture

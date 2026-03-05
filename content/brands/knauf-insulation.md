@@ -2,11 +2,11 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-03-05T15:56:46.096892"
+date: "2026-03-05T22:38:39.718064"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - germany
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - belgium
   - germany
+  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -41,13 +41,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - blue
   - white
+  - blue
+  - grey
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: Insulation product manufacturer
 has_twitter: false
 has_guidelines: true

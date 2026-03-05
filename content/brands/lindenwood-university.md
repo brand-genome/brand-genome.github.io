@@ -2,11 +2,11 @@
 title: Lindenwood University
 slug: "lindenwood-university"
 description: ""
-date: "2026-03-05T15:56:45.878117"
+date: "2026-03-05T22:38:39.387693"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

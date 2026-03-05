@@ -2,7 +2,7 @@
 title: IWWF
 slug: iwwf
 description: ""
-date: "2026-03-05T15:56:46.105261"
+date: "2026-03-05T22:38:39.732784"
 draft: false
 sectors:
   - sports
@@ -41,9 +41,9 @@ logo_elements:
   - symbol
 brand_colors:
   - blue
-  - yellow
-  - green
   - red
+  - green
+  - yellow
 typographies: []
 imagery_styles: []
 wikidata_description: international sport governing body

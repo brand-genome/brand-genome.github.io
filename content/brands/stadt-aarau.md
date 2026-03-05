@@ -2,7 +2,7 @@
 title: Stadt Aarau
 slug: "stadt-aarau"
 description: ""
-date: "2026-03-05T15:56:45.776388"
+date: "2026-03-05T22:38:39.273884"
 draft: false
 sectors:
   - "public-sector"

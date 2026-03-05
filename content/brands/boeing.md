@@ -2,7 +2,7 @@
 title: Boeing
 slug: boeing
 description: ""
-date: "2026-03-05T15:56:46.194043"
+date: "2026-03-05T22:38:39.895252"
 draft: false
 sectors:
   - aerospace
@@ -12,12 +12,12 @@ years: []
 languages: []
 tags: []
 industries:
-  - "aircraft-construction"
-  - "aircraft-industry"
-  - "space-based-economy"
-  - "aerospace-industry"
   - "space-industry"
   - "weapons-industry"
+  - "space-based-economy"
+  - "aircraft-industry"
+  - "aircraft-construction"
+  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -26,288 +26,211 @@ operating_income_buckets: []
 net_profit_buckets:
   - "1b-10b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
-  - blue
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - blue
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "still-life"
+  - audience
+  - selfie
+  - professional
+  - landscape
+  - product
+  - industrial
+  - abstract
+  - interior
+  - illustration
+  - street
+  - architectural
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - industrial
-  - "incomplete-art"
-  - audience
-  - space
-  - staged
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - logo
   - event
-  - portrait
-  - product
-  - "text-heavy"
+  - sky
+  - fashion
   - bridal
-  - architectural
-  - professional
+  - "text-heavy"
   - underwater
-  - abstract
-  - illustration
-  - action
+  - "graphic-design"
+  - space
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - "still-life"
 concepts:
   - studio
-  - "motion-capture"
-  - "incomplete-art"
   - professional
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
   - "off-white"
-  - black
   - white
-  - "light-blue"
   - olive
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
+  - short
+  - curly
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - professional
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - focused
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

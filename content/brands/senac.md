@@ -2,7 +2,7 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-03-05T15:56:46.128668"
+date: "2026-03-05T22:38:39.768258"
 draft: false
 sectors:
   - education
@@ -41,18 +41,18 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - gold
-  - silver
-  - orange
-  - blue
-  - black
   - white
-  - "pantone-144"
+  - gold
+  - orange
+  - black
+  - blue
+  - silver
   - "pantone-288"
+  - "pantone-144"
 typographies:
   - verdana
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
   - graphic

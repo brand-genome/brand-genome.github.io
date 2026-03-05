@@ -2,7 +2,7 @@
 title: São Paulo
 slug: "sao-paulo"
 description: ""
-date: "2026-03-05T15:56:46.073762"
+date: "2026-03-05T22:38:39.687651"
 draft: false
 sectors:
   - "public-sector"

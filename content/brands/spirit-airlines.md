@@ -2,7 +2,7 @@
 title: Spirit Airlines
 slug: "spirit-airlines"
 description: ""
-date: "2026-03-05T15:56:46.259397"
+date: "2026-03-05T22:38:40.033127"
 draft: false
 sectors:
   - airline
@@ -20,263 +20,186 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - blurred
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - candid
-  - cityscape
-  - staged
-  - promotional
-  - landscape
-  - corporate
+  - professional
   - conceptual
+  - landscape
+  - promotional
+  - product
+  - illustration
+  - interior
+  - abstract
+  - advertising
+  - architectural
+  - action
+  - infographic
+  - candid
+  - group
+  - "live-stage"
+  - advertisement
+  - sky
+  - cityscape
+  - corporate
   - family
   - portrait
-  - advertisement
-  - product
-  - architectural
-  - professional
-  - abstract
-  - illustration
-  - action
-  - advertising
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
-  - typography
+  - branding
   - cartoon
   - "text-heavy"
-  - branding
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - yellow
-  - gray
+  - white
   - orange
   - black
-  - white
+  - "dark-blue"
+  - cyan
+  - yellow
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - down
-  - a
-  - short
-  - c
-  - ponytail
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - loose
+  - up
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - down
+  - ponytail
+  - braided
   - updo
+  - short
+  - curly
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

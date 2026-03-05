@@ -2,11 +2,11 @@
 title: Asda
 slug: asda
 description: ""
-date: "2026-03-05T15:56:46.220448"
+date: "2026-03-05T22:38:39.959970"
 draft: false
 sectors:
-  - supermarket
   - "petrol-station"
+  - supermarket
 regions:
   - unknown
 years: []
@@ -22,303 +22,226 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - natural
   - moderate
+  - "light-on-subject"
   - bright
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - "awareness-campaign"
+  - selfie
+  - baby
+  - landscape
+  - botanical
+  - food
+  - product
+  - wedding
+  - lifestyle
+  - interior
+  - abstract
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - "awareness-campaign"
-  - candid
+  - documentary
+  - advertisement
+  - sky
+  - fashion
+  - "text-heavy"
+  - underwater
+  - corporate
+  - family
   - typography
-  - botanical
-  - baby
+  - "graphic-design"
+  - portrait
+  - beauty
   - staged
   - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
-  - wedding
-  - "food-photography"
-  - family
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - "text-heavy"
-  - architectural
-  - documentary
-  - underwater
-  - abstract
-  - action
-  - advertising
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - advertising
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
-  - advertising
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "dark-gray"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - olive
+  - black
   - "light-green"
+  - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - engaged
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - focused
-  - n
   - casual
-  - gray
-  - moustache
-  - p
   - white
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
+  - moustache
+  - gray
   - updo
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
+  - beard
   - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
+  - straight
+  - ponytail
+  - curly
+  - joyful
+  - red
+  - content
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
   - focused
-  - n
-  - p
+  - long
+  - contemplative
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+  - happy
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
   - casual
-  - p
   - jacket
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - costume
   - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - uniform
 clothing_colors:
-  - l
-  - e
-  - monochrome
+  - vibrant
   - pastel
   - neutral
-  - green
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
   - neon
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - green
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - driving
+  - walking
   - engaged
   - leaning
-  - dynamic
-  - sitting
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
+  - relaxed
   - reclined
+  - dynamic
+  - holding
+  - active
+  - stretching
+  - standing
+  - running
+  - sitting
+  - driving
+  - static
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - looking
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - looking
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - face
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - face
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

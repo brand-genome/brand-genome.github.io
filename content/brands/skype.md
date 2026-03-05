@@ -2,15 +2,15 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-03-05T15:56:46.131797"
+date: "2026-03-05T22:38:39.772347"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2007
   - 2005
+  - 2007
 languages:
   - english
 tags:
@@ -39,30 +39,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - cyan
-  - green
-  - "pantone-376"
-  - purple
-  - yellow
-  - gray
-  - orange
   - white
+  - "pantone-376"
+  - orange
+  - cyan
+  - yellow
   - blue
-  - "pantone-116"
   - "pantone-151"
+  - gray
+  - "pantone-116"
+  - green
+  - purple
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - photography
-  - natural
-  - vibrant
-  - subtle
   - bold
+  - photography
+  - vibrant
   - graphic
+  - subtle
+  - natural
 wikidata_description: former telecommunications software service
 has_twitter: false
 has_guidelines: true

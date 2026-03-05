@@ -2,7 +2,7 @@
 title: Carleton University
 slug: "carleton-university"
 description: ""
-date: "2026-03-05T15:56:45.926609"
+date: "2026-03-05T22:38:39.503181"
 draft: false
 sectors:
   - university
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
-  - georgia
   - gotham
+  - georgia
   - arial
   - helvetica
 imagery_styles:

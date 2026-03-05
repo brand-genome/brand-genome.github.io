@@ -2,11 +2,11 @@
 title: "Covid-19 Public Health Advice"
 slug: "covid-19-public-health-advice"
 description: ""
-date: "2026-03-05T15:56:45.953766"
+date: "2026-03-05T22:38:39.520521"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -41,13 +41,13 @@ logo_elements:
   - signature
   - symbol
 brand_colors:
-  - black
   - white
+  - black
   - yellow
 typographies:
   - impact
-  - arial
   - lato
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""

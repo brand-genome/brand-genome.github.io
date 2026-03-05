@@ -2,11 +2,11 @@
 title: Supercell
 slug: supercell
 description: ""
-date: "2026-03-05T15:56:45.737208"
+date: "2026-03-05T22:38:39.229148"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - finland
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - entertainment
 industries:
-  - "video-game-industry"
   - "software-development"
+  - "video-game-industry"
 countries:
   - finland
 revenue_buckets: []

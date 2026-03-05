@@ -2,7 +2,7 @@
 title: Precor
 slug: precor
 description: ""
-date: "2026-03-05T15:56:46.175481"
+date: "2026-03-05T22:38:39.817996"
 draft: false
 sectors:
   - fitness
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - sport
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

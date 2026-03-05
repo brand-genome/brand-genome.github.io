@@ -2,7 +2,7 @@
 title: LatitudePay
 slug: latitudepay
 description: ""
-date: "2026-03-05T15:56:45.821925"
+date: "2026-03-05T22:38:39.328875"
 draft: false
 sectors:
   - finance
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - secondary
-  - stacked
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:
-  - monochrome
   - illustration
   - photography
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

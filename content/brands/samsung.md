@@ -2,12 +2,12 @@
 title: Samsung
 slug: samsung
 description: ""
-date: "2026-03-05T15:56:46.039433"
+date: "2026-03-05T22:38:39.608668"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - "south-korea"
 years:
@@ -30,429 +30,352 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "studio-shot"
-  - "rule-of-thirds"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - white
   - "background-as-frame"
+  - wood
+  - textured
+  - orange
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - orange
-  - gradient
-  - white
-  - brick
-  - light
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - "white-and-black"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "white-and-black"
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - advertising
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - packaging
-  - interior
-  - commercial
-  - "event-promotion"
-  - candid
-  - typography
-  - branding
-  - botanical
-  - "event-photography"
-  - outdoor
-  - cityscape
   - audience
-  - urban
-  - staged
-  - promotional
-  - beauty
-  - food
-  - instructional
+  - selfie
+  - commercial
   - "home-decor"
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - fitness
-  - logo
-  - action
-  - corporate
-  - wildlife
-  - event
-  - family
-  - "food-photography"
-  - text
-  - "digital-art"
-  - macro
-  - "pet-photography"
-  - portrait
-  - advertisement
-  - awards
-  - outdoors
-  - lifestyle
-  - panoramic
-  - "product-launch"
-  - product
-  - art
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - exhibition
-  - "audience-shot"
-  - architectural
-  - beach
   - professional
+  - "audience-shot"
+  - beach
+  - "product-launch"
+  - awards
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
   - technical
-  - underwater
+  - art
+  - "corporate-event"
+  - text
+  - lifestyle
+  - interior
+  - "digital-art"
   - abstract
   - illustration
+  - "food-photography"
   - "audience-perspective"
-  - "social-media"
-  - "corporate-event"
-  - catalog
-  - teaser
-  - pet
-  - technology
-concepts:
-  - realism
-  - textured
-  - "nature-photography"
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - "live-event"
-  - promotion
-  - "clean-design"
-  - branding
+  - candid
+  - group
+  - catalog
+  - fitness
+  - urban
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - cityscape
+  - "text-heavy"
+  - teaser
+  - cartoon
+  - corporate
+  - underwater
+  - "pet-photography"
+  - family
   - typography
-  - "social-media-campaign"
-  - "event-photography"
-  - "incomplete-art"
-  - "product-showcase"
-  - emojis
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - instructional
-  - minimalistic
-  - colorful
   - "graphic-design"
-  - "product-photography"
+  - wildlife
+  - exhibition
+  - macro
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "social-media"
   - technology
+  - "event-photography"
+  - instructional
+  - panoramic
+  - "still-life"
+  - packaging
+  - crowd
+  - outdoors
+concepts:
+  - informative
+  - "social-media-integration"
+  - emojis
+  - colorful
+  - "product-launch"
+  - "wave-pattern"
+  - home
+  - "macro-shot"
+  - promotional
+  - "sports-photography"
+  - "social-media-campaign"
+  - product
+  - text
+  - lifestyle
+  - illustration
+  - "digital-art"
+  - vintage
+  - "sale-promotion"
+  - advertising
+  - "fast-charging"
+  - "live-event"
+  - "live-stage"
+  - documentary
+  - textured
+  - advertisement
+  - emotional
+  - "product-showcase"
+  - "text-heavy"
+  - cartoon
   - corporate
   - family
-  - "digital-art"
-  - text
-  - "text-as-design-element"
-  - "fast-charging"
-  - advertisement
-  - lifestyle
-  - "product-promotion"
-  - "sports-photography"
-  - product
-  - cartoon
-  - "brand-promotion"
-  - "text-heavy"
-  - "product-launch"
-  - clean
+  - typography
+  - "graphic-design"
+  - "product-photography"
   - "brand-endorsement"
-  - home
-  - documentary
-  - "wave-pattern"
-  - "sale-promotion"
-  - "social-media-integration"
-  - illustration
-  - "teaser-image"
+  - "incomplete-art"
+  - "brand-promotion"
+  - "text-as-design-element"
+  - realism
   - minimalist
+  - technology
+  - branding
+  - instructional
+  - "event-photography"
+  - "clean-design"
+  - "product-promotion"
+  - minimalistic
+  - "teaser-image"
+  - "nature-photography"
   - "product-display"
-  - emotional
-  - "macro-shot"
-  - advertising
+  - clean
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - vignette
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - symmetric
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
   - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
+  - symmetric
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
   - "clean-and-simple"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - saturated
+  - vignette
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - orange
-  - black
   - white
-  - lavender
+  - "off-white"
+  - orange
+  - "dark-blue"
+  - black
   - "light-blue"
+  - lavender
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
+  - white
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
   - wavy
+  - loose
+  - traditional
+  - updo
+  - dark
+  - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
   - "pulled-back"
-  - t
-  - i
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - b
   - long
-  - n
-  - casual
-  - p
-  - white
-  - updo
-  - "tied-back"
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - determined
-  - astonished
-  - focused
-  - n
   - casual
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
+  - shocked
+  - engaged
   - relaxed
-  - a
+  - neutral
+  - content
+  - determined
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+  - astonished
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
   - beachwear
-  - "business-casual"
-  - c
   - business
   - active
-  - t
-  - i
+  - relaxed
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
   - professional
-  - n
-  - casual
-  - p
+  - formal
   - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - red
+  - vibrant
+  - muted
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
   - subtle
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
+  - leaning
   - reclined
+  - relaxed
+  - dynamic
+  - engaged
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - static
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
   - blue
+  - grey
   - black
 typographies:
   - arial
 imagery_styles:
   - dynamic
-  - lifestyle
-  - product
   - photography
+  - product
+  - lifestyle
 wikidata_description: South Korean multinational electronics corporation
 has_twitter: true
 has_guidelines: true

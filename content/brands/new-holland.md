@@ -2,11 +2,11 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-03-05T15:56:46.072328"
+date: "2026-03-05T22:38:39.683912"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - italy
 years:
@@ -41,12 +41,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: tractor manufacturer
 has_twitter: false
 has_guidelines: true

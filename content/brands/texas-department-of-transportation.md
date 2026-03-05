@@ -2,11 +2,11 @@
 title: Texas Department of Transportation
 slug: "texas-department-of-transportation"
 description: ""
-date: "2026-03-05T15:56:45.982662"
+date: "2026-03-05T22:38:39.558472"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -44,9 +44,9 @@ typographies:
   - arial
 imagery_styles:
   - dynamic
-  - staged
   - candid
   - natural
+  - staged
 wikidata_description: "governmental agency in Texas, United States"
 has_twitter: false
 has_guidelines: true

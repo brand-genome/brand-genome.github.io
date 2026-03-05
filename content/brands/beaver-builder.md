@@ -2,7 +2,7 @@
 title: Beaver Builder
 slug: "beaver-builder"
 description: ""
-date: "2026-03-05T15:56:45.826770"
+date: "2026-03-05T22:38:39.333362"
 draft: false
 sectors:
   - software
@@ -42,13 +42,13 @@ brand_colors:
   - black
   - brown
 typographies:
-  - "open-sans"
-  - display
   - roboto
+  - "open-sans"
   - helvetica
+  - display
 imagery_styles:
-  - product
   - bold
+  - product
   - graphic
 wikidata_description: ""
 has_twitter: false

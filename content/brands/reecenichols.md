@@ -2,7 +2,7 @@
 title: ReeceNichols
 slug: reecenichols
 description: ""
-date: "2026-03-05T15:56:46.043060"
+date: "2026-03-05T22:38:39.614120"
 draft: false
 sectors:
   - "real-estate"
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
-  - primary
   - horizontal
+  - primary
+  - stacked
 brand_colors:
   - blue
+  - yellow
   - black
   - gray
-  - yellow
 typographies:
   - gotham
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: ""
 has_twitter: false

@@ -2,7 +2,7 @@
 title: Corfo
 slug: corfo
 description: ""
-date: "2026-03-05T15:56:46.030424"
+date: "2026-03-05T22:38:39.598692"
 draft: false
 sectors:
   - "public-sector"
@@ -39,9 +39,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
   - "pantone-293"
+  - black
 typographies: []
 imagery_styles:
   - bold

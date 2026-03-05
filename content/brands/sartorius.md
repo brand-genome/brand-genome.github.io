@@ -2,11 +2,11 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-03-05T15:56:45.976774"
+date: "2026-03-05T22:38:39.552787"
 draft: false
 sectors:
-  - hardware
   - biotech
+  - hardware
 regions:
   - france
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - corporate
-  - featured
   - science
+  - featured
+  - corporate
 industries:
+  - "precision-engineering-and-optical-industry"
   - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
   - "pharmaceutical-industry"
-  - "precision-engineering-and-optical-industry"
 countries:
   - germany
 revenue_buckets: []
@@ -45,13 +45,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
+  - white
   - black
   - yellow
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: German technology company specializing in equipment and services for the biopharmaceutical industry

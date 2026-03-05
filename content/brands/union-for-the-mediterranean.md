@@ -2,7 +2,7 @@
 title: Union for the Mediterranean
 slug: "union-for-the-mediterranean"
 description: ""
-date: "2026-03-05T15:56:45.861189"
+date: "2026-03-05T22:38:39.376083"
 draft: false
 sectors:
   - "public-sector"
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - emblem
   - secondary
   - vertical
-  - emblem
 brand_colors:
-  - orange
-  - grey
-  - black
   - white
+  - grey
+  - orange
+  - black
   - blue
 typographies:
   - serif
   - display
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

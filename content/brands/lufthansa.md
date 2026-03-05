@@ -2,7 +2,7 @@
 title: Lufthansa
 slug: lufthansa
 description: ""
-date: "2026-03-05T15:56:46.203101"
+date: "2026-03-05T22:38:39.924571"
 draft: false
 sectors:
   - airline
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
-  - "air-transport"
   - "freight-air-transport"
   - "passenger-air-transport"
+  - "air-transport"
 countries:
   - germany
 revenue_buckets:
@@ -25,329 +25,252 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - "text-as-background"
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - "text-as-background"
-  - light
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - "text-heavy"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
+  - transparent
   - light
-  - "inverted-colors"
-  - "sunset-colors"
-  - textured
-  - "aquatic-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - textured
+  - monotone
+  - "text-heavy"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "sunset-colors"
+  - "inverted-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
+  - signage
   - selfie
-  - interior
-  - industrial
-  - branding
-  - candid
-  - botanical
-  - "event-photography"
-  - cityscape
+  - professional
   - aerial
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
   - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - abstract
+  - "audience-perspective"
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - educational
+  - action
+  - "live-stage"
+  - candid
+  - documentary
+  - group
+  - infographic
   - "fine-art"
   - logo
-  - corporate
+  - fashion
+  - sky
   - event
-  - signage
-  - business
-  - family
-  - "food-photography"
-  - text
-  - travel
-  - portrait
   - advertisement
-  - lifestyle
-  - product
-  - nature
+  - cityscape
   - "text-heavy"
-  - architectural
-  - documentary
-  - professional
+  - corporate
   - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - "social-media"
-  - educational
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
   - map
-  - action
-  - advertising
-concepts:
+  - staged
+  - business
+  - historical
+  - branding
+  - "social-media"
   - "event-photography"
-  - "incomplete-art"
+  - "still-life"
+  - travel
+concepts:
+  - "corporate-branding"
+  - informative
+  - "logo-design"
+  - branding
   - professional
-  - "wave-pattern"
-  - photorealism
+  - "event-photography"
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - informative
   - "audience-perspective"
-  - "graphic-design"
-  - "logo-design"
-  - cartoon
   - typography
-  - "text-heavy"
-  - branding
-  - "corporate-branding"
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - "vanishing-point"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - "high-contrast"
+  - "high-saturation"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - "dark-blue"
+  - black
+  - cyan
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - colorful
-  - a
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+  - comfortable
+  - uniform
+clothing_colors:
   - safety
   - vibrant
-  - corporate
-  - t
-  - i
   - muted
-  - o
-  - unknown
-  - b
-  - n
+  - neutral
+  - monochrome
+  - corporate
+  - earthy
+  - colorful
+  - pastel
   - uniform
-  - p
 posings:
-  - posed
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
+  - professional
   - active
-  - t
-  - i
+  - holding
+  - posed
+  - confident
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - professional
-  - focused
-  - n
-  - p
-  - reclined
-gazes:
   - group
-  - l
-  - e
+gazes:
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+  - group
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - group
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

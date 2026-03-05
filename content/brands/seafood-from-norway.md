@@ -2,7 +2,7 @@
 title: Seafood from Norway
 slug: "seafood-from-norway"
 description: ""
-date: "2026-03-05T15:56:46.051834"
+date: "2026-03-05T22:38:39.643953"
 draft: false
 sectors:
   - food
@@ -38,19 +38,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
   - serif
 imagery_styles:
-  - professional
-  - photography
-  - natural
-  - portrait
-  - clean
   - bold
+  - photography
+  - professional
+  - clean
+  - portrait
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

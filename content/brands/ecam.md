@@ -2,7 +2,7 @@
 title: ECAM
 slug: ecam
 description: ""
-date: "2026-03-05T15:56:45.979203"
+date: "2026-03-05T22:38:39.555144"
 draft: false
 sectors:
   - education
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - "pantone-5423"
+  - blue
   - black
   - white
 typographies:

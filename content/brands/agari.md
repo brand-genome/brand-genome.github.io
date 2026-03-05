@@ -2,11 +2,11 @@
 title: Agari
 slug: agari
 description: ""
-date: "2026-03-05T15:56:46.109246"
+date: "2026-03-05T22:38:39.743418"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - canada
 years:
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - grey
-  - black
   - white
+  - grey
   - orange
+  - black
 typographies:
   - gotham
-  - display
   - arial
   - "sans-serif"
+  - display
 imagery_styles:
-  - staged
-  - gradient
-  - lifestyle
-  - candid
   - bold
+  - staged
+  - lifestyle
+  - gradient
+  - candid
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

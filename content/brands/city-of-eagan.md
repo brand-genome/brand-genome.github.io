@@ -2,7 +2,7 @@
 title: City of Eagan
 slug: "city-of-eagan"
 description: ""
-date: "2026-03-05T15:56:46.035283"
+date: "2026-03-05T22:38:39.604020"
 draft: false
 sectors:
   - "public-sector"

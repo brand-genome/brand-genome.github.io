@@ -2,7 +2,7 @@
 title: Malouf
 slug: malouf
 description: ""
-date: "2026-03-05T15:56:46.037693"
+date: "2026-03-05T22:38:39.606454"
 draft: false
 sectors:
   - "consumer-goods"
@@ -41,13 +41,13 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-8001"
+  - white
   - "pantone-10274"
-  - gray
+  - "pantone-8001"
+  - black
   - "pantone-876"
   - silver
-  - black
-  - white
+  - gray
   - "pantone-871"
 typographies:
   - display

@@ -2,7 +2,7 @@
 title: Trek Bicycles
 slug: "trek-bicycles"
 description: ""
-date: "2026-03-05T15:56:45.803272"
+date: "2026-03-05T22:38:39.311503"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - sport
+  - technology
 industries: []
 countries: []
 revenue_buckets: []

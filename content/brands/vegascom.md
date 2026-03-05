@@ -2,11 +2,11 @@
 title: Vegas.com
 slug: vegascom
 description: ""
-date: "2026-03-05T15:56:45.832291"
+date: "2026-03-05T22:38:39.337884"
 draft: false
 sectors:
-  - tourism
   - "e-commerce"
+  - tourism
 regions:
   - usa
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-122"
-  - yellow
-  - black
   - red
+  - black
   - "pantone-032"
+  - yellow
+  - "pantone-122"
 typographies: []
 imagery_styles:
   - product

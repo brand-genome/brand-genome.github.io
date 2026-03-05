@@ -2,11 +2,11 @@
 title: Sport is the Norm campaign
 slug: "sport-is-the-norm-campaign"
 description: ""
-date: "2026-03-05T15:56:45.914985"
+date: "2026-03-05T22:38:39.479212"
 draft: false
 sectors:
-  - "public-sector"
   - sports
+  - "public-sector"
 regions:
   - russia
 years:

@@ -2,7 +2,7 @@
 title: Wikimedia Foundation
 slug: "wikimedia-foundation"
 description: ""
-date: "2026-03-05T15:56:45.962478"
+date: "2026-03-05T22:38:39.529675"
 draft: false
 sectors:
   - ngo
@@ -45,8 +45,8 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
-  - montserrat
   - serif
+  - montserrat
 imagery_styles:
   - colorful
   - graphic

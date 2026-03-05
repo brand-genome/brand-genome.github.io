@@ -2,11 +2,11 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-03-05T15:56:45.860776"
+date: "2026-03-05T22:38:39.375756"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:

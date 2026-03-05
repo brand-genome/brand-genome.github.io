@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-03-05T15:56:45.975170"
+date: "2026-03-05T22:38:39.547873"
 draft: false
 sectors:
   - software
@@ -13,12 +13,12 @@ years:
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries: []
 countries:
-  - czechoslovakia
   - "czech-republic"
+  - czechoslovakia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -41,13 +41,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - icon
+  - primary
 brand_colors:
+  - white
   - orange
   - grey
   - black
-  - white
   - "pantone-021"
 typographies:
   - montserrat

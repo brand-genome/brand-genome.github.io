@@ -2,12 +2,12 @@
 title: Surf Life Saving New Zealand
 slug: "surf-life-saving-new-zealand"
 description: ""
-date: "2026-03-05T15:56:46.083747"
+date: "2026-03-05T22:38:39.704294"
 draft: false
 sectors:
   - ngo
-  - "emergency-services"
   - sports
+  - "emergency-services"
 regions:
   - "new-zealand"
 years:
@@ -43,12 +43,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - yellow
-  - gray
-  - orange
-  - blue
   - red
+  - orange
+  - yellow
+  - blue
+  - gray
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: New Zealand nationwide organization dedicated to safety on the open water

@@ -2,7 +2,7 @@
 title: Valle d’Aosta
 slug: "valle-daosta"
 description: ""
-date: "2026-03-05T15:56:45.876835"
+date: "2026-03-05T22:38:39.386121"
 draft: false
 sectors:
   - "public-sector"

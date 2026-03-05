@@ -2,11 +2,11 @@
 title: Alaska Seafood Marketing Institute
 slug: "alaska-seafood-marketing-institute"
 description: ""
-date: "2026-03-05T15:56:45.740370"
+date: "2026-03-05T22:38:39.234255"
 draft: false
 sectors:
-  - "marketing-advertising"
   - food
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - marketing
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"

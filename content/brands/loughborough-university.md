@@ -2,11 +2,11 @@
 title: Loughborough University
 slug: "loughborough-university"
 description: ""
-date: "2026-03-05T15:56:46.110653"
+date: "2026-03-05T22:38:39.745003"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:

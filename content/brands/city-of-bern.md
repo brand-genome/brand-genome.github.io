@@ -2,7 +2,7 @@
 title: City of Bern
 slug: "city-of-bern"
 description: ""
-date: "2026-03-05T15:56:45.807597"
+date: "2026-03-05T22:38:39.313375"
 draft: false
 sectors:
   - "public-sector"

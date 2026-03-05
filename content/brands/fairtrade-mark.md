@@ -2,7 +2,7 @@
 title: Fairtrade Mark
 slug: "fairtrade-mark"
 description: ""
-date: "2026-03-05T15:56:45.880704"
+date: "2026-03-05T22:38:39.390807"
 draft: false
 sectors:
   - ngo

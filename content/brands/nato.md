@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-03-05T15:56:46.156717"
+date: "2026-03-05T22:38:39.796498"
 draft: false
 sectors:
   - entertainment
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - stacked
-  - primary
 brand_colors:
-  - "pantone-199"
-  - brown
-  - "pantone-201"
-  - black
   - white
-  - "pantone-195"
   - red
+  - "pantone-199"
+  - "pantone-195"
+  - black
+  - "pantone-201"
+  - brown
 typographies:
+  - gotham
   - serif
   - display
-  - gotham
 imagery_styles:
-  - contemporary
+  - bold
   - photography
+  - contemporary
   - gradient
   - static
-  - bold
 wikidata_description: intergovernmental military alliance between 32 member states
 has_twitter: false
 has_guidelines: true

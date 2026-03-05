@@ -2,11 +2,11 @@
 title: SafeTrx Active
 slug: "safetrx-active"
 description: ""
-date: "2026-03-05T15:56:45.829465"
+date: "2026-03-05T22:38:39.335260"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - ireland
 years:

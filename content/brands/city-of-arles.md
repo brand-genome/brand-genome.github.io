@@ -2,7 +2,7 @@
 title: City of Arles
 slug: "city-of-arles"
 description: ""
-date: "2026-03-05T15:56:46.181030"
+date: "2026-03-05T22:38:39.824210"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - institution
   - city
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

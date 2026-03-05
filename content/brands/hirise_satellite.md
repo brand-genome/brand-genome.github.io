@@ -2,7 +2,7 @@
 title: Hirise_Satellite
 slug: hirise_satellite
 description: ""
-date: "2026-03-05T15:56:46.251072"
+date: "2026-03-05T22:38:40.020141"
 draft: false
 sectors:
   - satellite
@@ -19,263 +19,186 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - architectural
-  - sky
-  - "still-life"
-  - "live-stage"
-  - abstract
-  - staged
-  - portrait
-  - group
   - food
-  - selfie
   - astronomy
   - product
+  - staged
   - art
+  - selfie
+  - sky
+  - group
+  - action
+  - abstract
+  - "still-life"
   - street
   - landscape
   - candid
+  - "live-stage"
+  - portrait
   - botanical
-  - action
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
-  - typography
+  - illustration
   - galaxy
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "neutral-density-filter"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - vignette
-  - "long-exposure"
-  - "high-contrast"
+  - "neutral-density-filter"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - vignette
+  - "negative-space"
 dominant_colors:
-  - brown
-  - "royal-blue"
-  - "dark-gray"
-  - "dark-blue"
-  - gray
   - "dark-green"
   - black
+  - "dark-blue"
   - "dark-brown"
+  - "royal-blue"
+  - brown
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - short
   - updo
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - e
-  - contemplative
-  - o
-  - unknown
-  - c
   - joyful
+  - engaged
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - costume
+  - protective
   - formal
   - traditional
-  - l
-  - e
-  - a
   - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - b
-  - n
-  - casual
-  - p
-  - protective
 clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
+  - monochrome
   - earthy
-  - i
-  - p
+  - pastel
   - muted
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

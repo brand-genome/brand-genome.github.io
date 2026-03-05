@@ -2,16 +2,16 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-03-05T15:56:46.075254"
+date: "2026-03-05T22:38:39.689399"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:
-  - 2015
   - 2018
+  - 2015
 languages:
   - english
 tags:
@@ -41,20 +41,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - secondary
   - stacked
-  - primary
 brand_colors:
+  - white
   - gold
-  - purple
+  - black
   - silver
   - gray
-  - black
-  - white
+  - purple
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: national Guiding association of Canada
 has_twitter: false
 has_guidelines: true

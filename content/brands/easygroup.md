@@ -2,15 +2,15 @@
 title: easyGroup
 slug: easygroup
 description: ""
-date: "2026-03-05T15:56:45.662832"
+date: "2026-03-05T22:38:39.129965"
 draft: false
 sectors:
   - finance
 regions:
   - "united-kingdom"
 years:
-  - 2020
   - 2011
+  - 2020
 languages:
   - english
 tags:
@@ -42,19 +42,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - orange
   - grey
   - black
-  - white
   - "pantone-021"
 typographies:
   - futura
 imagery_styles:
-  - contemporary
-  - photography
-  - clean
   - bold
+  - photography
   - graphic
+  - contemporary
+  - clean
 wikidata_description: British multinational branded venture capital conglomerate
 has_twitter: false
 has_guidelines: true

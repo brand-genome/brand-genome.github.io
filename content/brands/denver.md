@@ -2,7 +2,7 @@
 title: Denver
 slug: denver
 description: ""
-date: "2026-03-05T15:56:46.108625"
+date: "2026-03-05T22:38:39.737144"
 draft: false
 sectors:
   - "public-sector"
@@ -38,32 +38,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
-  - "pantone-130"
-  - "pantone-384"
-  - green
-  - gold
-  - "pantone-180"
-  - purple
-  - orange
-  - blue
-  - black
-  - navy
-  - "pantone-296"
-  - "pantone-2925"
-  - "pantone-268"
-  - red
   - "pantone-1805"
+  - red
+  - gold
+  - "pantone-268"
+  - orange
+  - black
+  - "pantone-296"
+  - blue
+  - "pantone-384"
+  - navy
+  - "pantone-130"
+  - green
+  - purple
+  - "pantone-180"
+  - "pantone-2925"
 typographies:
   - avenir
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "consolidated city-county and capital of Colorado, United States"
 has_twitter: false
 has_guidelines: true

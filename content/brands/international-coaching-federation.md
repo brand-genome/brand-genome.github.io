@@ -2,11 +2,11 @@
 title: International Coaching Federation
 slug: "international-coaching-federation"
 description: ""
-date: "2026-03-05T15:56:45.881828"
+date: "2026-03-05T22:38:39.393750"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -40,44 +40,44 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-1925"
-  - "pantone-7656"
-  - green
-  - orange
-  - red
-  - "pantone-603"
-  - "pantone-271"
-  - magenta
-  - gold
-  - yellow
-  - "pantone-2727"
-  - "pantone-485"
-  - "pantone-340"
-  - blue
-  - "pantone-3125"
-  - "pantone-716"
-  - purple
-  - gray
-  - "pantone-136"
   - white
+  - gold
   - "pantone-2757"
+  - magenta
+  - orange
+  - gray
+  - "pantone-340"
+  - "pantone-2727"
+  - red
+  - "pantone-1925"
+  - "pantone-485"
+  - "pantone-603"
   - "pantone-072"
+  - "pantone-716"
+  - "pantone-136"
+  - "pantone-7656"
+  - "pantone-271"
+  - yellow
+  - "pantone-3125"
+  - blue
+  - green
+  - purple
 typographies:
-  - arial
   - serif
-  - helvetica
+  - "sans-serif"
+  - arial
   - "proxima-nova"
   - montserrat
-  - "sans-serif"
+  - helvetica
 imagery_styles:
-  - gradient
-  - clean
   - bold
   - photography
+  - gradient
+  - clean
 wikidata_description: nonprofit organization dedicated to professional coaching
 has_twitter: false
 has_guidelines: true

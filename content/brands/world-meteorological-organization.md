@@ -2,7 +2,7 @@
 title: World Meteorological Organization
 slug: "world-meteorological-organization"
 description: ""
-date: "2026-03-05T15:56:46.008660"
+date: "2026-03-05T22:38:39.581785"
 draft: false
 sectors:
   - "public-sector"
@@ -41,18 +41,18 @@ body_sections: []
 logo_elements:
   - abstract
 brand_colors:
-  - pink
-  - green
-  - yellow
-  - "pantone-196"
-  - "pantone-368"
   - "pantone-108"
+  - yellow
+  - "pantone-368"
+  - pink
+  - "pantone-196"
+  - green
 typographies:
   - verdana
 imagery_styles:
-  - contemporary
   - abstract
   - photography
+  - contemporary
 wikidata_description: specialized agency of the United Nations for meteorology
 has_twitter: false
 has_guidelines: true

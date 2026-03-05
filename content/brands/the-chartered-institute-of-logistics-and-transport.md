@@ -2,11 +2,11 @@
 title: The Chartered Institute of Logistics and Transport
 slug: "the-chartered-institute-of-logistics-and-transport"
 description: ""
-date: "2026-03-05T15:56:45.862694"
+date: "2026-03-05T22:38:39.377708"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - education
+  - "logistics-supply-chain"
 regions:
   - "united-kingdom"
 years:
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-269"
   - gold
   - purple
+  - "pantone-269"
   - "pantone-872"
 typographies: []
 imagery_styles:

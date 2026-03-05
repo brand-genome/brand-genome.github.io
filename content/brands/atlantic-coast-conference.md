@@ -2,7 +2,7 @@
 title: Atlantic Coast Conference
 slug: "atlantic-coast-conference"
 description: ""
-date: "2026-03-05T15:56:46.055702"
+date: "2026-03-05T22:38:39.648826"
 draft: false
 sectors:
   - education
@@ -42,12 +42,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - maroon
   - gold
-  - purple
   - orange
   - black
+  - maroon
   - blue
+  - purple
 typographies: []
 imagery_styles: []
 wikidata_description: "men's collegiate basketball league"

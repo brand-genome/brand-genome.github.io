@@ -2,7 +2,7 @@
 title: Rudy’s
 slug: rudys
 description: ""
-date: "2026-03-05T15:56:46.068255"
+date: "2026-03-05T22:38:39.679764"
 draft: false
 sectors:
   - food
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - "pantone-1795"
-  - yellow
-  - black
   - white
   - red
   - "pantone-108"
+  - "pantone-1795"
+  - black
+  - yellow
 typographies: []
 imagery_styles: []
 wikidata_description: ""

@@ -2,17 +2,17 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-03-05T15:56:45.714243"
+date: "2026-03-05T22:38:39.204027"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:
@@ -43,26 +43,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - signature
-  - secondary
   - primary
+  - secondary
+  - horizontal
+  - signature
+  - wordmark
   - vertical
 brand_colors:
-  - indigo
   - crimson
-  - "pantone-7542"
-  - gray
   - black
+  - "pantone-7542"
+  - indigo
+  - gray
 typographies:
-  - georgia
-  - arial
   - script
+  - arial
+  - georgia
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: "private university in Cambridge, Massachusetts"
 has_twitter: false
 has_guidelines: true

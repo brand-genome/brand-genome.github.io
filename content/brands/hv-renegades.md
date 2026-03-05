@@ -2,7 +2,7 @@
 title: Hv Renegades
 slug: "hv-renegades"
 description: ""
-date: "2026-03-05T15:56:46.259922"
+date: "2026-03-05T22:38:40.033587"
 draft: false
 sectors:
   - sports
@@ -19,250 +19,173 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - gradient
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
 photography_genres:
+  - landscape
+  - product
+  - selfie
   - fashion
-  - architectural
   - sky
-  - "still-life"
-  - "live-stage"
   - group
+  - "still-life"
+  - architectural
+  - sports
+  - action
+  - "live-stage"
   - portrait
   - beauty
-  - selfie
-  - product
-  - sports
-  - landscape
-  - action
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
   - silhouette
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - silhouette
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "multiple-focal-points"
+  - silhouette
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - silhouette
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "dark-green"
-  - orange
-  - gray
-  - black
-  - "light-blue"
   - olive
+  - orange
+  - "dark-green"
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
+  - casual
   - flowing
-  - l
-  - e
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
   - braided
   - mustache
-  - curly
-  - covered
-  - varied
-  - a
   - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - n
-  - casual
-  - p
+  - curly
   - updo
   - "tied-back"
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,11 +2,11 @@
 title: Fox
 slug: fox
 description: ""
-date: "2026-03-05T15:56:46.069111"
+date: "2026-03-05T22:38:39.680594"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:

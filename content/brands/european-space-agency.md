@@ -2,7 +2,7 @@
 title: European Space Agency
 slug: "european-space-agency"
 description: ""
-date: "2026-03-05T15:56:46.005978"
+date: "2026-03-05T22:38:39.579082"
 draft: false
 sectors:
   - satellite
@@ -17,8 +17,8 @@ tags:
   - featured
   - aeronautic
 industries:
-  - "research-and-development"
   - "activities-of-extraterritorial-organizations-and-bodies"
+  - "research-and-development"
 countries:
   - france
 revenue_buckets: []
@@ -44,15 +44,15 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
   - silver
+  - black
 typographies:
-  - verdana
   - impact
+  - verdana
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: European organisation dedicated to space exploration
 has_twitter: false
 has_guidelines: true

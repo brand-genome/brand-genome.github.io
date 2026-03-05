@@ -2,7 +2,7 @@
 title: MSCI
 slug: msci
 description: ""
-date: "2026-03-05T15:56:45.840798"
+date: "2026-03-05T22:38:39.352505"
 draft: false
 sectors:
   - finance
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - "pantone-123"
-  - "pantone-198"
-  - blue
-  - turquoise
-  - black
-  - "pantone-296"
   - white
-  - "pantone-656"
+  - "pantone-198"
+  - "pantone-123"
   - "pantone-340"
   - "pantone-3265"
-  - "pantone-144"
-  - "pantone-2124"
-  - "pantone-2736"
+  - "pantone-296"
+  - black
+  - blue
   - "pantone-2123"
+  - turquoise
+  - "pantone-2736"
+  - "pantone-144"
+  - "pantone-656"
+  - "pantone-2124"
 typographies:
-  - din
-  - arial
   - roboto
   - merriweather
+  - arial
+  - din
 imagery_styles:
   - graphic
 wikidata_description: American financial service provider

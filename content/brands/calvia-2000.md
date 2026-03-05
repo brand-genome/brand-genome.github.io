@@ -2,7 +2,7 @@
 title: Calvià 2000
 slug: "calvia-2000"
 description: ""
-date: "2026-03-05T15:56:46.005487"
+date: "2026-03-05T22:38:39.578458"
 draft: false
 sectors:
   - "public-sector"
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
-  - vertical
   - icon
+  - horizontal
   - favicon
+  - vertical
 brand_colors:
-  - green
+  - white
   - "pantone-376"
   - grey
-  - white
   - "pantone-433"
+  - green
 typographies: []
 imagery_styles:
   - bold

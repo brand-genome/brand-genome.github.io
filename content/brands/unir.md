@@ -2,11 +2,11 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-03-05T15:56:46.066849"
+date: "2026-03-05T22:38:39.678163"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - spain
 years:
@@ -40,13 +40,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies:
   - arial
 imagery_styles:

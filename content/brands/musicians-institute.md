@@ -2,7 +2,7 @@
 title: Musicians Institute
 slug: "musicians-institute"
 description: ""
-date: "2026-03-05T15:56:46.104626"
+date: "2026-03-05T22:38:39.731947"
 draft: false
 sectors:
   - education
@@ -39,15 +39,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - lockup
   - stacked
+  - lockup
   - secondary
 brand_colors:
-  - magenta
-  - green
-  - black
   - white
   - red
+  - magenta
+  - black
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: "college of contemporary music located in Los Angeles, California"

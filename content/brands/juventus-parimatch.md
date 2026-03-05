@@ -2,11 +2,11 @@
 title: Juventus + Parimatch
 slug: "juventus-parimatch"
 description: ""
-date: "2026-03-05T15:56:45.920755"
+date: "2026-03-05T22:38:39.488456"
 draft: false
 sectors:
-  - finance
   - sports
+  - finance
 regions:
   - cyprus
 years:
@@ -39,9 +39,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - icon
   - primary
   - horizontal
-  - icon
 brand_colors: []
 typographies: []
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Junta de Andalucía
 slug: "junta-de-andalucia"
 description: ""
-date: "2026-03-05T15:56:45.675195"
+date: "2026-03-05T22:38:39.164260"
 draft: false
 sectors:
   - "public-sector"

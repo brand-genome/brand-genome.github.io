@@ -2,7 +2,7 @@
 title: "Triathlon Australia & STTA"
 slug: "triathlon-australia-stta"
 description: ""
-date: "2026-03-05T15:56:45.939510"
+date: "2026-03-05T22:38:39.509522"
 draft: false
 sectors:
   - sports
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
 typographies: []

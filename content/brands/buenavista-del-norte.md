@@ -2,7 +2,7 @@
 title: Buenavista del Norte
 slug: "buenavista-del-norte"
 description: ""
-date: "2026-03-05T15:56:45.896900"
+date: "2026-03-05T22:38:39.419619"
 draft: false
 sectors:
   - "public-sector"
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - emblem
+  - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
   - monochrome

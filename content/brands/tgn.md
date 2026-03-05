@@ -2,11 +2,11 @@
 title: TGN
 slug: tgn
 description: ""
-date: "2026-03-05T15:56:45.610859"
+date: "2026-03-05T22:38:39.083067"
 draft: false
 sectors:
-  - gas
   - utilities
+  - gas
 regions:
   - argentina
 years:
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
-  - montserrat
   - impact
+  - montserrat
 imagery_styles:
-  - modern
-  - photography
-  - natural
-  - dynamic
   - bold
+  - photography
+  - dynamic
+  - modern
+  - natural
 wikidata_description: Argentine energy company
 has_twitter: false
 has_guidelines: true

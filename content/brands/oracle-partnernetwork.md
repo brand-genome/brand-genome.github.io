@@ -2,7 +2,7 @@
 title: Oracle PartnerNetwork
 slug: "oracle-partnernetwork"
 description: ""
-date: "2026-03-05T15:56:46.181687"
+date: "2026-03-05T22:38:39.824887"
 draft: false
 sectors:
   - software
@@ -38,9 +38,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles:
   - product

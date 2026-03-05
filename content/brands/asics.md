@@ -2,7 +2,7 @@
 title: Asics
 slug: asics
 description: ""
-date: "2026-03-05T15:56:45.957135"
+date: "2026-03-05T22:38:39.522716"
 draft: false
 sectors:
   - fashion
@@ -45,8 +45,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "cycling team (1997-1998)"
 has_twitter: false
 has_guidelines: true

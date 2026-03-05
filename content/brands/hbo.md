@@ -2,7 +2,7 @@
 title: Hbo
 slug: hbo
 description: ""
-date: "2026-03-05T15:56:46.208864"
+date: "2026-03-05T22:38:39.938045"
 draft: false
 sectors:
   - entertainment
@@ -19,449 +19,372 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - text
-  - red
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - brick
   - white
-  - "text-as-background"
-  - light
-  - "text-heavy"
-  - textured
-  - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monochrome
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - vintage
+  - "background-as-frame"
   - red
-  - "inverted-colors"
-  - "aquatic-colors"
+  - wood
+  - "text-as-background"
+  - textured
+  - text
+  - blurred
+  - transparent
+  - solid
+  - "text-heavy"
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
+color_schemes:
+  - monochrome
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - vintage
   - "analogous-colors"
+  - "two-tone"
+  - red
+  - "text-heavy"
   - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "text-heavy"
+  - "inverted-colors"
   - grayscale
-  - bright
+  - monotone
+  - "aquatic-colors"
 photography_genres:
+  - celebrity
+  - fantasy
   - studio
-  - fashion
+  - audience
+  - selfie
+  - "social-commentary"
+  - professional
+  - "book-cover"
+  - "post-apocalyptic"
   - social
-  - sky
-  - "still-life"
+  - crime
+  - landscape
+  - performance
+  - promotional
+  - "close-up"
+  - botanical
+  - food
+  - "comic-book"
+  - product
+  - birthday
+  - wedding
+  - text
+  - interior
+  - illustration
+  - abstract
+  - vintage
+  - "audience-perspective"
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - performance
-  - interview
-  - selfie
-  - "social-issue"
-  - interior
-  - romance
-  - branding
-  - typography
-  - candid
-  - botanical
-  - political
-  - "social-commentary"
-  - "event-photography"
-  - cityscape
-  - audience
-  - "incomplete-art"
-  - warning
-  - motivational
-  - staged
-  - promotional
-  - vintage
-  - beauty
-  - instructional
-  - historical
-  - food
-  - "book-cover"
-  - "graphic-design"
-  - "post-apocalyptic"
-  - street
-  - birthday
-  - landscape
-  - logo
-  - celebrity
-  - event
-  - wedding
-  - family
-  - "food-photography"
-  - text
-  - "close-up"
-  - poster
-  - fantasy
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - "comic-book"
-  - crime
-  - bridal
-  - architectural
-  - headshot
   - documentary
-  - professional
-  - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - horror
-  - action
-  - advertising
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - "live-stage"
-  - "action-shot"
-  - performance
-  - "warning-sign"
-  - "birthday-greeting"
-  - romance
-  - typography
-  - "audience-engagement"
-  - "incomplete-art"
-  - audience
-  - photorealism
-  - dance
-  - vintage
-  - "graphic-design"
-  - "professional-portrait"
+  - headshot
   - logo
-  - celebrity
-  - "instructional-poster"
+  - fashion
   - advertisement
-  - informational
+  - sky
+  - interview
+  - event
+  - bridal
+  - "text-heavy"
   - cartoon
-  - "text-heavy"
-  - "complete-art"
-  - "underwater-photography"
-  - "wave-pattern"
-  - celebratory
+  - underwater
+  - cityscape
+  - family
+  - typography
+  - "graphic-design"
+  - warning
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - "event-photography"
+  - instructional
+  - poster
+  - political
+  - "social-issue"
+  - "still-life"
+  - romance
+  - horror
+  - motivational
+concepts:
+  - celebrity
+  - audience
   - "before-and-after"
+  - "complete-art"
+  - celebratory
+  - informational
+  - dance
+  - "wave-pattern"
+  - performance
+  - "birthday-greeting"
+  - "warning-sign"
+  - "professional-portrait"
+  - "instructional-poster"
   - illustration
+  - vintage
   - action
+  - "live-stage"
+  - logo
+  - advertisement
   - textured
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - silhouette
-  - "close-up-shot"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "dark-focal-point"
-  - "macro-shot"
-  - "motion-blur"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "dark-focal-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - "live-performance"
   - "text-heavy"
-  - "cut-out"
+  - cartoon
+  - "motion-capture"
+  - "underwater-photography"
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "incomplete-art"
+  - "audience-engagement"
+  - romance
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - silhouette
+  - "partly-focused-subject"
+  - "high-contrast"
+  - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "macro-shot"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - "gaussian-blur"
   - "light-on-subject"
+  - silhouette
+  - "dark-focal-point"
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
+  - white
   - "mud-green"
   - "dark-blue"
-  - "dark-gray"
-  - gray
   - black
-  - white
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
+  - casual
+  - white
+  - blonde
   - flowing
-  - l
-  - e
-  - braided
-  - up
-  - dark
-  - curly
-  - covered
+  - wavy
+  - loose
   - curled
-  - varied
-  - balding
-  - down
-  - a
-  - short
-  - red
-  - c
-  - neat
+  - curls
+  - bearded
+  - gray
+  - updo
+  - dark
+  - "tied-back"
+  - beard
+  - straight
   - ponytail
   - casie
-  - wavy
-  - "pulled-back"
-  - pink
-  - brown
-  - t
-  - crowned
-  - bald
-  - i
-  - black
   - costume
-  - o
-  - "buzz-cut"
-  - unknown
-  - straight
-  - spiked
-  - blonde
-  - b
-  - long
   - shaved
-  - n
-  - casual
-  - gray
-  - p
-  - bearded
-  - white
-  - updo
-  - "tied-back"
-  - curls
+  - curly
+  - red
+  - up
+  - "buzz-cut"
+  - braided
+  - pink
+  - short
+  - brown
+  - balding
+  - varied
+  - covered
+  - spiked
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - black
+  - formal
+  - long
+  - crowned
 facial_expressions:
-  - serious
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - concerned
-  - smiling
-  - tearful
-  - screaming
-  - neutral
-  - engaged
-  - crying
-  - embarrassed
-  - a
-  - happy
   - shocked
-  - upset
-  - c
-  - startled
-  - excited
-  - t
-  - i
-  - o
-  - unknown
+  - engaged
+  - relaxed
+  - serious
+  - crying
+  - screaming
   - surprised
-  - b
+  - neutral
+  - tearful
+  - happy
+  - joyful
+  - upset
+  - content
+  - excited
+  - concerned
+  - embarrassed
+  - smiling
+  - sad
+  - startled
   - determined
   - focused
-  - n
-  - p
-  - sad
+  - contemplative
 clothing_styles:
-  - informal
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - monochrome
-  - royal
-  - pastel
-  - neutral
-  - loungewear
-  - flowery
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - flowy
-  - business
-  - t
-  - i
-  - muted
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
   - casual
-  - p
-  - jacket
-  - protective
-clothing_colors:
-  - l
-  - e
+  - informal
+  - vibrant
+  - relaxed
+  - beachwear
+  - professional
   - monochrome
-  - pastel
+  - colorful
+  - swimwear
+  - traditional
+  - flowery
+  - uniform
+  - royal
+  - flowy
   - neutral
-  - dark
+  - costume
+  - protective
+  - muted
+  - jacket
+  - athletic
+  - "form-fitting"
+  - pastel
+  - "business-casual"
+  - business
+  - formal
+  - "t-shirt"
+  - comfortable
+  - loungewear
+clothing_colors:
+  - rich
+  - red
+  - vibrant
+  - neutral
+  - monochrome
+  - bright
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - subtle
   - pink
-  - t
-  - i
+  - subtle
+  - dark
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - rich
-  - n
-  - bright
-  - p
 posings:
-  - energetic
-  - comfortable
-  - group
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
-  - lounging
   - reclined
-gazes:
-  - l
-  - e
+  - relaxed
+  - energetic
+  - static
+  - seated
+  - leaning
+  - lounging
+  - active
+  - holding
+  - group
+  - walking
+  - dynamic
+  - stretching
+  - standing
+  - running
+  - focused
   - contemplative
-  - screaming
-  - engaged
-  - downward
-  - a
-  - c
-  - intense
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
+  - comfortable
+  - confident
+gazes:
   - sad
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
   - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - away
+  - downward
+  - outward
+  - screaming
+  - upward
   - focused
-  - p
+  - intense
+  - contemplative
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

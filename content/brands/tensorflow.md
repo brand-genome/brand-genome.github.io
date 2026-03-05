@@ -2,7 +2,7 @@
 title: TensorFlow
 slug: tensorflow
 description: ""
-date: "2026-03-05T15:56:46.097891"
+date: "2026-03-05T22:38:39.718799"
 draft: false
 sectors:
   - software
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
   - lockup
   - horizontal
   - wordmark
-  - logomark
   - stacked
-  - primary
-  - icon
+  - logomark
 brand_colors:
-  - gray
+  - white
   - orange
   - black
-  - white
   - blue
+  - gray
 typographies: []
 imagery_styles: []
 wikidata_description: machine learning software framework

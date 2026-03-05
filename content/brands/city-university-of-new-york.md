@@ -2,11 +2,11 @@
 title: City University of New York
 slug: "city-university-of-new-york"
 description: ""
-date: "2026-03-05T15:56:45.815541"
+date: "2026-03-05T22:38:39.321842"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Tailify
 slug: tailify
 description: ""
-date: "2026-03-05T15:56:45.782336"
+date: "2026-03-05T22:38:39.280683"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - "united-kingdom"
 years:

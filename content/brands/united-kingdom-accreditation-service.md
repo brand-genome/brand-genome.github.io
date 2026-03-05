@@ -2,7 +2,7 @@
 title: United Kingdom Accreditation Service
 slug: "united-kingdom-accreditation-service"
 description: ""
-date: "2026-03-05T15:56:45.885006"
+date: "2026-03-05T22:38:39.399306"
 draft: false
 sectors:
   - consulting
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - grey
   - blue
+  - grey
 typographies:
   - arial
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: national accreditation body
 has_twitter: false
 has_guidelines: true

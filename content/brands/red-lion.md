@@ -2,11 +2,11 @@
 title: Red Lion
 slug: "red-lion"
 description: ""
-date: "2026-03-05T15:56:45.895291"
+date: "2026-03-05T22:38:39.418164"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - germany
 years:
@@ -44,8 +44,8 @@ logo_elements:
   - horizontal
 brand_colors:
   - blue
-  - "pantone-186"
   - red
+  - "pantone-186"
 typographies: []
 imagery_styles:
   - product

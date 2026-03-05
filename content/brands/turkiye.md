@@ -2,7 +2,7 @@
 title: Türkiye
 slug: turkiye
 description: ""
-date: "2026-03-05T15:56:45.794136"
+date: "2026-03-05T22:38:39.297523"
 draft: false
 sectors:
   - tourism
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - gray
-  - blue
-  - black
   - white
   - red
+  - black
+  - blue
+  - gray
+  - green
 typographies:
   - arial
 imagery_styles:

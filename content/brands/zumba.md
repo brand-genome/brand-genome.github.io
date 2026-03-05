@@ -2,11 +2,11 @@
 title: Zumba
 slug: zumba
 description: ""
-date: "2026-03-05T15:56:46.205987"
+date: "2026-03-05T22:38:39.932955"
 draft: false
 sectors:
-  - entertainment
   - fitness
+  - entertainment
 regions:
   - unknown
 years: []
@@ -21,182 +21,182 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "two-tone"
+  - transparent
   - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - "complementary-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - selfie
+  - pool
+  - landscape
+  - product
+  - interior
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - portrait
   - advertisement
-  - product
+  - fashion
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
-  - pool
-  - architectural
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - silhouette
   - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - pink
-  - cyan
-  - emerald
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - emerald
+  - black
+  - "dark-blue"
+  - cyan
   - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - blonde
-  - braided
-  - "pulled-back"
-  - long
-  - curly
   - casual
-  - covered
-  - flowing
-  - varied
   - white
-  - short
-  - updo
-  - "tied-back"
+  - blonde
+  - "pulled-back"
+  - flowing
+  - wavy
+  - loose
   - ponytail
+  - braided
+  - updo
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - confident
-  - leaning
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

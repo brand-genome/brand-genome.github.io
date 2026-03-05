@@ -2,7 +2,7 @@
 title: Volkswagen
 slug: volkswagen
 description: ""
-date: "2026-03-05T15:56:46.151913"
+date: "2026-03-05T22:38:39.791870"
 draft: false
 sectors:
   - automobile

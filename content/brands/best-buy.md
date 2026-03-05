@@ -2,7 +2,7 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-03-05T15:56:46.116657"
+date: "2026-03-05T22:38:39.753301"
 draft: false
 sectors:
   - "consumer-goods"
@@ -45,9 +45,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - yellow
 typographies:
   - futura

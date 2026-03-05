@@ -2,7 +2,7 @@
 title: Dalkia
 slug: dalkia
 description: ""
-date: "2026-03-05T15:56:45.666487"
+date: "2026-03-05T22:38:39.138160"
 draft: false
 sectors:
   - "renewable-energy"
@@ -10,14 +10,14 @@ sectors:
 regions:
   - france
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
-  - french
   - english
+  - french
 tags:
-  - corporate
   - industry
+  - corporate
 industries:
   - "energy-sector"
 countries:

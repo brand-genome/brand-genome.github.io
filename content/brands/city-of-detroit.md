@@ -2,7 +2,7 @@
 title: City of Detroit
 slug: "city-of-detroit"
 description: ""
-date: "2026-03-05T15:56:45.916454"
+date: "2026-03-05T22:38:39.482221"
 draft: false
 sectors:
   - "public-sector"
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
+  - horizontal
   - primary
   - vertical
-  - horizontal
+  - stacked
 brand_colors:
-  - black
-  - yellow
   - white
   - green
+  - black
+  - yellow
 typographies:
   - montserrat
 imagery_styles:
   - landscape
-  - graphic
   - portrait
+  - graphic
 wikidata_description: "city in and county seat of Wayne County, and largest city in State of Michigan, United States"
 has_twitter: false
 has_guidelines: true

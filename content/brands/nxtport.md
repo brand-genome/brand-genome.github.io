@@ -2,11 +2,11 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-03-05T15:56:46.073227"
+date: "2026-03-05T22:38:39.685000"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - software
+  - "logistics-supply-chain"
 regions:
   - belgium
 years:
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
 typographies:

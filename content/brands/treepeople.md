@@ -2,7 +2,7 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-03-05T15:56:45.717260"
+date: "2026-03-05T22:38:39.207459"
 draft: false
 sectors:
   - ngo
@@ -41,11 +41,11 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - green
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "non-profit organization in the USA"

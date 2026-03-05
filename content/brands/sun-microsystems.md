@@ -2,22 +2,22 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-03-05T15:56:46.040073"
+date: "2026-03-05T22:38:39.610342"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
-  - 2002
   - 2004
+  - 2002
 languages:
   - english
 tags:
+  - technology
   - ambigram
   - software
-  - technology
 industries:
   - "software-development"
   - computing
@@ -46,8 +46,8 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - black
   - white
+  - black
   - yellow
 typographies: []
 imagery_styles: []

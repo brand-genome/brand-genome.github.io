@@ -2,7 +2,7 @@
 title: If U Care Share
 slug: "if-u-care-share"
 description: ""
-date: "2026-03-05T15:56:45.810388"
+date: "2026-03-05T22:38:39.316298"
 draft: false
 sectors:
   - ngo
@@ -38,9 +38,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
   - white
 typographies: []

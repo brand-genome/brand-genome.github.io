@@ -2,7 +2,7 @@
 title: Zad for trade
 slug: "zad-for-trade"
 description: ""
-date: "2026-03-05T15:56:45.711400"
+date: "2026-03-05T22:38:39.200814"
 draft: false
 sectors:
   - food

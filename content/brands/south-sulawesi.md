@@ -2,7 +2,7 @@
 title: South Sulawesi
 slug: "south-sulawesi"
 description: ""
-date: "2026-03-05T15:56:45.653721"
+date: "2026-03-05T22:38:39.121098"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: Pôle Métropolitain
 slug: "pole-metropolitain"
 description: ""
-date: "2026-03-05T15:56:46.166082"
+date: "2026-03-05T22:38:39.806955"
 draft: false
 sectors:
   - "public-sector"
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - magenta
-  - cyan
-  - "pantone-254"
-  - black
   - white
   - violet
+  - magenta
+  - black
+  - cyan
+  - "pantone-254"
 typographies: []
 imagery_styles:
   - dynamic

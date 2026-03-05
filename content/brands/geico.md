@@ -2,7 +2,7 @@
 title: Geico
 slug: geico
 description: ""
-date: "2026-03-05T15:56:46.254556"
+date: "2026-03-05T22:38:40.027027"
 draft: false
 sectors:
   - insurance
@@ -21,291 +21,214 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - "autumnal-colors"
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - "autumnal-colors"
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - commercial
+  - beach
+  - landscape
+  - botanical
+  - nature
+  - food
+  - product
+  - illustration
+  - interior
+  - vintage
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - typography
-  - branding
-  - botanical
-  - "incomplete-art"
-  - staged
-  - vintage
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - holiday
-  - wildlife
+  - fashion
+  - sky
+  - advertisement
+  - cartoon
+  - "text-heavy"
+  - underwater
   - family
+  - typography
+  - "graphic-design"
+  - wildlife
+  - "incomplete-art"
   - macro
   - portrait
-  - advertisement
-  - product
-  - cartoon
-  - nature
-  - sports
-  - "text-heavy"
-  - architectural
-  - beach
-  - underwater
-  - abstract
-  - illustration
-  - action
-  - advertising
+  - beauty
+  - holiday
+  - staged
+  - branding
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - textured
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - textured
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "mud-green"
+  - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
   - "pulled-back"
+  - neat
   - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
   - updo
+  - long
+  - curly
+  - short
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
   - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - t
-  - i
-  - costume
-  - o
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - beachwear
+  - costume
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
+  - leaning
+  - relaxed
+  - dynamic
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
+  - holding
   - active
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
+  - standing
   - running
-  - unknown
-  - b
-  - n
   - focused
-  - p
-  - reclined
+  - stretching
+  - contemplative
+  - static
+  - confident
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - seated
+  - midsection
+  - "lower-half"
+  - engaged
   - "full-back"
+  - "upper-body"
+  - reclined
+  - active
+  - "full-body"
+  - running
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

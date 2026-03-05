@@ -2,7 +2,7 @@
 title: CHESS Homeless
 slug: "chess-homeless"
 description: ""
-date: "2026-03-05T15:56:46.090498"
+date: "2026-03-05T22:38:39.711239"
 draft: false
 sectors:
   - ngo
@@ -39,10 +39,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies: []
 imagery_styles:
   - minimal

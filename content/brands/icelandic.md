@@ -2,7 +2,7 @@
 title: Icelandic
 slug: icelandic
 description: ""
-date: "2026-03-05T15:56:45.988010"
+date: "2026-03-05T22:38:39.562399"
 draft: false
 sectors:
   - food

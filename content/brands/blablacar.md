@@ -2,11 +2,11 @@
 title: BlaBlaCar
 slug: blablacar
 description: ""
-date: "2026-03-05T15:56:45.640959"
+date: "2026-03-05T22:38:39.106350"
 draft: false
 sectors:
-  - "ride-sharing"
   - software
+  - "ride-sharing"
 regions:
   - france
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - featured
   - app
+  - featured
+  - transport
 industries:
   - unknown
 countries:

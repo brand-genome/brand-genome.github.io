@@ -2,7 +2,7 @@
 title: Foros Locales de Madrid
 slug: "foros-locales-de-madrid"
 description: ""
-date: "2026-03-05T15:56:45.810999"
+date: "2026-03-05T22:38:39.316852"
 draft: false
 sectors:
   - "public-sector"
@@ -41,10 +41,10 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - green
-  - yellow
   - black
+  - yellow
   - blue
+  - green
 typographies:
   - arial
 imagery_styles:

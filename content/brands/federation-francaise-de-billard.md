@@ -2,7 +2,7 @@
 title: Fédération Française de Billard
 slug: "federation-francaise-de-billard"
 description: ""
-date: "2026-03-05T15:56:45.895873"
+date: "2026-03-05T22:38:39.418764"
 draft: false
 sectors:
   - sports
@@ -39,21 +39,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
-  - verdana
-  - arial
   - "gill-sans"
+  - arial
   - "sans-serif"
+  - verdana
 imagery_styles:
-  - monochrome
-  - modern
+  - bold
   - dynamic
   - geometric
-  - bold
+  - monochrome
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

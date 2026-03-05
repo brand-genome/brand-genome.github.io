@@ -2,7 +2,7 @@
 title: Exposure Ninja
 slug: "exposure-ninja"
 description: ""
-date: "2026-03-05T15:56:46.044511"
+date: "2026-03-05T22:38:39.615869"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -37,22 +37,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - mascot
-  - primary
   - icon
+  - primary
+  - mascot
 brand_colors:
-  - grey
-  - black
   - white
   - blue
+  - grey
+  - black
 typographies:
-  - montserrat
   - lato
+  - montserrat
 imagery_styles:
   - bold
-  - clean
   - colorful
   - professional
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Glean
 slug: glean
 description: ""
-date: "2026-03-05T15:56:45.723938"
+date: "2026-03-05T22:38:39.213686"
 draft: false
 sectors:
   - "e-learning-edtech"

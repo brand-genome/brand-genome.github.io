@@ -2,7 +2,7 @@
 title: Mtn
 slug: mtn
 description: ""
-date: "2026-03-05T15:56:46.228426"
+date: "2026-03-05T22:38:39.990909"
 draft: false
 sectors:
   - telecom
@@ -18,437 +18,360 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
   - "text-heavy"
-  - bright
-  - "autumnal-colors"
+  - "complementary-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
   - light
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - "live-stage"
-  - audience
-  - news
-  - music
-  - event
-  - wildlife
-  - conference
-  - portrait
-  - product
-  - "social-message"
-  - editorial
-  - bridal
-  - car
-  - "audience-perspective"
-  - "social-media"
-  - "corporate-event"
-  - flag
-  - fashion
-  - social
-  - environmental
-  - interior
-  - "event-promotion"
-  - advocacy
-  - botanical
-  - informative
-  - promotional
-  - food
-  - landscape
-  - corporate
-  - auditorium
-  - advertisement
-  - lifestyle
-  - sports
-  - game
-  - architectural
-  - abstract
-  - map
-  - sky
-  - "still-life"
-  - group
-  - performance
-  - packaging
-  - typography
-  - branding
-  - "event-photography"
-  - quiz
-  - celebration
-  - inspirational
-  - historical
-  - "panel-discussion"
-  - crowd
-  - "health-awareness"
-  - business
-  - "social-cause"
-  - informational
-  - cartoon
-  - information
-  - "concert-photography"
-  - documentary
-  - illustration
-  - educational
-  - action
-  - advertising
-  - studio
-  - "social-awareness"
-  - panorama
-  - selfie
-  - commercial
-  - trivia
-  - industrial
-  - candid
-  - political
-  - motivational
-  - staged
-  - beauty
-  - "graphic-design"
-  - street
-  - logo
-  - celebrity
-  - indoor
-  - family
-  - "food-photography"
-  - text
-  - "digital-art"
-  - "conference-photography"
   - award
-  - outdoors
+  - informative
+  - studio
+  - "conference-photography"
   - religious
+  - landscape
+  - performance
+  - promotional
   - nature
-  - "text-heavy"
-  - professional
+  - "social-cause"
+  - industrial
+  - "corporate-event"
+  - "digital-art"
+  - "audience-perspective"
+  - advertising
+  - action
+  - panorama
+  - documentary
+  - logo
+  - advertisement
+  - family
+  - advocacy
+  - conference
+  - game
+  - celebration
+  - historical
+  - "event-photography"
+  - branding
+  - political
+  - information
+  - "still-life"
+  - car
+  - quiz
+  - outdoors
+  - motivational
+  - auditorium
+  - audience
+  - informational
+  - news
+  - product
+  - interior
+  - "panel-discussion"
   - "public-service-announcement"
+  - sky
+  - bridal
+  - "concert-photography"
+  - typography
+  - "graphic-design"
+  - portrait
+  - staged
+  - business
+  - crowd
+  - social
+  - celebrity
+  - commercial
+  - professional
+  - "social-awareness"
+  - inspirational
+  - food
+  - text
+  - candid
+  - "social-message"
+  - fashion
+  - corporate
+  - music
+  - flag
+  - map
+  - "health-awareness"
+  - packaging
+  - indoor
+  - selfie
+  - botanical
+  - environmental
   - "text-based"
-concepts:
-  - "live-performance"
+  - lifestyle
+  - abstract
+  - illustration
+  - "food-photography"
+  - "event-promotion"
+  - street
+  - trivia
+  - architectural
+  - sports
+  - educational
   - "live-stage"
   - group
-  - formal
-  - "live-event"
-  - performance
-  - promotion
-  - "awareness-campaign"
-  - branding
-  - typography
-  - "social-commentary"
-  - "incomplete-art"
-  - audience
-  - warning
-  - celebration
-  - "singer-on-stage"
-  - inspirational
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - "food-promotion"
-  - "graphic-design"
-  - music
-  - "health-awareness"
-  - "music-event"
-  - travel
-  - "promotional-material"
-  - advertisement
-  - "motivational-message"
-  - "inspirational-quote"
-  - informational
-  - product
-  - cartoon
+  - event
   - "text-heavy"
-  - "award-announcement"
-  - "social-message"
-  - "social-distancing"
-  - professional
-  - "wave-pattern"
-  - "inspirational-message"
-  - illustration
+  - cartoon
+  - editorial
+  - wildlife
+  - beauty
   - "social-media"
-  - "motivational-quote"
-  - "music-concert"
-  - action
+concepts:
+  - "motivational-message"
+  - informative
+  - audience
+  - "awareness-campaign"
+  - "singer-on-stage"
+  - "social-commentary"
+  - professional
+  - informational
+  - inspirational
+  - "promotional-material"
+  - "wave-pattern"
+  - performance
+  - promotional
+  - product
+  - "food-promotion"
+  - "social-distancing"
+  - illustration
+  - vintage
   - advertising
+  - action
+  - "live-stage"
+  - "live-event"
+  - "motivational-quote"
+  - "social-message"
+  - group
+  - "music-event"
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - music
+  - "music-concert"
+  - typography
+  - "graphic-design"
+  - warning
+  - "incomplete-art"
+  - "award-announcement"
+  - celebration
+  - "inspirational-quote"
+  - branding
+  - "social-media"
+  - formal
+  - "health-awareness"
+  - "inspirational-message"
+  - travel
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
   - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "isolated-focal-point"
-  - "bright-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - "short-exposure"
-  - "text-overlay"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "light-glare"
-  - "text-heavy"
-  - "motion-blur"
-  - asymmetry
+  - silhouette
   - "stamp-effect"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
+  - "text-overlay"
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
 dominant_colors:
-  - gold
-  - "dark-blue"
-  - black
   - white
-  - "dark-brown"
-  - "light-blue"
+  - gold
   - mustard
   - olive
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - "braided-updo"
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
+  - blonde
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
+  - beard
+  - "braided-updo"
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - questioning
-  - confident
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
+  - questioning
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - informal
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - monochrome
-  - pastel
-  - earthy
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - business
-  - active
-  - modern
-  - t
-  - i
-  - muted
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - uniform
-  - casual
-  - "school-uniform"
-  - p
-  - protective
-  - simple
-clothing_colors:
-  - formal
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - "black-and-white"
-  - earthy
-  - colorful
-  - a
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - o
-  - blue
-  - unknown
-  - b
-  - n
-  - p
-posings:
-  - formal
-  - group
-  - seated
-  - confident
-  - l
-  - e
   - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+  - confident
+clothing_styles:
+  - casual
+  - informal
+  - vibrant
+  - beachwear
+  - professional
+  - monochrome
+  - colorful
+  - swimwear
+  - traditional
+  - uniform
   - active
-  - t
-  - i
+  - simple
+  - costume
+  - earthy
+  - protective
+  - "school-uniform"
+  - muted
+  - athletic
+  - "form-fitting"
+  - pastel
+  - "business-casual"
+  - business
+  - formal
+  - modern
+  - comfortable
+clothing_colors:
+  - "black-and-white"
+  - vibrant
+  - muted
+  - business
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - formal
+  - blue
+  - pastel
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - formal
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - group
 gazes:
   - questioning
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - group
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

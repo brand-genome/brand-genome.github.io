@@ -2,11 +2,11 @@
 title: Mount Royal University
 slug: "mount-royal-university"
 description: ""
-date: "2026-03-05T15:56:45.828489"
+date: "2026-03-05T22:38:39.334607"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -41,30 +41,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - icon
-  - wordmark
-  - secondary
   - primary
+  - icon
+  - secondary
+  - lockup
+  - wordmark
   - vertical
 brand_colors:
-  - cyan
-  - green
-  - gold
-  - silver
-  - blue
-  - black
   - white
-  - "pantone-540"
   - red
+  - gold
+  - black
+  - cyan
+  - blue
+  - silver
   - "pantone-429"
+  - "pantone-540"
   - "pantone-307"
+  - green
 typographies:
   - display
 imagery_styles:
-  - geometric
   - bold
   - photography
+  - geometric
 wikidata_description: "public university in Calgary, Alberta, Canada"
 has_twitter: false
 has_guidelines: true

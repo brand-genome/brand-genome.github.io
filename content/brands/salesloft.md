@@ -2,7 +2,7 @@
 title: SalesLoft
 slug: salesloft
 description: ""
-date: "2026-03-05T15:56:45.898690"
+date: "2026-03-05T22:38:39.421675"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - business
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles:
-  - gradient
   - subtle
+  - gradient
   - modern
   - graphic
 wikidata_description: US sales engagement platform since 2011

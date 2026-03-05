@@ -2,11 +2,11 @@
 title: Colombia — Challenge Your Knowledge
 slug: "colombia-challenge-your-knowledge"
 description: ""
-date: "2026-03-05T15:56:45.872147"
+date: "2026-03-05T22:38:39.384401"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - colombia
 years:
@@ -40,16 +40,16 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
 typographies:
   - helvetica
 imagery_styles:
-  - geometric
   - photography
+  - geometric
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

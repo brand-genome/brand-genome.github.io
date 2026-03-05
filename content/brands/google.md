@@ -2,24 +2,24 @@
 title: Google
 slug: google
 description: ""
-date: "2026-03-05T15:56:46.234596"
+date: "2026-03-05T22:38:40.000549"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - unknown
 years: []
 languages: []
 tags: []
 industries:
-  - "internet-industry"
-  - "software-industry"
-  - "information-technology"
-  - "technology-industry"
-  - internet
   - "internet-marketing"
+  - "technology-industry"
+  - "software-industry"
+  - internet
+  - "information-technology"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -28,503 +28,426 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "vertical-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - white
   - "background-as-frame"
   - red
-  - dark
   - wood
+  - textured
+  - "aquatic-colors"
   - blurred
   - transparent
-  - bright
-  - gradient
-  - brick
-  - white
+  - solid
   - light
   - blue
-  - textured
-  - "aquatic-colors"
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
   - "text-heavy"
-  - vintage
-  - bright
-  - aqua
-  - "autumnal-colors"
+  - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - vintage
+  - "inverted-colors"
+  - aqua
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - formal
-  - "live-stage"
-  - certificate
-  - outdoor
-  - urban
-  - audience
-  - "event-announcement"
-  - vintage
-  - iconography
-  - quote
-  - event
-  - wildlife
-  - wedding
-  - "landing-page"
-  - conference
-  - portrait
-  - community
-  - product
-  - "dashboard-design"
-  - bridal
-  - editorial
-  - reportage
-  - "audience-perspective"
-  - calendar
-  - "social-media"
-  - "corporate-event"
-  - comic
-  - fashion
-  - social
-  - "night-photography"
-  - "social-impact"
-  - interior
-  - "event-promotion"
-  - botanical
-  - "incomplete-art"
   - informative
-  - promotional
-  - food
-  - "real-estate"
   - health
-  - landscape
-  - corporate
-  - "close-up"
-  - advertisement
-  - sports
-  - architectural
-  - beach
-  - technical
-  - abstract
-  - map
-  - presentations
-  - infographic
-  - sky
-  - "still-life"
-  - group
-  - artistic
-  - typography
-  - branding
-  - "event-photography"
-  - historical
-  - instructional
-  - "book-cover"
   - documentation
-  - business
-  - "social-cause"
-  - office
-  - architecture
-  - informational
-  - "dashboard-interface"
-  - cartoon
-  - information
-  - headshot
-  - documentary
-  - underwater
-  - illustration
-  - educational
-  - action
-  - pet
-  - advertising
-  - certified
-  - amateur
-  - selfie
-  - industrial
-  - commercial
-  - candid
-  - political
-  - cityscape
-  - staged
-  - certification
-  - beauty
-  - "graphic-design"
-  - street
-  - "marine-life"
-  - tutorial
-  - logo
-  - conceptual
-  - indoor
-  - family
-  - "food-photography"
-  - "digital-art"
-  - text
-  - macro
-  - presentation
-  - presenter
-  - art
-  - nature
-  - "text-heavy"
-  - waterfall
-  - dashboard
-  - professional
-  - "public-service-announcement"
-  - "text-based"
-  - seascape
-  - "data-visualization"
-concepts:
-  - "motion-capture"
-  - "group-portrait"
-  - infographic
-  - "data-analysis"
-  - "information-design"
-  - "still-life"
-  - "live-stage"
-  - selfie
-  - comparison
-  - candid
-  - typography
-  - branding
-  - "data-representation"
-  - "social-media-campaign"
-  - nostalgia
-  - "event-photography"
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - beauty
-  - historical
-  - certification
-  - "technical-illustration"
-  - "graphic-design"
-  - "marine-life"
-  - "professional-portrait"
   - iconography
-  - logo
-  - icon
-  - "health-awareness"
-  - chart
+  - landscape
+  - promotional
+  - nature
+  - "social-cause"
+  - wedding
+  - technical
+  - industrial
+  - "corporate-event"
   - "digital-art"
-  - silhouette
-  - portrait
+  - "audience-perspective"
+  - advertising
+  - infographic
+  - action
+  - documentary
+  - quote
+  - logo
   - advertisement
-  - "comic-strip"
+  - conference
+  - family
+  - "incomplete-art"
+  - historical
+  - "event-photography"
+  - branding
+  - political
+  - formal
+  - information
+  - "still-life"
+  - calendar
+  - certification
+  - audience
   - informational
-  - "dashboard-interface"
+  - "book-cover"
+  - waterfall
   - product
+  - art
+  - interior
+  - "public-service-announcement"
+  - sky
+  - "social-impact"
+  - bridal
+  - presentations
+  - amateur
+  - typography
+  - "graphic-design"
+  - "real-estate"
+  - macro
+  - portrait
+  - staged
+  - business
+  - instructional
   - "dashboard-design"
+  - social
+  - seascape
+  - commercial
+  - professional
+  - beach
+  - conceptual
+  - dashboard
+  - "close-up"
+  - presenter
+  - food
+  - "event-announcement"
+  - text
+  - certified
+  - comic
+  - candid
+  - urban
+  - fashion
+  - reportage
+  - corporate
+  - underwater
+  - "night-photography"
+  - map
+  - office
+  - tutorial
+  - indoor
+  - selfie
+  - "landing-page"
+  - botanical
+  - outdoor
+  - "text-based"
+  - illustration
+  - abstract
+  - vintage
+  - "food-photography"
+  - "event-promotion"
+  - street
+  - architecture
+  - artistic
+  - architectural
+  - sports
+  - educational
+  - "live-stage"
+  - "dashboard-interface"
+  - group
+  - headshot
+  - community
+  - event
+  - "data-visualization"
+  - cityscape
   - cartoon
   - "text-heavy"
-  - "informational-graphic"
-  - "corporate-branding"
-  - documentary
-  - "wave-pattern"
-  - professional
-  - "certificate-of-completion"
-  - aquatic
-  - "before-and-after"
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - "business-headshot"
-  - educational
-  - "data-visualization"
+  - editorial
+  - wildlife
+  - pet
+  - beauty
+  - "social-media"
+  - certificate
+  - presentation
+  - "marine-life"
+concepts:
+  - informative
   - "logo-design"
-  - "dashboard-layout"
-  - textured
-  - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "macro-shot"
-  - "motion-blur"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "night-mode"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - "saturated-colors"
+  - selfie
+  - "before-and-after"
+  - professional
+  - informational
+  - iconography
+  - "wave-pattern"
+  - promotional
+  - "social-media-campaign"
+  - product
+  - "technical-illustration"
   - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - "informational-graphic"
+  - "professional-portrait"
+  - icon
+  - "group-portrait"
+  - illustration
+  - "digital-art"
+  - vintage
+  - "audience-perspective"
+  - "information-design"
+  - chart
+  - abstract
+  - "certificate-of-completion"
+  - advertising
+  - "comic-strip"
+  - educational
+  - "dashboard-layout"
+  - infographic
+  - "live-stage"
+  - candid
+  - documentary
+  - "dashboard-interface"
+  - logo
+  - advertisement
+  - nostalgia
+  - textured
+  - "data-visualization"
   - "text-heavy"
-  - "cut-out"
+  - cartoon
+  - aquatic
+  - "motion-capture"
+  - typography
+  - "graphic-design"
+  - "data-analysis"
+  - "incomplete-art"
+  - comparison
+  - portrait
+  - beauty
+  - "corporate-branding"
+  - historical
+  - "event-photography"
+  - "business-headshot"
+  - branding
+  - "health-awareness"
+  - "data-representation"
+  - "still-life"
+  - certification
+  - "dashboard-design"
+  - "marine-life"
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "high-contrast"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "macro-shot"
+image_effects:
+  - "saturated-colors"
+  - symmetrical
+  - "night-mode"
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
-  - orange
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - orange
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
+  - casual
+  - white
   - flowing
-  - traditional
-  - content
-  - l
-  - e
-  - braids
-  - contemplative
-  - joyful
-  - relaxed
-  - braided
-  - neutral
   - engaged
-  - dark
-  - curly
-  - covered
-  - curled
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
   - wavy
-  - "pulled-back"
+  - relaxed
+  - loose
+  - curled
+  - curls
+  - traditional
+  - gray
+  - updo
+  - dark
+  - "tied-back"
+  - beard
+  - braids
+  - neutral
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - joyful
+  - content
+  - braided
+  - short
   - graying
-  - t
-  - crowned
-  - i
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - b
+  - focused
   - long
-  - n
-  - focused
-  - casual
-  - gray
-  - p
-  - white
-  - updo
-  - "not-visible"
-  - "tied-back"
-  - curls
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
   - contemplative
-  - relaxed
+  - crowned
+facial_expressions:
+  - joyful
   - smiling
-  - neutral
-  - engaged
   - speaking
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
+  - engaged
+  - relaxed
+  - neutral
+  - content
   - focused
-  - n
-  - p
+  - contemplative
   - "not-visible"
 clothing_styles:
-  - informal
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
   - casual
-  - p
-  - "not-visible"
+  - informal
+  - relaxed
+  - beachwear
+  - professional
+  - swimwear
+  - traditional
+  - uniform
+  - active
+  - costume
   - protective
+  - "not-visible"
+  - athletic
+  - "form-fitting"
+  - "business-casual"
+  - business
+  - formal
+  - "t-shirt"
+  - comfortable
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - vibrant
+  - muted
   - neutral
-  - dark
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
   - blue
-  - unknown
   - light
-  - b
-  - n
-  - p
-  - "not-visible"
   - protective
+  - dark
+  - pastel
+  - "not-visible"
 posings:
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - smiling
+  - casual
   - engaged
-  - gesturing
+  - reclined
+  - relaxed
+  - pointing
+  - static
+  - seated
   - speaking
   - leaning
-  - dynamic
-  - a
-  - holding
-  - c
   - active
-  - t
-  - pointing
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - presenting
-  - focused
-  - casual
-  - p
+  - holding
   - lying
   - "not-visible"
-  - reclined
+  - walking
+  - dynamic
+  - stretching
+  - smiling
+  - gesturing
+  - standing
+  - running
+  - focused
+  - presenting
+  - contemplative
+  - confident
 gazes:
-  - l
-  - e
-  - engaged
   - speaking
-  - downward
-  - a
-  - c
-  - t
-  - upward
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
+  - downward
+  - outward
+  - upward
   - focused
   - "at-camera"
-  - p
-  - "not-visible"
+  - sideways
   - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - speaking
-  - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - active
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - focused
-  - p
   - "not-visible"
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - speaking
+  - midsection
+  - "lower-half"
   - "full-back"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - active
+  - "full-body"
+  - focused
+  - "close-up"
+  - "not-visible"
 logo_elements: []
 brand_colors: []
 typographies: []

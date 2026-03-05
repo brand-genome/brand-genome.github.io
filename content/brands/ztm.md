@@ -2,11 +2,11 @@
 title: ZTM
 slug: ztm
 description: ""
-date: "2026-03-05T15:56:45.889196"
+date: "2026-03-05T22:38:39.408690"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - poland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - polish
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries:
   - poland

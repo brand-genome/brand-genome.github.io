@@ -2,7 +2,7 @@
 title: City of York Council
 slug: "city-of-york-council"
 description: ""
-date: "2026-03-05T15:56:45.973745"
+date: "2026-03-05T22:38:39.546780"
 draft: false
 sectors:
   - "public-sector"

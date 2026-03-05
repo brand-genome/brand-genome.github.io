@@ -2,7 +2,7 @@
 title: Brooklyn College
 slug: "brooklyn-college"
 description: ""
-date: "2026-03-05T15:56:46.095899"
+date: "2026-03-05T22:38:39.716905"
 draft: false
 sectors:
   - education
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors: []
 typographies:
   - serif
-  - display
   - slab
+  - display
 imagery_styles:
   - contemporary
   - photography

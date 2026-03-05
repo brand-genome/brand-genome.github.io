@@ -2,7 +2,7 @@
 title: Rezult
 slug: rezult
 description: ""
-date: "2026-03-05T15:56:45.678979"
+date: "2026-03-05T22:38:39.174379"
 draft: false
 sectors:
   - "forestry-timber"

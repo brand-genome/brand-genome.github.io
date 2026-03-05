@@ -2,7 +2,7 @@
 title: Reddit
 slug: reddit
 description: ""
-date: "2026-03-05T15:56:45.724405"
+date: "2026-03-05T22:38:39.214196"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - community
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - mascot
+  - icon
+  - secondary
   - horizontal
   - wordmark
-  - mascot
-  - secondary
   - vertical
-  - primary
-  - icon
 brand_colors:
-  - yellow
-  - orange
-  - teal
-  - black
   - white
+  - teal
+  - orange
+  - black
+  - yellow
   - blue
 typographies: []
 imagery_styles:
   - classic
-  - playful
   - photography
+  - playful
 wikidata_description: official mobile app of Reddit
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Universitatea Alexandru Ioan Cuza
 slug: "universitatea-alexandru-ioan-cuza"
 description: ""
-date: "2026-03-05T15:56:45.793093"
+date: "2026-03-05T22:38:39.296270"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - romania
 years:
@@ -41,8 +41,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []

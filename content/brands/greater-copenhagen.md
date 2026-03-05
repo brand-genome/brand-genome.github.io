@@ -2,11 +2,11 @@
 title: Greater Copenhagen
 slug: "greater-copenhagen"
 description: ""
-date: "2026-03-05T15:56:46.051600"
+date: "2026-03-05T22:38:39.643698"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
 regions:
   - denmark
 years:

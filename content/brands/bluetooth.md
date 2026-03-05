@@ -2,7 +2,7 @@
 title: Bluetooth
 slug: bluetooth
 description: ""
-date: "2026-03-05T15:56:45.692032"
+date: "2026-03-05T22:38:39.182163"
 draft: false
 sectors:
   - networking

@@ -2,7 +2,7 @@
 title: IBM iX
 slug: "ibm-ix"
 description: ""
-date: "2026-03-05T15:56:46.036028"
+date: "2026-03-05T22:38:39.604804"
 draft: false
 sectors:
   - consulting
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography

@@ -2,12 +2,12 @@
 title: The University of Edinburgh
 slug: "the-university-of-edinburgh"
 description: ""
-date: "2026-03-05T15:56:46.154318"
+date: "2026-03-05T22:38:39.793957"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -42,14 +42,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - "pantone-282"
 typographies: []
 imagery_styles: []

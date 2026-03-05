@@ -2,7 +2,7 @@
 title: Canmore Kananaskis
 slug: "canmore-kananaskis"
 description: ""
-date: "2026-03-05T15:56:45.652895"
+date: "2026-03-05T22:38:39.120323"
 draft: false
 sectors:
   - tourism

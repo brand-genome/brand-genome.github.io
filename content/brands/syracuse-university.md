@@ -2,11 +2,11 @@
 title: Syracuse University
 slug: "syracuse-university"
 description: ""
-date: "2026-03-05T15:56:46.014466"
+date: "2026-03-05T22:38:39.589873"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,19 +41,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - secondary
-  - stacked
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
 brand_colors:
-  - blue
   - white
+  - blue
   - orange
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
   - bold
   - photography

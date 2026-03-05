@@ -2,7 +2,7 @@
 title: Indian Rupee Symbol
 slug: "indian-rupee-symbol"
 description: ""
-date: "2026-03-05T15:56:45.808950"
+date: "2026-03-05T22:38:39.314896"
 draft: false
 sectors:
   - "public-sector"
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
+  - horizontal
 brand_colors: []
 typographies:
   - impact

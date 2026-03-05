@@ -2,7 +2,7 @@
 title: Dun and Bradstreet
 slug: "dun-and-bradstreet"
 description: ""
-date: "2026-03-05T15:56:46.007582"
+date: "2026-03-05T22:38:39.580636"
 draft: false
 sectors:
   - consulting
@@ -41,18 +41,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
   - "pantone-3025"
 typographies: []
 imagery_styles:
-  - staged
   - bold
   - photography
+  - staged
 wikidata_description: commercial data and analytics service provider
 has_twitter: false
 has_guidelines: true

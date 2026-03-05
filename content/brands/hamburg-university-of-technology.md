@@ -2,7 +2,7 @@
 title: Hamburg University of Technology
 slug: "hamburg-university-of-technology"
 description: ""
-date: "2026-03-05T15:56:45.847894"
+date: "2026-03-05T22:38:39.360320"
 draft: false
 sectors:
   - university

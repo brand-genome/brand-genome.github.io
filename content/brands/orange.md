@@ -2,7 +2,7 @@
 title: Orange
 slug: orange
 description: ""
-date: "2026-03-05T15:56:45.866237"
+date: "2026-03-05T22:38:39.380658"
 draft: false
 sectors:
   - telecom
@@ -27,345 +27,268 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
   - orange
   - black
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
+  - award
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - conceptual
+  - landscape
+  - promotional
+  - product
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - "food-photography"
+  - abstract
+  - "audience-perspective"
+  - "digital-art"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - candid
-  - branding
-  - typography
-  - "event-photography"
-  - quiz
-  - audience
-  - celebration
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
+  - documentary
+  - infographic
   - event
-  - business
-  - conceptual
+  - advertisement
+  - fashion
+  - sky
+  - "text-heavy"
+  - cartoon
+  - corporate
   - family
-  - "food-photography"
-  - text
-  - "digital-art"
+  - typography
+  - "graphic-design"
   - conference
   - portrait
-  - advertisement
-  - award
-  - lifestyle
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - information
-  - architectural
-  - professional
-  - documentary
-  - abstract
-  - illustration
-  - "audience-perspective"
+  - beauty
   - map
-  - action
-  - advertising
-concepts:
+  - staged
+  - celebration
+  - business
   - "event-photography"
-  - "incomplete-art"
-  - documentary
-  - "wave-pattern"
-  - photography
-  - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - promotional
+  - branding
+  - information
+  - "still-life"
+  - quiz
+concepts:
   - informative
-  - promotion
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - communication
-  - typography
+  - photography
+  - advertisement
+  - "event-photography"
   - technology
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - documentary
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - advertisement
+  - "high-contrast"
+  - "text-heavy"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - silhouette
   - asymmetry
-  - advertisement
-  - "bright-focal-point"
-  - "high-contrast"
+  - "motion-blur"
   - "long-exposure"
-  - "low-saturation"
-  - "text-heavy"
   - "light-glare"
   - "short-exposure"
-  - "motion-blur"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - gray
+  - white
   - orange
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - "braided-updo"
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - traditional
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
+  - "braided-updo"
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
   - focused
-  - n
-  - p
+  - contemplative
+  - surprised
 clothing_styles:
-  - informal
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - streetwear
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
   - casual
-  - p
+  - informal
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
   - protective
+  - formal
+  - swimwear
+  - traditional
+  - streetwear
+  - comfortable
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - vibrant
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - subdued
-  - b
-  - n
   - bright
-  - p
+  - pastel
+  - muted
+  - subdued
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - pink
-  - green
-  - yellow
-  - gray
+  - white
+  - violet
   - orange
   - black
-  - white
+  - yellow
   - blue
-  - violet
+  - pink
+  - gray
+  - green
 typographies:
   - helvetica
 imagery_styles:
+  - bold
+  - photography
   - monochrome
   - realistic
-  - photography
-  - natural
   - flat
-  - bold
+  - natural
 wikidata_description: French multinational telecommunications corporation
 has_twitter: true
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: UVA Wise
 slug: "uva-wise"
 description: ""
-date: "2026-03-05T15:56:45.980315"
+date: "2026-03-05T22:38:39.556048"
 draft: false
 sectors:
   - university
@@ -40,23 +40,23 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-186"
-  - cyan
-  - purple
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - "pantone-186"
+  - orange
+  - black
+  - cyan
+  - blue
+  - gray
+  - purple
 typographies:
   - bodoni
   - gotham
 imagery_styles:
-  - dynamic
-  - gradient
   - bold
+  - dynamic
   - photography
+  - gradient
 wikidata_description: "American college (1999-)"
 has_twitter: false
 has_guidelines: true

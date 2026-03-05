@@ -2,11 +2,11 @@
 title: Sangoma
 slug: sangoma
 description: ""
-date: "2026-03-05T15:56:46.073106"
+date: "2026-03-05T22:38:39.684886"
 draft: false
 sectors:
-  - telecom
   - software
+  - telecom
 regions:
   - canada
 years:
@@ -41,11 +41,11 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - helvetica
 imagery_styles:

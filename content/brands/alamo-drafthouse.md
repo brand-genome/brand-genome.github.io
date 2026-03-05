@@ -2,7 +2,7 @@
 title: Alamo Drafthouse
 slug: "alamo-drafthouse"
 description: ""
-date: "2026-03-05T15:56:45.959990"
+date: "2026-03-05T22:38:39.524879"
 draft: false
 sectors:
   - entertainment
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - "pantone-2612"
-  - "pantone-1795"
-  - gray
-  - black
   - white
   - "pantone-7409"
+  - "pantone-1795"
+  - black
+  - gray
+  - "pantone-2612"
 typographies:
   - impact
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
   - vintage
-  - bold
+  - natural
 wikidata_description: "former cinema in Midtown Omaha, Nebraska"
 has_twitter: false
 has_guidelines: true

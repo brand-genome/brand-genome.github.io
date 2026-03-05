@@ -2,7 +2,7 @@
 title: Scotiabank
 slug: scotiabank
 description: ""
-date: "2026-03-05T15:56:46.201031"
+date: "2026-03-05T22:38:39.919299"
 draft: false
 sectors:
   - finance
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - canada
 revenue_buckets: []
@@ -23,345 +23,268 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "action-shot"
-  - "point-of-view-shot"
+  - "low-angle-photo"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - gradient
-  - red
-  - "inverted-colors"
-  - "aquatic-colors"
-  - "analogous-colors"
-  - "complementary-colors"
-  - "action-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - "text-heavy"
-  - grayscale
+  - gradient
+  - pattern
   - bright
+  - dark
+color_schemes:
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - gradient
+  - "two-tone"
+  - "action-colors"
+  - red
+  - "text-heavy"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
+  - grayscale
+  - monotone
+  - "aquatic-colors"
 photography_genres:
+  - audience
+  - concert
+  - selfie
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - food
+  - product
+  - tournament
+  - text
+  - abstract
+  - interior
+  - "audience-perspective"
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - urban
+  - group
+  - documentary
+  - team
+  - candid
+  - logo
+  - advertisement
   - fashion
   - sky
-  - team
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - interior
-  - entertainment
-  - candid
-  - typography
-  - branding
-  - botanical
-  - "event-photography"
-  - urban
-  - cityscape
-  - audience
-  - celebration
-  - staged
-  - tournament
-  - promotional
-  - beauty
-  - instructional
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - "product-photography"
-  - music
-  - logo
-  - corporate
   - event
-  - text
-  - poster
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - cartoon
+  - cityscape
   - "text-heavy"
-  - architectural
-  - concert
-  - arcade
-  - documentary
   - underwater
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - excitement
-  - "live-stage"
-  - promotion
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - logo
-  - "tournament-bracket"
-  - portrait
-  - advertisement
+  - corporate
   - cartoon
-  - "sports-branding"
-  - "text-heavy"
-  - motion
-  - "wave-pattern"
-  - illustration
+  - music
+  - "product-photography"
+  - "graphic-design"
+  - typography
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - entertainment
+  - "event-photography"
+  - arcade
+  - instructional
+  - branding
+  - poster
+  - "still-life"
+concepts:
   - "logo-design"
+  - "tournament-bracket"
+  - "wave-pattern"
+  - excitement
+  - "sports-branding"
+  - illustration
+  - vintage
   - action
+  - "live-stage"
+  - logo
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - typography
+  - "graphic-design"
+  - motion
+  - "incomplete-art"
+  - portrait
   - "sports-logo"
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - vignette
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "text-heavy"
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
   - asymmetry
+  - "short-exposure"
+  - vignette
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - orange
-  - black
   - white
-  - "light-blue"
   - red
+  - "mud-green"
   - olive
+  - orange
+  - "dark-blue"
+  - black
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - spiky
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - pink
-  - t
-  - bald
-  - i
-  - costume
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - spiky
+  - gray
   - updo
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - victorious
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
+  - straight
+  - ponytail
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - curly
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
   - neutral
+  - victorious
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

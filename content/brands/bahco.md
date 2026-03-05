@@ -2,7 +2,7 @@
 title: Bahco
 slug: bahco
 description: ""
-date: "2026-03-05T15:56:45.713627"
+date: "2026-03-05T22:38:39.202925"
 draft: false
 sectors:
   - hardware

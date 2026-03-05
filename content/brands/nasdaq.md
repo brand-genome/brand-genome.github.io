@@ -2,16 +2,16 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-03-05T15:56:45.731000"
+date: "2026-03-05T22:38:39.223452"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
-  - 2020
   - 2021
+  - 2020
 languages:
   - english
 tags:
@@ -44,13 +44,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - impact

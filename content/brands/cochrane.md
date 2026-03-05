@@ -2,13 +2,13 @@
 title: Cochrane
 slug: cochrane
 description: ""
-date: "2026-03-05T15:56:45.882782"
+date: "2026-03-05T22:38:39.394830"
 draft: false
 sectors:
-  - publishing
+  - research
   - ngo
   - healthcare
-  - research
+  - publishing
 regions:
   - "united-kingdom"
 years:

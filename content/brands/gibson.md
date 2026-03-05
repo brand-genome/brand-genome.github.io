@@ -2,7 +2,7 @@
 title: Gibson
 slug: gibson
 description: ""
-date: "2026-03-05T15:56:46.103771"
+date: "2026-03-05T22:38:39.729785"
 draft: false
 sectors:
   - "consumer-goods"

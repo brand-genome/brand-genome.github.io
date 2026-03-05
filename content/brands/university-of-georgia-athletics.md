@@ -2,11 +2,11 @@
 title: University of Georgia Athletics
 slug: "university-of-georgia-athletics"
 description: ""
-date: "2026-03-05T15:56:46.125513"
+date: "2026-03-05T22:38:39.765034"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:

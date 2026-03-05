@@ -2,7 +2,7 @@
 title: Briançon
 slug: briancon
 description: ""
-date: "2026-03-05T15:56:45.888192"
+date: "2026-03-05T22:38:39.406135"
 draft: false
 sectors:
   - "public-sector"
@@ -39,20 +39,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - green
-  - yellow
-  - gray
-  - blue
-  - black
   - white
-  - red
   - violet
+  - red
+  - black
+  - yellow
+  - blue
+  - gray
+  - green
 typographies:
   - impact
   - arial
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Target
 slug: target
 description: ""
-date: "2026-03-05T15:56:46.013781"
+date: "2026-03-05T22:38:39.587148"
 draft: false
 sectors:
   - "consumer-goods"
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
-  - "big-box-store"
-  - "retail-chain"
   - retail
+  - "retail-chain"
+  - "big-box-store"
 countries:
   - "united-states"
 revenue_buckets:
@@ -32,326 +32,249 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - "team-logo"
-  - interior
-  - commercial
-  - candid
-  - "album-cover"
-  - cityscape
   - audience
-  - "incomplete-art"
-  - staged
-  - promotional
-  - beauty
+  - selfie
+  - commercial
   - "home-decor"
-  - food
-  - "graphic-design"
-  - street
+  - "team-logo"
   - landscape
-  - logo
-  - music
-  - event
-  - text
-  - portrait
-  - advertisement
+  - performance
+  - promotional
+  - food
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - documentary
+  - text
+  - interior
   - abstract
   - "audience-perspective"
   - illustration
-  - action
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - typography
-  - "incomplete-art"
-  - audience
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - music
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
+  - event
+  - fashion
   - advertisement
+  - sky
+  - cityscape
   - cartoon
   - "text-heavy"
-  - "text-on-image"
+  - music
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - "album-cover"
+  - staged
+  - "still-life"
+concepts:
+  - "logo-design"
+  - audience
   - concert
+  - "text-on-image"
   - "wave-pattern"
   - illustration
-  - band
-  - "logo-design"
+  - vintage
   - action
   - textured
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - music
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - band
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "dark-brown"
+  - "off-white"
   - red
   - olive
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
-  - p
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
+  - relaxed
+  - neutral
+  - content
   - focused
-  - n
-  - p
+  - contemplative
+  - happy
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
+  - casual
   - sweater
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - pink
-  - t
+  - athletic
+  - "form-fitting"
   - dress
-  - i
+  - beachwear
+  - business
   - black
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
-  - casual
-  - p
+  - formal
   - protective
+  - swimwear
+  - pink
+  - traditional
+  - "business-casual"
+  - uniform
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - red
+  - sparkly
+  - vibrant
+  - muted
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - pink
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - sparkly
-  - b
-  - n
+  - pink
+  - pastel
   - purple
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
+  - holding
+  - standing
+  - running
   - shopping
-  - t
-  - i
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - "at-merchandise"
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - "at-merchandise"
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - wordmark
-  - lockup
   - icon
+  - lockup
   - symbol
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
   - helvetica
 imagery_styles:

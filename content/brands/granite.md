@@ -2,15 +2,15 @@
 title: Granite
 slug: granite
 description: ""
-date: "2026-03-05T15:56:46.067066"
+date: "2026-03-05T22:38:39.678452"
 draft: false
 sectors:
   - construction
 regions:
   - usa
 years:
-  - 2011
   - 2018
+  - 2011
 languages:
   - english
 tags:
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - "pantone-349"
-  - yellow
   - green
+  - yellow
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
-  - natural
   - bold
-  - graphic
   - photography
+  - natural
+  - graphic
 wikidata_description: vocal track by Benn Hexaspectrum; 2020 studio recording
 has_twitter: false
 has_guidelines: true

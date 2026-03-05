@@ -2,7 +2,7 @@
 title: County Clare
 slug: "county-clare"
 description: ""
-date: "2026-03-05T15:56:45.898567"
+date: "2026-03-05T22:38:39.421539"
 draft: false
 sectors:
   - "public-sector"
@@ -40,22 +40,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - secondary
   - primary
+  - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - monochrome
-  - photography
-  - dynamic
-  - vibrant
   - bold
+  - photography
+  - vibrant
+  - dynamic
+  - monochrome
 wikidata_description: "1831 United Kingdom of Great Britain and Ireland Act of Parliament 1 & 2 Will 4 c. 27"
 has_twitter: false
 has_guidelines: true

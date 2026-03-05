@@ -2,11 +2,11 @@
 title: FedEx
 slug: fedex
 description: ""
-date: "2026-03-05T15:56:45.924574"
+date: "2026-03-05T22:38:39.494504"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "parcel-service"
+  - "logistics-supply-chain"
   - "e-commerce"
 regions:
   - usa
@@ -18,8 +18,8 @@ languages:
 tags:
   - transport
 industries:
-  - "transport-industry"
   - logistics
+  - "transport-industry"
 countries:
   - "united-states"
   - canada
@@ -31,349 +31,272 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - "autumnal-colors"
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - "autumnal-colors"
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - vintage
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - "sunset-colors"
+  - vintage
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - selfie
+  - commercial
+  - logistics
+  - professional
+  - race
+  - landscape
+  - botanical
+  - nature
+  - food
+  - birthday
+  - product
+  - industrial
+  - "corporate-event"
+  - lifestyle
+  - abstract
+  - interior
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
   - fashion
   - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - industrial
-  - commercial
-  - candid
-  - branding
-  - typography
-  - botanical
+  - advertisement
+  - event
   - cityscape
-  - race
+  - "text-heavy"
+  - corporate
+  - amateur
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
   - staged
   - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - birthday
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
   - business
-  - logistics
-  - "food-photography"
-  - family
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - architectural
-  - professional
-  - documentary
-  - abstract
-  - "corporate-event"
-  - action
-  - advertising
+  - branding
+  - "still-life"
 concepts:
+  - logo
+  - advertisement
   - "live-performance"
-  - "incomplete-art"
   - "wave-pattern"
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
-  - logo
+  - "graphic-design"
   - advertising
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - purple
-  - gray
-  - black
   - white
-  - "light-blue"
+  - "mud-green"
   - olive
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
-  - bearded
   - white
-  - updo
-  - "not-visible"
-  - "tied-back"
-facial_expressions:
-  - curious
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
+  - flowing
+  - wavy
   - loose
-  - comfortable
+  - bearded
+  - gray
+  - updo
+  - "tied-back"
+  - beard
+  - ponytail
+  - curly
+  - "not-visible"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
   - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - summery
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - curious
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - summery
+  - loose
+  - costume
+  - professional
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - comfortable
+  - uniform
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
   - light
-  - unknown
-  - o
-  - b
-  - n
-  - p
   - protective
+  - pastel
+  - muted
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
+  - confident
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - group
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - relaxed
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - focused
-  - p
+  - seated
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - relaxed
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - signature
   - primary
+  - symbol
+  - horizontal
+  - signature
+  - wordmark
 brand_colors:
-  - "pantone-186"
+  - white
+  - red
   - "pantone-1235"
+  - "pantone-361"
+  - "pantone-186"
+  - "pantone-2685"
+  - "pantone-404"
+  - orange
+  - black
+  - yellow
+  - blue
+  - gray
+  - "pantone-877"
   - green
   - purple
-  - yellow
-  - gray
-  - orange
-  - "pantone-2685"
-  - black
-  - blue
-  - white
-  - "pantone-404"
-  - "pantone-877"
-  - red
-  - "pantone-361"
   - "pantone-021"
 typographies:
   - univers

@@ -2,15 +2,15 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-03-05T15:56:45.930744"
+date: "2026-03-05T22:38:39.505679"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2020
   - 2019
+  - 2020
 languages:
   - english
 tags:
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - symbol
-  - secondary
-  - stacked
   - primary
+  - symbol
+  - icon
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - green
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
+  - green
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - lifestyle
-  - product
   - bold
   - photography
+  - product
+  - lifestyle
 wikidata_description: "web-based instant messaging service"
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Optile GmbH
 slug: "optile-gmbh"
 description: ""
-date: "2026-03-05T15:56:45.864773"
+date: "2026-03-05T22:38:39.379382"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - germany
 years:
@@ -42,14 +42,14 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - grey
   - white
+  - grey
   - green
 typographies: []
 imagery_styles:
-  - gradient
   - colorful
   - minimal
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

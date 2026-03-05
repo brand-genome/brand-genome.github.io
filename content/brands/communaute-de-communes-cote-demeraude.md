@@ -2,7 +2,7 @@
 title: Communauté de communes Côte d’Émeraude
 slug: "communaute-de-communes-cote-demeraude"
 description: ""
-date: "2026-03-05T15:56:46.092744"
+date: "2026-03-05T22:38:39.714071"
 draft: false
 sectors:
   - "public-sector"
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - din
 imagery_styles: []

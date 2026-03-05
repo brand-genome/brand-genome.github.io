@@ -2,7 +2,7 @@
 title: Swanq
 slug: swanq
 description: ""
-date: "2026-03-05T15:56:45.667483"
+date: "2026-03-05T22:38:39.140386"
 draft: false
 sectors:
   - "consumer-goods"

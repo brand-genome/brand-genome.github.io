@@ -2,12 +2,12 @@
 title: University of Delaware
 slug: "university-of-delaware"
 description: ""
-date: "2026-03-05T15:56:46.122443"
+date: "2026-03-05T22:38:39.761053"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - usa
 years:

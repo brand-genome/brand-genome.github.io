@@ -2,11 +2,11 @@
 title: AirTanker
 slug: airtanker
 description: ""
-date: "2026-03-05T15:56:46.085839"
+date: "2026-03-05T22:38:39.706603"
 draft: false
 sectors:
-  - aerospace
   - defense
+  - aerospace
 regions:
   - "united-kingdom"
 years:
@@ -43,27 +43,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - emblem
   - secondary
+  - horizontal
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - "pantone-7406"
-  - gray
-  - black
-  - "pantone-278"
   - white
-  - blue
   - "pantone-287"
+  - "pantone-278"
+  - black
+  - blue
+  - gray
+  - "pantone-7406"
 typographies:
-  - din
   - impact
   - arial
+  - din
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: "British aircraft leasing company, operating the RAF Voyager military multi-role tanker transport"
 has_twitter: false
 has_guidelines: true

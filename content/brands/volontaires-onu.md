@@ -2,7 +2,7 @@
 title: Volontaires ONU
 slug: "volontaires-onu"
 description: ""
-date: "2026-03-05T15:56:46.139245"
+date: "2026-03-05T22:38:39.779321"
 draft: false
 sectors:
   - ngo
@@ -42,9 +42,9 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - arial

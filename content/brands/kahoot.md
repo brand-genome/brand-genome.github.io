@@ -2,7 +2,7 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-03-05T15:56:45.836408"
+date: "2026-03-05T22:38:39.342492"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - grey
-  - black
-  - purple
   - white
+  - grey
+  - purple
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - illustration
-  - colorful
-  - geometric
   - bold
   - playful
+  - geometric
+  - illustration
+  - colorful
 wikidata_description: "Children's educational software"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Antero Ferreira
 slug: "antero-ferreira"
 description: ""
-date: "2026-03-05T15:56:45.667263"
+date: "2026-03-05T22:38:39.139976"
 draft: false
 sectors:
   - "design-creative"

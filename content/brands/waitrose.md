@@ -2,7 +2,7 @@
 title: Waitrose
 slug: waitrose
 description: ""
-date: "2026-03-05T15:56:46.221591"
+date: "2026-03-05T22:38:39.961013"
 draft: false
 sectors:
   - supermarket
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "food-industry"
   - retail
+  - "food-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -22,224 +22,224 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - animal
   - selfie
-  - environmental
-  - packaging
-  - artistic
-  - interior
   - commercial
-  - candid
-  - typography
-  - botanical
-  - staged
-  - promotional
-  - food
-  - beauty
-  - "graphic-design"
-  - street
   - landscape
+  - botanical
+  - promotional
   - cooking
-  - logo
-  - corporate
-  - business
-  - "dessert-photography"
-  - "food-photography"
-  - family
+  - nature
+  - food
+  - product
+  - environmental
   - text
+  - lifestyle
+  - interior
+  - abstract
+  - "food-photography"
+  - street
+  - advertising
+  - artistic
+  - architectural
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - reportage
+  - "text-heavy"
+  - cartoon
+  - underwater
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - "dessert-photography"
   - macro
   - portrait
-  - advertisement
-  - "tabletop-photography"
-  - lifestyle
-  - product
-  - cartoon
-  - nature
-  - "text-heavy"
-  - architectural
-  - reportage
-  - documentary
-  - underwater
-  - abstract
+  - beauty
+  - staged
+  - business
   - "social-media"
-  - action
-  - advertising
+  - "tabletop-photography"
+  - "still-life"
+  - packaging
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "corporate-message"
   - advertisement
-  - "product-promotion"
-  - "graphic-design"
-  - typography
+  - branding
   - cartoon
   - "text-heavy"
-  - branding
+  - illustration
+  - "product-promotion"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "corporate-message"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-green"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "dark-brown"
+  - "off-white"
+  - "mud-green"
   - olive
+  - "dark-green"
+  - black
+  - "dark-brown"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - bald
-  - straight
-  - long
   - casual
-  - gray
   - white
+  - flowing
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - confident
-  - leaning
   - seated
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - reclined
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

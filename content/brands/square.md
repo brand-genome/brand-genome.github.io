@@ -2,7 +2,7 @@
 title: Square
 slug: square
 description: ""
-date: "2026-03-05T15:56:45.721286"
+date: "2026-03-05T22:38:39.211777"
 draft: false
 sectors:
   - hospitality
@@ -45,21 +45,21 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - gold
-  - silver
   - grey
   - black
-  - white
+  - silver
 typographies:
   - impact
   - arial
   - helvetica
 imagery_styles:
-  - photography
-  - illustration
-  - vibrant
   - bold
+  - photography
+  - vibrant
   - graphic
+  - illustration
 wikidata_description: Japanese video game company
 has_twitter: false
 has_guidelines: true

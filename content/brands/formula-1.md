@@ -2,11 +2,11 @@
 title: Formula 1
 slug: "formula-1"
 description: ""
-date: "2026-03-05T15:56:46.031855"
+date: "2026-03-05T22:38:39.600349"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - international
 years:

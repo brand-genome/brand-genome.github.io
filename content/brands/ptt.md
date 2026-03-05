@@ -2,11 +2,11 @@
 title: PTT
 slug: ptt
 description: ""
-date: "2026-03-05T15:56:45.797512"
+date: "2026-03-05T22:38:39.301319"
 draft: false
 sectors:
-  - "public-sector"
   - "parcel-service"
+  - "public-sector"
   - "e-commerce"
 regions:
   - turkiye

@@ -2,7 +2,7 @@
 title: Yelets
 slug: yelets
 description: ""
-date: "2026-03-05T15:56:45.888942"
+date: "2026-03-05T22:38:39.408414"
 draft: false
 sectors:
   - "public-sector"

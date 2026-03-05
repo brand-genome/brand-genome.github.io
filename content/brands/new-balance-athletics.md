@@ -2,7 +2,7 @@
 title: New Balance Athletics
 slug: "new-balance-athletics"
 description: ""
-date: "2026-03-05T15:56:45.971723"
+date: "2026-03-05T22:38:39.542142"
 draft: false
 sectors:
   - fashion
@@ -41,17 +41,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: IRPET
 slug: irpet
 description: ""
-date: "2026-03-05T15:56:46.093915"
+date: "2026-03-05T22:38:39.715200"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - italy
 years:
@@ -39,11 +39,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-227"
-  - gray
-  - black
   - white
+  - black
   - "pantone-426"
+  - gray
+  - "pantone-227"
 typographies:
   - bodoni
 imagery_styles: []

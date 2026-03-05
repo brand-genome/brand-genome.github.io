@@ -2,7 +2,7 @@
 title: De.C.O. di Cuneo
 slug: "deco-di-cuneo"
 description: ""
-date: "2026-03-05T15:56:45.898402"
+date: "2026-03-05T22:38:39.421271"
 draft: false
 sectors:
   - food

@@ -2,7 +2,7 @@
 title: "ES & GE Dimsum"
 slug: "es-ge-dimsum"
 description: ""
-date: "2026-03-05T15:56:45.768620"
+date: "2026-03-05T22:38:39.265939"
 draft: false
 sectors:
   - food

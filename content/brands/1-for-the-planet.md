@@ -2,15 +2,15 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-03-05T15:56:45.816445"
+date: "2026-03-05T22:38:39.322728"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2020
   - 2021
+  - 2020
 languages:
   - english
 tags:
@@ -40,29 +40,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
+  - secondary
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - coral
-  - yellow
-  - gray
+  - white
   - teal
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - coral
 typographies:
-  - montserrat
   - impact
+  - montserrat
 imagery_styles:
-  - vibrant
-  - product
   - bold
+  - product
   - natural
+  - vibrant
 wikidata_description: American nonprofit organization
 has_twitter: false
 has_guidelines: true

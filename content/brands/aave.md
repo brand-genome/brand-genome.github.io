@@ -2,7 +2,7 @@
 title: Aave
 slug: aave
 description: ""
-date: "2026-03-05T15:56:45.829207"
+date: "2026-03-05T22:38:39.334977"
 draft: false
 sectors:
   - "blockchain-crypto"

@@ -2,25 +2,25 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-03-05T15:56:46.108483"
+date: "2026-03-05T22:38:39.736518"
 draft: false
 sectors:
-  - hardware
   - networking
   - cybersecurity
+  - hardware
 regions:
   - usa
 years:
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
-  - networks
   - technology
+  - networks
 industries:
-  - telecommunications
   - "online-service"
+  - telecommunications
   - "computer-science"
 countries:
   - italy
@@ -46,14 +46,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: Italian registrar and Web hosting company
 has_twitter: false
 has_guidelines: true

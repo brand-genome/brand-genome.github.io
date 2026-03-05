@@ -2,7 +2,7 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-03-05T15:56:45.987269"
+date: "2026-03-05T22:38:39.561958"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - retail
   - "food-retail-sector"
+  - retail
 countries:
   - norway
 revenue_buckets:
@@ -42,17 +42,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
   - black
 typographies:
   - arial
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: food retailer
 has_twitter: false
 has_guidelines: true

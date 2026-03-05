@@ -2,7 +2,7 @@
 title: Popeyes Louisiana Chicken
 slug: "popeyes-louisiana-chicken"
 description: ""
-date: "2026-03-05T15:56:45.655907"
+date: "2026-03-05T22:38:39.123481"
 draft: false
 sectors:
   - restaurant

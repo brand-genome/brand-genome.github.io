@@ -2,7 +2,7 @@
 title: Bahrain Country
 slug: "bahrain-country"
 description: ""
-date: "2026-03-05T15:56:45.854661"
+date: "2026-03-05T22:38:39.368790"
 draft: false
 sectors:
   - "public-sector"
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - teal
-  - black
   - white
   - blue
+  - black
+  - teal
 typographies:
   - script
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

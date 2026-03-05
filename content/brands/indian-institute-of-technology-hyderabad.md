@@ -2,12 +2,12 @@
 title: Indian Institute of Technology Hyderabad
 slug: "indian-institute-of-technology-hyderabad"
 description: ""
-date: "2026-03-05T15:56:45.809059"
+date: "2026-03-05T22:38:39.315078"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - india
 years:
@@ -43,12 +43,12 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
+  - white
   - magenta
-  - cyan
-  - yellow
   - grey
   - black
-  - white
+  - cyan
+  - yellow
 typographies:
   - frutiger
 imagery_styles:

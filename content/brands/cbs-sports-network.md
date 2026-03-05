@@ -2,7 +2,7 @@
 title: CBS Sports Network
 slug: "cbs-sports-network"
 description: ""
-date: "2026-03-05T15:56:46.091099"
+date: "2026-03-05T22:38:39.711976"
 draft: false
 sectors:
   - broadcasting
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - din

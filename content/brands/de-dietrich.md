@@ -2,11 +2,11 @@
 title: De Dietrich
 slug: "de-dietrich"
 description: ""
-date: "2026-03-05T15:56:46.039313"
+date: "2026-03-05T22:38:39.608535"
 draft: false
 sectors:
-  - utilities
   - "home-appliances"
+  - utilities
 regions:
   - france
 years:
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
+  - white
+  - "pantone-123"
+  - "pantone-377"
+  - "pantone-281"
+  - orange
+  - black
+  - yellow
+  - blue
+  - gray
+  - "pantone-300"
   - "pantone-130"
   - green
-  - yellow
-  - gray
-  - orange
-  - "pantone-377"
-  - black
-  - "pantone-300"
-  - white
-  - blue
-  - "pantone-123"
-  - "pantone-281"
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: "1905-1934 automotive and engine manufacturer"
 has_twitter: false
 has_guidelines: true

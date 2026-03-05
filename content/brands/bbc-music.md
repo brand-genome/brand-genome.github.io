@@ -2,11 +2,11 @@
 title: BBC Music
 slug: "bbc-music"
 description: ""
-date: "2026-03-05T15:56:46.103635"
+date: "2026-03-05T22:38:39.729611"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "gill-sans"
 imagery_styles:
-  - gradient
   - bold
   - photography
+  - gradient
 wikidata_description: "Pop-up radio station"
 has_twitter: false
 has_guidelines: true

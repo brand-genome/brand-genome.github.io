@@ -2,11 +2,11 @@
 title: Columbia Business School
 slug: "columbia-business-school"
 description: ""
-date: "2026-03-05T15:56:45.814868"
+date: "2026-03-05T22:38:39.321044"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - business
   - education
+  - business
 industries: []
 countries:
   - "united-states"
@@ -40,9 +40,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
   - secondary
   - symbol
+  - logomark
 brand_colors: []
 typographies:
   - impact

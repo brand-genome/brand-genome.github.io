@@ -2,7 +2,7 @@
 title: Wichita State University
 slug: "wichita-state-university"
 description: ""
-date: "2026-03-05T15:56:45.802373"
+date: "2026-03-05T22:38:39.310492"
 draft: false
 sectors:
   - university
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - symbol
 brand_colors:
   - black

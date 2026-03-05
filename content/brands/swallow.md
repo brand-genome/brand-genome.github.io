@@ -2,7 +2,7 @@
 title: Swallow
 slug: swallow
 description: ""
-date: "2026-03-05T15:56:45.985150"
+date: "2026-03-05T22:38:39.560439"
 draft: false
 sectors:
   - tires
@@ -40,14 +40,14 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies:
   - din
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: British band
 has_twitter: false
 has_guidelines: true

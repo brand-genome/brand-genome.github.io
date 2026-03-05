@@ -2,7 +2,7 @@
 title: SoundID
 slug: soundid
 description: ""
-date: "2026-03-05T15:56:45.835929"
+date: "2026-03-05T22:38:39.341601"
 draft: false
 sectors:
   - software
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - primary
   - symbol
+  - primary
+  - lockup
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies:
   - serif
   - inter

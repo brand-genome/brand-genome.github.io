@@ -2,11 +2,11 @@
 title: Sectigo
 slug: sectigo
 description: ""
-date: "2026-03-05T15:56:46.069243"
+date: "2026-03-05T22:38:39.680727"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - international
 years:
@@ -40,29 +40,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - "pantone-292"
-  - gray
-  - black
-  - "pantone-143"
-  - "pantone-296"
   - white
-  - "pantone-121"
   - "pantone-2250"
+  - "pantone-292"
+  - "pantone-296"
+  - black
   - blue
+  - gray
+  - "pantone-143"
+  - green
+  - "pantone-121"
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
+  - bold
   - photography
   - product
   - dramatic
   - clean
-  - bold
 wikidata_description: privately held group of companies
 has_twitter: false
 has_guidelines: true

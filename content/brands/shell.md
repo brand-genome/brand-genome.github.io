@@ -2,12 +2,12 @@
 title: Shell
 slug: shell
 description: ""
-date: "2026-03-05T15:56:46.009230"
+date: "2026-03-05T22:38:39.582373"
 draft: false
 sectors:
-  - gas
-  - oil
   - "petrol-station"
+  - oil
+  - gas
 regions:
   - netherlands
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - industry
 industries:
-  - "extraction-of-crude-petroleum-and-natural-gas"
   - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
 countries:
   - mexico
   - "united-kingdom"
@@ -31,298 +31,221 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "action-shot"
-  - "audience-perspective"
   - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
   - "rule-of-third"
   - action
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
   - white
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - white
+  - "bright-colors"
+  - red
+  - "two-tone"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - white
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "aquatic-colors"
 photography_genres:
-  - racing
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - automotive
-  - interior
-  - candid
-  - branding
-  - race
-  - staged
-  - historical
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - text
-  - portrait
-  - advertisement
-  - product
-  - sport
-  - sports
-  - "text-heavy"
-  - architectural
   - "race-car"
+  - selfie
+  - race
+  - landscape
+  - automotive
+  - food
+  - product
+  - text
+  - interior
   - illustration
   - "audience-perspective"
-  - action
+  - street
   - advertising
+  - architectural
+  - racing
+  - action
+  - sports
+  - "live-stage"
+  - group
+  - candid
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - "text-heavy"
+  - "graphic-design"
+  - portrait
+  - staged
+  - historical
+  - branding
+  - "still-life"
+  - sport
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - advertisement
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-gray"
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - yellow
+  - white
+  - red
   - grey
   - black
-  - white
+  - yellow
   - "pantone-485"
-  - red
   - "pantone-116"
 typographies:
   - verdana

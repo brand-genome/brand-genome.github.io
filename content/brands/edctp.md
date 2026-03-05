@@ -2,12 +2,12 @@
 title: EDCTP
 slug: edctp
 description: ""
-date: "2026-03-05T15:56:46.149458"
+date: "2026-03-05T22:38:39.789272"
 draft: false
 sectors:
-  - ngo
-  - healthcare
   - research
+  - healthcare
+  - ngo
 regions:
   - international
 years:
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - stacked
-  - primary
 brand_colors:
-  - grey
   - red
+  - grey
   - yellow
 typographies: []
 imagery_styles:

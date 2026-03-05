@@ -2,11 +2,11 @@
 title: "ABB Baldor-Reliance"
 slug: "abb-baldor-reliance"
 description: ""
-date: "2026-03-05T15:56:45.633999"
+date: "2026-03-05T22:38:39.096071"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - switzerland
 years:

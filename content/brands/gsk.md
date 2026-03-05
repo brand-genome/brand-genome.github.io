@@ -2,16 +2,16 @@
 title: GSK
 slug: gsk
 description: ""
-date: "2026-03-05T15:56:45.766299"
+date: "2026-03-05T22:38:39.264237"
 draft: false
 sectors:
-  - biotech
   - pharma
+  - biotech
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2022
+  - 2013
 languages:
   - english
 tags:
@@ -43,13 +43,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - orange
+  - grey
 typographies:
   - akzidenz
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: British multinational pharmaceutical and biotechnology company
 has_twitter: false
 has_guidelines: true

@@ -2,12 +2,12 @@
 title: National Parkinson Foundation
 slug: "national-parkinson-foundation"
 description: ""
-date: "2026-03-05T15:56:46.047012"
+date: "2026-03-05T22:38:39.637157"
 draft: false
 sectors:
+  - research
   - ngo
   - healthcare
-  - research
 regions:
   - usa
 years:
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
   - blue
+  - orange
   - cyan
   - gray
-  - orange
 typographies:
   - georgia
   - trebuchet
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: "organization aiming to improve quality of life for Parkinson's disease patients"
 has_twitter: false
 has_guidelines: true

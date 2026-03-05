@@ -2,11 +2,11 @@
 title: Free University of Bozen
 slug: "free-university-of-bozen"
 description: ""
-date: "2026-03-05T15:56:45.786690"
+date: "2026-03-05T22:38:39.285333"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:

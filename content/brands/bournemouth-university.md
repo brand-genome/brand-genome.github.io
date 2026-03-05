@@ -2,7 +2,7 @@
 title: Bournemouth University
 slug: "bournemouth-university"
 description: ""
-date: "2026-03-05T15:56:45.921111"
+date: "2026-03-05T22:38:39.488910"
 draft: false
 sectors:
   - university
@@ -41,19 +41,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles:
+  - bold
   - photography
-  - natural
-  - portrait
+  - vibrant
   - lifestyle
   - landscape
   - clean
-  - vibrant
-  - bold
+  - portrait
+  - natural
 wikidata_description: "university in Bournemouth, Christchurch and Poole, UK"
 has_twitter: false
 has_guidelines: true

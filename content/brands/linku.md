@@ -2,12 +2,12 @@
 title: Linku
 slug: linku
 description: ""
-date: "2026-03-05T15:56:46.066456"
+date: "2026-03-05T22:38:39.677757"
 draft: false
 sectors:
-  - "design-creative"
   - consulting
   - software
+  - "design-creative"
 regions:
   - netherlands
 years:
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
   - icon
+  - primary
+  - secondary
 brand_colors:
   - white
   - silver
 typographies:
   - nunito
 imagery_styles:
-  - realistic
   - abstract
+  - realistic
   - professional
 wikidata_description: graph visualization software
 has_twitter: false

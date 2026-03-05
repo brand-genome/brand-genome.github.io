@@ -2,11 +2,11 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-03-05T15:56:45.884488"
+date: "2026-03-05T22:38:39.398270"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - biology
   - featured
   - health
+  - biology
 industries: []
 countries:
   - "united-states"
@@ -43,10 +43,10 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - grey
-  - purple
   - white
+  - grey
   - silver
+  - purple
 typographies:
   - times
   - display

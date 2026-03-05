@@ -2,11 +2,11 @@
 title: Université Gustave Eiffel
 slug: "universite-gustave-eiffel"
 description: ""
-date: "2026-03-05T15:56:45.821576"
+date: "2026-03-05T22:38:39.328750"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:
@@ -42,13 +42,13 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
   - graphic
 wikidata_description: ""
 has_twitter: false

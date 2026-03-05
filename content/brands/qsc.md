@@ -2,11 +2,11 @@
 title: QSC
 slug: qsc
 description: ""
-date: "2026-03-05T15:56:45.846559"
+date: "2026-03-05T22:38:39.358647"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
   - blue
 typographies:
@@ -48,8 +48,8 @@ typographies:
   - arial
 imagery_styles:
   - bold
-  - product
   - professional
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

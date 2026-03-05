@@ -2,11 +2,11 @@
 title: Cigna
 slug: cigna
 description: ""
-date: "2026-03-05T15:56:46.258387"
+date: "2026-03-05T22:38:40.032197"
 draft: false
 sectors:
-  - insurance
   - healthcare
+  - insurance
 regions:
   - unknown
 years: []
@@ -24,192 +24,192 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
 photography_genres:
-  - fashion
-  - infographic
-  - "health-promotion"
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
   - audience
-  - promotional
-  - beauty
-  - food
-  - health
-  - "graphic-design"
-  - street
-  - corporate
-  - event
-  - business
-  - family
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
-  - documentary
+  - selfie
   - professional
+  - health
+  - promotional
+  - food
+  - product
+  - interior
   - "audience-perspective"
-  - action
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - infographic
+  - candid
+  - group
+  - documentary
+  - "live-stage"
+  - fashion
+  - event
+  - advertisement
+  - "text-heavy"
+  - corporate
+  - family
+  - "health-promotion"
+  - "graphic-design"
+  - portrait
+  - beauty
+  - business
+  - "still-life"
 concepts:
-  - "incomplete-art"
   - professional
   - reportage
-  - documentary
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
+  - documentary
 depths:
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "saturated-colors"
+  - "low-saturation"
   - silhouette
+  - "saturated-colors"
   - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - gray
-  - orange
-  - turquoise
-  - black
   - white
+  - orange
+  - "dark-blue"
+  - black
+  - cyan
   - "light-blue"
+  - turquoise
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
+  - casual
+  - flowing
   - "pulled-back"
+  - varied
+  - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
   - long
   - graying
-  - ponytail
-  - curly
-  - casual
-  - covered
-  - flowing
-  - varied
-  - short
-  - updo
   - "tied-back"
-  - straight
-  - neat
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
-  - walking
-  - leaning
-  - seated
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
   - engaged
-  - upward
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

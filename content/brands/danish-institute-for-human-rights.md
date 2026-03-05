@@ -2,7 +2,7 @@
 title: Danish Institute for Human Rights
 slug: "danish-institute-for-human-rights"
 description: ""
-date: "2026-03-05T15:56:45.604780"
+date: "2026-03-05T22:38:39.078066"
 draft: false
 sectors:
   - "public-sector"

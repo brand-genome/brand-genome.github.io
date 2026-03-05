@@ -2,7 +2,7 @@
 title: Motilal
 slug: motilal
 description: ""
-date: "2026-03-05T15:56:46.232843"
+date: "2026-03-05T22:38:39.999568"
 draft: false
 sectors:
   - finance
@@ -20,304 +20,227 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - selfie
+  - commercial
+  - professional
+  - informational
+  - conceptual
+  - landscape
+  - botanical
+  - promotional
+  - product
+  - "text-based"
+  - text
+  - lifestyle
+  - illustration
+  - interior
+  - "digital-art"
+  - street
+  - questionnaire
+  - advertising
+  - educational
+  - architectural
   - infographic
-  - sky
-  - "still-life"
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - candid
-  - typography
-  - botanical
-  - financial
-  - "incomplete-art"
-  - celebration
-  - staged
-  - promotional
-  - "graphic-design"
-  - street
-  - landscape
-  - holiday
-  - corporate
-  - event
-  - business
-  - conceptual
-  - questionnaire
-  - text
-  - "digital-art"
-  - portrait
-  - advertisement
-  - lifestyle
-  - informational
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - question
-  - "social-message"
-  - architectural
   - documentary
-  - professional
-  - "information-graphic"
-  - "text-based"
-  - illustration
-  - educational
-  - action
-  - advertising
-concepts:
-  - financial
-  - motivational
-  - "incomplete-art"
-  - infographic
-  - "wave-pattern"
-  - informative
-  - illustration
-  - vintage
+  - sports
+  - candid
+  - "social-message"
   - advertisement
-  - photorealism
-  - educational
-  - "graphic-design"
-  - "financial-advice"
-  - cartoon
-  - "educational-material"
+  - financial
+  - event
+  - sky
   - "text-heavy"
+  - corporate
+  - cartoon
   - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - holiday
+  - "information-graphic"
+  - question
+  - staged
+  - celebration
+  - business
+  - "still-life"
+concepts:
+  - informative
+  - advertisement
+  - financial
+  - "wave-pattern"
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - "educational-material"
+  - vintage
+  - "financial-advice"
+  - typography
+  - "graphic-design"
   - advertising
+  - educational
+  - infographic
+  - motivational
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - "bokeh-effect"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
   - "saturated-colors"
   - silhouette
-  - "short-exposure"
-  - asymmetry
-  - "isolated-focal-point"
-  - symmetrical
-  - saturated
-  - "bright-focal-point"
-  - "long-exposure"
   - "high-contrast"
-  - "low-saturation"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
   - "cut-out"
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
+  - "isolated-focal-point"
+  - saturated
 dominant_colors:
-  - gold
-  - yellow
-  - "dark-blue"
-  - orange
-  - black
   - white
+  - gold
+  - orange
+  - "dark-blue"
+  - yellow
+  - black
 color_tones:
   - warm
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - joyful
-  - contemplative
-  - e
-  - unknown
-  - c
-  - relaxed
-  - o
-clothing_styles:
-  - formal
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
   - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - professional
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - walking
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
+  - "hand-only"
+  - "head-shot"
   - engaged
   - midsection
-  - a
-  - c
-  - "hand-only"
-  - t
-  - "close-up"
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - "full-back"
+  - "lower-half"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

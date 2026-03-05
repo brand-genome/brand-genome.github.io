@@ -2,11 +2,11 @@
 title: Tani
 slug: tani
 description: ""
-date: "2026-03-05T15:56:46.013558"
+date: "2026-03-05T22:38:39.586911"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - turkiye
 years:
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - "pantone-3145"
-  - "pantone-2577"
-  - "pantone-7545"
-  - black
   - white
+  - black
+  - "pantone-2577"
   - "pantone-311"
+  - "pantone-3145"
   - "pantone-2665"
+  - "pantone-7545"
 typographies: []
 imagery_styles:
   - gradient

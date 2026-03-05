@@ -2,11 +2,11 @@
 title: Research Ireland
 slug: "research-ireland"
 description: ""
-date: "2026-03-05T15:56:45.695320"
+date: "2026-03-05T22:38:39.186433"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
   - logomark
 brand_colors:
-  - green
-  - brown
-  - yellow
-  - black
   - white
+  - black
+  - yellow
+  - brown
+  - green
 typographies:
-  - inter
   - "sans-serif"
+  - inter
 imagery_styles:
-  - photography
-  - natural
-  - gradient
-  - geometric
   - bold
+  - photography
+  - geometric
+  - gradient
+  - natural
 wikidata_description: "government organization in Dublin, Ireland"
 has_twitter: false
 has_guidelines: true

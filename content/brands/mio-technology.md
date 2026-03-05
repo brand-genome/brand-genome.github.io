@@ -2,11 +2,11 @@
 title: Mio Technology
 slug: "mio-technology"
 description: ""
-date: "2026-03-05T15:56:45.695172"
+date: "2026-03-05T22:38:39.186158"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -43,22 +43,22 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
-  - orange
   - white
+  - orange
   - green
+  - black
 typographies:
-  - times
   - arial
+  - times
 imagery_styles:
+  - bold
   - photography
+  - product
+  - graphic
+  - lifestyle
+  - candid
   - natural
   - portrait
-  - lifestyle
-  - product
-  - candid
-  - bold
-  - graphic
 wikidata_description: owned brand of MiTAC Digital Technology Corporation
 has_twitter: false
 has_guidelines: true

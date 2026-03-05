@@ -2,7 +2,7 @@
 title: BYD
 slug: byd
 description: ""
-date: "2026-03-05T15:56:45.637944"
+date: "2026-03-05T22:38:39.099842"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - engineering
   - featured
+  - engineering
+  - transport
 industries:
+  - "battery-industry"
   - "automotive-industry"
   - "consumer-electronics-industry"
-  - "battery-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:

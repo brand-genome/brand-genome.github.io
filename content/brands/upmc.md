@@ -2,11 +2,11 @@
 title: Upmc
 slug: upmc
 description: ""
-date: "2026-03-05T15:56:46.231681"
+date: "2026-03-05T22:38:39.998664"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - unknown
 years: []
@@ -23,213 +23,213 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - natural
   - moderate
+  - "light-on-subject"
   - bright
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
-  - "two-tone"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - candid
-  - baby
-  - cityscape
   - audience
-  - staged
-  - promotional
-  - beauty
-  - food
-  - street
-  - landscape
-  - holiday
-  - business
-  - event
-  - family
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - architectural
+  - selfie
+  - commercial
   - professional
-  - documentary
-  - hospital
+  - baby
+  - landscape
+  - promotional
+  - food
+  - product
+  - lifestyle
+  - interior
   - abstract
   - "audience-perspective"
-  - action
+  - street
   - advertising
+  - architectural
+  - action
+  - candid
+  - "live-stage"
+  - documentary
+  - group
+  - fashion
+  - sky
+  - event
+  - advertisement
+  - cityscape
+  - family
+  - hospital
+  - portrait
+  - beauty
+  - holiday
+  - staged
+  - business
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
+  - "off-white"
+  - olive
   - cream
   - "dark-blue"
-  - gray
-  - "off-white"
   - black
   - "dark-brown"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - bald
-  - straight
-  - long
   - casual
-  - gray
-  - bearded
   - white
+  - flowing
+  - wavy
+  - loose
+  - bearded
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - happy
+  - engaged
+  - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - happy
 clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - hospital
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - professional
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - hospital
+  - comfortable
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - kneeling
-  - active
-  - engaged
-  - walking
   - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - kneeling
+  - confident
+gazes:
+  - engaged
   - away
-  - focused
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

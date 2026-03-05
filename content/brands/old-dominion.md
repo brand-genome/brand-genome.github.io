@@ -2,7 +2,7 @@
 title: Old Dominion
 slug: "old-dominion"
 description: ""
-date: "2026-03-05T15:56:46.250635"
+date: "2026-03-05T22:38:40.019585"
 draft: false
 sectors:
   - entertainment
@@ -19,209 +19,209 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
+  - textured
+  - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - textured
+  - monotone
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "still-life"
+  - audience
+  - selfie
+  - landscape
+  - promotional
+  - product
+  - text
+  - illustration
+  - interior
+  - "audience-perspective"
+  - street
+  - architectural
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - "event-photography"
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
+  - documentary
   - event
-  - text
-  - portrait
+  - sky
   - advertisement
-  - product
+  - fashion
   - "text-heavy"
   - "concert-photography"
-  - architectural
-  - documentary
-  - illustration
-  - "audience-perspective"
-  - action
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
   - list
+  - staged
+  - "event-photography"
+  - "still-life"
 concepts:
-  - "live-performance"
   - "audience-engagement"
   - concert
-  - "incomplete-art"
-  - "wave-pattern"
-  - "audience-interaction"
-  - photorealism
+  - "live-performance"
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
   - "music-concert"
-  - "graphic-design"
-  - action
-  - "text-heavy"
-  - typography
   - music
-  - cartoon
+  - typography
+  - "graphic-design"
+  - "audience-interaction"
+  - "wave-pattern"
+  - action
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
   - "fully-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
   - "bright-focal-point"
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
+  - white
   - "off-white"
   - orange
-  - gray
+  - "dark-blue"
   - black
-  - white
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - beard
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
   - bearded
   - short
+  - curly
   - updo
+  - long
   - "tied-back"
-  - straight
-  - neat
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,12 +2,12 @@
 title: Puma
 slug: puma
 description: ""
-date: "2026-03-05T15:56:46.152513"
+date: "2026-03-05T22:38:39.792615"
 draft: false
 sectors:
-  - sports
   - fashion
   - "consumer-goods"
+  - sports
   - footwear
 regions:
   - germany
@@ -16,11 +16,11 @@ years:
 languages:
   - english
 tags:
-  - "student-work"
   - sport
+  - "student-work"
 industries:
-  - "textile-industry"
   - "sports-industry"
+  - "textile-industry"
 countries:
   - mexico
   - germany
@@ -32,231 +32,231 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
   - light
+  - "inverted-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "still-life"
+  - signage
+  - selfie
+  - beach
+  - landscape
+  - botanical
+  - food
+  - product
+  - text
+  - abstract
+  - interior
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - candid
-  - botanical
-  - staged
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
   - fitness
   - logo
-  - signage
-  - text
-  - portrait
+  - fashion
   - advertisement
-  - product
-  - sports
-  - athlete
-  - architectural
-  - beach
-  - abstract
-  - action
-  - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - product
-  - cartoon
+  - sky
   - typography
-  - "product-photography"
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - athlete
+  - "still-life"
+concepts:
+  - product
+  - advertisement
   - branding
+  - cartoon
+  - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "product-photography"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "gaussian-blur"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
+  - white
   - "mud-green"
-  - "dark-blue"
-  - gray
+  - olive
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - neat
-  - long
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
   - bald
-  - short
-  - updo
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
   - straight
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
   - dynamic
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors:
-  - black
-  - beige
   - white
   - red
+  - black
+  - beige
 typographies:
-  - arial
   - avenir
+  - arial
 imagery_styles:
-  - lifestyle
-  - product
-  - clean
-  - subtle
   - bold
+  - product
+  - lifestyle
+  - subtle
+  - clean
 wikidata_description: Mexican association football club
 has_twitter: true
 has_guidelines: true

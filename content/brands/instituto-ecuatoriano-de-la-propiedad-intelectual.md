@@ -2,11 +2,11 @@
 title: Instituto Ecuatoriano de la Propiedad Intelectual
 slug: "instituto-ecuatoriano-de-la-propiedad-intelectual"
 description: ""
-date: "2026-03-05T15:56:45.909587"
+date: "2026-03-05T22:38:39.465042"
 draft: false
 sectors:
-  - "public-sector"
   - "legal-services"
+  - "public-sector"
 regions:
   - ecuador
 years:

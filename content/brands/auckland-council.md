@@ -2,7 +2,7 @@
 title: Auckland Council
 slug: "auckland-council"
 description: ""
-date: "2026-03-05T15:56:45.749755"
+date: "2026-03-05T22:38:39.248482"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - "new-zealand"

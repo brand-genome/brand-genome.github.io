@@ -2,7 +2,7 @@
 title: Deft Visuals
 slug: "deft-visuals"
 description: ""
-date: "2026-03-05T15:56:45.820339"
+date: "2026-03-05T22:38:39.327209"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
 typographies:

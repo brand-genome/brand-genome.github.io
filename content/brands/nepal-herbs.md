@@ -2,7 +2,7 @@
 title: Nepal Herbs
 slug: "nepal-herbs"
 description: ""
-date: "2026-03-05T15:56:45.926455"
+date: "2026-03-05T22:38:39.503035"
 draft: false
 sectors:
   - "wellness-spa"
@@ -37,18 +37,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
+  - "pantone-348"
   - magenta
-  - cyan
-  - "pantone-427"
-  - yellow
   - grey
   - black
-  - "pantone-348"
-  - white
+  - cyan
+  - yellow
   - "pantone-369"
+  - "pantone-427"
 typographies:
   - avenir
 imagery_styles:

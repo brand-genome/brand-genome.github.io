@@ -2,7 +2,7 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-03-05T15:56:46.070224"
+date: "2026-03-05T22:38:39.681793"
 draft: false
 sectors:
   - cybersecurity
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - telecommunications
   - technology
-industries:
   - telecommunications
+industries:
   - "networking-hardware"
+  - telecommunications
 countries:
   - taiwan
 revenue_buckets: []
@@ -44,21 +44,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
+  - "pantone-194"
+  - "pantone-287"
   - "pantone-2915"
   - black
-  - white
   - blue
-  - "pantone-287"
-  - "pantone-194"
 typographies: []
 imagery_styles:
+  - photography
+  - product
+  - staged
   - professional
   - classic
-  - photography
-  - staged
-  - natural
-  - product
   - clean
+  - natural
 wikidata_description: Taiwanese manufacturer of networking hardware
 has_twitter: false
 has_guidelines: true

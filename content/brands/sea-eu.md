@@ -2,7 +2,7 @@
 title: "SEA-EU"
 slug: "sea-eu"
 description: ""
-date: "2026-03-05T15:56:45.695745"
+date: "2026-03-05T22:38:39.187413"
 draft: false
 sectors:
   - education
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - yellow
-  - gray
-  - black
   - white
+  - black
+  - yellow
   - blue
+  - gray
 typographies:
   - roboto
 imagery_styles:
-  - dramatic
-  - geometric
   - bold
+  - dramatic
   - photography
+  - geometric
 wikidata_description: European University of the Seas
 has_twitter: false
 has_guidelines: true

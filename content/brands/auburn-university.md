@@ -2,7 +2,7 @@
 title: Auburn University
 slug: "auburn-university"
 description: ""
-date: "2026-03-05T15:56:46.134600"
+date: "2026-03-05T22:38:39.775178"
 draft: false
 sectors:
   - university
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - mascot
+  - wordmark
   - symbol
 brand_colors:
-  - magenta
-  - cyan
-  - green
-  - yellow
-  - orange
-  - blue
-  - black
   - white
   - red
+  - magenta
+  - orange
+  - cyan
+  - black
+  - yellow
+  - blue
+  - green
 typographies: []
 imagery_styles:
   - monochrome

@@ -2,7 +2,7 @@
 title: Canada AID
 slug: "canada-aid"
 description: ""
-date: "2026-03-05T15:56:45.856576"
+date: "2026-03-05T22:38:39.370774"
 draft: false
 sectors:
   - "public-sector"
@@ -38,17 +38,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - signature
   - alternate
   - primary
+  - signature
 brand_colors:
   - black
 typographies:
   - arial
 imagery_styles:
+  - bold
   - contemporary
   - geometric
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

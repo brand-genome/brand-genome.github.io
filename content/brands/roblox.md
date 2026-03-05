@@ -2,7 +2,7 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-03-05T15:56:45.880941"
+date: "2026-03-05T22:38:39.391037"
 draft: false
 sectors:
   - gaming
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - grey
-  - red
   - white
+  - red
+  - grey
   - black
 typographies: []
 imagery_styles: []

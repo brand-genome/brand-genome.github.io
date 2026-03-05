@@ -2,7 +2,7 @@
 title: Istanbul Metropolitan Municipality
 slug: "istanbul-metropolitan-municipality"
 description: ""
-date: "2026-03-05T15:56:45.817235"
+date: "2026-03-05T22:38:39.323566"
 draft: false
 sectors:
   - "public-sector"
@@ -43,9 +43,9 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - "pantone-200"
-  - black
   - white
+  - black
+  - "pantone-200"
 typographies: []
 imagery_styles: []
 wikidata_description: "municipality of Istanbul, Turkey"

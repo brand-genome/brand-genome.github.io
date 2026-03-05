@@ -2,7 +2,7 @@
 title: TAME
 slug: tame
 description: ""
-date: "2026-03-05T15:56:45.925613"
+date: "2026-03-05T22:38:39.498229"
 draft: false
 sectors:
   - airline
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

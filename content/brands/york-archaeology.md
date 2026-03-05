@@ -2,12 +2,12 @@
 title: York Archaeology
 slug: "york-archaeology"
 description: ""
-date: "2026-03-05T15:56:45.749654"
+date: "2026-03-05T22:38:39.248349"
 draft: false
 sectors:
+  - research
   - ngo
   - "arts-culture"
-  - research
 regions:
   - "united-kingdom"
 years:
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-8001"
-  - gray
-  - silver
+  - "pantone-287"
   - grey
   - black
   - blue
-  - "pantone-287"
+  - silver
+  - gray
+  - "pantone-8001"
 typographies:
   - impact
 imagery_styles:

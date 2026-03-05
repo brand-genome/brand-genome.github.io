@@ -2,7 +2,7 @@
 title: Super Hi
 slug: "super-hi"
 description: ""
-date: "2026-03-05T15:56:45.810892"
+date: "2026-03-05T22:38:39.316748"
 draft: false
 sectors:
   - education
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
 typographies: []

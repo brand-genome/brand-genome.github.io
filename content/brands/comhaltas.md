@@ -2,7 +2,7 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-03-05T15:56:45.631048"
+date: "2026-03-05T22:38:39.086179"
 draft: false
 sectors:
   - ngo
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - alternate
   - icon
+  - primary
+  - secondary
+  - alternate
 brand_colors:
   - crimson
 typographies:
   - impact
   - display
 imagery_styles:
+  - photography
   - vibrant
   - graphic
-  - photography
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

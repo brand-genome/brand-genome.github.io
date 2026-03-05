@@ -2,7 +2,7 @@
 title: Pacifico Power
 slug: "pacifico-power"
 description: ""
-date: "2026-03-05T15:56:45.823161"
+date: "2026-03-05T22:38:39.329724"
 draft: false
 sectors:
   - "renewable-energy"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - industry
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []

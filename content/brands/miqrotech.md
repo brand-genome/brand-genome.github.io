@@ -2,7 +2,7 @@
 title: mIQrotech
 slug: miqrotech
 description: ""
-date: "2026-03-05T15:56:45.817885"
+date: "2026-03-05T22:38:39.324291"
 draft: false
 sectors:
   - software
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - primary
+  - signature
+  - secondary
   - logomark
 brand_colors:
-  - black
   - orange
+  - black
 typographies:
   - roboto
   - helvetica
 imagery_styles:
-  - professional
+  - bold
   - photography
   - dynamic
+  - professional
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

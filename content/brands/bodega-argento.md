@@ -2,7 +2,7 @@
 title: Bodega Argento
 slug: "bodega-argento"
 description: ""
-date: "2026-03-05T15:56:46.172346"
+date: "2026-03-05T22:38:39.814433"
 draft: false
 sectors:
   - drink
@@ -37,12 +37,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies: []
 imagery_styles:
   - monochrome

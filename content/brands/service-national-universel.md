@@ -2,11 +2,11 @@
 title: Service National Universel
 slug: "service-national-universel"
 description: ""
-date: "2026-03-05T15:56:46.087951"
+date: "2026-03-05T22:38:39.708464"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -42,21 +42,21 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - magenta
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - magenta
+  - orange
+  - black
+  - blue
+  - gray
   - "pantone-288"
 typographies:
-  - inter
-  - arial
   - roboto
+  - arial
+  - inter
 imagery_styles:
-  - monochrome
   - modern
+  - monochrome
   - graphic
 wikidata_description: French civil conscription service
 has_twitter: false

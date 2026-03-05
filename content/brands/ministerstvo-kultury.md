@@ -2,7 +2,7 @@
 title: Ministerstvo Kultury
 slug: "ministerstvo-kultury"
 description: ""
-date: "2026-03-05T15:56:45.852206"
+date: "2026-03-05T22:38:39.365582"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - czech
 tags:
-  - institution
   - cultural
+  - institution
 industries: []
 countries:
   - "czech-republic"

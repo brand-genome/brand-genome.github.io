@@ -2,7 +2,7 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-03-05T15:56:45.889308"
+date: "2026-03-05T22:38:39.408802"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,8 @@ languages:
 tags:
   - luxury
 industries:
-  - retail
   - "retail-sale-in-non-specialised-stores"
+  - retail
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -42,16 +42,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - "pantone-5"
   - "pantone-6"
   - green
+  - black
 typographies:
   - times
 imagery_styles:
-  - geometric
   - bold
   - photography
+  - geometric
 wikidata_description: British department store
 has_twitter: false
 has_guidelines: true

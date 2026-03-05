@@ -2,11 +2,11 @@
 title: AIESEC
 slug: aiesec
 description: ""
-date: "2026-03-05T15:56:45.851772"
+date: "2026-03-05T22:38:39.365083"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - netherlands
 years:

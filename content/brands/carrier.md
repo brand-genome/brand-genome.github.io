@@ -2,11 +2,11 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-03-05T15:56:46.097735"
+date: "2026-03-05T22:38:39.718643"
 draft: false
 sectors:
-  - "home-appliances"
   - construction
+  - "home-appliances"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - technology
 industries:
-  - "heating-ventilation-and-air-conditioning"
   - "construction-industry"
+  - "heating-ventilation-and-air-conditioning"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -41,15 +41,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
+  - stacked
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
   - bold

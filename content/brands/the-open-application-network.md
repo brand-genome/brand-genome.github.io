@@ -2,7 +2,7 @@
 title: The Open Application Network
 slug: "the-open-application-network"
 description: ""
-date: "2026-03-05T15:56:45.789386"
+date: "2026-03-05T22:38:39.291254"
 draft: false
 sectors:
   - "blockchain-crypto"

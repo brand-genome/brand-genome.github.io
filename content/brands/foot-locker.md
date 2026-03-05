@@ -2,7 +2,7 @@
 title: Foot Locker
 slug: "foot-locker"
 description: ""
-date: "2026-03-05T15:56:46.190556"
+date: "2026-03-05T22:38:39.877319"
 draft: false
 sectors:
   - fashion
@@ -23,231 +23,231 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "fish-eye-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "fish-eye-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - text
-  - dark
+  - red
   - wood
+  - textured
+  - text
   - blurred
+  - solid
   - transparent
-  - bright
+  - light
   - gradient
   - "autumnal-colors"
-  - light
-  - red
-  - textured
-  - solid
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "red-and-black"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
+  - "red-and-black"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
-  - formal
+  - selfie
+  - landscape
+  - product
+  - lifestyle
+  - illustration
+  - abstract
+  - interior
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - branding
-  - typography
-  - staged
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - family
-  - portrait
+  - fashion
   - advertisement
-  - lifestyle
-  - product
-  - sports
   - cartoon
-  - "text-heavy"
-  - architectural
   - underwater
-  - abstract
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "fashion-design"
-  - "action-shot"
-  - shoe
+  - "text-heavy"
+  - family
   - typography
-  - "incomplete-art"
-  - photorealism
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - formal
+  - "still-life"
+concepts:
+  - "logo-design"
+  - shoe
+  - "brand-identity"
+  - "wave-pattern"
+  - product
+  - illustration
   - vintage
+  - sports
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
   - "graphic-design"
   - "product-photography"
-  - "brand-identity"
-  - advertisement
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
-  - illustration
-  - "logo-design"
+  - "action-shot"
+  - "incomplete-art"
+  - "fashion-design"
   - "product-display"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
+  - "bokeh-effect"
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
+  - white
   - "off-white"
-  - gray
+  - red
   - orange
   - black
-  - white
+  - "dark-blue"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - blonde
-  - long
   - casual
+  - blonde
+  - flowing
   - white
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - ponytail
+  - curly
   - "full-beard"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - confident
-  - content
-  - relaxed
-  - contemplative
   - joyful
-  - happy
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - streetwear
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - bright
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - seated
-  - confident
-  - leaning
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+  - confident
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - streetwear
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - bright
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
   - engaged
-  - "at-the-camera"
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - "at-the-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

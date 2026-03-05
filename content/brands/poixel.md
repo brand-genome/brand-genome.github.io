@@ -2,12 +2,12 @@
 title: Poixel
 slug: poixel
 description: ""
-date: "2026-03-05T15:56:45.884694"
+date: "2026-03-05T22:38:39.398515"
 draft: false
 sectors:
+  - consulting
   - "marketing-advertising"
   - "design-creative"
-  - consulting
 regions:
   - kuwait
 years:
@@ -39,15 +39,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - orange
+  - black
+  - blue
+  - gray
 typographies:
   - helvetica
 imagery_styles:

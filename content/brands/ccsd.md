@@ -2,7 +2,7 @@
 title: CCSD
 slug: ccsd
 description: ""
-date: "2026-03-05T15:56:45.846791"
+date: "2026-03-05T22:38:39.358865"
 draft: false
 sectors:
   - research

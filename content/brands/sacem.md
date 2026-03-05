@@ -2,7 +2,7 @@
 title: Sacem
 slug: sacem
 description: ""
-date: "2026-03-05T15:56:45.929850"
+date: "2026-03-05T22:38:39.505033"
 draft: false
 sectors:
   - publishing
@@ -37,12 +37,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - "pantone-7426"
   - white
+  - "pantone-7426"
   - black
 typographies:
   - arial

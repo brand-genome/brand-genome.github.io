@@ -2,7 +2,7 @@
 title: Dell Boomi
 slug: "dell-boomi"
 description: ""
-date: "2026-03-05T15:56:46.060714"
+date: "2026-03-05T22:38:39.657978"
 draft: false
 sectors:
   - software
@@ -43,14 +43,14 @@ brand_colors:
   - green
   - "pantone-876"
 typographies:
-  - arial
   - roboto
+  - arial
   - helvetica
 imagery_styles:
-  - staged
   - clean
-  - candid
   - photography
+  - candid
+  - staged
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

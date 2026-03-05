@@ -2,7 +2,7 @@
 title: Pizza Inn
 slug: "pizza-inn"
 description: ""
-date: "2026-03-05T15:56:45.705410"
+date: "2026-03-05T22:38:39.195686"
 draft: false
 sectors:
   - food

@@ -2,11 +2,11 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-03-05T15:56:45.919800"
+date: "2026-03-05T22:38:39.487495"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -43,21 +43,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
   - logomark
   - secondary
-  - primary
-  - seal
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
+  - black
 typographies: []
 imagery_styles:
   - photography
-  - natural
+  - graphic
   - clean
   - candid
-  - graphic
+  - natural
 wikidata_description: private university in New York City
 has_twitter: false
 has_guidelines: true

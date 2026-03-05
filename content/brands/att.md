@@ -2,7 +2,7 @@
 title: "AT&T"
 slug: att
 description: ""
-date: "2026-03-05T15:56:46.053335"
+date: "2026-03-05T22:38:39.645551"
 draft: false
 sectors:
   - telecom
@@ -10,17 +10,17 @@ regions:
   - usa
 years:
   - 1999
-  - 2001
   - 2005
+  - 2001
 languages:
   - english
 tags:
-  - telecommunications
   - vintage
-industries:
   - telecommunications
-  - "mass-media"
+industries:
   - "postal-and-telecommunications-services"
+  - "mass-media"
+  - telecommunications
 countries:
   - "united-states"
 revenue_buckets:
@@ -48,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: American multinational conglomerate
 has_twitter: false
 has_guidelines: true

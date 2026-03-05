@@ -2,7 +2,7 @@
 title: SiteImprove
 slug: siteimprove
 description: ""
-date: "2026-03-05T15:56:46.027220"
+date: "2026-03-05T22:38:39.594709"
 draft: false
 sectors:
   - software
@@ -41,19 +41,19 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - yellow
+  - white
   - grey
   - black
-  - white
+  - yellow
   - blue
 typographies:
   - arial
 imagery_styles:
-  - monochrome
-  - professional
-  - flat
   - bold
   - playful
+  - professional
+  - monochrome
+  - flat
 wikidata_description: Software company
 has_twitter: false
 has_guidelines: true

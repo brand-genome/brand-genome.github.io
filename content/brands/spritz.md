@@ -2,7 +2,7 @@
 title: Spritz
 slug: spritz
 description: ""
-date: "2026-03-05T15:56:45.850891"
+date: "2026-03-05T22:38:39.363922"
 draft: false
 sectors:
   - "blockchain-crypto"

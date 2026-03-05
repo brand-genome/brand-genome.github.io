@@ -2,11 +2,11 @@
 title: Cape
 slug: cape
 description: ""
-date: "2026-03-05T15:56:45.915464"
+date: "2026-03-05T22:38:39.480273"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - australia
 years:
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
   - red
-  - green
-  - yellow
   - black
+  - yellow
   - blue
+  - green
 typographies:
-  - brandon
   - impact
+  - brandon
 imagery_styles:
   - bold
-  - abstract
   - illustration
   - photography
+  - abstract
 wikidata_description: "public university in Cape Town, South Africa"
 has_twitter: false
 has_guidelines: true

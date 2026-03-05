@@ -2,7 +2,7 @@
 title: AFL
 slug: afl
 description: ""
-date: "2026-03-05T15:56:45.791352"
+date: "2026-03-05T22:38:39.293183"
 draft: false
 sectors:
   - sports
@@ -42,9 +42,9 @@ logo_elements:
   - symbol
 brand_colors:
   - blue
-  - black
-  - silver
   - red
+  - silver
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: sports statistics website

@@ -2,7 +2,7 @@
 title: Rita’s Creamery
 slug: "ritas-creamery"
 description: ""
-date: "2026-03-05T15:56:45.673800"
+date: "2026-03-05T22:38:39.156541"
 draft: false
 sectors:
   - food
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors:
   - red
   - green
 typographies: []
 imagery_styles:
+  - playful
   - minimal
   - product
-  - playful
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

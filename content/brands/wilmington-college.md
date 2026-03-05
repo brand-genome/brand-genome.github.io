@@ -2,7 +2,7 @@
 title: Wilmington College
 slug: "wilmington-college"
 description: ""
-date: "2026-03-05T15:56:46.124838"
+date: "2026-03-05T22:38:39.764315"
 draft: false
 sectors:
   - education
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - seal
-  - vertical
   - primary
   - icon
+  - alternate
+  - vertical
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
-  - staged
   - clean
   - modern
   - photography
+  - staged
 wikidata_description: "Private college in Wilmington, Ohio, United States"
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Hisense
 slug: hisense
 description: ""
-date: "2026-03-05T15:56:45.820923"
+date: "2026-03-05T22:38:39.327917"
 draft: false
 sectors:
-  - electronics
   - "home-appliances"
+  - electronics
 regions:
   - china
 years:

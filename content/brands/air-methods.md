@@ -2,11 +2,11 @@
 title: Air Methods
 slug: "air-methods"
 description: ""
-date: "2026-03-05T15:56:46.051712"
+date: "2026-03-05T22:38:39.643814"
 draft: false
 sectors:
-  - aerospace
   - healthcare
+  - aerospace
 regions:
   - usa
 years:
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - grey
-  - blue
-  - black
   - white
+  - blue
+  - grey
+  - black
 typographies: []
 imagery_styles:
-  - staged
   - serious
   - bold
+  - staged
 wikidata_description: American privately owned helicopter operator
 has_twitter: false
 has_guidelines: true

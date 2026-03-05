@@ -2,7 +2,7 @@
 title: Specsavers
 slug: specsavers
 description: ""
-date: "2026-03-05T15:56:46.200383"
+date: "2026-03-05T22:38:39.916700"
 draft: false
 sectors:
   - eyecare
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - optician
   - retail
+  - optician
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -22,298 +22,221 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - "sunset-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - candid
-  - typography
-  - branding
-  - botanical
-  - urban
   - audience
-  - staged
-  - historical
-  - food
-  - instructional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - corporate
-  - business
-  - text
-  - macro
-  - portrait
-  - advertisement
+  - selfie
+  - commercial
   - informational
-  - product
-  - sports
+  - landscape
+  - botanical
   - nature
-  - "text-heavy"
-  - architectural
-  - documentary
+  - food
+  - product
+  - text
   - abstract
+  - interior
   - illustration
   - "audience-perspective"
-  - educational
-  - action
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
+  - urban
+  - group
+  - educational
+  - infographic
+  - candid
+  - documentary
   - advertisement
-  - "graphic-design"
+  - sky
+  - fashion
+  - "text-heavy"
+  - corporate
   - typography
+  - "graphic-design"
+  - macro
+  - portrait
+  - beauty
+  - staged
+  - business
+  - historical
+  - branding
+  - instructional
+  - "still-life"
+concepts:
+  - logo
+  - advertisement
+  - branding
   - cartoon
   - "text-heavy"
-  - branding
-  - logo
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
+  - "bokeh-effect"
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "high-saturation"
   - "low-contrast"
-  - "bokeh-effect"
-  - silhouette
-  - "vanishing-point"
   - asymmetry
   - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
   - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - green
-  - "dark-blue"
-  - "dark-green"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
   - olive
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - gray
+  - green
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - curled
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - wavy
+  - curled
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
   - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - n
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - confident
+gazes:
+  - engaged
   - away
-  - upward
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

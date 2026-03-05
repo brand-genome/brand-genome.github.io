@@ -2,7 +2,7 @@
 title: WeThe15
 slug: wethe15
 description: ""
-date: "2026-03-05T15:56:45.848652"
+date: "2026-03-05T22:38:39.361205"
 draft: false
 sectors:
   - ngo

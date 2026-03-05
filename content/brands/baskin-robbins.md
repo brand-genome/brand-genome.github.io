@@ -2,7 +2,7 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-03-05T15:56:45.832638"
+date: "2026-03-05T22:38:39.338302"
 draft: false
 sectors:
   - food
@@ -42,17 +42,17 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - magenta
+  - black
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
-  - lifestyle
-  - natural
   - photography
+  - natural
+  - lifestyle
 wikidata_description: US international ice cream parlor chain
 has_twitter: false
 has_guidelines: true

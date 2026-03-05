@@ -2,7 +2,7 @@
 title: Torlago
 slug: torlago
 description: ""
-date: "2026-03-05T15:56:45.818137"
+date: "2026-03-05T22:38:39.324671"
 draft: false
 sectors:
   - consulting
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - abstract
+  - signature
 brand_colors:
   - grey
-  - black
   - silver
+  - black
 typographies:
   - "open-sans"
   - manrope
 imagery_styles:
   - abstract
-  - bold
   - photography
+  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

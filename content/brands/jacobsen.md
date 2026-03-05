@@ -2,7 +2,7 @@
 title: Jacobsen
 slug: jacobsen
 description: ""
-date: "2026-03-05T15:56:46.061539"
+date: "2026-03-05T22:38:39.659815"
 draft: false
 sectors:
   - drink
@@ -38,28 +38,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - signature
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - brown
-  - "pantone-185"
-  - green
-  - red
-  - yellow
-  - black
   - white
-  - blue
+  - red
+  - "pantone-185"
   - "pantone-9064"
+  - black
+  - yellow
+  - blue
+  - brown
+  - green
 typographies:
   - display
 imagery_styles:
   - bold
-  - contemporary
-  - product
   - vintage
+  - product
+  - contemporary
 wikidata_description: beer brand
 has_twitter: false
 has_guidelines: true

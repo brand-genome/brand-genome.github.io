@@ -2,11 +2,11 @@
 title: Trapeze Group
 slug: "trapeze-group"
 description: ""
-date: "2026-03-05T15:56:46.141868"
+date: "2026-03-05T22:38:39.783939"
 draft: false
 sectors:
-  - "public-transportation"
   - software
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -41,12 +41,12 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - "pantone-1955"
-  - "pantone-432"
-  - gray
-  - black
   - white
   - red
+  - "pantone-432"
+  - black
+  - gray
+  - "pantone-1955"
 typographies: []
 imagery_styles: []
 wikidata_description: ""

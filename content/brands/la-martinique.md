@@ -2,7 +2,7 @@
 title: La Martinique
 slug: "la-martinique"
 description: ""
-date: "2026-03-05T15:56:45.873652"
+date: "2026-03-05T22:38:39.385138"
 draft: false
 sectors:
   - "public-sector"
@@ -41,23 +41,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - signature
   - alternate
+  - signature
 brand_colors:
-  - "pantone-137"
-  - yellow
-  - gray
-  - orange
-  - blue
-  - black
-  - turquoise
   - white
-  - red
   - violet
+  - red
+  - orange
+  - black
+  - yellow
+  - blue
+  - turquoise
+  - gray
+  - "pantone-137"
 typographies: []
 imagery_styles:
-  - gradient
   - flat
+  - gradient
 wikidata_description: 1940s nightclub in Manhattan
 has_twitter: false
 has_guidelines: true

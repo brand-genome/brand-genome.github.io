@@ -2,7 +2,7 @@
 title: Jaguar
 slug: jaguar
 description: ""
-date: "2026-03-05T15:56:45.994328"
+date: "2026-03-05T22:38:39.569860"
 draft: false
 sectors:
   - automobile
@@ -40,19 +40,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
-  - silver
   - red
+  - silver
+  - black
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: former British car company
 has_twitter: false
 has_guidelines: true

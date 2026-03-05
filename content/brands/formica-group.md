@@ -2,11 +2,11 @@
 title: Formica Group
 slug: "formica-group"
 description: ""
-date: "2026-03-05T15:56:45.768944"
+date: "2026-03-05T22:38:39.266650"
 draft: false
 sectors:
-  - "real-estate"
   - construction
+  - "real-estate"
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
   - white
-  - black
+  - red
   - orange
+  - black
 typographies:
   - bodoni
   - impact
   - helvetica
 imagery_styles:
-  - minimal
   - photography
+  - minimal
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

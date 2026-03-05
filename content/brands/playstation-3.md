@@ -2,11 +2,11 @@
 title: PlayStation 3
 slug: "playstation-3"
 description: ""
-date: "2026-03-05T15:56:46.033053"
+date: "2026-03-05T22:38:39.601510"
 draft: false
 sectors:
-  - electronics
   - gaming
+  - electronics
 regions:
   - japan
 years:
@@ -41,16 +41,16 @@ logo_elements:
   - signature
   - vertical
 brand_colors:
-  - grey
-  - red
   - "pantone-187"
+  - red
+  - grey
 typographies:
   - arial
 imagery_styles:
+  - bold
   - landscape
   - gradient
   - product
-  - bold
 wikidata_description: Wikimedia category
 has_twitter: false
 has_guidelines: true

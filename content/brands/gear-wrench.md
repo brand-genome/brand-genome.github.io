@@ -2,7 +2,7 @@
 title: Gear Wrench
 slug: "gear-wrench"
 description: ""
-date: "2026-03-05T15:56:45.762988"
+date: "2026-03-05T22:38:39.259716"
 draft: false
 sectors:
   - hardware
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

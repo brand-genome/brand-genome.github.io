@@ -2,7 +2,7 @@
 title: Do Space
 slug: "do-space"
 description: ""
-date: "2026-03-05T15:56:46.102719"
+date: "2026-03-05T22:38:39.728582"
 draft: false
 sectors:
   - education
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - stacked
   - primary
+  - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold

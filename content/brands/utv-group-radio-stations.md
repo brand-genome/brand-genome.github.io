@@ -2,7 +2,7 @@
 title: UTV Group Radio Stations
 slug: "utv-group-radio-stations"
 description: ""
-date: "2026-03-05T15:56:45.663912"
+date: "2026-03-05T22:38:39.131593"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries: []
 revenue_buckets: []

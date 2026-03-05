@@ -2,7 +2,7 @@
 title: PSIA / AASI
 slug: "psia-aasi"
 description: ""
-date: "2026-03-05T15:56:45.953399"
+date: "2026-03-05T22:38:39.520112"
 draft: false
 sectors:
   - education
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - alternate
+  - secondary
   - horizontal
 brand_colors:
-  - green
-  - yellow
-  - beige
-  - blue
-  - black
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - beige
+  - green
 typographies: []
 imagery_styles:
   - bold

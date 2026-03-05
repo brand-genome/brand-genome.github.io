@@ -2,12 +2,12 @@
 title: BAE Systems
 slug: "bae-systems"
 description: ""
-date: "2026-03-05T15:56:45.730788"
+date: "2026-03-05T22:38:39.223267"
 draft: false
 sectors:
-  - aerospace
   - cybersecurity
   - defense
+  - aerospace
 regions:
   - "united-kingdom"
 years:

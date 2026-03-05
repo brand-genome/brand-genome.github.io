@@ -2,7 +2,7 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-03-05T15:56:46.101593"
+date: "2026-03-05T22:38:39.724299"
 draft: false
 sectors:
   - "public-transportation"
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "airport-authority"
   - "air-navigation-service-provider"
+  - "airport-authority"
 countries:
   - norway
 revenue_buckets: []
@@ -41,9 +41,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
   - black
 typographies:

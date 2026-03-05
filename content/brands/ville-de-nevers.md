@@ -2,7 +2,7 @@
 title: Ville de Nevers
 slug: "ville-de-nevers"
 description: ""
-date: "2026-03-05T15:56:45.850455"
+date: "2026-03-05T22:38:39.363442"
 draft: false
 sectors:
   - "public-sector"
@@ -40,11 +40,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - blue
   - white
+  - blue
 typographies: []
 imagery_styles:
   - minimal

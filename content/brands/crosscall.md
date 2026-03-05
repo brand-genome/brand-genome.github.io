@@ -2,11 +2,11 @@
 title: Crosscall
 slug: crosscall
 description: ""
-date: "2026-03-05T15:56:45.779318"
+date: "2026-03-05T22:38:39.277782"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - france
 years:

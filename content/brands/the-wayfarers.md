@@ -2,11 +2,11 @@
 title: The Wayfarers
 slug: "the-wayfarers"
 description: ""
-date: "2026-03-05T15:56:45.711215"
+date: "2026-03-05T22:38:39.200481"
 draft: false
 sectors:
-  - tourism
   - software
+  - tourism
 regions:
   - india
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - tourism
   - app
+  - tourism
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: Jacksonville State University
 slug: "jacksonville-state-university"
 description: ""
-date: "2026-03-05T15:56:46.032107"
+date: "2026-03-05T22:38:39.600623"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - signature
   - seal
+  - signature
+  - crest
 brand_colors: []
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "public university in Jacksonville, Alabama, United States"
 has_twitter: false
 has_guidelines: true

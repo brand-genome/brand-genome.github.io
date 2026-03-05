@@ -2,11 +2,11 @@
 title: Tottenham Hotspur
 slug: "tottenham-hotspur"
 description: ""
-date: "2026-03-05T15:56:45.940222"
+date: "2026-03-05T22:38:39.509901"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - badge
   - horizontal
+  - secondary
 brand_colors:
-  - silver
-  - "pantone-298"
-  - black
   - white
-  - "pantone-877"
-  - blue
   - "pantone-2768"
+  - black
+  - blue
+  - "pantone-298"
+  - silver
+  - "pantone-877"
 typographies:
   - arial
 imagery_styles: []

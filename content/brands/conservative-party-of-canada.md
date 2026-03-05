@@ -2,7 +2,7 @@
 title: Conservative Party of Canada
 slug: "conservative-party-of-canada"
 description: ""
-date: "2026-03-05T15:56:45.966161"
+date: "2026-03-05T22:38:39.531826"
 draft: false
 sectors:
   - "public-sector"
@@ -37,23 +37,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
+  - primary
   - secondary
   - stacked
-  - primary
-  - horizontal
 brand_colors:
-  - "pantone-185"
-  - "pantone-295"
-  - "pantone-4625"
-  - "pantone-375"
-  - black
-  - "pantone-2995"
-  - blue
   - "pantone-357"
+  - "pantone-295"
+  - "pantone-2995"
+  - "pantone-185"
   - "pantone-2627"
+  - "pantone-4625"
+  - black
+  - blue
+  - "pantone-375"
 typographies:
-  - montserrat
   - lato
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: ""

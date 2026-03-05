@@ -2,11 +2,11 @@
 title: BBC Sounds
 slug: "bbc-sounds"
 description: ""
-date: "2026-03-05T15:56:45.811115"
+date: "2026-03-05T22:38:39.317019"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - broadcast
+  - music
 industries: []
 countries: []
 revenue_buckets: []

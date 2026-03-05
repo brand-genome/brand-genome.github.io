@@ -2,7 +2,7 @@
 title: Williamson Central School
 slug: "williamson-central-school"
 description: ""
-date: "2026-03-05T15:56:45.736417"
+date: "2026-03-05T22:38:39.228522"
 draft: false
 sectors:
   - education

@@ -2,7 +2,7 @@
 title: Blue Nun
 slug: "blue-nun"
 description: ""
-date: "2026-03-05T15:56:46.083883"
+date: "2026-03-05T22:38:39.704479"
 draft: false
 sectors:
   - drink
@@ -43,12 +43,12 @@ brand_colors:
   - blue
   - gold
 typographies:
-  - frutiger
   - times
+  - frutiger
   - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: German wine brand
 has_twitter: false
 has_guidelines: true

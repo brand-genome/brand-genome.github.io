@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-03-05T15:56:45.816639"
+date: "2026-03-05T22:38:39.322915"
 draft: false
 sectors:
   - ngo
@@ -44,8 +44,8 @@ brand_colors:
   - black
   - yellow
 typographies:
-  - frutiger
   - impact
+  - frutiger
 imagery_styles: []
 wikidata_description: "non-governmental organization based in the United Kingdom"
 has_twitter: false

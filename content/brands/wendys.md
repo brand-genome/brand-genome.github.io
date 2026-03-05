@@ -2,7 +2,7 @@
 title: Wendy’s
 slug: wendys
 description: ""
-date: "2026-03-05T15:56:45.699049"
+date: "2026-03-05T22:38:39.190677"
 draft: false
 sectors:
   - food

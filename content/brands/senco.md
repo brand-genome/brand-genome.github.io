@@ -2,7 +2,7 @@
 title: Senco
 slug: senco
 description: ""
-date: "2026-03-05T15:56:46.027334"
+date: "2026-03-05T22:38:39.594821"
 draft: false
 sectors:
   - hardware
@@ -40,15 +40,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-186"
   - red
+  - "pantone-186"
 typographies:
   - script
 imagery_styles:
-  - staged
   - bold
-  - professional
   - photography
+  - professional
+  - staged
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

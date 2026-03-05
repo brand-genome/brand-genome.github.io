@@ -2,11 +2,11 @@
 title: Teos Cafe
 slug: "teos-cafe"
 description: ""
-date: "2026-03-05T15:56:45.793643"
+date: "2026-03-05T22:38:39.296787"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - romania
 years:
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - lockup
   - horizontal
   - wordmark
-  - logomark
   - stacked
-  - primary
+  - logomark
   - vertical
 brand_colors:
-  - orange
-  - grey
-  - blue
   - white
-  - red
   - violet
+  - red
+  - grey
+  - orange
+  - blue
 typographies:
   - poppins
 imagery_styles: []

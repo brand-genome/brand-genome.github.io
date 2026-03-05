@@ -2,7 +2,7 @@
 title: Erskine College Flying Fleet Athletics
 slug: "erskine-college-flying-fleet-athletics"
 description: ""
-date: "2026-03-05T15:56:45.697239"
+date: "2026-03-05T22:38:39.189030"
 draft: false
 sectors:
   - education

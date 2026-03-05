@@ -2,7 +2,7 @@
 title: Litecoin
 slug: litecoin
 description: ""
-date: "2026-03-05T15:56:46.037904"
+date: "2026-03-05T22:38:39.606653"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
+  - primary
   - secondary
   - stacked
-  - primary
-  - icon
 brand_colors:
-  - blue
   - white
+  - blue
   - silver
   - gray
 typographies: []

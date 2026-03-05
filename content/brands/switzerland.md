@@ -2,7 +2,7 @@
 title: Switzerland
 slug: switzerland
 description: ""
-date: "2026-03-05T15:56:45.956143"
+date: "2026-03-05T22:38:39.521643"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - switzerland
@@ -39,11 +39,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
-  - red
   - white
+  - red
 typographies:
   - helvetica
 imagery_styles:

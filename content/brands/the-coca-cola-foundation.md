@@ -2,7 +2,7 @@
 title: The Coca Cola Foundation
 slug: "the-coca-cola-foundation"
 description: ""
-date: "2026-03-05T15:56:45.728862"
+date: "2026-03-05T22:38:39.220100"
 draft: false
 sectors:
   - ngo

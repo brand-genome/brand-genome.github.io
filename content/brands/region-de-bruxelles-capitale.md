@@ -2,7 +2,7 @@
 title: Région de Bruxelles – Capitale
 slug: "region-de-bruxelles-capitale"
 description: ""
-date: "2026-03-05T15:56:45.848274"
+date: "2026-03-05T22:38:39.360767"
 draft: false
 sectors:
   - "public-sector"

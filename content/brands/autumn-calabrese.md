@@ -2,11 +2,11 @@
 title: Autumn Calabrese
 slug: "autumn-calabrese"
 description: ""
-date: "2026-03-05T15:56:45.999430"
+date: "2026-03-05T22:38:39.572888"
 draft: false
 sectors:
-  - fitness
   - "wellness-spa"
+  - fitness
 regions:
   - usa
 years:
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - signature
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - "pantone-2665"
-  - "pantone-427"
-  - "pantone-3262"
+  - "pantone-3945"
   - black
   - "pantone-429"
-  - "pantone-3945"
+  - "pantone-427"
+  - "pantone-2665"
+  - "pantone-3262"
 typographies:
   - avenir
   - "proxima-nova"

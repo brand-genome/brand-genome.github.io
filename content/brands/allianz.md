@@ -2,7 +2,7 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-03-05T15:56:46.151652"
+date: "2026-03-05T22:38:39.791521"
 draft: false
 sectors:
   - insurance
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
   - insurance
-  - "insurance-industry"
   - "financial-services"
+  - "insurance-industry"
 countries:
   - germany
 revenue_buckets:
@@ -46,16 +46,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
-  - "pantone-287"
-  - gray
   - red
+  - gray
+  - "pantone-287"
 typographies:
-  - din
   - serif
+  - din
 imagery_styles:
   - bold
   - product

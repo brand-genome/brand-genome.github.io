@@ -2,11 +2,11 @@
 title: ECU Athletics
 slug: "ecu-athletics"
 description: ""
-date: "2026-03-05T15:56:45.837315"
+date: "2026-03-05T22:38:39.346527"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - gold
-  - purple
   - "pantone-268"
   - "pantone-1235"
+  - gold
+  - purple
 typographies: []
 imagery_styles: []
 wikidata_description: ""

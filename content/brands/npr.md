@@ -2,7 +2,7 @@
 title: NPR
 slug: npr
 description: ""
-date: "2026-03-05T15:56:46.094142"
+date: "2026-03-05T22:38:39.715405"
 draft: false
 sectors:
   - broadcasting
@@ -40,11 +40,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles:

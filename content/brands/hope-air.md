@@ -2,7 +2,7 @@
 title: Hope Air
 slug: "hope-air"
 description: ""
-date: "2026-03-05T15:56:46.167862"
+date: "2026-03-05T22:38:39.809922"
 draft: false
 sectors:
   - ngo
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - ngo
   - airline
+  - ngo
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
   - blue

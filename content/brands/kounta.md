@@ -2,7 +2,7 @@
 title: Kounta
 slug: kounta
 description: ""
-date: "2026-03-05T15:56:46.071672"
+date: "2026-03-05T22:38:39.683286"
 draft: false
 sectors:
   - software
@@ -39,20 +39,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - beige
   - white
+  - grey
   - orange
+  - beige
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
+  - bold
   - photography
   - product
-  - bold
   - natural
 wikidata_description: Australian software company
 has_twitter: false

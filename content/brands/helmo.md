@@ -2,7 +2,7 @@
 title: HELMo
 slug: helmo
 description: ""
-date: "2026-03-05T15:56:45.915675"
+date: "2026-03-05T22:38:39.480493"
 draft: false
 sectors:
   - education
@@ -45,9 +45,9 @@ typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - monochrome
-  - colorful
   - bold
+  - colorful
+  - monochrome
 wikidata_description: association football club
 has_twitter: false
 has_guidelines: true

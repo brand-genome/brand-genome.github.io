@@ -2,7 +2,7 @@
 title: Volkswagen Internet Marketing
 slug: "volkswagen-internet-marketing"
 description: ""
-date: "2026-03-05T15:56:45.939175"
+date: "2026-03-05T22:38:39.509182"
 draft: false
 sectors:
   - automobile
@@ -39,8 +39,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles: []

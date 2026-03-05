@@ -2,7 +2,7 @@
 title: Ooredoo
 slug: ooredoo
 description: ""
-date: "2026-03-05T15:56:45.835121"
+date: "2026-03-05T22:38:39.340637"
 draft: false
 sectors:
   - finance
@@ -16,8 +16,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - tunisia
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: The Economist Group
 slug: "the-economist-group"
 description: ""
-date: "2026-03-05T15:56:45.836655"
+date: "2026-03-05T22:38:39.343893"
 draft: false
 sectors:
   - publishing
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - yellow
-  - grey
-  - black
-  - blue
   - white
   - red
+  - grey
+  - black
+  - yellow
+  - blue
 typographies:
   - georgia
   - serif
-  - helvetica
   - "sans-serif"
+  - helvetica
 imagery_styles:
   - bold
   - contemporary

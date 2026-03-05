@@ -2,11 +2,11 @@
 title: SoundThinking
 slug: soundthinking
 description: ""
-date: "2026-03-05T15:56:45.671260"
+date: "2026-03-05T22:38:39.153997"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

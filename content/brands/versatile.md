@@ -2,7 +2,7 @@
 title: Versatile
 slug: versatile
 description: ""
-date: "2026-03-05T15:56:45.863824"
+date: "2026-03-05T22:38:39.378537"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -38,14 +38,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
-  - yellow
   - white
   - red
+  - black
+  - yellow
 typographies: []
 imagery_styles:
   - product

@@ -2,7 +2,7 @@
 title: Felix Zawojski
 slug: "felix-zawojski"
 description: ""
-date: "2026-03-05T15:56:45.976575"
+date: "2026-03-05T22:38:39.551499"
 draft: false
 sectors:
   - hospitality

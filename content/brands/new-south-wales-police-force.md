@@ -2,7 +2,7 @@
 title: New South Wales Police Force
 slug: "new-south-wales-police-force"
 description: ""
-date: "2026-03-05T15:56:45.916736"
+date: "2026-03-05T22:38:39.482516"
 draft: false
 sectors:
   - "public-sector"
@@ -38,25 +38,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - signature
   - badge
+  - signature
+  - crest
 brand_colors:
-  - brown
-  - green
-  - gold
-  - silver
-  - blue
-  - black
   - white
   - red
+  - gold
+  - black
+  - blue
+  - silver
+  - brown
+  - green
 typographies:
   - serif
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

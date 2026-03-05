@@ -2,7 +2,7 @@
 title: Conmebol
 slug: conmebol
 description: ""
-date: "2026-03-05T15:56:45.961480"
+date: "2026-03-05T22:38:39.528829"
 draft: false
 sectors:
   - sports
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - "pantone-2935"
-  - blue
-  - black
   - white
+  - blue
+  - "pantone-2935"
+  - black
 typographies:
-  - arial
   - ubuntu
+  - arial
   - "sans-serif"
 imagery_styles:
-  - modern
-  - portrait
-  - gradient
+  - bold
   - landscape
   - flat
-  - bold
+  - gradient
+  - modern
+  - portrait
 wikidata_description: governing body of association football in South America
 has_twitter: false
 has_guidelines: true

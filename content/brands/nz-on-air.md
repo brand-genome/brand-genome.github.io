@@ -2,11 +2,11 @@
 title: NZ on Air
 slug: "nz-on-air"
 description: ""
-date: "2026-03-05T15:56:45.735235"
+date: "2026-03-05T22:38:39.227893"
 draft: false
 sectors:
-  - "public-sector"
   - broadcasting
+  - "public-sector"
 regions:
   - "new-zealand"
 years:

@@ -2,13 +2,13 @@
 title: Harley Davidson
 slug: "harley-davidson"
 description: ""
-date: "2026-03-05T15:56:45.853591"
+date: "2026-03-05T22:38:39.367382"
 draft: false
 sectors:
+  - "consumer-goods"
   - insurance
   - automobile
   - finance
-  - "consumer-goods"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -45,17 +45,17 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-130"
+  - "pantone-165"
+  - orange
+  - yellow
+  - "pantone-464"
   - "pantone-159"
   - brown
-  - yellow
-  - orange
-  - "pantone-165"
-  - "pantone-464"
+  - "pantone-130"
 typographies:
-  - optima
   - bodoni
   - script
+  - optima
   - helvetica
   - display
 imagery_styles:

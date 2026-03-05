@@ -2,7 +2,7 @@
 title: Indigo
 slug: indigo
 description: ""
-date: "2026-03-05T15:56:46.195456"
+date: "2026-03-05T22:38:39.899091"
 draft: false
 sectors:
   - airline
@@ -20,254 +20,254 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
-  - "galaxy-colors"
-  - "aquatic-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - award
+  - selfie
+  - commercial
+  - professional
+  - announcement
+  - colorful
+  - beach
+  - conceptual
+  - baby
+  - aerial
+  - landscape
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
+  - text
+  - illustration
+  - abstract
+  - interior
+  - "digital-art"
+  - street
+  - advertising
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - announcement
-  - selfie
-  - interior
-  - industrial
-  - commercial
-  - certificate
-  - typography
-  - branding
-  - candid
-  - baby
-  - cityscape
-  - motivational
-  - aerial
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - colorful
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - conceptual
-  - family
-  - text
-  - "digital-art"
-  - travel
-  - portrait
-  - advertisement
-  - award
-  - product
-  - nature
-  - "text-heavy"
-  - architectural
-  - beach
   - documentary
-  - professional
-  - abstract
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - vaccination
-  - "award-recognition"
-  - photorealism
-  - illustration
-  - vintage
+  - logo
+  - fashion
+  - sky
   - advertisement
-  - promotional
-  - informative
-  - informational
-  - "graphic-design"
-  - typography
-  - cartoon
+  - event
+  - cityscape
   - "text-heavy"
-  - vibrant
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - historical
   - branding
+  - certificate
+  - "still-life"
+  - travel
+  - motivational
+concepts:
+  - informative
+  - "award-recognition"
+  - vibrant
+  - advertisement
+  - branding
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - vaccination
+  - vintage
+  - informational
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "light-on-subject"
-  - "saturated-colors"
   - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
+  - "neutral-density-filter"
   - "low-saturation"
-  - "short-exposure"
+  - "saturated-colors"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "vanishing-point"
+  - "short-exposure"
+  - "light-on-subject"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
-  - "light-blue"
   - olive
+  - "dark-blue"
+  - black
+  - cyan
+  - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
-  - covered
   - casual
-  - varied
-  - traditional
   - flowing
-  - short
-  - updo
-  - "tied-back"
-  - straight
+  - "pulled-back"
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - traditional
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - uniform
-  - formal
-  - casual
-  - traditional
-  - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - workwear
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - business
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - uniform
-  - earthy
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - beachwear
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - workwear
   - traditional
-  - muted
-  - "high-visibility"
-  - colorful
   - "business-casual"
+  - comfortable
+  - uniform
+clothing_colors:
+  - uniform
   - safety
   - vibrant
+  - pastel
+  - business
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - protective
+  - traditional
+  - "high-visibility"
+  - muted
+  - "business-casual"
 posings:
-  - standing
-  - active
-  - engaged
-  - holding
-  - walking
-  - group
-  - confident
   - seated
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - contemplative
-  - running
-  - organized
-  - reclined
-  - static
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - confident
+  - holding
+  - active
+  - organized
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - static
+  - group
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
+  - "full-body"
   - "close-up"
   - group
-  - midsection
-  - "head-shot"
-  - "full-body"
-  - "full-back"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: CCI France
 slug: "cci-france"
 description: ""
-date: "2026-03-05T15:56:46.180823"
+date: "2026-03-05T22:38:39.823952"
 draft: false
 sectors:
   - "public-sector"

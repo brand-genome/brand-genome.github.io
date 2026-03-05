@@ -2,7 +2,7 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-03-05T15:56:46.008270"
+date: "2026-03-05T22:38:39.581287"
 draft: false
 sectors:
   - ngo
@@ -39,26 +39,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - gold
-  - gray
   - orange
   - black
-  - turquoise
-  - white
   - blue
+  - turquoise
+  - gray
+  - green
 typographies:
-  - "source-sans"
   - roboto
+  - "source-sans"
 imagery_styles:
-  - professional
   - photography
-  - geometric
   - vibrant
   - graphic
+  - professional
+  - geometric
 wikidata_description: "non-profit-organization creating copyright licenses for the public release of creative works"
 has_twitter: false
 has_guidelines: true

@@ -2,12 +2,12 @@
 title: Flipboard
 slug: flipboard
 description: ""
-date: "2026-03-05T15:56:46.102372"
+date: "2026-03-05T22:38:39.726814"
 draft: false
 sectors:
-  - publishing
   - software
   - "social-media"
+  - publishing
 regions:
   - usa
 years:
@@ -39,27 +39,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - "app-icon"
   - lockup
   - horizontal
   - logomark
-  - "app-icon"
-  - primary
   - vertical
 brand_colors:
+  - white
   - "pantone-691"
   - red
-  - "pantone-2035"
   - grey
-  - black
-  - white
-  - "pantone-692"
   - "pantone-433"
+  - black
+  - "pantone-2035"
+  - "pantone-692"
 typographies: []
 imagery_styles:
-  - graphic
-  - subtle
   - illustration
   - classic
+  - subtle
+  - graphic
 wikidata_description: software application developed by Flipboard Inc.
 has_twitter: false
 has_guidelines: true

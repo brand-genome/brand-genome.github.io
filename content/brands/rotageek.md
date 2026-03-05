@@ -2,7 +2,7 @@
 title: Rotageek
 slug: rotageek
 description: ""
-date: "2026-03-05T15:56:46.039207"
+date: "2026-03-05T22:38:39.608417"
 draft: false
 sectors:
   - software
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - indigo
-  - gray
-  - blue
-  - black
   - white
   - red
+  - black
+  - indigo
+  - blue
+  - gray
 typographies:
   - brandon
 imagery_styles:
+  - photography
   - natural
   - playful
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

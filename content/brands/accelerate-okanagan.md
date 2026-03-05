@@ -2,11 +2,11 @@
 title: Accelerate Okanagan
 slug: "accelerate-okanagan"
 description: ""
-date: "2026-03-05T15:56:45.965714"
+date: "2026-03-05T22:38:39.531600"
 draft: false
 sectors:
-  - consulting
   - ngo
+  - consulting
 regions:
   - canada
 years:
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
+  - primary
   - secondary
   - stacked
-  - primary
-  - horizontal
 brand_colors: []
 typographies:
   - roboto
   - playfair
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: ""
 has_twitter: false

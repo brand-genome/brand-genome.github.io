@@ -2,7 +2,7 @@
 title: Yamaha Motor Academy
 slug: "yamaha-motor-academy"
 description: ""
-date: "2026-03-05T15:56:45.799158"
+date: "2026-03-05T22:38:39.303256"
 draft: false
 sectors:
   - education
@@ -40,12 +40,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies:
-  - verdana
   - ubuntu
+  - verdana
 imagery_styles:
   - bold
 wikidata_description: ""

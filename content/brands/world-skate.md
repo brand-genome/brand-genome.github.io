@@ -2,7 +2,7 @@
 title: World Skate
 slug: "world-skate"
 description: ""
-date: "2026-03-05T15:56:46.084431"
+date: "2026-03-05T22:38:39.705099"
 draft: false
 sectors:
   - sports
@@ -37,24 +37,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - vertical
   - symbol
+  - vertical
+  - horizontal
 brand_colors:
-  - grey
-  - black
   - white
+  - grey
   - green
+  - black
 typographies:
   - impact
 imagery_styles:
-  - modern
-  - classic
-  - dynamic
-  - clean
   - bold
   - graphic
+  - dynamic
+  - classic
+  - modern
+  - clean
 wikidata_description: international governing body for all roller sports
 has_twitter: false
 has_guidelines: true

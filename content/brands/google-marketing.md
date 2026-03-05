@@ -2,11 +2,11 @@
 title: Google Marketing
 slug: "google-marketing"
 description: ""
-date: "2026-03-05T15:56:46.133153"
+date: "2026-03-05T22:38:39.773753"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -42,13 +42,13 @@ logo_elements:
   - primary
 brand_colors:
   - blue
-  - yellow
   - red
+  - yellow
 typographies: []
 imagery_styles:
-  - clean
-  - product
   - professional
+  - product
+  - clean
 wikidata_description: advertising and analytics platform from Google
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-03-05T15:56:45.891598"
+date: "2026-03-05T22:38:39.411323"
 draft: false
 sectors:
   - insurance
@@ -42,25 +42,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies:
+  - roboto
   - arial
   - display
-  - roboto
 imagery_styles:
+  - bold
   - photography
   - staged
-  - abstract
   - illustration
-  - natural
+  - abstract
   - candid
-  - bold
+  - natural
 wikidata_description: British multinational financial services company
 has_twitter: false
 has_guidelines: true

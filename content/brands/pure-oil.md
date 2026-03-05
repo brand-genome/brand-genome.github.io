@@ -2,7 +2,7 @@
 title: Pure Oil
 slug: "pure-oil"
 description: ""
-date: "2026-03-05T15:56:45.771327"
+date: "2026-03-05T22:38:39.269020"
 draft: false
 sectors:
   - petroleum

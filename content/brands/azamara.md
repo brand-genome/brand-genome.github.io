@@ -2,12 +2,12 @@
 title: Azamara
 slug: azamara
 description: ""
-date: "2026-03-05T15:56:45.959042"
+date: "2026-03-05T22:38:39.524030"
 draft: false
 sectors:
-  - tourism
   - hospitality
   - cruise
+  - tourism
 regions:
   - usa
 years:
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - horizontal
   - symbol
+  - horizontal
+  - secondary
 brand_colors:
+  - blue
+  - turquoise
+  - gray
   - green
   - purple
-  - gray
-  - turquoise
-  - blue
 typographies:
-  - serif
   - impact
-  - display
+  - serif
   - "sans-serif"
+  - display
 imagery_styles:
-  - modern
-  - flat
+  - vibrant
   - geometric
   - colorful
-  - vibrant
+  - flat
+  - modern
 wikidata_description: luxury cruise line
 has_twitter: false
 has_guidelines: true

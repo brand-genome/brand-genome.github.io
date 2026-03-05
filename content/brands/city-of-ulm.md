@@ -2,7 +2,7 @@
 title: City of Ulm
 slug: "city-of-ulm"
 description: ""
-date: "2026-03-05T15:56:45.686937"
+date: "2026-03-05T22:38:39.180621"
 draft: false
 sectors:
   - "public-sector"
@@ -39,19 +39,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - "pantone-877"
   - black
-  - white
   - silver
 typographies:
   - frutiger
 imagery_styles:
+  - bold
+  - staged
+  - dynamic
   - professional
   - artificial
-  - staged
   - natural
-  - dynamic
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

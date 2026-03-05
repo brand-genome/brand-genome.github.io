@@ -2,11 +2,11 @@
 title: Arbonne
 slug: arbonne
 description: ""
-date: "2026-03-05T15:56:46.156214"
+date: "2026-03-05T22:38:39.796039"
 draft: false
 sectors:
-  - mlm
   - cosmetics
+  - mlm
   - "wellness-spa"
   - beauty
 regions:
@@ -44,8 +44,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
   - green
+  - gray
 typographies:
   - helvetica
 imagery_styles: []

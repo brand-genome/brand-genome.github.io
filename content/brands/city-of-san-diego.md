@@ -2,7 +2,7 @@
 title: City of San Diego
 slug: "city-of-san-diego"
 description: ""
-date: "2026-03-05T15:56:46.175118"
+date: "2026-03-05T22:38:39.817587"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: Conservation International
 slug: "conservation-international"
 description: ""
-date: "2026-03-05T15:56:46.033409"
+date: "2026-03-05T22:38:39.601842"
 draft: false
 sectors:
   - ngo
@@ -44,10 +44,10 @@ logo_elements:
   - alternate
   - primary
 brand_colors:
-  - blue
   - white
-  - gray
+  - blue
   - green
+  - gray
 typographies:
   - arial
   - helvetica

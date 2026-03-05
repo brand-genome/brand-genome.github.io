@@ -2,7 +2,7 @@
 title: ICLEI
 slug: iclei
 description: ""
-date: "2026-03-05T15:56:45.839956"
+date: "2026-03-05T22:38:39.350565"
 draft: false
 sectors:
   - ngo
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
   - primary
-  - vertical
+  - secondary
+  - horizontal
   - favicon
+  - vertical
 brand_colors:
-  - green
-  - yellow
+  - white
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
   - verdana
   - arial

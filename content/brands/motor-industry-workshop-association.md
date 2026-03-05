@@ -2,7 +2,7 @@
 title: Motor Industry Workshop Association
 slug: "motor-industry-workshop-association"
 description: ""
-date: "2026-03-05T15:56:45.651307"
+date: "2026-03-05T22:38:39.118954"
 draft: false
 sectors:
   - ngo

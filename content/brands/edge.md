@@ -2,11 +2,11 @@
 title: Edge
 slug: edge
 description: ""
-date: "2026-03-05T15:56:46.038695"
+date: "2026-03-05T22:38:39.607902"
 draft: false
 sectors:
-  - "renewable-energy"
   - construction
+  - "renewable-energy"
 regions:
   - "united-kingdom"
 years:

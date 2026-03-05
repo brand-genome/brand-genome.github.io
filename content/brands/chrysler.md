@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-03-05T15:56:45.738761"
+date: "2026-03-05T22:38:39.231397"
 draft: false
 sectors:
   - automobile

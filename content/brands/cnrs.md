@@ -2,11 +2,11 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-03-05T15:56:45.786951"
+date: "2026-03-05T22:38:39.285660"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - france
 years:
@@ -43,10 +43,10 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - "pantone-7458"
-  - black
   - white
   - "pantone-2965"
+  - black
+  - "pantone-7458"
   - blue
   - "pantone-5405"
 typographies:

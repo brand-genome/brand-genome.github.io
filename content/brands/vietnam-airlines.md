@@ -2,7 +2,7 @@
 title: Vietnam Airlines
 slug: "vietnam-airlines"
 description: ""
-date: "2026-03-05T15:56:46.008117"
+date: "2026-03-05T22:38:39.581130"
 draft: false
 sectors:
   - airline
@@ -44,8 +44,8 @@ brand_colors:
   - gold
 typographies: []
 imagery_styles:
-  - vibrant
   - modern
+  - vibrant
 wikidata_description: "flag-carrier airline of Vietnam"
 has_twitter: false
 has_guidelines: true

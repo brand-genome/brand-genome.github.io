@@ -2,7 +2,7 @@
 title: Studio ChaGal
 slug: "studio-chagal"
 description: ""
-date: "2026-03-05T15:56:46.123285"
+date: "2026-03-05T22:38:39.762531"
 draft: false
 sectors:
   - construction

@@ -2,19 +2,19 @@
 title: Memorial Sloan Kettering Cancer Center
 slug: "memorial-sloan-kettering-cancer-center"
 description: ""
-date: "2026-03-05T15:56:46.225972"
+date: "2026-03-05T22:38:39.974244"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - unknown
 years: []
 languages: []
 tags: []
 industries:
-  - "hospitals-and-rehabilitation"
   - research
+  - "hospitals-and-rehabilitation"
 countries:
   - "united-states"
 revenue_buckets:
@@ -24,247 +24,247 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - candid
-  - botanical
-  - outdoor
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - business
-  - event
-  - family
-  - "pet-photography"
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
+  - professional
   - informational
-  - art
+  - landscape
+  - botanical
+  - promotional
+  - outdoor
   - product
-  - "text-heavy"
-  - headshot
-  - architectural
-  - professional
-  - documentary
+  - art
+  - text
+  - lifestyle
+  - interior
   - abstract
+  - street
+  - architectural
   - action
-  - pet
-concepts:
-  - business
+  - "live-stage"
+  - candid
+  - group
   - headshot
-  - "incomplete-art"
-  - professional
-  - "wave-pattern"
-  - formal
-  - photorealism
-  - illustration
-  - vintage
-  - "medical-professional"
-  - "graphic-design"
-  - cartoon
+  - documentary
+  - advertisement
+  - sky
+  - fashion
+  - event
   - "text-heavy"
-  - "professional-portrait"
-  - typography
+  - "pet-photography"
+  - family
+  - "graphic-design"
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - business
+  - historical
+  - "still-life"
+concepts:
+  - headshot
   - "professional-attire"
+  - business
+  - "professional-portrait"
+  - professional
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - formal
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "medical-professional"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "saturated-colors"
+  - "artificial-shadow"
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - "saturated-colors"
-  - silhouette
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
   - "sharp-focus"
+  - "long-exposure"
   - "short-exposure"
-  - "artificial-shadow"
 dominant_colors:
-  - cream
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
+  - orange
+  - cream
+  - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - graying
-  - bald
-  - straight
-  - long
   - casual
-  - gray
   - white
+  - flowing
+  - wavy
+  - loose
+  - gray
   - updo
-  - "not-visible"
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - braided
+  - short
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - bald
+  - neat
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - happy
+  - engaged
+  - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - happy
 clothing_styles:
-  - business
-  - pastel
-  - swimwear
-  - professional
-  - active
-  - uniform
-  - formal
-  - dress
   - casual
-  - traditional
   - muted
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - professional
+  - active
+  - costume
+  - dress
   - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - business
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
   - pastel
+  - uniform
+clothing_colors:
+  - white
+  - vibrant
+  - pastel
+  - business
   - neutral
-  - beige
+  - monochrome
   - yellow
   - earthy
+  - colorful
+  - beige
   - bright
   - rainbow
   - muted
-  - colorful
-  - white
-  - vibrant
   - subdued
 posings:
-  - posed
-  - group
-  - seated
-  - content
-  - confident
-  - relaxed
-  - close
   - engaged
+  - reclined
+  - relaxed
+  - static
+  - seated
   - leaning
-  - dynamic
+  - "side-by-side"
   - holding
   - active
-  - "side-by-side"
-  - stretching
-  - static
-  - running
+  - group
   - walking
+  - dynamic
+  - content
+  - close
+  - stretching
+  - posed
   - standing
-  - reclined
+  - running
+  - confident
 gazes:
-  - sideways
+  - "looking-at-camera"
   - engaged
-  - upward
   - away
   - downward
-  - "at-camera"
-  - content
-  - "looking-at-camera"
-  - forward
   - outward
+  - content
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - "from-waist-up"
+  - midsection
   - "lower-half"
+  - "full-back"
   - engaged
   - "upper-body"
-  - "close-up"
-  - "from-waist-up"
-  - group
-  - content
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - content
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

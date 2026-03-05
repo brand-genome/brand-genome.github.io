@@ -2,7 +2,7 @@
 title: Reebok
 slug: reebok
 description: ""
-date: "2026-03-05T15:56:46.213836"
+date: "2026-03-05T22:38:39.949662"
 draft: false
 sectors:
   - fashion
@@ -14,8 +14,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "textile-industry"
   - "sports-industry"
+  - "textile-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -24,214 +24,214 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "studio-shot"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
+  - light
   - vintage
-  - bright
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - selfie
+  - landscape
+  - food
+  - product
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - athletics
+  - fitness
+  - candid
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - candid
-  - staged
-  - beauty
-  - food
-  - instructional
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - "food-photography"
-  - text
-  - portrait
+  - fashion
   - advertisement
-  - lifestyle
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - athletics
   - athletic
-  - architectural
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - "graphic-design"
-  - action
   - "text-heavy"
-  - typography
   - cartoon
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - instructional
+  - "still-life"
+concepts:
+  - cartoon
+  - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - action
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
+  - white
   - "off-white"
-  - gray
+  - olive
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
   - bald
-  - short
-  - updo
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - determined
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - active
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - dynamic
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
-  - engaged
-  - upward
-  - holding
-  - walking
-  - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - contemplative
-  - running
-  - reclined
-gazes:
-  - sideways
-  - engaged
-  - upward
-  - away
+  - content
+  - determined
   - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - active
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - dynamic
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - upward
+  - stretching
+  - contemplative
+  - confident
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Charity Water
 slug: "charity-water"
 description: ""
-date: "2026-03-05T15:56:46.170497"
+date: "2026-03-05T22:38:39.812354"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - ngo
+  - charity
 industries: []
 countries: []
 revenue_buckets: []

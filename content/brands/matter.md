@@ -2,11 +2,11 @@
 title: Matter
 slug: matter
 description: ""
-date: "2026-03-05T15:56:45.790048"
+date: "2026-03-05T22:38:39.291972"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -38,10 +38,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - wordmark
   - vertical
 brand_colors:
   - black
@@ -50,8 +50,8 @@ typographies:
   - "sans-serif"
 imagery_styles:
   - gradient
-  - geometric
   - product
+  - geometric
 wikidata_description: open source messaging software
 has_twitter: false
 has_guidelines: true

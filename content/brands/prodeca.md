@@ -2,7 +2,7 @@
 title: Prodeca
 slug: prodeca
 description: ""
-date: "2026-03-05T15:56:45.678233"
+date: "2026-03-05T22:38:39.172047"
 draft: false
 sectors:
   - food
@@ -44,11 +44,11 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
+  - red
   - grey
   - black
   - "pantone-485"
-  - white
-  - red
 typographies:
   - arial
   - helvetica

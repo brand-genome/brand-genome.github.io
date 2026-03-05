@@ -2,7 +2,7 @@
 title: Dayton Area Chamber of Commerce
 slug: "dayton-area-chamber-of-commerce"
 description: ""
-date: "2026-03-05T15:56:46.163221"
+date: "2026-03-05T22:38:39.804326"
 draft: false
 sectors:
   - ngo
@@ -37,12 +37,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - univers
 imagery_styles:

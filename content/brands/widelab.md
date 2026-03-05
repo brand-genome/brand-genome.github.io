@@ -2,12 +2,12 @@
 title: Widelab
 slug: widelab
 description: ""
-date: "2026-03-05T15:56:45.739906"
+date: "2026-03-05T22:38:39.233691"
 draft: false
 sectors:
-  - "design-creative"
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
+  - "design-creative"
 regions:
   - poland
 years:

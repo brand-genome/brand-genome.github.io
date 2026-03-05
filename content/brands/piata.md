@@ -2,7 +2,7 @@
 title: PIATA
 slug: piata
 description: ""
-date: "2026-03-05T15:56:46.111702"
+date: "2026-03-05T22:38:39.745959"
 draft: false
 sectors:
   - ngo

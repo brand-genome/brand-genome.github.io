@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-03-05T15:56:46.013399"
+date: "2026-03-05T22:38:39.586743"
 draft: false
 sectors:
   - education
@@ -19,12 +19,12 @@ tags:
 industries: []
 countries:
   - "united-states"
-  - australia
   - netherlands
-  - "peoples-republic-of-china"
-  - japan
-  - italy
+  - australia
   - germany
+  - italy
+  - japan
+  - "peoples-republic-of-china"
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
@@ -47,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
 typographies:
   - helvetica
 imagery_styles:
-  - vibrant
   - bold
   - photography
+  - vibrant
 wikidata_description: American multinational publishing company
 has_twitter: false
 has_guidelines: true

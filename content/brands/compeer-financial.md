@@ -2,7 +2,7 @@
 title: Compeer Financial
 slug: "compeer-financial"
 description: ""
-date: "2026-03-05T15:56:46.006538"
+date: "2026-03-05T22:38:39.579750"
 draft: false
 sectors:
   - finance
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-3155"
-  - "pantone-381"
-  - "pantone-347"
-  - black
   - white
+  - "pantone-347"
+  - "pantone-381"
+  - black
+  - "pantone-3155"
 typographies:
   - brandon
   - lato

@@ -2,15 +2,15 @@
 title: GlobalGiving
 slug: globalgiving
 description: ""
-date: "2026-03-05T15:56:45.877527"
+date: "2026-03-05T22:38:39.386814"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:
@@ -40,26 +40,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
+  - secondary
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
   - red
-  - green
-  - gray
   - orange
   - blue
+  - gray
+  - green
 typographies:
-  - serif
   - "open-sans"
+  - serif
   - "sans-serif"
 imagery_styles:
-  - clean
   - photography
+  - clean
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

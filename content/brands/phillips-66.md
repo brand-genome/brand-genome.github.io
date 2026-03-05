@@ -2,13 +2,13 @@
 title: Phillips 66
 slug: "phillips-66"
 description: ""
-date: "2026-03-05T15:56:46.099207"
+date: "2026-03-05T22:38:39.721420"
 draft: false
 sectors:
-  - gas
   - petroleum
-  - oil
   - "petrol-station"
+  - oil
+  - gas
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - corporate
 industries:
-  - downstream
   - "petroleum-industry"
+  - downstream
 countries:
   - "united-states"
 revenue_buckets:

@@ -2,7 +2,7 @@
 title: Hello Brain
 slug: "hello-brain"
 description: ""
-date: "2026-03-05T15:56:46.100045"
+date: "2026-03-05T22:38:39.722677"
 draft: false
 sectors:
   - education
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - magenta
-  - "pantone-1235"
-  - "pantone-400"
-  - orange
-  - grey
-  - black
   - white
+  - "pantone-1235"
+  - magenta
+  - "pantone-400"
   - "pantone-234"
+  - grey
+  - orange
+  - black
+  - pink
 typographies:
-  - arial
   - avenir
+  - arial
 imagery_styles:
-  - professional
+  - bold
   - photography
   - vibrant
+  - professional
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

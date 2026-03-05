@@ -2,11 +2,11 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-03-05T15:56:46.117019"
+date: "2026-03-05T22:38:39.753522"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - design
   - university
+  - design
 industries: []
 countries:
   - canada
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
+  - primary
   - secondary
   - stacked
-  - primary
-  - horizontal
 brand_colors:
-  - "pantone-4625"
-  - "pantone-8420"
-  - silver
-  - "pantone-3955"
-  - black
-  - "pantone-8423"
   - white
   - "pantone-7546"
   - "pantone-305"
+  - "pantone-8420"
+  - "pantone-8423"
+  - "pantone-4625"
+  - black
+  - silver
+  - "pantone-3955"
   - "pantone-422"
 typographies:
   - arial

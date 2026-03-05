@@ -2,12 +2,12 @@
 title: National Geographic
 slug: "national-geographic"
 description: ""
-date: "2026-03-05T15:56:46.012200"
+date: "2026-03-05T22:38:39.585627"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
   - publishing
+  - entertainment
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -28,374 +28,297 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
-  - "framed-image"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - green
-  - dark
-  - blurred
   - wood
+  - textured
+  - "autumn-colors"
+  - "aquatic-colors"
+  - blurred
+  - solid
   - transparent
-  - bright
+  - "sunset-colors"
+  - light
   - gradient
   - "autumnal-colors"
-  - "sunset-colors"
-  - light
-  - "autumn-colors"
-  - textured
-  - "aquatic-colors"
-  - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - "text-heavy"
-  - vintage
+  - pattern
   - bright
+  - dark
+  - green
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
+  - textured
+  - monotone
+  - "text-heavy"
+  - "complementary-colors"
+  - light
+  - vintage
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "inverted-colors"
   - "sunset-colors"
-  - textured
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "motion-capture"
-  - storm
-  - social
-  - sky
-  - amateur
+  - seascape
   - ice
-  - "still-life"
-  - "live-stage"
-  - group
-  - animal
-  - selfie
-  - environmental
-  - mountains
-  - weather
-  - interior
-  - typography
-  - candid
-  - botanical
-  - autumn
-  - political
-  - outdoor
-  - audience
-  - space
-  - aerial
-  - staged
-  - bird
-  - promotional
-  - historical
-  - beauty
-  - "book-cover"
-  - planetary
-  - astronomy
-  - "graphic-design"
-  - street
-  - landscape
-  - "marine-life"
   - celebrity
-  - wildlife
-  - event
-  - family
-  - text
-  - "close-up"
-  - macro
-  - travel
-  - mountain
-  - portrait
-  - architecture
-  - outdoors
-  - advertisement
-  - product
-  - nature
-  - "text-heavy"
-  - waterfall
-  - architectural
+  - bird
+  - animal
+  - audience
+  - selfie
+  - planetary
+  - "book-cover"
+  - aerial
+  - landscape
+  - botanical
   - water
-  - documentary
-  - underwater
+  - promotional
+  - "close-up"
+  - waterfall
+  - nature
+  - outdoor
+  - product
+  - environmental
+  - text
   - abstract
+  - interior
   - "audience-perspective"
   - illustration
-  - "social-media"
-  - seascape
-  - action
-  - geography
-  - pet
+  - architecture
+  - street
   - advertising
-concepts:
+  - architectural
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - astronomy
+  - fashion
+  - sky
+  - event
+  - advertisement
+  - weather
+  - "text-heavy"
+  - underwater
   - "motion-capture"
-  - "wildlife-photography"
-  - "nature-photography"
-  - "macro-photography"
-  - animal
-  - naturalistic
-  - typography
-  - nostalgia
-  - "incomplete-art"
-  - photorealism
-  - "wildlife-portrait"
-  - vintage
-  - "graphic-design"
   - "marine-life"
+  - amateur
+  - family
+  - typography
+  - "graphic-design"
+  - space
   - wildlife
+  - pet
+  - macro
+  - portrait
+  - beauty
+  - mountain
+  - mountains
+  - staged
+  - autumn
+  - historical
+  - "social-media"
+  - geography
+  - political
+  - storm
+  - "still-life"
+  - travel
+  - outdoors
+  - social
+concepts:
+  - animal
+  - "wildlife-portrait"
+  - naturalistic
+  - "wave-pattern"
+  - "wildlife-photography"
+  - nature
+  - waterfall
+  - "macro-photography"
   - silhouette
+  - illustration
+  - vintage
+  - documentary
   - "marine-environment"
   - advertisement
-  - cartoon
-  - nature
-  - "text-heavy"
+  - nostalgia
   - "landscape-art"
-  - waterfall
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - wildlife
   - motion
-  - "wave-pattern"
-  - documentary
-  - "aquatic-life"
-  - illustration
-  - "butterfly-migration"
+  - "incomplete-art"
   - "marine-life-photography"
+  - "butterfly-migration"
+  - "nature-photography"
+  - "aquatic-life"
+  - "marine-life"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
   - "mud-green"
-  - "royal-blue"
-  - "dark-blue"
   - "dark-green"
-  - gray
+  - "dark-blue"
   - black
   - "dark-brown"
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
+  - casual
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
   - wavy
-  - t
-  - wet
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
-  - updo
-  - "not-visible"
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - joyful
-  - contemplative
-  - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
+  - loose
   - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - gray
+  - updo
+  - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - wet
+  - "not-visible"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - formal
+  - long
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - content
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
+  - leaning
   - relaxed
-  - engaged
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
+  - engaged
   - active
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
+  - holding
+  - content
+  - standing
   - running
-  - b
   - focused
-  - n
-  - p
-  - reclined
+  - stretching
+  - contemplative
+  - static
+  - confident
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - sideways
   - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - seated
+  - midsection
+  - "lower-half"
   - "full-back"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - reclined
+  - active
+  - relaxed
+  - "full-body"
+  - "close-up"
+  - running
+  - focused
+  - forward
 logo_elements: []
 brand_colors: []
 typographies: []

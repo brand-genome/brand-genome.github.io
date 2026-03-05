@@ -2,7 +2,7 @@
 title: Finish Line
 slug: "finish-line"
 description: ""
-date: "2026-03-05T15:56:46.216841"
+date: "2026-03-05T22:38:39.953136"
 draft: false
 sectors:
   - fashion
@@ -23,196 +23,196 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - blue
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - blue
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - selfie
+  - landscape
+  - product
+  - art
+  - abstract
+  - street
+  - advertising
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - staged
-  - beauty
-  - street
-  - landscape
-  - portrait
+  - fashion
   - advertisement
-  - art
-  - product
-  - sports
   - "text-heavy"
   - underwater
-  - abstract
-  - action
-  - advertising
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "negative-space"
-  - photorealism
-  - illustration
-  - vintage
-  - "text-heavy"
-  - "graphic-design"
   - product
   - cartoon
-  - "product-photography"
+  - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "product-photography"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
+  - "negative-space"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-gray"
-  - "dark-blue"
+  - white
   - "off-white"
-  - gray
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - neat
-  - long
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
   - bald
-  - short
-  - updo
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
   - ponytail
+  - braided
+  - updo
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
-  - reclined
-  - seated
-  - confident
-  - leaning
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
   - engaged
-  - upward
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

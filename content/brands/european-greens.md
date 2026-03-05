@@ -2,7 +2,7 @@
 title: European Greens
 slug: "european-greens"
 description: ""
-date: "2026-03-05T15:56:45.988260"
+date: "2026-03-05T22:38:39.562519"
 draft: false
 sectors:
   - ngo
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-376"
   - white
+  - "pantone-376"
   - green
 typographies: []
 imagery_styles: []

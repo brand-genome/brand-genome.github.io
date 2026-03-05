@@ -2,11 +2,11 @@
 title: Acadia University
 slug: "acadia-university"
 description: ""
-date: "2026-03-05T15:56:45.794637"
+date: "2026-03-05T22:38:39.298381"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -42,9 +42,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - seal
+  - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

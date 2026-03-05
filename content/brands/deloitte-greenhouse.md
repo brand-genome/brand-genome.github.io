@@ -2,7 +2,7 @@
 title: Deloitte Greenhouse
 slug: "deloitte-greenhouse"
 description: ""
-date: "2026-03-05T15:56:45.962863"
+date: "2026-03-05T22:38:39.529905"
 draft: false
 sectors:
   - consulting
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
   - green
 typographies: []
 imagery_styles:
-  - professional
-  - photography
   - bold
+  - photography
+  - professional
   - natural
 wikidata_description: ""
 has_twitter: false

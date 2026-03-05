@@ -2,11 +2,11 @@
 title: Rollins
 slug: rollins
 description: ""
-date: "2026-03-05T15:56:46.110274"
+date: "2026-03-05T22:38:39.744617"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,29 +40,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - "pantone-2387"
   - gold
-  - yellow
+  - "pantone-2387"
   - black
+  - yellow
   - blue
   - "pantone-116"
 typographies:
-  - serif
   - gotham
+  - serif
   - "sans-serif"
 imagery_styles:
-  - classic
-  - photography
-  - dynamic
-  - clean
   - bold
+  - photography
   - graphic
+  - dynamic
+  - classic
+  - clean
 wikidata_description: "private liberal arts college in Winter Park, Florida, United States"
 has_twitter: false
 has_guidelines: true

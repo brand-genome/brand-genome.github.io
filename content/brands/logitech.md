@@ -2,12 +2,12 @@
 title: Logitech
 slug: logitech
 description: ""
-date: "2026-03-05T15:56:46.247706"
+date: "2026-03-05T22:38:40.008924"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - unknown
 years: []
@@ -16,362 +16,285 @@ tags: []
 industries:
   - computing
 countries:
-  - "united-states"
   - switzerland
+  - "united-states"
 revenue_buckets:
   - "1b-10b"
 operating_income_buckets: []
 net_profit_buckets:
   - "500m-1b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - orange
-  - gradient
   - white
-  - light
+  - "background-as-frame"
   - red
+  - wood
   - textured
+  - orange
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - racing
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - automotive
-  - artistic
-  - interior
-  - education
-  - commercial
-  - "event-promotion"
-  - typography
-  - branding
-  - candid
-  - botanical
-  - "incomplete-art"
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - business
-  - "food-photography"
-  - family
-  - text
-  - office
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - exhibition
-  - car
-  - architectural
-  - professional
   - "race-car"
-  - underwater
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - landscape
+  - performance
+  - automotive
+  - promotional
+  - botanical
+  - food
+  - product
+  - text
+  - interior
   - abstract
   - "audience-perspective"
   - illustration
-  - action
-  - pet
+  - "food-photography"
+  - "event-promotion"
+  - street
   - advertising
-concepts:
-  - "still-life"
-  - "action-shot"
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - "product-photography"
-  - logo
-  - silhouette
-  - advertisement
-  - "product-promotion"
-  - product
-  - cartoon
-  - "text-heavy"
-  - "complete-art"
-  - "corporate-branding"
-  - professional
-  - "wave-pattern"
-  - illustration
-  - "group-photo"
-  - "logo-design"
+  - artistic
+  - architectural
+  - sports
+  - candid
   - action
-  - technology
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
+  - "live-stage"
+  - group
+  - racing
+  - infographic
+  - logo
+  - fashion
+  - advertisement
+  - event
+  - sky
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - underwater
+  - education
+  - family
+  - typography
+  - "graphic-design"
+  - exhibition
+  - "incomplete-art"
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - business
+  - branding
+  - office
+  - "still-life"
+  - car
+concepts:
+  - "logo-design"
+  - professional
+  - "complete-art"
+  - "wave-pattern"
+  - product
   - silhouette
-  - "isolated-focal-point"
+  - illustration
+  - vintage
+  - action
+  - "group-photo"
+  - logo
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "product-photography"
+  - "incomplete-art"
+  - "corporate-branding"
+  - technology
+  - "product-promotion"
+  - "still-life"
+  - photorealism
+depths:
+  - "bokeh-effect"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - silhouette
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
+  - symmetrical
+  - "light-on-subject"
+  - silhouette
+  - "dark-focal-point"
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
   - "motion-capture"
   - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - "dark-focal-point"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
-  - "light-on-subject"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - laughing
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
+  - varied
+  - neat
+  - wavy
   - loose
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
+  - straight
+  - ponytail
+  - braided
+  - updo
+  - short
+  - curly
+  - long
+  - dark
+  - "tied-back"
+  - covered
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - "t-shirt"
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - jeans
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - laughing
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - loose
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - jeans
+  - traditional
+  - "t-shirt"
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - white
+  - red
+  - vibrant
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - black
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - white
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - reclined
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - t
-  - "close-up"
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - reclined
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - reclined
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

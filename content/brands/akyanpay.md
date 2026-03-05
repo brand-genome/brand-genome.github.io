@@ -2,7 +2,7 @@
 title: Akyanpay
 slug: akyanpay
 description: ""
-date: "2026-03-05T15:56:45.833020"
+date: "2026-03-05T22:38:39.338704"
 draft: false
 sectors:
   - consulting
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - lockup
+  - wordmark
 brand_colors: []
 typographies:
   - ubuntu
 imagery_styles:
-  - gradient
   - modern
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

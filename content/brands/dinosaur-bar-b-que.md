@@ -2,7 +2,7 @@
 title: "Dinosaur Bar-B-Que"
 slug: "dinosaur-bar-b-que"
 description: ""
-date: "2026-03-05T15:56:45.931178"
+date: "2026-03-05T22:38:39.506140"
 draft: false
 sectors:
   - food
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
-  - badge
   - primary
+  - badge
+  - signature
+  - secondary
 brand_colors:
-  - black
-  - yellow
   - white
   - red
+  - black
+  - yellow
 typographies:
-  - display
   - avenir
+  - display
 imagery_styles: []
 wikidata_description: "restaurant, blues venue, and biker bar chain"
 has_twitter: false

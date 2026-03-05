@@ -2,7 +2,7 @@
 title: Gilgandra Region
 slug: "gilgandra-region"
 description: ""
-date: "2026-03-05T15:56:45.967738"
+date: "2026-03-05T22:38:39.533355"
 draft: false
 sectors:
   - "public-sector"
@@ -39,25 +39,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - magenta
-  - cyan
-  - green
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - magenta
+  - black
+  - cyan
+  - yellow
   - blue
+  - green
 typographies:
-  - times
   - avenir
+  - times
 imagery_styles:
-  - landscape
-  - graphic
   - bold
+  - landscape
   - portrait
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

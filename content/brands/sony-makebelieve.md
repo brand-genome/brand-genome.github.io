@@ -2,11 +2,11 @@
 title: SONY make.believe
 slug: "sony-makebelieve"
 description: ""
-date: "2026-03-05T15:56:45.925504"
+date: "2026-03-05T22:38:39.497972"
 draft: false
 sectors:
-  - entertainment
   - electronics
+  - entertainment
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - electronics
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []

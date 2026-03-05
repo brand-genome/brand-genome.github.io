@@ -2,12 +2,12 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-03-05T15:56:45.869324"
+date: "2026-03-05T22:38:39.383955"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "consumer-goods"
+  - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -41,22 +41,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - "pantone-1525"
-  - cyan
-  - "pantone-363"
-  - gray
-  - "pantone-328"
-  - blue
-  - black
   - white
-  - "pantone-485"
   - "pantone-124"
   - red
+  - "pantone-328"
+  - "pantone-1525"
+  - black
+  - cyan
+  - "pantone-485"
+  - blue
+  - "pantone-363"
   - "pantone-072"
+  - gray
   - "pantone-307"
 typographies:
   - helvetica

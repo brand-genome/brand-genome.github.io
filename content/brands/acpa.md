@@ -2,7 +2,7 @@
 title: ACPA
 slug: acpa
 description: ""
-date: "2026-03-05T15:56:46.047605"
+date: "2026-03-05T22:38:39.638661"
 draft: false
 sectors:
   - ngo

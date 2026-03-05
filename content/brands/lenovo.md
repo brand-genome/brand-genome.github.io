@@ -2,11 +2,11 @@
 title: Lenovo
 slug: lenovo
 description: ""
-date: "2026-03-05T15:56:45.778467"
+date: "2026-03-05T22:38:39.275859"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - china
 years:
@@ -16,9 +16,9 @@ languages:
   - english
   - chinese
 tags:
-  - corporate
   - featured
   - technology
+  - corporate
 industries:
   - electronics
   - "computer-hardware-industry"
@@ -31,397 +31,320 @@ operating_income_buckets:
 net_profit_buckets:
   - "500m-1b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - blue
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - infographic
-  - sky
-  - "computer-hardware"
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - artistic
-  - interior
-  - industrial
-  - commercial
-  - "event-promotion"
-  - candid
-  - typography
-  - branding
-  - botanical
-  - "event-photography"
-  - cityscape
   - audience
-  - staged
-  - "event-announcement"
-  - promotional
-  - historical
-  - beauty
-  - vintage
-  - food
-  - motorcycle
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - "awards-ceremony"
-  - logo
-  - music
-  - corporate
-  - event
-  - auditorium
-  - family
-  - "digital-art"
-  - text
-  - travel
-  - presenter
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - exhibition
-  - "audience-shot"
-  - architectural
+  - selfie
+  - commercial
   - professional
-  - documentary
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - "social-media"
-  - "corporate-event"
-  - action
-  - comic
-  - technology
-concepts:
-  - "thank-you-message"
-  - "live-stage"
-  - "event-promotion"
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
+  - "awards-ceremony"
+  - "audience-shot"
+  - landscape
+  - botanical
   - promotional
-  - "gift-giving"
-  - "graphic-design"
+  - "computer-hardware"
+  - presenter
+  - food
+  - product
+  - "event-announcement"
+  - industrial
+  - "corporate-event"
+  - text
+  - illustration
+  - interior
+  - abstract
+  - "audience-perspective"
+  - "digital-art"
+  - vintage
+  - comic
+  - street
+  - advertising
+  - "event-promotion"
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - infographic
+  - group
+  - artistic
+  - candid
+  - documentary
   - logo
-  - technology
+  - event
   - advertisement
-  - "comic-strip"
-  - "product-promotion"
+  - fashion
+  - sky
+  - cityscape
   - cartoon
   - "text-heavy"
-  - "wave-pattern"
-  - illustration
+  - corporate
+  - music
+  - family
+  - typography
+  - "graphic-design"
+  - exhibition
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - technology
+  - "social-media"
+  - "event-photography"
+  - "still-life"
+  - travel
+  - crowd
+  - motorcycle
+  - auditorium
+concepts:
   - "logo-design"
-  - textured
+  - "wave-pattern"
+  - "thank-you-message"
+  - promotional
+  - illustration
+  - vintage
+  - "event-promotion"
   - advertising
+  - "comic-strip"
+  - "live-stage"
+  - logo
+  - advertisement
+  - textured
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "gift-giving"
+  - branding
+  - technology
+  - "product-promotion"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "color-enhancement"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "dark-focal-point"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "light-glare"
+  - symmetric
+  - silhouette
+  - "dark-focal-point"
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "color-enhancement"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - gray
+  - white
   - orange
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
+  - casual
   - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
-  - casual
+  - loose
   - gray
-  - p
   - updo
-  - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - c
-  - excited
-  - angry
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - cozy
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
   - dark
+  - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - angry
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - cozy
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - dark
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
   - standing
-  - b
-  - n
+  - running
   - focused
-  - p
-  - reclined
+  - stretching
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - reclined
+  - seated
+  - midsection
+  - "lower-half"
   - "full-back"
+  - engaged
+  - "upper-body"
+  - reclined
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
   - primary
+  - symbol
+  - horizontal
+  - wordmark
   - vertical
 brand_colors:
-  - pink
-  - cyan
-  - green
-  - red
-  - "pantone-1795"
-  - yellow
-  - gray
-  - orange
-  - teal
-  - black
   - white
+  - red
+  - teal
+  - "pantone-1795"
+  - orange
+  - cyan
+  - yellow
+  - black
   - blue
+  - pink
+  - gray
+  - green
 typographies:
   - raleway
   - gotham
   - arial
   - helvetica
 imagery_styles:
-  - modern
-  - photography
-  - vibrant
-  - product
-  - clean
   - bold
+  - photography
+  - product
+  - vibrant
+  - modern
+  - clean
 wikidata_description: Chinese multinational technology company established in 1984
 has_twitter: true
 has_guidelines: true

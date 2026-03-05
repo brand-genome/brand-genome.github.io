@@ -2,7 +2,7 @@
 title: Republic of Kenya
 slug: "republic-of-kenya"
 description: ""
-date: "2026-03-05T15:56:45.817473"
+date: "2026-03-05T22:38:39.323829"
 draft: false
 sectors:
   - "public-sector"
@@ -39,16 +39,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-54"
-  - "pantone-17"
   - white
+  - "pantone-54"
   - "pantone-48"
+  - "pantone-17"
 typographies:
   - helvetica
 imagery_styles:
   - bold
-  - professional
   - photography
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

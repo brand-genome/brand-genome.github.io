@@ -2,11 +2,11 @@
 title: Servei de Trànsit de Catalunya
 slug: "servei-de-transit-de-catalunya"
 description: ""
-date: "2026-03-05T15:56:45.709245"
+date: "2026-03-05T22:38:39.198693"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - spain
 years:

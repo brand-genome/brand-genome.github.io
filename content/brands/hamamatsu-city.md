@@ -2,7 +2,7 @@
 title: Hamamatsu City
 slug: "hamamatsu-city"
 description: ""
-date: "2026-03-05T15:56:45.795327"
+date: "2026-03-05T22:38:39.299096"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - featured
   - regional
+  - featured
   - city
 industries: []
 countries:

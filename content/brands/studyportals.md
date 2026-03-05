@@ -2,7 +2,7 @@
 title: Studyportals
 slug: studyportals
 description: ""
-date: "2026-03-05T15:56:45.972232"
+date: "2026-03-05T22:38:39.543556"
 draft: false
 sectors:
   - education
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - symbol
+  - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies:
   - "open-sans"
 imagery_styles:

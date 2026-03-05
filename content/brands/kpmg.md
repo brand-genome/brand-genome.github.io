@@ -2,12 +2,12 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-03-05T15:56:45.798537"
+date: "2026-03-05T22:38:39.302503"
 draft: false
 sectors:
+  - "legal-services"
   - consulting
   - finance
-  - "legal-services"
 regions:
   - netherlands
 years:
@@ -43,24 +43,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
+  - white
+  - violet
+  - black
+  - blue
   - green
   - purple
-  - black
-  - white
-  - blue
-  - violet
 typographies:
   - univers
   - arial
 imagery_styles:
   - bold
-  - clean
-  - professional
   - photography
+  - professional
+  - clean
 wikidata_description: "provider of audit, legal, tax advisory, financial, and business advisory services"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Tenax Holdings Ltd
 slug: "tenax-holdings-ltd"
 description: ""
-date: "2026-03-05T15:56:45.643255"
+date: "2026-03-05T22:38:39.107872"
 draft: false
 sectors:
   - "logistics-supply-chain"

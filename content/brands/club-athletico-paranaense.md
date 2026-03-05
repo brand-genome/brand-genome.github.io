@@ -2,7 +2,7 @@
 title: Club Athletico Paranaense
 slug: "club-athletico-paranaense"
 description: ""
-date: "2026-03-05T15:56:45.663088"
+date: "2026-03-05T22:38:39.130465"
 draft: false
 sectors:
   - sports

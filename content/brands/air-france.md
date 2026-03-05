@@ -2,7 +2,7 @@
 title: Air France
 slug: "air-france"
 description: ""
-date: "2026-03-05T15:56:45.958355"
+date: "2026-03-05T22:38:39.523382"
 draft: false
 sectors:
   - airline
@@ -13,12 +13,12 @@ years:
 languages:
   - french
 tags:
-  - featured
   - airline
+  - featured
   - aeronautic
 industries:
-  - "air-transport"
   - unknown
+  - "air-transport"
 countries:
   - france
 revenue_buckets: []

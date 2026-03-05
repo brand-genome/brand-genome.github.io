@@ -2,7 +2,7 @@
 title: Médecins du Monde
 slug: "medecins-du-monde"
 description: ""
-date: "2026-03-05T15:56:45.738904"
+date: "2026-03-05T22:38:39.231735"
 draft: false
 sectors:
   - ngo

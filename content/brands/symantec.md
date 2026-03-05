@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-03-05T15:56:46.116459"
+date: "2026-03-05T22:38:39.753062"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -46,12 +46,12 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - yellow
   - magenta
+  - yellow
 typographies: []
 imagery_styles:
-  - clean
   - professional
+  - clean
 wikidata_description: American software company
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: YWCA Canberra
 slug: "ywca-canberra"
 description: ""
-date: "2026-03-05T15:56:45.840668"
+date: "2026-03-05T22:38:39.351505"
 draft: false
 sectors:
   - ngo
@@ -39,28 +39,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - stacked
   - primary
   - symbol
+  - stacked
+  - secondary
 brand_colors:
-  - grey
-  - black
   - white
+  - grey
   - "pantone-433"
+  - black
 typographies:
   - arial
   - helvetica
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
+  - vibrant
+  - graphic
   - dynamic
   - geometric
   - clean
-  - vibrant
-  - bold
-  - graphic
+  - natural
 wikidata_description: nonprofit organisation from Australia
 has_twitter: false
 has_guidelines: true

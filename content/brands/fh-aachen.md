@@ -2,11 +2,11 @@
 title: FH Aachen
 slug: "fh-aachen"
 description: ""
-date: "2026-03-05T15:56:46.164261"
+date: "2026-03-05T22:38:39.805477"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - germany
 years:
@@ -43,8 +43,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: University of Applied Sciences‏ Aachen
 has_twitter: false
 has_guidelines: true

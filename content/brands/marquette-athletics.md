@@ -2,11 +2,11 @@
 title: Marquette Athletics
 slug: "marquette-athletics"
 description: ""
-date: "2026-03-05T15:56:46.138209"
+date: "2026-03-05T22:38:39.778356"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - wordmark
-  - mascot
-  - secondary
-  - monogram
   - primary
+  - monogram
+  - mascot
+  - alternate
+  - secondary
+  - wordmark
 brand_colors:
-  - gold
-  - black
   - white
   - "pantone-124"
-  - blue
+  - gold
   - "pantone-123"
   - "pantone-281"
+  - black
+  - blue
 typographies:
   - display
 imagery_styles:

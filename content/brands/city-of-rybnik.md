@@ -2,7 +2,7 @@
 title: City of Rybnik
 slug: "city-of-rybnik"
 description: ""
-date: "2026-03-05T15:56:45.769487"
+date: "2026-03-05T22:38:39.267005"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - polish
 tags:
-  - featured
   - regional
+  - featured
   - city
 industries: []
 countries: []

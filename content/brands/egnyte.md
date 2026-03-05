@@ -2,11 +2,11 @@
 title: Egnyte
 slug: egnyte
 description: ""
-date: "2026-03-05T15:56:45.728404"
+date: "2026-03-05T22:38:39.219628"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -41,13 +41,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - secondary
-  - vertical
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
+  - vertical
 brand_colors:
   - white
 typographies:

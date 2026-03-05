@@ -2,12 +2,12 @@
 title: Digischool
 slug: digischool
 description: ""
-date: "2026-03-05T15:56:45.987506"
+date: "2026-03-05T22:38:39.562195"
 draft: false
 sectors:
-  - "public-sector"
   - education
   - "e-learning-edtech"
+  - "public-sector"
 regions:
   - kenya
 years:
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - red
-  - green
-  - black
   - white
+  - red
+  - black
   - blue
+  - green
 typographies:
-  - montserrat
   - trebuchet
+  - montserrat
 imagery_styles:
   - bold
   - professional

@@ -2,7 +2,7 @@
 title: Badan Koordinasi Penanaman Modal
 slug: "badan-koordinasi-penanaman-modal"
 description: ""
-date: "2026-03-05T15:56:45.786253"
+date: "2026-03-05T22:38:39.284846"
 draft: false
 sectors:
   - "public-sector"

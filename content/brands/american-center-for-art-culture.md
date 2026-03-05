@@ -2,7 +2,7 @@
 title: "American Center for Art & Culture"
 slug: "american-center-for-art-culture"
 description: ""
-date: "2026-03-05T15:56:45.885417"
+date: "2026-03-05T22:38:39.399921"
 draft: false
 sectors:
   - "arts-culture"
@@ -14,8 +14,8 @@ languages:
   - french
 tags:
   - featured
-  - art
   - cultural
+  - art
 industries: []
 countries: []
 revenue_buckets: []

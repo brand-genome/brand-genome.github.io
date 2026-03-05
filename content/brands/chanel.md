@@ -2,12 +2,12 @@
 title: Chanel
 slug: chanel
 description: ""
-date: "2026-03-05T15:56:46.214218"
+date: "2026-03-05T22:38:39.950257"
 draft: false
 sectors:
-  - beauty
   - fashion
   - jewellery
+  - beauty
 regions:
   - unknown
 years: []
@@ -25,225 +25,225 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "complementary-colors"
-  - "bright-colors"
-  - dark
   - "text-heavy"
+  - "complementary-colors"
+  - light
   - vintage
-  - bright
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "inverted-colors"
   - "sunset-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - artistic
-  - interior
-  - candid
-  - botanical
-  - audience
-  - staged
-  - historical
-  - beauty
-  - street
-  - crowd
-  - landscape
   - celebrity
-  - event
-  - text
-  - portrait
-  - art
+  - audience
+  - selfie
+  - landscape
+  - botanical
   - product
-  - "text-heavy"
-  - bridal
-  - architectural
-  - underwater
+  - art
+  - text
+  - interior
   - abstract
   - "audience-perspective"
-  - tool
-  - action
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - "incomplete-art"
-  - "wave-pattern"
+  - artistic
+  - architectural
+  - candid
+  - action
   - "live-stage"
-  - photorealism
+  - group
+  - fashion
+  - sky
+  - event
+  - bridal
+  - "text-heavy"
+  - underwater
+  - portrait
+  - beauty
+  - tool
+  - staged
+  - historical
+  - "still-life"
+  - crowd
+concepts:
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - action
-  - "product-photography"
   - typography
-  - cartoon
+  - "graphic-design"
+  - "product-photography"
+  - "wave-pattern"
+  - action
+  - "live-stage"
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - black
-  - straight
-  - blonde
-  - long
   - casual
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - "evening-gown"
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "evening-gown"
+  - "business-casual"
+clothing_colors:
   - white
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - walking
-  - seated
   - leaning
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
   - static
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - "at-camera"
-  - forward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

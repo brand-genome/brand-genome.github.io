@@ -2,11 +2,11 @@
 title: SADAD
 slug: sadad
 description: ""
-date: "2026-03-05T15:56:46.055154"
+date: "2026-03-05T22:38:39.648233"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - "saudi-arabia"
 years:

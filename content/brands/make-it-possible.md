@@ -2,7 +2,7 @@
 title: Make it Possible
 slug: "make-it-possible"
 description: ""
-date: "2026-03-05T15:56:46.044628"
+date: "2026-03-05T22:38:39.615973"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies:
   - frutiger
 imagery_styles: []

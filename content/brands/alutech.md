@@ -2,11 +2,11 @@
 title: Alutech
 slug: alutech
 description: ""
-date: "2026-03-05T15:56:46.117780"
+date: "2026-03-05T22:38:39.754761"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - russia
 years:

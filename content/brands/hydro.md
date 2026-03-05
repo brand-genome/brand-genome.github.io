@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-03-05T15:56:45.993260"
+date: "2026-03-05T22:38:39.568506"
 draft: false
 sectors:
-  - hardware
   - "renewable-energy"
+  - hardware
 regions:
   - norway
 years:
@@ -17,8 +17,8 @@ tags:
   - industry
 industries: []
 countries:
-  - germany
   - "european-union"
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -40,10 +40,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors:
   - blue
@@ -52,11 +52,11 @@ typographies:
   - arial
   - helvetica
 imagery_styles:
-  - natural
-  - muted
-  - product
-  - clean
   - bold
+  - product
+  - muted
+  - clean
+  - natural
 wikidata_description: peer reviewed open access scientific journal
 has_twitter: false
 has_guidelines: true

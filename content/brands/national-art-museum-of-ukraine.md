@@ -2,7 +2,7 @@
 title: National Art Museum of Ukraine
 slug: "national-art-museum-of-ukraine"
 description: ""
-date: "2026-03-05T15:56:45.693714"
+date: "2026-03-05T22:38:39.183768"
 draft: false
 sectors:
   - "arts-culture"
@@ -16,8 +16,8 @@ tags:
   - museum
 industries: []
 countries:
-  - ukraine
   - "soviet-union"
+  - ukraine
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

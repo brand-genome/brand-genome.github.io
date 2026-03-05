@@ -2,12 +2,12 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-03-05T15:56:45.814305"
+date: "2026-03-05T22:38:39.320405"
 draft: false
 sectors:
+  - research
   - ngo
   - healthcare
-  - research
 regions:
   - usa
 years:
@@ -42,19 +42,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - icon
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
   - black
 typographies: []
 imagery_styles:
   - bold
-  - portrait
   - photography
+  - portrait
 wikidata_description: United States nonprofit organization
 has_twitter: false
 has_guidelines: true

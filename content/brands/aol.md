@@ -2,11 +2,11 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-03-05T15:56:45.999111"
+date: "2026-03-05T22:38:39.572585"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - usa
 years:
@@ -17,11 +17,11 @@ tags:
   - featured
   - internet
 industries:
-  - "internet-industry"
+  - "technology-industry"
   - "media-industry"
   - "software-industry"
   - "mass-media"
-  - "technology-industry"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -47,16 +47,16 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - pink
-  - cyan
-  - orange
-  - grey
-  - black
   - white
   - red
+  - orange
+  - grey
+  - cyan
+  - black
+  - pink
 typographies:
-  - din
   - arial
+  - din
 imagery_styles: []
 wikidata_description: American web portal and online service provider
 has_twitter: false

@@ -2,7 +2,7 @@
 title: Bombay Sapphire
 slug: "bombay-sapphire"
 description: ""
-date: "2026-03-05T15:56:45.818370"
+date: "2026-03-05T22:38:39.325134"
 draft: false
 sectors:
   - drink
@@ -38,31 +38,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
-  - wordmark
-  - signature
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - lockup
+  - horizontal
+  - signature
+  - wordmark
+  - stacked
 brand_colors:
-  - cyan
-  - navy
   - white
-  - "pantone-635"
   - "pantone-2995"
-  - blue
-  - "pantone-8022"
   - "pantone-282"
+  - "pantone-635"
+  - "pantone-8022"
+  - cyan
+  - blue
+  - navy
 typographies:
   - serif
   - display
 imagery_styles:
-  - monochrome
-  - gradient
   - colorful
   - subtle
+  - gradient
+  - monochrome
 wikidata_description: trademark
 has_twitter: false
 has_guidelines: true

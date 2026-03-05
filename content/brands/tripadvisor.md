@@ -2,17 +2,17 @@
 title: Tripadvisor
 slug: tripadvisor
 description: ""
-date: "2026-03-05T15:56:45.648610"
+date: "2026-03-05T22:38:39.116310"
 draft: false
 sectors:
-  - tourism
   - "e-commerce"
+  - tourism
 regions:
   - usa
 years:
+  - 2018
   - 2025
   - 2020
-  - 2018
 languages:
   - english
 tags:
@@ -29,278 +29,201 @@ operating_income_buckets: []
 net_profit_buckets: []
 lightings:
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "aquatic-colors"
 photography_genres:
-  - sky
-  - "still-life"
+  - selfie
+  - beach
+  - landscape
+  - botanical
+  - nature
+  - outdoor
+  - interior
+  - architecture
+  - street
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - outdoor
+  - sky
   - cityscape
-  - historical
-  - beauty
-  - street
-  - landscape
-  - family
-  - travel
-  - portrait
-  - architecture
-  - nature
   - "text-heavy"
-  - architectural
-  - beach
   - underwater
-  - action
+  - family
+  - portrait
+  - beauty
+  - historical
+  - "still-life"
+  - travel
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
   - illustration
   - vintage
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - silhouette
+  - "artificial-shadow"
   - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "long-exposure"
   - "short-exposure"
-  - "artificial-shadow"
 dominant_colors:
-  - pink
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - black
   - white
+  - cyan
+  - black
   - "dark-brown"
+  - "dark-blue"
   - "light-blue"
+  - "royal-blue"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
+  - "pulled-back"
   - varied
-  - a
-  - short
-  - c
-  - ponytail
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - wet
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
+  - braided
   - updo
+  - long
+  - curly
+  - short
+  - wet
+  - dark
   - "tied-back"
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
   - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - relaxed
+  - dynamic
+  - leaning
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
-  - green
-  - red
-  - yellow
-  - gray
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
+  - gray
+  - green
   - "pantone-339"
 typographies:
   - arial

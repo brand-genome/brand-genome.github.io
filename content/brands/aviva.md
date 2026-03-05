@@ -2,7 +2,7 @@
 title: Aviva
 slug: aviva
 description: ""
-date: "2026-03-05T15:56:46.260771"
+date: "2026-03-05T22:38:40.034460"
 draft: false
 sectors:
   - insurance
@@ -23,172 +23,172 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - "pastel-colors"
   - "bright-colors"
+  - grayscale
   - "complementary-colors"
-  - "autumnal-colors"
   - "sunset-colors"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
   - architectural
-  - landscape
   - audience
+  - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - portrait
   - selfie
-  - sports
-  - interior
   - "text-heavy"
+  - interior
+  - "still-life"
+  - landscape
+  - sports
   - action
+  - "live-stage"
+  - portrait
+  - group
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - advertisement
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "high-contrast"
   - "high-saturation"
   - "long-exposure"
-  - "high-contrast"
   - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - "dark-green"
-  - gray
-  - black
   - white
-  - "dark-brown"
+  - "mud-green"
   - olive
+  - "dark-green"
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
-  - short
-  - updo
-  - "tied-back"
-  - straight
+  - "pulled-back"
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
-  - happy
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
-  - walking
-  - leaning
-  - seated
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
   - engaged
-  - upward
+  - relaxed
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - dynamic
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

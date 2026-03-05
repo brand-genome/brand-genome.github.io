@@ -2,7 +2,7 @@
 title: Aeroflot
 slug: aeroflot
 description: ""
-date: "2026-03-05T15:56:46.168119"
+date: "2026-03-05T22:38:39.810200"
 draft: false
 sectors:
   - airline
@@ -13,11 +13,11 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
+  - transport
 industries:
-  - "air-transport"
   - "air-cargo"
+  - "air-transport"
 countries: []
 revenue_buckets:
   - "500b-1t"

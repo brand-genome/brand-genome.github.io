@@ -2,7 +2,7 @@
 title: if it barks
 slug: "if-it-barks"
 description: ""
-date: "2026-03-05T15:56:45.859602"
+date: "2026-03-05T22:38:39.374357"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,30 +38,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - wordmark
-  - secondary
   - primary
   - icon
+  - secondary
+  - alternate
+  - wordmark
 brand_colors:
-  - "pantone-5415"
-  - "pantone-7645"
-  - black
-  - grey
-  - "pantone-296"
   - white
   - "pantone-2965"
+  - grey
+  - black
+  - "pantone-296"
   - blue
+  - "pantone-5415"
+  - "pantone-7645"
 typographies:
   - serif
   - times
 imagery_styles:
-  - modern
-  - photography
-  - minimal
-  - natural
   - bold
+  - photography
   - playful
+  - minimal
+  - modern
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

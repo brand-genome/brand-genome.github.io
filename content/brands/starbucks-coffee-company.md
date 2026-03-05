@@ -2,12 +2,12 @@
 title: Starbucks Coffee Company
 slug: "starbucks-coffee-company"
 description: ""
-date: "2026-03-05T15:56:45.808706"
+date: "2026-03-05T22:38:39.314516"
 draft: false
 sectors:
+  - drink
   - food
   - restaurant
-  - drink
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - vintage
   - "food-beverage"
   - featured
-  - vintage
 industries:
   - "coffee-industry"
 countries:
@@ -47,9 +47,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational coffee company

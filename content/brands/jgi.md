@@ -2,7 +2,7 @@
 title: JGI
 slug: jgi
 description: ""
-date: "2026-03-05T15:56:46.013659"
+date: "2026-03-05T22:38:39.587022"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - biology
   - science
+  - biology
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - stacked
   - icon
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - green
-  - gray
-  - black
   - white
+  - black
   - blue
+  - gray
+  - green
 typographies:
   - arial
 imagery_styles:

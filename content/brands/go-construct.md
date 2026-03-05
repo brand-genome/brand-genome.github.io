@@ -2,7 +2,7 @@
 title: Go Construct
 slug: "go-construct"
 description: ""
-date: "2026-03-05T15:56:45.770654"
+date: "2026-03-05T22:38:39.268255"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "human-ressources"
   - construction
+  - "human-ressources"
 industries: []
 countries: []
 revenue_buckets: []

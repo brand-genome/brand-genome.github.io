@@ -2,7 +2,7 @@
 title: PSV Eindhoven
 slug: "psv-eindhoven"
 description: ""
-date: "2026-03-05T15:56:45.674936"
+date: "2026-03-05T22:38:39.163990"
 draft: false
 sectors:
   - sports
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - abstract
   - lockup
   - primary
   - badge
-  - abstract
 brand_colors:
-  - black
   - white
-  - "pantone-186"
   - red
+  - black
+  - "pantone-186"
 typographies:
-  - serif
   - impact
   - slab
+  - serif
 imagery_styles:
-  - abstract
   - bold
   - photography
+  - abstract
 wikidata_description: "sports club from Eindhoven, the Netherlands"
 has_twitter: false
 has_guidelines: true

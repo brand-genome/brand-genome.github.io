@@ -2,12 +2,12 @@
 title: Caverion
 slug: caverion
 description: ""
-date: "2026-03-05T15:56:46.130081"
+date: "2026-03-05T22:38:39.769950"
 draft: false
 sectors:
+  - construction
   - consulting
   - utilities
-  - construction
 regions:
   - finland
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "project-management"
   - "construction-industry"
+  - "project-management"
 countries:
   - sweden
 revenue_buckets: []
@@ -45,15 +45,15 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - blue
   - "pantone-295"
-  - white
   - black
 typographies:
   - arial
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: Nordic contracting company in MEP and building technology
 has_twitter: false
 has_guidelines: true

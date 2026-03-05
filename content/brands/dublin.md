@@ -2,7 +2,7 @@
 title: Dublin
 slug: dublin
 description: ""
-date: "2026-03-05T15:56:46.112551"
+date: "2026-03-05T22:38:39.746930"
 draft: false
 sectors:
   - tourism
@@ -37,29 +37,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-1365"
-  - coral
-  - "pantone-4545"
-  - "pantone-322"
-  - yellow
   - "pantone-325"
-  - "pantone-5513"
   - grey
-  - turquoise
-  - black
-  - blue
   - "pantone-426"
+  - black
+  - yellow
+  - blue
+  - "pantone-5513"
+  - turquoise
+  - "pantone-4545"
+  - coral
+  - "pantone-1365"
+  - "pantone-322"
 typographies:
-  - "source-sans"
-  - arial
   - gotham
+  - arial
+  - "source-sans"
 imagery_styles:
-  - vibrant
-  - contemporary
   - illustration
+  - contemporary
+  - vibrant
 wikidata_description: capital and largest city of Ireland
 has_twitter: false
 has_guidelines: true

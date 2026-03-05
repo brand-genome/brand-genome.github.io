@@ -2,11 +2,11 @@
 title: ATL
 slug: atl
 description: ""
-date: "2026-03-05T15:56:45.807122"
+date: "2026-03-05T22:38:39.312964"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - secondary
-  - vertical
   - primary
+  - symbol
   - icon
+  - secondary
+  - horizontal
+  - vertical
 brand_colors:
+  - white
+  - violet
   - red
+  - blue
   - silver
   - gray
-  - white
-  - blue
-  - violet
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese video game company

@@ -2,15 +2,15 @@
 title: Herman Miller
 slug: "herman-miller"
 description: ""
-date: "2026-03-05T15:56:45.733084"
+date: "2026-03-05T22:38:39.225592"
 draft: false
 sectors:
   - "consumer-goods"
 regions:
   - usa
 years:
-  - 2015
   - 2010
+  - 2015
 languages:
   - english
 tags:
@@ -41,22 +41,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - symbol
+  - secondary
   - wordmark
   - logomark
-  - secondary
-  - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
   - times
   - display
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: "manufacturer of high-end office furniture"
 has_twitter: false
 has_guidelines: true

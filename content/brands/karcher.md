@@ -2,11 +2,11 @@
 title: Karcher
 slug: karcher
 description: ""
-date: "2026-03-05T15:56:45.906009"
+date: "2026-03-05T22:38:39.436738"
 draft: false
 sectors:
-  - hardware
   - "home-appliances"
+  - hardware
 regions:
   - germany
 years:

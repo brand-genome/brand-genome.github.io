@@ -2,7 +2,7 @@
 title: Stella Maris
 slug: "stella-maris"
 description: ""
-date: "2026-03-05T15:56:45.948779"
+date: "2026-03-05T22:38:39.517220"
 draft: false
 sectors:
   - ngo
@@ -37,22 +37,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - green
-  - yellow
+  - white
+  - red
   - orange
   - grey
   - black
+  - yellow
   - blue
-  - white
-  - red
+  - green
 typographies:
-  - verdana
   - nunito
+  - verdana
 imagery_styles:
   - bold
   - graphic

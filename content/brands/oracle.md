@@ -2,7 +2,7 @@
 title: Oracle
 slug: oracle
 description: ""
-date: "2026-03-05T15:56:46.219481"
+date: "2026-03-05T22:38:39.957809"
 draft: false
 sectors:
   - software
@@ -24,340 +24,263 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "vertical-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - racing
-  - fashion
-  - sky
-  - "studio-photography"
-  - "still-life"
-  - "live-stage"
-  - group
-  - report
-  - performance
-  - selfie
-  - automotive
-  - interior
-  - typography
-  - branding
-  - candid
-  - botanical
-  - "event-photography"
-  - cityscape
-  - audience
-  - race
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - business
-  - wildlife
-  - family
-  - text
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - architectural
-  - documentary
-  - professional
-  - anniversary
   - "race-car"
-  - underwater
+  - audience
+  - selfie
+  - report
+  - professional
+  - race
+  - landscape
+  - performance
+  - automotive
+  - promotional
+  - botanical
+  - nature
+  - product
+  - text
   - abstract
+  - interior
   - illustration
   - "audience-perspective"
-  - action
-  - emotional
+  - street
+  - "studio-photography"
   - advertising
-concepts:
-  - "motion-capture"
-  - realism
+  - racing
+  - sports
+  - action
   - "live-stage"
-  - "professional-headshot"
-  - "emotional-connection"
-  - "emotional-impact"
-  - typography
-  - branding
-  - "social-commentary"
-  - "incomplete-art"
-  - celebration
-  - photorealism
-  - vintage
-  - motherhood
-  - "graphic-design"
+  - architectural
+  - group
+  - candid
+  - documentary
   - logo
-  - corporate
+  - fashion
+  - sky
+  - event
   - advertisement
-  - cartoon
+  - emotional
+  - cityscape
   - "text-heavy"
+  - corporate
+  - underwater
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - wildlife
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - business
+  - historical
+  - "event-photography"
+  - branding
+  - "still-life"
+  - anniversary
+concepts:
+  - "logo-design"
+  - "social-commentary"
   - "wave-pattern"
   - illustration
-  - "logo-design"
+  - vintage
   - action
+  - "live-stage"
+  - "emotional-impact"
+  - logo
+  - advertisement
+  - "text-heavy"
+  - "motion-capture"
+  - corporate
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - "incomplete-art"
+  - motherhood
+  - "emotional-connection"
+  - celebration
+  - realism
+  - branding
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "gaussian-blur"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - "bokeh-effect"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
-  - "negative-space"
+  - "dark-focal-point"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
   - "vanishing-point"
   - "radial-blur"
-  - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "dark-focal-point"
-  - "short-exposure"
-  - "motion-blur"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - "dark-blue"
+  - black
+  - cyan
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - confident
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
-  - neutral
   - engaged
-  - a
-  - c
-  - active
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - winter
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - active
+  - content
+  - focused
+  - contemplative
+  - confident
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - professional
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - winter
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - protective
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
   - leaning
+  - reclined
+  - relaxed
   - dynamic
-  - a
+  - walking
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

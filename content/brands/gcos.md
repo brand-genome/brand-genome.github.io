@@ -2,11 +2,11 @@
 title: GCOS
 slug: gcos
 description: ""
-date: "2026-03-05T15:56:45.826318"
+date: "2026-03-05T22:38:39.332937"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - lockup
   - horizontal
   - signature
-  - primary
   - vertical
 brand_colors:
-  - "pantone-130"
+  - white
   - gold
-  - "pantone-299"
-  - orange
   - teal
+  - orange
+  - "pantone-293"
   - black
   - blue
-  - white
   - "pantone-7712"
   - "pantone-144"
-  - "pantone-293"
+  - "pantone-130"
+  - "pantone-299"
 typographies: []
 imagery_styles: []
 wikidata_description: software system for managing Affymetrix microarray data

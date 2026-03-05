@@ -2,7 +2,7 @@
 title: John Deere
 slug: "john-deere"
 description: ""
-date: "2026-03-05T15:56:46.226503"
+date: "2026-03-05T22:38:39.980317"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -23,308 +23,231 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
+  - textured
+  - blurred
   - transparent
-  - bright
-  - gradient
+  - solid
   - "sunset-colors"
   - light
-  - textured
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - green
-  - dark
-  - vintage
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - vintage
+  - green
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - equipment
   - selfie
-  - interior
   - commercial
-  - typography
-  - branding
-  - candid
-  - botanical
-  - outdoor
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
   - landscape
-  - logo
-  - corporate
-  - wildlife
-  - agricultural
-  - family
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
-  - children
-  - product
-  - sports
+  - botanical
+  - promotional
   - nature
-  - "text-heavy"
+  - outdoor
+  - product
+  - text
   - agriculture
-  - exhibition
-  - cartoon
-  - architectural
-  - documentary
+  - lifestyle
   - abstract
-  - action
+  - interior
+  - street
   - advertising
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - logo
+  - fashion
+  - sky
+  - advertisement
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - children
+  - exhibition
+  - wildlife
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - agricultural
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - logo
+  - advertisement
+  - branding
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
   - typography
-  - cartoon
-  - "text-heavy"
-  - branding
+  - "graphic-design"
+  - "wave-pattern"
   - "framed-image"
-  - logo
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "text-heavy"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "text-heavy"
+  - "high-saturation"
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - olive
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - red
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - curious
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
+  - content
+  - curious
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - contemplative
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
   - casual
-  - p
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
   - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - red
+  - vibrant
+  - muted
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - relaxed
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - seated
+  - midsection
+  - "lower-half"
   - "full-back"
+  - relaxed
+  - "upper-body"
+  - engaged
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

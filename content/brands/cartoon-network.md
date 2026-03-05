@@ -2,11 +2,11 @@
 title: Cartoon Network
 slug: "cartoon-network"
 description: ""
-date: "2026-03-05T15:56:45.809946"
+date: "2026-03-05T22:38:39.315874"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - "united-arab-emirates"
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
+  - white
   - magenta
+  - black
   - cyan
   - yellow
-  - black
-  - white
 typographies:
   - gotham
 imagery_styles:

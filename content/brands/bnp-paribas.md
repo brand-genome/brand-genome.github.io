@@ -2,7 +2,7 @@
 title: BNP Paribas
 slug: "bnp-paribas"
 description: ""
-date: "2026-03-05T15:56:45.916879"
+date: "2026-03-05T22:38:39.482876"
 draft: false
 sectors:
   - insurance
@@ -27,316 +27,239 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
-  - botanical
   - audience
-  - celebration
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - "augmented-reality"
-  - landscape
-  - corporate
-  - event
-  - business
-  - text
-  - portrait
-  - advertisement
-  - product
-  - sport
-  - sports
-  - nature
-  - "text-heavy"
-  - "award-announcement"
-  - athletic
-  - architectural
-  - headshot
+  - selfie
   - professional
-  - documentary
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - product
+  - text
   - abstract
+  - interior
   - "audience-perspective"
   - illustration
-  - "data-visualization"
-  - action
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - infographic
+  - headshot
+  - documentary
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - athletic
+  - "data-visualization"
+  - "text-heavy"
+  - corporate
+  - "augmented-reality"
+  - "graphic-design"
+  - portrait
+  - beauty
+  - "award-announcement"
+  - celebration
+  - business
+  - "still-life"
+  - sport
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
+  - informative
+  - quote
   - silhouette
-  - inspirational
-  - photorealism
+  - "virtual-tennis"
+  - "augmented-reality"
+  - "wave-pattern"
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - informative
-  - "virtual-tennis"
-  - "live-stage"
-  - "text-heavy"
-  - "graphic-design"
-  - typography
-  - cartoon
-  - "augmented-reality"
   - "data-representation"
-  - quote
+  - typography
+  - "graphic-design"
   - "mobile-app"
+  - inspirational
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - silhouette
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - silhouette
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
   - "low-contrast"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - emerald
-  - "royal-blue"
-  - "dark-blue"
-  - "dark-gray"
-  - "dark-green"
-  - black
   - white
+  - emerald
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "light-blue"
+  - "royal-blue"
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
+  - relaxed
+  - neutral
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - contemplative
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
+  - casual
+  - athletic
+  - "form-fitting"
   - beachwear
-  - "business-casual"
-  - c
   - business
   - active
-  - t
-  - i
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
   - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - vibrant
   - neutral
-  - dark
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
+  - dark
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
+  - walking
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - reclined
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - dynamic
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - active
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - dynamic
+  - active
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - horizontal
   - signature
   - vertical
+  - horizontal
 brand_colors:
   - green
 typographies: []

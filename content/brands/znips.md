@@ -2,7 +2,7 @@
 title: Znips
 slug: znips
 description: ""
-date: "2026-03-05T15:56:46.137590"
+date: "2026-03-05T22:38:39.777951"
 draft: false
 sectors:
   - beauty
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
   - "pantone-144"
+  - grey
   - black
   - "pantone-445"
 typographies:

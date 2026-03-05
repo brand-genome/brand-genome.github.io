@@ -2,11 +2,11 @@
 title: VA Mobile
 slug: "va-mobile"
 description: ""
-date: "2026-03-05T15:56:46.127305"
+date: "2026-03-05T22:38:39.766840"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - usa
 years:

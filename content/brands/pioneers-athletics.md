@@ -2,7 +2,7 @@
 title: Pioneers Athletics
 slug: "pioneers-athletics"
 description: ""
-date: "2026-03-05T15:56:45.946144"
+date: "2026-03-05T22:38:39.514766"
 draft: false
 sectors:
   - education
@@ -40,19 +40,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
+  - white
+  - red
+  - orange
+  - blue
+  - silver
+  - gray
   - "pantone-655"
   - "pantone-2728"
   - "pantone-2347"
-  - gray
-  - silver
-  - orange
-  - blue
-  - white
-  - red
 typographies: []
 imagery_styles:
   - bold

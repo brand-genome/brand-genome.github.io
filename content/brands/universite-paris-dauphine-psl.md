@@ -2,12 +2,12 @@
 title: Université Paris Dauphine PSL
 slug: "universite-paris-dauphine-psl"
 description: ""
-date: "2026-03-05T15:56:45.697488"
+date: "2026-03-05T22:38:39.189281"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - france
 years:

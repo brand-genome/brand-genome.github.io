@@ -2,7 +2,7 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-03-05T15:56:45.940441"
+date: "2026-03-05T22:38:39.510128"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - photography
 wikidata_description: "Irish ferry company, division of the Irish Continental Group"
 has_twitter: false

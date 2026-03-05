@@ -2,7 +2,7 @@
 title: Gobierno de México
 slug: "gobierno-de-mexico"
 description: ""
-date: "2026-03-05T15:56:45.860003"
+date: "2026-03-05T22:38:39.374883"
 draft: false
 sectors:
   - "public-sector"
@@ -40,16 +40,16 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - "pantone-465"
   - "pantone-468"
-  - black
   - "pantone-504"
-  - "pantone-7421"
+  - black
   - "pantone-490"
+  - "pantone-465"
+  - "pantone-7421"
   - "pantone-7420"
 typographies:
-  - montserrat
   - serif
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: ""

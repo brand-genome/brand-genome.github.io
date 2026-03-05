@@ -2,12 +2,12 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-03-05T15:56:45.683746"
+date: "2026-03-05T22:38:39.178410"
 draft: false
 sectors:
-  - hardware
-  - automobile
   - construction
+  - automobile
+  - hardware
 regions:
   - sweden
 years:
@@ -18,8 +18,8 @@ languages:
   - english
   - chinese
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
   - "car-manufacturing"
@@ -49,31 +49,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - green
-  - yellow
-  - silver
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
+  - silver
+  - green
 typographies:
-  - serif
   - impact
-  - arial
+  - serif
   - times
+  - arial
 imagery_styles:
-  - modern
-  - professional
-  - photography
-  - natural
-  - dynamic
-  - muted
-  - product
-  - clean
   - bold
+  - photography
+  - product
+  - dynamic
+  - professional
+  - clean
+  - modern
+  - muted
+  - natural
 wikidata_description: automotive brand manufacturing subsidiary of Geely
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Havas
 slug: havas
 description: ""
-date: "2026-03-05T15:56:45.949404"
+date: "2026-03-05T22:38:39.518270"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-relations"
+  - "marketing-advertising"
 regions:
   - france
 years:
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
-  - magenta
-  - green
-  - black
   - white
   - red
+  - magenta
+  - black
+  - green
 typographies:
   - helvetica
 imagery_styles:
-  - staged
-  - photography
   - bold
   - aerial
+  - photography
+  - staged
 wikidata_description: Dutch car company
 has_twitter: false
 has_guidelines: true

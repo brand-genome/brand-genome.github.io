@@ -2,11 +2,11 @@
 title: Napster
 slug: napster
 description: ""
-date: "2026-03-05T15:56:46.131300"
+date: "2026-03-05T22:38:39.771785"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - usa
 years:
@@ -42,12 +42,12 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - green
-  - gray
+  - white
   - grey
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
   - impact
 imagery_styles:

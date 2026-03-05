@@ -2,11 +2,11 @@
 title: University of the Pacific
 slug: "university-of-the-pacific"
 description: ""
-date: "2026-03-05T15:56:45.849196"
+date: "2026-03-05T22:38:39.361712"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,35 +41,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
   - seal
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - wordmark
   - vertical
 brand_colors:
-  - "pantone-419"
-  - "pantone-403"
-  - "pantone-166"
-  - orange
-  - black
-  - navy
   - white
   - "pantone-165"
-  - "pantone-555"
   - "pantone-282"
   - "pantone-7409"
+  - orange
+  - "pantone-419"
+  - black
+  - "pantone-555"
+  - "pantone-166"
+  - "pantone-403"
+  - navy
 typographies:
   - georgia
-  - display
   - arial
+  - display
 imagery_styles:
+  - bold
   - photography
+  - graphic
   - dynamic
   - lifestyle
-  - bold
-  - graphic
 wikidata_description: "private university in Stockton, California, United States"
 has_twitter: false
 has_guidelines: true

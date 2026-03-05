@@ -2,7 +2,7 @@
 title: Petit c Paris
 slug: "petit-c-paris"
 description: ""
-date: "2026-03-05T15:56:46.140119"
+date: "2026-03-05T22:38:39.779986"
 draft: false
 sectors:
   - food
@@ -41,10 +41,10 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - geometric
-  - modern
   - colorful
   - photography
+  - geometric
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

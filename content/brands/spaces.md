@@ -2,7 +2,7 @@
 title: Spaces
 slug: spaces
 description: ""
-date: "2026-03-05T15:56:46.027104"
+date: "2026-03-05T22:38:39.594596"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - business
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -41,17 +41,17 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies:
   - times
 imagery_styles:
+  - bold
   - photography
   - dynamic
   - dramatic
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

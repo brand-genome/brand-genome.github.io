@@ -2,7 +2,7 @@
 title: Baslac
 slug: baslac
 description: ""
-date: "2026-03-05T15:56:46.056199"
+date: "2026-03-05T22:38:39.649369"
 draft: false
 sectors:
   - "consumer-goods"
@@ -43,8 +43,8 @@ brand_colors:
   - black
 typographies:
   - din
-  - display
   - helvetica
+  - display
 imagery_styles:
   - bold
   - graphic

@@ -2,11 +2,11 @@
 title: Epson
 slug: epson
 description: ""
-date: "2026-03-05T15:56:46.092163"
+date: "2026-03-05T22:38:39.713301"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -41,22 +41,22 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - verdana
-  - helvetica
   - "sans-serif"
+  - helvetica
 imagery_styles:
-  - contemporary
-  - professional
-  - photography
-  - dynamic
-  - gradient
-  - colorful
   - bold
+  - photography
   - graphic
+  - dynamic
+  - professional
+  - colorful
+  - contemporary
+  - gradient
 wikidata_description: brand of electronics
 has_twitter: false
 has_guidelines: true

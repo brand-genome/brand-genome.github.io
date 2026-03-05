@@ -2,7 +2,7 @@
 title: Alpha Omicron Pi
 slug: "alpha-omicron-pi"
 description: ""
-date: "2026-03-05T15:56:46.062201"
+date: "2026-03-05T22:38:39.666342"
 draft: false
 sectors:
   - ngo
@@ -39,13 +39,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - logomark
+  - secondary
 brand_colors:
-  - black
-  - pink
   - coral
+  - pink
+  - black
   - gray
 typographies:
   - script

@@ -2,11 +2,11 @@
 title: Blueway
 slug: blueway
 description: ""
-date: "2026-03-05T15:56:46.086868"
+date: "2026-03-05T22:38:39.707375"
 draft: false
 sectors:
-  - tourism
   - sports
+  - tourism
 regions:
   - ireland
 years:
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - black

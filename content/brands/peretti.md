@@ -2,7 +2,7 @@
 title: Peretti
 slug: peretti
 description: ""
-date: "2026-03-05T15:56:45.813373"
+date: "2026-03-05T22:38:39.319591"
 draft: false
 sectors:
   - fashion
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - logomark
 brand_colors: []
 typographies:

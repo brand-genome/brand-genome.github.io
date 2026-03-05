@@ -2,11 +2,11 @@
 title: Universidad de León
 slug: "universidad-de-leon"
 description: ""
-date: "2026-03-05T15:56:45.682791"
+date: "2026-03-05T22:38:39.178036"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -40,19 +40,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - gray
-  - black
-  - "pantone-485"
   - white
   - red
+  - black
+  - "pantone-485"
+  - gray
 typographies:
   - trebuchet
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

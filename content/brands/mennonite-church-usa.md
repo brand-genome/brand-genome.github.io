@@ -2,7 +2,7 @@
 title: Mennonite Church USA
 slug: "mennonite-church-usa"
 description: ""
-date: "2026-03-05T15:56:45.819357"
+date: "2026-03-05T22:38:39.326210"
 draft: false
 sectors:
   - ngo
@@ -37,17 +37,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - primary
   - symbol
+  - signature
+  - secondary
 brand_colors:
-  - green
-  - "pantone-347"
-  - gray
-  - "pantone-286"
-  - black
   - white
+  - "pantone-347"
+  - black
+  - gray
+  - green
+  - "pantone-286"
 typographies:
   - display
 imagery_styles:

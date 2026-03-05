@@ -2,11 +2,11 @@
 title: Intel
 slug: intel
 description: ""
-date: "2026-03-05T15:56:45.956694"
+date: "2026-03-05T22:38:39.521920"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ tags:
   - vintage
   - technology
 industries:
-  - "electrical-industry"
   - "semiconductor-industry"
+  - "electrical-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -48,8 +48,8 @@ logo_elements:
   - wordmark
   - symbol
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:

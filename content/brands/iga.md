@@ -2,7 +2,7 @@
 title: IGA
 slug: iga
 description: ""
-date: "2026-03-05T15:56:45.977284"
+date: "2026-03-05T22:38:39.553319"
 draft: false
 sectors:
   - supermarket

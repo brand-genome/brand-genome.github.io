@@ -2,7 +2,7 @@
 title: Stevens
 slug: stevens
 description: ""
-date: "2026-03-05T15:56:45.890456"
+date: "2026-03-05T22:38:39.410066"
 draft: false
 sectors:
   - university
@@ -43,8 +43,8 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - red
   - white
+  - red
   - gray
 typographies:
   - arial

@@ -2,7 +2,7 @@
 title: Eastbay
 slug: eastbay
 description: ""
-date: "2026-03-05T15:56:45.965203"
+date: "2026-03-05T22:38:39.531352"
 draft: false
 sectors:
   - "consumer-goods"
@@ -39,12 +39,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - grey
   - black
-  - white
   - yellow
 typographies: []
 imagery_styles:

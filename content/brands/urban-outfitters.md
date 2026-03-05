@@ -2,7 +2,7 @@
 title: Urban Outfitters
 slug: "urban-outfitters"
 description: ""
-date: "2026-03-05T15:56:46.189711"
+date: "2026-03-05T22:38:39.866926"
 draft: false
 sectors:
   - fashion
@@ -21,298 +21,221 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
+  - "text-heavy"
   - "complementary-colors"
-  - "bright-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
   - vintage
   - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
-  - "text-heavy"
-  - "galaxy-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - "home-decor"
+  - landscape
+  - botanical
+  - food
+  - product
+  - interior
+  - abstract
+  - vintage
+  - illustration
+  - street
+  - advertising
+  - artistic
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - artistic
-  - interior
-  - candid
-  - typography
-  - botanical
-  - vintage
-  - historical
-  - beauty
-  - "home-decor"
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - music
-  - "pet-photography"
-  - portrait
+  - fashion
+  - sky
   - advertisement
-  - product
+  - "text-heavy"
+  - underwater
+  - cartoon
+  - "pet-photography"
+  - music
+  - typography
+  - "graphic-design"
+  - decor
+  - portrait
+  - beauty
+  - historical
+  - "still-life"
+concepts:
+  - textured
+  - advertising
+  - "wave-pattern"
   - cartoon
   - "text-heavy"
-  - architectural
-  - underwater
-  - abstract
-  - illustration
-  - action
-  - decor
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "product-display"
-  - "text-heavy"
-  - textured
   - typography
+  - "graphic-design"
+  - "product-display"
   - "framed-image"
-  - advertising
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - pink
-  - brown
   - "off-white"
-  - orange
-  - gray
-  - black
   - white
+  - orange
+  - black
   - "dark-brown"
+  - pink
+  - gray
+  - brown
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - straight
+  - casual
   - blonde
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - flowing
   - white
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
+  - casual
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - casual
-  - p
-clothing_styles:
-  - comfortable
-  - trendy
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - summery
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - cozy
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - fashionable
-  - b
-  - n
-  - casual
-  - p
-  - protective
-  - simple
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - summery
+  - simple
+  - costume
+  - trendy
+  - fashionable
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - cozy
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - rich
+  - red
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
   - light
-  - unknown
-  - o
-  - b
-  - rich
-  - n
-  - p
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

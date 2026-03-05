@@ -2,11 +2,11 @@
 title: Xbox
 slug: xbox
 description: ""
-date: "2026-03-05T15:56:45.945874"
+date: "2026-03-05T22:38:39.514508"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,17 +40,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - white
-  - gray
   - green
+  - gray
 typographies:
   - script
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: home video game consoles developed by Microsoft
 has_twitter: false
 has_guidelines: true

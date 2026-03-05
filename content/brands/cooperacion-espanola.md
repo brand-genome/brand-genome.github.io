@@ -2,11 +2,11 @@
 title: Cooperación Española
 slug: "cooperacion-espanola"
 description: ""
-date: "2026-03-05T15:56:45.948099"
+date: "2026-03-05T22:38:39.516456"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - spain
 years:

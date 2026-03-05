@@ -2,7 +2,7 @@
 title: Lamar
 slug: lamar
 description: ""
-date: "2026-03-05T15:56:45.738674"
+date: "2026-03-05T22:38:39.231306"
 draft: false
 sectors:
   - "marketing-advertising"

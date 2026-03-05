@@ -2,12 +2,12 @@
 title: PlayStation 5
 slug: "playstation-5"
 description: ""
-date: "2026-03-05T15:56:45.831345"
+date: "2026-03-05T22:38:39.336868"
 draft: false
 sectors:
-  - entertainment
-  - electronics
   - gaming
+  - electronics
+  - entertainment
 regions:
   - japan
 years:

@@ -2,11 +2,11 @@
 title: AES
 slug: aes
 description: ""
-date: "2026-03-05T15:56:45.844431"
+date: "2026-03-05T22:38:39.356203"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - usa
 years:
@@ -41,19 +41,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - violet
 typographies:
   - roboto
   - script
 imagery_styles:
+  - bold
   - photography
   - vibrant
   - dynamic
   - gradient
   - clean
-  - bold
 wikidata_description: American utility and power company
 has_twitter: false
 has_guidelines: true

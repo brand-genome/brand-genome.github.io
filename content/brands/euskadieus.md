@@ -2,7 +2,7 @@
 title: euskadi.eus
 slug: euskadieus
 description: ""
-date: "2026-03-05T15:56:45.930355"
+date: "2026-03-05T22:38:39.505342"
 draft: false
 sectors:
   - "public-sector"

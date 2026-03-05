@@ -2,7 +2,7 @@
 title: Ecuador
 slug: ecuador
 description: ""
-date: "2026-03-05T15:56:45.663207"
+date: "2026-03-05T22:38:39.130908"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - ecuador

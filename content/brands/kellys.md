@@ -2,7 +2,7 @@
 title: Kellys
 slug: kellys
 description: ""
-date: "2026-03-05T15:56:46.042274"
+date: "2026-03-05T22:38:39.613176"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,11 +38,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - geometric

@@ -2,11 +2,11 @@
 title: Xavier University of Louisiana
 slug: "xavier-university-of-louisiana"
 description: ""
-date: "2026-03-05T15:56:46.147228"
+date: "2026-03-05T22:38:39.787594"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -44,8 +44,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: Catholic university in the U.S state of Louisiana
 has_twitter: false
 has_guidelines: true

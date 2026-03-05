@@ -2,7 +2,7 @@
 title: QB
 slug: qb
 description: ""
-date: "2026-03-05T15:56:46.124386"
+date: "2026-03-05T22:38:39.763698"
 draft: false
 sectors:
   - construction
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
+  - bold
   - monochrome
   - product
-  - bold
 wikidata_description: Dutch public transport bus company
 has_twitter: false
 has_guidelines: true

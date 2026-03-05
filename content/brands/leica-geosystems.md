@@ -2,11 +2,11 @@
 title: Leica Geosystems
 slug: "leica-geosystems"
 description: ""
-date: "2026-03-05T15:56:45.949620"
+date: "2026-03-05T22:38:39.518606"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - switzerland
 years:
@@ -42,8 +42,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

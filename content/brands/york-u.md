@@ -2,11 +2,11 @@
 title: York U
 slug: "york-u"
 description: ""
-date: "2026-03-05T15:56:45.726608"
+date: "2026-03-05T22:38:39.216419"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:

@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-03-05T15:56:45.907150"
+date: "2026-03-05T22:38:39.439793"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - museum
   - military
+  - museum
 industries: []
 countries:
   - "united-kingdom"
@@ -42,15 +42,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-186"
-  - "pantone-289"
-  - blue
-  - black
   - white
   - red
+  - "pantone-186"
+  - black
+  - blue
+  - "pantone-289"
 typographies:
-  - frutiger
   - arial
+  - frutiger
   - display
 imagery_styles:
   - bold

@@ -2,7 +2,7 @@
 title: Gironde
 slug: gironde
 description: ""
-date: "2026-03-05T15:56:46.123516"
+date: "2026-03-05T22:38:39.762736"
 draft: false
 sectors:
   - "public-sector"
@@ -39,14 +39,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - red
+  - black
 typographies:
   - serif
 imagery_styles:
   - bold
-  - modern
   - classic
+  - modern
 wikidata_description: "French department in Nouvelle-Aquitaine"
 has_twitter: false
 has_guidelines: true

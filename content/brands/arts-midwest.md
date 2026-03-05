@@ -2,7 +2,7 @@
 title: Arts Midwest
 slug: "arts-midwest"
 description: ""
-date: "2026-03-05T15:56:45.691003"
+date: "2026-03-05T22:38:39.181860"
 draft: false
 sectors:
   - ngo
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - stacked
   - primary
+  - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - "pantone-2297"
-  - coral
-  - green
-  - "pantone-2366"
-  - purple
-  - black
   - white
-  - "pantone-5275"
   - "pantone-170"
+  - "pantone-5275"
+  - black
+  - "pantone-2366"
+  - coral
+  - "pantone-2297"
+  - green
+  - purple
 typographies: []
 imagery_styles:
   - bold

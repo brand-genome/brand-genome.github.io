@@ -2,11 +2,11 @@
 title: Bambino
 slug: bambino
 description: ""
-date: "2026-03-05T15:56:45.837513"
+date: "2026-03-05T22:38:39.346716"
 draft: false
 sectors:
-  - "childcare-family-services"
   - software
+  - "childcare-family-services"
 regions:
   - usa
 years:

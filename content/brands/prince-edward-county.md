@@ -2,7 +2,7 @@
 title: Prince Edward County
 slug: "prince-edward-county"
 description: ""
-date: "2026-03-05T15:56:46.028909"
+date: "2026-03-05T22:38:39.596535"
 draft: false
 sectors:
   - "public-sector"
@@ -43,20 +43,20 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - beige
-  - black
-  - navy
   - white
+  - black
   - blue
+  - beige
+  - navy
 typographies:
   - arial
   - display
 imagery_styles:
+  - bold
   - photography
+  - graphic
   - minimal
   - natural
-  - bold
-  - graphic
 wikidata_description: "municipality in Ontario, Canada"
 has_twitter: false
 has_guidelines: true

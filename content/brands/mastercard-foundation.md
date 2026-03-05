@@ -2,7 +2,7 @@
 title: Mastercard Foundation
 slug: "mastercard-foundation"
 description: ""
-date: "2026-03-05T15:56:45.724259"
+date: "2026-03-05T22:38:39.213992"
 draft: false
 sectors:
   - ngo

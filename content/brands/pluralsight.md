@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-03-05T15:56:46.156045"
+date: "2026-03-05T22:38:39.795840"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -39,29 +39,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
+  - secondary
   - lockup
   - alternate
-  - icon
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors:
+  - white
   - magenta
-  - gray
   - orange
   - black
-  - white
+  - gray
 typographies:
-  - montserrat
   - impact
   - gotham
+  - montserrat
 imagery_styles:
-  - modern
-  - professional
-  - photography
-  - gradient
   - bold
+  - photography
+  - professional
+  - gradient
+  - modern
 wikidata_description: online education company
 has_twitter: false
 has_guidelines: true

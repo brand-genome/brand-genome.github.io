@@ -2,7 +2,7 @@
 title: Adami
 slug: adami
 description: ""
-date: "2026-03-05T15:56:45.833696"
+date: "2026-03-05T22:38:39.339216"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - art
   - music
+  - art
 industries:
   - unknown
 countries:
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - signature
   - horizontal
-  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

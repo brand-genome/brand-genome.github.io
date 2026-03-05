@@ -2,7 +2,7 @@
 title: Hustler
 slug: hustler
 description: ""
-date: "2026-03-05T15:56:46.098058"
+date: "2026-03-05T22:38:39.718973"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors: []

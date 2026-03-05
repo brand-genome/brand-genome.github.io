@@ -2,11 +2,11 @@
 title: "Trin-Trin"
 slug: "trin-trin"
 description: ""
-date: "2026-03-05T15:56:45.699564"
+date: "2026-03-05T22:38:39.191889"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - india
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

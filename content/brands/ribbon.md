@@ -2,12 +2,12 @@
 title: Ribbon
 slug: ribbon
 description: ""
-date: "2026-03-05T15:56:45.895642"
+date: "2026-03-05T22:38:39.418551"
 draft: false
 sectors:
+  - software
   - networking
   - telecom
-  - software
 regions:
   - usa
 years:
@@ -39,10 +39,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:

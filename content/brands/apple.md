@@ -2,12 +2,12 @@
 title: Apple
 slug: apple
 description: ""
-date: "2026-03-05T15:56:45.757582"
+date: "2026-03-05T22:38:39.255496"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -17,17 +17,17 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
   - technology
+  - corporate
 industries:
-  - "consumer-electronics-industry"
-  - "software-industry"
   - "software-development"
-  - "digital-distribution"
+  - "consumer-electronics-industry"
   - "mobile-phone-industry"
+  - "software-industry"
   - "information-technology"
   - electronics
+  - "digital-distribution"
 countries:
   - "united-states"
 revenue_buckets:
@@ -39,406 +39,329 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - "precise-camera-moves"
-  - natural
   - moderate
-  - bright
   - vignette
+  - light
   - "moody-lighting"
   - "light-glare"
-  - light
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - "precise-camera-moves"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
   - "rule-of-thirds"
-  - "panorama-view"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - "rocky-terrain"
-  - text
   - dark
-  - blurred
+  - "background-as-frame"
+  - red
   - wood
+  - textured
+  - text
+  - blurred
   - transparent
-  - bright
-  - gradient
-  - brick
+  - solid
   - light
+  - gradient
+  - pattern
+  - bright
+  - "rocky-terrain"
+  - brick
+color_schemes:
+  - orange
+  - light
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "two-tone"
   - red
   - textured
-  - solid
-color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - orange
-  - "inverted-colors"
-  - red
-  - "aquatic-colors"
-  - "analogous-colors"
+  - "text-heavy"
   - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "text-heavy"
+  - "inverted-colors"
   - grayscale
-  - bright
-  - textured
+  - monotone
+  - "aquatic-colors"
 photography_genres:
+  - celebrity
+  - fantasy
   - studio
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - professional
+  - "book-cover"
+  - baby
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - art
+  - text
+  - lifestyle
+  - illustration
+  - abstract
+  - interior
+  - "digital-art"
+  - vintage
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - golf
-  - selfie
-  - interior
-  - typography
-  - branding
-  - candid
-  - botanical
-  - political
-  - baby
-  - outdoor
-  - cityscape
-  - "incomplete-art"
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - beauty
   - character
-  - instructional
-  - food
-  - vintage
-  - "graphic-design"
-  - "book-cover"
-  - street
-  - landscape
-  - logo
-  - music
-  - celebrity
-  - event
-  - wildlife
-  - business
-  - family
-  - text
-  - "digital-art"
-  - macro
-  - office
-  - fantasy
-  - portrait
-  - advertisement
-  - literature
-  - lifestyle
-  - art
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - nature
-  - bridal
-  - architectural
-  - professional
   - documentary
-  - arcade
+  - logo
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - literature
+  - cityscape
+  - cartoon
   - underwater
-  - abstract
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "live-performance"
-  - studio
-  - "motion-capture"
-  - textured
-  - achievement
-  - "live-stage"
+  - "text-heavy"
+  - bridal
+  - music
+  - family
   - typography
+  - "graphic-design"
+  - wildlife
+  - macro
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - historical
+  - business
+  - branding
+  - arcade
+  - instructional
+  - political
+  - golf
+  - office
+  - "still-life"
+concepts:
+  - studio
+  - professional
+  - informational
+  - "wave-pattern"
+  - silhouette
+  - illustration
+  - vintage
+  - achievement
+  - action
+  - "live-stage"
+  - checklist
+  - logo
+  - textured
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - typography
+  - "graphic-design"
   - "framed-image"
   - "incomplete-art"
+  - beauty
+  - list
   - celebration
   - photorealism
-  - vintage
-  - beauty
-  - "graphic-design"
-  - logo
-  - silhouette
-  - checklist
-  - advertisement
-  - informational
-  - cartoon
-  - "text-heavy"
-  - professional
-  - "wave-pattern"
-  - illustration
-  - action
-  - list
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
-  - "gaussian-blur"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "gaussian-blur"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+  - "radial-blur"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "radial-blur"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "dark-blue"
+  - white
   - "off-white"
   - orange
+  - "dark-blue"
+  - cyan
   - black
-  - white
   - "dark-brown"
   - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
+  - casual
+  - white
+  - blonde
   - flowing
-  - traditional
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
+  - engaged
+  - wavy
   - relaxed
+  - loose
+  - curled
+  - curls
+  - bearded
+  - traditional
+  - gray
+  - updo
+  - dark
+  - "tied-back"
+  - beard
   - braids
   - goatee
-  - braided
   - neutral
-  - up
-  - engaged
-  - dark
-  - curly
-  - covered
-  - curled
-  - varied
-  - down
-  - a
-  - short
-  - c
-  - neat
+  - straight
   - ponytail
-  - wavy
-  - "pulled-back"
+  - shaved
+  - curly
+  - joyful
+  - up
+  - content
+  - braided
   - pink
-  - t
-  - i
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
-  - focused
-  - shaved
-  - casual
-  - gray
-  - p
-  - bearded
-  - white
-  - updo
-  - "tied-back"
-  - curls
-facial_expressions:
-  - curious
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - happy
-  - c
-  - friendly
-  - angry
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
+  - down
   - formal
-  - traditional
-  - l
-  - e
+  - focused
+  - long
+  - contemplative
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
   - relaxed
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - warm
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - angry
+  - friendly
+  - content
+  - curious
+  - focused
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - warm
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - red
+  - gold
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - gold
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
-  - comfortable
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - contemplative
+  - static
+  - comfortable
+  - confident
 gazes:
-  - attentive
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - attentive
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - signature
   - seal
+  - signature
 brand_colors: []
 typographies: []
 imagery_styles:

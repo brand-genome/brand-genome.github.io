@@ -2,7 +2,7 @@
 title: Switcher Studio
 slug: "switcher-studio"
 description: ""
-date: "2026-03-05T15:56:45.931013"
+date: "2026-03-05T22:38:39.506019"
 draft: false
 sectors:
   - broadcasting
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - secondary
   - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - gray
-  - orange
-  - teal
-  - black
   - white
+  - teal
+  - orange
+  - black
   - blue
+  - gray
 typographies:
-  - montserrat
   - verdana
+  - montserrat
 imagery_styles:
   - staged
   - graphic

@@ -2,7 +2,7 @@
 title: Southeastern Railway
 slug: "southeastern-railway"
 description: ""
-date: "2026-03-05T15:56:45.652985"
+date: "2026-03-05T22:38:39.120412"
 draft: false
 sectors:
   - "public-transportation"
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - abstract
+  - crest
 brand_colors:
   - white
 typographies: []

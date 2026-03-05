@@ -2,7 +2,7 @@
 title: International Paralympic Committee
 slug: "international-paralympic-committee"
 description: ""
-date: "2026-03-05T15:56:45.834406"
+date: "2026-03-05T22:38:39.339999"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -48,10 +48,10 @@ brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - monochrome
   - bold
   - dynamic
   - photography
+  - monochrome
 wikidata_description: Global governing body for the Paralympic Movement
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Evne
 slug: evne
 description: ""
-date: "2026-03-05T15:56:45.949295"
+date: "2026-03-05T22:38:39.518087"
 draft: false
 sectors:
-  - software
   - construction
+  - software
 regions:
   - india
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - australia
   - "new-zealand"
+  - australia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - graphic

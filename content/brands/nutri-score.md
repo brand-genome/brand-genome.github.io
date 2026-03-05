@@ -2,7 +2,7 @@
 title: "Nutri-score"
 slug: "nutri-score"
 description: ""
-date: "2026-03-05T15:56:45.819126"
+date: "2026-03-05T22:38:39.325946"
 draft: false
 sectors:
   - food
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []

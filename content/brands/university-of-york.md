@@ -2,7 +2,7 @@
 title: University of York
 slug: "university-of-york"
 description: ""
-date: "2026-03-05T15:56:45.880292"
+date: "2026-03-05T22:38:39.390304"
 draft: false
 sectors:
   - university
@@ -40,12 +40,12 @@ body_sections: []
 logo_elements:
   - stacked
 brand_colors:
-  - gold
   - white
+  - gold
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: "university in York, North Yorkshire, England"
 has_twitter: false
 has_guidelines: true

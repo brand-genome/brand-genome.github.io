@@ -2,7 +2,7 @@
 title: India Handloom
 slug: "india-handloom"
 description: ""
-date: "2026-03-05T15:56:46.069770"
+date: "2026-03-05T22:38:39.681293"
 draft: false
 sectors:
   - fashion
@@ -39,12 +39,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - gray
+  - white
   - orange
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
   - helvetica
 imagery_styles:

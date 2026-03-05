@@ -2,7 +2,7 @@
 title: State Farm
 slug: "state-farm"
 description: ""
-date: "2026-03-05T15:56:46.222672"
+date: "2026-03-05T22:38:39.961626"
 draft: false
 sectors:
   - insurance
@@ -22,253 +22,253 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
   - "low-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - colored
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - colored
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - "event-promotion"
-  - branding
-  - candid
-  - botanical
-  - "event-photography"
-  - "incomplete-art"
   - audience
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - vintage
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - corporate
-  - event
-  - wildlife
-  - family
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - nature
-  - "comic-book"
-  - "concert-photography"
-  - architectural
   - concert
+  - selfie
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - "comic-book"
+  - product
+  - text
+  - lifestyle
+  - interior
   - abstract
   - illustration
   - "audience-perspective"
-  - action
-  - pet
-  - advertising
-concepts:
-  - "live-performance"
-  - "live-stage"
-  - "live-event"
-  - entertainment
-  - typography
-  - branding
-  - "incomplete-art"
-  - "audience-participation"
-  - photorealism
   - vintage
-  - "graphic-design"
-  - crowd
-  - "live-concert"
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
   - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - advertisement
+  - fashion
+  - sky
+  - event
   - cartoon
   - "text-heavy"
+  - corporate
+  - "concert-photography"
+  - family
+  - "graphic-design"
+  - wildlife
+  - "incomplete-art"
+  - pet
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - "event-photography"
+  - branding
+  - "still-life"
+  - crowd
+concepts:
+  - "audience-participation"
   - "wave-pattern"
+  - "live-concert"
   - illustration
-  - "music-concert"
+  - vintage
+  - sports
   - action
+  - "live-event"
+  - "live-stage"
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "music-concert"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - entertainment
+  - branding
+  - crowd
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - symmetric
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - symmetric
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - red
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - content
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - engaged
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - pink
-  - straight
-  - long
-  - focused
   - casual
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
   - gray
   - updo
   - "tied-back"
-facial_expressions:
   - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
+  - straight
+  - ponytail
+  - curly
   - joyful
+  - content
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - focused
+  - long
   - contemplative
+facial_expressions:
+  - joyful
+  - engaged
   - relaxed
-  - excited
-clothing_styles:
-  - monochrome
-  - business
-  - pastel
-  - swimwear
-  - comfortable
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - muted
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - comfortable
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - monochrome
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - pastel
   - muted
-  - colorful
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - reclined
   - leaning
-  - confident
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - walking
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

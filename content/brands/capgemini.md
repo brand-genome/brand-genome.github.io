@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-03-05T15:56:46.093114"
+date: "2026-03-05T22:38:39.714326"
 draft: false
 sectors:
   - consulting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - software
+  - corporate
 industries:
   - "activities-of-head-offices"
   - "it-service-management"
@@ -46,13 +46,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - ubuntu

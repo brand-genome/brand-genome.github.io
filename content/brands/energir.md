@@ -2,7 +2,7 @@
 title: Energir
 slug: energir
 description: ""
-date: "2026-03-05T15:56:45.855527"
+date: "2026-03-05T22:38:39.369749"
 draft: false
 sectors:
   - gas
@@ -40,25 +40,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - abstract
+  - primary
 brand_colors:
+  - white
   - blue
   - "pantone-295"
-  - white
   - cyan
 typographies: []
 imagery_styles:
-  - modern
+  - bold
   - photography
-  - artificial
-  - organic
-  - abstract
-  - illustration
-  - natural
   - dynamic
   - geometric
-  - bold
+  - artificial
+  - illustration
+  - abstract
+  - modern
+  - natural
+  - organic
 wikidata_description: distributor of natural gas in Quebec
 has_twitter: false
 has_guidelines: true

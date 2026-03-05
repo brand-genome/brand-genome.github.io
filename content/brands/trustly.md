@@ -2,11 +2,11 @@
 title: Trustly
 slug: trustly
 description: ""
-date: "2026-03-05T15:56:46.009062"
+date: "2026-03-05T22:38:39.582206"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - sweden
 years:
@@ -17,8 +17,8 @@ tags:
   - financial
   - technology
 industries:
-  - fintech
   - "financial-services"
+  - fintech
 countries:
   - sweden
 revenue_buckets: []
@@ -42,18 +42,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - blue
   - white
-  - green
+  - blue
   - orange
+  - green
 typographies: []
 imagery_styles:
-  - minimal
   - bold
+  - minimal
   - clean
   - modern
 wikidata_description: Swedish financial technology company

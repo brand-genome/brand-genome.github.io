@@ -2,16 +2,16 @@
 title: Impinj
 slug: impinj
 description: ""
-date: "2026-03-05T15:56:45.856378"
+date: "2026-03-05T22:38:39.370532"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:
@@ -40,42 +40,42 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - abstract
+  - primary
   - secondary
   - signature
-  - primary
-  - abstract
 brand_colors:
-  - "pantone-2144"
-  - red
-  - "pantone-648"
-  - "pantone-2192"
-  - yellow
-  - gray
-  - orange
-  - teal
-  - black
-  - "pantone-3541"
-  - "pantone-2238"
   - white
-  - "pantone-7465"
-  - blue
-  - "pantone-718"
-  - "pantone-234"
-  - "pantone-225"
+  - "pantone-2238"
+  - red
   - "pantone-108"
+  - teal
+  - "pantone-234"
+  - orange
+  - "pantone-7465"
+  - black
+  - yellow
+  - blue
+  - "pantone-648"
+  - "pantone-3541"
+  - "pantone-2192"
+  - gray
+  - "pantone-2144"
+  - "pantone-225"
+  - "pantone-718"
 typographies:
+  - roboto
+  - slab
   - impact
   - arial
-  - slab
-  - roboto
 imagery_styles:
-  - modern
-  - photography
-  - abstract
-  - natural
-  - muted
-  - product
   - bold
+  - photography
+  - product
+  - abstract
+  - modern
+  - muted
+  - natural
 wikidata_description: American manufacturer of RFID devices
 has_twitter: false
 has_guidelines: true

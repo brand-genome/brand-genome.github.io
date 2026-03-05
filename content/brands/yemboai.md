@@ -2,7 +2,7 @@
 title: Yembo.ai
 slug: yemboai
 description: ""
-date: "2026-03-05T15:56:45.799398"
+date: "2026-03-05T22:38:39.303585"
 draft: false
 sectors:
   - software
@@ -37,44 +37,44 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - coral
-  - "pantone-642"
-  - "pantone-2176"
-  - "pantone-2927"
-  - green
-  - orange
-  - "pantone-656"
-  - "pantone-7463"
-  - pink
-  - yellow
-  - "pantone-184"
-  - black
-  - "pantone-1225"
-  - "pantone-291"
-  - blue
-  - "pantone-170"
-  - "pantone-2583"
-  - "pantone-2013"
-  - purple
-  - gray
-  - grey
-  - "pantone-7541"
   - white
-  - "pantone-539"
+  - orange
+  - "pantone-7463"
+  - gray
   - "pantone-3405"
+  - "pantone-170"
+  - "pantone-7541"
+  - "pantone-539"
+  - coral
+  - "pantone-291"
+  - grey
+  - "pantone-1225"
+  - pink
+  - "pantone-2583"
+  - "pantone-184"
+  - "pantone-2927"
+  - "pantone-2013"
+  - "pantone-2176"
+  - black
+  - yellow
+  - blue
+  - "pantone-642"
+  - "pantone-656"
+  - green
+  - purple
 typographies:
   - montserrat
 imagery_styles:
+  - bold
+  - photography
+  - product
+  - illustration
   - realistic
   - modern
-  - photography
-  - illustration
   - natural
-  - product
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

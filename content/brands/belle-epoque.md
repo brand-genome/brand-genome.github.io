@@ -2,7 +2,7 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-03-05T15:56:46.053064"
+date: "2026-03-05T22:38:39.645267"
 draft: false
 sectors:
   - food
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - primary
   - alternate
+  - primary
+  - monogram
   - secondary
 brand_colors:
-  - black
-  - gold
-  - "pantone-872"
   - white
+  - gold
+  - black
+  - "pantone-872"
 typographies: []
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

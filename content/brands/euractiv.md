@@ -2,7 +2,7 @@
 title: Euractiv
 slug: euractiv
 description: ""
-date: "2026-03-05T15:56:45.862023"
+date: "2026-03-05T22:38:39.376844"
 draft: false
 sectors:
   - publishing
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - favicon
+  - primary
+  - secondary
 brand_colors:
-  - yellow
+  - white
   - grey
   - black
-  - navy
-  - white
+  - yellow
   - blue
+  - navy
 typographies:
-  - verdana
   - "open-sans"
-  - arial
   - gotham
+  - verdana
+  - arial
 imagery_styles:
   - bold
 wikidata_description: European news website

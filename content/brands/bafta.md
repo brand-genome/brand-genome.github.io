@@ -2,7 +2,7 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-03-05T15:56:46.032377"
+date: "2026-03-05T22:38:39.600818"
 draft: false
 sectors:
   - "arts-culture"
@@ -39,15 +39,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gold
-  - purple
-  - teal
-  - black
   - white
   - red
+  - gold
+  - teal
+  - black
+  - purple
 typographies:
   - "century-gothic"
   - times

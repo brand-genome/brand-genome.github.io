@@ -2,7 +2,7 @@
 title: Canfitpro
 slug: canfitpro
 description: ""
-date: "2026-03-05T15:56:45.979956"
+date: "2026-03-05T22:38:39.555506"
 draft: false
 sectors:
   - education
@@ -41,8 +41,8 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

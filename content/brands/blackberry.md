@@ -2,11 +2,11 @@
 title: BlackBerry
 slug: blackberry
 description: ""
-date: "2026-03-05T15:56:46.040244"
+date: "2026-03-05T22:38:39.610923"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - canada
 years:
@@ -30,336 +30,259 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
   - vignette
-  - bright
-  - moderate
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "altered-perspective"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - report
-  - interview
-  - automotive
-  - selfie
-  - interior
-  - "event-promotion"
-  - certificate
-  - candid
-  - branding
-  - typography
-  - "event-photography"
-  - "incomplete-art"
   - audience
-  - warning
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - security
-  - logo
-  - corporate
-  - event
-  - business
-  - conceptual
-  - "digital-art"
-  - text
-  - office
-  - travel
-  - portrait
-  - advertisement
-  - informational
-  - product
-  - information
-  - "text-heavy"
-  - lighting
-  - architectural
-  - reportage
+  - report
+  - selfie
   - professional
-  - documentary
+  - informational
+  - conceptual
+  - landscape
+  - automotive
+  - promotional
+  - security
+  - product
+  - text
+  - interior
   - abstract
   - illustration
+  - "digital-art"
   - "audience-perspective"
+  - "event-promotion"
+  - street
+  - advertising
+  - lighting
+  - architectural
   - action
-  - technology
-concepts:
-  - "motion-capture"
-  - "professional-headshot"
-  - "warning-sign"
-  - typography
-  - "logo-placement"
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - corporate
-  - silhouette
-  - presentation
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
+  - event
+  - sky
   - advertisement
-  - "high-contrast"
-  - cartoon
+  - fashion
+  - interview
+  - reportage
   - "text-heavy"
-  - "corporate-branding"
+  - corporate
+  - typography
+  - "graphic-design"
+  - warning
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - business
+  - historical
+  - technology
+  - branding
+  - "event-photography"
+  - certificate
+  - information
+  - "still-life"
+  - office
+  - travel
+concepts:
+  - informative
+  - "logo-design"
   - professional
   - "wave-pattern"
+  - "warning-sign"
+  - silhouette
   - illustration
-  - "logo-design"
+  - vintage
+  - advertisement
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - corporate
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - "logo-placement"
+  - "incomplete-art"
+  - "corporate-branding"
+  - presentation
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
+  - symmetrical
+  - "gaussian-blur"
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
   - "motion-capture"
   - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "radial-blur"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - black
+  - "dark-blue"
   - "dark-brown"
-  - "light-blue"
   - blue
+  - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - cool
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
+  - flowing
+  - "pulled-back"
+  - bald
+  - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
   - updo
+  - short
+  - curly
+  - long
+  - gray
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
-  - dark
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - professional
+  - beachwear
+  - relaxed
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - dark
+  - pastel
 posings:
-  - posed
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - walking
   - active
-  - t
-  - i
+  - holding
+  - posed
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - primary
   - horizontal

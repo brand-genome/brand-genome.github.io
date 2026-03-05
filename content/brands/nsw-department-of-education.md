@@ -2,11 +2,11 @@
 title: NSW Department of Education
 slug: "nsw-department-of-education"
 description: ""
-date: "2026-03-05T15:56:45.757386"
+date: "2026-03-05T22:38:39.255150"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - australia
 years:

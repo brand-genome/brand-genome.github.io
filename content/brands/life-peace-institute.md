@@ -2,7 +2,7 @@
 title: "Life & Peace Institute"
 slug: "life-peace-institute"
 description: ""
-date: "2026-03-05T15:56:45.864324"
+date: "2026-03-05T22:38:39.379015"
 draft: false
 sectors:
   - ngo
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
+  - grey
+  - "pantone-2748"
+  - yellow
+  - blue
   - coral
   - green
-  - yellow
-  - "pantone-2748"
-  - grey
-  - white
-  - blue
 typographies:
   - georgia
 imagery_styles:

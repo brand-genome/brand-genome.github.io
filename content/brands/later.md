@@ -2,11 +2,11 @@
 title: Later
 slug: later
 description: ""
-date: "2026-03-05T15:56:45.778123"
+date: "2026-03-05T22:38:39.275730"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - canada
 years:

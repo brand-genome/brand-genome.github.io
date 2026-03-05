@@ -2,7 +2,7 @@
 title: Aldar
 slug: aldar
 description: ""
-date: "2026-03-05T15:56:45.612392"
+date: "2026-03-05T22:38:39.084167"
 draft: false
 sectors:
   - "real-estate"
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - black
   - beige
-  - white
 typographies:
-  - times
   - poppins
+  - times
 imagery_styles:
+  - bold
   - dynamic
   - clean
-  - bold
   - natural
 wikidata_description: ""
 has_twitter: false

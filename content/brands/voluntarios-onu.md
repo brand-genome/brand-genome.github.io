@@ -2,7 +2,7 @@
 title: Voluntarios ONU
 slug: "voluntarios-onu"
 description: ""
-date: "2026-03-05T15:56:45.985642"
+date: "2026-03-05T22:38:39.560983"
 draft: false
 sectors:
   - ngo
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

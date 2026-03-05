@@ -2,17 +2,17 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-03-05T15:56:45.638220"
+date: "2026-03-05T22:38:39.100172"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
+  - 2022
   - 2013
   - 2020
-  - 2022
 languages:
   - english
 tags:
@@ -45,14 +45,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: American worldwide online payments system
 has_twitter: false
 has_guidelines: true

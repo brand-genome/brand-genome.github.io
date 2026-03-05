@@ -2,11 +2,11 @@
 title: UTC Theatre Company
 slug: "utc-theatre-company"
 description: ""
-date: "2026-03-05T15:56:46.157642"
+date: "2026-03-05T22:38:39.797855"
 draft: false
 sectors:
-  - university
   - "arts-culture"
+  - university
 regions:
   - usa
 years:
@@ -42,9 +42,9 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
+  - photography
   - professional
   - playful
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

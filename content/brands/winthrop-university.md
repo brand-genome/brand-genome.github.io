@@ -2,7 +2,7 @@
 title: Winthrop University
 slug: "winthrop-university"
 description: ""
-date: "2026-03-05T15:56:45.975763"
+date: "2026-03-05T22:38:39.548119"
 draft: false
 sectors:
   - university
@@ -39,11 +39,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - logomark
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
+  - logomark
 brand_colors:
   - gray
 typographies: []

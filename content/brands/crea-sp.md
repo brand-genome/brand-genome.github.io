@@ -2,7 +2,7 @@
 title: "Crea-SP"
 slug: "crea-sp"
 description: ""
-date: "2026-03-05T15:56:46.011075"
+date: "2026-03-05T22:38:39.584559"
 draft: false
 sectors:
   - "public-sector"
@@ -38,25 +38,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
   - silver
+  - black
 typographies:
-  - din
   - impact
-  - raleway
-  - garamond
   - verdana
+  - din
+  - garamond
+  - raleway
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: "Finnish film prduction company (1998-2010)"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Coalfire
 slug: coalfire
 description: ""
-date: "2026-03-05T15:56:45.886528"
+date: "2026-03-05T22:38:39.401314"
 draft: false
 sectors:
   - consulting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - green
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - gradient
-  - professional
   - photography
+  - professional
+  - gradient
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Oxford SU
 slug: "oxford-su"
 description: ""
-date: "2026-03-05T15:56:45.920153"
+date: "2026-03-05T22:38:39.487911"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - community
   - university
+  - featured
 industries: []
 countries:
   - "peoples-republic-of-china"

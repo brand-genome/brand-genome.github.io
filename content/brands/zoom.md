@@ -2,11 +2,11 @@
 title: Zoom
 slug: zoom
 description: ""
-date: "2026-03-05T15:56:45.845472"
+date: "2026-03-05T22:38:39.357282"
 draft: false
 sectors:
-  - telecom
   - software
+  - telecom
 regions:
   - usa
 years:

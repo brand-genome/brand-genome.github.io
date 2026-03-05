@@ -2,7 +2,7 @@
 title: Maxis Communications
 slug: "maxis-communications"
 description: ""
-date: "2026-03-05T15:56:46.071903"
+date: "2026-03-05T22:38:39.683474"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - malaysia
 revenue_buckets: []
@@ -40,17 +40,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
-  - clean
-  - modern
   - bold
+  - modern
+  - clean
 wikidata_description: Malaysian mobile network operator
 has_twitter: false
 has_guidelines: true

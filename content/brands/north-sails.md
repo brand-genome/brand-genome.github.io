@@ -2,7 +2,7 @@
 title: North Sails
 slug: "north-sails"
 description: ""
-date: "2026-03-05T15:56:45.864210"
+date: "2026-03-05T22:38:39.378880"
 draft: false
 sectors:
   - fashion
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - wordmark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - lockup
+  - wordmark
+  - stacked
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: international sailmaker company

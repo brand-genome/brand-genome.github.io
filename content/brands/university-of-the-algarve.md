@@ -2,7 +2,7 @@
 title: University of the Algarve
 slug: "university-of-the-algarve"
 description: ""
-date: "2026-03-05T15:56:45.639945"
+date: "2026-03-05T22:38:39.105536"
 draft: false
 sectors:
   - university

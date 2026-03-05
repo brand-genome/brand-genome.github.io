@@ -2,11 +2,11 @@
 title: Vetus
 slug: vetus
 description: ""
-date: "2026-03-05T15:56:45.971841"
+date: "2026-03-05T22:38:39.543418"
 draft: false
 sectors:
-  - hardware
   - "manufacturing-industry"
+  - hardware
 regions:
   - netherlands
 years:
@@ -41,13 +41,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-295"
-  - yellow
-  - black
   - white
-  - "pantone-121"
-  - blue
+  - "pantone-295"
   - "pantone-123"
+  - black
+  - yellow
+  - blue
+  - "pantone-121"
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish association football team

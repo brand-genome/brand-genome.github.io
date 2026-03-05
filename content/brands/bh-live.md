@@ -2,11 +2,11 @@
 title: BH Live
 slug: "bh-live"
 description: ""
-date: "2026-03-05T15:56:45.819474"
+date: "2026-03-05T22:38:39.326340"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - primary
   - symbol
+  - signature
+  - secondary
 brand_colors:
-  - magenta
-  - cyan
-  - black
-  - "pantone-300"
   - white
+  - magenta
+  - black
+  - cyan
   - blue
+  - "pantone-300"
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - graphic
 wikidata_description: ""
 has_twitter: false

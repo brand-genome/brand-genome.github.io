@@ -2,7 +2,7 @@
 title: SmartAgriHubs
 slug: smartagrihubs
 description: ""
-date: "2026-03-05T15:56:45.863291"
+date: "2026-03-05T22:38:39.377913"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - agriculture
+  - networks
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - pink
-  - green
-  - "pantone-375"
-  - yellow
+  - white
+  - red
   - orange
   - black
-  - "pantone-136"
-  - white
+  - yellow
+  - pink
   - "pantone-3272"
-  - red
+  - "pantone-375"
+  - "pantone-136"
+  - green
 typographies:
   - verdana
 imagery_styles:
-  - minimal
   - bold
+  - minimal
   - professional
 wikidata_description: ""
 has_twitter: false

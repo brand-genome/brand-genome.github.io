@@ -2,11 +2,11 @@
 title: "MIT Computer Science & Artificial Intelligence Laboratory"
 slug: "mit-computer-science-artificial-intelligence-laboratory"
 description: ""
-date: "2026-03-05T15:56:45.738996"
+date: "2026-03-05T22:38:39.231831"
 draft: false
 sectors:
-  - university
   - research
+  - university
 regions:
   - usa
 years:

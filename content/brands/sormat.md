@@ -2,7 +2,7 @@
 title: Sormat
 slug: sormat
 description: ""
-date: "2026-03-05T15:56:46.030166"
+date: "2026-03-05T22:38:39.598451"
 draft: false
 sectors:
   - construction
@@ -39,14 +39,14 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - white
   - orange
   - grey
   - black
-  - white
   - blue
 typographies:
-  - serif
   - slab
+  - serif
   - "sans-serif"
 imagery_styles:
   - monochrome

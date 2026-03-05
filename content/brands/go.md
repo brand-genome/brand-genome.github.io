@@ -2,7 +2,7 @@
 title: Go
 slug: go
 description: ""
-date: "2026-03-05T15:56:45.913885"
+date: "2026-03-05T22:38:39.475620"
 draft: false
 sectors:
   - software
@@ -15,12 +15,12 @@ languages:
 tags:
   - software
 industries:
-  - "internet-industry"
-  - "software-industry"
-  - "information-technology"
-  - "technology-industry"
-  - internet
   - "internet-marketing"
+  - "technology-industry"
+  - "software-industry"
+  - internet
+  - "information-technology"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets: []

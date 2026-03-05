@@ -2,12 +2,12 @@
 title: Enoc
 slug: enoc
 description: ""
-date: "2026-03-05T15:56:45.718091"
+date: "2026-03-05T22:38:39.208162"
 draft: false
 sectors:
-  - gas
-  - oil
   - "petrol-station"
+  - oil
+  - gas
 regions:
   - dubai
 years:

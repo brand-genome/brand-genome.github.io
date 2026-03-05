@@ -2,7 +2,7 @@
 title: PGA
 slug: pga
 description: ""
-date: "2026-03-05T15:56:45.999279"
+date: "2026-03-05T22:38:39.572748"
 draft: false
 sectors:
   - sports
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
   - seal
+  - primary
+  - alternate
 brand_colors:
-  - "pantone-872"
   - gold
   - black
   - blue
   - "pantone-533"
+  - "pantone-872"
 typographies:
-  - arial
-  - serif
   - impact
+  - serif
   - times
   - gotham
+  - arial
 imagery_styles:
   - bold
   - graphic

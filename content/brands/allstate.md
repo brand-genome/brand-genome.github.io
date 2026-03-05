@@ -2,7 +2,7 @@
 title: Allstate
 slug: allstate
 description: ""
-date: "2026-03-05T15:56:46.186741"
+date: "2026-03-05T22:38:39.837391"
 draft: false
 sectors:
   - insurance
@@ -23,217 +23,217 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - brick
   - white
-  - light
+  - "background-as-frame"
   - red
+  - wood
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
+  - light
   - vintage
-  - bright
+  - "analogous-colors"
+  - "pastel-colors"
   - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
-  - light
+  - bright
 photography_genres:
-  - fashion
-  - sky
+  - audience
+  - selfie
+  - landscape
+  - product
+  - interior
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - athletics
   - team
-  - "still-life"
+  - candid
+  - sports
+  - documentary
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - audience
+  - logo
+  - advertisement
+  - event
+  - sky
+  - fashion
+  - athletic
+  - "text-heavy"
+  - portrait
+  - beauty
   - staged
   - historical
-  - beauty
-  - street
-  - landscape
-  - logo
-  - event
-  - portrait
-  - advertisement
-  - product
-  - sports
   - athlete
-  - athletics
-  - "text-heavy"
-  - athletic
-  - architectural
-  - documentary
-  - "audience-perspective"
-  - action
-  - advertising
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
   - award
   - advertisement
-  - promotion
-  - "graphic-design"
-  - sports
   - athlete
-  - "text-heavy"
-  - typography
   - cartoon
+  - "text-heavy"
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - sports
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - "saturated-colors"
   - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "low-exposure"
   - vintage
   - asymmetry
-  - symmetrical
-  - saturated
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - saturated
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - "royal-blue"
   - tan
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - "pulled-back"
-  - wavy
-  - long
-  - ponytail
-  - curly
-  - covered
   - casual
-  - varied
-  - balding
   - flowing
+  - "pulled-back"
   - bald
-  - short
-  - updo
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - balding
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - active
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
   - active
-  - engaged
-  - walking
-  - leaning
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
   - seated
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-  - static
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Google for Work
 slug: "google-for-work"
 description: ""
-date: "2026-03-05T15:56:46.067616"
+date: "2026-03-05T22:38:39.679052"
 draft: false
 sectors:
   - software
@@ -36,25 +36,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - alternate
-  - icon
 brand_colors:
-  - green
-  - yellow
-  - gray
-  - blue
-  - black
   - red
+  - black
+  - yellow
+  - blue
+  - gray
+  - green
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
+  - bold
+  - product
+  - geometric
   - monochrome
   - macro
-  - geometric
-  - product
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

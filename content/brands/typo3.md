@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-03-05T15:56:46.062458"
+date: "2026-03-05T22:38:39.666650"
 draft: false
 sectors:
   - software
@@ -40,21 +40,21 @@ logo_elements:
   - wordmark
   - symbol
 brand_colors:
-  - green
+  - white
   - red
-  - yellow
   - orange
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
-  - din
-  - "source-sans"
   - times
+  - "source-sans"
+  - din
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: web content management framework
 has_twitter: false
 has_guidelines: true

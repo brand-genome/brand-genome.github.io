@@ -2,7 +2,7 @@
 title: World Stroke Organization
 slug: "world-stroke-organization"
 description: ""
-date: "2026-03-05T15:56:45.977394"
+date: "2026-03-05T22:38:39.553433"
 draft: false
 sectors:
   - ngo
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - logomark
 brand_colors:
-  - blue
   - white
+  - blue
   - green
 typographies:
   - helvetica

@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-03-05T15:56:46.043671"
+date: "2026-03-05T22:38:39.614688"
 draft: false
 sectors:
   - software
@@ -42,11 +42,11 @@ logo_elements:
   - wordmark
   - symbol
 brand_colors:
-  - gray
-  - teal
-  - black
   - white
+  - teal
   - "pantone-3295"
+  - black
+  - gray
 typographies: []
 imagery_styles:
   - product

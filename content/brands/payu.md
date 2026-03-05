@@ -2,7 +2,7 @@
 title: PayU
 slug: payu
 description: ""
-date: "2026-03-05T15:56:45.942472"
+date: "2026-03-05T22:38:39.511628"
 draft: false
 sectors:
   - finance

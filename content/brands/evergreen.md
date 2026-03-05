@@ -2,7 +2,7 @@
 title: Evergreen
 slug: evergreen
 description: ""
-date: "2026-03-05T15:56:45.723077"
+date: "2026-03-05T22:38:39.212704"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - ngo
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -40,21 +40,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
-  - georgia
-  - arial
   - avenir
+  - arial
+  - georgia
 imagery_styles:
-  - photography
   - bold
-  - graphic
+  - photography
   - natural
+  - graphic
 wikidata_description: public liberal arts college in Washington State
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-03-05T15:56:45.915193"
+date: "2026-03-05T22:38:39.479416"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -41,10 +41,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
   - black

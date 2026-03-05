@@ -2,11 +2,11 @@
 title: Acano
 slug: acano
 description: ""
-date: "2026-03-05T15:56:46.115138"
+date: "2026-03-05T22:38:39.750786"
 draft: false
 sectors:
-  - telecom
   - software
+  - telecom
 regions:
   - "united-kingdom"
 years:
@@ -39,28 +39,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - badge
+  - secondary
 brand_colors:
-  - green
-  - yellow
-  - purple
-  - gray
-  - blue
   - red
+  - yellow
+  - blue
+  - gray
+  - green
+  - purple
 typographies:
   - helvetica
 imagery_styles:
-  - monochrome
-  - modern
-  - classic
-  - photography
-  - minimal
-  - product
-  - candid
   - bold
+  - photography
+  - product
   - graphic
+  - monochrome
+  - classic
+  - minimal
+  - modern
+  - candid
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

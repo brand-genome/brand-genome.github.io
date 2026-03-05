@@ -2,16 +2,16 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-03-05T15:56:45.773076"
+date: "2026-03-05T22:38:39.271111"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
-  - 2017
   - 2008
+  - 2017
 languages:
   - english
 tags:
@@ -43,9 +43,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
   - serif
 imagery_styles:

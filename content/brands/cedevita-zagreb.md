@@ -2,7 +2,7 @@
 title: Cedevita Zagreb
 slug: "cedevita-zagreb"
 description: ""
-date: "2026-03-05T15:56:45.807813"
+date: "2026-03-05T22:38:39.313606"
 draft: false
 sectors:
   - sports
@@ -37,26 +37,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - "pantone-1505"
-  - yellow
+  - white
+  - "pantone-382"
+  - "pantone-387"
   - orange
   - black
-  - "pantone-306"
-  - white
+  - yellow
+  - "pantone-1505"
+  - "pantone-368"
   - "pantone-7465"
   - "pantone-604"
-  - "pantone-387"
-  - "pantone-382"
-  - "pantone-368"
+  - "pantone-306"
 typographies:
   - din
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

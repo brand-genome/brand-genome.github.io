@@ -2,13 +2,13 @@
 title: Amway
 slug: amway
 description: ""
-date: "2026-03-05T15:56:46.205024"
+date: "2026-03-05T22:38:39.930071"
 draft: false
 sectors:
-  - beauty
+  - homecare
   - healthcare
   - mlm
-  - homecare
+  - beauty
 regions:
   - unknown
 years: []
@@ -22,354 +22,277 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - "text-as-background"
-  - light
   - red
+  - wood
+  - "text-as-background"
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "pastel-colors"
   - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
-  - red
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - "professional-headshot"
-  - selfie
-  - environmental
-  - interior
-  - industrial
-  - commercial
-  - certificate
-  - candid
-  - typography
-  - botanical
-  - "event-photography"
-  - cityscape
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - food
-  - health
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - logo
-  - "health-awareness"
-  - corporate
-  - event
-  - business
   - celebrity
-  - family
-  - "digital-art"
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - informational
-  - product
-  - sports
-  - "text-heavy"
-  - "social-message"
-  - athletic
-  - architectural
-  - documentary
+  - audience
+  - selfie
+  - commercial
   - professional
-  - abstract
+  - health
+  - informational
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - food
+  - product
+  - environmental
+  - industrial
+  - text
   - illustration
+  - interior
+  - abstract
   - "audience-perspective"
-  - "social-media"
-  - educational
-  - map
-  - action
+  - "digital-art"
+  - street
   - advertising
-concepts:
-  - "live-performance"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - "live-event"
+  - educational
+  - group
+  - documentary
+  - fitness
+  - "social-message"
+  - candid
+  - logo
+  - advertisement
+  - fashion
+  - athletic
+  - sky
+  - event
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - family
   - typography
+  - "graphic-design"
+  - "professional-headshot"
+  - portrait
+  - beauty
+  - map
+  - staged
+  - business
+  - "event-photography"
+  - "social-media"
+  - certificate
+  - "health-awareness"
+  - "still-life"
+  - travel
+concepts:
+  - professional
+  - "wave-pattern"
+  - "event-announcement"
+  - illustration
+  - vintage
+  - "audience-perspective"
+  - "cut-out"
+  - action
+  - "live-stage"
+  - "band-performance"
+  - "live-event"
+  - "social-message"
+  - documentary
+  - advertisement
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - "music-concert"
+  - typography
+  - "graphic-design"
   - "framed-image"
+  - "head-of-company"
   - "incomplete-art"
   - motivational
-  - "head-of-company"
   - photorealism
-  - "event-announcement"
-  - vintage
-  - "graphic-design"
-  - corporate
-  - "band-performance"
-  - advertisement
-  - cartoon
-  - "text-heavy"
-  - "social-message"
-  - "cut-out"
-  - documentary
-  - "wave-pattern"
-  - professional
-  - illustration
-  - "audience-perspective"
-  - "music-concert"
-  - action
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "short-exposure"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - saturated
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "cut-out"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
+  - "cut-out"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - saturated
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
+  - white
   - "off-white"
   - "dark-green"
   - black
-  - white
+  - cyan
+  - "dark-blue"
   - "light-blue"
+  - "royal-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
+  - casual
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - "buzz-cut"
-  - straight
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
-  - updo
-  - "not-visible"
-  - "tied-back"
-facial_expressions:
-  - serious
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - concerned
-  - neutral
-  - engaged
-  - a
-  - c
-  - intense
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - casual
-  - p
-  - sad
-clothing_styles:
-  - comfortable
-  - formal
+  - loose
   - traditional
-  - l
-  - e
-  - sweater
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
+  - gray
+  - updo
+  - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - "buzz-cut"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+facial_expressions:
+  - joyful
   - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - sad
+  - engaged
+  - relaxed
+  - serious
   - neutral
+  - content
+  - focused
+  - concerned
+  - intense
+  - contemplative
+clothing_styles:
+  - casual
+  - sweater
+  - athletic
+  - business
+  - "form-fitting"
+  - professional
+  - active
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
   - "black-and-white"
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - intense
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - sad
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - contemplative
   - group
-  - l
-  - e
+gazes:
+  - sad
   - engaged
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - intense
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

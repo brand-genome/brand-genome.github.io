@@ -2,11 +2,11 @@
 title: AMD Ryzen
 slug: "amd-ryzen"
 description: ""
-date: "2026-03-05T15:56:46.051948"
+date: "2026-03-05T22:38:39.644096"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -45,12 +45,12 @@ logo_elements:
   - stacked
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: brand for microprocessors by AMD
 has_twitter: false
 has_guidelines: true

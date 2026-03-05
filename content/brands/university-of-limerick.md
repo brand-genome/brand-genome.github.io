@@ -2,11 +2,11 @@
 title: University of Limerick
 slug: "university-of-limerick"
 description: ""
-date: "2026-03-05T15:56:45.903083"
+date: "2026-03-05T22:38:39.433537"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - ireland
 years:

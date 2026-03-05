@@ -2,7 +2,7 @@
 title: Bank Muscat
 slug: "bank-muscat"
 description: ""
-date: "2026-03-05T15:56:45.612213"
+date: "2026-03-05T22:38:39.083995"
 draft: false
 sectors:
   - insurance
@@ -46,8 +46,8 @@ brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

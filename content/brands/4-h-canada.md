@@ -2,11 +2,11 @@
 title: "4-H Canada"
 slug: "4-h-canada"
 description: ""
-date: "2026-03-05T15:56:46.125808"
+date: "2026-03-05T22:38:39.765234"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:
@@ -40,19 +40,19 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - cyan
-  - green
-  - "pantone-285"
   - "pantone-360"
-  - blue
   - "pantone-297"
+  - "pantone-285"
+  - cyan
+  - blue
+  - green
 typographies:
   - impact
   - display
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

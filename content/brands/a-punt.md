@@ -2,7 +2,7 @@
 title: À Punt
 slug: "a-punt"
 description: ""
-date: "2026-03-05T15:56:45.710489"
+date: "2026-03-05T22:38:39.199798"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - catalan
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: UMKC
 slug: umkc
 description: ""
-date: "2026-03-05T15:56:45.856820"
+date: "2026-03-05T22:38:39.371166"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
   - blue
   - gold
 typographies:
   - helvetica
 imagery_styles:
-  - clean
   - professional
+  - clean
   - natural
 wikidata_description: American public university
 has_twitter: false

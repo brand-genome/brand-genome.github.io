@@ -2,11 +2,11 @@
 title: Bucknell University
 slug: "bucknell-university"
 description: ""
-date: "2026-03-05T15:56:46.063634"
+date: "2026-03-05T22:38:39.669987"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -42,19 +42,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies: []
 imagery_styles:
+  - photography
   - clean
   - vibrant
   - graphic
-  - photography
 wikidata_description: "private liberal arts college in the Lewisburg, Pennsylvania area"
 has_twitter: false
 has_guidelines: true

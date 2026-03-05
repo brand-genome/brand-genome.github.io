@@ -2,7 +2,7 @@
 title: The Rehla Academy
 slug: "the-rehla-academy"
 description: ""
-date: "2026-03-05T15:56:45.658325"
+date: "2026-03-05T22:38:39.125724"
 draft: false
 sectors:
   - education

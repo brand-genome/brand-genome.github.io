@@ -2,7 +2,7 @@
 title: University of Jeddah
 slug: "university-of-jeddah"
 description: ""
-date: "2026-03-05T15:56:45.944290"
+date: "2026-03-05T22:38:39.513008"
 draft: false
 sectors:
   - university
@@ -41,10 +41,10 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-5425"
-  - "pantone-636"
-  - black
   - "pantone-3025"
+  - "pantone-636"
+  - "pantone-5425"
+  - black
 typographies: []
 imagery_styles:
   - bold

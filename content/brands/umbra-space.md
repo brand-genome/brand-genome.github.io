@@ -2,7 +2,7 @@
 title: Umbra Space
 slug: "umbra-space"
 description: ""
-date: "2026-03-05T15:56:45.695474"
+date: "2026-03-05T22:38:39.186906"
 draft: false
 sectors:
   - satellite
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - emblem
+  - wordmark
   - logomark
 brand_colors:
+  - white
   - orange
   - black
-  - navy
-  - white
   - blue
+  - navy
 typographies: []
 imagery_styles:
   - clean

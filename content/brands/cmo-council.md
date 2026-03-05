@@ -2,11 +2,11 @@
 title: CMO Council
 slug: "cmo-council"
 description: ""
-date: "2026-03-05T15:56:46.086616"
+date: "2026-03-05T22:38:39.707243"
 draft: false
 sectors:
-  - "marketing-advertising"
   - ngo
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
+  - white
+  - red
   - "pantone-186"
   - grey
   - black
-  - white
-  - red
   - "pantone-447"
 typographies:
   - "open-sans"
-  - avenir
   - gotham
+  - avenir
 imagery_styles:
-  - modern
-  - photography
-  - flat
-  - clean
   - bold
+  - photography
   - graphic
+  - flat
+  - modern
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

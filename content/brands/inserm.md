@@ -2,11 +2,11 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-03-05T15:56:46.093740"
+date: "2026-03-05T22:38:39.714995"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - science
 industries:
-  - "research-and-development-in-other-physical-and-natural-sciences"
   - research
+  - "research-and-development-in-other-physical-and-natural-sciences"
 countries:
   - france
 revenue_buckets: []
@@ -43,12 +43,12 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - times
   - akzidenz
   - arial
+  - times
 imagery_styles:
   - bold
 wikidata_description: French biomedical research institute

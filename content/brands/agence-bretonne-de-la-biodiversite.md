@@ -2,11 +2,11 @@
 title: Agence Bretonne de la Biodiversité
 slug: "agence-bretonne-de-la-biodiversite"
 description: ""
-date: "2026-03-05T15:56:45.880563"
+date: "2026-03-05T22:38:39.390703"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - france
 years:

@@ -2,7 +2,7 @@
 title: Radford University
 slug: "radford-university"
 description: ""
-date: "2026-03-05T15:56:46.142524"
+date: "2026-03-05T22:38:39.784268"
 draft: false
 sectors:
   - university
@@ -43,8 +43,8 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - graphic
   - static
+  - graphic
 wikidata_description: "university in Virginia, USA"
 has_twitter: false
 has_guidelines: true

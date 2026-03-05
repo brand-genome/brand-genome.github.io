@@ -2,11 +2,11 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-03-05T15:56:46.128804"
+date: "2026-03-05T22:38:39.768414"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - pink
-  - purple
+  - white
   - grey
   - black
-  - white
   - blue
+  - pink
+  - purple
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
   - natural
 wikidata_description: ""
 has_twitter: false

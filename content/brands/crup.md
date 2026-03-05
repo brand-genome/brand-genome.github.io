@@ -2,7 +2,7 @@
 title: CRUP
 slug: crup
 description: ""
-date: "2026-03-05T15:56:45.987392"
+date: "2026-03-05T22:38:39.562085"
 draft: false
 sectors:
   - education
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - green
+  - black
 typographies:
   - optima
   - "sans-serif"

@@ -2,7 +2,7 @@
 title: Special Olympics Australia
 slug: "special-olympics-australia"
 description: ""
-date: "2026-03-05T15:56:45.848384"
+date: "2026-03-05T22:38:39.360882"
 draft: false
 sectors:
   - ngo
@@ -41,11 +41,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - "pantone-293"
+  - black
 typographies:
-  - arial
   - ubuntu
+  - arial
 imagery_styles:
   - realistic
   - professional

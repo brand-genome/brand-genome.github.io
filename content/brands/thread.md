@@ -2,7 +2,7 @@
 title: Thread
 slug: thread
 description: ""
-date: "2026-03-05T15:56:45.878367"
+date: "2026-03-05T22:38:39.388075"
 draft: false
 sectors:
   - networking
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - technology
+  - internet
 industries: []
 countries:
   - "united-states"
@@ -39,26 +39,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - emblem
-  - logomark
-  - secondary
   - primary
+  - emblem
+  - secondary
+  - horizontal
+  - logomark
   - vertical
 brand_colors:
-  - green
+  - white
   - red
-  - gray
   - orange
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - organic
   - bold
+  - organic
   - illustration
 wikidata_description: clothing website
 has_twitter: false

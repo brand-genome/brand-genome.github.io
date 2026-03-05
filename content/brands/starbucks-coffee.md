@@ -2,11 +2,11 @@
 title: Starbucks Coffee
 slug: "starbucks-coffee"
 description: ""
-date: "2026-03-05T15:56:46.154602"
+date: "2026-03-05T22:38:39.794195"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - unknown
 years:
@@ -41,14 +41,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - black
-  - "pantone-3425"
   - white
+  - "pantone-3425"
   - green
+  - black
 typographies:
   - avenir
 imagery_styles:

@@ -2,12 +2,12 @@
 title: Università degli studi della Tuscia
 slug: "universita-degli-studi-della-tuscia"
 description: ""
-date: "2026-03-05T15:56:45.912512"
+date: "2026-03-05T22:38:39.473609"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - italy
 years:
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - display
   - playfair
+  - display
 imagery_styles:
   - bold
 wikidata_description: ""

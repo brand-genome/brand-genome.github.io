@@ -2,7 +2,7 @@
 title: F’INE Pasifika Aotearoa Trust
 slug: "fine-pasifika-aotearoa-trust"
 description: ""
-date: "2026-03-05T15:56:45.818010"
+date: "2026-03-05T22:38:39.324479"
 draft: false
 sectors:
   - ngo
@@ -38,34 +38,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - crest
-  - secondary
-  - monogram
   - primary
   - badge
+  - monogram
+  - secondary
+  - crest
+  - logomark
 brand_colors:
-  - cyan
-  - green
-  - purple
-  - gray
+  - white
   - orange
   - black
-  - white
+  - cyan
+  - gray
+  - green
+  - purple
 typographies:
-  - serif
   - avenir
+  - serif
   - "sans-serif"
 imagery_styles:
-  - monochrome
-  - professional
-  - modern
+  - bold
   - photography
   - staged
   - dynamic
   - geometric
+  - monochrome
+  - professional
+  - modern
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

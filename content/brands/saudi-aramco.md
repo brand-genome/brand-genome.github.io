@@ -2,12 +2,12 @@
 title: Saudi Aramco
 slug: "saudi-aramco"
 description: ""
-date: "2026-03-05T15:56:45.739539"
+date: "2026-03-05T22:38:39.233042"
 draft: false
 sectors:
-  - gas
   - petroleum
   - oil
+  - gas
 regions:
   - "saudi-arabia"
 years:
@@ -18,10 +18,10 @@ tags:
   - featured
   - industry
 industries:
-  - "oil-refining"
-  - "extraction-of-crude-petroleum-and-natural-gas"
-  - "petroleum-industry"
   - "extraction-of-petroleum"
+  - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "oil-refining"
 countries:
   - "saudi-arabia"
 revenue_buckets:

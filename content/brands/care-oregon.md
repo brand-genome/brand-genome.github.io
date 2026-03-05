@@ -2,11 +2,11 @@
 title: Care Oregon
 slug: "care-oregon"
 description: ""
-date: "2026-03-05T15:56:45.959183"
+date: "2026-03-05T22:38:39.524157"
 draft: false
 sectors:
-  - insurance
   - healthcare
+  - insurance
 regions:
   - usa
 years:
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
   - black
 typographies:
   - serif
   - "proxima-nova"
 imagery_styles:
-  - minimal
   - bold
+  - minimal
   - photography
 wikidata_description: ""
 has_twitter: false

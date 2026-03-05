@@ -2,11 +2,11 @@
 title: University of Malta
 slug: "university-of-malta"
 description: ""
-date: "2026-03-05T15:56:46.090242"
+date: "2026-03-05T22:38:39.710942"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - malta
 years:
@@ -41,12 +41,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
   - stacked
+  - crest
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles:
   - modern

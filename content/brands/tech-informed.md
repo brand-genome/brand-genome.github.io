@@ -2,7 +2,7 @@
 title: Tech Informed
 slug: "tech-informed"
 description: ""
-date: "2026-03-05T15:56:45.802757"
+date: "2026-03-05T22:38:39.310993"
 draft: false
 sectors:
   - publishing
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - grey
-  - blue
   - white
+  - blue
   - orange
+  - grey
 typographies: []
 imagery_styles:
-  - subtle
   - bold
+  - subtle
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

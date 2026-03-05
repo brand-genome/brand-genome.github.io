@@ -2,7 +2,7 @@
 title: Hexaware
 slug: hexaware
 description: ""
-date: "2026-03-05T15:56:45.683286"
+date: "2026-03-05T22:38:39.178290"
 draft: false
 sectors:
   - consulting
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - horizontal
   - primary
+  - monogram
   - vertical
+  - horizontal
 brand_colors:
-  - red
-  - yellow
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
 typographies:
   - manrope
 imagery_styles:
+  - photography
   - clean
   - vibrant
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-03-05T15:56:46.138993"
+date: "2026-03-05T22:38:39.779062"
 draft: false
 sectors:
-  - publishing
-  - ngo
   - research
+  - ngo
+  - publishing
 regions:
   - usa
 years:
@@ -42,9 +42,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
   - blue
   - "pantone-300"
@@ -53,8 +53,8 @@ brand_colors:
 typographies:
   - verdana
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: American professional association for electronic engineering and electrical engineering
 has_twitter: false
 has_guidelines: true

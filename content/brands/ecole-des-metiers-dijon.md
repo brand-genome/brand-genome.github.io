@@ -2,7 +2,7 @@
 title: École des Métiers Dijon
 slug: "ecole-des-metiers-dijon"
 description: ""
-date: "2026-03-05T15:56:46.126699"
+date: "2026-03-05T22:38:39.766285"
 draft: false
 sectors:
   - education

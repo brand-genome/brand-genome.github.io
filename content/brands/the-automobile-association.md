@@ -2,7 +2,7 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-03-05T15:56:46.173854"
+date: "2026-03-05T22:38:39.816293"
 draft: false
 sectors:
   - insurance
@@ -16,11 +16,11 @@ languages:
 tags:
   - insurance
 industries:
-  - "roadside-assistance"
-  - "voluntary-sector"
-  - "activities-of-other-membership-organisations-nec"
-  - "drivers-education"
   - "insurance-industry"
+  - "activities-of-other-membership-organisations-nec"
+  - "voluntary-sector"
+  - "roadside-assistance"
+  - "drivers-education"
   - "road-transport"
 countries:
   - "united-kingdom"
@@ -46,13 +46,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - "pantone-116"
   - black
   - yellow
-  - "pantone-116"
 typographies: []
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: British motoring association
 has_twitter: false
 has_guidelines: true

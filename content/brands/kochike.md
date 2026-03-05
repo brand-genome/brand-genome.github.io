@@ -2,7 +2,7 @@
 title: Kochike
 slug: kochike
 description: ""
-date: "2026-03-05T15:56:46.111576"
+date: "2026-03-05T22:38:39.745788"
 draft: false
 sectors:
   - "public-sector"

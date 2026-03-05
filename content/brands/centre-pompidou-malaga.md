@@ -2,7 +2,7 @@
 title: Centre Pompidou Málaga
 slug: "centre-pompidou-malaga"
 description: ""
-date: "2026-03-05T15:56:45.669546"
+date: "2026-03-05T22:38:39.143267"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - museum
+  - cultural
 industries: []
 countries: []
 revenue_buckets: []

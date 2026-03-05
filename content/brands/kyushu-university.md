@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-03-05T15:56:45.798831"
+date: "2026-03-05T22:38:39.302829"
 draft: false
 sectors:
   - university
@@ -41,17 +41,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
+  - symbol
   - vertical
   - horizontal
-  - symbol
 brand_colors:
   - black
 typographies:
   - frutiger
 imagery_styles:
-  - geometric
-  - professional
   - modern
+  - professional
+  - geometric
 wikidata_description: "higher education institution in Fukuoka, Japan"
 has_twitter: false
 has_guidelines: true

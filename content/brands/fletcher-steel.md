@@ -2,11 +2,11 @@
 title: Fletcher Steel
 slug: "fletcher-steel"
 description: ""
-date: "2026-03-05T15:56:45.990261"
+date: "2026-03-05T22:38:39.565444"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
+  - "logistics-supply-chain"
 regions:
   - "new-zealand"
 years:
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - grey
   - blue
+  - grey
   - green
 typographies:
   - arial
   - display
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - product
   - graphic
 wikidata_description: ""

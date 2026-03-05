@@ -2,13 +2,13 @@
 title: Constructor Group
 slug: "constructor-group"
 description: ""
-date: "2026-03-05T15:56:45.674790"
+date: "2026-03-05T22:38:39.163849"
 draft: false
 sectors:
   - education
   - "e-learning-edtech"
-  - finance
   - university
+  - finance
 regions:
   - switzerland
 years:
@@ -41,19 +41,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - green
-  - yellow
-  - black
-  - navy
   - white
-  - blue
   - "pantone-282"
   - "pantone-123"
+  - black
+  - yellow
+  - blue
+  - navy
+  - green
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
   - professional
+  - monochrome
 wikidata_description: "Norwegian-based group specialising in shelving, racking and storage systems"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: North Bridge House
 slug: "north-bridge-house"
 description: ""
-date: "2026-03-05T15:56:45.947981"
+date: "2026-03-05T22:38:39.516352"
 draft: false
 sectors:
   - education
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - abstract
+  - crest
 brand_colors:
   - white
 typographies: []

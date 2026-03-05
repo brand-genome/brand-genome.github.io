@@ -2,11 +2,11 @@
 title: Blue Angel
 slug: "blue-angel"
 description: ""
-date: "2026-03-05T15:56:45.948653"
+date: "2026-03-05T22:38:39.516998"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - germany
 years:
@@ -39,11 +39,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - magenta
+  - black
   - cyan
   - yellow
-  - black
-  - white
   - blue
 typographies:
   - helvetica

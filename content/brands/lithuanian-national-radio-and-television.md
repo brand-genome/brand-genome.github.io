@@ -2,7 +2,7 @@
 title: Lithuanian National Radio and Television
 slug: "lithuanian-national-radio-and-television"
 description: ""
-date: "2026-03-05T15:56:45.660751"
+date: "2026-03-05T22:38:39.127389"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - lithuanian
 tags:
-  - media
   - broadcast
+  - media
 industries:
   - "mass-media"
 countries:

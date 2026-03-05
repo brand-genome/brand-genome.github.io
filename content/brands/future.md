@@ -2,7 +2,7 @@
 title: Future
 slug: future
 description: ""
-date: "2026-03-05T15:56:46.083208"
+date: "2026-03-05T22:38:39.703442"
 draft: false
 sectors:
   - publishing
@@ -38,20 +38,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors:
-  - black
   - white
   - "pantone-187"
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - dynamic
-  - contemporary
   - dramatic
+  - contemporary
   - static
+  - dynamic
 wikidata_description: deprecated multimedia platform used to add animation and interactivity to web pages
 has_twitter: false
 has_guidelines: true

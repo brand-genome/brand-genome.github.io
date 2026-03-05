@@ -2,7 +2,7 @@
 title: Valencia C.F.
 slug: "valencia-cf"
 description: ""
-date: "2026-03-05T15:56:46.125308"
+date: "2026-03-05T22:38:39.764841"
 draft: false
 sectors:
   - sports
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - primary
-  - horizontal
   - symbol
+  - crest
+  - horizontal
 brand_colors:
+  - white
   - red
-  - yellow
-  - silver
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - silver
 typographies:
-  - futura
   - "gill-sans"
+  - futura
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: "association football club in Valencia, Spain"
 has_twitter: false
 has_guidelines: true

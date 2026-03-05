@@ -2,7 +2,7 @@
 title: KALW 91.7
 slug: "kalw-917"
 description: ""
-date: "2026-03-05T15:56:45.739299"
+date: "2026-03-05T22:38:39.232697"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

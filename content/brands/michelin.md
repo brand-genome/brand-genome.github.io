@@ -2,11 +2,11 @@
 title: Michelin
 slug: michelin
 description: ""
-date: "2026-03-05T15:56:45.796245"
+date: "2026-03-05T22:38:39.300200"
 draft: false
 sectors:
-  - tires
   - "manufacturing-industry"
+  - tires
 regions:
   - france
 years:
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
+  - "plastics-and-rubber-industry"
   - "automotive-industry"
   - "manufacture-of-rubber-tyres-and-tubes-retreading-and-rebuilding-of-rubber-tyres"
-  - "plastics-and-rubber-industry"
   - "business-and-other-management-consulting"
 countries:
   - france
@@ -33,365 +33,288 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "action-shot"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dirt
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - dirt
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
-  - red
-  - "red-and-blue"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - "inverted-colors"
+  - "red-and-blue"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "nature-photography"
-  - "still-life"
+  - "race-car"
+  - selfie
+  - commercial
+  - professional
+  - "commercial-photography"
+  - conceptual
+  - landscape
+  - botanical
+  - automotive
+  - promotional
+  - "close-up"
+  - nature
+  - outdoor
+  - food
+  - product
+  - "macro-photography"
+  - "table-setting"
+  - lifestyle
+  - interior
+  - illustration
+  - abstract
+  - "food-photography"
+  - tabletop
+  - street
+  - advertising
+  - artistic
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - "macro-photography"
-  - "night-photography"
-  - selfie
-  - automotive
-  - artistic
-  - interior
-  - commercial
-  - candid
-  - branding
-  - botanical
-  - tabletop
-  - "commercial-photography"
-  - outdoor
   - comedy
-  - cityscape
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - motorcycle
-  - "graphic-design"
-  - street
-  - landscape
   - "fine-art"
-  - "product-photography"
-  - holiday
-  - corporate
-  - event
-  - conceptual
   - "fine-dining"
-  - "food-photography"
-  - "close-up"
+  - documentary
+  - advertisement
+  - event
+  - fashion
+  - sky
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - "product-photography"
+  - "graphic-design"
   - macro
   - portrait
-  - advertisement
-  - outdoors
-  - "tabletop-photography"
-  - lifestyle
-  - product
-  - sport
-  - sports
-  - nature
-  - "text-heavy"
-  - beer
-  - cartoon
-  - "table-setting"
-  - architectural
-  - professional
-  - documentary
-  - "race-car"
-  - abstract
-  - illustration
-  - action
+  - beauty
+  - "night-photography"
+  - holiday
   - list
-  - advertising
-concepts:
-  - racing
-  - realism
-  - "text-as-subject"
-  - "live-stage"
-  - "action-shot"
-  - "food-presentation"
-  - artistic
-  - typography
+  - staged
+  - historical
   - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
+  - "tabletop-photography"
+  - beer
+  - "nature-photography"
+  - "still-life"
+  - sport
+  - motorcycle
+  - outdoors
+concepts:
+  - "motorcycle-racing"
+  - "complete-art"
   - colorful
+  - "wave-pattern"
+  - "food-presentation"
+  - minimalism
+  - nature
+  - illustration
+  - vintage
+  - "food-photography"
+  - "text-as-subject"
+  - artistic
+  - racing
+  - action
+  - "live-stage"
+  - logo
+  - textured
+  - advertisement
+  - cartoon
+  - "text-heavy"
+  - typography
   - "graphic-design"
   - "brand-mascot"
-  - logo
-  - "food-photography"
+  - "action-shot"
+  - "incomplete-art"
   - photography
-  - advertisement
-  - minimalism
-  - cartoon
-  - nature
-  - "text-heavy"
-  - "complete-art"
-  - clean
-  - "wave-pattern"
-  - illustration
+  - realism
+  - branding
   - seafood
-  - action
-  - "motorcycle-racing"
-  - textured
+  - clean
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
+  - "low-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - brown
-  - "dark-blue"
-  - gray
+  - white
   - orange
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
+  - brown
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - "pulled-back"
+  - bald
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - o
-  - unknown
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - gray
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
-  - neutral
   - engaged
-  - a
-  - c
-  - happy
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - t
-  - "close-up"
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - yellow
 typographies: []
 imagery_styles:

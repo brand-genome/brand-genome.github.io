@@ -2,11 +2,11 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-03-05T15:56:45.703275"
+date: "2026-03-05T22:38:39.192888"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - sport
-  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -46,8 +46,8 @@ brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - clean
   - photography
+  - clean
 wikidata_description: American broadcast sports network
 has_twitter: false
 has_guidelines: true

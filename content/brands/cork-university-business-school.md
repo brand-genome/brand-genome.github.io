@@ -2,7 +2,7 @@
 title: Cork University Business School
 slug: "cork-university-business-school"
 description: ""
-date: "2026-03-05T15:56:45.784725"
+date: "2026-03-05T22:38:39.283023"
 draft: false
 sectors:
   - education

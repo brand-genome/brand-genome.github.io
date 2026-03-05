@@ -2,11 +2,11 @@
 title: Schneider Electric
 slug: "schneider-electric"
 description: ""
-date: "2026-03-05T15:56:45.666012"
+date: "2026-03-05T22:38:39.136975"
 draft: false
 sectors:
-  - utilities
   - software
+  - utilities
 regions:
   - france
 years:
@@ -45,21 +45,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - primary
   - abstract
+  - primary
+  - crest
 brand_colors:
-  - "pantone-186"
   - white
   - gray
+  - "pantone-186"
 typographies: []
 imagery_styles:
-  - contemporary
-  - modern
+  - bold
   - photography
   - abstract
+  - contemporary
+  - modern
   - clean
-  - bold
 wikidata_description: "France-based multinational corporation"
 has_twitter: false
 has_guidelines: true

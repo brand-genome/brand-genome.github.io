@@ -2,11 +2,11 @@
 title: Growens
 slug: growens
 description: ""
-date: "2026-03-05T15:56:45.888537"
+date: "2026-03-05T22:38:39.406494"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - italy
 years:
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - horizontal
   - logomark
+  - horizontal
+  - secondary
 brand_colors:
-  - red
-  - gray
-  - black
   - white
+  - red
+  - black
   - blue
+  - gray
 typographies:
-  - montserrat
-  - lato
   - roboto
+  - lato
+  - montserrat
 imagery_styles:
-  - portrait
-  - modern
   - bold
+  - modern
+  - portrait
   - graphic
 wikidata_description: ""
 has_twitter: false

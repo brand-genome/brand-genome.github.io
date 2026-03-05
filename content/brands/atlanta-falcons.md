@@ -2,7 +2,7 @@
 title: Atlanta Falcons
 slug: "atlanta-falcons"
 description: ""
-date: "2026-03-05T15:56:45.842012"
+date: "2026-03-05T22:38:39.353763"
 draft: false
 sectors:
   - sports

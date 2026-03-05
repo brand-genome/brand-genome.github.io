@@ -2,11 +2,11 @@
 title: NFL
 slug: nfl
 description: ""
-date: "2026-03-05T15:56:46.170585"
+date: "2026-03-05T22:38:39.812437"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography

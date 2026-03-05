@@ -2,19 +2,19 @@
 title: Asus
 slug: asus
 description: ""
-date: "2026-03-05T15:56:46.225376"
+date: "2026-03-05T22:38:39.972509"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - unknown
 years: []
 languages: []
 tags: []
 industries:
-  - "electronics-industry"
   - "computer-industry"
+  - "electronics-industry"
 countries:
   - taiwan
 revenue_buckets:
@@ -22,381 +22,304 @@ revenue_buckets:
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - colored
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - dark
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
-  - red
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
+  - colored
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
+  - "sky-colors"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - red
-  - bright
-  - white
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
   - "sunset-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - "night-photography"
-  - selfie
-  - artistic
-  - interior
-  - commercial
-  - "event-promotion"
-  - branding
-  - typography
-  - candid
-  - botanical
-  - "event-photography"
-  - cityscape
   - audience
-  - celebration
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - holiday
-  - logo
-  - corporate
-  - event
-  - business
+  - selfie
+  - commercial
+  - professional
+  - beach
   - conceptual
-  - family
-  - "digital-art"
-  - text
-  - macro
-  - travel
-  - portrait
-  - advertisement
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
   - product
+  - technical
+  - text
+  - illustration
+  - interior
+  - abstract
+  - "audience-perspective"
+  - "digital-art"
+  - "event-promotion"
+  - street
+  - advertising
+  - artistic
+  - architectural
   - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - "social-message"
+  - educational
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - cityscape
   - cartoon
   - "text-heavy"
-  - nature
-  - "social-message"
-  - exhibition
-  - "motion-blur"
-  - architectural
-  - beach
-  - documentary
-  - professional
-  - technical
+  - corporate
   - underwater
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - educational
-  - action
+  - family
+  - typography
+  - "graphic-design"
+  - exhibition
+  - macro
+  - portrait
+  - beauty
+  - "night-photography"
+  - holiday
+  - staged
+  - celebration
+  - business
   - technology
+  - "event-photography"
+  - branding
+  - "still-life"
+  - "motion-blur"
+  - travel
+  - crowd
 concepts:
-  - "motion-capture"
+  - informative
+  - "wave-pattern"
+  - product
+  - "halloween-theme"
+  - "technical-illustration"
+  - "social-distancing"
+  - illustration
+  - "digital-art"
+  - vintage
   - advertising
   - "live-stage"
-  - promotion
+  - marketing
   - week
-  - branding
+  - textured
+  - advertisement
+  - logo
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
   - typography
-  - "incomplete-art"
-  - celebration
-  - photorealism
-  - informative
-  - vintage
-  - "technical-illustration"
   - "graphic-design"
   - "product-photography"
-  - "halloween-theme"
-  - logo
-  - marketing
-  - photography
-  - "digital-art"
-  - advertisement
-  - "product-promotion"
-  - product
-  - cartoon
+  - "incomplete-art"
   - "brand-promotion"
-  - "text-heavy"
   - "technical-diagram"
-  - "social-distancing"
-  - "wave-pattern"
-  - illustration
-  - "product-display"
-  - win
-  - textured
+  - photography
+  - celebration
+  - branding
   - technology
+  - "product-promotion"
+  - win
+  - "product-display"
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
   - "macro-shot"
-  - "motion-blur"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "lighting-effects"
   - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
-  - "text-heavy"
+  - symmetric
+  - silhouette
+  - "lighting-effects"
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - saturated
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - crowned
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+  - crowned
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - "tank-top"
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - focused
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
+  - casual
+  - "tank-top"
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
   - pink
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
-  - engaged
-  - downward
   - "looking-at-camera"
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
   - engaged
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - upward
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

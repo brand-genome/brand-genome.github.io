@@ -2,7 +2,7 @@
 title: Stifel
 slug: stifel
 description: ""
-date: "2026-03-05T15:56:46.063896"
+date: "2026-03-05T22:38:39.671034"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - investment
-  - finance
   - "financial-services"
+  - finance
+  - investment
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,14 +44,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - arial
 imagery_styles:
-  - staged
   - photography
+  - staged
 wikidata_description: American investment bank
 has_twitter: false
 has_guidelines: true

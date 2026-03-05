@@ -2,7 +2,7 @@
 title: Biden for President
 slug: "biden-for-president"
 description: ""
-date: "2026-03-05T15:56:45.973143"
+date: "2026-03-05T22:38:39.546383"
 draft: false
 sectors:
   - "public-sector"
@@ -38,14 +38,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - coral
+  - white
+  - red
   - gold
   - grey
   - black
-  - navy
   - blue
-  - white
-  - red
+  - coral
+  - navy
 typographies: []
 imagery_styles:
   - bold

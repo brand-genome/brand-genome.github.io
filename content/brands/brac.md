@@ -2,7 +2,7 @@
 title: Brac
 slug: brac
 description: ""
-date: "2026-03-05T15:56:46.075737"
+date: "2026-03-05T22:38:39.690658"
 draft: false
 sectors:
   - ngo
@@ -38,9 +38,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - magenta
   - white
+  - black
 typographies:
   - impact
   - helvetica

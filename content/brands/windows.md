@@ -2,15 +2,15 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-03-05T15:56:45.826440"
+date: "2026-03-05T22:38:39.333050"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2017
   - 2022
+  - 2017
 languages:
   - english
 tags:
@@ -39,15 +39,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - symbol
+  - secondary
   - lockup
   - horizontal
-  - symbol
   - wordmark
-  - secondary
-  - primary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - display
 imagery_styles: []

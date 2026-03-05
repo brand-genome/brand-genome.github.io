@@ -2,7 +2,7 @@
 title: Sustainable Development Goals
 slug: "sustainable-development-goals"
 description: ""
-date: "2026-03-05T15:56:45.772845"
+date: "2026-03-05T22:38:39.270654"
 draft: false
 sectors:
   - ngo
@@ -39,10 +39,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - vertical
   - horizontal
-  - icon
 brand_colors: []
 typographies: []
 imagery_styles:

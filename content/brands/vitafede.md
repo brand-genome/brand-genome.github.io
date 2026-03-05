@@ -2,7 +2,7 @@
 title: Vitafédé
 slug: vitafede
 description: ""
-date: "2026-03-05T15:56:46.080851"
+date: "2026-03-05T22:38:39.700802"
 draft: false
 sectors:
   - sports
@@ -39,8 +39,8 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - blue
-  - black
   - green
+  - black
 typographies: []
 imagery_styles:
   - dynamic

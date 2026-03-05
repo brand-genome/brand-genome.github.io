@@ -2,7 +2,7 @@
 title: CAF
 slug: caf
 description: ""
-date: "2026-03-05T15:56:46.056483"
+date: "2026-03-05T22:38:39.649716"
 draft: false
 sectors:
   - finance
@@ -41,10 +41,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - "pantone-711"
-  - "pantone-7540"
+  - grey
   - red
+  - "pantone-7540"
 typographies:
   - helvetica
 imagery_styles:

@@ -2,12 +2,12 @@
 title: Huella Pastaza
 slug: "huella-pastaza"
 description: ""
-date: "2026-03-05T15:56:45.890103"
+date: "2026-03-05T22:38:39.409680"
 draft: false
 sectors:
-  - food
-  - ngo
   - "consumer-goods"
+  - ngo
+  - food
 regions:
   - ecuador
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
-  - organic
   - bold
+  - organic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

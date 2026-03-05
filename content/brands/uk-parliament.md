@@ -2,7 +2,7 @@
 title: UK Parliament
 slug: "uk-parliament"
 description: ""
-date: "2026-03-05T15:56:45.756781"
+date: "2026-03-05T22:38:39.254656"
 draft: false
 sectors:
   - "public-sector"

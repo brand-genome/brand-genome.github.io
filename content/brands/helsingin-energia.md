@@ -2,7 +2,7 @@
 title: Helsingin Energia
 slug: "helsingin-energia"
 description: ""
-date: "2026-03-05T15:56:46.041872"
+date: "2026-03-05T22:38:39.612839"
 draft: false
 sectors:
   - utilities
@@ -41,11 +41,11 @@ logo_elements:
   - primary
   - vertical
 brand_colors:
-  - orange
-  - "pantone-286"
-  - black
   - white
+  - orange
+  - black
   - blue
+  - "pantone-286"
   - "pantone-021"
 typographies: []
 imagery_styles:

@@ -2,7 +2,7 @@
 title: AsiHome
 slug: asihome
 description: ""
-date: "2026-03-05T15:56:45.734956"
+date: "2026-03-05T22:38:39.227693"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - design
   - featured
+  - design
 industries: []
 countries: []
 revenue_buckets: []

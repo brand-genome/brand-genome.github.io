@@ -2,7 +2,7 @@
 title: Sofitel
 slug: sofitel
 description: ""
-date: "2026-03-05T15:56:45.941202"
+date: "2026-03-05T22:38:39.510902"
 draft: false
 sectors:
   - tourism
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "building in Munich, Upper Bavaria, Germany"

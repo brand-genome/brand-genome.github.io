@@ -2,7 +2,7 @@
 title: Toyota
 slug: toyota
 description: ""
-date: "2026-03-05T15:56:46.223706"
+date: "2026-03-05T22:38:39.962189"
 draft: false
 sectors:
   - automobile
@@ -21,413 +21,336 @@ operating_income_buckets: []
 net_profit_buckets:
   - "over-1t"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
-  - vignette
-  - bright
   - moderate
+  - "motion-blur"
   - "long-exposure"
   - "light-glare"
-  - hard
-  - "motion-blur"
-perspectives:
-  - studio
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "altered-perspective"
-  - "audience-perspective"
-  - "action-shot"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-  - "framed-image"
-image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - cityscape
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
+  - "light-on-subject"
   - bright
-  - gradient
-  - brick
-  - "autumnal-colors"
-  - light
+  - hard
+  - natural
+  - vignette
+  - colored
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - studio
+  - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "framed-image"
+  - "bird-eye-view"
+image_backgrounds:
+  - "background-as-frame"
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - cityscape
+  - light
+  - gradient
+  - "autumnal-colors"
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - "text-heavy"
-  - red
-  - bright
   - orange
-  - "autumnal-colors"
+  - "text-heavy"
+  - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - "motion-capture"
-  - racing
-  - social
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - formal
-  - "night-photography"
-  - performance
-  - selfie
-  - automotive
-  - interior
-  - industrial
-  - commercial
-  - road
-  - candid
-  - branding
-  - showroom
-  - vehicle
-  - botanical
-  - "event-photography"
-  - outdoor
-  - cityscape
+  - "race-car"
   - audience
-  - race
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - vintage
-  - "graphic-design"
-  - street
+  - concert
+  - selfie
+  - commercial
   - crowd
+  - professional
+  - race
   - landscape
-  - logo
-  - quote
-  - corporate
-  - event
-  - business
-  - "road-trip"
-  - family
-  - "food-photography"
+  - performance
+  - automotive
+  - promotional
+  - botanical
+  - outdoor
+  - food
+  - product
+  - industrial
+  - vehicle
+  - showroom
   - text
-  - portrait
-  - advertisement
+  - lifestyle
+  - abstract
+  - interior
+  - "audience-perspective"
+  - illustration
+  - "road-trip"
+  - vintage
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - racing
+  - group
+  - candid
+  - documentary
   - sign
   - "car-photography"
-  - lifestyle
-  - product
-  - "car-show"
-  - sports
-  - cartoon
-  - "text-heavy"
-  - sport
-  - "concert-photography"
-  - architectural
-  - concert
-  - car
-  - documentary
-  - professional
-  - motion
-  - "race-car"
-  - underwater
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - action
-  - decor
-  - advertising
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - realism
-  - "formal-portrait"
-  - "live-stage"
-  - "action-shot"
-  - sponsorship
-  - performance
-  - "clean-design"
-  - branding
-  - typography
-  - "incomplete-art"
-  - "product-showcase"
-  - photorealism
-  - vintage
-  - minimalistic
-  - "graphic-design"
-  - "race-track"
-  - "product-photography"
-  - "professional-portrait"
+  - quote
   - logo
-  - corporate
-  - business
-  - modern
-  - "corporate-message"
+  - fashion
+  - sky
+  - event
   - advertisement
-  - cartoon
-  - sports
+  - cityscape
   - "text-heavy"
-  - "motion-blur"
+  - "motion-capture"
+  - underwater
+  - "concert-photography"
+  - cartoon
+  - amateur
+  - corporate
+  - family
+  - "graphic-design"
+  - "car-show"
+  - decor
   - motion
-  - "wave-pattern"
-  - professional
-  - documentary
-  - illustration
-  - "audience-perspective"
-  - speed
-  - action
-  - "product-display"
-  - advertising
+  - portrait
+  - beauty
+  - "night-photography"
+  - staged
+  - celebration
+  - business
+  - historical
+  - "event-photography"
+  - branding
+  - formal
+  - "still-life"
+  - car
+  - road
+  - sport
+  - social
+concepts:
   - singing
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "macro-shot"
+  - professional
+  - "wave-pattern"
+  - performance
+  - sponsorship
+  - "professional-portrait"
+  - illustration
+  - vintage
+  - "audience-perspective"
+  - "formal-portrait"
+  - advertising
+  - sports
+  - action
+  - "live-stage"
+  - documentary
+  - logo
+  - advertisement
+  - "product-showcase"
+  - "live-performance"
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - corporate
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "product-photography"
+  - speed
+  - motion
+  - "incomplete-art"
+  - business
+  - realism
+  - branding
+  - minimalistic
+  - "clean-design"
   - "motion-blur"
+  - "race-track"
+  - "product-display"
+  - "corporate-message"
+  - modern
+  - photorealism
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "high-contrast"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
+  - "macro-shot"
 image_effects:
   - studio
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - "radial-blur"
   - symmetrical
-  - "high-contrast"
-  - "light-glare"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
+  - "gaussian-blur"
   - "light-on-subject"
+  - silhouette
+  - "cut-out"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "motion-capture"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - black
   - white
+  - red
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
+  - casual
+  - blonde
   - flowing
-  - l
-  - e
-  - braided
+  - wavy
+  - loose
+  - gray
+  - updo
   - dark
+  - "tied-back"
+  - beard
+  - straight
+  - ponytail
   - curly
-  - covered
+  - red
+  - braided
+  - pink
+  - short
   - balding
   - varied
-  - a
-  - short
-  - red
-  - c
-  - ponytail
-  - neat
+  - covered
   - "pulled-back"
-  - wavy
-  - pink
-  - t
-  - i
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
   - long
-  - n
-  - casual
-  - gray
-  - p
-  - updo
-  - "tied-back"
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
+  - relaxed
   - dynamic
-  - a
-  - happy
-  - c
-  - excited
-  - active
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - trendy
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - "winter-sports"
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - active
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - "winter-sports"
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - trendy
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - white
+  - red
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - blue
-  - unknown
-  - b
-  - n
-  - p
-  - white
   - protective
+  - blue
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

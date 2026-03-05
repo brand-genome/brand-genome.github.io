@@ -2,11 +2,11 @@
 title: Interspiro
 slug: interspiro
 description: ""
-date: "2026-03-05T15:56:46.036379"
+date: "2026-03-05T22:38:39.605153"
 draft: false
 sectors:
-  - "emergency-services"
   - defense
+  - "emergency-services"
 regions:
   - usa
 years:
@@ -39,9 +39,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies: []
 imagery_styles:
   - dramatic

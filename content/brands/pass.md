@@ -2,11 +2,11 @@
 title: Pass
 slug: pass
 description: ""
-date: "2026-03-05T15:56:45.817646"
+date: "2026-03-05T22:38:39.323955"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - nigeria
 years:
@@ -39,15 +39,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - green
 typographies: []
 imagery_styles:
   - bold
-  - clean
   - professional
+  - clean
 wikidata_description: "Unix-style command-line password manager software"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Blue Ribbon Classics
 slug: "blue-ribbon-classics"
 description: ""
-date: "2026-03-05T15:56:46.072116"
+date: "2026-03-05T22:38:39.683692"
 draft: false
 sectors:
   - food
@@ -38,9 +38,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - "pantone-7462"
 typographies: []
 imagery_styles:

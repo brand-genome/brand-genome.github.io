@@ -2,11 +2,11 @@
 title: Globo
 slug: globo
 description: ""
-date: "2026-03-05T15:56:45.889634"
+date: "2026-03-05T22:38:39.409221"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - brazil
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - portuguese
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - brazil

@@ -2,7 +2,7 @@
 title: Sense Bank
 slug: "sense-bank"
 description: ""
-date: "2026-03-05T15:56:45.708596"
+date: "2026-03-05T22:38:39.198356"
 draft: false
 sectors:
   - finance

@@ -2,7 +2,7 @@
 title: Kings Dominion Park
 slug: "kings-dominion-park"
 description: ""
-date: "2026-03-05T15:56:46.250121"
+date: "2026-03-05T22:38:40.019127"
 draft: false
 sectors:
   - "amusement-park"
@@ -19,232 +19,232 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - typography
-  - candid
-  - botanical
-  - outdoor
-  - staged
-  - promotional
-  - vintage
-  - food
   - "home-decor"
-  - beauty
-  - "graphic-design"
-  - street
   - landscape
-  - "fine-art"
-  - event
-  - family
-  - "food-photography"
-  - text
-  - portrait
-  - advertisement
+  - botanical
+  - promotional
+  - outdoor
+  - food
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - documentary
+  - text
+  - interior
   - abstract
   - "audience-perspective"
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
+  - "food-photography"
   - illustration
   - vintage
-  - calendar
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - "fine-art"
+  - advertisement
+  - sky
+  - event
+  - "text-heavy"
+  - cartoon
+  - amateur
+  - family
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
   - typography
+  - "graphic-design"
+  - calendar
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - silhouette
+  - "gaussian-blur"
+  - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
   - "vanishing-point"
   - "radial-blur"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "artificial-shadow"
-  - "motion-blur"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - "dark-blue"
-  - turquoise
-  - black
   - white
-  - lavender
+  - "mud-green"
+  - "dark-blue"
+  - black
+  - cyan
   - "light-blue"
+  - lavender
+  - turquoise
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - braided
-  - up
-  - dark
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - ponytail
-  - neat
   - wavy
-  - "pulled-back"
-  - long
-  - casual
-  - updo
-  - "tied-back"
+  - loose
   - curls
+  - updo
+  - dark
+  - "tied-back"
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - down
+  - long
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
-  - happy
   - shocked
+  - engaged
   - startled
+  - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - uniform
-  - formal
-  - fantasy
   - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
+  - uniform
+  - fantasy
   - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
+  - vibrant
   - neutral
   - professional
-  - uniform
+  - monochrome
   - earthy
-  - bright
-  - muted
   - colorful
-  - vibrant
+  - bright
+  - pastel
+  - muted
+  - uniform
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - reclined
-  - seated
   - leaning
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - walking
+  - active
+  - holding
+  - standing
+  - running
   - excited
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

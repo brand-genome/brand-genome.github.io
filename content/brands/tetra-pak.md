@@ -2,7 +2,7 @@
 title: Tetra Pak
 slug: "tetra-pak"
 description: ""
-date: "2026-03-05T15:56:46.160104"
+date: "2026-03-05T22:38:39.800086"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -17,8 +17,8 @@ tags:
 industries:
   - "product-packaging-industry"
 countries:
-  - sweden
   - switzerland
+  - sweden
 revenue_buckets:
   - "10b-50b"
 operating_income_buckets: []

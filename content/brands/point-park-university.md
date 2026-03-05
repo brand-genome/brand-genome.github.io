@@ -2,11 +2,11 @@
 title: Point Park University
 slug: "point-park-university"
 description: ""
-date: "2026-03-05T15:56:46.157338"
+date: "2026-03-05T22:38:39.797534"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

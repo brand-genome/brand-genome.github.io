@@ -2,11 +2,11 @@
 title: Federación Nacional de Cafeteros
 slug: "federacion-nacional-de-cafeteros"
 description: ""
-date: "2026-03-05T15:56:46.000033"
+date: "2026-03-05T22:38:39.573252"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - colombia
 years:

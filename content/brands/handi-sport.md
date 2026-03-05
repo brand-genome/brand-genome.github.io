@@ -2,7 +2,7 @@
 title: Handi Sport
 slug: "handi-sport"
 description: ""
-date: "2026-03-05T15:56:46.180732"
+date: "2026-03-05T22:38:39.823703"
 draft: false
 sectors:
   - ngo
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - blue
-  - black
-  - green
   - red
+  - green
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

@@ -2,11 +2,11 @@
 title: Southern Oregon University
 slug: "southern-oregon-university"
 description: ""
-date: "2026-03-05T15:56:45.893519"
+date: "2026-03-05T22:38:39.415086"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,28 +40,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - mascot
   - primary
+  - wordmark
 brand_colors:
-  - "pantone-186"
-  - brown
-  - green
+  - white
   - red
   - gold
+  - "pantone-186"
   - orange
   - black
-  - white
   - blue
+  - brown
+  - green
 typographies:
   - impact
   - futura
 imagery_styles:
+  - bold
   - photography
+  - graphic
   - dynamic
   - clean
-  - bold
-  - graphic
 wikidata_description: "public liberal arts college in Ashland, Oregon, U.S."
 has_twitter: false
 has_guidelines: true

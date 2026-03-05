@@ -2,11 +2,11 @@
 title: ADP
 slug: adp
 description: ""
-date: "2026-03-05T15:56:46.068586"
+date: "2026-03-05T22:38:39.680147"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
@@ -17,9 +17,9 @@ tags:
   - corporate
 industries:
   - "software-industry"
+  - "accounting-services"
   - "human-resource-management"
   - "data-processing"
-  - "accounting-services"
 countries:
   - "united-states"
 revenue_buckets:
@@ -46,10 +46,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - red
-  - navy
-  - black
   - "pantone-7620"
+  - red
+  - black
+  - navy
 typographies: []
 imagery_styles: []
 wikidata_description: American human resources management software company

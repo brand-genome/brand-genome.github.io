@@ -2,7 +2,7 @@
 title: Brasil Governo Federal
 slug: "brasil-governo-federal"
 description: ""
-date: "2026-03-05T15:56:45.787525"
+date: "2026-03-05T22:38:39.286309"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

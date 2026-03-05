@@ -2,7 +2,7 @@
 title: Maison de services au public
 slug: "maison-de-services-au-public"
 description: ""
-date: "2026-03-05T15:56:45.904161"
+date: "2026-03-05T22:38:39.434609"
 draft: false
 sectors:
   - "public-sector"

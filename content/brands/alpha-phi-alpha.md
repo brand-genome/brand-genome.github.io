@@ -2,7 +2,7 @@
 title: Alpha Phi Alpha
 slug: "alpha-phi-alpha"
 description: ""
-date: "2026-03-05T15:56:46.093473"
+date: "2026-03-05T22:38:39.714654"
 draft: false
 sectors:
   - ngo
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
-  - candid
-  - bold
   - graphic
+  - candid
+  - natural
 wikidata_description: "African-American Greek-lettered fraternity"
 has_twitter: false
 has_guidelines: true

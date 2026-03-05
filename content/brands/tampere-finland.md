@@ -2,7 +2,7 @@
 title: Tampere Finland
 slug: "tampere-finland"
 description: ""
-date: "2026-03-05T15:56:46.041526"
+date: "2026-03-05T22:38:39.612488"
 draft: false
 sectors:
   - "public-sector"
@@ -39,15 +39,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - yellow
-  - grey
-  - black
-  - blue
   - white
   - red
+  - grey
+  - black
+  - yellow
+  - blue
 typographies:
-  - montserrat
   - "open-sans"
+  - montserrat
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

@@ -2,11 +2,11 @@
 title: Fundación Universitaria Sanitas
 slug: "fundacion-universitaria-sanitas"
 description: ""
-date: "2026-03-05T15:56:45.938415"
+date: "2026-03-05T22:38:39.508332"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -40,12 +40,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
-  - black
   - white
   - cyan
+  - black
   - gray
 typographies:
   - arial

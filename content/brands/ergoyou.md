@@ -2,7 +2,7 @@
 title: ErgoYou
 slug: ergoyou
 description: ""
-date: "2026-03-05T15:56:45.902861"
+date: "2026-03-05T22:38:39.433311"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,22 +38,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - icon
+  - primary
 brand_colors:
+  - white
   - orange
   - grey
   - black
-  - white
   - blue
 typographies:
   - impact
 imagery_styles:
-  - realistic
-  - photography
-  - natural
-  - product
   - bold
+  - photography
+  - product
+  - realistic
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

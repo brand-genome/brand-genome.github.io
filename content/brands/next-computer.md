@@ -2,11 +2,11 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-03-05T15:56:45.771102"
+date: "2026-03-05T22:38:39.268818"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:

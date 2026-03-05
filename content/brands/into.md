@@ -2,7 +2,7 @@
 title: INTO
 slug: into
 description: ""
-date: "2026-03-05T15:56:46.087121"
+date: "2026-03-05T22:38:39.707645"
 draft: false
 sectors:
   - education
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - red
   - "pantone-1795"
-  - turquoise
   - "pantone-7466"
   - black
-  - red
+  - turquoise
 typographies:
   - arial
 imagery_styles:

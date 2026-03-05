@@ -2,7 +2,7 @@
 title: Foods From Chile
 slug: "foods-from-chile"
 description: ""
-date: "2026-03-05T15:56:46.129797"
+date: "2026-03-05T22:38:39.769648"
 draft: false
 sectors:
   - food

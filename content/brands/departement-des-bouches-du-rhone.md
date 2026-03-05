@@ -2,7 +2,7 @@
 title: "Département des Bouches-du-Rhône"
 slug: "departement-des-bouches-du-rhone"
 description: ""
-date: "2026-03-05T15:56:45.729039"
+date: "2026-03-05T22:38:39.220299"
 draft: false
 sectors:
   - "public-sector"

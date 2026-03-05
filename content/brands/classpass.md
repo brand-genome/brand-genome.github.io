@@ -2,11 +2,11 @@
 title: ClassPass
 slug: classpass
 description: ""
-date: "2026-03-05T15:56:45.848515"
+date: "2026-03-05T22:38:39.361068"
 draft: false
 sectors:
-  - fitness
   - "wellness-spa"
+  - fitness
   - software
 regions:
   - usa
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - sport
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -42,17 +42,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - display
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: American fitness startup company based in New York City
 has_twitter: false

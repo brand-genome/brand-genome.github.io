@@ -2,20 +2,20 @@
 title: United Way
 slug: "united-way"
 description: ""
-date: "2026-03-05T15:56:45.913186"
+date: "2026-03-05T22:38:39.474346"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2017
   - 2014
+  - 2017
 languages:
   - english
 tags:
-  - charity
   - ngo
+  - charity
 industries: []
 countries:
   - "united-states"
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - orange
+  - black
 typographies:
-  - brandon
   - impact
+  - brandon
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: nonprofit organization
 has_twitter: false
 has_guidelines: true

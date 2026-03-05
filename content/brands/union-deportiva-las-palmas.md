@@ -2,7 +2,7 @@
 title: Unión Deportiva Las Palmas
 slug: "union-deportiva-las-palmas"
 description: ""
-date: "2026-03-05T15:56:45.890610"
+date: "2026-03-05T22:38:39.410341"
 draft: false
 sectors:
   - sports
@@ -37,28 +37,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - yellow
-  - "pantone-109"
-  - black
   - white
-  - blue
+  - "pantone-109"
   - "pantone-293"
+  - black
+  - yellow
+  - blue
 typographies:
+  - "sans-serif"
+  - arial
   - din
   - display
-  - arial
-  - "sans-serif"
 imagery_styles:
-  - monochrome
+  - bold
   - photography
+  - monochrome
   - minimal
   - clean
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

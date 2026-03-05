@@ -2,7 +2,7 @@
 title: GlobalLogic
 slug: globallogic
 description: ""
-date: "2026-03-05T15:56:45.714773"
+date: "2026-03-05T22:38:39.204951"
 draft: false
 sectors:
   - consulting

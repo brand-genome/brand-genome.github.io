@@ -2,7 +2,7 @@
 title: Argentina
 slug: argentina
 description: ""
-date: "2026-03-05T15:56:46.056313"
+date: "2026-03-05T22:38:39.649509"
 draft: false
 sectors:
   - "public-sector"
@@ -48,11 +48,11 @@ typographies:
   - impact
   - gotham
 imagery_styles:
-  - monochrome
-  - realistic
+  - bold
   - photography
   - vibrant
-  - bold
+  - monochrome
+  - realistic
 wikidata_description: "men's national association football team representing Argentina"
 has_twitter: false
 has_guidelines: true

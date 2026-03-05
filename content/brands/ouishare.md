@@ -2,7 +2,7 @@
 title: Ouishare
 slug: ouishare
 description: ""
-date: "2026-03-05T15:56:46.072432"
+date: "2026-03-05T22:38:39.684010"
 draft: false
 sectors:
   - ngo
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - primary
   - secondary
+  - primary
   - symbol
+  - monogram
 brand_colors:
+  - white
   - green
   - yellow
-  - white
   - indigo
 typographies: []
 imagery_styles:
-  - landscape
-  - professional
   - bold
   - photography
+  - professional
+  - landscape
 wikidata_description: French association and international community working on the collaborative society
 has_twitter: false
 has_guidelines: true

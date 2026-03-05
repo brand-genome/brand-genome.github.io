@@ -2,7 +2,7 @@
 title: Havis
 slug: havis
 description: ""
-date: "2026-03-05T15:56:45.899529"
+date: "2026-03-05T22:38:39.423508"
 draft: false
 sectors:
   - hardware
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - orange
+  - black
+  - blue
+  - gray
 typographies:
-  - serif
   - arial
+  - serif
   - display
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - product
 wikidata_description: American manufacturing company
 has_twitter: false

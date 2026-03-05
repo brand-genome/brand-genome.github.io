@@ -2,7 +2,7 @@
 title: CenTuri
 slug: centuri
 description: ""
-date: "2026-03-05T15:56:46.141441"
+date: "2026-03-05T22:38:39.782708"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - biology
   - science
+  - biology
 industries:
   - "video-game-industry"
 countries:

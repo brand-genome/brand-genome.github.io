@@ -2,12 +2,12 @@
 title: Universitas Gadjah Mada
 slug: "universitas-gadjah-mada"
 description: ""
-date: "2026-03-05T15:56:45.718697"
+date: "2026-03-05T22:38:39.209013"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - indonesia

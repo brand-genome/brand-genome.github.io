@@ -2,7 +2,7 @@
 title: Project Management Institute
 slug: "project-management-institute"
 description: ""
-date: "2026-03-05T15:56:45.733704"
+date: "2026-03-05T22:38:39.226483"
 draft: false
 sectors:
   - education

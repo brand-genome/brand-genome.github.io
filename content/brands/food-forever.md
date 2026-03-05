@@ -2,12 +2,12 @@
 title: Food Forever
 slug: "food-forever"
 description: ""
-date: "2026-03-05T15:56:45.882381"
+date: "2026-03-05T22:38:39.394391"
 draft: false
 sectors:
-  - food
-  - ngo
   - research
+  - ngo
+  - food
 regions:
   - germany
 years:
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - colorful

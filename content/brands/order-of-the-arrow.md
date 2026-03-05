@@ -2,7 +2,7 @@
 title: Order of the Arrow
 slug: "order-of-the-arrow"
 description: ""
-date: "2026-03-05T15:56:46.124727"
+date: "2026-03-05T22:38:39.764199"
 draft: false
 sectors:
   - ngo
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
   - seal
-  - secondary
   - primary
+  - alternate
+  - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies:
-  - slab
   - "gill-sans"
+  - slab
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

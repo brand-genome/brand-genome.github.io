@@ -2,7 +2,7 @@
 title: Red Bull
 slug: "red-bull"
 description: ""
-date: "2026-03-05T15:56:46.074514"
+date: "2026-03-05T22:38:39.688311"
 draft: false
 sectors:
   - gaming
@@ -25,410 +25,333 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - action
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - action
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - textured
-  - dark
-  - blurred
+  - red
   - wood
+  - textured
+  - "brick-wall"
+  - text
+  - blurred
+  - solid
   - transparent
   - bright
+  - light
   - gradient
-  - brick
+  - pattern
   - "red-and-white"
-  - "brick-wall"
-  - red
-  - light
-  - solid
-color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
   - dark
-  - "action-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
+  - brick
+color_schemes:
   - "two-tone"
-  - light
+  - "bright-colors"
   - red
-  - "galaxy-colors"
-  - "aquatic-colors"
+  - "action-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - "galaxy-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - motorsports
-  - performance
-  - selfie
-  - automotive
-  - motorsport
-  - iconic
-  - interior
-  - commercial
-  - "event-promotion"
-  - candid
-  - typography
-  - branding
-  - botanical
-  - "motorbike-racing"
-  - outdoor
-  - "event-photography"
-  - cityscape
-  - audience
-  - race
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - character
-  - motorcycle
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - event
-  - motocross
-  - text
-  - travel
   - fantasy
-  - portrait
-  - advertisement
-  - motorbike
-  - outdoors
-  - adventure
-  - art
-  - product
-  - sport
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - documentary
   - "race-car"
-  - underwater
+  - audience
+  - selfie
+  - commercial
+  - race
+  - landscape
+  - performance
+  - "motorbike-racing"
+  - automotive
+  - promotional
+  - botanical
+  - outdoor
+  - product
+  - art
+  - text
+  - interior
   - abstract
   - "audience-perspective"
+  - motorsports
   - illustration
-  - map
-  - action
   - comic
+  - street
   - advertising
-concepts:
-  - racing
-  - "motion-capture"
-  - realism
+  - "event-promotion"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - "motorbike-race"
-  - "action-shot"
-  - "live-event"
-  - performance
-  - "high-speed-photography"
-  - typography
-  - "motorbike-racing"
-  - "incomplete-art"
-  - "motocross-event"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - iconography
-  - motocross
-  - portrait
+  - candid
+  - group
+  - documentary
+  - character
+  - motorsport
+  - fashion
+  - sky
   - advertisement
-  - "comic-strip"
+  - event
+  - logo
+  - cityscape
+  - "text-heavy"
+  - cartoon
+  - underwater
+  - amateur
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - iconic
+  - map
+  - staged
+  - motorbike
+  - historical
+  - branding
+  - "event-photography"
+  - motocross
+  - "still-life"
+  - adventure
+  - travel
+  - sport
+  - motorcycle
+  - outdoors
+concepts:
+  - "motorcycle-racing"
+  - iconography
+  - "wave-pattern"
+  - emotion
+  - "motorbike-racing"
+  - performance
+  - "motocross-racing"
   - "sports-photography"
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - athlete
-  - "graphic-novel"
-  - "motion-blur"
-  - "sports-event"
-  - documentary
-  - "wave-pattern"
-  - motion
-  - adrenaline
-  - "motocross-racing"
   - illustration
-  - emotion
-  - speed
-  - action
-  - "motorcycle-racing"
+  - vintage
   - comic
+  - "comic-strip"
+  - racing
+  - sports
+  - action
+  - "live-event"
+  - "live-stage"
+  - documentary
+  - "sports-event"
+  - "motocross-event"
+  - advertisement
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - "high-speed-photography"
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - speed
+  - motion
+  - "incomplete-art"
+  - portrait
+  - "graphic-novel"
+  - realism
+  - athlete
+  - motocross
+  - adrenaline
+  - "motion-blur"
+  - "motorbike-race"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "motion-blur"
   - "action-shot"
   - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
-  - "motion-blur"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "action-shot"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "pixelated-image"
-  - "radial-blur"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
   - asymmetry
+  - "action-shot"
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - orange
-  - black
   - white
+  - "mud-green"
+  - orange
+  - "dark-blue"
+  - black
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
+  - casual
   - flowing
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
   - engaged
-  - up
+  - wavy
+  - relaxed
+  - loose
+  - gray
+  - updo
+  - "tied-back"
+  - beard
+  - neutral
+  - straight
+  - ponytail
+  - protective
   - curly
-  - covered
+  - "not-visible"
+  - joyful
+  - up
+  - "buzz-cut"
+  - content
+  - braided
+  - short
   - balding
   - varied
-  - down
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
+  - covered
   - "pulled-back"
-  - wavy
-  - t
-  - i
+  - neat
   - bald
-  - o
-  - unknown
-  - "buzz-cut"
-  - straight
-  - b
+  - down
+  - focused
   - long
-  - n
-  - focused
-  - casual
-  - gray
-  - p
-  - updo
-  - "not-visible"
-  - "tied-back"
-  - protective
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
   - contemplative
-  - relaxed
+facial_expressions:
+  - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
+  - relaxed
+  - neutral
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - contemplative
+  - happy
 clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
   - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - orange
-  - dynamic
-  - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - blue
-  - unknown
-  - b
-  - n
-  - p
-  - white
-posings:
-  - group
-  - seated
-  - confident
-  - l
-  - e
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
   - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
   - active
-  - t
-  - i
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - white
+  - red
+  - vibrant
+  - muted
+  - dynamic
+  - neutral
+  - orange
+  - monochrome
+  - earthy
+  - colorful
+  - blue
+  - pastel
+posings:
+  - casual
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - confident
+  - active
+  - holding
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - casual
-  - p
-  - reclined
+  - group
 gazes:
-  - l
-  - e
-  - engaged
-  - downward
   - "looking-at-camera"
-  - a
-  - c
-  - t
-  - upward
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - "at-camera"
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - active
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - active
+  - "full-body"
+  - "close-up"
 logo_elements:
   - icon
   - favicon
 brand_colors:
   - red
-  - yellow
   - orange
+  - yellow
 typographies: []
 imagery_styles:
   - bold

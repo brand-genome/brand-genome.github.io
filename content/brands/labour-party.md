@@ -2,7 +2,7 @@
 title: Labour Party
 slug: "labour-party"
 description: ""
-date: "2026-03-05T15:56:45.796134"
+date: "2026-03-05T22:38:39.300090"
 draft: false
 sectors:
   - "public-sector"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
-  - "century-gothic"
   - impact
+  - "century-gothic"
 imagery_styles:
   - bold
   - photography

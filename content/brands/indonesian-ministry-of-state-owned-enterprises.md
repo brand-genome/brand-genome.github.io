@@ -2,7 +2,7 @@
 title: Indonesian Ministry of State Owned Enterprises
 slug: "indonesian-ministry-of-state-owned-enterprises"
 description: ""
-date: "2026-03-05T15:56:45.772960"
+date: "2026-03-05T22:38:39.270920"
 draft: false
 sectors:
   - "public-sector"

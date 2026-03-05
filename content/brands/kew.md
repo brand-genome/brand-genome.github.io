@@ -2,11 +2,11 @@
 title: Kew
 slug: kew
 description: ""
-date: "2026-03-05T15:56:46.130905"
+date: "2026-03-05T22:38:39.771242"
 draft: false
 sectors:
-  - "arts-culture"
   - research
+  - "arts-culture"
   - tourism
 regions:
   - "united-kingdom"
@@ -40,18 +40,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
-  - natural
   - photography
+  - natural
+  - vibrant
 wikidata_description: government botanical research institute in the UK
 has_twitter: false
 has_guidelines: true

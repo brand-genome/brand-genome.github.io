@@ -2,7 +2,7 @@
 title: Icertis
 slug: icertis
 description: ""
-date: "2026-03-05T15:56:46.154009"
+date: "2026-03-05T22:38:39.793714"
 draft: false
 sectors:
   - software
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - abstract
+  - primary
 brand_colors:
-  - "pantone-285"
-  - gray
-  - blue
-  - "pantone-1788"
-  - black
   - white
   - red
+  - "pantone-1788"
+  - black
+  - blue
+  - gray
+  - "pantone-285"
 typographies:
   - helvetica
 imagery_styles:
-  - professional
+  - bold
   - photography
   - staged
-  - abstract
-  - natural
-  - dynamic
   - vibrant
-  - candid
-  - bold
   - graphic
+  - dynamic
+  - professional
+  - abstract
+  - candid
+  - natural
 wikidata_description: software company
 has_twitter: false
 has_guidelines: true

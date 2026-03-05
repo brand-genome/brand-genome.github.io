@@ -2,7 +2,7 @@
 title: MGM Studios
 slug: "mgm-studios"
 description: ""
-date: "2026-03-05T15:56:45.646862"
+date: "2026-03-05T22:38:39.113964"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
+  - entertainment
   - art
 industries:
   - "film-production"

@@ -2,7 +2,7 @@
 title: Petco Foundation
 slug: "petco-foundation"
 description: ""
-date: "2026-03-05T15:56:46.131998"
+date: "2026-03-05T22:38:39.772565"
 draft: false
 sectors:
   - ngo

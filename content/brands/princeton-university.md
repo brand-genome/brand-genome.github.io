@@ -2,7 +2,7 @@
 title: Princeton University
 slug: "princeton-university"
 description: ""
-date: "2026-03-05T15:56:46.038425"
+date: "2026-03-05T22:38:39.607516"
 draft: false
 sectors:
   - university
@@ -42,9 +42,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - display
 imagery_styles: []

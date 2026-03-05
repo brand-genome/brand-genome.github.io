@@ -2,7 +2,7 @@
 title: Ineos
 slug: ineos
 description: ""
-date: "2026-03-05T15:56:45.636126"
+date: "2026-03-05T22:38:39.098084"
 draft: false
 sectors:
   - oil

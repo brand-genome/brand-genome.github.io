@@ -2,7 +2,7 @@
 title: Elavon
 slug: elavon
 description: ""
-date: "2026-03-05T15:56:46.097011"
+date: "2026-03-05T22:38:39.718174"
 draft: false
 sectors:
   - finance
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies: []
 imagery_styles:

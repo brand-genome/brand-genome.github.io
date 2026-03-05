@@ -2,7 +2,7 @@
 title: Grohe
 slug: grohe
 description: ""
-date: "2026-03-05T15:56:46.065529"
+date: "2026-03-05T22:38:39.672407"
 draft: false
 sectors:
   - hardware
@@ -40,21 +40,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - green
-  - "pantone-11"
-  - black
   - white
+  - black
+  - "pantone-11"
   - blue
+  - green
 typographies:
+  - times
   - univers
   - din
-  - times
 imagery_styles:
-  - professional
   - photography
-  - portrait
-  - landscape
   - graphic
+  - professional
+  - landscape
+  - portrait
 wikidata_description: manufacturer of sanitary fittings
 has_twitter: false
 has_guidelines: true

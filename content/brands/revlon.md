@@ -2,7 +2,7 @@
 title: Revlon
 slug: revlon
 description: ""
-date: "2026-03-05T15:56:46.210053"
+date: "2026-03-05T22:38:39.941231"
 draft: false
 sectors:
   - beauty
@@ -21,205 +21,205 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
-  - red
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "galaxy-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
   - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
   - "inverted-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - product
+  - interior
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - branding
-  - cityscape
-  - staged
-  - beauty
-  - street
-  - landscape
-  - portrait
+  - fashion
   - advertisement
-  - product
-  - cartoon
+  - sky
+  - cityscape
   - "text-heavy"
-  - architectural
-  - abstract
-  - action
-  - advertising
+  - cartoon
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "still-life"
 concepts:
-  - "incomplete-art"
+  - "beauty-product"
+  - product
+  - textured
   - "wave-pattern"
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - "text-heavy"
-  - beauty
-  - "graphic-design"
-  - product
-  - cartoon
-  - "product-display"
-  - "product-photography"
-  - textured
   - typography
-  - "beauty-product"
+  - "graphic-design"
+  - "product-photography"
+  - "product-display"
+  - "incomplete-art"
+  - photorealism
+  - beauty
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - "off-white"
-  - orange
-  - gray
-  - black
   - white
-  - "dark-brown"
+  - "off-white"
   - red
+  - orange
+  - black
+  - "dark-brown"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - colorful
-  - short
-  - neat
-  - ponytail
+  - casual
   - wavy
-  - "pulled-back"
-  - black
-  - straight
-  - long
-  - casual
-  - updo
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
-  - joyful
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
+  - loose
   - colorful
+  - updo
+  - dark
+  - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
+  - seated
+  - walking
   - engaged
   - reclined
-  - focused
-  - seated
-  - confident
+  - relaxed
   - leaning
   - dynamic
-  - stretching
-  - relaxed
   - holding
+  - active
+  - standing
   - running
-  - walking
+  - focused
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "close-up"
-  - "upper-body"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

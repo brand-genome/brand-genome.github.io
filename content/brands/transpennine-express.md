@@ -2,7 +2,7 @@
 title: Transpennine Express
 slug: "transpennine-express"
 description: ""
-date: "2026-03-05T15:56:45.664901"
+date: "2026-03-05T22:38:39.134404"
 draft: false
 sectors:
   - "public-transportation"

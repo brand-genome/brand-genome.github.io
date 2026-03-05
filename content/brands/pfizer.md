@@ -2,21 +2,21 @@
 title: Pfizer
 slug: pfizer
 description: ""
-date: "2026-03-05T15:56:46.052466"
+date: "2026-03-05T22:38:39.644693"
 draft: false
 sectors:
-  - biotech
   - pharma
+  - biotech
 regions:
   - usa
 years:
-  - 2009
   - 2018
+  - 2009
 languages:
   - english
 tags:
-  - corporate
   - health
+  - corporate
 industries:
   - "pharmaceutical-industry"
 countries:
@@ -29,334 +29,257 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - medical
-  - selfie
-  - environmental
-  - interior
-  - industrial
-  - typography
-  - candid
-  - outdoor
-  - cityscape
-  - staged
-  - historical
-  - beauty
-  - "book-cover"
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - corporate
-  - event
-  - business
   - signage
-  - family
-  - text
-  - macro
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - information
-  - "text-heavy"
-  - architectural
-  - headshot
+  - selfie
   - professional
-  - "information-graphic"
-  - documentary
-  - abstract
+  - "book-cover"
+  - news
+  - landscape
+  - outdoor
+  - product
+  - environmental
+  - industrial
+  - text
   - illustration
+  - abstract
+  - interior
   - "audience-perspective"
-  - "social-media"
+  - street
+  - advertising
+  - architectural
   - educational
   - action
-  - advertising
-concepts:
-  - corporate
-  - "incomplete-art"
-  - professional
-  - "corporate-image"
-  - "wave-pattern"
-  - photography
-  - medical
-  - photorealism
-  - illustration
-  - vintage
-  - informative
-  - "professional-headshot"
-  - promotional
-  - "graphic-design"
-  - cartoon
+  - "live-stage"
+  - candid
+  - group
+  - headshot
+  - documentary
+  - event
+  - fashion
+  - sky
+  - advertisement
+  - cityscape
   - "text-heavy"
+  - corporate
+  - cartoon
+  - family
   - typography
+  - "graphic-design"
+  - macro
+  - portrait
+  - beauty
+  - "information-graphic"
+  - staged
+  - business
+  - historical
+  - "social-media"
+  - medical
+  - information
+  - "still-life"
+concepts:
+  - photography
+  - informative
+  - professional
+  - "wave-pattern"
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - corporate
+  - vintage
+  - medical
+  - typography
+  - "graphic-design"
+  - "corporate-image"
+  - "professional-headshot"
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
   - "bokeh-effect"
-  - silhouette
-  - asymmetry
-  - symmetrical
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - black
+  - "dark-blue"
+  - cyan
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - graying
-  - t
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - wavy
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - balding
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - dark
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - business
+  - neutral
+  - professional
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - o
-  - unknown
+  - dark
+  - pastel
   - subdued
-  - b
-  - professional
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
-  - direct
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - direct
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - professional
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - professional
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - secondary
   - alternate
   - primary
+  - secondary
 brand_colors:
   - blue
-  - yellow
-  - cyan
   - red
+  - cyan
+  - yellow
 typographies: []
 imagery_styles:
-  - gradient
   - illustration
+  - gradient
 wikidata_description: American multinational pharmaceutical and biotechnology corporation
 has_twitter: true
 has_guidelines: true

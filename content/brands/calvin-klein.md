@@ -2,13 +2,13 @@
 title: Calvin Klein
 slug: "calvin-klein"
 description: ""
-date: "2026-03-05T15:56:45.841442"
+date: "2026-03-05T22:38:39.353082"
 draft: false
 sectors:
-  - beauty
   - fashion
   - cosmetics
   - "home-appliances"
+  - beauty
 regions:
   - usa
 years:
@@ -19,8 +19,8 @@ tags:
   - fashion
   - featured
 industries:
-  - "clothing-industry"
   - fashion
+  - "clothing-industry"
 countries:
   - "united-states"
 revenue_buckets: []

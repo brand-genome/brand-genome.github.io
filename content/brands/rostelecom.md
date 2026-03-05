@@ -2,7 +2,7 @@
 title: Rostelecom
 slug: rostelecom
 description: ""
-date: "2026-03-05T15:56:45.800234"
+date: "2026-03-05T22:38:39.304498"
 draft: false
 sectors:
   - cybersecurity
@@ -17,8 +17,8 @@ tags:
   - featured
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - russia
 revenue_buckets:

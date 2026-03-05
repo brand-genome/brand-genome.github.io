@@ -2,7 +2,7 @@
 title: A. Smith Bowman Distillery
 slug: "a-smith-bowman-distillery"
 description: ""
-date: "2026-03-05T15:56:45.966970"
+date: "2026-03-05T22:38:39.532275"
 draft: false
 sectors:
   - drink
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - alternate
   - primary
+  - secondary
+  - signature
 brand_colors:
-  - yellow
   - brown
+  - yellow
 typographies:
   - impact
 imagery_styles:
-  - candid
   - bold
+  - candid
 wikidata_description: "whisky distillery in Fairfax County, Virginia"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Angelhack
 slug: angelhack
 description: ""
-date: "2026-03-05T15:56:46.153895"
+date: "2026-03-05T22:38:39.793617"
 draft: false
 sectors:
   - education
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies:
   - helvetica

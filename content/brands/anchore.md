@@ -2,11 +2,11 @@
 title: Anchore
 slug: anchore
 description: ""
-date: "2026-03-05T15:56:45.790910"
+date: "2026-03-05T22:38:39.292641"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries: []
 countries:
   - argentina
@@ -40,28 +40,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - wordmark
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - "pantone-3262"
-  - gray
-  - black
-  - "pantone-193"
   - white
+  - black
   - blue
+  - gray
+  - "pantone-3262"
+  - "pantone-193"
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - professional
-  - photography
-  - minimal
-  - natural
-  - clean
   - bold
+  - photography
+  - professional
+  - minimal
+  - clean
+  - natural
 wikidata_description: train station in Argentina
 has_twitter: false
 has_guidelines: true

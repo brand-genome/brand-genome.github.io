@@ -2,7 +2,7 @@
 title: IBM Garage
 slug: "ibm-garage"
 description: ""
-date: "2026-03-05T15:56:45.846337"
+date: "2026-03-05T22:38:39.358392"
 draft: false
 sectors:
   - consulting
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - cyan
-  - green
-  - gray
+  - white
   - teal
   - black
-  - white
+  - cyan
   - blue
+  - gray
+  - green
 typographies:
   - impact
 imagery_styles:
-  - candid
   - bold
-  - portrait
   - photography
+  - candid
+  - portrait
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

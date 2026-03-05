@@ -2,7 +2,7 @@
 title: Liga Portugal Betclic
 slug: "liga-portugal-betclic"
 description: ""
-date: "2026-03-05T15:56:45.736864"
+date: "2026-03-05T22:38:39.228967"
 draft: false
 sectors:
   - sports

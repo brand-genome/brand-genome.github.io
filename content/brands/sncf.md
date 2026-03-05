@@ -2,12 +2,12 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-03-05T15:56:45.765086"
+date: "2026-03-05T22:38:39.261560"
 draft: false
 sectors:
   - "public-transportation"
-  - "logistics-supply-chain"
   - railroad
+  - "logistics-supply-chain"
 regions:
   - france
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - french
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - unknown
   - "rail-transport"

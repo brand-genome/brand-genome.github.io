@@ -2,11 +2,11 @@
 title: Pittsburg State University
 slug: "pittsburg-state-university"
 description: ""
-date: "2026-03-05T15:56:46.159056"
+date: "2026-03-05T22:38:39.799178"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - usa
 years:
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
   - horizontal
   - wordmark
-  - seal
   - stacked
-  - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles:
   - photography

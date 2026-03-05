@@ -2,7 +2,7 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-03-05T15:56:46.059935"
+date: "2026-03-05T22:38:39.657095"
 draft: false
 sectors:
   - "public-transportation"
@@ -41,18 +41,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
   - black
 typographies:
-  - frutiger
   - impact
   - arial
+  - frutiger
 imagery_styles:
-  - staged
   - bold
   - photography
+  - staged
 wikidata_description: "United Kingdom-based airport operator"
 has_twitter: false
 has_guidelines: true

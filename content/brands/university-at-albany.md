@@ -2,11 +2,11 @@
 title: University at Albany
 slug: "university-at-albany"
 description: ""
-date: "2026-03-05T15:56:45.772545"
+date: "2026-03-05T22:38:39.270298"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
   - black
   - gold

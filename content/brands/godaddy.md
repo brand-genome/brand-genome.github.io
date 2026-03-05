@@ -2,11 +2,11 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-03-05T15:56:45.989827"
+date: "2026-03-05T22:38:39.565030"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -43,18 +43,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - lockup
   - primary
+  - lockup
   - symbol
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - impact
 imagery_styles:
-  - clean
   - professional
+  - clean
 wikidata_description: publicly held company that is primarily an internet domain registrar and web hosting company
 has_twitter: false
 has_guidelines: true

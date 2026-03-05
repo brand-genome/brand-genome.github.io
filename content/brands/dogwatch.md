@@ -2,7 +2,7 @@
 title: DogWatch
 slug: dogwatch
 description: ""
-date: "2026-03-05T15:56:45.994834"
+date: "2026-03-05T22:38:39.569997"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
+  - white
+  - red
   - orange
   - grey
   - black
-  - white
-  - red
+  - yellow
+  - green
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - lifestyle
   - bold
   - product
+  - lifestyle
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

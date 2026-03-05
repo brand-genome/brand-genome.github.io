@@ -2,7 +2,7 @@
 title: Chase
 slug: chase
 description: ""
-date: "2026-03-05T15:56:46.253293"
+date: "2026-03-05T22:38:40.025301"
 draft: false
 sectors:
   - finance
@@ -19,317 +19,240 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
   - white
-  - light
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - vintage
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - vintage
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - "event-photography"
-  - cityscape
   - audience
-  - staged
-  - promotional
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - logo
-  - corporate
-  - event
-  - wedding
-  - business
-  - "food-photography"
-  - family
-  - text
-  - festival
-  - portrait
-  - advertisement
-  - product
-  - "sports-photography"
-  - sports
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
+  - selfie
   - professional
+  - landscape
+  - botanical
+  - promotional
+  - "sports-photography"
+  - festival
+  - food
+  - product
+  - wedding
+  - text
+  - interior
   - abstract
   - "audience-perspective"
-  - action
+  - "food-photography"
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - business
-  - "incomplete-art"
-  - professional
-  - "wave-pattern"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - photorealism
+  - candid
+  - group
+  - documentary
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - bridal
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - business
+  - "event-photography"
+  - "still-life"
+  - crowd
+concepts:
+  - "logo-design"
+  - advertisement
+  - business
+  - "live-performance"
+  - professional
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - "logo-design"
-  - action
-  - "text-heavy"
-  - "event-promotion"
   - typography
-  - cartoon
+  - "graphic-design"
+  - "event-promotion"
+  - "wave-pattern"
+  - action
+  - "live-stage"
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "short-exposure"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "dark-focal-point"
-  - "cut-out"
+  - silhouette
   - "artificial-shadow"
+  - "dark-focal-point"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - "cut-out"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - orange
-  - black
   - white
+  - orange
+  - "dark-blue"
+  - black
   - "light-blue"
   - blue
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - graying
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - formal
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

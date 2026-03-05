@@ -2,7 +2,7 @@
 title: GT Bicycles
 slug: "gt-bicycles"
 description: ""
-date: "2026-03-05T15:56:45.968922"
+date: "2026-03-05T22:38:39.535883"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - badge
+  - primary
   - lockup
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
   - yellow
 typographies:
   - georgia
   - times
 imagery_styles:
-  - product
   - bold
   - vintage
   - photography
+  - product
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

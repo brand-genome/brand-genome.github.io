@@ -2,7 +2,7 @@
 title: SRAM Urban
 slug: "sram-urban"
 description: ""
-date: "2026-03-05T15:56:45.832043"
+date: "2026-03-05T22:38:39.337645"
 draft: false
 sectors:
   - hardware
@@ -38,10 +38,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
-  - "pantone-186"
   - red
+  - black
+  - "pantone-186"
 typographies: []
 imagery_styles:
   - bold

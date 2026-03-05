@@ -2,24 +2,24 @@
 title: Semrush
 slug: semrush
 description: ""
-date: "2026-03-05T15:56:45.896002"
+date: "2026-03-05T22:38:39.418882"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
-  - 2020
   - 2018
+  - 2020
 languages:
   - english
 tags:
   - internet
 industries:
-  - "software-industry"
   - "search-engine-optimization"
   - marketing
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -43,38 +43,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - wordmark
   - vertical
 brand_colors:
-  - indigo
-  - green
+  - white
   - red
   - "pantone-1675"
-  - yellow
   - orange
   - grey
   - black
-  - white
+  - yellow
+  - indigo
   - "pantone-7540"
   - blue
   - "pantone-429"
+  - green
 typographies:
+  - "sans-serif"
   - ubuntu
   - inter
   - roboto
-  - "sans-serif"
   - display
 imagery_styles:
-  - modern
-  - photography
-  - natural
-  - geometric
-  - product
-  - clean
   - bold
+  - photography
+  - product
+  - geometric
+  - modern
+  - clean
+  - natural
 wikidata_description: American software as a service company
 has_twitter: false
 has_guidelines: true

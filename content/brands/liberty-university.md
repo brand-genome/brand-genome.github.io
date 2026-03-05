@@ -2,12 +2,12 @@
 title: Liberty University
 slug: "liberty-university"
 description: ""
-date: "2026-03-05T15:56:45.968156"
+date: "2026-03-05T22:38:39.534519"
 draft: false
 sectors:
-  - university
   - education
   - "e-learning-edtech"
+  - university
 regions:
   - usa
 years:
@@ -42,22 +42,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
+  - monogram
+  - secondary
   - horizontal
   - wordmark
-  - seal
-  - secondary
-  - monogram
   - stacked
-  - primary
 brand_colors:
   - blue
+  - red
   - black
   - gray
-  - red
 typographies:
+  - gotham
   - serif
   - garamond
-  - gotham
 imagery_styles:
   - bold
   - photography

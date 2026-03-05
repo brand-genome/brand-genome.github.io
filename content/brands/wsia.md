@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-03-05T15:56:46.060402"
+date: "2026-03-05T22:38:39.657657"
 draft: false
 sectors:
   - insurance
@@ -37,13 +37,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - primary
   - symbol
+  - primary
+  - lockup
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies: []
 imagery_styles: []

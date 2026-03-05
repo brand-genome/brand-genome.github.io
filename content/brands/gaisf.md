@@ -2,7 +2,7 @@
 title: GAISF
 slug: gaisf
 description: ""
-date: "2026-03-05T15:56:46.091399"
+date: "2026-03-05T22:38:39.712375"
 draft: false
 sectors:
   - sports
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "former umbrella sports organization, dissolved in 2023"

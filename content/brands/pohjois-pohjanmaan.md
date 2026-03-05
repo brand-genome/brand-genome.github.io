@@ -2,7 +2,7 @@
 title: Pohjois Pohjanmaan
 slug: "pohjois-pohjanmaan"
 description: ""
-date: "2026-03-05T15:56:45.849674"
+date: "2026-03-05T22:38:39.362507"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: Creighton University
 slug: "creighton-university"
 description: ""
-date: "2026-03-05T15:56:45.929301"
+date: "2026-03-05T22:38:39.504569"
 draft: false
 sectors:
   - university
@@ -40,24 +40,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-286"
+  - white
   - blue
   - black
-  - white
+  - "pantone-286"
 typographies:
   - serif
   - "proxima-nova"
 imagery_styles:
-  - classic
+  - bold
   - photography
+  - classic
+  - candid
   - natural
   - portrait
-  - candid
-  - bold
 wikidata_description: "private Jesuit university in Omaha, Nebraska, U.S."
 has_twitter: false
 has_guidelines: true

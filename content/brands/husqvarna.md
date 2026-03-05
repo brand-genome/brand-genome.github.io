@@ -2,7 +2,7 @@
 title: Husqvarna
 slug: husqvarna
 description: ""
-date: "2026-03-05T15:56:46.147119"
+date: "2026-03-05T22:38:39.787484"
 draft: false
 sectors:
   - automobile

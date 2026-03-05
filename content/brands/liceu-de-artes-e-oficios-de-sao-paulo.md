@@ -2,7 +2,7 @@
 title: Liceu de Artes e Ofícios de São Paulo
 slug: "liceu-de-artes-e-oficios-de-sao-paulo"
 description: ""
-date: "2026-03-05T15:56:45.785446"
+date: "2026-03-05T22:38:39.283796"
 draft: false
 sectors:
   - education

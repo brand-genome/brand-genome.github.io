@@ -2,7 +2,7 @@
 title: Santa
 slug: santa
 description: ""
-date: "2026-03-05T15:56:46.062835"
+date: "2026-03-05T22:38:39.667119"
 draft: false
 sectors:
   - entertainment
@@ -36,17 +36,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
-  - red
   - white
+  - red
 typographies:
   - serif
 imagery_styles:
-  - abstract
   - bold
+  - abstract
 wikidata_description: Spanish musical group; heavy metal band
 has_twitter: false
 has_guidelines: true

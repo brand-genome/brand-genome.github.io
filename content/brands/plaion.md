@@ -2,12 +2,12 @@
 title: Plaion
 slug: plaion
 description: ""
-date: "2026-03-05T15:56:45.665132"
+date: "2026-03-05T22:38:39.134968"
 draft: false
 sectors:
-  - entertainment
   - publishing
   - gaming
+  - entertainment
 regions:
   - austria
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - media
+  - entertainment
 industries:
   - "video-game-industry"
 countries:

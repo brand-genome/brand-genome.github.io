@@ -2,7 +2,7 @@
 title: Scottish Tourism Alliance
 slug: "scottish-tourism-alliance"
 description: ""
-date: "2026-03-05T15:56:45.908768"
+date: "2026-03-05T22:38:39.459339"
 draft: false
 sectors:
   - tourism
@@ -40,9 +40,9 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - blue
   - purple
-  - white
 typographies:
   - futura
 imagery_styles:

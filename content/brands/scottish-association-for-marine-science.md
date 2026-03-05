@@ -2,11 +2,11 @@
 title: Scottish Association for Marine Science
 slug: "scottish-association-for-marine-science"
 description: ""
-date: "2026-03-05T15:56:45.607289"
+date: "2026-03-05T22:38:39.079121"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - scotland
 years:

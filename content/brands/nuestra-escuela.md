@@ -2,7 +2,7 @@
 title: Nuestra Escuela
 slug: "nuestra-escuela"
 description: ""
-date: "2026-03-05T15:56:45.902362"
+date: "2026-03-05T22:38:39.430002"
 draft: false
 sectors:
   - education

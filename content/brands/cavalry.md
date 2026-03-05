@@ -2,7 +2,7 @@
 title: Cavalry
 slug: cavalry
 description: ""
-date: "2026-03-05T15:56:45.797626"
+date: "2026-03-05T22:38:39.301433"
 draft: false
 sectors:
   - software
@@ -39,13 +39,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - pink
-  - green
-  - yellow
-  - purple
+  - white
   - grey
   - black
-  - white
+  - yellow
+  - pink
+  - green
+  - purple
 typographies:
   - merriweather
 imagery_styles: []

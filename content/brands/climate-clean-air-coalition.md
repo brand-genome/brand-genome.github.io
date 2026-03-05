@@ -2,7 +2,7 @@
 title: "Climate & Clean Air Coalition"
 slug: "climate-clean-air-coalition"
 description: ""
-date: "2026-03-05T15:56:46.053602"
+date: "2026-03-05T22:38:39.646175"
 draft: false
 sectors:
   - ngo
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
   - white
@@ -49,9 +49,9 @@ typographies:
   - brandon
   - helvetica
 imagery_styles:
-  - vibrant
   - bold
   - photography
+  - vibrant
 wikidata_description: Air pollution and climate organization
 has_twitter: false
 has_guidelines: true

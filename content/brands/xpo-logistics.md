@@ -2,7 +2,7 @@
 title: XPO Logistics
 slug: "xpo-logistics"
 description: ""
-date: "2026-03-05T15:56:45.978417"
+date: "2026-03-05T22:38:39.554569"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,8 +15,8 @@ languages:
 tags:
   - transport
 industries:
-  - "transport-industry"
   - logistics
+  - "transport-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -41,30 +41,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - symbol
-  - signature
-  - secondary
   - primary
+  - symbol
+  - alternate
+  - secondary
+  - signature
 brand_colors:
-  - green
+  - white
   - red
-  - purple
-  - yellow
-  - gray
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - green
+  - purple
 typographies:
-  - impact
-  - arial
-  - display
   - roboto
+  - arial
+  - impact
+  - display
 imagery_styles:
+  - product
   - monochrome
   - staged
-  - product
 wikidata_description: American transportation company
 has_twitter: false
 has_guidelines: true

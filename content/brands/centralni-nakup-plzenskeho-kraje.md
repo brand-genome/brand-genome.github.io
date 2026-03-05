@@ -2,7 +2,7 @@
 title: Centrální Nákup Plzeňského Kraje
 slug: "centralni-nakup-plzenskeho-kraje"
 description: ""
-date: "2026-03-05T15:56:45.903729"
+date: "2026-03-05T22:38:39.434265"
 draft: false
 sectors:
   - "public-sector"
@@ -40,18 +40,18 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-3005"
-  - green
-  - yellow
+  - white
   - "pantone-109"
   - black
-  - white
-  - "pantone-7482"
+  - yellow
   - blue
+  - "pantone-3005"
+  - green
+  - "pantone-7482"
 typographies: []
 imagery_styles:
-  - colorful
   - bold
+  - colorful
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

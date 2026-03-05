@@ -2,12 +2,12 @@
 title: Zayed University
 slug: "zayed-university"
 description: ""
-date: "2026-03-05T15:56:46.109475"
+date: "2026-03-05T22:38:39.743639"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - dubai
 years:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - gotham

@@ -2,7 +2,7 @@
 title: UNIFEM
 slug: unifem
 description: ""
-date: "2026-03-05T15:56:45.833965"
+date: "2026-03-05T22:38:39.339439"
 draft: false
 sectors:
   - ngo
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - "pantone-285"
+  - black
 typographies:
   - arial
   - helvetica

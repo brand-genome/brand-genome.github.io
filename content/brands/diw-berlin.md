@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-03-05T15:56:46.005312"
+date: "2026-03-05T22:38:39.578293"
 draft: false
 sectors:
   - research
@@ -16,8 +16,8 @@ tags:
   - science
   - institution
 industries:
-  - "research-and-development"
   - "research-and-experimental-development-on-social-sciences-and-humanities"
+  - "research-and-development"
 countries:
   - germany
 revenue_buckets: []

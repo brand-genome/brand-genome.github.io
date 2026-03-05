@@ -2,7 +2,7 @@
 title: Global Center on Adaptation
 slug: "global-center-on-adaptation"
 description: ""
-date: "2026-03-05T15:56:45.896541"
+date: "2026-03-05T22:38:39.419380"
 draft: false
 sectors:
   - ngo
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
+  - "pantone-300"
   - grey
   - black
-  - "pantone-300"
-  - white
 typographies:
-  - impact
   - roboto
   - "sans-serif"
+  - impact
 imagery_styles:
-  - professional
+  - bold
   - photography
+  - dynamic
+  - professional
   - minimal
   - portrait
-  - dynamic
-  - bold
 wikidata_description: International Organozation
 has_twitter: false
 has_guidelines: true

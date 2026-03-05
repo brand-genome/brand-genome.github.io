@@ -2,7 +2,7 @@
 title: Kozel
 slug: kozel
 description: ""
-date: "2026-03-05T15:56:45.698457"
+date: "2026-03-05T22:38:39.190363"
 draft: false
 sectors:
   - brewery

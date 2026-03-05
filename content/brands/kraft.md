@@ -2,7 +2,7 @@
 title: Kraft
 slug: kraft
 description: ""
-date: "2026-03-05T15:56:46.007953"
+date: "2026-03-05T22:38:39.580981"
 draft: false
 sectors:
   - "design-creative"
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

@@ -2,7 +2,7 @@
 title: EMT Madrid
 slug: "emt-madrid"
 description: ""
-date: "2026-03-05T15:56:45.872441"
+date: "2026-03-05T22:38:39.384519"
 draft: false
 sectors:
   - "public-transportation"
@@ -40,9 +40,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - horizontal
   - primary
   - symbol
+  - horizontal
 brand_colors:
   - blue
 typographies: []

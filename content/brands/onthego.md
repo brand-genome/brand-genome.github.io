@@ -2,7 +2,7 @@
 title: OnTheGo
 slug: onthego
 description: ""
-date: "2026-03-05T15:56:46.090588"
+date: "2026-03-05T22:38:39.711350"
 draft: false
 sectors:
   - "consumer-goods"
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - symbol
-  - wordmark
-  - secondary
-  - vertical
   - primary
+  - symbol
   - icon
+  - alternate
+  - secondary
+  - wordmark
+  - vertical
 brand_colors:
-  - black
   - white
-  - gray
   - green
+  - black
+  - gray
 typographies:
-  - lato
   - roboto
+  - lato
 imagery_styles:
   - bold
 wikidata_description: ""

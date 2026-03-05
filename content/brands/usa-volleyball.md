@@ -2,7 +2,7 @@
 title: USA Volleyball
 slug: "usa-volleyball"
 description: ""
-date: "2026-03-05T15:56:45.849070"
+date: "2026-03-05T22:38:39.361523"
 draft: false
 sectors:
   - sports
@@ -39,19 +39,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
+  - white
+  - red
   - gold
+  - "pantone-2768"
+  - black
   - silver
   - gray
-  - black
   - navy
-  - white
   - "pantone-187"
-  - red
-  - "pantone-2768"
 typographies:
   - arial
 imagery_styles:

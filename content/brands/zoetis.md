@@ -2,7 +2,7 @@
 title: Zoetis
 slug: zoetis
 description: ""
-date: "2026-03-05T15:56:45.691638"
+date: "2026-03-05T22:38:39.181977"
 draft: false
 sectors:
   - pharma

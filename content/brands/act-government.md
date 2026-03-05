@@ -2,15 +2,15 @@
 title: ACT Government
 slug: "act-government"
 description: ""
-date: "2026-03-05T15:56:45.928319"
+date: "2026-03-05T22:38:39.504172"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - australia
 years:
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
   - black

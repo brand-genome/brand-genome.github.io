@@ -2,7 +2,7 @@
 title: World Customs Organization
 slug: "world-customs-organization"
 description: ""
-date: "2026-03-05T15:56:45.822923"
+date: "2026-03-05T22:38:39.329420"
 draft: false
 sectors:
   - "public-sector"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
 typographies:
   - lato
   - arial
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: intergovernmental organization
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Royal Navy
 slug: "royal-navy"
 description: ""
-date: "2026-03-05T15:56:46.090144"
+date: "2026-03-05T22:38:39.710839"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "social-networks"
   - military
+  - "social-networks"
 industries: []
 countries:
   - "united-kingdom"
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - badge
+  - secondary
 brand_colors:
   - navy
 typographies: []

@@ -2,7 +2,7 @@
 title: Tillamook Coast Oregon
 slug: "tillamook-coast-oregon"
 description: ""
-date: "2026-03-05T15:56:45.901125"
+date: "2026-03-05T22:38:39.427953"
 draft: false
 sectors:
   - tourism
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - serif

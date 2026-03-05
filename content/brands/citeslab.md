@@ -2,11 +2,11 @@
 title: CitésLab
 slug: citeslab
 description: ""
-date: "2026-03-05T15:56:45.911993"
+date: "2026-03-05T22:38:39.472698"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - france
 years:
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-130"
-  - "pantone-716"
+  - white
   - "pantone-7635"
   - black
-  - white
+  - "pantone-716"
   - "pantone-7433"
+  - "pantone-130"
 typographies:
   - impact
   - arial
   - helvetica
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

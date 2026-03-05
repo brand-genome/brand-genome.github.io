@@ -2,11 +2,11 @@
 title: Libanese American University
 slug: "libanese-american-university"
 description: ""
-date: "2026-03-05T15:56:46.175896"
+date: "2026-03-05T22:38:39.818526"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - lebanon
 years:

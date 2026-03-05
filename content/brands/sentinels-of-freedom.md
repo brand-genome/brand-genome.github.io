@@ -2,11 +2,11 @@
 title: Sentinels of Freedom
 slug: "sentinels-of-freedom"
 description: ""
-date: "2026-03-05T15:56:46.011217"
+date: "2026-03-05T22:38:39.584685"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - georgia
 imagery_styles:

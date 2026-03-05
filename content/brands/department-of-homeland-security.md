@@ -2,12 +2,12 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-03-05T15:56:45.995185"
+date: "2026-03-05T22:38:39.570411"
 draft: false
 sectors:
   - "public-sector"
-  - "emergency-services"
   - cybersecurity
+  - "emergency-services"
 regions:
   - usa
 years:
@@ -41,16 +41,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - signature
   - seal
-  - secondary
   - primary
+  - secondary
+  - horizontal
+  - signature
+  - wordmark
   - vertical
 brand_colors:
-  - blue
   - white
+  - blue
   - red
 typographies: []
 imagery_styles: []

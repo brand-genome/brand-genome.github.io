@@ -2,7 +2,7 @@
 title: Netclan
 slug: netclan
 description: ""
-date: "2026-03-05T15:56:45.915348"
+date: "2026-03-05T22:38:39.480073"
 draft: false
 sectors:
   - software
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
   - logomark
+  - secondary
 brand_colors:
-  - beige
-  - yellow
-  - gray
-  - black
-  - navy
   - white
+  - black
+  - yellow
   - blue
+  - beige
+  - navy
+  - gray
 typographies:
   - raleway
   - "open-sans"

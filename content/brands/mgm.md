@@ -2,11 +2,11 @@
 title: MGM+
 slug: mgm
 description: ""
-date: "2026-03-05T15:56:45.687381"
+date: "2026-03-05T22:38:39.180821"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -41,10 +41,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
   - silver
+  - black
 typographies: []
 imagery_styles:
   - gradient

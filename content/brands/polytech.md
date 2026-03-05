@@ -2,7 +2,7 @@
 title: Polytech
 slug: polytech
 description: ""
-date: "2026-03-05T15:56:45.960953"
+date: "2026-03-05T22:38:39.526778"
 draft: false
 sectors:
   - education
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - signature
   - abstract
+  - signature
+  - monogram
   - vertical
 brand_colors:
   - blue
 typographies:
   - "sans-serif"
 imagery_styles:
-  - modern
-  - professional
   - photography
+  - professional
   - abstract
+  - modern
   - candid
 wikidata_description: French engineering grande école (selective higher education institution)
 has_twitter: false

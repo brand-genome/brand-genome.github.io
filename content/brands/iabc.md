@@ -2,7 +2,7 @@
 title: IABC
 slug: iabc
 description: ""
-date: "2026-03-05T15:56:46.182286"
+date: "2026-03-05T22:38:39.825213"
 draft: false
 sectors:
   - "public-relations"
@@ -38,22 +38,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - stacked
   - signature
   - symbol
+  - stacked
 brand_colors:
+  - blue
   - grey
   - "pantone-285"
-  - blue
 typographies:
   - arial
 imagery_styles:
+  - dynamic
+  - professional
+  - clean
   - contemporary
   - modern
-  - professional
-  - dynamic
   - muted
-  - clean
 wikidata_description: Global network of communications professionals
 has_twitter: false
 has_guidelines: true

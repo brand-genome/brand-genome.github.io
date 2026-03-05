@@ -2,7 +2,7 @@
 title: FaceTime
 slug: facetime
 description: ""
-date: "2026-03-05T15:56:45.974499"
+date: "2026-03-05T22:38:39.547243"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - green
+  - black
 typographies:
   - gotham
 imagery_styles:
-  - gradient
   - bold
+  - gradient
   - professional
 wikidata_description: video and audio communication service from Apple
 has_twitter: false

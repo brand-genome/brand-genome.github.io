@@ -2,11 +2,11 @@
 title: Expo Arte
 slug: "expo-arte"
 description: ""
-date: "2026-03-05T15:56:45.792573"
+date: "2026-03-05T22:38:39.294948"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - romania
 years:
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-021"
   - "pantone-572"
+  - "pantone-021"
 typographies:
   - din
 imagery_styles:

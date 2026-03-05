@@ -2,11 +2,11 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-03-05T15:56:45.826153"
+date: "2026-03-05T22:38:39.332721"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
 regions:
   - sweden
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -50,12 +50,12 @@ brand_colors: []
 typographies:
   - arial
 imagery_styles:
-  - monochrome
-  - realistic
-  - photography
-  - artificial
-  - natural
   - bold
+  - photography
+  - monochrome
+  - artificial
+  - realistic
+  - natural
 wikidata_description: Swedish truck and bus manufacturer
 has_twitter: false
 has_guidelines: true

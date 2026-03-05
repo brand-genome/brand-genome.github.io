@@ -2,7 +2,7 @@
 title: Welbilt
 slug: welbilt
 description: ""
-date: "2026-03-05T15:56:46.098940"
+date: "2026-03-05T22:38:39.719688"
 draft: false
 sectors:
   - "home-appliances"

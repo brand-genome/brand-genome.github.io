@@ -2,7 +2,7 @@
 title: Samsic
 slug: samsic
 description: ""
-date: "2026-03-05T15:56:46.150039"
+date: "2026-03-05T22:38:39.789901"
 draft: false
 sectors:
   - "cleaning-facility-services"
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

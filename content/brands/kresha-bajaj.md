@@ -2,7 +2,7 @@
 title: Krésha Bajaj
 slug: "kresha-bajaj"
 description: ""
-date: "2026-03-05T15:56:45.874683"
+date: "2026-03-05T22:38:39.385315"
 draft: false
 sectors:
   - fashion
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - montserrat
 imagery_styles:

@@ -2,11 +2,11 @@
 title: Xero
 slug: xero
 description: ""
-date: "2026-03-05T15:56:46.105011"
+date: "2026-03-05T22:38:39.732460"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - "new-zealand"
 years:
@@ -44,10 +44,10 @@ body_sections: []
 logo_elements:
   - badge
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - 100
+  - black
 typographies:
   - display
 imagery_styles:

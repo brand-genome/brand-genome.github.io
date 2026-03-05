@@ -2,11 +2,11 @@
 title: Würth
 slug: wurth
 description: ""
-date: "2026-03-05T15:56:46.106792"
+date: "2026-03-05T22:38:39.735760"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - germany
 years:

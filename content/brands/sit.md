@@ -2,11 +2,11 @@
 title: SIT
 slug: sit
 description: ""
-date: "2026-03-05T15:56:46.092412"
+date: "2026-03-05T22:38:39.713596"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - singapore
 years:
@@ -39,10 +39,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
   - red
   - black

@@ -2,7 +2,7 @@
 title: We Mean Business
 slug: "we-mean-business"
 description: ""
-date: "2026-03-05T15:56:46.126964"
+date: "2026-03-05T22:38:39.766493"
 draft: false
 sectors:
   - ngo
@@ -37,27 +37,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - secondary
-  - stacked
   - primary
+  - symbol
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
+  - white
+  - grey
+  - black
   - cyan
   - green
   - "pantone-346"
-  - grey
-  - black
-  - white
 typographies:
-  - montserrat
   - "open-sans"
+  - montserrat
 imagery_styles:
   - bold
-  - vibrant
   - modern
   - photography
+  - vibrant
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

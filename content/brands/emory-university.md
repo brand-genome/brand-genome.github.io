@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-03-05T15:56:45.688404"
+date: "2026-03-05T22:38:39.181065"
 draft: false
 sectors:
   - university
@@ -42,22 +42,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-130"
-  - crimson
-  - gold
-  - yellow
-  - black
   - white
   - "pantone-294"
+  - gold
+  - crimson
+  - black
+  - yellow
   - blue
+  - "pantone-130"
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: "private research university in Atlanta, Georgia, United States"
 has_twitter: false

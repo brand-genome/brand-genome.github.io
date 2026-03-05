@@ -2,7 +2,7 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-03-05T15:56:45.820470"
+date: "2026-03-05T22:38:39.327333"
 draft: false
 sectors:
   - software
@@ -42,23 +42,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - logomark
-  - secondary
   - primary
+  - symbol
   - icon
+  - secondary
+  - logomark
 brand_colors:
   - black
 typographies:
-  - "open-sans"
-  - display
-  - slab
   - roboto
+  - "open-sans"
+  - slab
+  - display
 imagery_styles:
-  - professional
   - bold
-  - graphic
   - photography
+  - professional
+  - graphic
 wikidata_description: social media management platform
 has_twitter: false
 has_guidelines: true

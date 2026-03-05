@@ -2,7 +2,7 @@
 title: Ukraine Now
 slug: "ukraine-now"
 description: ""
-date: "2026-03-05T15:56:46.084323"
+date: "2026-03-05T22:38:39.704990"
 draft: false
 sectors:
   - "public-sector"
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-285"
-  - yellow
-  - black
-  - blue
   - "pantone-113"
+  - black
+  - yellow
+  - blue
+  - "pantone-285"
 typographies: []
 imagery_styles:
   - bold
-  - geometric
   - modern
+  - geometric
 wikidata_description: Ukrainian international promotion campaign for tourism and investment
 has_twitter: false
 has_guidelines: true

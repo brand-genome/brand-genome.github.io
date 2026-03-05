@@ -2,11 +2,11 @@
 title: Foursquare
 slug: foursquare
 description: ""
-date: "2026-03-05T15:56:46.113761"
+date: "2026-03-05T22:38:39.748787"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - media
+  - networks
 industries:
   - "location-intelligence"
   - "social-networking-service"

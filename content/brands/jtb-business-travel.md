@@ -2,7 +2,7 @@
 title: JTB Business Travel
 slug: "jtb-business-travel"
 description: ""
-date: "2026-03-05T15:56:45.995681"
+date: "2026-03-05T22:38:39.570925"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - business
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - alternate
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
   - blue
+  - red
   - green
   - gray
-  - red
 typographies: []
 imagery_styles:
   - dynamic

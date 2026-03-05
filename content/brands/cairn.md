@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-03-05T15:56:46.160949"
+date: "2026-03-05T22:38:39.801331"
 draft: false
 sectors:
-  - gas
   - petroleum
   - oil
+  - gas
 regions:
   - india
 years:
@@ -41,8 +41,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
   - white
+  - blue
   - "pantone-7687"
 typographies: []
 imagery_styles: []

@@ -2,7 +2,7 @@
 title: Région Sud
 slug: "region-sud"
 description: ""
-date: "2026-03-05T15:56:46.134101"
+date: "2026-03-05T22:38:39.774707"
 draft: false
 sectors:
   - "public-sector"

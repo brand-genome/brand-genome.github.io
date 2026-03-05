@@ -2,7 +2,7 @@
 title: Unity Group
 slug: "unity-group"
 description: ""
-date: "2026-03-05T15:56:45.890956"
+date: "2026-03-05T22:38:39.410585"
 draft: false
 sectors:
   - consulting
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - mascot
   - primary
+  - secondary
 brand_colors:
+  - white
+  - violet
+  - red
   - orange
   - black
-  - white
-  - red
-  - violet
 typographies:
-  - din
   - serif
+  - din
 imagery_styles:
-  - clean
   - modern
   - professional
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

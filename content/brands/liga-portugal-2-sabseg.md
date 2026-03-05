@@ -2,7 +2,7 @@
 title: Liga Portugal 2 Sabseg
 slug: "liga-portugal-2-sabseg"
 description: ""
-date: "2026-03-05T15:56:45.736975"
+date: "2026-03-05T22:38:39.229051"
 draft: false
 sectors:
   - sports

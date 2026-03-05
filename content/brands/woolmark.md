@@ -2,7 +2,7 @@
 title: Woolmark
 slug: woolmark
 description: ""
-date: "2026-03-05T15:56:45.809730"
+date: "2026-03-05T22:38:39.315752"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - white
   - grey
   - black
-  - white
   - gray
 typographies: []
 imagery_styles: []

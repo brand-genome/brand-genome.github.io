@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-03-05T15:56:45.832505"
+date: "2026-03-05T22:38:39.338113"
 draft: false
 sectors:
   - broadcasting
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - broadcast
+  - software
 industries: []
 countries:
   - "united-states"
@@ -44,14 +44,14 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - product
   - professional
+  - product
 wikidata_description: "US federally funded non-profit organization to support democracy"
 has_twitter: false
 has_guidelines: true

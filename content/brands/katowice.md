@@ -2,7 +2,7 @@
 title: Katowice
 slug: katowice
 description: ""
-date: "2026-03-05T15:56:45.645448"
+date: "2026-03-05T22:38:39.112098"
 draft: false
 sectors:
   - "public-sector"

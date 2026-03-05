@@ -2,7 +2,7 @@
 title: "AS Saint-Étienne"
 slug: "as-saint-etienne"
 description: ""
-date: "2026-03-05T15:56:45.746872"
+date: "2026-03-05T22:38:39.244817"
 draft: false
 sectors:
   - sports

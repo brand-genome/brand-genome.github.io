@@ -2,7 +2,7 @@
 title: "C-SPAN"
 slug: "c-span"
 description: ""
-date: "2026-03-05T15:56:45.936676"
+date: "2026-03-05T22:38:39.506876"
 draft: false
 sectors:
   - broadcasting
@@ -38,28 +38,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - icon
   - primary
+  - secondary
+  - signature
 brand_colors:
-  - maroon
-  - purple
-  - gray
+  - red
   - teal
   - black
+  - maroon
+  - gray
   - navy
-  - red
+  - purple
 typographies:
+  - poppins
   - georgia
   - serif
-  - poppins
   - "sans-serif"
 imagery_styles:
-  - clean
-  - geometric
   - bold
   - modern
+  - geometric
+  - clean
 wikidata_description: American television channel
 has_twitter: false
 has_guidelines: true

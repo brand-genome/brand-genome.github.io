@@ -2,7 +2,7 @@
 title: Colorado
 slug: colorado
 description: ""
-date: "2026-03-05T15:56:46.028488"
+date: "2026-03-05T22:38:39.596041"
 draft: false
 sectors:
   - "public-sector"
@@ -42,11 +42,11 @@ logo_elements:
   - primary
   - badge
 brand_colors:
-  - green
-  - gold
-  - silver
-  - black
   - white
+  - gold
+  - black
+  - silver
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: "city in and county seat of El Paso County, Colorado, United States"

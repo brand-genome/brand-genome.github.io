@@ -2,7 +2,7 @@
 title: Raise the torch
 slug: "raise-the-torch"
 description: ""
-date: "2026-03-05T15:56:46.127087"
+date: "2026-03-05T22:38:39.766634"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - community
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - icon
+  - signature
 brand_colors:
   - gold
 typographies: []

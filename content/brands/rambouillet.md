@@ -2,7 +2,7 @@
 title: Rambouillet
 slug: rambouillet
 description: ""
-date: "2026-03-05T15:56:46.156520"
+date: "2026-03-05T22:38:39.796383"
 draft: false
 sectors:
   - "public-sector"
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - green
+  - black
 typographies:
   - impact
 imagery_styles:

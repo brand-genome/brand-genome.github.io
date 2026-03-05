@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 slug: "arkansas-tech-university"
 description: ""
-date: "2026-03-05T15:56:45.853419"
+date: "2026-03-05T22:38:39.367150"
 draft: false
 sectors:
   - university
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
   - seal
-  - secondary
-  - vertical
   - primary
+  - symbol
   - icon
+  - secondary
+  - horizontal
+  - vertical
 brand_colors:
-  - green
-  - gold
-  - "pantone-343"
-  - black
   - white
+  - gold
+  - black
+  - "pantone-343"
+  - green
   - "pantone-116"
 typographies: []
 imagery_styles:
-  - product
   - bold
   - photography
+  - product
 wikidata_description: "public university in Russellville, Arkansas"
 has_twitter: false
 has_guidelines: true

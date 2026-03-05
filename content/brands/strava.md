@@ -2,7 +2,7 @@
 title: Strava
 slug: strava
 description: ""
-date: "2026-03-05T15:56:45.812661"
+date: "2026-03-05T22:38:39.318808"
 draft: false
 sectors:
   - software
@@ -39,28 +39,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - secondary
-  - primary
   - badge
+  - primary
+  - symbol
+  - secondary
+  - horizontal
+  - wordmark
   - vertical
 brand_colors:
-  - cyan
-  - purple
-  - gray
-  - orange
-  - black
   - white
   - red
+  - orange
+  - cyan
+  - black
+  - gray
+  - purple
 typographies:
   - display
 imagery_styles:
-  - photography
-  - flat
   - bold
+  - photography
   - natural
+  - flat
 wikidata_description: fitness tracking app for iOS and Android
 has_twitter: false
 has_guidelines: true

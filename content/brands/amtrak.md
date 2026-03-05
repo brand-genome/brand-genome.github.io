@@ -2,7 +2,7 @@
 title: Amtrak
 slug: amtrak
 description: ""
-date: "2026-03-05T15:56:45.667581"
+date: "2026-03-05T22:38:39.140522"
 draft: false
 sectors:
   - construction
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2017
-  - 2019
-  - 2010
   - 2018
+  - 2010
+  - 2019
+  - 2017
 languages:
   - english
 tags:
-  - transport
   - featured
   - signage
+  - transport
 industries:
   - "rail-transport"
 countries:
@@ -33,318 +33,241 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - transport
+  - text
+  - interior
+  - illustration
+  - "food-photography"
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - political
-  - outdoor
-  - cityscape
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - family
-  - "food-photography"
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - outdoors
-  - product
-  - cartoon
-  - nature
-  - "text-heavy"
-  - transport
-  - architectural
   - documentary
-  - abstract
-  - illustration
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - cityscape
+  - cartoon
+  - "text-heavy"
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
   - map
-  - action
-  - advertising
+  - staged
+  - historical
+  - political
+  - "still-life"
+  - travel
+  - outdoors
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
+  - white
   - "mud-green"
-  - "dark-blue"
-  - gray
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - t
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - straight
+  - black
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
+  - primary
+  - symbol
   - lockup
   - horizontal
-  - symbol
-  - wordmark
   - abstract
-  - primary
+  - wordmark
   - vertical
 brand_colors:
-  - red
-  - gray
-  - black
   - white
+  - red
+  - black
   - blue
+  - gray
 typographies:
   - frutiger
   - helvetica
 imagery_styles:
+  - bold
   - photography
+  - graphic
   - abstract
   - gradient
-  - bold
-  - graphic
 wikidata_description: American intercity passenger rail operator
 has_twitter: true
 has_guidelines: true

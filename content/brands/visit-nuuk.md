@@ -2,7 +2,7 @@
 title: Visit Nuuk
 slug: "visit-nuuk"
 description: ""
-date: "2026-03-05T15:56:45.609189"
+date: "2026-03-05T22:38:39.081136"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - regional
+  - featured
   - city
   - tourism
 industries: []
@@ -40,25 +40,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-1205"
-  - "pantone-185"
-  - grey
-  - "pantone-169"
-  - black
   - white
+  - "pantone-169"
   - red
+  - "pantone-185"
+  - "pantone-1205"
+  - grey
+  - black
 typographies:
-  - serif
   - roboto
+  - serif
 imagery_styles:
-  - monochrome
+  - bold
   - photography
   - staged
-  - bold
   - graphic
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

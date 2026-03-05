@@ -2,11 +2,11 @@
 title: Pepsi
 slug: pepsi
 description: ""
-date: "2026-03-05T15:56:45.752024"
+date: "2026-03-05T22:38:39.251708"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - usa
 years:
@@ -19,8 +19,8 @@ tags:
   - featured
 industries:
   - "food-industry"
-  - "fast-moving-consumer-goods"
   - "beverage-industry"
+  - "fast-moving-consumer-goods"
 countries:
   - "united-states"
   - belgium
@@ -33,290 +33,213 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gray
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - gray
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - vintage
   - orange
-  - bright
-  - "autumnal-colors"
+  - "complementary-colors"
   - "galaxy-colors"
-  - "two-tone"
+  - vintage
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - industrial
-  - commercial
-  - candid
-  - botanical
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - celebrity
-  - business
-  - event
-  - "social-cause"
-  - portrait
-  - advertisement
   - award
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
+  - celebrity
+  - selfie
+  - commercial
   - professional
-  - documentary
+  - landscape
+  - botanical
+  - promotional
+  - food
+  - "social-cause"
+  - product
+  - industrial
+  - interior
   - abstract
   - illustration
-  - action
+  - street
   - advertising
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - logo
+  - advertisement
+  - fashion
+  - event
+  - "text-heavy"
+  - corporate
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - business
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - informative
+  - "logo-design"
+  - logo
+  - branding
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - informative
-  - "graphic-design"
-  - "logo-design"
-  - cartoon
   - typography
-  - "text-heavy"
-  - branding
-  - logo
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - "saturated-colors"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "saturated-colors"
+  - "high-contrast"
+  - symmetrical
+  - "high-saturation"
+  - "low-exposure"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - orange
-  - black
   - white
-  - "light-blue"
   - red
+  - orange
+  - "dark-blue"
+  - black
+  - cyan
+  - "light-blue"
+  - "royal-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
-  - "tied-back"
-facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - n
-  - focused
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
-  - contemplative
-  - joyful
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
   - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - l
-  - a
-  - e
-  - colorful
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

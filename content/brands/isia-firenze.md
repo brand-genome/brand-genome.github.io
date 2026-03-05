@@ -2,7 +2,7 @@
 title: ISIA Firenze
 slug: "isia-firenze"
 description: ""
-date: "2026-03-05T15:56:45.907293"
+date: "2026-03-05T22:38:39.442265"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - design
   - education
+  - design
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,12 +39,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
   - magenta
+  - black
   - cyan
   - yellow
   - gray
-  - black
-  - red
 typographies: []
 imagery_styles:
   - bold

@@ -2,7 +2,7 @@
 title: Oakland University Police Department
 slug: "oakland-university-police-department"
 description: ""
-date: "2026-03-05T15:56:45.936925"
+date: "2026-03-05T22:38:39.507044"
 draft: false
 sectors:
   - "public-sector"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - emblem
   - primary
   - badge
-  - emblem
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - serif
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - professional
   - graphic

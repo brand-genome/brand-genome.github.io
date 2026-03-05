@@ -2,11 +2,11 @@
 title: Paige
 slug: paige
 description: ""
-date: "2026-03-05T15:56:45.835412"
+date: "2026-03-05T22:38:39.341002"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -39,16 +39,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - gray
-  - black
-  - navy
   - white
+  - black
   - blue
+  - gray
+  - navy
 typographies:
   - "open-sans"
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: "UK pop-rock band formerly signed to Walnut Tree Records"
 has_twitter: false
 has_guidelines: true

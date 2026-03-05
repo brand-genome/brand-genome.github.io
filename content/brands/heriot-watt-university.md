@@ -2,7 +2,7 @@
 title: "Heriot-Watt University"
 slug: "heriot-watt-university"
 description: ""
-date: "2026-03-05T15:56:45.599487"
+date: "2026-03-05T22:38:39.072645"
 draft: false
 sectors:
   - university

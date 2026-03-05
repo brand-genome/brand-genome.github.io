@@ -2,7 +2,7 @@
 title: Caisse d’épargne
 slug: "caisse-depargne"
 description: ""
-date: "2026-03-05T15:56:46.122342"
+date: "2026-03-05T22:38:39.760934"
 draft: false
 sectors:
   - insurance
@@ -46,8 +46,8 @@ typographies:
   - "gill-sans"
   - helvetica
 imagery_styles:
-  - monochrome
   - minimal
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

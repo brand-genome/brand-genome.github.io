@@ -2,7 +2,7 @@
 title: FIS
 slug: fis
 description: ""
-date: "2026-03-05T15:56:46.155049"
+date: "2026-03-05T22:38:39.794645"
 draft: false
 sectors:
   - sports
@@ -39,13 +39,13 @@ body_sections: []
 logo_elements:
   - emblem
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - frutiger
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: international sports governing body organizing skiing
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Appian
 slug: appian
 description: ""
-date: "2026-03-05T15:56:45.831528"
+date: "2026-03-05T22:38:39.337055"
 draft: false
 sectors:
   - software
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - favicon
+  - primary
+  - secondary
 brand_colors:
+  - white
+  - black
+  - blue
   - green
   - purple
-  - black
-  - white
-  - blue
 typographies: []
 imagery_styles:
-  - photography
-  - minimal
-  - vibrant
-  - clean
   - bold
+  - photography
+  - vibrant
   - graphic
+  - minimal
+  - clean
 wikidata_description: film production company
 has_twitter: false
 has_guidelines: true

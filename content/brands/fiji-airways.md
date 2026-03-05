@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-03-05T15:56:45.647076"
+date: "2026-03-05T22:38:39.114238"
 draft: false
 sectors:
   - airline

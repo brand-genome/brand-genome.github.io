@@ -2,12 +2,12 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-03-05T15:56:45.937673"
+date: "2026-03-05T22:38:39.507699"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - usa
 years:
@@ -44,10 +44,10 @@ body_sections: []
 logo_elements:
   - seal
 brand_colors:
-  - black
   - white
-  - gray
   - crimson
+  - black
+  - gray
 typographies:
   - verdana
 imagery_styles: []

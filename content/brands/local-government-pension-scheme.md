@@ -2,7 +2,7 @@
 title: Local Government Pension Scheme
 slug: "local-government-pension-scheme"
 description: ""
-date: "2026-03-05T15:56:45.823283"
+date: "2026-03-05T22:38:39.329857"
 draft: false
 sectors:
   - finance
@@ -38,15 +38,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - orange
   - grey
   - black
-  - white
   - blue
+  - green
 typographies: []
 imagery_styles:
   - professional

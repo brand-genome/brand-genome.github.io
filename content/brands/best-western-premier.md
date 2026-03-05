@@ -2,7 +2,7 @@
 title: Best Western Premier
 slug: "best-western-premier"
 description: ""
-date: "2026-03-05T15:56:45.917428"
+date: "2026-03-05T22:38:39.483474"
 draft: false
 sectors:
   - tourism

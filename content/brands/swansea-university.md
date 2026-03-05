@@ -2,7 +2,7 @@
 title: Swansea University
 slug: "swansea-university"
 description: ""
-date: "2026-03-05T15:56:45.967277"
+date: "2026-03-05T22:38:39.532766"
 draft: false
 sectors:
   - university
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - stacked
   - primary
+  - stacked
+  - crest
   - horizontal
 brand_colors:
+  - white
   - blue
   - "pantone-662"
-  - white
 typographies: []
 imagery_styles:
   - graphic

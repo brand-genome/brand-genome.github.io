@@ -2,7 +2,7 @@
 title: Swansea University Science for Schools Scheme
 slug: "swansea-university-science-for-schools-scheme"
 description: ""
-date: "2026-03-05T15:56:45.832900"
+date: "2026-03-05T22:38:39.338594"
 draft: false
 sectors:
   - education
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors:
-  - coral
+  - red
+  - black
   - yellow
   - blue
-  - black
-  - red
+  - coral
 typographies:
   - impact
-  - futura
   - arial
+  - futura
   - helvetica
 imagery_styles:
   - bold

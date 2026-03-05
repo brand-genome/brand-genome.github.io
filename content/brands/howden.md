@@ -2,7 +2,7 @@
 title: Howden
 slug: howden
 description: ""
-date: "2026-03-05T15:56:45.748288"
+date: "2026-03-05T22:38:39.246535"
 draft: false
 sectors:
   - insurance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries: []
 countries:
   - worldwide

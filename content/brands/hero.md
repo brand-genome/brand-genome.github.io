@@ -2,7 +2,7 @@
 title: Hero
 slug: hero
 description: ""
-date: "2026-03-05T15:56:46.061930"
+date: "2026-03-05T22:38:39.664768"
 draft: false
 sectors:
   - automobile
@@ -37,20 +37,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - icon
-  - horizontal
-  - wordmark
-  - abstract
   - primary
+  - icon
+  - lockup
+  - horizontal
+  - abstract
+  - wordmark
   - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
-  - clean
   - abstract
   - modern
   - photography
+  - clean
 wikidata_description: vocal track by Charlotte Perrelli; 2008 studio recording
 has_twitter: false
 has_guidelines: true

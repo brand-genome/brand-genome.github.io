@@ -2,11 +2,11 @@
 title: Royal Academy of Engineering
 slug: "royal-academy-of-engineering"
 description: ""
-date: "2026-03-05T15:56:46.049581"
+date: "2026-03-05T22:38:39.640754"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -41,8 +41,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography

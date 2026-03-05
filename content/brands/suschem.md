@@ -2,7 +2,7 @@
 title: SusChem
 slug: suschem
 description: ""
-date: "2026-03-05T15:56:46.074312"
+date: "2026-03-05T22:38:39.688092"
 draft: false
 sectors:
   - research

@@ -2,12 +2,12 @@
 title: TUI
 slug: tui
 description: ""
-date: "2026-03-05T15:56:46.174359"
+date: "2026-03-05T22:38:39.816777"
 draft: false
 sectors:
-  - tourism
   - hospitality
   - cruise
+  - tourism
 regions:
   - germany
 years:

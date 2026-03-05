@@ -2,11 +2,11 @@
 title: Swinburne
 slug: swinburne
 description: ""
-date: "2026-03-05T15:56:45.882232"
+date: "2026-03-05T22:38:39.394186"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - australia
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - education
-  - university
   - technology
+  - university
 industries: []
 countries:
   - australia

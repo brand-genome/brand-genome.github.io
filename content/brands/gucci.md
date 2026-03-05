@@ -2,13 +2,13 @@
 title: Gucci
 slug: gucci
 description: ""
-date: "2026-03-05T15:56:46.184241"
+date: "2026-03-05T22:38:39.827529"
 draft: false
 sectors:
-  - beauty
   - fashion
   - homecare
   - footwear
+  - beauty
 regions:
   - unknown
 years: []
@@ -24,239 +24,239 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
-  - red
-  - textured
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - "sunset-colors"
   - "text-heavy"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
-  - branding
-  - typography
-  - botanical
-  - staged
-  - vintage
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
   - celebrity
-  - event
-  - text
-  - portrait
-  - advertisement
+  - selfie
+  - landscape
+  - botanical
+  - food
   - product
-  - cartoon
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
-  - underwater
+  - text
+  - interior
   - abstract
   - illustration
-  - "social-media"
-  - action
+  - vintage
+  - street
   - advertising
+  - architectural
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - fashion
+  - advertisement
+  - event
+  - sky
+  - bridal
+  - cartoon
+  - "text-heavy"
+  - underwater
+  - amateur
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - "social-media"
+  - "still-life"
 concepts:
+  - product
+  - advertisement
+  - branding
   - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - illustration
   - "motion-capture"
-  - "incomplete-art"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "product-photography"
   - "wave-pattern"
+  - "motion-blur"
+  - accessory
+  - "incomplete-art"
   - "live-stage"
   - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - product
-  - cartoon
-  - accessory
-  - "product-photography"
-  - typography
-  - branding
-  - "motion-blur"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "text-heavy"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "text-heavy"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "motion-capture"
+  - asymmetry
+  - "low-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
   - flowing
-  - braided
-  - up
-  - dark
-  - curly
-  - covered
-  - varied
-  - down
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - pink
-  - black
-  - straight
-  - blonde
-  - long
   - casual
+  - blonde
+  - wavy
+  - loose
   - gray
   - updo
+  - dark
   - "tied-back"
-facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
-  - joyful
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - down
   - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
-  - posed
+  - long
+facial_expressions:
+  - joyful
   - engaged
-  - walking
-  - seated
-  - leaning
-  - confident
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - posed
+  - active
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

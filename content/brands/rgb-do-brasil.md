@@ -2,11 +2,11 @@
 title: RGB do Brasil
 slug: "rgb-do-brasil"
 description: ""
-date: "2026-03-05T15:56:45.947001"
+date: "2026-03-05T22:38:39.515667"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - brazil
 years:

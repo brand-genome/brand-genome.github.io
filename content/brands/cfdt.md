@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-03-05T15:56:45.609604"
+date: "2026-03-05T22:38:39.081532"
 draft: false
 sectors:
   - ngo
@@ -39,9 +39,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
   - orange
 typographies: []

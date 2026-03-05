@@ -2,11 +2,11 @@
 title: Bucks New University
 slug: "bucks-new-university"
 description: ""
-date: "2026-03-05T15:56:45.998028"
+date: "2026-03-05T22:38:39.571614"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -45,12 +45,12 @@ brand_colors:
   - grey
   - cyan
 typographies:
-  - arial
   - slab
   - helvetica
+  - arial
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: nursing school
 has_twitter: false
 has_guidelines: true

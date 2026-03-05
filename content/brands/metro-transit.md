@@ -2,16 +2,16 @@
 title: Metro Transit
 slug: "metro-transit"
 description: ""
-date: "2026-03-05T15:56:45.964594"
+date: "2026-03-05T22:38:39.530927"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
-  - 2019
   - 2014
+  - 2019
 languages:
   - english
 tags:
@@ -40,29 +40,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
   - symbol
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - yellow
-  - gray
-  - orange
-  - blue
-  - black
   - white
   - red
+  - gold
+  - orange
+  - black
+  - yellow
+  - blue
+  - gray
+  - green
 typographies:
-  - arial
-  - avenir
   - "gill-sans"
+  - avenir
+  - arial
 imagery_styles:
-  - gradient
   - bold
-  - clean
   - modern
+  - gradient
+  - clean
 wikidata_description: public transit operator in the Twin Cities region of Minnesota
 has_twitter: false
 has_guidelines: true

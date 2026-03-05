@@ -2,7 +2,7 @@
 title: Gasag
 slug: gasag
 description: ""
-date: "2026-03-05T15:56:45.743412"
+date: "2026-03-05T22:38:39.240548"
 draft: false
 sectors:
   - utilities
@@ -16,8 +16,8 @@ tags:
   - featured
   - industry
 industries:
-  - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
   - "energy-company"
+  - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
   - "energy-supply"
 countries:
   - germany

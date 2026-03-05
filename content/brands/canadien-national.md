@@ -2,7 +2,7 @@
 title: Canadien National
 slug: "canadien-national"
 description: ""
-date: "2026-03-05T15:56:46.170329"
+date: "2026-03-05T22:38:39.812151"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -43,10 +43,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
-  - "pantone-485"
   - white
+  - red
   - black
+  - "pantone-485"
 typographies:
   - frutiger
 imagery_styles:

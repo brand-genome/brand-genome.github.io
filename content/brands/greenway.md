@@ -2,7 +2,7 @@
 title: Greenway
 slug: greenway
 description: ""
-date: "2026-03-05T15:56:46.035490"
+date: "2026-03-05T22:38:39.604221"
 draft: false
 sectors:
   - "public-sector"
@@ -42,11 +42,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - "pantone-430"
-  - grey
   - white
   - "pantone-355"
+  - grey
+  - "pantone-430"
+  - green
 typographies:
   - arial
 imagery_styles:

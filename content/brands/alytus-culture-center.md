@@ -2,7 +2,7 @@
 title: Alytus Culture Center
 slug: "alytus-culture-center"
 description: ""
-date: "2026-03-05T15:56:45.784094"
+date: "2026-03-05T22:38:39.282312"
 draft: false
 sectors:
   - "arts-culture"

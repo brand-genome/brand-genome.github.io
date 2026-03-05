@@ -2,7 +2,7 @@
 title: Rugby Canada
 slug: "rugby-canada"
 description: ""
-date: "2026-03-05T15:56:45.984798"
+date: "2026-03-05T22:38:39.560218"
 draft: false
 sectors:
   - sports
@@ -40,10 +40,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
-  - "pantone-186"
   - red
+  - black
+  - "pantone-186"
 typographies:
   - arial
   - helvetica

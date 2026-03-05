@@ -2,11 +2,11 @@
 title: The Crown Estate
 slug: "the-crown-estate"
 description: ""
-date: "2026-03-05T15:56:46.139733"
+date: "2026-03-05T22:38:39.779767"
 draft: false
 sectors:
-  - "real-estate"
   - finance
+  - "real-estate"
 regions:
   - "united-kingdom"
 years:

@@ -2,11 +2,11 @@
 title: Kelea
 slug: kelea
 description: ""
-date: "2026-03-05T15:56:46.123069"
+date: "2026-03-05T22:38:39.762343"
 draft: false
 sectors:
-  - tourism
   - "wellness-spa"
+  - tourism
 regions:
   - usa
 years:

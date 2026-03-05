@@ -2,11 +2,11 @@
 title: Alaric
 slug: alaric
 description: ""
-date: "2026-03-05T15:56:45.696139"
+date: "2026-03-05T22:38:39.187920"
 draft: false
 sectors:
-  - "design-creative"
   - "consumer-goods"
+  - "design-creative"
 regions:
   - india
 years:

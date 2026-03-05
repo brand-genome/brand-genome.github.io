@@ -2,12 +2,12 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-03-05T15:56:46.087409"
+date: "2026-03-05T22:38:39.707941"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -41,15 +41,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - vertical
   - badge
   - icon
+  - secondary
+  - horizontal
+  - vertical
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies: []
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Tehy
 slug: tehy
 description: ""
-date: "2026-03-05T15:56:45.747992"
+date: "2026-03-05T22:38:39.246171"
 draft: false
 sectors:
   - ngo

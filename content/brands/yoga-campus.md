@@ -2,7 +2,7 @@
 title: Yoga Campus
 slug: "yoga-campus"
 description: ""
-date: "2026-03-05T15:56:46.146657"
+date: "2026-03-05T22:38:39.787012"
 draft: false
 sectors:
   - education

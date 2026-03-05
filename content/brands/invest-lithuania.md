@@ -2,7 +2,7 @@
 title: Invest Lithuania
 slug: "invest-lithuania"
 description: ""
-date: "2026-03-05T15:56:45.864984"
+date: "2026-03-05T22:38:39.379542"
 draft: false
 sectors:
   - "public-sector"

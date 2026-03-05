@@ -2,12 +2,12 @@
 title: Mitel
 slug: mitel
 description: ""
-date: "2026-03-05T15:56:46.099505"
+date: "2026-03-05T22:38:39.721783"
 draft: false
 sectors:
-  - telecom
   - software
   - networking
+  - telecom
 regions:
   - canada
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - networks
+  - corporate
 industries:
   - telecommunications
 countries:
@@ -43,18 +43,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - orange
   - black
-  - white
   - blue
+  - green
 typographies: []
 imagery_styles:
-  - contemporary
   - colorful
+  - contemporary
   - modern
   - graphic
 wikidata_description: Canadian telecommunications company

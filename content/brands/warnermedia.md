@@ -2,25 +2,25 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-03-05T15:56:45.802857"
+date: "2026-03-05T22:38:39.311097"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
   - entertainment
 industries:
-  - "internet-industry"
-  - "publishing-industry"
   - "media-industry"
+  - "publishing-industry"
   - "tv-industry"
+  - "internet-industry"
   - telecommunications
 countries:
   - "united-states"
@@ -47,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
+  - primary
   - alternate
+  - lockup
   - horizontal
   - wordmark
   - stacked
-  - primary
 brand_colors:
-  - "pantone-299"
+  - white
   - grey
   - black
-  - white
   - blue
+  - "pantone-299"
 typographies: []
 imagery_styles:
   - bold
-  - clean
   - modern
+  - clean
 wikidata_description: former American multinational media conglomerate
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-03-05T15:56:46.090941"
+date: "2026-03-05T22:38:39.711778"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -16,12 +16,12 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
-  - "software-development"
   - "business-intelligence"
-  - analytics
-  - "data-visualization"
   - "technology-industry"
+  - "software-development"
+  - "data-visualization"
+  - analytics
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -47,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - alternate
   - horizontal
   - stacked
-  - icon
   - vertical
 brand_colors:
-  - black
-  - "pantone-1795"
   - white
+  - "pantone-1795"
+  - black
 typographies:
   - futura
 imagery_styles:

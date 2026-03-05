@@ -2,7 +2,7 @@
 title: "Coca-cola zero"
 slug: "coca-cola-zero"
 description: ""
-date: "2026-03-05T15:56:46.132444"
+date: "2026-03-05T22:38:39.772964"
 draft: false
 sectors:
   - drink
@@ -39,19 +39,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies:
-  - script
   - gotham
+  - script
 imagery_styles:
+  - bold
   - photography
-  - dynamic
   - product
   - vibrant
-  - bold
   - graphic
+  - dynamic
 wikidata_description: brand of diet soda
 has_twitter: false
 has_guidelines: true

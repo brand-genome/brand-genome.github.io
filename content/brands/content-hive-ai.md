@@ -2,7 +2,7 @@
 title: Content Hive AI
 slug: "content-hive-ai"
 description: ""
-date: "2026-03-05T15:56:45.613253"
+date: "2026-03-05T22:38:39.084575"
 draft: false
 sectors:
   - software
@@ -38,17 +38,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
   - bold
-  - clean
   - serious
   - modern
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

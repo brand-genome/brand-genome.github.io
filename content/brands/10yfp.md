@@ -2,7 +2,7 @@
 title: 10YFP
 slug: 10yfp
 description: ""
-date: "2026-03-05T15:56:45.914443"
+date: "2026-03-05T22:38:39.476852"
 draft: false
 sectors:
   - ngo
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - green
+  - black
 typographies:
   - arial
   - helvetica

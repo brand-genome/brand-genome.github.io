@@ -2,7 +2,7 @@
 title: Elron
 slug: elron
 description: ""
-date: "2026-03-05T15:56:45.607138"
+date: "2026-03-05T22:38:39.079015"
 draft: false
 sectors:
   - "public-transportation"

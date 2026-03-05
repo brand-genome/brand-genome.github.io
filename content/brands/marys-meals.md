@@ -2,7 +2,7 @@
 title: Mary’s Meals
 slug: "marys-meals"
 description: ""
-date: "2026-03-05T15:56:46.085594"
+date: "2026-03-05T22:38:39.706342"
 draft: false
 sectors:
   - ngo
@@ -37,14 +37,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
-  - yellow
+  - white
   - grey
   - black
-  - white
+  - yellow
   - blue
 typographies: []
 imagery_styles: []

@@ -2,7 +2,7 @@
 title: Walt Disney World
 slug: "walt-disney-world"
 description: ""
-date: "2026-03-05T15:56:46.189143"
+date: "2026-03-05T22:38:39.853865"
 draft: false
 sectors:
   - "amusement-park"
@@ -20,225 +20,225 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-image_backgrounds:
-  - pattern
   - colored
-  - blurred
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
+image_backgrounds:
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - colored
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - branding
-  - typography
-  - candid
-  - botanical
-  - memorial
-  - staged
-  - promotional
-  - historical
-  - food
-  - character
-  - beauty
-  - "graphic-design"
-  - street
   - landscape
-  - logo
-  - event
-  - wildlife
-  - family
-  - "food-photography"
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - product
-  - sports
+  - botanical
+  - promotional
   - nature
+  - food
+  - product
+  - text
+  - interior
+  - illustration
+  - abstract
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - "live-stage"
+  - action
+  - group
+  - character
+  - logo
+  - advertisement
+  - event
+  - sky
+  - fashion
+  - bridal
+  - "text-heavy"
+  - underwater
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - wildlife
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - memorial
+  - branding
+  - "still-life"
+  - travel
+concepts:
+  - advertisement
+  - "family-friendly"
+  - branding
+  - "complete-art"
   - "text-heavy"
   - cartoon
-  - bridal
-  - architectural
-  - underwater
-  - abstract
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "memorial-day"
-  - photorealism
   - illustration
   - vintage
-  - "family-friendly"
-  - promotional
-  - advertisement
-  - "graphic-design"
   - typography
-  - cartoon
-  - "text-heavy"
-  - "complete-art"
-  - branding
+  - "graphic-design"
+  - "wave-pattern"
+  - "memorial-day"
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
+  - white
   - "dark-green"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
+  - cyan
   - "light-blue"
+  - "royal-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - beard
-  - braided
-  - mustache
-  - long
-  - ponytail
-  - dark
-  - curly
   - casual
-  - covered
   - flowing
   - varied
-  - short
-  - updo
-  - "tied-back"
   - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - mustache
+  - short
+  - curly
+  - updo
+  - long
+  - dark
+  - "tied-back"
+  - covered
+  - beard
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
+  - casual
+  - jacket
+  - athletic
   - business
-  - swimwear
+  - beachwear
   - "form-fitting"
   - dress
+  - costume
   - formal
-  - casual
+  - protective
+  - swimwear
   - traditional
   - themed
-  - jacket
-  - costume
-  - beachwear
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - dark
-  - themed
-  - earthy
-  - muted
   - contrast
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - themed
+  - dark
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - reclined
-  - presenting
-  - confident
-  - seated
   - leaning
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - walking
+  - holding
+  - active
+  - standing
+  - running
+  - presenting
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

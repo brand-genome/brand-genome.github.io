@@ -2,7 +2,7 @@
 title: Ferrari
 slug: ferrari
 description: ""
-date: "2026-03-05T15:56:45.802207"
+date: "2026-03-05T22:38:39.310270"
 draft: false
 sectors:
   - automobile
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - featured
   - luxury
+  - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:

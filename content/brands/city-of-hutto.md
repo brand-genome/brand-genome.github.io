@@ -2,7 +2,7 @@
 title: City of Hutto
 slug: "city-of-hutto"
 description: ""
-date: "2026-03-05T15:56:46.122086"
+date: "2026-03-05T22:38:39.760654"
 draft: false
 sectors:
   - "public-sector"
@@ -38,9 +38,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
   - blue
   - black

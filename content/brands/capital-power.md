@@ -2,7 +2,7 @@
 title: Capital Power
 slug: "capital-power"
 description: ""
-date: "2026-03-05T15:56:46.047189"
+date: "2026-03-05T22:38:39.637945"
 draft: false
 sectors:
   - gas
@@ -11,8 +11,8 @@ sectors:
 regions:
   - canada
 years:
-  - 2019
   - 2014
+  - 2019
 languages:
   - english
 tags:
@@ -42,26 +42,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
 brand_colors:
-  - green
-  - yellow
-  - gray
   - white
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
   - arial
   - helvetica
 imagery_styles:
   - bold
-  - clean
-  - professional
   - photography
+  - professional
+  - clean
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

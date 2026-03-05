@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-03-05T15:56:45.678382"
+date: "2026-03-05T22:38:39.172184"
 draft: false
 sectors:
   - consulting
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2022
+  - 2024
 languages:
   - english
 tags:
   - technology
 industries:
-  - "software-industry"
   - consulting
+  - "software-industry"
   - technology
 countries:
   - "united-states"
@@ -44,11 +44,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
+  - black
+  - blue
   - pink
   - gray
-  - black
-  - white
-  - blue
 typographies:
   - inter
 imagery_styles:

@@ -2,11 +2,11 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-03-05T15:56:46.043832"
+date: "2026-03-05T22:38:39.615082"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
   - utilities
 regions:
   - canada

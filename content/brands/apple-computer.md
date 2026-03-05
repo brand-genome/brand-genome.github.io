@@ -2,11 +2,11 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-03-05T15:56:45.780075"
+date: "2026-03-05T22:38:39.278485"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
@@ -15,18 +15,18 @@ years:
 languages:
   - english
 tags:
+  - technology
   - vintage
   - featured
   - software
-  - technology
 industries:
-  - "consumer-electronics-industry"
-  - "software-industry"
   - "software-development"
-  - "digital-distribution"
+  - "consumer-electronics-industry"
   - "mobile-phone-industry"
+  - "software-industry"
   - "information-technology"
   - electronics
+  - "digital-distribution"
 countries:
   - "united-states"
 revenue_buckets:
@@ -53,19 +53,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - "pantone-186"
-  - green
-  - gold
-  - silver
   - white
   - red
+  - gold
+  - "pantone-186"
+  - silver
+  - green
 typographies:
-  - garamond
   - helvetica
+  - garamond
 imagery_styles:
   - bold
 wikidata_description: "American multinational technology company based in Cupertino, California"

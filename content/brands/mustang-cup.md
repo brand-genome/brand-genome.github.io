@@ -2,7 +2,7 @@
 title: Mustang Cup
 slug: "mustang-cup"
 description: ""
-date: "2026-03-05T15:56:45.658414"
+date: "2026-03-05T22:38:39.125838"
 draft: false
 sectors:
   - sports

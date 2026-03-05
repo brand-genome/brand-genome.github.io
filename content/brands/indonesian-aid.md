@@ -2,7 +2,7 @@
 title: Indonesian AID
 slug: "indonesian-aid"
 description: ""
-date: "2026-03-05T15:56:45.716514"
+date: "2026-03-05T22:38:39.206482"
 draft: false
 sectors:
   - "public-sector"

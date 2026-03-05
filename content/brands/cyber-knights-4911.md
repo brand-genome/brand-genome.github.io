@@ -2,7 +2,7 @@
 title: Cyber Knights 4911
 slug: "cyber-knights-4911"
 description: ""
-date: "2026-03-05T15:56:45.876385"
+date: "2026-03-05T22:38:39.385717"
 draft: false
 sectors:
   - education
@@ -40,20 +40,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - red
   - black
-  - white
   - gray
 typographies:
-  - verdana
   - "open-sans"
-  - arial
+  - verdana
   - helvetica
+  - arial
 imagery_styles:
-  - clean
-  - modern
   - bold
+  - modern
   - photography
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

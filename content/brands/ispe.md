@@ -2,7 +2,7 @@
 title: ISPE
 slug: ispe
 description: ""
-date: "2026-03-05T15:56:45.976051"
+date: "2026-03-05T22:38:39.551108"
 draft: false
 sectors:
   - ngo

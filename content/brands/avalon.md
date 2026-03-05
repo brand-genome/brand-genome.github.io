@@ -2,7 +2,7 @@
 title: Avalon
 slug: avalon
 description: ""
-date: "2026-03-05T15:56:45.971078"
+date: "2026-03-05T22:38:39.540339"
 draft: false
 sectors:
   - "real-estate"
@@ -37,9 +37,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors: []
 typographies:
   - impact

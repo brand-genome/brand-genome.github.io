@@ -2,11 +2,11 @@
 title: The Emirates
 slug: "the-emirates"
 description: ""
-date: "2026-03-05T15:56:45.865570"
+date: "2026-03-05T22:38:39.379942"
 draft: false
 sectors:
-  - "public-sector"
   - airline
+  - "public-sector"
   - tourism
 regions:
   - "united-arab-emirates"
@@ -16,8 +16,8 @@ languages:
   - english
   - arabic
 tags:
-  - featured
   - regional
+  - featured
   - institution
 industries: []
 countries:
@@ -28,335 +28,258 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
+  - "sky-colors"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - light
+  - "sunset-colors"
+  - "analogous-colors"
   - "pastel-colors"
-  - dark
+  - "autumnal-colors"
+  - "inverted-colors"
+  - "galaxy-colors"
   - vintage
   - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
-  - light
-  - red
-  - "galaxy-colors"
+  - dark
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - panorama
   - airport
-  - selfie
-  - artistic
-  - interior
-  - industrial
-  - commercial
-  - candid
-  - botanical
-  - urban
-  - cityscape
   - audience
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - logo
-  - corporate
-  - event
-  - business
-  - furniture
-  - travel
-  - portrait
-  - advertisement
-  - architecture
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - bridal
-  - architectural
-  - beach
-  - documentary
+  - selfie
+  - commercial
   - professional
+  - beach
+  - furniture
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
+  - interior
   - abstract
   - "audience-perspective"
-  - map
-  - action
+  - architecture
+  - street
   - advertising
-concepts:
-  - "sports-event"
-  - "motion-capture"
-  - "incomplete-art"
-  - "high-angle-photo"
-  - "wave-pattern"
+  - artistic
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "point-of-view-shot"
+  - infographic
+  - group
+  - documentary
+  - candid
+  - urban
+  - panorama
+  - fitness
+  - logo
+  - advertisement
+  - event
+  - sky
+  - fashion
+  - cityscape
+  - "text-heavy"
+  - bridal
+  - corporate
   - "graphic-design"
+  - portrait
+  - beauty
+  - map
+  - staged
+  - historical
+  - business
+  - "still-life"
+  - travel
+concepts:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "sports-event"
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
   - "framed-image"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - symmetrical
   - "motion-capture"
   - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - asymmetry
-  - symmetrical
-  - saturated
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - saturated
+  - "negative-space"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
+  - red
   - orange
   - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
-  - red
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
+  - casual
   - flowing
-  - traditional
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
   - engaged
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
   - wavy
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - focused
-  - casual
+  - relaxed
+  - loose
+  - traditional
   - gray
-  - p
   - updo
+  - dark
   - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
+  - beard
+  - neutral
+  - ponytail
+  - curly
   - joyful
+  - content
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - formal
+  - focused
+  - long
   - contemplative
+facial_expressions:
+  - joyful
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - contemplative
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
   - casual
-  - p
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
   - protective
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - white
+  - red
+  - vibrant
+  - muted
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - beige
-  - p
-  - white
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
-  - engaged
-  - t
-  - upward
-  - away
-  - n
-  - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
+  - leaning
+  - relaxed
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
+  - engaged
+  - active
+  - holding
+  - standing
   - running
-  - unknown
-  - b
-  - n
-  - p
+  - stretching
+  - confident
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - running
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

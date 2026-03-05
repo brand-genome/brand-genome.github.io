@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-03-05T15:56:45.847012"
+date: "2026-03-05T22:38:39.359141"
 draft: false
 sectors:
   - education
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
+  - primary
   - lockup
   - stacked
-  - primary
-  - horizontal
 brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - photography
   - professional
   - graphic
-  - photography
 wikidata_description: Australian vocational education and training provider
 has_twitter: false
 has_guidelines: true

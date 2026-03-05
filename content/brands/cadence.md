@@ -2,7 +2,7 @@
 title: Cadence
 slug: cadence
 description: ""
-date: "2026-03-05T15:56:45.775631"
+date: "2026-03-05T22:38:39.273216"
 draft: false
 sectors:
   - software

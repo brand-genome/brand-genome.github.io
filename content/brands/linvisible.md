@@ -2,11 +2,11 @@
 title: Linvisible
 slug: linvisible
 description: ""
-date: "2026-03-05T15:56:46.120201"
+date: "2026-03-05T22:38:39.758310"
 draft: false
 sectors:
-  - "interior-design-decor"
   - construction
+  - "interior-design-decor"
 regions:
   - italy
 years:

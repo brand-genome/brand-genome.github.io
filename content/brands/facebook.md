@@ -2,7 +2,7 @@
 title: Facebook
 slug: facebook
 description: ""
-date: "2026-03-05T15:56:45.670333"
+date: "2026-03-05T22:38:39.150658"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - app
   - featured
   - internet
-  - app
   - software
 industries: []
 countries: []
@@ -28,221 +28,221 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - indoor
+  - audience
+  - selfie
+  - conceptual
+  - landscape
+  - botanical
+  - promotional
+  - product
+  - industrial
+  - text
+  - illustration
+  - interior
+  - abstract
+  - advertising
+  - sports
+  - candid
+  - "live-stage"
+  - action
+  - group
+  - event
+  - advertisement
   - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - industrial
-  - candid
-  - branding
-  - typography
-  - botanical
-  - "event-photography"
-  - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - landscape
+  - "text-heavy"
+  - cartoon
   - corporate
-  - event
-  - indoor
-  - conceptual
-  - text
+  - typography
+  - "graphic-design"
+  - exhibition
   - portrait
-  - advertisement
-  - product
-  - sports
+  - beauty
+  - staged
+  - "event-photography"
+  - branding
+  - "social-media"
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
-  - exhibition
-  - abstract
-  - illustration
-  - "social-media"
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "high-saturation"
-  - "motion-capture"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - "bright-focal-point"
+  - "neutral-density-filter"
+  - silhouette
   - "dark-focal-point"
-  - "short-exposure"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - "dark-green"
-  - gray
-  - black
-  - turquoise
   - white
+  - "dark-green"
+  - "dark-blue"
+  - black
   - blue
+  - turquoise
+  - gray
+  - purple
 color_tones:
   - cool
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - red
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - black
-  - straight
-  - dyed
-  - long
   - casual
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - dyed
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - pink
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pink
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements:
   - icon
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - roboto
   - helvetica

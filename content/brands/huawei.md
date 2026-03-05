@@ -2,12 +2,12 @@
 title: Huawei
 slug: huawei
 description: ""
-date: "2026-03-05T15:56:45.864434"
+date: "2026-03-05T22:38:39.379142"
 draft: false
 sectors:
+  - software
   - networking
   - telecom
-  - software
 regions:
   - china
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "electronics-industry"
   - telecommunications
+  - "electronics-industry"
   - "information-and-communications-technology"
 countries:
   - "peoples-republic-of-china"
@@ -46,19 +46,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - vertical
   - symbol
+  - vertical
+  - horizontal
 brand_colors:
-  - grey
-  - red
   - white
+  - red
+  - grey
   - black
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
   - professional
 wikidata_description: Chinese multinational technology company
 has_twitter: false

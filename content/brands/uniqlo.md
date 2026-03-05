@@ -2,7 +2,7 @@
 title: Uniqlo
 slug: uniqlo
 description: ""
-date: "2026-03-05T15:56:46.261288"
+date: "2026-03-05T22:38:40.034934"
 draft: false
 sectors:
   - fashion
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "fast-fashion"
   - retail
+  - "fast-fashion"
 countries:
   - japan
 revenue_buckets: []
@@ -22,215 +22,215 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - commercial
+  - landscape
+  - promotional
+  - product
+  - illustration
+  - interior
+  - "digital-art"
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - typography
-  - branding
-  - candid
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - corporate
-  - event
-  - family
-  - "digital-art"
-  - portrait
+  - fashion
   - advertisement
-  - product
+  - event
+  - sky
   - cartoon
-  - sports
   - "text-heavy"
-  - architectural
-  - abstract
-  - illustration
-  - action
-  - advertising
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - textured
+  - advertisement
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - promotional
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - textured
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "pixelated-image"
-  - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - "bright-focal-point"
+  - "neutral-density-filter"
+  - "pixelated-image"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
   - red
   - olive
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
   - flowing
-  - covered
-  - varied
-  - short
-  - updo
+  - "pulled-back"
   - red
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - updo
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
   - happy
 clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - "form-fitting"
-  - formal
   - casual
-  - traditional
-  - costume
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
   - pajamas
   - relaxed
-  - beachwear
-  - "business-casual"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - walking
   - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - "laid-back"
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
   - static
+  - "laid-back"
+  - confident
 gazes:
-  - sideways
+  - connected
   - engaged
-  - upward
   - away
   - downward
-  - connected
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

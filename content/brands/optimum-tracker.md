@@ -2,7 +2,7 @@
 title: Optimum Tracker
 slug: "optimum-tracker"
 description: ""
-date: "2026-03-05T15:56:46.151191"
+date: "2026-03-05T22:38:39.791065"
 draft: false
 sectors:
   - "renewable-energy"

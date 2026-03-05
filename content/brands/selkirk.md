@@ -2,7 +2,7 @@
 title: Selkirk
 slug: selkirk
 description: ""
-date: "2026-03-05T15:56:46.039054"
+date: "2026-03-05T22:38:39.608273"
 draft: false
 sectors:
   - "public-sector"
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
-  - grey
-  - black
   - white
   - red
+  - grey
+  - black
+  - yellow
+  - green
 typographies:
   - "open-sans"
 imagery_styles:
-  - vibrant
   - bold
   - photography
+  - vibrant
 wikidata_description: "town in Scottish Borders, Scotland, UK"
 has_twitter: false
 has_guidelines: true

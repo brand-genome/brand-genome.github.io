@@ -2,7 +2,7 @@
 title: Pennsylvania College of Technology
 slug: "pennsylvania-college-of-technology"
 description: ""
-date: "2026-03-05T15:56:45.965323"
+date: "2026-03-05T22:38:39.531465"
 draft: false
 sectors:
   - education
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
   - vertical
 brand_colors:
-  - grey
   - blue
+  - grey
   - green
 typographies:
-  - univers
   - impact
+  - univers
 imagery_styles:
-  - photography
-  - abstract
-  - dynamic
-  - subtle
   - bold
+  - photography
   - graphic
+  - dynamic
+  - abstract
+  - subtle
 wikidata_description: "public college in Williamsport, Pennsylvania"
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Philippines Commission on Higher Education
 slug: "philippines-commission-on-higher-education"
 description: ""
-date: "2026-03-05T15:56:45.786349"
+date: "2026-03-05T22:38:39.284948"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - philippines
 years:

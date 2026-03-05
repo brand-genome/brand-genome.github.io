@@ -2,12 +2,12 @@
 title: Solar Edge
 slug: "solar-edge"
 description: ""
-date: "2026-03-05T15:56:46.044379"
+date: "2026-03-05T22:38:39.615756"
 draft: false
 sectors:
-  - hardware
   - "renewable-energy"
   - software
+  - hardware
 regions:
   - israel
 years:
@@ -41,10 +41,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - orange
   - white
+  - blue
   - red
+  - orange
 typographies: []
 imagery_styles:
   - bold

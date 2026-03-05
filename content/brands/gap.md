@@ -2,7 +2,7 @@
 title: Gap
 slug: gap
 description: ""
-date: "2026-03-05T15:56:45.815927"
+date: "2026-03-05T22:38:39.322175"
 draft: false
 sectors:
   - fashion
@@ -17,8 +17,8 @@ languages:
 tags:
   - fashion
 industries:
-  - "fast-fashion"
   - retail
+  - "fast-fashion"
 countries:
   - "united-states"
 revenue_buckets:
@@ -45,9 +45,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - "pantone-655"
-  - white
 typographies:
   - helvetica
 imagery_styles:

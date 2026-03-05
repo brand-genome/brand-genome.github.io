@@ -2,7 +2,7 @@
 title: Opel
 slug: opel
 description: ""
-date: "2026-03-05T15:56:46.238300"
+date: "2026-03-05T22:38:40.004151"
 draft: false
 sectors:
   - automobile
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "automotive-industry"
   - "mechanical-engineering"
+  - "automotive-industry"
 countries:
   - germany
 revenue_buckets: []
@@ -22,297 +22,220 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - brick
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
   - black
-  - "autumnal-colors"
+  - "complementary-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - automotive
   - selfie
-  - interior
-  - industrial
   - commercial
-  - candid
-  - showroom
-  - vehicle
-  - staged
-  - beauty
-  - street
-  - landscape
-  - logo
-  - family
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - "car-show"
-  - sports
-  - "text-heavy"
-  - architectural
-  - car
   - professional
+  - landscape
+  - automotive
+  - product
+  - industrial
+  - vehicle
+  - showroom
+  - lifestyle
   - abstract
-  - action
+  - interior
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - logo
+  - fashion
+  - advertisement
+  - sky
+  - "text-heavy"
+  - family
+  - "car-show"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+  - car
 concepts:
   - studio
+  - "product-showcase"
+  - advertisement
+  - commercial
   - realism
-  - "incomplete-art"
   - professional
   - "wave-pattern"
-  - "product-showcase"
-  - modern
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - commercial
-  - clean
   - typography
+  - "graphic-design"
   - advertising
+  - modern
+  - "incomplete-art"
+  - clean
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
-  - "fully-focused-subject"
+  - "shallow-depth-of-field"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - studio
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
+  - studio
   - "low-saturation"
+  - "bright-focal-point"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "clean-background"
-  - "short-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
+  - white
+  - "off-white"
   - "mud-green"
   - "dark-blue"
-  - "dark-gray"
-  - gray
-  - "off-white"
   - black
-  - white
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
   - updo
+  - long
+  - curly
+  - short
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
+  - leaning
+  - relaxed
+  - dynamic
   - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

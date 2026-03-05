@@ -2,7 +2,7 @@
 title: Treasury Board Of Canada Secretariat
 slug: "treasury-board-of-canada-secretariat"
 description: ""
-date: "2026-03-05T15:56:45.868377"
+date: "2026-03-05T22:38:39.383358"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - vintage
   - featured
   - institution
-  - vintage
 industries: []
 countries:
   - canada

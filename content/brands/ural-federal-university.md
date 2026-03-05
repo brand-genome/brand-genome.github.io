@@ -2,12 +2,12 @@
 title: Ural Federal University
 slug: "ural-federal-university"
 description: ""
-date: "2026-03-05T15:56:45.784820"
+date: "2026-03-05T22:38:39.283110"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - russia
 years:
@@ -19,8 +19,8 @@ tags:
   - university
 industries: []
 countries:
-  - "soviet-union"
   - russia
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

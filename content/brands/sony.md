@@ -2,13 +2,13 @@
 title: SONY
 slug: sony
 description: ""
-date: "2026-03-05T15:56:46.015554"
+date: "2026-03-05T22:38:39.591130"
 draft: false
 sectors:
-  - hardware
-  - entertainment
-  - electronics
   - gaming
+  - electronics
+  - entertainment
+  - hardware
 regions:
   - japan
 years:
@@ -19,9 +19,9 @@ tags:
   - featured
   - electronics
 industries:
-  - "electronics-industry"
   - "video-game-industry"
   - "electrical-industry"
+  - "electronics-industry"
 countries:
   - japan
 revenue_buckets:
@@ -33,410 +33,333 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - pattern
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
+  - solid
   - transparent
-  - bright
+  - light
   - gradient
   - "autumnal-colors"
-  - light
-  - red
-  - textured
-  - solid
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "galaxy-colors"
+  - "sunset-colors"
+  - light
   - "pastel-colors"
-  - dark
-  - red
+  - "analogous-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
   - vintage
   - bright
-  - white
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - "sunset-colors"
-  - "inverted-colors"
-  - light
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "motion-capture"
-  - advertising
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - "character-design"
-  - environmental
-  - automotive
-  - interior
-  - commercial
-  - branding
-  - typography
-  - botanical
-  - candid
-  - outdoor
-  - urban
-  - cityscape
-  - audience
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - instructional
-  - food
-  - vintage
-  - "home-decor"
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - holiday
-  - logo
-  - corporate
-  - wildlife
-  - event
-  - "food-photography"
-  - family
-  - text
-  - superhero
-  - macro
   - fantasy
-  - portrait
-  - advertisement
-  - architecture
-  - lifestyle
-  - art
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - bridal
-  - architectural
-  - car
-  - beach
-  - documentary
+  - audience
+  - superhero
+  - selfie
+  - commercial
+  - "home-decor"
   - professional
+  - beach
+  - landscape
+  - botanical
+  - automotive
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - environmental
+  - art
   - "trade-show"
-  - underwater
+  - text
+  - lifestyle
+  - interior
   - abstract
   - illustration
   - "audience-perspective"
-  - "social-media"
-  - action
-  - poolside
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - advertising
-  - "still-life"
-  - "action-shot"
-  - vignette
-  - "professional-equipment"
-  - promotion
-  - "clean-design"
-  - eye
-  - typography
-  - branding
-  - "product-shot"
-  - "incomplete-art"
-  - "product-showcase"
-  - photorealism
+  - "food-photography"
   - vintage
-  - promotional
-  - "christmas-decoration"
-  - "graphic-design"
-  - "product-photography"
-  - sale
-  - logo
-  - premium
-  - modern
-  - advertisement
-  - lifestyle
-  - informational
-  - "product-promotion"
-  - product
+  - architecture
+  - street
+  - advertising
+  - architectural
   - sports
-  - cartoon
-  - "text-heavy"
-  - "brand-promotion"
-  - "holiday-theme"
-  - motion
-  - "wave-pattern"
-  - professional
-  - "beach-setting"
-  - illustration
-  - "logo-design"
+  - candid
   - action
+  - "live-stage"
+  - group
+  - documentary
+  - urban
+  - fitness
+  - logo
+  - advertisement
+  - fashion
+  - sky
+  - event
+  - poolside
+  - bridal
+  - "text-heavy"
+  - corporate
+  - "motion-capture"
+  - underwater
+  - cityscape
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - amateur
+  - wildlife
+  - macro
+  - portrait
+  - beauty
+  - holiday
+  - staged
+  - celebration
+  - historical
+  - branding
+  - "social-media"
+  - instructional
+  - "character-design"
+  - "still-life"
+  - car
+concepts:
+  - "logo-design"
+  - professional
+  - "holiday-theme"
+  - informational
+  - "wave-pattern"
+  - promotional
+  - sale
+  - product
+  - "product-shot"
+  - eye
+  - illustration
+  - lifestyle
+  - vintage
+  - advertising
+  - sports
+  - action
+  - textured
+  - advertisement
+  - logo
+  - "product-showcase"
+  - "live-performance"
+  - premium
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "product-photography"
+  - motion
+  - "incomplete-art"
+  - "brand-promotion"
+  - vignette
   - "product-display"
   - minimalist
-  - textured
+  - branding
   - technology
+  - "clean-design"
+  - "product-promotion"
+  - "christmas-decoration"
+  - "professional-equipment"
+  - "still-life"
+  - "beach-setting"
+  - modern
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - natural
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
   - symmetrical
+  - "gaussian-blur"
+  - silhouette
+  - "long-exposure"
+  - natural
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
   - "high-contrast"
-  - "low-saturation"
-  - "motion-blur"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "dark-brown"
+  - cyan
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
   - flowing
-  - traditional
-  - l
-  - e
-  - styled
-  - braided
-  - dark
-  - curly
-  - covered
-  - curled
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
+  - casual
+  - blonde
   - wavy
-  - t
-  - i
+  - loose
+  - curled
+  - traditional
+  - updo
+  - dark
+  - "tied-back"
+  - straight
+  - ponytail
+  - styled
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
   - bald
   - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - disbelief
-  - a
-  - happy
-  - c
-  - shocked
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
   - formal
-  - traditional
-  - l
-  - e
-  - sweater
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - flowy
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - dynamic
-  - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - rich
-  - n
-  - beige
-  - p
-posings:
-  - seated
-  - content
-  - confident
-  - l
-  - e
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - shocked
+  - engaged
   - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
+  - neutral
+  - content
   - excited
-  - active
-  - t
-  - i
-  - stretching
-  - "full-body"
-  - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
   - focused
-  - n
+  - disbelief
+  - contemplative
+  - happy
+  - surprised
+clothing_styles:
   - casual
-  - p
+  - flowy
+  - sweater
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - active
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - rich
+  - red
+  - vibrant
+  - dynamic
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - beige
+  - pastel
+  - muted
+posings:
+  - casual
+  - engaged
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
+  - relaxed
+  - static
+  - seated
+  - leaning
+  - active
+  - holding
   - "full-body"
-  - o
-  - unknown
-  - b
+  - walking
+  - dynamic
+  - content
+  - excited
+  - stretching
+  - standing
+  - running
   - focused
-  - n
-  - p
+  - contemplative
+  - confident
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - focused
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - "lower-half"
+  - midsection
+  - engaged
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

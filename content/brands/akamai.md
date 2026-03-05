@@ -2,12 +2,12 @@
 title: Akamai
 slug: akamai
 description: ""
-date: "2026-03-05T15:56:45.630809"
+date: "2026-03-05T22:38:39.085899"
 draft: false
 sectors:
+  - software
   - networking
   - cybersecurity
-  - software
 regions:
   - usa
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries:
-  - "internet-industry"
   - "web-hosting-service"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -49,8 +49,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "American content delivery network, cybersecurity, and cloud service company"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Vidyo
 slug: vidyo
 description: ""
-date: "2026-03-05T15:56:46.127653"
+date: "2026-03-05T22:38:39.767046"
 draft: false
 sectors:
   - software
@@ -44,16 +44,16 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - cyan
+  - white
   - blue
   - black
-  - white
+  - cyan
 typographies:
   - impact
   - lato
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: company producing visual communication solutions
 has_twitter: false
 has_guidelines: true

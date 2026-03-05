@@ -2,7 +2,7 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-03-05T15:56:45.901008"
+date: "2026-03-05T22:38:39.427824"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - security
+  - networks
 industries: []
 countries:
   - "empire-of-japan"
@@ -41,10 +41,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors: []
 typographies:

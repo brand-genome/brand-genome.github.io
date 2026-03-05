@@ -2,7 +2,7 @@
 title: Pluckers
 slug: pluckers
 description: ""
-date: "2026-03-05T15:56:46.191463"
+date: "2026-03-05T22:38:39.886731"
 draft: false
 sectors:
   - restaurant
@@ -20,276 +20,230 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - typography
-  - branding
-  - candid
-  - botanical
-  - "incomplete-art"
-  - landmark
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - signage
-  - "food-photography"
-  - family
-  - text
+  - selfie
+  - commercial
   - romantic
-  - "close-up"
+  - landscape
+  - botanical
   - "floral-photography"
-  - portrait
-  - sign
-  - advertisement
+  - promotional
+  - "close-up"
+  - food
   - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - architectural
-  - documentary
-  - restaurant
-  - abstract
+  - text
   - illustration
-  - "social-media"
-  - action
-  - advertising
-concepts:
-  - realism
-  - "incomplete-art"
+  - abstract
   - "food-photography"
-  - "wave-pattern"
-  - photorealism
+  - landmark
+  - interior
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - sign
+  - fashion
+  - advertisement
+  - sky
+  - "text-heavy"
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - restaurant
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - "social-media"
+  - "still-life"
+concepts:
+  - advertisement
+  - realism
+  - branding
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
+  - "food-photography"
   - typography
-  - cartoon
-  - "text-heavy"
+  - "graphic-design"
   - comic
-  - branding
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "high-saturation"
   - "low-contrast"
-  - silhouette
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
   - saturated
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
 dominant_colors:
+  - white
   - "mud-green"
   - cream
-  - brown
-  - "dark-blue"
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - brown
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - d
+  - casual
   - flowing
-  - e
-  - braided
-  - r
-  - curly
-  - covered
-  - varied
-  - short
-  - c
-  - ponytail
-  - neat
   - "pulled-back"
+  - neat
   - wavy
-  - black
-  - o
+  - loose
   - straight
-  - v
-  - long
-  - casual
+  - black
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - surprised
-  - d
-  - engaged
-  - focused
-  - g
-  - n
-  - content
-  - a
   - joyful
-  - contemplative
-  - relaxed
-  - e
   - shocked
+  - engaged
   - startled
-clothing_styles:
-  - business
-  - s
-  - swimwear
-  - t
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - m
-  - costume
-  - u
-  - e
-  - beachwear
-  - o
-  - "business-casual"
-  - c
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
-  - r
-  - v
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - muted
-  - colorful
-  - a
+  - content
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - d
-  - confident
   - seated
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - active
-  - t
-  - i
-  - stretching
-  - running
   - walking
-  - standing
-  - s
-  - g
-  - n
+  - leaning
   - reclined
-gazes:
-  - sideways
-  - r
-  - d
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - w
-  - a
-  - o
-  - forward
   - outward
-  - f
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - d
-  - "upper-body"
-  - seated
-  - l
-  - engaged
-  - y
-  - midsection
   - "hand-only"
-  - "close-up"
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - f
-  - b
-  - reclined
-  - u
+  - seated
+  - "lower-half"
   - "full-back"
+  - midsection
+  - reclined
+  - "upper-body"
+  - engaged
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

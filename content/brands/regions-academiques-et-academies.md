@@ -2,11 +2,11 @@
 title: Régions académiques et Académies
 slug: "regions-academiques-et-academies"
 description: ""
-date: "2026-03-05T15:56:45.918952"
+date: "2026-03-05T22:38:39.486741"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -39,11 +39,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - emblem
-  - secondary
-  - vertical
   - icon
+  - secondary
+  - horizontal
+  - vertical
 brand_colors:
   - black
 typographies:

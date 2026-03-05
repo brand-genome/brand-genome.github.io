@@ -2,7 +2,7 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-03-05T15:56:45.744601"
+date: "2026-03-05T22:38:39.242196"
 draft: false
 sectors:
   - drink
@@ -43,9 +43,9 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles:
   - bold

@@ -2,7 +2,7 @@
 title: New Balance
 slug: "new-balance"
 description: ""
-date: "2026-03-05T15:56:46.201542"
+date: "2026-03-05T22:38:39.920735"
 draft: false
 sectors:
   - fashion
@@ -23,213 +23,213 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
+  - red
   - wood
+  - textured
   - blurred
+  - solid
   - transparent
-  - bright
+  - light
   - blue
   - gradient
-  - light
-  - red
-  - textured
-  - solid
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - candid
-  - branding
   - audience
-  - staged
-  - beauty
-  - street
-  - crowd
-  - landscape
-  - logo
-  - text
-  - portrait
-  - advertisement
+  - selfie
   - emblem
+  - landscape
   - product
-  - sports
-  - "text-heavy"
-  - architectural
+  - text
   - abstract
   - "audience-perspective"
-  - action
+  - street
   - advertising
+  - architectural
+  - sports
+  - action
+  - candid
+  - "live-stage"
+  - group
+  - logo
+  - fashion
+  - advertisement
+  - "text-heavy"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "still-life"
+  - crowd
 concepts:
+  - product
   - "sports-event"
-  - "incomplete-art"
+  - logo
   - "wave-pattern"
-  - emblematic
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - "action-shot"
-  - "text-heavy"
-  - "sports-team"
-  - "graphic-design"
-  - product
-  - cartoon
-  - heraldic
+  - emblematic
   - typography
-  - logo
+  - "graphic-design"
+  - "action-shot"
+  - heraldic
+  - "incomplete-art"
+  - "sports-team"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "low-exposure"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
   - "off-white"
-  - "dark-green"
-  - black
   - white
+  - red
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - bald
-  - black
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - reclined
-  - group
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
   - walking
-gazes:
-  - sideways
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - confident
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - group
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
   - "lower-half"
+  - "full-back"
+  - midsection
   - "upper-body"
+  - "full-body"
   - "close-up"
   - group
-  - midsection
-  - "head-shot"
-  - "full-body"
-  - "full-back"
 logo_elements: []
 brand_colors: []
 typographies: []

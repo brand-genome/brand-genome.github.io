@@ -2,7 +2,7 @@
 title: Pizza Hut
 slug: "pizza-hut"
 description: ""
-date: "2026-03-05T15:56:45.669824"
+date: "2026-03-05T22:38:39.143588"
 draft: false
 sectors:
   - food
@@ -24,198 +24,198 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-thirds"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "rule-of-thirds"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
 photography_genres:
-  - "still-life"
+  - selfie
+  - commercial
+  - promotional
+  - food
+  - contest
+  - product
+  - lifestyle
+  - interior
+  - illustration
+  - "food-photography"
+  - advertising
+  - collaborative
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
-  - collaborative
-  - promotional
-  - contest
-  - food
-  - "graphic-design"
-  - "food-photography"
-  - portrait
   - advertisement
-  - lifestyle
-  - product
   - cartoon
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - promotional
   - "graphic-design"
+  - portrait
+  - "still-life"
+concepts:
+  - advertisement
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
   - advertising
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - "saturated-colors"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "saturated-colors"
   - "dark-focal-point"
-  - "short-exposure"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - maroon
   - "off-white"
-  - gray
-  - black
   - white
-  - "dark-brown"
   - red
   - "dark-red"
+  - black
+  - "dark-brown"
+  - maroon
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
   - flowing
-  - short
-  - updo
-  - "tied-back"
   - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - updo
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - covered
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - uniform
-  - formal
   - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
   - traditional
   - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - protective
-  - athletic
+  - comfortable
+  - uniform
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
+  - bold
   - red
   - vibrant
-  - bold
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

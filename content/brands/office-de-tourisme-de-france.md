@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-03-05T15:56:46.169253"
+date: "2026-03-05T22:38:39.811274"
 draft: false
 sectors:
   - tourism
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
   - red
 typographies:
-  - inter
   - arial
+  - inter
 imagery_styles:
-  - monochrome
-  - gradient
-  - contemporary
   - bold
+  - contemporary
+  - gradient
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

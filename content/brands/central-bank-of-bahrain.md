@@ -2,7 +2,7 @@
 title: Central Bank of Bahrain
 slug: "central-bank-of-bahrain"
 description: ""
-date: "2026-03-05T15:56:46.058529"
+date: "2026-03-05T22:38:39.655232"
 draft: false
 sectors:
   - "public-sector"
@@ -41,8 +41,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold

@@ -2,16 +2,16 @@
 title: "Coca-Cola"
 slug: "coca-cola"
 description: ""
-date: "2026-03-05T15:56:45.810602"
+date: "2026-03-05T22:38:39.316483"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - usa
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
@@ -21,8 +21,8 @@ tags:
   - packaging
 industries:
   - "food-industry"
-  - "fast-moving-consumer-goods"
   - "beverage-industry"
+  - "fast-moving-consumer-goods"
 countries:
   - "united-states"
 revenue_buckets:
@@ -51,14 +51,14 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies:
   - script
 imagery_styles:
-  - dynamic
   - retro
+  - dynamic
 wikidata_description: American multinational beverage corporation
 has_twitter: false
 has_guidelines: true

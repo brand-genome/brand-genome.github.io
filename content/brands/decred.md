@@ -2,7 +2,7 @@
 title: Decred
 slug: decred
 description: ""
-date: "2026-03-05T15:56:45.665793"
+date: "2026-03-05T22:38:39.136182"
 draft: false
 sectors:
   - "blockchain-crypto"

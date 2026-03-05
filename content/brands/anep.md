@@ -2,11 +2,11 @@
 title: ANEP
 slug: anep
 description: ""
-date: "2026-03-05T15:56:45.927033"
+date: "2026-03-05T22:38:39.503515"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - uruguay
 years:
@@ -42,9 +42,9 @@ logo_elements:
   - signature
   - vertical
 brand_colors:
-  - black
   - white
   - cyan
+  - black
 typographies:
   - times
 imagery_styles:

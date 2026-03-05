@@ -2,7 +2,7 @@
 title: Koç
 slug: koc
 description: ""
-date: "2026-03-05T15:56:46.056633"
+date: "2026-03-05T22:38:39.649981"
 draft: false
 sectors:
   - conglomerate
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - red
+  - grey
 typographies: []
 imagery_styles: []
 wikidata_description: ""

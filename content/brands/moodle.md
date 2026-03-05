@@ -2,7 +2,7 @@
 title: Moodle
 slug: moodle
 description: ""
-date: "2026-03-05T15:56:45.727121"
+date: "2026-03-05T22:38:39.218100"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -11,8 +11,8 @@ regions:
   - australia
 years:
   - 2019
-  - 2023
   - 2022
+  - 2023
 languages:
   - english
 tags:
@@ -41,32 +41,32 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - "pantone-7739"
-  - "pantone-158"
-  - green
+  - white
   - "pantone-367"
-  - gray
+  - "pantone-7470"
   - orange
   - "pantone-630"
-  - "pantone-7689"
-  - white
-  - "pantone-7470"
-  - blue
   - "pantone-426"
+  - "pantone-7739"
+  - blue
   - "pantone-555"
+  - gray
+  - "pantone-7689"
+  - green
+  - "pantone-158"
 typographies:
   - opensans
 imagery_styles:
-  - modern
-  - photography
-  - natural
-  - clean
-  - subtle
   - bold
+  - photography
+  - modern
+  - subtle
+  - clean
+  - natural
 wikidata_description: "e-learning platform"
 has_twitter: false
 has_guidelines: true

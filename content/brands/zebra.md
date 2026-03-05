@@ -2,18 +2,18 @@
 title: Zebra
 slug: zebra
 description: ""
-date: "2026-03-05T15:56:45.804141"
+date: "2026-03-05T22:38:39.312338"
 draft: false
 sectors:
   - insurance
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
+  - 2022
   - 2017
   - 2020
-  - 2022
 languages:
   - english
 tags:
@@ -42,29 +42,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - yellow
-  - gray
-  - blue
-  - black
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - gray
 typographies:
   - arial
   - "proxima-nova"
 imagery_styles:
-  - photography
-  - staged
-  - natural
-  - gradient
-  - product
   - bold
+  - photography
+  - product
+  - staged
   - graphic
+  - gradient
+  - natural
 wikidata_description: town in the Czech Republic
 has_twitter: false
 has_guidelines: true

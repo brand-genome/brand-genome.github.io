@@ -2,11 +2,11 @@
 title: Faculté des Sciences de Montpellier
 slug: "faculte-des-sciences-de-montpellier"
 description: ""
-date: "2026-03-05T15:56:46.125670"
+date: "2026-03-05T22:38:39.765142"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:

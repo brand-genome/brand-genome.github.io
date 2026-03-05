@@ -2,7 +2,7 @@
 title: Louis Armstrong New Orleans International Airport
 slug: "louis-armstrong-new-orleans-international-airport"
 description: ""
-date: "2026-03-05T15:56:45.633188"
+date: "2026-03-05T22:38:39.092164"
 draft: false
 sectors:
   - airline
@@ -39,27 +39,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
+  - white
+  - "pantone-7728"
+  - "pantone-4205"
+  - "pantone-7625"
+  - "pantone-1225"
   - pink
   - "pantone-503"
-  - "pantone-7728"
   - gray
-  - "pantone-1225"
-  - "pantone-7625"
-  - white
-  - "pantone-4205"
   - "pantone-7452"
 typographies:
   - serif
   - trebuchet
   - "sans-serif"
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - modern
 wikidata_description: "airport near New Orleans, LA, USA"
 has_twitter: false

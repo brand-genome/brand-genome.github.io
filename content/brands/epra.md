@@ -2,7 +2,7 @@
 title: EPRA
 slug: epra
 description: ""
-date: "2026-03-05T15:56:45.970281"
+date: "2026-03-05T22:38:39.537778"
 draft: false
 sectors:
   - "real-estate"
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold

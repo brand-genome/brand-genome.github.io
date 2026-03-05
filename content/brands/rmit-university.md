@@ -2,23 +2,23 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-03-05T15:56:45.738484"
+date: "2026-03-05T22:38:39.231068"
 draft: false
 sectors:
   - university
 regions:
   - australia
 years:
+  - 2022
   - 2017
   - 2020
-  - 2022
 languages:
   - english
 tags:
   - education
   - featured
-  - signage
   - university
+  - signage
 industries: []
 countries:
   - australia
@@ -43,21 +43,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - gradient
   - bold
-  - graphic
   - photography
+  - gradient
+  - graphic
 wikidata_description: public Australian university based in Melbourne
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Birzeit University
 slug: "birzeit-university"
 description: ""
-date: "2026-03-05T15:56:46.153743"
+date: "2026-03-05T22:38:39.793499"
 draft: false
 sectors:
   - university

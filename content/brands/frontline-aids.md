@@ -2,7 +2,7 @@
 title: Frontline Aids
 slug: "frontline-aids"
 description: ""
-date: "2026-03-05T15:56:45.924042"
+date: "2026-03-05T22:38:39.493700"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2019
   - 2021
+  - 2019
 languages:
   - english
 tags:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
 typographies: []

@@ -2,7 +2,7 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-03-05T15:56:45.838162"
+date: "2026-03-05T22:38:39.347735"
 draft: false
 sectors:
   - "consumer-goods"
@@ -43,14 +43,14 @@ logo_elements:
   - horizontal
 brand_colors:
   - blue
-  - green
   - red
+  - green
 typographies: []
 imagery_styles:
-  - clean
-  - product
-  - graphic
   - photography
+  - product
+  - clean
+  - graphic
 wikidata_description: "Mutant-hunting robot in Marvel Comics"
 has_twitter: false
 has_guidelines: true

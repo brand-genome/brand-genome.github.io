@@ -2,7 +2,7 @@
 title: Mennonite World Conference
 slug: "mennonite-world-conference"
 description: ""
-date: "2026-03-05T15:56:46.006662"
+date: "2026-03-05T22:38:39.579875"
 draft: false
 sectors:
   - ngo

@@ -2,12 +2,12 @@
 title: Heno
 slug: heno
 description: ""
-date: "2026-03-05T15:56:45.818530"
+date: "2026-03-05T22:38:39.325330"
 draft: false
 sectors:
   - healthcare
-  - finance
   - software
+  - finance
 regions:
   - vietnam
 years:
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - icon
+  - secondary
   - symbol
 brand_colors: []
 typographies:
   - nunito
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

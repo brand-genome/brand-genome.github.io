@@ -2,7 +2,7 @@
 title: Big Brothers Big Sisters
 slug: "big-brothers-big-sisters"
 description: ""
-date: "2026-03-05T15:56:45.844790"
+date: "2026-03-05T22:38:39.356663"
 draft: false
 sectors:
   - ngo
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
   - georgia
   - trebuchet
 imagery_styles:
-  - professional
+  - bold
   - photography
-  - natural
+  - graphic
+  - professional
   - dramatic
   - clean
-  - bold
-  - graphic
+  - natural
 wikidata_description: youth mentoring organization
 has_twitter: false
 has_guidelines: true

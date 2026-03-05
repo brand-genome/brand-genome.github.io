@@ -2,7 +2,7 @@
 title: Nutanix
 slug: nutanix
 description: ""
-date: "2026-03-05T15:56:46.088164"
+date: "2026-03-05T22:38:39.708699"
 draft: false
 sectors:
   - software
@@ -39,27 +39,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - symbol
+  - secondary
   - wordmark
   - logomark
-  - secondary
-  - primary
 brand_colors:
-  - green
-  - purple
-  - yellow
-  - gray
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - green
+  - purple
 typographies:
   - gotham
 imagery_styles:
-  - professional
-  - clean
   - bold
   - photography
+  - professional
+  - clean
 wikidata_description: American enterprise virtualization and storage company.
 has_twitter: false
 has_guidelines: true

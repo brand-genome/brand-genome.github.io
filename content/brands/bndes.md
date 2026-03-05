@@ -2,7 +2,7 @@
 title: BNDES
 slug: bndes
 description: ""
-date: "2026-03-05T15:56:45.705885"
+date: "2026-03-05T22:38:39.196239"
 draft: false
 sectors:
   - "public-sector"

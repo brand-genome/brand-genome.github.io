@@ -2,11 +2,11 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-03-05T15:56:46.011311"
+date: "2026-03-05T22:38:39.584775"
 draft: false
 sectors:
-  - hardware
   - entertainment
+  - hardware
 regions:
   - france
 years:
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - vertical
   - horizontal
-  - symbol
 brand_colors:
-  - pink
-  - yellow
-  - "pantone-299"
-  - gray
-  - black
-  - "pantone-226"
   - white
+  - "pantone-226"
+  - black
+  - yellow
   - blue
+  - pink
+  - gray
   - "pantone-116"
+  - "pantone-299"
 typographies:
   - arial
 imagery_styles:

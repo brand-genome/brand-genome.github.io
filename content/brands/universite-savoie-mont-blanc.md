@@ -2,7 +2,7 @@
 title: "Université Savoie Mont-Blanc"
 slug: "universite-savoie-mont-blanc"
 description: ""
-date: "2026-03-05T15:56:45.696238"
+date: "2026-03-05T22:38:39.188260"
 draft: false
 sectors:
   - university

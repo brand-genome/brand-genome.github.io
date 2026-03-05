@@ -2,7 +2,7 @@
 title: Comsol
 slug: comsol
 description: ""
-date: "2026-03-05T15:56:45.726409"
+date: "2026-03-05T22:38:39.216202"
 draft: false
 sectors:
   - software
@@ -12,8 +12,8 @@ years:
   - 2024
 languages: []
 tags:
-  - corporate
   - software
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

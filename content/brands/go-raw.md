@@ -2,7 +2,7 @@
 title: Go Raw
 slug: "go-raw"
 description: ""
-date: "2026-03-05T15:56:46.128131"
+date: "2026-03-05T22:38:39.767716"
 draft: false
 sectors:
   - food
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - vertical
   - horizontal
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies: []
 imagery_styles:
-  - lifestyle
-  - product
   - bold
+  - product
+  - lifestyle
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Ethiopian Airlines
 slug: "ethiopian-airlines"
 description: ""
-date: "2026-03-05T15:56:46.237090"
+date: "2026-03-05T22:38:40.002652"
 draft: false
 sectors:
   - airline
@@ -20,341 +20,264 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - "sunset-colors"
-  - light
-  - "text-heavy"
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
   - "text-heavy"
-  - "galaxy-colors"
-  - "aquatic-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "text-heavy"
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
+  - selfie
+  - professional
+  - beach
+  - awards
+  - news
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
+  - "text-based"
+  - "corporate-event"
+  - interior
+  - abstract
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - logo
+  - advertisement
   - fashion
   - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - industrial
-  - branding
-  - candid
-  - botanical
-  - cityscape
-  - celebration
-  - memorial
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - logo
-  - corporate
-  - business
-  - event
-  - "food-photography"
-  - family
-  - travel
-  - portrait
-  - advertisement
-  - awards
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - athletic
-  - architectural
-  - beach
-  - professional
-  - documentary
-  - "text-based"
-  - abstract
   - "award-ceremony"
-  - "corporate-event"
-  - action
-  - advertising
-concepts:
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - news
-  - business
-  - portrait
-  - advertisement
-  - "corporate-communication"
-  - ceremonial
-  - cartoon
+  - athletic
+  - cityscape
+  - event
+  - corporate
   - "text-heavy"
+  - amateur
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - historical
+  - memorial
+  - business
+  - branding
+  - "still-life"
+  - travel
+concepts:
+  - informative
+  - "logo-design"
   - professional
   - "wave-pattern"
-  - documentary
+  - news
   - illustration
-  - "logo-design"
+  - vintage
+  - documentary
+  - "corporate-communication"
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - business
+  - ceremonial
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "light-on-subject"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
+  - "vanishing-point"
+  - "long-exposure"
   - "motion-blur"
+  - "short-exposure"
+  - "light-on-subject"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
-  - lavender
+  - cyan
+  - black
+  - "dark-blue"
   - "light-blue"
+  - lavender
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - up
-  - engaged
-  - curly
-  - covered
-  - balding
-  - varied
-  - down
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
-  - focused
   - casual
-  - p
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
+  - traditional
   - updo
   - "tied-back"
-facial_expressions:
+  - neutral
+  - straight
+  - ponytail
+  - curly
+  - joyful
+  - up
   - content
-  - l
-  - e
-  - relaxed
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - focused
+  - long
   - contemplative
+facial_expressions:
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - pastel
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - muted
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - traditional
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - muted
+  - athletic
+  - business
+  - beachwear
+  - professional
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - pastel
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - business
+  - neutral
+  - professional
+  - monochrome
   - earthy
   - colorful
-  - a
+  - traditional
   - "business-casual"
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - subdued
-  - professional
-  - b
-  - n
+  - pastel
   - uniform
-  - p
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - focused
+  - stretching
+  - contemplative
+  - static
+  - group
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - upward
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

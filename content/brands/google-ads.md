@@ -2,11 +2,11 @@
 title: Google Ads
 slug: "google-ads"
 description: ""
-date: "2026-03-05T15:56:46.121551"
+date: "2026-03-05T22:38:39.759932"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:

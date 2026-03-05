@@ -2,7 +2,7 @@
 title: Government of South Australia
 slug: "government-of-south-australia"
 description: ""
-date: "2026-03-05T15:56:45.698052"
+date: "2026-03-05T22:38:39.189868"
 draft: false
 sectors:
   - "public-sector"

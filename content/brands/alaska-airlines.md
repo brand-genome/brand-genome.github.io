@@ -2,7 +2,7 @@
 title: Alaska Airlines
 slug: "alaska-airlines"
 description: ""
-date: "2026-03-05T15:56:45.949984"
+date: "2026-03-05T22:38:39.519111"
 draft: false
 sectors:
   - airline
@@ -24,356 +24,279 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
+  - solid
   - "sunset-colors"
   - light
-  - textured
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - white
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - vintage
-  - bright
-  - white
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - vintage
   - blue
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - social
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - parade
+  - seascape
   - animal
   - selfie
-  - interior
   - commercial
-  - branding
-  - typography
-  - botanical
-  - candid
-  - outdoor
-  - urban
-  - cityscape
-  - motivational
-  - staged
-  - inspirational
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - wildlife
-  - "food-photography"
-  - family
-  - text
-  - travel
-  - vacation
-  - portrait
-  - advertisement
-  - lifestyle
-  - panoramic
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - architectural
-  - beach
   - professional
-  - underwater
+  - beach
+  - inspirational
+  - social
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - text
+  - parade
+  - lifestyle
+  - interior
   - abstract
-  - "social-media"
-  - seascape
-  - map
+  - "food-photography"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
   - action
+  - "live-stage"
+  - group
+  - urban
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - vacation
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - underwater
   - poolside
-concepts:
-  - realism
-  - "nature-photography"
-  - "advertising-slogan"
+  - family
   - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
   - "graphic-design"
   - wildlife
-  - advertisement
-  - message
-  - cartoon
-  - nature
-  - "text-heavy"
-  - "landscape-art"
-  - documentary
+  - portrait
+  - beauty
+  - map
+  - staged
+  - historical
+  - branding
+  - "social-media"
+  - panoramic
+  - "still-life"
+  - travel
+  - motivational
+concepts:
   - "wave-pattern"
+  - nature
+  - message
   - illustration
+  - vintage
+  - "advertising-slogan"
+  - documentary
+  - advertisement
   - emotional
+  - "landscape-art"
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - wildlife
+  - "incomplete-art"
+  - realism
+  - branding
+  - "nature-photography"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - symmetrical
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "off-white"
-  - black
-  - turquoise
   - white
+  - "off-white"
+  - "dark-blue"
+  - black
   - "light-blue"
   - blue
+  - "royal-blue"
+  - turquoise
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - varied
-  - down
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - gray
-  - p
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - down
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - dressy
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - jacket
-  - protective
-clothing_colors:
-  - formal
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - jacket
+  - athletic
+  - business
+  - "form-fitting"
+  - beachwear
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - dressy
+  - uniform
+clothing_colors:
+  - white
+  - uniform
+  - safety
+  - vibrant
+  - pastel
+  - business
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - "business-casual"
-  - safety
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - navy
-  - o
   - blue
-  - unknown
-  - b
-  - n
-  - uniform
-  - bright
-  - p
-  - "high-visibility"
-  - white
   - protective
-posings:
   - formal
-  - group
-  - confident
-  - seated
-  - l
-  - e
-  - relaxed
-  - contemplative
-  - smiling
+  - navy
+  - bright
+  - "high-visibility"
+  - muted
+  - "business-casual"
+posings:
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - "holding-hands"
-  - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - "at-the-camera"
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - "at-camera"
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
+  - relaxed
+  - static
+  - seated
+  - leaning
+  - "holding-hands"
+  - active
+  - holding
   - group
-  - l
-  - e
-  - "head-and-shoulders"
+  - walking
+  - dynamic
+  - stretching
+  - smiling
+  - standing
+  - running
+  - formal
+  - contemplative
+  - confident
+gazes:
   - engaged
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - upward
+  - "at-the-camera"
+  - "at-camera"
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - focused
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - "head-and-shoulders"
+  - "full-body"
+  - focused
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

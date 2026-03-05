@@ -2,7 +2,7 @@
 title: BamPlay Studios
 slug: "bamplay-studios"
 description: ""
-date: "2026-03-05T15:56:45.723341"
+date: "2026-03-05T22:38:39.213006"
 draft: false
 sectors:
   - entertainment

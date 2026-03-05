@@ -2,7 +2,7 @@
 title: Urba
 slug: urba
 description: ""
-date: "2026-03-05T15:56:45.851034"
+date: "2026-03-05T22:38:39.364026"
 draft: false
 sectors:
   - ngo
@@ -39,18 +39,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - red
   - "pantone-1555"
+  - "pantone-7499"
   - "pantone-540"
   - "pantone-290"
-  - "pantone-7499"
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: shared transportation service for use by the general public
 has_twitter: false

@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-03-05T15:56:45.972910"
+date: "2026-03-05T22:38:39.545205"
 draft: false
 sectors:
   - "public-sector"
@@ -39,35 +39,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - "pantone-444"
-  - "pantone-457"
-  - "pantone-200"
-  - "pantone-383"
-  - "pantone-130"
-  - "pantone-647"
+  - white
   - "pantone-477"
-  - "pantone-3125"
+  - "pantone-500"
+  - "pantone-258"
+  - "pantone-383"
+  - "pantone-287"
+  - "pantone-444"
   - black
   - "pantone-485"
-  - white
-  - "pantone-287"
-  - "pantone-258"
+  - "pantone-3125"
+  - "pantone-200"
+  - "pantone-647"
+  - "pantone-457"
   - "pantone-116"
-  - "pantone-500"
+  - "pantone-130"
 typographies:
   - display
 imagery_styles:
-  - modern
+  - bold
   - photography
-  - natural
+  - modern
   - landscape
   - clean
-  - bold
+  - natural
 wikidata_description: "city in Mallorca and capital of the Balearic Islands, Spain"
 has_twitter: false
 has_guidelines: true

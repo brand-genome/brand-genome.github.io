@@ -2,12 +2,12 @@
 title: Blockpass
 slug: blockpass
 description: ""
-date: "2026-03-05T15:56:45.977972"
+date: "2026-03-05T22:38:39.553677"
 draft: false
 sectors:
   - "blockchain-crypto"
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "hong-kong"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - grey
   - blue
+  - grey
   - black
 typographies: []
 imagery_styles:
-  - modern
-  - portrait
   - dynamic
+  - modern
   - landscape
   - clean
+  - portrait
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

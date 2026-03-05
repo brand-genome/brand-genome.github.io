@@ -2,7 +2,7 @@
 title: Oregon Premier FC
 slug: "oregon-premier-fc"
 description: ""
-date: "2026-03-05T15:56:46.113889"
+date: "2026-03-05T22:38:39.748909"
 draft: false
 sectors:
   - sports
@@ -38,19 +38,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - crest
   - badge
+  - crest
   - horizontal
 brand_colors:
+  - white
   - gold
+  - blue
   - gray
   - navy
-  - white
-  - blue
 typographies: []
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

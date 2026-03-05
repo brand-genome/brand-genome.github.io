@@ -2,7 +2,7 @@
 title: Haval
 slug: haval
 description: ""
-date: "2026-03-05T15:56:45.669719"
+date: "2026-03-05T22:38:39.143465"
 draft: false
 sectors:
   - automobile

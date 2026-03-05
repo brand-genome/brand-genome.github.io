@@ -2,13 +2,13 @@
 title: Caffeine
 slug: caffeine
 description: ""
-date: "2026-03-05T15:56:46.000855"
+date: "2026-03-05T22:38:39.573965"
 draft: false
 sectors:
-  - entertainment
-  - broadcasting
   - gaming
+  - broadcasting
   - "social-media"
+  - entertainment
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - broadcast
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []
@@ -42,14 +42,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - cyan
+  - white
   - blue
   - black
-  - white
+  - cyan
 typographies: []
 imagery_styles:
   - product

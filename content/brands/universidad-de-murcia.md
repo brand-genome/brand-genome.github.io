@@ -2,7 +2,7 @@
 title: Universidad de Murcia
 slug: "universidad-de-murcia"
 description: ""
-date: "2026-03-05T15:56:45.705082"
+date: "2026-03-05T22:38:39.195312"
 draft: false
 sectors:
   - university
@@ -43,21 +43,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
+  - red
   - gold
-  - silver
   - grey
   - black
-  - white
+  - silver
   - "pantone-187"
-  - red
 typographies:
-  - din
-  - verdana
   - arial
+  - din
   - helvetica
+  - verdana
 imagery_styles:
-  - gradient
   - bold
+  - gradient
   - graphic
 wikidata_description: public university in Spain
 has_twitter: false

@@ -2,12 +2,12 @@
 title: Verifone
 slug: verifone
 description: ""
-date: "2026-03-05T15:56:45.710592"
+date: "2026-03-05T22:38:39.199947"
 draft: false
 sectors:
-  - hardware
-  - finance
   - software
+  - finance
+  - hardware
 regions:
   - usa
 years:
@@ -43,13 +43,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
   - symbol
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: business enterprise

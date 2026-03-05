@@ -2,7 +2,7 @@
 title: FSSA
 slug: fssa
 description: ""
-date: "2026-03-05T15:56:46.080718"
+date: "2026-03-05T22:38:39.700638"
 draft: false
 sectors:
   - "public-sector"
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - alternate
   - primary
+  - secondary
+  - signature
 brand_colors:
-  - green
-  - yellow
-  - gray
-  - black
   - white
+  - black
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
-  - times
   - trebuchet
+  - times
   - arial
 imagery_styles:
-  - clean
-  - professional
-  - graphic
   - photography
+  - professional
+  - clean
+  - graphic
 wikidata_description: "government organization in Indianapolis, United States"
 has_twitter: false
 has_guidelines: true

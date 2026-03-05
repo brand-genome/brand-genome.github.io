@@ -2,7 +2,7 @@
 title: Jetstar Airways
 slug: "jetstar-airways"
 description: ""
-date: "2026-03-05T15:56:46.115862"
+date: "2026-03-05T22:38:39.751875"
 draft: false
 sectors:
   - airline
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - black
   - orange
+  - black
 typographies:
   - helvetica
 imagery_styles:

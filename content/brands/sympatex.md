@@ -2,7 +2,7 @@
 title: Sympatex
 slug: sympatex
 description: ""
-date: "2026-03-05T15:56:45.921616"
+date: "2026-03-05T22:38:39.489741"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

@@ -2,11 +2,11 @@
 title: Utadeo
 slug: utadeo
 description: ""
-date: "2026-03-05T15:56:46.078785"
+date: "2026-03-05T22:38:39.692076"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:

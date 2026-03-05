@@ -2,7 +2,7 @@
 title: Royal Aeronautical Society
 slug: "royal-aeronautical-society"
 description: ""
-date: "2026-03-05T15:56:45.912140"
+date: "2026-03-05T22:38:39.472809"
 draft: false
 sectors:
   - education

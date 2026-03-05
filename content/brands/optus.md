@@ -2,7 +2,7 @@
 title: Optus
 slug: optus
 description: ""
-date: "2026-03-05T15:56:46.260379"
+date: "2026-03-05T22:38:40.034031"
 draft: false
 sectors:
   - telecom
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - australia
 revenue_buckets: []
@@ -22,176 +22,176 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - blurred
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "analogous-colors"
   - "pastel-colors"
-  - "two-tone"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - architectural
-  - "still-life"
-  - "live-stage"
-  - group
-  - "audience-perspective"
-  - portrait
-  - selfie
-  - product
-  - sports
   - landscape
+  - product
+  - selfie
+  - fashion
+  - "audience-perspective"
+  - "still-life"
+  - architectural
+  - sports
   - action
+  - "live-stage"
+  - portrait
+  - group
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
   - illustration
   - vintage
-  - "live-event"
-  - "graphic-design"
-  - sports
-  - crowd
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - crowd
+  - sports
+  - "incomplete-art"
+  - "live-event"
+  - photorealism
 depths:
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
   - "partly-focused-subject"
   - "fully-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - symmetrical
+  - silhouette
   - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "motion-blur"
   - "long-exposure"
   - "short-exposure"
-  - "motion-blur"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
   - "off-white"
-  - black
-  - turquoise
   - white
-  - "dark-brown"
+  - "mud-green"
   - olive
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - turquoise
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - "pulled-back"
-  - beard
-  - braided
-  - wavy
-  - neat
-  - curly
   - casual
-  - covered
-  - varied
-  - bald
   - flowing
-  - short
-  - updo
-  - "tied-back"
+  - "pulled-back"
+  - bald
+  - neat
+  - wavy
+  - loose
   - straight
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - "tied-back"
+  - varied
+  - covered
+  - beard
 facial_expressions:
-  - neutral
-  - energetic
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - excited
+  - focused
+  - energetic
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
-  - reclined
   - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
   - engaged
-  - upward
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
+  - walking
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

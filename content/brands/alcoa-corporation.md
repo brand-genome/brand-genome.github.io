@@ -2,7 +2,7 @@
 title: Alcoa Corporation
 slug: "alcoa-corporation"
 description: ""
-date: "2026-03-05T15:56:45.762850"
+date: "2026-03-05T22:38:39.259549"
 draft: false
 sectors:
   - "mining-extraction"

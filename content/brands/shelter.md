@@ -2,7 +2,7 @@
 title: Shelter
 slug: shelter
 description: ""
-date: "2026-03-05T15:56:46.002584"
+date: "2026-03-05T22:38:39.575408"
 draft: false
 sectors:
   - ngo
@@ -39,12 +39,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2"
-  - "pantone-3242"
-  - "pantone-136"
-  - "pantone-485"
-  - "pantone-482"
   - "pantone-305"
+  - "pantone-482"
+  - "pantone-485"
+  - "pantone-2"
+  - "pantone-136"
+  - "pantone-3242"
 typographies: []
 imagery_styles: []
 wikidata_description: American hardcore punk band

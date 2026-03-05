@@ -2,7 +2,7 @@
 title: Lynx
 slug: lynx
 description: ""
-date: "2026-03-05T15:56:46.048523"
+date: "2026-03-05T22:38:39.640397"
 draft: false
 sectors:
   - "public-transportation"
@@ -39,8 +39,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies: []
 imagery_styles: []

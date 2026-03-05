@@ -2,7 +2,7 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-03-05T15:56:45.716602"
+date: "2026-03-05T22:38:39.206570"
 draft: false
 sectors:
   - insurance
@@ -42,17 +42,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
   - bold
-  - clean
   - serious
   - modern
+  - clean
 wikidata_description: American artificial intelligence corporation
 has_twitter: false
 has_guidelines: true

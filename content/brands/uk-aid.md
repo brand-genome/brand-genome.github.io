@@ -2,7 +2,7 @@
 title: UK Aid
 slug: "uk-aid"
 description: ""
-date: "2026-03-05T15:56:46.153483"
+date: "2026-03-05T22:38:39.793201"
 draft: false
 sectors:
   - "public-sector"
@@ -39,16 +39,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-186"
-  - red
-  - black
   - white
-  - blue
+  - red
   - "pantone-280"
+  - "pantone-186"
+  - black
+  - blue
 typographies: []
 imagery_styles:
-  - monochrome
   - professional
+  - monochrome
 wikidata_description: "organization in London, United Kingdom"
 has_twitter: false
 has_guidelines: true

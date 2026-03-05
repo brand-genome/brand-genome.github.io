@@ -2,11 +2,11 @@
 title: American University of Beirut
 slug: "american-university-of-beirut"
 description: ""
-date: "2026-03-05T15:56:45.675758"
+date: "2026-03-05T22:38:39.164880"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - lebanon
 years:
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - seal
-  - secondary
   - primary
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: private university in Lebanon

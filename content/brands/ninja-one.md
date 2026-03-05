@@ -2,11 +2,11 @@
 title: Ninja One
 slug: "ninja-one"
 description: ""
-date: "2026-03-05T15:56:45.695604"
+date: "2026-03-05T22:38:39.187158"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -37,37 +37,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - symbol
-  - abstract
-  - secondary
-  - vertical
   - primary
+  - symbol
   - icon
+  - secondary
+  - lockup
+  - abstract
   - favicon
+  - vertical
 brand_colors:
-  - "pantone-2185"
-  - "pantone-302"
-  - green
-  - "pantone-715"
-  - gray
-  - "pantone-802"
-  - black
-  - "pantone-656"
-  - "pantone-7541"
   - white
+  - "pantone-802"
+  - "pantone-715"
   - "pantone-165"
+  - "pantone-302"
+  - "pantone-7541"
+  - black
   - blue
-  - "pantone-7479"
   - "pantone-7463"
+  - "pantone-2185"
+  - gray
+  - green
+  - "pantone-656"
+  - "pantone-7479"
 typographies:
   - montserrat
 imagery_styles:
   - photography
-  - abstract
   - geometric
-  - clean
+  - abstract
   - subtle
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

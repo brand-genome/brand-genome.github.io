@@ -2,7 +2,7 @@
 title: City of Guelph
 slug: "city-of-guelph"
 description: ""
-date: "2026-03-05T15:56:46.093341"
+date: "2026-03-05T22:38:39.714530"
 draft: false
 sectors:
   - "public-sector"
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - signature
   - primary
+  - signature
+  - crest
 brand_colors:
-  - "pantone-7460"
-  - green
-  - beige
+  - white
   - teal
   - black
-  - navy
-  - white
   - blue
+  - "pantone-7460"
   - "pantone-369"
+  - beige
+  - navy
+  - green
 typographies:
   - verdana
   - courier

@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-03-05T15:56:45.902621"
+date: "2026-03-05T22:38:39.433075"
 draft: false
 sectors:
   - ngo
@@ -44,8 +44,8 @@ brand_colors:
 typographies:
   - akzidenz
 imagery_styles:
-  - duotone
   - photography
+  - duotone
 wikidata_description: "global association of fair trade producer cooperatives, exporters, importers, retailers, national and regional fair trade networks and Fair Trade Support Organizations"
 has_twitter: false
 has_guidelines: true

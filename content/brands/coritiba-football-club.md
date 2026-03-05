@@ -2,7 +2,7 @@
 title: Coritiba Football Club
 slug: "coritiba-football-club"
 description: ""
-date: "2026-03-05T15:56:46.128404"
+date: "2026-03-05T22:38:39.767990"
 draft: false
 sectors:
   - sports
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
   - serif
   - arial

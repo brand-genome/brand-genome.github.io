@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-03-05T15:56:46.047467"
+date: "2026-03-05T22:38:39.638535"
 draft: false
 sectors:
   - automobile
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - primary
   - badge
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:

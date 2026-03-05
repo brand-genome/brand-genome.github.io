@@ -2,7 +2,7 @@
 title: Manchester United
 slug: "manchester-united"
 description: ""
-date: "2026-03-05T15:56:45.787616"
+date: "2026-03-05T22:38:39.286401"
 draft: false
 sectors:
   - sports
@@ -39,22 +39,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
   - primary
   - secondary
+  - crest
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - photography
-  - portrait
-  - landscape
   - bold
+  - photography
   - graphic
+  - landscape
+  - portrait
 wikidata_description: "association football club in Manchester, England"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Liberal Party of Canada
 slug: "liberal-party-of-canada"
 description: ""
-date: "2026-03-05T15:56:46.069393"
+date: "2026-03-05T22:38:39.680891"
 draft: false
 sectors:
   - "public-sector"

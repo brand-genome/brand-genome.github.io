@@ -2,7 +2,7 @@
 title: Step
 slug: step
 description: ""
-date: "2026-03-05T15:56:46.033793"
+date: "2026-03-05T22:38:39.602354"
 draft: false
 sectors:
   - education
@@ -42,8 +42,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

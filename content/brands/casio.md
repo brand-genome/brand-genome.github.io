@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-03-05T15:56:46.045438"
+date: "2026-03-05T22:38:39.634243"
 draft: false
 sectors:
   - electronics
@@ -40,10 +40,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: multinational electronics manufacturing company

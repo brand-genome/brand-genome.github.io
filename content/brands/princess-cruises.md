@@ -2,12 +2,12 @@
 title: Princess Cruises
 slug: "princess-cruises"
 description: ""
-date: "2026-03-05T15:56:45.647743"
+date: "2026-03-05T22:38:39.115230"
 draft: false
 sectors:
+  - cruise
   - tourism
   - hospitality
-  - cruise
 regions:
   - denmark
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - marine
+  - corporate
 industries:
   - tourism
 countries:
@@ -27,305 +27,228 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - pattern
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
+  - transparent
   - light
-  - blue
-  - "aquatic-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - blue
+  - bright
+  - "aquatic-colors"
 photography_genres:
+  - seascape
+  - selfie
+  - professional
+  - beach
+  - landscape
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - text
+  - "table-setting"
+  - interior
+  - abstract
+  - "food-photography"
+  - architecture
+  - street
+  - ocean
+  - architectural
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - logo
   - fashion
   - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - mountains
-  - interior
-  - candid
-  - outdoor
-  - cityscape
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - street
-  - landscape
-  - logo
-  - corporate
-  - wildlife
-  - "food-photography"
-  - text
-  - travel
   - vacation
-  - mountain
-  - portrait
-  - architecture
   - advertisement
-  - product
-  - nature
-  - "text-heavy"
+  - cityscape
   - bridal
-  - "table-setting"
-  - architectural
-  - beach
-  - professional
   - underwater
-  - abstract
-  - seascape
+  - "text-heavy"
+  - corporate
+  - amateur
+  - wildlife
+  - portrait
+  - mountain
+  - beauty
+  - mountains
+  - staged
   - map
-  - action
-  - ocean
+  - historical
   - bridge
+  - "still-life"
+  - travel
 concepts:
-  - "incomplete-art"
-  - "professional-portrait"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - "logo-design"
+  - "professional-portrait"
   - cartoon
   - "text-heavy"
-  - pride
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - pride
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
+  - white
+  - black
   - cyan
   - "dark-blue"
-  - gray
-  - black
-  - turquoise
-  - white
   - "dark-brown"
   - "light-blue"
+  - turquoise
+  - gray
 color_tones:
   - cool
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
+  - casual
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
+  - long
+  - curly
+  - short
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - streetwear
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - streetwear
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
   - subtle
-  - t
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
   - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - "holding-hands"
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - couple
   - reclined
+  - relaxed
+  - dynamic
+  - walking
+  - "holding-hands"
+  - holding
+  - active
+  - standing
+  - running
+  - couple
+  - stretching
+  - confident
 gazes:
-  - l
-  - e
-  - "at-each-other"
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
+  - downward
+  - "at-each-other"
   - "looking-ahead"
-  - p
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Australian Dragon Boat Federation
 slug: "australian-dragon-boat-federation"
 description: ""
-date: "2026-03-05T15:56:45.789821"
+date: "2026-03-05T22:38:39.291848"
 draft: false
 sectors:
   - sports
@@ -39,11 +39,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles:

@@ -2,7 +2,7 @@
 title: DIRECTV
 slug: directv
 description: ""
-date: "2026-03-05T15:56:46.134789"
+date: "2026-03-05T22:38:39.775370"
 draft: false
 sectors:
   - broadcasting
@@ -25,307 +25,230 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
 image_backgrounds:
-  - pattern
-  - text
-  - green
-  - blurred
-  - dark
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - green
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - promotional
+  - product
+  - text
+  - interior
+  - illustration
+  - abstract
+  - street
+  - advertising
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - instructional
   - astronomy
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - corporate
-  - text
-  - portrait
   - advertisement
-  - product
-  - sports
+  - fashion
+  - sky
+  - "text-heavy"
+  - underwater
+  - corporate
+  - cartoon
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - instructional
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
-  - architectural
-  - underwater
-  - abstract
-  - illustration
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - asymmetry
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
+  - white
+  - olive
   - orange
   - black
-  - turquoise
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
-  - olive
+  - turquoise
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
-  - engaged
-  - a
-  - c
   - shocked
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
+  - engaged
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - relaxed
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
   - light
-  - unknown
-  - o
   - patriotic
-  - b
-  - n
   - beige
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - engaged
   - holding
-  - c
   - active
-  - t
-  - i
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - surprised
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - surprised
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements:
   - primary
 brand_colors:
   - blue
+  - red
   - orange
   - yellow
-  - red
 typographies:
   - din
 imagery_styles:
-  - lifestyle
   - photography
+  - lifestyle
 wikidata_description: episode of Undercover Boss (S2 E3)
 has_twitter: true
 has_guidelines: true

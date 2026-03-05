@@ -2,7 +2,7 @@
 title: Tourism Tasmania
 slug: "tourism-tasmania"
 description: ""
-date: "2026-03-05T15:56:45.894626"
+date: "2026-03-05T22:38:39.416053"
 draft: false
 sectors:
   - "public-sector"
@@ -43,8 +43,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - staged
   - photography
+  - staged
 wikidata_description: "government agency of Tasmania, Australia"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: FIA
 slug: fia
 description: ""
-date: "2026-03-05T15:56:46.155596"
+date: "2026-03-05T22:38:39.795362"
 draft: false
 sectors:
   - "public-sector"
@@ -42,14 +42,14 @@ body_sections: []
 logo_elements:
   - stacked
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: Italian automotive company
 has_twitter: false
 has_guidelines: true

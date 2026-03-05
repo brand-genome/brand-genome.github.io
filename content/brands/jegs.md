@@ -2,12 +2,12 @@
 title: Jegs
 slug: jegs
 description: ""
-date: "2026-03-05T15:56:46.133020"
+date: "2026-03-05T22:38:39.773631"
 draft: false
 sectors:
+  - "consumer-goods"
   - automobile
   - "e-commerce"
-  - "consumer-goods"
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

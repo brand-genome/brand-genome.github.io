@@ -2,7 +2,7 @@
 title: DFW
 slug: dfw
 description: ""
-date: "2026-03-05T15:56:46.097141"
+date: "2026-03-05T22:38:39.718310"
 draft: false
 sectors:
   - "public-transportation"
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - purple
-  - yellow
-  - gray
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - purple
 typographies:
-  - times
   - arial
+  - times
 imagery_styles:
-  - monochrome
   - bold
-  - graphic
   - photography
+  - monochrome
+  - graphic
 wikidata_description: "airport in Irving serving the Dallas-Fort Worth metro area in Texas, United States"
 has_twitter: false
 has_guidelines: true

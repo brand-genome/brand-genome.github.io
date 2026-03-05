@@ -2,7 +2,7 @@
 title: Harmony
 slug: harmony
 description: ""
-date: "2026-03-05T15:56:45.959456"
+date: "2026-03-05T22:38:39.524365"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - secondary
   - primary
+  - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: process by which individual sounds are joined together or composed into whole units or compositions
 has_twitter: false
 has_guidelines: true

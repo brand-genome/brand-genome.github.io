@@ -2,7 +2,7 @@
 title: Skol
 slug: skol
 description: ""
-date: "2026-03-05T15:56:45.903249"
+date: "2026-03-05T22:38:39.433839"
 draft: false
 sectors:
   - brewery
@@ -40,13 +40,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - "pantone-109"
   - magenta
   - cyan
   - yellow
-  - "pantone-109"
   - black
   - "pantone-1797"
-  - red
 typographies: []
 imagery_styles:
   - natural

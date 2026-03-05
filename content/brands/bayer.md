@@ -2,7 +2,7 @@
 title: Bayer
 slug: bayer
 description: ""
-date: "2026-03-05T15:56:46.257079"
+date: "2026-03-05T22:38:40.029652"
 draft: false
 sectors:
   - pharma
@@ -13,10 +13,10 @@ years: []
 languages: []
 tags: []
 industries:
-  - "pharmaceutical-industry"
-  - "chemical-industry"
   - plastic
+  - "chemical-industry"
   - phytopharmaceuticals
+  - "pharmaceutical-industry"
 countries:
   - germany
 revenue_buckets:
@@ -27,273 +27,196 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - "light-on-subject"
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - natural
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - typography
-  - candid
-  - botanical
-  - outdoor
-  - staged
-  - promotional
-  - food
-  - "graphic-design"
+  - professional
   - landscape
-  - corporate
-  - event
-  - business
-  - "food-photography"
-  - family
-  - agricultural
-  - portrait
+  - botanical
+  - promotional
+  - outdoor
+  - food
   - product
+  - illustration
+  - interior
+  - "food-photography"
+  - advertising
+  - architectural
+  - infographic
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - action
+  - event
+  - sky
+  - fashion
   - cartoon
   - "text-heavy"
-  - architectural
-  - documentary
-  - professional
-  - illustration
-  - action
-  - advertising
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - staged
+  - business
+  - agricultural
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "corporate-branding"
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
-  - "corporate-branding"
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - pink
-  - "royal-blue"
-  - "dark-blue"
-  - turquoise
-  - black
   - white
+  - "mud-green"
+  - "dark-blue"
+  - black
   - "light-blue"
+  - "royal-blue"
+  - pink
+  - turquoise
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
   - "pulled-back"
+  - neat
   - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
+  - loose
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - balding
+  - gray
   - "tied-back"
+  - varied
+  - long
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - e
-  - contemplative
-  - o
-  - unknown
-  - c
-  - relaxed
   - joyful
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - t
-  - "close-up"
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

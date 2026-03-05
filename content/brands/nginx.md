@@ -2,11 +2,11 @@
 title: Nginx
 slug: nginx
 description: ""
-date: "2026-03-05T15:56:45.894420"
+date: "2026-03-05T22:38:39.415859"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries: []
 countries: []
 revenue_buckets: []

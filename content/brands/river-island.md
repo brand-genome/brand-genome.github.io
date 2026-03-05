@@ -2,7 +2,7 @@
 title: River Island
 slug: "river-island"
 description: ""
-date: "2026-03-05T15:56:46.215788"
+date: "2026-03-05T22:38:39.952164"
 draft: false
 sectors:
   - fashion
@@ -13,8 +13,8 @@ languages: []
 tags: []
 industries:
   - "clothing-industry"
-  - "fast-fashion"
   - retail
+  - "fast-fashion"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -23,208 +23,208 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "high-angle-photo"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - candid
-  - botanical
+  - "home-decor"
+  - beach
   - baby
-  - staged
+  - landscape
+  - botanical
   - promotional
   - food
-  - beauty
-  - "home-decor"
-  - "graphic-design"
-  - street
-  - landscape
-  - family
-  - "food-photography"
-  - text
-  - travel
-  - vacation
-  - portrait
-  - advertisement
-  - lifestyle
   - product
-  - "text-heavy"
-  - architectural
-  - beach
-  - documentary
+  - text
+  - lifestyle
+  - interior
   - abstract
-  - calendar
-  - action
+  - "food-photography"
+  - street
   - advertising
+  - architectural
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - fashion
+  - advertisement
+  - sky
+  - vacation
+  - "text-heavy"
+  - amateur
+  - family
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+  - calendar
+  - travel
 concepts:
   - fashion
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - advertisement
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - promotional
-  - beauty
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
+  - beauty
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - "artificial-shadow"
+  - "high-contrast"
   - "high-saturation"
   - "low-contrast"
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "mud-green"
-  - pink
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "mud-green"
+  - black
+  - "dark-blue"
   - "dark-brown"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
-  - flowing
   - casual
-  - covered
-  - varied
-  - black
   - white
-  - short
-  - updo
-  - "tied-back"
-  - straight
+  - "pulled-back"
+  - flowing
   - neat
+  - wavy
+  - loose
+  - straight
+  - black
+  - ponytail
+  - braided
+  - updo
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
   - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
   - traditional
   - covered
-  - costume
-  - beachwear
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
+  - seated
+  - walking
   - reclined
   - leaning
-  - seated
-  - confident
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
   - "lower-half"
+  - midsection
+  - "full-back"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

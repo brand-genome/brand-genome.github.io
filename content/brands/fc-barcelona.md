@@ -2,7 +2,7 @@
 title: FC Barcelona
 slug: "fc-barcelona"
 description: ""
-date: "2026-03-05T15:56:46.056743"
+date: "2026-03-05T22:38:39.650235"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,8 @@ languages:
 tags:
   - sport
 industries:
-  - "sporting-activities"
   - "other-voluntary-membership-organizations-france"
+  - "sporting-activities"
 countries:
   - spain
 revenue_buckets:
@@ -26,246 +26,246 @@ operating_income_buckets:
 net_profit_buckets:
   - "100m-500m"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
+  - celebrity
+  - audience
+  - selfie
+  - landscape
+  - product
+  - text
+  - illustration
+  - interior
+  - "audience-perspective"
+  - street
+  - architectural
+  - sports
+  - fitness
+  - action
   - team
-  - "still-life"
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - cityscape
-  - audience
-  - staged
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
   - logo
-  - celebrity
+  - fashion
   - event
-  - text
-  - portrait
-  - product
-  - sports
+  - sky
+  - cityscape
   - cartoon
   - "text-heavy"
-  - athlete
-  - architectural
-  - "audience-perspective"
-  - illustration
-  - action
-  - list
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - "sports-team"
   - "graphic-design"
-  - "sports-photography"
+  - portrait
+  - beauty
+  - list
+  - staged
+  - athlete
+  - "still-life"
+concepts:
+  - list
   - cartoon
   - "text-heavy"
-  - list
-  - typography
+  - illustration
   - "sports-action"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - photorealism
+  - "incomplete-art"
+  - "sports-team"
+  - "sports-photography"
+  - "live-stage"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "saturated-colors"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
+  - "saturated-colors"
+  - "high-contrast"
+  - "motion-capture"
+  - "high-saturation"
+  - symmetrical
+  - "cut-out"
+  - asymmetry
+  - "low-exposure"
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
 dominant_colors:
-  - "mud-green"
-  - green
-  - "dark-blue"
-  - gray
-  - black
   - white
-  - "light-blue"
+  - "mud-green"
   - olive
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - gray
+  - green
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - brown
-  - bald
-  - "buzz-cut"
-  - straight
-  - blonde
-  - long
   - casual
+  - blonde
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - short
+  - brown
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - confident
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - happy
+  - engaged
+  - relaxed
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - happy
+  - surprised
+  - confident
 clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
   - business
-  - swimwear
   - professional
   - active
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
   - beachwear
-  - "business-casual"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - dark
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - dark
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
-  - focused
-  - holding
-  - walking
-  - confident
   - seated
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - contemplative
-  - running
-  - reclined
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - focused
+  - stretching
+  - contemplative
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - looking
-  - forward
   - outward
+  - looking
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - active
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - dynamic
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - dynamic
+  - active
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors:
-  - "pantone-186"
-  - "pantone-7405"
   - "pantone-208"
   - "pantone-109"
+  - "pantone-108"
+  - "pantone-7405"
+  - "pantone-186"
   - blue
   - "pantone-117"
-  - "pantone-108"
 typographies: []
 imagery_styles:
   - bold

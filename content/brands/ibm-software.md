@@ -2,7 +2,7 @@
 title: IBM Software
 slug: "ibm-software"
 description: ""
-date: "2026-03-05T15:56:45.842569"
+date: "2026-03-05T22:38:39.354329"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - vintage
+  - software
 industries: []
 countries: []
 revenue_buckets: []

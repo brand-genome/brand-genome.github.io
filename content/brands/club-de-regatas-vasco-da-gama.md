@@ -2,7 +2,7 @@
 title: Club de Regatas Vasco da Gama
 slug: "club-de-regatas-vasco-da-gama"
 description: ""
-date: "2026-03-05T15:56:45.676570"
+date: "2026-03-05T22:38:39.168638"
 draft: false
 sectors:
   - sports
@@ -38,11 +38,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold

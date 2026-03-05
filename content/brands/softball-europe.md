@@ -2,7 +2,7 @@
 title: Softball Europe
 slug: "softball-europe"
 description: ""
-date: "2026-03-05T15:56:45.982229"
+date: "2026-03-05T22:38:39.558367"
 draft: false
 sectors:
   - sports
@@ -39,12 +39,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
-  - yellow
-  - gray
-  - black
   - white
+  - red
+  - black
+  - yellow
   - blue
+  - gray
 typographies:
   - futura
 imagery_styles: []

@@ -2,7 +2,7 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-03-05T15:56:46.034930"
+date: "2026-03-05T22:38:39.603667"
 draft: false
 sectors:
   - insurance
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - brazil
 revenue_buckets: []
@@ -42,10 +42,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
-  - signature
   - secondary
+  - horizontal
+  - signature
   - vertical
 brand_colors:
   - red

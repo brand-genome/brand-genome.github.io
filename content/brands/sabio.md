@@ -2,11 +2,11 @@
 title: Sabio
 slug: sabio
 description: ""
-date: "2026-03-05T15:56:45.720363"
+date: "2026-03-05T22:38:39.210675"
 draft: false
 sectors:
-  - food
   - "consumer-goods"
+  - food
 regions:
   - india
 years:

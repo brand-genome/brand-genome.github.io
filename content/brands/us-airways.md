@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-03-05T15:56:46.000310"
+date: "2026-03-05T22:38:39.573541"
 draft: false
 sectors:
   - airline
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
 typographies:
+  - arial
   - verdana
   - frutiger
-  - arial
   - display
 imagery_styles:
-  - gradient
-  - clean
   - bold
   - photography
+  - gradient
+  - clean
 wikidata_description: former airline in the United States
 has_twitter: false
 has_guidelines: true

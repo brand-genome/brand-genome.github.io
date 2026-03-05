@@ -2,11 +2,11 @@
 title: Mellanox
 slug: mellanox
 description: ""
-date: "2026-03-05T15:56:46.165609"
+date: "2026-03-05T22:38:39.806506"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - israel
 years:
@@ -38,11 +38,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
+  - horizontal
   - signature
-  - logomark
   - stacked
+  - logomark
 brand_colors:
   - blue
   - gray

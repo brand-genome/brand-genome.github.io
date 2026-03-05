@@ -6,11 +6,19 @@
         <nav class="breadcrumb">
             <a href="{{ "/" | relURL }}">Home</a> →
             <a href="{{ .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a> →
+            {{ if eq .Data.Plural "years" }}
+            <span>{{ .Title }}</span>
+            {{ else }}
             <span>{{ .Title | humanize }}</span>
+            {{ end }}
         </nav>
         <h1>
             <span class="term-type">{{ .Data.Singular | title }}:</span>
+            {{ if eq .Data.Plural "years" }}
+            {{ .Title }}
+            {{ else }}
             {{ .Title | humanize }}
+            {{ end }}
         </h1>
         <p class="term-count">{{ len .Pages }} brands with this {{ .Data.Singular | lower }}</p>
     </header>

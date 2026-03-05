@@ -2,7 +2,7 @@
 title: Movistar
 slug: movistar
 description: ""
-date: "2026-03-05T15:56:46.202450"
+date: "2026-03-05T22:38:39.922493"
 draft: false
 sectors:
   - telecom
@@ -12,323 +12,246 @@ years: []
 languages: []
 tags: []
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - spain
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - studio
-  - "bird-eye-view"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - interview
-  - selfie
-  - interior
-  - display
-  - candid
-  - outdoor
-  - urban
   - audience
-  - staged
-  - beauty
-  - "graphic-design"
-  - street
+  - selfie
   - landscape
-  - logo
-  - event
-  - family
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - outdoors
-  - art
+  - outdoor
   - product
-  - sport
-  - sports
-  - "text-heavy"
-  - architectural
+  - art
+  - text
+  - interior
   - abstract
   - "audience-perspective"
-  - map
-  - action
+  - street
   - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - promotional
-  - "social-media"
-  - "action-shot"
+  - architectural
+  - sports
+  - candid
+  - action
+  - "live-stage"
+  - urban
+  - group
+  - logo
+  - fashion
+  - event
+  - sky
+  - advertisement
+  - interview
+  - "text-heavy"
+  - family
   - "graphic-design"
+  - portrait
+  - beauty
+  - display
+  - map
+  - staged
+  - "still-life"
+  - travel
+  - sport
+  - outdoors
+concepts:
+  - "social-media"
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
   - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "incomplete-art"
+  - promotional
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "cut-out"
-  - "motion-blur"
 dominant_colors:
+  - white
   - "mud-green"
-  - "dark-blue"
-  - gray
+  - olive
   - orange
   - black
-  - white
+  - "dark-blue"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - straight
-  - athletic
-  - b
-  - long
-  - n
-  - focused
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
-  - p
   - updo
   - "tied-back"
-facial_expressions:
-  - confident
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - c
-  - excited
-  - t
-  - i
-  - victorious
-  - o
-  - unknown
-  - b
+  - straight
+  - ponytail
+  - curly
+  - red
+  - athletic
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
   - focused
-  - n
-  - p
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - victorious
+  - content
+  - excited
+  - focused
+  - contemplative
+  - confident
 clothing_styles:
-  - sporty
-  - formal
-  - traditional
-  - l
-  - e
-  - a
+  - casual
+  - athletic
+  - "form-fitting"
   - beachwear
-  - "business-casual"
-  - c
   - business
   - active
-  - t
-  - i
   - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
   - protective
+  - formal
+  - swimwear
+  - traditional
+  - sporty
+  - "business-casual"
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - dynamic
-  - colorful
-  - a
-  - c
   - vibrant
-  - t
-  - i
   - muted
-  - o
+  - dynamic
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - blue
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - pastel
 posings:
-  - posed
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - victorious
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - hugging
-  - n
-  - p
+  - leaning
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - victorious
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - group
-  - l
-  - e
+  - relaxed
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
+  - engaged
   - victorious
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - active
+  - holding
+  - posed
+  - confident
+  - standing
+  - running
+  - hugging
+  - stretching
+  - group
+gazes:
+  - engaged
+  - away
+  - downward
+  - victorious
+  - outward
+  - upward
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - dynamic
+  - victorious
+  - "full-body"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

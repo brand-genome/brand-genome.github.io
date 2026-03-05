@@ -2,12 +2,12 @@
 title: Hyper Island
 slug: "hyper-island"
 description: ""
-date: "2026-03-05T15:56:46.042844"
+date: "2026-03-05T22:38:39.613767"
 draft: false
 sectors:
-  - consulting
   - education
   - "e-learning-edtech"
+  - consulting
 regions:
   - sweden
 years:

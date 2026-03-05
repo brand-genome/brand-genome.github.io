@@ -2,11 +2,11 @@
 title: Tubi
 slug: tubi
 description: ""
-date: "2026-03-05T15:56:45.719580"
+date: "2026-03-05T22:38:39.209956"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - germany

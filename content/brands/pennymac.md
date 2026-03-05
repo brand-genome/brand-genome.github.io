@@ -2,11 +2,11 @@
 title: PennyMac
 slug: pennymac
 description: ""
-date: "2026-03-05T15:56:45.814689"
+date: "2026-03-05T22:38:39.320921"
 draft: false
 sectors:
-  - "real-estate"
   - finance
+  - "real-estate"
 regions:
   - usa
 years:
@@ -40,13 +40,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
+  - white
+  - black
   - cyan
   - yellow
-  - black
-  - white
   - blue
 typographies: []
 imagery_styles: []

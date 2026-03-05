@@ -2,7 +2,7 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-03-05T15:56:46.035061"
+date: "2026-03-05T22:38:39.603802"
 draft: false
 sectors:
   - education
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - yellow
-  - gray
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - pink
+  - gray
 typographies:
   - raleway
   - avenir
 imagery_styles:
-  - professional
-  - modern
-  - photography
-  - natural
-  - dramatic
   - bold
+  - photography
+  - professional
+  - dramatic
+  - modern
+  - natural
 wikidata_description: client program for CompuServe Information Service
 has_twitter: false
 has_guidelines: true

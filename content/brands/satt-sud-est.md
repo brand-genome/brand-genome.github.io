@@ -2,11 +2,11 @@
 title: "SATT Sud-Est"
 slug: "satt-sud-est"
 description: ""
-date: "2026-03-05T15:56:46.145584"
+date: "2026-03-05T22:38:39.785736"
 draft: false
 sectors:
-  - consulting
   - research
+  - consulting
 regions:
   - france
 years:
@@ -44,10 +44,10 @@ brand_colors:
 typographies:
   - trebuchet
 imagery_styles:
-  - clean
-  - geometric
   - bold
   - photography
+  - geometric
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

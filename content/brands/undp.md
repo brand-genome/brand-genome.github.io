@@ -2,7 +2,7 @@
 title: UNDP
 slug: undp
 description: ""
-date: "2026-03-05T15:56:46.181110"
+date: "2026-03-05T22:38:39.824296"
 draft: false
 sectors:
   - ngo
@@ -42,9 +42,9 @@ logo_elements:
   - emblem
 brand_colors: []
 typographies:
-  - display
   - arial
   - helvetica
+  - display
 imagery_styles: []
 wikidata_description: department of the United Nations which is charged with managing peacekeeping operations
 has_twitter: false

@@ -2,7 +2,7 @@
 title: Axa
 slug: axa
 description: ""
-date: "2026-03-05T15:56:45.901225"
+date: "2026-03-05T22:38:39.428066"
 draft: false
 sectors:
   - insurance
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
+  - insurance
   - featured
-  - insurance
 industries:
-  - insurance
   - "insurance-industry"
-  - "investment-funds-and-similar-financial-entities"
+  - insurance
   - "financial-services"
+  - "investment-funds-and-similar-financial-entities"
 countries:
   - france
 revenue_buckets:

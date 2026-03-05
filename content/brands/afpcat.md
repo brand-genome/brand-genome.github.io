@@ -2,11 +2,11 @@
 title: AFPCAT
 slug: afpcat
 description: ""
-date: "2026-03-05T15:56:45.709137"
+date: "2026-03-05T22:38:39.198605"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - spain
 years:

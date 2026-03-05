@@ -2,7 +2,7 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-03-05T15:56:45.922250"
+date: "2026-03-05T22:38:39.492450"
 draft: false
 sectors:
   - ngo
@@ -44,16 +44,16 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - grey
   - blue
-  - green
   - orange
+  - green
+  - grey
 typographies:
   - lato
   - futura
 imagery_styles:
-  - serious
   - bold
+  - serious
   - photography
 wikidata_description: French global humanitarian aid organization
 has_twitter: false

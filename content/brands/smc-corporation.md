@@ -2,7 +2,7 @@
 title: SMC Corporation
 slug: "smc-corporation"
 description: ""
-date: "2026-03-05T15:56:45.799908"
+date: "2026-03-05T22:38:39.304104"
 draft: false
 sectors:
   - hardware
@@ -39,15 +39,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - blue
   - white
+  - blue
+  - grey
   - black
 typographies: []
 imagery_styles:
   - professional
-  - clean
   - product
+  - clean
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

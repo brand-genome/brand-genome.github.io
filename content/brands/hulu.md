@@ -2,22 +2,22 @@
 title: Hulu
 slug: hulu
 description: ""
-date: "2026-03-05T15:56:45.733282"
+date: "2026-03-05T22:38:39.225841"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
-  - 2023
   - 2022
+  - 2023
 languages:
   - english
 tags:
-  - entertainment
-  - featured
   - broadcast
+  - featured
+  - entertainment
 industries:
   - "video-on-demand"
 countries:

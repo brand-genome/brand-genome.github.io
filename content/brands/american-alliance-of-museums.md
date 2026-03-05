@@ -2,7 +2,7 @@
 title: American Alliance of Museums
 slug: "american-alliance-of-museums"
 description: ""
-date: "2026-03-05T15:56:45.799677"
+date: "2026-03-05T22:38:39.303890"
 draft: false
 sectors:
   - ngo
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - gray
-  - black
   - white
+  - black
   - blue
+  - gray
+  - green
 typographies: []
 imagery_styles:
-  - contemporary
+  - bold
   - photography
-  - illustration
+  - graphic
   - dynamic
+  - illustration
   - colorful
+  - contemporary
+  - flat
   - dramatic
   - static
   - clean
-  - flat
-  - bold
-  - graphic
 wikidata_description: "non-profit association based in Arlington, Virginia, United States"
 has_twitter: false
 has_guidelines: true

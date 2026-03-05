@@ -2,7 +2,7 @@
 title: SendGrid
 slug: sendgrid
 description: ""
-date: "2026-03-05T15:56:46.050416"
+date: "2026-03-05T22:38:39.641618"
 draft: false
 sectors:
   - software
@@ -39,10 +39,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - primary
   - symbol
+  - signature
+  - secondary
 brand_colors:
   - blue
 typographies:

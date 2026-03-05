@@ -2,7 +2,7 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-03-05T15:56:46.045775"
+date: "2026-03-05T22:38:39.635280"
 draft: false
 sectors:
   - ngo
@@ -41,18 +41,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - lockup
+  - logomark
   - horizontal
   - vertical
-  - logomark
 brand_colors:
+  - white
+  - violet
+  - red
   - magenta
   - crimson
-  - gray
   - orange
   - black
-  - white
-  - red
-  - violet
+  - gray
 typographies:
   - montserrat
 imagery_styles: []

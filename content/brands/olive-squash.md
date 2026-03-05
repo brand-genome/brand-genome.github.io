@@ -2,7 +2,7 @@
 title: Olive + Squash
 slug: "olive-squash"
 description: ""
-date: "2026-03-05T15:56:46.146542"
+date: "2026-03-05T22:38:39.785834"
 draft: false
 sectors:
   - food
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors: []
 typographies: []

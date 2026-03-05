@@ -2,11 +2,11 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-03-05T15:56:46.134343"
+date: "2026-03-05T22:38:39.774879"
 draft: false
 sectors:
-  - biotech
   - research
+  - biotech
 regions:
   - france
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
-  - biology
-  - featured
   - science
+  - featured
+  - biology
 industries: []
 countries:
   - "united-kingdom"
@@ -41,17 +41,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
 typographies:
   - "open-sans"
-  - display
   - arial
+  - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: research institute at University of Edinburgh
 has_twitter: false
 has_guidelines: true

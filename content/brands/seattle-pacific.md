@@ -2,11 +2,11 @@
 title: Seattle Pacific
 slug: "seattle-pacific"
 description: ""
-date: "2026-03-05T15:56:46.087246"
+date: "2026-03-05T22:38:39.707768"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,20 +41,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - logomark
 brand_colors:
-  - maroon
+  - red
   - gold
   - gray
-  - red
+  - maroon
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
-  - candid
   - bold
+  - candid
   - natural
 wikidata_description: "Christian university in Seattle, Washington"
 has_twitter: false

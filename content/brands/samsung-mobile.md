@@ -2,11 +2,11 @@
 title: Samsung Mobile
 slug: "samsung-mobile"
 description: ""
-date: "2026-03-05T15:56:45.808578"
+date: "2026-03-05T22:38:39.314332"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - "south-korea"
 years:
@@ -41,22 +41,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - secondary
   - lettermark
-  - primary
 brand_colors:
-  - gray
-  - "pantone-286"
-  - black
   - white
   - "pantone-2995"
-  - blue
+  - black
   - "pantone-539"
+  - blue
+  - gray
+  - "pantone-286"
 typographies:
   - helvetica
 imagery_styles:
-  - staged
   - photography
+  - staged
 wikidata_description: "Manufacturer of TFT - LCD/AMOLED displays"
 has_twitter: false
 has_guidelines: true

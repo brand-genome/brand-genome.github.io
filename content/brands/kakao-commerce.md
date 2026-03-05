@@ -2,7 +2,7 @@
 title: Kakao Commerce
 slug: "kakao-commerce"
 description: ""
-date: "2026-03-05T15:56:45.808392"
+date: "2026-03-05T22:38:39.314223"
 draft: false
 sectors:
   - "e-commerce"
@@ -39,9 +39,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies: []
 imagery_styles:
   - photography

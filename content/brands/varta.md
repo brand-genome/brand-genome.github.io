@@ -2,11 +2,11 @@
 title: Varta
 slug: varta
 description: ""
-date: "2026-03-05T15:56:45.908886"
+date: "2026-03-05T22:38:39.460695"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - technology
+  - corporate
 industries:
   - "manufacture-of-batteries-and-accumulators"
   - "electrical-industry"

@@ -2,11 +2,11 @@
 title: South Africa
 slug: "south-africa"
 description: ""
-date: "2026-03-05T15:56:46.045598"
+date: "2026-03-05T22:38:39.634446"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
 regions:
   - "south-africa"
 years:
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

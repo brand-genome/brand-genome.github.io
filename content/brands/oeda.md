@@ -2,7 +2,7 @@
 title: OEDA
 slug: oeda
 description: ""
-date: "2026-03-05T15:56:46.050880"
+date: "2026-03-05T22:38:39.641724"
 draft: false
 sectors:
   - ngo
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - lockup
   - primary
+  - lockup
   - secondary
 brand_colors: []
 typographies: []

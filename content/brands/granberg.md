@@ -2,11 +2,11 @@
 title: Granberg
 slug: granberg
 description: ""
-date: "2026-03-05T15:56:46.129996"
+date: "2026-03-05T22:38:39.769869"
 draft: false
 sectors:
-  - "textile-apparel-manufacturing"
   - "consumer-goods"
+  - "textile-apparel-manufacturing"
 regions:
   - norway
 years:

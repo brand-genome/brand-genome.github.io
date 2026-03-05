@@ -2,7 +2,7 @@
 title: US Masters Swimming
 slug: "us-masters-swimming"
 description: ""
-date: "2026-03-05T15:56:45.963945"
+date: "2026-03-05T22:38:39.530619"
 draft: false
 sectors:
   - ngo
@@ -39,9 +39,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - stacked
   - horizontal
-  - icon
 brand_colors: []
 typographies: []
 imagery_styles: []

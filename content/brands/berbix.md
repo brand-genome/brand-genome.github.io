@@ -2,11 +2,11 @@
 title: Berbix
 slug: berbix
 description: ""
-date: "2026-03-05T15:56:45.748989"
+date: "2026-03-05T22:38:39.246980"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Minn Kota
 slug: "minn-kota"
 description: ""
-date: "2026-03-05T15:56:45.979543"
+date: "2026-03-05T22:38:39.555366"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ tags:
   - electronics
 industries:
   - "online-shop"
-  - "fishing-industry"
   - "outdoor-recreation"
+  - "fishing-industry"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -41,16 +41,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - wordmark
+  - stacked
 brand_colors:
-  - black
   - white
   - gray
+  - black
   - "pantone-123"
 typographies: []
 imagery_styles: []

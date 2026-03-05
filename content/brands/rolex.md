@@ -2,7 +2,7 @@
 title: Rolex
 slug: rolex
 description: ""
-date: "2026-03-05T15:56:46.196373"
+date: "2026-03-05T22:38:39.901887"
 draft: false
 sectors:
   - watches
@@ -22,195 +22,195 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
+  - textured
   - text
   - blurred
-  - dark
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - audience
+  - selfie
+  - landscape
+  - botanical
+  - abstract
+  - interior
+  - "audience-perspective"
+  - street
+  - architectural
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - botanical
-  - "event-photography"
-  - audience
-  - staged
-  - street
-  - landscape
+  - fashion
   - event
-  - portrait
   - advertisement
+  - portrait
+  - staged
+  - "event-photography"
+  - "still-life"
   - sport
-  - sports
-  - architectural
-  - abstract
-  - "audience-perspective"
-  - action
 concepts:
   - realism
-  - "incomplete-art"
-  - "athlete-in-action"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - "graphic-design"
-  - "sports-photography"
-  - sports
-  - "text-heavy"
   - "sports-equipment"
-  - typography
-  - "sports-action"
+  - "athlete-in-action"
   - cartoon
+  - "text-heavy"
+  - illustration
+  - "sports-action"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - photorealism
+  - sports
   - action
+  - "live-stage"
+  - "sports-photography"
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - silhouette
   - asymmetry
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
+  - white
+  - "dark-green"
   - cyan
   - "dark-blue"
-  - "dark-gray"
-  - "dark-green"
-  - gray
   - black
-  - white
   - "dark-brown"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - "pulled-back"
-  - braided
-  - wavy
-  - neat
-  - long
-  - curly
   - casual
-  - covered
   - flowing
-  - varied
-  - short
-  - updo
-  - "tied-back"
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - active
-  - "form-fitting"
-  - formal
   - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - active
+  - protective
+  - formal
+  - swimwear
   - traditional
   - "business-casual"
-  - protective
-  - athletic
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
+  - seated
+  - walking
   - reclined
   - leaning
-  - confident
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
   - dynamic
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

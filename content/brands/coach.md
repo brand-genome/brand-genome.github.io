@@ -2,11 +2,11 @@
 title: Coach
 slug: coach
 description: ""
-date: "2026-03-05T15:56:46.220917"
+date: "2026-03-05T22:38:39.960494"
 draft: false
 sectors:
-  - beauty
   - fashion
+  - beauty
 regions:
   - unknown
 years: []
@@ -21,299 +21,222 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gradient
-  - brick
-  - light
-  - red
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - typography
-  - botanical
-  - cityscape
-  - beauty
-  - street
   - landscape
-  - corporate
-  - text
-  - portrait
-  - advertisement
+  - botanical
   - product
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
-  - abstract
+  - text
   - illustration
-  - action
+  - abstract
+  - interior
+  - street
   - advertising
+  - architectural
+  - action
+  - "live-stage"
+  - documentary
+  - group
+  - fashion
+  - advertisement
+  - sky
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - bridal
+  - typography
+  - portrait
+  - beauty
+  - "still-life"
 concepts:
+  - product
+  - advertisement
   - "live-performance"
+  - cartoon
+  - "text-heavy"
+  - illustration
   - "christmas-theme"
-  - "incomplete-art"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "product-photography"
   - "wave-pattern"
   - "still-life"
+  - "incomplete-art"
   - "live-stage"
   - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - product
-  - cartoon
-  - "product-photography"
-  - typography
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "vanishing-point"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
+  - "low-exposure"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - "dark-blue"
+  - white
   - "off-white"
   - orange
   - black
-  - white
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - pink
-  - t
-  - i
-  - black
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
-  - p
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - trendy
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - pink
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - relaxed
+  - costume
+  - trendy
+  - protective
+  - formal
+  - swimwear
+  - pink
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - pink
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
-  - p
+  - pink
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - "at-camera"
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-03-05T15:56:45.690821"
+date: "2026-03-05T22:38:39.181660"
 draft: false
 sectors:
   - "renewable-energy"
@@ -40,16 +40,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
+  - red
+  - "pantone-485"
   - silver
   - gray
-  - "pantone-485"
-  - "pantone-877"
-  - red
   - "pantone-424"
+  - "pantone-877"
 typographies:
   - script
 imagery_styles:

@@ -2,11 +2,11 @@
 title: Xbox Live
 slug: "xbox-live"
 description: ""
-date: "2026-03-05T15:56:46.102615"
+date: "2026-03-05T22:38:39.727854"
 draft: false
 sectors:
-  - entertainment
   - gaming
+  - entertainment
 regions:
   - usa
 years:
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
-  - green
-  - gold
-  - gray
-  - black
   - white
+  - gold
+  - black
   - "pantone-362"
+  - gray
+  - green
 typographies: []
 imagery_styles:
   - clean

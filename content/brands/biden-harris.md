@@ -2,7 +2,7 @@
 title: Biden Harris
 slug: "biden-harris"
 description: ""
-date: "2026-03-05T15:56:45.966285"
+date: "2026-03-05T22:38:39.531948"
 draft: false
 sectors:
   - "public-sector"
@@ -39,12 +39,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
+  - red
   - gold
   - grey
   - blue
   - navy
-  - white
-  - red
 typographies:
   - helvetica
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Air Asia
 slug: "air-asia"
 description: ""
-date: "2026-03-05T15:56:46.029451"
+date: "2026-03-05T22:38:39.597066"
 draft: false
 sectors:
   - airline
@@ -23,364 +23,287 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
+  - textured
+  - text
+  - blurred
+  - solid
   - transparent
-  - bright
-  - gradient
   - "sunset-colors"
   - light
-  - textured
+  - gradient
+  - pattern
+  - bright
+  - dark
   - "aquatic-colors"
-  - solid
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
+  - culture
+  - selfie
+  - commercial
+  - professional
+  - "press-release"
+  - informational
+  - beach
+  - aerial
+  - news
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - "social-cause"
+  - product
+  - "event-announcement"
+  - press
+  - "text-based"
+  - text
+  - lifestyle
+  - illustration
+  - interior
+  - "food-photography"
+  - abstract
+  - "digital-art"
+  - "event-promotion"
+  - street
+  - advertising
+  - architecture
+  - architectural
+  - sports
+  - action
   - "live-stage"
+  - candid
+  - documentary
   - group
   - panorama
-  - selfie
-  - interior
-  - commercial
-  - "event-promotion"
-  - typography
-  - candid
-  - botanical
-  - "travel-promotion"
-  - outdoor
-  - urban
-  - cityscape
-  - "press-release"
-  - aerial
-  - staged
-  - "event-announcement"
-  - promotional
-  - historical
-  - food
-  - instructional
-  - beauty
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - news
-  - logo
-  - corporate
-  - event
-  - "food-photography"
-  - "social-cause"
-  - text
-  - culture
-  - artificial
-  - family
-  - travel
-  - "digital-art"
-  - portrait
-  - advertisement
-  - architecture
-  - adventure
-  - lifestyle
-  - informational
-  - panoramic
-  - product
-  - cartoon
-  - nature
-  - "text-heavy"
-  - sports
-  - information
-  - athletic
-  - architectural
-  - beach
-  - reportage
-  - documentary
-  - professional
-  - "text-based"
-  - abstract
-  - illustration
-  - calendar
-  - "social-media"
-  - underwater
+  - infographic
   - educational
-  - action
-  - press
-  - advertising
-concepts:
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - "graphic-design"
+  - urban
+  - logo
   - advertisement
-  - "travel-itinerary"
-  - informational
-  - cartoon
-  - nature
+  - sky
+  - fashion
+  - athletic
+  - event
+  - cityscape
   - "text-heavy"
-  - "informational-graphic"
+  - corporate
+  - reportage
+  - cartoon
+  - underwater
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - panoramic
+  - "social-media"
+  - instructional
+  - artificial
+  - "travel-promotion"
+  - information
+  - "still-life"
+  - calendar
+  - adventure
+  - travel
+  - crowd
+concepts:
+  - informative
   - professional
+  - informational
   - "wave-pattern"
-  - documentary
-  - "advertisement-design"
-  - aquatic
+  - promotional
+  - nature
+  - "informational-graphic"
   - illustration
+  - vintage
+  - "advertisement-design"
+  - documentary
+  - advertisement
+  - cartoon
+  - "text-heavy"
+  - aquatic
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - "travel-itinerary"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - "saturated-colors"
   - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - "lighting-effect"
-  - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "dark-focal-point"
-  - "short-exposure"
   - "artificial-shadow"
+  - "high-contrast"
+  - "dark-focal-point"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "lighting-effect"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - gray
+  - white
+  - red
   - "dark-green"
   - black
-  - white
+  - cyan
+  - "dark-blue"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
+  - relaxed
+  - neutral
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
   - focused
-  - n
-  - p
+  - contemplative
+  - surprised
 clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - costume
   - trendy
   - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - uniform
-  - casual
-  - p
   - protective
-clothing_colors:
-  - l
-  - e
+  - swimwear
+  - colorful
+  - traditional
   - workwear
-  - monochrome
-  - pastel
+  - "business-casual"
+  - uniform
+clothing_colors:
+  - white
+  - red
+  - vibrant
+  - muted
   - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - bright
-  - p
-  - white
   - protective
+  - workwear
+  - bright
+  - pastel
 posings:
-  - group
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - excited
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - surprised
-  - b
-  - n
-  - "at-camera"
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
+  - leaning
+  - relaxed
   - dynamic
-  - midsection
-  - a
-  - c
+  - engaged
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - excited
+  - stretching
+  - group
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - "at-camera"
+  - surprised
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

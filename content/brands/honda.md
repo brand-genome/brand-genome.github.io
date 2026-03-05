@@ -2,7 +2,7 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-03-05T15:56:45.767429"
+date: "2026-03-05T22:38:39.264934"
 draft: false
 sectors:
   - automobile
@@ -13,11 +13,11 @@ years:
   - 2021
   - 2013
 languages:
-  - french
   - english
+  - french
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
   - "industrial-manufacturing"
@@ -47,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - black
-  - red
   - white
+  - red
+  - black
   - "pantone-186"
 typographies:
-  - arial
   - avenir
+  - arial
   - helvetica
 imagery_styles:
   - clean

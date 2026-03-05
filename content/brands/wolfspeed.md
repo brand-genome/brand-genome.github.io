@@ -2,7 +2,7 @@
 title: Wolfspeed
 slug: wolfspeed
 description: ""
-date: "2026-03-05T15:56:45.636244"
+date: "2026-03-05T22:38:39.098224"
 draft: false
 sectors:
   - electronics

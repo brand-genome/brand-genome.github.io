@@ -2,7 +2,7 @@
 title: Groupe 6
 slug: "groupe-6"
 description: ""
-date: "2026-03-05T15:56:46.163589"
+date: "2026-03-05T22:38:39.804719"
 draft: false
 sectors:
   - architecture

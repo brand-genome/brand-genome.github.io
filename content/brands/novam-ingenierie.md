@@ -2,11 +2,11 @@
 title: Novam Ingénierie
 slug: "novam-ingenierie"
 description: ""
-date: "2026-03-05T15:56:46.126063"
+date: "2026-03-05T22:38:39.765493"
 draft: false
 sectors:
-  - consulting
   - construction
+  - consulting
 regions:
   - france
 years:

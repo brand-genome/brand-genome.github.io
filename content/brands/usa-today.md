@@ -2,7 +2,7 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-03-05T15:56:46.162053"
+date: "2026-03-05T22:38:39.802526"
 draft: false
 sectors:
   - broadcasting
@@ -47,11 +47,11 @@ brand_colors:
   - blue
   - black
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
-  - contemporary
   - photography
+  - contemporary
 wikidata_description: American national daily newspaper
 has_twitter: false
 has_guidelines: true

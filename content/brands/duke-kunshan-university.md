@@ -2,11 +2,11 @@
 title: Duke Kunshan University
 slug: "duke-kunshan-university"
 description: ""
-date: "2026-03-05T15:56:45.603237"
+date: "2026-03-05T22:38:39.076701"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - china
 years:

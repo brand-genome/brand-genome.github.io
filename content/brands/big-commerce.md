@@ -2,11 +2,11 @@
 title: Big Commerce
 slug: "big-commerce"
 description: ""
-date: "2026-03-05T15:56:45.946475"
+date: "2026-03-05T22:38:39.515105"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - abstract
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:

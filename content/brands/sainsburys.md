@@ -2,7 +2,7 @@
 title: Sainsbury’s
 slug: sainsburys
 description: ""
-date: "2026-03-05T15:56:46.026321"
+date: "2026-03-05T22:38:39.593956"
 draft: false
 sectors:
   - supermarket
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - abstract
+  - secondary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - times
 imagery_styles:
-  - landscape
-  - abstract
   - bold
+  - landscape
   - portrait
+  - abstract
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

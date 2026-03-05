@@ -2,7 +2,7 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-03-05T15:56:45.968354"
+date: "2026-03-05T22:38:39.535197"
 draft: false
 sectors:
   - "renewable-energy"
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
   - engineering
 industries:
-  - "electric-power-industry"
   - "energy-industry"
+  - "electric-power-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -42,26 +42,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - lockup
+  - horizontal
   - vertical
 brand_colors:
-  - red
   - white
+  - red
   - gray
 typographies:
   - impact
   - arial
 imagery_styles:
+  - bold
   - staged
-  - flat
   - vibrant
   - dynamic
+  - flat
   - clean
-  - bold
 wikidata_description: US electricity corporation
 has_twitter: false
 has_guidelines: true

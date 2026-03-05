@@ -2,7 +2,7 @@
 title: I amsterdam
 slug: "i-amsterdam"
 description: ""
-date: "2026-03-05T15:56:46.044954"
+date: "2026-03-05T22:38:39.630763"
 draft: false
 sectors:
   - "public-sector"
@@ -40,9 +40,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - red
   - black
-  - white
   - gray
 typographies:
   - avenir

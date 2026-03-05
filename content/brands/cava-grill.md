@@ -2,7 +2,7 @@
 title: CAVA Grill
 slug: "cava-grill"
 description: ""
-date: "2026-03-05T15:56:46.000999"
+date: "2026-03-05T22:38:39.574079"
 draft: false
 sectors:
   - food
@@ -40,16 +40,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
-  - orange
   - red
+  - orange
+  - black
 typographies:
+  - avenir
   - serif
   - futura
-  - avenir
 imagery_styles: []
 wikidata_description: "Greek-American restaurant chain"
 has_twitter: false

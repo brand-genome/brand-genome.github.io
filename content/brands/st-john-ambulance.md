@@ -2,11 +2,11 @@
 title: St John Ambulance
 slug: "st-john-ambulance"
 description: ""
-date: "2026-03-05T15:56:45.839565"
+date: "2026-03-05T22:38:39.349744"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
   - healthcare
 regions:
   - "united-kingdom"
@@ -42,16 +42,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - green
+  - white
+  - black
   - yellow
   - gray
-  - black
-  - white
+  - green
 typographies:
   - impact
   - display

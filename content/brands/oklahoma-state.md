@@ -2,7 +2,7 @@
 title: Oklahoma State
 slug: "oklahoma-state"
 description: ""
-date: "2026-03-05T15:56:45.773276"
+date: "2026-03-05T22:38:39.271360"
 draft: false
 sectors:
   - "public-sector"

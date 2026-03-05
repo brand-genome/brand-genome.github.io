@@ -2,7 +2,7 @@
 title: Stoke
 slug: stoke
 description: ""
-date: "2026-03-05T15:56:45.988644"
+date: "2026-03-05T22:38:39.562901"
 draft: false
 sectors:
   - brewery
@@ -40,13 +40,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
   - "pantone-872"
 typographies: []
 imagery_styles:

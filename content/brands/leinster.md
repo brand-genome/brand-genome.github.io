@@ -2,7 +2,7 @@
 title: Leinster
 slug: leinster
 description: ""
-date: "2026-03-05T15:56:45.945435"
+date: "2026-03-05T22:38:39.514063"
 draft: false
 sectors:
   - sports
@@ -38,11 +38,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - impact
   - futura

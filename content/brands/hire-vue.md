@@ -2,7 +2,7 @@
 title: Hire Vue
 slug: "hire-vue"
 description: ""
-date: "2026-03-05T15:56:46.109130"
+date: "2026-03-05T22:38:39.743259"
 draft: false
 sectors:
   - software
@@ -38,35 +38,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - primary
   - symbol
+  - primary
+  - lockup
 brand_colors:
-  - "pantone-7406"
-  - "pantone-573"
-  - coral
-  - green
-  - "pantone-185"
-  - yellow
-  - gray
-  - "pantone-109"
-  - "pantone-7719"
-  - black
   - white
-  - "pantone-187"
   - red
-  - "pantone-3248"
+  - "pantone-109"
+  - "pantone-573"
   - "pantone-170"
+  - "pantone-185"
+  - black
+  - yellow
+  - "pantone-7719"
+  - gray
+  - coral
+  - "pantone-187"
+  - "pantone-3248"
+  - green
+  - "pantone-7406"
 typographies:
-  - slab
   - roboto
+  - slab
 imagery_styles:
-  - monochrome
-  - professional
-  - minimal
-  - natural
   - bold
   - graphic
+  - professional
+  - monochrome
+  - minimal
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

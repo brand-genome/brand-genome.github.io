@@ -2,7 +2,7 @@
 title: Bronte
 slug: bronte
 description: ""
-date: "2026-03-05T15:56:46.055585"
+date: "2026-03-05T22:38:39.648689"
 draft: false
 sectors:
   - restaurant
@@ -38,9 +38,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - black
   - navy
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""

@@ -2,12 +2,12 @@
 title: Monster
 slug: monster
 description: ""
-date: "2026-03-05T15:56:45.800746"
+date: "2026-03-05T22:38:39.304925"
 draft: false
 sectors:
   - gaming
-  - "staffing-recruitment"
   - drink
+  - "staffing-recruitment"
 regions:
   - usa
 years:
@@ -27,361 +27,284 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
-perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-image_backgrounds:
-  - pattern
-  - "background-as-frame"
   - colored
-  - text
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
+image_backgrounds:
+  - "background-as-frame"
   - red
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - rocky
-  - brick
   - "text-as-background"
-  - light
-  - "text-heavy"
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - "text-heavy"
+  - light
+  - rocky
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
+  - colored
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - "action-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - "action-colors"
   - "text-heavy"
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
-  - "inverted-colors"
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - "error-message"
-  - fashion
   - studio
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
-  - outdoor
   - audience
-  - staged
-  - promotional
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - crowd
+  - selfie
   - landscape
-  - music
-  - event
-  - motocross
-  - text
+  - promotional
   - festival
-  - portrait
-  - advertisement
-  - adventure
+  - outdoor
+  - food
   - product
-  - sports
-  - "text-heavy"
-  - architectural
+  - text
+  - interior
   - abstract
   - "audience-perspective"
-  - action
+  - street
   - advertising
-concepts:
-  - "live-performance"
-  - "motion-capture"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - "live-event"
-  - "action-shot"
-  - typography
-  - branding
-  - "incomplete-art"
+  - candid
+  - group
+  - event
+  - fashion
+  - advertisement
+  - sky
+  - "text-heavy"
+  - music
+  - "graphic-design"
+  - portrait
+  - beauty
+  - "error-message"
+  - staged
+  - motocross
+  - "still-life"
+  - adventure
+  - crowd
+concepts:
   - "audience-participation"
-  - photorealism
-  - vintage
+  - "wave-pattern"
   - promotional
+  - "sports-photography"
+  - illustration
+  - vintage
+  - "audience-perspective"
+  - sports
+  - action
+  - "live-event"
+  - "live-stage"
+  - advertisement
+  - "athletic-performance"
+  - "live-performance"
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - "music-concert"
+  - typography
   - "graphic-design"
   - "product-photography"
+  - "action-shot"
+  - "incomplete-art"
+  - branding
   - motocross
-  - advertisement
-  - "sports-photography"
-  - sports
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
-  - "athletic-performance"
-  - illustration
-  - "audience-perspective"
-  - "music-concert"
-  - action
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "action-shot"
   - "isolated-focal-point"
-  - "bright-focal-point"
-  - "dark-focal-point"
-  - "close-up-shot"
 image_effects:
+  - "bokeh-effect"
+  - "low-saturation"
+  - "bright-focal-point"
   - "neutral-density-filter"
+  - silhouette
+  - "dark-focal-point"
+  - "high-contrast"
   - "high-saturation"
   - "motion-capture"
-  - "low-contrast"
-  - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - "action-shot"
-  - asymmetry
   - symmetrical
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "dark-focal-point"
-  - "short-exposure"
+  - "low-contrast"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "action-shot"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - "dark-green"
-  - gray
-  - black
   - white
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - dyed
-  - blonde
-  - helmet
-  - long
-  - b
-  - n
   - casual
-  - p
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - beard
+  - dyed
+  - ponytail
   - protective
+  - curly
+  - helmet
+  - red
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - energetic
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
+  - relaxed
   - dynamic
-  - a
-  - happy
-  - c
+  - neutral
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
   - focused
-  - n
-  - p
+  - energetic
+  - contemplative
+  - happy
 clothing_styles:
+  - casual
+  - tight
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - protective
   - formal
+  - swimwear
   - traditional
   - performance
-  - l
-  - e
-  - a
-  - beachwear
   - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - tight
-  - protective
 clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - vibrant
+  - muted
   - neutral
-  - green
-  - dark
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
   - bright
-  - p
+  - dark
+  - green
+  - pastel
 posings:
-  - energetic
-  - confident
   - seated
-  - l
-  - e
-  - relaxed
+  - walking
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - reclined
   - holding
-  - c
   - active
-  - t
   - pointing
-  - i
+  - standing
+  - running
+  - focused
+  - energetic
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - focused
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - attentive
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - attentive
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - purple
+  - white
   - orange
   - black
-  - white
   - blue
+  - green
+  - purple
 typographies:
   - verdana
   - helvetica
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: Norwegian film and television production company
 has_twitter: true
 has_guidelines: true

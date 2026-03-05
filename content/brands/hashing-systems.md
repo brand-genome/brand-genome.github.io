@@ -2,7 +2,7 @@
 title: Hashing Systems
 slug: "hashing-systems"
 description: ""
-date: "2026-03-05T15:56:46.033560"
+date: "2026-03-05T22:38:39.602005"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -38,41 +38,41 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - logomark
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - wordmark
   - favicon
+  - stacked
+  - logomark
 brand_colors:
-  - "pantone-289"
+  - white
   - "pantone-1788"
-  - "pantone-3265"
-  - green
   - orange
+  - navy
+  - gray
+  - "pantone-717"
   - "pantone-7481"
+  - "pantone-426"
   - "pantone-2995"
   - red
-  - "pantone-426"
-  - "pantone-2765"
-  - black
-  - navy
-  - "pantone-152"
-  - blue
   - "pantone-151"
-  - purple
-  - gray
   - turquoise
-  - white
-  - "pantone-717"
+  - "pantone-152"
+  - "pantone-3265"
+  - black
+  - blue
+  - "pantone-289"
+  - "pantone-2765"
+  - green
+  - purple
 typographies:
-  - verdana
   - poppins
+  - verdana
   - "sans-serif"
 imagery_styles:
-  - clean
   - contemporary
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

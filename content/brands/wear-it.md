@@ -2,7 +2,7 @@
 title: Wear it
 slug: "wear-it"
 description: ""
-date: "2026-03-05T15:56:45.841722"
+date: "2026-03-05T22:38:39.353396"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - sport
+  - security
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: International Skating Union
 slug: "international-skating-union"
 description: ""
-date: "2026-03-05T15:56:46.084673"
+date: "2026-03-05T22:38:39.705333"
 draft: false
 sectors:
   - sports
@@ -39,20 +39,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
-  - montserrat
-  - display
   - arial
+  - display
+  - montserrat
 imagery_styles:
+  - bold
   - landscape
   - gradient
-  - bold
   - portrait
 wikidata_description: international governing body for competitive ice skating
 has_twitter: false

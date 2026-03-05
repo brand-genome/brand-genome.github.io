@@ -2,11 +2,11 @@
 title: NASA Launch America
 slug: "nasa-launch-america"
 description: ""
-date: "2026-03-05T15:56:46.000142"
+date: "2026-03-05T22:38:39.573353"
 draft: false
 sectors:
-  - "public-sector"
   - broadcasting
+  - "public-sector"
   - "space-technology"
 regions:
   - usa
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - featured
   - broadcast
+  - featured
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -41,14 +41,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - gray
-  - black
   - white
+  - red
+  - black
   - blue
+  - gray
 typographies:
   - display
 imagery_styles:

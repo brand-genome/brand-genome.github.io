@@ -2,7 +2,7 @@
 title: Central College Athletics
 slug: "central-college-athletics"
 description: ""
-date: "2026-03-05T15:56:45.967500"
+date: "2026-03-05T22:38:39.533005"
 draft: false
 sectors:
   - education

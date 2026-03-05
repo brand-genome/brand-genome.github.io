@@ -2,11 +2,11 @@
 title: Canadian North
 slug: "canadian-north"
 description: ""
-date: "2026-03-05T15:56:45.699861"
+date: "2026-03-05T22:38:39.192153"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - airline
+  - "logistics-supply-chain"
 regions:
   - canada
 years:

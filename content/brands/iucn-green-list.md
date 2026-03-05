@@ -2,7 +2,7 @@
 title: IUCN Green List
 slug: "iucn-green-list"
 description: ""
-date: "2026-03-05T15:56:45.881189"
+date: "2026-03-05T22:38:39.391426"
 draft: false
 sectors:
   - ngo
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
   - georgia
-  - inter
   - arial
+  - inter
   - helvetica
 imagery_styles:
   - bold
-  - graphic
   - natural
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

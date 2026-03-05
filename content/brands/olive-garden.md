@@ -2,7 +2,7 @@
 title: Olive Garden
 slug: "olive-garden"
 description: ""
-date: "2026-03-05T15:56:46.255534"
+date: "2026-03-05T22:38:40.028261"
 draft: false
 sectors:
   - restaurant
@@ -21,264 +21,187 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - "light-on-subject"
   - moderate
-  - natural
-  - bright
   - "light-glare"
-perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
+  - "light-on-subject"
   - bright
-  - gradient
-  - light
+  - natural
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
+image_backgrounds:
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "analogous-colors"
   - "pastel-colors"
   - "autumnal-colors"
-  - "two-tone"
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - social
-  - sky
+  - selfie
+  - commercial
+  - landscape
+  - botanical
+  - "close-up"
+  - food
+  - product
+  - "table-setting"
+  - lifestyle
+  - interior
+  - abstract
+  - "food-photography"
+  - tabletop
+  - street
   - "studio-photography"
-  - "still-life"
+  - advertising
+  - architectural
+  - "fine-dining"
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - commercial
   - candid
-  - botanical
-  - tabletop
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
   - "fine-art"
-  - holiday
-  - "fine-dining"
-  - "food-photography"
-  - family
-  - "close-up"
-  - portrait
   - advertisement
-  - "tabletop-photography"
-  - lifestyle
-  - product
+  - fashion
+  - sky
   - "text-heavy"
-  - "table-setting"
-  - architectural
-  - abstract
-  - map
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - photorealism
-  - illustration
-  - vintage
-  - advertisement
+  - family
   - "graphic-design"
+  - portrait
+  - beauty
+  - holiday
+  - map
+  - "tabletop-photography"
+  - "still-life"
+  - social
+concepts:
+  - advertisement
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
   - "high-saturation"
   - "low-contrast"
-  - silhouette
-  - "vanishing-point"
-  - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
-  - "artificial-shadow"
+  - "vanishing-point"
 dominant_colors:
-  - brown
-  - "dark-gray"
-  - gray
+  - white
   - orange
   - black
-  - white
   - "dark-brown"
   - "light-blue"
+  - brown
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
   - "pulled-back"
+  - neat
   - wavy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
+  - braided
   - updo
+  - long
+  - curly
+  - short
   - "tied-back"
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - e
-  - contemplative
-  - relaxed
-  - unknown
-  - c
   - joyful
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - l
-  - a
-  - e
-  - colorful
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - l
-  - e
-  - relaxed
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - o
-  - unknown
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
   - away
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - b
-  - "upper-body"
-  - t
-  - "close-up"
-  - n
-  - i
-  - p
-  - midsection
   - "head-shot"
-  - l
-  - a
-  - e
-  - "full-body"
-  - o
-  - unknown
-  - c
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

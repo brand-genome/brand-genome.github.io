@@ -2,7 +2,7 @@
 title: St.Ives
 slug: stives
 description: ""
-date: "2026-03-05T15:56:45.878255"
+date: "2026-03-05T22:38:39.387903"
 draft: false
 sectors:
   - "public-sector"
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - script
 imagery_styles:
-  - monochrome
+  - bold
   - photography
   - staged
+  - vibrant
+  - monochrome
   - abstract
   - illustration
-  - vibrant
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

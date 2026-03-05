@@ -2,7 +2,7 @@
 title: Governo de Santa Catarina
 slug: "governo-de-santa-catarina"
 description: ""
-date: "2026-03-05T15:56:45.763184"
+date: "2026-03-05T22:38:39.259909"
 draft: false
 sectors:
   - "public-sector"

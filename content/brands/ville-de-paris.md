@@ -2,7 +2,7 @@
 title: Ville de Paris
 slug: "ville-de-paris"
 description: ""
-date: "2026-03-05T15:56:45.993114"
+date: "2026-03-05T22:38:39.568374"
 draft: false
 sectors:
   - "public-sector"
@@ -44,8 +44,8 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - montserrat
 imagery_styles:

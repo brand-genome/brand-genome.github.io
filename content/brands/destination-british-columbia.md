@@ -2,7 +2,7 @@
 title: Destination British Columbia
 slug: "destination-british-columbia"
 description: ""
-date: "2026-03-05T15:56:46.154760"
+date: "2026-03-05T22:38:39.794472"
 draft: false
 sectors:
   - "public-sector"

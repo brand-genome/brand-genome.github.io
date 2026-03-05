@@ -2,7 +2,7 @@
 title: Villandry Café
 slug: "villandry-cafe"
 description: ""
-date: "2026-03-05T15:56:46.029350"
+date: "2026-03-05T22:38:39.596968"
 draft: false
 sectors:
   - restaurant
@@ -38,11 +38,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - yellow
+  - white
   - orange
   - grey
   - black
-  - white
+  - yellow
   - blue
 typographies: []
 imagery_styles: []

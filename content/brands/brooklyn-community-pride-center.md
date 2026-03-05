@@ -2,7 +2,7 @@
 title: Brooklyn Community Pride Center
 slug: "brooklyn-community-pride-center"
 description: ""
-date: "2026-03-05T15:56:45.794005"
+date: "2026-03-05T22:38:39.297367"
 draft: false
 sectors:
   - ngo
@@ -41,8 +41,8 @@ logo_elements:
   - icon
   - symbol
 brand_colors:
-  - black
   - white
+  - black
   - brown
 typographies: []
 imagery_styles:

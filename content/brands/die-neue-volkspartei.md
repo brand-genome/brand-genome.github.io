@@ -2,7 +2,7 @@
 title: Die Neue Volkspartei
 slug: "die-neue-volkspartei"
 description: ""
-date: "2026-03-05T15:56:45.812040"
+date: "2026-03-05T22:38:39.317818"
 draft: false
 sectors:
   - "public-sector"
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

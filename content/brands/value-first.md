@@ -2,11 +2,11 @@
 title: Value First
 slug: "value-first"
 description: ""
-date: "2026-03-05T15:56:45.980197"
+date: "2026-03-05T22:38:39.555918"
 draft: false
 sectors:
-  - telecom
   - software
+  - telecom
 regions:
   - india
 years:
@@ -38,30 +38,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
   - favicon
+  - stacked
 brand_colors:
-  - cyan
-  - green
-  - yellow
-  - gray
-  - orange
-  - grey
-  - black
   - white
+  - grey
+  - orange
+  - cyan
+  - black
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
   - helvetica
 imagery_styles:
-  - photography
-  - lifestyle
-  - geometric
-  - colorful
   - bold
+  - photography
   - graphic
+  - geometric
+  - lifestyle
+  - colorful
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

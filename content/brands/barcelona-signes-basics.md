@@ -2,7 +2,7 @@
 title: Barcelona – Signes bàsics
 slug: "barcelona-signes-basics"
 description: ""
-date: "2026-03-05T15:56:45.965081"
+date: "2026-03-05T22:38:39.531103"
 draft: false
 sectors:
   - "public-sector"
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - primary
   - symbol
+  - signature
+  - secondary
 brand_colors:
-  - "pantone-186"
-  - "pantone-1235"
-  - yellow
-  - black
   - white
   - red
+  - "pantone-1235"
+  - "pantone-186"
+  - black
+  - yellow
 typographies:
   - arial
 imagery_styles:

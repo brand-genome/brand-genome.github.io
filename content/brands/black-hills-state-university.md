@@ -2,7 +2,7 @@
 title: Black Hills State University
 slug: "black-hills-state-university"
 description: ""
-date: "2026-03-05T15:56:45.853742"
+date: "2026-03-05T22:38:39.367587"
 draft: false
 sectors:
   - university
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
+  - primary
   - symbol
   - mascot
-  - primary
+  - alternate
+  - horizontal
 brand_colors:
-  - yellow
   - green
+  - yellow
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Spearfish, South Dakota"

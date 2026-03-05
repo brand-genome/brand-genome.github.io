@@ -2,7 +2,7 @@
 title: LOfavør
 slug: lofavr
 description: ""
-date: "2026-03-05T15:56:46.007036"
+date: "2026-03-05T22:38:39.580132"
 draft: false
 sectors:
   - insurance
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - red
-  - yellow
-  - gray
-  - orange
-  - grey
   - white
+  - red
+  - grey
+  - orange
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

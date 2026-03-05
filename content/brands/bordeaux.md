@@ -2,7 +2,7 @@
 title: Bordeaux
 slug: bordeaux
 description: ""
-date: "2026-03-05T15:56:46.105527"
+date: "2026-03-05T22:38:39.732894"
 draft: false
 sectors:
   - "public-sector"
@@ -41,8 +41,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
   - white
+  - red
 typographies: []
 imagery_styles:
   - photography

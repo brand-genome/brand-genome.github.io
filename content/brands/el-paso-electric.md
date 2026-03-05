@@ -2,11 +2,11 @@
 title: El Paso Electric
 slug: "el-paso-electric"
 description: ""
-date: "2026-03-05T15:56:45.637835"
+date: "2026-03-05T22:38:39.099700"
 draft: false
 sectors:
-  - energy
   - utilities
+  - energy
 regions:
   - usa
 years:

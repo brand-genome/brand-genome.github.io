@@ -2,7 +2,7 @@
 title: SalesForce
 slug: salesforce
 description: ""
-date: "2026-03-05T15:56:45.882944"
+date: "2026-03-05T22:38:39.395426"
 draft: false
 sectors:
   - software
@@ -15,15 +15,15 @@ languages:
 tags:
   - software
 industries:
-  - "software-as-a-service"
   - "enterprise-software"
-  - "customer-relationship-management"
-  - "software-industry"
-  - "cloud-computing"
+  - automation
   - analytics
   - "email-marketing"
+  - "cloud-computing"
+  - "software-as-a-service"
+  - "software-industry"
+  - "customer-relationship-management"
   - "intelligent-agent"
-  - automation
 countries:
   - "united-states"
 revenue_buckets:
@@ -56,8 +56,8 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - product
   - static
+  - product
 wikidata_description: "American cloud-based software company"
 has_twitter: false
 has_guidelines: true

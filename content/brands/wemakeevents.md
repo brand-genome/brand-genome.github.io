@@ -2,7 +2,7 @@
 title: "#WeMakeEvents"
 slug: wemakeevents
 description: ""
-date: "2026-03-05T15:56:45.774792"
+date: "2026-03-05T22:38:39.272784"
 draft: false
 sectors:
   - ngo

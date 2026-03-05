@@ -2,11 +2,11 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-03-05T15:56:46.067507"
+date: "2026-03-05T22:38:39.678935"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
-  - vertical
   - symbol
+  - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies:
-  - times
   - lato
+  - times
 imagery_styles:
   - bold
 wikidata_description: Education organization in Bogotá Colombia

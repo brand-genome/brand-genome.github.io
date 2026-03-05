@@ -2,11 +2,11 @@
 title: Calvin University
 slug: "calvin-university"
 description: ""
-date: "2026-03-05T15:56:46.013092"
+date: "2026-03-05T22:38:39.586440"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

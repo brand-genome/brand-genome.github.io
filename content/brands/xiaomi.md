@@ -2,12 +2,12 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-03-05T15:56:45.937200"
+date: "2026-03-05T22:38:39.507169"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - china
 years:
@@ -17,9 +17,9 @@ languages:
 tags:
   - electronics
 industries:
+  - "consumer-electronics-industry"
   - "automotive-industry"
   - "home-appliance"
-  - "consumer-electronics-industry"
   - "mobile-phone"
 countries:
   - "peoples-republic-of-china"
@@ -46,16 +46,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
-  - secondary
   - primary
+  - alternate
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - grey
-  - black
   - white
   - orange
+  - black
+  - grey
 typographies:
   - impact
 imagery_styles:

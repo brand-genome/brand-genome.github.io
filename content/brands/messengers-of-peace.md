@@ -2,11 +2,11 @@
 title: Messengers of Peace
 slug: "messengers-of-peace"
 description: ""
-date: "2026-03-05T15:56:45.824416"
+date: "2026-03-05T22:38:39.331159"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -44,8 +44,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: highest ranking goodwill ambassador designation of the United Nations
 has_twitter: false
 has_guidelines: true

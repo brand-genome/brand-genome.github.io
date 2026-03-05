@@ -92,6 +92,16 @@
             </div>
             <a href="{{ "/countries/" | relURL }}" class="see-all">See all countries →</a>
         </div>
+
+        <div class="explore-card">
+            <h3><a href="{{ "/years/" | relURL }}">📅 Years</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.years.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/years/" | relURL }}" class="see-all">See all years →</a>
+        </div>
     </div>
 </section>
 

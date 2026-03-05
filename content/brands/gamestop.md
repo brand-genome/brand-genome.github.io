@@ -2,12 +2,12 @@
 title: Gamestop
 slug: gamestop
 description: ""
-date: "2026-03-05T15:56:46.212337"
+date: "2026-03-05T22:38:39.945413"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - gaming
+  - electronics
+  - hardware
 regions:
   - unknown
 years: []
@@ -25,350 +25,273 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
-  - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - textured
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - "galaxy-colors"
-  - "inverted-colors"
-  - textured
-  - "aquatic-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
+  - "inverted-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - commercial
-  - candid
-  - branding
-  - typography
-  - botanical
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - character
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - event
-  - "food-photography"
-  - text
-  - office
   - fantasy
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - nature
-  - architectural
-  - documentary
+  - selfie
+  - commercial
   - professional
-  - underwater
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - product
+  - text
   - abstract
   - illustration
+  - interior
   - "audience-perspective"
-  - horror
-  - action
+  - "food-photography"
+  - street
   - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "advertisement-design"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - documentary
+  - character
+  - logo
+  - fashion
   - advertisement
+  - event
+  - sky
+  - cartoon
+  - "text-heavy"
+  - underwater
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - historical
+  - branding
+  - office
+  - "still-life"
+  - horror
+concepts:
+  - advertisement
+  - branding
+  - "wave-pattern"
+  - "text-heavy"
+  - cartoon
+  - illustration
+  - "motion-capture"
+  - vintage
+  - typography
   - "graphic-design"
   - horror
-  - cartoon
   - "product-display"
-  - "text-heavy"
-  - typography
   - "color-palette"
-  - branding
+  - "incomplete-art"
+  - photorealism
+  - "advertisement-design"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
-  - "fully-focused-subject"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
   - "dark-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - symmetric
-  - "dark-focal-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
   - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
+  - "gaussian-blur"
+  - symmetric
+  - silhouette
+  - "dark-focal-point"
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - saturated
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - orange
-  - black
   - white
+  - red
+  - orange
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
   - flowing
-  - spiky
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - red
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - pink
-  - t
-  - i
-  - bald
-  - o
-  - blue
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
+  - wavy
+  - loose
+  - spiky
   - moustache
-  - p
   - updo
-  - "not-visible"
+  - dark
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - red
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - blue
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
+  - shocked
+  - engaged
   - relaxed
   - neutral
-  - engaged
-  - a
-  - c
-  - shocked
+  - content
   - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
   - focused
-  - n
-  - p
+  - contemplative
+  - surprised
   - "not-visible"
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - monochrome
-  - pastel
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - business
-  - t
-  - i
-  - muted
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
   - casual
-  - p
-  - "not-visible"
-  - protective
-clothing_colors:
-  - l
-  - e
+  - vibrant
+  - muted
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
   - monochrome
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
   - pastel
+  - "not-visible"
+clothing_colors:
+  - red
+  - gold
+  - vibrant
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - gold
-  - i
+  - pastel
   - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - "not-visible"
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
+  - walking
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
-  - holding
-  - c
+  - engaged
+  - confident
   - active
-  - t
-  - i
+  - holding
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
   - "not-visible"
-  - reclined
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - "not-visible"
-  - forward
+  - downward
   - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - focused
-  - p
+  - upward
+  - sideways
+  - forward
   - "not-visible"
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - focused
+  - "close-up"
+  - "not-visible"
 logo_elements: []
 brand_colors: []
 typographies: []

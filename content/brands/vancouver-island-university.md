@@ -2,11 +2,11 @@
 title: Vancouver Island University
 slug: "vancouver-island-university"
 description: ""
-date: "2026-03-05T15:56:45.886970"
+date: "2026-03-05T22:38:39.403170"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -41,15 +41,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
   - primary
+  - symbol
   - icon
+  - horizontal
   - vertical
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "Canadian public university primarily on Vancouver Island, British Columbia, Canada"

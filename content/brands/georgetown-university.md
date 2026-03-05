@@ -2,11 +2,11 @@
 title: Georgetown University
 slug: "georgetown-university"
 description: ""
-date: "2026-03-05T15:56:46.054700"
+date: "2026-03-05T22:38:39.647802"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

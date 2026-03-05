@@ -2,7 +2,7 @@
 title: Waste Free Environment
 slug: "waste-free-environment"
 description: ""
-date: "2026-03-05T15:56:46.090032"
+date: "2026-03-05T22:38:39.710728"
 draft: false
 sectors:
   - ngo
@@ -37,21 +37,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-2915"
-  - "pantone-7406"
-  - green
   - "pantone-376"
-  - yellow
-  - "pantone-354"
   - orange
-  - "pantone-640"
+  - "pantone-2915"
+  - "pantone-354"
+  - yellow
+  - "pantone-7540"
   - black
   - blue
-  - "pantone-7540"
+  - "pantone-640"
   - "pantone-144"
+  - green
+  - "pantone-7406"
 typographies:
   - arial
   - "sans-serif"

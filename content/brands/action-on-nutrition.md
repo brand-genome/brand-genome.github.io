@@ -2,11 +2,11 @@
 title: Action on Nutrition
 slug: "action-on-nutrition"
 description: ""
-date: "2026-03-05T15:56:45.884162"
+date: "2026-03-05T22:38:39.397388"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gray
+  - white
+  - red
   - grey
   - black
   - blue
-  - white
-  - red
+  - gray
 typographies:
   - "open-sans"
 imagery_styles:
-  - gradient
   - bold
-  - graphic
   - photography
+  - gradient
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

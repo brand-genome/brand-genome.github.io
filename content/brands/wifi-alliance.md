@@ -2,11 +2,11 @@
 title: WiFi Alliance
 slug: "wifi-alliance"
 description: ""
-date: "2026-03-05T15:56:45.770737"
+date: "2026-03-05T22:38:39.268344"
 draft: false
 sectors:
-  - networking
   - technology
+  - networking
 regions:
   - usa
 years:

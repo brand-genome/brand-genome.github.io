@@ -2,12 +2,12 @@
 title: Uber
 slug: uber
 description: ""
-date: "2026-03-05T15:56:45.671471"
+date: "2026-03-05T22:38:39.154289"
 draft: false
 sectors:
+  - software
   - "logistics-supply-chain"
   - "ride-sharing"
-  - software
 regions:
   - usa
 years:
@@ -16,9 +16,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - internet
   - app
+  - internet
+  - transport
 industries:
   - "peer-to-peer-ridesharing"
   - "information-technology"
@@ -49,29 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors:
+  - white
+  - red
+  - orange
+  - grey
+  - black
+  - yellow
+  - blue
   - brown
   - green
   - purple
-  - yellow
-  - orange
-  - blue
-  - black
-  - grey
-  - white
-  - red
 typographies:
   - display
 imagery_styles:
-  - artificial
-  - product
   - bold
   - photography
+  - product
+  - artificial
 wikidata_description: "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California"
 has_twitter: false
 has_guidelines: true

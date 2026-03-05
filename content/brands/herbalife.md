@@ -2,11 +2,11 @@
 title: Herbalife
 slug: herbalife
 description: ""
-date: "2026-03-05T15:56:46.214654"
+date: "2026-03-05T22:38:39.950818"
 draft: false
 sectors:
-  - mlm
   - healthcare
+  - mlm
 regions:
   - unknown
 years: []
@@ -24,231 +24,231 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
+  - "centered-composition"
   - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - dark
   - wood
+  - textured
   - blurred
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - social
-  - sky
-  - "still-life"
-  - medical
-  - group
-  - "live-stage"
   - selfie
-  - packaging
-  - interior
-  - candid
-  - typography
-  - botanical
-  - "health-and-fitness"
-  - outdoor
-  - motivational
-  - "incomplete-art"
-  - promotional
-  - food
-  - beauty
-  - health
-  - "graphic-design"
-  - street
-  - landscape
-  - fitness
-  - holiday
-  - comparative
-  - family
-  - text
-  - "food-photography"
-  - portrait
-  - advertisement
-  - illustrative
-  - lifestyle
-  - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
   - "health-and-wellness"
-  - "information-graphic"
-  - underwater
+  - health
+  - landscape
+  - botanical
+  - promotional
+  - outdoor
+  - food
+  - product
+  - illustrative
+  - text
+  - lifestyle
+  - interior
   - illustration
-  - educational
-  - action
+  - "food-photography"
+  - comparative
+  - street
   - advertising
-concepts:
-  - "action-shot"
+  - educational
+  - sports
+  - action
+  - fitness
+  - "live-stage"
+  - group
+  - infographic
+  - architectural
+  - candid
+  - "health-and-fitness"
+  - advertisement
+  - fashion
+  - sky
+  - "text-heavy"
+  - cartoon
+  - underwater
+  - family
   - typography
+  - "graphic-design"
   - "incomplete-art"
+  - portrait
+  - beauty
+  - holiday
+  - "information-graphic"
+  - motivational
+  - medical
+  - "still-life"
+  - packaging
+  - social
+concepts:
+  - informative
+  - "holiday-theme"
+  - "wave-pattern"
+  - "sports-photography"
+  - illustration
+  - vintage
+  - comparative
+  - "motivational-quote"
+  - advertisement
+  - "data-visualization"
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "incomplete-art"
+  - "information-graphic"
   - motivational
   - photorealism
-  - informative
-  - vintage
-  - "graphic-design"
-  - comparative
-  - advertisement
-  - "sports-photography"
-  - cartoon
-  - "holiday-theme"
-  - "text-heavy"
-  - "information-graphic"
-  - "wave-pattern"
-  - illustration
-  - "motivational-quote"
-  - "data-visualization"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
+  - "bright-focal-point"
   - "mid-shot"
-  - "fully-focused-subject"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "text-heavy"
-  - "short-exposure"
+  - "bright-focal-point"
+  - "neutral-density-filter"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "text-heavy"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
+  - white
+  - "off-white"
+  - orange
   - cream
   - cyan
-  - "off-white"
-  - gray
-  - orange
   - black
-  - white
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - neat
-  - long
-  - curly
-  - covered
   - casual
   - flowing
-  - varied
-  - black
-  - short
-  - updo
+  - "pulled-back"
   - red
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
+  - black
   - ponytail
+  - braided
+  - updo
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - active
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
   - active
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
+  - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
   - holding
-  - walking
-  - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
-  - relaxed
-  - contemplative
+  - active
+  - standing
   - running
-  - reclined
+  - stretching
+  - contemplative
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
-  - reclined
+  - midsection
   - "full-back"
+  - "lower-half"
+  - reclined
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

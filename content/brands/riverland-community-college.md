@@ -2,7 +2,7 @@
 title: Riverland Community College
 slug: "riverland-community-college"
 description: ""
-date: "2026-03-05T15:56:45.858514"
+date: "2026-03-05T22:38:39.373272"
 draft: false
 sectors:
   - education
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - logomark
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []

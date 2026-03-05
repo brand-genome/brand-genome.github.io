@@ -2,7 +2,7 @@
 title: The Style Room
 slug: "the-style-room"
 description: ""
-date: "2026-03-05T15:56:45.845610"
+date: "2026-03-05T22:38:39.357478"
 draft: false
 sectors:
   - fashion
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
-  - green
-  - yellow
-  - orange
-  - grey
-  - blue
   - white
   - red
+  - grey
+  - orange
+  - yellow
+  - blue
+  - green
 typographies: []
 imagery_styles:
   - photography
-  - organic
-  - geometric
-  - product
-  - subtle
   - playful
+  - product
+  - geometric
+  - subtle
+  - organic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

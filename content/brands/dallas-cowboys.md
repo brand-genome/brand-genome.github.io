@@ -2,7 +2,7 @@
 title: Dallas Cowboys
 slug: "dallas-cowboys"
 description: ""
-date: "2026-03-05T15:56:45.921266"
+date: "2026-03-05T22:38:39.489174"
 draft: false
 sectors:
   - sports
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
-  - "pantone-14"
-  - green
-  - silver
-  - grey
-  - navy
-  - "pantone-15"
   - "pantone-19"
+  - grey
+  - silver
+  - navy
+  - "pantone-14"
+  - "pantone-15"
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: American football team

@@ -2,11 +2,11 @@
 title: Amazon
 slug: amazon
 description: ""
-date: "2026-03-05T15:56:45.729364"
+date: "2026-03-05T22:38:39.220664"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -17,9 +17,9 @@ tags:
   - corporate
 industries:
   - "web-hosting-service"
-  - "web-service"
-  - "e-commerce"
   - retail
+  - "e-commerce"
+  - "web-service"
 countries:
   - "united-states"
 revenue_buckets:
@@ -31,467 +31,390 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
-  - "framed-image"
-  - "worm-eye-view"
-image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - text
-  - textured
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - "brick-wall"
-  - red
-  - light
-  - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - dark
-  - "bright-colors"
-  - "complementary-colors"
-  - "pastel-colors"
-  - red
-  - vintage
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
-  - light
-  - "inverted-colors"
-  - "sunset-colors"
-  - "aquatic-colors"
-  - "sky-colors"
-photography_genres:
-  - medical
-  - "live-stage"
-  - "science-fiction"
-  - certificate
-  - "album-cover"
-  - outdoor
-  - urban
-  - audience
-  - vintage
-  - news
-  - music
-  - construction
-  - event
-  - "childrens-book"
-  - conference
-  - poster
-  - portrait
-  - product
-  - bridal
-  - reportage
   - "audience-perspective"
-  - "social-media"
-  - fashion
-  - "legal-thriller"
-  - interior
-  - romance
-  - botanical
-  - "incomplete-art"
-  - promotional
-  - food
+  - "altered-perspective"
+  - "centered-composition"
+  - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "framed-image"
+  - "bird-eye-view"
+image_backgrounds:
+  - "background-as-frame"
+  - red
+  - wood
+  - textured
+  - "brick-wall"
+  - text
+  - blurred
+  - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - grayscale
+  - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - "galaxy-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "sunset-colors"
+  - vintage
+  - "inverted-colors"
+  - bright
+  - dark
+  - "aquatic-colors"
+photography_genres:
+  - studio
+  - fantasy
+  - "science-fiction"
+  - thriller
   - landscape
-  - corporate
-  - advertisement
-  - lifestyle
-  - sports
-  - architectural
-  - beach
-  - technical
-  - abstract
-  - map
-  - infographic
-  - sky
-  - "still-life"
-  - group
   - performance
-  - suspense
-  - typography
-  - branding
-  - "event-photography"
+  - promotional
+  - nature
+  - technical
+  - industrial
+  - "digital-art"
+  - "audience-perspective"
+  - advertising
+  - infographic
+  - action
+  - documentary
+  - logo
+  - advertisement
+  - family
+  - conference
+  - "incomplete-art"
+  - "album-cover"
   - celebration
   - historical
-  - "book-cover"
-  - thriller
-  - business
-  - office
-  - travel
-  - fantasy
-  - children
-  - informational
-  - cartoon
-  - mystery
-  - documentary
-  - underwater
-  - illustration
-  - action
-  - pet
-  - advertising
-  - studio
-  - selfie
-  - industrial
-  - commercial
-  - candid
-  - cityscape
-  - staged
-  - beauty
-  - "graphic-design"
-  - "red-carpet"
-  - street
-  - fitness
-  - logo
-  - celebrity
-  - signage
-  - indoor
-  - family
-  - text
-  - "digital-art"
+  - branding
+  - "event-photography"
+  - "still-life"
   - "professional-services"
-  - "sci-fi"
   - outdoors
+  - audience
+  - informational
+  - "book-cover"
+  - suspense
+  - news
+  - product
   - art
-  - nature
-  - "text-heavy"
-  - "industrial-photography"
-  - professional
-  - "text-based"
-concepts:
-  - "live-performance"
-  - "motion-capture"
-  - realism
-  - "live-stage"
+  - interior
+  - sky
+  - bridal
   - typography
+  - "graphic-design"
+  - portrait
+  - staged
+  - business
+  - poster
+  - celebrity
+  - construction
+  - commercial
+  - professional
+  - mystery
+  - beach
+  - food
+  - "industrial-photography"
+  - text
+  - candid
+  - urban
+  - fashion
+  - reportage
+  - corporate
+  - underwater
+  - music
+  - map
+  - office
+  - "sci-fi"
+  - "legal-thriller"
+  - indoor
+  - signage
+  - selfie
+  - botanical
+  - outdoor
+  - "text-based"
+  - lifestyle
+  - abstract
+  - illustration
+  - vintage
+  - street
+  - architectural
+  - sports
+  - fitness
+  - "live-stage"
+  - group
+  - event
+  - cityscape
+  - "text-heavy"
+  - cartoon
+  - children
+  - pet
+  - "red-carpet"
+  - beauty
+  - "social-media"
+  - certificate
+  - "childrens-book"
+  - medical
+  - romance
+  - travel
+concepts:
+  - award
+  - informative
+  - "logo-design"
+  - professional
+  - "wave-pattern"
+  - promotional
+  - sale
+  - illustration
+  - "book-promotion"
+  - vintage
+  - "cut-out"
+  - action
+  - "live-stage"
+  - documentary
+  - textured
+  - advertisement
+  - logo
+  - "data-visualization"
+  - "live-performance"
+  - "text-heavy"
+  - "motion-capture"
+  - cartoon
+  - corporate
+  - typography
+  - "graphic-design"
   - "framed-image"
   - "incomplete-art"
-  - celebration
-  - photorealism
-  - informative
-  - vintage
-  - promotional
-  - certification
-  - "graphic-design"
-  - "book-promotion"
-  - sale
-  - logo
-  - corporate
   - portrait
-  - advertisement
-  - award
-  - cartoon
-  - "text-heavy"
-  - "cut-out"
   - "corporate-branding"
-  - documentary
-  - "wave-pattern"
-  - professional
-  - illustration
   - "point-of-view-shot"
-  - "data-visualization"
-  - "logo-design"
-  - action
+  - celebration
+  - realism
+  - certification
   - "product-display"
-  - textured
   - "book-cover-design"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "focal-point"
-  - "bright-focal-point"
-  - "deep-depth-of-field"
+  - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "dark-focal-point"
+  - "fully-focused-subject"
   - "gaussian-blur"
-  - "dark-focal-point"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "motion-blur"
+  - "deep-depth-of-field"
   - "macro-shot"
-  - "motion-blur"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - vignette
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - symmetric
-  - "vanishing-point"
-  - "dark-focal-point"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - symmetrical
-  - saturated
-  - "high-contrast"
-  - "low-saturation"
-  - "light-glare"
-  - "cut-out"
-  - "motion-blur"
   - vivid
-  - asymmetry
+  - "saturated-colors"
+  - symmetrical
   - "lighting-effect"
+  - symmetric
+  - silhouette
+  - "dark-focal-point"
+  - "cut-out"
+  - "long-exposure"
+  - "light-glare"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
+  - asymmetry
+  - "short-exposure"
+  - saturated
+  - vignette
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - cyan
-  - "dark-blue"
-  - gray
+  - white
   - orange
   - black
-  - white
+  - "dark-blue"
+  - cyan
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - formal
+  - casual
+  - white
+  - blonde
   - flowing
+  - wavy
+  - loose
+  - curled
+  - curls
+  - bearded
   - traditional
-  - l
-  - e
-  - braids
-  - braided
-  - up
+  - gray
+  - updo
   - dark
+  - "tied-back"
+  - uniform
+  - beard
+  - braids
+  - straight
+  - ponytail
   - curly
-  - covered
+  - wet
+  - red
+  - up
+  - "buzz-cut"
+  - braided
+  - pink
+  - short
   - balding
   - varied
-  - curled
-  - down
-  - a
-  - short
-  - red
-  - c
-  - ponytail
-  - neat
-  - wavy
+  - covered
   - "pulled-back"
-  - pink
-  - t
-  - wet
+  - neat
   - bald
-  - i
+  - down
   - black
-  - o
-  - "buzz-cut"
-  - unknown
-  - straight
-  - blonde
-  - b
+  - formal
   - long
-  - n
-  - uniform
-  - casual
-  - gray
-  - p
-  - bearded
-  - white
-  - updo
-  - "tied-back"
-  - curls
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
+  - relaxed
+  - neutral
+  - content
   - determined
+  - excited
   - focused
-  - n
-  - p
+  - contemplative
+  - happy
+  - surprised
 clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - midsection
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - vibrant
-  - cozy
-  - flowy
-  - business
-  - t
-  - i
-  - muted
-  - costume
-  - sports
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - uniform
   - casual
-  - p
-  - protective
-  - simple
-clothing_colors:
-  - l
-  - e
+  - vibrant
+  - beachwear
+  - professional
   - monochrome
-  - pastel
+  - colorful
+  - swimwear
+  - traditional
+  - uniform
+  - flowy
   - neutral
+  - simple
+  - costume
+  - earthy
+  - protective
+  - sports
+  - muted
+  - athletic
+  - "form-fitting"
+  - cozy
+  - pastel
+  - "business-casual"
+  - midsection
+  - business
+  - formal
+  - workwear
+  - comfortable
+clothing_colors:
+  - red
+  - gold
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - gold
-  - i
-  - black
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
   - gray
   - bright
-  - p
+  - pastel
 posings:
-  - comfortable
-  - group
   - seated
-  - confident
-  - l
-  - e
+  - walking
+  - reclined
+  - leaning
   - relaxed
-  - contemplative
+  - dynamic
   - engaged
   - gesturing
-  - leaning
-  - dynamic
-  - a
   - holding
-  - c
   - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
-  - walking
+  - confident
   - standing
-  - b
-  - n
-  - p
-  - reclined
-gazes:
-  - attention
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - "at-the-camera"
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - focused
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
+  - running
+  - stretching
+  - contemplative
+  - static
+  - comfortable
   - group
-  - seated
-  - l
-  - e
-  - relaxed
-  - smiling
+gazes:
   - engaged
-  - dynamic
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - attention
+  - upward
+  - focused
+  - "at-the-camera"
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - smiling
+  - seated
+  - midsection
+  - "lower-half"
   - "full-back"
+  - engaged
+  - "upper-body"
+  - dynamic
+  - relaxed
+  - "full-body"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

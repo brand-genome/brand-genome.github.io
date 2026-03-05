@@ -2,7 +2,7 @@
 title: MetLife
 slug: metlife
 description: ""
-date: "2026-03-05T15:56:45.772713"
+date: "2026-03-05T22:38:39.270517"
 draft: false
 sectors:
   - insurance
@@ -47,9 +47,9 @@ brand_colors:
   - green
 typographies: []
 imagery_styles:
+  - photography
   - landscape
   - portrait
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

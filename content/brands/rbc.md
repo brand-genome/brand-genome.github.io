@@ -2,7 +2,7 @@
 title: Rbc
 slug: rbc
 description: ""
-date: "2026-03-05T15:56:46.262015"
+date: "2026-03-05T22:38:40.035419"
 draft: false
 sectors:
   - finance
@@ -12,9 +12,9 @@ years: []
 languages: []
 tags: []
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - canada
 revenue_buckets: []
@@ -23,212 +23,212 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - cityscape
   - audience
-  - staged
-  - promotional
-  - historical
-  - street
-  - landscape
-  - corporate
-  - event
-  - family
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
-  - documentary
+  - selfie
   - professional
+  - landscape
+  - botanical
+  - promotional
+  - product
   - "text-based"
+  - text
+  - lifestyle
+  - interior
   - abstract
   - "audience-perspective"
-  - action
+  - street
   - advertising
-concepts:
-  - corporate
-  - "corporate-logo"
-  - "incomplete-art"
-  - professional
-  - "wave-pattern"
+  - architectural
+  - sports
+  - action
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
-  - typography
+  - candid
+  - group
+  - documentary
+  - event
+  - sky
+  - advertisement
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - family
+  - portrait
+  - staged
+  - historical
+  - "still-life"
+concepts:
+  - professional
+  - branding
   - cartoon
   - "text-heavy"
-  - branding
+  - illustration
+  - corporate
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "corporate-logo"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - "light-on-subject"
-  - silhouette
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "vanishing-point"
+  - "short-exposure"
+  - "light-on-subject"
 dominant_colors:
-  - "mud-green"
-  - "royal-blue"
-  - "dark-blue"
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
+  - "mud-green"
   - olive
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - "royal-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - "pulled-back"
-  - braided
-  - wavy
-  - neat
-  - long
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
   - bald
-  - gray
-  - short
-  - updo
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
   - straight
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - gray
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - professional
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - dark
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - dark
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - confident
-  - leaning
   - seated
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

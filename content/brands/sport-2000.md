@@ -2,7 +2,7 @@
 title: Sport 2000
 slug: "sport-2000"
 description: ""
-date: "2026-03-05T15:56:46.140855"
+date: "2026-03-05T22:38:39.780695"
 draft: false
 sectors:
   - "consumer-goods"
@@ -44,15 +44,15 @@ logo_elements:
   - signature
   - horizontal
 brand_colors:
-  - gray
+  - white
+  - red
   - grey
   - black
-  - white
+  - gray
   - "pantone-187"
-  - red
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
   - professional
 wikidata_description: European sporting goods retail chain cooperative

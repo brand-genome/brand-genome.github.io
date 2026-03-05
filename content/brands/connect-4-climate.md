@@ -2,7 +2,7 @@
 title: Connect 4 Climate
 slug: "connect-4-climate"
 description: ""
-date: "2026-03-05T15:56:46.076091"
+date: "2026-03-05T22:38:39.690770"
 draft: false
 sectors:
   - ngo
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - green

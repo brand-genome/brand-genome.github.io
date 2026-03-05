@@ -2,11 +2,11 @@
 title: Ice•Land Soda
 slug: "iceland-soda"
 description: ""
-date: "2026-03-05T15:56:45.726207"
+date: "2026-03-05T22:38:39.215829"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - usa
 years:

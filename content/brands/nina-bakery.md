@@ -2,7 +2,7 @@
 title: Nina Bakery
 slug: "nina-bakery"
 description: ""
-date: "2026-03-05T15:56:45.732727"
+date: "2026-03-05T22:38:39.225227"
 draft: false
 sectors:
   - food

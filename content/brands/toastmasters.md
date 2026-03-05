@@ -2,16 +2,16 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-03-05T15:56:45.893917"
+date: "2026-03-05T22:38:39.415355"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
-  - 2015
   - 2021
+  - 2015
 languages:
   - english
 tags:
@@ -41,23 +41,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - alternate
   - primary
+  - secondary
 brand_colors:
-  - "pantone-302"
-  - "pantone-442"
-  - "pantone-1795"
+  - white
   - "pantone-188"
+  - "pantone-302"
+  - "pantone-1795"
   - black
   - "pantone-127"
-  - white
+  - "pantone-442"
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - geometric
   - modern
+  - geometric
 wikidata_description: Nonprofit organization
 has_twitter: false
 has_guidelines: true

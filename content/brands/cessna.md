@@ -2,7 +2,7 @@
 title: Cessna
 slug: cessna
 description: ""
-date: "2026-03-05T15:56:46.078097"
+date: "2026-03-05T22:38:39.691621"
 draft: false
 sectors:
   - aerospace
@@ -15,8 +15,8 @@ languages:
 tags:
   - transport
 industries:
-  - "aerospace-industry"
   - aviation
+  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

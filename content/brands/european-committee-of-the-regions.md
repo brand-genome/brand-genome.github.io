@@ -2,7 +2,7 @@
 title: European Committee of the Regions
 slug: "european-committee-of-the-regions"
 description: ""
-date: "2026-03-05T15:56:45.812836"
+date: "2026-03-05T22:38:39.319025"
 draft: false
 sectors:
   - "public-sector"
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - white
 typographies:
   - display
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

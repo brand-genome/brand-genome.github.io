@@ -2,11 +2,11 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-03-05T15:56:45.803076"
+date: "2026-03-05T22:38:39.311303"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - community
+  - engineering
 industries: []
 countries:
   - "united-states"
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - green
-  - gold
-  - yellow
-  - purple
-  - gray
-  - orange
-  - teal
-  - black
   - white
+  - gold
+  - teal
+  - orange
+  - black
+  - yellow
   - blue
+  - pink
+  - gray
+  - green
+  - purple
 typographies:
   - "open-sans"
   - arial

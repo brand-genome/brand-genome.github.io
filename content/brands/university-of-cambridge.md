@@ -2,11 +2,11 @@
 title: University of Cambridge
 slug: "university-of-cambridge"
 description: ""
-date: "2026-03-05T15:56:46.069502"
+date: "2026-03-05T22:38:39.680989"
 draft: false
 sectors:
-  - university
   - research
+  - university
 regions:
   - "united-kingdom"
 years:

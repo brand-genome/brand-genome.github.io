@@ -2,16 +2,16 @@
 title: USAID
 slug: usaid
 description: ""
-date: "2026-03-05T15:56:45.904543"
+date: "2026-03-05T22:38:39.435097"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - usa
 years:
+  - 2004
   - 2008
   - 2020
-  - 2004
 languages:
   - english
 tags:

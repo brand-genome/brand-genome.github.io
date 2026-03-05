@@ -2,12 +2,12 @@
 title: Next Theme
 slug: "next-theme"
 description: ""
-date: "2026-03-05T15:56:45.885133"
+date: "2026-03-05T22:38:39.399520"
 draft: false
 sectors:
+  - software
   - "marketing-advertising"
   - "design-creative"
-  - software
 regions:
   - "united-kingdom"
 years:
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - clean

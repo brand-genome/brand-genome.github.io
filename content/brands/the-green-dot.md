@@ -2,7 +2,7 @@
 title: The Green Dot
 slug: "the-green-dot"
 description: ""
-date: "2026-03-05T15:56:45.876582"
+date: "2026-03-05T22:38:39.385822"
 draft: false
 sectors:
   - ngo
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - symbol
+  - vertical
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
   - graphic

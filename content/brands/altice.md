@@ -2,7 +2,7 @@
 title: Altice
 slug: altice
 description: ""
-date: "2026-03-05T15:56:45.755651"
+date: "2026-03-05T22:38:39.252413"
 draft: false
 sectors:
   - broadcasting

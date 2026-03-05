@@ -2,11 +2,11 @@
 title: FDA
 slug: fda
 description: ""
-date: "2026-03-05T15:56:46.119647"
+date: "2026-03-05T22:38:39.757665"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - usa
 years:
@@ -39,8 +39,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

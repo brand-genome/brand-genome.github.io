@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-03-05T15:56:46.011751"
+date: "2026-03-05T22:38:39.585229"
 draft: false
 sectors:
   - entertainment
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
+  - secondary
   - alternate
   - wordmark
   - logomark
-  - secondary
-  - primary
-  - icon
 brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - gradient
-  - bold
 wikidata_description: online music streaming service
 has_twitter: false
 has_guidelines: true

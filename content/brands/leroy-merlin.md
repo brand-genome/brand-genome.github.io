@@ -2,7 +2,7 @@
 title: Leroy Merlin
 slug: "leroy-merlin"
 description: ""
-date: "2026-03-05T15:56:45.734674"
+date: "2026-03-05T22:38:39.227490"
 draft: false
 sectors:
   - "consumer-goods"

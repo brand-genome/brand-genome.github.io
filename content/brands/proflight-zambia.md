@@ -2,7 +2,7 @@
 title: Proflight Zambia
 slug: "proflight-zambia"
 description: ""
-date: "2026-03-05T15:56:45.705299"
+date: "2026-03-05T22:38:39.195571"
 draft: false
 sectors:
   - airline

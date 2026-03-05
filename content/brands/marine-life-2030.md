@@ -2,11 +2,11 @@
 title: Marine Life 2030
 slug: "marine-life-2030"
 description: ""
-date: "2026-03-05T15:56:45.815345"
+date: "2026-03-05T22:38:39.321643"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -41,14 +41,14 @@ body_sections: []
 logo_elements:
   - stacked
 brand_colors:
-  - "pantone-7555"
-  - "pantone-631"
   - "pantone-3035"
+  - "pantone-631"
+  - "pantone-7555"
 typographies:
   - montserrat
 imagery_styles:
-  - professional
   - vintage
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

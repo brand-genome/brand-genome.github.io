@@ -2,7 +2,7 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-03-05T15:56:46.088450"
+date: "2026-03-05T22:38:39.709010"
 draft: false
 sectors:
   - ngo
@@ -41,12 +41,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
   - cyan
-  - green
+  - black
   - yellow
   - blue
-  - black
-  - red
+  - green
 typographies: []
 imagery_styles:
   - bold

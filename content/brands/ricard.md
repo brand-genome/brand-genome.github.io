@@ -2,18 +2,18 @@
 title: Ricard
 slug: ricard
 description: ""
-date: "2026-03-05T15:56:45.852022"
+date: "2026-03-05T22:38:39.365348"
 draft: false
 sectors:
   - drink
 regions:
   - france
 years:
-  - 2017
   - 2009
+  - 2017
 languages:
-  - french
   - english
+  - french
 tags:
   - "food-beverage"
 industries: []

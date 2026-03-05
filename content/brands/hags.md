@@ -2,11 +2,11 @@
 title: Hags
 slug: hags
 description: ""
-date: "2026-03-05T15:56:45.941069"
+date: "2026-03-05T22:38:39.510762"
 draft: false
 sectors:
-  - sports
   - construction
+  - sports
 regions:
   - sweden
 years:
@@ -42,22 +42,22 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - green
+  - white
   - red
-  - yellow
-  - beige
   - orange
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - beige
+  - green
 typographies:
   - arial
 imagery_styles:
-  - clean
+  - dramatic
   - contemporary
   - product
-  - dramatic
+  - clean
 wikidata_description: metro station in southern Stockholm
 has_twitter: false
 has_guidelines: true

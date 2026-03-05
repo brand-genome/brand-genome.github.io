@@ -2,11 +2,11 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-03-05T15:56:46.007165"
+date: "2026-03-05T22:38:39.580265"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
   - "arts-culture"
 regions:
   - usa
@@ -42,25 +42,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - gray
-  - orange
-  - black
   - white
   - red
+  - orange
+  - black
+  - gray
 typographies:
-  - arial
-  - gotham
   - impact
-  - helvetica
   - "sans-serif"
+  - gotham
+  - arial
+  - helvetica
 imagery_styles:
+  - bold
   - dynamic
   - clean
   - vibrant
-  - bold
 wikidata_description: American nonprofit organization
 has_twitter: false
 has_guidelines: true

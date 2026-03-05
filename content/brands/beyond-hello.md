@@ -2,11 +2,11 @@
 title: Beyond Hello
 slug: "beyond-hello"
 description: ""
-date: "2026-03-05T15:56:45.719288"
+date: "2026-03-05T22:38:39.209689"
 draft: false
 sectors:
-  - "consumer-goods"
   - healthcare
+  - "consumer-goods"
 regions:
   - usa
 years:

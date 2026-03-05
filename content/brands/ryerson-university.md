@@ -2,11 +2,11 @@
 title: Ryerson University
 slug: "ryerson-university"
 description: ""
-date: "2026-03-05T15:56:45.949751"
+date: "2026-03-05T22:38:39.518756"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -41,8 +41,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
   - blue
@@ -50,8 +50,8 @@ brand_colors:
 typographies:
   - impact
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "public research university located in Toronto, Ontario, Canada"
 has_twitter: false
 has_guidelines: true

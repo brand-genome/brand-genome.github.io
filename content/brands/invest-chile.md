@@ -2,7 +2,7 @@
 title: Invest Chile
 slug: "invest-chile"
 description: ""
-date: "2026-03-05T15:56:45.911097"
+date: "2026-03-05T22:38:39.470719"
 draft: false
 sectors:
   - consulting
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
@@ -49,14 +49,14 @@ typographies:
   - lato
   - display
 imagery_styles:
-  - monochrome
-  - professional
+  - bold
   - photography
+  - graphic
   - dynamic
+  - professional
+  - monochrome
   - static
   - clean
-  - bold
-  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

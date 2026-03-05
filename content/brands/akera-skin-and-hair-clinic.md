@@ -2,7 +2,7 @@
 title: Akera Skin and Hair Clinic
 slug: "akera-skin-and-hair-clinic"
 description: ""
-date: "2026-03-05T15:56:45.750820"
+date: "2026-03-05T22:38:39.250544"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - cosmetics
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

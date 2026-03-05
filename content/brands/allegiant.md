@@ -2,7 +2,7 @@
 title: Allegiant
 slug: allegiant
 description: ""
-date: "2026-03-05T15:56:46.116342"
+date: "2026-03-05T22:38:39.752888"
 draft: false
 sectors:
   - airline

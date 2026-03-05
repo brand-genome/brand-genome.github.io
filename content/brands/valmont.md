@@ -2,12 +2,12 @@
 title: Valmont
 slug: valmont
 description: ""
-date: "2026-03-05T15:56:45.798249"
+date: "2026-03-05T22:38:39.302179"
 draft: false
 sectors:
-  - utilities
-  - horticulture
   - construction
+  - horticulture
+  - utilities
 regions:
   - usa
 years:
@@ -47,11 +47,11 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: Czech company
 has_twitter: false
 has_guidelines: true

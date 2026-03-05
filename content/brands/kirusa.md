@@ -2,11 +2,11 @@
 title: Kirusa
 slug: kirusa
 description: ""
-date: "2026-03-05T15:56:46.079769"
+date: "2026-03-05T22:38:39.697206"
 draft: false
 sectors:
-  - telecom
   - software
+  - telecom
 regions:
   - usa
 years:
@@ -39,20 +39,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - red
-  - yellow
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
-  - verdana
   - arial
   - "proxima-nova"
+  - verdana
 imagery_styles:
   - gradient
   - product

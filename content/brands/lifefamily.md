@@ -2,11 +2,11 @@
 title: LifeFamily
 slug: lifefamily
 description: ""
-date: "2026-03-05T15:56:45.891063"
+date: "2026-03-05T22:38:39.410687"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
   - "childcare-family-services"
 regions:
   - usa
@@ -39,26 +39,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - alternate
+  - secondary
   - horizontal
   - logomark
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - blue
   - white
+  - blue
   - black
   - gray
 typographies:
-  - montserrat
   - impact
   - helvetica
+  - montserrat
 imagery_styles:
-  - candid
   - bold
-  - graphic
   - photography
+  - candid
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

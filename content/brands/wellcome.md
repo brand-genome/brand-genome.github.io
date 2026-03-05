@@ -2,11 +2,11 @@
 title: Wellcome
 slug: wellcome
 description: ""
-date: "2026-03-05T15:56:46.147623"
+date: "2026-03-05T22:38:39.788112"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -45,8 +45,8 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - dynamic
-  - graphic
   - photography
+  - graphic
 wikidata_description: "healthcare research charity based in London, United Kingdom"
 has_twitter: false
 has_guidelines: true

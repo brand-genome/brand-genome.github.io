@@ -2,7 +2,7 @@
 title: SkyUp Airlines
 slug: "skyup-airlines"
 description: ""
-date: "2026-03-05T15:56:45.639833"
+date: "2026-03-05T22:38:39.105394"
 draft: false
 sectors:
   - airline

@@ -2,7 +2,7 @@
 title: IFMSA
 slug: ifmsa
 description: ""
-date: "2026-03-05T15:56:45.854075"
+date: "2026-03-05T22:38:39.367859"
 draft: false
 sectors:
   - ngo
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - symbol
+  - secondary
   - lockup
   - horizontal
-  - symbol
   - wordmark
-  - secondary
-  - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
-  - montserrat
   - arial
   - "sans-serif"
+  - montserrat
 imagery_styles:
   - minimal
   - graphic

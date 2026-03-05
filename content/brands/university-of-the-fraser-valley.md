@@ -2,11 +2,11 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-03-05T15:56:46.098339"
+date: "2026-03-05T22:38:39.719259"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -41,21 +41,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - seal
+  - primary
   - secondary
   - crest
-  - primary
+  - wordmark
   - vertical
 brand_colors:
   - black
 typographies:
   - serif
-  - roboto
   - "sans-serif"
-  - "open-sans"
-  - display
   - playfair
+  - "open-sans"
+  - roboto
+  - display
 imagery_styles:
   - bold
   - graphic

@@ -2,7 +2,7 @@
 title: Kremenchuk City
 slug: "kremenchuk-city"
 description: ""
-date: "2026-03-05T15:56:45.697602"
+date: "2026-03-05T22:38:39.189398"
 draft: false
 sectors:
   - "public-sector"

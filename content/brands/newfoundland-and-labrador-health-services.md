@@ -2,11 +2,11 @@
 title: Newfoundland and Labrador Health Services
 slug: "newfoundland-and-labrador-health-services"
 description: ""
-date: "2026-03-05T15:56:45.657938"
+date: "2026-03-05T22:38:39.125427"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - canada
 years:

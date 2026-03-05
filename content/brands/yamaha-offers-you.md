@@ -2,7 +2,7 @@
 title: Yamaha Offers You
 slug: "yamaha-offers-you"
 description: ""
-date: "2026-03-05T15:56:46.126313"
+date: "2026-03-05T22:38:39.765929"
 draft: false
 sectors:
   - insurance
@@ -40,10 +40,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - black
   - white
   - red
+  - grey
+  - black
 typographies:
   - ubuntu
 imagery_styles:

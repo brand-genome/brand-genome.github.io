@@ -2,7 +2,7 @@
 title: Gaumont
 slug: gaumont
 description: ""
-date: "2026-03-05T15:56:46.089060"
+date: "2026-03-05T22:38:39.709681"
 draft: false
 sectors:
   - entertainment
@@ -15,10 +15,10 @@ languages:
 tags:
   - cultural
 industries:
-  - "film-industry"
+  - "media-industry"
   - "motion-picture-video-and-television-programme-activities"
   - "film-production-for-the-cinema"
-  - "media-industry"
+  - "film-industry"
 countries:
   - france
 revenue_buckets: []
@@ -44,8 +44,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
   - "pantone-186"
 typographies:
   - "gill-sans"

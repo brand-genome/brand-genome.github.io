@@ -2,12 +2,12 @@
 title: New Breed
 slug: "new-breed"
 description: ""
-date: "2026-03-05T15:56:45.749991"
+date: "2026-03-05T22:38:39.248664"
 draft: false
 sectors:
-  - "marketing-advertising"
   - consulting
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -40,26 +40,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - logomark
-  - seal
-  - secondary
   - stacked
-  - primary
+  - logomark
 brand_colors:
   - blue
-  - black
   - red
+  - black
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
   - photography
-  - illustration
-  - natural
-  - candid
   - graphic
+  - illustration
+  - candid
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Pioneer Foods
 slug: "pioneer-foods"
 description: ""
-date: "2026-03-05T15:56:46.010871"
+date: "2026-03-05T22:38:39.584366"
 draft: false
 sectors:
   - food
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - signature
+  - secondary
 brand_colors:
+  - white
   - "pantone-129"
   - black
-  - white
 typographies: []
 imagery_styles:
   - photography

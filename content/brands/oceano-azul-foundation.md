@@ -2,7 +2,7 @@
 title: Oceano Azul Foundation
 slug: "oceano-azul-foundation"
 description: ""
-date: "2026-03-05T15:56:45.674557"
+date: "2026-03-05T22:38:39.162566"
 draft: false
 sectors:
   - ngo
@@ -39,10 +39,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
   - blue

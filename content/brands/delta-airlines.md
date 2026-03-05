@@ -2,7 +2,7 @@
 title: Delta Airlines
 slug: "delta-airlines"
 description: ""
-date: "2026-03-05T15:56:45.662314"
+date: "2026-03-05T22:38:39.129001"
 draft: false
 sectors:
   - airline
@@ -17,8 +17,8 @@ tags:
   - airline
   - aeronautic
 industries:
-  - "air-transport"
   - aviation
+  - "air-transport"
 countries:
   - "united-states"
 revenue_buckets:

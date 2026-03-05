@@ -2,7 +2,7 @@
 title: Thunes
 slug: thunes
 description: ""
-date: "2026-03-05T15:56:45.611524"
+date: "2026-03-05T22:38:39.083519"
 draft: false
 sectors:
   - finance
@@ -40,21 +40,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
   - white
+  - grey
   - green
 typographies:
   - serif
 imagery_styles:
-  - professional
   - photography
-  - minimal
-  - dynamic
-  - gradient
   - vibrant
+  - dynamic
+  - professional
+  - minimal
+  - gradient
 wikidata_description: "Singapore-based financial technology company"
 has_twitter: false
 has_guidelines: true

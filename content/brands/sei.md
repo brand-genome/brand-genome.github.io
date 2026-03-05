@@ -2,11 +2,11 @@
 title: SEI
 slug: sei
 description: ""
-date: "2026-03-05T15:56:46.100166"
+date: "2026-03-05T22:38:39.722814"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - sweden
 years:

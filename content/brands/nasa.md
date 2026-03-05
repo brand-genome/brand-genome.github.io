@@ -2,7 +2,7 @@
 title: Nasa
 slug: nasa
 description: ""
-date: "2026-03-05T15:56:45.641890"
+date: "2026-03-05T22:38:39.106630"
 draft: false
 sectors:
   - "public-sector"
@@ -11,14 +11,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2006
   - 2009
   - 1976
+  - 2006
 languages:
   - english
 tags:
-  - featured
   - vintage
+  - featured
   - aeronautic
 industries:
   - "public-sector"
@@ -52,12 +52,12 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - professional
+  - bold
   - photography
+  - graphic
+  - professional
   - gradient
   - clean
-  - bold
-  - graphic
 wikidata_description: American space and aeronautics agency
 has_twitter: false
 has_guidelines: true

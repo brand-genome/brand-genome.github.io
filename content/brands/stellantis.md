@@ -2,7 +2,7 @@
 title: Stellantis
 slug: stellantis
 description: ""
-date: "2026-03-05T15:56:45.883188"
+date: "2026-03-05T22:38:39.395863"
 draft: false
 sectors:
   - automobile
@@ -44,8 +44,8 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
-  - blue
   - white
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: "Franco-Italian-American multinational automotive manufacturer"

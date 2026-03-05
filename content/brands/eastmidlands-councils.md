@@ -2,7 +2,7 @@
 title: EastMidlands Councils
 slug: "eastmidlands-councils"
 description: ""
-date: "2026-03-05T15:56:46.099817"
+date: "2026-03-05T22:38:39.722432"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - regional
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,11 +40,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - magenta
+  - black
   - cyan
   - yellow
-  - black
-  - white
 typographies:
   - arial
 imagery_styles:

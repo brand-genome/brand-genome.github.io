@@ -2,11 +2,11 @@
 title: Jamie Oliver
 slug: "jamie-oliver"
 description: ""
-date: "2026-03-05T15:56:46.050307"
+date: "2026-03-05T22:38:39.641508"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
   - publishing
   - "consumer-goods"
 regions:
@@ -47,8 +47,8 @@ typographies:
   - futura
 imagery_styles:
   - dynamic
-  - product
   - photography
+  - product
 wikidata_description: production company
 has_twitter: false
 has_guidelines: true

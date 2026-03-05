@@ -2,11 +2,11 @@
 title: BrandLective
 slug: brandlective
 description: ""
-date: "2026-03-05T15:56:46.025801"
+date: "2026-03-05T22:38:39.593510"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-relations"
+  - "marketing-advertising"
 regions:
   - "united-kingdom"
 years:
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - roboto
 imagery_styles:

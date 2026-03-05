@@ -2,7 +2,7 @@
 title: Amazon Smile
 slug: "amazon-smile"
 description: ""
-date: "2026-03-05T15:56:45.916110"
+date: "2026-03-05T22:38:39.481474"
 draft: false
 sectors:
   - ngo
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - stacked
-  - horizontal
+  - lockup
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

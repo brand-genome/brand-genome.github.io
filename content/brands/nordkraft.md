@@ -2,7 +2,7 @@
 title: Nordkraft
 slug: nordkraft
 description: ""
-date: "2026-03-05T15:56:45.979433"
+date: "2026-03-05T22:38:39.555252"
 draft: false
 sectors:
   - "renewable-energy"
@@ -16,8 +16,8 @@ languages:
 tags:
   - engineering
 industries:
-  - "energy-company"
   - "network-operator"
+  - "energy-company"
   - "electricity-generation"
 countries:
   - norway

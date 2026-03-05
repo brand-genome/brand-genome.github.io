@@ -2,12 +2,12 @@
 title: NVidia
 slug: nvidia
 description: ""
-date: "2026-03-05T15:56:46.152144"
+date: "2026-03-05T22:38:39.792093"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -43,8 +43,8 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - din
   - trebuchet
+  - din
 imagery_styles:
   - bold
 wikidata_description: parallel computing platform and programming model

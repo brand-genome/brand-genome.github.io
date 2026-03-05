@@ -2,7 +2,7 @@
 title: UCSI University
 slug: "ucsi-university"
 description: ""
-date: "2026-03-05T15:56:45.927733"
+date: "2026-03-05T22:38:39.503863"
 draft: false
 sectors:
   - university
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - signature
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - signature
 brand_colors:
-  - red
-  - black
   - white
+  - red
   - orange
+  - black
 typographies:
+  - roboto
   - "open-sans"
   - arial
-  - roboto
 imagery_styles:
   - bold
   - duotone

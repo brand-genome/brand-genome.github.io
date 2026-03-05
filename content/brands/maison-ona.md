@@ -2,7 +2,7 @@
 title: Maison ONA
 slug: "maison-ona"
 description: ""
-date: "2026-03-05T15:56:46.138607"
+date: "2026-03-05T22:38:39.778728"
 draft: false
 sectors:
   - "arts-culture"
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - music
-  - art
   - edition
+  - art
 industries: []
 countries: []
 revenue_buckets: []
@@ -42,14 +42,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
   - futura
   - garamond
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
   - natural
 wikidata_description: ""
 has_twitter: false

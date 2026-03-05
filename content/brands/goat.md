@@ -2,7 +2,7 @@
 title: Goat
 slug: goat
 description: ""
-date: "2026-03-05T15:56:46.085303"
+date: "2026-03-05T22:38:39.706034"
 draft: false
 sectors:
   - food
@@ -37,28 +37,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - green
+  - white
   - red
-  - gray
   - orange
   - grey
   - black
-  - white
   - blue
+  - gray
+  - green
 typographies:
-  - montserrat
   - serif
+  - montserrat
 imagery_styles:
-  - modern
-  - photography
-  - gradient
-  - geometric
   - bold
+  - photography
   - graphic
+  - geometric
+  - gradient
+  - modern
 wikidata_description: Swedish band
 has_twitter: false
 has_guidelines: true

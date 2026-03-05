@@ -2,7 +2,7 @@
 title: Marvin
 slug: marvin
 description: ""
-date: "2026-03-05T15:56:45.892251"
+date: "2026-03-05T22:38:39.411916"
 draft: false
 sectors:
   - construction
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - construction
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,11 +38,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles: []

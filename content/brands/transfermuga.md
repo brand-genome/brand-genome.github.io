@@ -2,7 +2,7 @@
 title: Transfermuga
 slug: transfermuga
 description: ""
-date: "2026-03-05T15:56:45.888851"
+date: "2026-03-05T22:38:39.408315"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

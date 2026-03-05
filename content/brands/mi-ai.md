@@ -2,7 +2,7 @@
 title: Mi AI
 slug: "mi-ai"
 description: ""
-date: "2026-03-05T15:56:45.719095"
+date: "2026-03-05T22:38:39.209461"
 draft: false
 sectors:
   - software

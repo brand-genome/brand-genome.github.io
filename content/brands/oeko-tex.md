@@ -2,7 +2,7 @@
 title: "Oeko-Tex"
 slug: "oeko-tex"
 description: ""
-date: "2026-03-05T15:56:45.699668"
+date: "2026-03-05T22:38:39.191980"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

@@ -2,7 +2,7 @@
 title: Northern Illinois University
 slug: "northern-illinois-university"
 description: ""
-date: "2026-03-05T15:56:45.840433"
+date: "2026-03-05T22:38:39.351075"
 draft: false
 sectors:
   - university
@@ -39,15 +39,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors: []
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
   - photography
 wikidata_description: "public university in DeKalb, Illinois, United States"

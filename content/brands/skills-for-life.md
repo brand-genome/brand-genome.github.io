@@ -2,11 +2,11 @@
 title: Skills for Life
 slug: "skills-for-life"
 description: ""
-date: "2026-03-05T15:56:45.789139"
+date: "2026-03-05T22:38:39.290900"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -40,34 +40,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
-  - primary
   - horizontal
+  - primary
+  - stacked
 brand_colors:
-  - pink
-  - green
-  - "pantone-183"
-  - "pantone-3275"
-  - "pantone-285"
-  - "pantone-347"
-  - purple
-  - yellow
-  - red
-  - teal
-  - black
-  - navy
   - white
-  - "pantone-294"
-  - blue
   - violet
+  - "pantone-294"
   - "pantone-108"
+  - teal
+  - red
+  - "pantone-3275"
+  - "pantone-347"
+  - "pantone-285"
+  - "pantone-183"
+  - black
+  - yellow
+  - blue
+  - pink
+  - navy
+  - green
+  - purple
 typographies:
   - nunito
 imagery_styles:
-  - clean
-  - modern
   - bold
   - photography
+  - clean
+  - modern
 wikidata_description: UK multi academy trust
 has_twitter: false
 has_guidelines: true

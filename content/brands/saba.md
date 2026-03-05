@@ -2,7 +2,7 @@
 title: Saba
 slug: saba
 description: ""
-date: "2026-03-05T15:56:46.133914"
+date: "2026-03-05T22:38:39.774497"
 draft: false
 sectors:
   - "public-transportation"
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - black
   - white
-  - "pantone-3272"
   - orange
+  - "pantone-3272"
+  - black
 typographies: []
 imagery_styles:
   - bold

@@ -2,11 +2,11 @@
 title: Inter Cars
 slug: "inter-cars"
 description: ""
-date: "2026-03-05T15:56:46.090834"
+date: "2026-03-05T22:38:39.711649"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
   - "e-commerce"
 regions:
   - poland

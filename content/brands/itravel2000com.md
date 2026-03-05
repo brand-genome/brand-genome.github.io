@@ -2,11 +2,11 @@
 title: iTravel2000.com
 slug: itravel2000com
 description: ""
-date: "2026-03-05T15:56:46.141092"
+date: "2026-03-05T22:38:39.782335"
 draft: false
 sectors:
-  - tourism
   - "e-commerce"
+  - tourism
 regions:
   - canada
 years:
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-172"
-  - "pantone-137"
-  - "pantone-7545"
-  - orange
-  - "pantone-298"
   - white
+  - "pantone-172"
+  - orange
   - blue
+  - "pantone-298"
+  - "pantone-137"
   - "pantone-422"
+  - "pantone-7545"
 typographies:
-  - arial
-  - slab
   - script
+  - slab
+  - arial
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

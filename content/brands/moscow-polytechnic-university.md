@@ -2,7 +2,7 @@
 title: Moscow Polytechnic University
 slug: "moscow-polytechnic-university"
 description: ""
-date: "2026-03-05T15:56:45.795423"
+date: "2026-03-05T22:38:39.299204"
 draft: false
 sectors:
   - university
@@ -17,9 +17,9 @@ tags:
   - university
 industries: []
 countries:
+  - russia
   - "russian-empire"
   - "soviet-union"
-  - russia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

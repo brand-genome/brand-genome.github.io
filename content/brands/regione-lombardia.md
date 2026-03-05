@@ -2,7 +2,7 @@
 title: Regione Lombardia
 slug: "regione-lombardia"
 description: ""
-date: "2026-03-05T15:56:45.898102"
+date: "2026-03-05T22:38:39.421008"
 draft: false
 sectors:
   - "public-sector"
@@ -37,11 +37,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - white
   - "pantone-356"
+  - white
   - green
 typographies:
   - arial

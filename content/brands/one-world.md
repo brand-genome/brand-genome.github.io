@@ -2,7 +2,7 @@
 title: One World
 slug: "one-world"
 description: ""
-date: "2026-03-05T15:56:45.957609"
+date: "2026-03-05T22:38:39.523169"
 draft: false
 sectors:
   - airline
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-298"
-  - blue
   - "pantone-2735"
+  - blue
+  - "pantone-298"
 typographies:
   - helvetica
 imagery_styles:

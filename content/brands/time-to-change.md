@@ -2,7 +2,7 @@
 title: Time To Change
 slug: "time-to-change"
 description: ""
-date: "2026-03-05T15:56:45.937422"
+date: "2026-03-05T22:38:39.507420"
 draft: false
 sectors:
   - ngo

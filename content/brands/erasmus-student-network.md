@@ -2,11 +2,11 @@
 title: Erasmus Student Network
 slug: "erasmus-student-network"
 description: ""
-date: "2026-03-05T15:56:46.101729"
+date: "2026-03-05T22:38:39.725268"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -41,17 +41,17 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - pink
-  - magenta
-  - cyan
-  - green
-  - "pantone-166"
-  - orange
-  - grey
-  - black
   - white
+  - magenta
+  - grey
+  - orange
+  - black
+  - cyan
   - blue
+  - "pantone-166"
   - "pantone-368"
+  - pink
+  - green
 typographies: []
 imagery_styles:
   - monochrome

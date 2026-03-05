@@ -2,7 +2,7 @@
 title: "Université de Paris-Dauphine"
 slug: "universite-de-paris-dauphine"
 description: ""
-date: "2026-03-05T15:56:46.175757"
+date: "2026-03-05T22:38:39.818413"
 draft: false
 sectors:
   - university
@@ -40,16 +40,16 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - "pantone-285"
-  - black
   - white
-  - "pantone-540"
+  - black
   - blue
+  - "pantone-540"
+  - "pantone-285"
 typographies:
   - optima
 imagery_styles:
-  - monochrome
   - modern
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-03-05T15:56:46.117642"
+date: "2026-03-05T22:38:39.754605"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - russia
 revenue_buckets: []
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
+  - white
+  - red
+  - grey
+  - black
   - yellow
   - silver
   - gray
-  - grey
-  - black
-  - white
-  - red
 typographies:
-  - verdana
   - serif
+  - verdana
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: telecommunications brand initially introduced in 1993 in Russia
 has_twitter: false
 has_guidelines: true

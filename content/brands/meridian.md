@@ -2,11 +2,11 @@
 title: Meridian
 slug: meridian
 description: ""
-date: "2026-03-05T15:56:45.873486"
+date: "2026-03-05T22:38:39.384956"
 draft: false
 sectors:
-  - electronics
   - "consumer-goods"
+  - electronics
 regions:
   - "united-kingdom"
 years:
@@ -40,18 +40,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
-  - clean
   - contemporary
   - professional
+  - clean
 wikidata_description: "performing arts building in Toronto, Ontario, Canada"
 has_twitter: false
 has_guidelines: true

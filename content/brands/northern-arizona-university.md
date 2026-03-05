@@ -2,11 +2,11 @@
 title: Northern Arizona University
 slug: "northern-arizona-university"
 description: ""
-date: "2026-03-05T15:56:45.958885"
+date: "2026-03-05T22:38:39.523870"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - alternate
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
 brand_colors:
-  - gold
-  - black
   - white
-  - blue
+  - gold
   - "pantone-281"
+  - black
+  - blue
 typographies:
   - roboto
 imagery_styles:

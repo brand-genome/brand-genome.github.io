@@ -2,7 +2,7 @@
 title: Mc Delivery
 slug: "mc-delivery"
 description: ""
-date: "2026-03-05T15:56:45.922006"
+date: "2026-03-05T22:38:39.491239"
 draft: false
 sectors:
   - restaurant
@@ -38,10 +38,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - secondary
-  - primary
   - emblem
+  - primary
+  - secondary
+  - wordmark
 brand_colors: []
 typographies: []
 imagery_styles: []

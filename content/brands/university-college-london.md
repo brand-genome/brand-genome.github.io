@@ -2,23 +2,23 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-03-05T15:56:45.725025"
+date: "2026-03-05T22:38:39.214939"
 draft: false
 sectors:
   - university
 regions:
   - "united-kingdom"
 years:
-  - 2017
-  - 2024
   - 2021
+  - 2024
+  - 2017
 languages:
   - english
 tags:
   - education
   - featured
-  - signage
   - university
+  - signage
 industries: []
 countries:
   - "united-kingdom"
@@ -43,22 +43,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-199"
+  - white
   - red
+  - "pantone-199"
+  - "pantone-5815"
+  - black
+  - blue
+  - "pantone-550"
   - green
   - purple
-  - "pantone-550"
-  - black
-  - "pantone-5815"
-  - white
-  - blue
 typographies:
   - arial
-  - garamond
   - helvetica
+  - garamond
 imagery_styles:
   - photography
 wikidata_description: "public research university in London, England, United Kingdom"

@@ -2,11 +2,11 @@
 title: Simplify
 slug: simplify
 description: ""
-date: "2026-03-05T15:56:45.900379"
+date: "2026-03-05T22:38:39.424565"
 draft: false
 sectors:
-  - consulting
   - education
+  - consulting
 regions:
   - italy
 years:

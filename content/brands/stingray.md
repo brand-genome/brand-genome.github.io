@@ -2,11 +2,11 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-03-05T15:56:46.104387"
+date: "2026-03-05T22:38:39.730527"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - broadcast
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -43,9 +43,9 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles:
   - bold

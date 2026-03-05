@@ -2,7 +2,7 @@
 title: Higher Colleges of Technology
 slug: "higher-colleges-of-technology"
 description: ""
-date: "2026-03-05T15:56:46.026430"
+date: "2026-03-05T22:38:39.594062"
 draft: false
 sectors:
   - university
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - stacked
-  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - times
   - arial
+  - times
   - helvetica
 imagery_styles:
   - bold

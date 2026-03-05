@@ -2,7 +2,7 @@
 title: Federația Română de Fotbal
 slug: "federatia-romana-de-fotbal"
 description: ""
-date: "2026-03-05T15:56:45.793890"
+date: "2026-03-05T22:38:39.297266"
 draft: false
 sectors:
   - sports
@@ -39,12 +39,12 @@ body_sections: []
 logo_elements:
   - wordmark
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - display
 imagery_styles:

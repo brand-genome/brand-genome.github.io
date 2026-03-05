@@ -2,7 +2,7 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-03-05T15:56:45.771846"
+date: "2026-03-05T22:38:39.269582"
 draft: false
 sectors:
   - ngo

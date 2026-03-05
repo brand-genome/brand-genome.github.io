@@ -2,11 +2,11 @@
 title: Les Crous
 slug: "les-crous"
 description: ""
-date: "2026-03-05T15:56:46.138854"
+date: "2026-03-05T22:38:39.778910"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -40,9 +40,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors: []
 typographies: []
 imagery_styles:

@@ -2,11 +2,11 @@
 title: DOF
 slug: dof
 description: ""
-date: "2026-03-05T15:56:46.105803"
+date: "2026-03-05T22:38:39.733171"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "maritime-shipping"
+  - "logistics-supply-chain"
 regions:
   - norway
 years:
@@ -44,11 +44,11 @@ typographies:
   - serif
   - arial
 imagery_styles:
+  - bold
   - photography
+  - product
   - minimal
   - portrait
-  - product
-  - bold
 wikidata_description: national executive department of the Philippines
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: SAS
 slug: sas
 description: ""
-date: "2026-03-05T15:56:45.858816"
+date: "2026-03-05T22:38:39.373634"
 draft: false
 sectors:
   - software
@@ -46,8 +46,8 @@ brand_colors:
 typographies:
   - avenir
 imagery_styles:
-  - geometric
   - photography
+  - geometric
 wikidata_description: American analytics and artificial intelligence company
 has_twitter: false
 has_guidelines: true

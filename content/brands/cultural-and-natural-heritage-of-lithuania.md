@@ -2,7 +2,7 @@
 title: Cultural and Natural Heritage of Lithuania
 slug: "cultural-and-natural-heritage-of-lithuania"
 description: ""
-date: "2026-03-05T15:56:45.850349"
+date: "2026-03-05T22:38:39.363265"
 draft: false
 sectors:
   - "public-sector"
@@ -42,18 +42,18 @@ logo_elements:
   - wordmark
   - secondary
 brand_colors:
-  - green
-  - gray
+  - white
   - grey
   - black
-  - white
+  - gray
+  - green
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

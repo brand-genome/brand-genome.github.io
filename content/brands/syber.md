@@ -2,12 +2,12 @@
 title: Syber
 slug: syber
 description: ""
-date: "2026-03-05T15:56:45.903382"
+date: "2026-03-05T22:38:39.433968"
 draft: false
 sectors:
-  - hardware
-  - entertainment
   - electronics
+  - entertainment
+  - hardware
 regions:
   - usa
 years:
@@ -39,12 +39,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - grey
   - white
+  - grey
   - orange
 typographies:
   - din

@@ -2,7 +2,7 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-03-05T15:56:45.998928"
+date: "2026-03-05T22:38:39.572417"
 draft: false
 sectors:
   - "consumer-goods"
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - corporate
-  - featured
   - shopping
+  - featured
+  - corporate
 industries:
   - "retail-chain"
 countries:
@@ -46,20 +46,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - black
+  - blue
+  - turquoise
   - green
   - purple
-  - black
-  - turquoise
-  - blue
 typographies:
   - arial
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: British multinational retailer
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: World Scouts
 slug: "world-scouts"
 description: ""
-date: "2026-03-05T15:56:46.004508"
+date: "2026-03-05T22:38:39.577575"
 draft: false
 sectors:
   - ngo

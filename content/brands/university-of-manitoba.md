@@ -2,11 +2,11 @@
 title: University of Manitoba
 slug: "university-of-manitoba"
 description: ""
-date: "2026-03-05T15:56:45.733417"
+date: "2026-03-05T22:38:39.226063"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:

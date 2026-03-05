@@ -2,7 +2,7 @@
 title: Fonepay
 slug: fonepay
 description: ""
-date: "2026-03-05T15:56:45.673118"
+date: "2026-03-05T22:38:39.155863"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - app
+  - financial
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
   - red
+  - black
 typographies:
-  - "century-gothic"
-  - poppins
   - serif
-  - garamond
   - "sans-serif"
+  - garamond
+  - poppins
+  - "century-gothic"
 imagery_styles:
-  - modern
-  - professional
-  - minimal
-  - illustration
-  - lifestyle
-  - product
-  - clean
   - bold
+  - product
+  - professional
+  - lifestyle
+  - illustration
+  - minimal
+  - modern
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

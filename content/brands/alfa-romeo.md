@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-03-05T15:56:46.091243"
+date: "2026-03-05T22:38:39.712174"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -40,20 +40,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - emblem
+  - vertical
 brand_colors:
-  - "pantone-201"
   - white
   - black
   - red
+  - "pantone-201"
 typographies: []
 imagery_styles:
-  - monochrome
-  - modern
   - photography
-  - gradient
   - graphic
+  - monochrome
+  - gradient
+  - modern
 wikidata_description: Italian automotive company
 has_twitter: false
 has_guidelines: true

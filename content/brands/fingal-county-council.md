@@ -2,7 +2,7 @@
 title: Fingal County Council
 slug: "fingal-county-council"
 description: ""
-date: "2026-03-05T15:56:45.857184"
+date: "2026-03-05T22:38:39.371670"
 draft: false
 sectors:
   - "public-sector"
@@ -41,8 +41,8 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
   - purple
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: part of the 1999 Irish local elections

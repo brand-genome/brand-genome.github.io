@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-03-05T15:56:45.801511"
+date: "2026-03-05T22:38:39.307876"
 draft: false
 sectors:
   - food
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
   - blue

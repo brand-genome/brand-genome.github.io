@@ -2,7 +2,7 @@
 title: International Pediatric Association
 slug: "international-pediatric-association"
 description: ""
-date: "2026-03-05T15:56:46.042170"
+date: "2026-03-05T22:38:39.613082"
 draft: false
 sectors:
   - ngo
@@ -39,13 +39,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - turquoise
   - white
+  - turquoise
+  - black
 typographies:
-  - verdana
   - impact
   - avenir
+  - verdana
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

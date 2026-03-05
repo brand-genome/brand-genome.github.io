@@ -2,11 +2,11 @@
 title: Nintendo Switch
 slug: "nintendo-switch"
 description: ""
-date: "2026-03-05T15:56:45.687538"
+date: "2026-03-05T22:38:39.180941"
 draft: false
 sectors:
-  - hardware
   - gaming
+  - hardware
 regions:
   - japan
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []

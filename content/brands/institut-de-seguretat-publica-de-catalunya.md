@@ -2,11 +2,11 @@
 title: Institut de Seguretat Pública de Catalunya
 slug: "institut-de-seguretat-publica-de-catalunya"
 description: ""
-date: "2026-03-05T15:56:45.699762"
+date: "2026-03-05T22:38:39.192065"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - spain
 years:

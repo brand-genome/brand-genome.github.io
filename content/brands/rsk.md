@@ -2,7 +2,7 @@
 title: RSK
 slug: rsk
 description: ""
-date: "2026-03-05T15:56:46.036843"
+date: "2026-03-05T22:38:39.605628"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -16,8 +16,8 @@ languages:
 tags:
   - engineering
 industries:
-  - "aerospace-industry"
   - "weapons-industry"
+  - "aerospace-industry"
   - "defense-industry"
 countries: []
 revenue_buckets:

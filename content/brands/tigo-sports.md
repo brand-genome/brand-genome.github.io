@@ -2,11 +2,11 @@
 title: Tigo Sports
 slug: "tigo-sports"
 description: ""
-date: "2026-03-05T15:56:46.092305"
+date: "2026-03-05T22:38:39.713483"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - paraguay
 years:

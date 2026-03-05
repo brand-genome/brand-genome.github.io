@@ -2,7 +2,7 @@
 title: Piemonte
 slug: piemonte
 description: ""
-date: "2026-03-05T15:56:46.129366"
+date: "2026-03-05T22:38:39.769257"
 draft: false
 sectors:
   - "public-sector"

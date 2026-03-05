@@ -2,7 +2,7 @@
 title: The Touch Union
 slug: "the-touch-union"
 description: ""
-date: "2026-03-05T15:56:45.830053"
+date: "2026-03-05T22:38:39.335530"
 draft: false
 sectors:
   - sports

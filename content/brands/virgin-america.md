@@ -2,7 +2,7 @@
 title: Virgin America
 slug: "virgin-america"
 description: ""
-date: "2026-03-05T15:56:46.173376"
+date: "2026-03-05T22:38:39.815555"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - wordmark
-  - secondary
   - stacked
-  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - bold
+  - playful
   - colorful
   - landscape
   - clean
-  - bold
-  - playful
 wikidata_description: airline in the United States
 has_twitter: false
 has_guidelines: true

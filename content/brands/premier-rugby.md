@@ -2,7 +2,7 @@
 title: Premier Rugby
 slug: "premier-rugby"
 description: ""
-date: "2026-03-05T15:56:46.090390"
+date: "2026-03-05T22:38:39.711117"
 draft: false
 sectors:
   - sports
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
   - primary
   - badge
+  - secondary
+  - horizontal
   - vertical
 brand_colors:
   - red
   - gold
-  - purple
   - green
+  - purple
 typographies: []
 imagery_styles:
   - bold

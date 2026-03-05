@@ -2,7 +2,7 @@
 title: Labour party UKGeneral Election
 slug: "labour-party-ukgeneral-election"
 description: ""
-date: "2026-03-05T15:56:45.734001"
+date: "2026-03-05T22:38:39.226856"
 draft: false
 sectors:
   - "public-sector"

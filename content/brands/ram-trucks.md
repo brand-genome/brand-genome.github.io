@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-03-05T15:56:45.825585"
+date: "2026-03-05T22:38:39.332300"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -42,15 +42,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - badge
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - product
   - bold
+  - product
   - graphic
 wikidata_description: "American brand of light to mid-weight commercial vehicles"
 has_twitter: false

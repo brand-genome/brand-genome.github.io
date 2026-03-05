@@ -2,11 +2,11 @@
 title: Capital Invest Construction
 slug: "capital-invest-construction"
 description: ""
-date: "2026-03-05T15:56:45.771227"
+date: "2026-03-05T22:38:39.268934"
 draft: false
 sectors:
-  - "real-estate"
   - construction
+  - "real-estate"
 regions:
   - kazakhstan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - "real-estate"
   - construction
+  - "real-estate"
 industries: []
 countries: []
 revenue_buckets: []

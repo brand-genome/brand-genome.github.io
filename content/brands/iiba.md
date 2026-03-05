@@ -2,11 +2,11 @@
 title: IIBA
 slug: iiba
 description: ""
-date: "2026-03-05T15:56:46.105924"
+date: "2026-03-05T22:38:39.733312"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:
@@ -41,8 +41,8 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - montserrat
   - roboto
+  - montserrat
 imagery_styles:
   - professional
 wikidata_description: organization

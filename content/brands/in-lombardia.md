@@ -2,7 +2,7 @@
 title: in Lombardia
 slug: "in-lombardia"
 description: ""
-date: "2026-03-05T15:56:45.913763"
+date: "2026-03-05T22:38:39.475512"
 draft: false
 sectors:
   - tourism
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - "pantone-349"
   - green
+  - black
 typographies:
   - lato
 imagery_styles:

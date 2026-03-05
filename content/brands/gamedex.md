@@ -2,7 +2,7 @@
 title: Gamedex
 slug: gamedex
 description: ""
-date: "2026-03-05T15:56:46.085999"
+date: "2026-03-05T22:38:39.706777"
 draft: false
 sectors:
   - "blockchain-crypto"

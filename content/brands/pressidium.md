@@ -2,7 +2,7 @@
 title: Pressidium
 slug: pressidium
 description: ""
-date: "2026-03-05T15:56:45.821324"
+date: "2026-03-05T22:38:39.328328"
 draft: false
 sectors:
   - software
@@ -37,10 +37,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - horizontal
-  - secondary
   - primary
+  - icon
+  - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies:

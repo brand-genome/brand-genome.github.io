@@ -2,7 +2,7 @@
 title: ATNS
 slug: atns
 description: ""
-date: "2026-03-05T15:56:46.120534"
+date: "2026-03-05T22:38:39.758729"
 draft: false
 sectors:
   - "public-sector"
@@ -39,26 +39,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
+  - primary
   - secondary
   - stacked
-  - primary
-  - horizontal
 brand_colors:
-  - "pantone-200"
-  - "pantone-430"
-  - gray
+  - "pantone-7546"
+  - "pantone-294"
+  - "pantone-2945"
   - grey
   - black
-  - "pantone-2945"
-  - "pantone-136"
-  - "pantone-294"
-  - "pantone-7546"
   - blue
+  - "pantone-430"
+  - gray
+  - "pantone-200"
   - "pantone-307"
+  - "pantone-136"
 typographies:
-  - din
   - impact
   - arial
+  - din
 imagery_styles:
   - landscape
   - product

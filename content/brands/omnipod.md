@@ -2,7 +2,7 @@
 title: Omnipod
 slug: omnipod
 description: ""
-date: "2026-03-05T15:56:45.813034"
+date: "2026-03-05T22:38:39.319290"
 draft: false
 sectors:
   - healthcare
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - wordmark
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles:
   - bold
-  - natural
   - photography
+  - natural
 wikidata_description: clinical trial
 has_twitter: false
 has_guidelines: true

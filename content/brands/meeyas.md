@@ -2,7 +2,7 @@
 title: Meeyas
 slug: meeyas
 description: ""
-date: "2026-03-05T15:56:45.694956"
+date: "2026-03-05T22:38:39.185911"
 draft: false
 sectors:
   - jewellery
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - helvetica

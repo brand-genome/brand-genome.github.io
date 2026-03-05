@@ -2,11 +2,11 @@
 title: Shchusev Museum of Architecture
 slug: "shchusev-museum-of-architecture"
 description: ""
-date: "2026-03-05T15:56:45.765662"
+date: "2026-03-05T22:38:39.263380"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
   - architecture
 regions:
   - russia

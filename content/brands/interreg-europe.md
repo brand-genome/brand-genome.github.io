@@ -2,7 +2,7 @@
 title: Interreg Europe
 slug: "interreg-europe"
 description: ""
-date: "2026-03-05T15:56:46.037807"
+date: "2026-03-05T22:38:39.606563"
 draft: false
 sectors:
   - "public-sector"
@@ -40,8 +40,8 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - montserrat
   - "open-sans"
+  - montserrat
 imagery_styles:
   - photography
 wikidata_description: ""

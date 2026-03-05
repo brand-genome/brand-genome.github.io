@@ -2,7 +2,7 @@
 title: "University of Asia & the Pacific"
 slug: "university-of-asia-the-pacific"
 description: ""
-date: "2026-03-05T15:56:45.768250"
+date: "2026-03-05T22:38:39.265483"
 draft: false
 sectors:
   - university

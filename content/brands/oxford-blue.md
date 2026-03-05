@@ -2,11 +2,11 @@
 title: Oxford Blue
 slug: "oxford-blue"
 description: ""
-date: "2026-03-05T15:56:45.843693"
+date: "2026-03-05T22:38:39.355289"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -39,22 +39,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-291"
   - blue
-  - "pantone-279"
+  - "pantone-291"
   - "pantone-282"
+  - "pantone-279"
 typographies:
   - serif
-  - display
   - arial
   - "sans-serif"
+  - display
 imagery_styles:
   - bold
-  - professional
   - photography
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

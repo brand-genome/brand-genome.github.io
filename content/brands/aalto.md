@@ -2,11 +2,11 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-03-05T15:56:46.100327"
+date: "2026-03-05T22:38:39.723043"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - finland
 years:
@@ -49,9 +49,9 @@ typographies:
   - arial
   - helvetica
 imagery_styles:
+  - bold
   - dynamic
   - clean
-  - bold
 wikidata_description: Finnish university
 has_twitter: false
 has_guidelines: true

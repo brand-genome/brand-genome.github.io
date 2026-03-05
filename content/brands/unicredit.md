@@ -2,23 +2,23 @@
 title: UniCredit
 slug: unicredit
 description: ""
-date: "2026-03-05T15:56:46.040905"
+date: "2026-03-05T22:38:39.611865"
 draft: false
 sectors:
   - finance
 regions:
   - italy
 years:
-  - 2008
   - 2010
+  - 2008
 languages:
   - english
 tags:
   - financial
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - italy
 revenue_buckets: []
@@ -42,16 +42,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - magenta
-  - gold
-  - yellow
-  - silver
-  - black
-  - "pantone-485"
   - red
+  - gold
+  - magenta
+  - black
+  - yellow
+  - "pantone-485"
+  - silver
 typographies:
   - arial
 imagery_styles:

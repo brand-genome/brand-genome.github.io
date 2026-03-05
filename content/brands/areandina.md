@@ -2,11 +2,11 @@
 title: Areandina
 slug: areandina
 description: ""
-date: "2026-03-05T15:56:45.938022"
+date: "2026-03-05T22:38:39.508183"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -40,8 +40,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

@@ -2,7 +2,7 @@
 title: ITF Beach Tennis
 slug: "itf-beach-tennis"
 description: ""
-date: "2026-03-05T15:56:45.920052"
+date: "2026-03-05T22:38:39.487804"
 draft: false
 sectors:
   - sports
@@ -39,20 +39,20 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - coral
 typographies:
   - inter
 imagery_styles:
-  - photography
-  - aerial
-  - natural
-  - lifestyle
-  - dramatic
-  - vibrant
   - bold
+  - photography
+  - vibrant
+  - lifestyle
+  - aerial
+  - dramatic
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

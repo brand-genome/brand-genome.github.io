@@ -2,7 +2,7 @@
 title: Chivas 18
 slug: "chivas-18"
 description: ""
-date: "2026-03-05T15:56:46.011433"
+date: "2026-03-05T22:38:39.584994"
 draft: false
 sectors:
   - drink
@@ -39,12 +39,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-873"
-  - cyan
-  - gold
-  - "pantone-2755"
-  - black
   - white
+  - gold
+  - "pantone-873"
+  - black
+  - cyan
+  - "pantone-2755"
   - blue
   - "pantone-2736"
 typographies:

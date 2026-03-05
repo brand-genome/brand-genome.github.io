@@ -2,7 +2,7 @@
 title: Hilliard City Schools
 slug: "hilliard-city-schools"
 description: ""
-date: "2026-03-05T15:56:46.147416"
+date: "2026-03-05T22:38:39.787912"
 draft: false
 sectors:
   - education
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
   - "pantone-382"
 typographies:
   - gotham
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

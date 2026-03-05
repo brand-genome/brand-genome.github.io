@@ -2,11 +2,11 @@
 title: Yelp
 slug: yelp
 description: ""
-date: "2026-03-05T15:56:46.161925"
+date: "2026-03-05T22:38:39.802363"
 draft: false
 sectors:
-  - "e-commerce"
   - "social-media"
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - "app-icon"
   - lockup
   - horizontal
-  - "app-icon"
-  - primary
   - vertical
 brand_colors:
-  - grey
   - red
+  - grey
   - black
 typographies:
   - avenir

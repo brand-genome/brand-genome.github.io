@@ -2,7 +2,7 @@
 title: Deerfield Academy
 slug: "deerfield-academy"
 description: ""
-date: "2026-03-05T15:56:45.862931"
+date: "2026-03-05T22:38:39.377803"
 draft: false
 sectors:
   - education

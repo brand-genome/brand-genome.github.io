@@ -2,12 +2,12 @@
 title: "Bang & Olufsen"
 slug: "bang-olufsen"
 description: ""
-date: "2026-03-05T15:56:45.719787"
+date: "2026-03-05T22:38:39.210197"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - denmark
 years:
@@ -16,8 +16,8 @@ languages:
   - english
 tags:
   - featured
-  - music
   - technology
+  - music
 industries:
   - electronics
 countries:

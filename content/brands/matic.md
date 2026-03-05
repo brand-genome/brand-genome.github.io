@@ -2,12 +2,12 @@
 title: Matic
 slug: matic
 description: ""
-date: "2026-03-05T15:56:45.995401"
+date: "2026-03-05T22:38:39.570639"
 draft: false
 sectors:
   - insurance
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
   - wordmark
   - logomark
-  - secondary
-  - primary
   - vertical
 brand_colors:
   - blue

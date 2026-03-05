@@ -2,7 +2,7 @@
 title: Windows Live
 slug: "windows-live"
 description: ""
-date: "2026-03-05T15:56:46.025909"
+date: "2026-03-05T22:38:39.593611"
 draft: false
 sectors:
   - software
@@ -37,28 +37,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - green
-  - yellow
-  - blue
-  - black
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - green
 typographies:
   - script
 imagery_styles:
-  - photography
-  - natural
-  - gradient
-  - product
-  - static
   - bold
+  - photography
+  - product
   - graphic
+  - gradient
+  - static
+  - natural
 wikidata_description: cloud storage and file synchronization service from Microsoft
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Morgan State University
 slug: "morgan-state-university"
 description: ""
-date: "2026-03-05T15:56:45.998734"
+date: "2026-03-05T22:38:39.572236"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -42,16 +42,16 @@ body_sections: []
 logo_elements:
   - mascot
 brand_colors:
-  - "pantone-1655"
-  - brown
-  - gold
+  - white
   - "pantone-728"
+  - gold
   - orange
   - black
-  - "pantone-136"
-  - white
   - blue
+  - "pantone-1655"
+  - brown
   - "pantone-288"
+  - "pantone-136"
 typographies:
   - futura
 imagery_styles:

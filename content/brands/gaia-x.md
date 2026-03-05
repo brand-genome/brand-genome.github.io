@@ -2,7 +2,7 @@
 title: "Gaia-X"
 slug: "gaia-x"
 description: ""
-date: "2026-03-05T15:56:45.796003"
+date: "2026-03-05T22:38:39.299966"
 draft: false
 sectors:
   - software
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - turquoise

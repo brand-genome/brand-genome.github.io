@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-03-05T15:56:46.044061"
+date: "2026-03-05T22:38:39.615347"
 draft: false
 sectors:
-  - education
-  - ngo
   - research
-  - "arts-culture"
+  - ngo
+  - education
   - "public-sector"
+  - "arts-culture"
 regions:
   - international
 years:
@@ -42,14 +42,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - vertical
   - emblem
+  - secondary
   - symbol
+  - vertical
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "specialised agency of the United Nations for education, sciences, and culture"

@@ -2,7 +2,7 @@
 title: EL PAcCTO
 slug: "el-paccto"
 description: ""
-date: "2026-03-05T15:56:45.868496"
+date: "2026-03-05T22:38:39.383473"
 draft: false
 sectors:
   - "public-sector"
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-7739"
-  - "pantone-1797"
   - "pantone-534"
+  - "pantone-1797"
+  - "pantone-7739"
   - "pantone-115"
 typographies:
-  - din
   - arial
+  - din
 imagery_styles:
   - bold
 wikidata_description: ""

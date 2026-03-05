@@ -2,7 +2,7 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-03-05T15:56:46.014735"
+date: "2026-03-05T22:38:39.590567"
 draft: false
 sectors:
   - food
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies: []
 imagery_styles:
   - bold

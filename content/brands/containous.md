@@ -2,11 +2,11 @@
 title: Containous
 slug: containous
 description: ""
-date: "2026-03-05T15:56:46.004614"
+date: "2026-03-05T22:38:39.577688"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
-  - logomark
-  - stacked
   - primary
   - icon
+  - lockup
+  - horizontal
+  - stacked
+  - logomark
 brand_colors: []
 typographies: []
 imagery_styles: []

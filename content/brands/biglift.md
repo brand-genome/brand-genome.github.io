@@ -2,11 +2,11 @@
 title: BigLift
 slug: biglift
 description: ""
-date: "2026-03-05T15:56:45.824071"
+date: "2026-03-05T22:38:39.330740"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "maritime-shipping"
+  - "logistics-supply-chain"
 regions:
   - netherlands
 years:
@@ -40,12 +40,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - yellow
 typographies:
   - arial

@@ -2,12 +2,12 @@
 title: Lyft
 slug: lyft
 description: ""
-date: "2026-03-05T15:56:46.058992"
+date: "2026-03-05T22:38:39.656014"
 draft: false
 sectors:
+  - software
   - "car-rental"
   - "ride-sharing"
-  - software
 regions:
   - usa
 years:
@@ -28,197 +28,197 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
+  - selfie
+  - landscape
+  - botanical
+  - food
+  - product
+  - text
+  - illustration
+  - interior
+  - abstract
+  - "audience-perspective"
+  - street
+  - advertising
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - candid
-  - botanical
-  - staged
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - family
-  - text
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - "text-heavy"
-  - architectural
   - documentary
-  - abstract
-  - illustration
-  - "audience-perspective"
-  - action
-  - advertising
+  - logo
+  - fashion
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - family
+  - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - pink
-  - cyan
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - cyan
+  - black
   - "dark-brown"
+  - "dark-blue"
   - "light-blue"
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - long
-  - ponytail
-  - dark
-  - curly
-  - casual
   - flowing
-  - covered
-  - varied
-  - short
-  - updo
-  - "tied-back"
-  - neat
-facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - joyful
-  - contemplative
-  - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - "form-fitting"
-  - formal
   - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
+  - "pulled-back"
+  - varied
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - long
+  - curly
+  - updo
+  - short
   - dark
-  - earthy
-  - muted
-  - colorful
+  - "tied-back"
+  - covered
+facial_expressions:
+  - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - professional
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - dark
+  - pastel
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - reclined
-  - confident
   - leaning
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - walking
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - engaged
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - engaged
+  - midsection
   - "full-back"
+  - "lower-half"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

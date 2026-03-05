@@ -2,11 +2,11 @@
 title: Skako
 slug: skako
 description: ""
-date: "2026-03-05T15:56:45.693137"
+date: "2026-03-05T22:38:39.183118"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - denmark
 years:
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - blue
-  - black
   - white
+  - blue
+  - grey
+  - black
 typographies:
   - arial
   - helvetica

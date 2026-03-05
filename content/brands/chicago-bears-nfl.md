@@ -2,7 +2,7 @@
 title: Chicago Bears – NFL
 slug: "chicago-bears-nfl"
 description: ""
-date: "2026-03-05T15:56:46.172437"
+date: "2026-03-05T22:38:39.814667"
 draft: false
 sectors:
   - sports
@@ -37,15 +37,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-1665"
-  - "pantone-5395"
+  - white
   - orange
   - black
-  - white
   - blue
+  - "pantone-5395"
+  - "pantone-1665"
 typographies: []
 imagery_styles: []
 wikidata_description: ""

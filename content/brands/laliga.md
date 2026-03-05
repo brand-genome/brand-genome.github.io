@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-03-05T15:56:45.955444"
+date: "2026-03-05T22:38:39.521076"
 draft: false
 sectors:
   - sports
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - seal
   - primary
   - vertical
-  - seal
+  - horizontal
 brand_colors:
   - white
 typographies:
   - impact
   - arial
 imagery_styles:
+  - bold
+  - graphic
   - monochrome
   - lifestyle
   - subtle
-  - bold
-  - graphic
 wikidata_description: "men's top professional football division of the Spanish football league system"
 has_twitter: false
 has_guidelines: true

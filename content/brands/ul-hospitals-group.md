@@ -2,11 +2,11 @@
 title: UL Hospitals Group
 slug: "ul-hospitals-group"
 description: ""
-date: "2026-03-05T15:56:45.902743"
+date: "2026-03-05T22:38:39.433206"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - ireland
 years:

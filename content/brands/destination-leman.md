@@ -2,7 +2,7 @@
 title: Destination Leman
 slug: "destination-leman"
 description: ""
-date: "2026-03-05T15:56:45.858406"
+date: "2026-03-05T22:38:39.373087"
 draft: false
 sectors:
   - tourism
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - green
+  - black
 typographies:
   - script
   - "sans-serif"
 imagery_styles:
   - photography
-  - natural
-  - lifestyle
-  - geometric
   - graphic
+  - geometric
+  - lifestyle
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Grain Foods Foundation
 slug: "grain-foods-foundation"
 description: ""
-date: "2026-03-05T15:56:45.878490"
+date: "2026-03-05T22:38:39.388383"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - usa
 years:
@@ -38,16 +38,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - horizontal
   - symbol
+  - horizontal
+  - secondary
 brand_colors:
-  - gold
-  - "pantone-7408"
   - "pantone-7568"
-  - black
   - red
+  - gold
+  - black
+  - "pantone-7408"
   - "pantone-7597"
 typographies:
   - din

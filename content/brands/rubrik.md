@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-03-05T15:56:45.650240"
+date: "2026-03-05T22:38:39.118340"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - security
-  - software
   - technology
+  - software
+  - security
 industries:
+  - "computer-security"
+  - "software-industry"
   - "computer-storage-media"
   - "computer-hardware-industry"
-  - "software-industry"
-  - "computer-security"
 countries:
   - "united-states"
 revenue_buckets:

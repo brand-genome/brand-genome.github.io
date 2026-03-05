@@ -2,7 +2,7 @@
 title: Fatboy
 slug: fatboy
 description: ""
-date: "2026-03-05T15:56:45.717650"
+date: "2026-03-05T22:38:39.207760"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years: []
 languages:
   - english
 tags:
-  - design
   - featured
+  - design
 industries: []
 countries: []
 revenue_buckets: []

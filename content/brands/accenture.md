@@ -2,7 +2,7 @@
 title: Accenture
 slug: accenture
 description: ""
-date: "2026-03-05T15:56:46.210994"
+date: "2026-03-05T22:38:39.942945"
 draft: false
 sectors:
   - consulting
@@ -26,307 +26,230 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - pattern
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - environmental
-  - interior
-  - candid
-  - typography
-  - botanical
-  - cityscape
-  - staged
-  - "event-announcement"
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - business
-  - event
-  - conceptual
-  - text
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - "text-heavy"
-  - architectural
   - professional
-  - documentary
+  - conceptual
+  - landscape
+  - botanical
+  - food
+  - product
+  - environmental
+  - "event-announcement"
+  - text
   - abstract
   - illustration
-  - action
+  - interior
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - professional
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - infographic
+  - action
+  - "live-stage"
+  - group
+  - candid
+  - documentary
+  - logo
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - cityscape
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - business
+  - "still-life"
+concepts:
   - "logo-design"
+  - advertising
+  - professional
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
-  - advertising
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - purple
-  - "dark-blue"
-  - "off-white"
-  - gray
-  - black
   - white
-  - lavender
+  - "off-white"
   - violet
+  - "dark-blue"
+  - black
+  - lavender
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - "red-hair"
-  - flowing
-  - "red-beard"
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - "long-hair"
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - t
-  - "curly-hair"
-  - "facial-hair"
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - "long-beard"
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - "red-hair"
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - "curly-hair"
+  - straight
+  - ponytail
+  - "long-beard"
+  - curly
+  - "red-beard"
   - "full-beard"
+  - braided
+  - short
+  - varied
+  - covered
+  - "long-hair"
+  - "pulled-back"
+  - neat
+  - bald
+  - long
+  - "facial-hair"
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - n
-  - focused
-  - i
-  - content
-  - p
-  - l
-  - a
-  - e
-  - contemplative
-  - o
-  - unknown
-  - c
-  - relaxed
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
   - casual
-  - p
-  - "safety-gear"
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
   - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "safety-gear"
+  - "business-casual"
 clothing_colors:
   - "safety-colors"
-  - l
-  - e
-  - monochrome
+  - vibrant
   - pastel
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - subdued
-  - b
-  - n
   - bright
-  - p
   - "high-visibility"
+  - muted
+  - subdued
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - l
-  - e
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - t
-  - "close-up"
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

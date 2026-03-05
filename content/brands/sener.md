@@ -2,14 +2,14 @@
 title: Sener
 slug: sener
 description: ""
-date: "2026-03-05T15:56:46.135989"
+date: "2026-03-05T22:38:39.776275"
 draft: false
 sectors:
-  - "renewable-energy"
   - consulting
-  - defense
   - "space-technology"
+  - defense
   - construction
+  - "renewable-energy"
 regions:
   - spain
 years:

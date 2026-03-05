@@ -2,11 +2,11 @@
 title: Nohooh
 slug: nohooh
 description: ""
-date: "2026-03-05T15:56:46.155755"
+date: "2026-03-05T22:38:39.795544"
 draft: false
 sectors:
-  - beauty
   - cosmetics
+  - beauty
 regions:
   - monaco
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - health
   - cosmetics
+  - health
 industries: []
 countries: []
 revenue_buckets: []

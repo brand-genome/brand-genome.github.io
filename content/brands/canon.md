@@ -2,22 +2,22 @@
 title: Canon
 slug: canon
 description: ""
-date: "2026-03-05T15:56:45.736602"
+date: "2026-03-05T22:38:39.228634"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
-  - japan
   - singapore
+  - japan
 years:
   - 2017
   - 2015
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -41,23 +41,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
-  - green
-  - yellow
-  - grey
-  - black
-  - blue
   - white
   - red
+  - grey
+  - black
+  - yellow
+  - blue
+  - pink
+  - green
 typographies:
   - "century-gothic"
   - gotham
 imagery_styles:
-  - landscape
   - bold
+  - landscape
   - professional
   - portrait
 wikidata_description: corporate brand of Canon Inc.

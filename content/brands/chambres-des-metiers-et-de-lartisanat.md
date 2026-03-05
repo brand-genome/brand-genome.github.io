@@ -2,11 +2,11 @@
 title: Chambres des métiers et de l’artisanat
 slug: "chambres-des-metiers-et-de-lartisanat"
 description: ""
-date: "2026-03-05T15:56:46.012078"
+date: "2026-03-05T22:38:39.585535"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

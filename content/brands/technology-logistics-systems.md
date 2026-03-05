@@ -2,7 +2,7 @@
 title: Technology Logistics Systems
 slug: "technology-logistics-systems"
 description: ""
-date: "2026-03-05T15:56:45.903842"
+date: "2026-03-05T22:38:39.434392"
 draft: false
 sectors:
   - "logistics-supply-chain"

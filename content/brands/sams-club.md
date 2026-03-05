@@ -2,7 +2,7 @@
 title: Sam’s Club
 slug: "sams-club"
 description: ""
-date: "2026-03-05T15:56:45.822703"
+date: "2026-03-05T22:38:39.329128"
 draft: false
 sectors:
   - "consumer-goods"
@@ -43,9 +43,9 @@ logo_elements:
   - symbol
 brand_colors:
   - "pantone-430"
-  - blue
-  - "pantone-427"
   - "pantone-638"
+  - "pantone-427"
+  - blue
 typographies: []
 imagery_styles:
   - bold

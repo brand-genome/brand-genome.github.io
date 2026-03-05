@@ -2,11 +2,11 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-03-05T15:56:45.850776"
+date: "2026-03-05T22:38:39.363807"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - singapore
 years:

@@ -2,26 +2,26 @@
 title: Nokia
 slug: nokia
 description: ""
-date: "2026-03-05T15:56:46.196773"
+date: "2026-03-05T22:38:39.903226"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - telecom
   - software
+  - electronics
+  - hardware
 regions:
   - unknown
 years: []
 languages: []
 tags: []
 industries:
-  - "computer-network"
-  - "international-standard-industrial-classification"
-  - "electrical-appliance"
-  - "electrical-industry"
-  - "telecommunications-device"
   - "networking-hardware"
+  - "electrical-industry"
+  - "international-standard-industrial-classification"
+  - "telecommunications-device"
+  - "electrical-appliance"
   - telecommunications
+  - "computer-network"
 countries:
   - finland
 revenue_buckets:
@@ -32,399 +32,322 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - studio
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "altered-perspective"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
+  - studio
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
+  - textured
+  - text
+  - blurred
   - transparent
-  - bright
+  - solid
+  - "text-heavy"
+  - light
   - blue
   - gradient
+  - pattern
+  - bright
+  - dark
   - brick
-  - light
-  - "text-heavy"
-  - textured
-  - solid
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - advertising
-  - infographic
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - environmental
-  - interior
-  - industrial
-  - commercial
-  - candid
-  - typography
-  - branding
-  - botanical
-  - "event-photography"
-  - comedy
-  - cityscape
-  - urban
   - audience
-  - outdoor
-  - space
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - vintage
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - news
-  - logo
-  - corporate
-  - event
-  - wildlife
-  - business
-  - conceptual
-  - "food-photography"
-  - family
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - architecture
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - cartoon
-  - architectural
-  - headshot
+  - selfie
+  - commercial
   - professional
-  - documentary
+  - conceptual
+  - news
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - outdoor
+  - food
+  - product
+  - environmental
   - technical
-  - underwater
+  - industrial
+  - "corporate-event"
+  - text
   - abstract
   - illustration
+  - "food-photography"
   - "audience-perspective"
-  - "corporate-event"
-  - map
-  - "data-visualization"
-  - action
-  - technology
-concepts:
-  - "motion-capture"
-  - "live-stage"
-  - "live-event"
-  - "professional-headshot"
-  - promotion
-  - "data-representation"
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - informative
+  - interior
   - vintage
-  - promotional
-  - "product-placement"
-  - "graphic-design"
-  - logo
-  - corporate
-  - photography
-  - advertisement
-  - lifestyle
-  - informational
-  - "product-promotion"
-  - product
-  - cartoon
-  - sports
-  - "text-heavy"
-  - "corporate-branding"
-  - "advertisement-design"
-  - "wave-pattern"
-  - professional
-  - illustration
-  - "infographic-design"
-  - "social-media"
-  - "corporate-announcement"
-  - "pie-chart"
-  - "product-display"
-  - textured
+  - architecture
+  - street
   - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "radial-blur"
-  - "isolated-focal-point"
-  - "bright-focal-point"
-  - "high-contrast"
-  - "gaussian-blur"
-  - "dark-focal-point"
-  - "macro-shot"
-  - "motion-blur"
-image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "sharp-focus"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
-  - "radial-blur"
-  - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - architectural
+  - comedy
+  - action
+  - "live-stage"
+  - infographic
+  - group
+  - documentary
+  - candid
+  - headshot
+  - urban
+  - sports
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - event
+  - "data-visualization"
+  - cityscape
   - "text-heavy"
+  - underwater
+  - corporate
+  - cartoon
+  - amateur
+  - family
+  - typography
+  - "graphic-design"
+  - space
+  - wildlife
+  - portrait
+  - beauty
+  - map
+  - staged
+  - business
+  - historical
+  - branding
+  - "event-photography"
+  - technology
+  - "still-life"
+  - travel
+  - crowd
+concepts:
+  - "infographic-design"
+  - informative
+  - "product-placement"
+  - professional
+  - "pie-chart"
+  - informational
+  - "wave-pattern"
+  - promotional
+  - product
+  - lifestyle
+  - illustration
+  - vintage
+  - advertising
+  - sports
+  - "live-event"
+  - "live-stage"
+  - "advertisement-design"
+  - textured
+  - advertisement
+  - logo
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - "motion-capture"
+  - typography
+  - "graphic-design"
+  - "corporate-announcement"
+  - "professional-headshot"
+  - "incomplete-art"
+  - "corporate-branding"
+  - photography
+  - branding
+  - "social-media"
+  - "product-promotion"
+  - "data-representation"
+  - "product-display"
+  - photorealism
+  - promotion
+depths:
+  - "bokeh-effect"
+  - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "high-contrast"
+  - "dark-focal-point"
+  - "fully-focused-subject"
+  - "gaussian-blur"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "radial-blur"
+  - "macro-shot"
+image_effects:
+  - symmetrical
+  - "gaussian-blur"
+  - silhouette
+  - "sharp-focus"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
+  - "high-contrast"
+  - "text-heavy"
+  - "motion-capture"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "motion-blur"
+  - "vanishing-point"
+  - "radial-blur"
+  - "negative-space"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - "dark-green"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "dark-green"
+  - black
+  - "dark-blue"
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - l
-  - e
-  - braided
-  - up
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - i
-  - bald
-  - black
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - traditional
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - up
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - confident
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
-  - neutral
   - engaged
-  - a
-  - c
-  - excited
-  - active
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - n
-  - focused
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - workwear
-  - colorful
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - professional
-  - n
-  - casual
-  - p
-  - jacket
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - orange
+  - active
+  - content
+  - excited
+  - focused
+  - contemplative
+  - surprised
+  - confident
+clothing_styles:
+  - casual
+  - jacket
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - professional
+  - relaxed
+  - costume
+  - protective
+  - formal
+  - swimwear
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - subtle
-  - soft
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - subdued
-  - b
-  - n
-  - p
+  - traditional
+  - workwear
+  - comfortable
+  - "business-casual"
+clothing_colors:
   - white
+  - red
+  - soft
+  - vibrant
+  - neutral
+  - orange
+  - monochrome
+  - earthy
+  - colorful
+  - subtle
+  - pastel
+  - muted
+  - subdued
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - walking
   - holding
-  - c
   - active
-  - t
   - pointing
-  - i
+  - standing
+  - running
+  - focused
   - stretching
   - static
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - focused
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - "at-screen"
-  - t
-  - upward
   - away
-  - "at-the-camera"
-  - i
-  - inward
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - inward
+  - upward
   - focused
-  - p
+  - "at-the-camera"
+  - "at-screen"
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

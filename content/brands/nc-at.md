@@ -2,11 +2,11 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-03-05T15:56:45.932643"
+date: "2026-03-05T22:38:39.506482"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -40,9 +40,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
   - blue
   - gold

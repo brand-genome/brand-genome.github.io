@@ -2,11 +2,11 @@
 title: Cal Maritime
 slug: "cal-maritime"
 description: ""
-date: "2026-03-05T15:56:45.864065"
+date: "2026-03-05T22:38:39.378660"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -39,22 +39,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
+  - seal
   - primary
   - vertical
-  - seal
+  - stacked
 brand_colors:
-  - gold
-  - gray
-  - blue
-  - black
-  - navy
   - white
   - red
+  - gold
+  - black
+  - blue
+  - gray
+  - navy
 typographies:
   - optima
-  - garamond
   - helvetica
+  - garamond
 imagery_styles:
   - bold
   - graphic

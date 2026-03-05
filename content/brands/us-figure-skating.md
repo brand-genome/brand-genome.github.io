@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-03-05T15:56:45.954564"
+date: "2026-03-05T22:38:39.520790"
 draft: false
 sectors:
   - sports
@@ -42,25 +42,25 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - green
-  - "pantone-367"
+  - white
   - red
+  - "pantone-304"
+  - "pantone-123"
+  - "pantone-367"
+  - black
   - yellow
+  - "pantone-485"
+  - blue
   - "pantone-428"
   - gray
-  - black
-  - white
-  - "pantone-485"
-  - "pantone-304"
   - "pantone-275"
-  - blue
-  - "pantone-123"
+  - green
 typographies:
-  - montserrat
   - gotham
+  - montserrat
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: national governing body for figure skating
 has_twitter: false
 has_guidelines: true

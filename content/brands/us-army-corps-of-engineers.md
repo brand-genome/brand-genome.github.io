@@ -2,7 +2,7 @@
 title: US Army Corps of Engineers
 slug: "us-army-corps-of-engineers"
 description: ""
-date: "2026-03-05T15:56:45.879819"
+date: "2026-03-05T22:38:39.389608"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - engineering
-  - featured
   - vintage
+  - featured
+  - engineering
   - military
 industries: []
 countries:
@@ -44,10 +44,10 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
-  - gray
   - red
+  - black
+  - gray
 typographies:
   - helvetica
 imagery_styles: []

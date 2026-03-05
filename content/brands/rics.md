@@ -2,11 +2,11 @@
 title: RICS
 slug: rics
 description: ""
-date: "2026-03-05T15:56:46.048005"
+date: "2026-03-05T22:38:39.639683"
 draft: false
 sectors:
-  - "public-sector"
   - construction
+  - "public-sector"
 regions:
   - international
 years:

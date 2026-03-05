@@ -2,7 +2,7 @@
 title: European Commission
 slug: "european-commission"
 description: ""
-date: "2026-03-05T15:56:45.812399"
+date: "2026-03-05T22:38:39.318561"
 draft: false
 sectors:
   - "public-sector"

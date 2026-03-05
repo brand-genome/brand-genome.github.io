@@ -2,7 +2,7 @@
 title: Luz Para Todos
 slug: "luz-para-todos"
 description: ""
-date: "2026-03-05T15:56:45.652048"
+date: "2026-03-05T22:38:39.119636"
 draft: false
 sectors:
   - "public-sector"

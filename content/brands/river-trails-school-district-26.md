@@ -2,7 +2,7 @@
 title: River Trails School District 26
 slug: "river-trails-school-district-26"
 description: ""
-date: "2026-03-05T15:56:45.788878"
+date: "2026-03-05T22:38:39.290724"
 draft: false
 sectors:
   - education
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - green
+  - black
 typographies:
   - roboto
 imagery_styles:
+  - bold
   - professional
   - artificial
-  - natural
   - candid
-  - bold
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

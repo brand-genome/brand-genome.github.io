@@ -2,11 +2,11 @@
 title: Canyon Spirit
 slug: "canyon-spirit"
 description: ""
-date: "2026-03-05T15:56:45.654415"
+date: "2026-03-05T22:38:39.121694"
 draft: false
 sectors:
-  - tourism
   - railroad
+  - tourism
 regions:
   - usa
 years:

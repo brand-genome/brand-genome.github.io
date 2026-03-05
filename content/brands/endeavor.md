@@ -2,7 +2,7 @@
 title: Endeavor
 slug: endeavor
 description: ""
-date: "2026-03-05T15:56:45.855389"
+date: "2026-03-05T22:38:39.369561"
 draft: false
 sectors:
   - ngo

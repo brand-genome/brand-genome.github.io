@@ -2,20 +2,20 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-03-05T15:56:45.928020"
+date: "2026-03-05T22:38:39.504002"
 draft: false
 sectors:
   - broadcasting
 regions:
   - germany
 years:
-  - 2002
   - 2010
+  - 2002
 languages:
   - german
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries:
   - germany
@@ -42,20 +42,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
-  - silver
+  - white
+  - "pantone-421"
   - orange
   - black
   - "pantone-425"
-  - white
-  - "pantone-877"
-  - "pantone-421"
   - "pantone-151"
+  - silver
+  - gray
+  - "pantone-877"
 typographies:
   - impact
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: "main program of the German public-service television broadcaster Zweites Deutsches Fernsehen"
 has_twitter: false
 has_guidelines: true

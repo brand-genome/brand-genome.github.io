@@ -2,7 +2,7 @@
 title: Kfc
 slug: kfc
 description: ""
-date: "2026-03-05T15:56:46.206936"
+date: "2026-03-05T22:38:39.934209"
 draft: false
 sectors:
   - restaurant
@@ -20,370 +20,293 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
-  - vignette
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - vignette
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
-  - "framed-image"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
   - "worm-eye-view"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - textured
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
   - white
-  - "brick-wall"
   - red
-  - light
+  - wood
+  - textured
+  - "brick-wall"
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
+  - light
+  - "pastel-colors"
   - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
+  - bright
   - dark
   - "bright-colors"
-  - "pastel-colors"
+  - "sunset-colors"
   - vintage
-  - "inverted-colors"
-  - red
-  - "aquatic-colors"
   - "analogous-colors"
-  - "complementary-colors"
-  - yellow
-  - "high-contrast"
-  - "galaxy-colors"
   - "two-tone"
-  - light
+  - red
+  - "high-contrast"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
   - grayscale
-  - bright
+  - monotone
+  - yellow
+  - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - team
-  - "still-life"
-  - "live-stage"
-  - group
-  - awareness
-  - selfie
-  - "science-fiction"
-  - interior
-  - commercial
-  - schedule
-  - candid
-  - typography
-  - branding
-  - "event-photography"
-  - "incomplete-art"
-  - audience
-  - celebration
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - vintage
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - business
-  - wedding
-  - "food-photography"
-  - "digital-art"
-  - office
   - fantasy
-  - portrait
-  - advertisement
-  - product
-  - sport
-  - cartoon
-  - sports
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
-  - arcade
+  - audience
+  - "science-fiction"
+  - selfie
+  - commercial
   - professional
   - celebratory
-  - abstract
-  - illustration
-  - "social-media"
-  - couple
-  - horror
-  - action
-  - comic
-  - advertising
-concepts:
-  - "live-stage"
-  - typography
-  - branding
-  - "incomplete-art"
-  - photorealism
-  - vintage
+  - landscape
+  - promotional
   - food
-  - "graphic-design"
-  - "awareness-ribbon"
-  - logo
-  - "social-cause"
-  - advertisement
-  - "comic-strip"
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - "wave-pattern"
+  - wedding
+  - awareness
   - illustration
-  - "logo-design"
+  - interior
+  - abstract
+  - vintage
+  - "digital-art"
+  - "food-photography"
+  - comic
+  - street
   - advertising
+  - architectural
+  - sports
+  - candid
+  - "live-stage"
+  - action
+  - group
+  - documentary
+  - team
+  - schedule
+  - logo
+  - advertisement
+  - fashion
+  - sky
+  - event
+  - bridal
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - staged
+  - celebration
+  - historical
+  - business
+  - branding
+  - arcade
+  - "social-media"
+  - "event-photography"
+  - couple
+  - "still-life"
+  - horror
+  - office
+  - sport
+concepts:
+  - "logo-design"
+  - "wave-pattern"
+  - food
+  - "social-cause"
+  - product
+  - illustration
+  - vintage
+  - advertising
+  - "comic-strip"
+  - sports
+  - "live-stage"
+  - logo
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - branding
+  - "awareness-ribbon"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "vanishing-point"
-  - "short-exposure"
-  - "neutral-density-filter"
   - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
   - symmetrical
-  - "high-contrast"
-  - "low-saturation"
+  - silhouette
   - "cut-out"
-  - "motion-blur"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "high-contrast"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
+  - "pixelated-image"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - "off-white"
-  - black
   - white
-  - "dark-brown"
-  - "light-blue"
+  - "off-white"
   - red
   - "dark-red"
+  - "dark-blue"
+  - black
+  - "dark-brown"
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - l
-  - e
-  - braided
-  - mustache
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - t
-  - bald
-  - i
-  - o
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
   - white
+  - flowing
+  - wavy
+  - loose
+  - mustache
+  - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
   - protective
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
-  - yelling
-  - neutral
   - engaged
-  - a
-  - happy
-  - c
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - sporty
-  - formal
-  - traditional
-  - l
-  - e
   - relaxed
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
+  - neutral
+  - yelling
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
   - casual
-  - p
   - "rain-gear"
+  - athletic
+  - business
+  - "form-fitting"
+  - beachwear
+  - relaxed
+  - active
+  - costume
+  - formal
   - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+  - sporty
+  - comfortable
+  - uniform
 clothing_colors:
-  - l
-  - e
-  - monochrome
+  - red
+  - vibrant
   - pastel
   - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
   - subtle
-  - t
-  - i
+  - bright
   - rainbow
   - muted
-  - o
-  - unknown
-  - b
-  - n
   - uniform
-  - bright
-  - p
 posings:
-  - group
-  - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
-  - walking
-  - standing
-  - b
-  - n
-  - uniform
   - casual
-  - p
+  - seated
+  - walking
+  - leaning
   - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - excited
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - group
-  - l
-  - e
-  - engaged
+  - relaxed
   - dynamic
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - engaged
+  - group
+  - active
+  - holding
+  - confident
+  - standing
+  - running
+  - stretching
   - uniform
-  - p
+gazes:
+  - engaged
+  - away
+  - downward
+  - outward
+  - upward
+  - excited
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - uniform
+  - "lower-half"
   - "full-back"
+  - midsection
+  - engaged
+  - "upper-body"
+  - dynamic
+  - "full-body"
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

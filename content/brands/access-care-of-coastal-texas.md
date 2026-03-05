@@ -2,7 +2,7 @@
 title: Access Care of Coastal Texas
 slug: "access-care-of-coastal-texas"
 description: ""
-date: "2026-03-05T15:56:45.846678"
+date: "2026-03-05T22:38:39.358759"
 draft: false
 sectors:
   - ngo
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - blue
   - green

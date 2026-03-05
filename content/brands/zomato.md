@@ -2,17 +2,17 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-03-05T15:56:46.106326"
+date: "2026-03-05T22:38:39.733711"
 draft: false
 sectors:
+  - software
   - restaurant
   - "e-commerce"
-  - software
 regions:
   - india
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -42,20 +42,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - grey
-  - black
   - white
   - red
+  - grey
+  - black
 typographies:
   - "open-sans"
   - "sans-serif"
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: Indian food delivery service
 has_twitter: false
 has_guidelines: true

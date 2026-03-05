@@ -2,7 +2,7 @@
 title: Finep
 slug: finep
 description: ""
-date: "2026-03-05T15:56:46.078655"
+date: "2026-03-05T22:38:39.691910"
 draft: false
 sectors:
   - "public-sector"
@@ -40,27 +40,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - green
-  - yellow
-  - purple
-  - gray
+  - white
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - green
+  - purple
 typographies: []
 imagery_styles:
+  - bold
   - photography
   - staged
-  - clean
-  - bold
   - graphic
+  - clean
 wikidata_description: government agency of Brazil
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Carlsberg Group
 slug: "carlsberg-group"
 description: ""
-date: "2026-03-05T15:56:45.679579"
+date: "2026-03-05T22:38:39.176120"
 draft: false
 sectors:
   - brewery
@@ -51,9 +51,9 @@ brand_colors:
   - green
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - modern
-  - bold
 wikidata_description: Danish brewery group
 has_twitter: false
 has_guidelines: true

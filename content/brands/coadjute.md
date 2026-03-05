@@ -2,11 +2,11 @@
 title: Coadjute
 slug: coadjute
 description: ""
-date: "2026-03-05T15:56:45.764531"
+date: "2026-03-05T22:38:39.261244"
 draft: false
 sectors:
-  - "real-estate"
   - software
+  - "real-estate"
 regions:
   - "united-kingdom"
 years:

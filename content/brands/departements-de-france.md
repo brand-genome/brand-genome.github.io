@@ -2,7 +2,7 @@
 title: Départements de France
 slug: "departements-de-france"
 description: ""
-date: "2026-03-05T15:56:45.963399"
+date: "2026-03-05T22:38:39.530397"
 draft: false
 sectors:
   - "public-sector"
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
+  - white
+  - red
   - "pantone-2935"
   - black
-  - blue
-  - white
   - "pantone-485"
-  - red
+  - blue
 typographies: []
 imagery_styles:
   - monochrome

@@ -2,11 +2,11 @@
 title: SMPS
 slug: smps
 description: ""
-date: "2026-03-05T15:56:45.957852"
+date: "2026-03-05T22:38:39.523274"
 draft: false
 sectors:
-  - "marketing-advertising"
   - education
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - horizontal
   - symbol
+  - horizontal
+  - secondary
 brand_colors:
-  - green
-  - "pantone-3262"
-  - gray
+  - white
   - orange
   - black
-  - white
   - blue
+  - gray
+  - "pantone-3262"
+  - green
 typographies:
-  - georgia
   - gotham
+  - georgia
 imagery_styles:
   - bold
   - graphic

@@ -2,7 +2,7 @@
 title: Sky West
 slug: "sky-west"
 description: ""
-date: "2026-03-05T15:56:46.167727"
+date: "2026-03-05T22:38:39.809757"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -42,15 +42,15 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - red
-  - green
-  - black
   - white
-  - blue
+  - red
   - "pantone-287"
+  - black
+  - blue
+  - green
 typographies:
-  - inter
   - impact
+  - inter
 imagery_styles:
   - graphic
 wikidata_description: American regional airline

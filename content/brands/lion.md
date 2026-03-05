@@ -2,7 +2,7 @@
 title: Lion
 slug: lion
 description: ""
-date: "2026-03-05T15:56:45.959632"
+date: "2026-03-05T22:38:39.524494"
 draft: false
 sectors:
   - brewery

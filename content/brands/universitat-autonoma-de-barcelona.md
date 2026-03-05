@@ -2,11 +2,11 @@
 title: Universitat Autònoma de Barcelona
 slug: "universitat-autonoma-de-barcelona"
 description: ""
-date: "2026-03-05T15:56:45.855798"
+date: "2026-03-05T22:38:39.370076"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -42,10 +42,10 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-1605"
-  - black
   - white
+  - black
   - brown
+  - "pantone-1605"
 typographies:
   - helvetica
 imagery_styles:

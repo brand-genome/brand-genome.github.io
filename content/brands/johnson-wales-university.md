@@ -2,11 +2,11 @@
 title: "Johnson & Wales University"
 slug: "johnson-wales-university"
 description: ""
-date: "2026-03-05T15:56:46.127778"
+date: "2026-03-05T22:38:39.767202"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,15 +41,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
   - stacked
+  - crest
 brand_colors: []
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: "private university based in Providence, Rhode Island"
 has_twitter: false
 has_guidelines: true

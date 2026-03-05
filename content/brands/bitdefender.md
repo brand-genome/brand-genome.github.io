@@ -2,11 +2,11 @@
 title: Bitdefender
 slug: bitdefender
 description: ""
-date: "2026-03-05T15:56:46.055829"
+date: "2026-03-05T22:38:39.648951"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - romania
 years:
@@ -39,14 +39,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - roboto
 imagery_styles:
-  - geometric
   - bold
   - modern
+  - geometric
 wikidata_description: Internet Security Suite from the Romanian software company Bitdefender
 has_twitter: false
 has_guidelines: true

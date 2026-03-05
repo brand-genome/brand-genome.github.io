@@ -2,11 +2,11 @@
 title: HDRUK
 slug: hdruk
 description: ""
-date: "2026-03-05T15:56:45.941725"
+date: "2026-03-05T22:38:39.511434"
 draft: false
 sectors:
-  - healthcare
   - research
+  - healthcare
 regions:
   - "united-kingdom"
 years:

@@ -2,7 +2,7 @@
 title: Van Leeuwen
 slug: "van-leeuwen"
 description: ""
-date: "2026-03-05T15:56:45.944600"
+date: "2026-03-05T22:38:39.513367"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -42,8 +42,8 @@ brand_colors: []
 typographies:
   - montserrat
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: Dutch steel company
 has_twitter: false
 has_guidelines: true

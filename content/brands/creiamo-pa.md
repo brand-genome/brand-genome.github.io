@@ -2,7 +2,7 @@
 title: CReIAMO PA
 slug: "creiamo-pa"
 description: ""
-date: "2026-03-05T15:56:45.902220"
+date: "2026-03-05T22:38:39.429376"
 draft: false
 sectors:
   - "public-sector"
@@ -43,21 +43,21 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
+  - white
+  - "pantone-7549"
+  - "pantone-355"
+  - "pantone-2945"
   - "pantone-2915"
   - black
-  - "pantone-2945"
-  - "pantone-7549"
-  - white
-  - "pantone-540"
   - blue
-  - "pantone-355"
+  - "pantone-540"
 typographies:
   - "source-sans"
   - arial
 imagery_styles:
+  - bold
   - minimal
   - gradient
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

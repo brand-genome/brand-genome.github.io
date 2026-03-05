@@ -2,7 +2,7 @@
 title: Laing O’Rourke
 slug: "laing-orourke"
 description: ""
-date: "2026-03-05T15:56:45.894199"
+date: "2026-03-05T22:38:39.415656"
 draft: false
 sectors:
   - construction
@@ -37,8 +37,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

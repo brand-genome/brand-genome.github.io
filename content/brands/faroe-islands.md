@@ -2,7 +2,7 @@
 title: Faroe Islands
 slug: "faroe-islands"
 description: ""
-date: "2026-03-05T15:56:45.877791"
+date: "2026-03-05T22:38:39.387131"
 draft: false
 sectors:
   - tourism
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
-  - cyan
-  - silver
   - grey
   - black
-  - "pantone-877"
+  - cyan
   - blue
+  - silver
+  - "pantone-877"
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - monochrome
   - abstract
   - classic
   - photography
+  - monochrome
 wikidata_description: "men's national association football team representing the Faroe Islands"
 has_twitter: false
 has_guidelines: true

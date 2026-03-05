@@ -2,11 +2,11 @@
 title: University of Calgary
 slug: "university-of-calgary"
 description: ""
-date: "2026-03-05T15:56:45.859204"
+date: "2026-03-05T22:38:39.374001"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -45,13 +45,13 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - brown
+  - white
+  - red
   - gold
   - orange
   - grey
   - black
-  - white
-  - red
+  - brown
 typographies:
   - times
 imagery_styles:

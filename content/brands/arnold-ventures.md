@@ -2,7 +2,7 @@
 title: Arnold Ventures
 slug: "arnold-ventures"
 description: ""
-date: "2026-03-05T15:56:45.814183"
+date: "2026-03-05T22:38:39.320283"
 draft: false
 sectors:
   - ngo
@@ -38,25 +38,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
+  - primary
   - icon
+  - secondary
+  - lockup
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - yellow
-  - black
-  - navy
   - white
+  - black
+  - yellow
   - blue
+  - navy
 typographies:
-  - arial
-  - serif
   - impact
+  - serif
   - times
+  - arial
   - helvetica
 imagery_styles:
   - subtle

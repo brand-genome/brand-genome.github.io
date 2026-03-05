@@ -2,7 +2,7 @@
 title: Davenport University
 slug: "davenport-university"
 description: ""
-date: "2026-03-05T15:56:45.724582"
+date: "2026-03-05T22:38:39.214431"
 draft: false
 sectors:
   - university

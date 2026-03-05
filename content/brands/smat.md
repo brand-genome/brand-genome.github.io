@@ -2,7 +2,7 @@
 title: S.M.A.T
 slug: smat
 description: ""
-date: "2026-03-05T15:56:45.869063"
+date: "2026-03-05T22:38:39.383866"
 draft: false
 sectors:
   - consulting

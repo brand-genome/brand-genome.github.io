@@ -2,17 +2,17 @@
 title: Dell
 slug: dell
 description: ""
-date: "2026-03-05T15:56:45.917865"
+date: "2026-03-05T22:38:39.483977"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - usa
 years:
-  - 2008
   - 2010
+  - 2008
   - 2012
 languages:
   - english
@@ -33,318 +33,318 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
+  - "analogous-colors"
+  - "pastel-colors"
   - "sunset-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - infographic
-  - social
-  - sky
-  - "social-awareness"
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - "art-installation"
-  - artistic
-  - interior
-  - industrial
-  - commercial
-  - branding
-  - typography
-  - candid
-  - botanical
-  - political
-  - "event-photography"
-  - urban
-  - "incomplete-art"
   - audience
-  - cityscape
-  - staged
-  - promotional
-  - "thank-you"
-  - food
-  - beauty
-  - "book-cover"
-  - "graphic-design"
-  - street
-  - crowd
-  - landscape
-  - holiday
-  - logo
-  - corporate
-  - business
-  - event
-  - conceptual
-  - family
-  - "food-photography"
-  - "digital-art"
-  - text
-  - office
-  - travel
-  - presentation
-  - portrait
-  - advertisement
-  - lifestyle
-  - informational
-  - product
-  - sports
-  - nature
-  - "text-heavy"
-  - information
-  - architectural
-  - headshot
-  - beach
+  - selfie
+  - commercial
   - professional
+  - "social-awareness"
+  - informational
+  - beach
+  - "book-cover"
+  - conceptual
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - industrial
   - "trade-show"
-  - "information-graphic"
-  - documentary
-  - underwater
+  - text
+  - lifestyle
+  - interior
   - abstract
   - "audience-perspective"
   - illustration
-  - map
-  - "data-visualization"
+  - "digital-art"
+  - "food-photography"
+  - presentation
+  - street
+  - advertising
+  - artistic
+  - architectural
+  - sports
   - action
-  - advertising
-concepts:
-  - "motion-capture"
-  - "information-design"
-  - infographic
-  - "thank-you-message"
-  - upcycling
   - "live-stage"
-  - "data-representation"
-  - typography
-  - "incomplete-art"
-  - celebration
-  - photorealism
-  - informative
-  - vintage
-  - recycling
-  - "graphic-design"
+  - candid
+  - group
+  - headshot
+  - infographic
+  - documentary
+  - "art-installation"
+  - urban
   - logo
-  - corporate
+  - fashion
   - advertisement
-  - informational
-  - cartoon
+  - sky
+  - event
+  - "data-visualization"
+  - cityscape
   - "text-heavy"
+  - corporate
+  - underwater
+  - "thank-you"
+  - family
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - holiday
+  - "information-graphic"
+  - map
+  - staged
+  - business
+  - "event-photography"
+  - branding
+  - political
+  - office
+  - "still-life"
+  - information
+  - travel
+  - crowd
+  - social
+concepts:
+  - informative
+  - upcycling
+  - informational
   - "wave-pattern"
+  - "thank-you-message"
+  - recycling
   - illustration
-  - list
+  - "information-design"
+  - vintage
   - advertising
+  - infographic
+  - "live-stage"
+  - logo
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - corporate
+  - "motion-capture"
+  - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - list
+  - celebration
+  - "data-representation"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "gaussian-blur"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+  - "radial-blur"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
   - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
-  - "text-heavy"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "saturated-colors"
+  - "high-contrast"
+  - "text-heavy"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - "low-contrast"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
+  - white
   - "off-white"
   - black
-  - white
+  - "dark-blue"
   - "light-blue"
   - blue
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - bald
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - moustache
   - gray
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - happy
+  - neutral
+  - content
   - excited
+  - focused
+  - contemplative
+  - happy
 clothing_styles:
-  - business
-  - swimwear
-  - active
-  - professional
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - professional
+  - active
+  - costume
+  - formal
   - protective
-  - athletic
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - subtle
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - speaking
-  - confident
-  - leaning
   - seated
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-  - static
-gazes:
-  - sideways
-  - engaged
-  - upward
-  - away
-  - focused
   - speaking
+  - walking
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - speaking
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - professional
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
+  - "head-shot"
   - speaking
   - midsection
-  - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - "upper-body"
+  - professional
+  - "full-body"
+  - "close-up"
 logo_elements:
-  - lockup
-  - wordmark
-  - abstract
   - primary
   - badge
+  - lockup
+  - abstract
+  - wordmark
   - vertical
 brand_colors:
+  - white
   - red
-  - yellow
-  - gray
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
 typographies:
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - realistic
-  - photography
-  - staged
-  - abstract
-  - natural
-  - subtle
-  - illustration
-  - lifestyle
-  - product
-  - dramatic
-  - clean
-  - vibrant
-  - candid
   - bold
+  - photography
+  - product
+  - staged
+  - vibrant
+  - lifestyle
+  - abstract
+  - realistic
+  - illustration
+  - dramatic
+  - subtle
+  - candid
+  - clean
+  - natural
 wikidata_description: American multinational computer technology corporation
 has_twitter: true
 has_guidelines: true

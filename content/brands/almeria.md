@@ -2,7 +2,7 @@
 title: Almería
 slug: almeria
 description: ""
-date: "2026-03-05T15:56:45.993729"
+date: "2026-03-05T22:38:39.569270"
 draft: false
 sectors:
   - "public-sector"
@@ -40,25 +40,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - alternate
+  - primary
   - horizontal
 brand_colors:
-  - yellow
-  - black
   - white
-  - "pantone-485"
   - red
   - "pantone-123"
+  - black
+  - yellow
+  - "pantone-485"
 typographies:
-  - helvetica
-  - arial
-  - display
   - roboto
+  - arial
+  - helvetica
+  - display
 imagery_styles:
   - bold
-  - modern
   - photography
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

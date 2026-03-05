@@ -2,7 +2,7 @@
 title: Regal
 slug: regal
 description: ""
-date: "2026-03-05T15:56:46.037463"
+date: "2026-03-05T22:38:39.606220"
 draft: false
 sectors:
   - entertainment
@@ -38,31 +38,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - alternate
+  - secondary
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
 brand_colors:
-  - green
+  - white
+  - violet
+  - red
   - gold
   - orange
-  - blue
   - black
-  - white
-  - red
-  - violet
+  - blue
+  - green
 typographies:
   - verdana
   - "sans-serif"
 imagery_styles:
-  - modern
-  - photography
-  - gradient
-  - geometric
   - bold
+  - photography
   - graphic
+  - geometric
+  - gradient
+  - modern
 wikidata_description: British record label established 1995; imprint of Parlophone Records
 has_twitter: false
 has_guidelines: true

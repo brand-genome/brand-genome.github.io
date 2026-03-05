@@ -2,12 +2,12 @@
 title: Gusto
 slug: gusto
 description: ""
-date: "2026-03-05T15:56:45.837807"
+date: "2026-03-05T22:38:39.347394"
 draft: false
 sectors:
   - insurance
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
@@ -19,9 +19,9 @@ tags:
   - "human-ressources"
 industries:
   - "software-industry"
+  - "business-software-industry"
   - "internet-industry"
   - "human-resource-management"
-  - "business-software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

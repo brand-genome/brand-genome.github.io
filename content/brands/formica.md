@@ -2,11 +2,11 @@
 title: Formica®
 slug: formica
 description: ""
-date: "2026-03-05T15:56:45.876712"
+date: "2026-03-05T22:38:39.385994"
 draft: false
 sectors:
-  - "interior-design-decor"
   - construction
+  - "interior-design-decor"
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
   - white
-  - black
+  - red
   - orange
+  - black
 typographies:
   - bodoni
   - impact
   - helvetica
 imagery_styles:
-  - minimal
   - photography
+  - minimal
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

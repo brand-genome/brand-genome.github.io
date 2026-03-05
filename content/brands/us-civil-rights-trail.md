@@ -2,7 +2,7 @@
 title: US. Civil Rights Trail
 slug: "us-civil-rights-trail"
 description: ""
-date: "2026-03-05T15:56:45.982909"
+date: "2026-03-05T22:38:39.558747"
 draft: false
 sectors:
   - "arts-culture"
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors: []
 typographies:
-  - serif
-  - gotham
   - bodoni
+  - serif
   - "sans-serif"
+  - gotham
   - montserrat
 imagery_styles:
+  - photography
+  - professional
   - clean
   - modern
-  - professional
-  - photography
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

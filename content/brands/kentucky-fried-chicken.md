@@ -2,7 +2,7 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-03-05T15:56:46.077948"
+date: "2026-03-05T22:38:39.691452"
 draft: false
 sectors:
   - food

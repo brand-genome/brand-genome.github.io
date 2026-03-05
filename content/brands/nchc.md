@@ -2,7 +2,7 @@
 title: NCHC
 slug: nchc
 description: ""
-date: "2026-03-05T15:56:46.071230"
+date: "2026-03-05T22:38:39.682883"
 draft: false
 sectors:
   - sports

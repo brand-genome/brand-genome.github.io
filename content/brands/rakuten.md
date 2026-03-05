@@ -2,11 +2,11 @@
 title: Rakuten
 slug: rakuten
 description: ""
-date: "2026-03-05T15:56:45.603464"
+date: "2026-03-05T22:38:39.077213"
 draft: false
 sectors:
-  - "e-commerce"
   - retail
+  - "e-commerce"
 regions:
   - france
 years:

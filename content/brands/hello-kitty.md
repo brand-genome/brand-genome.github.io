@@ -2,11 +2,11 @@
 title: Hello Kitty
 slug: "hello-kitty"
 description: ""
-date: "2026-03-05T15:56:46.041628"
+date: "2026-03-05T22:38:39.612599"
 draft: false
 sectors:
-  - entertainment
   - "consumer-goods"
+  - entertainment
 regions:
   - japan
 years:
@@ -38,9 +38,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
   - symbol
   - horizontal
-  - seal
 brand_colors: []
 typographies:
   - helvetica

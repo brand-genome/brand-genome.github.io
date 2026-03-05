@@ -2,7 +2,7 @@
 title: Liverpool John Moores University
 slug: "liverpool-john-moores-university"
 description: ""
-date: "2026-03-05T15:56:45.800449"
+date: "2026-03-05T22:38:39.304711"
 draft: false
 sectors:
   - university

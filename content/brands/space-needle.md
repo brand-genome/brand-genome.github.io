@@ -2,7 +2,7 @@
 title: Space Needle
 slug: "space-needle"
 description: ""
-date: "2026-03-05T15:56:46.059654"
+date: "2026-03-05T22:38:39.656769"
 draft: false
 sectors:
   - entertainment
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
   - abstract
+  - primary
   - vertical
+  - horizontal
 brand_colors:
-  - grey
-  - black
-  - gold
   - white
+  - gold
+  - black
+  - grey
 typographies:
   - gotham
 imagery_styles:
-  - modern
-  - professional
-  - photography
-  - minimal
-  - abstract
-  - gradient
-  - clean
   - bold
+  - photography
+  - professional
+  - abstract
+  - minimal
+  - gradient
+  - modern
+  - clean
 wikidata_description: American rock band
 has_twitter: false
 has_guidelines: true

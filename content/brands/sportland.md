@@ -2,11 +2,11 @@
 title: Sportland
 slug: sportland
 description: ""
-date: "2026-03-05T15:56:45.913345"
+date: "2026-03-05T22:38:39.474971"
 draft: false
 sectors:
-  - tourism
   - sports
+  - tourism
 regions:
   - italy
 years:
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
   - "pantone-108"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: Austrian cycling team

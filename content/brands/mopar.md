@@ -2,12 +2,12 @@
 title: Mopar
 slug: mopar
 description: ""
-date: "2026-03-05T15:56:46.059507"
+date: "2026-03-05T22:38:39.656618"
 draft: false
 sectors:
+  - "consumer-goods"
   - automobile
   - "e-commerce"
-  - "consumer-goods"
 regions:
   - usa
 years:
@@ -43,14 +43,14 @@ body_sections: []
 logo_elements:
   - favicon
 brand_colors:
-  - blue
   - white
+  - blue
 typographies:
-  - arial
   - script
+  - arial
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: "American car parts, service, and customer care company"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Korn Ferry
 slug: "korn-ferry"
 description: ""
-date: "2026-03-05T15:56:46.199018"
+date: "2026-03-05T22:38:39.911724"
 draft: false
 sectors:
   - sports
@@ -22,189 +22,189 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - "light-on-subject"
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - natural
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - red
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - botanical
+  - product
+  - lifestyle
+  - interior
+  - street
+  - architectural
+  - sports
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - candid
-  - botanical
-  - staged
-  - street
-  - landscape
+  - fashion
+  - sky
   - event
+  - advertisement
   - family
   - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - architectural
-  - action
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - "low-contrast"
+  - "low-saturation"
   - silhouette
   - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
+  - "high-saturation"
+  - "motion-capture"
+  - "low-contrast"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - "dark-green"
-  - gray
-  - black
   - white
-  - "light-blue"
+  - "mud-green"
   - olive
+  - "dark-green"
+  - black
+  - cyan
+  - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - "pulled-back"
-  - beard
-  - long
-  - ponytail
-  - curly
   - casual
   - flowing
-  - covered
-  - varied
-  - short
-  - updo
-  - "tied-back"
-  - straight
+  - "pulled-back"
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - updo
+  - beard
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
   - "full-beard"
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - walking
   - leaning
-  - confident
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: The Body Shop
 slug: "the-body-shop"
 description: ""
-date: "2026-03-05T15:56:46.195039"
+date: "2026-03-05T22:38:39.897538"
 draft: false
 sectors:
   - beauty
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "cosmetics-industry"
   - retail
+  - "cosmetics-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -22,219 +22,219 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
+  - selfie
+  - commercial
   - "social-awareness"
-  - "still-life"
+  - landscape
+  - botanical
+  - promotional
+  - nature
+  - food
+  - product
+  - environmental
+  - text
+  - abstract
+  - interior
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - action
   - "live-stage"
   - group
-  - selfie
-  - environmental
-  - interior
-  - commercial
-  - typography
-  - botanical
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - event
-  - wildlife
-  - text
-  - portrait
-  - advertisement
-  - product
-  - cartoon
-  - nature
-  - "text-heavy"
-  - architectural
   - documentary
-  - abstract
-  - illustration
-  - action
-  - advertising
+  - fashion
+  - advertisement
+  - sky
+  - event
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - wildlife
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - product
+  - advertisement
+  - branding
+  - "complete-art"
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - product
-  - cartoon
   - typography
+  - "graphic-design"
   - "product-photography"
-  - "complete-art"
-  - branding
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
-  - "macro-shot"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "macro-shot"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
+  - "text-heavy"
   - "high-saturation"
   - "low-contrast"
-  - silhouette
-  - "vanishing-point"
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
-  - "text-heavy"
   - "short-exposure"
-  - "artificial-shadow"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - cream
-  - "dark-green"
-  - orange
-  - gray
-  - black
   - white
   - red
+  - orange
+  - "dark-green"
+  - black
+  - cream
+  - pink
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - styled
-  - braided
-  - mustache
-  - curly
-  - covered
-  - natural
-  - varied
-  - curled
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - straight
-  - long
   - casual
   - white
+  - flowing
+  - wavy
+  - loose
+  - curled
+  - mustache
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - styled
+  - curly
+  - natural
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - active
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
   - active
-  - engaged
-  - focused
-  - walking
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
   - seated
-  - confident
-  - leaning
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-  - static
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
-  - away
+  - leaning
+  - relaxed
+  - reclined
+  - dynamic
+  - holding
+  - active
+  - standing
+  - running
   - focused
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
+  - away
   - downward
-  - forward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - engaged
-  - "upper-body"
-  - "close-up"
-  - focused
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
+  - midsection
+  - engaged
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - focused
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

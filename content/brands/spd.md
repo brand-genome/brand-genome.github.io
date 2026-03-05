@@ -2,7 +2,7 @@
 title: SPD
 slug: spd
 description: ""
-date: "2026-03-05T15:56:46.048138"
+date: "2026-03-05T22:38:39.639853"
 draft: false
 sectors:
   - "public-sector"
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - cyan
+  - white
   - red
   - "pantone-185"
   - black
-  - white
+  - cyan
   - blue
 typographies: []
 imagery_styles:
-  - artificial
-  - natural
-  - dynamic
-  - colorful
   - bold
   - graphic
+  - dynamic
+  - artificial
+  - colorful
+  - natural
 wikidata_description: "nonprofit organization in Indianapolis, United States"
 has_twitter: false
 has_guidelines: true

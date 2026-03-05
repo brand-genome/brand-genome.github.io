@@ -2,7 +2,7 @@
 title: Sol Sports
 slug: "sol-sports"
 description: ""
-date: "2026-03-05T15:56:46.079535"
+date: "2026-03-05T22:38:39.695593"
 draft: false
 sectors:
   - fashion
@@ -42,8 +42,8 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

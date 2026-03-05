@@ -2,7 +2,7 @@
 title: Marchay
 slug: marchay
 description: ""
-date: "2026-03-05T15:56:45.823868"
+date: "2026-03-05T22:38:39.330510"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - tourism
   - luxury
+  - tourism
 industries: []
 countries: []
 revenue_buckets: []
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - secondary
   - favicon
+  - secondary
+  - monogram
 brand_colors:
-  - beige
   - orange
   - grey
   - black
   - blue
+  - beige
 typographies: []
 imagery_styles:
   - monochrome

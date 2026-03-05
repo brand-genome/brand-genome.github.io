@@ -2,7 +2,7 @@
 title: Coors Light
 slug: "coors-light"
 description: ""
-date: "2026-03-05T15:56:45.730683"
+date: "2026-03-05T22:38:39.223173"
 draft: false
 sectors:
   - brewery

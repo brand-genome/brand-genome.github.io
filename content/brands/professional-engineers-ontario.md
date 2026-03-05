@@ -2,7 +2,7 @@
 title: Professional Engineers Ontario
 slug: "professional-engineers-ontario"
 description: ""
-date: "2026-03-05T15:56:45.857312"
+date: "2026-03-05T22:38:39.371799"
 draft: false
 sectors:
   - "public-sector"
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - abstract
+  - signature
   - symbol
 brand_colors: []
 typographies:
   - garamond
 imagery_styles:
-  - professional
-  - abstract
-  - dynamic
   - bold
   - graphic
+  - dynamic
+  - professional
+  - abstract
 wikidata_description: "professional engineering association in Ontario, Canada"
 has_twitter: false
 has_guidelines: true

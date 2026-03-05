@@ -2,7 +2,7 @@
 title: Universidad Ean
 slug: "universidad-ean"
 description: ""
-date: "2026-03-05T15:56:45.717406"
+date: "2026-03-05T22:38:39.207655"
 draft: false
 sectors:
   - university

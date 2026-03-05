@@ -2,7 +2,7 @@
 title: Governo de Portugal
 slug: "governo-de-portugal"
 description: ""
-date: "2026-03-05T15:56:45.720539"
+date: "2026-03-05T22:38:39.210870"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: Samsung Pay
 slug: "samsung-pay"
 description: ""
-date: "2026-03-05T15:56:46.130782"
+date: "2026-03-05T22:38:39.771101"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - "south-korea"
 years:
@@ -38,23 +38,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-1365"
-  - coral
-  - "pantone-3005"
-  - "pantone-286"
-  - black
-  - "pantone-306"
-  - teal
   - white
-  - blue
-  - "pantone-2285"
-  - "pantone-3265"
   - red
+  - teal
+  - "pantone-306"
+  - "pantone-3265"
+  - black
+  - blue
+  - "pantone-3005"
+  - coral
+  - "pantone-1365"
+  - "pantone-2285"
+  - "pantone-286"
 typographies: []
 imagery_styles: []
 wikidata_description: mobile payment and digital wallet service

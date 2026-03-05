@@ -2,11 +2,11 @@
 title: Los Angeles Lakers
 slug: "los-angeles-lakers"
 description: ""
-date: "2026-03-05T15:56:46.082271"
+date: "2026-03-05T22:38:39.702692"
 draft: false
 sectors:
-  - entertainment
   - sports
+  - entertainment
 regions:
   - usa
 years:
@@ -40,17 +40,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - purple
-  - gray
-  - black
   - white
   - red
+  - black
+  - gray
+  - purple
 typographies:
-  - din
   - arial
+  - din
   - helvetica
 imagery_styles:
   - bold

@@ -2,7 +2,7 @@
 title: Associated Press
 slug: "associated-press"
 description: ""
-date: "2026-03-05T15:56:46.005098"
+date: "2026-03-05T22:38:39.578078"
 draft: false
 sectors:
   - broadcasting
@@ -17,8 +17,8 @@ tags:
   - featured
   - media
 industries:
-  - "news-media"
   - "media-industry"
+  - "news-media"
 countries:
   - "united-states"
 revenue_buckets: []

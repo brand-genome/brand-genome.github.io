@@ -2,7 +2,7 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-03-05T15:56:45.816087"
+date: "2026-03-05T22:38:39.322385"
 draft: false
 sectors:
   - education
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - botanic
   - vintage
+  - botanic
 industries: []
 countries:
   - "united-states"
@@ -45,15 +45,15 @@ body_sections: []
 logo_elements:
   - seal
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
   - white
   - green
   - brown
 typographies:
-  - times
   - impact
+  - times
 imagery_styles:
   - bold
   - graphic

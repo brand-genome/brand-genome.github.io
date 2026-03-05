@@ -2,7 +2,7 @@
 title: Generalitat Valenciana
 slug: "generalitat-valenciana"
 description: ""
-date: "2026-03-05T15:56:45.693858"
+date: "2026-03-05T22:38:39.184124"
 draft: false
 sectors:
   - "public-sector"
@@ -39,9 +39,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-186"
   - white
   - red
+  - "pantone-186"
 typographies:
   - roboto
 imagery_styles:

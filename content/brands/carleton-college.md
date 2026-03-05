@@ -2,11 +2,11 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-03-05T15:56:45.973239"
+date: "2026-03-05T22:38:39.546519"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -43,15 +43,15 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
-  - arial
-  - serif
   - impact
-  - helvetica
+  - serif
   - gotham
+  - arial
+  - helvetica
 imagery_styles:
   - bold
 wikidata_description: "liberal arts college in Northfield, Minnesota"

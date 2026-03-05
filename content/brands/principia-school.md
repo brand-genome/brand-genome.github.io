@@ -2,7 +2,7 @@
 title: Principia School
 slug: "principia-school"
 description: ""
-date: "2026-03-05T15:56:45.845857"
+date: "2026-03-05T22:38:39.357654"
 draft: false
 sectors:
   - education
@@ -38,21 +38,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - navy
-  - gold
   - white
+  - gold
+  - navy
 typographies:
+  - roboto
+  - slab
   - serif
   - "sans-serif"
-  - slab
-  - roboto
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

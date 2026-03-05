@@ -2,7 +2,7 @@
 title: Htc
 slug: htc
 description: ""
-date: "2026-03-05T15:56:46.199557"
+date: "2026-03-05T22:38:39.914263"
 draft: false
 sectors:
   - telecom
@@ -21,225 +21,225 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - light
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
+  - "logo-design"
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - awards
+  - landscape
+  - botanical
+  - automotive
+  - promotional
+  - nature
+  - food
+  - product
+  - illustration
+  - interior
+  - abstract
+  - "event-promotion"
+  - street
   - advertising
-  - sky
-  - "still-life"
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - selfie
-  - automotive
-  - interior
-  - commercial
-  - "event-promotion"
-  - typography
-  - branding
-  - candid
-  - botanical
-  - "incomplete-art"
-  - audience
-  - staged
-  - promotional
-  - historical
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
   - logo
-  - corporate
-  - event
-  - business
-  - portrait
   - advertisement
-  - awards
-  - product
+  - event
+  - fashion
+  - sky
   - cartoon
-  - nature
-  - architectural
-  - professional
-  - abstract
-  - illustration
-  - "logo-design"
-  - action
-  - technology
-concepts:
+  - corporate
+  - typography
+  - "graphic-design"
   - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - portrait
+  - beauty
+  - staged
+  - business
+  - historical
+  - technology
+  - branding
+  - "still-life"
+concepts:
+  - logo
+  - advertisement
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
   - typography
-  - logo
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "radial-blur"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "gaussian-blur"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
+  - "radial-blur"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "bright-focal-point"
+  - "low-saturation"
   - silhouette
-  - "negative-space"
+  - "artificial-shadow"
+  - "dark-focal-point"
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
+  - "gaussian-blur"
+  - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
   - "vanishing-point"
   - "radial-blur"
-  - asymmetry
-  - symmetrical
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "gaussian-blur"
-  - "dark-focal-point"
-  - "short-exposure"
-  - "artificial-shadow"
-  - "motion-blur"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - "dark-gray"
-  - "off-white"
-  - gray
-  - black
   - white
+  - "off-white"
+  - "mud-green"
+  - black
+  - "dark-blue"
   - "dark-brown"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - "pulled-back"
-  - braided
-  - wavy
-  - neat
-  - long
-  - curly
   - casual
-  - covered
   - flowing
-  - varied
-  - short
-  - updo
-  - "tied-back"
+  - "pulled-back"
+  - neat
+  - wavy
+  - loose
   - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - holding
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
+posings:
+  - seated
   - walking
-  - confident
+  - reclined
+  - engaged
   - leaning
   - dynamic
-  - seated
-  - stretching
   - relaxed
-  - contemplative
+  - active
+  - holding
+  - standing
   - running
-  - reclined
+  - stretching
+  - contemplative
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

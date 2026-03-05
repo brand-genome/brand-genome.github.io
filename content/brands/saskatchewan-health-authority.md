@@ -2,11 +2,11 @@
 title: Saskatchewan Health Authority
 slug: "saskatchewan-health-authority"
 description: ""
-date: "2026-03-05T15:56:46.119830"
+date: "2026-03-05T22:38:39.757890"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - canada
 years:

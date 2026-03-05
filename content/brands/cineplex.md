@@ -2,7 +2,7 @@
 title: Cineplex
 slug: cineplex
 description: ""
-date: "2026-03-05T15:56:45.901389"
+date: "2026-03-05T22:38:39.428325"
 draft: false
 sectors:
   - entertainment
@@ -40,10 +40,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - blue
   - gold
   - black
-  - white
 typographies:
   - "gill-sans"
 imagery_styles: []

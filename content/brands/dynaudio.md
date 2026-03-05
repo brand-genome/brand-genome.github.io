@@ -2,7 +2,7 @@
 title: Dynaudio
 slug: dynaudio
 description: ""
-date: "2026-03-05T15:56:46.103351"
+date: "2026-03-05T22:38:39.729449"
 draft: false
 sectors:
   - electronics
@@ -39,24 +39,24 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-805"
-  - "pantone-876"
+  - white
   - grey
   - black
-  - white
+  - "pantone-876"
+  - "pantone-805"
 typographies:
-  - display
   - arial
   - helvetica
+  - display
 imagery_styles:
-  - contemporary
-  - realistic
-  - photography
-  - lifestyle
-  - product
-  - clean
   - bold
+  - photography
+  - product
   - graphic
+  - lifestyle
+  - realistic
+  - contemporary
+  - clean
 wikidata_description: Danish loudspeaker manufacturer
 has_twitter: false
 has_guidelines: true

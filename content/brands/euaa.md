@@ -2,7 +2,7 @@
 title: EUAA
 slug: euaa
 description: ""
-date: "2026-03-05T15:56:45.795671"
+date: "2026-03-05T22:38:39.299594"
 draft: false
 sectors:
   - "public-sector"
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
   - symbol
+  - signature
 brand_colors:
-  - blue
-  - yellow
   - white
+  - blue
   - black
+  - yellow
 typographies:
   - "proxima-nova"
 imagery_styles:

@@ -2,7 +2,7 @@
 title: "GAD Heart & Lung Institue"
 slug: "gad-heart-lung-institue"
 description: ""
-date: "2026-03-05T15:56:45.671910"
+date: "2026-03-05T22:38:39.154880"
 draft: false
 sectors:
   - healthcare
@@ -37,25 +37,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - crimson
-  - green
-  - gray
-  - teal
-  - black
-  - navy
-  - blue
   - white
   - red
+  - teal
+  - crimson
+  - black
+  - blue
+  - gray
+  - navy
+  - green
 typographies:
   - montserrat
 imagery_styles:
+  - bold
   - professional
   - muted
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

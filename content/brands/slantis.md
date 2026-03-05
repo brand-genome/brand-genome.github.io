@@ -2,7 +2,7 @@
 title: Slantis
 slug: slantis
 description: ""
-date: "2026-03-05T15:56:45.692779"
+date: "2026-03-05T22:38:39.182847"
 draft: false
 sectors:
   - software

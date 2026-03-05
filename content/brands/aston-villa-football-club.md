@@ -2,7 +2,7 @@
 title: Aston Villa Football Club
 slug: "aston-villa-football-club"
 description: ""
-date: "2026-03-05T15:56:46.114129"
+date: "2026-03-05T22:38:39.749108"
 draft: false
 sectors:
   - sports
@@ -38,28 +38,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - secondary
   - crest
+  - horizontal
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - green
-  - gold
-  - yellow
-  - silver
-  - "pantone-360"
-  - "pantone-278"
   - white
-  - "pantone-229"
-  - "pantone-871"
-  - "pantone-877"
+  - "pantone-360"
+  - gold
+  - "pantone-278"
+  - yellow
   - blue
+  - "pantone-229"
+  - silver
+  - green
+  - "pantone-877"
+  - "pantone-871"
 typographies: []
 imagery_styles:
-  - clean
   - colorful
+  - clean
 wikidata_description: "association football club in Birmingham, England"
 has_twitter: false
 has_guidelines: true

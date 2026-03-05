@@ -2,13 +2,13 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-03-05T15:56:46.058659"
+date: "2026-03-05T22:38:39.655344"
 draft: false
 sectors:
-  - hardware
-  - aerospace
   - automobile
   - "space-technology"
+  - aerospace
+  - hardware
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - industry
+  - engineering
 industries:
   - "automotive-industry"
   - "aerospace-industry"
@@ -45,18 +45,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - gold
-  - yellow
-  - silver
-  - black
   - white
+  - gold
+  - black
+  - yellow
   - blue
+  - silver
 typographies:
   - univers
 imagery_styles:

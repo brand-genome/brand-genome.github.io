@@ -2,7 +2,7 @@
 title: The Climate Group
 slug: "the-climate-group"
 description: ""
-date: "2026-03-05T15:56:45.976267"
+date: "2026-03-05T22:38:39.551225"
 draft: false
 sectors:
   - ngo
@@ -45,17 +45,17 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - red
-  - black
   - white
+  - red
   - green
+  - black
 typographies:
   - impact
 imagery_styles:
   - bold
+  - photography
   - professional
   - graphic
-  - photography
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Atkins Red Devils
 slug: "atkins-red-devils"
 description: ""
-date: "2026-03-05T15:56:46.060285"
+date: "2026-03-05T22:38:39.657512"
 draft: false
 sectors:
   - education
@@ -42,9 +42,9 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - grey
-  - red
   - white
+  - red
+  - grey
   - black
 typographies:
   - times

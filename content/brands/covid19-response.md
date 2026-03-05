@@ -2,11 +2,11 @@
 title: Covid19 Response
 slug: "covid19-response"
 description: ""
-date: "2026-03-05T15:56:45.898835"
+date: "2026-03-05T22:38:39.421828"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - unknown
 years:
@@ -39,12 +39,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - orange
+  - blue
   - brown
   - green
   - purple
-  - orange
-  - blue
-  - red
 typographies:
   - oswald
 imagery_styles: []

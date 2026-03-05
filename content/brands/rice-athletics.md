@@ -2,11 +2,11 @@
 title: Rice Athletics
 slug: "rice-athletics"
 description: ""
-date: "2026-03-05T15:56:46.066026"
+date: "2026-03-05T22:38:39.672947"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:

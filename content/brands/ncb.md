@@ -2,7 +2,7 @@
 title: NCB
 slug: ncb
 description: ""
-date: "2026-03-05T15:56:46.054406"
+date: "2026-03-05T22:38:39.647283"
 draft: false
 sectors:
   - finance
@@ -38,12 +38,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies: []
 imagery_styles:
   - monochrome

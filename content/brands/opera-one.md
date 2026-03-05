@@ -2,7 +2,7 @@
 title: Opera One
 slug: "opera-one"
 description: ""
-date: "2026-03-05T15:56:45.744938"
+date: "2026-03-05T22:38:39.242550"
 draft: false
 sectors:
   - software

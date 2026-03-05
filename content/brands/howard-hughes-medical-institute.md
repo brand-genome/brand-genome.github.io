@@ -2,12 +2,12 @@
 title: Howard Hughes Medical Institute
 slug: "howard-hughes-medical-institute"
 description: ""
-date: "2026-03-05T15:56:45.772220"
+date: "2026-03-05T22:38:39.269932"
 draft: false
 sectors:
-  - ngo
-  - healthcare
   - research
+  - healthcare
+  - ngo
 regions:
   - usa
 years:

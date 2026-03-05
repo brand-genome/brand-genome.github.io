@@ -2,7 +2,7 @@
 title: Kryptonite
 slug: kryptonite
 description: ""
-date: "2026-03-05T15:56:46.003389"
+date: "2026-03-05T22:38:39.575979"
 draft: false
 sectors:
   - hardware
@@ -40,16 +40,16 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - yellow
-  - gray
-  - black
   - "pantone-165"
   - "pantone-7461"
+  - black
+  - yellow
+  - gray
 typographies: []
 imagery_styles:
   - bold
-  - clean
   - product
+  - clean
 wikidata_description: brand of bicycle lock
 has_twitter: false
 has_guidelines: true

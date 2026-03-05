@@ -2,11 +2,11 @@
 title: Kaiser Permanente
 slug: "kaiser-permanente"
 description: ""
-date: "2026-03-05T15:56:46.257977"
+date: "2026-03-05T22:38:40.031000"
 draft: false
 sectors:
-  - insurance
   - healthcare
+  - insurance
 regions:
   - unknown
 years: []
@@ -22,217 +22,217 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "two-tone"
-  - light
   - "text-heavy"
+  - "complementary-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
 photography_genres:
+  - selfie
+  - professional
+  - "social-awareness"
+  - informational
+  - landscape
+  - botanical
+  - promotional
+  - product
+  - environmental
+  - text
+  - interior
+  - illustration
+  - street
+  - advertising
+  - architectural
+  - candid
+  - "live-stage"
+  - action
+  - group
+  - documentary
+  - headshot
+  - logo
   - fashion
   - sky
-  - "social-awareness"
-  - "still-life"
-  - "live-stage"
-  - group
-  - medical
-  - "professional-headshot"
-  - selfie
-  - healthcare
-  - environmental
-  - interior
-  - typography
-  - candid
-  - botanical
-  - political
-  - cityscape
-  - "incomplete-art"
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - corporate
-  - event
-  - business
-  - family
-  - text
-  - portrait
   - advertisement
-  - informational
-  - product
-  - information
+  - event
+  - healthcare
+  - cityscape
   - "text-heavy"
-  - architectural
-  - headshot
-  - documentary
-  - professional
-  - illustration
-  - action
-  - advertising
-concepts:
+  - corporate
+  - family
+  - typography
+  - "graphic-design"
+  - "professional-headshot"
   - "incomplete-art"
-  - documentary
-  - photorealism
+  - portrait
+  - beauty
+  - staged
+  - business
+  - political
+  - medical
+  - information
+  - "still-life"
+concepts:
+  - "social-message"
+  - advertisement
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "graphic-design"
-  - "text-heavy"
-  - "social-message"
   - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - photorealism
+  - documentary
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - cyan
-  - "royal-blue"
-  - "dark-blue"
-  - gray
+  - white
   - "off-white"
   - black
-  - white
+  - "dark-blue"
+  - cyan
   - "light-blue"
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
   - wavy
-  - "pulled-back"
-  - graying
-  - bald
-  - straight
-  - long
-  - casual
+  - loose
   - updo
+  - dark
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - friendly
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - friendly
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - "smart-casual"
-  - professional
-  - uniform
-  - formal
   - casual
+  - "smart-casual"
+  - athletic
+  - business
+  - beachwear
+  - professional
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
   - traditional
   - "business-casual"
-  - costume
-  - beachwear
-  - "form-fitting"
-  - protective
-  - athletic
+  - uniform
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - black
-  - muted
   - white
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - black
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
-  - engaged
-  - reclined
-  - formal
-  - leaning
   - seated
-  - confident
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
   - walking
-  - static
-gazes:
-  - sideways
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - formal
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - "at-camera"
-  - forward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
-  - "shoulders-up"
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "shoulders-up"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

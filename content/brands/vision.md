@@ -2,7 +2,7 @@
 title: Vision
 slug: vision
 description: ""
-date: "2026-03-05T15:56:46.085696"
+date: "2026-03-05T22:38:39.706445"
 draft: false
 sectors:
   - tourism
@@ -39,30 +39,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - icon
+  - primary
 brand_colors:
+  - white
   - "pantone-3252"
+  - red
   - grey
   - black
-  - blue
   - "pantone-485"
-  - white
-  - red
+  - blue
 typographies:
   - arial
   - "proxima-nova"
 imagery_styles:
-  - modern
-  - professional
-  - natural
-  - dynamic
-  - colorful
-  - clean
-  - vibrant
-  - candid
   - bold
+  - vibrant
   - graphic
+  - dynamic
+  - professional
+  - colorful
+  - modern
+  - candid
+  - clean
+  - natural
 wikidata_description: Polish film production company
 has_twitter: false
 has_guidelines: true

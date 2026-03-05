@@ -2,7 +2,7 @@
 title: Fox NFL
 slug: "fox-nfl"
 description: ""
-date: "2026-03-05T15:56:45.811341"
+date: "2026-03-05T22:38:39.317251"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -40,14 +40,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - yellow
 typographies: []
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: television series
 has_twitter: false
 has_guidelines: true

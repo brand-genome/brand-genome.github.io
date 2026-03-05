@@ -2,7 +2,7 @@
 title: Rotary International
 slug: "rotary-international"
 description: ""
-date: "2026-03-05T15:56:45.776901"
+date: "2026-03-05T22:38:39.274330"
 draft: false
 sectors:
   - ngo
@@ -41,45 +41,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - signature
-  - emblem
-  - logomark
-  - secondary
   - primary
+  - emblem
+  - secondary
+  - signature
+  - wordmark
+  - logomark
 brand_colors:
-  - green
+  - white
+  - violet
+  - red
   - gold
-  - yellow
-  - silver
   - orange
   - grey
   - black
-  - turquoise
+  - yellow
   - blue
-  - white
-  - red
-  - violet
+  - turquoise
+  - silver
+  - green
 typographies:
-  - arial
   - impact
-  - helvetica
   - frutiger
-  - georgia
   - "open-sans"
+  - arial
+  - georgia
+  - helvetica
 imagery_styles:
-  - monochrome
-  - modern
-  - professional
+  - bold
   - photography
-  - organic
-  - natural
+  - vibrant
+  - professional
+  - monochrome
   - illustration
   - gradient
-  - clean
-  - vibrant
+  - modern
   - candid
-  - bold
+  - clean
+  - organic
+  - natural
 wikidata_description: "international non-profit service organization"
 has_twitter: false
 has_guidelines: true

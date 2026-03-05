@@ -2,7 +2,7 @@
 title: Southwest Airlines
 slug: "southwest-airlines"
 description: ""
-date: "2026-03-05T15:56:46.172697"
+date: "2026-03-05T22:38:39.814850"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
+  - transport
 industries:
   - "air-transport"
 countries:
@@ -28,191 +28,191 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
   - "background-as-frame"
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - "sky-colors"
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
-  - "sky-colors"
 photography_genres:
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - staged
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - event
-  - family
-  - "pet-photography"
-  - portrait
-  - product
-  - "text-heavy"
-  - bridal
-  - architectural
   - professional
-  - documentary
-  - action
+  - news
+  - landscape
+  - product
+  - interior
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
+  - architectural
+  - action
+  - "live-stage"
   - documentary
-  - photorealism
-  - illustration
-  - vintage
+  - group
+  - event
+  - sky
+  - bridal
+  - "pet-photography"
+  - "text-heavy"
+  - family
   - "graphic-design"
+  - portrait
+  - staged
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "incomplete-art"
+  - photorealism
+  - documentary
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - "royal-blue"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - olive
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - olive
+  - "royal-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
-  - "pulled-back"
-  - long
-  - ponytail
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
+  - "pulled-back"
   - bald
-  - gray
-  - short
-  - updo
-  - "tied-back"
-  - straight
   - neat
+  - wavy
+  - loose
+  - straight
+  - ponytail
+  - braided
+  - short
+  - curly
+  - updo
+  - long
+  - gray
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - surprised
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - shocked
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - professional
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - professional
+  - costume
+  - formal
   - protective
-  - athletic
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - uniform
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - uniform
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

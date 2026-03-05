@@ -2,7 +2,7 @@
 title: Olemisswbb
 slug: olemisswbb
 description: ""
-date: "2026-03-05T15:56:46.217204"
+date: "2026-03-05T22:38:39.953519"
 draft: false
 sectors:
   - sports
@@ -19,230 +19,230 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
   - white
-  - light
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
+  - white
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - white
-  - "autumnal-colors"
   - "galaxy-colors"
-  - "two-tone"
   - light
-  - red
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
+  - audience
+  - selfie
+  - professional
+  - landscape
+  - promotional
+  - product
+  - interior
+  - "audience-perspective"
+  - "event-promotion"
+  - street
+  - advertising
+  - architectural
+  - sports
+  - team
+  - candid
+  - action
+  - group
+  - headshot
+  - "live-stage"
   - fashion
+  - advertisement
+  - event
   - sky
   - amateur
-  - team
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - interior
-  - "event-promotion"
-  - candid
-  - audience
-  - celebration
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - street
-  - landscape
-  - event
-  - auditorium
   - family
+  - "graphic-design"
   - portrait
-  - advertisement
-  - product
-  - sports
+  - beauty
+  - staged
+  - celebration
   - athlete
-  - headshot
-  - architectural
-  - professional
-  - "audience-perspective"
-  - action
-  - advertising
+  - "still-life"
+  - auditorium
 concepts:
-  - "live-performance"
-  - "incomplete-art"
-  - "audience-participation"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
   - award
   - advertisement
-  - "graphic-design"
-  - "sports-theme"
-  - "text-heavy"
-  - typography
   - "athletic-achievement"
+  - "live-performance"
+  - "text-heavy"
+  - illustration
+  - "audience-participation"
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
+  - "sports-theme"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - red
-  - "royal-blue"
-  - "dark-blue"
-  - purple
-  - gray
-  - black
   - white
+  - red
+  - black
+  - "dark-blue"
   - blue
+  - "royal-blue"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - content
-  - braids
-  - joyful
-  - contemplative
-  - relaxed
-  - braided
-  - neutral
-  - engaged
-  - curly
-  - covered
-  - varied
-  - short
-  - red
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - straight
-  - blonde
-  - long
-  - focused
   - casual
+  - blonde
+  - flowing
+  - engaged
+  - wavy
+  - relaxed
+  - loose
   - updo
   - "tied-back"
-facial_expressions:
+  - braids
   - neutral
-  - surprised
-  - determined
-  - engaged
-  - focused
-  - content
+  - straight
+  - ponytail
+  - curly
   - joyful
+  - red
+  - content
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - focused
+  - long
   - contemplative
-  - relaxed
+facial_expressions:
+  - joyful
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - determined
   - excited
+  - focused
+  - contemplative
+  - surprised
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
   - protective
-  - athletic
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - dynamic
-  - muted
-  - colorful
   - red
   - vibrant
-posings:
-  - standing
-  - active
-  - reaching
-  - engaged
-  - walking
-  - seated
-  - confident
-  - leaning
+  - muted
   - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
+  - seated
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
-  - intense
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - reaching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - intense
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

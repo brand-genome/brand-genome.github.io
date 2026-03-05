@@ -2,7 +2,7 @@
 title: Every Kid in a Park
 slug: "every-kid-in-a-park"
 description: ""
-date: "2026-03-05T15:56:45.857438"
+date: "2026-03-05T22:38:39.371935"
 draft: false
 sectors:
   - "public-sector"
@@ -39,12 +39,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-350"
+  - white
   - "pantone-478"
+  - "pantone-7459"
   - black
   - "pantone-134"
-  - white
-  - "pantone-7459"
+  - "pantone-350"
 typographies:
   - display
 imagery_styles:

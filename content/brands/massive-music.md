@@ -2,12 +2,12 @@
 title: Massive Music
 slug: "massive-music"
 description: ""
-date: "2026-03-05T15:56:45.818854"
+date: "2026-03-05T22:38:39.325608"
 draft: false
 sectors:
+  - software
   - "marketing-advertising"
   - entertainment
-  - software
 regions:
   - netherlands
 years:
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
   - stacked
-  - primary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - serious
-  - minimal
-  - dynamic
-  - gradient
   - bold
   - playful
+  - serious
+  - dynamic
+  - minimal
+  - gradient
 wikidata_description: sound design company involved in the Wikimedia sound logo process
 has_twitter: false
 has_guidelines: true

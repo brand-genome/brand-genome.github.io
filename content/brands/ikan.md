@@ -2,7 +2,7 @@
 title: Ikan
 slug: ikan
 description: ""
-date: "2026-03-05T15:56:45.723470"
+date: "2026-03-05T22:38:39.213123"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -17,8 +17,8 @@ tags:
   - featured
   - "human-ressources"
 industries:
-  - "food-industry"
   - "consumer-goods-industry"
+  - "food-industry"
 countries:
   - indonesia
 revenue_buckets: []

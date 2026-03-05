@@ -2,7 +2,7 @@
 title: Northern Irish Connections
 slug: "northern-irish-connections"
 description: ""
-date: "2026-03-05T15:56:45.943871"
+date: "2026-03-05T22:38:39.512667"
 draft: false
 sectors:
   - "public-sector"
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - icon
+  - secondary
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies: []
 imagery_styles:
-  - contemporary
-  - staged
   - product
-  - dramatic
+  - staged
+  - contemporary
   - flat
+  - dramatic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

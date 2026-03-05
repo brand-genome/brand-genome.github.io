@@ -2,7 +2,7 @@
 title: KPIT
 slug: kpit
 description: ""
-date: "2026-03-05T15:56:46.162476"
+date: "2026-03-05T22:38:39.802959"
 draft: false
 sectors:
   - consulting

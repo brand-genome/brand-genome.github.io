@@ -2,7 +2,7 @@
 title: Global Green Growth Institute
 slug: "global-green-growth-institute"
 description: ""
-date: "2026-03-05T15:56:45.862160"
+date: "2026-03-05T22:38:39.377048"
 draft: false
 sectors:
   - ngo
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
   - horizontal
   - abstract
-  - primary
   - vertical
 brand_colors:
-  - blue
   - white
+  - blue
   - green
 typographies:
   - lato
 imagery_styles:
-  - clean
   - abstract
+  - clean
   - bold
   - graphic
 wikidata_description: "international climate organization, headquartered in South Korea"

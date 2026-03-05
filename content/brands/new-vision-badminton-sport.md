@@ -2,7 +2,7 @@
 title: New Vision Badminton Sport
 slug: "new-vision-badminton-sport"
 description: ""
-date: "2026-03-05T15:56:45.797768"
+date: "2026-03-05T22:38:39.301568"
 draft: false
 sectors:
   - sports
@@ -37,27 +37,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - signature
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - signature
   - vertical
 brand_colors:
-  - maroon
-  - green
-  - blue
-  - black
   - white
-  - red
   - violet
+  - red
+  - black
+  - maroon
+  - blue
+  - green
 typographies:
   - impact
   - display
 imagery_styles:
-  - monochrome
   - bold
   - photography
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

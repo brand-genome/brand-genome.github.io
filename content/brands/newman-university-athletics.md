@@ -2,11 +2,11 @@
 title: Newman University Athletics
 slug: "newman-university-athletics"
 description: ""
-date: "2026-03-05T15:56:45.656100"
+date: "2026-03-05T22:38:39.123665"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:

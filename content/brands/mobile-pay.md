@@ -2,11 +2,11 @@
 title: Mobile Pay
 slug: "mobile-pay"
 description: ""
-date: "2026-03-05T15:56:46.151499"
+date: "2026-03-05T22:38:39.791361"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - denmark
 years:
@@ -41,11 +41,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - icon
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies: []
 imagery_styles:
   - bold

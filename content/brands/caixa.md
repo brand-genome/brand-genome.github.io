@@ -2,7 +2,7 @@
 title: Caixa
 slug: caixa
 description: ""
-date: "2026-03-05T15:56:45.848910"
+date: "2026-03-05T22:38:39.361327"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - brazil
 revenue_buckets: []

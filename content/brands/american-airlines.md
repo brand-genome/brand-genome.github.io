@@ -2,7 +2,7 @@
 title: American Airlines
 slug: "american-airlines"
 description: ""
-date: "2026-03-05T15:56:46.115465"
+date: "2026-03-05T22:38:39.751620"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - airline
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -44,8 +44,8 @@ brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: major airline of the United States
 has_twitter: false
 has_guidelines: true

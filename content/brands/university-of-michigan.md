@@ -2,11 +2,11 @@
 title: University of Michigan
 slug: "university-of-michigan"
 description: ""
-date: "2026-03-05T15:56:45.749171"
+date: "2026-03-05T22:38:39.247180"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -41,25 +41,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - seal
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-7406"
   - red
-  - green
+  - "pantone-282"
   - orange
   - blue
-  - "pantone-282"
+  - green
+  - "pantone-7406"
 typographies:
-  - serif
-  - merriweather
-  - oswald
-  - "sans-serif"
-  - montserrat
   - nunito
-  - display
+  - serif
+  - "sans-serif"
   - playfair
+  - merriweather
+  - montserrat
+  - oswald
+  - display
 imagery_styles:
   - photography
 wikidata_description: "public research university in Ann Arbor, Michigan"

@@ -2,7 +2,7 @@
 title: AIAA
 slug: aiaa
 description: ""
-date: "2026-03-05T15:56:46.163326"
+date: "2026-03-05T22:38:39.804477"
 draft: false
 sectors:
   - ngo

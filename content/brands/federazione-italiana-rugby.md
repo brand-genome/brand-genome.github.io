@@ -2,7 +2,7 @@
 title: Federazione Italiana Rugby
 slug: "federazione-italiana-rugby"
 description: ""
-date: "2026-03-05T15:56:45.914223"
+date: "2026-03-05T22:38:39.476475"
 draft: false
 sectors:
   - sports
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
+  - white
+  - "pantone-341"
+  - "pantone-873"
   - "pantone-186"
   - "pantone-7621"
-  - "pantone-873"
-  - "pantone-341"
-  - white
   - "pantone-871"
 typographies:
   - din
 imagery_styles:
-  - gradient
   - bold
   - photography
+  - gradient
 wikidata_description: governing body of rugby union in Italy
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: "Canna-Pet"
 slug: "canna-pet"
 description: ""
-date: "2026-03-05T15:56:46.113530"
+date: "2026-03-05T22:38:39.748581"
 draft: false
 sectors:
   - "veterinary-pet-care"

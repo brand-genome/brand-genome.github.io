@@ -2,7 +2,7 @@
 title: Carhartt
 slug: carhartt
 description: ""
-date: "2026-03-05T15:56:46.031607"
+date: "2026-03-05T22:38:39.599975"
 draft: false
 sectors:
   - fashion
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - fashion
   - construction
+  - fashion
 industries:
   - "textile-industry"
 countries:
@@ -41,22 +41,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - signature
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - signature
+  - wordmark
 brand_colors:
-  - "pantone-1655"
-  - "pantone-153"
-  - "pantone-381"
-  - brown
-  - "pantone-5395"
-  - "pantone-7511"
-  - black
   - white
+  - "pantone-381"
+  - "pantone-153"
+  - black
   - "pantone-5405"
+  - "pantone-5395"
+  - "pantone-1655"
+  - brown
+  - "pantone-7511"
 typographies:
   - impact
   - helvetica

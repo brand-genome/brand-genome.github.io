@@ -2,12 +2,12 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-03-05T15:56:46.170899"
+date: "2026-03-05T22:38:39.812841"
 draft: false
 sectors:
+  - publishing
   - "marketing-advertising"
   - entertainment
-  - publishing
 regions:
   - france
 years:
@@ -46,15 +46,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-249"
-  - black
   - white
   - violet
+  - "pantone-249"
+  - black
 typographies:
   - univers
 imagery_styles:
-  - vibrant
   - bold
+  - vibrant
 wikidata_description: French mass media holding company
 has_twitter: false
 has_guidelines: true

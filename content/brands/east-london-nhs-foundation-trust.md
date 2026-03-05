@@ -2,11 +2,11 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-03-05T15:56:45.789578"
+date: "2026-03-05T22:38:39.291554"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
+  - white
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
-  - frutiger
   - arial
+  - frutiger
 imagery_styles:
   - bold
   - photography
-  - illustration
   - natural
+  - illustration
 wikidata_description: UK NHS foundation trust
 has_twitter: false
 has_guidelines: true

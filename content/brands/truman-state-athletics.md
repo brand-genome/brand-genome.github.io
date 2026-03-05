@@ -2,11 +2,11 @@
 title: Truman State Athletics
 slug: "truman-state-athletics"
 description: ""
-date: "2026-03-05T15:56:45.919225"
+date: "2026-03-05T22:38:39.486853"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: collegiate sports club in the United States
 has_twitter: false
 has_guidelines: true

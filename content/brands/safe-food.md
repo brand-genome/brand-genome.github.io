@@ -2,11 +2,11 @@
 title: Safe Food
 slug: "safe-food"
 description: ""
-date: "2026-03-05T15:56:46.168665"
+date: "2026-03-05T22:38:39.810828"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -39,8 +39,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

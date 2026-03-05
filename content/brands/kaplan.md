@@ -2,7 +2,7 @@
 title: Kaplan
 slug: kaplan
 description: ""
-date: "2026-03-05T15:56:45.878952"
+date: "2026-03-05T22:38:39.388489"
 draft: false
 sectors:
   - education

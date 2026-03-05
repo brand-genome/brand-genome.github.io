@@ -2,7 +2,7 @@
 title: Special Olympics
 slug: "special-olympics"
 description: ""
-date: "2026-03-05T15:56:45.947367"
+date: "2026-03-05T22:38:39.516001"
 draft: false
 sectors:
   - ngo
@@ -41,14 +41,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - alternate
   - primary
+  - secondary
 brand_colors:
   - red
-  - yellow
   - teal
   - black
+  - yellow
   - blue
 typographies:
   - impact

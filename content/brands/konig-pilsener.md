@@ -2,7 +2,7 @@
 title: König Pilsener
 slug: "konig-pilsener"
 description: ""
-date: "2026-03-05T15:56:45.781636"
+date: "2026-03-05T22:38:39.279866"
 draft: false
 sectors:
   - brewery

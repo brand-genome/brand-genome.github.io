@@ -2,7 +2,7 @@
 title: Limerick
 slug: limerick
 description: ""
-date: "2026-03-05T15:56:46.049358"
+date: "2026-03-05T22:38:39.640505"
 draft: false
 sectors:
   - "public-sector"
@@ -39,26 +39,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - orange
   - black
-  - white
   - blue
+  - green
 typographies: []
 imagery_styles:
-  - modern
+  - bold
   - photography
-  - minimal
   - staged
-  - natural
+  - graphic
+  - minimal
   - gradient
   - dramatic
-  - bold
-  - graphic
+  - modern
+  - natural
 wikidata_description: city in Ireland in the province of Munster
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Mini CI
 slug: "mini-ci"
 description: ""
-date: "2026-03-05T15:56:45.946662"
+date: "2026-03-05T22:38:39.515301"
 draft: false
 sectors:
   - automobile
@@ -41,8 +41,8 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies: []
 imagery_styles:

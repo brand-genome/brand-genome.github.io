@@ -2,7 +2,7 @@
 title: Portugal 2020
 slug: "portugal-2020"
 description: ""
-date: "2026-03-05T15:56:45.984136"
+date: "2026-03-05T22:38:39.559686"
 draft: false
 sectors:
   - "public-sector"
@@ -41,16 +41,16 @@ logo_elements:
   - symbol
 brand_colors:
   - red
-  - black
   - green
+  - black
 typographies:
   - serif
   - display
 imagery_styles:
   - dynamic
   - modern
-  - monochrome
   - photography
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

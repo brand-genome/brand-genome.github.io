@@ -2,11 +2,11 @@
 title: OneHousing
 slug: onehousing
 description: ""
-date: "2026-03-05T15:56:45.669636"
+date: "2026-03-05T22:38:39.143368"
 draft: false
 sectors:
-  - "real-estate"
   - software
+  - "real-estate"
 regions:
   - vietnam
 years:

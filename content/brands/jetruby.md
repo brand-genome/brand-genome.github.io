@@ -2,7 +2,7 @@
 title: Jetruby
 slug: jetruby
 description: ""
-date: "2026-03-05T15:56:45.695875"
+date: "2026-03-05T22:38:39.187562"
 draft: false
 sectors:
   - consulting

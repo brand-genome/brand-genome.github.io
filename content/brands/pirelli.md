@@ -2,22 +2,22 @@
 title: Pirelli
 slug: pirelli
 description: ""
-date: "2026-03-05T15:56:45.801627"
+date: "2026-03-05T22:38:39.308087"
 draft: false
 sectors:
   - tires
 regions:
   - italy
 years:
-  - 2015
   - 2013
+  - 2015
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "manufacture-of-rubber-tyres-and-tubes-retreading-and-rebuilding-of-rubber-tyres"
   - "plastics-and-rubber-industry"
+  - "manufacture-of-rubber-tyres-and-tubes-retreading-and-rebuilding-of-rubber-tyres"
 countries:
   - italy
 revenue_buckets:
@@ -29,317 +29,240 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
+  - red
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
+  - solid
   - transparent
-  - bright
-  - gradient
   - black
   - light
-  - red
-  - textured
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - "pastel-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - racing
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - automotive
-  - motorsport
-  - commercial
-  - branding
-  - "event-photography"
+  - "race-car"
   - audience
+  - selfie
+  - commercial
+  - "audience-shot"
   - race
-  - staged
+  - landscape
+  - automotive
   - promotional
   - food
-  - "graphic-design"
-  - street
-  - landscape
-  - event
-  - portrait
-  - advertisement
   - product
-  - sports
-  - "text-heavy"
-  - "audience-shot"
-  - architectural
-  - reportage
-  - documentary
-  - "race-car"
   - "audience-perspective"
-  - action
+  - street
   - advertising
-concepts:
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - informative
-  - "data-presentation"
-  - "graphic-design"
-  - product
+  - architectural
+  - racing
   - action
+  - sports
+  - "live-stage"
+  - group
+  - documentary
+  - motorsport
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - reportage
   - "text-heavy"
+  - "graphic-design"
+  - portrait
+  - staged
+  - "event-photography"
+  - branding
+  - "still-life"
+concepts:
+  - informative
+  - product
+  - "text-heavy"
+  - "motion-capture"
+  - illustration
+  - "data-presentation"
+  - vintage
   - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - action
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
 image_effects:
+  - "bokeh-effect"
+  - "low-saturation"
   - "neutral-density-filter"
+  - silhouette
+  - "artificial-shadow"
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - "bokeh-effect"
-  - silhouette
+  - symmetrical
+  - "cut-out"
+  - asymmetry
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
 dominant_colors:
+  - white
+  - "off-white"
   - "mud-green"
   - "dark-blue"
-  - "dark-gray"
-  - gray
-  - "off-white"
   - black
-  - white
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
   - bald
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - neat
+  - wavy
+  - loose
+  - ponytail
+  - braided
+  - short
+  - curly
   - updo
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-  - e
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - colorful
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+  - uniform
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements:
-  - secondary
-  - primary
   - abstract
+  - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - red
-  - yellow
   - grey
   - black
-  - white
+  - yellow
   - blue
+  - green
 typographies:
   - impact
-  - arial
   - gotham
+  - arial
 imagery_styles:
-  - graphic
-  - abstract
   - bold
   - portrait
+  - abstract
+  - graphic
 wikidata_description: Italian multinational tyre manufacturer based in the city of Milan
 has_twitter: true
 has_guidelines: true

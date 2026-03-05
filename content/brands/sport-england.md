@@ -2,7 +2,7 @@
 title: Sport England
 slug: "sport-england"
 description: ""
-date: "2026-03-05T15:56:46.045918"
+date: "2026-03-05T22:38:39.635456"
 draft: false
 sectors:
   - "public-sector"
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies: []
 imagery_styles:

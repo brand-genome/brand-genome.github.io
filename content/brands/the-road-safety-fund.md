@@ -2,7 +2,7 @@
 title: The Road Safety Fund
 slug: "the-road-safety-fund"
 description: ""
-date: "2026-03-05T15:56:45.865230"
+date: "2026-03-05T22:38:39.379663"
 draft: false
 sectors:
   - ngo
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
+  - white
   - gold
-  - gray
-  - silver
   - orange
   - black
-  - white
   - blue
+  - silver
+  - gray
 typographies: []
 imagery_styles:
-  - colorful
   - bold
+  - colorful
   - photography
 wikidata_description: ""
 has_twitter: false

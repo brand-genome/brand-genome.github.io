@@ -2,7 +2,7 @@
 title: Carcassonne Agglo
 slug: "carcassonne-agglo"
 description: ""
-date: "2026-03-05T15:56:45.948217"
+date: "2026-03-05T22:38:39.516566"
 draft: false
 sectors:
   - "public-sector"
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - green
-  - "pantone-722"
+  - "pantone-632"
+  - red
+  - "pantone-235"
   - "pantone-377"
   - black
   - blue
-  - "pantone-235"
-  - "pantone-632"
-  - red
+  - green
+  - "pantone-722"
 typographies: []
 imagery_styles:
   - bold

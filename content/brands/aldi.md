@@ -2,7 +2,7 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-03-05T15:56:46.070706"
+date: "2026-03-05T22:38:39.682289"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,10 +20,10 @@ industries:
   - retail
   - "discount-store"
 countries:
-  - "united-states"
-  - belgium
   - germany
+  - "united-states"
   - netherlands
+  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

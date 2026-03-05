@@ -2,11 +2,11 @@
 title: 3mon
 slug: 3mon
 description: ""
-date: "2026-03-05T15:56:45.686521"
+date: "2026-03-05T22:38:39.180378"
 draft: false
 sectors:
-  - hardware
   - "emergency-services"
+  - hardware
 regions:
   - slovakia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "rescue-service"
   - technology
+  - "rescue-service"
 industries: []
 countries: []
 revenue_buckets: []
@@ -42,9 +42,9 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-137"
   - white
   - silver
+  - "pantone-137"
 typographies: []
 imagery_styles:
   - bold

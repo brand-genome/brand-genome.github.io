@@ -2,16 +2,16 @@
 title: "Aix-Marseille Université"
 slug: "aix-marseille-universite"
 description: ""
-date: "2026-03-05T15:56:45.696995"
+date: "2026-03-05T22:38:39.188777"
 draft: false
 sectors:
   - university
 regions:
   - france
 years:
-  - 2015
-  - 2024
   - 2019
+  - 2024
+  - 2015
 languages:
   - french
 tags:
@@ -44,15 +44,15 @@ logo_elements:
   - primary
   - vertical
 brand_colors:
-  - "pantone-130"
+  - red
   - magenta
   - cyan
-  - green
+  - black
   - yellow
   - blue
-  - black
   - "pantone-300"
-  - red
+  - "pantone-130"
+  - green
 typographies: []
 imagery_styles:
   - bold

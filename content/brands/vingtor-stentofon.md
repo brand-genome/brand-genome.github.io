@@ -2,11 +2,11 @@
 title: Vingtor Stentofon
 slug: "vingtor-stentofon"
 description: ""
-date: "2026-03-05T15:56:46.096057"
+date: "2026-03-05T22:38:39.717075"
 draft: false
 sectors:
-  - hardware
   - telecom
+  - hardware
 regions:
   - belgium
 years:
@@ -40,13 +40,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - green
-  - yellow
-  - orange
-  - grey
-  - black
   - white
   - red
+  - grey
+  - orange
+  - black
+  - yellow
+  - green
 typographies:
   - univers
   - arial

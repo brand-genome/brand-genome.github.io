@@ -2,7 +2,7 @@
 title: Nanton
 slug: nanton
 description: ""
-date: "2026-03-05T15:56:46.081472"
+date: "2026-03-05T22:38:39.701610"
 draft: false
 sectors:
   - "public-sector"
@@ -41,17 +41,17 @@ logo_elements:
   - wordmark
   - primary
 brand_colors:
-  - brown
-  - "pantone-467"
-  - beige
-  - black
-  - "pantone-1815"
   - white
+  - black
   - "pantone-464"
+  - "pantone-1815"
+  - brown
+  - beige
+  - "pantone-467"
 typographies:
-  - arial
-  - slab
   - avenir
+  - slab
+  - arial
 imagery_styles:
   - vintage
 wikidata_description: town in Alberta

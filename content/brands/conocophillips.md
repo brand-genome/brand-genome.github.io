@@ -2,11 +2,11 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-03-05T15:56:45.723725"
+date: "2026-03-05T22:38:39.213461"
 draft: false
 sectors:
-  - gas
   - oil
+  - gas
 regions:
   - usa
 years:
@@ -43,22 +43,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
+  - white
   - red
-  - yellow
-  - gray
   - orange
   - black
-  - white
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
   - impact
 imagery_styles:
-  - gradient
   - professional
+  - gradient
 wikidata_description: American oil and gas company
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Ministry of Digital Affairs
 slug: "ministry-of-digital-affairs"
 description: ""
-date: "2026-03-05T15:56:45.798106"
+date: "2026-03-05T22:38:39.302060"
 draft: false
 sectors:
   - "public-sector"
@@ -40,9 +40,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - "pantone-430"
   - "pantone-101"
-  - white
 typographies:
   - poppins
 imagery_styles: []

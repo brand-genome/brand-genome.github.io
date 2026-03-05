@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-03-05T15:56:46.008891"
+date: "2026-03-05T22:38:39.582039"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
+  - "financial-services"
   - "economics-of-banking"
   - "financial-sector"
-  - "financial-services"
 countries:
   - spain
 revenue_buckets:
@@ -43,12 +43,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
+  - alternate
+  - secondary
+  - horizontal
+  - wordmark
   - vertical
 brand_colors:
   - white
@@ -56,8 +56,8 @@ typographies:
   - "source-sans"
   - arial
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: Spanish banking group
 has_twitter: false
 has_guidelines: true

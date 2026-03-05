@@ -2,7 +2,7 @@
 title: Michael Kors
 slug: "michael-kors"
 description: ""
-date: "2026-03-05T15:56:46.206472"
+date: "2026-03-05T22:38:39.933314"
 draft: false
 sectors:
   - fashion
@@ -21,297 +21,220 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
+  - "low-angle-photo"
   - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - "background-as-frame"
-  - text
-  - dark
-  - blurred
-  - wood
-  - transparent
-  - bright
-  - gradient
   - white
-  - "text-as-background"
-  - light
+  - "background-as-frame"
   - red
+  - wood
+  - "text-as-background"
   - textured
+  - text
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "galaxy-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - performance
+  - food
+  - product
+  - lifestyle
+  - abstract
+  - interior
+  - vintage
+  - street
+  - architectural
+  - candid
+  - action
   - "live-stage"
   - group
-  - performance
-  - selfie
-  - interior
-  - candid
-  - staged
-  - vintage
-  - beauty
-  - food
-  - street
-  - landscape
+  - fashion
+  - sky
+  - advertisement
+  - bridal
+  - "text-heavy"
+  - underwater
   - family
   - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - "text-heavy"
-  - bridal
-  - architectural
-  - underwater
-  - abstract
-  - action
+  - beauty
+  - staged
+  - "still-life"
 concepts:
-  - "incomplete-art"
+  - product
   - "wave-pattern"
-  - photorealism
+  - cartoon
+  - "text-heavy"
   - illustration
   - vintage
-  - "text-heavy"
-  - "graphic-design"
-  - product
-  - cartoon
-  - "product-display"
-  - "product-photography"
   - typography
+  - "graphic-design"
+  - "product-photography"
+  - "product-display"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
+  - "low-saturation"
+  - "bright-focal-point"
   - "neutral-density-filter"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
   - "motion-capture"
   - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
   - "long-exposure"
-  - "low-saturation"
   - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
   - "off-white"
-  - black
   - white
+  - red
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
-  - red
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
   - flowing
-  - l
-  - e
-  - braided
-  - dark
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
+  - casual
+  - blonde
   - wavy
+  - loose
+  - curls
+  - updo
+  - dark
+  - "tied-back"
+  - straight
+  - ponytail
+  - costume
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
   - "pulled-back"
-  - t
-  - i
+  - neat
   - bald
   - black
-  - costume
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
-  - casual
-  - p
-  - updo
-  - "tied-back"
-  - curls
-facial_expressions:
-  - content
-  - l
-  - e
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-  - neutral
-  - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
   - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - dress
-  - i
-  - black
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - dress
+  - costume
+  - black
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - red
   - "black-and-white"
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - "full-body"
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
-gazes:
-  - sideways
-  - b
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - t
-  - upward
+  - holding
+  - active
+  - "full-body"
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

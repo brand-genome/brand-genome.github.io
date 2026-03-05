@@ -2,11 +2,11 @@
 title: Lightning Protection Institute
 slug: "lightning-protection-institute"
 description: ""
-date: "2026-03-05T15:56:45.822049"
+date: "2026-03-05T22:38:39.329010"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ logo_elements:
   - lockup
   - horizontal
   - wordmark
-  - logomark
   - stacked
+  - logomark
 brand_colors:
   - purple
   - "pantone-871"

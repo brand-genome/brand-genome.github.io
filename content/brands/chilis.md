@@ -2,7 +2,7 @@
 title: Chilis
 slug: chilis
 description: ""
-date: "2026-03-05T15:56:46.191893"
+date: "2026-03-05T22:38:39.888586"
 draft: false
 sectors:
   - restaurant
@@ -19,230 +19,230 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - brick
-  - light
   - red
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
+  - brick
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
   - commercial
-  - branding
-  - typography
-  - candid
+  - "home-decor"
+  - landscape
   - botanical
-  - staged
   - promotional
   - food
-  - beauty
-  - "home-decor"
-  - "graphic-design"
-  - street
-  - landscape
-  - logo
-  - event
-  - "food-photography"
-  - text
-  - portrait
-  - advertisement
-  - lifestyle
   - product
-  - sports
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - documentary
+  - text
+  - lifestyle
+  - illustration
   - abstract
-  - illustration
-  - calendar
+  - "food-photography"
+  - interior
   - "audience-perspective"
-  - party
-  - "food-and-drink"
-  - action
-  - horror
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - group
+  - party
+  - documentary
+  - logo
+  - fashion
   - advertisement
-  - "graphic-design"
+  - sky
+  - event
   - cartoon
   - "text-heavy"
   - typography
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - branding
+  - "food-and-drink"
+  - "still-life"
+  - calendar
+  - horror
+concepts:
+  - advertisement
+  - cartoon
+  - "text-heavy"
+  - illustration
+  - vintage
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - "saturated-colors"
+  - "artificial-shadow"
+  - silhouette
+  - "high-contrast"
   - "high-saturation"
   - "low-contrast"
-  - "saturated-colors"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
   - asymmetry
-  - "bright-focal-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
-  - "artificial-shadow"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
+  - white
+  - red
+  - orange
   - cream
   - cyan
-  - orange
   - black
-  - white
   - "dark-brown"
   - "light-blue"
-  - red
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
-  - flowing
-  - styled
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - bald
-  - blonde
-  - long
   - casual
+  - blonde
+  - flowing
+  - wavy
+  - loose
   - gray
   - updo
   - "tied-back"
-facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - joyful
-  - contemplative
-  - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - "form-fitting"
+  - ponytail
+  - styled
+  - curly
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
   - formal
-  - casual
-  - traditional
-  - costume
+  - long
+facial_expressions:
+  - joyful
+  - engaged
   - relaxed
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - relaxed
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - subtle
+  - pastel
+  - muted
 posings:
-  - standing
-  - active
+  - seated
   - engaged
   - walking
-  - confident
   - leaning
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
+  - dynamic
   - reclined
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
   - static
+  - confident
 gazes:
-  - sideways
   - engaged
-  - upward
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - engaged
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - engaged
+  - midsection
   - "full-back"
+  - "lower-half"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

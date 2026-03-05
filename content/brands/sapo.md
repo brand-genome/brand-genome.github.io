@@ -2,12 +2,12 @@
 title: Sapo
 slug: sapo
 description: ""
-date: "2026-03-05T15:56:46.183749"
+date: "2026-03-05T22:38:39.827008"
 draft: false
 sectors:
-  - "e-commerce"
-  - publishing
   - software
+  - publishing
+  - "e-commerce"
 regions:
   - portugal
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - portuguese
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
   - internet
 countries:
@@ -42,8 +42,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
   - arial

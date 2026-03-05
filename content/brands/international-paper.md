@@ -2,7 +2,7 @@
 title: International Paper
 slug: "international-paper"
 description: ""
-date: "2026-03-05T15:56:45.797892"
+date: "2026-03-05T22:38:39.301737"
 draft: false
 sectors:
   - "printing-reprographics"
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - vintage
-  - signage
   - industry
+  - signage
   - featured
 industries:
   - "pulp-and-paper-industry"
@@ -46,16 +46,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - symbol
   - vertical
   - horizontal
-  - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies:
+  - arial
   - times
   - display
-  - arial
 imagery_styles:
   - clean
 wikidata_description: American pulp and paper company

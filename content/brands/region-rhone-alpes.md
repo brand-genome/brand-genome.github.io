@@ -2,7 +2,7 @@
 title: "Région Rhône-Alpes"
 slug: "region-rhone-alpes"
 description: ""
-date: "2026-03-05T15:56:46.037348"
+date: "2026-03-05T22:38:39.606117"
 draft: false
 sectors:
   - "public-sector"
@@ -37,18 +37,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
+  - display
   - univers
   - frutiger
-  - display
   - garamond
 imagery_styles:
   - bold
-  - graphic
   - natural
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

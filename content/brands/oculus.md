@@ -2,12 +2,12 @@
 title: Oculus
 slug: oculus
 description: ""
-date: "2026-03-05T15:56:45.813995"
+date: "2026-03-05T22:38:39.320059"
 draft: false
 sectors:
-  - hardware
-  - entertainment
   - gaming
+  - entertainment
+  - hardware
 regions:
   - usa
 years:
@@ -16,13 +16,13 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - featured
   - technology
+  - entertainment
 industries:
-  - "electronics-industry"
-  - "virtual-reality-industry"
   - "software-industry"
+  - "virtual-reality-industry"
+  - "electronics-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -47,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - horizontal
   - abstract
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - red
-  - green
-  - black
   - white
+  - red
+  - black
   - blue
+  - green
 typographies: []
 imagery_styles:
+  - bold
   - photography
+  - lifestyle
   - abstract
   - gradient
-  - lifestyle
-  - bold
 wikidata_description: virtual reality technology subsidiary of Meta Platforms (formerly Oculus VR)
 has_twitter: false
 has_guidelines: true

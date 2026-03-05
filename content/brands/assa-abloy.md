@@ -2,7 +2,7 @@
 title: Assa Abloy
 slug: "assa-abloy"
 description: ""
-date: "2026-03-05T15:56:45.995544"
+date: "2026-03-05T22:38:39.570778"
 draft: false
 sectors:
   - hardware
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
-  - beige
-  - silver
+  - white
+  - "pantone-287"
   - orange
   - black
-  - white
+  - yellow
   - blue
-  - "pantone-287"
+  - silver
+  - beige
+  - green
 typographies:
   - verdana
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: Swedish company
 has_twitter: false
 has_guidelines: true

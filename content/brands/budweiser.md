@@ -2,7 +2,7 @@
 title: Budweiser
 slug: budweiser
 description: ""
-date: "2026-03-05T15:56:45.788407"
+date: "2026-03-05T22:38:39.290241"
 draft: false
 sectors:
   - brewery

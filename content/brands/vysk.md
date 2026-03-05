@@ -2,11 +2,11 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-03-05T15:56:46.063123"
+date: "2026-03-05T22:38:39.669565"
 draft: false
 sectors:
-  - hardware
   - cybersecurity
+  - hardware
 regions:
   - usa
 years:
@@ -39,18 +39,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - logomark
-  - secondary
-  - stacked
   - primary
+  - secondary
+  - horizontal
+  - stacked
+  - logomark
 brand_colors: []
 typographies: []
 imagery_styles:
-  - lifestyle
-  - product
-  - professional
   - photography
+  - professional
+  - product
+  - lifestyle
 wikidata_description: town in the Czech Republic
 has_twitter: false
 has_guidelines: true

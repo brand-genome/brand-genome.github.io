@@ -2,7 +2,7 @@
 title: PKP Intercity
 slug: "pkp-intercity"
 description: ""
-date: "2026-03-05T15:56:45.672347"
+date: "2026-03-05T22:38:39.155351"
 draft: false
 sectors:
   - railroad
@@ -40,12 +40,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - grey
-  - "pantone-424"
   - white
+  - "pantone-424"
+  - grey
 typographies: []
 imagery_styles:
   - graphic

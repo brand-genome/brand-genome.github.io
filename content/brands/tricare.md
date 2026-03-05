@@ -2,11 +2,11 @@
 title: Tricare
 slug: tricare
 description: ""
-date: "2026-03-05T15:56:46.099648"
+date: "2026-03-05T22:38:39.721969"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - usa
 years:
@@ -39,33 +39,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - symbol
-  - wordmark
-  - secondary
   - primary
+  - symbol
+  - alternate
+  - secondary
+  - wordmark
   - vertical
 brand_colors:
-  - "pantone-186"
-  - yellow
-  - gray
-  - orange
-  - blue
-  - black
   - white
-  - red
   - "pantone-280"
+  - red
+  - "pantone-186"
+  - orange
+  - black
+  - yellow
+  - blue
+  - gray
 typographies:
-  - futura
-  - arial
   - serif
-  - garamond
+  - futura
   - "sans-serif"
+  - garamond
+  - arial
   - display
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: health care program of the United States Department of Defense Military Health System
 has_twitter: false
 has_guidelines: true

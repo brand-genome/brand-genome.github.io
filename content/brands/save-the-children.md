@@ -2,7 +2,7 @@
 title: Save The Children
 slug: "save-the-children"
 description: ""
-date: "2026-03-05T15:56:46.122615"
+date: "2026-03-05T22:38:39.761250"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - ngo
+  - charity
 industries: []
 countries:
   - "united-kingdom"
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - icon
+  - secondary
+  - horizontal
   - favicon
+  - stacked
 brand_colors:
+  - white
   - grey
   - black
-  - white
 typographies:
-  - display
-  - arial
   - "gill-sans"
+  - arial
+  - display
 imagery_styles:
-  - gradient
-  - product
-  - static
   - bold
+  - product
   - graphic
+  - gradient
+  - static
 wikidata_description: "London-based international non-profit organization"
 has_twitter: false
 has_guidelines: true

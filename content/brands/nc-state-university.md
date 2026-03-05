@@ -2,11 +2,11 @@
 title: NC State University
 slug: "nc-state-university"
 description: ""
-date: "2026-03-05T15:56:46.046224"
+date: "2026-03-05T22:38:39.636173"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies: []
 imagery_styles: []

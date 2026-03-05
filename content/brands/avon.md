@@ -2,11 +2,11 @@
 title: Avon
 slug: avon
 description: ""
-date: "2026-03-05T15:56:46.187762"
+date: "2026-03-05T22:38:39.842121"
 draft: false
 sectors:
-  - beauty
   - mlm
+  - beauty
 regions:
   - unknown
 years: []
@@ -21,286 +21,209 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "centered-composition"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
+  - "centered-composition"
   - "rule-of-third"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
   - light
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "sunset-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - professional
+  - "health-and-wellness"
+  - landscape
+  - botanical
+  - promotional
+  - food
+  - product
+  - text
+  - abstract
+  - interior
+  - illustration
+  - street
+  - advertising
+  - action
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - typography
-  - botanical
-  - staged
-  - promotional
-  - beauty
-  - food
-  - "graphic-design"
-  - street
-  - landscape
-  - family
-  - text
-  - portrait
+  - fashion
   - advertisement
-  - product
+  - sky
   - "text-heavy"
-  - "health-and-wellness"
-  - professional
-  - abstract
-  - illustration
-  - "social-media"
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - "advertising-message"
-  - photorealism
-  - illustration
-  - vintage
-  - beauty
+  - family
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "social-media"
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "advertising-message"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
+  - beauty
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - "low-contrast"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-contrast"
+  - "low-exposure"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - pink
-  - "dark-blue"
-  - "dark-pink"
-  - "off-white"
-  - orange
   - white
-  - "dark-brown"
+  - "off-white"
+  - "dark-pink"
   - red
+  - orange
+  - "dark-blue"
+  - "dark-brown"
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - t
-  - bald
-  - i
-  - black
-  - o
-  - "buzz-cut"
-  - unknown
-  - straight
-  - b
-  - long
-  - n
   - casual
-  - p
+  - wavy
+  - loose
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - friendly
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - orange
-  - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - conservative
-  - unknown
-  - subdued
-  - b
-  - n
-  - p
-posings:
-  - posed
-  - seated
-  - confident
-  - l
-  - e
   - relaxed
+  - neutral
+  - friendly
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - neutral
+  - orange
+  - monochrome
+  - conservative
+  - earthy
+  - colorful
+  - pastel
+  - muted
+  - subdued
+posings:
+  - seated
   - engaged
+  - reclined
   - leaning
+  - relaxed
   - dynamic
-  - a
+  - walking
   - holding
-  - c
   - active
-  - t
-  - i
+  - posed
+  - standing
+  - running
   - stretching
   - static
-  - o
-  - unknown
-  - running
-  - walking
-  - standing
-  - b
-  - n
-  - p
-  - reclined
+  - confident
 gazes:
-  - l
-  - e
-  - direct
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - direct
+  - sideways
+  - forward
 body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - l
-  - e
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - portrait
-  - i
-  - "head-shot"
   - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - "full-back"
+  - "close-up"
+  - portrait
 logo_elements: []
 brand_colors: []
 typographies: []

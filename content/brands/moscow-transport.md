@@ -2,11 +2,11 @@
 title: Moscow Transport
 slug: "moscow-transport"
 description: ""
-date: "2026-03-05T15:56:45.900478"
+date: "2026-03-05T22:38:39.424664"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - russia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - transport
   - featured
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

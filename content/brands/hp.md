@@ -2,27 +2,27 @@
 title: HP
 slug: hp
 description: ""
-date: "2026-03-05T15:56:45.698169"
+date: "2026-03-05T22:38:39.190092"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - usa
 years:
-  - 2020
   - 2006
   - 2019
+  - 2020
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "software-industry"
-  - "computer-hardware-industry"
   - "information-and-communications-industry"
+  - "software-industry"
   - "information-technology-industry"
+  - "computer-hardware-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -49,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
+  - stacked
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - impact
   - arial
   - futura
 imagery_styles:
-  - lifestyle
-  - product
   - photography
+  - product
+  - lifestyle
 wikidata_description: American information technology company (1939–2015)
 has_twitter: false
 has_guidelines: true

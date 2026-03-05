@@ -2,11 +2,11 @@
 title: AMD EPYC
 slug: "amd-epyc"
 description: ""
-date: "2026-03-05T15:56:46.005755"
+date: "2026-03-05T22:38:39.578837"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -41,8 +41,8 @@ logo_elements:
   - alternate
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles: []

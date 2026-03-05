@@ -2,12 +2,12 @@
 title: HAW Hambourg
 slug: "haw-hambourg"
 description: ""
-date: "2026-03-05T15:56:45.660141"
+date: "2026-03-05T22:38:39.126685"
 draft: false
 sectors:
-  - university
-  - education
   - research
+  - education
+  - university
 regions:
   - germany
 years:

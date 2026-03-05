@@ -2,12 +2,12 @@
 title: Coaching Association of Canada
 slug: "coaching-association-of-canada"
 description: ""
-date: "2026-03-05T15:56:45.651524"
+date: "2026-03-05T22:38:39.119063"
 draft: false
 sectors:
   - education
-  - ngo
   - sports
+  - ngo
 regions:
   - canada
 years:

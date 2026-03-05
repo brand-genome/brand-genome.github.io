@@ -2,11 +2,11 @@
 title: British Fashion Council
 slug: "british-fashion-council"
 description: ""
-date: "2026-03-05T15:56:45.827193"
+date: "2026-03-05T22:38:39.333839"
 draft: false
 sectors:
-  - ngo
   - fashion
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -48,8 +48,8 @@ typographies:
   - impact
   - times
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
   - graphic
 wikidata_description: organization
 has_twitter: false

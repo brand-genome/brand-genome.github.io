@@ -2,11 +2,11 @@
 title: UKRI
 slug: ukri
 description: ""
-date: "2026-03-05T15:56:45.978087"
+date: "2026-03-05T22:38:39.553779"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -40,11 +40,11 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles:

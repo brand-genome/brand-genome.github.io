@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-03-05T15:56:46.102823"
+date: "2026-03-05T22:38:39.728728"
 draft: false
 sectors:
   - electronics
@@ -39,19 +39,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
   - gray
   - "pantone-876"
 typographies: []
 imagery_styles:
+  - photography
   - gradient
   - product
-  - photography
 wikidata_description: Japanese multinational electronics company
 has_twitter: false
 has_guidelines: true

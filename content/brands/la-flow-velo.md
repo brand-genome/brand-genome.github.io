@@ -2,7 +2,7 @@
 title: La Flow Vélo
 slug: "la-flow-velo"
 description: ""
-date: "2026-03-05T15:56:45.861570"
+date: "2026-03-05T22:38:39.376396"
 draft: false
 sectors:
   - "public-transportation"
@@ -38,13 +38,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
   - natural
 wikidata_description: ""
 has_twitter: false

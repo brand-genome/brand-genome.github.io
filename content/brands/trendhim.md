@@ -2,7 +2,7 @@
 title: Trendhim
 slug: trendhim
 description: ""
-date: "2026-03-05T15:56:46.002157"
+date: "2026-03-05T22:38:39.575027"
 draft: false
 sectors:
   - fashion
@@ -40,8 +40,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:

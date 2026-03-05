@@ -2,16 +2,16 @@
 title: Air Products
 slug: "air-products"
 description: ""
-date: "2026-03-05T15:56:45.611918"
+date: "2026-03-05T22:38:39.083697"
 draft: false
 sectors:
-  - gas
   - "manufacturing-industry"
+  - gas
 regions:
   - usa
 years:
-  - 2017
   - 2024
+  - 2017
 languages:
   - english
 tags:
@@ -40,25 +40,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - abstract
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - abstract
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - green
+  - black
 typographies:
   - "open-sans"
 imagery_styles:
-  - contemporary
-  - abstract
-  - natural
-  - vibrant
   - bold
+  - vibrant
   - graphic
+  - abstract
+  - contemporary
+  - natural
 wikidata_description: company
 has_twitter: false
 has_guidelines: true

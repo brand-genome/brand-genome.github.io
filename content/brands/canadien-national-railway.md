@@ -2,7 +2,7 @@
 title: Canadien National Railway
 slug: "canadien-national-railway"
 description: ""
-date: "2026-03-05T15:56:45.770419"
+date: "2026-03-05T22:38:39.267945"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "rail-freight-transport"
 countries:

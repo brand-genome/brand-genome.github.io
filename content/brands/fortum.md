@@ -2,7 +2,7 @@
 title: Fortum
 slug: fortum
 description: ""
-date: "2026-03-05T15:56:45.772086"
+date: "2026-03-05T22:38:39.269809"
 draft: false
 sectors:
   - "renewable-energy"

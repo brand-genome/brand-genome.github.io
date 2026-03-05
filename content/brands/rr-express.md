@@ -2,7 +2,7 @@
 title: Rr Express
 slug: "rr-express"
 description: ""
-date: "2026-03-05T15:56:46.257562"
+date: "2026-03-05T22:38:40.030420"
 draft: false
 sectors:
   - sports
@@ -19,185 +19,185 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
 perspectives:
-  - "bird-eye-view"
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - promotional
+  - product
+  - abstract
+  - advertising
+  - architectural
+  - sports
+  - action
   - "live-stage"
   - group
-  - selfie
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - landscape
   - logo
   - event
-  - portrait
   - advertisement
-  - product
-  - sports
+  - sky
+  - fashion
   - "text-heavy"
-  - architectural
-  - abstract
-  - action
-  - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - asymmetry
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - asymmetry
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
   - "off-white"
-  - gray
-  - black
   - white
-  - "light-blue"
   - red
+  - "mud-green"
+  - black
+  - "dark-blue"
+  - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - "pulled-back"
-  - wavy
-  - beard
-  - long
-  - ponytail
-  - focused
-  - curly
   - casual
-  - covered
-  - varied
   - flowing
-  - short
-  - updo
-  - "tied-back"
+  - "pulled-back"
   - neat
+  - wavy
+  - loose
   - "full-beard"
-facial_expressions:
-  - neutral
-  - engaged
+  - ponytail
+  - braided
   - focused
-  - content
+  - short
+  - curly
+  - updo
+  - long
+  - "tied-back"
+  - varied
+  - covered
+  - beard
+facial_expressions:
   - joyful
-  - contemplative
+  - engaged
   - relaxed
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - beachwear
+  - "form-fitting"
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - leaning
-  - confident
   - seated
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - "lower-half"
   - "full-back"
+  - midsection
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

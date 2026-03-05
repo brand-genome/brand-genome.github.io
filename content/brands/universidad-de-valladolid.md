@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-03-05T15:56:45.948341"
+date: "2026-03-05T22:38:39.516700"
 draft: false
 sectors:
   - university

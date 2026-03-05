@@ -2,7 +2,7 @@
 title: "Joomla!"
 slug: joomla
 description: ""
-date: "2026-03-05T15:56:46.124125"
+date: "2026-03-05T22:38:39.763385"
 draft: false
 sectors:
   - software

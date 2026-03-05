@@ -2,7 +2,7 @@
 title: Warwick University
 slug: "warwick-university"
 description: ""
-date: "2026-03-05T15:56:45.992139"
+date: "2026-03-05T22:38:39.567570"
 draft: false
 sectors:
   - university
@@ -39,23 +39,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors:
+  - white
   - gold
   - orange
   - grey
   - black
-  - white
 typographies:
-  - lato
   - avenir
+  - lato
 imagery_styles:
+  - photography
   - natural
   - graphic
-  - photography
 wikidata_description: "university in Coventry, United Kingdom"
 has_twitter: false
 has_guidelines: true

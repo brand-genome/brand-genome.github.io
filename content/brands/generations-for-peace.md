@@ -2,7 +2,7 @@
 title: Generations for Peace
 slug: "generations-for-peace"
 description: ""
-date: "2026-03-05T15:56:45.876016"
+date: "2026-03-05T22:38:39.385419"
 draft: false
 sectors:
   - ngo
@@ -42,8 +42,8 @@ logo_elements:
   - wordmark
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles: []

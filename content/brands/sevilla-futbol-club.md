@@ -2,7 +2,7 @@
 title: Sevilla Fútbol Club
 slug: "sevilla-futbol-club"
 description: ""
-date: "2026-03-05T15:56:45.966531"
+date: "2026-03-05T22:38:39.532055"
 draft: false
 sectors:
   - sports
@@ -37,13 +37,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - crest
   - icon
   - primary
+  - secondary
+  - crest
 brand_colors:
-  - blue
   - white
+  - blue
   - red
 typographies:
   - "century-gothic"

@@ -2,11 +2,11 @@
 title: London Bridge Revealed
 slug: "london-bridge-revealed"
 description: ""
-date: "2026-03-05T15:56:45.983811"
+date: "2026-03-05T22:38:39.559454"
 draft: false
 sectors:
-  - tourism
   - "public-relations"
+  - tourism
 regions:
   - "united-kingdom"
 years:
@@ -38,21 +38,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - abstract
+  - primary
 brand_colors:
-  - green
+  - white
   - orange
   - grey
-  - white
   - blue
+  - green
 typographies: []
 imagery_styles:
-  - modern
-  - photography
-  - abstract
-  - vibrant
   - bold
+  - photography
+  - vibrant
+  - abstract
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

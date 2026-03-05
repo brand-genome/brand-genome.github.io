@@ -2,7 +2,7 @@
 title: Magic Rock Brewing
 slug: "magic-rock-brewing"
 description: ""
-date: "2026-03-05T15:56:46.046895"
+date: "2026-03-05T22:38:39.637022"
 draft: false
 sectors:
   - brewery
@@ -39,11 +39,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
   - helvetica

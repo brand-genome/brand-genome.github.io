@@ -2,7 +2,7 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-03-05T15:56:45.841585"
+date: "2026-03-05T22:38:39.353207"
 draft: false
 sectors:
   - "public-sector"
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
+  - primary
   - secondary
   - "combination-mark"
-  - primary
-  - icon
 brand_colors: []
 typographies:
   - impact
   - gotham
 imagery_styles:
+  - bold
+  - professional
   - monochrome
   - modern
-  - professional
   - clean
-  - bold
 wikidata_description: California state department
 has_twitter: false
 has_guidelines: true

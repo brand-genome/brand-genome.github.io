@@ -2,7 +2,7 @@
 title: World Sailing
 slug: "world-sailing"
 description: ""
-date: "2026-03-05T15:56:46.080059"
+date: "2026-03-05T22:38:39.697555"
 draft: false
 sectors:
   - sports
@@ -38,29 +38,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - horizontal
 brand_colors:
-  - magenta
-  - "pantone-233"
-  - "pantone-3955"
-  - "pantone-7687"
-  - "pantone-324"
-  - navy
-  - "pantone-7702"
   - white
-  - "pantone-270"
+  - "pantone-233"
+  - "pantone-7702"
+  - magenta
   - "pantone-281"
+  - "pantone-7687"
+  - navy
+  - "pantone-3955"
+  - "pantone-270"
+  - "pantone-324"
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
-  - professional
-  - photography
-  - dramatic
   - bold
+  - photography
   - graphic
+  - professional
+  - dramatic
 wikidata_description: international sailing sports body
 has_twitter: false
 has_guidelines: true

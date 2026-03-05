@@ -2,7 +2,7 @@
 title: Saudi
 slug: saudi
 description: ""
-date: "2026-03-05T15:56:45.909325"
+date: "2026-03-05T22:38:39.461062"
 draft: false
 sectors:
   - "public-sector"
@@ -16,10 +16,10 @@ languages:
 tags:
   - tourism
 industries:
-  - "oil-refining"
-  - "extraction-of-crude-petroleum-and-natural-gas"
-  - "petroleum-industry"
   - "extraction-of-petroleum"
+  - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "oil-refining"
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -47,13 +47,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - green
-  - purple
-  - orange
-  - blue
-  - black
   - white
   - red
+  - orange
+  - black
+  - blue
+  - green
+  - purple
 typographies: []
 imagery_styles: []
 wikidata_description: "Saudi Arabian state-owned petroleum company"

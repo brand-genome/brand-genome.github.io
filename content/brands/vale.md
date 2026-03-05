@@ -2,7 +2,7 @@
 title: Vale
 slug: vale
 description: ""
-date: "2026-03-05T15:56:46.066579"
+date: "2026-03-05T22:38:39.677875"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -41,27 +41,27 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - symbol
+  - vertical
 brand_colors:
-  - "pantone-7406"
-  - green
-  - red
-  - yellow
-  - gray
-  - "pantone-328"
   - white
   - "pantone-124"
+  - red
+  - "pantone-328"
+  - yellow
   - blue
+  - gray
+  - green
+  - "pantone-7406"
 typographies:
   - arial
 imagery_styles:
+  - bold
+  - vibrant
+  - dynamic
   - artificial
   - minimal
-  - dynamic
   - landscape
-  - vibrant
-  - bold
 wikidata_description: multinational diversified metals and mining corporation
 has_twitter: false
 has_guidelines: true

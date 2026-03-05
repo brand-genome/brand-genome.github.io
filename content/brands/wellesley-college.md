@@ -2,7 +2,7 @@
 title: Wellesley College
 slug: "wellesley-college"
 description: ""
-date: "2026-03-05T15:56:45.888688"
+date: "2026-03-05T22:38:39.408017"
 draft: false
 sectors:
   - university
@@ -42,8 +42,8 @@ logo_elements: []
 brand_colors: []
 typographies:
   - serif
-  - garamond
   - "sans-serif"
+  - garamond
 imagery_styles:
   - bold
 wikidata_description: "private women's liberal arts college in Massachusetts"

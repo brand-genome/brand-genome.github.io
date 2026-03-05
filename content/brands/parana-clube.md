@@ -2,7 +2,7 @@
 title: Paraná Clube
 slug: "parana-clube"
 description: ""
-date: "2026-03-05T15:56:46.067278"
+date: "2026-03-05T22:38:39.678678"
 draft: false
 sectors:
   - sports
@@ -37,16 +37,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
   - red
 typographies:
   - akzidenz
 imagery_styles:
-  - geometric
   - bold
+  - geometric
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

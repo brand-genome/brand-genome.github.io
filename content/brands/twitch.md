@@ -2,23 +2,23 @@
 title: Twitch
 slug: twitch
 description: ""
-date: "2026-03-05T15:56:45.922115"
+date: "2026-03-05T22:38:39.492121"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
   - "social-media"
+  - entertainment
 regions:
   - usa
 years:
-  - 2019
   - 2021
+  - 2019
 languages:
   - english
 tags:
-  - entertainment
-  - featured
   - broadcast
+  - featured
+  - entertainment
 industries: []
 countries: []
 revenue_buckets: []
@@ -42,19 +42,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - mascot
-  - secondary
   - primary
+  - mascot
   - icon
+  - secondary
+  - wordmark
 brand_colors:
-  - black
   - purple
+  - black
 typographies: []
 imagery_styles:
-  - gradient
   - bold
   - playful
+  - gradient
 wikidata_description: television series focused on video games
 has_twitter: false
 has_guidelines: true

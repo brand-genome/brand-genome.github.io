@@ -2,7 +2,7 @@
 title: Ontario Soccer
 slug: "ontario-soccer"
 description: ""
-date: "2026-03-05T15:56:46.072558"
+date: "2026-03-05T22:38:39.684157"
 draft: false
 sectors:
   - sports
@@ -38,24 +38,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - horizontal
 brand_colors:
-  - red
   - white
+  - red
   - black
   - gray
 typographies:
-  - arial
   - roboto
+  - arial
 imagery_styles:
-  - playful
-  - modern
-  - professional
-  - photography
   - bold
+  - photography
+  - playful
   - graphic
+  - professional
+  - modern
 wikidata_description: football league
 has_twitter: false
 has_guidelines: true

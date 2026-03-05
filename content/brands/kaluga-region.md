@@ -2,7 +2,7 @@
 title: Kaluga Region
 slug: "kaluga-region"
 description: ""
-date: "2026-03-05T15:56:45.902114"
+date: "2026-03-05T22:38:39.429269"
 draft: false
 sectors:
   - "public-sector"
@@ -42,9 +42,9 @@ brand_colors:
   - white
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
   - photography
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

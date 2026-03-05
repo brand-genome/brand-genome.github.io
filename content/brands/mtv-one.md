@@ -2,11 +2,11 @@
 title: MTV One
 slug: "mtv-one"
 description: ""
-date: "2026-03-05T15:56:45.764971"
+date: "2026-03-05T22:38:39.261436"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - music
-  - broadcast
 industries: []
 countries:
   - "united-kingdom"

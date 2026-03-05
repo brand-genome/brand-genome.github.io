@@ -2,7 +2,7 @@
 title: Wales Coastal Path
 slug: "wales-coastal-path"
 description: ""
-date: "2026-03-05T15:56:45.770330"
+date: "2026-03-05T22:38:39.267836"
 draft: false
 sectors:
   - tourism

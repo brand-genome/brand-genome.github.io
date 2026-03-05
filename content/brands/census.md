@@ -2,11 +2,11 @@
 title: Census
 slug: census
 description: ""
-date: "2026-03-05T15:56:46.077224"
+date: "2026-03-05T22:38:39.691216"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: nahrep
 slug: nahrep
 description: ""
-date: "2026-03-05T15:56:46.093613"
+date: "2026-03-05T22:38:39.714883"
 draft: false
 sectors:
   - "real-estate"
@@ -39,17 +39,17 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2955"
-  - black
   - white
-  - "pantone-401"
   - "pantone-3265"
-  - blue
-  - "pantone-7597"
   - "pantone-390"
+  - black
+  - blue
+  - "pantone-401"
+  - "pantone-2955"
+  - "pantone-7597"
 typographies:
-  - futura
   - gotham
+  - futura
 imagery_styles:
   - graphic
 wikidata_description: We are The Voice for Hispanic Real Estate® and proud champions of homeownership for the Hispanic community.

@@ -2,7 +2,7 @@
 title: Gold Standard
 slug: "gold-standard"
 description: ""
-date: "2026-03-05T15:56:46.054005"
+date: "2026-03-05T22:38:39.646760"
 draft: false
 sectors:
   - ngo

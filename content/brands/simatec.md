@@ -2,7 +2,7 @@
 title: Simatec
 slug: simatec
 description: ""
-date: "2026-03-05T15:56:45.856699"
+date: "2026-03-05T22:38:39.370974"
 draft: false
 sectors:
   - hardware
@@ -40,16 +40,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - black
   - magenta
   - white
+  - grey
+  - black
 typographies:
-  - din
   - futura
+  - din
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

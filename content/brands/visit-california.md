@@ -2,7 +2,7 @@
 title: Visit California
 slug: "visit-california"
 description: ""
-date: "2026-03-05T15:56:45.900841"
+date: "2026-03-05T22:38:39.427088"
 draft: false
 sectors:
   - tourism
@@ -40,35 +40,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-7406"
-  - "pantone-7462"
+  - white
   - gold
-  - "pantone-716"
+  - "pantone-361"
   - orange
   - black
-  - white
-  - "pantone-540"
-  - "pantone-2925"
   - blue
-  - "pantone-361"
+  - "pantone-540"
+  - "pantone-7462"
+  - "pantone-716"
+  - "pantone-7406"
+  - "pantone-2925"
 typographies:
-  - verdana
   - "open-sans"
-  - display
   - gotham
+  - verdana
+  - display
 imagery_styles:
-  - serious
+  - bold
   - photography
-  - natural
   - vibrant
+  - serious
   - dynamic
   - lifestyle
   - landscape
   - clean
-  - bold
+  - natural
 wikidata_description: tourism organization
 has_twitter: false
 has_guidelines: true

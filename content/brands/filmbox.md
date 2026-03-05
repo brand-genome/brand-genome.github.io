@@ -2,11 +2,11 @@
 title: FilmBox
 slug: filmbox
 description: ""
-date: "2026-03-05T15:56:45.657722"
+date: "2026-03-05T22:38:39.125089"
 draft: false
 sectors:
-  - entertainment
   - broadcasting
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - broadcast
+  - entertainment
 industries: []
 countries:
   - poland

@@ -2,7 +2,7 @@
 title: Kansas City Streetcar
 slug: "kansas-city-streetcar"
 description: ""
-date: "2026-03-05T15:56:46.046022"
+date: "2026-03-05T22:38:39.635850"
 draft: false
 sectors:
   - "public-transportation"
@@ -40,8 +40,8 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

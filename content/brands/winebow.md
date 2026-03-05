@@ -2,7 +2,7 @@
 title: Winebow
 slug: winebow
 description: ""
-date: "2026-03-05T15:56:46.040784"
+date: "2026-03-05T22:38:39.611736"
 draft: false
 sectors:
   - drink
@@ -37,30 +37,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - alternate
-  - icon
   - primary
+  - icon
+  - alternate
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - gray
-  - orange
-  - blue
-  - black
-  - navy
   - white
   - red
+  - gold
+  - orange
+  - black
+  - blue
+  - gray
+  - navy
+  - green
 typographies:
   - georgia
   - serif
   - lato
   - "sans-serif"
 imagery_styles:
-  - organic
-  - photography
   - bold
+  - photography
   - natural
+  - organic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

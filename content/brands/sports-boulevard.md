@@ -2,11 +2,11 @@
 title: Sports Boulevard
 slug: "sports-boulevard"
 description: ""
-date: "2026-03-05T15:56:45.719381"
+date: "2026-03-05T22:38:39.209782"
 draft: false
 sectors:
-  - "real-estate"
   - "public-sector"
+  - "real-estate"
 regions:
   - "saudi-arabia"
 years:

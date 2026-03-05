@@ -2,11 +2,11 @@
 title: Quanta
 slug: quanta
 description: ""
-date: "2026-03-05T15:56:46.060501"
+date: "2026-03-05T22:38:39.657760"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
+  - "logistics-supply-chain"
 regions:
   - usa
 years:

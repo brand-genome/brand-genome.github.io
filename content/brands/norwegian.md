@@ -2,12 +2,12 @@
 title: Norwegian
 slug: norwegian
 description: ""
-date: "2026-03-05T15:56:46.213347"
+date: "2026-03-05T22:38:39.948915"
 draft: false
 sectors:
+  - cruise
   - tourism
   - hospitality
-  - cruise
 regions:
   - unknown
 years: []
@@ -25,325 +25,248 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - natural
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - "sunset-colors"
-  - light
   - textured
-  - "aquatic-colors"
+  - blurred
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - "complementary-colors"
-  - bright
-  - "autumnal-colors"
+  - transparent
   - "sunset-colors"
-  - "two-tone"
-  - "galaxy-colors"
-  - blue
   - light
+  - gradient
+  - pattern
+  - bright
+  - dark
   - "aquatic-colors"
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - "sky-colors"
+  - monotone
+  - "complementary-colors"
+  - "sunset-colors"
+  - blue
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
+  - light
+  - bright
+  - "aquatic-colors"
 photography_genres:
+  - seascape
+  - audience
+  - selfie
+  - professional
+  - pool
+  - beach
+  - resort
+  - landscape
+  - performance
+  - botanical
+  - promotional
+  - waterfall
+  - nature
+  - outdoor
+  - food
+  - product
+  - lifestyle
+  - interior
+  - abstract
+  - "food-photography"
+  - illustration
+  - "audience-perspective"
+  - tabletop
+  - street
+  - advertising
+  - architecture
+  - architectural
+  - ocean
+  - action
+  - "live-stage"
+  - urban
+  - group
+  - documentary
+  - "fine-art"
   - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - performance
-  - selfie
-  - interior
-  - botanical
-  - tabletop
-  - outdoor
-  - urban
+  - vacation
+  - advertisement
   - cityscape
-  - audience
-  - resort
-  - staged
-  - promotional
-  - historical
-  - food
-  - beauty
-  - street
-  - landscape
-  - "fine-art"
+  - "text-heavy"
+  - underwater
+  - cartoon
   - corporate
   - wildlife
-  - business
-  - "food-photography"
-  - travel
-  - vacation
   - portrait
-  - advertisement
-  - architecture
-  - lifestyle
+  - beauty
+  - staged
+  - historical
+  - business
   - panoramic
-  - product
-  - cartoon
-  - nature
-  - "text-heavy"
-  - pool
-  - waterfall
-  - architectural
-  - beach
-  - professional
-  - documentary
-  - underwater
-  - abstract
-  - illustration
-  - drink
-  - "audience-perspective"
-  - seascape
   - couple
-  - action
-  - ocean
-  - advertising
+  - "still-life"
+  - travel
+  - drink
 concepts:
+  - nature
+  - "corporate-communication"
+  - logo
+  - advertisement
+  - vacation
+  - "text-heavy"
+  - cartoon
+  - illustration
   - "motion-capture"
-  - "incomplete-art"
+  - vintage
+  - typography
+  - "graphic-design"
   - "wave-pattern"
   - travel
+  - "incomplete-art"
   - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - vacation
-  - "corporate-communication"
-  - "graphic-design"
-  - cartoon
-  - nature
-  - "text-heavy"
-  - typography
-  - logo
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
   - cyan
-  - "royal-blue"
   - "dark-blue"
-  - turquoise
-  - black
   - "dark-brown"
+  - black
   - "light-blue"
   - blue
+  - "royal-blue"
+  - turquoise
 color_tones:
   - cool
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - wavy
   - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - ponytail
+  - braided
   - updo
+  - short
+  - curly
+  - long
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
-  - neutral
   - engaged
-  - a
-  - c
-  - happy
-  - excited
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - athletic
+  - business
+  - "form-fitting"
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - uniform
+clothing_colors:
+  - white
+  - vibrant
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
   - light
-  - b
-  - n
   - bright
-  - p
-  - white
+  - pastel
+  - muted
 posings:
-  - group
+  - casual
   - seated
-  - confident
-  - l
-  - e
+  - walking
+  - reclined
+  - leaning
   - relaxed
+  - dynamic
   - engaged
   - jumping
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
   - active
-  - t
-  - i
-  - stretching
-  - o
-  - unknown
-  - running
-  - walking
+  - holding
+  - confident
   - standing
-  - b
-  - n
+  - running
   - focused
-  - casual
-  - p
-  - reclined
-gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
+  - stretching
   - group
-  - l
-  - e
+gazes:
   - engaged
-  - midsection
-  - a
-  - c
-  - "hand-only"
-  - "close-up"
-  - t
-  - i
-  - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
+  - away
+  - downward
+  - outward
+  - upward
   - focused
-  - p
+  - sideways
+  - forward
+body_sections:
+  - "hand-only"
+  - "head-shot"
+  - midsection
   - "full-back"
+  - "lower-half"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - focused
+  - "close-up"
+  - group
 logo_elements: []
 brand_colors: []
 typographies: []

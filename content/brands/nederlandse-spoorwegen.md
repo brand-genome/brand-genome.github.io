@@ -2,7 +2,7 @@
 title: Nederlandse Spoorwegen
 slug: "nederlandse-spoorwegen"
 description: ""
-date: "2026-03-05T15:56:45.808088"
+date: "2026-03-05T22:38:39.313942"
 draft: false
 sectors:
   - "public-transportation"
@@ -14,12 +14,12 @@ years:
 languages:
   - dutch
 tags:
-  - transport
-  - featured
   - vintage
+  - featured
+  - transport
 industries:
-  - "rail-transport"
   - "passenger-transport"
+  - "rail-transport"
 countries:
   - netherlands
 revenue_buckets:

@@ -2,7 +2,7 @@
 title: Life
 slug: life
 description: ""
-date: "2026-03-05T15:56:45.968743"
+date: "2026-03-05T22:38:39.535722"
 draft: false
 sectors:
   - "arts-culture"
@@ -45,15 +45,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies: []
 imagery_styles:
-  - minimal
-  - clean
   - bold
+  - minimal
   - photography
+  - clean
 wikidata_description: South Korean multinational conglomerate
 has_twitter: false
 has_guidelines: true

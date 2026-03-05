@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-03-05T15:56:45.984377"
+date: "2026-03-05T22:38:39.559844"
 draft: false
 sectors:
   - "arts-culture"
@@ -40,9 +40,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies: []
 imagery_styles:

@@ -2,7 +2,7 @@
 title: Bundesagentur für Arbeit
 slug: "bundesagentur-fur-arbeit"
 description: ""
-date: "2026-03-05T15:56:46.005879"
+date: "2026-03-05T22:38:39.578966"
 draft: false
 sectors:
   - "public-sector"

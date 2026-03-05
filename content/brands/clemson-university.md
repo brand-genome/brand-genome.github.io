@@ -2,7 +2,7 @@
 title: Clemson university
 slug: "clemson-university"
 description: ""
-date: "2026-03-05T15:56:45.883359"
+date: "2026-03-05T22:38:39.396537"
 draft: false
 sectors:
   - university

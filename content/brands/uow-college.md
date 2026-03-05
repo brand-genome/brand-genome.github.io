@@ -2,7 +2,7 @@
 title: UOW College
 slug: "uow-college"
 description: ""
-date: "2026-03-05T15:56:45.982792"
+date: "2026-03-05T22:38:39.558621"
 draft: false
 sectors:
   - education
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - "pantone-2347"
+  - white
+  - red
   - grey
   - black
   - "pantone-485"
-  - white
-  - red
   - "pantone-412"
+  - "pantone-2347"
 typographies:
   - impact
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: university in Hong Kong
 has_twitter: false
 has_guidelines: true

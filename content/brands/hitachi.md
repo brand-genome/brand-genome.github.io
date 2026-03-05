@@ -2,12 +2,12 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-03-05T15:56:46.177806"
+date: "2026-03-05T22:38:39.820477"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - japan
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - electronics
+  - corporate
 industries:
   - "consumer-electronics-industry"
   - "electrical-industry"
@@ -44,13 +44,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - red
-  - black
   - white
+  - red
   - silver
+  - black
 typographies:
   - times
   - helvetica

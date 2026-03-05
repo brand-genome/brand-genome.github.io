@@ -2,11 +2,11 @@
 title: Mercurius Health
 slug: "mercurius-health"
 description: ""
-date: "2026-03-05T15:56:45.850239"
+date: "2026-03-05T22:38:39.363150"
 draft: false
 sectors:
-  - consulting
   - healthcare
+  - consulting
 regions:
   - portugal
 years:
@@ -39,12 +39,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - symbol
-  - wordmark
-  - signature
-  - secondary
   - primary
+  - symbol
+  - secondary
+  - horizontal
+  - signature
+  - wordmark
   - vertical
 brand_colors: []
 typographies:
@@ -52,8 +52,8 @@ typographies:
   - trebuchet
   - "sans-serif"
 imagery_styles:
-  - landscape
   - photography
+  - landscape
 wikidata_description: "company in Lisbon, Portugal"
 has_twitter: false
 has_guidelines: true

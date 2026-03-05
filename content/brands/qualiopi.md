@@ -2,11 +2,11 @@
 title: Qualiopi
 slug: qualiopi
 description: ""
-date: "2026-03-05T15:56:45.918630"
+date: "2026-03-05T22:38:39.486615"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - icon
   - emblem
+  - icon
+  - horizontal
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - red
+  - black
 typographies:
   - arial
 imagery_styles: []

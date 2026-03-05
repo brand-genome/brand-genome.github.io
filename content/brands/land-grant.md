@@ -2,11 +2,11 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-03-05T15:56:46.060825"
+date: "2026-03-05T22:38:39.658091"
 draft: false
 sectors:
-  - restaurant
   - brewery
+  - restaurant
 regions:
   - usa
 years:
@@ -41,17 +41,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gold
-  - gray
-  - black
   - white
   - red
+  - gold
+  - black
+  - gray
 typographies:
   - impact
   - roboto
 imagery_styles:
-  - minimal
   - bold
+  - minimal
   - graphic
 wikidata_description: "1849 United Kingdom of Great Britain and Ireland Act of Parliament 12 & 13 Vic c. 22"
 has_twitter: false

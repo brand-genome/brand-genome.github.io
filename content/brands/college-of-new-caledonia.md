@@ -2,7 +2,7 @@
 title: College of New Caledonia
 slug: "college-of-new-caledonia"
 description: ""
-date: "2026-03-05T15:56:45.983929"
+date: "2026-03-05T22:38:39.559566"
 draft: false
 sectors:
   - education
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - "open-sans"
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: "college in northern British Columbia, Canada"
 has_twitter: false
 has_guidelines: true

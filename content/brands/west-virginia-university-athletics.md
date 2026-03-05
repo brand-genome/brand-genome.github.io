@@ -2,11 +2,11 @@
 title: West Virginia University Athletics
 slug: "west-virginia-university-athletics"
 description: ""
-date: "2026-03-05T15:56:45.825337"
+date: "2026-03-05T22:38:39.331971"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -40,15 +40,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - secondary
   - stacked
-  - primary
 brand_colors:
-  - grey
   - gold
+  - grey
 typographies:
-  - display
   - script
+  - display
 imagery_styles:
   - dynamic
   - minimal

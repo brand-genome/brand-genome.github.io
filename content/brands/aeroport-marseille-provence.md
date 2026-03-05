@@ -2,7 +2,7 @@
 title: Aéroport Marseille Provence
 slug: "aeroport-marseille-provence"
 description: ""
-date: "2026-03-05T15:56:45.855672"
+date: "2026-03-05T22:38:39.369957"
 draft: false
 sectors:
   - "public-transportation"

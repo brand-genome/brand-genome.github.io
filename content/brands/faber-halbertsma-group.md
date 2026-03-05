@@ -2,7 +2,7 @@
 title: Faber Halbertsma Group
 slug: "faber-halbertsma-group"
 description: ""
-date: "2026-03-05T15:56:45.929532"
+date: "2026-03-05T22:38:39.504779"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -39,24 +39,24 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-637"
-  - pink
-  - "pantone-381"
-  - "pantone-334"
-  - green
-  - "pantone-1915"
-  - "pantone-123"
-  - yellow
-  - orange
-  - grey
-  - blue
   - white
-  - "pantone-709"
-  - "pantone-569"
-  - "pantone-7540"
-  - "pantone-137"
+  - "pantone-381"
   - "pantone-382"
+  - "pantone-123"
+  - "pantone-334"
+  - "pantone-569"
+  - grey
   - "pantone-433"
+  - "pantone-709"
+  - "pantone-637"
+  - "pantone-7540"
+  - orange
+  - blue
+  - "pantone-1915"
+  - pink
+  - yellow
+  - "pantone-137"
+  - green
 typographies:
   - roboto
 imagery_styles:

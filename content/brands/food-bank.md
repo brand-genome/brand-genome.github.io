@@ -2,11 +2,11 @@
 title: Food Bank
 slug: "food-bank"
 description: ""
-date: "2026-03-05T15:56:46.171220"
+date: "2026-03-05T22:38:39.813202"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
   - "logistics-supply-chain"
 regions:
   - australia
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-416"
   - "pantone-312"
-  - purple
   - "pantone-420"
   - black
+  - "pantone-416"
   - "pantone-151"
+  - purple
 typographies:
-  - times
   - trebuchet
+  - times
 imagery_styles:
-  - contemporary
-  - organic
   - vibrant
-  - clean
-  - candid
   - graphic
+  - contemporary
+  - candid
+  - clean
+  - organic
 wikidata_description: organization
 has_twitter: false
 has_guidelines: true

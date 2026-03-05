@@ -2,12 +2,12 @@
 title: SilvaCarbon
 slug: silvacarbon
 description: ""
-date: "2026-03-05T15:56:45.890742"
+date: "2026-03-05T22:38:39.410465"
 draft: false
 sectors:
-  - "public-sector"
-  - ngo
   - research
+  - ngo
+  - "public-sector"
 regions:
   - usa
 years:
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - black
   - white
+  - black
   - gray
 typographies:
   - times

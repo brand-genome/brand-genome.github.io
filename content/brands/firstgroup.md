@@ -2,11 +2,11 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-03-05T15:56:46.099924"
+date: "2026-03-05T22:38:39.722544"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -41,8 +41,8 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - "pantone-2758"
   - white
+  - "pantone-2758"
 typographies: []
 imagery_styles:
   - photography

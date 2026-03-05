@@ -2,11 +2,11 @@
 title: Monmouth University
 slug: "monmouth-university"
 description: ""
-date: "2026-03-05T15:56:46.119491"
+date: "2026-03-05T22:38:39.757467"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:

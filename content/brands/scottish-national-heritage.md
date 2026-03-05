@@ -2,7 +2,7 @@
 title: Scottish National Heritage
 slug: "scottish-national-heritage"
 description: ""
-date: "2026-03-05T15:56:46.053891"
+date: "2026-03-05T22:38:39.646485"
 draft: false
 sectors:
   - "public-sector"
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-376"
   - green
+  - "pantone-376"
 typographies: []
 imagery_styles: []
 wikidata_description: ""

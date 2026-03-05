@@ -2,12 +2,12 @@
 title: Emerson Electric
 slug: "emerson-electric"
 description: ""
-date: "2026-03-05T15:56:45.738070"
+date: "2026-03-05T22:38:39.230520"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - usa
 years:

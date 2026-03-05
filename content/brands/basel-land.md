@@ -2,7 +2,7 @@
 title: Basel Land
 slug: "basel-land"
 description: ""
-date: "2026-03-05T15:56:45.789481"
+date: "2026-03-05T22:38:39.291347"
 draft: false
 sectors:
   - "public-sector"
@@ -41,16 +41,16 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-1795"
-  - gray
-  - black
   - white
   - red
+  - "pantone-1795"
+  - black
+  - gray
 typographies:
   - univers
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: NZ Transport Agency
 slug: "nz-transport-agency"
 description: ""
-date: "2026-03-05T15:56:46.149581"
+date: "2026-03-05T22:38:39.789423"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - "new-zealand"
 years:
@@ -42,8 +42,8 @@ logo_elements:
   - primary
 brand_colors:
   - blue
-  - black
   - green
+  - black
 typographies: []
 imagery_styles:
   - photography

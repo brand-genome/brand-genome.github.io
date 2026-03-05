@@ -2,7 +2,7 @@
 title: Governo doDistrito Federal
 slug: "governo-dodistrito-federal"
 description: ""
-date: "2026-03-05T15:56:46.128023"
+date: "2026-03-05T22:38:39.767597"
 draft: false
 sectors:
   - "public-sector"
@@ -40,8 +40,8 @@ logo_elements:
   - vertical
   - horizontal
 brand_colors:
-  - "pantone-158"
   - "pantone-108"
+  - "pantone-158"
 typographies:
   - helvetica
 imagery_styles:

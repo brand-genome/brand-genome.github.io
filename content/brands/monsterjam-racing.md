@@ -2,7 +2,7 @@
 title: Monsterjam Racing
 slug: "monsterjam-racing"
 description: ""
-date: "2026-03-05T15:56:46.184670"
+date: "2026-03-05T22:38:39.828735"
 draft: false
 sectors:
   - sports
@@ -17,215 +17,215 @@ revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
-  - hard
-perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "action-shot"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
+  - "light-on-subject"
   - bright
-  - gradient
-  - light
+  - hard
+  - natural
+  - colored
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "action-shot"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
+image_backgrounds:
   - red
+  - wood
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
+  - "action-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - "action-colors"
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - vehicle
-  - staged
-  - promotional
-  - street
   - landscape
-  - logo
-  - event
-  - portrait
+  - promotional
   - product
-  - sports
-  - "text-heavy"
-  - architectural
+  - vehicle
   - abstract
   - "audience-perspective"
-  - action
+  - street
   - advertising
-concepts:
-  - realism
-  - "live-stage"
-  - "action-shot"
-  - "action-illustration"
-  - promotion
-  - typography
-  - vehicle
-  - "live-action"
-  - "incomplete-art"
-  - photorealism
-  - vintage
-  - "graphic-design"
-  - advertisement
+  - architectural
   - sports
-  - cartoon
-  - "text-heavy"
-  - "sports-event"
-  - "wave-pattern"
-  - illustration
-  - "logo-design"
   - action
+  - "live-stage"
+  - group
+  - logo
+  - event
+  - sky
+  - "text-heavy"
+  - portrait
+  - staged
+  - "still-life"
+concepts:
+  - "logo-design"
+  - "action-illustration"
+  - "wave-pattern"
+  - vehicle
+  - illustration
+  - vintage
+  - sports
+  - action
+  - "live-stage"
+  - "sports-event"
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - "incomplete-art"
+  - realism
+  - "live-action"
+  - photorealism
+  - promotion
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "action-shot"
   - "isolated-focal-point"
-  - "bright-focal-point"
-  - "close-up-shot"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - "action-shot"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - "motion-capture"
+  - symmetrical
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "action-shot"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "dark-blue"
-  - "dark-gray"
-  - gray
-  - orange
-  - black
   - white
+  - orange
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - braided
-  - wavy
+  - casual
+  - flowing
   - "pulled-back"
   - neat
-  - long
-  - curly
-  - casual
-  - covered
-  - varied
-  - flowing
-  - short
-  - updo
-  - "tied-back"
+  - wavy
+  - loose
   - straight
   - ponytail
+  - braided
+  - updo
+  - short
+  - curly
+  - long
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - walking
-  - leaning
-  - confident
-  - dynamic
-  - seated
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+posings:
+  - seated
+  - walking
   - reclined
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

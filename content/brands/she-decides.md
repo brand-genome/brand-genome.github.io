@@ -2,7 +2,7 @@
 title: She Decides
 slug: "she-decides"
 description: ""
-date: "2026-03-05T15:56:45.880178"
+date: "2026-03-05T22:38:39.390188"
 draft: false
 sectors:
   - ngo
@@ -37,19 +37,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - red
   - white
+  - red
+  - grey
 typographies:
   - futura
   - display
 imagery_styles:
   - bold
-  - graphic
   - photography
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

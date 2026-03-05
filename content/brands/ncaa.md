@@ -2,15 +2,15 @@
 title: NCAA
 slug: ncaa
 description: ""
-date: "2026-03-05T15:56:45.835233"
+date: "2026-03-05T22:38:39.340741"
 draft: false
 sectors:
   - sports
 regions:
   - usa
 years:
-  - 2015
   - 2021
+  - 2015
 languages:
   - english
 tags:
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - alternate
-  - vertical
   - primary
+  - vertical
+  - horizontal
 brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - gradient
   - photography
+  - gradient
 wikidata_description: American collegiate athletic organization
 has_twitter: false
 has_guidelines: true

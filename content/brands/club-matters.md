@@ -2,11 +2,11 @@
 title: Club Matters
 slug: "club-matters"
 description: ""
-date: "2026-03-05T15:56:46.079224"
+date: "2026-03-05T22:38:39.695493"
 draft: false
 sectors:
-  - "public-sector"
   - sports
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:

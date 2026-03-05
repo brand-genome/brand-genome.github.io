@@ -2,7 +2,7 @@
 title: Ember
 slug: ember
 description: ""
-date: "2026-03-05T15:56:45.922650"
+date: "2026-03-05T22:38:39.493270"
 draft: false
 sectors:
   - software
@@ -37,12 +37,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""

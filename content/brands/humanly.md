@@ -2,7 +2,7 @@
 title: Humanly
 slug: humanly
 description: ""
-date: "2026-03-05T15:56:45.679987"
+date: "2026-03-05T22:38:39.176471"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - app
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -44,14 +44,14 @@ brand_colors:
 typographies:
   - "sans-serif"
 imagery_styles:
-  - realistic
   - photography
-  - organic
   - staged
-  - natural
-  - illustration
-  - subtle
   - graphic
+  - illustration
+  - realistic
+  - subtle
+  - natural
+  - organic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

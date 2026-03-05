@@ -2,11 +2,11 @@
 title: Stay Twenty
 slug: "stay-twenty"
 description: ""
-date: "2026-03-05T15:56:45.698836"
+date: "2026-03-05T22:38:39.190480"
 draft: false
 sectors:
-  - beauty
   - cosmetics
+  - beauty
 regions:
   - indonesia
 years:

@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-03-05T15:56:45.879654"
+date: "2026-03-05T22:38:39.389387"
 draft: false
 sectors:
   - university
@@ -40,21 +40,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - stacked
-  - primary
   - alternate
+  - primary
+  - stacked
 brand_colors:
-  - black
   - "pantone-187"
   - white
+  - black
   - "pantone-485"
 typographies:
   - slab
 imagery_styles:
-  - dynamic
-  - vibrant
   - bold
+  - dynamic
   - photography
+  - vibrant
 wikidata_description: "private liberal arts university in Delaware, Ohio, United States"
 has_twitter: false
 has_guidelines: true

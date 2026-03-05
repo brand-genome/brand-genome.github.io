@@ -2,16 +2,16 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-03-05T15:56:45.969742"
+date: "2026-03-05T22:38:39.536593"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -40,24 +40,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - red
   - gold
-  - gray
   - black
   - blue
+  - gray
 typographies:
-  - din
   - impact
   - trebuchet
+  - din
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
   - candid
-  - bold
+  - natural
 wikidata_description: American nonprofit organization
 has_twitter: false
 has_guidelines: true

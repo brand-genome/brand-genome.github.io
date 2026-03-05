@@ -2,11 +2,11 @@
 title: Research Luxembourg
 slug: "research-luxembourg"
 description: ""
-date: "2026-03-05T15:56:45.916012"
+date: "2026-03-05T22:38:39.481352"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - luxembourg
 years:

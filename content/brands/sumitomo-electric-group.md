@@ -2,12 +2,12 @@
 title: Sumitomo Electric Group
 slug: "sumitomo-electric-group"
 description: ""
-date: "2026-03-05T15:56:45.665444"
+date: "2026-03-05T22:38:39.135754"
 draft: false
 sectors:
+  - automobile
   - electronics
   - utilities
-  - automobile
 regions:
   - japan
 years:

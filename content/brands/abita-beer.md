@@ -2,7 +2,7 @@
 title: Abita Beer
 slug: "abita-beer"
 description: ""
-date: "2026-03-05T15:56:45.990712"
+date: "2026-03-05T22:38:39.565911"
 draft: false
 sectors:
   - brewery
@@ -41,10 +41,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - grey
-  - black
-  - purple
   - white
+  - grey
+  - purple
+  - black
 typographies:
   - akzidenz
   - helvetica

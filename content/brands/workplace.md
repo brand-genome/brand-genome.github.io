@@ -2,7 +2,7 @@
 title: Workplace
 slug: workplace
 description: ""
-date: "2026-03-05T15:56:45.838050"
+date: "2026-03-05T22:38:39.347622"
 draft: false
 sectors:
   - software
@@ -41,8 +41,8 @@ logo_elements:
   - wordmark
 brand_colors:
   - grey
-  - "pantone-285"
   - "pantone-2379"
+  - "pantone-285"
 typographies: []
 imagery_styles: []
 wikidata_description: collaboration software by Meta Platforms

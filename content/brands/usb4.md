@@ -2,11 +2,11 @@
 title: USB4
 slug: usb4
 description: ""
-date: "2026-03-05T15:56:45.839851"
+date: "2026-03-05T22:38:39.350471"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - international
 years:

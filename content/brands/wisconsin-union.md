@@ -2,7 +2,7 @@
 title: Wisconsin Union
 slug: "wisconsin-union"
 description: ""
-date: "2026-03-05T15:56:45.802519"
+date: "2026-03-05T22:38:39.310692"
 draft: false
 sectors:
   - education
@@ -39,13 +39,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - signature
   - icon
+  - signature
   - symbol
 brand_colors:
-  - black
   - white
   - green
+  - black
 typographies:
   - display
 imagery_styles: []

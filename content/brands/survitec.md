@@ -2,11 +2,11 @@
 title: Survitec
 slug: survitec
 description: ""
-date: "2026-03-05T15:56:45.857548"
+date: "2026-03-05T22:38:39.372067"
 draft: false
 sectors:
-  - aerospace
   - defense
+  - aerospace
 regions:
   - "united-kingdom"
 years:
@@ -41,9 +41,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - grey
   - white
   - orange
+  - grey
 typographies:
   - din
 imagery_styles:

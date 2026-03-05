@@ -2,11 +2,11 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-03-05T15:56:45.830444"
+date: "2026-03-05T22:38:39.335733"
 draft: false
 sectors:
-  - hospitality
   - cruise
+  - hospitality
 regions:
   - italy
 years:
@@ -18,8 +18,8 @@ tags:
 industries:
   - tourism
 countries:
-  - switzerland
   - italy
+  - switzerland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

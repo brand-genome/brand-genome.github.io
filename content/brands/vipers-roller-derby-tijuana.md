@@ -2,7 +2,7 @@
 title: Vipers Roller Derby Tijuana
 slug: "vipers-roller-derby-tijuana"
 description: ""
-date: "2026-03-05T15:56:45.778019"
+date: "2026-03-05T22:38:39.275595"
 draft: false
 sectors:
   - sports

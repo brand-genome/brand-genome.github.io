@@ -2,11 +2,11 @@
 title: Florida – Future is Here
 slug: "florida-future-is-here"
 description: ""
-date: "2026-03-05T15:56:45.826678"
+date: "2026-03-05T22:38:39.333277"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: Square Kilometre Array
 slug: "square-kilometre-array"
 description: ""
-date: "2026-03-05T15:56:46.065692"
+date: "2026-03-05T22:38:39.672584"
 draft: false
 sectors:
   - research
@@ -40,15 +40,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
-  - professional
-  - clean
   - bold
   - photography
+  - professional
+  - clean
 wikidata_description: "organization in Macclesfield, United Kingdom"
 has_twitter: false
 has_guidelines: true

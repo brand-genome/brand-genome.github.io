@@ -2,7 +2,7 @@
 title: ČVUT
 slug: cvut
 description: ""
-date: "2026-03-05T15:56:45.847645"
+date: "2026-03-05T22:38:39.360014"
 draft: false
 sectors:
   - university
@@ -38,8 +38,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
   - horizontal
 brand_colors: []

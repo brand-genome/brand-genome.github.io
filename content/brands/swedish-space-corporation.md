@@ -2,7 +2,7 @@
 title: Swedish Space Corporation
 slug: "swedish-space-corporation"
 description: ""
-date: "2026-03-05T15:56:45.947506"
+date: "2026-03-05T22:38:39.516133"
 draft: false
 sectors:
   - satellite

@@ -2,11 +2,11 @@
 title: Restoration Barometer
 slug: "restoration-barometer"
 description: ""
-date: "2026-03-05T15:56:45.789721"
+date: "2026-03-05T22:38:39.291743"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - pink
+  - white
   - grey
   - black
+  - pink
   - navy
-  - white
 typographies: []
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

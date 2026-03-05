@@ -2,11 +2,11 @@
 title: Boart Longyear
 slug: "boart-longyear"
 description: ""
-date: "2026-03-05T15:56:46.142122"
+date: "2026-03-05T22:38:39.784068"
 draft: false
 sectors:
-  - "agricultural-heavy-equipment"
   - "mining-extraction"
+  - "agricultural-heavy-equipment"
 regions:
   - usa
 years:

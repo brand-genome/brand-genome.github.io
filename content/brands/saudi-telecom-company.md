@@ -2,7 +2,7 @@
 title: Saudi Telecom Company
 slug: "saudi-telecom-company"
 description: ""
-date: "2026-03-05T15:56:45.798377"
+date: "2026-03-05T22:38:39.302302"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "mobile-phone-industry"
+  - telecommunications
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -46,10 +46,10 @@ brand_colors: []
 typographies:
   - "sans-serif"
 imagery_styles:
-  - modern
   - vibrant
   - dynamic
   - lifestyle
+  - modern
   - clean
 wikidata_description: "Saudi Arabia-based telecommunications company"
 has_twitter: false

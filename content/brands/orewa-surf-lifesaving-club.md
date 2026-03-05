@@ -2,11 +2,11 @@
 title: Orewa Surf Lifesaving Club
 slug: "orewa-surf-lifesaving-club"
 description: ""
-date: "2026-03-05T15:56:46.001486"
+date: "2026-03-05T22:38:39.574191"
 draft: false
 sectors:
-  - "emergency-services"
   - sports
+  - "emergency-services"
 regions:
   - "new-zealand"
 years:
@@ -38,14 +38,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - blue
-  - black
   - white
+  - blue
   - red
+  - black
 typographies:
   - arial
   - display

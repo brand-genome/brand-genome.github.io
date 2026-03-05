@@ -2,7 +2,7 @@
 title: Orchestre de Chambre de Paris
 slug: "orchestre-de-chambre-de-paris"
 description: ""
-date: "2026-03-05T15:56:46.176668"
+date: "2026-03-05T22:38:39.819849"
 draft: false
 sectors:
   - "arts-culture"
@@ -38,20 +38,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
   - alternate
+  - primary
   - vertical
+  - horizontal
 brand_colors:
   - orange
 typographies:
   - bodoni
   - display
 imagery_styles:
+  - photography
+  - professional
   - monochrome
   - realistic
-  - professional
-  - photography
   - natural
 wikidata_description: French chamber orchestra
 has_twitter: false

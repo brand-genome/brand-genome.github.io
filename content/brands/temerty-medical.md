@@ -2,12 +2,12 @@
 title: Temerty Medical
 slug: "temerty-medical"
 description: ""
-date: "2026-03-05T15:56:45.877296"
+date: "2026-03-05T22:38:39.386565"
 draft: false
 sectors:
-  - university
-  - healthcare
   - research
+  - healthcare
+  - university
 regions:
   - canada
 years:
@@ -40,19 +40,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - signature
-  - crest
-  - secondary
   - primary
+  - secondary
+  - crest
+  - signature
+  - wordmark
 brand_colors:
-  - blue
-  - "pantone-655"
   - white
+  - blue
   - "pantone-633"
+  - "pantone-655"
 typographies:
-  - times
   - arial
+  - times
 imagery_styles: []
 wikidata_description: ""
 has_twitter: false

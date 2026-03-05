@@ -2,7 +2,7 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-03-05T15:56:46.120769"
+date: "2026-03-05T22:38:39.759018"
 draft: false
 sectors:
   - petroleum
@@ -44,17 +44,17 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
+  - red
   - magenta
+  - "pantone-293"
   - cyan
   - yellow
-  - blue
-  - white
   - "pantone-485"
-  - red
-  - "pantone-293"
+  - blue
 typographies:
-  - univers
   - serif
+  - univers
 imagery_styles:
   - graphic
 wikidata_description: American oil and gas station brand

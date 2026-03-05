@@ -2,7 +2,7 @@
 title: Kolping
 slug: kolping
 description: ""
-date: "2026-03-05T15:56:46.004246"
+date: "2026-03-05T22:38:39.577310"
 draft: false
 sectors:
   - ngo

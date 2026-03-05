@@ -2,7 +2,7 @@
 title: Red Lobster
 slug: "red-lobster"
 description: ""
-date: "2026-03-05T15:56:46.188693"
+date: "2026-03-05T22:38:39.846418"
 draft: false
 sectors:
   - restaurant
@@ -21,275 +21,198 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
+  - moderate
+  - light
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
-  - light
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
-  - "pastel-colors"
-  - "bright-colors"
   - "complementary-colors"
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
+  - signage
+  - selfie
+  - landscape
+  - promotional
+  - "close-up"
+  - food
+  - product
+  - text
+  - "table-setting"
+  - lifestyle
+  - abstract
+  - interior
+  - "food-photography"
+  - illustration
+  - tabletop
+  - street
   - "studio-photography"
-  - "still-life"
+  - advertising
+  - action
+  - "fine-dining"
   - "live-stage"
   - group
-  - selfie
-  - interior
-  - tabletop
-  - staged
-  - promotional
-  - food
-  - beauty
-  - "graphic-design"
-  - street
-  - "product-photography"
-  - landscape
+  - documentary
   - "fine-art"
-  - "fine-dining"
-  - signage
-  - "food-photography"
-  - text
-  - "close-up"
-  - portrait
+  - fashion
+  - sky
   - advertisement
+  - cartoon
+  - underwater
+  - "text-heavy"
+  - "product-photography"
+  - "graphic-design"
+  - portrait
+  - beauty
+  - staged
   - "tabletop-photography"
-  - lifestyle
-  - product
+  - "still-life"
+concepts:
+  - advertisement
+  - realism
   - cartoon
   - "text-heavy"
-  - "table-setting"
-  - documentary
-  - underwater
-  - abstract
   - illustration
-  - action
-  - advertising
-concepts:
-  - realism
+  - colorful
+  - vintage
+  - typography
+  - "graphic-design"
   - "incomplete-art"
   - photorealism
-  - illustration
-  - vintage
-  - advertisement
-  - colorful
-  - "graphic-design"
-  - cartoon
-  - "text-heavy"
-  - typography
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "mid-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - "vanishing-point"
   - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - brown
-  - "dark-gray"
-  - gray
+  - white
+  - tan
   - orange
   - black
-  - white
   - "dark-brown"
-  - tan
+  - brown
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - colored
-  - curly
-  - covered
-  - a
-  - short
-  - c
-  - ponytail
+  - casual
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - long
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
   - updo
+  - long
+  - curly
+  - short
   - "tied-back"
+  - covered
+  - colored
 facial_expressions:
-  - content
-  - l
-  - e
-  - relaxed
-  - contemplative
   - joyful
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - happy
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - formal
-  - traditional
-  - l
-  - e
-  - winter
-  - sweater
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - focused
+  - contemplative
+  - happy
+clothing_styles:
+  - casual
+  - sweater
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
+  - formal
+  - protective
+  - traditional
+  - winter
+  - "business-casual"
+clothing_colors:
+  - red
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - black
   - earthy
   - colorful
-  - a
-  - red
-  - c
-  - vibrant
-  - t
-  - i
-  - black
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
   - leaning
+  - relaxed
   - dynamic
-  - a
   - holding
-  - c
   - active
-  - t
-  - i
-  - o
-  - running
-  - unknown
   - standing
-  - b
-  - n
-  - p
+  - running
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
-  - upward
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
-  - b
   - "hand-only"
-  - "upper-body"
-  - t
-  - "close-up"
-  - n
-  - i
-  - p
-  - midsection
   - "head-shot"
+  - midsection
+  - "upper-body"
   - "full-body"
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

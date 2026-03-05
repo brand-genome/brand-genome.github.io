@@ -2,7 +2,7 @@
 title: Tyson
 slug: tyson
 description: ""
-date: "2026-03-05T15:56:46.073636"
+date: "2026-03-05T22:38:39.687497"
 draft: false
 sectors:
   - food
@@ -37,30 +37,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - horizontal
-  - symbol
-  - secondary
-  - crest
-  - monogram
   - primary
+  - symbol
+  - monogram
+  - secondary
+  - lockup
+  - crest
+  - horizontal
   - vertical
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - gray
 typographies:
   - serif
-  - arial
-  - "proxima-nova"
   - "sans-serif"
+  - "proxima-nova"
+  - arial
 imagery_styles:
-  - professional
+  - bold
   - photography
   - dynamic
   - geometric
-  - bold
+  - professional
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

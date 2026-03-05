@@ -2,7 +2,7 @@
 title: Concurrent
 slug: concurrent
 description: ""
-date: "2026-03-05T15:56:45.609865"
+date: "2026-03-05T22:38:39.081962"
 draft: false
 sectors:
   - hardware
@@ -40,16 +40,16 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - serious
-  - modern
-  - photography
-  - artificial
-  - natural
-  - dynamic
-  - product
-  - static
-  - flat
   - bold
+  - photography
+  - product
+  - serious
+  - dynamic
+  - artificial
+  - flat
+  - modern
+  - static
+  - natural
 wikidata_description: historical centralized version control system
 has_twitter: false
 has_guidelines: true

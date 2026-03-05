@@ -2,11 +2,11 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-03-05T15:56:45.883533"
+date: "2026-03-05T22:38:39.396844"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - france
 years:
@@ -38,26 +38,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
+  - secondary
 brand_colors:
-  - green
-  - yellow
-  - blue
-  - black
-  - navy
   - white
   - red
+  - black
+  - yellow
+  - blue
+  - navy
+  - green
 typographies:
   - helvetica
 imagery_styles:
-  - professional
+  - bold
   - photography
-  - natural
+  - professional
   - static
   - clean
-  - bold
+  - natural
 wikidata_description: early stage in software design
 has_twitter: false
 has_guidelines: true

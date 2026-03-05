@@ -2,11 +2,11 @@
 title: Superior Essex
 slug: "superior-essex"
 description: ""
-date: "2026-03-05T15:56:45.824761"
+date: "2026-03-05T22:38:39.331416"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - industry
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - icon
+  - secondary
   - symbol
 brand_colors:
+  - red
   - black
   - gray
-  - red
 typographies: []
 imagery_styles:
   - graphic

@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-03-05T15:56:46.043422"
+date: "2026-03-05T22:38:39.614424"
 draft: false
 sectors:
   - university
@@ -42,20 +42,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors:
-  - green
-  - orange
-  - black
   - white
   - red
+  - orange
+  - black
+  - green
 typographies:
   - impact
 imagery_styles:
-  - natural
   - photography
+  - natural
 wikidata_description: "private university in Hanover, New Hampshire, US"
 has_twitter: false
 has_guidelines: true

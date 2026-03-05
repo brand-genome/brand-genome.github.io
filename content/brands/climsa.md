@@ -2,11 +2,11 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-03-05T15:56:45.894295"
+date: "2026-03-05T22:38:39.415745"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - international
 years:
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
+  - red
+  - grey
+  - yellow
+  - blue
+  - silver
   - brown
   - green
   - purple
-  - yellow
-  - silver
-  - grey
-  - blue
-  - red
 typographies:
   - "work-sans"
   - arial

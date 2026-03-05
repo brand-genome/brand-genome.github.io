@@ -2,11 +2,11 @@
 title: "JB Hi-Fi Solutions"
 slug: "jb-hi-fi-solutions"
 description: ""
-date: "2026-03-05T15:56:45.940698"
+date: "2026-03-05T22:38:39.510381"
 draft: false
 sectors:
-  - hardware
   - consulting
+  - hardware
 regions:
   - australia
 years:

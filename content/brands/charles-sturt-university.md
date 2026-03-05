@@ -2,7 +2,7 @@
 title: Charles Sturt University
 slug: "charles-sturt-university"
 description: ""
-date: "2026-03-05T15:56:45.757239"
+date: "2026-03-05T22:38:39.254953"
 draft: false
 sectors:
   - university

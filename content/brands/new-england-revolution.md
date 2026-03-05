@@ -2,7 +2,7 @@
 title: New England Revolution
 slug: "new-england-revolution"
 description: ""
-date: "2026-03-05T15:56:45.782207"
+date: "2026-03-05T22:38:39.280438"
 draft: false
 sectors:
   - sports

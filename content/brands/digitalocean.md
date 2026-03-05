@@ -2,11 +2,11 @@
 title: DigitalOcean
 slug: digitalocean
 description: ""
-date: "2026-03-05T15:56:46.107278"
+date: "2026-03-05T22:38:39.736320"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -40,14 +40,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - lockup
   - horizontal
   - wordmark
   - vertical
-  - icon
 brand_colors:
-  - blue
   - white
+  - blue
   - black
 typographies:
   - impact

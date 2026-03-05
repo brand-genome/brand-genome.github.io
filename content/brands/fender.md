@@ -2,7 +2,7 @@
 title: Fender
 slug: fender
 description: ""
-date: "2026-03-05T15:56:46.103223"
+date: "2026-03-05T22:38:39.729305"
 draft: false
 sectors:
   - "e-learning-edtech"

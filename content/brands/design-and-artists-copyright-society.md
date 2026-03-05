@@ -2,7 +2,7 @@
 title: Design and Artists Copyright Society
 slug: "design-and-artists-copyright-society"
 description: ""
-date: "2026-03-05T15:56:45.821447"
+date: "2026-03-05T22:38:39.328450"
 draft: false
 sectors:
   - ngo

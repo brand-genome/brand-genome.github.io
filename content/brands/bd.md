@@ -2,11 +2,11 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-03-05T15:56:45.949165"
+date: "2026-03-05T22:38:39.517908"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - australia
 years:
@@ -40,13 +40,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
   - primary
   - lockup
+  - secondary
 brand_colors:
+  - white
   - red
   - black
-  - white
   - gray
 typographies:
   - "century-gothic"

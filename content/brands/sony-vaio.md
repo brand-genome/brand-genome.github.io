@@ -2,11 +2,11 @@
 title: Sony Vaio
 slug: "sony-vaio"
 description: ""
-date: "2026-03-05T15:56:46.165952"
+date: "2026-03-05T22:38:39.806795"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - japan
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - smartphone
   - laptop
+  - smartphone
 countries:
   - japan
 revenue_buckets: []
@@ -42,15 +42,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - product
   - classic
   - photography
+  - product
 wikidata_description: line of computers and consumer electronics by VAIO corporation
 has_twitter: false
 has_guidelines: true

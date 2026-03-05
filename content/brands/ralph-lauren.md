@@ -2,14 +2,14 @@
 title: Ralph Lauren
 slug: "ralph-lauren"
 description: ""
-date: "2026-03-05T15:56:46.229846"
+date: "2026-03-05T22:38:39.994452"
 draft: false
 sectors:
   - fashion
   - footwear
   - homecare
-  - beauty
   - jewellery
+  - beauty
 regions:
   - unknown
 years: []
@@ -25,246 +25,246 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
   - vignette
-  - "light-glare"
+  - colored
 perspectives:
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
+  - wood
+  - textured
   - text
   - blurred
-  - wood
-  - dark
   - transparent
-  - bright
-  - gradient
-  - light
-  - textured
   - solid
-color_schemes:
-  - "analogous-colors"
-  - grayscale
-  - monotone
-  - "pastel-colors"
-  - "complementary-colors"
-  - "bright-colors"
-  - dark
-  - vintage
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
-  - "inverted-colors"
-  - "galaxy-colors"
+  - gradient
+  - pattern
+  - bright
+  - dark
+color_schemes:
+  - "two-tone"
+  - "bright-colors"
+  - grayscale
   - textured
+  - monotone
+  - "complementary-colors"
+  - "sunset-colors"
+  - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "galaxy-colors"
+  - vintage
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
+  - celebrity
+  - selfie
+  - commercial
+  - landscape
+  - botanical
+  - food
+  - product
+  - wedding
+  - text
+  - lifestyle
+  - interior
+  - illustration
+  - vintage
+  - "food-photography"
+  - abstract
+  - street
+  - advertising
+  - artistic
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - candid
+  - documentary
+  - group
   - fashion
   - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - artistic
-  - interior
-  - commercial
-  - typography
-  - branding
-  - candid
-  - botanical
-  - staged
-  - vintage
-  - historical
-  - beauty
-  - food
-  - "red-carpet"
-  - street
-  - landscape
-  - celebrity
+  - advertisement
   - event
-  - wedding
+  - bridal
+  - "text-heavy"
   - family
-  - "food-photography"
-  - text
+  - typography
   - macro
   - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - sports
-  - "text-heavy"
-  - bridal
-  - architectural
-  - documentary
-  - abstract
-  - illustration
-  - action
-  - advertising
+  - beauty
+  - "red-carpet"
+  - staged
+  - historical
+  - branding
+  - "still-life"
 concepts:
+  - product
+  - advertisement
   - "live-performance"
-  - "red-carpet-event"
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - sponsorship
-  - advertisement
-  - "graphic-design"
-  - product
-  - cartoon
-  - "text-heavy"
-  - typography
   - music
+  - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "red-carpet-event"
+  - photorealism
+  - sponsorship
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "low-exposure"
-  - "high-saturation"
-  - silhouette
-  - "negative-space"
-  - "vanishing-point"
-  - asymmetry
   - "bright-focal-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "low-exposure"
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - gray
-  - "dark-green"
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
   - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - pink
-  - bald
-  - black
-  - "buzz-cut"
-  - straight
-  - blonde
-  - long
   - casual
-  - gray
+  - blonde
+  - flowing
   - white
+  - wavy
+  - loose
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - pink
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - black
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-clothing_styles:
-  - business
-  - swimwear
-  - comfortable
-  - professional
-  - formal
-  - western
-  - casual
-  - traditional
-  - "business-casual"
-  - costume
-  - beachwear
-  - winter
-  - "form-fitting"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - earthy
-  - muted
-  - colorful
+  - content
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - professional
+  - western
+  - costume
+  - formal
+  - protective
+  - swimwear
+  - traditional
+  - comfortable
+  - winter
+  - "business-casual"
+clothing_colors:
   - red
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
   - subtle
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
+  - seated
+  - walking
   - reclined
   - leaning
-  - confident
-  - seated
-  - dynamic
-  - stretching
   - relaxed
-  - holding
-  - running
-  - walking
-gazes:
-  - sideways
+  - dynamic
   - engaged
-  - upward
-  - away
-  - focused
-  - downward
-  - "at-camera"
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - confident
+gazes:
   - "looking-at-camera"
-  - forward
+  - engaged
+  - away
+  - downward
   - outward
+  - upward
+  - focused
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

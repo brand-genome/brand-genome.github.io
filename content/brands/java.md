@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-03-05T15:56:45.965871"
+date: "2026-03-05T22:38:39.531705"
 draft: false
 sectors:
   - software
@@ -40,10 +40,10 @@ logo_elements:
   - stacked
   - horizontal
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - orange
+  - black
 typographies:
   - arial
 imagery_styles:

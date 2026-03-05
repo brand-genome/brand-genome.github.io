@@ -2,7 +2,7 @@
 title: Klepierre
 slug: klepierre
 description: ""
-date: "2026-03-05T15:56:46.179472"
+date: "2026-03-05T22:38:39.822368"
 draft: false
 sectors:
   - "real-estate"
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "activities-of-head-offices"
   - "real-estate-industry"
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:

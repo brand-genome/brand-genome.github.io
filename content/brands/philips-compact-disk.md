@@ -2,7 +2,7 @@
 title: Philips Compact Disk
 slug: "philips-compact-disk"
 description: ""
-date: "2026-03-05T15:56:45.793431"
+date: "2026-03-05T22:38:39.296607"
 draft: false
 sectors:
   - "legal-services"
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

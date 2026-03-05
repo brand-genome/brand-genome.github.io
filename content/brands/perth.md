@@ -2,12 +2,12 @@
 title: Perth
 slug: perth
 description: ""
-date: "2026-03-05T15:56:46.084000"
+date: "2026-03-05T22:38:39.704600"
 draft: false
 sectors:
   - education
-  - tourism
   - "public-sector"
+  - tourism
 regions:
   - australia
 years:

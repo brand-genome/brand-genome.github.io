@@ -2,11 +2,11 @@
 title: Alphen Linkt
 slug: "alphen-linkt"
 description: ""
-date: "2026-03-05T15:56:45.901866"
+date: "2026-03-05T22:38:39.429160"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
   - tourism
 regions:
   - netherlands
@@ -15,8 +15,8 @@ years:
 languages:
   - dutch
 tags:
-  - corporate
   - regional
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Progressive AFT
 slug: "progressive-aft"
 description: ""
-date: "2026-03-05T15:56:45.910707"
+date: "2026-03-05T22:38:39.469806"
 draft: false
 sectors:
   - sports
@@ -38,8 +38,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
   - yellow
 typographies: []
 imagery_styles:

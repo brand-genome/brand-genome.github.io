@@ -2,7 +2,7 @@
 title: University of South Florida
 slug: "university-of-south-florida"
 description: ""
-date: "2026-03-05T15:56:45.738318"
+date: "2026-03-05T22:38:39.230820"
 draft: false
 sectors:
   - university

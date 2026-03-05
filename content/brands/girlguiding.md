@@ -2,11 +2,11 @@
 title: Girlguiding
 slug: girlguiding
 description: ""
-date: "2026-03-05T15:56:45.713799"
+date: "2026-03-05T22:38:39.203111"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -41,24 +41,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-2382"
-  - gray
-  - black
   - white
+  - "pantone-2382"
   - "pantone-102"
+  - black
   - "pantone-151"
+  - gray
 typographies:
   - arial
 imagery_styles:
+  - bold
   - photography
   - staged
-  - natural
   - candid
-  - bold
+  - natural
 wikidata_description: charity from New Zealand
 has_twitter: false
 has_guidelines: true

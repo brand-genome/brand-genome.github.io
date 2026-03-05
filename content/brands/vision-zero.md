@@ -2,7 +2,7 @@
 title: Vision Zero
 slug: "vision-zero"
 description: ""
-date: "2026-03-05T15:56:45.837213"
+date: "2026-03-05T22:38:39.346432"
 draft: false
 sectors:
   - ngo

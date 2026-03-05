@@ -2,7 +2,7 @@
 title: GoTo
 slug: goto
 description: ""
-date: "2026-03-05T15:56:45.791563"
+date: "2026-03-05T22:38:39.293413"
 draft: false
 sectors:
   - software
@@ -39,16 +39,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - secondary
   - signature
-  - primary
 brand_colors: []
 typographies:
   - display
 imagery_styles:
-  - product
-  - professional
   - photography
+  - professional
+  - product
 wikidata_description: American software company based in Boston
 has_twitter: false
 has_guidelines: true

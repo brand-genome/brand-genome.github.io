@@ -2,11 +2,11 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-03-05T15:56:46.146759"
+date: "2026-03-05T22:38:39.787105"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - "united-kingdom"
 years:
@@ -40,15 +40,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
   - bold
-  - product
   - photography
+  - product
 wikidata_description: "opera house in Naples, Italy"
 has_twitter: false
 has_guidelines: true

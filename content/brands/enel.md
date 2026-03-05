@@ -2,7 +2,7 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-03-05T15:56:46.155211"
+date: "2026-03-05T22:38:39.794956"
 draft: false
 sectors:
   - "renewable-energy"
@@ -43,15 +43,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: Italian multinational energy company
 has_twitter: false
 has_guidelines: true

@@ -2,11 +2,11 @@
 title: Metropolitan Community College
 slug: "metropolitan-community-college"
 description: ""
-date: "2026-03-05T15:56:45.799269"
+date: "2026-03-05T22:38:39.303413"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -39,13 +39,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
+  - seal
+  - primary
   - alternate
+  - secondary
+  - lockup
   - horizontal
   - signature
-  - seal
-  - secondary
-  - primary
 brand_colors: []
 typographies: []
 imagery_styles:

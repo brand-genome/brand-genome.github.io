@@ -2,7 +2,7 @@
 title: .art
 slug: art
 description: ""
-date: "2026-03-05T15:56:45.834289"
+date: "2026-03-05T22:38:39.339825"
 draft: false
 sectors:
   - software
@@ -38,20 +38,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
+  - red
   - magenta
-  - green
-  - yellow
   - orange
   - grey
   - black
+  - yellow
   - blue
-  - white
-  - red
+  - green
 typographies:
   - avenir
 imagery_styles:
-  - landscape
   - bold
+  - landscape
   - minimal
 wikidata_description: ""
 has_twitter: false

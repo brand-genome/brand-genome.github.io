@@ -2,15 +2,15 @@
 title: City of Edmonton
 slug: "city-of-edmonton"
 description: ""
-date: "2026-03-05T15:56:45.770084"
+date: "2026-03-05T22:38:39.267594"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - canada
 years:
-  - 2017
   - 2022
+  - 2017
 languages:
   - english
 tags:

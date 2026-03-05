@@ -2,7 +2,7 @@
 title: AIA Trust
 slug: "aia-trust"
 description: ""
-date: "2026-03-05T15:56:46.005627"
+date: "2026-03-05T22:38:39.578579"
 draft: false
 sectors:
   - insurance
@@ -39,15 +39,15 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
-  - red
   - white
+  - red
   - black
   - gray
 typographies: []
 imagery_styles:
-  - clean
   - contemporary
   - professional
+  - clean
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

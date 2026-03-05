@@ -2,7 +2,7 @@
 title: First Bank of Nigeria
 slug: "first-bank-of-nigeria"
 description: ""
-date: "2026-03-05T15:56:45.704501"
+date: "2026-03-05T22:38:39.194572"
 draft: false
 sectors:
   - finance
@@ -39,21 +39,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
+  - white
+  - "pantone-341"
+  - "pantone-873"
   - "pantone-186"
   - "pantone-7621"
-  - "pantone-873"
-  - "pantone-341"
-  - white
   - "pantone-871"
 typographies:
   - din
 imagery_styles:
-  - gradient
   - bold
   - photography
+  - gradient
 wikidata_description: Nigerian multinational bank
 has_twitter: false
 has_guidelines: true

@@ -11,7 +11,11 @@
     <div class="taxonomy-grid">
         {{ range .Pages.ByTitle }}
         <a href="{{ .Permalink }}" class="taxonomy-item">
+            {{ if eq $.Section "years" }}
+            <span class="term-name">{{ .Title }}</span>
+            {{ else }}
             <span class="term-name">{{ .Title | humanize }}</span>
+            {{ end }}
             <span class="term-count">{{ len .Pages }}</span>
         </a>
         {{ end }}

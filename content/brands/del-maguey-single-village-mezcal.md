@@ -2,7 +2,7 @@
 title: Del Maguey Single Village Mezcal
 slug: "del-maguey-single-village-mezcal"
 description: ""
-date: "2026-03-05T15:56:45.665263"
+date: "2026-03-05T22:38:39.135383"
 draft: false
 sectors:
   - drink

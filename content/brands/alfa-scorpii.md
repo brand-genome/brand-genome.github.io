@@ -2,11 +2,11 @@
 title: Alfa Scorpii
 slug: "alfa-scorpii"
 description: ""
-date: "2026-03-05T15:56:46.067943"
+date: "2026-03-05T22:38:39.679422"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - brazil
 years:
@@ -39,11 +39,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - gray
+  - white
   - orange
   - black
-  - white
   - blue
+  - gray
 typographies:
   - lato
   - "comic-sans"

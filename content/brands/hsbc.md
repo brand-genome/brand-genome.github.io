@@ -2,12 +2,12 @@
 title: HSBC
 slug: hsbc
 description: ""
-date: "2026-03-05T15:56:46.167093"
+date: "2026-03-05T22:38:39.808896"
 draft: false
 sectors:
   - food
-  - supermarket
   - finance
+  - supermarket
 regions:
   - "hong-kong"
 years:
@@ -15,14 +15,14 @@ years:
 languages:
   - english
 tags:
-  - corporate
-  - featured
   - financial
+  - featured
+  - corporate
 industries:
-  - "economics-of-banking"
   - insurance
-  - "financial-sector"
   - "financial-services"
+  - "economics-of-banking"
+  - "financial-sector"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -32,220 +32,220 @@ operating_income_buckets:
 net_profit_buckets:
   - "1b-10b"
 lightings:
+  - dark
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
   - "low-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - architectural
+  - landscape
+  - product
   - audience
+  - fashion
+  - selfie
   - sky
-  - "still-life"
-  - "live-stage"
   - group
   - "audience-perspective"
-  - portrait
-  - sports
-  - beauty
-  - selfie
-  - product
+  - "still-life"
   - street
-  - landscape
+  - architectural
+  - sports
   - action
+  - "live-stage"
+  - portrait
+  - beauty
 concepts:
   - "sports-event"
-  - "motion-capture"
-  - "incomplete-art"
-  - "wave-pattern"
-  - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
-  - "action-shot"
-  - "graphic-design"
   - cartoon
   - "text-heavy"
+  - illustration
+  - "motion-capture"
+  - vintage
   - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "incomplete-art"
+  - "live-stage"
+  - photorealism
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "bright-focal-point"
+  - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - silhouette
   - asymmetry
-  - "bright-focal-point"
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
 dominant_colors:
-  - "mud-green"
-  - cyan
-  - emerald
-  - "dark-green"
-  - black
   - white
   - red
+  - "mud-green"
+  - emerald
   - olive
+  - "dark-green"
+  - black
+  - cyan
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - beard
-  - flowing
-  - traditional
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - red
-  - ponytail
-  - neat
-  - "pulled-back"
-  - wavy
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
+  - traditional
   - updo
   - "tied-back"
+  - beard
+  - straight
+  - ponytail
+  - curly
+  - red
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - excited
-clothing_styles:
-  - business
-  - swimwear
-  - "form-fitting"
-  - formal
-  - casual
-  - traditional
-  - costume
-  - beachwear
-  - "business-casual"
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
-  - patriotic
-  - neutral
-  - earthy
-  - muted
-  - colorful
-  - vibrant
-posings:
-  - standing
-  - active
   - engaged
-  - reclined
-  - group
-  - seated
-  - confident
-  - dynamic
-  - leaning
-  - stretching
   - relaxed
-  - holding
-  - running
+  - neutral
+  - content
+  - excited
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - beachwear
+  - business
+  - costume
+  - protective
+  - formal
+  - swimwear
+  - traditional
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - patriotic
+  - pastel
+posings:
+  - seated
   - walking
-gazes:
-  - sideways
+  - leaning
+  - reclined
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - confident
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - group
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
   - "lower-half"
+  - midsection
+  - "full-back"
   - "upper-body"
+  - dynamic
+  - "full-body"
   - "close-up"
   - group
-  - dynamic
-  - midsection
-  - "head-shot"
-  - "full-body"
-  - "full-back"
 logo_elements:
+  - primary
   - secondary
   - signature
   - horizontal
-  - primary
 brand_colors:
-  - magenta
-  - cyan
-  - yellow
-  - grey
-  - black
   - white
   - red
+  - magenta
+  - grey
+  - cyan
+  - black
+  - yellow
 typographies:
   - univers
   - times
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: British multinational bank
 has_twitter: true
 has_guidelines: true

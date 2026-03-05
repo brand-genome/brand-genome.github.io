@@ -2,11 +2,11 @@
 title: Moen
 slug: moen
 description: ""
-date: "2026-03-05T15:56:46.066128"
+date: "2026-03-05T22:38:39.673049"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - usa
 years:
@@ -38,10 +38,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors: []
 typographies:

@@ -2,7 +2,7 @@
 title: Peugeot Finance
 slug: "peugeot-finance"
 description: ""
-date: "2026-03-05T15:56:45.762247"
+date: "2026-03-05T22:38:39.258652"
 draft: false
 sectors:
   - finance

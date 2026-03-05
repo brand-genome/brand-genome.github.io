@@ -2,7 +2,7 @@
 title: TOPdesk
 slug: topdesk
 description: ""
-date: "2026-03-05T15:56:46.038165"
+date: "2026-03-05T22:38:39.607015"
 draft: false
 sectors:
   - software
@@ -37,27 +37,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - secondary
   - primary
   - icon
+  - secondary
   - favicon
+  - logomark
 brand_colors:
+  - white
   - blue
   - black
-  - white
   - coral
 typographies:
-  - serif
   - "open-sans"
+  - serif
 imagery_styles:
-  - professional
+  - bold
   - photography
-  - minimal
+  - geometric
+  - professional
   - illustration
   - colorful
-  - geometric
-  - bold
+  - minimal
 wikidata_description: developer and supplier of service management software
 has_twitter: false
 has_guidelines: true

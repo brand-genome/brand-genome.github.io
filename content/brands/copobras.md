@@ -2,7 +2,7 @@
 title: Copobras
 slug: copobras
 description: ""
-date: "2026-03-05T15:56:46.042736"
+date: "2026-03-05T22:38:39.613655"
 draft: false
 sectors:
   - "consumer-goods"

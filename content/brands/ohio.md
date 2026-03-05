@@ -2,7 +2,7 @@
 title: Ohio
 slug: ohio
 description: ""
-date: "2026-03-05T15:56:45.713958"
+date: "2026-03-05T22:38:39.203331"
 draft: false
 sectors:
   - "public-sector"
@@ -11,8 +11,8 @@ regions:
   - usa
 years:
   - 2006
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:
@@ -42,24 +42,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - green
+  - white
   - red
   - gold
   - orange
   - black
-  - white
   - blue
+  - green
 typographies:
   - avenir
 imagery_styles:
-  - clean
   - contemporary
+  - clean
   - vibrant
 wikidata_description: "public research university in Columbus, Ohio, United States"
 has_twitter: false

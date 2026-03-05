@@ -2,11 +2,11 @@
 title: Réunion des Musées Nationaux
 slug: "reunion-des-musees-nationaux"
 description: ""
-date: "2026-03-05T15:56:45.915911"
+date: "2026-03-05T22:38:39.481216"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - france
 years:
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - seal
+  - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - univers
-  - frutiger
   - courier
+  - frutiger
 imagery_styles:
+  - bold
   - dynamic
   - geometric
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

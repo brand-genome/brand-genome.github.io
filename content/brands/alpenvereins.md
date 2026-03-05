@@ -2,7 +2,7 @@
 title: Alpenvereins
 slug: alpenvereins
 description: ""
-date: "2026-03-05T15:56:45.985741"
+date: "2026-03-05T22:38:39.561095"
 draft: false
 sectors:
   - ngo

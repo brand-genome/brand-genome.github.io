@@ -2,11 +2,11 @@
 title: Kinokuniya
 slug: kinokuniya
 description: ""
-date: "2026-03-05T15:56:45.908025"
+date: "2026-03-05T22:38:39.457431"
 draft: false
 sectors:
-  - publishing
   - retail
+  - publishing
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - cultural
+  - entertainment
 industries: []
 countries:
   - japan
@@ -42,9 +42,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - grey
-  - blue
   - white
+  - blue
+  - grey
   - yellow
 typographies: []
 imagery_styles:

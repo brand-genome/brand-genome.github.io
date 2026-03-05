@@ -2,11 +2,11 @@
 title: University of Salford
 slug: "university-of-salford"
 description: ""
-date: "2026-03-05T15:56:45.713476"
+date: "2026-03-05T22:38:39.202724"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:

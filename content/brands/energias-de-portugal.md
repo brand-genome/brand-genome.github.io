@@ -2,7 +2,7 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-03-05T15:56:45.794263"
+date: "2026-03-05T22:38:39.297637"
 draft: false
 sectors:
   - "renewable-energy"
@@ -11,15 +11,15 @@ regions:
   - portugal
 years:
   - 2013
-  - 2015
   - 2018
   - 2022
+  - 2015
 languages:
   - english
   - portuguese
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
   - "electricity-supply-company"
 countries:
@@ -45,28 +45,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - abstract
-  - logomark
-  - secondary
-  - monogram
   - primary
+  - monogram
+  - secondary
+  - abstract
+  - wordmark
+  - logomark
   - vertical
 brand_colors:
-  - green
-  - "pantone-7462"
-  - black
   - white
+  - black
   - blue
   - "pantone-2985"
+  - "pantone-7462"
+  - green
 typographies: []
 imagery_styles:
   - photography
+  - playful
   - graphic
+  - dynamic
   - abstract
   - illustration
-  - dynamic
-  - playful
 wikidata_description: Portuguese energy company
 has_twitter: false
 has_guidelines: true

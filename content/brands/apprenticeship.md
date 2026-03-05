@@ -2,11 +2,11 @@
 title: Apprenticeship
 slug: apprenticeship
 description: ""
-date: "2026-03-05T15:56:45.968525"
+date: "2026-03-05T22:38:39.535406"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:

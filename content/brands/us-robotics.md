@@ -2,11 +2,11 @@
 title: US Robotics
 slug: "us-robotics"
 description: ""
-date: "2026-03-05T15:56:45.956989"
+date: "2026-03-05T22:38:39.522570"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - technology
+  - engineering
 industries:
   - "computer-industry"
 countries:
@@ -41,24 +41,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-1505"
-  - gray
-  - orange
-  - "pantone-485"
   - white
   - red
+  - orange
+  - "pantone-485"
+  - "pantone-1505"
+  - gray
 typographies:
   - serif
   - garamond
 imagery_styles:
-  - classic
   - photography
-  - artificial
-  - minimal
   - product
+  - artificial
+  - classic
+  - minimal
 wikidata_description: business enterprise
 has_twitter: false
 has_guidelines: true

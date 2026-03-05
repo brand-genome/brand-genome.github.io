@@ -2,7 +2,7 @@
 title: The Home Depot
 slug: "the-home-depot"
 description: ""
-date: "2026-03-05T15:56:46.195884"
+date: "2026-03-05T22:38:39.900629"
 draft: false
 sectors:
   - construction
@@ -12,8 +12,8 @@ years: []
 languages: []
 tags: []
 industries:
-  - "hardware-store"
   - retail
+  - "hardware-store"
 countries:
   - "united-states"
 revenue_buckets:
@@ -24,345 +24,268 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
   - "panorama-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
-  - blurred
   - wood
-  - dark
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - textured
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
-  - "sunset-colors"
-  - "two-tone"
   - light
+  - "sunset-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - "inverted-colors"
   - "galaxy-colors"
-  - textured
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - weather
-  - education
-  - interior
-  - industrial
-  - typography
   - commercial
-  - seasonal
-  - candid
-  - botanical
-  - outdoor
-  - "incomplete-art"
-  - decorative
-  - staged
-  - promotional
-  - vintage
-  - beauty
-  - "home-decor"
-  - food
-  - historical
-  - "graphic-design"
-  - street
-  - landscape
-  - news
-  - holiday
-  - logo
-  - corporate
-  - business
-  - wedding
-  - family
-  - "food-photography"
-  - text
-  - "social-cause"
-  - "disaster-relief"
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - information
-  - cartoon
-  - "text-heavy"
-  - sports
-  - bridal
-  - "table-setting"
-  - architectural
-  - reportage
-  - documentary
   - "before-and-after"
+  - "home-decor"
+  - news
+  - landscape
+  - botanical
+  - promotional
+  - outdoor
+  - food
+  - "social-cause"
+  - product
+  - wedding
+  - industrial
+  - text
+  - "table-setting"
+  - lifestyle
+  - interior
   - abstract
   - illustration
-  - "social-media"
-  - action
-  - "outdoor-photography"
-  - pet
-  - advertising
-concepts:
-  - "home-staging"
-  - reconstruction
-  - typography
-  - "incomplete-art"
-  - photorealism
-  - informative
+  - "food-photography"
   - vintage
-  - "real-estate"
-  - "graphic-design"
-  - renovation
-  - halloween
-  - cartoon
-  - "text-heavy"
-  - "home-improvement"
-  - "color-palette"
-  - "corporate-branding"
+  - street
+  - advertising
+  - architectural
+  - "outdoor-photography"
+  - candid
+  - action
+  - "live-stage"
   - documentary
-  - "wave-pattern"
+  - group
+  - sports
+  - decorative
+  - logo
+  - advertisement
+  - sky
+  - fashion
+  - weather
+  - bridal
+  - "text-heavy"
+  - corporate
+  - reportage
+  - cartoon
+  - education
+  - family
+  - typography
+  - "graphic-design"
+  - pet
+  - "incomplete-art"
+  - portrait
+  - beauty
+  - holiday
+  - staged
+  - business
+  - historical
+  - "social-media"
+  - seasonal
+  - information
+  - "still-life"
+  - "disaster-relief"
+concepts:
+  - informative
   - "before-and-after"
   - decoration
+  - reconstruction
+  - "wave-pattern"
+  - "color-palette"
   - illustration
+  - renovation
+  - vintage
+  - halloween
+  - "home-staging"
+  - documentary
+  - "home-improvement"
+  - "text-heavy"
+  - cartoon
+  - typography
+  - "graphic-design"
+  - "real-estate"
+  - "incomplete-art"
+  - "corporate-branding"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
   - "high-contrast"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "motion-capture"
-  - "high-saturation"
+  - "low-saturation"
   - silhouette
-  - "negative-space"
+  - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "motion-capture"
+  - "cut-out"
+  - "motion-blur"
+  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
-  - "low-saturation"
-  - "cut-out"
-  - "artificial-shadow"
-  - "motion-blur"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - gray
-  - orange
-  - "off-white"
-  - black
   - white
-  - "light-blue"
+  - "off-white"
+  - "mud-green"
   - olive
+  - orange
+  - black
+  - "light-blue"
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
+  - casual
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
-  - neat
   - "pulled-back"
-  - wavy
-  - t
   - bald
-  - i
-  - o
-  - unknown
+  - neat
+  - wavy
+  - loose
   - straight
-  - b
-  - long
-  - n
-  - casual
-  - gray
-  - p
+  - ponytail
+  - braided
   - updo
+  - long
+  - curly
+  - short
+  - gray
   - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
-  - engaged
-  - dynamic
-  - a
-  - c
   - shocked
+  - engaged
   - startled
-  - t
-  - i
-  - o
-  - unknown
-  - surprised
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - comfortable
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - b
-  - n
-  - uniform
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
+  - dynamic
   - neutral
-  - earthy
-  - orange
-  - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - blue
-  - unknown
-  - b
-  - n
-  - uniform
-  - p
+  - content
+  - focused
+  - contemplative
+  - surprised
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - beachwear
+  - costume
   - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "business-casual"
+  - comfortable
+  - uniform
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - orange
+  - monochrome
+  - earthy
+  - colorful
+  - protective
+  - blue
+  - pastel
+  - uniform
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - working
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - pointing
-  - i
-  - stretching
-  - o
-  - running
-  - unknown
   - walking
+  - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - holding
+  - active
+  - pointing
   - standing
-  - b
-  - n
-  - p
-  - reclined
+  - running
+  - stretching
+  - working
+  - confident
 gazes:
-  - l
-  - e
   - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
   - away
-  - i
-  - o
-  - unknown
-  - sideways
-  - b
-  - n
-  - focused
-  - p
-  - forward
+  - downward
   - outward
+  - upward
+  - focused
+  - sideways
+  - forward
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - seated
-  - l
-  - e
-  - engaged
-  - midsection
-  - a
-  - c
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
-  - reclined
+  - seated
+  - midsection
+  - "lower-half"
   - "full-back"
+  - engaged
+  - "upper-body"
+  - reclined
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

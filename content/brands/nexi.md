@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-03-05T15:56:45.791827"
+date: "2026-03-05T22:38:39.293789"
 draft: false
 sectors:
   - finance
@@ -41,21 +41,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
   - arial
   - "proxima-nova"
 imagery_styles:
+  - professional
   - monochrome
   - clean
-  - professional
   - graphic
 wikidata_description: Italian bank
 has_twitter: false

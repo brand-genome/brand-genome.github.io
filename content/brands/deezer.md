@@ -2,11 +2,11 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-03-05T15:56:45.723563"
+date: "2026-03-05T22:38:39.213230"
 draft: false
 sectors:
-  - entertainment
   - software
+  - entertainment
 regions:
   - france
 years:
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - internet
-  - music
   - app
+  - music
+  - internet
+  - featured
 industries: []
 countries:
   - france
@@ -44,28 +44,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - icon
+  - secondary
   - lockup
   - horizontal
   - wordmark
-  - secondary
   - vertical
-  - primary
-  - icon
 brand_colors:
-  - magenta
-  - green
-  - red
-  - yellow
-  - teal
   - white
+  - red
+  - teal
+  - magenta
+  - yellow
   - blue
+  - green
 typographies:
   - gotham
 imagery_styles:
-  - monochrome
   - bold
   - dynamic
   - photography
+  - monochrome
 wikidata_description: "French web-based music and podcast streaming service"
 has_twitter: false
 has_guidelines: true

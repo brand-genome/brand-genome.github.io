@@ -2,7 +2,7 @@
 title: TÚ SR
 slug: "tu-sr"
 description: ""
-date: "2026-03-05T15:56:46.136132"
+date: "2026-03-05T22:38:39.776394"
 draft: false
 sectors:
   - "public-sector"
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - icon
   - primary
+  - secondary
+  - signature
 brand_colors:
-  - "pantone-186"
-  - blue
-  - black
-  - "pantone-300"
   - white
   - red
+  - "pantone-186"
+  - black
+  - blue
+  - "pantone-300"
 typographies:
   - arial
   - helvetica

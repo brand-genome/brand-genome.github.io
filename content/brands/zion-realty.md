@@ -2,11 +2,11 @@
 title: Zion Realty
 slug: "zion-realty"
 description: ""
-date: "2026-03-05T15:56:45.721538"
+date: "2026-03-05T22:38:39.212096"
 draft: false
 sectors:
-  - "real-estate"
   - construction
+  - "real-estate"
 regions:
   - usa
 years:

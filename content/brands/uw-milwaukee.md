@@ -2,11 +2,11 @@
 title: UW Milwaukee
 slug: "uw-milwaukee"
 description: ""
-date: "2026-03-05T15:56:46.149230"
+date: "2026-03-05T22:38:39.789064"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -43,11 +43,11 @@ logo_elements:
   - seal
   - symbol
 brand_colors:
+  - white
   - gold
+  - black
   - silver
   - gray
-  - black
-  - white
 typographies:
   - times
 imagery_styles:

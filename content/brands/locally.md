@@ -2,7 +2,7 @@
 title: Locally
 slug: locally
 description: ""
-date: "2026-03-05T15:56:45.639465"
+date: "2026-03-05T22:38:39.104981"
 draft: false
 sectors:
   - fashion

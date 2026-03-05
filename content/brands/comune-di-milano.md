@@ -2,15 +2,15 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-03-05T15:56:45.910508"
+date: "2026-03-05T22:38:39.469470"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - italy
 years:
-  - 2017
   - 2016
+  - 2017
 languages:
   - italian
 tags:
@@ -41,26 +41,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - emblem
   - secondary
   - crest
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - green
-  - gold
-  - silver
-  - black
   - white
   - red
+  - gold
+  - black
+  - silver
+  - green
 typographies:
-  - frutiger
   - bodoni
   - times
+  - frutiger
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "photo archive in Milan, Italy"
 has_twitter: false
 has_guidelines: true

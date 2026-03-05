@@ -2,11 +2,11 @@
 title: Université des Antilles
 slug: "universite-des-antilles"
 description: ""
-date: "2026-03-05T15:56:46.133795"
+date: "2026-03-05T22:38:39.774394"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:

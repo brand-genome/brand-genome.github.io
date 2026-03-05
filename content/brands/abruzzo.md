@@ -2,7 +2,7 @@
 title: Abruzzo
 slug: abruzzo
 description: ""
-date: "2026-03-05T15:56:45.899289"
+date: "2026-03-05T22:38:39.422219"
 draft: false
 sectors:
   - "public-sector"

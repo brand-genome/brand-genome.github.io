@@ -2,7 +2,7 @@
 title: Bombora
 slug: bombora
 description: ""
-date: "2026-03-05T15:56:46.096181"
+date: "2026-03-05T22:38:39.717185"
 draft: false
 sectors:
   - software
@@ -41,10 +41,10 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - white
   - orange
   - grey
   - black
-  - white
   - blue
 typographies:
   - trebuchet

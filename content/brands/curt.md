@@ -2,11 +2,11 @@
 title: Curt
 slug: curt
 description: ""
-date: "2026-03-05T15:56:46.010758"
+date: "2026-03-05T22:38:39.584261"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - horizontal
-  - symbol
-  - signature
-  - secondary
   - primary
+  - symbol
+  - alternate
+  - secondary
+  - horizontal
+  - signature
   - vertical
 brand_colors:
-  - blue
   - white
-  - black
+  - blue
   - orange
+  - black
 typographies:
   - din
   - helvetica

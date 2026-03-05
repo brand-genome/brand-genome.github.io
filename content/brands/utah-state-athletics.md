@@ -2,11 +2,11 @@
 title: Utah State Athletics
 slug: "utah-state-athletics"
 description: ""
-date: "2026-03-05T15:56:45.969478"
+date: "2026-03-05T22:38:39.536475"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -38,18 +38,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - alternate
+  - secondary
   - horizontal
   - wordmark
-  - secondary
-  - primary
   - vertical
 brand_colors:
+  - white
   - red
+  - blue
   - silver
   - gray
-  - white
-  - blue
 typographies:
   - univers
 imagery_styles:

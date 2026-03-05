@@ -2,11 +2,11 @@
 title: Demand Media
 slug: "demand-media"
 description: ""
-date: "2026-03-05T15:56:46.058379"
+date: "2026-03-05T22:38:39.655055"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - usa
 years:
@@ -40,31 +40,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - primary
   - badge
-  - symbol
+  - secondary
 brand_colors:
-  - "pantone-381"
-  - green
-  - red
-  - "pantone-285"
-  - yellow
-  - "pantone-115"
-  - gray
-  - black
   - white
+  - red
+  - "pantone-115"
   - "pantone-305"
-  - blue
-  - "pantone-7479"
   - "pantone-382"
+  - "pantone-381"
+  - "pantone-7479"
+  - black
+  - yellow
+  - blue
+  - gray
+  - green
+  - "pantone-285"
   - "pantone-116"
 typographies: []
 imagery_styles:
+  - bold
+  - colorful
   - dynamic
   - vibrant
-  - colorful
-  - bold
 wikidata_description: an American content company
 has_twitter: false
 has_guidelines: true

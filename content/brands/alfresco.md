@@ -2,7 +2,7 @@
 title: Alfresco
 slug: alfresco
 description: ""
-date: "2026-03-05T15:56:46.067375"
+date: "2026-03-05T22:38:39.678784"
 draft: false
 sectors:
   - software
@@ -37,23 +37,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - gold
-  - gray
-  - orange
   - white
+  - gold
+  - orange
   - blue
+  - gray
+  - green
 typographies:
-  - slab
   - roboto
+  - slab
 imagery_styles:
-  - candid
   - bold
-  - subtle
   - photography
+  - subtle
+  - candid
 wikidata_description: "open-source content-management system"
 has_twitter: false
 has_guidelines: true

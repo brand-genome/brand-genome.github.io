@@ -2,7 +2,7 @@
 title: TPID Dallas
 slug: "tpid-dallas"
 description: ""
-date: "2026-03-05T15:56:45.837003"
+date: "2026-03-05T22:38:39.346315"
 draft: false
 sectors:
   - "public-sector"

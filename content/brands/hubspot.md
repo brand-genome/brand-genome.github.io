@@ -2,7 +2,7 @@
 title: Hubspot
 slug: hubspot
 description: ""
-date: "2026-03-05T15:56:46.262427"
+date: "2026-03-05T22:38:40.035938"
 draft: false
 sectors:
   - software
@@ -13,13 +13,13 @@ languages: []
 tags: []
 industries:
   - marketing
-  - "software-as-a-service"
-  - "customer-relationship-management"
-  - "software-industry"
-  - "cloud-computing"
+  - automation
   - analytics
   - "email-marketing"
-  - automation
+  - "cloud-computing"
+  - "software-as-a-service"
+  - "software-industry"
+  - "customer-relationship-management"
 countries:
   - "united-states"
 revenue_buckets:
@@ -30,176 +30,176 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
   - "light-glare"
-perspectives:
-  - "centered-composition"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
-  - "panorama-view"
-image_backgrounds:
-  - pattern
-  - blurred
-  - wood
-  - dark
-  - transparent
+  - "light-on-subject"
   - bright
-  - gradient
-  - light
+  - dark
+  - natural
+perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
+  - "centered-composition"
+  - "rule-of-third"
+image_backgrounds:
+  - wood
   - textured
+  - blurred
+  - transparent
   - solid
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
+  - "galaxy-colors"
+  - light
+  - "analogous-colors"
   - "pastel-colors"
   - bright
-  - "galaxy-colors"
-  - "two-tone"
-  - light
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - candid
-  - typography
+  - professional
+  - informational
   - botanical
-  - political
-  - staged
   - promotional
   - food
-  - beauty
-  - "graphic-design"
-  - street
-  - corporate
-  - business
-  - text
-  - portrait
-  - advertisement
-  - informational
   - product
-  - cartoon
-  - "text-heavy"
-  - architectural
-  - professional
-  - documentary
+  - text
+  - interior
+  - illustration
   - abstract
-  - illustration
-  - action
+  - street
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
-  - illustration
-  - vintage
-  - informational
+  - architectural
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - fashion
+  - advertisement
+  - "text-heavy"
+  - corporate
+  - cartoon
+  - typography
   - "graphic-design"
+  - portrait
+  - beauty
+  - staged
+  - business
+  - political
+  - "still-life"
+concepts:
   - cartoon
   - "text-heavy"
+  - illustration
+  - informational
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - "long-exposure"
   - "short-exposure"
 dominant_colors:
-  - pink
-  - cream
-  - cyan
-  - "dark-blue"
-  - orange
-  - black
   - white
   - red
+  - orange
+  - cream
+  - black
+  - "dark-blue"
+  - cyan
+  - pink
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - wavy
-  - braided
-  - neat
-  - long
-  - curly
   - casual
   - flowing
-  - covered
-  - varied
-  - short
-  - updo
-  - "tied-back"
+  - neat
+  - wavy
+  - loose
   - ponytail
+  - braided
+  - updo
+  - long
+  - curly
+  - short
+  - "tied-back"
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
+  - engaged
   - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - "form-fitting"
-  - formal
   - casual
-  - traditional
+  - "form-fitting"
+  - business
   - costume
+  - formal
+  - traditional
   - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
   - muted
+  - neutral
+  - monochrome
+  - earthy
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
   - seated
+  - engaged
   - leaning
-  - confident
   - relaxed
+  - active
   - holding
+  - standing
+  - confident
 gazes:
-  - sideways
   - engaged
   - downward
-  - forward
   - outward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
-  - "upper-body"
-  - "close-up"
-  - midsection
   - "head-shot"
-  - "full-body"
+  - midsection
   - "full-back"
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

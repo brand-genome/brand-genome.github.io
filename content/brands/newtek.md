@@ -2,11 +2,11 @@
 title: NewTek
 slug: newtek
 description: ""
-date: "2026-03-05T15:56:45.944053"
+date: "2026-03-05T22:38:39.512787"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
   - vertical
 brand_colors:
-  - magenta
-  - gray
-  - black
   - white
-  - blue
+  - magenta
+  - black
   - "pantone-426"
+  - blue
+  - gray
 typographies:
   - arial
   - helvetica
 imagery_styles:
-  - product
   - photography
+  - product
 wikidata_description: 3D graphics software
 has_twitter: false
 has_guidelines: true

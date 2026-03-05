@@ -2,7 +2,7 @@
 title: Global Environment Facility
 slug: "global-environment-facility"
 description: ""
-date: "2026-03-05T15:56:45.743654"
+date: "2026-03-05T22:38:39.240775"
 draft: false
 sectors:
   - ngo

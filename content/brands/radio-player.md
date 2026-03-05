@@ -2,7 +2,7 @@
 title: Radio Player
 slug: "radio-player"
 description: ""
-date: "2026-03-05T15:56:46.089919"
+date: "2026-03-05T22:38:39.710595"
 draft: false
 sectors:
   - broadcasting
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
+  - secondary
   - vertical
+  - horizontal
 brand_colors:
-  - red
   - white
+  - red
   - black
 typographies: []
 imagery_styles:
+  - bold
   - gradient
   - product
-  - bold
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

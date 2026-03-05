@@ -2,11 +2,11 @@
 title: Doorvel
 slug: doorvel
 description: ""
-date: "2026-03-05T15:56:45.717172"
+date: "2026-03-05T22:38:39.207354"
 draft: false
 sectors:
-  - "real-estate"
   - software
+  - "real-estate"
 regions:
   - mexico
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - "real-estate"
   - app
+  - "real-estate"
 industries: []
 countries: []
 revenue_buckets: []

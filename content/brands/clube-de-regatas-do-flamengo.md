@@ -2,7 +2,7 @@
 title: Clube de Regatas do Flamengo
 slug: "clube-de-regatas-do-flamengo"
 description: ""
-date: "2026-03-05T15:56:45.893039"
+date: "2026-03-05T22:38:39.412227"
 draft: false
 sectors:
   - sports
@@ -39,14 +39,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
   - symbol
+  - monogram
 brand_colors:
-  - "pantone-186"
-  - gold
-  - black
   - white
+  - gold
+  - "pantone-186"
+  - black
   - "pantone-871"
 typographies: []
 imagery_styles:

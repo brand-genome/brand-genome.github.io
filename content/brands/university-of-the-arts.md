@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-03-05T15:56:45.839691"
+date: "2026-03-05T22:38:39.350266"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - education
-  - art
   - university
+  - art
 industries:
   - "higher-education"
 countries:
@@ -41,16 +41,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - primary
+  - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - dynamic
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: "University in Philadelphia, USA, accredited in 1987. Successor to the Philadelphia Colleges of the Arts."
 has_twitter: false
 has_guidelines: true

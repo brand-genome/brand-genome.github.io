@@ -2,11 +2,11 @@
 title: MSC
 slug: msc
 description: ""
-date: "2026-03-05T15:56:46.054546"
+date: "2026-03-05T22:38:39.647602"
 draft: false
 sectors:
-  - tourism
   - cruise
+  - tourism
 regions:
   - italy
 years:
@@ -39,25 +39,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - primary
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
-  - gray
   - orange
+  - black
+  - gray
 typographies:
-  - verdana
   - "open-sans"
-  - times
   - georgia
+  - verdana
+  - times
 imagery_styles:
+  - bold
   - photography
   - product
   - landscape
   - clean
-  - bold
 wikidata_description: Egyptian airline
 has_twitter: false
 has_guidelines: true

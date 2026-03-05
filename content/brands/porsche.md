@@ -2,7 +2,7 @@
 title: Porsche
 slug: porsche
 description: ""
-date: "2026-03-05T15:56:46.215221"
+date: "2026-03-05T22:38:39.951494"
 draft: false
 sectors:
   - automobile
@@ -23,389 +23,312 @@ net_profit_buckets:
 lightings:
   - studio
   - soft
-  - colored
+  - moderate
+  - "light-glare"
   - "light-on-subject"
+  - bright
   - dark
   - natural
-  - moderate
-  - bright
-  - "light-glare"
+  - colored
 perspectives:
-  - studio
-  - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "altered-perspective"
-  - "audience-perspective"
-  - "action-shot"
   - "point-of-view-shot"
-  - "rule-of-third"
-  - "rule-of-thirds"
+  - "high-angle-photo"
+  - studio
   - "panorama-view"
   - "fish-eye-view"
+  - "audience-perspective"
+  - "altered-perspective"
+  - "centered-composition"
+  - "action-shot"
   - "worm-eye-view"
+  - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
+  - "bird-eye-view"
 image_backgrounds:
-  - "background-as-frame"
-  - blurred
+  - white
+  - light
   - rocky
   - "autumnal-colors"
-  - "sunset-colors"
+  - bright
   - dark
+  - brick
+  - "background-as-frame"
+  - text
+  - blurred
+  - "sunset-colors"
+  - gradient
+  - pattern
+  - red
+  - textured
   - wood
   - transparent
-  - gradient
-  - red
   - solid
-  - text
-  - brick
-  - light
-  - pattern
   - "rocky-terrain"
-  - bright
-  - white
-  - textured
 color_schemes:
-  - "autumnal-colors"
-  - "sunset-colors"
-  - monotone
-  - "pastel-colors"
-  - "bright-colors"
-  - dark
-  - vintage
-  - red
-  - "inverted-colors"
-  - "aquatic-colors"
-  - "analogous-colors"
-  - "complementary-colors"
-  - black
-  - "galaxy-colors"
-  - "two-tone"
   - light
-  - "text-heavy"
-  - blue
-  - grayscale
+  - "pastel-colors"
+  - "autumnal-colors"
   - bright
+  - dark
+  - "bright-colors"
+  - "sunset-colors"
+  - vintage
+  - "analogous-colors"
+  - "two-tone"
+  - red
+  - "text-heavy"
+  - "complementary-colors"
+  - "galaxy-colors"
+  - "inverted-colors"
+  - grayscale
+  - monotone
+  - black
+  - blue
+  - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - racing
-  - sky
-  - "still-life"
-  - "live-stage"
-  - group
-  - interview
-  - selfie
-  - automotive
-  - interior
-  - industrial
-  - commercial
-  - branding
-  - typography
-  - botanical
-  - candid
-  - showroom
-  - urban
-  - cityscape
-  - audience
-  - landmark
-  - race
-  - celebration
-  - staged
-  - vintage
-  - historical
-  - beauty
-  - food
-  - promotional
-  - "graphic-design"
-  - street
-  - "race-track"
-  - landscape
-  - automobile
-  - logo
-  - corporate
-  - event
-  - wedding
-  - "road-trip"
-  - family
-  - text
-  - travel
-  - portrait
-  - advertisement
-  - "car-photography"
-  - architecture
-  - lifestyle
-  - art
-  - product
-  - "car-show"
-  - sports
-  - cartoon
-  - "text-heavy"
-  - exhibition
-  - bridal
-  - architectural
-  - car
-  - documentary
-  - professional
   - "race-car"
-  - underwater
+  - audience
+  - selfie
+  - commercial
+  - professional
+  - race
+  - landscape
+  - botanical
+  - automotive
+  - promotional
+  - food
+  - product
+  - wedding
+  - art
+  - industrial
+  - showroom
+  - text
+  - lifestyle
+  - interior
   - abstract
   - illustration
   - "audience-perspective"
-  - action
-  - bridge
-  - advertising
-concepts:
-  - studio
-  - "motion-capture"
-  - realism
-  - "live-stage"
-  - "action-shot"
-  - sponsorship
-  - promotion
-  - "birthday-greeting"
-  - typography
-  - branding
-  - "incomplete-art"
-  - "bokeh-effect"
-  - photorealism
+  - "road-trip"
+  - landmark
   - vintage
-  - "graphic-design"
-  - logo
-  - advertisement
+  - street
+  - advertising
+  - architecture
+  - architectural
   - sports
+  - candid
+  - action
+  - "live-stage"
+  - group
+  - documentary
+  - urban
+  - racing
+  - "car-photography"
+  - logo
+  - fashion
+  - sky
+  - event
+  - advertisement
+  - interview
+  - cityscape
   - cartoon
   - "text-heavy"
-  - "motion-blur"
-  - documentary
-  - "wave-pattern"
-  - motion
-  - illustration
-  - "audience-perspective"
-  - "logo-design"
-  - action
-  - "sports-car"
-  - advertising
-depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
+  - corporate
+  - underwater
+  - bridal
+  - family
+  - typography
+  - "car-show"
+  - "graphic-design"
+  - exhibition
+  - portrait
+  - beauty
+  - automobile
+  - staged
+  - celebration
+  - historical
+  - bridge
+  - branding
+  - "still-life"
+  - "race-track"
+  - car
+  - travel
+concepts:
   - studio
-  - "wide-angle-shot"
+  - "logo-design"
+  - "sports-car"
+  - "wave-pattern"
+  - sponsorship
+  - "birthday-greeting"
+  - illustration
+  - vintage
+  - "audience-perspective"
+  - advertising
+  - sports
+  - action
+  - "live-stage"
+  - documentary
   - "bokeh-effect"
-  - "fully-focused-subject"
-  - "mid-shot"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
+  - logo
+  - advertisement
+  - "text-heavy"
+  - cartoon
+  - "motion-capture"
+  - typography
+  - "graphic-design"
+  - "action-shot"
+  - motion
+  - "incomplete-art"
+  - realism
+  - branding
+  - "motion-blur"
+  - photorealism
+  - promotion
+depths:
+  - "bokeh-effect"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
+  - studio
+  - "partly-focused-subject"
   - "high-contrast"
   - "dark-focal-point"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
   - "macro-shot"
 image_effects:
   - studio
-  - "high-saturation"
-  - "motion-capture"
-  - "low-exposure"
-  - "low-contrast"
-  - "bright-focal-point"
-  - "long-exposure"
-  - "bokeh-effect"
-  - "vanishing-point"
-  - "dark-focal-point"
-  - "gaussian-blur"
-  - "short-exposure"
-  - "neutral-density-filter"
-  - silhouette
-  - "negative-space"
   - symmetrical
+  - "gaussian-blur"
+  - silhouette
+  - "dark-focal-point"
+  - "long-exposure"
+  - "neutral-density-filter"
+  - "bright-focal-point"
+  - "bokeh-effect"
   - "high-contrast"
-  - "low-saturation"
-  - "motion-blur"
+  - "motion-capture"
+  - "low-contrast"
   - asymmetry
+  - "short-exposure"
+  - "low-saturation"
   - "artificial-shadow"
+  - "high-saturation"
+  - "low-exposure"
+  - "motion-blur"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "mud-green"
-  - "dark-gray"
-  - "dark-blue"
-  - gray
-  - "off-white"
-  - black
   - white
+  - "off-white"
+  - "mud-green"
+  - black
+  - "dark-blue"
   - "light-blue"
+  - gray
+  - "dark-gray"
 color_tones:
   - neutral
 hair_styles:
-  - loose
   - flowing
-  - l
-  - e
-  - braided
-  - curly
-  - covered
-  - balding
-  - varied
-  - a
-  - short
-  - c
-  - neat
-  - ponytail
-  - "pulled-back"
-  - wavy
-  - graying
-  - t
-  - i
-  - bald
-  - o
-  - unknown
-  - straight
-  - blonde
-  - b
-  - long
-  - n
   - casual
-  - gray
-  - p
-  - bearded
+  - blonde
   - white
+  - wavy
+  - loose
+  - bearded
+  - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - braided
+  - short
+  - balding
+  - graying
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - curious
-  - content
-  - l
-  - e
   - joyful
-  - contemplative
-  - relaxed
   - smiling
-  - neutral
   - engaged
-  - a
-  - c
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - focused
-  - n
-  - p
-clothing_styles:
-  - raincoat
-  - formal
-  - traditional
-  - l
-  - e
-  - workwear
-  - "polo-shirt"
-  - a
-  - beachwear
-  - "business-casual"
-  - c
-  - business
-  - active
-  - t
-  - i
-  - costume
-  - o
-  - "form-fitting"
-  - unknown
-  - athletic
-  - swimwear
-  - professional
-  - b
-  - n
-  - casual
-  - p
-  - protective
-clothing_colors:
-  - l
-  - e
-  - monochrome
-  - pastel
+  - relaxed
   - neutral
+  - content
+  - curious
+  - focused
+  - contemplative
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - business
+  - professional
+  - active
+  - beachwear
+  - costume
+  - raincoat
+  - protective
+  - formal
+  - swimwear
+  - workwear
+  - traditional
+  - "polo-shirt"
+  - "business-casual"
+clothing_colors:
+  - vibrant
+  - muted
+  - neutral
+  - monochrome
   - earthy
   - colorful
-  - a
-  - c
-  - vibrant
-  - t
-  - i
-  - muted
-  - o
-  - unknown
-  - b
-  - n
-  - p
   - protective
+  - pastel
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
-  - driving
-  - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - stretching
-  - static
-  - o
-  - running
-  - unknown
   - walking
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - engaged
+  - active
+  - holding
+  - stretching
+  - standing
+  - running
+  - driving
+  - static
+  - confident
 gazes:
-  - l
-  - e
-  - engaged
-  - downward
-  - a
-  - c
-  - t
-  - upward
-  - away
-  - i
-  - o
-  - unknown
   - inquisitive
-  - sideways
-  - b
-  - n
-  - p
-  - forward
-  - outward
-body_sections:
-  - "lower-half"
-  - "upper-body"
-  - l
-  - e
   - engaged
-  - midsection
-  - a
-  - c
+  - away
+  - downward
+  - outward
+  - upward
+  - sideways
+  - forward
+body_sections:
   - "hand-only"
-  - "close-up"
-  - t
-  - i
   - "head-shot"
-  - "full-body"
-  - o
-  - unknown
-  - b
-  - n
-  - p
+  - "lower-half"
+  - midsection
   - "full-back"
+  - engaged
+  - "upper-body"
+  - "full-body"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

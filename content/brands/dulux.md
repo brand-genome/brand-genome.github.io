@@ -2,7 +2,7 @@
 title: Dulux
 slug: dulux
 description: ""
-date: "2026-03-05T15:56:45.748171"
+date: "2026-03-05T22:38:39.246407"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,9 +16,9 @@ tags:
   - corporate
 industries: []
 countries:
-  - "united-kingdom"
   - india
   - canada
+  - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

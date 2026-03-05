@@ -2,7 +2,7 @@
 title: Target Darts
 slug: "target-darts"
 description: ""
-date: "2026-03-05T15:56:46.204601"
+date: "2026-03-05T22:38:39.928437"
 draft: false
 sectors:
   - sports
@@ -19,233 +19,233 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
-  - bright
-  - "light-glare"
   - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - colored
 perspectives:
-  - "altered-perspective"
-  - "bird-eye-view"
-  - "centered-composition"
-  - "low-angle-photo"
+  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
-  - "point-of-view-shot"
-  - "rule-of-third"
+  - "altered-perspective"
+  - "centered-composition"
   - "rule-of-thirds"
+  - "low-angle-photo"
+  - "rule-of-third"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
+  - red
   - wood
+  - textured
   - blurred
+  - solid
   - transparent
-  - bright
-  - gradient
   - black
   - light
-  - red
-  - textured
-  - solid
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
-  - "inverted-colors"
+  - "two-tone"
+  - "bright-colors"
+  - red
   - grayscale
   - monotone
-  - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
   - black
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "two-tone"
+  - "complementary-colors"
   - light
-  - red
+  - "galaxy-colors"
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - "inverted-colors"
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
   - studio
-  - fashion
-  - "still-life"
-  - "live-stage"
-  - group
-  - selfie
-  - packaging
-  - interior
-  - commercial
-  - typography
-  - branding
   - audience
-  - staged
-  - promotional
-  - beauty
-  - "graphic-design"
-  - landscape
-  - logo
-  - corporate
-  - event
-  - business
-  - "digital-art"
-  - text
-  - macro
-  - portrait
-  - advertisement
-  - product
-  - sports
-  - "text-heavy"
-  - architectural
+  - selfie
+  - commercial
   - professional
+  - landscape
+  - promotional
+  - product
+  - text
+  - "digital-art"
   - abstract
   - "audience-perspective"
-  - "social-media"
-  - action
+  - interior
   - advertising
+  - architectural
+  - sports
+  - action
+  - "live-stage"
+  - group
+  - logo
+  - advertisement
+  - fashion
+  - event
+  - "text-heavy"
+  - corporate
+  - typography
+  - "graphic-design"
+  - macro
+  - portrait
+  - beauty
+  - staged
+  - business
+  - branding
+  - "social-media"
+  - "still-life"
+  - packaging
 concepts:
-  - "incomplete-art"
-  - documentary
+  - "professional-attire"
+  - advertisement
   - "document-signing"
-  - "wave-pattern"
-  - photorealism
+  - "text-heavy"
+  - cartoon
   - illustration
   - vintage
-  - advertisement
-  - action
-  - "graphic-design"
-  - sports
-  - "text-heavy"
   - typography
-  - cartoon
-  - "professional-attire"
+  - "graphic-design"
+  - "wave-pattern"
+  - sports
+  - action
+  - documentary
+  - photorealism
+  - "incomplete-art"
 depths:
-  - "multiple-focal-points"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "unfocused-subject"
   - "bokeh-effect"
-  - "fully-focused-subject"
+  - "bright-focal-point"
   - "mid-shot"
+  - "shallow-depth-of-field"
+  - "multiple-focal-points"
   - "partly-focused-subject"
-  - "isolated-focal-point"
-  - "bright-focal-point"
+  - "fully-focused-subject"
+  - "unfocused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "motion-capture"
-  - "low-exposure"
-  - "high-saturation"
   - "bokeh-effect"
-  - silhouette
-  - "negative-space"
-  - "pixelated-image"
-  - "vanishing-point"
-  - asymmetry
+  - "neutral-density-filter"
   - "bright-focal-point"
-  - symmetrical
-  - "long-exposure"
-  - "high-contrast"
+  - "pixelated-image"
   - "low-saturation"
+  - silhouette
+  - "high-contrast"
   - "text-heavy"
-  - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - symmetrical
+  - "low-exposure"
+  - asymmetry
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
+  - "negative-space"
 dominant_colors:
-  - "dark-blue"
-  - purple
-  - "dark-green"
-  - orange
-  - gray
-  - black
   - "dark-gray"
+  - orange
+  - "dark-green"
+  - "dark-blue"
+  - black
   - "dark-brown"
+  - gray
+  - purple
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - flowing
-  - braided
-  - curly
-  - covered
-  - balding
-  - varied
-  - short
-  - neat
-  - ponytail
-  - wavy
-  - "pulled-back"
-  - bald
-  - "buzz-cut"
-  - straight
-  - long
   - casual
+  - flowing
+  - wavy
+  - loose
   - gray
   - updo
   - "tied-back"
+  - straight
+  - ponytail
+  - curly
+  - "buzz-cut"
+  - braided
+  - short
+  - balding
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
+  - bald
+  - long
 facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
   - joyful
-  - contemplative
-  - relaxed
   - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
 clothing_styles:
-  - business
-  - swimwear
-  - formal
   - casual
-  - traditional
-  - "business-casual"
-  - costume
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
+  - formal
   - protective
-  - athletic
+  - swimwear
+  - traditional
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - muted
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
   - seated
-  - leaning
-  - dynamic
-  - confident
-  - stretching
-  - relaxed
-  - holding
-  - running
-  - reclined
-  - static
-gazes:
-  - sideways
+  - walking
   - engaged
-  - upward
+  - leaning
+  - relaxed
+  - dynamic
+  - reclined
+  - active
+  - holding
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - forward
   - outward
+  - upward
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
+  - midsection
+  - "full-back"
   - "lower-half"
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

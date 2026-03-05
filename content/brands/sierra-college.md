@@ -2,7 +2,7 @@
 title: Sierra College
 slug: "sierra-college"
 description: ""
-date: "2026-03-05T15:56:46.062044"
+date: "2026-03-05T22:38:39.666172"
 draft: false
 sectors:
   - education
@@ -38,27 +38,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
+  - "pantone-1805"
+  - red
+  - black
+  - blue
+  - "pantone-7469"
+  - gray
   - "pantone-484"
   - "pantone-7490"
   - green
-  - red
-  - gray
-  - blue
-  - black
-  - white
-  - "pantone-7469"
-  - "pantone-1805"
 typographies:
-  - din
   - serif
+  - din
 imagery_styles:
   - classic
   - modern
-  - graphic
   - natural
+  - graphic
 wikidata_description: "community college located in Rocklin, California"
 has_twitter: false
 has_guidelines: true

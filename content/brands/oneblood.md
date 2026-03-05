@@ -2,7 +2,7 @@
 title: OneBlood
 slug: oneblood
 description: ""
-date: "2026-03-05T15:56:45.985258"
+date: "2026-03-05T22:38:39.560571"
 draft: false
 sectors:
   - healthcare
@@ -38,17 +38,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - primary
   - lockup
+  - horizontal
+  - secondary
 brand_colors:
+  - white
   - red
   - gold
   - orange
   - grey
   - black
-  - white
   - blue
 typographies:
   - garamond

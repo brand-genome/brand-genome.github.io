@@ -2,15 +2,15 @@
 title: Cuyamaca College
 slug: "cuyamaca-college"
 description: ""
-date: "2026-03-05T15:56:45.821049"
+date: "2026-03-05T22:38:39.328040"
 draft: false
 sectors:
   - education
 regions:
   - usa
 years:
-  - 2020
   - 2005
+  - 2020
 languages:
   - english
 tags:
@@ -39,20 +39,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - primary
+  - mascot
+  - secondary
   - lockup
   - horizontal
-  - mascot
   - signature
-  - seal
-  - secondary
-  - primary
 brand_colors:
+  - white
   - blue
   - black
-  - white
 typographies:
-  - times
   - arial
+  - times
 imagery_styles: []
 wikidata_description: "community college in Rancho San Diego, California, U.S."
 has_twitter: false

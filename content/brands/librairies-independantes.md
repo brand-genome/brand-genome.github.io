@@ -2,7 +2,7 @@
 title: Librairies Indépendantes
 slug: "librairies-independantes"
 description: ""
-date: "2026-03-05T15:56:46.104794"
+date: "2026-03-05T22:38:39.732208"
 draft: false
 sectors:
   - "arts-culture"
@@ -37,9 +37,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - vertical
   - horizontal
-  - symbol
 brand_colors:
   - white
 typographies: []

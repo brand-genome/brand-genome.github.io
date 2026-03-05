@@ -2,7 +2,7 @@
 title: Sofigate
 slug: sofigate
 description: ""
-date: "2026-03-05T15:56:46.002053"
+date: "2026-03-05T22:38:39.574920"
 draft: false
 sectors:
   - consulting
@@ -38,22 +38,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - white
   - red
   - grey
   - black
-  - white
   - blue
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
-  - landscape
   - bold
-  - graphic
+  - landscape
   - natural
+  - graphic
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

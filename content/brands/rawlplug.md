@@ -2,11 +2,11 @@
 title: Rawlplug
 slug: rawlplug
 description: ""
-date: "2026-03-05T15:56:46.105141"
+date: "2026-03-05T22:38:39.732635"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - "united-kingdom"
 years:
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - symbol
-  - wordmark
   - primary
+  - symbol
   - badge
+  - alternate
+  - wordmark
 brand_colors:
-  - gray
-  - black
   - white
-  - blue
   - "pantone-541"
+  - black
+  - blue
+  - gray
 typographies:
   - impact
   - ubuntu
 imagery_styles:
+  - bold
   - minimal
   - modern
-  - bold
 wikidata_description: engineering company of the United Kingdom
 has_twitter: false
 has_guidelines: true

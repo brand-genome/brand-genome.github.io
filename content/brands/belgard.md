@@ -2,11 +2,11 @@
 title: Belgard
 slug: belgard
 description: ""
-date: "2026-03-05T15:56:46.096585"
+date: "2026-03-05T22:38:39.717711"
 draft: false
 sectors:
-  - "consumer-goods"
   - construction
+  - "consumer-goods"
 regions:
   - serbia
 years:
@@ -40,23 +40,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - green
-  - gray
-  - black
   - white
+  - black
   - blue
+  - gray
+  - green
 typographies:
   - serif
   - arial
 imagery_styles:
+  - bold
+  - geometric
   - contemporary
   - modern
   - natural
-  - geometric
-  - bold
 wikidata_description: city and urban gmina of Poland
 has_twitter: false
 has_guidelines: true

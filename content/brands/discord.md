@@ -2,7 +2,7 @@
 title: Discord
 slug: discord
 description: ""
-date: "2026-03-05T15:56:45.672047"
+date: "2026-03-05T22:38:39.155024"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - app
+  - featured
   - software
 industries: []
 countries: []
@@ -41,9 +41,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - secondary
-  - primary
   - icon
+  - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

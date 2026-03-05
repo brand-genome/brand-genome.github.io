@@ -2,7 +2,7 @@
 title: Mokulele Airlines
 slug: "mokulele-airlines"
 description: ""
-date: "2026-03-05T15:56:45.925812"
+date: "2026-03-05T22:38:39.498418"
 draft: false
 sectors:
   - airline
@@ -40,11 +40,11 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - red
-  - gray
-  - orange
   - white
+  - red
+  - orange
   - blue
+  - gray
 typographies: []
 imagery_styles: []
 wikidata_description: "commuter airline based out of Kailua-Kona, Hawaii"

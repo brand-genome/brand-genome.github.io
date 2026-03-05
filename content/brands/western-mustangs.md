@@ -2,11 +2,11 @@
 title: Western Mustangs
 slug: "western-mustangs"
 description: ""
-date: "2026-03-05T15:56:46.082419"
+date: "2026-03-05T22:38:39.702872"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - sport
+  - university
 industries: []
 countries:
   - canada
@@ -42,13 +42,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
   - magenta
+  - black
   - cyan
-  - green
   - yellow
   - blue
-  - black
-  - red
+  - green
 typographies:
   - display
 imagery_styles:

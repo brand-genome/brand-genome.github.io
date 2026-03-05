@@ -2,7 +2,7 @@
 title: Can
 slug: can
 description: ""
-date: "2026-03-05T15:56:46.047736"
+date: "2026-03-05T22:38:39.638775"
 draft: false
 sectors:
   - ngo
@@ -45,11 +45,11 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - contemporary
-  - professional
-  - photography
-  - clean
   - bold
+  - photography
+  - professional
+  - contemporary
+  - clean
 wikidata_description: German experimental rock band
 has_twitter: false
 has_guidelines: true

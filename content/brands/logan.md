@@ -2,7 +2,7 @@
 title: Logan
 slug: logan
 description: ""
-date: "2026-03-05T15:56:46.126165"
+date: "2026-03-05T22:38:39.765741"
 draft: false
 sectors:
   - education

@@ -2,11 +2,11 @@
 title: St John’s University
 slug: "st-johns-university"
 description: ""
-date: "2026-03-05T15:56:46.154893"
+date: "2026-03-05T22:38:39.794557"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

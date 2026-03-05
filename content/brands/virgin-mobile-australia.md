@@ -2,7 +2,7 @@
 title: Virgin Mobile Australia
 slug: "virgin-mobile-australia"
 description: ""
-date: "2026-03-05T15:56:46.130590"
+date: "2026-03-05T22:38:39.770836"
 draft: false
 sectors:
   - telecom
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - telecommunications
+  - corporate
 industries:
   - telecommunications
 countries:

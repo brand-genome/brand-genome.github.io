@@ -2,11 +2,11 @@
 title: HKU Business School
 slug: "hku-business-school"
 description: ""
-date: "2026-03-05T15:56:45.655456"
+date: "2026-03-05T22:38:39.123025"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - china
 years:

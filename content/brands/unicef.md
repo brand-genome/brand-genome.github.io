@@ -2,16 +2,16 @@
 title: Unicef
 slug: unicef
 description: ""
-date: "2026-03-05T15:56:46.099357"
+date: "2026-03-05T22:38:39.721604"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2017
   - 2018
   - 2012
+  - 2017
 languages:
   - english
   - spanish
@@ -44,23 +44,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - horizontal
   - signature
+  - horizontal
   - vertical
 brand_colors:
-  - cyan
-  - "pantone-7685"
-  - grey
-  - black
   - white
+  - grey
+  - cyan
+  - black
+  - "pantone-7685"
   - blue
 typographies:
   - univers
   - arial
 imagery_styles:
-  - contemporary
   - bold
   - photography
+  - contemporary
 wikidata_description: "non-profit organisation from Turkey"
 has_twitter: false
 has_guidelines: true

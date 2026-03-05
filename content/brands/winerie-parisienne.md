@@ -2,7 +2,7 @@
 title: Winerie Parisienne
 slug: "winerie-parisienne"
 description: ""
-date: "2026-03-05T15:56:46.172021"
+date: "2026-03-05T22:38:39.814047"
 draft: false
 sectors:
   - drink
@@ -38,11 +38,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - brown
-  - gold
-  - black
   - white
   - red
+  - gold
+  - black
+  - brown
 typographies:
   - serif
   - "sans-serif"

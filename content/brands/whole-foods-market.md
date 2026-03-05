@@ -2,7 +2,7 @@
 title: Whole Foods Market
 slug: "whole-foods-market"
 description: ""
-date: "2026-03-05T15:56:46.167579"
+date: "2026-03-05T22:38:39.809570"
 draft: false
 sectors:
   - airline
@@ -42,8 +42,8 @@ body_sections: []
 logo_elements:
   - wordmark
   - alternate
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
   - black
 typographies:

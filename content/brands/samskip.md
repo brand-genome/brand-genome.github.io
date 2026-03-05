@@ -2,11 +2,11 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-03-05T15:56:46.026989"
+date: "2026-03-05T22:38:39.594487"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "maritime-shipping"
+  - "logistics-supply-chain"
 regions:
   - netherlands
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "transport-industry"
   - logistics
+  - "transport-industry"
 countries:
   - iceland
   - netherlands
@@ -43,13 +43,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - blue
   - white
-  - green
+  - blue
   - orange
+  - green
 typographies:
   - helvetica
 imagery_styles: []

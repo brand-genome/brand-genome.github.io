@@ -2,11 +2,11 @@
 title: Boise Cascade
 slug: "boise-cascade"
 description: ""
-date: "2026-03-05T15:56:45.849425"
+date: "2026-03-05T22:38:39.362209"
 draft: false
 sectors:
-  - "forestry-timber"
   - construction
+  - "forestry-timber"
 regions:
   - usa
 years:
@@ -39,30 +39,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - symbol
   - secondary
-  - primary
+  - horizontal
   - vertical
 brand_colors:
-  - "pantone-1655"
+  - "pantone-357"
+  - red
+  - "pantone-382"
+  - grey
+  - "pantone-433"
+  - black
   - "pantone-362"
-  - green
   - yellow
   - "pantone-4196"
-  - grey
-  - black
+  - "pantone-1655"
   - "pantone-5435"
-  - red
-  - "pantone-357"
-  - "pantone-382"
-  - "pantone-433"
+  - green
 typographies:
-  - montserrat
   - arial
+  - montserrat
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
   - graphic
 wikidata_description: pulp and paper products company
 has_twitter: false

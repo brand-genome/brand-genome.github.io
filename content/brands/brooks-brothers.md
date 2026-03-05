@@ -2,7 +2,7 @@
 title: Brooks Brothers
 slug: "brooks-brothers"
 description: ""
-date: "2026-03-05T15:56:46.252742"
+date: "2026-03-05T22:38:40.024813"
 draft: false
 sectors:
   - fashion
@@ -22,223 +22,223 @@ net_profit_buckets: []
 lightings:
   - studio
   - soft
-  - colored
-  - "light-on-subject"
-  - dark
   - moderate
-  - natural
+  - "light-on-subject"
   - bright
+  - dark
+  - natural
   - vignette
+  - colored
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
-  - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "high-angle-photo"
-  - "audience-perspective"
-  - "point-of-view-shot"
   - "rule-of-third"
-  - "panorama-view"
   - "framed-image"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - text
-  - dark
-  - blurred
   - wood
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - text
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
+  - textured
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - vintage
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
+  - vintage
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
   - light
-  - textured
+  - bright
+  - dark
   - "aquatic-colors"
 photography_genres:
-  - fashion
-  - sky
-  - amateur
-  - "still-life"
-  - "live-stage"
-  - group
   - selfie
-  - interior
-  - candid
-  - "event-photography"
-  - cityscape
-  - staged
-  - vintage
-  - historical
-  - beauty
+  - professional
+  - landscape
+  - nature
   - food
+  - product
+  - text
+  - lifestyle
+  - interior
+  - abstract
+  - vintage
   - "social-gathering"
   - street
-  - landscape
-  - event
-  - family
-  - text
-  - "pet-photography"
-  - portrait
-  - advertisement
-  - lifestyle
-  - product
-  - nature
-  - "text-heavy"
-  - architectural
-  - professional
-  - abstract
-  - party
-  - action
   - advertising
-concepts:
-  - "incomplete-art"
-  - "wave-pattern"
+  - architectural
+  - action
+  - candid
   - "live-stage"
-  - photorealism
-  - illustration
-  - vintage
+  - group
+  - party
+  - fashion
+  - sky
+  - advertisement
+  - event
+  - cityscape
+  - "text-heavy"
+  - "pet-photography"
+  - amateur
+  - family
   - portrait
-  - "graphic-design"
+  - beauty
+  - staged
+  - historical
+  - "event-photography"
+  - "still-life"
+concepts:
   - product
   - cartoon
   - "text-heavy"
+  - illustration
+  - vintage
   - typography
+  - "graphic-design"
+  - "wave-pattern"
+  - photorealism
   - "framed-image"
+  - "incomplete-art"
+  - "live-stage"
+  - portrait
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "close-up-shot"
-  - "isolated-focal-point"
   - "bright-focal-point"
-  - "macro-shot"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "close-up-shot"
+  - "wide-angle-shot"
   - "motion-blur"
+  - "isolated-focal-point"
+  - "macro-shot"
 image_effects:
   - "neutral-density-filter"
-  - "high-saturation"
-  - silhouette
-  - "vanishing-point"
-  - asymmetry
-  - symmetrical
-  - "high-contrast"
-  - "long-exposure"
   - "low-saturation"
-  - "short-exposure"
+  - silhouette
   - "artificial-shadow"
+  - "high-contrast"
+  - "high-saturation"
+  - symmetrical
+  - asymmetry
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
-  - "mud-green"
-  - "dark-blue"
-  - gray
-  - black
   - white
+  - "mud-green"
+  - olive
+  - black
+  - "dark-blue"
   - "dark-brown"
   - "light-blue"
-  - olive
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - formal
   - flowing
-  - braided
-  - curly
-  - covered
-  - varied
-  - short
-  - ponytail
-  - neat
-  - wavy
-  - "pulled-back"
-  - straight
-  - long
   - casual
+  - wavy
+  - loose
   - gray
   - updo
-  - "not-visible"
   - "tied-back"
-facial_expressions:
-  - neutral
-  - engaged
-  - focused
-  - content
-  - joyful
-  - contemplative
-  - relaxed
-  - smiling
-clothing_styles:
-  - business
-  - swimwear
+  - straight
+  - ponytail
+  - curly
+  - "not-visible"
+  - braided
+  - short
+  - varied
+  - covered
+  - "pulled-back"
+  - neat
   - formal
+  - long
+facial_expressions:
+  - joyful
+  - smiling
+  - engaged
+  - relaxed
+  - neutral
+  - content
+  - focused
+  - contemplative
+clothing_styles:
   - casual
-  - traditional
-  - "business-casual"
-  - costume
-  - dressy
+  - athletic
+  - business
   - beachwear
   - "form-fitting"
+  - costume
+  - formal
   - protective
-  - athletic
+  - swimwear
+  - traditional
+  - dressy
+  - "business-casual"
 clothing_colors:
-  - monochrome
-  - pastel
-  - neutral
-  - earthy
-  - muted
-  - colorful
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
   - subdued
 posings:
-  - standing
-  - active
-  - engaged
-  - walking
-  - confident
-  - leaning
   - seated
-  - dynamic
-  - stretching
-  - relaxed
-  - holding
-  - running
+  - walking
   - reclined
-  - static
-gazes:
-  - sideways
+  - leaning
+  - relaxed
+  - dynamic
   - engaged
-  - upward
+  - holding
+  - active
+  - standing
+  - running
+  - stretching
+  - static
+  - confident
+gazes:
+  - engaged
   - away
   - downward
-  - "at-camera"
-  - forward
   - outward
+  - upward
+  - "at-camera"
+  - sideways
+  - forward
 body_sections:
   - "hand-only"
+  - "head-shot"
   - "lower-half"
+  - "full-back"
+  - midsection
   - engaged
   - "upper-body"
-  - "close-up"
-  - midsection
-  - "head-shot"
   - "full-body"
-  - "full-back"
+  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []

@@ -2,7 +2,7 @@
 title: F4 US Championship
 slug: "f4-us-championship"
 description: ""
-date: "2026-03-05T15:56:46.029045"
+date: "2026-03-05T22:38:39.596673"
 draft: false
 sectors:
   - sports
@@ -39,9 +39,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
+  - white
   - red
   - black
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""

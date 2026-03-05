@@ -2,7 +2,7 @@
 title: IBM – Be Equal
 slug: "ibm-be-equal"
 description: ""
-date: "2026-03-05T15:56:45.906263"
+date: "2026-03-05T22:38:39.437411"
 draft: false
 sectors:
   - "public-relations"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - social
   - technology
+  - social
 industries: []
 countries: []
 revenue_buckets: []
@@ -39,17 +39,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - secondary
+  - lockup
 brand_colors:
-  - magenta
-  - purple
-  - teal
-  - black
   - white
+  - teal
+  - magenta
+  - black
+  - purple
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
   - bold
 wikidata_description: ""

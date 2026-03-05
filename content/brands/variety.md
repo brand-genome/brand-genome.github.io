@@ -2,7 +2,7 @@
 title: Variety
 slug: variety
 description: ""
-date: "2026-03-05T15:56:46.071547"
+date: "2026-03-05T22:38:39.683115"
 draft: false
 sectors:
   - ngo
@@ -37,24 +37,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
-  - stacked
   - primary
   - icon
+  - secondary
+  - horizontal
+  - stacked
 brand_colors:
-  - "pantone-285"
   - "pantone-198"
-  - black
   - white
-  - "pantone-485"
   - red
+  - black
+  - "pantone-485"
   - "pantone-652"
+  - "pantone-285"
 typographies:
   - lato
 imagery_styles:
-  - vibrant
   - bold
+  - vibrant
 wikidata_description: type of British theatrical entertainment popular between 1850 and 1960
 has_twitter: false
 has_guidelines: true

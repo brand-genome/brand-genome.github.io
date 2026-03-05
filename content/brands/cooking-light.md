@@ -2,7 +2,7 @@
 title: Cooking Light
 slug: "cooking-light"
 description: ""
-date: "2026-03-05T15:56:46.174927"
+date: "2026-03-05T22:38:39.817481"
 draft: false
 sectors:
   - food

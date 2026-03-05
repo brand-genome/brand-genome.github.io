@@ -2,11 +2,11 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-03-05T15:56:46.183130"
+date: "2026-03-05T22:38:39.826238"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -43,19 +43,19 @@ body_sections: []
 logo_elements:
   - seal
   - primary
-  - alternate
   - symbol
+  - alternate
 brand_colors:
   - blue
   - brown
 typographies:
-  - serif
   - gotham
+  - serif
 imagery_styles:
-  - graphic
   - bold
-  - professional
   - classic
+  - professional
+  - graphic
 wikidata_description: "private research university in Medford/Somerville, Massachusetts"
 has_twitter: false
 has_guidelines: true

@@ -2,7 +2,7 @@
 title: Continental
 slug: continental
 description: ""
-date: "2026-03-05T15:56:46.027436"
+date: "2026-03-05T22:38:39.594932"
 draft: false
 sectors:
   - automobile
@@ -14,13 +14,13 @@ years:
 languages:
   - german
 tags:
-  - corporate
   - featured
   - industry
+  - corporate
 industries:
+  - "plastics-and-rubber-industry"
   - "automotive-industry"
   - "manufacture-of-rubber-tyres-and-tubes-retreading-and-rebuilding-of-rubber-tyres"
-  - "plastics-and-rubber-industry"
   - "bicycle-industry"
 countries:
   - germany
@@ -31,255 +31,178 @@ operating_income_buckets:
 net_profit_buckets:
   - "1b-10b"
 lightings:
+  - dark
   - studio
   - soft
-  - "light-on-subject"
-  - dark
-  - natural
   - moderate
-  - bright
   - "light-glare"
+  - "light-on-subject"
+  - bright
   - hard
+  - natural
 perspectives:
+  - "point-of-view-shot"
+  - "high-angle-photo"
+  - "panorama-view"
+  - "audience-perspective"
   - "altered-perspective"
   - "centered-composition"
-  - "bird-eye-view"
-  - "high-angle-photo"
-  - "low-angle-photo"
-  - "audience-perspective"
   - "action-shot"
-  - "point-of-view-shot"
+  - "low-angle-photo"
   - "rule-of-third"
-  - "panorama-view"
+  - "bird-eye-view"
 image_backgrounds:
-  - pattern
   - "background-as-frame"
-  - dark
   - wood
-  - blurred
-  - transparent
-  - bright
-  - gradient
-  - light
   - textured
+  - blurred
   - solid
+  - transparent
+  - light
+  - gradient
+  - pattern
+  - bright
+  - dark
 color_schemes:
-  - "analogous-colors"
+  - "two-tone"
+  - "bright-colors"
   - grayscale
   - monotone
   - "complementary-colors"
-  - "bright-colors"
-  - "pastel-colors"
-  - dark
-  - bright
-  - "autumnal-colors"
   - "sunset-colors"
-  - "two-tone"
   - light
+  - "analogous-colors"
+  - "pastel-colors"
+  - "autumnal-colors"
+  - bright
+  - dark
 photography_genres:
-  - sky
-  - "still-life"
+  - selfie
+  - landscape
+  - automotive
+  - promotional
+  - product
+  - interior
+  - street
+  - advertising
+  - architectural
+  - sports
+  - action
+  - candid
   - "live-stage"
   - group
-  - selfie
-  - automotive
-  - interior
-  - candid
-  - promotional
-  - historical
-  - street
-  - landscape
-  - portrait
   - advertisement
-  - product
-  - sports
+  - sky
   - "text-heavy"
+  - portrait
+  - historical
+  - "still-life"
   - car
-  - architectural
-  - action
-  - advertising
 concepts:
-  - "incomplete-art"
-  - "wave-pattern"
-  - photorealism
+  - advertisement
+  - "text-heavy"
   - illustration
   - vintage
-  - advertisement
-  - "action-shot"
-  - "graphic-design"
-  - "text-heavy"
   - typography
+  - "graphic-design"
+  - "action-shot"
+  - "wave-pattern"
+  - "incomplete-art"
+  - photorealism
 depths:
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "bokeh-effect"
-  - "mid-shot"
-  - "fully-focused-subject"
-  - "partly-focused-subject"
-  - "isolated-focal-point"
   - "bright-focal-point"
+  - "mid-shot"
+  - "shallow-depth-of-field"
+  - "partly-focused-subject"
+  - "fully-focused-subject"
   - "close-up-shot"
+  - "wide-angle-shot"
+  - "isolated-focal-point"
 image_effects:
   - "neutral-density-filter"
+  - "low-saturation"
+  - "high-contrast"
   - "motion-capture"
   - "high-saturation"
-  - "vanishing-point"
-  - "long-exposure"
-  - "high-contrast"
-  - "low-saturation"
-  - "short-exposure"
   - "motion-blur"
+  - "long-exposure"
+  - "short-exposure"
+  - "vanishing-point"
 dominant_colors:
   - "mud-green"
-  - "dark-blue"
-  - gray
-  - orange
-  - black
-  - turquoise
-  - "light-blue"
   - olive
+  - orange
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - turquoise
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - loose
-  - l
-  - e
-  - curly
-  - covered
-  - varied
-  - a
-  - short
-  - c
-  - ponytail
+  - casual
+  - "pulled-back"
   - neat
   - wavy
-  - "pulled-back"
-  - t
-  - i
-  - o
-  - unknown
-  - b
-  - n
-  - casual
-  - p
+  - loose
+  - ponytail
+  - short
+  - curly
   - updo
+  - varied
+  - covered
 facial_expressions:
-  - neutral
-  - b
-  - engaged
-  - t
-  - focused
-  - n
-  - i
-  - content
-  - p
-  - l
-  - a
-  - relaxed
   - joyful
-  - e
   - smiling
-  - c
-  - unknown
-  - o
-clothing_styles:
-  - b
-  - t
-  - n
-  - casual
-  - i
-  - traditional
-  - p
-  - "business-casual"
-  - l
-  - a
-  - e
-  - o
-  - "form-fitting"
-  - c
-  - unknown
-  - protective
-  - athletic
-clothing_colors:
-  - monochrome
-  - pastel
+  - engaged
+  - relaxed
   - neutral
-  - b
-  - t
-  - n
-  - earthy
-  - i
-  - p
-  - muted
-  - l
-  - a
-  - e
-  - colorful
-  - o
-  - unknown
-  - c
+  - content
+  - focused
+clothing_styles:
+  - casual
+  - athletic
+  - "form-fitting"
+  - protective
+  - traditional
+  - "business-casual"
+clothing_colors:
   - vibrant
+  - neutral
+  - monochrome
+  - earthy
+  - colorful
+  - pastel
+  - muted
 posings:
   - seated
-  - confident
-  - l
-  - e
-  - relaxed
   - engaged
-  - leaning
-  - dynamic
-  - a
-  - holding
-  - c
-  - active
-  - t
-  - i
-  - o
-  - unknown
-  - standing
-  - b
-  - n
-  - p
   - reclined
+  - leaning
+  - relaxed
+  - dynamic
+  - holding
+  - active
+  - standing
+  - confident
 gazes:
-  - sideways
-  - b
   - engaged
-  - t
-  - n
   - downward
-  - i
-  - p
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
-  - forward
   - outward
+  - sideways
+  - forward
 body_sections:
-  - b
   - "hand-only"
-  - "upper-body"
-  - t
-  - n
-  - "close-up"
-  - i
-  - p
-  - midsection
   - "head-shot"
+  - midsection
+  - "upper-body"
   - "full-body"
-  - l
-  - a
-  - e
-  - o
-  - unknown
-  - c
+  - "close-up"
 logo_elements:
-  - secondary
   - primary
   - symbol
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:

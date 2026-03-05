@@ -2,7 +2,7 @@
 title: New Jersey Transit
 slug: "new-jersey-transit"
 description: ""
-date: "2026-03-05T15:56:45.807698"
+date: "2026-03-05T22:38:39.313477"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - featured
   - vintage
+  - featured
+  - transport
 industries: []
 countries:
   - "united-states"

@@ -2,7 +2,7 @@
 title: État Français
 slug: "etat-francais"
 description: ""
-date: "2026-03-05T15:56:45.984691"
+date: "2026-03-05T22:38:39.560131"
 draft: false
 sectors:
   - "public-sector"

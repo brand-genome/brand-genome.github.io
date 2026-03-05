@@ -2,7 +2,7 @@
 title: Massif des Vosges
 slug: "massif-des-vosges"
 description: ""
-date: "2026-03-05T15:56:45.901512"
+date: "2026-03-05T22:38:39.428442"
 draft: false
 sectors:
   - tourism
@@ -39,24 +39,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - icon
+  - secondary
   - horizontal
   - signature
-  - secondary
   - stacked
-  - primary
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
-  - photography
-  - natural
-  - vibrant
-  - candid
   - bold
+  - photography
+  - vibrant
+  - monochrome
+  - candid
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

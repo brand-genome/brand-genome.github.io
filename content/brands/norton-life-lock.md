@@ -2,11 +2,11 @@
 title: Norton Life Lock
 slug: "norton-life-lock"
 description: ""
-date: "2026-03-05T15:56:45.946024"
+date: "2026-03-05T22:38:39.514648"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -41,19 +41,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-2145"
-  - "pantone-2018"
-  - green
-  - "pantone-363"
   - orange
   - black
+  - "pantone-2145"
+  - "pantone-2018"
   - blue
+  - "pantone-363"
+  - green
 typographies:
-  - "source-sans"
   - roboto
+  - "source-sans"
 imagery_styles:
   - bold
   - dramatic

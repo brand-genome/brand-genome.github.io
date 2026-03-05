@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-03-05T15:56:45.925975"
+date: "2026-03-05T22:38:39.498598"
 draft: false
 sectors:
   - ngo
@@ -15,9 +15,9 @@ languages:
 tags:
   - charity
 industries:
-  - "voluntary-sector"
-  - "activities-of-religious-organisations"
   - "other-social-work-activities-without-accommodation-nec"
+  - "activities-of-religious-organisations"
+  - "voluntary-sector"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -48,8 +48,8 @@ brand_colors:
 typographies:
   - times
 imagery_styles:
-  - clean
   - professional
+  - clean
 wikidata_description: Evangelical Christian church and charitable organisation
 has_twitter: false
 has_guidelines: true

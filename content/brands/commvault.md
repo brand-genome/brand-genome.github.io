@@ -2,11 +2,11 @@
 title: Commvault
 slug: commvault
 description: ""
-date: "2026-03-05T15:56:46.096745"
+date: "2026-03-05T22:38:39.717895"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -42,24 +42,24 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-8400"
+  - white
   - red
+  - "pantone-2965"
+  - "pantone-2995"
   - "pantone-185"
+  - "pantone-8400"
+  - blue
   - "pantone-428"
   - gray
-  - white
-  - "pantone-2965"
-  - blue
-  - "pantone-2995"
 typographies:
-  - din
   - times
+  - din
   - display
 imagery_styles:
+  - photography
   - clean
   - modern
   - graphic
-  - photography
 wikidata_description: data management and information management software company
 has_twitter: false
 has_guidelines: true

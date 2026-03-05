@@ -2,7 +2,7 @@
 title: Audi
 slug: audi
 description: ""
-date: "2026-03-05T15:56:45.696411"
+date: "2026-03-05T22:38:39.188453"
 draft: false
 sectors:
   - automobile
@@ -46,12 +46,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
+  - red
   - "pantone-186"
   - grey
   - black
-  - white
   - "pantone-485"
-  - red
 typographies: []
 imagery_styles: []
 wikidata_description: German automotive manufacturing subsidiary of Volkswagen Group

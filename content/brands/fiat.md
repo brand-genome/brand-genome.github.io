@@ -2,7 +2,7 @@
 title: Fiat
 slug: fiat
 description: ""
-date: "2026-03-05T15:56:45.768715"
+date: "2026-03-05T22:38:39.266028"
 draft: false
 sectors:
   - automobile
@@ -10,15 +10,15 @@ regions:
   - brazil
   - italy
 years:
+  - 2005
   - 2019
   - 2011
-  - 2005
 languages:
-  - portuguese
   - english
+  - portuguese
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -44,18 +44,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - lockup
   - horizontal
-  - secondary
-  - primary
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - graphic
   - photography
+  - graphic
 wikidata_description: Italian automotive company
 has_twitter: false
 has_guidelines: true

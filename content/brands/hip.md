@@ -2,11 +2,11 @@
 title: HiP
 slug: hip
 description: ""
-date: "2026-03-05T15:56:46.086969"
+date: "2026-03-05T22:38:39.707471"
 draft: false
 sectors:
-  - "public-sector"
   - healthcare
+  - "public-sector"
 regions:
   - usa
 years:
@@ -38,12 +38,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-1788"
-  - "pantone-425"
   - white
+  - "pantone-425"
+  - "pantone-1788"
   - "pantone-158"
 typographies: []
 imagery_styles:

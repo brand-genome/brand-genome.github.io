@@ -2,7 +2,7 @@
 title: Italiangas
 slug: italiangas
 description: ""
-date: "2026-03-05T15:56:46.179605"
+date: "2026-03-05T22:38:39.822539"
 draft: false
 sectors:
   - "renewable-energy"
@@ -37,18 +37,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - symbol
+  - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - "open-sans"
   - ubuntu
+  - "open-sans"
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

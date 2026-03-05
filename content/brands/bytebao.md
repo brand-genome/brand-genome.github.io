@@ -2,7 +2,7 @@
 title: ByteBao
 slug: bytebao
 description: ""
-date: "2026-03-05T15:56:45.761123"
+date: "2026-03-05T22:38:39.257460"
 draft: false
 sectors:
   - consulting
@@ -41,27 +41,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
+  - secondary
   - horizontal
   - abstract
   - logomark
-  - secondary
-  - primary
 brand_colors:
+  - white
   - red
   - purple
-  - white
   - black
 typographies:
-  - serif
   - bodoni
+  - serif
 imagery_styles:
-  - modern
+  - bold
   - photography
   - staged
   - abstract
-  - natural
   - gradient
-  - bold
+  - modern
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

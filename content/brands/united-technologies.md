@@ -2,11 +2,11 @@
 title: United Technologies
 slug: "united-technologies"
 description: ""
-date: "2026-03-05T15:56:46.082032"
+date: "2026-03-05T22:38:39.702374"
 draft: false
 sectors:
-  - aerospace
   - defense
+  - aerospace
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - technology
+  - engineering
 industries:
   - "holding-company"
 countries:
@@ -42,29 +42,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - signature
   - icon
   - primary
+  - secondary
+  - signature
 brand_colors:
-  - green
-  - yellow
-  - gray
-  - black
   - white
+  - black
+  - yellow
   - blue
+  - gray
+  - green
 typographies:
   - impact
   - "sans-serif"
 imagery_styles:
-  - photography
-  - macro
-  - flat
-  - natural
-  - product
-  - clean
-  - candid
   - bold
+  - photography
+  - product
+  - flat
+  - macro
+  - candid
+  - clean
+  - natural
 wikidata_description: defunct American multinational conglomerate (1929–2020)
 has_twitter: false
 has_guidelines: true

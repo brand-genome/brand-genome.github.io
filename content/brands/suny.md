@@ -2,11 +2,11 @@
 title: SUNY
 slug: suny
 description: ""
-date: "2026-03-05T15:56:46.157465"
+date: "2026-03-05T22:38:39.797654"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

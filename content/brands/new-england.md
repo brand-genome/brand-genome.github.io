@@ -2,7 +2,7 @@
 title: New England
 slug: "new-england"
 description: ""
-date: "2026-03-05T15:56:45.920499"
+date: "2026-03-05T22:38:39.488036"
 draft: false
 sectors:
   - "real-estate"

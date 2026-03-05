@@ -2,7 +2,7 @@
 title: America’s NAVY
 slug: "americas-navy"
 description: ""
-date: "2026-03-05T15:56:45.967884"
+date: "2026-03-05T22:38:39.533511"
 draft: false
 sectors:
   - "public-sector"
@@ -39,17 +39,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - lockup
-  - primary
   - icon
+  - primary
+  - lockup
 brand_colors:
-  - "pantone-303"
-  - "pantone-428"
-  - black
-  - navy
   - white
-  - "pantone-7690"
+  - black
+  - "pantone-303"
   - blue
+  - "pantone-428"
+  - "pantone-7690"
+  - navy
 typographies: []
 imagery_styles:
   - photography

@@ -2,11 +2,11 @@
 title: Howard University
 slug: "howard-university"
 description: ""
-date: "2026-03-05T15:56:46.003700"
+date: "2026-03-05T22:38:39.576284"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -45,8 +45,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - professional
   - photography
+  - professional
 wikidata_description: university in Washington D.C.
 has_twitter: false
 has_guidelines: true

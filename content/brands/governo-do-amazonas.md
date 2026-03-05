@@ -2,7 +2,7 @@
 title: Governo do Amazonas
 slug: "governo-do-amazonas"
 description: ""
-date: "2026-03-05T15:56:45.837699"
+date: "2026-03-05T22:38:39.347296"
 draft: false
 sectors:
   - "public-sector"
@@ -37,10 +37,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
+  - primary
   - secondary
   - crest
-  - primary
+  - horizontal
   - vertical
 brand_colors: []
 typographies: []

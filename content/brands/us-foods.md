@@ -2,7 +2,7 @@
 title: US Foods
 slug: "us-foods"
 description: ""
-date: "2026-03-05T15:56:45.830650"
+date: "2026-03-05T22:38:39.335929"
 draft: false
 sectors:
   - food
@@ -16,9 +16,9 @@ languages:
 tags:
   - agriculture
 industries:
+  - "food-distribution"
   - "food-industry"
   - "foodservice-distributor"
-  - "food-distribution"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -44,18 +44,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
+  - black
+  - gray
   - "pantone-173"
   - "pantone-576"
-  - gray
-  - black
-  - white
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
+  - modern
   - photography
   - clean
-  - modern
   - natural
 wikidata_description: American foodservice distributor
 has_twitter: false

@@ -2,7 +2,7 @@
 title: CNN
 slug: cnn
 description: ""
-date: "2026-03-05T15:56:45.654507"
+date: "2026-03-05T22:38:39.121791"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - "united-kingdom"

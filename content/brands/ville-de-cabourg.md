@@ -2,7 +2,7 @@
 title: Ville de Cabourg
 slug: "ville-de-cabourg"
 description: ""
-date: "2026-03-05T15:56:45.824301"
+date: "2026-03-05T22:38:39.331047"
 draft: false
 sectors:
   - "public-sector"

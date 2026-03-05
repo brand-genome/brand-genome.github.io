@@ -2,7 +2,7 @@
 title: National Council of Urban Indian Health
 slug: "national-council-of-urban-indian-health"
 description: ""
-date: "2026-03-05T15:56:45.829079"
+date: "2026-03-05T22:38:39.334880"
 draft: false
 sectors:
   - ngo
@@ -38,15 +38,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - logomark
+  - secondary
 brand_colors:
-  - red
-  - green
-  - turquoise
   - white
+  - red
   - blue
+  - turquoise
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: ""

@@ -2,7 +2,7 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-03-05T15:56:46.102214"
+date: "2026-03-05T22:38:39.726579"
 draft: false
 sectors:
   - ngo
@@ -41,12 +41,12 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-431"
-  - green
+  - red
   - "pantone-1959"
   - "pantone-485"
-  - red
   - "pantone-369"
+  - "pantone-431"
+  - green
 typographies:
   - verdana
 imagery_styles:

@@ -2,11 +2,11 @@
 title: Conferma
 slug: conferma
 description: ""
-date: "2026-03-05T15:56:45.690688"
+date: "2026-03-05T22:38:39.181537"
 draft: false
 sectors:
-  - finance
   - software
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -38,19 +38,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - favicon
+  - primary
+  - secondary
 brand_colors:
-  - blue
   - white
+  - blue
 typographies: []
 imagery_styles:
-  - professional
   - photography
-  - natural
   - product
   - vibrant
+  - professional
+  - natural
 wikidata_description: ""
 has_twitter: false
 has_guidelines: true

@@ -2,13 +2,13 @@
 title: Technip
 slug: technip
 description: ""
-date: "2026-03-05T15:56:46.050168"
+date: "2026-03-05T22:38:39.641343"
 draft: false
 sectors:
-  - gas
+  - construction
   - "renewable-energy"
   - oil
-  - construction
+  - gas
 regions:
   - france
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - engineering
 industries:
-  - "activities-of-head-offices"
   - engineering
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:

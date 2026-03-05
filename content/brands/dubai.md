@@ -2,7 +2,7 @@
 title: Dubai
 slug: dubai
 description: ""
-date: "2026-03-05T15:56:45.653213"
+date: "2026-03-05T22:38:39.120659"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - dubai
 years:
-  - 2025
   - 2021
+  - 2025
   - 2023
 languages:
   - english
