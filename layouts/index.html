@@ -2,7 +2,7 @@
 
 {{ define "main" }}
 <section class="home-hero">
-    <h1>Brand Identity Knowledge Graph</h1>
+    <h1>🧬 Brand Genome</h1>
     <p class="hero-description">
         Explore brand identities through their visual attributes, guidelines, and social media presence.
         Every attribute is a node — click to discover connections.
@@ -11,6 +11,22 @@
     <div class="search-box">
         <input type="text" id="brand-search" placeholder="Search brands..." autocomplete="off">
         <div id="search-results" class="search-results"></div>
+    </div>
+</section>
+
+<section class="home-about">
+    <h2>About</h2>
+    <div class="about-content">
+        <p>
+            We have a grand vision to transform marketing — to fundamentally change how people communicate 
+            and how they conduct business. Brand Genome is the first and most comprehensive initiative 
+            that takes a systematic approach to understanding brand identity at scale.
+        </p>
+        <p>
+            By mapping the DNA of thousands of brands through their visual language, guidelines, and 
+            promotional content, we're building a knowledge graph that reveals the hidden patterns 
+            and connections that define successful brand communication.
+        </p>
     </div>
 </section>
 
@@ -58,16 +74,6 @@
         </div>
 
         <div class="explore-card">
-            <h3><a href="{{ "/years/" | relURL }}">📅 Years</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.years.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/years/" | relURL }}" class="see-all">See all years →</a>
-        </div>
-
-        <div class="explore-card">
             <h3><a href="{{ "/industries/" | relURL }}">🏭 Industries</a></h3>
             <div class="explore-items">
                 {{ range first 8 .Site.Taxonomies.industries.ByCount }}
@@ -75,6 +81,16 @@
                 {{ end }}
             </div>
             <a href="{{ "/industries/" | relURL }}" class="see-all">See all industries →</a>
+        </div>
+
+        <div class="explore-card">
+            <h3><a href="{{ "/countries/" | relURL }}">🏳️ Countries</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.countries.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/countries/" | relURL }}" class="see-all">See all countries →</a>
         </div>
     </div>
 </section>
@@ -142,5 +158,36 @@
         {{ end }}
     </div>
     <a href="{{ "/brands/" | relURL }}" class="see-all-btn">Browse all brands →</a>
+</section>
+
+<section class="home-collaborators">
+    <h2>Development</h2>
+    <p class="development-origin">BrandGenome originated at Adobe MDSR Labs, IIITD MIDAS Labs</p>
+    <div class="collaborators-grid">
+        <div class="collaborator-card">
+            <span class="collaborator-name">Varun Khurana</span>
+            <span class="collaborator-affiliation">Adobe Research, India</span>
+        </div>
+        <div class="collaborator-card">
+            <span class="collaborator-name">Vashu Chauhan</span>
+            <span class="collaborator-affiliation">IIIT Delhi, India</span>
+        </div>
+        <div class="collaborator-card">
+            <span class="collaborator-name">Yaman Kumar Singla</span>
+            <span class="collaborator-affiliation">Adobe Research, India</span>
+        </div>
+        <div class="collaborator-card">
+            <span class="collaborator-name">Rajiv Ratn Shah</span>
+            <span class="collaborator-affiliation">IIIT Delhi, India</span>
+        </div>
+        <div class="collaborator-card">
+            <span class="collaborator-name">Teja Reddy</span>
+            <span class="collaborator-affiliation">Northeastern University, USA</span>
+        </div>
+        <div class="collaborator-card">
+            <span class="collaborator-name">Divya Chaudhary</span>
+            <span class="collaborator-affiliation">Northeastern University, USA</span>
+        </div>
+    </div>
 </section>
 {{ end }}

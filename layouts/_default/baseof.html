@@ -14,14 +14,13 @@
     <header class="site-header">
         <div class="container">
             <a href="{{ "/" | relURL }}" class="site-logo">
-                <span class="logo-icon">🔗</span>
-                <span class="logo-text">Brand Identity KG</span>
+                <span class="logo-icon">🧬</span>
+                <span class="logo-text">Brand Genome</span>
             </a>
             <nav class="site-nav">
                 <a href="{{ "/brands/" | relURL }}">All Brands</a>
                 <a href="{{ "/sectors/" | relURL }}">Sectors</a>
                 <a href="{{ "/regions/" | relURL }}">Regions</a>
-                <a href="{{ "/years/" | relURL }}">Years</a>
                 <a href="{{ "/lightings/" | relURL }}">Visual Attributes</a>
             </nav>
         </div>
@@ -35,13 +34,12 @@
 
     <footer class="site-footer">
         <div class="container">
-            <p>Brand Identity Knowledge Graph &copy; {{ now.Year }}</p>
-            <p class="footer-note">A research project for NeurIPS</p>
+            <p>Brand Genome &copy; {{ now.Year }}</p>
         </div>
     </footer>
 
     <!-- Report Button -->
-    <a href="mailto:{{ .Site.Params.reportEmail }}?subject=Bug%20in%20{{ .Title | urlquery }}&body=Page%20URL:%20{{ .Permalink | urlquery }}" 
+    <a href="mailto:{{ .Site.Params.reportEmail }}?cc={{ .Site.Params.reportEmailCC }}&subject=%5BBrand%20Genome%5D%20%5BBug%20Report%5D%20Issue%20on%20{{ .Title | urlquery }}&body=Page%20URL:%20{{ .Permalink | urlquery }}%0A%0ADescription%20of%20issue:%0A%0A" 
        class="report-button" 
        title="Report an issue with this page">
         🐛 Report

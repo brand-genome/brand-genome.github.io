@@ -1,6 +1,6 @@
 baseURL = "https://brand-genome.github.io/"
 languageCode = "en-us"
-title = "Brand Identity Knowledge Graph"
+title = "Brand Genome"
 
 # Build future-dated content (our dates are auto-generated)
 buildFuture = true
@@ -52,8 +52,9 @@ buildFuture = true
 
 [params]
   description = "A Knowledge Graph of Brand Identities featuring visual attributes, brand guidelines, and promotion insights"
-  author = "Brand Identity Research Team"
-  reportEmail = "behavior-in-the-wild@example.com"
+  author = "Brand Genome Research Team"
+  reportEmail = "behavior-in-the-wild@googlegroups.com"
+  reportEmailCC = "brandgenome007@gmail.com"
 
 [markup]
   [markup.goldmark]
