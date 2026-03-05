@@ -1,0 +1,13 @@
+{{- $brands := slice -}}
+{{- range where .Site.RegularPages "Section" "brands" -}}
+  {{- $brand := dict 
+      "title" .Title 
+      "url" .RelPermalink
+      "description" (truncate 100 .Params.description)
+      "sectors" .Params.sectors
+      "regions" .Params.regions
+      "years" .Params.years
+  -}}
+  {{- $brands = $brands | append $brand -}}
+{{- end -}}
+{{- $brands | jsonify -}}

@@ -1,0 +1,130 @@
+---
+title: "Oh-Tech"
+slug: "oh-tech"
+description: ""
+date: "2026-03-05T15:56:46.051108"
+draft: false
+sectors:
+  - "public-sector"
+  - research
+  - networking
+regions:
+  - usa
+years:
+  - 2015
+languages:
+  - english
+tags:
+  - technology
+industries: []
+countries:
+  - "united-states"
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements:
+  - secondary
+  - primary
+brand_colors:
+  - "pantone-186"
+  - "pantone-284"
+  - red
+  - gray
+  - orange
+  - blue
+  - black
+  - white
+  - "pantone-195"
+  - "pantone-137"
+typographies:
+  - univers
+  - garamond
+imagery_styles: []
+wikidata_description: division of the Ohio Department of Higher Education
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [http://www.oh-tech.org](http://www.oh-tech.org)
+- [https://www.oh-tech.org/](https://www.oh-tech.org/)
+
+## Brand Guidelines
+
+### 2015
+
+**Logo Information:**
+
+- The OH-TECH logo visually serves as an indication of consistency and quality.
+- The logo must be printed in its entirety with no part being omitted or altered.
+- The logo is never to be displayed in a different font.
+- The approved OH-TECH logotype colors are Red for the OH and Cool Gray 11 for the TECH, or Black in black-and-white printing.
+- The smallest type in the logo should be a minimum size of 8 point.
+- The OH-TECH secondary boxed logo is used when the logo is shown on a dark or patterned background.
+- Subordinate-organization logos are to be used in conjunction with the primary OH-TECH brand wherever possible.
+- Secondary tagline logos and URL logos are provided to communicate organizational focus or web information.
+
+**Color Information:**
+
+- OH-TECH Primary Color Palette includes Pantone 186 (Red) and Pantone Cool Gray 11.
+- A secondary palette includes Burgundy (Pantone 195 C), Sky Blue (Pantone 284 C), Orange (Pantone 137 C), among others, with RGB and HEX equivalents provided.
+
+**Typography Information:**
+
+- Logotype fonts: Serifa for the logo and Univers for the tagline 'A Division of the Ohio Board of Regents.'
+- Tagline font: Serifa Light Italic.
+- Letterhead typeface: Minimum 10 point Garamond Premier Pro or Garamond.
+
+**Imagery Photography:**
+
+- Proper application of logos ensures conveying a uniform image.
+- Avoid cluttering logos with type, photos, or other illustrative material.
+
+**Spacing Layout:**
+
+- Minimum 1.25-inch margins for letterhead; flush left typing format.
+
+**Brand Voice:**
+
+- The tagline 'Research. Innovation. Education.' emphasizes organizational mission.
+
+**Notes:**
+
+- Subordinate-organization branding should align with the OH-TECH identity and style.
+- Use only approved brand guidelines and downloadable templates.
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Country | United States |
+| Parent Organization Or Unit | Ohio Department of Higher Education |
+| Child Organization Or Unit | OARnet, OhioLINK, Ohio Supercomputer Center |
+| Inception | 2011 |
+| Headquarters Location | Columbus |
+| Facebook Username | OhioTechnologyConsortium |
+| X (Twitter) Username | OhTechCo |
+| Vimeo Id | ohiotechnology |
+| Linkedin Company Or Organization Id | oh-tech |
+| Official Jobs Url | https://www.oh-tech.org/employment |
+| Press Information Url | https://www.oh-tech.org/media |
+| Privacy Policy Url | http://oh-tech.org/node/1188 |

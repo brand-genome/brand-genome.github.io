@@ -1,0 +1,41 @@
+{{ define "title" }}{{ .Title }}{{ end }}
+
+{{ define "main" }}
+<section class="list-page">
+    <header class="list-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="list-description">{{ . }}</p>
+        {{ end }}
+        <p class="list-count">{{ len .Pages }} items</p>
+    </header>
+
+    <div class="list-grid">
+        {{ range .Pages.ByTitle }}
+        <article class="list-item">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.wikidata_description }}
+            <p class="item-description">{{ . | truncate 150 }}</p>
+            {{ end }}
+            <div class="item-meta">
+                {{ if .Params.has_twitter }}
+                <span class="meta-badge small twitter">📱 {{ .Params.twitter_post_count }}</span>
+                {{ end }}
+                {{ if .Params.has_guidelines }}
+                <span class="meta-badge small guidelines">📋 {{ .Params.guideline_count }}</span>
+                {{ end }}
+            </div>
+            {{ with .Params.sectors }}
+            <div class="item-tags">
+                {{ range first 3 . }}
+                <a href="{{ "/sectors/" | relURL }}{{ . | urlize }}/" class="tag-link">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</section>
+{{ end }}

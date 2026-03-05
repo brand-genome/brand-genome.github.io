@@ -1,0 +1,61 @@
+---
+title: Nanna’s Negroni
+slug: "nannas-negroni"
+description: ""
+date: "2026-03-05T15:56:45.671379"
+draft: false
+sectors:
+  - restaurant
+  - drink
+regions:
+  - india
+years:
+  - 2025
+languages:
+  - english
+tags:
+  - "food-beverage"
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: ""
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672/](http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672/)
+- [http://www.instagram.com/reel/C9UqQ1fyzMc/](http://www.instagram.com/reel/C9UqQ1fyzMc/)
+- [https://linktr.ee/nannasnegroni](https://linktr.ee/nannasnegroni)
+- [https://www.instagram.com/nannasnegroni/](https://www.instagram.com/nannasnegroni/)
+
+## Brand Guidelines
+
+### 2025
+
+*Guidelines data not available*

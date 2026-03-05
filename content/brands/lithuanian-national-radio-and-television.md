@@ -1,0 +1,99 @@
+---
+title: Lithuanian National Radio and Television
+slug: "lithuanian-national-radio-and-television"
+description: ""
+date: "2026-03-05T15:56:45.660751"
+draft: false
+sectors:
+  - broadcasting
+regions:
+  - lithuania
+years:
+  - 2022
+languages:
+  - lithuanian
+tags:
+  - media
+  - broadcast
+industries:
+  - "mass-media"
+countries:
+  - lithuania
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: public broadcasting company of Lithuania
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [https://apie.lrt.lt/](https://apie.lrt.lt/)
+- [https://www.lrt.lt/](https://www.lrt.lt/)
+- [https://www.lrt.lt/mediateka](https://www.lrt.lt/mediateka)
+
+## Brand Guidelines
+
+### 2022
+
+*Guidelines data not available*
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Freebase Id | /m/07wzk5 |
+| Member Of | European Broadcasting Union |
+| Headquarters Location | Vilnius |
+| Inception | 1957-04-30 |
+| Logo Image | LRT Logo 2022.svg |
+| Country | Lithuania |
+| Quora Topic Id | Lithuanian-National-Radio-and-Television |
+| Location Of Formation | Vilnius |
+| Musicbrainz Place Id | 976ed50e-0256-48b6-a357-296012d6f167 |
+| Legal Form | state-owned enterprise |
+| Viaf Cluster Id | 109154260634424480007 |
+| Product Or Material Produced | radio |
+| Muck Rack Media Outlet Id | lrt |
+| Industry | mass media |
+| X (Twitter) Username | lrtinklas (as of 2021-04-19), lrtenglish (as of 2022-02-07, from 2009-05-20) |
+| Image | LRT by Augustas Didzgalvis.jpg |
+| Web Feed Url | https://www.lrt.lt/?rss, https://www.lrt.lt/en/news-in-english?rss, https://www.lrt.lt/en/news-in-english?rss, https://www.lrt.lt/pl/wiadomosci?rss, https://www.lrt.lt/ua/novini?rss |
+| Facebook Username | lrt.lt |
+| Email Address | mailto:lrt@lrt.lt |
+| Youtube Channel Id | UC4KnMZaxcv1KZDAJsgHXcOA (as of 2023-08-29, from 2009-10-22) |
+| Linkedin Company Or Organization Id | lrt |
+| Instagram Username | lrt.lt |
+| Social Media Followers | 142,000 (as of 2022-05-10), 13,820 (as of 2022-05-10), 15,128 (as of 2023-02-02), 157,000 (as of 2023-02-17), 177,000 (as of 2024-01-14) (+3 more) |
+| Musicbrainz Label Id | 88f103af-b0a3-4069-ae49-f1399202673d |
+| Media Bias/Fact Check Id | lithuanian-national-radio-and-television-lrt-bias (as of 2024-02-02) |
+| Short Name | LRT |
+| Unifrance Company Id | 85073 |
+| ‎15Min.Lt Theme Id | 1550 |
+| Sam Id | JBYNABSG9V68 |
+| Visuotinė Lietuvių Enciklopedija Id | lietuvos-nacionalinis-radijas-ir-televizija |
+| Lithuanian Company Code | 124241078 |
+| ‎Google Ads Transparency Center Advertiser Id | 01035594542952218625, 09527356593566384129 |

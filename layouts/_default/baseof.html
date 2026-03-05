@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Code+Pro&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a href="{{ "/" | relURL }}" class="site-logo">
+                <span class="logo-icon">🔗</span>
+                <span class="logo-text">Brand Identity KG</span>
+            </a>
+            <nav class="site-nav">
+                <a href="{{ "/brands/" | relURL }}">All Brands</a>
+                <a href="{{ "/sectors/" | relURL }}">Sectors</a>
+                <a href="{{ "/regions/" | relURL }}">Regions</a>
+                <a href="{{ "/years/" | relURL }}">Years</a>
+                <a href="{{ "/lightings/" | relURL }}">Visual Attributes</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <div class="container">
+            {{ block "main" . }}{{ end }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>Brand Identity Knowledge Graph &copy; {{ now.Year }}</p>
+            <p class="footer-note">A research project for NeurIPS</p>
+        </div>
+    </footer>
+
+    <!-- Report Button -->
+    <a href="mailto:{{ .Site.Params.reportEmail }}?subject=Bug%20in%20{{ .Title | urlquery }}&body=Page%20URL:%20{{ .Permalink | urlquery }}" 
+       class="report-button" 
+       title="Report an issue with this page">
+        🐛 Report
+    </a>
+
+    <script src="{{ "js/search.js" | relURL }}"></script>
+</body>
+</html>

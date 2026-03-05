@@ -1,0 +1,107 @@
+---
+title: IIHF Competition
+slug: "iihf-competition"
+description: ""
+date: "2026-03-05T15:56:45.946262"
+draft: false
+sectors:
+  - sports
+regions:
+  - international
+years:
+  - 2015
+languages:
+  - english
+tags:
+  - sport
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements:
+  - vertical
+  - horizontal
+  - symbol
+brand_colors:
+  - grey
+  - black
+typographies: []
+imagery_styles:
+  - graphic
+wikidata_description: ""
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [https://www.iihf.com/](https://www.iihf.com/)
+
+## Brand Guidelines
+
+### 2015
+
+**Logo Information:**
+
+- Available logo states include black, grey, color tonal, and color tonal inverse.
+- Clear space guidelines are provided but details not visible.
+- Logo versions include vertical and horizontal.
+- Available logo states include black, grey, color tonal, and color tonal inverse.
+- Logo versions include vertical and horizontal.
+- Available logo states include black, grey, color tonal, and color tonal inverse.
+- Logo versions include vertical and horizontal.
+- Available logo states include black, grey, color tonal, and color tonal inverse.
+- Clear space guidelines are provided but details not visible.
+- Logo versions include vertical and horizontal.
+
+**Color Information:**
+
+- IIHF base colors are defined but exact values not detailed in text.
+- IIHF base colors are defined but exact values not detailed in text.
+
+**Typography Information:**
+
+- Mention of IIHF base fonts but no specific font names provided.
+- Mention of IIHF base fonts but no specific font names provided.
+
+**Imagery Photography:**
+
+- Graphic support elements mentioned for logo usage.
+- Graphic support elements mentioned for logo usage.
+- Graphic support elements mentioned for logo usage.
+
+**Spacing Layout:**
+
+- Layout templates for publications, posters, and cover designs noted.
+- Layout templates for publications, posters, and cover designs noted.
+- Layout templates for publications, posters, and cover designs noted.
+- Layout templates for publications, posters, and cover designs noted.
+- Layout templates for publications, posters, and cover designs noted.
+- Layout templates for publications, posters, and cover designs noted.
+
+**Brand Voice:**
+
+- Brand voice focuses on coherence, recognition, and a strong relationship within IIHF events.
+
+**Notes:**
+
+- Logos are copyright protected and incorporate a registered trademark (®) symbol.

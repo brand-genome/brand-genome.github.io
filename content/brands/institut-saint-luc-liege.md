@@ -1,0 +1,60 @@
+---
+title: "Institut Saint-Luc Liège"
+slug: "institut-saint-luc-liege"
+description: ""
+date: "2026-03-05T15:56:45.715194"
+draft: false
+sectors:
+  - education
+regions:
+  - belgium
+years:
+  - 2023
+languages:
+  - french
+tags:
+  - education
+  - featured
+  - art
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: ""
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [https://saintlucliege.be/](https://saintlucliege.be/)
+- [https://saintlucpsliege.be/](https://saintlucpsliege.be/)
+
+## Brand Guidelines
+
+### 2023
+
+*Guidelines data not available*

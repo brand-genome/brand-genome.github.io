@@ -1,0 +1,85 @@
+---
+title: Kozel
+slug: kozel
+description: ""
+date: "2026-03-05T15:56:45.698457"
+draft: false
+sectors:
+  - brewery
+  - drink
+regions:
+  - "czech-republic"
+years:
+  - 2020
+languages:
+  - english
+tags:
+  - "food-beverage"
+  - featured
+industries: []
+countries:
+  - "czech-republic"
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: protected area in Czech Republic
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [http://www.kozelbeer.com](http://www.kozelbeer.com)
+- [https://hub.kozelbeer.com/](https://hub.kozelbeer.com/)
+- [https://www.kozel.pl/](https://www.kozel.pl/)
+- [https://www.velkopopovickykozel.com/](https://www.velkopopovickykozel.com/)
+
+## Brand Guidelines
+
+### 2020
+
+*Guidelines data not available*
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Úsop Code | 193 |
+| Country | Czech Republic |
+| Coordinate Location | 49.0978, 17.2167 |
+| Image | Kozel - Chřiby.jpg |
+| Located In The Administrative Territorial Entity | Koryčany |
+| Inception | 1967-04-05, 1967-01-01 |
+| Partially Coincident With | Chřiby |
+| Iucn Protected Areas Category | IUCN category III: Natural Monument or Feature |
+| Area | 0 hectare |
+| Mapy.Com Id | base&id=2085008 |
+| Google Knowledge Graph Id | /g/122mqfdg |
+| Described By Source | Nature hyperlink |
+| Common Database On Designated Areas Id | 343677 |
+| Wdpa Id | 343677 |
+| Official Name | Kozel |
+| Located On Linear Feature | Via Czechia - Central Trail (hiking) |
+| Maintained By |  |

@@ -1,0 +1,65 @@
+---
+title: The Wayfarers
+slug: "the-wayfarers"
+description: ""
+date: "2026-03-05T15:56:45.711215"
+draft: false
+sectors:
+  - tourism
+  - software
+regions:
+  - india
+years:
+  - 2024
+languages:
+  - english
+tags:
+  - tourism
+  - app
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: Australian musical group
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Brand Guidelines
+
+### 2024
+
+*Guidelines data not available*
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Country Of Origin | Australia |
+| Discogs Artist Id | 188802 |
+| Musicbrainz Artist Id | 01eb1772-015c-49f4-8e92-cbbab71bfaeb |
+| Songkick Artist Id | 429466 |
+| Google Knowledge Graph Id | /g/11f3w6kdkq |

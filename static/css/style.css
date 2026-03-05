@@ -1,0 +1,933 @@
+/* =============================================================================
+   Brand Identity Knowledge Graph - CSS Theme
+   Inspired by ConceptNet.io's minimal, link-heavy design
+   ============================================================================= */
+
+/* CSS Variables */
+:root {
+    --color-bg: #ffffff;
+    --color-bg-alt: #f8f9fa;
+    --color-text: #333333;
+    --color-text-light: #666666;
+    --color-link: #0066cc;
+    --color-link-hover: #004499;
+    --color-link-visited: #551a8b;
+    --color-border: #e0e0e0;
+    --color-border-light: #f0f0f0;
+    
+    /* Connection type colors (ConceptNet style) */
+    --color-sector: #2e7d32;
+    --color-region: #1565c0;
+    --color-year: #6a1b9a;
+    --color-industry: #c62828;
+    --color-country: #00838f;
+    --color-type: #ef6c00;
+    --color-visual: #5c6bc0;
+    --color-human: #ec407a;
+    --color-guideline: #26a69a;
+    
+    /* Typography */
+    --font-primary: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: 'Source Code Pro', monospace;
+    
+    /* Spacing */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    --spacing-xxl: 3rem;
+    
+    /* Layout */
+    --container-max: 1200px;
+    --sidebar-width: 280px;
+}
+
+/* Reset & Base */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--color-text);
+    background: var(--color-bg);
+    margin: 0;
+    padding: 0;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 var(--spacing-md);
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--color-border); padding-bottom: var(--spacing-sm); }
+h3 { font-size: 1.25rem; }
+
+p {
+    margin: 0 0 var(--spacing-md);
+}
+
+/* Links - Core to the design */
+a {
+    color: var(--color-link);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+a:hover {
+    color: var(--color-link-hover);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--color-link-visited);
+}
+
+/* Container */
+.container {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding: 0 var(--spacing-lg);
+}
+
+/* =============================================================================
+   Header
+   ============================================================================= */
+
+.site-header {
+    background: var(--color-bg);
+    border-bottom: 2px solid var(--color-border);
+    padding: var(--spacing-md) 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.site-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+}
+
+.site-logo {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.site-logo:hover {
+    text-decoration: none;
+}
+
+.logo-icon {
+    font-size: 1.5rem;
+}
+
+.site-nav {
+    display: flex;
+    gap: var(--spacing-lg);
+    flex-wrap: wrap;
+}
+
+.site-nav a {
+    font-weight: 500;
+    padding: var(--spacing-xs) 0;
+}
+
+/* =============================================================================
+   Footer
+   ============================================================================= */
+
+.site-footer {
+    background: var(--color-bg-alt);
+    border-top: 1px solid var(--color-border);
+    padding: var(--spacing-xl) 0;
+    margin-top: var(--spacing-xxl);
+    text-align: center;
+    color: var(--color-text-light);
+}
+
+.footer-note {
+    font-size: 0.875rem;
+}
+
+/* =============================================================================
+   Report Button (Fixed)
+   ============================================================================= */
+
+.report-button {
+    position: fixed;
+    bottom: var(--spacing-lg);
+    right: var(--spacing-lg);
+    background: #ff5722;
+    color: white;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.report-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    color: white;
+    text-decoration: none;
+}
+
+/* =============================================================================
+   Home Page
+   ============================================================================= */
+
+.home-hero {
+    text-align: center;
+    padding: var(--spacing-xxl) 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.home-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: var(--spacing-md);
+}
+
+.hero-description {
+    font-size: 1.125rem;
+    color: var(--color-text-light);
+    max-width: 600px;
+    margin: 0 auto var(--spacing-xl);
+}
+
+/* Search */
+.search-box {
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.search-box input {
+    width: 100%;
+    padding: var(--spacing-md) var(--spacing-lg);
+    font-size: 1rem;
+    border: 2px solid var(--color-border);
+    border-radius: 30px;
+    outline: none;
+    transition: border-color 0.2s ease;
+}
+
+.search-box input:focus {
+    border-color: var(--color-link);
+}
+
+.search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    margin-top: var(--spacing-xs);
+    max-height: 300px;
+    overflow-y: auto;
+    display: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.search-results.active {
+    display: block;
+}
+
+.search-results a {
+    display: block;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+.search-results a:hover {
+    background: var(--color-bg-alt);
+}
+
+/* Stats */
+.home-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: var(--spacing-lg);
+    padding: var(--spacing-xl) 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.stat-card {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--color-link);
+}
+
+.stat-label {
+    color: var(--color-text-light);
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Explore Grid */
+.home-explore, .home-visual, .home-recent {
+    padding: var(--spacing-xl) 0;
+}
+
+.explore-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--spacing-lg);
+    margin-top: var(--spacing-lg);
+}
+
+.explore-card {
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--spacing-lg);
+}
+
+.explore-card h3 {
+    margin-bottom: var(--spacing-md);
+    font-size: 1.125rem;
+}
+
+.explore-items {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+}
+
+.explore-link {
+    font-size: 0.9375rem;
+}
+
+.explore-link .count {
+    color: var(--color-text-light);
+    font-size: 0.8125rem;
+}
+
+.see-all {
+    display: inline-block;
+    margin-top: var(--spacing-md);
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.see-all-btn {
+    display: inline-block;
+    margin-top: var(--spacing-lg);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    background: var(--color-link);
+    color: white;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.see-all-btn:hover {
+    background: var(--color-link-hover);
+    color: white;
+    text-decoration: none;
+}
+
+/* =============================================================================
+   Brand Page - ConceptNet Style Connections
+   ============================================================================= */
+
+.brand-page {
+    padding: var(--spacing-xl) 0;
+}
+
+.brand-header {
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-lg);
+    border-bottom: 2px solid var(--color-border);
+}
+
+.brand-title {
+    font-size: 2.25rem;
+    margin-bottom: var(--spacing-sm);
+}
+
+.brand-description {
+    font-size: 1.125rem;
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-md);
+}
+
+.brand-meta {
+    display: flex;
+    gap: var(--spacing-md);
+    flex-wrap: wrap;
+}
+
+.meta-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    font-size: 0.875rem;
+}
+
+.meta-badge.small {
+    font-size: 0.75rem;
+    padding: 2px 6px;
+}
+
+.meta-badge.tiny {
+    font-size: 0.75rem;
+    padding: 1px 4px;
+}
+
+.meta-badge.twitter {
+    background: #e3f2fd;
+    border-color: #90caf9;
+}
+
+.meta-badge.guidelines {
+    background: #e8f5e9;
+    border-color: #a5d6a7;
+}
+
+/* Connections Section - The Heart of ConceptNet Style */
+.connections-section {
+    margin-bottom: var(--spacing-xl);
+    padding: var(--spacing-lg);
+    background: var(--color-bg-alt);
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+}
+
+.connections-section h2 {
+    font-size: 1.25rem;
+    border: none;
+    padding: 0;
+    margin-bottom: var(--spacing-lg);
+}
+
+.connection-group {
+    margin-bottom: var(--spacing-lg);
+}
+
+.connection-group:last-child {
+    margin-bottom: 0;
+}
+
+.connection-type {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--spacing-sm);
+}
+
+.connection-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+}
+
+/* Connection Link Styling - Different colors by type */
+.connection-link {
+    display: inline-block;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: 4px;
+    font-size: 0.9375rem;
+    transition: all 0.15s ease;
+}
+
+.connection-link:hover {
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+.connection-link.sector { color: var(--color-sector); background: rgba(46, 125, 50, 0.1); }
+.connection-link.sector:hover { background: rgba(46, 125, 50, 0.2); }
+
+.connection-link.region { color: var(--color-region); background: rgba(21, 101, 192, 0.1); }
+.connection-link.region:hover { background: rgba(21, 101, 192, 0.2); }
+
+.connection-link.country { color: var(--color-country); background: rgba(0, 131, 143, 0.1); }
+.connection-link.country:hover { background: rgba(0, 131, 143, 0.2); }
+
+.connection-link.year { color: var(--color-year); background: rgba(106, 27, 154, 0.1); }
+.connection-link.year:hover { background: rgba(106, 27, 154, 0.2); }
+
+.connection-link.language { color: #0277bd; background: rgba(2, 119, 189, 0.1); }
+.connection-link.language:hover { background: rgba(2, 119, 189, 0.2); }
+
+.connection-link.industry { color: var(--color-industry); background: rgba(198, 40, 40, 0.1); }
+.connection-link.industry:hover { background: rgba(198, 40, 40, 0.2); }
+
+.connection-link.type { color: var(--color-type); background: rgba(239, 108, 0, 0.1); }
+.connection-link.type:hover { background: rgba(239, 108, 0, 0.2); }
+
+/* Financial bucket colors */
+.connection-link.revenue { color: #2e7d32; background: rgba(46, 125, 50, 0.1); }
+.connection-link.revenue:hover { background: rgba(46, 125, 50, 0.2); }
+
+.connection-link.operating-income { color: #1565c0; background: rgba(21, 101, 192, 0.1); }
+.connection-link.operating-income:hover { background: rgba(21, 101, 192, 0.2); }
+
+.connection-link.net-profit { color: #7b1fa2; background: rgba(123, 31, 162, 0.1); }
+.connection-link.net-profit:hover { background: rgba(123, 31, 162, 0.2); }
+
+.connection-link.tag { color: #455a64; background: rgba(69, 90, 100, 0.1); }
+.connection-link.tag:hover { background: rgba(69, 90, 100, 0.2); }
+
+/* Visual attribute colors */
+.connection-link.lighting,
+.connection-link.perspective,
+.connection-link.genre,
+.connection-link.concept,
+.connection-link.background,
+.connection-link.color,
+.connection-link.depth,
+.connection-link.effect {
+    color: var(--color-visual);
+    background: rgba(92, 107, 192, 0.1);
+}
+.connection-link.lighting:hover,
+.connection-link.perspective:hover,
+.connection-link.genre:hover,
+.connection-link.concept:hover,
+.connection-link.background:hover,
+.connection-link.color:hover,
+.connection-link.depth:hover,
+.connection-link.effect:hover {
+    background: rgba(92, 107, 192, 0.2);
+}
+
+/* Human attribute colors */
+.connection-link.hair,
+.connection-link.expression,
+.connection-link.clothing,
+.connection-link.clothcolor,
+.connection-link.pose,
+.connection-link.gaze,
+.connection-link.body {
+    color: var(--color-human);
+    background: rgba(236, 64, 122, 0.1);
+}
+.connection-link.hair:hover,
+.connection-link.expression:hover,
+.connection-link.clothing:hover,
+.connection-link.clothcolor:hover,
+.connection-link.pose:hover,
+.connection-link.gaze:hover,
+.connection-link.body:hover {
+    background: rgba(236, 64, 122, 0.2);
+}
+
+/* Guidelines entity colors */
+.connection-link.logo,
+.connection-link.brandcolor,
+.connection-link.typo,
+.connection-link.imagery {
+    color: var(--color-guideline);
+    background: rgba(38, 166, 154, 0.1);
+}
+.connection-link.logo:hover,
+.connection-link.brandcolor:hover,
+.connection-link.typo:hover,
+.connection-link.imagery:hover {
+    background: rgba(38, 166, 154, 0.2);
+}
+
+/* Section styles */
+.visual-section { border-left: 4px solid var(--color-visual); }
+.human-section { border-left: 4px solid var(--color-human); }
+.guidelines-section { border-left: 4px solid var(--color-guideline); }
+
+/* Websites & External */
+.websites-section,
+.wikidata-section {
+    margin-bottom: var(--spacing-xl);
+}
+
+.website-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.website-list li {
+    padding: var(--spacing-xs) 0;
+}
+
+/* Content Section (Properties, Guidelines, Twitter) */
+.content-section {
+    margin-top: var(--spacing-xl);
+}
+
+.content-section h2 {
+    margin-top: var(--spacing-xl);
+}
+
+.content-section h3 {
+    margin-top: var(--spacing-lg);
+    color: var(--color-text-light);
+}
+
+.content-section table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--spacing-md) 0;
+}
+
+.content-section th,
+.content-section td {
+    padding: var(--spacing-sm);
+    text-align: left;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.content-section th {
+    background: var(--color-bg-alt);
+    font-weight: 600;
+    width: 200px;
+}
+
+.content-section blockquote {
+    margin: 0 0 var(--spacing-md);
+    padding: var(--spacing-md);
+    background: var(--color-bg-alt);
+    border-left: 4px solid var(--color-link);
+    font-style: italic;
+}
+
+.content-section code {
+    font-family: var(--font-mono);
+    background: var(--color-bg-alt);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.875rem;
+}
+
+.content-section ul {
+    padding-left: var(--spacing-lg);
+}
+
+.content-section li {
+    margin-bottom: var(--spacing-xs);
+}
+
+/* =============================================================================
+   List Pages
+   ============================================================================= */
+
+.list-page {
+    padding: var(--spacing-xl) 0;
+}
+
+.list-header {
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-lg);
+    border-bottom: 2px solid var(--color-border);
+}
+
+.list-count {
+    color: var(--color-text-light);
+    font-size: 0.875rem;
+}
+
+.list-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.list-item {
+    padding: var(--spacing-lg);
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    transition: box-shadow 0.2s ease;
+}
+
+.list-item:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.list-item h2 {
+    font-size: 1.125rem;
+    margin-bottom: var(--spacing-sm);
+    border: none;
+    padding: 0;
+}
+
+.item-description {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-sm);
+}
+
+.item-meta {
+    display: flex;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+}
+
+.item-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+}
+
+.tag-link {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    background: rgba(46, 125, 50, 0.1);
+    color: var(--color-sector);
+    border-radius: 3px;
+}
+
+/* =============================================================================
+   Taxonomy Pages
+   ============================================================================= */
+
+.taxonomy-page {
+    padding: var(--spacing-xl) 0;
+}
+
+.taxonomy-header {
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-lg);
+    border-bottom: 2px solid var(--color-border);
+}
+
+.taxonomy-count {
+    color: var(--color-text-light);
+    font-size: 0.875rem;
+}
+
+.taxonomy-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+}
+
+.taxonomy-item {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-md);
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    transition: all 0.15s ease;
+}
+
+.taxonomy-item:hover {
+    background: var(--color-link);
+    color: white;
+    text-decoration: none;
+    border-color: var(--color-link);
+}
+
+.term-name {
+    font-weight: 500;
+}
+
+.term-count {
+    font-size: 0.75rem;
+    padding: 2px 6px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+/* Term Page (single taxonomy term) */
+.term-page {
+    padding: var(--spacing-xl) 0;
+}
+
+.term-header {
+    margin-bottom: var(--spacing-xl);
+    padding-bottom: var(--spacing-lg);
+    border-bottom: 2px solid var(--color-border);
+}
+
+.breadcrumb {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-md);
+}
+
+.term-type {
+    color: var(--color-text-light);
+    font-weight: 400;
+}
+
+.term-count {
+    color: var(--color-text-light);
+    font-size: 0.875rem;
+}
+
+.brand-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.brand-card {
+    padding: var(--spacing-md);
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    transition: box-shadow 0.2s ease;
+}
+
+.brand-card:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.brand-card h3 {
+    font-size: 1rem;
+    margin-bottom: var(--spacing-xs);
+}
+
+.card-description {
+    font-size: 0.8125rem;
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-sm);
+}
+
+.card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+}
+
+.meta-link {
+    font-size: 0.75rem;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+.meta-link.sector {
+    background: rgba(46, 125, 50, 0.1);
+    color: var(--color-sector);
+}
+
+.meta-link.region {
+    background: rgba(21, 101, 192, 0.1);
+    color: var(--color-region);
+}
+
+/* =============================================================================
+   Pagination
+   ============================================================================= */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-sm);
+    margin-top: var(--spacing-xl);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--color-border);
+}
+
+.pagination .page-item {
+    list-style: none;
+}
+
+.pagination .page-link {
+    display: inline-block;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+}
+
+.pagination .page-item.active .page-link {
+    background: var(--color-link);
+    color: white;
+    border-color: var(--color-link);
+}
+
+/* =============================================================================
+   Responsive
+   ============================================================================= */
+
+@media (max-width: 768px) {
+    .site-header .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .site-nav {
+        width: 100%;
+        justify-content: flex-start;
+        gap: var(--spacing-md);
+    }
+    
+    .home-hero h1 {
+        font-size: 1.75rem;
+    }
+    
+    .brand-title {
+        font-size: 1.75rem;
+    }
+    
+    .connections-section {
+        padding: var(--spacing-md);
+    }
+    
+    .content-section th {
+        width: 120px;
+    }
+    
+    .report-button {
+        bottom: var(--spacing-md);
+        right: var(--spacing-md);
+        font-size: 0.75rem;
+        padding: var(--spacing-xs) var(--spacing-sm);
+    }
+}
+
+/* =============================================================================
+   Print Styles
+   ============================================================================= */
+
+@media print {
+    .site-header,
+    .site-footer,
+    .report-button,
+    .search-box {
+        display: none;
+    }
+    
+    .connection-link {
+        color: black !important;
+        background: none !important;
+        border: 1px solid #ccc;
+    }
+}

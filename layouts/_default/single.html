@@ -1,0 +1,416 @@
+{{ define "title" }}{{ .Title }}{{ end }}
+
+{{ define "main" }}
+<article class="brand-page">
+    <header class="brand-header">
+        <h1 class="brand-title">{{ .Title }}</h1>
+        {{ with .Params.wikidata_description }}
+        <p class="brand-description">{{ . }}</p>
+        {{ end }}
+        
+        <div class="brand-meta">
+            {{ if .Params.has_twitter }}
+            <span class="meta-badge twitter">🖼️ {{ .Params.promotion_image_count }} Promotion Images</span>
+            {{ end }}
+            {{ if .Params.has_guidelines }}
+            <span class="meta-badge guidelines">📋 {{ .Params.guideline_count }} Guidelines</span>
+            {{ end }}
+        </div>
+    </header>
+
+    <!-- One-Degree Connections Section (ConceptNet Style) -->
+    <section class="connections-section">
+        <h2>🔗 Connections</h2>
+        
+        <!-- Sectors -->
+        {{ with .Params.sectors }}
+        {{ if ne (index . 0) "unknown" }}
+        <div class="connection-group">
+            <h3 class="connection-type">Sector</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/sectors/" | relURL }}{{ . | urlize }}/" class="connection-link sector">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+
+        <!-- Regions -->
+        {{ with .Params.regions }}
+        {{ if ne (index . 0) "unknown" }}
+        <div class="connection-group">
+            <h3 class="connection-type">Region</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/regions/" | relURL }}{{ . | urlize }}/" class="connection-link region">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+
+        <!-- Countries -->
+        {{ with .Params.countries }}
+        <div class="connection-group">
+            <h3 class="connection-type">Country</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/countries/" | relURL }}{{ . | urlize }}/" class="connection-link country">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Industries -->
+        {{ with .Params.industries }}
+        <div class="connection-group">
+            <h3 class="connection-type">Industry</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/industries/" | relURL }}{{ . | urlize }}/" class="connection-link industry">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Years -->
+        {{ with .Params.years }}
+        <div class="connection-group">
+            <h3 class="connection-type">Year</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/years/" | relURL }}{{ . | urlize }}/" class="connection-link year">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Languages -->
+        {{ with .Params.languages }}
+        <div class="connection-group">
+            <h3 class="connection-type">Language</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/languages/" | relURL }}{{ . | urlize }}/" class="connection-link language">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Revenue Bucket -->
+        {{ with .Params.revenue_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Revenue Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/revenue_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link revenue">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Operating Income Bucket -->
+        {{ with .Params.operating_income_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Operating Income Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/operating_income_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link operating-income">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Net Profit Bucket -->
+        {{ with .Params.net_profit_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Net Profit Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/net_profit_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link net-profit">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Tags -->
+        {{ with .Params.tags }}
+        <div class="connection-group">
+            <h3 class="connection-type">Tags</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="connection-link tag">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+
+    <!-- Color Analysis Section -->
+    {{ if or .Params.dominant_colors .Params.color_tones }}
+    <section class="connections-section color-section">
+        <h2>🎨 Color Analysis</h2>
+        
+        {{ with .Params.dominant_colors }}
+        <div class="connection-group">
+            <h3 class="connection-type">Dominant Colors</h3>
+            <div class="connection-links color-links">
+                {{ range . }}
+                <a href="{{ "/dominant_colors/" | relURL }}{{ . | urlize }}/" class="connection-link color-swatch {{ . }}">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.color_tones }}
+        <div class="connection-group">
+            <h3 class="connection-type">Color Tone</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/color_tones/" | relURL }}{{ . | urlize }}/" class="connection-link tone">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Brand Guidelines Entities (spaCy extracted) -->
+    {{ if or .Params.logo_elements .Params.brand_colors .Params.typographies .Params.imagery_styles }}
+    <section class="connections-section guidelines-section">
+        <h2>📐 Brand Identity Elements</h2>
+        <p class="section-note">Find brands with similar styling</p>
+        
+        {{ with .Params.logo_elements }}
+        <div class="connection-group">
+            <h3 class="connection-type">Logo Elements</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/logo_elements/" | relURL }}{{ . | urlize }}/" class="connection-link logo">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.brand_colors }}
+        <div class="connection-group">
+            <h3 class="connection-type">Brand Colors (from guidelines)</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/brand_colors/" | relURL }}{{ . | urlize }}/" class="connection-link brandcolor">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.typographies }}
+        <div class="connection-group">
+            <h3 class="connection-type">Typography</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/typographies/" | relURL }}{{ . | urlize }}/" class="connection-link typo">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.imagery_styles }}
+        <div class="connection-group">
+            <h3 class="connection-type">Imagery Style</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/imagery_styles/" | relURL }}{{ . | urlize }}/" class="connection-link imagery">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Visual Attributes Section -->
+    {{ if or .Params.lightings .Params.perspectives .Params.photography_genres .Params.concepts }}
+    <section class="connections-section visual-section">
+        <h2>👁️ Visual Attributes</h2>
+        
+        {{ with .Params.lightings }}
+        <div class="connection-group">
+            <h3 class="connection-type">Lighting</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/lightings/" | relURL }}{{ . | urlize }}/" class="connection-link lighting">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.perspectives }}
+        <div class="connection-group">
+            <h3 class="connection-type">Perspective</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/perspectives/" | relURL }}{{ . | urlize }}/" class="connection-link perspective">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.photography_genres }}
+        <div class="connection-group">
+            <h3 class="connection-type">Photography Genre</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/photography_genres/" | relURL }}{{ . | urlize }}/" class="connection-link genre">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.concepts }}
+        <div class="connection-group">
+            <h3 class="connection-type">Concept</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/concepts/" | relURL }}{{ . | urlize }}/" class="connection-link concept">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.image_backgrounds }}
+        <div class="connection-group">
+            <h3 class="connection-type">Background</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/image_backgrounds/" | relURL }}{{ . | urlize }}/" class="connection-link background">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.color_schemes }}
+        <div class="connection-group">
+            <h3 class="connection-type">Color Scheme</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/color_schemes/" | relURL }}{{ . | urlize }}/" class="connection-link color">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.depths }}
+        <div class="connection-group">
+            <h3 class="connection-type">Depth</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/depths/" | relURL }}{{ . | urlize }}/" class="connection-link depth">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.image_effects }}
+        <div class="connection-group">
+            <h3 class="connection-type">Image Effects</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/image_effects/" | relURL }}{{ . | urlize }}/" class="connection-link effect">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Human Visual Attributes -->
+    {{ if or .Params.hair_styles .Params.facial_expressions .Params.clothing_styles .Params.posings }}
+    <section class="connections-section human-section">
+        <h2>👤 Human Attributes</h2>
+        
+        {{ with .Params.hair_styles }}
+        <div class="connection-group">
+            <h3 class="connection-type">Hair Style</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/hair_styles/" | relURL }}{{ . | urlize }}/" class="connection-link hair">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.facial_expressions }}
+        <div class="connection-group">
+            <h3 class="connection-type">Facial Expression</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/facial_expressions/" | relURL }}{{ . | urlize }}/" class="connection-link expression">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.clothing_styles }}
+        <div class="connection-group">
+            <h3 class="connection-type">Clothing Style</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/clothing_styles/" | relURL }}{{ . | urlize }}/" class="connection-link clothing">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.clothing_colors }}
+        <div class="connection-group">
+            <h3 class="connection-type">Clothing Color</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/clothing_colors/" | relURL }}{{ . | urlize }}/" class="connection-link clothcolor">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.posings }}
+        <div class="connection-group">
+            <h3 class="connection-type">Posing</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/posings/" | relURL }}{{ . | urlize }}/" class="connection-link pose">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.gazes }}
+        <div class="connection-group">
+            <h3 class="connection-type">Gaze</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/gazes/" | relURL }}{{ . | urlize }}/" class="connection-link gaze">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.body_sections }}
+        <div class="connection-group">
+            <h3 class="connection-type">Body Section</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/body_sections/" | relURL }}{{ . | urlize }}/" class="connection-link body">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Content (Brand Guidelines, then Promotion Insights, then Properties) -->
+    <section class="content-section">
+        {{ .Content }}
+    </section>
+
+</article>
+{{ end }}

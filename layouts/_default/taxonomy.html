@@ -1,0 +1,48 @@
+{{ define "title" }}{{ .Title }} | {{ .Data.Singular | title }}{{ end }}
+
+{{ define "main" }}
+<section class="term-page">
+    <header class="term-header">
+        <nav class="breadcrumb">
+            <a href="{{ "/" | relURL }}">Home</a> →
+            <a href="{{ .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a> →
+            <span>{{ .Title | humanize }}</span>
+        </nav>
+        <h1>
+            <span class="term-type">{{ .Data.Singular | title }}:</span>
+            {{ .Title | humanize }}
+        </h1>
+        <p class="term-count">{{ len .Pages }} brands with this {{ .Data.Singular | lower }}</p>
+    </header>
+
+    <div class="term-connections">
+        <h2>🔗 Connected Brands</h2>
+        <div class="brand-list">
+            {{ range .Pages.ByTitle }}
+            <article class="brand-card">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                {{ with .Params.wikidata_description }}
+                <p class="card-description">{{ . | truncate 100 }}</p>
+                {{ end }}
+                <div class="card-meta">
+                    {{ with .Params.sectors }}
+                    {{ range first 2 . }}
+                    <a href="{{ "/sectors/" | relURL }}{{ . | urlize }}/" class="meta-link sector">{{ . | humanize }}</a>
+                    {{ end }}
+                    {{ end }}
+                    {{ with .Params.regions }}
+                    {{ if ne (index . 0) "unknown" }}
+                    {{ range first 1 . }}
+                    <a href="{{ "/regions/" | relURL }}{{ . | urlize }}/" class="meta-link region">{{ . | humanize }}</a>
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</section>
+{{ end }}

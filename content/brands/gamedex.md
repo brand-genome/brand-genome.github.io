@@ -1,0 +1,57 @@
+---
+title: Gamedex
+slug: gamedex
+description: ""
+date: "2026-03-05T15:56:46.085999"
+draft: false
+sectors:
+  - "blockchain-crypto"
+  - gaming
+regions:
+  - "united-kingdom"
+years:
+  - 2018
+languages:
+  - english
+tags:
+  - entertainment
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: ""
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [http://www.gamedex.co/](http://www.gamedex.co/)
+- [https://www.gamedex.co/](https://www.gamedex.co/)
+
+## Brand Guidelines
+
+### 2018

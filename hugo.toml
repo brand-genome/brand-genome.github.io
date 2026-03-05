@@ -1,0 +1,77 @@
+baseURL = "https://brand-genome.github.io/"
+languageCode = "en-us"
+title = "Brand Identity Knowledge Graph"
+theme = ""
+
+# Build future-dated content (our dates are auto-generated)
+buildFuture = true
+
+# Enable taxonomies for knowledge graph navigation
+[taxonomies]
+  # Core brand taxonomies
+  sector = "sectors"
+  region = "regions"
+  year = "years"
+  language = "languages"
+  tag = "tags"
+  
+  # Wikidata-derived taxonomies
+  industry = "industries"
+  country = "countries"
+  revenue_bucket = "revenue_buckets"
+  operating_income_bucket = "operating_income_buckets"
+  net_profit_bucket = "net_profit_buckets"
+  
+  # Color analysis taxonomies (from image color extraction)
+  dominant_color = "dominant_colors"
+  color_tone = "color_tones"
+  
+  # Visual/Image taxonomies (from LLaVa)
+  lighting = "lightings"
+  perspective = "perspectives"
+  image_background = "image_backgrounds"
+  color_scheme = "color_schemes"
+  photography_genre = "photography_genres"
+  concept = "concepts"
+  depth = "depths"
+  image_effect = "image_effects"
+  
+  # Human visual attributes (from LLaVa human annotations)
+  hair_style = "hair_styles"
+  facial_expression = "facial_expressions"
+  clothing_style = "clothing_styles"
+  clothing_color = "clothing_colors"
+  posing = "posings"
+  gaze = "gazes"
+  body_section = "body_sections"
+  
+  # Brand Guidelines extracted entities (from spaCy)
+  logo_element = "logo_elements"
+  brand_color = "brand_colors"
+  typography = "typographies"
+  imagery_style = "imagery_styles"
+
+[params]
+  description = "A Knowledge Graph of Brand Identities featuring visual attributes, brand guidelines, and promotion insights"
+  author = "Brand Identity Research Team"
+  reportEmail = "behavior-in-the-wild@example.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "JSON"]
+  taxonomy = ["HTML", "JSON"]
+  term = ["HTML", "JSON"]
+
+# Pagination
+[pagination]
+  pagerSize = 1000
+
+# Build settings
+[build]
+  writeStats = true

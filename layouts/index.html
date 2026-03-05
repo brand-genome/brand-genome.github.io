@@ -1,0 +1,146 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="home-hero">
+    <h1>Brand Identity Knowledge Graph</h1>
+    <p class="hero-description">
+        Explore brand identities through their visual attributes, guidelines, and social media presence.
+        Every attribute is a node — click to discover connections.
+    </p>
+    
+    <div class="search-box">
+        <input type="text" id="brand-search" placeholder="Search brands..." autocomplete="off">
+        <div id="search-results" class="search-results"></div>
+    </div>
+</section>
+
+<section class="home-stats">
+    <div class="stat-card">
+        <span class="stat-number">{{ len (where .Site.RegularPages "Section" "brands") }}</span>
+        <span class="stat-label">Brands</span>
+    </div>
+    <div class="stat-card">
+        <span class="stat-number">{{ len .Site.Taxonomies.sectors }}</span>
+        <span class="stat-label">Sectors</span>
+    </div>
+    <div class="stat-card">
+        <span class="stat-number">{{ len .Site.Taxonomies.regions }}</span>
+        <span class="stat-label">Regions</span>
+    </div>
+    <div class="stat-card">
+        <span class="stat-number">{{ len .Site.Taxonomies.concepts }}</span>
+        <span class="stat-label">Visual Concepts</span>
+    </div>
+</section>
+
+<section class="home-explore">
+    <h2>🔗 Explore by Category</h2>
+    
+    <div class="explore-grid">
+        <div class="explore-card">
+            <h3><a href="{{ "/sectors/" | relURL }}">📊 Sectors</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.sectors.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/sectors/" | relURL }}" class="see-all">See all sectors →</a>
+        </div>
+
+        <div class="explore-card">
+            <h3><a href="{{ "/regions/" | relURL }}">🌍 Regions</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.regions.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/regions/" | relURL }}" class="see-all">See all regions →</a>
+        </div>
+
+        <div class="explore-card">
+            <h3><a href="{{ "/years/" | relURL }}">📅 Years</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.years.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/years/" | relURL }}" class="see-all">See all years →</a>
+        </div>
+
+        <div class="explore-card">
+            <h3><a href="{{ "/industries/" | relURL }}">🏭 Industries</a></h3>
+            <div class="explore-items">
+                {{ range first 8 .Site.Taxonomies.industries.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+            <a href="{{ "/industries/" | relURL }}" class="see-all">See all industries →</a>
+        </div>
+    </div>
+</section>
+
+<section class="home-visual">
+    <h2>👁️ Visual Attributes</h2>
+    
+    <div class="explore-grid">
+        <div class="explore-card visual">
+            <h3><a href="{{ "/lightings/" | relURL }}">💡 Lighting</a></h3>
+            <div class="explore-items">
+                {{ range first 6 .Site.Taxonomies.lightings.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="explore-card visual">
+            <h3><a href="{{ "/perspectives/" | relURL }}">📐 Perspectives</a></h3>
+            <div class="explore-items">
+                {{ range first 6 .Site.Taxonomies.perspectives.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="explore-card visual">
+            <h3><a href="{{ "/photography_genres/" | relURL }}">📷 Photography</a></h3>
+            <div class="explore-items">
+                {{ range first 6 .Site.Taxonomies.photography_genres.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="explore-card visual">
+            <h3><a href="{{ "/concepts/" | relURL }}">💭 Concepts</a></h3>
+            <div class="explore-items">
+                {{ range first 6 .Site.Taxonomies.concepts.ByCount }}
+                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="home-recent">
+    <h2>🆕 Sample Brands</h2>
+    <div class="brand-list home-brands">
+        {{ range first 12 (where .Site.RegularPages "Section" "brands") }}
+        <article class="brand-card">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ with .Params.wikidata_description }}
+            <p class="card-description">{{ . | truncate 80 }}</p>
+            {{ end }}
+            <div class="card-meta">
+                {{ if .Params.has_twitter }}
+                <span class="meta-badge tiny twitter">📱</span>
+                {{ end }}
+                {{ if .Params.has_guidelines }}
+                <span class="meta-badge tiny guidelines">📋</span>
+                {{ end }}
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    <a href="{{ "/brands/" | relURL }}" class="see-all-btn">Browse all brands →</a>
+</section>
+{{ end }}

@@ -1,0 +1,90 @@
+---
+title: Ace Hardware
+slug: "ace-hardware"
+description: ""
+date: "2026-03-05T15:56:45.712001"
+draft: false
+sectors:
+  - "consumer-goods"
+regions:
+  - usa
+years:
+  - 2024
+languages:
+  - english
+tags:
+  - corporate
+  - featured
+industries:
+  - "hardware-store"
+countries:
+  - "united-states"
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+lightings: []
+perspectives: []
+image_backgrounds: []
+color_schemes: []
+photography_genres: []
+concepts: []
+depths: []
+image_effects: []
+dominant_colors: []
+color_tones: []
+hair_styles: []
+facial_expressions: []
+clothing_styles: []
+clothing_colors: []
+posings: []
+gazes: []
+body_sections: []
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
+wikidata_description: American hardware cooperative
+has_twitter: false
+has_guidelines: true
+promotion_image_count: 0
+guideline_count: 1
+---
+## Official Websites
+
+- [http://www.MyAce.com](http://www.MyAce.com)
+- [http://www.acehardware.com](http://www.acehardware.com)
+- [https://www.acehardware.com/](https://www.acehardware.com/)
+
+## Brand Guidelines
+
+### 2024
+
+*Guidelines data not available*
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | Chicago |
+| Country | United States |
+| Location Of Formation | Chicago |
+| Legal Entity Identifier | 5493002WMDWGNHBLKW26 |
+| Quora Topic Id | ACE-Hardware-1 |
+| Inception | 1924-01-01 |
+| Permid | 4295900539 |
+| X (Twitter) Username | AceHardware (as of 2020-04-24, from 2009-01-28) |
+| Facebook Username | acehardware |
+| Instagram Username | acehardware |
+| Pinterest Username | acehardware |
+| Encyclopedia Of Chicago Id | 2523 |
+| Osm Name Suggestion Index Id | acehardware-092aaf, autodepot-935544 |
+| Described At Url | http://www.fundinguniverse.com/company-histories/ace-hardware-corporation-history/ |
+| Industry | hardware store |
+| Social Media Followers | 138,978 (as of 2021-01-07), 138,722 (as of 2020-04-24), 137,250 (as of 2022-02-26), 137,029 (as of 2023-02-06) |
+| Freebase Id | /m/02rp5c |
+| Logo Image | Ace Hardware Logo.svg |
+| Crunchbase Organization Id | ace-hardware |
+| Legal Form | Delaware corporation, retailers' cooperative (from 1973-01-22) |
+| Field Of Work | hardware store chain |
+| Domain Name | acehardware.com |
+| Threads Username | acehardware |

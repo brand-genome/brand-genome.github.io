@@ -1,0 +1,20 @@
+{{ define "title" }}{{ .Title }} | Taxonomy{{ end }}
+
+{{ define "main" }}
+<section class="taxonomy-page">
+    <header class="taxonomy-header">
+        <h1>{{ .Title }}</h1>
+        <p class="taxonomy-description">Explore all {{ .Title | lower }} in the Brand Identity Knowledge Graph</p>
+        <p class="taxonomy-count">{{ len .Pages }} terms</p>
+    </header>
+
+    <div class="taxonomy-grid">
+        {{ range .Pages.ByTitle }}
+        <a href="{{ .Permalink }}" class="taxonomy-item">
+            <span class="term-name">{{ .Title | humanize }}</span>
+            <span class="term-count">{{ len .Pages }}</span>
+        </a>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
