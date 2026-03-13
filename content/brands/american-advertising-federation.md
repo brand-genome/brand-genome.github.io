@@ -2,7 +2,7 @@
 title: American Advertising Federation
 slug: "american-advertising-federation"
 description: ""
-date: "2026-03-05T22:38:39.421128"
+date: "2026-03-13T08:56:59.381106"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1905
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,30 +50,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - lettermark
+  - primary
+  - wordmark
   - vertical
 brand_colors:
   - white
   - red
-  - black
-  - yellow
-  - blue
   - pink
+  - blue
+  - yellow
+  - black
   - gray
 typographies:
   - display
 imagery_styles:
-  - bold
   - minimal
   - gradient
   - professional
+  - bold
 wikidata_description: U.S. trade association
+wikidata_url: "https://www.wikidata.org/wiki/Q4742924"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4742924) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1905](/foundation_dates/1905/) |
 | Topic'S Main Category | Category:American Advertising Federation |
 | Country | United States |
 | X (Twitter) Username | aafnational (as of 2020-06-15, from 2009-02-25) |
@@ -113,5 +132,4 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | aafnational |
 | Inception | 1905 |
 | Headquarters Location | Washington, D.C. |
-| Logo Image | American Advertising Federation.svg (until 2021) |
 | Industry | business and professional associations, unions |

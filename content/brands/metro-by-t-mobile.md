@@ -2,15 +2,15 @@
 title: "Metro by T-Mobile"
 slug: "metro-by-t-mobile"
 description: ""
-date: "2026-03-05T22:38:39.284068"
+date: "2026-03-13T08:56:59.226164"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2018
   - 2020
+  - 2018
 languages:
   - english
 tags:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - richardson
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,17 +55,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gold
   - purple
+  - gold
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: American telecommunications company
+wikidata_url: "https://www.wikidata.org/wiki/Q1925685"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +120,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1925685) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Richardson](/headquarters_locations/richardson/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Freebase Id | /m/03p3pt4 |
 | Isin | US5917081029 |
 | Headquarters Location | Richardson |
@@ -125,7 +144,6 @@ guideline_count: 2
 | Social Media Followers | 99,112 (as of 2021-02-05), 102,194 (as of 2022-02-25), 103,308 (as of 2023-02-10) |
 | Crunchbase Organization Id | metropcs-communications |
 | Country | United States |
-| Logo Image | Metro By T-Mobile 2020.svg, Metro By T-Mobile 2022.svg (from 2022), MetroPCS logo.svg |
 | Contact Page Url | https://www.metrobyt-mobile.com/contact-us |
 | Reddit Topic Id | metro_by_tmobile |
 | Significant Event | change of ownership (as of 2013-05-01) |

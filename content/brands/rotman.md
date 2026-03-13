@@ -2,7 +2,7 @@
 title: Rotman
 slug: rotman
 description: ""
-date: "2026-03-05T22:38:39.337327"
+date: "2026-03-13T08:56:59.291895"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: graduate business school of the University of Toronto
+wikidata_url: "https://www.wikidata.org/wiki/Q7370553"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7370553) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Coordinate Location | 43.6652, -79.3984 |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Ontario, Toronto |
@@ -95,4 +112,3 @@ guideline_count: 1
 | Employer | University of Toronto |
 | ‎Yale Lux Id | group/277cb6f3-93ac-4b15-800e-432029e9439f |
 | Affiliation | University of Toronto School of Graduate Studies, University of Toronto Faculty of Arts and Science |
-| Logo Image | Rotman School wordmark.png |

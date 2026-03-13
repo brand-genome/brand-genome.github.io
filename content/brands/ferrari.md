@@ -2,7 +2,7 @@
 title: Ferrari
 slug: ferrari
 description: ""
-date: "2026-03-05T22:38:39.310270"
+date: "2026-03-13T08:56:59.250407"
 draft: false
 sectors:
   - automobile
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - transport
   - luxury
   - featured
-  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "sports-car"
+  - supercar
+products: []
+headquarters_locations:
+  - maranello
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: Italian luxury sports car manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q27586"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -85,6 +100,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q27586) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sports Car](/products_or_materials_produced/sports-car/); [Supercar](/products_or_materials_produced/supercar/) |
+| Headquarters Location | [Maranello](/headquarters_locations/maranello/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Founded By | Enzo Ferrari |
 | Industry | automotive industry |
 | Topic'S Main Category | Category:Ferrari |
@@ -127,7 +149,6 @@ guideline_count: 1
 | Product Or Material Produced | sports car, supercar |
 | Microsoft Academic Id (Discontinued) | 1302830009 |
 | Great Norwegian Encyclopedia Id | Ferrari |
-| Logo Image | Ferrari wordmark.svg |
 | Kbpedia Id | Ferrari |
 | Social Media Followers | 690,430 (as of 2021-01-02), 607,110 (as of 2020-02-29), 932,000 (as of 2021-07-02), 841,066 (as of 2022-03-01), 1,050,000 (as of 2022-03-17) (+6 more) |
 | Ringgold Id | 87816 |

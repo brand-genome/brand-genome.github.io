@@ -2,11 +2,11 @@
 title: Scottish Association for Marine Science
 slug: "scottish-association-for-marine-science"
 description: ""
-date: "2026-03-05T22:38:39.079121"
+date: "2026-03-13T08:56:59.031446"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - scotland
 years:
@@ -19,9 +19,19 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1884
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Scottish oceanographic Society and research organization
+wikidata_url: "https://www.wikidata.org/wiki/Q7437625"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7437625) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1884](/foundation_dates/1884/) |
 | Viaf Cluster Id | 138021639 |
 | Coordinate Location | 56.45115, -5.440741 |
 | Isni | 0000000093884992 |
@@ -89,8 +106,10 @@ guideline_count: 1
 
 ### Revenue History
 
-- $11.00M (10,997,000 pound sterling (as of 2020))
-- $10.35M (10,350,000 pound sterling (as of 2021))
-- $9.38M (9,384,000 pound sterling (as of 2022))
-- $10.31M (10,315,000 pound sterling (as of 2023))
-- $10.08M (10,079,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $11.00M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.35M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.38M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.31M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.08M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |

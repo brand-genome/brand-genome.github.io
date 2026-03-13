@@ -2,7 +2,7 @@
 title: SkillsUSA
 slug: skillsusa
 description: ""
-date: "2026-03-05T22:38:39.580406"
+date: "2026-03-13T08:56:59.516361"
 draft: false
 sectors:
   - education
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1965
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,18 +50,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
   - red
+  - blue
 typographies:
   - futura
 imagery_styles:
-  - professional
   - graphic
+  - professional
 wikidata_description: career and technical student organization
+wikidata_url: "https://www.wikidata.org/wiki/Q17164743"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +117,11 @@ The SkillsUSA logo is our association’s most visible identity. It represents o
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17164743) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1965](/foundation_dates/1965/) |
 | Inception | 1965 |
 | Library Of Congress Authority Id | n00107237 |
 | Country | United States |

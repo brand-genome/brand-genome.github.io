@@ -2,7 +2,7 @@
 title: University of Cambridge
 slug: "university-of-cambridge"
 description: ""
-date: "2026-03-05T22:38:39.680989"
+date: "2026-03-13T08:56:59.599496"
 draft: false
 sectors:
   - research
@@ -20,9 +20,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cambridge
+subsidiaries: []
+foundation_dates:
+  - 1209
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "collegiate public research university in Cambridge, England, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q35794"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q35794) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/) |
+| Foundation Date | [1209](/foundation_dates/1209/) |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:University of Cambridge |
 | Commons Gallery | University of Cambridge |
@@ -115,7 +135,6 @@ guideline_count: 1
 | Dfe Urn | 133801 |
 | Early Modern Letters Online Location Id | 096f4fc4-2adc-4edc-9cdc-05d5b739e856 |
 | Open Funder Registry Funder Id | 501100000735 |
-| Logo Image | University of Cambridge logo.png |
 | Native Label | University of Cambridge |
 | Uk Provider Reference Number | 10007788 |
 | Archon Code | 265 |
@@ -235,7 +254,6 @@ guideline_count: 1
 | Scopus Affiliation Id | 60031101 |
 | Kisti Id | K000206630 |
 | Donations | 543,363,015 United States dollar (as of 2022), 712,295,645 United States dollar (as of 2021), 600,150,330 United States dollar (as of 2011), 562,279,084 United States dollar (as of 2012), 611,205,420 United States dollar (as of 2013) (+8 more) |
-| Total Assets | 12,451,790,567 United States dollar (as of 2022), 12,568,991,314 United States dollar (as of 2021), 5,316,565,410 United States dollar (as of 2011), 5,280,646,660 United States dollar (as of 2012), 7,310,373,014 United States dollar (as of 2013) (+8 more) |
 | Ranking | 4 (as of 2024), 3 (as of 2020), 3 (as of 2021), 4 (as of 2022), 4 (as of 2023) (+29 more) |
 | Wellcome Collection Concept Id | f5jq6btt |
 | Kalliope Verbund (Gnd) Id | 7877-3 |
@@ -251,16 +269,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.63B (2,629,954,773 United States dollar (as of 2022))
-- $2.73B (2,731,848,993 United States dollar (as of 2021))
-- $1.82B (1,822,962,674 United States dollar (as of 2011))
-- $1.83B (1,827,590,580 United States dollar (as of 2012))
-- $2.24B (2,243,313,982 United States dollar (as of 2013))
-- $2.15B (2,147,061,429 United States dollar (as of 2014))
-- $2.20B (2,202,765,917 United States dollar (as of 2015))
-- $2.41B (2,414,686,680 United States dollar (as of 2016))
-- $2.17B (2,170,337,502 United States dollar (as of 2017))
-- $2.45B (2,445,470,286 United States dollar (as of 2018))
-- $2.62B (2,624,960,196 United States dollar (as of 2019))
-- $2.48B (2,478,881,518 United States dollar (as of 2020))
-- $2.80B (2,798,495,639 United States dollar (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.63B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.73B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.82B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.83B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.24B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.15B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.20B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.41B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.17B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.45B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.62B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.48B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.80B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $12.45B | as of 2022 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $12.57B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $5.32B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.28B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.31B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.03B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.28B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.26B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.97B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $10.62B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $10.59B | as of 2019 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $10.35B | as of 2020 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.60B | as of 2023 | [10B-50B](/total_assets_buckets/10b-50b/) |

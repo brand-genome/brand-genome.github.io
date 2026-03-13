@@ -2,7 +2,7 @@
 title: "Heriot-Watt University"
 slug: "heriot-watt-university"
 description: ""
-date: "2026-03-05T22:38:39.072645"
+date: "2026-03-13T08:56:59.024591"
 draft: false
 sectors:
   - university
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - edinburgh
+subsidiaries: []
+foundation_dates:
+  - 1821
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Edinburgh, Scotland, UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q1610024"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1610024) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Edinburgh](/headquarters_locations/edinburgh/) |
+| Foundation Date | [1821](/foundation_dates/1821/) |
 | Topic'S Main Category | Category:Heriot-Watt University |
 | Coordinate Location | 55.909362, -3.320113 |
 | Freebase Id | /m/030nwm |
@@ -129,8 +148,10 @@ guideline_count: 1
 
 ### Revenue History
 
-- $230.69M (230,690,000 pound sterling (as of 2020))
-- $235.07M (235,069,000 pound sterling (as of 2021))
-- $260.62M (260,621,000 pound sterling (as of 2022))
-- $273.21M (273,214,000 pound sterling (as of 2023))
-- $292.28M (292,278,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $230.69M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $235.07M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $260.62M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $273.21M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $292.28M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |

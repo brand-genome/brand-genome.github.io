@@ -2,7 +2,7 @@
 title: "Johnson & Wales University"
 slug: "johnson-wales-university"
 description: ""
-date: "2026-03-05T22:38:39.767202"
+date: "2026-03-13T08:56:59.818581"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1914
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,8 +50,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - stacked
+  - wordmark
   - crest
 brand_colors: []
 typographies:
@@ -51,10 +61,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: "private university based in Providence, Rhode Island"
+wikidata_url: "https://www.wikidata.org/wiki/Q1798494"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +121,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1798494) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1914](/foundation_dates/1914/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Rhode Island |
 | Topic'S Main Category | Category:Johnson & Wales University |
@@ -134,7 +151,6 @@ guideline_count: 1
 | Sevis School Id | 5453 |
 | Member Of | American Council on Education, Open Education Network |
 | Osm Name Suggestion Index Id | johnsonandwalesuniversity-373ed2 |
-| Logo Image | Johnsonwales univ textlogo.png |
 | Coordinate Location | 41.819953, -71.412805 |
 | ‎Yale Lux Id | group/7a404bb9-acf7-4b94-bc98-ffcfa46be7f1 |
 | Youtube Handle | johnsonandwales (as of 2025-10-21) |

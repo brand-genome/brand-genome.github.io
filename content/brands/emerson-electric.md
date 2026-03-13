@@ -2,12 +2,12 @@
 title: Emerson Electric
 slug: "emerson-electric"
 description: ""
-date: "2026-03-05T22:38:39.230520"
+date: "2026-03-13T08:56:59.174231"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - usa
 years:
@@ -21,10 +21,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "st-louis"
+subsidiaries: []
+foundation_dates:
+  - 1890
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q1335585"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +82,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1335585) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [St Louis](/headquarters_locations/st-louis/) |
+| Foundation Date | [1890](/foundation_dates/1890/) |
 | Founded By | John Wesley Emerson |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02) |
 | Freebase Id | /m/04dl6k |
@@ -110,42 +130,51 @@ guideline_count: 1
 | Legal Form |  |
 | ‎Yale Lux Id | group/5311ac66-b838-44ca-b17b-0215d3cb14b0 |
 | Wikirate Company Id | 46124 |
-| Employees | 134,900 (as of 2012) |
 
 ### Revenue History
 
-- $22.13B (22,131,000,000 United States dollar (as of 2007, from 2006-10-01, until 2007-09-30))
-- $24.81B (24,807,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-30))
-- $20.91B (20,915,000,000 United States dollar (as of 2009, from 2008-10-01, until 2009-09-30))
-- $21.04B (21,039,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $24.22B (24,222,000,000 United States dollar (as of 2011, from 2010-10-01, until 2011-09-30))
-- $24.41B (24,412,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $24.67B (24,669,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $24.54B (24,537,000,000 United States dollar (as of 2014, from 2013-10-01, until 2014-09-30))
-- $22.30B (22,304,000,000 United States dollar (as of 2015, from 2014-10-01, until 2015-09-30))
-- $14.52B (14,522,000,000 United States dollar (as of 2016, from 2015-10-01, until 2016-09-30))
-- $15.26B (15,264,000,000 United States dollar (as of 2017, from 2016-10-01, until 2017-09-30))
-- $17.41B (17,408,000,000 United States dollar (as of 2018, from 2017-10-01, until 2018-09-30))
-- $18.37B (18,372,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $16.79B (16,785,000,000 United States dollar (as of 2020, from 2019-10-01, until 2020-09-30))
-- $18.24B (18,236,000,000 United States dollar (as of 2021, from 2020-10-01, until 2021-09-30))
-- $19.63B (19,629,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $22.13B | as of 2007, from 2006-10-01, until 2007-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.81B | as of 2008, from 2007-10-01, until 2008-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $20.91B | as of 2009, from 2008-10-01, until 2009-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.04B | as of 2010, from 2009-10-01, until 2010-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.22B | as of 2011, from 2010-10-01, until 2011-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.41B | as of 2012, from 2011-10-01, until 2012-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.67B | as of 2013, from 2012-10-01, until 2013-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.54B | as of 2014, from 2013-10-01, until 2014-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.30B | as of 2015, from 2014-10-01, until 2015-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.52B | as of 2016, from 2015-10-01, until 2016-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.26B | as of 2017, from 2016-10-01, until 2017-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.41B | as of 2018, from 2017-10-01, until 2018-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.37B | as of 2019, from 2018-10-01, until 2019-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $16.79B | as of 2020, from 2019-10-01, until 2020-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.24B | as of 2021, from 2020-10-01, until 2021-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.63B | as of 2022, from 2021-10-01, until 2022-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $2.14B (2,136,000,000 United States dollar (as of 2007, from 2006-10-01, until 2007-09-30))
-- $2.41B (2,412,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-30))
-- $1.72B (1,724,000,000 United States dollar (as of 2009, from 2008-10-01, until 2009-09-30))
-- $2.16B (2,164,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $2.48B (2,480,000,000 United States dollar (as of 2011, from 2010-10-01, until 2011-09-30))
-- $1.97B (1,968,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $2.00B (2,004,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $2.15B (2,147,000,000 United States dollar (as of 2014, from 2013-10-01, until 2014-09-30))
-- $2.71B (2,710,000,000 United States dollar (as of 2015, from 2014-10-01, until 2015-09-30))
-- $1.64B (1,635,000,000 United States dollar (as of 2016, from 2015-10-01, until 2016-09-30))
-- $1.52B (1,518,000,000 United States dollar (as of 2017, from 2016-10-01, until 2017-09-30))
-- $2.20B (2,203,000,000 United States dollar (as of 2018, from 2017-10-01, until 2018-09-30))
-- $2.31B (2,306,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $1.97B (1,965,000,000 United States dollar (as of 2020, from 2019-10-01, until 2020-09-30))
-- $2.30B (2,303,000,000 United States dollar (as of 2021, from 2020-10-01, until 2021-09-30))
-- $3.23B (3,231,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $2.14B | as of 2007, from 2006-10-01, until 2007-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.41B | as of 2008, from 2007-10-01, until 2008-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.72B | as of 2009, from 2008-10-01, until 2009-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.16B | as of 2010, from 2009-10-01, until 2010-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.48B | as of 2011, from 2010-10-01, until 2011-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.97B | as of 2012, from 2011-10-01, until 2012-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.00B | as of 2013, from 2012-10-01, until 2013-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.15B | as of 2014, from 2013-10-01, until 2014-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.71B | as of 2015, from 2014-10-01, until 2015-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.64B | as of 2016, from 2015-10-01, until 2016-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.52B | as of 2017, from 2016-10-01, until 2017-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.20B | as of 2018, from 2017-10-01, until 2018-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.31B | as of 2019, from 2018-10-01, until 2019-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.97B | as of 2020, from 2019-10-01, until 2020-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.30B | as of 2021, from 2020-10-01, until 2021-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.23B | as of 2022, from 2021-10-01, until 2022-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 134,900 | as of 2012 | [100K-500K](/employees_buckets/100k-500k/) |

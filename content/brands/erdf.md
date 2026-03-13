@@ -2,7 +2,7 @@
 title: ERDF
 slug: erdf
 description: ""
-date: "2026-03-05T22:38:39.817794"
+date: "2026-03-13T08:56:59.889954"
 draft: false
 sectors:
   - utilities
@@ -18,10 +18,22 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "la-defense"
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,20 +54,22 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
+  - brown
   - white
   - red
-  - black
   - blue
-  - brown
   - green
+  - black
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: French company in charge of the public electricity network
+wikidata_url: "https://www.wikidata.org/wiki/Q3587594"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +97,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3587594) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [La Defense](/headquarters_locations/la-defense/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Member Of | MEDEE power electronics cluster |
 | Inception | 2008-01-01 |
 | Motto Text | L'électricité en réseau, Agir pour un service public de la distribution d’électricité innovant, performant et solidaire. Raccorder la société au défi collectif d’un monde durable. (from 2023-06) |
@@ -92,7 +112,6 @@ guideline_count: 1
 | X (Twitter) Username | enedis (as of 2020-04-19, from 2011-09-30), enedis_clients (as of 2020-04-19, from 2015-10-16), enedis_bretagne (as of 2020-04-19, from 2013-11-29), enedis_alpes (as of 2020-04-19, from 2013-11-29) |
 | Parent Organization Or Unit | Électricité de France |
 | Legal Form | SA à directoire (s.a.i.) |
-| Employees | 38,700 (as of 2017), 41,000 (as of 2024) |
 | Jorfsearch Organization Id | Q3587594 |
 | Data.Gouv.Fr Organisation Id | 560d929ac751df40ef756894 |
 | External Data Available At Url | https://enedis.opendatasoft.com/ |
@@ -126,10 +145,21 @@ guideline_count: 1
 
 ### Revenue History
 
-- $16.50B (16,500,000,000 euro (as of 2024))
-- $15.20B (15,200,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $16.50B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.20B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $562.00M (-562,000,000 euro (as of 2023))
-- $701.00M (701,000,000 euro (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $562.00M | as of 2023 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $701.00M | as of 2024 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 38,700 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 41,000 | as of 2024 | [10K-50K](/employees_buckets/10k-50k/) |

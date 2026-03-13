@@ -2,7 +2,7 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-03-05T22:38:39.302503"
+date: "2026-03-13T08:56:59.244378"
 draft: false
 sectors:
   - "legal-services"
@@ -17,14 +17,26 @@ languages:
 tags:
   - corporate
 industries:
-  - "professional-services-industry"
   - "accounting-services"
+  - "professional-services-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "tour-eqho"
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +60,26 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - violet
-  - black
   - blue
-  - green
+  - violet
   - purple
+  - green
+  - black
 typographies:
   - univers
   - arial
 imagery_styles:
-  - bold
   - photography
-  - professional
   - clean
+  - professional
+  - bold
 wikidata_description: "provider of audit, legal, tax advisory, financial, and business advisory services"
+wikidata_url: "https://www.wikidata.org/wiki/Q493751"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,15 +137,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q493751) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tour Eqho](/headquarters_locations/tour-eqho/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Topic'S Main Category | Category:KPMG |
 | Freebase Id | /m/0k2gt |
 | Inception | 1987 |
 | Named After | William Barclay Peat, James Marwick, Reinhard Goerdeler, Piet Klijnveld |
 | Headquarters Location | Tour Eqho |
 | X (Twitter) Username | KPMG (as of 2020-04-15, from 2011-03-17), KPMG_Canada (as of 2022-02-28, from 2009-11-17) |
-| Employees | 219,281 (as of 2019), 189,000 (as of 2016), 236,000 (as of 2021-09-30) |
 | Industry | professional services industry, accounting services |
-| Logo Image | KPMG.svg, KPMG blue logo.svg |
 | Quora Topic Id | KPMG |
 | Isni | 000000012298378X |
 | Official Name | Klynveld Peat Marwick Goerdeler |
@@ -182,7 +200,17 @@ guideline_count: 1
 
 ### Revenue History
 
-- $24.44B (24,440,000,000 United States dollar (as of 2015))
-- $29.00B (29,000,000,000 United States dollar (as of 2018))
-- $32.13B (32,130,000,000 United States dollar (as of 2021-09-30))
-- $38.40B (38,400,000,000 United States dollar (as of 2024-12-17))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $24.44B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.00B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.13B | as of 2021-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.40B | as of 2024-12-17 | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 219,281 | as of 2019 | [100K-500K](/employees_buckets/100k-500k/) |
+| 189,000 | as of 2016 | [100K-500K](/employees_buckets/100k-500k/) |
+| 236,000 | as of 2021-09-30 | [100K-500K](/employees_buckets/100k-500k/) |

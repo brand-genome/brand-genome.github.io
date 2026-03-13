@@ -2,12 +2,12 @@
 title: "Bang & Olufsen"
 slug: "bang-olufsen"
 description: ""
-date: "2026-03-05T22:38:39.210197"
+date: "2026-03-13T08:56:59.147382"
 draft: false
 sectors:
+  - hardware
   - "home-appliances"
   - electronics
-  - hardware
 regions:
   - denmark
 years:
@@ -15,17 +15,33 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - music
+  - technology
+  - featured
 industries:
   - electronics
 countries:
   - denmark
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - "video-technology"
+  - "sound-engineering"
+products: []
+headquarters_locations:
+  - struer
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Danish multinational audio equipment manufacturer and retail chain
+wikidata_url: "https://www.wikidata.org/wiki/Q790020"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +88,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q790020) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Video Technology](/products_or_materials_produced/video-technology/); [Sound Engineering](/products_or_materials_produced/sound-engineering/) |
+| Headquarters Location | [Struer](/headquarters_locations/struer/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Topic'S Main Category | Category:Bang & Olufsen |
 | Viaf Cluster Id | 159816867 |
 | Gnd Id | 10053295-0 |
@@ -77,21 +102,17 @@ guideline_count: 1
 | Isin | DK0010218429 |
 | Inception | 1925-11-17 |
 | Headquarters Location | Struer |
-| Logo Image | Bang and Olufsen logo.svg |
 | Legal Form | aktieselskab |
 | Cvr Number | 41257911 |
 | Country | Denmark |
 | Owned By | Arbejdsmarkedets Tillægspension, Sparkle Roll Group Limited, Samsung Group, Chr. Augustinus Fabrikker |
 | Opencorporates Id | dk/41257911 |
-| Employees | 2,046 |
 | Founded By | Peter Bang, Svend Olufsen |
 | Freebase Id | /m/055q5t |
 | Quora Topic Id | Bang-Olufsen |
 | Isni | 0000000405869397 |
 | Ringgold Id | 310597 |
 | Stock Exchange | Nasdaq Copenhagen A/S |
-| Total Assets | 3,045,500,000 Danish krone (as of 2016-11-30) |
-| Total Equity | 1,421,600,000 Danish krone (as of 2016-05-31) |
 | Industry | electronics |
 | Product Or Material Produced | sound engineering, video technology |
 | Encyclopædia Britannica Online Id | topic/Bang-and-Olufsen |
@@ -142,4 +163,24 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.85B (1,853,000,000 Danish krone (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.85B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,046 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $3.05B | as of 2016-11-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $1.42B | as of 2016-05-31 | [1B-10B](/total_equity_buckets/1b-10b/) |

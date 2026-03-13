@@ -2,7 +2,7 @@
 title: Daikin
 slug: daikin
 description: ""
-date: "2026-03-05T22:38:39.234908"
+date: "2026-03-13T08:56:59.178208"
 draft: false
 sectors:
   - "home-appliances"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - umeda
+subsidiaries: []
+foundation_dates:
+  - 1924
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: multinational corporation based in Japan
+wikidata_url: "https://www.wikidata.org/wiki/Q1157589"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1157589) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Umeda](/headquarters_locations/umeda/) |
+| Foundation Date | [1924](/foundation_dates/1924/) |
 | Freebase Id | /m/046cdd |
 | Viaf Cluster Id | 150470670 |
 | Isin | JP3481800005 |
@@ -73,7 +93,6 @@ guideline_count: 1
 | Legal Form | kabushiki gaisha |
 | Location Of Formation | Osaka |
 | Industry | electronics |
-| Logo Image | DAIKIN logo.svg |
 | Isni | 0000000101099733 |
 | Ringgold Id | 57905 |
 | Quora Topic Id | Daikin-Industries |
@@ -89,7 +108,6 @@ guideline_count: 1
 | Library Of Congress Authority Id | no2006134318 |
 | Ror Id | 013p9v583 |
 | Member Of | Wi-Fi Alliance, SD Association |
-| Employees | 56,240 |
 | Image | OSAKA UMEDA TWIN TOWERS SOUTH.jpg |
 | X (Twitter) Username | daikinmexico (as of 2020-06-15, from 2016-03-11), DaikinIndia (as of 2020-06-16, from 2011-09-15), DaikinEurope (as of 2020-06-16, from 2009-09-23), Daikin_Aus (as of 2022-11-28, from 2012-10-17) |
 | Instagram Username | daikinitaly, daikinsg, daikin.india, daikinmalaysia, daikin_polska |
@@ -105,3 +123,9 @@ guideline_count: 1
 | Youtube Channel Id | UCB6KPIruwgszMkPCVYhas4A (as of 2025-06-22, from 2016-03-02), UCXj3uHl6MRyy2mmfq7zsHMg (as of 2025-06-22, from 2016-07-21) |
 | Pci Vendor Id | 1472 |
 | Threads Username | daikin.india |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 56,240 | - | [50K-100K](/employees_buckets/50k-100k/) |

@@ -2,7 +2,7 @@
 title: Deerfield Academy
 slug: "deerfield-academy"
 description: ""
-date: "2026-03-05T22:38:39.377803"
+date: "2026-03-13T08:56:59.337460"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1797
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "independent, boarding and day school in Deerfield, Massachusetts, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q5250893"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +96,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5250893) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1797](/foundation_dates/1797/) |
 | Coordinate Location | 42.5464, -72.6053 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Deerfield |
@@ -110,8 +128,13 @@ guideline_count: 1
 | Area | 330 acre, 1,335,000 square metre |
 | Count Of Students | 650 |
 | Street Address | 7 Boyden Lane |
-| Employees | 150 |
 | Color | green, white |
 | Nickname | Big Green |
 | Budget | 74,440, 53,860 |
 | Official Name | Deerfield Academy and Dickinson High School (from 1876, until 1923) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 150 | - | [100-1K](/employees_buckets/100-1k/) |

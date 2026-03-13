@@ -2,7 +2,7 @@
 title: IWWF
 slug: iwwf
 description: ""
-date: "2026-03-05T22:38:39.732784"
+date: "2026-03-13T08:56:59.772178"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - geneva
+subsidiaries: []
+foundation_dates:
+  - 1955
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,17 +51,19 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - blue
-  - red
   - green
+  - red
   - yellow
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: international sport governing body
+wikidata_url: "https://www.wikidata.org/wiki/Q1111087"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -82,6 +95,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1111087) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/) |
+| Foundation Date | [1955](/foundation_dates/1955/) |
 | Headquarters Location | Geneva |
 | Inception | 1955 |
 | Facebook Username | IWWFED |

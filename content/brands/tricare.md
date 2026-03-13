@@ -2,11 +2,11 @@
 title: Tricare
 slug: tricare
 description: ""
-date: "2026-03-05T22:38:39.721969"
+date: "2026-03-13T08:56:59.741272"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
+  - healthcare
 regions:
   - usa
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,38 +49,40 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - alternate
   - secondary
-  - wordmark
+  - primary
+  - alternate
   - vertical
+  - symbol
+  - wordmark
 brand_colors:
   - white
-  - "pantone-280"
   - red
-  - "pantone-186"
-  - orange
-  - black
-  - yellow
   - blue
+  - "pantone-280"
+  - yellow
+  - "pantone-186"
+  - black
+  - orange
   - gray
 typographies:
-  - serif
   - futura
-  - "sans-serif"
-  - garamond
   - arial
+  - garamond
   - display
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: health care program of the United States Department of Defense Military Health System
+wikidata_url: "https://www.wikidata.org/wiki/Q4591458"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -142,6 +154,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4591458) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1956](/foundation_dates/1956/) |
 | Quora Topic Id | Tricare, Tricare-Prime |
 | Inception | 1956-01-01 |
 | Subreddit | tricare (as of 2020-10-08, from 2016-04-15) |
@@ -152,7 +169,6 @@ guideline_count: 1
 | Operator | Defense Health Agency |
 | Social Media Followers | 35,787 (as of 2021-01-04), 35,148 (as of 2022-02-21), 35,226 (as of 2023-02-08) |
 | Freebase Id | /m/08jjkl |
-| Logo Image | US-TRICARE-Logo.svg |
 | Viaf Cluster Id | 125467137 |
 | Library Of Congress Authority Id | n78006473 |
 | Parent Organization Or Unit | Military Health System |

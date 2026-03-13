@@ -2,7 +2,7 @@
 title: UVA Wise
 slug: "uva-wise"
 description: ""
-date: "2026-03-05T22:38:39.556048"
+date: "2026-03-13T08:56:59.478011"
 draft: false
 sectors:
   - university
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1954
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,26 +53,28 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-186"
-  - orange
-  - black
-  - cyan
   - blue
-  - gray
   - purple
+  - "pantone-186"
+  - black
+  - orange
+  - gray
+  - cyan
 typographies:
-  - bodoni
   - gotham
+  - bodoni
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
   - gradient
+  - bold
 wikidata_description: "American college (1999-)"
+wikidata_url: "https://www.wikidata.org/wiki/Q128111"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +119,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q128111) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1954](/foundation_dates/1954/) |
 | Coordinate Location | 36.9725, -82.5561 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Virginia, Wise County, Wise |
@@ -131,7 +149,6 @@ guideline_count: 1
 | Ror Id | 04hx5st34 |
 | Member Of | Council of Public Liberal Arts Colleges, Association of American Colleges and Universities, American Council on Education |
 | Social Media Followers | 3,639 (as of 2021-01-10) |
-| Employees | 364 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Musicbrainz Place Id | bdccafc0-abd4-4005-b436-113899ca50af |
@@ -143,7 +160,12 @@ guideline_count: 1
 | Sevis School Id | 7447 |
 | Athletics Program | UVA Wise Cavaliers |
 | Kisti Id | K000208055 |
-| Logo Image | Uva wise textlogo.png |
 | Image | UVA-Wise 2020 - 50602040573.jpg |
 | Web Feed Url | https://www.uvawise.edu/rss.xml |
 | Threads Username | uva_wise |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 364 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

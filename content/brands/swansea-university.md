@@ -2,7 +2,7 @@
 title: Swansea University
 slug: "swansea-university"
 description: ""
-date: "2026-03-05T22:38:39.532766"
+date: "2026-03-13T08:56:59.466074"
 draft: false
 sectors:
   - university
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1920
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,22 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
-  - crest
+  - primary
   - horizontal
+  - crest
 brand_colors:
   - white
-  - blue
   - "pantone-662"
+  - blue
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: "public research university located in Swansea, Wales, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q1420500"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1420500) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1920](/foundation_dates/1920/) |
 | Coordinate Location | 51.609722222222224, -3.9805555555555556 |
 | Topic'S Main Category | Category:Swansea University |
 | Freebase Id | /m/01v3k2 |
@@ -136,7 +154,6 @@ guideline_count: 1
 | Viaf Cluster Id | 142940247, 127618199 |
 | Microsoft Academic Id (Discontinued) | 39586589 |
 | Count Of Students | 18,445 |
-| Employees | 2,500, 3,045 (as of 2017), 3,405 (as of 2018), 2,798 (as of 2016), 3,652 (as of 2019) (+3 more) |
 | Library Of Congress Authority Id | n80094273, nb2008023740, no98090563 |
 | Ringgold Id | 7759 |
 | Hal Structure Id | 322817 |
@@ -174,13 +191,28 @@ guideline_count: 1
 
 ### Revenue History
 
-- $278.15M (278,153,000 pound sterling (as of 2017))
-- $308.22M (308,217,000 pound sterling (as of 2018))
-- $296.29M (296,292,000 pound sterling (as of 2016))
-- $352.30M (352,300,000 pound sterling (as of 2019))
-- $317.50M (317,501,000 pound sterling (as of 2020))
-- $360.67M (360,665,000 pound sterling (as of 2021))
-- $340.09M (340,086,000 pound sterling (as of 2022))
-- $412.63M (412,628,000 pound sterling (as of 2023))
-- $381.61M (381,610,000 pound sterling (as of 2024))
-- $325.64M (325,645,000 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $278.15M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $308.22M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $296.29M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $352.30M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $317.50M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $360.67M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $340.09M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $412.63M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $381.61M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $325.64M | as of 2025 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,500 | - | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,045 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,405 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,798 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,652 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,643 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,661 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,448 | as of 2025 | [1K-10K](/employees_buckets/1k-10k/) |

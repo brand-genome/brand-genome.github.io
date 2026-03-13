@@ -2,11 +2,11 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-03-05T22:38:39.803936"
+date: "2026-03-13T08:56:59.859430"
 draft: false
 sectors:
-  - automobile
   - "renewable-energy"
+  - automobile
 regions:
   - usa
 years:
@@ -14,21 +14,37 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
   - corporate
+  - featured
 industries:
-  - "battery-industry"
   - "automotive-industry"
   - "solar-industry"
+  - "battery-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "500m-1b"
+  - "500M-1B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets:
+  - "500B-1T"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "palo-alto"
+  - austin
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +63,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - symbol
   - vertical
+  - primary
+  - wordmark
+  - symbol
 brand_colors:
   - red
   - black
@@ -58,10 +74,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "American automotive, energy storage and solar power company"
+wikidata_url: "https://www.wikidata.org/wiki/Q478214"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,6 +106,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q478214) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Austin](/headquarters_locations/austin/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Industry | automotive industry, solar industry, battery industry |
 | Founded By | Martin Eberhard, Marc Tarpenning |
 | Named After | Nikola Tesla |
@@ -99,7 +123,6 @@ guideline_count: 1
 | Inception | 2003-07-01 |
 | Freebase Id | /m/0dr90d |
 | Isin | US88160R1014 |
-| Employees | 7,000 (as of 2014-01-01), 12,000 (as of 2015-06), 13,058 (as of 2015-12-31), 10,161 (as of 2014-12-31), 2,964 (as of 2012-12-31) (+12 more) |
 | X (Twitter) Username | TeslaMotors (until 2017), Tesla (from 2017) |
 | Instagram Username | teslamotors |
 | Viaf Cluster Id | 128492563 |
@@ -113,7 +136,6 @@ guideline_count: 1
 | Google+ Id | +TeslaMotors |
 | Gnd Id | 111610105X |
 | Quora Topic Id | Tesla-Motors-company, TeslaMotors-1, Tesla-Inc |
-| Total Assets | 8,092,460,000 United States dollar (as of 2015-12-31), 5,849,251,000 United States dollar (as of 2014-12-31), 22,664,076,000 United States dollar (as of 2016-12-31), 28,655,372,000 United States dollar (as of 2017-12-31), 29,739,614,000 United States dollar (as of 2018-12-31) (+2 more) |
 | Isni | 0000000449079987, 0000000480590900 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.49279 |
 | Eu Transparency Register Id | 547225616323-13 |
@@ -134,7 +156,6 @@ guideline_count: 1
 | Part Of | Natur-Aktien-Index (from 2016-02-09), S&P 500, Nasdaq-100, Dow Jones Global Titans 50, S&P 100 |
 | Chairperson | Elon Musk (from 2004-04, until 2018-11), Robyn Denholm (from 2018-11) |
 | Different From | Tesla, TSLAQ, Tesla |
-| Total Equity | 4,923,443,000 United States dollar (as of 2018-12-31), 4,237,242,000 United States dollar (as of 2017-12-31), 22,225,000,000 United States dollar (as of 2020), 30,189,000,000 United States dollar (as of 2021-12-31) |
 | Country Of Origin | United States |
 | Zhihu Topic Id | 19759915 |
 | Ror Id | 02kpcqm42 |
@@ -146,7 +167,6 @@ guideline_count: 1
 | Omni Topic Id | ab06ff2d4d1b949ba0dd5366402d9b032674ad96 |
 | Iso 9362 Swift/Bic Code | TSLAUS66XXX, TSLAUS66 |
 | Osm Name Suggestion Index Id | tesla-048197, tesla-36c4af, tesla-6f8a39, tesla-7b0614, tesla-7c40a3 (+4 more) |
-| Market Capitalization | 635,180,000,000 United States dollar (as of 2021-04-04), 644,030,000,000 United States dollar (as of 2021-04-08), 656,350,000,000 United States dollar (as of 2020), 710,080,000,000 United States dollar (as of 2021-04-18), 568,110,000,000 United States dollar (as of 2021-05-16) (+9 more) |
 | Downdetector Id | tesla |
 | Bbc News Topic Id | c8nq32jwjnmt |
 | Board Member | Elon Musk (from 2004), Robyn Denholm (from 2014), Larry Ellison (from 2018, until 2022-08-04), Ira Ehrenpreis (from 2007), Hiromichi Mizuno (from 2020-04, until 2023-05) (+5 more) |
@@ -171,7 +191,6 @@ guideline_count: 1
 | Seek Company Id | 813637 |
 | Central Index Key | 0001318605 |
 | Indeed Company Id | Tesla |
-| Logo Image | Tesla Motors.svg, Tesla, Inc. - Logo (shield version 1, black).svg, Tesla Motors Logo.svg, Tesla, Inc. - Logo (black script version).svg |
 | Namuwiki Id | 테슬라(기업) |
 | Image | Tesla Visit 3 (9267529364).jpg, Gigafactory Texas Building 1 June 2022.jpg (as of 2022-06-01) |
 | Affiliated Worker Organisation | Tesla and unions |
@@ -230,57 +249,125 @@ guideline_count: 1
 
 ### Revenue History
 
-- $4.05B (4,046,024,000 United States dollar (as of 2015))
-- $3.20B (3,198,356,000 United States dollar (as of 2014))
-- $7.00B (7,000,132,000 United States dollar (as of 2016))
-- $11.76B (11,758,751,000 United States dollar (as of 2017))
-- $21.46B (21,461,268,000 United States dollar (as of 2018))
-- $31.54B (31,536,000,000 United States dollar (as of 2020))
-- $53.82B (53,823,000,000 United States dollar (as of 2021-12-31))
-- $2.01B (2,013,496,000 United States dollar (as of 2013-12-31))
-- $116.74M (116,744,000 United States dollar (as of 2010))
-- $204.24M (204,242,000 United States dollar (as of 2011))
-- $413.26M (413,256,000 United States dollar (as of 2012))
-- $24.58B (24,578,000,000 United States dollar (as of 2019))
-- $81.46B (81,462,000,000 United States dollar (as of 2022))
-- $96.77B (96,773,000,000 United States dollar (as of 2023))
-- $97.69B (97,690,000,000 United States dollar (as of 2024))
-- $94.83B (94,827,000,000 United States dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $4.05B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.20B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.00B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $11.76B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.46B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.54B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $53.82B | as of 2021-12-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $2.01B | as of 2013-12-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $116.74M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $204.24M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $413.26M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $24.58B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $81.46B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $96.77B | as of 2023 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $97.69B | as of 2024 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $94.83B | as of 2025 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $716.63M (-716,629,000 United States dollar (as of 2015))
-- $186.69M (-186,689,000 United States dollar (as of 2014))
-- $667.34M (-667,340,000 United States dollar (as of 2016))
-- $1.63B (-1,632,086,000 United States dollar (as of 2017))
-- $388.07M (-388,073,000 United States dollar (as of 2018))
-- $1.99B (1,994,000,000 United States dollar (as of 2020))
-- $6.52B (6,523,000,000 United States dollar (as of 2021-12-31))
-- $146.84M (-146,838,000 United States dollar (as of 2010))
-- $251.49M (-251,488,000 United States dollar (as of 2011))
-- $394.28M (-394,283,000 United States dollar (as of 2012))
-- $61.28M (-61,283,000 United States dollar (as of 2013))
-- $69.00M (-69,000,000 United States dollar (as of 2019))
-- $13.66B (13,656,000,000 United States dollar (as of 2022))
-- $8.89B (8,891,000,000 United States dollar (as of 2023))
-- $7.08B (7,076,000,000 United States dollar (as of 2024))
-- $4.36B (4,355,000,000 United States dollar (as of 2025))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $716.63M | as of 2015 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $186.69M | as of 2014 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $667.34M | as of 2016 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.63B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $388.07M | as of 2018 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $1.99B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.52B | as of 2021-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $146.84M | as of 2010 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $251.49M | as of 2011 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $394.28M | as of 2012 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $61.28M | as of 2013 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $69.00M | as of 2019 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $13.66B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $8.89B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.08B | as of 2024 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.36B | as of 2025 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $888.66M (-888,663,000 United States dollar (as of 2015))
-- $294.04M (-294,040,000 United States dollar (as of 2014))
-- $674.91M (-674,914,000 United States dollar (as of 2016))
-- $1.96B (-1,961,400,000 United States dollar (as of 2017))
-- $976.09M (-976,091,000 United States dollar (as of 2018))
-- $862.00M (862,000,000 United States dollar (as of 2020))
-- $5.64B (5,644,000,000 United States dollar (as of 2021-12-31))
-- $154.33M (-154,328,000 United States dollar (as of 2010))
-- $254.41M (-254,411,000 United States dollar (as of 2011))
-- $396.21M (-396,213,000 United States dollar (as of 2012))
-- $74.01M (-74,014,000 United States dollar (as of 2013))
-- $862.00M (-862,000,000 United States dollar (as of 2019))
-- $12.56B (12,556,000,000 United States dollar (as of 2022))
-- $15.00B (14,997,000,000 United States dollar (as of 2023))
-- $7.09B (7,091,000,000 United States dollar (as of 2024))
-- $3.79B (3,794,000,000 United States dollar (as of 2025))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $888.66M | as of 2015 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $294.04M | as of 2014 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $674.91M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.96B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $976.09M | as of 2018 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $862.00M | as of 2020 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $5.64B | as of 2021-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $154.33M | as of 2010 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $254.41M | as of 2011 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $396.21M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $74.01M | as of 2013 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $862.00M | as of 2019 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $12.56B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $15.00B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $7.09B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.79B | as of 2025 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 7,000 | as of 2014-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 12,000 | as of 2015-06 | [10K-50K](/employees_buckets/10k-50k/) |
+| 13,058 | as of 2015-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 10,161 | as of 2014-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 2,964 | as of 2012-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,859 | as of 2013-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,417 | as of 2011-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 899 | as of 2010-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 514 | as of 2009-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 17,782 | as of 2016-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 37,543 | as of 2017-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 48,817 | as of 2018-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 70,757 | as of 2020 | [50K-100K](/employees_buckets/50k-100k/) |
+| 99,290 | as of 2021-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 127,855 | as of 2022-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 129,000 | as of 2023-03-01 | [100K-500K](/employees_buckets/100k-500k/) |
+| 140,473 | as of 2023-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $8.09B | as of 2015-12-31 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.85B | as of 2014-12-31 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $22.66B | as of 2016-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $28.66B | as of 2017-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $29.74B | as of 2018-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $52.15B | as of 2020 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $62.13B | as of 2021-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $4.92B | as of 2018-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $4.24B | as of 2017-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $22.23B | as of 2020 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $30.19B | as of 2021-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $635.18B | as of 2021-04-04 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $644.03B | as of 2021-04-08 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $656.35B | as of 2020 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $710.08B | as of 2021-04-18 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $568.11B | as of 2021-05-16 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $602.29B | as of 2021-05-31 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $666.75B | as of 2021-08-20 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $751.91B | as of 2021-09-19 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $1.04T | as of 2021-10-27 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $1.24T | as of 2021-11-05 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $885.70B | as of 2022-02-18 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $1.08T | as of 2022-04-06 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $740.96B | as of 2022-07-15 | [500B-1T](/market_cap_buckets/500b-1t/) |
+| $903.54B | as of 2025-05-01 | [500B-1T](/market_cap_buckets/500b-1t/) |

@@ -2,7 +2,7 @@
 title: Wikimedia Foundation
 slug: "wikimedia-foundation"
 description: ""
-date: "2026-03-05T22:38:39.529675"
+date: "2026-03-13T08:56:59.462764"
 draft: false
 sectors:
   - ngo
@@ -19,10 +19,35 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - wikisource
+  - wiktionary
+  - wikispecies
+  - wikibooks
+  - wikifunctions
+  - wikivoyage
+  - wikipedia
+  - wikinews
+  - "wikimedia-commons"
+  - wikidata
+  - wikiquote
+  - wikiversity
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,16 +70,18 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
-  - serif
   - montserrat
+  - serif
 imagery_styles:
-  - colorful
   - graphic
+  - colorful
 wikidata_description: American charitable organization
+wikidata_url: "https://www.wikidata.org/wiki/Q180"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -297,6 +324,13 @@ RIGHT NOW
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q180) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Wikisource](/products_or_materials_produced/wikisource/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikispecies](/products_or_materials_produced/wikispecies/); [Wikibooks](/products_or_materials_produced/wikibooks/); [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wikiversity](/products_or_materials_produced/wikiversity/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United States |
 | Inception | 2003-06-20 |
 | Founded By | Jimmy Wales |
@@ -305,7 +339,6 @@ RIGHT NOW
 | Viaf Cluster Id | 137022054 |
 | Library Of Congress Authority Id | n2005070272 |
 | Freebase Id | /m/01c7j1 |
-| Employees | 212 (as of 2014-08-01), 265 (as of 2015-05-01), 208 (as of 2014-07), 409 (as of 2020-10-01), 415 (as of 2020-08-12) (+2 more) |
 | Imdb Id | co0205452 |
 | X (Twitter) Username | Wikimedia (as of 2020-08-03, from 2009-10) |
 | Fast Id | 1623176 |
@@ -348,7 +381,6 @@ RIGHT NOW
 | Headquarters Location | San Francisco |
 | Authority | Wikimedia Foundation Board of Trustees |
 | National Library Of Israel Id (Old) | 002126726 |
-| Logo Image | Wikimedia Foundation logo - vertical.svg (from 2016-10), Wikimedia Foundation logo - vertical black (2012-2016).svg (from 2012-03, until 2016-10) |
 | Wikimedia Username | WMFOffice |
 | Isni | 000000046074284X |
 | Position Held By Head Of The Organization | Chief Executive Officer of the Wikimedia Foundation |
@@ -369,7 +401,6 @@ RIGHT NOW
 | Social Media Followers | 81,639 (as of 2021-01-03), 79,814 (as of 2020-08-03), 88,060 (as of 2022-03-01), 92,018 (as of 2023-02-06), 93,412 (as of 2023-08-28) (+4 more) |
 | Namuwiki Id | 위키미디어 재단 |
 | Owner Of | Wikipedia, Wikisource, Wikibooks, Wikiquote, Wikiversity (+6 more) |
-| Total Assets | 120,524,697 United States dollar (as of 2017-06-30), 145,850,778 United States dollar (as of 2018-06-30), 176,019,709 United States dollar (as of 2019-06-30), 191,262,962 United States dollar (as of 2020-06-30), 240,235,101 United States dollar (as of 2021-06-30) (+9 more) |
 | National Library Of Israel J9U Id | 987007572733205171 |
 | Has Part(S) | Wikimedia Foundation elections committee, Funds Dissemination Committee, Machine Learning Team, Wikimedia Foundation Board of Trustees, Wikimedia Performance Team |
 | Payment Types Accepted | Coinbase (from 2014-07-30, until 2018-04), BitPay |
@@ -437,28 +468,63 @@ RIGHT NOW
 
 ### Revenue History
 
-- $89.97M (89,973,967 United States dollar (as of 2017-01-01))
-- $101.58M (101,575,555 United States dollar (as of 2018))
-- $118.59M (118,585,500 United States dollar (as of 2019))
-- $162.89M (162,886,686 United States dollar (as of 2021-01-01))
-- $129.23M (129,234,327 United States dollar (as of 2020-01-01))
-- $154.69M (154,686,521 United States dollar (as of 2022))
-- $180.18M (180,175,103 United States dollar (as of 2023))
-- $27.19M (27,191,806 United States dollar (as of 2011))
-- $39.70M (39,702,445 United States dollar (as of 2012))
-- $45.67M (45,667,316 United States dollar (as of 2013))
-- $52.99M (52,990,491 United States dollar (as of 2014))
-- $78.13M (78,127,085 United States dollar (as of 2015))
-- $78.69M (78,691,737 United States dollar (as of 2016))
-- $185.42M (185,418,243 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $89.97M | as of 2017-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $101.58M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $118.59M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $162.89M | as of 2021-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $129.23M | as of 2020-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $154.69M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $180.18M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $27.19M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $39.70M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $45.67M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $52.99M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.13M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.69M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $185.42M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $20.90M (20,897,775 United States dollar (as of 2017))
-- $22.84M (22,844,336 United States dollar (as of 2018))
-- $28.53M (28,530,523 United States dollar (as of 2019))
-- $12.47M (12,469,145 United States dollar (as of 2020))
-- $51.05M (51,046,867 United States dollar (as of 2021-01-01))
-- $16.74M (16,744,930 United States dollar (as of 2020-01-01))
-- $8.17M (8,173,996 United States dollar (as of 2022))
-- $15.62M (15,619,804 United States dollar (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $20.90M | as of 2017 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $22.84M | as of 2018 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $28.53M | as of 2019 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $12.47M | as of 2020 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $51.05M | as of 2021-01-01 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $16.74M | as of 2020-01-01 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $8.17M | as of 2022 | [1M-10M](/net_profit_buckets/1m-10m/) |
+| $15.62M | as of 2023 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 212 | as of 2014-08-01 | [100-1K](/employees_buckets/100-1k/) |
+| 265 | as of 2015-05-01 | [100-1K](/employees_buckets/100-1k/) |
+| 208 | as of 2014-07 | [100-1K](/employees_buckets/100-1k/) |
+| 409 | as of 2020-10-01 | [100-1K](/employees_buckets/100-1k/) |
+| 415 | as of 2020-08-12 | [100-1K](/employees_buckets/100-1k/) |
+| 450 | as of 2021-10-10 | [100-1K](/employees_buckets/100-1k/) |
+| 700 | as of 2023-11-03 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $120.52M | as of 2017-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $145.85M | as of 2018-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $176.02M | as of 2019-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $191.26M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $240.24M | as of 2021-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $250.97M | as of 2022-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $274.12M | as of 2023-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $26.17M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $37.21M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $48.15M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $60.56M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $82.75M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $97.64M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $286.76M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

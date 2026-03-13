@@ -2,7 +2,7 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-03-05T22:38:39.335733"
+date: "2026-03-13T08:56:59.290260"
 draft: false
 sectors:
   - cruise
@@ -18,11 +18,25 @@ tags:
 industries:
   - tourism
 countries:
-  - italy
   - switzerland
+  - italy
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - cruising
+products: []
+headquarters_locations:
+  - genoa
+  - geneva
+  - naples
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: cruise line
+wikidata_url: "https://www.wikidata.org/wiki/Q663626"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +82,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q663626) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Cruising](/products_or_materials_produced/cruising/) |
+| Headquarters Location | [Genoa](/headquarters_locations/genoa/); [Geneva](/headquarters_locations/geneva/); [Naples](/headquarters_locations/naples/) |
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:MSC Cruises |
 | Freebase Id | /m/04q7d8 |
 | Headquarters Location | Geneva, Genoa, Naples |
@@ -78,7 +101,6 @@ guideline_count: 1
 | Country | Italy, Switzerland |
 | Motto Text | Not just any Cruise, Nicht irgendeine Kreuzfahrt |
 | X (Twitter) Username | MSCCruisesUSA (as of 2020-04-26, from 2009-04-07) |
-| Logo Image | MSC Cruises Logo.png |
 | Industry | tourism |
 | Facebook Username | MSC.Cruises.Deutschland |
 | Instagram Username | msccruisesofficial |

@@ -2,7 +2,7 @@
 title: University of Alabama
 slug: "university-of-alabama"
 description: ""
-date: "2026-03-05T22:38:39.505448"
+date: "2026-03-13T08:56:59.429538"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tuscaloosa
+subsidiaries: []
+foundation_dates:
+  - 1831
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,26 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - white
-  - crimson
-  - black
+  - gray
   - "pantone-430"
   - silver
+  - black
   - "pantone-201"
-  - gray
+  - crimson
 typographies:
-  - script
   - serif
+  - script
   - "sans-serif"
 imagery_styles: []
 wikidata_description: "public university located in Tuscaloosa, Alabama, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q492318"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q492318) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tuscaloosa](/headquarters_locations/tuscaloosa/) |
+| Foundation Date | [1831](/foundation_dates/1831/) |
 | Country | United States |
 | Coordinate Location | 33.210833333333, -87.546111111111 |
 | Topic'S Main Category | Category:University of Alabama |
@@ -139,11 +159,9 @@ guideline_count: 1
 | U Multirank University Id | university-of-alabama-tuscaloosa |
 | Archinform Keyword Id | 3085 |
 | Significant Event | mixed-sex education (from 1893) |
-| Logo Image | University of Alabama logo.svg |
 | Owner Of | Bryant–Denny Stadium, Alabama Public Radio, Coleman Coliseum, Denny Chimes, Denny Field (+8 more) |
 | Microsoft Academic Id (Discontinued) | 17301866 |
 | Count Of Students | 37,100, 59,226 (as of 2021-09-01), 40,846 (as of 2024-09-13) |
-| Employees | 7,472 (as of 2023), 7,169 (as of 2022) |
 | Street Address | 739 University Blvd, Tuscaloosa, AL, 35487-0166 |
 | Musicbrainz Place Id | 248f0b72-aa41-4ced-abff-1d8952dbd55a |
 | Facebook Username | UniversityofAlabama |
@@ -202,3 +220,10 @@ guideline_count: 1
 | Athletics Program | Alabama Crimson Tide |
 | The Advocate Tag Id | university-of-alabama |
 | Err Keyword Id | 22346651 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 7,472 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,169 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: "Carson-Newman University"
 slug: "carson-newman-university"
 description: ""
-date: "2026-03-05T22:38:39.193412"
+date: "2026-03-13T08:56:59.128241"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1851
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "education organization in Jefferson City, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q3445010"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3445010) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1851](/foundation_dates/1851/) |
 | Coordinate Location | 36.121944444444, -83.492222222222 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Jefferson City |
@@ -81,7 +100,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Carson–Newman University alumni |
 | Grid Id | grid.448673.a, grid.432998.d |
 | Category For Employees Of The Organization | Category:Carson–Newman University faculty |
-| Logo Image | Carson–Newman logo.png |
 | Microsoft Academic Id (Discontinued) | 233299441 |
 | Street Address | 1646 S Russell Ave, Jefferson City, TN, 37760 |
 | Library Of Congress Authority Id | n82135263 |
@@ -91,9 +109,7 @@ guideline_count: 1
 | Ringgold Id | 4140 |
 | Social Media Followers | 4,527 (as of 2021-01-07), 4,394 (as of 2020-04-19) |
 | Count Of Students | 2,911 (as of 2020-09) |
-| Total Assets | 146,955,025 United States dollar (as of 2020-06-30) |
 | Endowment | 62,731,421 United States dollar (as of 2020-06-30) |
-| Employees | 458 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Idref Id | 152948821 |
@@ -106,3 +122,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/fe17fa5a-47cc-41a0-ad71-09afcd302ac1 |
 | Image | Stephens-Burnett Memorial Library 2.jpg |
 | Athletics Program | Carson–Newman Eagles |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 458 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $146.96M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

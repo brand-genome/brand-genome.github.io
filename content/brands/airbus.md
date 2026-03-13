@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-03-05T22:38:39.251087"
+date: "2026-03-13T08:56:59.194223"
 draft: false
 sectors:
-  - satellite
   - defense
   - aerospace
+  - satellite
 regions:
   - europe
 years:
@@ -21,11 +21,36 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - "airbus-a220"
+  - aircraft
+  - airplane
+  - "airbus-a380"
+  - "airbus-a320-family"
+  - "airbus-a350"
+  - "airbus-a340"
+  - "airbus-a330"
+  - "airbus-a310"
+  - "airbus-a300"
+products: []
+headquarters_locations:
+  - blagnac
+subsidiaries: []
+foundation_dates:
+  - 1970
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +72,20 @@ logo_elements:
   - logomark
 brand_colors:
   - white
-  - blue
   - grey
   - black
+  - blue
 typographies:
   - arial
 imagery_styles:
   - bold
 wikidata_description: "European aircraft manufacturer, subsidiary of Airbus SE"
+wikidata_url: "https://www.wikidata.org/wiki/Q67"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,13 +141,19 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q67) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Airbus A220](/products_or_materials_produced/airbus-a220/); [Aircraft](/products_or_materials_produced/aircraft/); [Airplane](/products_or_materials_produced/airplane/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A300](/products_or_materials_produced/airbus-a300/) |
+| Headquarters Location | [Blagnac](/headquarters_locations/blagnac/) |
+| Foundation Date | [1970](/foundation_dates/1970/); [1969](/foundation_dates/1969/) |
 | Headquarters Location | Blagnac |
 | Chief Executive Officer | Tom Enders (from 2012, until 2019), Guillaume Faury (from 2019-04-10) |
 | Child Organization Or Unit | Airbus Transport International, Airbus Operations S.A.S., Airbus ProSky, Metron Aviation, Tarmac Aerosave (+5 more) |
 | Topic'S Main Category | Category:Airbus |
 | Member Of | Aerospace Valley, GIFAS, Linux Foundation, CVE Numbering Authority, Association of German Airports |
 | Freebase Id | /m/015zfz |
-| Logo Image | Logo Airbus 2014.svg (from 2014-01-01, until 2016-12-31), Airbus Logo 2017.svg (from 2017-01-01) |
 | X (Twitter) Username | Airbus (from 2008-07-14), AirbusPRESS (from 2011-04-14) |
 | Country | France |
 | Pronunciation Audio | Airbus2.ogg, De-Airbus.ogg |
@@ -165,7 +198,6 @@ guideline_count: 2
 | Hrvatska Enciklopedija Id | 1004 |
 | De Agostini Id | Airbus+Industrie |
 | Iso 9362 Swift/Bic Code | AIRBFR22XXX |
-| Employees | 80,895 (as of 2019-12-31) |
 | Kbpedia Id | Airbus |
 | Golden Id | Airbus-EDEMMN |
 | Linkedin Company Or Organization Id | airbusgroup |
@@ -176,8 +208,6 @@ guideline_count: 2
 | Europalexikon Id | 176665 |
 | Egapro Gender Equality Index | 89 (as of 2020-01-01), 88 (as of 2018-01-01), 88 |
 | Crunchbase Organization Id | airbus-2 |
-| Total Equity | 3,650,000,000 euro |
-| Total Assets | 111,130,000,000 euro (as of 2016) |
 | Lex Id | Airbus |
 | Google News Topics Id | CAAqIQgKIhtDQkFTRGdvSUwyMHZNRzR6ZEdJU0FtVnVLQUFQAQ |
 | Great Norwegian Encyclopedia Id | Airbus |
@@ -217,12 +247,36 @@ guideline_count: 2
 
 ### Revenue History
 
-- $11.05B (11,050,000,000 United States dollar (as of 2019-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $11.05B | as of 2019-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $4.25B (4,253,000,000 euro (as of 2017))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $4.25B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $2.87B (2,873,000,000 (as of 2017))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $2.87B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 80,895 | as of 2019-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $111.13B | as of 2016 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $3.65B | - | [1B-10B](/total_equity_buckets/1b-10b/) |

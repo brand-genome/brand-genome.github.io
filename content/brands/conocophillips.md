@@ -2,11 +2,11 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-03-05T22:38:39.213461"
+date: "2026-03-13T08:56:59.151289"
 draft: false
 sectors:
-  - oil
   - gas
+  - oil
 regions:
   - usa
 years:
@@ -20,11 +20,26 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - gasoline
+products: []
+headquarters_locations:
+  - houston
+subsidiaries: []
+foundation_dates:
+  - 1875
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +63,24 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
+  - black
+  - orange
+  - gray
 typographies:
   - impact
 imagery_styles:
-  - professional
   - gradient
+  - professional
 wikidata_description: American oil and gas company
+wikidata_url: "https://www.wikidata.org/wiki/Q214763"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +141,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q214763) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Gasoline](/products_or_materials_produced/gasoline/) |
+| Headquarters Location | [Houston](/headquarters_locations/houston/) |
+| Foundation Date | [1875](/foundation_dates/1875/) |
 | Stock Exchange | New York Stock Exchange |
 | Topic'S Main Category | Category:ConocoPhillips |
 | Freebase Id | /m/01vc1k |
@@ -132,12 +156,10 @@ guideline_count: 2
 | Isin | US20825C1045 |
 | Inception | 1875 |
 | Child Organization Or Unit | Phillips Petroleum Company, Burlington Resources, ConocoPhillips Alaska, ConocoPhillips (Canada), ConocoPhillips (Qatar) (+1 more) |
-| Employees | 39,000, 10,800 (as of 2018-12-31) |
 | Legal Entity Identifier | WPTL2Z3FIYTHSP5V2253 |
 | Great Russian Encyclopedia Online Id (2017) | 2090938 |
 | Isni | 0000000103591836 |
 | Country | United States |
-| Total Assets | 69,980,000,000 United States dollar (as of 2018-12-31), 73,362,000,000 United States dollar (as of 2017-12-31), 89,772,000,000 United States dollar (as of 2016-12-31), 97,484,000,000 United States dollar (as of 2015-12-31), 116,539,000,000 United States dollar (as of 2014-12-31) |
 | Founded By | Frank Phillips |
 | Industry | petroleum industry |
 | Part Of | S&P 500, S&P 100 |
@@ -150,7 +172,6 @@ guideline_count: 2
 | Grid Id | grid.453595.b |
 | Owner Of | Theddlethorpe Gas Terminal |
 | Microsoft Academic Id (Discontinued) | 24101674 |
-| Logo Image | ConocoPhillips Logo.svg |
 | Ringgold Id | 3994 |
 | Ror Id | 04hadnb81 |
 | Library Of Congress Authority Id | no2004091646 |
@@ -164,7 +185,6 @@ guideline_count: 2
 | Board Member | Charles Bunch (from 2014, until 2022), John V. Faraci (from 2015, until 2022), Jody Freeman (from 2012), Ryan Lance (from 2012), Robert Niblock (from 2010) (+11 more) |
 | Owned By | The Vanguard Group (as of 2019-04-01), BlackRock (as of 2019-04-01), Capital Group Companies (as of 2019-04-01) |
 | Irs Employer Identification Number | 01-0562944 |
-| Total Equity | 32,064,000,000 United States dollar (as of 2018-12-31), 30,801,000,000 United States dollar (as of 2017-12-31) |
 | Official Name | ConocoPhillips |
 | Hrvatska Enciklopedija Id | 12379 |
 | Director / Manager | Ryan Lance |
@@ -186,53 +206,83 @@ guideline_count: 2
 
 ### Revenue History
 
-- $64.41B (64,409,000,000 United States dollar (as of 2010))
-- $36.42B (36,417,000,000 United States dollar (as of 2018-01-01))
-- $29.11B (29,106,000,000 United States dollar (as of 2017-01-01))
-- $23.69B (23,693,000,000 United States dollar (as of 2016-01-01))
-- $29.56B (29,564,000,000 United States dollar (as of 2015-01-01))
-- $52.52B (52,524,000,000 United States dollar (as of 2014-01-01))
-- $36.67B (36,670,000,000 United States dollar (as of 2019))
-- $19.26B (19,256,000,000 United States dollar (as of 2020))
-- $48.35B (48,349,000,000 United States dollar (as of 2021))
-- $50.60B (50,605,000,000 United States dollar (as of 2009))
-- $66.07B (66,069,000,000 United States dollar (as of 2011))
-- $62.00B (62,004,000,000 United States dollar (as of 2012))
-- $58.25B (58,248,000,000 United States dollar (as of 2013))
-- $78.49B (78,494,000,000 United States dollar (as of 2022))
-- $56.14B (56,141,000,000 United States dollar (as of 2023))
-- $54.74B (54,745,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $64.41B | as of 2010 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $36.42B | as of 2018-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.11B | as of 2017-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.69B | as of 2016-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.56B | as of 2015-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $52.52B | as of 2014-01-01 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $36.67B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.26B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $48.35B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $50.60B | as of 2009 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $66.07B | as of 2011 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $62.00B | as of 2012 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $58.25B | as of 2013 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $78.49B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $56.14B | as of 2023 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $54.74B | as of 2024 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $7.24B (-7,239,000,000 United States dollar (as of 2015))
-- $5.53B (-5,530,000,000 United States dollar (as of 2016))
-- $2.62B (-2,615,000,000 United States dollar (as of 2017))
-- $9.97B (9,973,000,000 United States dollar (as of 2018))
-- $9.52B (9,524,000,000 United States dollar (as of 2019))
-- $3.14B (-3,140,000,000 United States dollar (as of 2020))
-- $12.71B (12,712,000,000 United States dollar (as of 2021))
-- $28.23B (28,228,000,000 United States dollar (as of 2022))
-- $16.29B (16,288,000,000 United States dollar (as of 2023))
-- $13.67B (13,672,000,000 United States dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $7.24B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.53B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.62B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $9.97B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $9.52B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.14B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $12.71B | as of 2021 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $28.23B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $16.29B | as of 2023 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $13.67B | as of 2024 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $11.36B (11,358,000,000 United States dollar (as of 2010))
-- $6.30B (6,305,000,000 United States dollar (as of 2018-01-01))
-- $793.00M (-793,000,000 United States dollar (as of 2017-01-01))
-- $3.56B (-3,559,000,000 United States dollar (as of 2016-01-01))
-- $4.37B (-4,371,000,000 United States dollar (as of 2015-01-01))
-- $6.94B (6,938,000,000 United States dollar (as of 2014-01-01))
-- $11.89B (11,891,000,000 United States dollar (as of 2007))
-- $16.35B (-16,349,000,000 United States dollar (as of 2008))
-- $4.41B (4,414,000,000 United States dollar (as of 2009))
-- $12.44B (12,436,000,000 United States dollar (as of 2011))
-- $8.43B (8,428,000,000 United States dollar (as of 2012))
-- $9.16B (9,156,000,000 United States dollar (as of 2013))
-- $7.19B (7,189,000,000 United States dollar (as of 2019))
-- $2.70B (-2,701,000,000 United States dollar (as of 2020))
-- $8.08B (8,079,000,000 United States dollar (as of 2021))
-- $18.68B (18,680,000,000 United States dollar (as of 2022))
-- $10.96B (10,957,000,000 United States dollar (as of 2023))
-- $9.24B (9,245,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $11.36B | as of 2010 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $6.30B | as of 2018-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $793.00M | as of 2017-01-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $3.56B | as of 2016-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.37B | as of 2015-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.94B | as of 2014-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.89B | as of 2007 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $16.35B | as of 2008 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $4.41B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $12.44B | as of 2011 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $8.43B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.16B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.19B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.70B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.08B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $18.68B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $10.96B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $9.24B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 39,000 | - | [10K-50K](/employees_buckets/10k-50k/) |
+| 10,800 | as of 2018-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $69.98B | as of 2018-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $73.36B | as of 2017-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $89.77B | as of 2016-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $97.48B | as of 2015-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $116.54B | as of 2014-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $32.06B | as of 2018-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $30.80B | as of 2017-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |

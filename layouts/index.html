@@ -14,22 +14,6 @@
     </div>
 </section>
 
-<section class="home-about">
-    <h2>About</h2>
-    <div class="about-content">
-        <p>
-            We have a grand vision to transform marketing — to fundamentally change how people communicate 
-            and how they conduct business. Brand Genome is the first and most comprehensive initiative 
-            that takes a systematic approach to understanding brand identity at scale.
-        </p>
-        <p>
-            By mapping the DNA of thousands of brands through their visual language, guidelines, and 
-            promotional content, we're building a knowledge graph that reveals the hidden patterns 
-            and connections that define successful brand communication.
-        </p>
-    </div>
-</section>
-
 <section class="home-stats">
     <div class="stat-card">
         <span class="stat-number">{{ len (where .Site.RegularPages "Section" "brands") }}</span>
@@ -107,6 +91,10 @@
 
 <section class="home-visual">
     <h2>👁️ Visual Attributes</h2>
+    <p class="visual-attributes-intro">
+        Visual attributes are the measurable visual signals used in brand communication, including lighting, perspective, concepts, and human presentation cues.
+        Together, they form the observable "visual DNA" that helps compare brands across industries and over time.
+    </p>
     
     <div class="explore-grid">
         <div class="explore-card visual">
@@ -168,36 +156,5 @@
         {{ end }}
     </div>
     <a href="{{ "/brands/" | relURL }}" class="see-all-btn">Browse all brands →</a>
-</section>
-
-<section class="home-collaborators">
-    <h2>Development</h2>
-    <p class="development-origin">BrandGenome originated at Adobe MDSR Labs, IIITD MIDAS Labs</p>
-    <div class="collaborators-grid">
-        <div class="collaborator-card">
-            <span class="collaborator-name">Varun Khurana</span>
-            <span class="collaborator-affiliation">Adobe Research, India</span>
-        </div>
-        <div class="collaborator-card">
-            <span class="collaborator-name">Vashu Chauhan</span>
-            <span class="collaborator-affiliation">IIIT Delhi, India</span>
-        </div>
-        <div class="collaborator-card">
-            <span class="collaborator-name">Yaman Kumar Singla</span>
-            <span class="collaborator-affiliation">Adobe Research, India</span>
-        </div>
-        <div class="collaborator-card">
-            <span class="collaborator-name">Rajiv Ratn Shah</span>
-            <span class="collaborator-affiliation">IIIT Delhi, India</span>
-        </div>
-        <div class="collaborator-card">
-            <span class="collaborator-name">Teja Reddy</span>
-            <span class="collaborator-affiliation">Northeastern University, USA</span>
-        </div>
-        <div class="collaborator-card">
-            <span class="collaborator-name">Divya Chaudhary</span>
-            <span class="collaborator-affiliation">Northeastern University, USA</span>
-        </div>
-    </div>
 </section>
 {{ end }}

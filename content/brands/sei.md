@@ -2,11 +2,11 @@
 title: SEI
 slug: sei
 description: ""
-date: "2026-03-05T22:38:39.722814"
+date: "2026-03-13T08:56:59.742101"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - sweden
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1790
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French department
+wikidata_url: "https://www.wikidata.org/wiki/Q12758"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +73,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12758) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1790](/foundation_dates/1790/) |
 | Named After | Seine, English Channel |
 | Dewey Decimal Classification | 2--4425 |
 | Country | France |

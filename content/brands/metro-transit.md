@@ -2,7 +2,7 @@
 title: Metro Transit
 slug: "metro-transit"
 description: ""
-date: "2026-03-05T22:38:39.530927"
+date: "2026-03-13T08:56:59.464130"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2014
   - 2019
+  - 2014
 languages:
   - english
 tags:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - minneapolis
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,32 +53,34 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
   - red
-  - gold
-  - orange
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
+  - gold
   - green
+  - black
+  - orange
+  - gray
 typographies:
-  - "gill-sans"
   - avenir
+  - "gill-sans"
   - arial
 imagery_styles:
-  - bold
-  - modern
-  - gradient
   - clean
+  - modern
+  - bold
+  - gradient
 wikidata_description: public transit operator in the Twin Cities region of Minnesota
+wikidata_url: "https://www.wikidata.org/wiki/Q3307442"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -149,10 +162,15 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3307442) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Minneapolis](/headquarters_locations/minneapolis/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Follows | Twin City Rapid Transit Company |
 | Country | United States |
 | Inception | 1967 |
-| Logo Image | Metro Transit logo.svg |
 | Grid Id | grid.466937.9 |
 | Headquarters Location | Minneapolis |
 | X (Twitter) Username | MetroTransitMN (as of 2020-02-27, from 2009-12-22) |

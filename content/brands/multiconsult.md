@@ -2,12 +2,12 @@
 title: Multiconsult
 slug: multiconsult
 description: ""
-date: "2026-03-05T22:38:39.792503"
+date: "2026-03-13T08:56:59.844433"
 draft: false
 sectors:
+  - architecture
   - construction
   - consulting
-  - architecture
 regions:
   - norway
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - skyen
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Engineering consultancy
+wikidata_url: "https://www.wikidata.org/wiki/Q11990176"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,10 +78,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11990176) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Skyen](/headquarters_locations/skyen/) |
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Headquarters Location | Skøyen |
 | Norwegian Organisation Number | 910253158 |
 | Inception | 1908 |
-| Logo Image | Multiconsult logo.svg |
 | Isni | 0000000449099590 |
 | Country | Norway |
 | Ipv6 Routing Prefix | 2a00:14d8:1001:1c3::/64, 2a00:14d8:1001:9c2::/64, 2a00:14d8:42c0::/48, 2a00:14d8:49b4::/48 |

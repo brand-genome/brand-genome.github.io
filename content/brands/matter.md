@@ -2,11 +2,11 @@
 title: Matter
 slug: matter
 description: ""
-date: "2026-03-05T22:38:39.291972"
+date: "2026-03-13T08:56:59.231666"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,25 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - wordmark
+  - primary
   - vertical
+  - symbol
+  - wordmark
 brand_colors:
   - black
 typographies:
   - poppins
   - "sans-serif"
 imagery_styles:
-  - gradient
   - product
+  - gradient
   - geometric
 wikidata_description: open source messaging software
+wikidata_url: "https://www.wikidata.org/wiki/Q55478510"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +117,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55478510) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Operating System | iOS, Microsoft Windows, Linux, macOS, Android |
 | Copyright License | MIT License,  |
 | Github Account | mattermost |
@@ -115,7 +132,6 @@ guideline_count: 1
 | Pro Linux.De Dbapp Id | 20617 |
 | F Droid Package | com.mattermost.rnbeta |
 | Repology Project Name | mattermost |
-| Logo Image | Mattermost logo horizontal.svg |
 | Image | Mattermost UI.png |
 | Freebsd Port | www/mattermost-server, www/mattermost-webapp |
 | Aur Package | mattermost, mattermost-git |

@@ -2,7 +2,7 @@
 title: University at Albany
 slug: "university-at-albany"
 description: ""
-date: "2026-03-05T22:38:39.270298"
+date: "2026-03-13T08:56:59.212932"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2003
+  - 2019
 languages:
   - english
 tags:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - albany
+subsidiaries: []
+foundation_dates:
+  - 1844
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,21 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
+  - seal
 brand_colors:
-  - black
-  - gold
   - purple
+  - gold
+  - black
 typographies:
   - display
 imagery_styles:
   - bold
 wikidata_description: "state university in Albany, New York"
+wikidata_url: "https://www.wikidata.org/wiki/Q1780816"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +111,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1780816) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Albany](/headquarters_locations/albany/) |
+| Foundation Date | [1844](/foundation_dates/1844/) |
 | Coordinate Location | 42.686193, -73.823884 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Albany, New York, Albany County, Guilderland |
@@ -120,7 +140,6 @@ guideline_count: 2
 | Arwu University Id | University-at-Albany-(State-University-of-New-York) |
 | Qs World University Id | university-albany-suny |
 | U Multirank University Id | university-at-albany-the-state-university-of-new-york, suny-at-albany |
-| Logo Image | Albany Great Danes logo.svg, University at Albany logo words.svg |
 | Microsoft Academic Id (Discontinued) | 392282 |
 | Street Address | 1400 Washington Avenue, Albany, NY, 12222 |
 | Ringgold Id | 1084 |
@@ -133,7 +152,6 @@ guideline_count: 2
 | Gnd Id | 36772-2 |
 | X (Twitter) Username | ualbany (as of 2020-12-27, from 2009-02-03) |
 | Social Media Followers | 47,039 (as of 2021-01-07), 47,505 (as of 2022-01-27), 48,234 (as of 2023-02-03) |
-| Employees | 3,076 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Researchgate Institute Id | University_at_Albany_The_State_University_of_New_York |
@@ -158,3 +176,9 @@ guideline_count: 2
 | ‎Yale Lux Id | group/ed48db56-7450-49c2-9314-b3fad24d190d |
 | Athletics Program | Albany Great Danes |
 | Post Town | Albany, NY |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,076 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

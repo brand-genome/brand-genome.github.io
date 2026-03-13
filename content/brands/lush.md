@@ -2,13 +2,13 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-03-05T22:38:39.368344"
+date: "2026-03-13T08:56:59.326732"
 draft: false
 sectors:
   - cosmetics
 regions:
-  - singapore
   - "united-kingdom"
+  - singapore
 years:
   - 2012
   - 2020
@@ -22,6 +22,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1988
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,41 +50,43 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
+  - primary
+  - vertical
+  - symbol
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - white
-  - orange
   - grey
-  - black
-  - maroon
   - blue
   - navy
   - green
+  - maroon
+  - black
+  - orange
 typographies:
-  - arial
   - din
   - display
+  - arial
 imagery_styles:
-  - bold
-  - photography
-  - product
-  - vibrant
-  - professional
-  - geometric
+  - clean
   - contemporary
   - modern
-  - clean
+  - professional
   - organic
+  - vibrant
+  - product
+  - photography
+  - bold
+  - geometric
 wikidata_description: band
+wikidata_url: "https://www.wikidata.org/wiki/Q1668512"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -774,6 +786,11 @@ FRESH HAND MADE cosmetics
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1668512) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1988](/foundation_dates/1988/) |
 | Musicbrainz Artist Id | 697801d1-68b2-4413-a7e4-0ef507d21cc1 |
 | Freebase Id | /m/016_5p |
 | Gnd Id | 10297273-4 |

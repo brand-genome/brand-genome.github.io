@@ -2,7 +2,7 @@
 title: Marine Conservation Society
 slug: "marine-conservation-society"
 description: ""
-date: "2026-03-05T22:38:39.697349"
+date: "2026-03-13T08:56:59.639398"
 draft: false
 sectors:
   - ngo
@@ -13,16 +13,28 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - marine
+  - ngo
   - environment
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "ross-on-wye"
+subsidiaries: []
+foundation_dates:
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "marine environment, not-for-profit organisation based in UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q177580"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -196,6 +210,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q177580) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ross On Wye](/headquarters_locations/ross-on-wye/) |
+| Foundation Date | [1983](/foundation_dates/1983/) |
 | Viaf Cluster Id | 142589593 |
 | Inception | 1983 |
 | Eu Transparency Register Id | 832756518540-09 |
@@ -218,7 +238,6 @@ guideline_count: 1
 | Freebase Id | /m/08y7ft |
 | Legal Form | charitable organization |
 | Donations | 1,846,423 pound sterling (as of 2018), 1,802,387 pound sterling (as of 2017), 3,411,257 pound sterling (as of 2021), 4,617,398 pound sterling (as of 2020), 2,727,843 pound sterling (as of 2019) (+4 more) |
-| Employees | 66 (as of 2018), 58 (as of 2017), 78 (as of 2021), 71 (as of 2020), 73 (as of 2019) (+2 more) |
 | Number Of Volunteers | 29,259 (as of 2019), 26,647 (as of 2020), 18,319 (as of 2018), 835 (as of 2017), 16,726 (as of 2024) (+1 more) |
 | Gateway To Research Organisation Id | F456E34B-48CF-488B-9DA7-40FAFE59BA6A |
 | Linkedin Company Or Organization Id | marine-conservation-society |
@@ -228,12 +247,26 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.74M (2,741,171 pound sterling (as of 2018))
-- $2.46M (2,460,369 pound sterling (as of 2017))
-- $4.25M (4,253,632 pound sterling (as of 2021))
-- $5.22M (5,219,017 pound sterling (as of 2020))
-- $3.83M (3,833,520 pound sterling (as of 2019))
-- $4.36M (4,356,330 pound sterling (as of 2022))
-- $4.67M (4,666,213 pound sterling (as of 2023))
-- $5.13M (5,130,045 pound sterling (as of 2024))
-- $5.34M (5,339,836 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.74M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.46M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.25M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.22M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.83M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.36M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.67M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.13M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.34M | as of 2025 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 66 | as of 2018 | [UNDER-100](/employees_buckets/under-100/) |
+| 58 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 78 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 71 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 73 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 101 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |
+| 103 | as of 2025 | [100-1K](/employees_buckets/100-1k/) |

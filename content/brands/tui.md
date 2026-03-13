@@ -2,12 +2,12 @@
 title: TUI
 slug: tui
 description: ""
-date: "2026-03-05T22:38:39.816777"
+date: "2026-03-13T08:56:59.886320"
 draft: false
 sectors:
-  - hospitality
   - cruise
   - tourism
+  - hospitality
 regions:
   - germany
 years:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "air-charter"
+products: []
+headquarters_locations:
+  - hanover
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: German travel and tourism company
+wikidata_url: "https://www.wikidata.org/wiki/Q573103"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -136,6 +150,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q573103) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Air Charter](/products_or_materials_produced/air-charter/) |
+| Headquarters Location | [Hanover](/headquarters_locations/hanover/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Freebase Id | /m/04jvfj |
 | Headquarters Location | Hanover |
 | Topic'S Main Category | Category:TUI Group |
@@ -158,7 +179,6 @@ guideline_count: 1
 | Director / Manager | Friedrich Joussen |
 | Microsoft Academic Id (Discontinued) | 332751208 |
 | Opencorporates Id | de/F1103R_HRB321 |
-| Logo Image | TUI-AG-Logo.svg, TUI-Logo 1980s.svg, TUI-Logo 1970s.svg |
 | Facebook Username | TUIDeutschland |
 | X (Twitter) Username | TUIGroup (as of 2020-12-25, from 2009-05-19) |
 | Pinterest Username | tuideutschland |

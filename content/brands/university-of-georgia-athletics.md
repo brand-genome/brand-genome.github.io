@@ -2,7 +2,7 @@
 title: University of Georgia Athletics
 slug: "university-of-georgia-athletics"
 description: ""
-date: "2026-03-05T22:38:39.765034"
+date: "2026-03-13T08:56:59.815995"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: intercollegiate sports teams of the University of Georgia
+wikidata_url: "https://www.wikidata.org/wiki/Q2927996"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +72,10 @@ guideline_count: 1
 *Guidelines data not available*
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2927996) |
 
 | Property | Value |
 |----------|-------|
@@ -80,7 +95,6 @@ guideline_count: 1
 | Ncaa Statistics Program Id | 257 |
 | League Or Competition | NCAA Division I |
 | Social Media Followers | 620,365 (as of 2021-01-05), 623,109 (as of 2020-03-23), 14,900 (as of 2021-07-11), 644,775 (as of 2022-02-25), 692,494 (as of 2023-02-11) (+6 more) |
-| Logo Image | Georgia Athletics logo.svg |
 | Freebase Id | /m/0b52kp |
 | Youtube Channel Id | UCiK5OOII_B2-RKW7HsTkXRw (as of 2021-07-07, from 2012-05-07) |
 | Sportslogos.Net Team Id | 687 |

@@ -2,7 +2,7 @@
 title: Alcoa Corporation
 slug: "alcoa-corporation"
 description: ""
-date: "2026-03-05T22:38:39.259549"
+date: "2026-03-13T08:56:59.203100"
 draft: false
 sectors:
   - "mining-extraction"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries:
   - "aluminium-production"
   - "aluminium-industry"
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1907
+  - 1888
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: producer of aluminum
+wikidata_url: "https://www.wikidata.org/wiki/Q135325"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q135325) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1907](/foundation_dates/1907/); [1888](/foundation_dates/1888/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02) |
 | Founded By | Charles Martin Hall, Arthur Vining Davis, Alfred E. Hunt, Andrew W. Mellon |
 | Freebase Id | /m/02fk36 |
@@ -73,7 +95,6 @@ guideline_count: 1
 | Viaf Cluster Id | 165193275 |
 | Isin | US0138171014, AU0000339426 |
 | Inception | 1888-01-01, 1907, 1888 |
-| Logo Image | Alcoa logo (2016).svg |
 | Museum Of Modern Art Artist Id | 9958 |
 | Union List Of Artist Names Id | 500330337 |
 | Country | United States |
@@ -81,8 +102,6 @@ guideline_count: 1
 | Location Of Formation | Pittsburgh |
 | Isni | 0000000121978516 |
 | Child Organization Or Unit | Alcoa (Australia), Alcoa (Canada), Alcoa (Norway), Alcoa (Germany), Alcoa Power Generating Inc. (+3 more) |
-| Employees | 61,000 (as of 2012) |
-| Total Assets | 37,400,000,000 Canadian dollar (as of 2014) |
 | Chief Executive Officer | Roy Harvey (from 2016-11-01) |
 | Encyclopædia Britannica Online Id | topic/Aluminum-Company-of-America |
 | Permid | 5051045063 |
@@ -124,3 +143,15 @@ guideline_count: 1
 | Québec Cultural Heritage Directory People Id | 12185 |
 | ‎Yale Lux Id | group/d27895c8-c31d-4aa2-bc64-a53a36426236 |
 | Wikirate Company Id | 5761581 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 61,000 | as of 2012 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $37.40B | as of 2014 | [10B-50B](/total_assets_buckets/10b-50b/) |

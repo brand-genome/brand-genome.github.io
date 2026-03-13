@@ -2,7 +2,7 @@
 title: Universitatea Alexandru Ioan Cuza
 slug: "universitatea-alexandru-ioan-cuza"
 description: ""
-date: "2026-03-05T22:38:39.296270"
+date: "2026-03-13T08:56:59.236866"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - iasi
+subsidiaries: []
+foundation_dates:
+  - 1860
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,16 +52,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Iași, Romania"
+wikidata_url: "https://www.wikidata.org/wiki/Q1523902"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -85,6 +98,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1523902) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Iasi](/headquarters_locations/iasi/) |
+| Foundation Date | [1860](/foundation_dates/1860/) |
 | Topic'S Main Category | Category:Alexandru Ioan Cuza University |
 | Named After | Alexandru Ioan Cuza |
 | Inception | 1860-10-26 |
@@ -115,7 +134,6 @@ guideline_count: 1
 | Instagram Username | uaiciasi |
 | Ror Id | 022kvet57 |
 | Viaf Cluster Id | 169501756 |
-| Logo Image | UAIC CoA.svg |
 | Eu Participant Identification Code | 999887738 |
 | Eu Vat Number | RO4701126 |
 | Gnd Id | 4422009-1 |

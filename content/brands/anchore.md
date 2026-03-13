@@ -2,11 +2,11 @@
 title: Anchore
 slug: anchore
 description: ""
-date: "2026-03-05T22:38:39.292641"
+date: "2026-03-13T08:56:59.232320"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,14 +14,23 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries:
   - argentina
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,33 +49,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - vertical
 brand_colors:
   - white
-  - black
-  - blue
-  - gray
-  - "pantone-3262"
   - "pantone-193"
+  - blue
+  - "pantone-3262"
+  - black
+  - gray
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - bold
-  - photography
-  - professional
-  - minimal
-  - clean
   - natural
+  - clean
+  - professional
+  - photography
+  - minimal
+  - bold
 wikidata_description: train station in Argentina
+wikidata_url: "https://www.wikidata.org/wiki/Q5842914"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +131,10 @@ guideline_count: 1
 - Anchore branding emphasizes tech-forward professionalism with a human touch across visual and textual assets.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5842914) |
 
 | Property | Value |
 |----------|-------|

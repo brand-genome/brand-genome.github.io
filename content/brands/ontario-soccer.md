@@ -2,7 +2,7 @@
 title: Ontario Soccer
 slug: "ontario-soccer"
 description: ""
-date: "2026-03-05T22:38:39.684157"
+date: "2026-03-13T08:56:59.611401"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,9 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - horizontal
+  - alternate
 brand_colors:
   - white
   - red
@@ -50,17 +59,19 @@ typographies:
   - roboto
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - playful
-  - graphic
-  - professional
   - modern
+  - playful
+  - professional
+  - photography
+  - graphic
+  - bold
 wikidata_description: football league
+wikidata_url: "https://www.wikidata.org/wiki/Q7094899"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +129,10 @@ guideline_count: 1
 - Ontario Soccer's branded apparel mandates the use of Adidas or unbranded designs in Ontario colors. Embroidery placement standards are provided.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7094899) |
 
 | Property | Value |
 |----------|-------|

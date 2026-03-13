@@ -2,7 +2,7 @@
 title: West Virginia University Athletics
 slug: "west-virginia-university-athletics"
 description: ""
-date: "2026-03-05T22:38:39.331971"
+date: "2026-03-13T08:56:59.286001"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
+  - stacked
   - primary
   - secondary
-  - stacked
+  - wordmark
 brand_colors:
-  - gold
   - grey
+  - gold
 typographies:
   - script
   - display
@@ -53,10 +62,12 @@ imagery_styles:
   - dynamic
   - minimal
 wikidata_description: athletic program of West Virginia University
+wikidata_url: "https://www.wikidata.org/wiki/Q3326071"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -148,6 +159,10 @@ Design safeguards for logo clarity expressed. Reproduction methods focus explici
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3326071) |
+
+| Property | Value |
+|----------|-------|
 | Topic'S Main Category | Category:West Virginia Mountaineers |
 | Freebase Id | /m/0994mf |
 | Home Venue | Mountaineer Field at Milan Puskar Stadium, West Virginia University Coliseum, Kendrick Family Ballpark |
@@ -159,7 +174,6 @@ Design safeguards for logo clarity expressed. Reproduction methods focus explici
 | Has Part(S) | West Virginia Mountaineers men's basketball, West Virginia Mountaineers football, West Virginia Mountaineers women's basketball, West Virginia Mountaineers baseball, West Virginia Mountaineers men's soccer (+2 more) |
 | Ncaa.Com Team Id | west-virginia |
 | Ncaa Statistics Program Id | 768 |
-| Logo Image | West Virginia Mountaineers logo.svg (from 1980) |
 | Small Logo Or Icon | West Virginia Mountaineers logo.svg |
 | X (Twitter) Username | WVUSports (as of 2021-05-31, from 2009-03-31) |
 | Facebook Username | wvumountaineers |

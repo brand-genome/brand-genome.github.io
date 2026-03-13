@@ -2,11 +2,11 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-03-05T22:38:39.726579"
+date: "2026-03-13T08:56:59.746440"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - spain
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - barcelona
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +52,24 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - red
-  - "pantone-1959"
   - "pantone-485"
+  - red
   - "pantone-369"
-  - "pantone-431"
+  - "pantone-1959"
   - green
+  - "pantone-431"
 typographies:
   - verdana
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "umbrella organization for cities, local and regional governments, and municipal associations throughout the world"
+wikidata_url: "https://www.wikidata.org/wiki/Q2974854"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,13 +118,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2974854) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Barcelona](/headquarters_locations/barcelona/) |
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Quora Topic Id | United-Cities-and-Local-Governments |
 | Headquarters Location | Barcelona |
 | Chairperson | Mohamed Boudra (from 2019-11-15, until 2021-11-17), Ilsur Metshin (from 2021-11-17) |
 | General Secretary | Emilia Saiz |
 | Isni | 0000000123256955 |
 | Viaf Cluster Id | 167631234 |
-| Logo Image | UCLG logo.png |
 | Library Of Congress Authority Id | n2008060881 |
 | Inception | 2004-05-05 |
 | Has Part(S) | UCLG General Assembly, UCLG World Council, UCLG Executive Bureau, UCLG Presidency, UCLG Secretary-General (+3 more) |
@@ -124,7 +142,7 @@ guideline_count: 1
 | Official Name | United Cities and Local Governments, Cités et Gouvernements locaux unis, Ciudades y Gobiernos Locales Unidos |
 | Short Name | UCLG, CGLU, CGLU, ОГМВ |
 | Phone Number | +34-933-42-87-50 |
-| Email Address | mailto:info@uclg.org |
+| Email Address | info@uclg.org |
 | Street Address | Carrer Avinyó, 15 |
 | Participant In | High-level Political Forum on Sustainable Development, United Nations Economic and Social Council |
 | Child Organization Or Unit | UCLG — Eurasia, UCLG Middle East and West Asia, UCLG — Asia-Pacific, Council of European Municipalities and Regions, UCLG — Latin America (+9 more) |

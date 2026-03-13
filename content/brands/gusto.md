@@ -2,7 +2,7 @@
 title: Gusto
 slug: gusto
 description: ""
-date: "2026-03-05T22:38:39.347394"
+date: "2026-03-13T08:56:59.298958"
 draft: false
 sectors:
   - insurance
@@ -15,18 +15,29 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries:
   - "software-industry"
-  - "business-software-industry"
-  - "internet-industry"
   - "human-resource-management"
+  - "internet-industry"
+  - "business-software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +62,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: Payroll and benefits company
+wikidata_url: "https://www.wikidata.org/wiki/Q20540697"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,13 +109,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20540697) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Country | United States |
 | Industry | human resource management, software industry, Internet industry, business software industry |
 | Motto Text | Create a world where work empowers a better life. |
 | Official Blog Url | https://gusto.com/framework |
 | X (Twitter) Username | gustohq (as of 2020-04-20, from 2012-02-08), GustoHQ |
 | Legal Form | privately held company |
-| Logo Image | Gusto, Inc. logo.svg |
 | Instagram Username | gustohq |
 | Freebase Id | /m/012npkpv |
 | Headquarters Location | San Francisco |

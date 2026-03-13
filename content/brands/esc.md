@@ -2,7 +2,7 @@
 title: ESC
 slug: esc
 description: ""
-date: "2026-03-05T22:38:39.605397"
+date: "2026-03-13T08:56:59.549368"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: annual song competition held among the members of the European Broadcasting Union
+wikidata_url: "https://www.wikidata.org/wiki/Q276"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +103,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q276) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1956](/foundation_dates/1956/) |
 | Topic'S Main Category | Category:Eurovision Song Contest |
 | Gnd Id | 4364714-5 (until 1991), 1071847201 (from 1992) |
 | Viaf Cluster Id | 168042371 |

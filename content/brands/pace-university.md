@@ -2,7 +2,7 @@
 title: Pace University
 slug: "pace-university"
 description: ""
-date: "2026-03-05T22:38:39.511738"
+date: "2026-03-13T08:56:59.436902"
 draft: false
 sectors:
   - university
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1906
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,24 +53,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - black
 typographies:
-  - georgia
-  - serif
   - verdana
+  - serif
+  - georgia
 imagery_styles:
-  - bold
-  - dramatic
   - photography
   - dynamic
+  - dramatic
+  - bold
 wikidata_description: private university in the New York metropolitan area
+wikidata_url: "https://www.wikidata.org/wiki/Q556098"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +120,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q556098) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Pace University |
 | Located In The Administrative Territorial Entity | Manhattan |
 | Freebase Id | /m/02lv2v |
@@ -124,7 +145,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Pace University alumni |
 | Category For Employees Of The Organization | Category:Pace University faculty |
 | Grid Id | grid.261572.5 |
-| Logo Image | Pace University Logo.svg |
 | Owner Of | New York Times Building |
 | Microsoft Academic Id (Discontinued) | 126863827 |
 | Street Address | 1 Pace Plaza, New York, NY, 10038-1598 |
@@ -135,9 +155,7 @@ guideline_count: 1
 | Social Media Followers | 15,682 (as of 2021-01-03), 15,449 (as of 2020-04-22), 16,030 (as of 2022-02-28), 16,368 (as of 2023-02-10) |
 | Image | PaceUniversity.JPG |
 | Count Of Students | 12,835 (as of 2020-09), 11,147 (as of 2021-09-01) |
-| Total Assets | 707,400,303 United States dollar (as of 2020-06-30) |
 | Endowment | 193,827,052 United States dollar (as of 2020-06-30), 210,436,818 United States dollar (as of 2022-06-30), 250,615,147 United States dollar (as of 2021-06-30) |
-| Employees | 3,195 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | pace |
@@ -156,3 +174,15 @@ guideline_count: 1
 | Sam Id | Y738A5L1B3V1 |
 | Headquarters Location | New York City |
 | Athletics Program | Pace Setters |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,195 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $707.40M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

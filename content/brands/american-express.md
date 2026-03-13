@@ -2,7 +2,7 @@
 title: American Express
 slug: "american-express"
 description: ""
-date: "2026-03-05T22:38:39.252644"
+date: "2026-03-13T08:56:59.197097"
 draft: false
 sectors:
   - finance
@@ -17,91 +17,106 @@ tags:
   - financial
   - featured
 industries:
-  - "financial-services"
-  - "payment-card-industry"
   - "financial-service-activities-except-insurance-and-pension-funding"
+  - "payment-card-industry"
+  - "financial-services"
 countries:
-  - "united-states"
   - "united-kingdom"
+  - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "brookfield-place"
+subsidiaries: []
+foundation_dates:
+  - 1850
 lightings:
+  - natural
   - studio
+  - colored
   - soft
   - moderate
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
+  - "high-angle-photo"
   - "centered-composition"
   - "rule-of-third"
-  - "high-angle-photo"
   - "point-of-view-shot"
 image_backgrounds:
+  - solid
   - textured
   - blurred
-  - solid
-  - bright
   - dark
+  - bright
 color_schemes:
+  - "aquatic-colors"
+  - "complementary-colors"
   - "two-tone"
   - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "analogous-colors"
   - "pastel-colors"
-  - "aquatic-colors"
+  - monotone
+  - grayscale
+  - "analogous-colors"
 photography_genres:
-  - architectural
-  - product
-  - interior
-  - "still-life"
-  - street
-  - landscape
   - action
-  - "live-stage"
   - portrait
+  - interior
+  - landscape
+  - product
+  - "still-life"
+  - "live-stage"
+  - architectural
+  - street
 concepts:
   - "text-heavy"
   - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
   - photorealism
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bright-focal-point"
   - "mid-shot"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
 image_effects:
   - "short-exposure"
   - "high-contrast"
-  - "neutral-density-filter"
   - "long-exposure"
+  - "neutral-density-filter"
 dominant_colors:
-  - "mud-green"
-  - orange
-  - cyan
-  - "dark-blue"
-  - black
   - blue
-  - gray
+  - "mud-green"
   - purple
+  - "dark-blue"
+  - cyan
+  - black
+  - orange
+  - gray
 color_tones:
   - neutral
 hair_styles:
-  - braided
   - ponytail
+  - braided
 facial_expressions:
   - focused
   - engaged
@@ -120,10 +135,17 @@ typographies: []
 imagery_styles:
   - staged
 wikidata_description: American multinational financial services corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q194360"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 8
 guideline_count: 2
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -174,24 +196,24 @@ guideline_count: 2
 ### Color Analysis
 *Statistics computed across 8 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Blue | 64.8% | 64.8% | 64.8% | 64.8% | 64.8% | ±0.0% | 12.5% |
-| Dark Blue | 49.5% | 49.5% | 42.4% | 56.6% | 60.9% | ±14.3% | 25.0% |
-| Cyan | 40.5% | 40.5% | 39.9% | 41.1% | 41.5% | ±1.3% | 25.0% |
-| Purple | 36.2% | 36.2% | 36.2% | 36.2% | 36.2% | ±0.0% | 12.5% |
-| Gray | 21.2% | 22.9% | 14.7% | 26.2% | 28.9% | ±7.2% | 75.0% |
-| Mud Green | 20.0% | 19.8% | 13.1% | 26.8% | 27.2% | ±7.0% | 50.0% |
-| Black | 17.8% | 17.8% | 17.2% | 18.3% | 18.7% | ±1.1% | 25.0% |
-| Orange | 17.4% | 17.4% | 17.3% | 17.4% | 17.4% | ±0.1% | 25.0% |
+| Color | Mean |
+|-------|------|
+| Blue | 64.8% |
+| Dark Blue | 49.5% |
+| Cyan | 40.5% |
+| Purple | 36.2% |
+| Gray | 21.2% |
+| Mud Green | 20.0% |
+| Black | 17.8% |
+| Orange | 17.4% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 4.3% | 0.0% | 0.0% | 4.3% | ±7.5% |
-| Neutral | 52.9% | 64.8% | 43.7% | 73.3% | ±31.6% |
-| Cool | 42.7% | 35.2% | 22.4% | 56.3% | ±36.3% |
+| Tone | Mean |
+|------|------|
+| Warm | 4.3% |
+| Neutral | 52.9% |
+| Cool | 42.7% |
 
 ### Sample Images
 
@@ -279,6 +301,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q194360) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Brookfield Place](/headquarters_locations/brookfield-place/) |
+| Foundation Date | [1850](/foundation_dates/1850/) |
 | Stock Exchange | New York Stock Exchange |
 | Topic'S Main Category | Category:American Express |
 | Freebase Id | /m/01w6dw |
@@ -286,14 +314,12 @@ guideline_count: 2
 | Headquarters Location | Brookfield Place |
 | Chief Executive Officer | Stephen Squeri (from 2018), Harvey Golub (from 1993-01-01, until 2001-01-01) |
 | Image | American Express Company Building 65 Broadway entrance.jpg |
-| Employees | 62,800 (as of 2013), 53,500 (as of 2014), 63,500 (as of 2012), 62,500 (as of 2011), 61,000 (as of 2010) (+2 more) |
 | Isin | US0258161092 |
 | Industry | financial services, financial service activities, except insurance and pension funding, payment card industry |
 | Chairperson | Stephen Squeri |
 | British Museum Person Or Institution Id | 102798 |
 | Viaf Cluster Id | 138803798 |
 | Open Library Id | OL2649349A |
-| Logo Image | American Express logo.svg (from 1975, until 2018-04-08), American Express logo (2018).svg (from 2018-04-09) |
 | Legal Form | corporation |
 | Inception | 1850 |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0003504 |
@@ -306,9 +332,6 @@ guideline_count: 2
 | Eu Transparency Register Id | 671547715580-60 |
 | Isni | 0000000411862722 |
 | Great Russian Encyclopedia Online Id (2017) | 1817684 |
-| Total Equity | 19,584,069,000 United States dollar (as of 2021) |
-| Total Assets | 166,503,002,000 United States dollar (as of 2021) |
-| Market Capitalization | 118,000,000,000 United States dollar (as of 2022-08-05) |
 | Encyclopædia Britannica Online Id | topic/American-Express-Company |
 | Permid | 4295903329 |
 | Open Funder Registry Funder Id | 100004699 |
@@ -388,49 +411,85 @@ guideline_count: 2
 
 ### Revenue History
 
-- $42.38B (42,380,000,000 United States dollar (as of 2021))
-- $36.09B (36,087,000,000 United States dollar (as of 2020))
-- $43.56B (43,556,000,000 United States dollar (as of 2019))
-- $28.36B (28,365,000,000 United States dollar (as of 2008))
-- $24.52B (24,523,000,000 United States dollar (as of 2009))
-- $27.82B (27,819,000,000 United States dollar (as of 2010))
-- $32.82B (32,818,000,000 United States dollar (as of 2015))
-- $32.12B (32,119,000,000 United States dollar (as of 2016))
-- $33.47B (33,471,000,000 United States dollar (as of 2017))
-- $40.34B (40,338,000,000 United States dollar (as of 2018))
-- $52.86B (52,862,000,000 United States dollar (as of 2022))
-- $37.22B (37,218,000,000 United States dollar (as of 2023))
-- $38.83B (38,825,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $42.38B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.09B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.56B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.36B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.52B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.82B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.82B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.12B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $33.47B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.34B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $52.86B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $37.22B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.83B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $5.69B (5,694,000,000 United States dollar (as of 2007))
-- $3.58B (3,581,000,000 United States dollar (as of 2008))
-- $2.84B (2,841,000,000 United States dollar (as of 2009))
-- $8.43B (8,429,000,000 United States dollar (as of 2019))
-- $4.30B (4,296,000,000 United States dollar (as of 2020))
-- $10.69B (10,689,000,000 United States dollar (as of 2021))
-- $9.59B (9,585,000,000 United States dollar (as of 2022))
-- $10.51B (10,513,000,000 United States dollar (as of 2023))
-- $12.89B (12,895,000,000 United States dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $5.69B | as of 2007 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.58B | as of 2008 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.84B | as of 2009 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.43B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.30B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.69B | as of 2021 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.59B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.51B | as of 2023 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $12.89B | as of 2024 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $4.01B (4,012,000,000 United States dollar (as of 2007))
-- $2.70B (2,699,000,000 United States dollar (as of 2008))
-- $2.13B (2,130,000,000 United States dollar (as of 2009))
-- $4.06B (4,057,000,000 United States dollar (as of 2010))
-- $4.93B (4,935,000,000 United States dollar (as of 2011))
-- $4.48B (4,482,000,000 United States dollar (as of 2012))
-- $5.36B (5,359,000,000 United States dollar (as of 2013))
-- $5.88B (5,885,000,000 United States dollar (as of 2014))
-- $5.16B (5,163,000,000 United States dollar (as of 2015))
-- $5.41B (5,408,000,000 United States dollar (as of 2016))
-- $2.74B (2,736,000,000 United States dollar (as of 2017))
-- $6.92B (6,921,000,000 United States dollar (as of 2018))
-- $6.76B (6,759,000,000 United States dollar (as of 2019))
-- $3.13B (3,135,000,000 United States dollar (as of 2020))
-- $8.06B (8,060,000,000 United States dollar (as of 2021))
-- $7.51B (7,514,000,000 United States dollar (as of 2022))
-- $8.37B (8,374,000,000 United States dollar (as of 2023))
-- $10.13B (10,129,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.01B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.70B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.13B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.06B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.93B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.48B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.36B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.88B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.16B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.41B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.74B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.92B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.76B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.13B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.06B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.51B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.37B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $10.13B | as of 2024 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 62,800 | as of 2013 | [50K-100K](/employees_buckets/50k-100k/) |
+| 53,500 | as of 2014 | [50K-100K](/employees_buckets/50k-100k/) |
+| 63,500 | as of 2012 | [50K-100K](/employees_buckets/50k-100k/) |
+| 62,500 | as of 2011 | [50K-100K](/employees_buckets/50k-100k/) |
+| 61,000 | as of 2010 | [50K-100K](/employees_buckets/50k-100k/) |
+| 56,000 | as of 2016 | [50K-100K](/employees_buckets/50k-100k/) |
+| 64,000 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $166.50B | as of 2021 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $19.58B | as of 2021 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $118.00B | as of 2022-08-05 | [100B-500B](/market_cap_buckets/100b-500b/) |

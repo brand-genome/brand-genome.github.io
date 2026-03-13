@@ -2,7 +2,7 @@
 title: Adami
 slug: adami
 description: ""
-date: "2026-03-05T22:38:39.339216"
+date: "2026-03-13T08:56:59.294605"
 draft: false
 sectors:
   - "arts-culture"
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1955
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +52,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - signature
   - horizontal
+  - signature
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q3487758"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3487758) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1955](/foundation_dates/1955/) |
 | Headquarters Location | Paris |
 | Country | France |
 | X (Twitter) Username | ADAMI_Artistes (as of 2020-04-25, from 2011-05-25) |

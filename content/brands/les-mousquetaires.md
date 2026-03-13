@@ -2,7 +2,7 @@
 title: Les mousquetaires
 slug: "les-mousquetaires"
 description: ""
-date: "2026-03-05T22:38:39.468696"
+date: "2026-03-13T08:56:59.405949"
 draft: false
 sectors:
   - "consumer-goods"
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bondoufle
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French multinational retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q1820565"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1820565) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bondoufle](/headquarters_locations/bondoufle/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/0drfkb |
 | Headquarters Location | Bondoufle |
 | Founded By | Jean-Pierre Le Roch |

@@ -2,12 +2,12 @@
 title: Itron
 slug: itron
 description: ""
-date: "2026-03-05T22:38:39.690868"
+date: "2026-03-13T08:56:59.618423"
 draft: false
 sectors:
+  - hardware
   - utilities
   - software
-  - hardware
 regions:
   - usa
 years:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "liberty-lake"
+subsidiaries: []
+foundation_dates:
+  - 1977
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +52,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - vertical
-  - stacked
 brand_colors:
   - white
   - red
-  - "pantone-123"
-  - black
-  - yellow
   - "pantone-485"
+  - yellow
+  - black
+  - "pantone-123"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - product
   - clean
+  - bold
 wikidata_description: American technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q5923178"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5923178) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Liberty Lake](/headquarters_locations/liberty-lake/) |
+| Foundation Date | [1977](/foundation_dates/1977/); [1972](/foundation_dates/1972/) |
 | Stock Exchange | Nasdaq (from 1993-11-05) |
 | Headquarters Location | Liberty Lake |
 | Inception | 1972, 1977 |
@@ -129,4 +149,3 @@ guideline_count: 1
 | Legal Form |  |
 | Wikirate Company Id | 870569 |
 | Usb Vendor Id | 2cf8, 195d |
-| Logo Image | Itron logo.svg |

@@ -8,10 +8,81 @@
         <p class="taxonomy-count">{{ len .Pages }} terms</p>
     </header>
 
+    {{ $taxonomy := .Section }}
+    {{ if or (eq $taxonomy "lightings") (eq $taxonomy "perspectives") (eq $taxonomy "photography_genres") (eq $taxonomy "concepts") (eq $taxonomy "image_backgrounds") (eq $taxonomy "color_schemes") (eq $taxonomy "depths") (eq $taxonomy "image_effects") (eq $taxonomy "hair_styles") (eq $taxonomy "facial_expressions") (eq $taxonomy "clothing_styles") (eq $taxonomy "clothing_colors") (eq $taxonomy "posings") (eq $taxonomy "gazes") (eq $taxonomy "body_sections") }}
+    <section class="visual-definition-panel">
+        <div class="visual-definition-left">
+            <h2>Definition: {{ .Title }}</h2>
+            {{ if eq $taxonomy "lightings" }}
+            <p>Lighting describes the illumination style used in a brand's visuals, such as bright, moody, natural, or studio-lit scenes.</p>
+            <p>It shapes emotional tone and attention focus, influencing how professional, energetic, or intimate a brand appears.</p>
+            {{ else if eq $taxonomy "perspectives" }}
+            <p>Perspective describes camera angle and viewpoint, such as eye-level, low-angle, overhead, or close framing.</p>
+            <p>It affects perceived power, intimacy, and context in brand storytelling.</p>
+            {{ else if eq $taxonomy "photography_genres" }}
+            <p>Photography genre captures the image style family, such as portrait, product, lifestyle, documentary, or editorial.</p>
+            <p>It indicates how brands structure visual narratives for audiences and use-cases.</p>
+            {{ else if eq $taxonomy "concepts" }}
+            <p>Concepts represent high-level visual themes, such as innovation, trust, adventure, sustainability, or community.</p>
+            <p>They summarize the semantic intent encoded in campaign imagery.</p>
+            {{ else if eq $taxonomy "image_backgrounds" }}
+            <p>Image background describes scene context behind the subject, such as plain, environmental, textured, or abstract.</p>
+            <p>Background choices influence focus, realism, and perceived brand setting.</p>
+            {{ else if eq $taxonomy "color_schemes" }}
+            <p>Color scheme captures palette harmony structures, including monochrome, complementary, analogous, and high-contrast mixes.</p>
+            <p>It reflects visual consistency and emotional positioning in brand communication.</p>
+            {{ else if eq $taxonomy "depths" }}
+            <p>Depth refers to spatial layering and focus falloff, such as shallow depth-of-field or deep scene clarity.</p>
+            <p>It controls emphasis and realism by guiding where viewers look first.</p>
+            {{ else if eq $taxonomy "image_effects" }}
+            <p>Image effects capture applied stylistic treatments like blur, grain, glow, vignette, and high dynamic contrast.</p>
+            <p>These effects reinforce mood and brand aesthetics beyond raw photography.</p>
+            {{ else if eq $taxonomy "hair_styles" }}
+            <p>Hair style captures how human subjects are visually styled in promotional images.</p>
+            <p>It contributes to identity cues for demographic targeting and brand personality.</p>
+            {{ else if eq $taxonomy "facial_expressions" }}
+            <p>Facial expression captures visible emotional states such as joy, confidence, neutrality, or engagement.</p>
+            <p>Expression directly influences tone, trust, and perceived brand empathy.</p>
+            {{ else if eq $taxonomy "clothing_styles" }}
+            <p>Clothing style describes apparel categories in images, from formal and casual to athletic or costume-like outfits.</p>
+            <p>It signals context, aspiration level, and audience alignment.</p>
+            {{ else if eq $taxonomy "clothing_colors" }}
+            <p>Clothing color captures dominant outfit palette characteristics such as vibrant, muted, neutral, or branded tones.</p>
+            <p>It supports consistency between human presentation and brand color language.</p>
+            {{ else if eq $taxonomy "posings" }}
+            <p>Posing describes body posture and action stance, including standing, seated, active, and expressive gestures.</p>
+            <p>It shapes dynamism and confidence cues in visual storytelling.</p>
+            {{ else if eq $taxonomy "gazes" }}
+            <p>Gaze direction indicates where subjects look, including direct eye contact, off-frame focus, or downward attention.</p>
+            <p>It affects viewer connection, narrative flow, and intent.</p>
+            {{ else if eq $taxonomy "body_sections" }}
+            <p>Body section captures visible framing scope, such as face-only, upper-body, full-body, or cropped composition.</p>
+            <p>It controls intimacy and contextual detail in communication assets.</p>
+            {{ end }}
+        </div>
+        <div class="visual-definition-right">
+            <h3>Top Terms</h3>
+            <div class="mini-term-collage">
+                {{ range first 12 .Pages.ByTitle }}
+                {{ $term := . }}
+                {{ $firstBrand := index $term.Pages.ByTitle 0 }}
+                <a href="{{ $term.Permalink }}" class="mini-thumb-link" title="{{ $term.Title | humanize }}">
+                    {{ if and $firstBrand $firstBrand.Params.sample_image_urls (gt (len $firstBrand.Params.sample_image_urls) 0) }}
+                    <img src="{{ index $firstBrand.Params.sample_image_urls 0 }}" alt="{{ $term.Title | humanize }} sample" class="mini-thumb-img" loading="lazy" />
+                    {{ else }}
+                    <span class="mini-thumb-fallback">{{ $term.Title | humanize }}</span>
+                    {{ end }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+
     <div class="taxonomy-grid">
         {{ range .Pages.ByTitle }}
         <a href="{{ .Permalink }}" class="taxonomy-item">
-            {{ if eq $.Section "years" }}
+            {{ if or (eq $.Section "years") (eq $.Section "revenue_buckets") (eq $.Section "operating_income_buckets") (eq $.Section "net_profit_buckets") (eq $.Section "employees_buckets") (eq $.Section "total_assets_buckets") (eq $.Section "total_equity_buckets") (eq $.Section "market_cap_buckets") (eq $.Section "foundation_dates") }}
             <span class="term-name">{{ .Title }}</span>
             {{ else }}
             <span class="term-name">{{ .Title | humanize }}</span>

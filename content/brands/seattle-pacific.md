@@ -2,7 +2,7 @@
 title: Seattle Pacific
 slug: "seattle-pacific"
 description: ""
-date: "2026-03-05T22:38:39.707768"
+date: "2026-03-13T08:56:59.722580"
 draft: false
 sectors:
   - education
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - seattle
+subsidiaries: []
+foundation_dates:
+  - 1891
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,26 +54,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - logomark
+  - alternate
 brand_colors:
+  - maroon
   - red
   - gold
   - gray
-  - maroon
 typographies:
-  - arial
   - display
+  - arial
 imagery_styles:
-  - bold
   - candid
   - natural
+  - bold
 wikidata_description: "Christian university in Seattle, Washington"
+wikidata_url: "https://www.wikidata.org/wiki/Q2904851"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2904851) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
+| Foundation Date | [1891](/foundation_dates/1891/) |
 | Coordinate Location | 47.65019, -122.361667 |
 | Topic'S Main Category | Category:Seattle Pacific University |
 | Country | United States |
@@ -132,13 +153,10 @@ guideline_count: 1
 | Official Map Url | https://spu.edu/campus-map/ |
 | Crunchbase Organization Id | seattle-pacific-university |
 | Count Of Students | 3,601 (as of 2020-09), 3,279 (as of 2021-09-01) |
-| Total Assets | 367,597,000 United States dollar (as of 2020-06-30) |
 | Endowment | 122,286,000 United States dollar (as of 2020-06-30), 161,152,981 United States dollar (as of 2022-06-30), 174,578,213 United States dollar (as of 2021-06-30) |
-| Employees | 851 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Athletics Program | Seattle Pacific Falcons |
-| Logo Image | Seattle pacific univ logo.png |
 | Academic Calendar Type | academic quarter |
 | Fast Id | 614185 |
 | Openstreetmap Way Id | 6452560 |
@@ -155,3 +173,15 @@ guideline_count: 1
 | Scholargps Institution Id | 23324684188701 |
 | Youtube Channel Id | UCmyTTqfb-EjbOUqaECl9_Cg (as of 2025-09-21, from 2008-02-20) |
 | National Library Of Israel J9U Id | 987013317052705171 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 851 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $367.60M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

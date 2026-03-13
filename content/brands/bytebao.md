@@ -2,27 +2,36 @@
 title: ByteBao
 slug: bytebao
 description: ""
-date: "2026-03-05T22:38:39.257460"
+date: "2026-03-13T08:56:59.201260"
 draft: false
 sectors:
-  - consulting
   - cybersecurity
+  - consulting
 regions:
   - dubai
 years:
-  - 2021
   - 2022
+  - 2021
 languages:
   - english
 tags:
+  - technology
   - financial
   - featured
-  - technology
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,32 +50,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
-  - abstract
   - logomark
-brand_colors:
-  - white
-  - red
-  - purple
-  - black
-typographies:
-  - bodoni
-  - serif
-imagery_styles:
-  - bold
-  - photography
-  - staged
+  - secondary
+  - primary
   - abstract
-  - gradient
-  - modern
+  - horizontal
+brand_colors:
+  - purple
+  - red
+  - black
+  - white
+typographies:
+  - serif
+  - bodoni
+imagery_styles:
   - natural
+  - staged
+  - modern
+  - photography
+  - gradient
+  - abstract
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 

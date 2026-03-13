@@ -2,7 +2,7 @@
 title: Shazam
 slug: shazam
 description: ""
-date: "2026-03-05T22:38:39.667234"
+date: "2026-03-13T08:56:59.588580"
 draft: false
 sectors:
   - software
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - app
-  - music
   - internet
+  - music
+  - app
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,25 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles:
-  - bold
-  - product
   - graphic
+  - product
+  - bold
 wikidata_description: music application
+wikidata_url: "https://www.wikidata.org/wiki/Q1195495"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -721,6 +734,12 @@ PLAY CHART
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1195495) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Freebase Id | /m/0406_1w |
 | Owned By | Apple Inc. |
 | Developer | Shazam |
@@ -731,7 +750,6 @@ PLAY CHART
 | Operating System | , Windows RT, Windows Phone, iOS, Windows Mobile (+7 more) |
 | Language Of Work Or Name | English, French, Czech, German, Spanish (+4 more) |
 | App Store App Id | 284993459, 337288863, 897118787, 284993459, 6477489264 |
-| Logo Image | Shazam logo.svg |
 | Headquarters Location | London |
 | Main Wikidata Property | Shazam track ID, Shazam artist ID |
 | Native Label | Shazam |

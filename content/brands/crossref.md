@@ -2,11 +2,11 @@
 title: Crossref
 slug: crossref
 description: ""
-date: "2026-03-05T22:38:39.717303"
+date: "2026-03-13T08:56:59.735306"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - massachusetts
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,27 +50,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - stacked
+  - wordmark
 brand_colors:
-  - white
-  - red
-  - "pantone-123"
-  - "pantone-7527"
-  - grey
-  - black
   - "pantone-631"
+  - white
+  - grey
+  - red
+  - "pantone-7527"
   - "pantone-445"
+  - black
+  - "pantone-123"
 typographies: []
 imagery_styles:
   - contemporary
 wikidata_description: one of the official Digital Object Identifier Registration Agencies of the International DOI Foundation
+wikidata_url: "https://www.wikidata.org/wiki/Q5188229"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5188229) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Massachusetts](/headquarters_locations/massachusetts/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/026wgtv |
 | Inception | 2000 |
 | Official Name | Crossref (from 2015-11-11), CrossRef (until 2015-11-11) |
@@ -118,7 +137,6 @@ guideline_count: 1
 | Ringgold Id | 10770 |
 | Quora Topic Id | Crossref |
 | Country | United States |
-| Logo Image | Crossref Logo Stacked RGB SMALL.png (as of 2015) |
 | Search Formatter Url | https://search.crossref.org/ |
 | X (Twitter) Username | CrossrefOrg (as of 2020-03-19, from 2009-06-04) |
 | Grid Id | grid.466633.2 |

@@ -2,7 +2,7 @@
 title: SDSU
 slug: sdsu
 description: ""
-date: "2026-03-05T22:38:39.336114"
+date: "2026-03-13T08:56:59.290706"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1897
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in San Diego, California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q913861"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q913861) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1897](/foundation_dates/1897/) |
 | Coordinate Location | 32.775277777778, -117.07222222222 |
 | Topic'S Main Category | Category:San Diego State University |
 | Freebase Id | /m/01q0kg |
@@ -96,7 +114,6 @@ guideline_count: 1
 | Qs World University Id | san-diego-state-university |
 | Times Higher Education World University Id | san-diego-state-university |
 | U Multirank University Id | san-diego-state-university |
-| Logo Image | San Diego State Logotype.png |
 | Microsoft Academic Id (Discontinued) | 26538001, 183550418 |
 | Street Address | 5500 Campanile Dr, San Diego, CA 92182 |
 | Facebook Username | SanDiegoState |
@@ -109,7 +126,6 @@ guideline_count: 1
 | Official Map Url | https://sacd.sdsu.edu/_resources/files/map-full-clr-print.pdf, https://bfa.sdsu.edu/campus/facilities/planning/images/clr-print.pdf, https://bfa.sdsu.edu/campus/facilities/planning/images/bw-print.pdf |
 | Crunchbase Organization Id | san-diego-state-university |
 | Count Of Students | 36,334 (as of 2020-09), 32,263 (as of 2021-09-01) |
-| Employees | 3,719 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Has Part(S) | San Diego State University College of Arts & Letters, San Diego State University Fowler College of Business, San Diego State University College of Education, San Diego State University College of Engineering, Malcolm A. Love Library (+3 more) |
@@ -138,3 +154,9 @@ guideline_count: 1
 | Domain Name | sdsu.edu |
 | Sam Id | RN4HGABGRWV7 |
 | Athletics Program | San Diego State Aztecs |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,719 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

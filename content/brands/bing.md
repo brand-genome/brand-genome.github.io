@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-03-05T22:38:39.614688"
+date: "2026-03-13T08:56:59.561474"
 draft: false
 sectors:
   - software
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "search-engine"
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,18 +54,20 @@ logo_elements:
   - symbol
 brand_colors:
   - white
-  - teal
   - "pantone-3295"
   - black
   - gray
+  - teal
 typographies: []
 imagery_styles:
   - product
 wikidata_description: web search engine from Microsoft
+wikidata_url: "https://www.wikidata.org/wiki/Q182496"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q182496) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Search Engine](/products_or_materials_produced/search-engine/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Topic'S Main Category | Category:Microsoft Bing |
 | Freebase Id | /m/0bx7rw |
 | Owned By | Microsoft |
@@ -134,7 +153,6 @@ guideline_count: 1
 | Different From | Bing, bǐng |
 | Main Wikidata Property | Bing entity ID |
 | Downdetector Id | bing |
-| Logo Image | Microsoft Bing logo.svg (from 2020-10-05), Bing logo (2016).svg (from 2016-01-14, until 2020-10-05), Bing logo (2013).svg (from 2013-09-17, until 2016-01-14), Bing logo.svg (from 2009-06-03, until 2013-09-17), Bing Fluent Logo Text.svg (from 2023-02-08) |
 | Similarweb Ranking | 32 (as of 2022-07) |
 | Encyclopedia Of China (Third Edition) Id | 129542 |
 | Brockhaus Enzyklopädie Online Id | bing |

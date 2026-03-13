@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-03-05T22:38:39.210978"
+date: "2026-03-13T08:56:59.148379"
 draft: false
 sectors:
   - airline
@@ -13,15 +13,27 @@ years:
 languages:
   - english
 tags:
-  - airline
   - aeronautic
   - transport
+  - airline
 industries: []
 countries:
   - iceland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - reykjavik
+  - hafnarfjorur
+subsidiaries: []
+foundation_dates:
+  - 1937
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,20 +52,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - wordmark
   - vertical
-  - horizontal
 brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: flag carrier airline of Iceland
+wikidata_url: "https://www.wikidata.org/wiki/Q216645"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +121,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q216645) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Reykjavik](/headquarters_locations/reykjavik/); [Hafnarfjorur](/headquarters_locations/hafnarfjorur/) |
+| Foundation Date | [1937](/foundation_dates/1937/) |
 | Topic'S Main Category | Category:Icelandair |
 | Freebase Id | /m/014jcv |
 | Image | Hamburg Airport Icelandair Boeing 737-8 MAX TF-ICU (DSC06877).jpg |
@@ -135,7 +155,6 @@ guideline_count: 2
 | Discogs Artist Id | 3759418 |
 | Lex Id | Icelandair |
 | Item Operated | Douglas DC-3, Douglas DC-4, Douglas DC-6, Douglas DC-8, Beechcraft 18 (+7 more) |
-| Logo Image | Icelandairlogo.svg |
 | Instagram Username | icelandair |
 | Wikikids Id | Icelandair |
 | Kisti Id | K000361874 |

@@ -2,7 +2,7 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-03-05T22:38:39.570411"
+date: "2026-03-13T08:56:59.500568"
 draft: false
 sectors:
   - "public-sector"
@@ -15,14 +15,27 @@ years:
 languages:
   - english
 tags:
-  - security
   - institution
+  - security
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "nebraska-avenue-complex"
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +54,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - secondary
-  - horizontal
   - signature
-  - wordmark
+  - secondary
+  - primary
   - vertical
+  - wordmark
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - blue
   - red
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: United States federal executive department
+wikidata_url: "https://www.wikidata.org/wiki/Q11231"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11231) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Nebraska Avenue Complex](/headquarters_locations/nebraska-avenue-complex/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Viaf Cluster Id | 121741457 |
 | Gnd Id | 10062583-6 |
 | Topic'S Main Category | Category:United States Department of Homeland Security |
@@ -140,7 +161,6 @@ guideline_count: 1
 | Nl Cr Aut Id | kn20051206001 |
 | Chairperson | Kristi Noem (from 2025-01-25) |
 | Foundational Text | Homeland Security Act of 2002 |
-| Employees | 229,000 (as of 2017) |
 | Budget | 40,600,000,000 United States dollar (as of 2017) |
 | Schematic | Homeland-security-orgchart-2008-07-17.png (as of 2008-07-17) |
 | Ror Id | 00jyr0d86 |
@@ -202,3 +222,9 @@ guideline_count: 1
 | Nlai Id | 1536914 |
 | ‎Google Ads Transparency Center Advertiser Id | 13882117788606136321, 04111921132783796225 |
 | Irs Employer Identification Number | 26-1547909 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 229,000 | as of 2017 | [100K-500K](/employees_buckets/100k-500k/) |

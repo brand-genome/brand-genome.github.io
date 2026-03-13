@@ -2,11 +2,11 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-03-05T22:38:39.261560"
+date: "2026-03-13T08:56:59.205311"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
   - "logistics-supply-chain"
 regions:
   - france
@@ -15,18 +15,30 @@ years:
 languages:
   - french
 tags:
-  - featured
   - transport
+  - featured
 industries:
-  - unknown
   - "rail-transport"
+  - unknown
 countries:
   - france
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "saint-denis"
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1938
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "national state-owned railway company of France"
+wikidata_url: "https://www.wikidata.org/wiki/Q13646"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -72,6 +86,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13646) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Saint Denis](/headquarters_locations/saint-denis/); [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1938](/foundation_dates/1938/) |
 | Headquarters Location | Saint-Denis (from 2013, until 2024-12-31), Paris, Saint-Denis (from 2025-01-01) |
 | Follows | Chemins de fer d'Alsace et de Lorraine, Chemins de fer de l'État, Chemins de fer de l'Est, Chemins de fer du Nord, Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (+1 more) |
 | Industry | rail transport,  |
@@ -167,8 +187,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $41.76B (41,760,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $41.76B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $1.30B (1,300,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.30B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |

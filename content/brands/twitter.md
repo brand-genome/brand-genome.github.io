@@ -2,22 +2,22 @@
 title: Twitter
 slug: twitter
 description: ""
-date: "2026-03-05T22:38:39.512005"
+date: "2026-03-13T08:56:59.437243"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:
-  - 2016
   - 2020
+  - 2016
 languages:
   - english
 tags:
-  - featured
   - internet
   - software
+  - featured
 industries:
   - internet
 countries:
@@ -25,210 +25,295 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2023
+  - 2006
 lightings:
+  - natural
   - studio
   - soft
   - moderate
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
   - "rule-of-third"
   - "bird-eye-view"
 image_backgrounds:
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
-  - bright
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - monotone
+  - grayscale
+  - light
+  - bright
 photography_genres:
-  - selfie
-  - landscape
-  - product
-  - text
-  - interior
-  - illustration
-  - abstract
-  - street
-  - architectural
-  - action
-  - candid
-  - "live-stage"
-  - group
   - logo
-  - advertisement
-  - fashion
-  - event
+  - product
+  - "graphic-design"
+  - abstract
+  - graduation
+  - selfie
+  - "live-stage"
+  - street
   - sky
-  - "text-heavy"
-  - "graphic-design"
-  - portrait
+  - fashion
+  - group
+  - advertisement
   - beauty
-  - graduation
-  - "still-life"
-concepts:
+  - portrait
   - "text-heavy"
-  - graduation
+  - interior
+  - landscape
   - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
+  - candid
+  - text
+  - "still-life"
+  - architectural
+  - event
+  - action
+concepts:
+  - graduation
+  - "text-heavy"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - "high-contrast"
-  - "high-saturation"
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - "neutral-density-filter"
 dominant_colors:
+  - "dark-gray"
   - "mud-green"
-  - orange
+  - "dark-brown"
   - "dark-blue"
   - black
-  - "dark-brown"
-  - "light-blue"
+  - orange
   - gray
-  - "dark-gray"
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - wavy
-  - loose
-  - updo
-  - dark
-  - "tied-back"
-  - ponytail
-  - curly
-  - up
-  - braided
-  - short
+  - down
   - varied
-  - covered
-  - "pulled-back"
+  - ponytail
+  - long
   - neat
   - bald
-  - down
-  - long
+  - up
+  - "tied-back"
+  - curly
+  - braided
+  - updo
+  - "pulled-back"
+  - flowing
+  - dark
+  - covered
+  - casual
+  - loose
+  - short
+  - wavy
 facial_expressions:
   - joyful
-  - smiling
+  - focused
+  - neutral
   - engaged
   - relaxed
-  - neutral
-  - content
-  - focused
   - contemplative
+  - smiling
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - relaxed
-  - professional
-  - costume
   - formal
+  - beachwear
+  - comfortable
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - relaxed
+  - "form-fitting"
+  - professional
+  - "t-shirt"
   - protective
   - swimwear
-  - traditional
-  - "t-shirt"
-  - comfortable
-  - "business-casual"
+  - business
+  - costume
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
-  - colorful
+  - vibrant
   - subtle
-  - pastel
+  - colorful
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
   - running
-  - "at-ease"
   - stretching
+  - active
+  - leaning
+  - walking
   - confident
-gazes:
   - engaged
-  - away
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - "at-ease"
+  - holding
+gazes:
   - downward
-  - outward
-  - upward
   - focused
+  - engaged
+  - outward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
   - "hand-only"
-  - "head-shot"
+  - "lower-half"
   - midsection
   - "full-back"
-  - "lower-half"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - impact
   - helvetica
+  - impact
 imagery_styles:
-  - bold
   - product
   - graphic
+  - bold
 wikidata_description: unique identifier format used by various platforms
+wikidata_url: "https://www.wikidata.org/wiki/Q104889222"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 144
 guideline_count: 2
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FLWeuyQUcAAw7_M?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFj5PWnVEAI3x7-?format=png&name=large"
+  - "https://pbs.twimg.com/media/FADz9Q3VkA0Cgt-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-sbG-JVcAAgvlv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-IX86PVQAcUpFw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9kMCskUYAESTjb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9AV_uxVgAM-stD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8cVb8bVgAMB5qT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8cH395VIAEWqrD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E79V3wUVUAA_iA0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7UW_j9VgAAUnHc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoRCgOEU0AEgIto?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnJch0uUwAMQocm?format=png&name=large"
+  - "https://pbs.twimg.com/media/EnNzRN-UcAA4zUq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnSkD7tVgAA1FVC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnDNccdVQAA5jFA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmMPioiU0AA44DP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmGhQTLUcAItSv3?format=png&name=large"
+  - "https://pbs.twimg.com/media/ElCZzSJVcAE8J4T?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkTsWY7U0AI-uQs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkOlPHFU8AI-uoz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkjzXkZUYAAkHyR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ej1T4CHUYAgmGzn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ejxn4h8UwAE_zHP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ejxm9cZVcAAcj6t?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjxnLOpU8AABj68?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ei3jJnfVgAAMP8q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eh_pK2jWoAIzFIq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eio-pcxU8AA7q8C?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eio-YSZUwAE8VN9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ef1ozQ7U4AAnWWo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfLPgq-UYAAK0wa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eewo7DRU0AAMkVW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeSiV_4VoAA-YQU?format=png&name=large"
+  - "https://pbs.twimg.com/media/EZDvm6zUcAAlyys?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZDSx0iU4AI4b59?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYgB3XCVAAAOIHU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYfusCLVAAA3DTc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYfUyUuU0AAKP_U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYUDnSrUcAA7ZFG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQHtePdU8AAgzBO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIt8jbHUUAEWEkR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIUMwL4WwAgazZR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF-BTBXX0AEzJM-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF92PrFXYAEhHmo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF919a2XoAEoI1n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF9vDRRX0AYHdCs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF9bCLXWsAEAEKS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFyoDnQWoAAw-PP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEMIM9OUUAUmQWX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEHIqbLU4AMc6zM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EC802_SUYAEq1jv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8es7P2UcAACdmk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8aryjcXoAAh_4L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7EFkHlU8AA4cV6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7BeV3IVUAAEd7L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1J2MEhUcAAxUvP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtBmsdBU0AAxa7i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DrmPKWjU0AEmVWr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpU8hIRUUAEZA5F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoDTYsDU0AA86dL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dn-VyNsV4AAMcRU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DicH8DLUYAAeZdt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfM7ZNLVAAAdhJ0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdwmBjBUQAAychq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYN3mW_U0AEcfg9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXJJChKUQAAPAEf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXALS2vU0AAEx1O?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWwzGADUMAAvZIF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVjgmJdUMAEnOzU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTW-0llVQAApuWZ?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -305,24 +390,24 @@ guideline_count: 2
 ### Color Analysis
 *Statistics computed across 144 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Black | 29.5% | 27.4% | 15.3% | 38.0% | 51.0% | ±16.8% | 77.8% |
-| Light Blue | 25.3% | 13.1% | 8.0% | 36.3% | 55.1% | ±24.5% | 24.3% |
-| Orange | 22.0% | 14.0% | 10.0% | 20.6% | 35.3% | ±24.3% | 43.1% |
-| Dark Blue | 19.4% | 12.8% | 8.8% | 21.5% | 38.7% | ±17.9% | 25.0% |
-| Gray | 18.1% | 14.8% | 9.7% | 22.9% | 32.2% | ±11.1% | 36.1% |
-| Dark Brown | 14.5% | 11.1% | 9.5% | 18.6% | 28.4% | ±7.9% | 65.3% |
-| Dark Gray | 14.0% | 12.7% | 8.4% | 15.5% | 19.9% | ±8.7% | 43.8% |
-| Mud Green | 13.9% | 11.4% | 8.5% | 16.5% | 29.2% | ±7.2% | 20.8% |
+| Color | Mean |
+|-------|------|
+| Black | 29.5% |
+| Light Blue | 25.3% |
+| Orange | 22.0% |
+| Dark Blue | 19.4% |
+| Gray | 18.1% |
+| Dark Brown | 14.5% |
+| Dark Gray | 14.0% |
+| Mud Green | 13.9% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 11.8% | 0.0% | 0.0% | 17.2% | ±20.0% |
-| Neutral | 67.5% | 76.0% | 54.8% | 91.6% | ±30.8% |
-| Cool | 20.8% | 8.0% | 0.0% | 29.6% | ±29.9% |
+| Tone | Mean |
+|------|------|
+| Warm | 11.8% |
+| Neutral | 67.5% |
+| Cool | 20.8% |
 
 ### Sample Images
 
@@ -432,6 +517,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q104889222) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2023](/foundation_dates/2023/); [2006](/foundation_dates/2006/) |
 | Source Code Repository Url | https://github.com/twitter-archive/snowflake |
 | Copyright License | Apache Software License 2.0 |
 | Copyright Status | copyrighted |
@@ -448,7 +539,6 @@ guideline_count: 2
 | Different From | Time-Sorted ID |
 | Country | United States |
 | Headquarters Location | San Francisco |
-| Logo Image | X logo 2023 original.svg (from 2023), X logo 2023.svg (from 2023), Logo of Twitter.svg (from 2012, until 2023) |
 | Inception | 2006-03-21, 2023-07-24 |
 | Founded By | Jack Dorsey, Noah Glass, Biz Stone, Evan Williams |
 | Industry | Internet |

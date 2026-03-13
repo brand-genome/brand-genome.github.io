@@ -2,7 +2,7 @@
 title: Century 21
 slug: "century-21"
 description: ""
-date: "2026-03-05T22:38:39.119186"
+date: "2026-03-13T08:56:59.068761"
 draft: false
 sectors:
   - "real-estate"
@@ -13,14 +13,26 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "real-estate"
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - madison
+subsidiaries: []
+foundation_dates:
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: US international real estate agent franchise company
+wikidata_url: "https://www.wikidata.org/wiki/Q1054480"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,16 +80,20 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1054480) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Madison](/headquarters_locations/madison/) |
+| Foundation Date | [1971](/foundation_dates/1971/) |
 | Freebase Id | /m/080_1g |
 | Headquarters Location | Madison |
 | Inception | 1971-01-01 |
-| Employees | 101,000 |
 | Legal Form | limited liability company |
 | X (Twitter) Username | century21taiwan (from 2010-07-05), Century21 (from 2009-03-02), century21_japan (as of 2020-04-19, from 2019-01-15), C21Australia, C21Gibraltar (+21 more) |
 | Founded By | Arthur E. Bartlett |
 | Quora Topic Id | Century-21-Real-Estate |
 | Country | United States |
-| Logo Image | Century 21 Real Estate logo.svg (until 2018), Century-21-logo.png (from 2018) |
 | Library Of Congress Authority Id | n83164324 |
 | Parent Organization Or Unit | MetLife (from 1985, until 1995), Cendant (from 1995, until 2006), Anywhere Real Estate (from 2006) |
 | Facebook Username | century21, c21hongkong, C21Affiliated, C21Gibraltar, C21Guyana (+32 more) |
@@ -92,3 +110,9 @@ guideline_count: 2
 | Linkedin Company Or Organization Id | c21portugal, century-21-albania, century-21-australia, century-21-bolivia, century-21-cayman-islands (+18 more) |
 | Tiktok Username | century21gibraltar, century21malta |
 | Threads Username | c21bolivia, century21, century21belize, century21fr |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 101,000 | - | [100K-500K](/employees_buckets/100k-500k/) |

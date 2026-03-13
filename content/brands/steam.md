@@ -2,7 +2,7 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-03-05T22:38:39.170105"
+date: "2026-03-13T08:56:59.100201"
 draft: false
 sectors:
   - software
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +58,12 @@ typographies: []
 imagery_styles:
   - product
 wikidata_description: video game store and digital distribution platform among other services
+wikidata_url: "https://www.wikidata.org/wiki/Q337535"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,6 +150,11 @@ The Steam Link Compatible logo must always be surrounded by an area of clear, op
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q337535) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Developer | Valve Corporation |
 | Operating System | Microsoft Windows, macOS, Linux, Android, iOS (+1 more) |
 | Freebase Id | /m/03myz4 |
@@ -151,7 +168,6 @@ The Steam Link Compatible logo must always be surrounded by an area of clear, op
 | Arch Linux Package | steam |
 | Flathub Id | com.valvesoftware.Steam |
 | Zhihu Topic Id | 19618133 |
-| Logo Image | Steam icon logo.svg, Steam 2016 logo black.svg |
 | Publication Date | 2003-09-12 |
 | Platform | Android, Microsoft Windows, Unix-like operating system |
 | Copyright License | proprietary license |

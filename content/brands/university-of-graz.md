@@ -2,7 +2,7 @@
 title: University of Graz
 slug: "university-of-graz"
 description: ""
-date: "2026-03-05T22:38:39.201855"
+date: "2026-03-13T08:56:59.138767"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "main-building-of-the-university-of-graz"
+subsidiaries: []
+foundation_dates:
+  - 1585
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Graz, Austria"
+wikidata_url: "https://www.wikidata.org/wiki/Q622683"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q622683) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Main Building Of The University Of Graz](/headquarters_locations/main-building-of-the-university-of-graz/) |
+| Foundation Date | [1585](/foundation_dates/1585/) |
 | Country | Austria |
 | Topic'S Main Category | Category:University of Graz |
 | Freebase Id | /m/01zgvm |
@@ -85,7 +104,6 @@ guideline_count: 1
 | Quora Topic Id | University-of-Graz, KF-Uni-Graz |
 | Openmlol Author Id | 167073 |
 | Ipv6 Routing Prefix | 2001:628:2100::/48 |
-| Logo Image | Universität Graz logo.svg |
 | Te Papa Agent Id | 11242 |
 | Count Of Students | 31,347 (as of 2017-02-28), 32,230 (as of 2018-10-31) |
 | Official Name | Karl-Franzens-Universität Graz |

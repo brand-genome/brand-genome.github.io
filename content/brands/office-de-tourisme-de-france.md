@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-03-05T22:38:39.811274"
+date: "2026-03-13T08:56:59.878375"
 draft: false
 sectors:
   - tourism
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,21 +52,23 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - blue
   - red
+  - blue
 typographies:
   - arial
   - inter
 imagery_styles:
-  - bold
   - contemporary
   - gradient
+  - bold
   - monochrome
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q115457346"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +105,10 @@ guideline_count: 1
 - Specific resizing rules are detailed for local-level adaptations (Territoires Touristiques, Syndicats d'Initiative) where longer names adjust the protective space accordingly.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115457346) |
 
 | Property | Value |
 |----------|-------|

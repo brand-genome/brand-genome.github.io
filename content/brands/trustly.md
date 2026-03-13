@@ -2,7 +2,7 @@
 title: Trustly
 slug: trustly
 description: ""
-date: "2026-03-05T22:38:39.582206"
+date: "2026-03-13T08:56:59.522951"
 draft: false
 sectors:
   - software
@@ -14,16 +14,27 @@ years:
 languages:
   - english
 tags:
-  - financial
   - technology
+  - financial
 industries:
-  - "financial-services"
   - fintech
+  - "financial-services"
 countries:
   - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stockholm
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +54,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
+  - green
   - blue
   - orange
-  - green
 typographies: []
 imagery_styles:
-  - bold
   - minimal
   - clean
   - modern
+  - bold
 wikidata_description: Swedish financial technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q18449475"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -157,11 +170,16 @@ Money conventions explained.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18449475) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stockholm](/headquarters_locations/stockholm/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Headquarters Location | Stockholm |
 | Quora Topic Id | Trustly |
 | Inception | 2008 |
 | Legal Form | aktiebolag |
-| Logo Image | Trustly Logotype.svg |
 | Swedish Organization Number | 556754-8655 |
 | Opencorporates Id | se/556754-8655 |
 | Industry | financial services, fintech |

@@ -2,7 +2,7 @@
 title: GT Bicycles
 slug: "gt-bicycles"
 description: ""
-date: "2026-03-05T22:38:39.535883"
+date: "2026-03-13T08:56:59.468228"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bmx
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
-  - lockup
   - secondary
+  - lockup
+  - badge
 brand_colors:
   - white
-  - black
   - yellow
+  - black
 typographies:
-  - georgia
   - times
+  - georgia
 imagery_styles:
-  - bold
-  - vintage
   - photography
   - product
+  - bold
+  - vintage
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1487417"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,10 +126,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1487417) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bmx](/products_or_materials_produced/bmx/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Freebase Id | /m/0c5_xj |
 | Sport | BMX, mountain biking |
 | Inception | 1979-01-01 |
-| Logo Image | GT Bicycles Logo.svg |
 | Quora Topic Id | GT-Bicycles |
 | The Top Tens Id | 372 |
 | Crunchbase Organization Id | gt-bicycles |

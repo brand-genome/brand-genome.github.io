@@ -2,7 +2,7 @@
 title: CAF
 slug: caf
 description: ""
-date: "2026-03-05T22:38:39.649716"
+date: "2026-03-13T08:56:59.578745"
 draft: false
 sectors:
   - finance
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "rolling-stock"
+products: []
+headquarters_locations:
+  - beasain
+subsidiaries: []
+foundation_dates:
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,20 +54,22 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-711"
-  - grey
   - red
+  - grey
+  - "pantone-711"
   - "pantone-7540"
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: Spanish railway and bus manufacturing company
+wikidata_url: "https://www.wikidata.org/wiki/Q838212"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +120,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q838212) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Rolling Stock](/products_or_materials_produced/rolling-stock/) |
+| Headquarters Location | [Beasain](/headquarters_locations/beasain/) |
+| Foundation Date | [1917](/foundation_dates/1917/) |
 | Topic'S Main Category | Category:Construcciones y Auxiliar de Ferrocarriles |
 | Freebase Id | /m/09p60f |
 | Headquarters Location | Beasain |
@@ -114,14 +136,12 @@ guideline_count: 1
 | Isni | 0000000100612240 |
 | Gnd Id | 16343516-9 |
 | Inception | 1917-01-01 |
-| Logo Image | CAF Trust in Motion.jpg |
 | Legal Form | sociedad anónima |
 | Country | Spain |
 | Industry | industrial manufacturing, rail industry |
 | Ringgold Id | 82998 |
 | Award Received | Medalla de Honor al Fomento de la Invención (as of 2010) |
 | Stock Exchange | Madrid Stock Exchange |
-| Employees | 2,000 |
 | Grid Id | grid.433333.7 |
 | Ror Id | 02afbgp72 |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0019608 |
@@ -136,3 +156,9 @@ guideline_count: 1
 | Eu Transparency Register Id | 008431330155-37 |
 | Has Works In The Collection | Railway Museum of Catalonia |
 | Native Label | Construcciones y Auxiliar de Ferrocarriles, Compañía Auxiliar de Ferrocarriles, Construcciones y Auxiliar de Feres |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,000 | - | [1K-10K](/employees_buckets/1k-10k/) |

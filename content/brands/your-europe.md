@@ -2,7 +2,7 @@
 title: Your Europe
 slug: "your-europe"
 description: ""
-date: "2026-03-05T22:38:39.183545"
+date: "2026-03-13T08:56:59.111560"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "le-perreux-sur-marne"
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,46 +50,48 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
+  - "pantone-7523"
   - white
-  - "pantone-487"
   - "pantone-170"
   - grey
-  - "pantone-2915"
-  - black
-  - yellow
-  - "pantone-7506"
   - blue
-  - turquoise
-  - coral
+  - "pantone-487"
+  - yellow
+  - "pantone-2915"
+  - "pantone-7506"
   - "pantone-290"
-  - gray
+  - turquoise
   - green
-  - "pantone-7523"
+  - black
+  - coral
+  - gray
 typographies:
   - impact
 imagery_styles:
-  - bold
-  - staged
-  - graphic
-  - dynamic
-  - monochrome
-  - artificial
-  - realistic
-  - gradient
   - natural
+  - staged
+  - dynamic
+  - realistic
+  - monochrome
   - organic
+  - gradient
+  - graphic
+  - artificial
+  - bold
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q132034944"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -134,6 +147,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q132034944) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Le Perreux Sur Marne](/headquarters_locations/le-perreux-sur-marne/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Headquarters Location | Le Perreux-sur-Marne |
 | Siren Number | 430174474 |
 | Industry |  |

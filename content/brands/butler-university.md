@@ -2,7 +2,7 @@
 title: Butler University
 slug: "butler-university"
 description: ""
-date: "2026-03-05T22:38:39.195991"
+date: "2026-03-13T08:56:59.130942"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
 tags:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1855
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in Indianapolis, Indiana, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1017974"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +82,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1017974) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1855](/foundation_dates/1855/) |
 | Coordinate Location | 39.839444, -86.171389 |
 | Topic'S Main Category | Category:Butler University |
 | Member Of | Big East Conference, Association of American Colleges and Universities, American Council on Education, Open Education Network, Center for Research Libraries |
@@ -88,7 +107,6 @@ guideline_count: 2
 | Encyclopædia Britannica Online Id | topic/Butler-University |
 | Grid Id | grid.253419.8 |
 | Affiliation | Council of Independent Colleges |
-| Logo Image | Butler University logo.svg |
 | Microsoft Academic Id (Discontinued) | 110678235 |
 | Count Of Students | 4,512, 5,108 (as of 2021-09-01) |
 | Street Address | 4600 Sunset Ave, Indianapolis, IN, 46208 |
@@ -102,9 +120,7 @@ guideline_count: 2
 | Ringgold Id | 4065 |
 | Jstor Publisher Id | butler |
 | Social Media Followers | 37,502 (as of 2021-01-02), 37,260 (as of 2020-04-19), 38,222 (as of 2022-02-27), 39,063 (as of 2023-02-06) |
-| Total Assets | 681,272,000 United States dollar (as of 2020-06-30) |
 | Endowment | 216,806,000 United States dollar (as of 2020-06-30), 253,119,696 United States dollar (as of 2022-06-30), 281,443,701 United States dollar (as of 2021-06-30) |
-| Employees | 1,272 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | butleruniversity |
@@ -124,3 +140,15 @@ guideline_count: 2
 | Number Of Viewers/Listeners | 2,628,648 (as of 2025-11-23) |
 | Threads Username | butleru |
 | Athletics Program | Butler Bulldogs |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,272 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $681.27M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

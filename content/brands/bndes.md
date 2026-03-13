@@ -2,7 +2,7 @@
 title: BNDES
 slug: bndes
 description: ""
-date: "2026-03-05T22:38:39.196239"
+date: "2026-03-13T08:56:59.131162"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1952
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "federal public company that aims at long-term financing and investment in all segments of the Brazilian economycompany"
+wikidata_url: "https://www.wikidata.org/wiki/Q796822"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,12 +78,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q796822) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1952](/foundation_dates/1952/) |
 | Freebase Id | /m/09wgrt |
 | Topic'S Main Category | Category:Banco Nacional de Desenvolvimento Econômico e Social |
 | Viaf Cluster Id | 148368881 |
 | Headquarters Location | Rio de Janeiro |
 | Inception | 1952-06-20 |
-| Logo Image | Logo do BNDES.svg |
 | Quora Topic Id | Brazilian-Development-Bank |
 | Gnd Id | 275280-3 |
 | Grid Id | grid.484515.9 |

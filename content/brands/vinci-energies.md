@@ -2,14 +2,14 @@
 title: Vinci Energies
 slug: "vinci-energies"
 description: ""
-date: "2026-03-05T22:38:39.789727"
+date: "2026-03-13T08:56:59.840875"
 draft: false
 sectors:
-  - consulting
-  - construction
-  - utilities
-  - "renewable-energy"
   - networking
+  - "renewable-energy"
+  - utilities
+  - construction
+  - consulting
 regions:
   - france
 years:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - prague
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,9 +54,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
   - blue
@@ -54,10 +65,12 @@ typographies:
   - arial
 imagery_styles: []
 wikidata_description: "company in Brno, Czech Republic"
+wikidata_url: "https://www.wikidata.org/wiki/Q30258774"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30258774) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Prague](/headquarters_locations/prague/) |
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Grid Id | grid.448168.7 |
 | Country | Czech Republic |
 | Headquarters Location | Prague |

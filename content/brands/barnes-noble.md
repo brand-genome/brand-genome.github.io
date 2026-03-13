@@ -2,7 +2,7 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-03-05T22:38:39.658272"
+date: "2026-03-13T08:56:59.585355"
 draft: false
 sectors:
   - publishing
@@ -21,10 +21,24 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1873
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +62,22 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - green
   - black
+  - green
 typographies:
   - serif
   - display
 imagery_styles:
-  - bold
   - photography
   - minimal
+  - bold
 wikidata_description: American book retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q795454"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,8 +127,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q795454) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1873](/foundation_dates/1873/); [1917](/foundation_dates/1917/) |
 | Stock Exchange | New York Stock Exchange |
-| Logo Image | Barnes and Noble logo.svg |
 | Topic'S Main Category | Category:Barnes & Noble |
 | Headquarters Location | New York City |
 | Image | Barnes & Noble Fifth Ave flagship.jpg |
@@ -124,7 +146,6 @@ guideline_count: 1
 | Industry | bookselling |
 | Legal Entity Identifier | 549300WEQE1M8II5OS20 |
 | Freebase Id | /m/01b7dt |
-| Employees | 40,000 (as of 2018), 26,000 (as of 2017) |
 | Quora Topic Id | Barnes-Noble-company |
 | Permid | 4295903538 |
 | Open Funder Registry Funder Id | 100004701 |
@@ -162,8 +183,19 @@ guideline_count: 1
 
 ### Revenue History
 
-- $5.20B (5,200,000,000 United States dollar)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.20B | - | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $75.90M (75,900,000 United States dollar)
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $75.90M | - | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 40,000 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 26,000 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |

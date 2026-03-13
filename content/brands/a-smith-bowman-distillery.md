@@ -2,7 +2,7 @@
 title: A. Smith Bowman Distillery
 slug: "a-smith-bowman-distillery"
 description: ""
-date: "2026-03-05T22:38:39.532275"
+date: "2026-03-13T08:56:59.465804"
 draft: false
 sectors:
   - drink
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1934
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,8 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
   - secondary
   - signature
 brand_colors:
@@ -48,13 +58,15 @@ brand_colors:
 typographies:
   - impact
 imagery_styles:
-  - bold
   - candid
+  - bold
 wikidata_description: "whisky distillery in Fairfax County, Virginia"
+wikidata_url: "https://www.wikidata.org/wiki/Q4648402"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +119,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4648402) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1934](/foundation_dates/1934/) |
 | Nrhp Reference Number | 99001503 |
 | Coordinate Location | 38.956722, -77.351389 |
 | Heritage Designation | National Register of Historic Places listed place (from 1999-12-09), Virginia Historic Landmark (from 1999-09-15) |

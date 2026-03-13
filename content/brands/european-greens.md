@@ -2,7 +2,7 @@
 title: European Greens
 slug: "european-greens"
 description: ""
-date: "2026-03-05T22:38:39.562519"
+date: "2026-03-13T08:56:59.486240"
 draft: false
 sectors:
   - ngo
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,15 +51,17 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-376"
   - green
+  - "pantone-376"
 typographies: []
 imagery_styles: []
 wikidata_description: "green-regionalist political group of the European Parliament"
+wikidata_url: "https://www.wikidata.org/wiki/Q751935"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +109,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q751935) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:Greens–European Free Alliance |
 | Has Part(S) | European Green Party, European Free Alliance, European Pirate Party, Volt Europa |
 | Freebase Id | /m/01_195 |
@@ -122,7 +139,6 @@ guideline_count: 1
 | Lex Id | Gruppen_De_Grønne/Den_Europæiske_Fri_Alliance |
 | Mastodon Address | EP_GreensEFA@social.network.europa.eu (from 2022-12-16), GreensEP@respublicae.eu (from 2022-04-03) |
 | Great Norwegian Encyclopedia Id | The_Greens–European_Free_Alliance |
-| Logo Image | GreensEFA logo EN.svg (until 2020-02), GreensEFA logo FR.svg (until 2020-02), GreensEFA logo DE.svg (until 2020-02), GreensEFA logo-bg.svg (from 2020-02), GreensEFA logo-ca.svg (from 2020-02) (+28 more) |
 | Small Logo Or Icon | GreensEFA.png |
 | Library Of Congress Authority Id | no2006091153 |
 | Eu Corporate Body Code | EP_GROUP_GREEN_EFA |

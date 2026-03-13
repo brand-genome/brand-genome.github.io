@@ -2,11 +2,11 @@
 title: WeChat
 slug: wechat
 description: ""
-date: "2026-03-05T22:38:39.559183"
+date: "2026-03-13T08:56:59.481644"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - china
 years:
@@ -14,15 +14,25 @@ years:
 languages:
   - chinese
 tags:
+  - internet
   - app
   - featured
-  - internet
 industries: []
 countries:
   - "peoples-republic-of-china"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "messaging, social media, and payment app developed by Tencent"
+wikidata_url: "https://www.wikidata.org/wiki/Q283233"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -79,6 +91,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q283233) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Freebase Id | /m/0h_9v3h |
 | Developer | Tencent, Zhang Xiaolong |
 | X (Twitter) Username | wechatapp (as of 2020-04-24, from 2012-02-09), WeChatApp |

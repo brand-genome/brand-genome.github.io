@@ -2,11 +2,11 @@
 title: University of Galway
 slug: "university-of-galway"
 description: ""
-date: "2026-03-05T22:38:39.272885"
+date: "2026-03-13T08:56:59.215152"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - ireland
@@ -21,9 +21,21 @@ industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1845
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university in Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q644478"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +82,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q644478) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1845](/foundation_dates/1845/) |
 | Member Of | Coimbra Group, European University Association, ORCID, Inc. (as of 2023-10), Coalition for Advancing Research Assessment, Enlight Alliance |
 | Coordinate Location | 53.277784, -9.06186 |
 | Topic'S Main Category | Category:University of Galway |
@@ -98,7 +117,6 @@ guideline_count: 1
 | Google Maps Customer Id | 10034547999759139440 |
 | U Multirank University Id | national-university-of-ireland-galway |
 | Microsoft Academic Id (Discontinued) | 188760350 |
-| Employees | 2,500 (as of 2019), 2,907 (as of 2023), 4,471 (as of 2022), 2,285 (as of 2021), 3,241 (as of 2024) |
 | Bnb Person Id (Obsolete) | NationalUniversityofIrelandGalway |
 | Library Of Congress Authority Id | no2003067815 |
 | Eu Transparency Register Id | 579735319590-03 |
@@ -135,20 +153,40 @@ guideline_count: 1
 | Official Name | National University of Ireland, Galway |
 | Motto Text | Deo Favente |
 | Openstreetmap Relation Id | 14086715 |
-| Total Assets | 671,058,000 euro (as of 2023), 642,818,000 euro (as of 2022), 643,394,000 euro (as of 2021), 700,956,000 euro (as of 2024) |
 | ‎Yale Lux Id | group/25391e22-c184-4c05-8dc0-fe6823f9264b |
 | Instagram Username | universityofgalway |
 | Threads Username | universityofgalway |
 
 ### Revenue History
 
-- $218.14M (218,142,000 euro (as of 2015))
-- $221.29M (221,288,000 euro (as of 2016))
-- $276.10M (276,100,000 euro (as of 2017))
-- $298.80M (298,804,000 euro (as of 2018))
-- $316.98M (316,977,000 euro (as of 2019))
-- $326.95M (326,952,000 euro (as of 2020))
-- $386.07M (386,069,000 euro (as of 2023))
-- $360.03M (360,030,000 euro (as of 2022))
-- $350.72M (350,723,000 euro (as of 2021))
-- $431.71M (431,707,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $218.14M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $221.29M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $276.10M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $298.80M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $316.98M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $326.95M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $386.07M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $360.03M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $350.72M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $431.71M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,500 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,907 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,471 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,285 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,241 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $671.06M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $642.82M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $643.39M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $700.96M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

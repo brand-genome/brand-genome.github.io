@@ -2,7 +2,7 @@
 title: Ivy Tech
 slug: "ivy-tech"
 description: ""
-date: "2026-03-05T22:38:39.681927"
+date: "2026-03-13T08:56:59.603872"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - indianapolis
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,33 +49,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - icon
-  - horizontal
-  - stacked
   - vertical
+  - stacked
+  - horizontal
+  - seal
 brand_colors:
   - white
   - grey
-  - black
-  - "pantone-342"
-  - gray
   - green
+  - black
+  - gray
+  - "pantone-342"
 typographies:
-  - serif
-  - "sans-serif"
-  - avenir
   - arial
   - merriweather
+  - avenir
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - bold
-  - professional
   - graphic
+  - professional
+  - bold
 wikidata_description: community college
+wikidata_url: "https://www.wikidata.org/wiki/Q6099951"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -148,6 +161,12 @@ JPG/PNG (Bitmap for web and internal documents), available in RGB color.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6099951) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Indianapolis](/headquarters_locations/indianapolis/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Country | United States |
 | Legal Entity Identifier | 5493009IUA8Z7VS7RL86 |
 | Quora Topic Id | Ivy-Tech-Community-College-of-Indiana |

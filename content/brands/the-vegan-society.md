@@ -2,7 +2,7 @@
 title: The Vegan Society
 slug: "the-vegan-society"
 description: ""
-date: "2026-03-05T22:38:39.212585"
+date: "2026-03-13T08:56:59.149934"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - birmingham
+subsidiaries: []
+foundation_dates:
+  - 1944
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: registered charity
+wikidata_url: "https://www.wikidata.org/wiki/Q1855049"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1855049) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Birmingham](/headquarters_locations/birmingham/) |
+| Foundation Date | [1944](/foundation_dates/1944/) |
 | Freebase Id | /m/03y9jy |
 | Inception | 1944-11 |
 | Founded By | Donald Watson |
@@ -84,7 +104,6 @@ guideline_count: 1
 | Social Media Followers | 234,787 (as of 2021-01-02), 6,950 (as of 2021-10-12), 253,903 (as of 2022-02-26), 269,141 (as of 2023-02-10), 7,520 (as of 2023-03-22) (+2 more) |
 | Donations | 676,713 pound sterling (as of 2019), 451,533 pound sterling (as of 2020), 212,929 pound sterling (as of 2017), 458,297 pound sterling (as of 2018), 248,787 pound sterling (as of 2016) (+4 more) |
 | Legal Form | charitable organization |
-| Employees | 42 (as of 2019), 47 (as of 2020), 29 (as of 2017), 30 (as of 2018), 26 (as of 2016) (+2 more) |
 | Number Of Volunteers | 220 (as of 2020), 104 (as of 2016), 100 (as of 2017), 141 (as of 2023), 279 (as of 2024) |
 | Uia Open Yearbook Organization Website Id | 1100011148 |
 | Uk Parliament Thesaurus Id | 522147 |
@@ -94,13 +113,27 @@ guideline_count: 1
 
 ### Revenue History
 
-- $3.58M (3,583,690 euro (as of 2019))
-- $3.08M (3,081,061 pound sterling (as of 2019))
-- $3.47M (3,471,955 pound sterling (as of 2020))
-- $1.41M (1,405,974 pound sterling (as of 2017))
-- $2.04M (2,042,066 pound sterling (as of 2018))
-- $1.07M (1,072,614 pound sterling (as of 2016))
-- $3.99M (3,985,696 pound sterling (as of 2021))
-- $4.30M (4,298,721 pound sterling (as of 2022))
-- $4.73M (4,728,038 pound sterling (as of 2023))
-- $4.89M (4,890,545 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.58M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.08M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.47M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.41M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.04M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.07M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.99M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.30M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.73M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.89M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 42 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 47 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 29 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 30 | as of 2018 | [UNDER-100](/employees_buckets/under-100/) |
+| 26 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 67 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 66 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

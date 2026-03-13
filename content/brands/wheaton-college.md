@@ -2,7 +2,7 @@
 title: Wheaton College
 slug: "wheaton-college"
 description: ""
-date: "2026-03-05T22:38:39.214568"
+date: "2026-03-13T08:56:59.152672"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1860
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Christian liberal arts college in Wheaton, Illinois"
+wikidata_url: "https://www.wikidata.org/wiki/Q747179"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q747179) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1860](/foundation_dates/1860/) |
 | Located In The Administrative Territorial Entity | Wheaton |
 | Country | United States |
 | Coordinate Location | 41.870277777778, -88.098611111111 |
@@ -103,9 +122,7 @@ guideline_count: 1
 | Social Media Followers | 14,154 (as of 2021-01-05), 13,792 (as of 2020-04-24), 14,777 (as of 2022-02-28), 15,152 (as of 2023-02-06), 85,200 (as of 2025-02-01) |
 | Crunchbase Organization Id | wheaton-college |
 | Image | Blanchard Hall (5978664560).jpg |
-| Total Assets | 935,673,174 United States dollar (as of 2020-06-30) |
 | Endowment | 502,044,363 United States dollar (as of 2020-06-30) |
-| Employees | 944 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I73236664 |
@@ -116,7 +133,6 @@ guideline_count: 1
 | Industry | higher education |
 | Hill Museum & Manuscript Library Id | organization/786967827881 |
 | Youtube Channel Id | UCXy57QmloBl4eqUnJXhQwwA (as of 2025-01-20, from 2006-11-18) |
-| Logo Image | Wheaton college textlogo.png |
 | Domain Name | wheaton.edu |
 | Fast Id | 562489 |
 | Nacsis Cat Author Id | DA15204489 |
@@ -124,3 +140,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/dbc7b6e7-3696-42e6-92ce-ad126a3f92db |
 | Snarc Id | Q159546 |
 | Athletics Program | Wheaton Thunder |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 944 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $935.67M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

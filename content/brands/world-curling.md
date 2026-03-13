@@ -2,7 +2,7 @@
 title: World Curling
 slug: "world-curling"
 description: ""
-date: "2026-03-05T22:38:39.089395"
+date: "2026-03-13T08:56:59.043334"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - perth
+subsidiaries: []
+foundation_dates:
+  - 1966
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "international sport governing body for the sport of curling, formerly known as the World Curling Federation (WCF)"
+wikidata_url: "https://www.wikidata.org/wiki/Q1060432"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -60,6 +73,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1060432) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Perth](/headquarters_locations/perth/) |
+| Foundation Date | [1966](/foundation_dates/1966/) |
 | Freebase Id | /m/05cxzv |
 | Viaf Cluster Id | 134814032 |
 | Sport | curling |
@@ -84,4 +103,3 @@ guideline_count: 1
 | Related Image | Bundesarchiv Bild 102-13073, St. Moritz, Curlingspiel.jpg |
 | Encyclopedia Of China (Third Edition) Id | 30384 |
 | Uia Open Yearbook Organization Website Id | 1100033850 |
-| Logo Image | World Curling 2024.svg |

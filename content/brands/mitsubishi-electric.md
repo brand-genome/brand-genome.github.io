@@ -2,12 +2,12 @@
 title: Mitsubishi Electric
 slug: "mitsubishi-electric"
 description: ""
-date: "2026-03-05T22:38:39.225447"
+date: "2026-03-13T08:56:59.167905"
 draft: false
 sectors:
+  - hardware
   - "home-appliances"
   - electronics
-  - hardware
 regions:
   - japan
 years:
@@ -23,9 +23,20 @@ industries:
 countries:
   - japan
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - chiyoda
+subsidiaries: []
+foundation_dates:
+  - 1921
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese electronics and electrical equipments manufacturing company
+wikidata_url: "https://www.wikidata.org/wiki/Q53257"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q53257) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chiyoda](/headquarters_locations/chiyoda/) |
+| Foundation Date | [1921](/foundation_dates/1921/) |
 | Topic'S Main Category | Category:Mitsubishi Electric |
 | Freebase Id | /m/043rz3 |
 | Stock Exchange | London Stock Exchange (from 1989-09-05), Tokyo Stock Exchange |
@@ -81,7 +100,6 @@ guideline_count: 1
 | Ndl Authority Id | 00300572 |
 | Location Of Formation | Tokyo |
 | Legal Form | kabushiki gaisha |
-| Logo Image | Mitsubishi Electric logo.svg |
 | Corporate Number (Japan) | 4010001008772 |
 | Isni | 0000000106623151 |
 | Ringgold Id | 13340 |
@@ -123,4 +141,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $860.00M (860,000,000 United States dollar (as of 2018-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $860.00M | as of 2018-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |

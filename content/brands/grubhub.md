@@ -2,11 +2,11 @@
 title: Grubhub
 slug: grubhub
 description: ""
-date: "2026-03-05T22:38:39.095081"
+date: "2026-03-13T08:56:59.048475"
 draft: false
 sectors:
-  - food
   - ecommerce
+  - food
 regions:
   - usa
 years:
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - app
   - "food-beverage"
+  - app
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - chicago
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "on-demand restaurant food delivery service"
+wikidata_url: "https://www.wikidata.org/wiki/Q17019647"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17019647) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chicago](/headquarters_locations/chicago/) |
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Headquarters Location | Chicago |
 | Snapchat Username | grubhub |
 | Inception | 2004 |
@@ -88,6 +107,5 @@ guideline_count: 1
 | Founded By | Matt Maloney |
 | Operating Area | United States |
 | Legal Entity Identifier | 529900CR2K1AJ5W4RR39 |
-| Logo Image | GrubHub Logo 2016.svg |
 | Official Name | Grubhub Holdings Inc. |
 | Threads Username | grubhub |

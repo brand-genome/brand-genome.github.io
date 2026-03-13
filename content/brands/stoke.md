@@ -2,11 +2,11 @@
 title: Stoke
 slug: stoke
 description: ""
-date: "2026-03-05T22:38:39.562901"
+date: "2026-03-13T08:56:59.486759"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - "new-zealand"
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "stoke-on-trent"
+subsidiaries: []
+foundation_dates:
+  - 1863
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,10 +50,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - vertical
   - horizontal
+  - wordmark
+  - vertical
 brand_colors:
   - white
   - gold
@@ -52,10 +63,12 @@ typographies: []
 imagery_styles:
   - natural
 wikidata_description: "association football club in Stoke-on-Trent, England"
+wikidata_url: "https://www.wikidata.org/wiki/Q18736"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18736) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stoke On Trent](/headquarters_locations/stoke-on-trent/) |
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | League Or Competition | Premier League (until 2019), EFL Championship (from 2019) |
 | Home Venue | Britannia Stadium |
 | Head Coach | Nathan Jones (from 2019-01, until 2019-11-01), Gary Rowett (from 2018-05-22, until 2019-01-08), Michael O'Neill (from 2019-11-20, until 2022-08-25), Alex Neil (from 2022-08-28, until 2023-12-10), Steven Schumacher (from 2023-12-19, until 2024-09-16) (+3 more) |

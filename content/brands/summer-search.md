@@ -2,7 +2,7 @@
 title: Summer Search
 slug: "summer-search"
 description: ""
-date: "2026-03-05T22:38:39.712494"
+date: "2026-03-13T08:56:59.729543"
 draft: false
 sectors:
   - education
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oakland
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q55471481"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +82,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55471481) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oakland](/headquarters_locations/oakland/) |
 | Charity Navigator Id (Obsolete) | 12669 |
 | Country | United States |
 | Irs Employer Identification Number | 68-0200138 |
@@ -77,22 +95,41 @@ guideline_count: 1
 | Donations | 19,807,747 United States dollar (as of 2019), 26,269,015 United States dollar (as of 2022), 33,769,129 United States dollar (as of 2021), 22,543,882 United States dollar (as of 2023), 10,612,227 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | Oakland |
-| Total Assets | 31,916,148 United States dollar (as of 2022), 27,211,830 United States dollar (as of 2021), 34,300,230 United States dollar (as of 2023), 10,936,416 United States dollar (as of 2011), 12,023,861 United States dollar (as of 2012) (+8 more) |
 | Tiktok Username | summersearch |
 | Linkedin Company Or Organization Id | summersearch |
 
 ### Revenue History
 
-- $19.43M (19,426,203 United States dollar (as of 2016-01-01))
-- $20.19M (20,188,758 United States dollar (as of 2019))
-- $19.00M (19,004,416 United States dollar (as of 2018))
-- $18.81M (18,810,898 United States dollar (as of 2017))
-- $26.58M (26,583,074 United States dollar (as of 2022))
-- $33.94M (33,940,327 United States dollar (as of 2021))
-- $23.49M (23,488,377 United States dollar (as of 2023))
-- $10.77M (10,765,385 United States dollar (as of 2011))
-- $12.98M (12,978,935 United States dollar (as of 2012))
-- $14.43M (14,425,255 United States dollar (as of 2013))
-- $16.11M (16,109,576 United States dollar (as of 2014))
-- $19.86M (19,857,482 United States dollar (as of 2015))
-- $18.41M (18,405,930 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $19.43M | as of 2016-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $20.19M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.00M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.81M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $26.58M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $33.94M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $23.49M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.77M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $12.98M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $14.43M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $16.11M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.86M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.41M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $31.92M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.21M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $34.30M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.94M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.02M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.22M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.81M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.44M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $13.47M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $13.81M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.29M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $9.61M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $13.67M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

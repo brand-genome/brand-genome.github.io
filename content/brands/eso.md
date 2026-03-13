@@ -2,7 +2,7 @@
 title: ESO
 slug: eso
 description: ""
-date: "2026-03-05T22:38:39.394489"
+date: "2026-03-13T08:56:59.361139"
 draft: false
 sectors:
   - research
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "garching-bei-munchen"
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,21 +55,23 @@ logo_elements:
   - horizontal
 brand_colors:
   - white
-  - black
   - blue
   - "pantone-3005"
+  - black
   - gray
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: intergovernmental organization and observatory in Chile
+wikidata_url: "https://www.wikidata.org/wiki/Q151991"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,11 +123,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q151991) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Garching Bei Munchen](/headquarters_locations/garching-bei-munchen/) |
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Topic'S Main Category | Category:European Southern Observatory |
 | Freebase Id | /m/017p2w |
 | Inception | 1962-01-01 |
 | Headquarters Location | Garching bei München |
-| Employees | 730 (as of 2017) |
 | Director / Manager | Tim de Zeeuw (from 2007-09-01, until 2017-08), Catherine Cesarsky (from 1999-01-01, until 2007-01-01), Riccardo Giacconi (from 1993-01-01, until 1999-01-01), Harry van der Laan (from 1988-01-01, until 1992-01-01), Lodewijk Woltjer (from 1975-01-01, until 1987-01-01) (+3 more) |
 | Isni | 0000000123644835, 0000000406456631 |
 | X (Twitter) Username | ESO (as of 2020-04-15, from 2008-08-12), ESO_Chile (as of 2020-04-25, from 2012-03-08) |
@@ -132,7 +151,6 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 501100004604 |
 | Google+ Id | 103764692395166148463 |
 | Idref Id | 030338530 |
-| Logo Image | European Southern Observatory (ESO) logo.svg |
 | Encyclopædia Britannica Online Id | topic/European-Southern-Observatory |
 | Grid Id | grid.424907.c |
 | Great Russian Encyclopedia Online Id (2017) | 5209102, 1974656 |
@@ -185,3 +203,9 @@ guideline_count: 1
 | Open Library Subject Id | european_southern_observatory |
 | ‎Yale Lux Id | group/5ceb577e-9938-4deb-ab9c-1c4016c523dc |
 | Member Count | 16 country |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 730 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |

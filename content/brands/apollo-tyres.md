@@ -2,7 +2,7 @@
 title: Apollo Tyres
 slug: "apollo-tyres"
 description: ""
-date: "2026-03-05T22:38:39.079263"
+date: "2026-03-13T08:56:59.031942"
 draft: false
 sectors:
   - tires
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - gurgaon
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Indian tyre manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q4780362"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -60,9 +73,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4780362) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Gurgaon](/headquarters_locations/gurgaon/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Inception | 1972 |
 | Headquarters Location | Gurgaon |
-| Logo Image | Apollo Tyres logo.svg |
 | Isin | INE438A01022 |
 | Child Organization Or Unit | Reifencom, Vredestein Banden B.V. |
 | Country | India |

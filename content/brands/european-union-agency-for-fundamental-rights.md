@@ -2,7 +2,7 @@
 title: European Union Agency for Fundamental Rights
 slug: "european-union-agency-for-fundamental-rights"
 description: ""
-date: "2026-03-05T22:38:39.303057"
+date: "2026-03-13T08:56:59.244950"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vienna
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,25 +52,27 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
-  - white
-  - blue
   - "pantone-109"
+  - white
   - yellow
+  - blue
 typographies:
+  - futura
   - impact
   - "sans-serif"
-  - futura
 imagery_styles:
-  - bold
   - professional
+  - bold
 wikidata_description: agency of the European Union
+wikidata_url: "https://www.wikidata.org/wiki/Q48790"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +126,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48790) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vienna](/headquarters_locations/vienna/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Headquarters Location | Vienna |
 | Freebase Id | /m/094z0v |
 | Gnd Id | 10177046-7 |
@@ -126,7 +146,6 @@ guideline_count: 1
 | Uk Parliament Thesaurus Id | 33601 |
 | Nl Cr Aut Id | vse2008445826, vse2005279100 |
 | Ringgold Id | 118518 |
-| Employees | 105 (as of 2019) |
 | On Focus List Of Wikimedia Project | WikiProject Human rights, Govdirectory |
 | Facebook Username | fundamentalrights |
 | X (Twitter) Username | EURightsAgency (as of 2020-04-25, from 2010-11-19) |
@@ -153,10 +172,15 @@ guideline_count: 1
 | Eu Corporate Body Code | FRA |
 | ‎Yale Lux Id | group/3fd81a29-c6d2-4705-b992-08cfa0c838d7 |
 | Country | Austria |
-| Logo Image | EU-FRA-logo.svg |
 | Youtube Handle | euagencyfra (as of 2025-10-20) |
 | Number Of Viewers/Listeners | 707,853 (as of 2025-11-27) |
 | Termdat Concept Id | 501659 |
 | Field Of Work | fundamental rights |
 | Contact Page Url | https://fra.europa.eu/en/contact |
 | Phone Number | +43-1-580-30-0 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 105 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |

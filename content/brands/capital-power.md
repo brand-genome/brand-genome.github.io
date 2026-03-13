@@ -2,17 +2,17 @@
 title: Capital Power
 slug: "capital-power"
 description: ""
-date: "2026-03-05T22:38:39.637945"
+date: "2026-03-13T08:56:59.566732"
 draft: false
 sectors:
+  - utilities
   - gas
   - "renewable-energy"
-  - utilities
 regions:
   - canada
 years:
-  - 2014
   - 2019
+  - 2014
 languages:
   - english
 tags:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - edmonton
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,31 +53,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
   - white
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
+  - gray
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - photography
-  - professional
   - clean
+  - professional
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1034651"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -147,9 +160,14 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1034651) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Edmonton](/headquarters_locations/edmonton/) |
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Stock Exchange | Toronto Stock Exchange |
 | Headquarters Location | Edmonton |
-| Logo Image | Capital Power Corp logo.svg |
 | Freebase Id | /m/05zzxdj |
 | Quora Topic Id | Capital-Power-Corporation |
 | Country | Canada |

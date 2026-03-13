@@ -2,7 +2,7 @@
 title: Medallia
 slug: medallia
 description: ""
-date: "2026-03-05T22:38:39.476984"
+date: "2026-03-13T08:56:59.411653"
 draft: false
 sectors:
   - software
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "palo-alto"
+  - "san-mateo"
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +52,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - "app-icon"
   - primary
+  - "app-icon"
 brand_colors:
   - white
-  - black
-  - indigo
   - blue
+  - black
   - gray
+  - indigo
 typographies:
   - display
 imagery_styles:
   - product
 wikidata_description: American customer and employee experience management company
+wikidata_url: "https://www.wikidata.org/wiki/Q16951161"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -157,6 +171,12 @@ Body copy — Museo Sans 300 in dark gray.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16951161) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [San Mateo](/headquarters_locations/san-mateo/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | United States |
 | Inception | 2001 |
 | Quora Topic Id | Medallia-product |

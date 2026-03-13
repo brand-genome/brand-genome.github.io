@@ -2,7 +2,7 @@
 title: Swinburne
 slug: swinburne
 description: ""
-date: "2026-03-05T22:38:39.394186"
+date: "2026-03-13T08:56:59.360769"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
   - university
 industries: []
 countries:
@@ -23,6 +23,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ typographies: []
 imagery_styles:
   - portrait
 wikidata_description: "university in Victoria, Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q787234"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,6 +150,11 @@ USE
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q787234) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Coordinate Location | -37.821111111111, 145.03833333333 |
 | Country | Australia |
 | Located In The Administrative Territorial Entity | Victoria |

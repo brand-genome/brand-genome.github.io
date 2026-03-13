@@ -2,11 +2,11 @@
 title: NewTek
 slug: newtek
 description: ""
-date: "2026-03-05T22:38:39.512787"
+date: "2026-03-13T08:56:59.438051"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,22 +53,24 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - magenta
-  - black
-  - "pantone-426"
   - blue
+  - black
   - gray
+  - magenta
+  - "pantone-426"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - photography
   - product
 wikidata_description: 3D graphics software
+wikidata_url: "https://www.wikidata.org/wiki/Q857341"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,12 +117,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q857341) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Freebase Id | /m/02dy0_ |
 | Developer | NewTek |
 | Gui Toolkit Or Framework | Qt |
 | Quora Topic Id | Lightwave-3D |
 | Has Use | 3D computer graphics |
-| Logo Image | Lightwave Icon.png |
 | Operating System | AmigaOS |
 | Readable File Format | Lightwave 3D Object, Lightwave 3D Layered Object, LightWave Scene, LightWave Motion data, LightWave 3D exported object |
 | Subreddit | lightwave (from 2011-07-06) |

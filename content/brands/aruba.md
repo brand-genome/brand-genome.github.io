@@ -2,11 +2,11 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-03-05T22:38:39.736518"
+date: "2026-03-13T08:56:59.779218"
 draft: false
 sectors:
-  - networking
   - cybersecurity
+  - networking
   - hardware
 regions:
   - usa
@@ -19,15 +19,42 @@ tags:
   - technology
   - networks
 industries:
-  - "online-service"
   - telecommunications
+  - "online-service"
   - "computer-science"
 countries:
   - italy
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "digital-preservation"
+  - "colocation-centre"
+  - "internet-service-provider"
+  - email
+  - "fiber-optic-communication"
+  - "sistema-pubblico-di-identita-digitale"
+  - "internet-hosting-service"
+  - "certified-email"
+  - "digital-signature"
+  - "online-service-provider"
+  - "public-key-certificate"
+  - "domain-name-server"
+  - "cloud-computing"
+  - "electronic-billing"
+  - "server-computer"
+products: []
+headquarters_locations:
+  - "ponte-san-pietro"
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,10 +82,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: Italian registrar and Web hosting company
+wikidata_url: "https://www.wikidata.org/wiki/Q3624634"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,9 +145,15 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3624634) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Email](/products_or_materials_produced/email/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Sistema Pubblico Di Identita Digitale](/products_or_materials_produced/sistema-pubblico-di-identita-digitale/); [Internet Hosting Service](/products_or_materials_produced/internet-hosting-service/); [Certified Email](/products_or_materials_produced/certified-email/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Online Service Provider](/products_or_materials_produced/online-service-provider/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); [Domain Name Server](/products_or_materials_produced/domain-name-server/); +3 more |
+| Headquarters Location | [Ponte San Pietro](/headquarters_locations/ponte-san-pietro/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Location Of Formation | Florence |
 | Inception | 1994 |
-| Logo Image | Logo aruba it.png |
 | Legal Form | società per azioni (from 2004), società a responsabilità limitata (from 1994, until 2004) |
 | Headquarters Location | Ponte San Pietro |
 | Country | Italy |
@@ -134,7 +169,6 @@ guideline_count: 2
 | Product Or Material Produced | internet hosting service, internet service provider, Domain Name Server, cloud computing, colocation centre (+10 more) |
 | Crunchbase Organization Id | aruba-3823 |
 | Member Of | Associazione Italiana Internet Provider |
-| Employees | 900 (as of 2021) |
 | Social Media Followers | 11,114 (as of 2022-12-27), 8,470 (as of 2022-12-28), 9,400 (as of 2023-05-31), 10,800 (as of 2024-01-14), 11,900 (as of 2024-04-27) (+2 more) |
 | Pinterest Username | arubaspa |
 | Slideshare Username | Aruba-spa |
@@ -143,4 +177,12 @@ guideline_count: 2
 
 ### Revenue History
 
-- $168.50M (168,500,000 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $168.50M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 900 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |

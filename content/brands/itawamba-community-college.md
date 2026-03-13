@@ -2,7 +2,7 @@
 title: Itawamba Community College
 slug: "itawamba-community-college"
 description: ""
-date: "2026-03-05T22:38:39.284440"
+date: "2026-03-13T08:56:59.226468"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "community college in Fulton, Mississippi, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q6094155"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6094155) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Country | United States |
 | Coordinate Location | 34.2764, -88.4125 |
 | Topic'S Main Category | Category:Itawamba Community College |
@@ -82,8 +100,13 @@ guideline_count: 1
 | Viaf Cluster Id | 145789288 |
 | Freebase Id | /m/083mhc |
 | Count Of Students | 4,696 (as of 2020-09) |
-| Employees | 555 (as of 2020-09) |
 | Academic Calendar Type | semester |
 | Sevis School Id | 10125 |
 | Member Of | American Association of Community Colleges |
 | Athletics Program | Itawamba Indians |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 555 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

@@ -2,7 +2,7 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-03-05T22:38:39.801896"
+date: "2026-03-13T08:56:59.857233"
 draft: false
 sectors:
   - "parcel-service"
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hoofddorp
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,25 +57,27 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - orange
+  - black
 typographies:
-  - arial
   - times
+  - arial
 imagery_styles:
-  - bold
   - photography
-  - staged
   - natural
+  - staged
+  - bold
 wikidata_description: International trademark owned by FedEx
+wikidata_url: "https://www.wikidata.org/wiki/Q1105744"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,11 +120,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1105744) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hoofddorp](/headquarters_locations/hoofddorp/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Freebase Id | /m/0gvs2f2 |
 | Viaf Cluster Id | 155625570 |
 | Headquarters Location | Hoofddorp |
 | Inception | 2011-01-01 |
-| Logo Image | TNT Logo.svg |
 | Owned By | FedEx |
 | Legal Form | naamloze vennootschap |
 | Parent Organization Or Unit | FedEx |

@@ -2,11 +2,11 @@
 title: Massive Music
 slug: "massive-music"
 description: ""
-date: "2026-03-05T22:38:39.325608"
+date: "2026-03-13T08:56:59.279016"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
   - entertainment
 regions:
   - netherlands
@@ -15,14 +15,23 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - music
+  - marketing
 industries:
   - "media-industry"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,30 +50,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
   - white
-  - orange
   - black
+  - orange
 typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - bold
-  - playful
-  - serious
   - dynamic
+  - serious
+  - playful
   - minimal
   - gradient
+  - bold
 wikidata_description: sound design company involved in the Wikimedia sound logo process
+wikidata_url: "https://www.wikidata.org/wiki/Q112123650"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,8 +131,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q112123650) |
+
+| Property | Value |
+|----------|-------|
 | Industry | media industry |
 | Uses | sound design |
 | Official Color | orange |
-| Logo Image | MassiveMusic.svg |
 | Facet Of | Wikimedia sound logo |

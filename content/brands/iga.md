@@ -2,7 +2,7 @@
 title: IGA
 slug: iga
 description: ""
-date: "2026-03-05T22:38:39.553319"
+date: "2026-03-13T08:56:59.475309"
 draft: false
 sectors:
   - supermarket
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,13 +51,15 @@ brand_colors: []
 typographies:
   - display
 imagery_styles:
-  - bold
   - illustration
+  - bold
 wikidata_description: antibody that plays a crucial role in the immune function of mucous membranes
+wikidata_url: "https://www.wikidata.org/wiki/Q79453"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +97,10 @@ guideline_count: 1
 - List of contacts including Manager Creative Services (Joel Widmer) and Porchlight Associate Creative Director (Penny Cannon).
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q79453) |
 
 | Property | Value |
 |----------|-------|

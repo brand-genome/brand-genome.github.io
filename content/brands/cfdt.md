@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-03-05T22:38:39.081532"
+date: "2026-03-13T08:56:59.034661"
 draft: false
 sectors:
   - ngo
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1964
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,17 +52,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - orange
 typographies: []
 imagery_styles: []
 wikidata_description: Trade union in France
+wikidata_url: "https://www.wikidata.org/wiki/Q1125605"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1125605) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1964](/foundation_dates/1964/); [1919](/foundation_dates/1919/) |
 | Freebase Id | /m/01v_bk |
 | Topic'S Main Category | Category:Confédération française démocratique du travail |
 | Viaf Cluster Id | 159011716 |
@@ -116,7 +136,6 @@ guideline_count: 1
 | Headquarters Location | Paris |
 | Great Norwegian Encyclopedia Id | Confédération_française_démocratique_du_travail |
 | National Library Of Israel J9U Id | 987007259810505171 |
-| Logo Image | Confédération française démocratique du travail logo.svg (until 2012-11), Confédération française démocratique du travail 2023 logo.svg |
 | Industry | activities of employee unions |
 | Eu Vat Number | FR05784409930 |
 | General Secretary | Laurent Berger (from 2012, until 2023), Marylise Léon (from 2023) |

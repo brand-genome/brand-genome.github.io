@@ -2,7 +2,7 @@
 title: Lauak
 slug: lauak
 description: ""
-date: "2026-03-05T22:38:39.472584"
+date: "2026-03-13T08:56:59.408218"
 draft: false
 sectors:
   - aerospace
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - industry
   - aeronautic
+  - industry
 industries:
   - unknown
 countries:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - ayherre
+  - hasparren
+subsidiaries: []
+foundation_dates:
+  - 1975
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +60,15 @@ typographies:
   - verdana
   - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q86733110"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,7 +111,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Employees | 654 (as of 2018) |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q86733110) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ayherre](/headquarters_locations/ayherre/); [Hasparren](/headquarters_locations/hasparren/) |
+| Foundation Date | [1975](/foundation_dates/1975/) |
 | Inception | 1975-10-27, 1975-01-01 |
 | Headquarters Location | Ayherre (until 2020-03-06), Hasparren (from 2020-03-06) |
 | Google Knowledge Graph Id | /g/11g6__gxks |
@@ -107,3 +127,9 @@ guideline_count: 1
 | Legal Form | société par actions simplifiée |
 | Industry |  |
 | Official Name | LAUAK FRANCE |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 654 | as of 2018 | [100-1K](/employees_buckets/100-1k/) |

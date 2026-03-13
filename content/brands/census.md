@@ -2,11 +2,11 @@
 title: Census
 slug: census
 description: ""
-date: "2026-03-05T22:38:39.691216"
+date: "2026-03-13T08:56:59.618849"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - usa
 years:
@@ -21,6 +21,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - suitland
+  - maryland
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1902
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: U.S. agency responsible for the census and related statistics
+wikidata_url: "https://www.wikidata.org/wiki/Q637413"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q637413) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Suitland](/headquarters_locations/suitland/); [Maryland](/headquarters_locations/maryland/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1902](/foundation_dates/1902/) |
 | Topic'S Main Category | Category:United States Census Bureau |
 | Gnd Id | 43130-8 (from 1903-07-01), 1086264584 |
 | Library Of Congress Authority Id | n83054431, no2003100601 |
@@ -113,7 +135,6 @@ guideline_count: 1
 | Libraries Australia Id | 35564026 |
 | Idref Id | 02637675X |
 | Headquarters Location | Suitland (from 1942), Washington, D.C. (from 1902, until 1942), Maryland (from 1942) |
-| Logo Image | United States Census Bureau Wordmark.svg |
 | Inception | 1902-03-06 |
 | Country | United States |
 | Politifact People And Groups Id | us-census-bureau |
@@ -200,7 +221,6 @@ guideline_count: 1
 | Youtube Channel Id | UCQP2vGchSQr_U81ID-E7DHQ (as of 2024-12-24, from 2009-01-06) |
 | External Data Available At Url | https://data.census.gov/, https://catalog.data.gov/dataset?q=bureauCode:%22006:07%22, https://censusreporter.org/ |
 | Openstreetmap Relation Id | 1848492 |
-| Employees | 4,285 (as of 2022-10-04) |
 | Domain Name | census.gov |
 | Data Commons Id | dc/s/UnitedStatesCensusBureau |
 | Great Russian Encyclopedia Portal Id | biuro-perepisi-naseleniia-ssha-7955b1 |
@@ -223,3 +243,9 @@ guideline_count: 1
 | Librivox Author Id | 10679 |
 | Microsoft Academic Id (Discontinued) | 1333512998 |
 | Video | Video explaining how to use data.census.gov.ogv |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,285 | as of 2022-10-04 | [1K-10K](/employees_buckets/1k-10k/) |

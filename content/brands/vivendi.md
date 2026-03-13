@@ -2,11 +2,11 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-03-05T22:38:39.812841"
+date: "2026-03-13T08:56:59.881003"
 draft: false
 sectors:
-  - publishing
   - "marketing-advertising"
+  - publishing
   - entertainment
 regions:
   - france
@@ -21,11 +21,25 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1981
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +60,22 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - violet
+  - white
   - "pantone-249"
   - black
 typographies:
   - univers
 imagery_styles:
-  - bold
   - vibrant
+  - bold
 wikidata_description: French mass media holding company
+wikidata_url: "https://www.wikidata.org/wiki/Q1127887"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,21 +122,24 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1127887) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1981](/foundation_dates/1981/); [1987](/foundation_dates/1987/) |
 | Topic'S Main Category | Category:Vivendi |
 | Freebase Id | /m/049ql1 |
 | Headquarters Location | Paris |
-| Logo Image | Logo vivendi.svg |
 | Isin | FR0000127771 |
 | Inception | 1987-12-18, 1981 |
 | Viaf Cluster Id | 195912018 |
 | Stock Exchange | Euronext Paris, Italian Stock Exchange |
 | Idref Id | 050735578 |
 | Part Of | CAC 40 |
-| Employees | 22,603 (as of 2016-12-31), 41,743 (as of 2017-12-31), 44,142 (as of 2018-12-31), 44,641 (as of 2019-12-31), 42,526 (as of 2020-12-31) (+2 more) |
 | Eu Transparency Register Id | 057865115207-48 |
 | Great Russian Encyclopedia Online Id (2017) | 1912206 |
 | Country | France |
-| Total Assets | 32,365,000,000 euro (as of 2016-12-31), 34,946,000,000 euro (as of 2015-12-31), 34,333,000,000 euro (as of 2017-12-31), 38,251,000,000 euro (as of 2023-12-31) |
 | Child Organization Or Unit | Canal+, Gameloft, Dailymotion, Havas, Vivendi Village (+5 more) |
 | Owner Of | TIM Group, MFE - MediaForEurope, Telefónica, Banijay Entertainment, Lagardère Group (+1 more) |
 | Grid Id | grid.437705.2 |
@@ -170,45 +189,72 @@ guideline_count: 1
 
 ### Revenue History
 
-- $25.39B (25,390,000,000 euro (as of 2007))
-- $10.82B (10,819,000,000 euro (as of 2016))
-- $10.76B (10,762,000,000 euro (as of 2015))
-- $10.09B (10,089,000,000 euro (as of 2014))
-- $12.44B (12,444,000,000 euro (as of 2017))
-- $13.93B (13,932,000,000 euro (as of 2018))
-- $27.13B (27,132,000,000 euro (as of 2009))
-- $28.88B (28,878,000,000 euro (as of 2010))
-- $28.81B (28,813,000,000 euro (as of 2011))
-- $22.58B (22,577,000,000 euro (as of 2012))
-- $22.14B (22,135,000,000 euro (as of 2013))
-- $15.90B (15,898,000,000 euro (as of 2019))
-- $16.09B (16,090,000,000 euro (as of 2020))
-- $9.57B (9,572,000,000 euro (as of 2021))
-- $9.60B (9,595,000,000 euro (as of 2022))
-- $10.51B (10,510,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $25.39B | as of 2007 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.82B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.76B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.09B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.44B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.93B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.13B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.88B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.81B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.58B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.14B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.90B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $16.09B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.57B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.60B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.51B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $1.19B (1,194,000,000 euro (as of 2016))
-- $1.23B (1,231,000,000 euro (as of 2015))
-- $1.26B (1,261,000,000 euro (as of 2017))
-- $761.00M (761,000,000 euro (as of 2022))
-- $847.00M (847,000,000 euro (as of 2023))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.19B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.23B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.26B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $761.00M | as of 2022 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $847.00M | as of 2023 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $1.27B (1,275,000,000 euro (as of 2016))
-- $1.98B (1,978,000,000 euro (as of 2015))
-- $1.26B (1,261,000,000 euro (as of 2017))
-- $830.00M (830,000,000 euro (as of 2009))
-- $2.20B (2,198,000,000 euro (as of 2010))
-- $2.68B (2,681,000,000 euro (as of 2011))
-- $179.00M (179,000,000 euro (as of 2012))
-- $1.97B (1,967,000,000 euro (as of 2013))
-- $4.74B (4,744,000,000 euro (as of 2014))
-- $127.00M (127,000,000 euro (as of 2018))
-- $1.58B (1,583,000,000 euro (as of 2019))
-- $1.44B (1,440,000,000 euro (as of 2020))
-- $649.00M (649,000,000 euro (as of 2021))
-- $343.00M (343,000,000 euro (as of 2022))
-- $405.00M (405,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.27B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.98B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.26B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $830.00M | as of 2009 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $2.20B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.68B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $179.00M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.97B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.74B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $127.00M | as of 2018 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.58B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.44B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $649.00M | as of 2021 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $343.00M | as of 2022 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $405.00M | as of 2023 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 22,603 | as of 2016-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 41,743 | as of 2017-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 44,142 | as of 2018-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 44,641 | as of 2019-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 42,526 | as of 2020-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 35,911 | as of 2021-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 38,000 | - | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $32.37B | as of 2016-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $34.95B | as of 2015-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $34.33B | as of 2017-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $38.25B | as of 2023-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |

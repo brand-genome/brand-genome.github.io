@@ -2,11 +2,11 @@
 title: Peloton
 slug: peloton
 description: ""
-date: "2026-03-05T22:38:39.535617"
+date: "2026-03-13T08:56:59.467905"
 draft: false
 sectors:
-  - software
   - fitness
+  - software
 regions:
   - usa
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q105975469"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105975469) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Country | Estonia |
 | Sport | road bicycle racing |
 | Official Name | Peloton Cycling Team |

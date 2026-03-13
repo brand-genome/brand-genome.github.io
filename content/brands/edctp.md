@@ -2,12 +2,12 @@
 title: EDCTP
 slug: edctp
 description: ""
-date: "2026-03-05T22:38:39.789272"
+date: "2026-03-13T08:56:59.840067"
 draft: false
 sectors:
+  - ngo
   - research
   - healthcare
-  - ngo
 regions:
   - international
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,22 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
+  - yellow
   - red
   - grey
-  - yellow
 typographies: []
 imagery_styles:
-  - landscape
   - photography
+  - landscape
 wikidata_description: "nonprofit organization in The Hague, Netherlands"
+wikidata_url: "https://www.wikidata.org/wiki/Q30296681"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +123,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30296681) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Grid Id | grid.453375.3 |
 | Inception | 2003-01-01 |
 | Coordinate Location | 52.080575, 4.344426 |
@@ -124,6 +141,6 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | edctp |
 | Youtube Channel Id | UCE8P2tLyguGQxa-1AmQ7Mrg (as of 2025-04-20, from 2012-02-21) |
 | Eu Corporate Body Code | GHEDCTP3 |
-| Email Address | mailto:info@edctp.org |
+| Email Address | info@edctp.org |
 | Youtube Handle | edctpmedia (as of 2025-11-27) |
 | On Focus List Of Wikimedia Project | Govdirectory |

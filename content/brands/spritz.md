@@ -2,7 +2,7 @@
 title: Spritz
 slug: spritz
 description: ""
-date: "2026-03-05T22:38:39.363922"
+date: "2026-03-13T08:56:59.315711"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +52,12 @@ typographies:
   - montserrat
 imagery_styles: []
 wikidata_description: "chilled drink, usually with white wine and sparkling water"
+wikidata_url: "https://www.wikidata.org/wiki/Q655244"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +81,10 @@ guideline_count: 1
 - Clear voice guidelines such as inclusivity, transparency, excitement, and friendliness for communication style.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q655244) |
 
 | Property | Value |
 |----------|-------|

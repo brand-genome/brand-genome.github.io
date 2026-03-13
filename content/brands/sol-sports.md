@@ -2,7 +2,7 @@
 title: Sol Sports
 slug: "sol-sports"
 description: ""
-date: "2026-03-05T22:38:39.695593"
+date: "2026-03-13T08:56:59.620301"
 draft: false
 sectors:
   - fashion
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,18 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q11315426"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -196,6 +208,11 @@ RGB: R255 G255 B255
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11315426) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Inception | 2003-01-24 |
 | Corporate Number (Japan) | 2011001039768 |
 | Google Knowledge Graph Id | /g/122yykjx |

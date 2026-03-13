@@ -2,7 +2,7 @@
 title: Sense Bank
 slug: "sense-bank"
 description: ""
-date: "2026-03-05T22:38:39.198356"
+date: "2026-03-13T08:56:59.134995"
 draft: false
 sectors:
   - finance
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "retail-banking"
+products: []
+headquarters_locations:
+  - kyiv
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Ukrainian state-owned bank"
+wikidata_url: "https://www.wikidata.org/wiki/Q16691757"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,9 +79,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16691757) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Retail Banking](/products_or_materials_produced/retail-banking/) |
+| Headquarters Location | [Kyiv](/headquarters_locations/kyiv/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Inception | 1992 |
 | Image | Комплекс торгівельних будинків Страца. Будинок торгівельний.jpg |
-| Logo Image | Sense bank logo.svg (from 2022-12-01) |
 | Country | Ukraine |
 | Legal Form | joint-stock company |
 | Headquarters Location | Kyiv |

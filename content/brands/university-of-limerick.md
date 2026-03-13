@@ -2,7 +2,7 @@
 title: University of Limerick
 slug: "university-of-limerick"
 description: ""
-date: "2026-03-05T22:38:39.433537"
+date: "2026-03-13T08:56:59.397619"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university in Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q573954"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q573954) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Coordinate Location | 52.675, -8.5726944444444 |
 | Topic'S Main Category | Category:University of Limerick |
 | Freebase Id | /m/01m4b3 |
@@ -90,7 +109,6 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 16639119h |
 | Microsoft Academic Id (Discontinued) | 230495080 |
 | Count Of Students | 17,000 |
-| Employees | 420, 1,992 (as of 2022), 2,130 (as of 2023), 219 (as of 2021), 2,083 (as of 2024) |
 | Library Of Congress Authority Id | n91044690 |
 | X (Twitter) Username | ul (as of 2020-04-14, from 2010-06-24), UL |
 | Facebook Username | universityoflimerick |
@@ -129,18 +147,38 @@ guideline_count: 1
 | Web Feed Url | https://www.ul.ie/rss.xml |
 | Bluesky Handle | unioflimerick.bsky.social (from 2024-11-18) |
 | ‎Yale Lux Id | group/0609e28f-e897-442c-bc1f-fd1ba6451292 |
-| Total Assets | 669,341,000 euro (as of 2022), 667,562,000 euro (as of 2023), 660,160,000 euro (as of 2021), 673,336,000 euro (as of 2024) |
 | Unirank Id | 2332 |
 
 ### Revenue History
 
-- $288.63M (288,630,000 euro (as of 2020))
-- $279.23M (279,227,000 euro (as of 2019))
-- $276.27M (276,266,000 euro (as of 2018))
-- $243.26M (243,263,000 euro (as of 2015))
-- $247.65M (247,651,000 euro (as of 2016))
-- $270.83M (270,834,000 euro (as of 2017))
-- $351.93M (351,925,879 euro (as of 2022))
-- $364.93M (364,934,000 euro (as of 2023))
-- $309.07M (309,068,000 euro (as of 2021))
-- $393.15M (393,146,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $288.63M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $279.23M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $276.27M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $243.26M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $247.65M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $270.83M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $351.93M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $364.93M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $309.07M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $393.15M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 420 | - | [100-1K](/employees_buckets/100-1k/) |
+| 1,992 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,130 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 219 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 2,083 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $669.34M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $667.56M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $660.16M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $673.34M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

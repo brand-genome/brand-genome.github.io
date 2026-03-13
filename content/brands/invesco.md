@@ -2,7 +2,7 @@
 title: Invesco
 slug: invesco
 description: ""
-date: "2026-03-05T22:38:39.315430"
+date: "2026-03-13T08:56:59.260053"
 draft: false
 sectors:
   - finance
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - toronto
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,31 +48,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
-  - primary
-  - secondary
   - stacked
+  - primary
+  - abstract
+  - secondary
 brand_colors:
   - white
-  - blue
   - silver
+  - blue
   - gray
 typographies:
   - "gill-sans"
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - professional
-  - abstract
-  - minimal
-  - modern
   - natural
+  - modern
+  - professional
+  - photography
+  - minimal
+  - abstract
+  - bold
 wikidata_description: Trading platform for mutual funds
+wikidata_url: "https://www.wikidata.org/wiki/Q93360231"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -148,6 +160,11 @@ Key phrases: 'Confidence in your financial future.'
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q93360231) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Toronto](/headquarters_locations/toronto/) |
 | Country | Canada |
 | Mic Market Code | IVZX (from 2014-07-28) |
 | Headquarters Location | Toronto |

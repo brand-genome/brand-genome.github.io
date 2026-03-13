@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 slug: "arkansas-tech-university"
 description: ""
-date: "2026-03-05T22:38:39.367150"
+date: "2026-03-13T08:56:59.321730"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - russellville
+subsidiaries: []
+foundation_dates:
+  - 1909
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,30 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - symbol
   - icon
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - gold
-  - black
-  - "pantone-343"
-  - green
   - "pantone-116"
+  - "pantone-343"
+  - gold
+  - green
+  - black
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - product
+  - bold
 wikidata_description: "public university in Russellville, Arkansas"
+wikidata_url: "https://www.wikidata.org/wiki/Q673111"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +139,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q673111) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Russellville](/headquarters_locations/russellville/) |
+| Foundation Date | [1909](/foundation_dates/1909/) |
 | Country | United States |
 | Topic'S Main Category | Category:Arkansas Tech University |
 | Image | University Commons at Arkansas Tech.JPG |
@@ -158,7 +178,6 @@ guideline_count: 1
 | Social Media Followers | 13,057 (as of 2021-01-07), 13,585 (as of 2022-01-27), 14,166 (as of 2023-02-11) |
 | Carnegie Hall Agent Id | 126058 |
 | Count Of Students | 10,829 (as of 2020-09) |
-| Employees | 1,125 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I9508535 |
@@ -167,7 +186,6 @@ guideline_count: 1
 | Official Map Url | https://www.atu.edu/map/ |
 | Musicbrainz Place Id | d29f4028-ed33-41d6-b907-56cb1a58f63b |
 | Academic Calendar Type | semester |
-| Logo Image | Arkansas Tech University 2020 logo.svg |
 | Native Label | Arkansas Tech University |
 | Sevis School Id | 8721 |
 | Member Of | American Association of State Colleges and Universities |
@@ -176,3 +194,9 @@ guideline_count: 1
 | Number Of Viewers/Listeners | 942,663 (as of 2025-12-05) |
 | Threads Username | arkansastech |
 | Athletics Program | Arkansas Tech Wonder Boys and Golden Suns |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,125 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

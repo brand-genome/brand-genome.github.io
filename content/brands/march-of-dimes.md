@@ -2,11 +2,11 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-03-05T22:38:39.320405"
+date: "2026-03-13T08:56:59.269958"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - usa
@@ -15,15 +15,27 @@ years:
 languages:
   - english
 tags:
-  - charity
   - health
+  - charity
 industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "white-plains"
+subsidiaries: []
+foundation_dates:
+  - 1938
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +54,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - portrait
+  - bold
 wikidata_description: United States nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q751572"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q751572) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [White Plains](/headquarters_locations/white-plains/) |
+| Foundation Date | [1938](/foundation_dates/1938/) |
 | Freebase Id | /m/03j1fj |
 | Award Received | Four Freedoms Award – Freedom from Want (as of 2001) |
 | Viaf Cluster Id | 151076835, 139016521 |
@@ -135,23 +155,43 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007605163605171 |
 | Cinii Research Id | 1140000791598542080, 1140282266707187456 |
 | Wikiprojectmed Id | March of Dimes |
-| Total Assets | 72,400,131 United States dollar (as of 2022), 88,338,195 United States dollar (as of 2021), 67,854,062 United States dollar (as of 2023), 156,180,805 United States dollar (as of 2011), 155,522,247 United States dollar (as of 2012) (+9 more) |
 | Tiktok Username | marchofdimes |
 | ‎Yale Lux Id | group/f333abe0-23e5-465b-b6a6-e2f6ec9f9b70 |
 
 ### Revenue History
 
-- $169.31M (169,312,864 United States dollar (as of 2016-01-01))
-- $129.61M (129,607,332 United States dollar (as of 2019))
-- $141.33M (141,327,601 United States dollar (as of 2018))
-- $104.99M (104,990,667 United States dollar (as of 2022))
-- $103.31M (103,313,398 United States dollar (as of 2021))
-- $88.51M (88,512,222 United States dollar (as of 2023))
-- $207.89M (207,886,586 United States dollar (as of 2011))
-- $205.50M (205,497,687 United States dollar (as of 2012))
-- $202.81M (202,811,920 United States dollar (as of 2013))
-- $195.89M (195,886,297 United States dollar (as of 2014))
-- $186.72M (186,724,568 United States dollar (as of 2015))
-- $164.21M (164,208,429 United States dollar (as of 2017))
-- $100.85M (100,854,404 United States dollar (as of 2020))
-- $83.57M (83,573,258 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $169.31M | as of 2016-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $129.61M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $141.33M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $104.99M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $103.31M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $88.51M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $207.89M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $205.50M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $202.81M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $195.89M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $186.72M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $164.21M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $100.85M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $83.57M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $72.40M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $88.34M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $67.85M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $156.18M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $155.52M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $153.95M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $139.98M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $112.86M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $94.17M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $78.01M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $71.79M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $72.56M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $74.95M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $64.17M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |

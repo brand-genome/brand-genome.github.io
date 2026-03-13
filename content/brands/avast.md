@@ -2,16 +2,16 @@
 title: Avast
 slug: avast
 description: ""
-date: "2026-03-05T22:38:39.565561"
+date: "2026-03-13T08:56:59.492090"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - "czech-republic"
 years:
-  - 2016
   - 2019
+  - 2016
 languages:
   - english
 tags:
@@ -22,11 +22,26 @@ industries:
 countries:
   - "czech-republic"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - avast
+products: []
+headquarters_locations:
+  - prague
+subsidiaries: []
+foundation_dates:
+  - 1988
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,28 +60,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
   - symbol
 brand_colors:
   - white
   - red
+  - blue
+  - yellow
+  - "pantone-267"
+  - purple
+  - green
   - orange
   - black
-  - yellow
-  - blue
-  - "pantone-267"
-  - green
-  - purple
   - "pantone-158"
 typographies: []
 imagery_styles: []
 wikidata_description: Czech security software company
+wikidata_url: "https://www.wikidata.org/wiki/Q2247432"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -130,11 +147,17 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2247432) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Avast](/products_or_materials_produced/avast/) |
+| Headquarters Location | [Prague](/headquarters_locations/prague/) |
+| Foundation Date | [1988](/foundation_dates/1988/) |
 | Freebase Id | /m/027sjy |
 | Headquarters Location | Prague |
 | Inception | 1988-01-01 |
 | Location Of Formation | Prague |
-| Logo Image | Avast Software logo 2016.svg (from 2016, until 2021), Logo-avast-2010.svg (from 2010, until 2016), Avast logo 2021.svg (from 2021) |
 | Quora Topic Id | AVAST-Software |
 | Child Organization Or Unit | AVG Technologies, Piriform |
 | Founded By | Eduard Kučera, Pavel Baudiš |
@@ -143,15 +166,12 @@ guideline_count: 2
 | Legal Form | public company |
 | Czech Registration Id (Ičo) | 02176475 |
 | Country | Czech Republic |
-| Employees | 495 (as of 2016), 943 (as of 2017), 1,054 (as of 2018), 1,218 (as of 2019), 1,353 (as of 2021-01-01) (+1 more) |
 | Industry | software industry, computer security |
 | Legal Entity Identifier | 315700B0ZB79FJXEO196 |
 | Parent Organization Or Unit | Gen Digital (from 2022) |
 | Official Name | Avast Software s.r.o. (from 2010), ALWIL Software a.s. (from 1988, until 2010) |
-| Total Equity | 4,746,541,000 Czech koruna (as of 2017-12-31), 4,065,967,000 Czech koruna (as of 2016-12-31), 8,365,008,000 Czech koruna (as of 2018-12-31), 6,908,307,000 Czech koruna (as of 2019-12-31), 6,218,714,000 Czech koruna (as of 2021-12-31) (+1 more) |
 | Isin | GB00BDD85M81 |
 | Crunchbase Organization Id | avast |
-| Total Assets | 26,890,109,000 Czech koruna (as of 2016-12-31), 28,333,203,000 Czech koruna (as of 2015-12-31), 26,501,782,000 Czech koruna (as of 2017-12-31), 43,290,400,000 Czech koruna (as of 2018-12-31), 38,035,650,000 Czech koruna (as of 2019-12-31) (+2 more) |
 | Instagram Username | avast |
 | Facebook Username | avast, avast.cs |
 | X (Twitter) Username | avast (as of 2020-06-15, from 2008-11-20) |
@@ -183,30 +203,70 @@ guideline_count: 2
 
 ### Revenue History
 
-- $6.99B (6,990,587,000 Czech koruna (as of 2016))
-- $6.29B (6,291,990,000 Czech koruna (as of 2015))
-- $9.31B (9,306,972,000 Czech koruna (as of 2017))
-- $10.26B (10,264,403,000 Czech koruna (as of 2018))
-- $15.16B (15,158,641,000 Czech koruna (as of 2019))
-- $18.83B (18,827,964,000 Czech koruna (as of 2021-01-01))
-- $17.77B (17,773,306,000 Czech koruna (as of 2020-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $6.99B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.29B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.31B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.26B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.16B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.83B | as of 2021-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.77B | as of 2020-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $2.84B (2,836,261,000 Czech koruna (as of 2016))
-- $2.46B (2,459,316,000 Czech koruna (as of 2015))
-- $3.37B (3,366,425,000 Czech koruna (as of 2017))
-- $2.26B (2,258,665,000 Czech koruna (as of 2018))
-- $5.29B (5,290,406,000 Czech koruna (as of 2019))
-- $6.27B (6,267,334,000 Czech koruna (as of 2021-01-01))
-- $6.25B (6,248,777,000 Czech koruna (as of 2020-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $2.84B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.46B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.37B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.26B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.29B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.27B | as of 2021-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.25B | as of 2020-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $569.15M (569,150,000 Czech koruna (as of 2016))
-- $223.38M (223,380,000 Czech koruna (as of 2015))
-- $3.54B (3,541,030,000 Czech koruna (as of 2017))
-- $1.75B (1,745,646,000 Czech koruna (as of 2018))
-- $3.22B (3,216,425,000 Czech koruna (as of 2019))
-- $4.48B (4,482,705,000 Czech koruna (as of 2021-01-01))
-- $4.52B (4,516,627,000 Czech koruna (as of 2020-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $569.15M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $223.38M | as of 2015 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $3.54B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.75B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.22B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.48B | as of 2021-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.52B | as of 2020-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 495 | as of 2016 | [100-1K](/employees_buckets/100-1k/) |
+| 943 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |
+| 1,054 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,218 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,353 | as of 2021-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,135 | as of 2020-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $26.89B | as of 2016-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $28.33B | as of 2015-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $26.50B | as of 2017-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $43.29B | as of 2018-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $38.04B | as of 2019-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $36.23B | as of 2021-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $35.47B | as of 2020-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $4.75B | as of 2017-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $4.07B | as of 2016-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $8.37B | as of 2018-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $6.91B | as of 2019-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $6.22B | as of 2021-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $6.41B | as of 2020-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |

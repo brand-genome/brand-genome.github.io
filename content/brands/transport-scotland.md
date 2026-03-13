@@ -2,7 +2,7 @@
 title: Transport Scotland
 slug: "transport-scotland"
 description: ""
-date: "2026-03-05T22:38:39.672245"
+date: "2026-03-13T08:56:59.592745"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,21 +54,23 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - black
-  - "pantone-2717"
   - blue
   - "pantone-2736"
+  - black
+  - "pantone-2717"
 typographies:
   - "gill-sans"
   - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: national transport agency of Scotland
+wikidata_url: "https://www.wikidata.org/wiki/Q7834896"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,8 +120,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7834896) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Inception | 2006-01-01 |
-| Employees | 400 |
 | Country | United Kingdom |
 | Applies To Jurisdiction | Scotland |
 | Parent Organization Or Unit | Scottish Government |
@@ -137,7 +154,13 @@ guideline_count: 1
 | Youtube Channel Id | UC_eViIB02BoMCGv3QOR13Yg (as of 2025-12-13, from 2009-10-21) |
 | Flickr User Id | 42119150@N05 |
 | Contact Page Url | https://www.transport.gov.scot/contact/ |
-| Email Address | mailto:info@transport.gov.scot |
+| Email Address | info@transport.gov.scot |
 | Freedom Of Information Requests Url | https://www.transport.gov.scot/freedom-of-information/ |
 | Coordinate Location | 55.867628, -4.254906 |
 | Historic County | Lanarkshire |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 400 | - | [100-1K](/employees_buckets/100-1k/) |

@@ -2,7 +2,7 @@
 title: FOX Sports
 slug: "fox-sports"
 description: ""
-date: "2026-03-05T22:38:39.338919"
+date: "2026-03-13T08:56:59.293994"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
   - media
 industries: []
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - artarmon
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Australia group of sports channels
+wikidata_url: "https://www.wikidata.org/wiki/Q5476939"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -78,6 +91,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5476939) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Artarmon](/headquarters_locations/artarmon/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Topic'S Main Category | Category:Fox Sports (Australian TV network) |
 | X (Twitter) Username | FOXSportsAUS (as of 2018-05-10, from 2009-07-09) |
 | Facebook Username | foxsportsaus |
@@ -85,7 +104,6 @@ guideline_count: 1
 | Inception | 1995 |
 | Owned By | Fox Sports Pty Limited |
 | Country | Australia |
-| Logo Image | Fox Sports logo1.svg |
 | Headquarters Location | Artarmon |
 | Social Media Followers | 250,553 (as of 2021-01-03), 250,881 (as of 2018-05-10), 248,286 (as of 2022-02-26), 246,418 (as of 2023-02-03) |
 | Freebase Id | /m/0c37sl |

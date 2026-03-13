@@ -2,7 +2,7 @@
 title: World Sailing
 slug: "world-sailing"
 description: ""
-date: "2026-03-05T22:38:39.697555"
+date: "2026-03-13T08:56:59.651773"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1907
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,33 +49,35 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - white
-  - "pantone-233"
-  - "pantone-7702"
-  - magenta
-  - "pantone-281"
   - "pantone-7687"
   - navy
-  - "pantone-3955"
+  - "pantone-7702"
+  - "pantone-281"
   - "pantone-270"
   - "pantone-324"
+  - magenta
+  - "pantone-3955"
+  - "pantone-233"
 typographies:
-  - arial
   - futura
+  - arial
 imagery_styles:
-  - bold
+  - dramatic
+  - professional
   - photography
   - graphic
-  - professional
-  - dramatic
+  - bold
 wikidata_description: international sailing sports body
+wikidata_url: "https://www.wikidata.org/wiki/Q381929"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +126,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q381929) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1907](/foundation_dates/1907/) |
 | Topic'S Main Category | Category:World Sailing |
 | Freebase Id | /m/02s9hr |
 | Coordinate Location | 50.8955, -1.40506 |

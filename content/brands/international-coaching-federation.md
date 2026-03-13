@@ -2,7 +2,7 @@
 title: International Coaching Federation
 slug: "international-coaching-federation"
 description: ""
-date: "2026-03-05T22:38:39.393750"
+date: "2026-03-13T08:56:59.360013"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lexington
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,50 +50,52 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
-  - gold
+  - red
+  - "pantone-485"
+  - blue
   - "pantone-2757"
-  - magenta
+  - "pantone-1925"
+  - "pantone-2727"
+  - purple
+  - "pantone-3125"
+  - "pantone-271"
+  - gold
+  - "pantone-7656"
   - orange
   - gray
-  - "pantone-340"
-  - "pantone-2727"
-  - red
-  - "pantone-1925"
-  - "pantone-485"
+  - magenta
   - "pantone-603"
-  - "pantone-072"
   - "pantone-716"
-  - "pantone-136"
-  - "pantone-7656"
-  - "pantone-271"
-  - yellow
-  - "pantone-3125"
-  - blue
   - green
-  - purple
+  - "pantone-136"
+  - "pantone-072"
+  - yellow
+  - "pantone-340"
 typographies:
+  - "proxima-nova"
+  - arial
+  - helvetica
+  - montserrat
   - serif
   - "sans-serif"
-  - arial
-  - "proxima-nova"
-  - montserrat
-  - helvetica
 imagery_styles:
-  - bold
   - photography
   - gradient
   - clean
+  - bold
 wikidata_description: nonprofit organization dedicated to professional coaching
+wikidata_url: "https://www.wikidata.org/wiki/Q12318514"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -132,6 +145,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12318514) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lexington](/headquarters_locations/lexington/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Inception | 1995 |
 | Country | United States |
 | Headquarters Location | Lexington |

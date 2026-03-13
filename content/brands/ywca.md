@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-03-05T22:38:39.316083"
+date: "2026-03-13T08:56:59.260949"
 draft: false
 sectors:
   - ngo
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "le-grand-saconnex"
+subsidiaries: []
+foundation_dates:
+  - 1855
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - alternate
-  - secondary
   - lockup
-  - horizontal
   - stacked
+  - horizontal
 brand_colors:
   - white
   - "pantone-172"
@@ -54,17 +65,19 @@ brand_colors:
 typographies:
   - "source-sans"
   - avenir
-  - arial
   - display
+  - arial
 imagery_styles:
-  - bold
   - photography
   - candid
+  - bold
 wikidata_description: "social organization that promotes womens' emancipation, leadership and rights"
+wikidata_url: "https://www.wikidata.org/wiki/Q643370"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -129,6 +142,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q643370) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Le Grand Saconnex](/headquarters_locations/le-grand-saconnex/) |
+| Foundation Date | [1855](/foundation_dates/1855/) |
 | Topic'S Main Category | Category:YWCA |
 | Freebase Id | /m/03mhm7y |
 | Inception | 1855 |
@@ -152,7 +171,6 @@ guideline_count: 1
 | Wolfram Language Entity Code | Entity["HistoricalEvent", "YWCAFounded"] |
 | Operating Area | worldwide |
 | General Secretary | Casey Durcir (from 2019-01) |
-| Logo Image | YWCA Logo.svg |
 | Child Organization Or Unit | YWCA USA, Young Women's Christian Association - Tonga |
 | Idref Id | 253262100 |
 | Described By Source | Encyclopedia of Saskatchewan, The New Student's Reference Work, The Westminster Handbook to Women in American Religious History |

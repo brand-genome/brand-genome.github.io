@@ -2,7 +2,7 @@
 title: Go
 slug: go
 description: ""
-date: "2026-03-05T22:38:39.475620"
+date: "2026-03-13T08:56:59.410674"
 draft: false
 sectors:
   - software
@@ -15,17 +15,35 @@ languages:
 tags:
   - software
 industries:
-  - "internet-marketing"
-  - "technology-industry"
-  - "software-industry"
-  - internet
   - "information-technology"
+  - "internet-marketing"
+  - "software-industry"
+  - "technology-industry"
+  - internet
   - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "google-voice"
+  - "software-tools"
+  - "search-engine"
+  - "google-search"
+  - "google-ads"
+products: []
+headquarters_locations:
+  - googleplex
+  - "mountain-view"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +67,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American multinational technology company, a subsidiary of Alphabet Inc."
+wikidata_url: "https://www.wikidata.org/wiki/Q95"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q95) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Google Voice](/products_or_materials_produced/google-voice/); [Software Tools](/products_or_materials_produced/software-tools/); [Search Engine](/products_or_materials_produced/search-engine/); [Google Search](/products_or_materials_produced/google-search/); [Google Ads](/products_or_materials_produced/google-ads/) |
+| Headquarters Location | [Googleplex](/headquarters_locations/googleplex/); [Mountain View](/headquarters_locations/mountain-view/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Opencorporates Id | us_id/D158010, us_de/3582691 |
 | Irs Employer Identification Number | 77-0493581 |
 | Legal Entity Identifier | 7ZW8QJWVPR4P1J1KQY45 |
@@ -105,8 +132,6 @@ guideline_count: 1
 | Named After | googol, Barney Google |
 | Topic'S Main Category | Category:Google |
 | Freebase Id | /m/045c7b |
-| Logo Image | Google 2015 logo.svg (from 2015-09-01), Google logo (2013-2015).svg (from 2013-09-20, until 2015-08-31), Google logo (2010-2013).svg (from 2010-05-06, until 2013), Google.png (from 1999-05-31, until 2010-05-05), Google 1998 logo.png (from 1997, until 1999) |
-| Employees | 47,756 (as of 2013-01-01), 53,861 (as of 2012-01-01), 53,600 (as of 2014), 187,000 (as of 2022) |
 | Award Received | BigBrotherAwards (as of 2013-01-01), Princess of Asturias Award for Communications and Humanities (as of 2008), National Prize in Digital Media (as of 2008), Pompeu Fabra Award in Communication and New Technologies (as of 2009), National Design Awards (+1 more) |
 | Gnd Id | 10122609-3 |
 | Described By Source | Lentapedia |
@@ -221,7 +246,7 @@ guideline_count: 1
 | Ysa Id | Y158826 |
 | Ávvir Topic Id | google |
 | Social Media Followers | 10,100,000 (as of 2021-07-03) |
-| Email Address | mailto:opensource@google.com, mailto:support-deutschland@google.com |
+| Email Address | opensource@google.com, support-deutschland@google.com |
 | Armeniapedia Id | 13231 |
 | Philadelphia Museum Of Art Entity Id | 63756 |
 | Data Size | 15,000,000,000,000,000,000 byte (as of 2017) |
@@ -314,3 +339,12 @@ guideline_count: 1
 | Top Level Internet Domain | .google (from 2014-09-04), .goog (from 2015-01-08) |
 | Chief Executive Officer | Larry Page (from 1998, until 2001), Eric Schmidt (from 2001-08, until 2011-04-08), Larry Page (from 2011-04-04, until 2015-08-10), Sundar Pichai (from 2015-08-10) |
 | Threads Username | google |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 47,756 | as of 2013-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 53,861 | as of 2012-01-01 | [50K-100K](/employees_buckets/50k-100k/) |
+| 53,600 | as of 2014 | [50K-100K](/employees_buckets/50k-100k/) |
+| 187,000 | as of 2022 | [100K-500K](/employees_buckets/100k-500k/) |

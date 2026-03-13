@@ -2,11 +2,11 @@
 title: River Trails School District 26
 slug: "river-trails-school-district-26"
 description: ""
-date: "2026-03-05T22:38:39.290724"
+date: "2026-03-13T08:56:59.230565"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +47,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
-  - blue
   - green
   - black
+  - blue
 typographies:
   - roboto
 imagery_styles:
-  - bold
-  - professional
-  - artificial
-  - candid
   - natural
+  - professional
+  - candid
+  - artificial
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

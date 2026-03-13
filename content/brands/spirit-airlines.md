@@ -2,7 +2,7 @@
 title: Spirit Airlines
 slug: "spirit-airlines"
 description: ""
-date: "2026-03-05T22:38:40.033127"
+date: "2026-03-13T08:57:00.051737"
 draft: false
 sectors:
   - airline
@@ -17,222 +17,317 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - miramar
+subsidiaries: []
+foundation_dates:
+  - 1983
 lightings:
-  - studio
-  - soft
-  - "light-glare"
-  - "light-on-subject"
-  - bright
-  - dark
   - natural
+  - studio
   - colored
+  - "light-glare"
+  - soft
+  - "light-on-subject"
+  - dark
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - textured
   - gradient
-  - bright
+  - blurred
   - dark
+  - light
+  - bright
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
+  - "aquatic-colors"
   - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
   - "sunset-colors"
   - "galaxy-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
+  - monotone
+  - grayscale
   - bright
-  - "aquatic-colors"
 photography_genres:
-  - selfie
-  - professional
-  - conceptual
-  - landscape
-  - promotional
+  - staged
+  - corporate
   - product
-  - illustration
-  - interior
+  - promotional
   - abstract
+  - selfie
+  - family
+  - cityscape
+  - "live-stage"
+  - professional
+  - sky
+  - group
   - advertising
+  - advertisement
+  - portrait
+  - landscape
+  - interior
+  - illustration
+  - conceptual
+  - candid
+  - infographic
+  - "still-life"
   - architectural
   - action
-  - infographic
-  - candid
-  - group
-  - "live-stage"
-  - advertisement
-  - sky
-  - cityscape
-  - corporate
-  - family
-  - portrait
-  - staged
-  - "still-life"
 concepts:
+  - "text-heavy"
+  - "incomplete-art"
+  - illustration
+  - photorealism
   - branding
   - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
-  - typography
   - "graphic-design"
+  - vintage
   - "wave-pattern"
-  - "incomplete-art"
-  - photorealism
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - "high-contrast"
-  - "high-saturation"
-  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - orange
-  - black
+  - yellow
   - "dark-blue"
   - cyan
-  - yellow
-  - "light-blue"
+  - black
+  - orange
   - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - "pulled-back"
+  - covered
+  - updo
+  - down
   - neat
-  - wavy
+  - "pulled-back"
+  - casual
+  - varied
+  - short
+  - flowing
   - loose
   - up
   - straight
-  - down
   - ponytail
-  - braided
-  - updo
-  - short
-  - curly
-  - long
   - "tied-back"
-  - varied
-  - covered
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
-  - beachwear
-  - business
-  - costume
   - formal
+  - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
   - protective
   - swimwear
-  - traditional
-  - "business-casual"
+  - business
+  - costume
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
-  - running
   - stretching
   - confident
-gazes:
+  - active
+  - leaning
+  - running
+  - walking
   - engaged
-  - away
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
   - "upper-body"
-  - "full-body"
   - "close-up"
+  - "hand-only"
+  - "lower-half"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ultra low cost airline in the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q1190598"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 199
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FefjiYfXoAEsr_E?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DvwwO8jWwAAn9Zr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5yxkqKWQAEyF3G?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eja2vAnWAAIy7-e?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2bSmohXwAQ7KBE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQzuFP4XMAQgMpn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EslSx80XEAM5ywG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2UXtpoWQAI06m1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiOQFapWsAAuXCN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRjPoU9XMAAvJg9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVo5IQiX0Ao7KgJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Esvl9PxWMAEHr7C?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fn-6ztQXEAMUgan?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHlsWGTWkAAPy_d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ea0d0cxXsAIWrPF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fl0UK16WIAkxOlG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMLv4PNXUAAlxXZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FlZS8KMXgAIFtdJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FmJMdy0XoAA0n1Y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYDsV0mWAAELcEf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FlvuqnEXoAIYOw5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0ujiQkX0AoVBiA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fm7JKQhaYAUD6i0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7Z74NTX0AkWVRU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKr_ZpEX0AAllmF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY7OxVaUMAAK3LL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DvSFkbqXgAAhQG-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoV2pNIXYAI1D1B?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUGPE_kXwAEPUBM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EuB_bFnXAAMCooK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvZwKMtWgAImpsR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eew-BPKXsAwLPiW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCpoywNXMAklg9A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwNrhk2WEAIudq-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFDELCpXEAkYT0P?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnNmFlvXcAY-dq9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Feau7HiWIAEP3fm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7EljCAWQAUfrxy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCKzy1iXMAolyFs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvHcz2bXUAYfiHB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLac2IHWYAM8IFt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-JPwj2XEAwzzjr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4AyRhUVcAAKSV0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2t9YJwX0AsDRY0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fk6ZZkbXwAAyauS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiodyUxWoAYPYt_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcAR_sIWIAI-er4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FaZWd_gXEAASS_F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EqpsnvIXAAAYz5s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E1xZP6RXIAAKGll?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKsQyp3WYAEUFW7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_wWbBbUcAQPQAT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dm6fyc3XgAAJMXB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoW1f0hXUAAJr5a?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FHUOCqWWQAYOF8d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FnptMIaWIAI0EUE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaqmGu0XsAIaK4f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EixA0ugXYAEFa24?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EcFk3UzXgAEVsu-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4U9M1XXwAICh2H?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fnb7lMNXoAMPuQh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOUdLpeXEAY7c2A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSAWFkdXEAMI_Hj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYv5knUXwAIHEs5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2U2nnLWYAIlca8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FK_cDg6XIAYkihj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EXmtWXuWsAEx9Uy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EtTv828XMAAc-EZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7kJbhmWEAEUQgt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FgrK3zZWQAMYlT4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBCciu0UcAYpqB8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2z944eWQAE0Vq_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqM4qJ9WsAA4TKi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBMfRClXoAM2t0T?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ErespjdXYAAucUe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DalxGREXkAANfxe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FC-06mNXMAQ2CrM?format=png&name=large"
+  - "https://pbs.twimg.com/media/FgK_dw8X0AAJuNP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FkS6ivnWIAUdgu0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FkhE7L2XgAMm27a?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvAN9JqXcAEJjUw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FI7UQoMWYAQt6Bj?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 199 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Light Blue | 38.0% | 35.6% | 22.1% | 50.8% | 67.5% | ±20.8% | 35.7% |
-| Cyan | 26.6% | 19.4% | 11.6% | 33.6% | 70.2% | ±20.2% | 15.1% |
-| Black | 25.0% | 19.2% | 13.5% | 30.0% | 46.7% | ±18.6% | 63.8% |
-| Dark Blue | 24.2% | 14.4% | 10.2% | 32.1% | 49.6% | ±21.1% | 24.6% |
-| Gray | 22.5% | 18.1% | 10.3% | 31.4% | 44.1% | ±15.1% | 58.8% |
-| Yellow | 22.0% | 15.8% | 9.1% | 23.3% | 51.1% | ±17.0% | 13.1% |
-| White | 20.4% | 14.0% | 8.9% | 22.0% | 46.8% | ±17.4% | 13.6% |
-| Orange | 19.1% | 14.6% | 9.3% | 20.4% | 35.6% | ±14.1% | 18.6% |
+| Color | Mean |
+|-------|------|
+| Light Blue | 38.0% |
+| Cyan | 26.6% |
+| Black | 25.0% |
+| Dark Blue | 24.2% |
+| Gray | 22.5% |
+| Yellow | 22.0% |
+| White | 20.4% |
+| Orange | 19.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 10.1% | 0% | 0.0% | 13.8% | ±17.0% |
-| Neutral | 61.1% | 64.9% | 38.4% | 90.6% | ±31.1% |
-| Cool | 28.8% | 17.7% | 0.0% | 50.3% | ±31.5% |
+| Tone | Mean |
+|------|------|
+| Warm | 10.1% |
+| Neutral | 61.1% |
+| Cool | 28.8% |
 
 ### Sample Images
 
@@ -342,9 +437,14 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1190598) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Miramar](/headquarters_locations/miramar/) |
+| Foundation Date | [1983](/foundation_dates/1983/) |
 | Country | United States |
 | Headquarters Location | Miramar |
-| Logo Image | Spirit Airlines logo.svg (until 2014), Spirit Airlines logo 2014.svg (from 2014) |
 | Inception | 1983 |
 | Chief Executive Officer | Robert L. Fornaro (from 2016) |
 | Legal Form | Delaware corporation |

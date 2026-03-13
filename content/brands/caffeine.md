@@ -2,11 +2,11 @@
 title: Caffeine
 slug: caffeine
 description: ""
-date: "2026-03-05T22:38:39.573965"
+date: "2026-03-13T08:56:59.505784"
 draft: false
 sectors:
-  - gaming
   - broadcasting
+  - gaming
   - "social-media"
   - entertainment
 regions:
@@ -23,6 +23,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
-  - blue
-  - black
   - cyan
+  - black
+  - blue
 typographies: []
 imagery_styles:
   - product
 wikidata_description: Indonesian pop/rock group
+wikidata_url: "https://www.wikidata.org/wiki/Q12478159"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12478159) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Country Of Origin | Indonesia |
 | Musicbrainz Artist Id | 3d0e13a9-f5dd-4ae6-be98-a072a09b7afe |
 | Discogs Artist Id | 6066803 |

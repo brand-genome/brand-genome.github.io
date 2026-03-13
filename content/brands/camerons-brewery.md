@@ -2,7 +2,7 @@
 title: Camerons Brewery
 slug: "camerons-brewery"
 description: ""
-date: "2026-03-05T22:38:39.554932"
+date: "2026-03-13T08:56:59.476903"
 draft: false
 sectors:
   - brewery
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - beer
+products: []
+headquarters_locations:
+  - hartlepool
+subsidiaries: []
+foundation_dates:
+  - 1865
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "brewery in Hartlepool, County Durham, England"
+wikidata_url: "https://www.wikidata.org/wiki/Q5026431"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +105,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5026431) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Beer](/products_or_materials_produced/beer/) |
+| Headquarters Location | [Hartlepool](/headquarters_locations/hartlepool/) |
+| Foundation Date | [1865](/foundation_dates/1865/) |
 | Headquarters Location | Hartlepool |
 | Inception | 1865 |
 | Product Or Material Produced | beer |

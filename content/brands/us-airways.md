@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-03-05T22:38:39.573541"
+date: "2026-03-13T08:56:59.505192"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tempe
+  - "arlington-county"
+  - "crystal-city"
+subsidiaries: []
+foundation_dates:
+  - 1937
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,20 +56,22 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
-  - arial
-  - verdana
   - frutiger
+  - verdana
   - display
+  - arial
 imagery_styles:
-  - bold
   - photography
   - gradient
   - clean
+  - bold
 wikidata_description: former airline in the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q208046"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +128,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q208046) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Arlington County](/headquarters_locations/arlington-county/); [Crystal City](/headquarters_locations/crystal-city/) |
+| Foundation Date | [1937](/foundation_dates/1937/) |
 | Airline Hub | Charlotte Douglas International Airport, Philadelphia International Airport, Phoenix Sky Harbor International Airport, Ronald Reagan Washington National Airport |
 | Item Operated | Airbus A320 family, Airbus A330, Boeing 767, Boeing 757, E-Jet (+3 more) |
 | Country | United States |
@@ -124,7 +145,6 @@ guideline_count: 1
 | Chief Executive Officer | Doug Parker |
 | Headquarters Location | Tempe (from 2005-10, until 2015), Crystal City (from 1988-11, until 2005-09), Arlington County (until 1988-11) |
 | Callsign Of Airline | CACTUS |
-| Logo Image | US Airways Logo.svg |
 | Topic'S Main Category | Category:US Airways Group |
 | Freebase Id | /m/01qmg5 |
 | Parent Organization Or Unit | American Airlines Group (from 2013-12-09), US Airways Group (until 2013-12-09) |

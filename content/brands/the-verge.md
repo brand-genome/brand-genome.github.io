@@ -2,7 +2,7 @@
 title: The Verge
 slug: "the-verge"
 description: ""
-date: "2026-03-05T22:38:39.365239"
+date: "2026-03-13T08:56:59.317806"
 draft: false
 sectors:
   - publishing
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,26 +51,28 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-172"
-  - orange
   - grey
-  - black
-  - "pantone-2736"
   - purple
+  - "pantone-172"
+  - "pantone-2736"
+  - black
+  - orange
 typographies:
-  - georgia
   - helvetica
+  - georgia
 imagery_styles:
-  - bold
-  - graphic
+  - clean
   - minimal
   - gradient
-  - clean
+  - graphic
+  - bold
 wikidata_description: Canadian satellite radio station
+wikidata_url: "https://www.wikidata.org/wiki/Q7772206"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7772206) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Owned By | Sirius XM Canada |
 | Inception | 2002-01-01 |
 | Freebase Id | /m/091rlv |

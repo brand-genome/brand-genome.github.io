@@ -2,7 +2,7 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-03-05T22:38:39.733711"
+date: "2026-03-13T08:56:59.776388"
 draft: false
 sectors:
   - software
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-delhi"
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +52,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
@@ -54,13 +65,15 @@ typographies:
   - "open-sans"
   - "sans-serif"
 imagery_styles:
-  - bold
   - clean
+  - bold
 wikidata_description: Indian food delivery service
+wikidata_url: "https://www.wikidata.org/wiki/Q8073715"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -142,6 +155,12 @@ Tyrolean Light Grey - HEX: #F4F4F2, CMYK: C3 M3 Y3 K0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8073715) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New Delhi](/headquarters_locations/new-delhi/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | X (Twitter) Username | Zomato (as of 2020-02-27, from 2009-03-08) |
 | Facebook Username | zomato |
 | Quora Topic Id | Zomato-product, Zomato |
@@ -158,7 +177,6 @@ Tyrolean Light Grey - HEX: #F4F4F2, CMYK: C3 M3 Y3 K0
 | Crunchbase Organization Id | zomato |
 | Country | India |
 | Legal Form | joint-stock company |
-| Logo Image | Zomato logo.png |
 | Owler Company Id | zomato |
 | Instagram Username | cxq1jnlpkwc |
 | Linkedin Company Or Organization Id | zomato |

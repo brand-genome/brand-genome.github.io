@@ -2,7 +2,7 @@
 title: South Africa
 slug: "south-africa"
 description: ""
-date: "2026-03-05T22:38:39.634446"
+date: "2026-03-13T08:56:59.564189"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "cape-town"
+subsidiaries: []
+foundation_dates:
+  - 1829
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ typographies: []
 imagery_styles:
   - vibrant
 wikidata_description: "public university in Cape Town, South Africa"
+wikidata_url: "https://www.wikidata.org/wiki/Q951305"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +125,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q951305) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cape Town](/headquarters_locations/cape-town/) |
+| Foundation Date | [1829](/foundation_dates/1829/) |
 | Country | South Africa |
 | Located In The Administrative Territorial Entity | City of Cape Town |
 | Coordinate Location | -33.9575, 18.460555555556 |
@@ -142,7 +162,6 @@ guideline_count: 1
 | Replaces | South African College (from 1874) |
 | U Multirank University Id | university-of-cape-town |
 | Microsoft Academic Id (Discontinued) | 157614274 |
-| Employees | 5,442 |
 | Library Of Congress Authority Id | n79055109 |
 | X (Twitter) Username | UCT_news (as of 2020-04-27, from 2012-04-25) |
 | Facebook Username | uct.ac.za |
@@ -191,3 +210,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/e4933776-0c05-44da-a074-ff92afbe8e1e |
 | Scholargps Institution Id | 55083446078933 |
 | Unirank Id | 4228 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,442 | - | [1K-10K](/employees_buckets/1k-10k/) |

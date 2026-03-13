@@ -2,7 +2,7 @@
 title: Moodle
 slug: moodle
 description: ""
-date: "2026-03-05T22:38:39.218100"
+date: "2026-03-13T08:56:59.155120"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -11,8 +11,8 @@ regions:
   - australia
 years:
   - 2019
-  - 2022
   - 2023
+  - 2022
 languages:
   - english
 tags:
@@ -22,6 +22,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - perth
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,38 +51,40 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - symbol
   - secondary
+  - wordmark
+  - symbol
 brand_colors:
   - white
-  - "pantone-367"
-  - "pantone-7470"
-  - orange
   - "pantone-630"
-  - "pantone-426"
-  - "pantone-7739"
-  - blue
   - "pantone-555"
-  - gray
-  - "pantone-7689"
+  - "pantone-426"
+  - blue
+  - "pantone-7470"
+  - "pantone-367"
   - green
+  - orange
+  - gray
+  - "pantone-7739"
   - "pantone-158"
+  - "pantone-7689"
 typographies:
   - opensans
 imagery_styles:
-  - bold
-  - photography
-  - modern
-  - subtle
-  - clean
   - natural
+  - clean
+  - modern
+  - photography
+  - subtle
+  - bold
 wikidata_description: "e-learning platform"
+wikidata_url: "https://www.wikidata.org/wiki/Q190434"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,9 +135,14 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q190434) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Perth](/headquarters_locations/perth/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Programmer | Martin Dougiamas |
 | Software Version Identifier | 2.9, 3.0.3, 3.0.4, 3.1, 3.1.1 (+157 more) |
-| Logo Image | Moodle-logo.svg |
 | Freebase Id | /m/021x7z |
 | Programmed In | PHP |
 | Copyright License | GNU General Public License, version 3.0, GNU General Public License |
@@ -179,4 +197,4 @@ guideline_count: 3
 | Gentoo Wiki Article | Moodle |
 | Archwiki Article | Moodle |
 | Github Account | moodle |
-| Email Address | mailto:support@moodle.com |
+| Email Address | support@moodle.com |

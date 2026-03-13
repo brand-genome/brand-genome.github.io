@@ -2,7 +2,7 @@
 title: ICAN
 slug: ican
 description: ""
-date: "2026-03-05T22:38:39.823093"
+date: "2026-03-13T08:56:59.900652"
 draft: false
 sectors:
   - education
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,23 +55,25 @@ logo_elements:
   - symbol
 brand_colors:
   - white
-  - violet
   - "pantone-268"
+  - violet
+  - green
+  - black
+  - orange
   - "pantone-376"
   - "pantone-1375"
-  - orange
-  - black
-  - green
 typographies: []
 imagery_styles:
-  - bold
   - dynamic
   - graphic
+  - bold
 wikidata_description: organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces of the Internet
+wikidata_url: "https://www.wikidata.org/wiki/Q485750"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q485750) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Topic'S Main Category | Category:ICANN |
 | Ipa Transcription | ˈaɪkæn |
 | Gnd Id | 6099601-8 |
@@ -115,7 +135,6 @@ guideline_count: 1
 | Image | ICANN Headquarters.jpg |
 | Country | United States |
 | Inception | 1998-09-18 |
-| Logo Image | Icann logo.svg |
 | Facebook Username | icannorg |
 | Youtube Channel Id | UCl7rV9qJaQEx3GKhtSLx4QA (as of 2020-12-06, from 2007-04-06) |
 | X (Twitter) Username | ICANN (as of 2020-03-01, from 2008-06-03) |
@@ -143,7 +162,6 @@ guideline_count: 1
 | Nla Trove People Id | 1494371 |
 | Acm Classification Code (2012) | 10011211 |
 | Social Media Followers | 96,018 (as of 2021-01-04), 12,400 (as of 2021-07-02), 98,206 (as of 2022-02-26), 13,700 (as of 2022-03-17), 101,983 (as of 2023-02-04) (+3 more) |
-| Employees | 388 (as of 2020) |
 | Different From | ICANNWiki |
 | Chief Executive Officer | Göran Marby (from 2016-05) |
 | Founded By | United States Department of Commerce and Labor (as of 1998-06) |
@@ -175,4 +193,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $129.30M (129,300,000 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $129.30M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 388 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |

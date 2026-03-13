@@ -2,7 +2,7 @@
 title: YMCA
 slug: ymca
 description: ""
-date: "2026-03-05T22:38:39.372430"
+date: "2026-03-13T08:56:59.331169"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - geneva
+  - vernier
+subsidiaries: []
+foundation_dates:
+  - 1844
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +61,12 @@ typographies:
 imagery_styles:
   - gradient
 wikidata_description: worldwide organization
+wikidata_url: "https://www.wikidata.org/wiki/Q157169"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -194,6 +208,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q157169) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/); [Vernier](/headquarters_locations/vernier/) |
+| Foundation Date | [1844](/foundation_dates/1844/) |
 | Topic'S Main Category | Category:YMCA |
 | Freebase Id | /m/0lzg7 |
 | Headquarters Location | Vernier (from 2020), Geneva (until 2020) |
@@ -207,7 +227,6 @@ guideline_count: 2
 | Bibliothèque Nationale De France Id | 12114424w |
 | Idref Id | 02953898X |
 | Founded By | George Williams |
-| Logo Image | World YMCA logo.svg |
 | New York Times Topic Id | organization/young-mens-christian-association-ymca |
 | Quora Topic Id | YMCA |
 | Dictionary Of Sydney Id | organisation/young_mens_christian_association |
@@ -270,7 +289,7 @@ guideline_count: 2
 | Country | Switzerland |
 | Native Label | World Alliance of Young Men’s Christian Associations |
 | Short Name | World YMCA |
-| Email Address | mailto:office@ymca.int |
+| Email Address | office@ymca.int |
 | Phone Number | +41-22-849-5100 |
 | ‎Yale Lux Id | group/d0873bc0-2681-499d-8c3f-f80fdf806cee |
 | Street Address | Chemin de Mouille-Galand 1, 1214 Vernier, Geneva (from 2020), 12 Clos Belmont, 1208 Geneva (from 1995, until 2020), 37, Quai-Wilson, Geneva (from 1942, until 1995), 52, Rue des Pâquis, Geneva (from 1937, until 1942), 1, Promenade du Pin, Geneva (from 1936, until 1937) (+4 more) |

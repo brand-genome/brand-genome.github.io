@@ -2,11 +2,11 @@
 title: Tripadvisor
 slug: tripadvisor
 description: ""
-date: "2026-03-05T22:38:39.116310"
+date: "2026-03-13T08:56:59.063936"
 draft: false
 sectors:
-  - "e-commerce"
   - tourism
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - tourism
+  - featured
 industries:
   - "tourism-industry"
   - publishing
@@ -27,212 +27,326 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - needham
+subsidiaries:
+  - thefork
+foundation_dates:
+  - 2000
 lightings:
+  - natural
+  - "light-glare"
+  - colored
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - "background-as-frame"
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
+  - "background-as-frame"
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
+  - "aquatic-colors"
   - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "bright-colors"
+  - "pastel-colors"
   - "sunset-colors"
   - "galaxy-colors"
+  - monotone
+  - grayscale
   - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - "aquatic-colors"
 photography_genres:
-  - selfie
-  - beach
-  - landscape
-  - botanical
-  - nature
-  - outdoor
-  - interior
-  - architecture
-  - street
-  - architectural
-  - candid
-  - action
-  - "live-stage"
-  - group
-  - sky
-  - cityscape
-  - "text-heavy"
-  - underwater
-  - family
-  - portrait
-  - beauty
   - historical
-  - "still-life"
+  - selfie
+  - cityscape
+  - family
+  - underwater
+  - outdoor
+  - "live-stage"
+  - street
+  - sky
+  - group
+  - nature
   - travel
+  - beauty
+  - portrait
+  - "text-heavy"
+  - landscape
+  - architecture
+  - interior
+  - candid
+  - "still-life"
+  - architectural
+  - action
+  - beach
+  - botanical
 concepts:
   - "text-heavy"
-  - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "bokeh-effect"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - silhouette
-  - "artificial-shadow"
-  - "high-contrast"
-  - "high-saturation"
-  - "motion-capture"
-  - "long-exposure"
   - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
+  - "long-exposure"
+  - "artificial-shadow"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - white
+  - pink
+  - "dark-brown"
+  - "royal-blue"
+  - "dark-blue"
   - cyan
   - black
-  - "dark-brown"
-  - "dark-blue"
   - "light-blue"
-  - "royal-blue"
-  - pink
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
+  - covered
+  - updo
+  - neat
   - "pulled-back"
   - varied
-  - neat
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - updo
-  - long
-  - curly
-  - short
-  - wet
-  - dark
-  - "tied-back"
-  - covered
-facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
-  - focused
-  - contemplative
-clothing_styles:
   - casual
-  - athletic
-  - "form-fitting"
+  - loose
+  - flowing
+  - short
+  - "tied-back"
+  - ponytail
+  - dark
+  - wet
+  - long
+  - wavy
+  - curly
+  - braided
+facial_expressions:
+  - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
+  - contemplative
+  - content
+clothing_styles:
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - engaged
-  - walking
-  - reclined
-  - relaxed
   - dynamic
-  - leaning
-  - active
-  - holding
-  - standing
   - running
   - stretching
-  - contemplative
-  - confident
-gazes:
+  - active
+  - leaning
+  - walking
   - engaged
-  - away
+  - confident
+  - relaxed
+  - standing
+  - contemplative
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
   - "upper-body"
-  - "full-body"
   - "close-up"
+  - "hand-only"
+  - "lower-half"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements:
-  - wordmark
   - primary
-  - secondary
   - horizontal
+  - secondary
+  - wordmark
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
   - "pantone-339"
+  - black
+  - gray
 typographies:
   - arial
 imagery_styles: []
 wikidata_description: American travel website company
+wikidata_url: "https://www.wikidata.org/wiki/Q1770710"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 193
 guideline_count: 4
+sample_image_urls:
+  - "https://pbs.twimg.com/media/DU0lMlAX4AAFJrr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlsSIEzUYAAsOFK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhdHKK6V4AA1SJE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FncVK2mXEAIOtdi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdzYlzeV4AIT891?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dpy7NSxXgAEsBFV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWMFJnFXcAARJ6c?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4YKfy3WAAIqRdp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgOIThxUwAADMXf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKv408cWoAAAyAV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY_yO1oX0AAvu95?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgI-QuyWkAIRFDM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DccbjcUXcAI80ly?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EL4M0BpWsAA9eny?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjdW3YaV4AAVVuc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUa6LnfWsAArSyc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DxjHUNpWkAAlpvp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXGH5mkW4AAykWV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjcFnDuWsAEZDHZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZAJTugWsAAFcdX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DvxrSLWXgAMqc0e?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWaByyNXcAE-4zO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVXkBRZU8AEUzIv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DT74xuSVoAA9jAP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DxHWJroWoAEEt0s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkGZ97SXcAIelX1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DU5HUmcU8AApYc5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY540AZXUAAWehB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVx5u5yWAAACHjp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnYAC8mX0AA1ozN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZzXZpkX4AIJEpA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjnuY46X4AMN7Rn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DvQ5lbiXgAIP9vD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2lOsuqWwAcZ8hw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiGPTT2VQAEZfHo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcB_4_uV0AAuWBx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dp_N3ziXQAEqiCU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfatEneXYAAc8Eq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EphPBCBWMAAt3fX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FP2X-3tWUAACHtf?format=png&name=large"
+  - "https://pbs.twimg.com/media/ERuXyHNW4AEDzJZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXyASMVX0AERJUf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ElIM6VTW0AASeZI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DahiB4iXUAA5Qbk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dz8BS4RX0AAXTMu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ErUvN9bWMAAw5T7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FIMHrdGX0AQ8gAw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsqvwB0W8AQ1KR_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dw9C-IzWkAERMIv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqHx0OIWkAwCGwA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcUH2bTWIAAyevV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY6iAfgX4AEk2nq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDh2m3fXUAAveC5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZY60JCWsAAyYc9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dhxo8WIWAAAW3Oq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DypMVVFXgAACFz2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhCyIdbUYAAHIyk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DamrZLVVAAA4nUm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaDDulIX0AEHEZq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhMJV_yXkAEQC6n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaM1QxRVwAAqAEL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da6NFrvV4AEKFGl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmxcPuTUYAEdWtF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhnVwq5WsAE_wgu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmSUvnsVsAAn9vB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4hMu4VWkAAQI7q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpwNBt1W0AA0kFT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYp2_j3XkAIIKpa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dzxt-7CWsAEWTCu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dnoj_69W4AAehPa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTS4PsSXkAIX7XT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dq33XBuXQAAAxxe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzY-3DzWsAEXnir?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3JlRb7U8AIZI_2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dd0yicrVQAAD71g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWfm2FeXkAA_F9J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dcq9uoVWsAAAOyV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dg3VBaqU0AEFRm1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTsWKPHUMAAimlY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dn8epQfVYAAr1w3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dn3D5VDXkAAeB1K?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZTowa_XUAAhmoj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgtLmexWAAgdchl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWpUWFxWoAMjTiC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dl3RBZbU4AATNey?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcXBtoeWsAAPMNn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eu2sMj9XIAAM7ls?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUacEu8X0AAWgjB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWDBBVrWoAQBV9V?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dv08thrWkAA9UZW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dl2lTdjXsAAdyFz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSkhKarW4AEffCp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8-DKueWkAAD79J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZYW4SyX4AA-MA8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbtRhP2VAAUESYm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWnWE3LU4Ac2V-l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfK7nwjXUAMM1ep?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUVhtz1WsAAsDiZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0XiZlBXgAElho5?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -280,24 +394,24 @@ guideline_count: 4
 ### Color Analysis
 *Statistics computed across 193 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Pink | 28.7% | 18.3% | 13.0% | 44.5% | 49.7% | ±24.8% | 10.4% |
-| Light Blue | 22.3% | 22.2% | 13.6% | 28.6% | 36.0% | ±11.6% | 50.3% |
-| Cyan | 20.9% | 14.1% | 10.8% | 19.3% | 42.1% | ±20.5% | 21.8% |
-| Dark Brown | 19.2% | 16.7% | 10.1% | 25.0% | 35.4% | ±11.0% | 41.5% |
-| Royal Blue | 18.9% | 14.7% | 11.0% | 24.5% | 33.3% | ±10.8% | 20.7% |
-| Black | 18.7% | 15.4% | 9.2% | 24.5% | 38.0% | ±11.3% | 51.8% |
-| Dark Blue | 18.3% | 14.2% | 8.9% | 25.1% | 36.5% | ±10.7% | 33.7% |
-| White | 18.1% | 12.7% | 9.9% | 18.2% | 37.7% | ±14.9% | 24.4% |
+| Color | Mean |
+|-------|------|
+| Pink | 28.7% |
+| Light Blue | 22.3% |
+| Cyan | 20.9% |
+| Dark Brown | 19.2% |
+| Royal Blue | 18.9% |
+| Black | 18.7% |
+| Dark Blue | 18.3% |
+| White | 18.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 9.8% | 0% | 0.0% | 14.1% | ±18.2% |
-| Neutral | 51.7% | 47.8% | 22.8% | 81.6% | ±32.0% |
-| Cool | 38.6% | 34.1% | 8.8% | 64.0% | ±32.4% |
+| Tone | Mean |
+|------|------|
+| Warm | 9.8% |
+| Neutral | 51.7% |
+| Cool | 38.6% |
 
 ### Sample Images
 
@@ -407,6 +521,13 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1770710) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Needham](/headquarters_locations/needham/) |
+| Subsidiary | [Thefork](/subsidiaries/thefork/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/09py1r |
 | Headquarters Location | Needham |
 | Country | United States |
@@ -418,7 +539,6 @@ guideline_count: 4
 | Main Wikidata Property | TripAdvisor ID |
 | Facebook Username | TripAdvisorjp, 5863091683, 136773735076 |
 | Instagram Username | tripadvisor |
-| Employees | 2,691 (as of 2021-12-31) |
 | Owned By | Liberty Media |
 | Part Of | S&P 500 (until 2019-12-23), list of companies operating in West Bank settlements |
 | Quora Topic Id | TripAdvisor-product, Tripadvisor-company-1, Trip-Advisor-company |
@@ -434,7 +554,6 @@ guideline_count: 4
 | Zhihu Topic Id | 19751948, 19620069 |
 | Social Media Followers | 18,400 (as of 2021-07-04), 20,000 (as of 2023-03-22), 24,000 (as of 2024-01-16), 26,600 (as of 2024-07-27), 30,300 (as of 2024-09-28) (+1 more) |
 | Crunchbase Organization Id | tripadvisor |
-| Logo Image | Tripadvisor 2025 Logo.svg (from 2025-07-02), TripAdvisor older Logo.svg, TripAdvisor Logo.svg |
 | Child Organization Or Unit | TheFork |
 | Comparably Company Id | tripadvisor |
 | Eu Transparency Register Id | 948122819643-45, 269934893643-77 |
@@ -472,3 +591,9 @@ guideline_count: 4
 | Facebook Id | TripAdvisorjp, 5863091683, 136773735076 |
 | Twitter Username | TripAdvisorjp (as of 2020-04-27, from 2009-07-20), TripAdvisor (as of 2020-04-27, from 2008-09-19), TripAdvisorde (as of 2020-04-27, from 2009-02-10) |
 | Linkedin Id | tripadvisor |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,691 | as of 2021-12-31 | [1K-10K](/employees_buckets/1k-10k/) |

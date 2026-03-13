@@ -2,7 +2,7 @@
 title: Cornerstone
 slug: cornerstone
 description: ""
-date: "2026-03-05T22:38:39.244043"
+date: "2026-03-13T08:56:59.188400"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -14,16 +14,27 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries:
   - "social-work"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - aberdeen
+subsidiaries: []
+foundation_dates:
+  - 1980
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Scottish charity and social enterprise that provides support and care to children, adults and older adults living a range of long-term conditions and challenges"
+wikidata_url: "https://www.wikidata.org/wiki/Q5171670"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -80,6 +93,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5171670) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Aberdeen](/headquarters_locations/aberdeen/) |
+| Foundation Date | [1980](/foundation_dates/1980/) |
 | Inception | 1980 |
 | Country | United Kingdom |
 | Freebase Id | /m/02wy8bd |
@@ -92,13 +111,15 @@ guideline_count: 2
 
 ### Revenue History
 
-- $329.17K (329,169 pound sterling (as of 2004))
-- $351.30K (351,303 pound sterling (as of 2005))
-- $389.03K (389,028 pound sterling (as of 2006))
-- $366.00K (365,997 pound sterling (as of 2007))
-- $365.37K (365,369 pound sterling (as of 2008))
-- $44.85M (44,852,570 pound sterling (as of 2020))
-- $43.55M (43,549,520 pound sterling (as of 2021))
-- $46.72M (46,721,273 pound sterling (as of 2022))
-- $49.01M (49,008,493 pound sterling (as of 2023))
-- $49.12M (49,120,574 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $329.17K | as of 2004 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $351.30K | as of 2005 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $389.03K | as of 2006 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $366.00K | as of 2007 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $365.37K | as of 2008 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $44.85M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $43.55M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $46.72M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.01M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.12M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |

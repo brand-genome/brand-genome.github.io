@@ -2,7 +2,7 @@
 title: Queensland
 slug: queensland
 description: ""
-date: "2026-03-05T22:38:39.533147"
+date: "2026-03-13T08:56:59.466453"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "111-george-street"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "sub-section of the Department of National Parks, Sport and Racing within the Government of Queensland"
+wikidata_url: "https://www.wikidata.org/wiki/Q2122615"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2122615) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [111 George Street](/headquarters_locations/111-george-street/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Country | Australia |
 | Parent Organization Or Unit | Queensland Government |
 | Inception | 1998 |

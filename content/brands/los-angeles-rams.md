@@ -2,15 +2,15 @@
 title: Los Angeles Rams
 slug: "los-angeles-rams"
 description: ""
-date: "2026-03-05T22:38:39.082592"
+date: "2026-03-13T08:56:59.035724"
 draft: false
 sectors:
   - sports
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
 tags:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1936
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,14 +55,16 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: "NFL franchise in Inglewood, California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q337377"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +115,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q337377) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1936](/foundation_dates/1936/) |
 | Home Venue | Los Angeles Memorial Coliseum (from 1946, until 1979), Angel Stadium of Anaheim (from 1980, until 1994), The Dome at America's Center (from 1995, until 2015), SoFi Stadium (from 2020), Los Angeles Memorial Coliseum (from 2016, until 2019) |
 | Country | United States |
 | Part Of | NFC West |
@@ -117,7 +134,6 @@ guideline_count: 2
 | Owned By | Kroenke Sports & Entertainment |
 | Facebook Username | Rams |
 | Quora Topic Id | Los-Angeles-Rams |
-| Logo Image | LA Rams wordmark.svg |
 | Encyclopædia Britannica Online Id | topic/St-Louis-Rams, topic/Los-Angeles-Rams-American-football-team |
 | League Or Competition | National Football League |
 | Category For Members Of A Team | Category:Los Angeles Rams players |

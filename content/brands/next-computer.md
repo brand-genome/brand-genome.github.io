@@ -2,11 +2,11 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-03-05T22:38:39.268818"
+date: "2026-03-13T08:56:59.211156"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - technology
   - vintage
   - featured
-  - technology
 industries:
   - "software-industry"
   - "computer-hardware-industry"
@@ -25,6 +25,23 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "next-computer"
+  - nextstation
+  - nextstep
+  - "nextcube-turbo"
+  - nextcube
+products: []
+headquarters_locations:
+  - "palo-alto"
+  - "redwood-city"
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American computer company founded by Steve Jobs (1985–1997)
+wikidata_url: "https://www.wikidata.org/wiki/Q308993"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -62,6 +81,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q308993) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Next Computer](/products_or_materials_produced/next-computer/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Nextcube](/products_or_materials_produced/nextcube/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Redwood City](/headquarters_locations/redwood-city/) |
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Founded By | Steve Jobs |
 | Chief Executive Officer | Steve Jobs |
 | Topic'S Main Category | Category:NeXT |
@@ -73,7 +99,6 @@ guideline_count: 1
 | Freebase Id | /m/05fxn |
 | Headquarters Location | Redwood City (until 1997), Palo Alto (from 1985) |
 | Inception | 1985-06-20 |
-| Logo Image | NeXT logo.svg |
 | Dissolved, Abolished Or Demolished Date | 1996-12-20, 1997-02-04 |
 | Country | United States |
 | Commons Gallery | NeXT |

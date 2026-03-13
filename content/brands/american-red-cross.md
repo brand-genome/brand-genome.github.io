@@ -2,7 +2,7 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-03-05T22:38:39.357062"
+date: "2026-03-13T08:56:59.309054"
 draft: false
 sectors:
   - ngo
@@ -23,6 +23,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1914
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,28 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
-  - blue
   - red
+  - blue
   - gray
 typographies:
+  - times
   - akzidenz
   - arial
-  - times
 imagery_styles:
-  - bold
   - classic
-  - vintage
   - flat
+  - bold
+  - vintage
 wikidata_description: body of American red cross
+wikidata_url: "https://www.wikidata.org/wiki/Q18390208"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +123,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18390208) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1914](/foundation_dates/1914/) |
 | Inception | 1914 |
 | Image | Memorial Day 2014 v2.jpg |
 | Freebase Id | /m/01264wrv |

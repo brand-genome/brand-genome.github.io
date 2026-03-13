@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-03-05T22:38:39.521076"
+date: "2026-03-13T08:56:59.456056"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1929
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +48,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
-  - vertical
   - horizontal
+  - seal
+  - vertical
 brand_colors:
   - white
 typographies:
   - impact
   - arial
 imagery_styles:
-  - bold
-  - graphic
   - monochrome
-  - lifestyle
   - subtle
+  - graphic
+  - bold
+  - lifestyle
 wikidata_description: "men's top professional football division of the Spanish football league system"
+wikidata_url: "https://www.wikidata.org/wiki/Q324867"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +122,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q324867) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1929](/foundation_dates/1929/) |
 | Country | Spain |
 | Topic'S Main Category | Category:La Liga |
 | Freebase Id | /m/09gqx |
@@ -129,7 +146,6 @@ guideline_count: 1
 | Season Starts | August |
 | Part Of | Spanish football league system, Liga Nacional de Fútbol Profesional |
 | Competition Class | men's association football |
-| Logo Image | LaLiga EA Sports 2023 Vertical Logo.svg |
 | Tiktok Username | laliga |
 | League System | Spanish football league system |
 | Yle Areena Item Id | 1-3712516 |

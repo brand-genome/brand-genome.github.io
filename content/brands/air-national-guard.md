@@ -2,7 +2,7 @@
 title: Air National Guard
 slug: "air-national-guard"
 description: ""
-date: "2026-03-05T22:38:39.640169"
+date: "2026-03-13T08:56:59.568375"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,17 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - horizontal
+  - wordmark
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: military unit of Ukraine
+wikidata_url: "https://www.wikidata.org/wiki/Q28707289"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +110,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28707289) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Facebook Username | 2269ngu |
 | Inception | 2015-08-29 |
 | Image | Nguair.png |

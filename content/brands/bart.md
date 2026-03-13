@@ -2,7 +2,7 @@
 title: BART
 slug: bart
 description: ""
-date: "2026-03-05T22:38:39.275441"
+date: "2026-03-13T08:56:59.217434"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - transport
+  - vintage
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oakland
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "rapid transit system in the San Francisco Bay Area, California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q610120"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,15 +76,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q610120) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oakland](/headquarters_locations/oakland/) |
 | Country | United States |
 | Topic'S Main Category | Category:Bay Area Rapid Transit |
-| Logo Image | Bart-logo.svg |
 | Freebase Id | /m/0gdjj |
 | Kml File | Template:Attached KML/Bay Area Rapid Transit |
 | Quora Topic Id | BART |
 | Owned By | San Francisco Bay Area Rapid Transit District |
 | Headquarters Location | Oakland |
-| Employees | 3,137 (as of 2014) |
 | Track Gauge | 1676 mm track gauge |
 | Route Diagram Template | Template:Bay Area Rapid Transit lines |
 | Encyclopædia Britannica Online Id | topic/Bay-Area-Rapid-Transit |
@@ -110,3 +126,9 @@ guideline_count: 1
 | Subreddit | Bart |
 | Image | BART train in M85 interlocking, July 2023.JPG |
 | Location | San Francisco Bay Area |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,137 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |

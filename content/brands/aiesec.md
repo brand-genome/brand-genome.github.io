@@ -2,7 +2,7 @@
 title: AIESEC
 slug: aiesec
 description: ""
-date: "2026-03-05T22:38:39.365083"
+date: "2026-03-13T08:56:59.317492"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - netherlands
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
@@ -21,9 +21,21 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - montreal
+subsidiaries: []
+foundation_dates:
+  - 1949
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: student organization
+wikidata_url: "https://www.wikidata.org/wiki/Q191866"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +105,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q191866) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Montreal](/headquarters_locations/montreal/) |
+| Foundation Date | [1949](/foundation_dates/1949/); [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/0h73z |
 | Viaf Cluster Id | 104148995987859751964 |
 | Inception | 1949, 1948 |
@@ -136,4 +156,6 @@ guideline_count: 2
 
 ### Revenue History
 
-- $3.23M (3,230,494 United States dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.23M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |

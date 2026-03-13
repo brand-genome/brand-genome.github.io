@@ -2,11 +2,11 @@
 title: Jamf
 slug: jamf
 description: ""
-date: "2026-03-05T22:38:39.680457"
+date: "2026-03-13T08:56:59.598754"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -21,6 +21,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "proprietary-software"
+products: []
+headquarters_locations:
+  - minneapolis
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,21 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - stacked
+  - wordmark
 brand_colors:
   - white
   - gray
 typographies: []
 imagery_styles:
-  - playful
   - product
+  - playful
 wikidata_description: U.S. technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q85770729"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +111,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q85770729) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Proprietary Software](/products_or_materials_produced/proprietary-software/) |
+| Headquarters Location | [Minneapolis](/headquarters_locations/minneapolis/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Downdetector Id | jamf-school |
 | Industry | software industry |
 | X (Twitter) Username | jamfsoftware (as of 2021-01-25, from 2009-03-23) |

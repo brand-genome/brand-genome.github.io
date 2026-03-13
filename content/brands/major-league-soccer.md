@@ -2,7 +2,7 @@
 title: Major League Soccer
 slug: "major-league-soccer"
 description: ""
-date: "2026-03-05T22:38:39.268622"
+date: "2026-03-13T08:56:59.210943"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1995
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: professional soccer league in the USA and Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q18543"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18543) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1995](/foundation_dates/1995/); [1993](/foundation_dates/1993/) |
 | Country | United States, Canada |
 | Topic'S Main Category | Category:Major League Soccer |
 | Freebase Id | /m/0jfpf |
@@ -82,7 +102,6 @@ guideline_count: 1
 | Season Starts | March |
 | Number Of Participants | 30 |
 | Has Part(S) | Eastern Conference, Western Conference, MLSsoccer.com, 1996 Major League Soccer season, 1997 Major League Soccer season (+29 more) |
-| Logo Image | Major League Soccer logo.svg (from 2014-09), Major League Soccer MLS wordmark 2007.svg (from 2007, until 2014-09) |
 | Season Ends | November |
 | Youtube Channel Id | UCSZbXT5TLLW_i-5W8FZpFsg (as of 2020-12-12, from 2006-02-18) |
 | League Level Below | North American Soccer League (from 2011, until 2017), USL Championship (from 2017), USSF Division 2 Professional League (from 2010, until 2010) |

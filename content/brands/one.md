@@ -2,7 +2,7 @@
 title: One
 slug: one
 description: ""
-date: "2026-03-05T22:38:39.509746"
+date: "2026-03-13T08:56:59.434337"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ typographies: []
 imagery_styles:
   - bold
 wikidata_description: "German men's association football top league"
+wikidata_url: "https://www.wikidata.org/wiki/Q82595"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -80,6 +92,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q82595) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Sport | association football |
 | Viaf Cluster Id | 152608274 |
 | Country | Germany |
@@ -105,7 +122,6 @@ guideline_count: 1
 | Category For Maps Or Plans | Category:Maps of Fußball-Bundesliga (Germany) |
 | Instagram Username | bundesliga (as of 2022-02-28) |
 | Facebook Username | BundesligaOfficial |
-| Logo Image | Bundesliga logo.svg, Bundesliga Wordmark (2002-2010).svg (from 2002, until 2010), Bundesliga Wordmark (2010-2017).svg (from 2010, until 2017), Bundesliga Wordmark (1996-2002).svg (from 1996, until 2002) |
 | Replaces | Fußball-Oberliga (as of 1963) |
 | Opta Football Competition Id | 22 |
 | Winner | 1. FC Köln (as of 1964), SV Werder Bremen (as of 1965), FC Bayern Munich (as of 2019), Bayer 04 Leverkusen (as of 2024), Borussia Dortmund (as of 2012) (+5 more) |

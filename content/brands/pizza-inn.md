@@ -2,7 +2,7 @@
 title: Pizza Inn
 slug: "pizza-inn"
 description: ""
-date: "2026-03-05T22:38:39.195686"
+date: "2026-03-13T08:56:59.130573"
 draft: false
 sectors:
   - food
@@ -22,6 +22,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - pizza
+products: []
+headquarters_locations:
+  - "the-colony"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American restaurant chain and international food franchise
+wikidata_url: "https://www.wikidata.org/wiki/Q4118850"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4118850) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Pizza](/products_or_materials_produced/pizza/) |
+| Headquarters Location | [The Colony](/headquarters_locations/the-colony/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Stock Exchange | Nasdaq (from 2015-01-09) |
 | Headquarters Location | The Colony |
 | Location Of Formation | Dallas |

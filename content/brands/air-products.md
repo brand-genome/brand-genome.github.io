@@ -2,7 +2,7 @@
 title: Air Products
 slug: "air-products"
 description: ""
-date: "2026-03-05T22:38:39.083697"
+date: "2026-03-13T08:56:59.037037"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +49,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - abstract
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - blue
   - green
+  - blue
   - black
 typographies:
   - "open-sans"
 imagery_styles:
-  - bold
+  - natural
+  - contemporary
   - vibrant
   - graphic
   - abstract
-  - contemporary
-  - natural
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q113466636"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -144,6 +155,10 @@ guideline_count: 2
 - General observations include references to design rules applied to vehicles, uniforms, signage, and promotional materials.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q113466636) |
 
 | Property | Value |
 |----------|-------|

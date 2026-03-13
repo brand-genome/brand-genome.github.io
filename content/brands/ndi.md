@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-03-05T22:38:39.338113"
+date: "2026-03-13T08:56:59.292704"
 draft: false
 sectors:
+  - networking
   - broadcasting
   - software
-  - networking
 regions:
   - usa
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +58,18 @@ brand_colors:
   - white
   - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - professional
   - product
+  - professional
 wikidata_description: "US federally funded non-profit organization to support democracy"
+wikidata_url: "https://www.wikidata.org/wiki/Q2701197"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +137,12 @@ Key trademark ownership and communication protocol alignment for NDI® represent
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2701197) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1983](/foundation_dates/1983/) |
 | Freebase Id | /m/05l5x_ |
 | Political Ideology | social liberalism |
 | Headquarters Location | Washington, D.C. |
@@ -148,7 +167,6 @@ Key trademark ownership and communication protocol alignment for NDI® represent
 | Uia Open Yearbook Organization Website Id | 1100019212 |
 | Gnd Id | 5090188-6 |
 | National Library Of Israel J9U Id | 987007265988105171 |
-| Logo Image | National Democratic Institute for International Affairs Logo.svg |
 | Littlesis Organization Id | 33355 |
 | Worldcat Registry Id | 131845, 21094 |
 | Influencewatch Id | non-profit/national-democratic-institute-ndi |

@@ -2,11 +2,11 @@
 title: Bowling Green State University
 slug: "bowling-green-state-university"
 description: ""
-date: "2026-03-05T22:38:39.333613"
+date: "2026-03-13T08:56:59.287570"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,33 +52,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
+  - brown
   - white
   - gold
-  - teal
   - orange
   - coral
-  - brown
+  - teal
 typographies:
-  - serif
-  - "sans-serif"
-  - univers
   - arial
   - helvetica
+  - univers
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - photography
-  - graphic
-  - gradient
-  - candid
   - natural
+  - photography
+  - candid
+  - gradient
+  - graphic
 wikidata_description: "public university in Bowling Green, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q895457"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +127,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q895457) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Coordinate Location | 41.38, -83.64 |
 | Country | United States |
 | Topic'S Main Category | Category:Bowling Green State University |
@@ -138,7 +156,6 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 11986330q |
 | Idref Id | 027924831 |
 | Affiliation | NCAA Division I |
-| Logo Image | Bowling Green State University wordmark.svg |
 | Nl Cr Aut Id | ko2002149018 |
 | Microsoft Academic Id (Discontinued) | 157417397 |
 | Street Address | 220 McFall Ctr, Bowling Green, OH, 43403 |
@@ -158,7 +175,6 @@ guideline_count: 1
 | Crunchbase Organization Id | bowling-green-state-university-bowling-green |
 | Alexander Turnbull Library Id | 201654 |
 | Count Of Students | 18,142 (as of 2020-09), 17,075 (as of 2021-09-01) |
-| Employees | 2,180 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I157417397, P4310316079 |
@@ -178,3 +194,9 @@ guideline_count: 1
 | Littlesis Organization Id | 52068 |
 | Threads Username | officialbgsu |
 | Athletics Program | Bowling Green Falcons |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,180 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

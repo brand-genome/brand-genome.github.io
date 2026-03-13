@@ -2,7 +2,7 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-03-05T22:38:39.408802"
+date: "2026-03-13T08:56:59.370033"
 draft: false
 sectors:
   - "consumer-goods"
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1834
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,21 +54,23 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-5"
-  - "pantone-6"
   - green
+  - "pantone-5"
   - black
+  - "pantone-6"
 typographies:
   - times
 imagery_styles:
-  - bold
   - photography
+  - bold
   - geometric
 wikidata_description: British department store
+wikidata_url: "https://www.wikidata.org/wiki/Q332474"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -300,6 +314,12 @@ pl...
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q332474) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1834](/foundation_dates/1834/) |
 | Country | United Kingdom |
 | Founded By | Charles Henry Harrod |
 | Located In The Administrative Territorial Entity | Royal Borough of Kensington and Chelsea |
@@ -313,7 +333,6 @@ pl...
 | X (Twitter) Username | Harrods (as of 2020-02-29, from 2009-12-07) |
 | Coordinate Location | 51.499586, -0.163517 |
 | Legal Form | private company limited by shares |
-| Logo Image | Harrods.svg |
 | Quora Topic Id | Harrods |
 | Heritage Designation | Grade II* listed building (from 1969-04-15) |
 | Owned By | Qatar Investment Authority |
@@ -331,7 +350,6 @@ pl...
 | Pm20 Folder Id | co/010890 |
 | Encyclopædia Britannica Online Id | topic/Harrods |
 | Significant Event | terrorist attack (as of 1983-12-17) |
-| Employees | 5,000 |
 | Historic County | Middlesex |
 | Philadelphia Museum Of Art Entity Id | 13205 |
 | Facebook Username | Harrods |
@@ -355,3 +373,9 @@ pl...
 | On Focus List Of Wikimedia Project | NADD Wikidata project |
 | Vikidia Article Id | fr:Harrods |
 | Kisti Id | K000361970 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,000 | - | [1K-10K](/employees_buckets/1k-10k/) |

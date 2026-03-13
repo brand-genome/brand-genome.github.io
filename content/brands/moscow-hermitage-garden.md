@@ -2,11 +2,11 @@
 title: Moscow Hermitage Garden
 slug: "moscow-hermitage-garden"
 description: ""
-date: "2026-03-05T22:38:39.488308"
+date: "2026-03-13T08:56:59.420172"
 draft: false
 sectors:
-  - "arts-culture"
   - tourism
+  - "arts-culture"
 regions:
   - russia
 years:
@@ -18,11 +18,21 @@ tags:
 industries: []
 countries:
   - russia
-  - "russian-empire"
   - "soviet-union"
+  - "russian-empire"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1894
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,19 +54,21 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - "pantone-7489"
-  - "pantone-290"
-  - "pantone-270"
   - "pantone-150"
+  - "pantone-290"
+  - "pantone-7489"
+  - "pantone-270"
 typographies:
-  - arial
   - times
+  - arial
 imagery_styles: []
 wikidata_description: "park in Moscow, Russia"
+wikidata_url: "https://www.wikidata.org/wiki/Q3889320"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +98,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3889320) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1894](/foundation_dates/1894/) |
 | Coordinate Location | 55.770780555556, 37.6103 |
 | Country | Russia, Russian Empire, Soviet Union |
 | Image | Hermitage Garden Hermitage Theater Moscow.jpg |

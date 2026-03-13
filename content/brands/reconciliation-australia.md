@@ -2,7 +2,7 @@
 title: Reconciliation Australia
 slug: "reconciliation-australia"
 description: ""
-date: "2026-03-05T22:38:39.471267"
+date: "2026-03-13T08:56:59.407307"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "old-parliament-house"
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,19 +56,21 @@ logo_elements:
   - lockup
 brand_colors:
   - white
-  - teal
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
+  - teal
 typographies:
-  - poppins
   - helvetica
+  - poppins
 imagery_styles: []
 wikidata_description: "Australian not-for-profit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q7302731"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +107,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7302731) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Old Parliament House](/headquarters_locations/old-parliament-house/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | Australia |
 | Located In The Administrative Territorial Entity | Australian Capital Territory |
 | Headquarters Location | Old Parliament House |
@@ -104,17 +125,35 @@ guideline_count: 1
 | Youtube Handle | reconciliationaustralia (as of 2025-10-21) |
 | Domain Name | reconciliation.org.au |
 | Australian Business Number | 76092919769 |
-| Total Assets | 10,718,015 Australian dollar (as of 2023), 10,517,808 Australian dollar (as of 2022), 4,937,291 Australian dollar (as of 2021), 4,032,884 Australian dollar (as of 2020), 3,391,038 Australian dollar (as of 2019) |
 | Number Of Volunteers | 12 (as of 2023), 10 (as of 2021), 9 (as of 2019) |
 | Donations | 99,044 Australian dollar (as of 2023), 97,038 Australian dollar (as of 2022), 290,855 Australian dollar (as of 2021), 146,596 Australian dollar (as of 2020), 65,977 Australian dollar (as of 2019) |
-| Employees | 42 (as of 2023), 36 (as of 2022), 29 (as of 2019) |
 | Number Of Viewers/Listeners | 2,778,771 (as of 2025-11-28) |
 | Instagram Username | reconciliationaus |
 
 ### Revenue History
 
-- $10.20M (10,203,998 Australian dollar (as of 2023))
-- $9.90M (9,897,404 Australian dollar (as of 2022))
-- $6.64M (6,642,594 Australian dollar (as of 2021))
-- $6.38M (6,380,163 Australian dollar (as of 2020))
-- $6.28M (6,275,626 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $10.20M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.90M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.64M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.38M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.28M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 42 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 36 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 29 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $10.72M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.52M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $4.94M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.03M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.39M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |

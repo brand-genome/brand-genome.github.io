@@ -2,7 +2,7 @@
 title: Air Belgium
 slug: "air-belgium"
 description: ""
-date: "2026-03-05T22:38:39.511889"
+date: "2026-03-13T08:56:59.437120"
 draft: false
 sectors:
   - airline
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "mont-saint-guibert"
+subsidiaries: []
+foundation_dates:
+  - 2016
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies:
   - display
 imagery_styles: []
 wikidata_description: Belgian airline
+wikidata_url: "https://www.wikidata.org/wiki/Q50399835"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -80,9 +93,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q50399835) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mont Saint Guibert](/headquarters_locations/mont-saint-guibert/) |
+| Foundation Date | [2016](/foundation_dates/2016/) |
 | Inception | 2016-05-27 |
 | Airline Hub | Brussels South Charleroi Airport |
-| Logo Image | Air Belgium Logo (2016).svg |
 | Image | Air Belgium Airbus A340.jpg |
 | Headquarters Location | Mont-Saint-Guibert |
 | Legal Form | Public limited company (Belgium) |

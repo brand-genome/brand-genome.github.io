@@ -2,7 +2,7 @@
 title: National Trust
 slug: "national-trust"
 description: ""
-date: "2026-03-05T22:38:39.787288"
+date: "2026-03-13T08:56:59.837607"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - swindon
+subsidiaries: []
+foundation_dates:
+  - 1895
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "conservation organization in England, Wales and Northern Ireland"
+wikidata_url: "https://www.wikidata.org/wiki/Q333515"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,6 +102,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q333515) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Swindon](/headquarters_locations/swindon/) |
+| Foundation Date | [1895](/foundation_dates/1895/) |
 | Gnd Id | 17978-4 |
 | Topic'S Main Category | Category:National Trust |
 | Freebase Id | /m/0pb0b |
@@ -134,7 +154,6 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007265983205171 |
 | Charity Commission No. | 205846 (from 1962-11-05) |
 | Donations | 84,182,000 pound sterling (as of 2019), 70,940,000 pound sterling (as of 2018), 79,362,000 pound sterling (as of 2017), 63,511,000 pound sterling (as of 2021), 81,656,000 pound sterling (as of 2020) (+4 more) |
-| Employees | 7,463 (as of 2019), 7,002 (as of 2018), 6,548 (as of 2017), 7,578 (as of 2021), 8,015 (as of 2020) (+2 more) |
 | Number Of Volunteers | 65,000 (as of 2017), 61,000 (as of 2018), 53,000 (as of 2020), 50,000 (as of 2021), 40,000 (as of 2024) (+1 more) |
 | Chairperson | Charles III |
 | Bibale Id | 60982 |
@@ -151,12 +170,26 @@ guideline_count: 1
 
 ### Revenue History
 
-- $634.34M (634,339,000 pound sterling (as of 2019))
-- $594.88M (594,875,000 pound sterling (as of 2018))
-- $591.74M (591,742,000 pound sterling (as of 2017))
-- $507.66M (507,661,000 pound sterling (as of 2021))
-- $680.95M (680,952,000 pound sterling (as of 2020))
-- $643.33M (643,329,000 pound sterling (as of 2022))
-- $671.08M (671,076,000 pound sterling (as of 2023))
-- $723.81M (723,814,000 pound sterling (as of 2024))
-- $766.20M (766,195,000 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $634.34M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $594.88M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $591.74M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $507.66M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $680.95M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $643.33M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $671.08M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $723.81M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $766.20M | as of 2025 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 7,463 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,002 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,548 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,578 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,015 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,419 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,746 | as of 2025 | [1K-10K](/employees_buckets/1k-10k/) |

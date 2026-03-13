@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-03-05T22:38:39.681594"
+date: "2026-03-13T08:56:59.602935"
 draft: false
 sectors:
   - "social-media"
@@ -13,21 +13,40 @@ years:
 languages:
   - russian
 tags:
-  - featured
   - internet
   - networks
+  - featured
 industries:
-  - "technology-company"
   - investment
+  - "technology-company"
 countries:
   - russia
   - cyprus
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "50b-100b"
+  - "50B-100B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "100B-500B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - vk
+  - mycom
+  - "web-service"
+  - odnoklassniki
+  - mailru
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,27 +65,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - vertical
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
   - dynamic
   - professional
+  - vibrant
+  - photography
+  - bold
 wikidata_description: Russian internet company
+wikidata_url: "https://www.wikidata.org/wiki/Q1885456"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +134,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1885456) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Vk](/products_or_materials_produced/vk/); [Mycom](/products_or_materials_produced/mycom/); [Web Service](/products_or_materials_produced/web-service/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Mailru](/products_or_materials_produced/mailru/) |
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Described By Source | Lentapedia |
 | Topic'S Main Category | Category:VK |
 | Founded By | Yuri Milner, Dmitry Grishin |
@@ -121,7 +149,6 @@ guideline_count: 1
 | Legal Form | ООО, open joint-stock company |
 | Parent Organization Or Unit | USM Holdings, MegaFon |
 | Country | Russia, Cyprus |
-| Employees | 3,122 (as of 2015), 2,867, 8,840 (as of 2020) |
 | Product Or Material Produced | VK, Odnoklassniki, Mail.ru, My.com, web service |
 | Stock Exchange | London Stock Exchange (from 2010-11-11, until 2023-09-12), Moscow Exchange (from 2020-07-02) |
 | Isin | US5603172082 |
@@ -129,8 +156,6 @@ guideline_count: 1
 | Owned By | MegaFon |
 | Industry | investment, technology company |
 | Microsoft Academic Id (Discontinued) | 277521741 |
-| Total Assets | 204,782,000,000 Russian ruble (as of 2018), 254,715,000,000 Russian ruble (as of 2019), 291,411,000,000 Russian ruble (as of 2020), 297,739,000,000 Russian ruble (as of 2021), 360,915,000,000 Russian ruble (as of 2022) |
-| Total Equity | 164,975,000,000 Russian ruble (as of 2018), 185,464,000,000 Russian ruble (as of 2019), 181,991,000,000 Russian ruble (as of 2020), 170,262,000,000 Russian ruble (as of 2021), 168,112,000,000 Russian ruble (as of 2022) |
 | Social Media Followers | 52,418 (as of 2021-01-03), 51,755 (as of 2022-01-08), 51,536 (as of 2023-02-08) |
 | Forbes Russia Profile Id | 268779 |
 | Child Organization Or Unit | My.com, VK, Odnoklassniki, My.Games, Uchi.ru (from 2023-02) |
@@ -148,7 +173,6 @@ guideline_count: 1
 | Youtube Channel Id | UCbzHS5sXGNiMHXN-JdbUB8g (as of 2021-10-24, from 2015-03-13) |
 | Chief Executive Officer | Vladimir Kiriyenko (from 2021-12), Boris Dobrodeyev (from 2016, until 2021-12) |
 | Image | Центральный офис Мэйл.ру.jpg |
-| Logo Image | VK Compact Logo (2021-present).svg (from 2021-10-12), Mail.Ru Group logo.svg (until 2021-10-11) |
 | Vc.Ru Company Id | insidevk |
 | Wolfram Language Entity Code | Entity["Company", "MailruGroup::sd3vd"] |
 | Habr Company Id | vk |
@@ -166,26 +190,60 @@ guideline_count: 1
 
 ### Revenue History
 
-- $42.75B (42,751,000,000 Russian ruble (as of 2016))
-- $37.23B (37,227,000,000 Russian ruble (as of 2015))
-- $51.74B (51,744,000,000 Russian ruble (as of 2017))
-- $66.11B (66,105,000,000 Russian ruble (as of 2018))
-- $96.23B (96,231,000,000 Russian ruble (as of 2019))
-- $100.54B (100,542,000,000 Russian ruble (as of 2020))
-- $126.06B (126,061,000,000 Russian ruble (as of 2021))
-- $100.50B (100,500,000,000 Russian ruble (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $42.75B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.23B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $51.74B | as of 2017 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $66.11B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $96.23B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $100.54B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $126.06B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $100.50B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $62.58B (-62,581,000,000 Russian ruble (as of 2018))
-- $68.04B (-68,036,000,000 Russian ruble (as of 2019))
-- $81.26B (-81,263,000,000 Russian ruble (as of 2020))
-- $96.61B (-96,614,000,000 Russian ruble (as of 2021))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $62.58B | as of 2018 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $68.04B | as of 2019 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $81.26B | as of 2020 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $96.61B | as of 2021 | [50B-100B](/operating_income_buckets/50b-100b/) |
 
 ### Net Profit History
 
-- $8.06B (-8,063,000,000 Russian ruble (as of 2018))
-- $18.85B (18,851,000,000 Russian ruble (as of 2019))
-- $21.26B (-21,260,000,000 Russian ruble (as of 2020))
-- $15.70B (-15,697,000,000 Russian ruble (as of 2021))
-- $3.91B (-3,910,000,000 Russian ruble (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $8.06B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $18.85B | as of 2019 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $21.26B | as of 2020 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $15.70B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $3.91B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,122 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,867 | - | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,840 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $204.78B | as of 2018 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $254.72B | as of 2019 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $291.41B | as of 2020 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $297.74B | as of 2021 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $360.92B | as of 2022 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $164.97B | as of 2018 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $185.46B | as of 2019 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $181.99B | as of 2020 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $170.26B | as of 2021 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $168.11B | as of 2022 | [100B-500B](/total_equity_buckets/100b-500b/) |

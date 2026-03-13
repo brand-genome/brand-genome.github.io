@@ -2,7 +2,7 @@
 title: Arts Midwest
 slug: "arts-midwest"
 description: ""
-date: "2026-03-05T22:38:39.181860"
+date: "2026-03-13T08:56:59.109809"
 draft: false
 sectors:
   - ngo
@@ -14,14 +14,24 @@ years:
 languages:
   - english
 tags:
-  - featured
   - art
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +50,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
-  - secondary
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - white
   - "pantone-170"
-  - "pantone-5275"
-  - black
-  - "pantone-2366"
-  - coral
-  - "pantone-2297"
-  - green
+  - white
   - purple
+  - green
+  - coral
+  - "pantone-2366"
+  - black
+  - "pantone-5275"
+  - "pantone-2297"
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: "nonprofit arts organization headquartered in Minneapolis, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q4801476"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +108,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4801476) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Country | United States |
 | Quora Topic Id | Arts-Midwest |
 | Located In The Administrative Territorial Entity | Minneapolis |

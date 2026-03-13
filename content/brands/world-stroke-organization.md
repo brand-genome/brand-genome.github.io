@@ -2,7 +2,7 @@
 title: World Stroke Organization
 slug: "world-stroke-organization"
 description: ""
-date: "2026-03-05T22:38:39.553433"
+date: "2026-03-13T08:56:59.475423"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,22 +48,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - logomark
+  - secondary
 brand_colors:
   - white
-  - blue
   - green
+  - blue
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "a non-profit medical association that works to raise awareness of prevention and treatment of stroke"
+wikidata_url: "https://www.wikidata.org/wiki/Q8036267"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +112,10 @@ guideline_count: 1
 - 'DON'T BE THE ONE': One in four may experience a stroke, but most can be prevented through awareness and action.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8036267) |
 
 | Property | Value |
 |----------|-------|

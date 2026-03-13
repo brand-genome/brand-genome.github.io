@@ -2,7 +2,7 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-03-05T22:38:39.206570"
+date: "2026-03-13T08:56:59.143618"
 draft: false
 sectors:
   - insurance
@@ -16,13 +16,25 @@ languages:
 tags:
   - software
 industries:
-  - "information-technology-industry"
   - "artificial-intelligence"
+  - "information-technology-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "artificial-intelligence"
+products: []
+headquarters_locations:
+  - "palo-alto"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
-  - bold
-  - serious
   - modern
   - clean
+  - bold
+  - serious
 wikidata_description: American artificial intelligence corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q131362989"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,9 +123,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131362989) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Google Knowledge Graph Id | /g/11nxv08p_7 |
 | Industry | artificial intelligence, information technology industry |
-| Logo Image | Chai Logo.svg |
 | Country | United States |
 | Headquarters Location | Palo Alto |
 | Linkedin Company Or Organization Id | chai-research |
@@ -120,7 +139,12 @@ guideline_count: 1
 | Native Label | CHAI |
 | Field Of Work | artificial intelligence |
 | Founded By | William R. G. Beauchamp |
-| Employees | 15 (as of 2025) |
 | Product Or Material Produced | artificial intelligence |
 | Investor | CoreWeave |
 | Subreddit | ChaiApp |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 15 | as of 2025 | [UNDER-100](/employees_buckets/under-100/) |

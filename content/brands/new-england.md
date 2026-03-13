@@ -2,7 +2,7 @@
 title: New England
 slug: "new-england"
 description: ""
-date: "2026-03-05T22:38:39.488036"
+date: "2026-03-13T08:56:59.419959"
 draft: false
 sectors:
   - "real-estate"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1867
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: oldest independent school of music in the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q1347162"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -141,6 +155,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1347162) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1867](/foundation_dates/1867/) |
 | Nrhp Reference Number | 80000672 |
 | Coordinate Location | 42.34111111111111, -71.08638888888889 |
 | Country | United States |
@@ -176,9 +195,7 @@ guideline_count: 1
 | Social Media Followers | 6,322 (as of 2021-01-02), 6,190 (as of 2020-04-22) |
 | Crunchbase Organization Id | the-new-england-conservatory-of-music |
 | National Library Of Israel J9U Id | 987007601320505171 |
-| Total Assets | 251,412,598 United States dollar (as of 2020-06-30) |
 | Endowment | 119,213,753 United States dollar (as of 2020-06-30) |
-| Employees | 595 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I90488548 |
@@ -191,3 +208,15 @@ guideline_count: 1
 | Facebook Username | necmusic |
 | ‎Yale Lux Id | group/303d4bac-6844-4c38-a1a7-2a4c37f34e49 |
 | World Higher Education Database Id | IAU-012618 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 595 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $251.41M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

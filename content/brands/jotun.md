@@ -2,11 +2,11 @@
 title: Jotun
 slug: jotun
 description: ""
-date: "2026-03-05T22:38:39.337754"
+date: "2026-03-13T08:56:59.292327"
 draft: false
 sectors:
-  - construction
   - "consumer-goods"
+  - construction
 regions:
   - norway
 years:
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - paint
+products: []
+headquarters_locations:
+  - sandefjord
+subsidiaries: []
+foundation_dates:
+  - 1926
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,16 +55,18 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
+  - frutiger
   - verdana
   - times
-  - frutiger
 imagery_styles:
   - product
 wikidata_description: Norwegian chemicals company
+wikidata_url: "https://www.wikidata.org/wiki/Q1778870"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +109,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1778870) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Paint](/products_or_materials_produced/paint/) |
+| Headquarters Location | [Sandefjord](/headquarters_locations/sandefjord/) |
+| Foundation Date | [1926](/foundation_dates/1926/) |
 | Freebase Id | /m/09vpyv |
 | Headquarters Location | Sandefjord |
 | Norwegian Organisation Number | 923248579 |
@@ -120,9 +142,13 @@ guideline_count: 1
 | Image | Jotun Gimle.jpg |
 | Founded By | Odd Gleditsch, Sr. |
 | Chairperson | Odd Gleditsch, Jr. |
-| Employees | 10,000 |
 | Great Norwegian Encyclopedia Id | Jotun |
-| Logo Image | Jotun logo.jpg |
 | Crunchbase Organization Id | jotun |
 | Legal Entity Identifier | 549300X7UW69XEC0KU70 |
 | Wikirate Company Id | 2612038 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 10,000 | - | [10K-50K](/employees_buckets/10k-50k/) |

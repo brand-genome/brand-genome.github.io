@@ -2,7 +2,7 @@
 title: Supercell
 slug: supercell
 description: ""
-date: "2026-03-05T22:38:39.229148"
+date: "2026-03-13T08:56:59.172920"
 draft: false
 sectors:
   - gaming
@@ -16,13 +16,27 @@ languages:
 tags:
   - entertainment
 industries:
-  - "software-development"
   - "video-game-industry"
+  - "software-development"
 countries:
   - finland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "mobile-game"
+products: []
+headquarters_locations:
+  - ruoholahti
+  - helsinki
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Finnish video game company
+wikidata_url: "https://www.wikidata.org/wiki/Q1438774"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +81,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1438774) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Mobile Game](/products_or_materials_produced/mobile-game/) |
+| Headquarters Location | [Ruoholahti](/headquarters_locations/ruoholahti/); [Helsinki](/headquarters_locations/helsinki/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Helsinki, Ruoholahti |
 | Freebase Id | /m/0h1h41r |
 | Industry | video game industry, software development |
@@ -75,7 +98,6 @@ guideline_count: 1
 | Parent Organization Or Unit | Tencent (from 2016-06), SoftBank Group (from 2013-08, until 2016-06) |
 | Legal Form | osakeyhtiö (from 2010-07-16) |
 | Mobygames Company Id (Former Scheme) | supercell-oy |
-| Logo Image | Supercell-logo.svg |
 | Country | Finland |
 | Gamefaqs Company Id | 109561 |
 | Facebook Username | supercell (from 2010-07-25) |
@@ -86,7 +108,6 @@ guideline_count: 1
 | Giant Bomb Id (Former Scheme) | 3010-9236 |
 | Viaf Cluster Id | 11146030496335861255 |
 | Product Or Material Produced | mobile game |
-| Employees | 300 (as of 2019) |
 | Legal Entity Identifier | 743700MSCHABJ4XW2532 |
 | Eu Vat Number | FI23365096 |
 | Official Name | Supercell Oy (from 2010-07-16), Supercell Ltd (from 2016-07-25) |
@@ -107,3 +128,9 @@ guideline_count: 1
 | Eu Transparency Register Id | 245932993441-10 |
 | ‎Gamesindustry.Biz Tag Id | companies/supercell |
 | Topic Has Template | Template:Supercell |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 300 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |

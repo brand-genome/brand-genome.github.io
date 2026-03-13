@@ -2,7 +2,7 @@
 title: SAS
 slug: sas
 description: ""
-date: "2026-03-05T22:38:39.373634"
+date: "2026-03-13T08:56:59.332390"
 draft: false
 sectors:
   - software
@@ -15,14 +15,26 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - analytics
   - "artificial-intelligence"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - sas
+products: []
+headquarters_locations:
+  - cary
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +61,12 @@ imagery_styles:
   - photography
   - geometric
 wikidata_description: American analytics and artificial intelligence company
+wikidata_url: "https://www.wikidata.org/wiki/Q1473820"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -132,10 +146,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1473820) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sas](/products_or_materials_produced/sas/) |
+| Headquarters Location | [Cary](/headquarters_locations/cary/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Founded By | Anthony James Barr, James Goodnight, John Sall, Jane Helwig |
 | Freebase Id | /m/01bp2d |
 | Headquarters Location | Cary |
-| Logo Image | SAS logo horiz.svg |
 | Inception | 1976 |
 | Open Library Id | OL2935655A |
 | Legal Entity Identifier | 54930038Z4LRJWWZ1746 |

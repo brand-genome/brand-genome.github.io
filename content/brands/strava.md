@@ -2,11 +2,11 @@
 title: Strava
 slug: strava
 description: ""
-date: "2026-03-05T22:38:39.318808"
+date: "2026-03-13T08:56:59.266826"
 draft: false
 sectors:
-  - software
   - sports
+  - software
 regions:
   - usa
 years:
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - app
   - sport
+  - app
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,33 +49,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
-  - primary
-  - symbol
   - secondary
+  - primary
+  - badge
+  - vertical
+  - symbol
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
   - red
-  - orange
+  - purple
   - cyan
   - black
+  - orange
   - gray
-  - purple
 typographies:
   - display
 imagery_styles:
-  - bold
   - photography
   - natural
   - flat
+  - bold
 wikidata_description: fitness tracking app for iOS and Android
+wikidata_url: "https://www.wikidata.org/wiki/Q13884156"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -133,6 +145,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13884156) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Inception | 2009-03-03 |
 | Operating System | Android, iOS, watchOS |
 | Publication Date | 2009 |
@@ -142,7 +159,6 @@ guideline_count: 1
 | Has Use | physical fitness |
 | Facebook Username | Strava |
 | X (Twitter) Username | strava (as of 2020-04-24, from 2009-05-27) |
-| Logo Image | Strava Logo.svg |
 | Downdetector Id | strava |
 | Social Media Followers | 208,031 (as of 2021-01-08), 185,597 (as of 2020-04-24), 213,253 (as of 2021-07-14), 219,217 (as of 2022-03-02), 223,707 (as of 2023-02-07) (+1 more) |
 | Freebase Id | /m/0w51322 |

@@ -2,7 +2,7 @@
 title: Google Trends
 slug: "google-trends"
 description: ""
-date: "2026-03-05T22:38:39.801646"
+date: "2026-03-13T08:56:59.857128"
 draft: false
 sectors:
   - software
@@ -13,13 +13,23 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public outlet of Google that shows how often a particular search-term is entered relative to the total search-volume"
+wikidata_url: "https://www.wikidata.org/wiki/Q847115"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,13 +73,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q847115) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Freebase Id | /m/0d2p9p |
 | Quora Topic Id | Google-Trends |
 | Owned By | Google |
 | Wordlift Url | http://data.thenextweb.com/tnw/entity/google_trends |
 | Inception | 2006-05-11 |
 | Replaces | Google Insights for Search (as of 2012-09-27) |
-| Logo Image | Google Trends.png |
 | X (Twitter) Username | GoogleTrends (as of 2022-08-20, from 2015-03-26) |
 | Github Account | googletrends |
 | Github Topic | googletrends, google-trends |

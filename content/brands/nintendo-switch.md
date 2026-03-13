@@ -2,7 +2,7 @@
 title: Nintendo Switch
 slug: "nintendo-switch"
 description: ""
-date: "2026-03-05T22:38:39.180941"
+date: "2026-03-13T08:56:59.108602"
 draft: false
 sectors:
   - gaming
@@ -10,8 +10,8 @@ sectors:
 regions:
   - japan
 years:
-  - 2016
   - 2020
+  - 2016
 languages:
   - english
 tags:
@@ -22,6 +22,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2018
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "paid online service for the Nintendo Switch and Nintendo Switch 2, which provides several functions"
+wikidata_url: "https://www.wikidata.org/wiki/Q30943865"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +95,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30943865) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2018](/foundation_dates/2018/) |
 | Nintendo Of America Game Store Id (Former Scheme) | mTAbvaJIA_aGgozyEZWVnnZ27CC0iXcd |
 | Distributed By | Nintendo eShop |
 | Developer | Nintendo |
@@ -91,7 +108,6 @@ guideline_count: 2
 | Distribution Format | digital download |
 | Google Knowledge Graph Id | /g/11c32cgxd8 |
 | Fandom Article Id | nintendo:Nintendo_Switch_Online, video-games:Nintendo_Switch_Online |
-| Logo Image | Nintendo Switch Online logo.svg |
 | Publication Date | 2018-09-18 |
 | Moegirlpedia Id | Nintendo_Switch_Online |
 | Hashtag | NintendoSwitchOnline |

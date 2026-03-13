@@ -2,11 +2,11 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-03-05T22:38:39.155571"
+date: "2026-03-13T08:56:59.095388"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -15,18 +15,31 @@ years:
 languages:
   - english
 tags:
-  - featured
   - ambigram
   - transport
+  - featured
 industries:
   - "passenger-rail-transport"
   - "rail-transport"
 countries:
   - canada
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - montreal
+  - "place-ville-marie"
+subsidiaries: []
+foundation_dates:
+  - 1977
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,31 +59,33 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - vertical
   - symbol
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - white
   - red
-  - "pantone-123"
   - grey
-  - black
+  - blue
   - yellow
   - "pantone-032"
-  - blue
+  - black
+  - "pantone-123"
 typographies:
   - arial
 imagery_styles:
   - photography
-  - monochrome
-  - clean
   - modern
+  - clean
+  - monochrome
 wikidata_description: "national inter-city passenger rail operator in Canada owned by the Canadian government"
+wikidata_url: "https://www.wikidata.org/wiki/Q876720"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -131,6 +146,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q876720) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Montreal](/headquarters_locations/montreal/); [Place Ville Marie](/headquarters_locations/place-ville-marie/) |
+| Foundation Date | [1977](/foundation_dates/1977/) |
 | Topic'S Main Category | Category:Via Rail |
 | Commons Gallery | Via Rail |
 | Freebase Id | /m/01rf2j |
@@ -143,7 +164,6 @@ guideline_count: 2
 | Ringgold Id | 371904 |
 | Legal Form | Crown corporation |
 | Image | VIA Rail Train London Ontario.jpg |
-| Logo Image | VIA Rail Canada simplified.svg |
 | Canadian Encyclopedia Article Id | via-rail-canada-inc |
 | Bibliothèque Nationale De France Id | 11984448k |
 | Idref Id | 027902455 |
@@ -168,7 +188,6 @@ guideline_count: 2
 | Follows | Canadian National Railway, Canadian Pacific Railway |
 | Operating Area | Canada, New York |
 | Reporting Mark | VIA |
-| Employees | 3,248 (as of 2019) |
 | Patronage | 1,203,100 (until 2019-06-30) |
 | Uses | railway track |
 | Sponsor | Transport Canada |
@@ -207,4 +226,12 @@ guideline_count: 2
 
 ### Revenue History
 
-- $99.90M (99,900,000 Canadian dollar (until 2019-06-30))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $99.90M | until 2019-06-30 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,248 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |

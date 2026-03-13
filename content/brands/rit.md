@@ -2,7 +2,7 @@
 title: RIT
 slug: rit
 description: ""
-date: "2026-03-05T22:38:39.803718"
+date: "2026-03-13T08:56:59.859078"
 draft: false
 sectors:
   - university
@@ -20,9 +20,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1829
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private research university in Rochester, New York, USA, founded 1829"
+wikidata_url: "https://www.wikidata.org/wiki/Q2140778"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2140778) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1829](/foundation_dates/1829/) |
 | Coordinate Location | 43.08444444444444, -77.675 |
 | Topic'S Main Category | Category:Rochester Institute of Technology |
 | Freebase Id | /m/0l0wv |
@@ -83,9 +102,7 @@ guideline_count: 1
 | Child Organization Or Unit | Center for Computational Relativity and Gravitation |
 | Times Higher Education World University Id | rochester-institute-technology |
 | Google Maps Customer Id | 13726605659290610691 |
-| Logo Image | RIT 2018 logo short orange.svg (from 2018-09-27), RIT old lettermark.svg (from 2000, until 2018-09-27) |
 | Microsoft Academic Id (Discontinued) | 155173764 |
-| Employees | 4,042 (as of 2020) |
 | Street Address | One Lomb Memorial Drive, Rochester, New York, 14623 |
 | Library Of Congress Authority Id | n81093624 |
 | Seal Image | Rochester Institute of Technology Seal (2018).svg (from 2018-09-27), Rochester Institute of Technology seal.svg (from 2000, until 2018-09-27) |
@@ -100,7 +117,6 @@ guideline_count: 1
 | Schoenberg Database Of Manuscripts Name Id | 35314 |
 | Crunchbase Organization Id | venture-creations-incubator, simone-center-for-student-innovation-and-entrepreneurship, rochester-institute-of-technology |
 | Count Of Students | 19,718 (as of 2021), 15,545 (as of 2021-09-01) |
-| Total Assets | 2,166,215,000 United States dollar (as of 2020-06-30), 2,526,196,996 United States dollar (as of 2022), 2,692,370,868 United States dollar (as of 2023), 1,462,494,283 United States dollar (as of 2011), 1,490,565,991 United States dollar (as of 2012) (+9 more) |
 | Endowment | 954,032,000 United States dollar (as of 2020-06-30), 1,248,971,694 United States dollar (as of 2022-06-30), 1,295,400,063 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -153,17 +169,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.07B (1,071,324,345 United States dollar (as of 2022))
-- $1.04B (1,042,122,687 United States dollar (as of 2023))
-- $603.65M (603,652,596 United States dollar (as of 2011))
-- $659.93M (659,927,517 United States dollar (as of 2012))
-- $661.59M (661,593,139 United States dollar (as of 2013))
-- $682.97M (682,973,729 United States dollar (as of 2014))
-- $701.66M (701,662,801 United States dollar (as of 2015))
-- $743.21M (743,214,060 United States dollar (as of 2016))
-- $729.32M (729,320,428 United States dollar (as of 2017))
-- $846.04M (846,043,530 United States dollar (as of 2018))
-- $846.26M (846,261,436 United States dollar (as of 2019))
-- $849.58M (849,584,640 United States dollar (as of 2020))
-- $909.57M (909,573,181 United States dollar (as of 2021))
-- $1.16B (1,155,931,634 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.07B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.04B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $603.65M | as of 2011 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $659.93M | as of 2012 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $661.59M | as of 2013 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $682.97M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $701.66M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $743.21M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $729.32M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $846.04M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $846.26M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $849.58M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $909.57M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.16B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,042 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.17B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.53B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.69B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.46B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.49B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.60B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.71B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.73B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.72B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.83B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.96B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.02B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.55B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.83B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

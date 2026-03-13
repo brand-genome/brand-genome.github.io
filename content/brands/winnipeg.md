@@ -2,12 +2,12 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-03-05T22:38:39.615082"
+date: "2026-03-13T08:56:59.561699"
 draft: false
 sectors:
   - "public-sector"
-  - "public-transportation"
   - utilities
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1738
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "capital and largest city of the province of Manitoba, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q2135"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +103,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2135) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1738](/foundation_dates/1738/) |
 | Dewey Decimal Classification | 2--712743 |
 | Topic'S Main Wikimedia Portal | Portal:Winnipeg |
 | Head Of Government | Brian Bowman (from 2014-10), Scott Gillingham (from 2022-11-01) |

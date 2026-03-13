@@ -2,11 +2,11 @@
 title: Big Noon
 slug: "big-noon"
 description: ""
-date: "2026-03-05T22:38:39.317377"
+date: "2026-03-13T08:56:59.265531"
 draft: false
 sectors:
-  - broadcasting
   - sports
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +54,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: US television program
+wikidata_url: "https://www.wikidata.org/wiki/Q85747095"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,7 +136,10 @@ asymmetrical ANGLESULTRA-TEXCUBE SLICESAbstract wavePG_06
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q85747095) |
+
+| Property | Value |
+|----------|-------|
 | Country Of Origin | United States |
 | Start Time | 2019-08-31 |
 | Google Knowledge Graph Id | /g/11h_44j21c |
-| Logo Image | CFB 19 logo FOX BIG NOON KICKOFF-2C-stkd.svg |

@@ -2,7 +2,7 @@
 title: Hags
 slug: hags
 description: ""
-date: "2026-03-05T22:38:39.510762"
+date: "2026-03-13T08:56:59.435599"
 draft: false
 sectors:
   - construction
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1960
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,25 +54,27 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
   - grey
-  - black
-  - yellow
   - blue
   - beige
+  - yellow
   - green
+  - black
+  - orange
 typographies:
   - arial
 imagery_styles:
-  - dramatic
-  - contemporary
   - product
+  - contemporary
   - clean
+  - dramatic
 wikidata_description: metro station in southern Stockholm
+wikidata_url: "https://www.wikidata.org/wiki/Q1568756"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +133,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1568756) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1960](/foundation_dates/1960/) |
 | Coordinate Location | 59.262222, 18.012222 |
 | Country | Sweden |
 | Located In The Administrative Territorial Entity | Stockholm |

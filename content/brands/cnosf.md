@@ -2,7 +2,7 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-03-05T22:38:39.709010"
+date: "2026-03-13T08:56:59.724457"
 draft: false
 sectors:
   - ngo
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,19 +53,21 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - red
+  - blue
+  - yellow
+  - green
   - cyan
   - black
-  - yellow
-  - blue
-  - green
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: sports body of France
+wikidata_url: "https://www.wikidata.org/wiki/Q1650165"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,7 +110,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Comité National Olympique et Sportif Français logo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1650165) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Freebase Id | /m/0h53b4l |
 | Chairperson | Amélie Oudéa-Castéra (from 2025-06-19) |
 | X (Twitter) Username | FranceOlympique (as of 2020-04-25, from 2009-12-08) |

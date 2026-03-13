@@ -2,11 +2,11 @@
 title: Australia Council for the Arts
 slug: "australia-council-for-the-arts"
 description: ""
-date: "2026-03-05T22:38:39.778455"
+date: "2026-03-13T08:56:59.831393"
 draft: false
 sectors:
-  - "arts-culture"
   - "public-sector"
+  - "arts-culture"
 regions:
   - australia
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Official arts funding body of the Government of Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q4823575"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4823575) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Country | Australia |
 | Inception | 1968 |
 | Australian Government Organisations Register Id | 102241 |

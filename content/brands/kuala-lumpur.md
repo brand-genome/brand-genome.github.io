@@ -2,7 +2,7 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-03-05T22:38:39.703177"
+date: "2026-03-13T08:56:59.715297"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1857
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +51,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - pink
   - black
+  - pink
 typographies:
   - roboto
   - script
 imagery_styles:
   - bold
 wikidata_description: Federal territory and capital city of Malaysia
+wikidata_url: "https://www.wikidata.org/wiki/Q1865"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +108,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1865) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1857](/foundation_dates/1857/) |
 | Twinned Administrative Body | Mashhad, Karachi, Isfahan, Pyongyang, Ankara (+9 more) |
 | Iso 3166 2 Code | MY-14 |
 | Country | Malaysia |
@@ -216,7 +233,7 @@ guideline_count: 1
 | X (Twitter) Username | dbkl2u (as of 2022-11-28, from 2019-11-05) |
 | Instagram Username | dewanbandarayakualalumpur |
 | Youtube Channel Id | UCwrhkJpuXtXspRWdiH52arw (as of 2022-10-30, from 2010-05-24) |
-| Email Address | mailto:dbkl@dbkl.gov.my |
+| Email Address | dbkl@dbkl.gov.my |
 | Reddit Topic Id | kuala_lumpur |
 | On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31), Govdirectory |
 | University Of Barcelona Authority Id | 981058614942606706 |

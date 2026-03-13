@@ -2,7 +2,7 @@
 title: The Evergreen State College
 slug: "the-evergreen-state-college"
 description: ""
-date: "2026-03-05T22:38:39.299799"
+date: "2026-03-13T08:56:59.240704"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +58,20 @@ brand_colors:
   - black
 typographies:
   - avenir
-  - arial
   - georgia
+  - arial
 imagery_styles:
-  - bold
   - photography
   - natural
   - graphic
+  - bold
 wikidata_description: public liberal arts college in Washington State
+wikidata_url: "https://www.wikidata.org/wiki/Q941731"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +125,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q941731) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Coordinate Location | 47.072964, -122.976151 |
 | Country | United States |
 | Topic'S Main Category | Category:Evergreen State College |
@@ -141,7 +159,6 @@ guideline_count: 1
 | Social Media Followers | 5,525 (as of 2021-01-06), 5,423 (as of 2020-04-19) |
 | Official Map Url | https://www.evergreen.edu/tour/tours-and-maps, https://www.evergreen.edu/tour/gethere |
 | Count Of Students | 2,281 (as of 2020-09) |
-| Employees | 660 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I60341648 |
@@ -155,3 +172,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/feb9ea68-96f6-481c-99e8-7d3172e994d9 |
 | Scholargps Institution Id | 89921633950434 |
 | Post Town | Olympia, WA |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 660 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

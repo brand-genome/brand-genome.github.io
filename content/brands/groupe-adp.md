@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-03-05T22:38:39.479416"
+date: "2026-03-13T08:56:59.412323"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,14 +15,28 @@ languages:
 tags:
   - aeronautic
 industries:
-  - unknown
   - "fixed-base-operator"
+  - unknown
 countries:
   - france
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "tremblay-en-france"
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +55,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - black
   - "pantone-2748"
 typographies:
   - gotham
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: French airport authority
+wikidata_url: "https://www.wikidata.org/wiki/Q794563"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +126,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q794563) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tremblay En France](/headquarters_locations/tremblay-en-france/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Isin | FR0010340141 |
 | Member Of | ASTech aerospace technologies cluster, Linux Foundation |
 | Freebase Id | /m/027vlpy |
@@ -139,8 +161,6 @@ guideline_count: 1
 | Ror Id | 05xz2k587 |
 | Gnd Id | 272116-8 |
 | Director / Manager | Augustin de Romanet |
-| Logo Image | Groupe ADP.svg (from 2016-04) |
-| Employees | 6,382 (as of 2023) |
 | Stock Market Index | CAC Mid 60, Euronext 100 |
 | Linkedin Company Or Organization Id | groupe-adp |
 | Egapro Gender Equality Index | 89 (as of 2019), 89 (as of 2020), 89 (as of 2021), 88 (as of 2022), 89 (as of 2023) (+1 more) |
@@ -150,9 +170,7 @@ guideline_count: 1
 | Radio France Person Id | adp |
 | Süddeutsche Zeitung Topic Id | Flughafen_Paris |
 | Stock Exchange | Euronext Paris (from 2006-06-15) |
-| Market Capitalization | 11,677,351,036 euro (as of 2024-04-17) |
 | Total Debt | 7,934,000,000 euro (as of 2023-12-31) |
-| Total Equity | 5,297,000,000 euro (as of 2023-12-31) |
 | Item Operated | Paris–Le Bourget Airport |
 | France 24 Topic Id (French) | groupe-adp |
 | Siren Number | 552016628 |
@@ -166,4 +184,24 @@ guideline_count: 1
 
 ### Revenue History
 
-- $5.50B (5,495,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.50B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,382 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $5.30B | as of 2023-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $11.68B | as of 2024-04-17 | [10B-50B](/market_cap_buckets/10b-50b/) |

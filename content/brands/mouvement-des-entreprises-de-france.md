@@ -2,7 +2,7 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-03-05T22:38:39.325745"
+date: "2026-03-13T08:56:59.280251"
 draft: false
 sectors:
   - ngo
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ typographies: []
 imagery_styles:
   - bold
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q3082595"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +106,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3082595) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Freebase Id | /m/01v_dc |
 | Inception | 1946-06-29 |
 | Chairperson | Pierre Gattaz (from 2013, until 2018-07-03), Geoffroy Roux de Bézieux (from 2018-07-03, until 2023-07-06), Laurence Parisot (from 2005-06, until 2013), Ernest-Antoine Seillière (from 1997-12, until 2005-06-05), Patrick Martin (from 2023-07-06) |

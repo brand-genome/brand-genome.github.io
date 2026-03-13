@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-03-05T22:38:39.201058"
+date: "2026-03-13T08:56:59.137895"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,17 +13,29 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "direct-selling"
 countries:
   - "united-states"
   - malaysia
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "freezer-box"
+products: []
+headquarters_locations:
+  - orlando
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: name of a home products line
+wikidata_url: "https://www.wikidata.org/wiki/Q1129117"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1129117) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Freezer Box](/products_or_materials_produced/freezer-box/) |
+| Headquarters Location | [Orlando](/headquarters_locations/orlando/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Founded By | Earl Tupper |
 | Freebase Id | /m/02cj0_ |
 | Headquarters Location | Orlando |
@@ -74,7 +95,6 @@ guideline_count: 1
 | Isin | US8998961044 |
 | Country | United States, Malaysia |
 | Location Of Formation | Orlando |
-| Logo Image | Tupperware 2024.svg (from 2024) |
 | Topic'S Main Category | Category:Tupperware |
 | Quora Topic Id | Tupperware-2 |
 | Member Of | Direct Selling Association (until 2013), Fédération de la Vente Directe, Direktesalgsforbundet (until 2009) |
@@ -111,5 +131,7 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.70B (2,700,000,000 United States dollar (as of 2013))
-- $1.30B (1,300,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.70B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.30B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |

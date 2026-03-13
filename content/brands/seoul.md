@@ -2,7 +2,7 @@
 title: Seoul
 slug: seoul
 description: ""
-date: "2026-03-05T22:38:39.646873"
+date: "2026-03-13T08:56:59.575175"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1395
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: capital and largest city of South Korea
+wikidata_url: "https://www.wikidata.org/wiki/Q8684"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -77,6 +89,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8684) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1395](/foundation_dates/1395/) |
 | Great Russian Encyclopedia Online Id (2017) | 3659641 |
 | U.S. National Archives Identifier | 10044367 |
 | Openstreetmap Relation Id | 2297418 |
@@ -94,7 +111,6 @@ guideline_count: 1
 | Official Name | 서울특별시 |
 | Seal Image | Logo of Seoul, South Korea.svg |
 | Ringgold Id | 65726 |
-| Logo Image | Logo of Seoul, South Korea.svg |
 | Archinform Location Id | 3175 |
 | Isni | 0000000109432764 |
 | Facebook Location Id | 108259475871818 |

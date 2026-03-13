@@ -2,17 +2,17 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-03-05T22:38:39.204027"
+date: "2026-03-13T08:56:59.140997"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -25,6 +25,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cambridge
+subsidiaries: []
+foundation_dates:
+  - 1636
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,31 +56,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - vertical
+  - wordmark
   - horizontal
   - signature
-  - wordmark
-  - vertical
 brand_colors:
-  - crimson
-  - black
-  - "pantone-7542"
   - indigo
+  - "pantone-7542"
+  - black
   - gray
+  - crimson
 typographies:
+  - georgia
   - script
   - arial
-  - georgia
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: "private university in Cambridge, Massachusetts"
+wikidata_url: "https://www.wikidata.org/wiki/Q13371"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,6 +143,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13371) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/) |
+| Foundation Date | [1636](/foundation_dates/1636/) |
 | Country | United States |
 | Inception | 1636-09-08 |
 | Topic'S Main Category | Category:Harvard University |
@@ -201,7 +222,6 @@ guideline_count: 2
 | Times Higher Education World University Id | harvard-university |
 | Google Maps Customer Id | 6428825095529310192 |
 | U Multirank University Id | harvard-university |
-| Logo Image | Harvard University logo.svg |
 | Archinform Keyword Id | 2641 |
 | Autonomous System Number | 1742, 11, 10578 |
 | Fee | 75 United States dollar, 46,340 United States dollar |
@@ -269,8 +289,6 @@ guideline_count: 2
 | Online Pwn Encyclopedia Id | 3991414 |
 | Postimees Topic Id | 68336 |
 | Nlc Authorities | 001395534 |
-| Total Assets | 61,462,439,000 United States dollar (as of 2020-06-30) |
-| Employees | 19,178 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I136199984, P4310316284 |
@@ -340,3 +358,15 @@ guideline_count: 2
 | ‎15Min.Lt Theme Id | 356 |
 | ‎Delfi.Lv Theme Id | 52192037 |
 | Uni24K Indentifier | 16283 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 19,178 | as of 2020-09 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $61.46B | as of 2020-06-30 | [50B-100B](/total_assets_buckets/50b-100b/) |

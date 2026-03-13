@@ -2,7 +2,7 @@
 title: Kraft
 slug: kraft
 description: ""
-date: "2026-03-05T22:38:39.580981"
+date: "2026-03-13T08:56:59.521102"
 draft: false
 sectors:
   - "design-creative"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - marketing
   - "student-work"
+  - marketing
 industries:
   - "food-industry"
   - "fast-moving-consumer-goods"
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "food-product"
+  - coffee
+products: []
+headquarters_locations:
+  - northfield
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American grocery manufacturing and processing conglomerate, formed as a spin-off from Kraft Foods Inc."
+wikidata_url: "https://www.wikidata.org/wiki/Q327751"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,13 +103,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q327751) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Food Product](/products_or_materials_produced/food-product/); [Coffee](/products_or_materials_produced/coffee/) |
+| Headquarters Location | [Northfield](/headquarters_locations/northfield/) |
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Inception | 2012 |
 | Topic'S Main Category | Category:Kraft Foods |
 | Stock Exchange | Nasdaq (until 2015-07-06) |
 | Freebase Id | /m/02ktt7 |
 | Headquarters Location | Northfield |
 | Isin | US50076Q1067 |
-| Logo Image | Kraft logo 2009.svg, Kraft logo 2012.svg, Kraft 2024.svg (from 2024) |
 | Child Organization Or Unit | Cheez Whiz, Tassimo, Kool-Aid, Jell-O, Grey Poupon (+6 more) |
 | British Museum Person Or Institution Id | 156756 |
 | Followed By | Kraft Heinz |
@@ -118,7 +140,6 @@ guideline_count: 1
 | Street Address | Three Lakes Drive Northfield, Illinois 60093, USA |
 | Founded By | James L. Kraft |
 | Parent Organization Or Unit | Kraft Heinz |
-| Employees | 22,500 (as of 2015) |
 | Legal Entity Identifier | V1BYR0MM295ZFWYYS367 (until 2015-12-15) |
 | Lex Id | Kraft_Foods |
 | Crunchbase Organization Id | the-kraft-heinz-company |
@@ -127,3 +148,9 @@ guideline_count: 1
 | Legal Form | Delaware corporation |
 | ‎Yale Lux Id | group/418dce98-70a5-40b6-a786-fe60c73fe06f |
 | Wikirate Company Id | 9430 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 22,500 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |

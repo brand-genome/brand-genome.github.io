@@ -2,7 +2,7 @@
 title: Evernote
 slug: evernote
 description: ""
-date: "2026-03-05T22:38:39.228832"
+date: "2026-03-13T08:56:59.172539"
 draft: false
 sectors:
   - software
@@ -13,14 +13,24 @@ years:
 languages:
   - english
 tags:
+  - software
   - app
   - featured
-  - software
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "note-taking and task-management application developed by the Evernote Corporation"
+wikidata_url: "https://www.wikidata.org/wiki/Q430526"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +80,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q430526) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Freebase Id | /m/086n11 |
 | Inception | 2008-06-23 |
 | X (Twitter) Username | evernote (as of 2020-04-19, from 2008-02-22), evernoteUK (as of 2022-08-20, from 2014-03-10), evernotehelps (as of 2022-08-20, from 2009-03-20), evernote_es (as of 2022-08-20, from 2010-05-17), EvernoteJP (as of 2022-08-20, from 2010-01-16) (+2 more) |
@@ -80,7 +97,6 @@ guideline_count: 1
 | Fast Id | 1913399 |
 | Quora Topic Id | Evernote-product |
 | App Store App Id | 281796108 |
-| Logo Image | Evernote.svg |
 | Alexa Rank | 457 (as of 2017-11-30) |
 | Zhihu Topic Id | 19703613, 19557303 |
 | Uniform Resource Identifier Scheme | evernote |

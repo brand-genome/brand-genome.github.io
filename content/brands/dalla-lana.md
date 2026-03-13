@@ -2,11 +2,11 @@
 title: Dalla Lana
 slug: "dalla-lana"
 description: ""
-date: "2026-03-05T22:38:39.767367"
+date: "2026-03-13T08:56:59.818799"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - canada
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "health-sciences-building"
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: school of public health at the University of Toronto
+wikidata_url: "https://www.wikidata.org/wiki/Q17009784"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17009784) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Health Sciences Building](/headquarters_locations/health-sciences-building/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Toronto, Ontario |
 | Inception | 1997 |

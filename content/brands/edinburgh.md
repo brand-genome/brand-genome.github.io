@@ -2,7 +2,7 @@
 title: Edinburgh
 slug: edinburgh
 description: ""
-date: "2026-03-05T22:38:39.726022"
+date: "2026-03-13T08:56:59.744816"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 0601
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "capital city of Scotland, UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q23436"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +74,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q23436) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [0601](/foundation_dates/0601/) |
 | Dewey Decimal Classification | 2--4134 |
 | Located In The Administrative Territorial Entity | City of Edinburgh (from 1996-04-01), City of Edinburgh (from 1975-05-16, until 1996-03-31), City of Edinburgh (from 1930-05-16, until 1975-05-15), Edinburgh (from 1845-04-02, until 1930-05-15), Scotland (from 1707, until 1845-04-01) |
 | Gnd Id | 4013557-3 |

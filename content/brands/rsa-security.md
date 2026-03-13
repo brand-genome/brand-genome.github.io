@@ -2,11 +2,11 @@
 title: RSA Security
 slug: "rsa-security"
 description: ""
-date: "2026-03-05T22:38:39.436061"
+date: "2026-03-13T08:56:59.401167"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - bedford
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - symbol
-  - secondary
   - abstract
   - signature
 brand_colors:
@@ -52,17 +64,19 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - product
-  - graphic
   - duotone
+  - graphic
   - abstract
+  - bold
 wikidata_description: American computer and network security company
+wikidata_url: "https://www.wikidata.org/wiki/Q2061730"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,13 +123,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2061730) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Bedford](/headquarters_locations/bedford/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Named After | Ron Rivest, Adi Shamir, Leonard Adleman |
 | Freebase Id | /m/01rxqt |
 | Inception | 1986 |
 | Headquarters Location | Bedford |
 | Founded By | Ron Rivest, Adi Shamir, Leonard Adleman |
 | Country | United States |
-| Logo Image | RSA Security logo2.svg |
 | Legal Entity Identifier | DDXF51QWGHQV97O29E54 |
 | Legal Form | privately held company (from 2020-09-01) |
 | Permid | 4295914838 |

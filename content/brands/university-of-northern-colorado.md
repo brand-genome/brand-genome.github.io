@@ -2,11 +2,11 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-03-05T22:38:39.826801"
+date: "2026-03-13T08:56:59.911523"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
@@ -15,14 +15,25 @@ years:
 languages:
   - english
 tags:
-  - university
   - institution
+  - university
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1889
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,29 +52,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - icon
   - primary
   - secondary
+  - seal
 brand_colors:
   - white
-  - gold
-  - yellow
   - blue
+  - yellow
+  - gold
   - green
 typographies:
-  - serif
-  - "sans-serif"
-  - "open-sans"
   - arial
   - helvetica
+  - "open-sans"
   - display
+  - serif
+  - "sans-serif"
 imagery_styles: []
 wikidata_description: "state university in Greeley, Colorado, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1783608"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +132,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1783608) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1889](/foundation_dates/1889/) |
 | Coordinate Location | 40.4049, -104.697 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Greeley |
@@ -151,7 +169,6 @@ guideline_count: 1
 | Jstor Publisher Id | unco |
 | Social Media Followers | 11,549 (as of 2021-01-10), 11,866 (as of 2022-02-28), 12,231 (as of 2023-02-06) |
 | Count Of Students | 11,460 (as of 2020-09), 6,849 (as of 2021-09-01) |
-| Employees | 1,530 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Musicbrainz Place Id | 1e4d088b-80a7-4c42-9579-adf11b2d80b8, 8a9f3dc4-a1de-45d3-898e-af23fbb4bb1a |
@@ -169,3 +186,9 @@ guideline_count: 1
 | Arwu University Id | university-of-northern-colorado |
 | ‎Yale Lux Id | group/ece09e65-8872-43cf-b1bc-6efd6829e1f1 |
 | Athletics Program | Northern Colorado Bears |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,530 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

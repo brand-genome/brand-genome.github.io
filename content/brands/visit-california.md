@@ -2,15 +2,15 @@
 title: Visit California
 slug: "visit-california"
 description: ""
-date: "2026-03-05T22:38:39.427088"
+date: "2026-03-13T08:56:59.394610"
 draft: false
 sectors:
   - tourism
 regions:
   - usa
 years:
-  - 2016
   - 2019
+  - 2016
 languages:
   - english
 tags:
@@ -22,6 +22,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,37 +53,39 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - gold
   - "pantone-361"
-  - orange
-  - black
+  - white
   - blue
   - "pantone-540"
-  - "pantone-7462"
+  - gold
   - "pantone-716"
+  - "pantone-7462"
+  - black
+  - orange
   - "pantone-7406"
   - "pantone-2925"
 typographies:
-  - "open-sans"
-  - gotham
   - verdana
+  - gotham
+  - "open-sans"
   - display
 imagery_styles:
-  - bold
+  - natural
+  - dynamic
+  - clean
+  - landscape
+  - serious
   - photography
   - vibrant
-  - serious
-  - dynamic
   - lifestyle
-  - landscape
-  - clean
-  - natural
+  - bold
 wikidata_description: tourism organization
+wikidata_url: "https://www.wikidata.org/wiki/Q21593113"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -165,6 +177,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21593113) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Inception | 1998 |
 | Quora Topic Id | Visit-California |
 | Legal Form | 501(c) organization |

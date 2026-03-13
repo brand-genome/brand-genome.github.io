@@ -2,7 +2,7 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-03-05T22:38:39.718064"
+date: "2026-03-13T08:56:59.736151"
 draft: false
 sectors:
   - construction
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "simbach-am-inn"
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,17 +53,19 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - grey
+  - blue
 typographies: []
 imagery_styles:
   - photography
   - product
 wikidata_description: Insulation product manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q1776934"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,9 +113,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1776934) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Simbach Am Inn](/headquarters_locations/simbach-am-inn/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Headquarters Location | Simbach am Inn |
 | Inception | 2002-01-01 |
-| Logo Image | Knauf Insulation Logo.svg |
 | Legal Form | Gesellschaft mit beschränkter Haftung |
 | Country | Germany, Belgium |
 | Eu Transparency Register Id | 971446611568-25 |

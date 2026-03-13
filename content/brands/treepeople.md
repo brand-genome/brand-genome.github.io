@@ -2,15 +2,15 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-03-05T22:38:39.207459"
+date: "2026-03-13T08:56:59.144402"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
 tags:
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "beverly-hills"
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,19 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - green
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q7837522"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +98,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7837522) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Beverly Hills](/headquarters_locations/beverly-hills/) |
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Inception | 1973 |
 | Charity Navigator Id (Obsolete) | 4571 |
 | Country | United States |
@@ -97,7 +117,6 @@ guideline_count: 2
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | Beverly Hills |
 | Quora Topic Id | TreePeople |
-| Total Assets | 18,089,327 United States dollar (as of 2022), 17,069,704 United States dollar (as of 2021), 18,548,006 United States dollar (as of 2023), 8,700,536 United States dollar (as of 2011), 8,558,323 United States dollar (as of 2012) (+8 more) |
 | Tiktok Username | treepeople |
 | Linkedin Company Or Organization Id | treepeople |
 | Facebook Username | TreePeopleorg |
@@ -107,16 +126,36 @@ guideline_count: 2
 
 ### Revenue History
 
-- $5.52M (5,524,899 United States dollar (as of 2016-01-01))
-- $8.56M (8,563,717 United States dollar (as of 2019))
-- $7.22M (7,221,824 United States dollar (as of 2018))
-- $6.47M (6,469,721 United States dollar (as of 2017))
-- $13.10M (13,102,818 United States dollar (as of 2022))
-- $11.25M (11,249,621 United States dollar (as of 2021))
-- $15.24M (15,236,177 United States dollar (as of 2023))
-- $4.07M (4,069,683 United States dollar (as of 2011))
-- $4.67M (4,667,999 United States dollar (as of 2012))
-- $4.44M (4,441,914 United States dollar (as of 2013))
-- $3.99M (3,986,867 United States dollar (as of 2014))
-- $4.48M (4,475,225 United States dollar (as of 2015))
-- $11.40M (11,400,734 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.52M | as of 2016-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.56M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.22M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.47M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $13.10M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $11.25M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $15.24M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $4.07M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.67M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.44M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.99M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.48M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $11.40M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $18.09M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.07M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.55M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $8.70M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.56M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.60M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.19M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.18M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.98M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.17M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.97M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.65M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $14.32M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

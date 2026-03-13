@@ -2,11 +2,11 @@
 title: Vale
 slug: vale
 description: ""
-date: "2026-03-05T22:38:39.677875"
+date: "2026-03-13T08:56:59.595304"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "mining-extraction"
+  - "logistics-supply-chain"
 regions:
   - brazil
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1942
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,28 +56,30 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - "pantone-124"
   - red
-  - "pantone-328"
-  - yellow
   - blue
-  - gray
+  - yellow
+  - "pantone-328"
+  - "pantone-124"
   - green
+  - gray
   - "pantone-7406"
 typographies:
   - arial
 imagery_styles:
-  - bold
-  - vibrant
   - dynamic
-  - artificial
-  - minimal
   - landscape
+  - vibrant
+  - minimal
+  - artificial
+  - bold
 wikidata_description: multinational diversified metals and mining corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q583268"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +132,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q583268) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1942](/foundation_dates/1942/) |
 | Freebase Id | /m/062sfb |
 | Stock Exchange | New York Stock Exchange, São Paulo Stock Exchange (from 2000-01-07), Madrid Stock Exchange |
 | Isin | BRVALEACNOR0 |

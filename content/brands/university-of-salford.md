@@ -2,7 +2,7 @@
 title: University of Salford
 slug: "university-of-salford"
 description: ""
-date: "2026-03-05T22:38:39.202724"
+date: "2026-03-13T08:56:59.139629"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1896
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Salford, Greater Manchester"
+wikidata_url: "https://www.wikidata.org/wiki/Q2738622"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2738622) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1896](/foundation_dates/1896/) |
 | Coordinate Location | 53.484444444444, -2.2713888888889 |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:University of Salford |
@@ -86,7 +103,6 @@ guideline_count: 1
 | Times Higher Education World University Id | university-salford |
 | Google Maps Customer Id | 4170636860520613406 |
 | U Multirank University Id | university-of-salford |
-| Logo Image | University of Salford Logo.png |
 | Viaf Cluster Id | 140175676 |
 | Gnd Id | 1020422-2 |
 | Nl Cr Aut Id | ko2008467937, ko2008467938, ko2008467939 |

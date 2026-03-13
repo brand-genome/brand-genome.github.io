@@ -2,11 +2,11 @@
 title: Zaryadye Park
 slug: "zaryadye-park"
 description: ""
-date: "2026-03-05T22:38:39.340417"
+date: "2026-03-13T08:56:59.295772"
 draft: false
 sectors:
-  - "arts-culture"
   - tourism
+  - "arts-culture"
 regions:
   - russia
 years:
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: park in Moscow
+wikidata_url: "https://www.wikidata.org/wiki/Q19908995"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +103,10 @@ guideline_count: 1
 - Примечания о многоязычии и глобальном использовании.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19908995) |
 
 | Property | Value |
 |----------|-------|

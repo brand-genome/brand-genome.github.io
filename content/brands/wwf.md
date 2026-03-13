@@ -2,15 +2,15 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-03-05T22:38:39.176748"
+date: "2026-03-13T08:56:59.102805"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2010
   - 2012
+  - 2010
 languages:
   - english
 tags:
@@ -20,9 +20,22 @@ industries: []
 countries:
   - switzerland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - gland
+  - morges
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,17 +58,19 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-347"
   - green
+  - "pantone-347"
   - black
 typographies: []
 imagery_styles:
   - product
 wikidata_description: "international non-governmental environmental organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q117892"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -166,6 +181,12 @@ Hex: #009B48
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q117892) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Gland](/headquarters_locations/gland/); [Morges](/headquarters_locations/morges/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Inception | 1961-04-29 |
 | Topic'S Main Category | Category:World Wide Fund for Nature |
 | Freebase Id | /m/0829b |
@@ -205,7 +226,6 @@ Hex: #009B48
 | Location Of Formation | New York |
 | Operating Area | internationality |
 | Field Of Work | environmental protection, conservation |
-| Employees | 12,000 (as of 2023) |
 | Idref Id | 026528649 |
 | Bibliothèque Nationale De France Id | 118759809 |
 | Number Of Volunteers | 200,000 (as of 2023) |
@@ -216,7 +236,6 @@ Hex: #009B48
 | Finnish National Bibliography Corporate Name Id | 15638A |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0027396 |
 | Treccani'S Dizionario Di Storia Id | wwf |
-| Logo Image | WWF logo (Text only).svg |
 | Hds Id | 015291 |
 | Pinterest Username | wnfnederland |
 | Has Works In The Collection | National Museum of World Cultures |
@@ -288,4 +307,12 @@ Hex: #009B48
 
 ### Revenue History
 
-- $457.10M (457,102,976 United States dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $457.10M | as of 2025 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 12,000 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |

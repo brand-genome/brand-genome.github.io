@@ -2,7 +2,7 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-03-05T22:38:39.546519"
+date: "2026-03-13T08:56:59.472052"
 draft: false
 sectors:
   - education
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - northfield
+subsidiaries: []
+foundation_dates:
+  - 1866
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,25 +53,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - impact
-  - serif
   - gotham
   - arial
   - helvetica
+  - serif
+  - impact
 imagery_styles:
   - bold
 wikidata_description: "liberal arts college in Northfield, Minnesota"
+wikidata_url: "https://www.wikidata.org/wiki/Q1041671"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1041671) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Northfield](/headquarters_locations/northfield/) |
+| Foundation Date | [1866](/foundation_dates/1866/) |
 | Coordinate Location | 44.461944444444, -93.153777777778 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Northfield |
@@ -134,7 +155,6 @@ guideline_count: 1
 | Grid Id | grid.253692.9 |
 | Image | Carleton College Aerial.jpg |
 | U Multirank University Id | carleton-college |
-| Logo Image | Carleton College logo.svg |
 | Microsoft Academic Id (Discontinued) | 188497080 |
 | Street Address | One North College Street, Northfield, MN, 55057-4001 |
 | Hal Structure Id | 231919 |
@@ -145,9 +165,7 @@ guideline_count: 1
 | Count Of Students | 2,105 (as of 2016), 2,044 (as of 2021-09-01) |
 | Crunchbase Organization Id | carleton-college |
 | Kallías Id | KS00154033 |
-| Total Assets | 1,414,260,160 United States dollar (as of 2020-06-30) |
 | Endowment | 868,695,391 United States dollar (as of 2020-06-30), 1,093,697,498 United States dollar (as of 2022-06-30), 1,157,982,283 United States dollar (as of 2021-06-30) |
-| Employees | 840 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I188497080 |
@@ -165,3 +183,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/e47c39fb-9142-4658-b927-451dd31738f1 |
 | World Higher Education Database Id | IAU-001996 |
 | Athletics Program | Carleton Knights |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 840 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.41B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

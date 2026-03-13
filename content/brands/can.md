@@ -2,7 +2,7 @@
 title: Can
 slug: can
 description: ""
-date: "2026-03-05T22:38:39.638775"
+date: "2026-03-13T08:56:59.567420"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,21 +50,23 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
   - red
+  - blue
 typographies:
   - helvetica
 imagery_styles:
-  - bold
-  - photography
-  - professional
-  - contemporary
   - clean
+  - contemporary
+  - professional
+  - photography
+  - bold
 wikidata_description: German experimental rock band
+wikidata_url: "https://www.wikidata.org/wiki/Q170132"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +112,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q170132) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Discography | Can discography |
 | Musicbrainz Artist Id | 13501c7d-d181-45ba-af52-5f101d8516a0 |
 | Genre | progressive rock, Krautrock, art rock |

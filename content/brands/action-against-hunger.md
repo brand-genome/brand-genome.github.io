@@ -2,7 +2,7 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-03-05T22:38:39.492450"
+date: "2026-03-13T08:56:59.421993"
 draft: false
 sectors:
   - ngo
@@ -20,9 +20,24 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+  - "new-york-city"
+  - toronto
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,22 +59,24 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - blue
-  - orange
   - green
   - grey
+  - blue
+  - orange
 typographies:
-  - lato
   - futura
+  - lato
 imagery_styles:
+  - photography
   - bold
   - serious
-  - photography
 wikidata_description: French global humanitarian aid organization
+wikidata_url: "https://www.wikidata.org/wiki/Q343624"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +128,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q343624) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [New York City](/headquarters_locations/new-york-city/); [Toronto](/headquarters_locations/toronto/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Freebase Id | /m/0zmk |
 | Inception | 1979 |
 | Country | France |
@@ -135,7 +158,6 @@ guideline_count: 1
 | Short Name | ACF |
 | Legal Form | declared association |
 | Chairperson | Alfred Kastler (from 2019, until 2023), Stéphanie Rivoal (from 2013, until 2016), Benoît Miribel (from 1902, until 2013) |
-| Logo Image | Eng Col RGB - Copy.png, Acción Contra El Hambre (Imagotipo).svg |
 | Répertoire National Des Associations Id | W751053021 |
 | Industry |  |
 | National Library Of Israel J9U Id | 987007257583905171 |
@@ -154,12 +176,25 @@ guideline_count: 1
 | Eu Participant Identification Code | 937857111 |
 | Iati Organisation Id | FR-RCS-31899089200065 |
 | ‎Yale Lux Id | group/1a6c6f54-1d12-452f-8de3-74928549d3fa |
-| Total Assets | 375,871,848 euro (as of 2024), 366,616,762 euro (as of 2023) |
 | Donations | 46,581,406 euro (as of 2024), 47,202,802 euro (as of 2023) |
-| Employees | 4,604 (as of 2024) |
 
 ### Revenue History
 
-- $508.40M (508,400,000 euro (as of 2020))
-- $339.69M (339,690,458 euro (as of 2024))
-- $308.32M (308,317,674 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $508.40M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $339.69M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $308.32M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,604 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $375.87M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $366.62M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |

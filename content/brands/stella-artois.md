@@ -2,11 +2,11 @@
 title: Stella Artois
 slug: "stella-artois"
 description: ""
-date: "2026-03-05T22:38:39.257255"
+date: "2026-03-13T08:56:59.201060"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - belgium
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1926
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: trademark
+wikidata_url: "https://www.wikidata.org/wiki/Q929276"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q929276) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1926](/foundation_dates/1926/) |
 | Manufacturer | Anheuser-Busch InBev |
 | Image | Stella Artois chalice filled.jpg |
 | Freebase Id | /m/071mw |
@@ -73,7 +90,6 @@ guideline_count: 1
 | Country Of Origin | Belgium |
 | Named After | Star of Bethlehem, Sébastien Artois |
 | Subclass Of | pilsner |
-| Logo Image | Stella Artois new logo.png |
 | Musicbrainz Label Id | 15d5729e-891b-483a-badc-2d4999808ac9 |
 | X (Twitter) Username | StellaArtois (as of 2021-06-21, from 2009-08-26) |
 | Social Media Followers | 69,455 (as of 2021-06-22), 79,307 (as of 2022-02-21), 79,725 (as of 2023-02-11) |

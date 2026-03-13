@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-03-05T22:38:39.412012"
+date: "2026-03-13T08:56:59.373350"
 draft: false
 sectors:
   - "real-estate"
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,19 +50,21 @@ logo_elements: []
 brand_colors:
   - white
   - red
-  - black
-  - silver
   - "pantone-200"
+  - silver
+  - black
   - gray
 typographies:
   - helvetica
 imagery_styles:
   - bold
 wikidata_description: Real estate brokerage office (franchise)
+wikidata_url: "https://www.wikidata.org/wiki/Q137371862"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +115,10 @@ guideline_count: 1
 - Compliance with local board and commission laws is required for all marketing materials, including print and digital. For example, yard signs, business cards, and websites need strict adherence to these rules.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q137371862) |
 
 | Property | Value |
 |----------|-------|

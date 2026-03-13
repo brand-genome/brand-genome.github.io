@@ -2,11 +2,11 @@
 title: Associated Press
 slug: "associated-press"
 description: ""
-date: "2026-03-05T22:38:39.578078"
+date: "2026-03-13T08:56:59.511451"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,16 +14,28 @@ years:
 languages:
   - english
 tags:
-  - featured
   - media
+  - featured
 industries:
-  - "media-industry"
   - "news-media"
+  - "media-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - news
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1846
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "multinational nonprofit news agency headquartered in New York, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q40469"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,10 +78,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q40469) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [News](/products_or_materials_produced/news/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1846](/foundation_dates/1846/) |
 | Topic'S Main Category | Category:Associated Press |
 | Freebase Id | /m/0cv_2 |
 | Headquarters Location | New York City |
-| Logo Image | Associated Press logo 2012.svg (from 2012) |
 | Industry | news media, media industry |
 | Inception | 1846-05-22 |
 | Viaf Cluster Id | 152390251 |

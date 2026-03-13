@@ -2,7 +2,7 @@
 title: Radford University
 slug: "radford-university"
 description: ""
-date: "2026-03-05T22:38:39.784268"
+date: "2026-03-13T08:56:59.836573"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,13 +54,15 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - static
   - graphic
+  - static
 wikidata_description: "university in Virginia, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q632465"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +97,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q632465) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Coordinate Location | 37.1387, -80.55759 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Virginia |
@@ -101,7 +119,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Radford University alumni |
 | Grid Id | grid.262333.5 |
 | Category For Employees Of The Organization | Category:Radford University faculty |
-| Logo Image | Radford University logo.png |
 | Owner Of | Radford Baseball Stadium, WVRU-FM |
 | Microsoft Academic Id (Discontinued) | 53559539 |
 | Street Address | 801 East Main St., Radford, VA, 24142 |
@@ -111,7 +128,6 @@ guideline_count: 1
 | Api Endpoint Url | https://idp.radford.edu/idp/shibboleth |
 | Crunchbase Organization Id | radford-university |
 | Count Of Students | 10,695 (as of 2020-09), 7,497 (as of 2021-09-01) |
-| Employees | 1,704 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I53559539 |
@@ -126,3 +142,9 @@ guideline_count: 1
 | Kisti Id | K000207747 |
 | Domain Name | radford.edu |
 | Athletics Program | Radford Highlanders |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,704 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

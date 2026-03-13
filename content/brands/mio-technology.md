@@ -2,25 +2,36 @@
 title: Mio Technology
 slug: "mio-technology"
 description: ""
-date: "2026-03-05T22:38:39.186158"
+date: "2026-03-13T08:56:59.114304"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
   - 2017
 languages: []
 tags:
-  - featured
   - technology
+  - featured
 industries: []
 countries:
   - taiwan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - taoyuan
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,31 +50,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
+  - lockup
   - symbol
 brand_colors:
   - white
-  - orange
   - green
   - black
+  - orange
 typographies:
-  - arial
   - times
+  - arial
 imagery_styles:
-  - bold
-  - photography
-  - product
-  - graphic
-  - lifestyle
-  - candid
   - natural
   - portrait
+  - candid
+  - product
+  - photography
+  - graphic
+  - lifestyle
+  - bold
 wikidata_description: owned brand of MiTAC Digital Technology Corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q619369"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q619369) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Taoyuan](/headquarters_locations/taoyuan/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Freebase Id | /m/07c96m |
 | Inception | 2002 |
 | Headquarters Location | Taoyuan |
@@ -121,5 +140,4 @@ guideline_count: 1
 | Legal Form | private limited company |
 | Owned By | MiTAC |
 | Quora Topic Id | Mio-Technology |
-| Logo Image | Mio111.jpg |
 | Country | Taiwan |

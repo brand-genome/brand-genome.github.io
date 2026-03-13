@@ -2,7 +2,7 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-03-05T22:38:39.391037"
+date: "2026-03-13T08:56:59.358476"
 draft: false
 sectors:
   - gaming
@@ -22,6 +22,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced:
+  - roblox
+  - "roblox-studio"
+products: []
+headquarters_locations:
+  - "san-mateo"
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,9 +55,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
   - red
@@ -52,10 +66,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: American video game developer
+wikidata_url: "https://www.wikidata.org/wiki/Q67186598"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +110,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q67186598) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Roblox](/products_or_materials_produced/roblox/); [Roblox Studio](/products_or_materials_produced/roblox-studio/) |
+| Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/) |
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Inception | 2004 |
 | Mobygames Company Id (Former Scheme) | roblox-inc |
 | Gamefaqs Company Id | 30948779 |
@@ -130,6 +153,11 @@ guideline_count: 1
 | Viaf Cluster Id | 3891157583881333970006 |
 | Bibliothèque Nationale De France Id | 178510076 |
 | Bibsys Id | 1691043608800 |
-| Market Capitalization | 46,799,000,000 United States dollar (as of 2025-05-01) |
 | Uk Parliament Thesaurus Id | 558825 |
 | ‎Gamesindustry.Biz Tag Id | companies/roblox-corporation |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $46.80B | as of 2025-05-01 | [10B-50B](/market_cap_buckets/10b-50b/) |

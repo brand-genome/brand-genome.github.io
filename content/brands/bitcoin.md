@@ -2,7 +2,7 @@
 title: Bitcoin
 slug: bitcoin
 description: ""
-date: "2026-03-05T22:38:39.815303"
+date: "2026-03-13T08:56:59.884436"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -13,15 +13,26 @@ years:
 languages:
   - english
 tags:
-  - financial
-  - featured
   - internet
+  - financial
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "500B-1T"
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,22 +54,24 @@ logo_elements:
   - icon
 brand_colors:
   - white
+  - yellow
   - gold
   - orange
   - black
-  - yellow
   - gray
 typographies: []
 imagery_styles:
-  - bold
-  - classic
   - photography
   - gradient
+  - classic
+  - bold
 wikidata_description: digital cash system and associated currency
+wikidata_url: "https://www.wikidata.org/wiki/Q131723"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,8 +111,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131723) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Time Of Earliest Written Record | 2008-10-31 |
-| Logo Image | Bitcoin.svg, Bitcoin logo.svg |
 | Freebase Id | /m/05p0rrx |
 | Topic'S Main Category | Category:Bitcoin |
 | Gnd Id | 1041888279 |
@@ -162,7 +179,6 @@ guideline_count: 1
 | Subclass Of | investment |
 | Yso Id | 39380 |
 | National Library Of Israel J9U Id | 987007363578605171 |
-| Market Capitalization | 712,696,504,252 United States dollar (as of 2023-11-14) |
 | Namuwiki Id | 비트코인 |
 | Cites Work | Chancellor Alistair Darling on brink of second bailout for banks |
 | Related Image | Bitcoin daily price chart.png |
@@ -207,3 +223,9 @@ guideline_count: 1
 | Open Library Subject Id | bitcoin |
 | The Guardian Topic Id | technology/bitcoin |
 | X (Twitter) Username | Bitcoin |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $712.70B | as of 2023-11-14 | [500B-1T](/market_cap_buckets/500b-1t/) |

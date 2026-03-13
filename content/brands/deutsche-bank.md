@@ -2,36 +2,51 @@
 title: Deutsche Bank
 slug: "deutsche-bank"
 description: ""
-date: "2026-03-05T22:38:39.249740"
+date: "2026-03-13T08:56:59.193232"
 draft: false
 sectors:
   - finance
 regions:
   - germany
 years:
+  - 2011
   - 1978
   - 2022
-  - 2011
 languages:
   - english
   - german
 tags:
-  - vintage
   - financial
+  - vintage
   - featured
 industries:
-  - "other-monetary-intermediation"
-  - "financial-services"
   - "financial-sector"
   - "financial-service-activities-except-insurance-and-pension-funding"
+  - "financial-services"
+  - "other-monetary-intermediation"
 countries:
   - germany
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "OVER-1T"
+total_equity_buckets:
+  - "50B-100B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - frankfurt
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,10 +71,12 @@ imagery_styles:
   - dynamic
   - graphic
 wikidata_description: German global banking and financial services company
+wikidata_url: "https://www.wikidata.org/wiki/Q66048"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +111,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q66048) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Frankfurt](/headquarters_locations/frankfurt/) |
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Stock Exchange | New York Stock Exchange (from 2001), Frankfurt Stock Exchange (from 1870-05-30), Tokyo Stock Exchange (until 2006-09-29), Italian Stock Exchange |
 | Headquarters Location | Frankfurt |
 | Inception | 1870-03-10, 1870 |
@@ -106,7 +129,6 @@ guideline_count: 3
 | Country | Germany |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0022254 |
 | Legal Form | Aktiengesellschaft |
-| Logo Image | Deutsche Bank logo without wordmark.svg, Altes Logo der Dt. Bk..jpg (from 1957, until 1974), Altes Logo der Dt. Bk..jpg (as of 1930), Deutsche Bank logo.svg |
 | Founded By | Ludwig Bamberger |
 | Iso 9362 Swift/Bic Code | DEUTDEFF, DEUTDEFF500 |
 | Corporate Number (Japan) | 6700150001325 |
@@ -119,7 +141,6 @@ guideline_count: 3
 | Facebook Username | DeutscheBank |
 | X (Twitter) Username | deutschebank (as of 2020-03-23, from 2009-05-20), DeutscheBank |
 | Youtube Channel Id | UCPnyEf4lc5_RF4QY4bT2KRw (as of 2020-12-11, from 2008-05-29) |
-| Employees | 97,535 (as of 2017-12-31), 43,000 (as of 2017), 87,597 (as of 2019-12-31), 90,130 (as of 2023-12-31), 84,930 (as of 2022-12-31) (+22 more) |
 | Child Organization Or Unit | Deutsche Postbank, Deutsche Bank, Deutsche Bank Polska, Aktiengesellschaft für Vermögensverwertung, Deutsche Beamten-Zentralbank (+1 more) |
 | Industry | financial services, other monetary intermediation, financial service activities, except insurance and pension funding, financial sector |
 | Nla Trove People Id | 1040107, 1471625 |
@@ -135,8 +156,6 @@ guideline_count: 3
 | Share Catalogue Author Id | 139686 |
 | Motto Text | Leistung aus Leidenschaft, #PositiveImpact |
 | Location Of Formation | Berlin |
-| Total Assets | 1,475,000,000,000 euro (as of 2017-12-31), 1,312,331,000,000 euro (as of 2023-12-31), 1,336,788,000,000 euro (as of 2022-12-31), 1,323,993,000,000 euro (as of 2021-12-31), 1,325,259,000,000 euro (as of 2020-12-31) (+21 more) |
-| Market Capitalization | 18,000,000,000 euro (as of 2016-08-08) |
 | Legal Entity Identifier | 7LTWFZYICNSX8D621K86 |
 | Bibliothèque Nationale De France Id | 12520501f |
 | Idref Id | 035089059 |
@@ -194,7 +213,6 @@ guideline_count: 3
 | Gran Enciclopèdia Catalana Id | deutsche-bank-ag |
 | Lobbypedia Id | Deutsche_Bank, Deutsche_bank |
 | Museum Digital Id | 71880 |
-| Total Equity | 64,486,000,000 euro (as of 2023-12-31), 61,959,000,000 euro (as of 2022-12-31), 58,027,000,000 euro (as of 2021-12-31), 54,786,000,000 euro (as of 2020-12-31), 55,857,000,000 euro (as of 2019-12-31) (+20 more) |
 | Vatican Library Vcba Id | 494/46310 |
 | Bibsys Id | 90875548 |
 | National Library Of Chile Id | 000061805 |
@@ -216,82 +234,187 @@ guideline_count: 3
 
 ### Revenue History
 
-- $24.89B (24,895,000,000 euro (as of 2021-12-31))
-- $22.24B (22,237,000,000 euro (as of 2020-12-31))
-- $22.44B (22,442,000,000 euro (as of 2019-12-31))
-- $24.79B (24,791,000,000 euro (as of 2018-12-31))
-- $25.92B (25,923,000,000 euro (as of 2017-12-31))
-- $28.63B (28,631,000,000 euro (as of 2016-12-31))
-- $32.57B (32,569,000,000 euro (as of 2015-12-31))
-- $30.82B (30,815,000,000 euro (as of 2014-12-31))
-- $29.85B (29,850,000,000 euro (as of 2013-12-31))
-- $32.02B (32,020,000,000 euro (as of 2012-12-31))
-- $31.39B (31,389,000,000 euro (as of 2011-12-31))
-- $27.29B (27,293,000,000 euro (as of 2010-12-31))
-- $25.32B (25,322,000,000 euro (as of 2009-12-31))
-- $12.41B (12,414,000,000 euro (as of 2008-12-31))
-- $30.13B (30,133,000,000 euro (as of 2007-12-31))
-- $28.01B (28,008,000,000 euro (as of 2006-12-31))
-- $25.27B (25,266,000,000 euro (as of 2005-12-31))
-- $21.55B (21,546,000,000 euro (as of 2004-12-31))
-- $20.16B (20,155,000,000 euro (as of 2003-12-31))
-- $24.46B (24,456,000,000 euro (as of 2002-12-31))
-- $28.60B (28,597,000,000 euro (as of 2001-12-31))
-- $34.00B (34,001,000,000 euro (as of 2000-12-31))
-- $24.31B (24,307,000,000 euro (as of 1999-12-31))
-- $30.10B (30,100,000,000 euro (as of 2024-12-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $24.89B | as of 2021-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.24B | as of 2020-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.44B | as of 2019-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.79B | as of 2018-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $25.92B | as of 2017-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.63B | as of 2016-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.57B | as of 2015-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.82B | as of 2014-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.85B | as of 2013-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.02B | as of 2012-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.39B | as of 2011-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.29B | as of 2010-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $25.32B | as of 2009-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.41B | as of 2008-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.13B | as of 2007-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.01B | as of 2006-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $25.27B | as of 2005-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.55B | as of 2004-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $20.16B | as of 2003-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.46B | as of 2002-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.60B | as of 2001-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $34.00B | as of 2000-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.31B | as of 1999-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.10B | as of 2024-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $3.39B (3,390,000,000 euro (as of 2021-12-31))
-- $1.02B (1,021,000,000 euro (as of 2020-12-31))
-- $2.63B (-2,634,000,000 euro (as of 2019-12-31))
-- $1.33B (1,330,000,000 euro (as of 2018-12-31))
-- $1.23B (1,228,000,000 euro (as of 2017-12-31))
-- $810.00M (-810,000,000 euro (as of 2016-12-31))
-- $6.10B (-6,097,000,000 euro (as of 2015-12-31))
-- $3.12B (3,116,000,000 euro (as of 2014-12-31))
-- $1.46B (1,456,000,000 euro (as of 2013-12-31))
-- $784.00M (784,000,000 euro (as of 2012-12-31))
-- $5.39B (5,390,000,000 euro (as of 2011-12-31))
-- $3.98B (3,975,000,000 euro (as of 2010-12-31))
-- $5.20B (5,202,000,000 euro (as of 2009-12-31))
-- $5.74B (-5,741,000,000 euro (as of 2008-12-31))
-- $8.75B (8,749,000,000 euro (as of 2007-12-31))
-- $8.12B (8,125,000,000 euro (as of 2006-12-31))
-- $6.11B (6,112,000,000 euro (as of 2005-12-31))
-- $4.03B (4,029,000,000 euro (as of 2004-12-31))
-- $2.76B (2,756,000,000 euro (as of 2003-12-31))
-- $3.55B (3,549,000,000 euro (as of 2002-12-31))
-- $1.80B (1,803,000,000 euro (as of 2001-12-31))
-- $6.87B (6,869,000,000 euro (as of 2000-12-31))
-- $2.35B (2,351,000,000 euro (as of 1999-12-31))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $3.39B | as of 2021-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.02B | as of 2020-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.63B | as of 2019-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.33B | as of 2018-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.23B | as of 2017-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $810.00M | as of 2016-12-31 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $6.10B | as of 2015-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.12B | as of 2014-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.46B | as of 2013-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $784.00M | as of 2012-12-31 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $5.39B | as of 2011-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.98B | as of 2010-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.20B | as of 2009-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.74B | as of 2008-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.75B | as of 2007-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.12B | as of 2006-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.11B | as of 2005-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.03B | as of 2004-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.76B | as of 2003-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.55B | as of 2002-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.80B | as of 2001-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.87B | as of 2000-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.35B | as of 1999-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $341.00M (341,000,000 (as of 2018))
-- $4.77B (4,772,000,000 euro (as of 2023-12-31))
-- $5.53B (5,525,000,000 euro (as of 2022-12-31))
-- $2.37B (2,365,000,000 euro (as of 2021-12-31))
-- $495.00M (495,000,000 euro (as of 2020-12-31))
-- $5.39B (-5,390,000,000 euro (as of 2019-12-31))
-- $267.00M (267,000,000 euro (as of 2018-12-31))
-- $751.00M (-751,000,000 euro (as of 2017-12-31))
-- $1.40B (-1,402,000,000 euro (as of 2016-12-31))
-- $6.79B (-6,794,000,000 euro (as of 2015-12-31))
-- $1.66B (1,663,000,000 euro (as of 2014-12-31))
-- $666.00M (666,000,000 euro (as of 2013-12-31))
-- $237.00M (237,000,000 euro (as of 2012-12-31))
-- $4.13B (4,132,000,000 euro (as of 2011-12-31))
-- $2.31B (2,310,000,000 euro (as of 2010-12-31))
-- $4.97B (4,973,000,000 euro (as of 2009-12-31))
-- $3.83B (-3,835,000,000 euro (as of 2008-12-31))
-- $6.47B (6,474,000,000 euro (as of 2007-12-31))
-- $5.99B (5,986,000,000 euro (as of 2006-12-31))
-- $3.53B (3,529,000,000 euro (as of 2005-12-31))
-- $2.47B (2,472,000,000 euro (as of 2004-12-31))
-- $1.36B (1,365,000,000 euro (as of 2003-12-31))
-- $397.00M (397,000,000 euro (as of 2002-12-31))
-- $167.00M (167,000,000 euro (as of 2001-12-31))
-- $13.51B (13,513,000,000 euro (as of 2000-12-31))
-- $1.61B (1,613,000,000 euro (as of 1999-12-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $341.00M | as of 2018 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $4.77B | as of 2023-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.53B | as of 2022-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.37B | as of 2021-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $495.00M | as of 2020-12-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $5.39B | as of 2019-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $267.00M | as of 2018-12-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $751.00M | as of 2017-12-31 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.40B | as of 2016-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.79B | as of 2015-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.66B | as of 2014-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $666.00M | as of 2013-12-31 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $237.00M | as of 2012-12-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $4.13B | as of 2011-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.31B | as of 2010-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.97B | as of 2009-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.83B | as of 2008-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.47B | as of 2007-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.99B | as of 2006-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.53B | as of 2005-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.47B | as of 2004-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.36B | as of 2003-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $397.00M | as of 2002-12-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $167.00M | as of 2001-12-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $13.51B | as of 2000-12-31 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $1.61B | as of 1999-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 97,535 | as of 2017-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 43,000 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 87,597 | as of 2019-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 90,130 | as of 2023-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 84,930 | as of 2022-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 82,969 | as of 2021-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 84,659 | as of 2020-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 95,566 | as of 2018-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 97,733 | as of 2017-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 101,182 | as of 2016-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 99,423 | as of 2015-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 97,689 | as of 2014-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 97,991 | as of 2013-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 100,380 | as of 2012-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 101,836 | as of 2011-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 82,434 | as of 2010-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 77,053 | as of 2009-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 80,456 | as of 2008-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 78,291 | as of 2007-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 68,849 | as of 2006-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 63,427 | as of 2005-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 65,417 | as of 2004-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 67,682 | as of 2003-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 77,442 | as of 2002-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 86,524 | as of 2001-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 89,784 | as of 2000-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 87,702 | as of 1999-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.48T | as of 2017-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.31T | as of 2023-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.34T | as of 2022-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.32T | as of 2021-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.33T | as of 2020-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.30T | as of 2019-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.35T | as of 2018-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.47T | as of 2017-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.59T | as of 2016-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.63T | as of 2015-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.71T | as of 2014-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.61T | as of 2013-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $2.01T | as of 2012-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $2.16T | as of 2011-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.91T | as of 2010-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.50T | as of 2009-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $2.20T | as of 2008-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $2.02T | as of 2007-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.13T | as of 2006-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $992.16B | as of 2005-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $840.07B | as of 2004-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $803.61B | as of 2003-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $758.36B | as of 2002-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $918.22B | as of 2001-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $928.99B | as of 2000-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $839.87B | as of 1999-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $64.49B | as of 2023-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $61.96B | as of 2022-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $58.03B | as of 2021-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $54.79B | as of 2020-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $55.86B | as of 2019-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $62.49B | as of 2018-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $63.17B | as of 2017-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $59.83B | as of 2016-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $62.68B | as of 2015-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $68.35B | as of 2014-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $54.72B | as of 2013-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $54.00B | as of 2012-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $53.39B | as of 2011-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $48.84B | as of 2010-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $36.65B | as of 2009-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $30.70B | as of 2008-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $37.04B | as of 2007-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $32.81B | as of 2006-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $29.94B | as of 2005-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $25.90B | as of 2004-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $28.20B | as of 2003-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $29.99B | as of 2002-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $40.19B | as of 2001-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $43.68B | as of 2000-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $23.15B | as of 1999-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $18.00B | as of 2016-08-08 | [10B-50B](/market_cap_buckets/10b-50b/) |

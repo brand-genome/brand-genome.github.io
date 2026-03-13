@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-03-05T22:38:39.302829"
+date: "2026-03-13T08:56:59.244686"
 draft: false
 sectors:
   - university
@@ -14,14 +14,26 @@ languages:
   - japanese
 tags:
   - education
-  - featured
   - university
+  - featured
 industries: []
 countries:
   - japan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - fukuoka
+subsidiaries: []
+foundation_dates:
+  - 1911
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,10 +52,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - symbol
   - vertical
+  - alternate
   - horizontal
+  - symbol
 brand_colors:
   - black
 typographies:
@@ -53,10 +65,12 @@ imagery_styles:
   - professional
   - geometric
 wikidata_description: "higher education institution in Fukuoka, Japan"
+wikidata_url: "https://www.wikidata.org/wiki/Q1188786"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +124,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1188786) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Fukuoka](/headquarters_locations/fukuoka/) |
+| Foundation Date | [1911](/foundation_dates/1911/) |
 | Country | Japan |
 | Ndl Authority Id | 00260072 |
 | Viaf Cluster Id | 122152562 |
@@ -140,13 +160,11 @@ guideline_count: 1
 | U Multirank University Id | kyushu-university |
 | Share Catalogue Author Id | 325719 |
 | Microsoft Academic Id (Discontinued) | 135598925 |
-| Employees | 4,049 |
 | Japan Search Name Id | 九州大学 |
 | X (Twitter) Username | KyushuUniv_JP (as of 2020-03-18, from 2011-06-22) |
 | Facebook Username | KyushuUniv |
 | Ror Id | 00p4k0j84 |
 | Identification Code For Japanese Universities And Colleges | 0069 |
-| Logo Image | Kyushu University logo, type D.svg |
 | Count Of Students | 18,560 (as of 2022-05-01), 18,813 (as of 2025-05-01) |
 | Hkcan Id | 9811111926803406 |
 | Social Media Followers | 11,119 (as of 2021-01-04), 13,218 (as of 2022-02-26), 15,156 (as of 2023-02-03) |
@@ -172,3 +190,9 @@ guideline_count: 1
 | Has Part(S) | Kyushu University Museum, Kyūshū University Business School |
 | Scimago Institutions Rankings Id | 4455 |
 | ‎Yale Lux Id | group/a56b3f2f-316c-4f12-8590-28ba40f5d860 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,049 | - | [1K-10K](/employees_buckets/1k-10k/) |

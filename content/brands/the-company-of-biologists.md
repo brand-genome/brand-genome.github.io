@@ -2,12 +2,12 @@
 title: The Company of Biologists
 slug: "the-company-of-biologists"
 description: ""
-date: "2026-03-05T22:38:39.579464"
+date: "2026-03-13T08:56:59.514584"
 draft: false
 sectors:
-  - research
   - ngo
   - publishing
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,15 +15,27 @@ years:
 languages:
   - english
 tags:
-  - science
   - biology
+  - science
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cambridge
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,29 +54,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
   - white
-  - "pantone-382"
-  - "pantone-355"
-  - "pantone-1795"
-  - black
   - blue
   - "pantone-166"
   - "pantone-3272"
+  - "pantone-382"
   - "pantone-130"
   - "pantone-306"
+  - black
+  - "pantone-1795"
+  - "pantone-355"
 typographies:
   - trebuchet
 imagery_styles:
   - graphic
 wikidata_description: academic publisher
+wikidata_url: "https://www.wikidata.org/wiki/Q1524107"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1524107) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Inception | 1925 |
 | Headquarters Location | Cambridge |
 | Isni | 0000000406057833 |
@@ -151,13 +171,20 @@ guideline_count: 1
 | Mastodon Instance Url | https://biologists.social |
 | Legal Form |  |
 | ‎Yale Lux Id | group/ec7a0d60-f460-4e08-bd05-9e6d8b5f9630 |
-| Employees | 69 (as of 2024) |
 | Romeo Publisher Id | 29 |
 
 ### Revenue History
 
-- $7.75M (7,748,330 pound sterling (as of 2020))
-- $7.56M (7,562,279 pound sterling (as of 2021))
-- $7.56M (7,559,897 pound sterling (as of 2022))
-- $7.81M (7,810,850 pound sterling (as of 2023))
-- $7.65M (7,653,258 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $7.75M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.56M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.56M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.81M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.65M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 69 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

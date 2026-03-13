@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-03-05T22:38:39.763870"
+date: "2026-03-13T08:56:59.814839"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,20 +54,22 @@ brand_colors:
   - grey
   - black
 typographies:
-  - gotham
   - din
+  - gotham
   - display
 imagery_styles:
-  - graphic
+  - clean
+  - modern
   - professional
   - minimal
-  - modern
-  - clean
+  - graphic
 wikidata_description: town in the Czech Republic
+wikidata_url: "https://www.wikidata.org/wiki/Q746111"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -483,6 +494,10 @@ PA G E
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q746111) |
+
+| Property | Value |
+|----------|-------|
 | Located In The Administrative Territorial Entity | Pelhřimov District,  |
 | Lau | CZ548511 |
 | Freebase Id | /m/096p1_ |
@@ -503,7 +518,7 @@ PA G E
 | Contains The Administrative Territorial Entity | Bedřichov, Jetřichovec, Roučkovice, Velká Rovná, Zhoř (+1 more) |
 | Elevation Above Sea Level | 615 metre |
 | Time Of Earliest Written Record | 1316-01-01 |
-| Email Address | mailto:podatelna@mestopacov.cz |
+| Email Address | podatelna@mestopacov.cz |
 | List Of Monuments | cultural monuments in Pacov |
 | Openstreetmap Relation Id | 441041 |
 | Archinform Location Id | 46189 |

@@ -2,11 +2,11 @@
 title: Crucial
 slug: crucial
 description: ""
-date: "2026-03-05T22:38:39.121924"
+date: "2026-03-13T08:56:59.071487"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -22,6 +22,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,20 +53,22 @@ logo_elements:
 brand_colors:
   - white
   - red
+  - blue
+  - yellow
+  - green
   - orange
   - black
-  - yellow
-  - blue
   - gray
-  - green
 typographies: []
 imagery_styles:
   - subtle
 wikidata_description: brand for electronic consumer products from Micron Technology
+wikidata_url: "https://www.wikidata.org/wiki/Q96631842"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,9 +149,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q96631842) |
+
+| Property | Value |
+|----------|-------|
 | Owned By | Micron Technology |
 | X (Twitter) Username | CrucialMemory (as of 2024-10-11, from 2009-03-05), ballistixgaming (as of 2020-07-03, from 2016-01-12, until 2020) |
-| Logo Image | Crucial Logo.png (from 2024) |
 | Instagram Username | crucial_memory (as of 2024-10-11) |
 | Youtube Channel Id | UCeecqT-WWDnItHmekZD2M1w (as of 2024-10-11, from 2008-08-18) |
 | Official Name | Crucial |

@@ -2,11 +2,11 @@
 title: HiP
 slug: hip
 description: ""
-date: "2026-03-05T22:38:39.707471"
+date: "2026-03-13T08:56:59.722136"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
+  - healthcare
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +51,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - "pantone-425"
+  - white
   - "pantone-1788"
   - "pantone-158"
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: rhythmic music accompanied by rhyming speech
+wikidata_url: "https://www.wikidata.org/wiki/Q11401"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -229,6 +241,11 @@ VERSION 2.1 | FEBRUARY 2018
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11401) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Gnd Id | 4303517-6 |
 | Freebase Id | /m/0glt670 |
 | Image | KRS-One by Wade Grayson.jpg, Afrika Bambaataa and DJ Yutaka (2004).jpg, Dj Grandmaster Flash-01-mika.jpg, Dj Kool Herc.jpg |

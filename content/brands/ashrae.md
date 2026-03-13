@@ -2,11 +2,11 @@
 title: Ashrae
 slug: ashrae
 description: ""
-date: "2026-03-05T22:38:39.715979"
+date: "2026-03-13T08:56:59.733831"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1894
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,34 +50,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - alternate
-  - secondary
+  - vertical
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - white
-  - "pantone-312"
-  - "pantone-376"
-  - "pantone-287"
-  - black
   - blue
-  - gray
+  - "pantone-287"
+  - "pantone-312"
   - "pantone-300"
+  - black
+  - gray
+  - "pantone-376"
 typographies:
-  - akzidenz
   - display
+  - akzidenz
 imagery_styles:
+  - vibrant
+  - clean
   - bold
   - gradient
-  - clean
-  - vibrant
 wikidata_description: "global society advancing human well-being through sustainable technology for the built environment"
+wikidata_url: "https://www.wikidata.org/wiki/Q466899"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +124,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q466899) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1894](/foundation_dates/1894/) |
 | Freebase Id | /m/01gy4b |
 | Inception | 1894 |
 | Sbn Author Id | PUVV306641 |
@@ -142,7 +159,6 @@ guideline_count: 1
 | Publication Interval | 1 month |
 | Social Media Followers | 19,406 (as of 2021-01-07), 18,673 (as of 2020-04-19), 5,960 (as of 2021-10-12), 20,495 (as of 2022-03-02), 21,817 (as of 2023-02-04) (+3 more) |
 | Muck Rack Media Outlet Id | ashrae |
-| Logo Image | American Society of Heating, Refrigerating and Air-Conditioning Engineers Logo.svg |
 | Share Catalogue Author Id | 29622 |
 | Open Library Id | OL1110523A |
 | National Library Of Israel J9U Id | 987007594626105171 |

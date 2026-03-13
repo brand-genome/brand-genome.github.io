@@ -2,7 +2,7 @@
 title: The British Museum
 slug: "the-british-museum"
 description: ""
-date: "2026-03-05T22:38:39.821174"
+date: "2026-03-13T08:56:59.896568"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,16 +13,26 @@ years:
 languages:
   - english
 tags:
-  - museum
-  - cultural
   - art
+  - cultural
+  - museum
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1753
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +56,17 @@ brand_colors:
   - white
   - black
 typographies:
-  - akzidenz
   - serif
+  - akzidenz
   - "sans-serif"
 imagery_styles: []
 wikidata_description: "national museum in London, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q6373"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +111,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6373) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1753](/foundation_dates/1753/) |
 | Viaf Cluster Id | 134857252 |
 | Library Of Congress Authority Id | n79107735 |
 | Gnd Id | 38379-X |
@@ -172,7 +189,6 @@ guideline_count: 1
 | Sotheby'S Museum Network Id | british-museum |
 | Owner Of | Harley Manuscripts, The Ancient of Days, Arundel Manuscripts, Elijah rescuing Prince Nur ad-Dahr from drowning in a river, Rosetta Stone (+30 more) |
 | Share Catalogue Author Id | 443753, 558643 |
-| Logo Image | British Museum logo.svg |
 | Topic Has Template | Template:British Museum, Template:British-Museum-db |
 | Comic Vine Id | 4020-60539 |
 | Agence Photo Rmn Package Id | 2C6NU0LB6G92 |
@@ -315,12 +331,14 @@ guideline_count: 1
 
 ### Revenue History
 
-- $21.48M (21,480,898 pound sterling (as of 2020))
-- $7.90M (7,901,782 pound sterling (as of 2019))
-- $10.70M (10,700,762 pound sterling (as of 2018))
-- $12.01M (12,008,697 pound sterling (as of 2017))
-- $721.00 (721 pound sterling (as of 2021))
-- $158.00 (158 pound sterling (as of 2022))
-- $7.51M (7,509,242 pound sterling (as of 2023))
-- $4.50M (4,501,254 pound sterling (as of 2024))
-- $1.49K (1,487 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $21.48M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $7.90M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.70M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $12.01M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $721.00 | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $158.00 | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $7.51M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.50M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.49K | as of 2025 | [UNDER-1M](/revenue_buckets/under-1m/) |

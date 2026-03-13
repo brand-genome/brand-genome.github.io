@@ -2,12 +2,12 @@
 title: Flipboard
 slug: flipboard
 description: ""
-date: "2026-03-05T22:38:39.726814"
+date: "2026-03-13T08:56:59.747361"
 draft: false
 sectors:
-  - software
-  - "social-media"
   - publishing
+  - "social-media"
+  - software
 regions:
   - usa
 years:
@@ -21,6 +21,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,32 +48,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - "app-icon"
-  - lockup
-  - horizontal
   - logomark
+  - primary
+  - lockup
   - vertical
+  - "app-icon"
+  - horizontal
 brand_colors:
   - white
-  - "pantone-691"
   - red
   - grey
-  - "pantone-433"
-  - black
   - "pantone-2035"
   - "pantone-692"
+  - "pantone-691"
+  - black
+  - "pantone-433"
 typographies: []
 imagery_styles:
-  - illustration
-  - classic
   - subtle
   - graphic
+  - illustration
+  - classic
 wikidata_description: software application developed by Flipboard Inc.
+wikidata_url: "https://www.wikidata.org/wiki/Q108678871"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -145,6 +156,10 @@ Email contact for inquiries: guidelines@flipboard.com.
 - Prohibitions: Ensure brand representation aligns ethically. Avoid conflict with regulatory compliance, public decency standards, and legal doctrines.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q108678871) |
 
 | Property | Value |
 |----------|-------|

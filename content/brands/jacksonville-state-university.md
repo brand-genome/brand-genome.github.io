@@ -2,7 +2,7 @@
 title: Jacksonville State University
 slug: "jacksonville-state-university"
 description: ""
-date: "2026-03-05T22:38:39.600623"
+date: "2026-03-13T08:56:59.543014"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1883
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - signature
+  - seal
   - crest
 brand_colors: []
 typographies: []
@@ -49,10 +60,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: "public university in Jacksonville, Alabama, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q957995"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -411,6 +424,11 @@ www.jsu.edu/marketingservices/styleguide
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q957995) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1883](/foundation_dates/1883/) |
 | Coordinate Location | 33.82, -85.77 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Alabama |
@@ -440,7 +458,6 @@ www.jsu.edu/marketingservices/styleguide
 | Ror Id | 014wfj781 |
 | Social Media Followers | 14,216 (as of 2021-01-03), 14,594 (as of 2022-02-24), 14,823 (as of 2023-02-05) |
 | Count Of Students | 9,238 (as of 2020-09) |
-| Employees | 1,118 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I78724572, P4310316897 |
@@ -448,7 +465,12 @@ www.jsu.edu/marketingservices/styleguide
 | Academic Calendar Type | semester |
 | Member Of | American Council on Education, American Association of State Colleges and Universities |
 | Sevis School Id | 2172 |
-| Logo Image | Jacksonville State University 2023.png |
 | Kisti Id | K000207313 |
 | Snarc Id | Q146507 |
 | Athletics Program | Jacksonville State Gamecocks |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,118 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

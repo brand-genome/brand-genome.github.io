@@ -2,7 +2,7 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-03-05T22:38:39.269582"
+date: "2026-03-13T08:56:59.211953"
 draft: false
 sectors:
   - ngo
@@ -14,15 +14,27 @@ years:
 languages:
   - english
 tags:
+  - sport
   - vintage
   - featured
-  - sport
 industries: []
 countries:
   - switzerland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lausanne
+  - "chateau-de-vidy"
+subsidiaries: []
+foundation_dates:
+  - 1894
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "non-governmental sports organisation (founded 1894)"
+wikidata_url: "https://www.wikidata.org/wiki/Q40970"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q40970) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/); [Chateau De Vidy](/headquarters_locations/chateau-de-vidy/) |
+| Foundation Date | [1894](/foundation_dates/1894/) |
 | Topic'S Main Category | Category:International Olympic Committee |
 | Freebase Id | /m/03xcc |
 | Official Language | French, English |
@@ -81,7 +101,6 @@ guideline_count: 1
 | Ringgold Id | 69606 |
 | Quora Topic Id | International-Olympic-Committe |
 | Dagens Nyheter Topic Id | iok |
-| Logo Image | International Olympic Committee logo 2021.svg |
 | Encyclopædia Britannica Online Id | topic/International-Olympic-Committee |
 | Encyclopædia Universalis Id | comite-international-olympique |
 | Open Funder Registry Funder Id | 501100003965 |

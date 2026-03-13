@@ -2,7 +2,7 @@
 title: Hubspot
 slug: hubspot
 description: ""
-date: "2026-03-05T22:38:40.035938"
+date: "2026-03-13T08:57:00.058806"
 draft: false
 sectors:
   - software
@@ -12,227 +12,348 @@ years: []
 languages: []
 tags: []
 industries:
-  - marketing
-  - automation
-  - analytics
-  - "email-marketing"
-  - "cloud-computing"
-  - "software-as-a-service"
-  - "software-industry"
   - "customer-relationship-management"
+  - analytics
+  - "software-industry"
+  - automation
+  - "software-as-a-service"
+  - "cloud-computing"
+  - marketing
+  - "email-marketing"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1m-10m"
+  - "1M-10M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products:
+  - "email-marketing"
+  - "content-creation"
+  - "web-application"
+  - "artificial-intelligence"
+  - "application-programming-interface"
+  - "net-promoter-score"
+  - "sales-development"
+  - "lead-generation"
+  - "customer-relationship-management-software"
+  - analytics
+  - "customer-retention"
+  - "customer-data-platform"
+  - "sales-team-management"
+  - "enterprise-resource-planning"
+  - "cloud-computing"
+  - "marketing-automation"
+  - "business-to-business"
+  - "data-visualization-software"
+  - "sales-software"
+  - "automation-technology"
+  - "e-commerce"
+  - "live-chat"
+  - "top-line-growth"
+headquarters_locations:
+  - cambridge
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings:
+  - natural
   - studio
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
   - "rule-of-third"
 image_backgrounds:
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "galaxy-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
-  - bright
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "galaxy-colors"
+  - monotone
+  - grayscale
+  - light
+  - bright
 photography_genres:
-  - selfie
-  - professional
-  - informational
-  - botanical
-  - promotional
-  - food
-  - product
-  - text
-  - interior
-  - illustration
-  - abstract
-  - street
-  - advertising
-  - architectural
-  - candid
-  - action
-  - "live-stage"
-  - group
-  - documentary
-  - fashion
-  - advertisement
-  - "text-heavy"
-  - corporate
-  - cartoon
-  - typography
-  - "graphic-design"
-  - portrait
-  - beauty
   - staged
-  - business
-  - political
-  - "still-life"
-concepts:
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - informational
-  - vintage
-  - typography
+  - corporate
+  - product
+  - promotional
   - "graphic-design"
-  - "wave-pattern"
+  - abstract
+  - selfie
+  - cartoon
+  - "live-stage"
+  - street
+  - professional
+  - fashion
+  - group
+  - business
+  - typography
+  - advertisement
+  - documentary
+  - advertising
+  - "text-heavy"
+  - portrait
+  - political
+  - beauty
+  - interior
+  - informational
+  - food
+  - illustration
+  - candid
+  - text
+  - "still-life"
+  - botanical
+  - action
+  - architectural
+concepts:
+  - "text-heavy"
+  - informational
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - symmetrical
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - symmetrical
+  - "neutral-density-filter"
 dominant_colors:
   - white
   - red
-  - orange
   - cream
-  - black
+  - pink
   - "dark-blue"
   - cyan
-  - pink
+  - black
+  - orange
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - neat
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - updo
-  - long
-  - curly
-  - short
-  - "tied-back"
-  - varied
   - covered
-facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
-  - focused
-  - contemplative
-clothing_styles:
+  - updo
+  - neat
   - casual
+  - loose
+  - flowing
+  - short
+  - varied
+  - ponytail
+  - "tied-back"
+  - long
+  - wavy
+  - curly
+  - braided
+facial_expressions:
+  - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
+  - contemplative
+  - content
+clothing_styles:
+  - formal
+  - "business-casual"
+  - casual
+  - traditional
   - "form-fitting"
   - business
   - costume
-  - formal
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - muted
+  - pastel
   - neutral
   - monochrome
   - earthy
-  - pastel
+  - muted
 posings:
-  - seated
-  - engaged
-  - leaning
-  - relaxed
-  - active
-  - holding
-  - standing
   - confident
-gazes:
+  - active
+  - leaning
   - engaged
+  - relaxed
+  - standing
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
   - sideways
   - forward
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American marketing software company
+wikidata_url: "https://www.wikidata.org/wiki/Q5926631"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 103
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/Df6WlqkX0AIv-Ql?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbZz8kJWAAIzRYQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dn9VlEbXsAEc9t1?format=png&name=large"
+  - "https://pbs.twimg.com/media/EuEINIgWYAAJcFk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0bdbmyW0Ag2BNl?format=png&name=large"
+  - "https://pbs.twimg.com/media/D7WFz87WkAEyPtA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Di4CkgxUwAgyafw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DuTnRYTXgAAMSZy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E73gZGjWYAYV1vc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDi5M6yWkAIpYvC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgE3ikVW0AAEbQW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcRiZ6MXkAA6PBB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgI82-2W0AAMQKf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eh9V5mzWkAEsNSx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgTPvqsW4AEZeZK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dfk-VwxW4AAvozE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FeJ5d7SXEAgVGsF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjFdVJ4XYAAIqns?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBgci8EX0BwmruD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPmNcnNXMAUC7vg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYV1s4jV4AYoYEu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ff6V9tQWQAAXPTw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Diy4_j4WAAAgjlE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAFLVlAXkAUhovq?format=png&name=large"
+  - "https://pbs.twimg.com/media/D2wmRDcXgAAHS3T?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWfqUrzVMAAJptR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIiAfxIWsAUeOSl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ES1F_9zXkAA8Zo0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmXBOmwU0AA9X4P?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EckHu50WoAAGfQV?format=png&name=large"
+  - "https://pbs.twimg.com/media/EZMjp33XYAUmUAV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dh1F3bCUYAEOLoR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWggkz8UEAYnfoj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FADaKMtXEAIyTZm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnmJBeiXMAMJfQ-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRwjB5WWQAABa3A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dc3FsElX4AEGipz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkLnhk5W4AE7-3N?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D-aGYvtX4AAct2q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5al9utXoAE3M6l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D63PuhsXYAAcTCw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWe9uwAUQAAGnzs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXntb6MUQAAW1C-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoPRujeWEAAsq4y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EERqdbqX4AcjImN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDpT6_AX4AA8cWD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXCzPd6U8AE-KTb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdFiGwZWAAAvoqM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbsGTS-XYAA7uxj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D91hnNHXoAEWNpf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FI6EXRFVgAAH-06?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dyu_qpiW0AAwrJb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DduBRJcUwAEFLzw?format=png&name=large"
+  - "https://pbs.twimg.com/media/EDjDAPuWwAAdcNt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlOkNFAU4AET-NT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhrIUYEUcAACbUd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dgis0PgWkAA7qMn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZ8aC6XU8AUH2N_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DxCuP6AX4AII8nn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcEQFG6XoAEsjrq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXxziZlVQAAryAs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsqfeFEXYAAD1VT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FN0pUw2XsAU2cVm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmWvQOYW0AAViyZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DxIbYQhXgAAflBd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DciD0n7WAAEY85d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9KjP0RXsAIWVN0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnD1PCVUYAAdvqf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ez-9ZFVWYAAlSNK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DeXzwe9XUAAUg4U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELXifoSXYAEjwcd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXewBamXgAEcZVp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_mKBBPWsAA6tQ5?format=png&name=large"
+  - "https://pbs.twimg.com/media/FdL2TPIXwAEaU-u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPWVNdqWYAEupOr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dv8Iwx2WwAE2KAm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaMaBxDW0AEmJ2F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ek2yZBsXYAIb9t6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYYrvbhUwAMukG6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4-b8JEWQAIN8Yv?format=png&name=large"
+  - "https://pbs.twimg.com/media/DawZCL-X4AA7bL_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyBX0HJX4A4vJs8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJRBVHaWkAAcjlS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Df1hmQeU0AAgkQ2?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 103 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Dark Blue | 51.6% | 45.0% | 21.6% | 94.7% | 100.0% | ±36.5% | 32.0% |
-| Red | 51.5% | 56.4% | 16.3% | 82.9% | 95.5% | ±34.5% | 13.6% |
-| White | 48.2% | 46.0% | 11.1% | 84.7% | 100.0% | ±35.6% | 48.5% |
-| Black | 30.8% | 26.5% | 17.1% | 48.8% | 54.6% | ±16.5% | 29.1% |
-| Pink | 28.0% | 15.2% | 11.2% | 23.3% | 76.7% | ±27.9% | 13.6% |
-| Cyan | 26.3% | 17.5% | 12.4% | 32.5% | 44.5% | ±22.1% | 11.7% |
-| Cream | 21.6% | 12.2% | 9.3% | 18.7% | 35.6% | ±25.0% | 11.7% |
-| Orange | 20.1% | 15.8% | 8.4% | 21.4% | 38.8% | ±17.4% | 42.7% |
+| Color | Mean |
+|-------|------|
+| Dark Blue | 51.6% |
+| Red | 51.5% |
+| White | 48.2% |
+| Black | 30.8% |
+| Pink | 28.0% |
+| Cyan | 26.3% |
+| Cream | 21.6% |
+| Orange | 20.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 22.4% | 7.5% | 0.0% | 27.4% | ±30.8% |
-| Neutral | 49.7% | 54.9% | 10.9% | 83.8% | ±37.3% |
-| Cool | 27.9% | 7.8% | 0.0% | 45.7% | ±35.8% |
+| Tone | Mean |
+|------|------|
+| Warm | 22.4% |
+| Neutral | 49.7% |
+| Cool | 27.9% |
 
 ### Sample Images
 
@@ -342,14 +463,19 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5926631) |
+
+| Property | Value |
+|----------|-------|
+| Product | [Email Marketing](/products/email-marketing/); [Content Creation](/products/content-creation/); [Web Application](/products/web-application/); [Artificial Intelligence](/products/artificial-intelligence/); [Application Programming Interface](/products/application-programming-interface/); [Net Promoter Score](/products/net-promoter-score/); [Sales Development](/products/sales-development/); [Lead Generation](/products/lead-generation/); [Customer Relationship Management Software](/products/customer-relationship-management-software/); [Analytics](/products/analytics/); [Customer Retention](/products/customer-retention/); [Customer Data Platform](/products/customer-data-platform/); +11 more |
+| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/) |
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Country | United States |
 | Headquarters Location | Cambridge |
-| Logo Image | HubSpot Logo.svg |
 | Inception | 2006 |
 | Founded By | Brian Halligan, Dharmesh Shah |
 | Chief Executive Officer | Yamini Rangan |
 | Industry | software industry, software as a service, marketing, customer relationship management, cloud computing (+3 more) |
-| Employees | 8,246 |
 | Owner Of | The Hustle, PieSync, Frame AI, clearbit, Cacheflow (+2 more) |
 | Member Of | Business Software Alliance |
 | Legal Form | Delaware corporation, public company, corporation |
@@ -364,8 +490,18 @@ guideline_count: 0
 
 ### Revenue History
 
-- $2.63B (2,630,000,000 United States dollar)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.63B | - | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $4.90M (4,900,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.90M | as of 2024 | [1M-10M](/net_profit_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 8,246 | - | [1K-10K](/employees_buckets/1k-10k/) |

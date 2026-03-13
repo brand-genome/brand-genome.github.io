@@ -2,7 +2,7 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-03-05T22:38:39.787105"
+date: "2026-03-13T08:56:59.837386"
 draft: false
 sectors:
   - drink
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1737
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +56,16 @@ brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
   - product
+  - bold
 wikidata_description: "opera house in Naples, Italy"
+wikidata_url: "https://www.wikidata.org/wiki/Q628491"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -91,6 +103,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q628491) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1737](/foundation_dates/1737/) |
 | Coordinate Location | 40.8373882298, 14.2496871007 |
 | Architect | Giovanni Antonio Medrano, Angelo Carasale |
 | Freebase Id | /m/031p43 |
@@ -105,7 +122,7 @@ guideline_count: 1
 | Google Arts & Culture Partner Id | teatro-di-san-carlo |
 | Heritage Designation | Italian national heritage |
 | Phone Number | +39-081-797-2111 |
-| Email Address | mailto:lettere@teatrosancarlo.it |
+| Email Address | lettere@teatrosancarlo.it |
 | Postal Code | 80132 |
 | Bibliothèque Nationale De France Id | 120852376 |
 | Idref Id | 029170508 |

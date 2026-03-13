@@ -2,7 +2,7 @@
 title: KitchenAid
 slug: kitchenaid
 description: ""
-date: "2026-03-05T22:38:39.273102"
+date: "2026-03-13T08:56:59.215378"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,24 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "meat-grinder"
+  - "coffee-grinder"
+  - dishwasher
+  - "convection-oven"
+  - "water-pump"
+  - "gas-stove"
+  - "food-processor"
+  - "ice-cream-maker"
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American home appliance brand
+wikidata_url: "https://www.wikidata.org/wiki/Q1743850"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +85,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1743850) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Meat Grinder](/products_or_materials_produced/meat-grinder/); [Coffee Grinder](/products_or_materials_produced/coffee-grinder/); [Dishwasher](/products_or_materials_produced/dishwasher/); [Convection Oven](/products_or_materials_produced/convection-oven/); [Water Pump](/products_or_materials_produced/water-pump/); [Gas Stove](/products_or_materials_produced/gas-stove/); [Food Processor](/products_or_materials_produced/food-processor/); [Ice Cream Maker](/products_or_materials_produced/ice-cream-maker/) |
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Inception | 1919-01-01 |
 | Manufacturer | Whirlpool |
 | Owned By | Whirlpool |
@@ -72,7 +98,6 @@ guideline_count: 1
 | Quora Topic Id | KitchenAid |
 | Facet Of | mixer |
 | Babelnet Id | 02835984n |
-| Logo Image | Kitchenaid logo.svg |
 | Manualslib Brand Id | kitchenaid |
 | Product Or Material Produced | coffee grinder, convection oven, dishwasher, food processor, ice cream maker (+3 more) |
 | Freebase Id | /m/09ftjc |

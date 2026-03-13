@@ -2,11 +2,11 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-03-05T22:38:39.682289"
+date: "2026-03-13T08:56:59.604377"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - germany
 years:
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - featured
   - packaging
+  - featured
 industries:
-  - retail
   - "discount-store"
+  - retail
 countries:
   - germany
   - "united-states"
@@ -27,6 +27,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "mulheim-an-der-ruhr"
+  - essen
+  - batavia
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: brand name of two global discount supermarket chains
+wikidata_url: "https://www.wikidata.org/wiki/Q125054"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -77,6 +92,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q125054) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/); [Essen](/headquarters_locations/essen/); [Batavia](/headquarters_locations/batavia/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Freebase Id | /m/0246n2 |
 | Topic'S Main Category | Category:Aldi |
 | Pronunciation Audio | De-Aldi.ogg |
@@ -111,7 +132,6 @@ guideline_count: 1
 | Itv News Topic Id | aldi |
 | Gnd Id | 1085944174 |
 | Library Of Congress Authority Id | no2003013777 |
-| Logo Image | AldiNord-WorldwideLogo.svg, Aldi Süd 2017 logo.svg |
 | Number Of Branches | 8,200 |
 | Owned By | Karl Hans Albrecht (until 2014-07-16), Karl Albrecht Jr. (from 2014-07-16), Theo Albrecht (until 2010-07-24) |
 | Founded By | Karl Hans Albrecht, Theo Albrecht |

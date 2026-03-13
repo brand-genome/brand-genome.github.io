@@ -2,7 +2,7 @@
 title: Hulu
 slug: hulu
 description: ""
-date: "2026-03-05T22:38:39.225841"
+date: "2026-03-13T08:56:59.168364"
 draft: false
 sectors:
   - broadcasting
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2023
+  - 2022
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - entertainment
 industries:
   - "video-on-demand"
@@ -25,6 +25,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "santa-monica"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American video streaming service
+wikidata_url: "https://www.wikidata.org/wiki/Q1630304"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +88,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1630304) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Santa Monica](/headquarters_locations/santa-monica/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Freebase Id | /m/02y_4jg |
 | Headquarters Location | Santa Monica |
 | Inception | 2007-03 |
@@ -104,7 +123,6 @@ guideline_count: 3
 | Legal Form | subsidiary company |
 | Fandom Article Id | turtlepedia:Hulu, youtube:Hulu |
 | Pinterest Username | hulu |
-| Logo Image | Hulu logo (2007).svg (from 2007, until 2014), Hulu logo (2014).svg (from 2014, until 2017), Hulu logo (2018).svg, Hulu logo (2017).svg |
 | Uk Parliament Thesaurus Id | 468185 |
 | Trustpilot Company Id | www.hulu.com |
 | Distribution Format | digital download |

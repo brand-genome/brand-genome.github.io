@@ -2,7 +2,7 @@
 title: Afterpay
 slug: afterpay
 description: ""
-date: "2026-03-05T22:38:39.552946"
+date: "2026-03-13T08:56:59.474738"
 draft: false
 sectors:
   - finance
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - melbourne
+subsidiaries: []
+foundation_dates:
+  - 2014
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,21 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - "app-icon"
   - primary
+  - "app-icon"
   - badge
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles:
-  - bold
   - gradient
+  - bold
 wikidata_description: Australian financial technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q55639119"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +124,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55639119) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Melbourne](/headquarters_locations/melbourne/) |
+| Foundation Date | [2014](/foundation_dates/2014/) |
 | Legal Form | public company limited by shares |
 | Instagram Username | afterpayusa |
 | X (Twitter) Username | AfterpayUSA (as of 2020-06-16, from 2018-04-05), AfterPayAU (as of 2020-06-16, from 2014-07-28) |
@@ -120,8 +140,13 @@ guideline_count: 1
 | Google Knowledge Graph Id | /g/11gj4j03vx |
 | Australian Business Number | 30618280649 |
 | Crunchbase Organization Id | afterpay-bb1f |
-| Market Capitalization | 34,785,735,456 Australian dollar (as of 2021-11-18) |
 | Official Name | AFTERPAY LIMITED |
 | Parent Organization Or Unit | Block, Inc. (from 2022-01-31) |
 | Inception | 2014-10 |
 | Headquarters Location | Melbourne |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $34.79B | as of 2021-11-18 | [10B-50B](/market_cap_buckets/10b-50b/) |

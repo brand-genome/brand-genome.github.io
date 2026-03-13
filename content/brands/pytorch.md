@@ -2,7 +2,7 @@
 title: PyTorch
 slug: pytorch
 description: ""
-date: "2026-03-05T22:38:39.553544"
+date: "2026-03-13T08:56:59.475601"
 draft: false
 sectors:
   - software
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,28 +46,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
+  - primary
   - lockup
-  - wordmark
+  - symbol
   - stacked
+  - wordmark
 brand_colors:
   - white
-  - violet
   - crimson
+  - violet
+  - purple
   - orange
   - black
-  - indigo
   - gray
-  - purple
+  - indigo
 typographies: []
 imagery_styles: []
 wikidata_description: "open source machine learning library for Python, based on Torch"
+wikidata_url: "https://www.wikidata.org/wiki/Q47509047"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,13 +115,16 @@ White: HEX: #FFFFFF. RGB: R255 G255 B255. CMYK: C00 M00 Y00 K00.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q47509047) |
+
+| Property | Value |
+|----------|-------|
 | Github Account | pytorch |
 | Source Code Repository Url | https://github.com/pytorch/pytorch |
 | Operating System | Linux, macOS, Microsoft Windows |
 | Publication Date | 2016-08-24 |
 | Programmed In | , Python, , CUDA |
 | Software Version Identifier | 0.1.1, 0.4.0, 0.3.1, 0.3.0, 0.2.0 (+58 more) |
-| Logo Image | Pytorch logo.png |
 | Pro Linux.De Dbapp Id | 21106 |
 | Repology Project Name | python:pytorch |
 | Arch Linux Package | python-pytorch-cuda, python-pytorch, python-pytorch-opt-cuda, python-pytorch-opt |

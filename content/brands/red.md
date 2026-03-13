@@ -2,7 +2,7 @@
 title: (RED)
 slug: red
 description: ""
-date: "2026-03-05T22:38:39.612963"
+date: "2026-03-13T08:56:59.558935"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - brand
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +60,16 @@ brand_colors:
 typographies:
   - impact
 imagery_styles:
-  - bold
   - product
   - graphic
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q624601"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q624601) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Brand](/products_or_materials_produced/brand/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Freebase Id | /m/0b3kv7 |
 | Inception | 2006 |
 | Myspace Id | joinred |
@@ -114,5 +135,4 @@ guideline_count: 1
 | Giphy Username | shopathon |
 | Fandom Article Id | apple:(RED) |
 | Uia Open Yearbook Organization Website Id | 1122281584 |
-| Logo Image | Product Red.svg |
 | Threads Username | red |

@@ -2,7 +2,7 @@
 title: ECHA
 slug: echa
 description: ""
-date: "2026-03-05T22:38:39.368901"
+date: "2026-03-13T08:56:59.327326"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - helsinki
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,24 +52,26 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
+  - "pantone-293"
   - white
   - "pantone-129"
-  - "pantone-293"
   - black
   - gray
 typographies:
-  - georgia
   - verdana
+  - georgia
 imagery_styles:
   - graphic
 wikidata_description: agency of the European Union
+wikidata_url: "https://www.wikidata.org/wiki/Q48798"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +135,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48798) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Helsinki](/headquarters_locations/helsinki/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Headquarters Location | Helsinki (from 2020-01), Helsinki (from 2007-06, until 2019-12) |
 | Freebase Id | /m/094z0h |
 | Ndl Authority Id | 01131155 |
@@ -128,9 +148,7 @@ guideline_count: 1
 | Viaf Cluster Id | 253373400 |
 | Image | European Chemicals Agency Headquarters.jpg |
 | Inception | 2007 |
-| Employees | 600 (as of 2019) |
 | Gnd Id | 1050970810 |
-| Logo Image | ECHA Logo.svg |
 | Uk Parliament Thesaurus Id | 33241 |
 | Item Operated | ECHA Substance Infocard database |
 | Finnish National Bibliography Corporate Name Id | 149901A |
@@ -161,3 +179,9 @@ guideline_count: 1
 | Contact Page Url | https://echa.europa.eu/contact |
 | Chief Executive Officer | Bjørn Hansen (from 2018-01, until 2022-03-31), Geert Dancet (from 2008-01, until 2017-12), Sharon McGuinness (from 2022-12) |
 | On Focus List Of Wikimedia Project | Govdirectory |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 600 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |

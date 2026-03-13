@@ -2,23 +2,23 @@
 title: Fiat
 slug: fiat
 description: ""
-date: "2026-03-05T22:38:39.266028"
+date: "2026-03-13T08:56:59.208226"
 draft: false
 sectors:
   - automobile
 regions:
-  - brazil
   - italy
+  - brazil
 years:
-  - 2005
   - 2019
+  - 2005
   - 2011
 languages:
   - english
   - portuguese
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -26,6 +26,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - turin
+subsidiaries: []
+foundation_dates:
+  - 1899
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,11 +56,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - white
   - black
@@ -57,10 +69,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: Italian automotive company
+wikidata_url: "https://www.wikidata.org/wiki/Q27597"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -209,6 +223,13 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q27597) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Turin](/headquarters_locations/turin/) |
+| Foundation Date | [1899](/foundation_dates/1899/) |
 | Founded By | Giovanni Agnelli |
 | Country | Italy |
 | Owned By | Stellantis Europe (from 2007),  (until 2007) |
@@ -221,7 +242,6 @@ guideline_count: 3
 | Location Of Formation | Turin |
 | Legal Form | società per azioni |
 | Industry | automotive industry |
-| Logo Image | FIAT logo (2020).svg (from 2020, until 2022), Fiat Automobiles logo.svg (from 2006, until 2020), Fiat logo 1968.svg (from 1968, until 1999), FIAT logo coloured.svg (from 2022) |
 | Quora Topic Id | Fiat-Automobiles, Fiat-3 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.21339 |
 | Permid | 4295875588 |

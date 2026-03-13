@@ -2,7 +2,7 @@
 title: Jaguar
 slug: jaguar
 description: ""
-date: "2026-03-05T22:38:39.569860"
+date: "2026-03-13T08:56:59.499805"
 draft: false
 sectors:
   - automobile
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "passenger-car"
+  - car
+products: []
+headquarters_locations:
+  - coventry
+subsidiaries: []
+foundation_dates:
+  - 1934
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,9 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
@@ -54,10 +67,12 @@ imagery_styles:
   - bold
   - monochrome
 wikidata_description: former British car company
+wikidata_url: "https://www.wikidata.org/wiki/Q30055"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +130,13 @@ HTML: #A7A9AC. Black is used for text and monochrome applications. Tints of blac
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30055) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Coventry](/headquarters_locations/coventry/) |
+| Foundation Date | [1934](/foundation_dates/1934/) |
 | Founded By | William Lyons |
 | Musicbrainz Label Id | aefc3abd-12bc-4359-8562-f349665f4229 |
 | Freebase Id | /m/012x34 |
@@ -144,7 +166,6 @@ HTML: #A7A9AC. Black is used for text and monochrome applications. Tints of blac
 | Dissolved, Abolished Or Demolished Date | 2012-12-31 |
 | Lex Id | Jaguar |
 | Gran Enciclopèdia Catalana Id | jaguar |
-| Logo Image | Jaguar - sign (color).jpg, Jaguar 2001 wordmark.svg (as of 2001) |
 | Douyin Username | MS4wLjABAAAAltYFwRkNNwXL5fh4YfD5vl1Sm5JlsSrCyrOIcbcpEMQ |
 | Rednote Profile Id | 5cc00c28000000001002b494 |
 | Youtube Handle | JaguarCarsLimited |

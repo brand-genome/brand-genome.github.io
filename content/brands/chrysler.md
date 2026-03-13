@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-03-05T22:38:39.231397"
+date: "2026-03-13T08:56:59.175161"
 draft: false
 sectors:
   - automobile
@@ -21,6 +21,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - truck
+  - "automotive-part"
+  - car
+products: []
+headquarters_locations:
+  - "chrysler-headquarters-and-technology-center"
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American automotive manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q181114"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +80,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q181114) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Chrysler Headquarters And Technology Center](/headquarters_locations/chrysler-headquarters-and-technology-center/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Founded By | Walter Percy Chrysler Sr. |
 | Topic'S Main Category | Category:Chrysler Group LLC |
 | Industry | automotive industry |
@@ -71,7 +94,6 @@ guideline_count: 1
 | Owned By | Fiat Chrysler Automobiles (from 2014, until 2021), Fiat Group (from 2009, until 2014), Stellantis (from 2021) |
 | Viaf Cluster Id | 128240355 |
 | Headquarters Location | Chrysler Headquarters and Technology Center |
-| Logo Image | Fiat Chrysler Automobiles logo.svg (from 2014, until 2021), Chrysler Group logo.svg (from 2007, until 2014), DaimlerChrysler wordmark.svg (from 1998, until 2007), Chrysler logo 1962.png (from 1962, until 1998), Chrysler Corporation Logo (1955 - 1962).svg (from 1955, until 1962) (+2 more) |
 | Inception | 1925-06-06 |
 | Location Of Formation | Auburn Hills |
 | Product Or Material Produced | car, truck, automotive part |

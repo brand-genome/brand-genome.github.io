@@ -2,7 +2,7 @@
 title: Hertz
 slug: hertz
 description: ""
-date: "2026-03-05T22:38:40.028700"
+date: "2026-03-13T08:57:00.039993"
 draft: false
 sectors:
   - "car-rental"
@@ -18,212 +18,302 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - estero
+subsidiaries:
+  - "daimler-hire"
+  - "donlen-corporation"
+  - "dollar-thrifty-automotive-group"
+  - "advantage-rent-a-car"
+  - "dollar-rent-a-car"
+foundation_dates:
+  - 1918
+  - 1967
 lightings:
+  - natural
   - studio
   - soft
   - moderate
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
+  - "point-of-view-shot"
   - "centered-composition"
   - "rule-of-third"
 image_backgrounds:
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - textured
   - gradient
-  - bright
+  - blurred
   - dark
+  - light
+  - bright
 color_schemes:
+  - "text-heavy"
+  - "inverted-colors"
+  - "complementary-colors"
   - "two-tone"
   - "bright-colors"
-  - grayscale
-  - monotone
-  - "text-heavy"
-  - "complementary-colors"
+  - "pastel-colors"
   - "sunset-colors"
+  - monotone
+  - grayscale
   - light
   - "analogous-colors"
-  - "pastel-colors"
-  - "inverted-colors"
 photography_genres:
-  - award
-  - selfie
-  - landscape
-  - automotive
+  - staged
+  - corporate
   - product
   - abstract
-  - street
-  - advertising
-  - architectural
-  - sports
-  - action
-  - candid
-  - "live-stage"
-  - group
-  - fashion
-  - advertisement
-  - corporate
+  - award
+  - selfie
   - family
+  - "live-stage"
+  - sports
+  - street
+  - fashion
+  - group
+  - advertising
+  - advertisement
   - portrait
-  - staged
+  - landscape
+  - candid
   - "still-life"
+  - architectural
+  - action
+  - automotive
 concepts:
   - advertisement
   - "text-heavy"
+  - "incomplete-art"
   - illustration
+  - photorealism
+  - "graphic-design"
   - vintage
   - typography
-  - "graphic-design"
-  - "incomplete-art"
-  - photorealism
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - symmetrical
-  - "high-saturation"
-  - "motion-capture"
-  - asymmetry
-  - "motion-blur"
-  - "long-exposure"
   - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "motion-blur"
+  - symmetrical
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
-  - white
-  - gold
-  - tan
-  - mustard
-  - black
-  - "light-blue"
-  - gray
   - "dark-gray"
+  - white
+  - mustard
+  - tan
+  - gold
+  - black
+  - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - neat
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
-  - "tied-back"
-  - varied
   - covered
+  - updo
+  - neat
+  - casual
+  - short
+  - loose
+  - flowing
+  - varied
+  - ponytail
+  - "tied-back"
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
   - joyful
   - engaged
-  - relaxed
   - neutral
-  - content
   - focused
+  - relaxed
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - active
-  - holding
-  - standing
-  - running
   - stretching
   - confident
-gazes:
+  - active
+  - leaning
+  - walking
   - engaged
-  - away
+  - running
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
   - "upper-body"
-  - "full-body"
   - "close-up"
+  - "lower-half"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American car rental company
+wikidata_url: "https://www.wikidata.org/wiki/Q1543874"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 85
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FWHxU4qXoAE4Ui2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCqVONsXoAUKW4Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0opXN7WQAU9wqz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzXHlWiUYAMEkNZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyNfG0tWgAQxtfg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ewb13p6XEAMXSj-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EpiMpIZW4AEO92l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjzxLayX0AEUppX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EixWrBmXgAE8oqB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiNzBWIXgAE4gev?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgWk_AUXgAsoE7L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ef4UX8lWAAIEcPI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfTnifSVAAAs7Sa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeqayLQWkAAydoC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ed8bjR8UEAAfXfz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdEFvvCWsAA9sdv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eclk6TYXYAILAGa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ebs4oFYXgAEQkj_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbIiWeJXsAQ5SNw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eak9qqqXgAMTzA9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EXgHCu8XYAA9Vn_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EW39yP5XgAIyO1i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESdRnygWsAIZZaJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERvr10sW4AAbETP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERuwAPyXUAQcA5b?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERumSsvXsAMXHv2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERuSYKsXkAQWi5v?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERtgthGXYAYvN0R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERlMjywXsAcxPbA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPDFsGTXkAEJb73?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMjcTcOWoAEH740?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJVd6hkXsAArWRi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI8juWFXsAEm3Ln?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI7syozW4AAMg_F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI413pxWsAMtgAe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI4GreFWwAIY-21?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIuBs8yXYAkz4Ju?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHpHzjoWwAMFdbz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHkonN3W4AYtnU1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHHU7xsWwAABhzx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EG_9Ps8X0AAg2jd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFOztiIWkAcXBzW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEwIZqfXoAUBTab?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDtQ7j_XUAIJHrr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECvIvg4XoAI9vWL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAP1pHyUcAAGctw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9xY_LhWwAMdET9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9xJcoUX4AItU1k?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9sBIwEXkAABak2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5RMxF3W0AE7M1S?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5QPD60X4AEtZkm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0xTnV_W0AAY3tp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dtw_3qmWsAIIxV8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dtw00oLW4AAfr_e?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtwmGHoXcAA5Ioc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dtvgp49X4AAsAvC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsUrmKQXQAAOigz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsT0BZ1XcAAdMbi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsS3OklWoAEs5t_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dnj9MopV4AA-WJ7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dnj3XIlVsAANL9f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnjvwUvW4AMZEwM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnjsxP1X4AEJDwJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dj3xKwuWsAE7dIR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhL5HLgWkAEStnv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ddf6n_1VwAAyW8o?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdWfQFjX0AA2XXx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYieyWjXkAAgXVQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWzxwdyWAAEDy70?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWu0qf-U0AIE0Zo?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 85 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Black | 26.7% | 22.6% | 15.8% | 33.6% | 48.5% | ±15.9% | 94.1% |
-| White | 24.6% | 14.1% | 9.3% | 27.5% | 66.3% | ±23.3% | 29.4% |
-| Gold | 22.3% | 17.5% | 11.2% | 26.5% | 38.6% | ±17.6% | 24.7% |
-| Mustard | 21.8% | 18.3% | 15.0% | 22.9% | 29.1% | ±13.5% | 24.7% |
-| Gray | 21.3% | 17.6% | 11.1% | 28.2% | 39.4% | ±13.1% | 74.1% |
-| Dark Gray | 19.6% | 18.6% | 10.9% | 25.0% | 36.9% | ±10.1% | 58.8% |
-| Light Blue | 19.3% | 20.2% | 8.8% | 27.7% | 28.9% | ±9.2% | 20.0% |
-| Tan | 17.2% | 13.5% | 7.9% | 20.3% | 37.3% | ±11.8% | 16.5% |
+| Color | Mean |
+|-------|------|
+| Black | 26.7% |
+| White | 24.6% |
+| Gold | 22.3% |
+| Mustard | 21.8% |
+| Gray | 21.3% |
+| Dark Gray | 19.6% |
+| Light Blue | 19.3% |
+| Tan | 17.2% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 13.0% | 0% | 0.0% | 20.0% | ±19.5% |
-| Neutral | 77.3% | 86.2% | 59.4% | 100.0% | ±24.7% |
-| Cool | 9.7% | 0% | 0.0% | 13.1% | ±18.2% |
+| Tone | Mean |
+|------|------|
+| Warm | 13.0% |
+| Neutral | 77.3% |
+| Cool | 9.7% |
 
 ### Sample Images
 
@@ -333,14 +423,19 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1543874) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Estero](/headquarters_locations/estero/) |
+| Subsidiary | [Daimler Hire](/subsidiaries/daimler-hire/); [Donlen Corporation](/subsidiaries/donlen-corporation/); [Dollar Thrifty Automotive Group](/subsidiaries/dollar-thrifty-automotive-group/); [Advantage Rent A Car](/subsidiaries/advantage-rent-a-car/); [Dollar Rent A Car](/subsidiaries/dollar-rent-a-car/) |
+| Foundation Date | [1918](/foundation_dates/1918/); [1967](/foundation_dates/1967/) |
 | Country | United States |
 | Headquarters Location | Estero |
-| Logo Image | Hertz Car Rental logo.svg |
 | Inception | 1918, 1967 |
 | Founded By | John D. Hertz, Walter L. Jacobs |
 | Chief Executive Officer | Kathryn V. Marinello (from 2017-01-03, until 2020), Paul Stone (from 2020) |
 | Industry | tourism industry |
-| Employees | 29,350 (as of 2009), 38,000 (as of 2019) |
 | Parent Organization | Hertz Global Holdings |
 | Subsidiary | Donlen Corporation, Dollar Thrifty Automotive Group, Advantage Rent a Car (from 2009-03-31, until 2012-12-12), Dollar Rent A Car, Daimler Hire |
 | Owned By | Rental Car Intermediate Holdings |
@@ -354,3 +449,10 @@ guideline_count: 0
 | Instagram Username | hertz |
 | Youtube Channel Id | UCUgK_nJ3mQoUxVA5_9TeL4g (as of 2020-12-06, from 2009-07-15) |
 | Linkedin Id | 4326 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 29,350 | as of 2009 | [10K-50K](/employees_buckets/10k-50k/) |
+| 38,000 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |

@@ -2,7 +2,7 @@
 title: Western Kentucky University
 slug: "western-kentucky-university"
 description: ""
-date: "2026-03-05T22:38:39.779636"
+date: "2026-03-13T08:56:59.833723"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1906
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Kentucky, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1474105"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1474105) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1906](/foundation_dates/1906/) |
 | Coordinate Location | 36.987472222222, -86.453 |
 | Country | United States |
 | Topic'S Main Category | Category:Western Kentucky University |
@@ -93,9 +111,7 @@ guideline_count: 1
 | Nl Cr Aut Id | kn20110329009, ko2011407488 |
 | X (Twitter) Username | WKU (as of 2020-12-29, from 2011-04-02), wku |
 | Social Media Followers | 22,719 (as of 2021-01-03), 25,511 (as of 2023-02-07) |
-| Logo Image | WKU wordmark logo.svg |
 | Count Of Students | 17,517 (as of 2020-09), 13,660 (as of 2021-09-01) |
-| Employees | 2,347 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I94339441 |
@@ -117,3 +133,9 @@ guideline_count: 1
 | Unirank Id | 5614 |
 | Threads Username | wku |
 | Athletics Program | Western Kentucky Hilltoppers and Lady Toppers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,347 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

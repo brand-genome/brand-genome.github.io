@@ -2,12 +2,12 @@
 title: Dekra
 slug: dekra
 description: ""
-date: "2026-03-05T22:38:39.153704"
+date: "2026-03-13T08:56:59.093263"
 draft: false
 sectors:
-  - automobile
-  - consulting
   - cybersecurity
+  - consulting
+  - automobile
 regions:
   - germany
 years:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stuttgart
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,20 +56,22 @@ logo_elements:
   - icon
 brand_colors:
   - white
-  - orange
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - black
+  - orange
 typographies: []
 imagery_styles:
-  - bold
   - static
+  - bold
 wikidata_description: International testing and inspection company
+wikidata_url: "https://www.wikidata.org/wiki/Q383711"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q383711) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Headquarters Location | Stuttgart, Stuttgart |
 | Freebase Id | /m/0cc7_p7 |
 | Member Of | European Movement Germany, Pro Mobilität, , Euro NCAP, German Road Safety Council (+8 more) |
@@ -136,7 +155,6 @@ guideline_count: 1
 | Ror Id | 02b3ny291 |
 | Child Organization Or Unit | Dekra Automotive |
 | Youtube Channel Id | UCFtZOKEEyY6MsewDqiUn9gw (as of 2020-12-03, from 2010-07-02) |
-| Logo Image | DEKRA.jpg |
 | Location Of Formation | Berlin |
 | Social Media Followers | 5,160 (as of 2021-10-12), 5,460 (as of 2023-03-22), 5,660 (as of 2024-04-29), 5,900 (as of 2025-05-11) |
 | Lobby Register Of The German Bundestag Id | R003168 (from 2022-03-09) |

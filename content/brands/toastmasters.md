@@ -2,7 +2,7 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-03-05T22:38:39.415355"
+date: "2026-03-13T08:56:59.375026"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2021
   - 2015
+  - 2021
 languages:
   - english
 tags:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rancho-santa-margarita"
+subsidiaries: []
+foundation_dates:
+  - 1924
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,17 +52,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
   - white
-  - "pantone-188"
   - "pantone-302"
-  - "pantone-1795"
-  - black
   - "pantone-127"
+  - black
   - "pantone-442"
+  - "pantone-188"
+  - "pantone-1795"
 typographies:
   - gotham
   - arial
@@ -59,10 +70,12 @@ imagery_styles:
   - modern
   - geometric
 wikidata_description: Nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q917036"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +132,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q917036) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rancho Santa Margarita](/headquarters_locations/rancho-santa-margarita/) |
+| Foundation Date | [1924](/foundation_dates/1924/) |
 | Freebase Id | /m/0jbmg |
 | Founded By | Ralph C. Smedley |
 | Inception | 1924-10-22 (from 1924-10-22) |

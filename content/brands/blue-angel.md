@@ -2,11 +2,11 @@
 title: Blue Angel
 slug: "blue-angel"
 description: ""
-date: "2026-03-05T22:38:39.516998"
+date: "2026-03-13T08:56:59.444489"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - germany
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,20 +50,22 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - magenta
-  - black
-  - cyan
-  - yellow
   - blue
+  - yellow
+  - cyan
+  - black
+  - magenta
 typographies:
   - helvetica
 imagery_styles:
   - bold
 wikidata_description: American rockabilly band
+wikidata_url: "https://www.wikidata.org/wiki/Q2497276"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +109,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2497276) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Musicbrainz Artist Id | 95d1952b-fd2b-4d87-9bbb-256c6e256f9b |
 | Discogs Artist Id | 895587 |
 | Country Of Origin | United States |

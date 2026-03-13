@@ -2,7 +2,7 @@
 title: Glassdoor
 slug: glassdoor
 description: ""
-date: "2026-03-05T22:38:39.691018"
+date: "2026-03-13T08:56:59.618636"
 draft: false
 sectors:
   - software
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - sausalito
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American website about employers and employment
+wikidata_url: "https://www.wikidata.org/wiki/Q15954148"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15954148) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sausalito](/headquarters_locations/sausalito/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Inception | 2007-06 |
 | Freebase Id | /m/0t53np8 |
 | Headquarters Location | Sausalito |
@@ -74,7 +93,6 @@ guideline_count: 1
 | Instagram Username | glassdoor |
 | Linkedin Company Or Organization Id | glassdoor |
 | Youtube Channel Id | UCBVkxWn10vBwQsONv0clarQ (as of 2020-12-05, from 2009-03-28) |
-| Logo Image | Glassdoor Logo 2023.svg (from 2023), Glassdoor logo.svg (from 2017, until 2023) |
 | Downdetector Id | glassdoor |
 | Industry | Internet |
 | Littlesis Organization Id | 342641 |

@@ -2,7 +2,7 @@
 title: Wentworth Institute of Technology
 slug: "wentworth-institute-of-technology"
 description: ""
-date: "2026-03-05T22:38:39.219430"
+date: "2026-03-13T08:56:59.156341"
 draft: false
 sectors:
   - education
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in Boston, Massachusetts"
+wikidata_url: "https://www.wikidata.org/wiki/Q12010517"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +81,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12010517) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [1904](/foundation_dates/1904/) |
 | Coordinate Location | 42.3366, -71.095 |
 | Located In The Administrative Territorial Entity | Massachusetts |
 | Topic'S Main Category | Category:Wentworth Institute of Technology |
@@ -94,9 +115,7 @@ guideline_count: 1
 | Api Endpoint Url | https://shib.wit.edu/idp/shibboleth |
 | Social Media Followers | 3,149 (as of 2021-01-05), 3,052 (as of 2020-04-24) |
 | Count Of Students | 4,389 (as of 2020-09), 3,935 (as of 2021-09-01) |
-| Total Assets | 423,680,198 United States dollar (as of 2020-06-30) |
 | Endowment | 116,512,860 United States dollar (as of 2020-06-30), 143,897,385 United States dollar (as of 2022-06-30), 149,799,889 United States dollar (as of 2021-06-30) |
-| Employees | 817 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I198034347 |
@@ -113,7 +132,6 @@ guideline_count: 1
 | Facebook Username | WentworthInst |
 | Image | Drone Photos Fall 2023-42.jpg |
 | Named After | Arioch Wentworth |
-| Logo Image | Wentworth institute logo.png |
 | World Higher Education Database Id | IAU-021175 |
 | Instagram Username | wentworthinstitute |
 | Youtube Channel Id | UCgLdDAgq3Gn5Uk04dVN8DGQ (as of 2025-09-21, from 2010-05-20) |
@@ -122,3 +140,15 @@ guideline_count: 1
 | Number Of Viewers/Listeners | 298,990 (as of 2025-11-26) |
 | Threads Username | wentworthinstitute |
 | Athletics Program | Wentworth Leopards |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 817 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $423.68M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

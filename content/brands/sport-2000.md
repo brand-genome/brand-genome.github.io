@@ -2,7 +2,7 @@
 title: Sport 2000
 slug: "sport-2000"
 description: ""
-date: "2026-03-05T22:38:39.780695"
+date: "2026-03-13T08:56:59.834969"
 draft: false
 sectors:
   - "consumer-goods"
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mainhausen
+  - egly
+subsidiaries: []
+foundation_dates:
+  - 1966
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,25 +54,27 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - signature
   - horizontal
+  - signature
 brand_colors:
   - white
   - red
   - grey
   - black
-  - gray
   - "pantone-187"
+  - gray
 typographies:
-  - arial
   - display
+  - arial
 imagery_styles:
   - professional
 wikidata_description: European sporting goods retail chain cooperative
+wikidata_url: "https://www.wikidata.org/wiki/Q262394"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +109,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q262394) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mainhausen](/headquarters_locations/mainhausen/); [Egly](/headquarters_locations/egly/) |
+| Foundation Date | [1966](/foundation_dates/1966/); [1999](/foundation_dates/1999/) |
 | Headquarters Location | Mainhausen, Égly |
 | Inception | 1966-01-01, 1999-01-02 |
 | Country | France |

@@ -2,11 +2,11 @@
 title: IRPET
 slug: irpet
 description: ""
-date: "2026-03-05T22:38:39.715200"
+date: "2026-03-13T08:56:59.732692"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - italy
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,18 +49,20 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - black
-  - "pantone-426"
-  - gray
   - "pantone-227"
+  - black
+  - gray
+  - "pantone-426"
 typographies:
   - bodoni
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

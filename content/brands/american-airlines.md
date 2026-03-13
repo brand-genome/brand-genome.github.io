@@ -2,7 +2,7 @@
 title: American Airlines
 slug: "american-airlines"
 description: ""
-date: "2026-03-05T22:38:39.751620"
+date: "2026-03-13T08:56:59.790971"
 draft: false
 sectors:
   - airline
@@ -21,6 +21,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "grand-prairie"
+  - "fort-worth"
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1936
+  - 1926
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,17 +54,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - red
+  - blue
 typographies: []
 imagery_styles:
-  - bold
   - clean
+  - bold
 wikidata_description: major airline of the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q32396"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +112,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q32396) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Grand Prairie](/headquarters_locations/grand-prairie/); [Fort Worth](/headquarters_locations/fort-worth/); [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1936](/foundation_dates/1936/); [1926](/foundation_dates/1926/) |
 | Airline Alliance | Oneworld |
 | Airline Hub | Dallas/Fort Worth International Airport, O'Hare International Airport, Miami International Airport, John F. Kennedy International Airport, Los Angeles International Airport (+5 more) |
 | Item Operated | Airbus A300-600, Airbus A319 (as of 2025), Airbus A320 (as of 2025), Airbus A321-200 (as of 2025), Airbus A321neo (as of 2025) (+36 more) |
@@ -198,7 +220,6 @@ guideline_count: 1
 | Contact Page Url | https://www.aa.com/i18n/customer-service/contact-american/american-customer-service.jsp |
 | Bbc Things Id | 4796e453-6f6a-43ef-b540-bf51ee9d0629 |
 | Pm20 Film Section Id | h1/co/A0344H/0002/L (from 1932) |
-| Logo Image | American Airlines wordmark (2013).svg |
 | Encyclopedia Of China (Third Edition) Id | 48839 |
 | Wikikids Id | American_Airlines |
 | Gran Enciclopèdia Catalana Id | american-airlines-incorporated |

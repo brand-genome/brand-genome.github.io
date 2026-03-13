@@ -2,7 +2,7 @@
 title: NordPlus
 slug: nordplus
 description: ""
-date: "2026-03-05T22:38:39.641826"
+date: "2026-03-13T08:56:59.569941"
 draft: false
 sectors:
   - education
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,39 +47,41 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
-  - white
-  - violet
-  - "pantone-226"
-  - "pantone-165"
-  - "pantone-7405"
-  - magenta
-  - grey
-  - cyan
-  - yellow
-  - black
-  - blue
-  - "pantone-320"
-  - "pantone-526"
-  - "pantone-369"
   - brown
+  - white
+  - grey
+  - "pantone-165"
+  - blue
+  - "pantone-299"
+  - "pantone-226"
+  - "pantone-369"
+  - yellow
+  - "pantone-320"
+  - "pantone-7405"
+  - violet
   - "pantone-469"
   - green
-  - "pantone-299"
+  - cyan
+  - black
+  - magenta
+  - "pantone-526"
 typographies: []
 imagery_styles:
-  - bold
   - photography
-  - modern
   - graphic
+  - modern
+  - bold
 wikidata_description: financing programme of the Nordic Council
+wikidata_url: "https://www.wikidata.org/wiki/Q11046517"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,6 +134,10 @@ guideline_count: 1
 - Contact details for further guidance are provided for the Norwegian Centre for International Cooperation in Higher Education (SIU).
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11046517) |
 
 | Property | Value |
 |----------|-------|

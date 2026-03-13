@@ -2,11 +2,11 @@
 title: Sectigo
 slug: sectigo
 description: ""
-date: "2026-03-05T22:38:39.680727"
+date: "2026-03-13T08:56:59.599156"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - international
 years:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - clifton
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,29 +57,31 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-2250"
-  - "pantone-292"
-  - "pantone-296"
-  - black
   - blue
-  - gray
-  - "pantone-143"
-  - green
   - "pantone-121"
+  - "pantone-292"
+  - "pantone-143"
+  - "pantone-296"
+  - green
+  - black
+  - gray
+  - "pantone-2250"
 typographies:
   - roboto
   - arial
 imagery_styles:
-  - bold
+  - clean
+  - dramatic
   - photography
   - product
-  - dramatic
-  - clean
+  - bold
 wikidata_description: privately held group of companies
+wikidata_url: "https://www.wikidata.org/wiki/Q1985340"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,11 +139,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1985340) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Clifton](/headquarters_locations/clifton/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Topic'S Main Category | Category:Comodo Group |
 | Freebase Id | /m/05z_lp |
 | Inception | 1998 |
 | Headquarters Location | Clifton |
-| Logo Image | Comodo logo.png |
 | Founded By | Melih Abdülhayoğlu |
 | Chairperson | Melih Abdülhayoğlu |
 | Location Of Formation | United Kingdom |

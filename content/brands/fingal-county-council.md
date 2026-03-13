@@ -2,7 +2,7 @@
 title: Fingal County Council
 slug: "fingal-county-council"
 description: ""
-date: "2026-03-05T22:38:39.371670"
+date: "2026-03-13T08:56:59.330346"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +55,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: part of the 1999 Irish local elections
+wikidata_url: "https://www.wikidata.org/wiki/Q17984515"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,6 +98,10 @@ guideline_count: 1
 - Page 3 explains the importance of acknowledging Fingal County Council support and the role of the brand in representing public funding efforts.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17984515) |
 
 | Property | Value |
 |----------|-------|

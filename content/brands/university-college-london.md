@@ -2,29 +2,41 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-03-05T22:38:39.214939"
+date: "2026-03-13T08:56:59.153040"
 draft: false
 sectors:
   - university
 regions:
   - "united-kingdom"
 years:
-  - 2021
   - 2024
   - 2017
+  - 2021
 languages:
   - english
 tags:
-  - education
   - featured
-  - university
+  - education
   - signage
+  - university
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "ucl-main-building"
+subsidiaries: []
+foundation_dates:
+  - 1826
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +60,26 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-199"
-  - "pantone-5815"
-  - black
   - blue
-  - "pantone-550"
-  - green
+  - "pantone-5815"
   - purple
+  - green
+  - black
+  - "pantone-550"
+  - "pantone-199"
 typographies:
-  - arial
-  - helvetica
   - garamond
+  - helvetica
+  - arial
 imagery_styles:
   - photography
 wikidata_description: "public research university in London, England, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q193196"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -140,6 +154,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q193196) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ucl Main Building](/headquarters_locations/ucl-main-building/) |
+| Foundation Date | [1826](/foundation_dates/1826/) |
 | Coordinate Location | 51.52472222222222, -0.13361111111111112 |
 | Topic'S Main Category | Category:University College London |
 | Freebase Id | /m/0dplh |
@@ -149,7 +169,6 @@ guideline_count: 3
 | Isni | 0000000121901201 |
 | Researchgate Institute Id | University_College_London |
 | Member Of | Russell Group, ORCID, Inc. (as of 2023-10), Jisc, iRODS Consortium, European University Association (+7 more) |
-| Logo Image | UCL Crest.svg |
 | Headquarters Location | UCL Main Building |
 | Ringgold Id | 4919 |
 | Quora Topic Id | University-College-London-UCL |
@@ -178,7 +197,6 @@ guideline_count: 3
 | Gnd Id | 1010776-9 |
 | Location | Bloomsbury, London, Stratford |
 | Microsoft Academic Id (Discontinued) | 45129253 |
-| Employees | 12,830 |
 | Library Of Congress Authority Id | n80001195 |
 | Image | Wilkins Building 1, UCL, London - Diliff.jpg |
 | Ror Id | 02jx3x895 |
@@ -193,7 +211,7 @@ guideline_count: 3
 | Nl Cr Aut Id | nlk20050165889 |
 | Historic County | Middlesex |
 | Directions | tube: {{station\|Euston Square\|circle\|h&c\|metropolitan}}, access from the northern end of Gower St |
-| Email Address | mailto:postmaster@ucl.ac.uk |
+| Email Address | postmaster@ucl.ac.uk |
 | Whatdotheyknow Organisation Id | ucl |
 | Great Russian Encyclopedia Online Id (2017) | 4137589 |
 | Api Endpoint Url | https://shib-idp.ucl.ac.uk/shibboleth |
@@ -262,3 +280,9 @@ guideline_count: 3
 | Slovak National Library (Viaf) Id | vtls013083961 |
 | Bluesky Handle | ucl.ac.uk (from 2024-11-20) |
 | Threads Username | ucl |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 12,830 | - | [10K-50K](/employees_buckets/10k-50k/) |

@@ -2,11 +2,11 @@
 title: Growens
 slug: growens
 description: ""
-date: "2026-03-05T22:38:39.406494"
+date: "2026-03-13T08:56:59.367110"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - italy
 years:
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - industry
   - technology
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +49,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - logomark
   - horizontal
+  - logomark
   - secondary
 brand_colors:
   - white
   - red
-  - black
   - blue
+  - black
   - gray
 typographies:
-  - roboto
   - lato
   - montserrat
+  - roboto
 imagery_styles:
-  - bold
+  - graphic
   - modern
   - portrait
-  - graphic
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

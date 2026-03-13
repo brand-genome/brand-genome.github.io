@@ -2,11 +2,11 @@
 title: British Rail
 slug: "british-rail"
 description: ""
-date: "2026-03-05T22:38:39.590701"
+date: "2026-03-13T08:56:59.531127"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - transport
   - vintage
   - featured
-  - transport
 industries:
   - "rail-transport-in-the-united-kingdom"
 countries:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "rail-transport"
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "British state-owned rail transport operator (1948–1997)"
+wikidata_url: "https://www.wikidata.org/wiki/Q605169"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -61,6 +75,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q605169) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Rail Transport](/products_or_materials_produced/rail-transport/) |
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Inception | 1948-01-01 |
 | Followed By | Freightliner, DB Cargo UK |
 | Headquarters Location | London |
@@ -74,7 +95,6 @@ guideline_count: 1
 | Quora Topic Id | British-Rail |
 | Encyclopædia Britannica Online Id | topic/British-Railways |
 | Industry | rail transport in the United Kingdom |
-| Logo Image | British Rail - full colour logo.svg |
 | Ycba Agent  Id | 8742 |
 | Owner Of | TSS Slieve Bawn, TSS Slieve League, North Stafford Hotel, Friar Gate Bridge, Eaton Branch Railway (+8 more) |
 | Country | United Kingdom |

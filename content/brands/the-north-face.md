@@ -2,18 +2,18 @@
 title: The North Face
 slug: "the-north-face"
 description: ""
-date: "2026-03-05T22:38:39.655500"
+date: "2026-03-13T08:56:59.582377"
 draft: false
 sectors:
-  - fashion
   - "consumer-goods"
-  - "e-commerce"
   - footwear
+  - fashion
+  - "e-commerce"
 regions:
   - usa
 years:
-  - 2007
   - 2013
+  - 2007
 languages:
   - english
 tags:
@@ -27,6 +27,26 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "travel-gear"
+  - outerwear
+  - backpack
+  - "sleeping-bag"
+  - "sports-equipment"
+  - "outdoor-gear"
+  - "fashion-accessory"
+  - tent
+  - clothing
+products: []
+headquarters_locations:
+  - denver
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,13 +74,15 @@ typographies:
 imagery_styles:
   - illustration
   - clean
-  - landscape
   - bold
+  - landscape
 wikidata_description: American company featuring outdoor apparel and sportswear
+wikidata_url: "https://www.wikidata.org/wiki/Q152784"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -528,12 +550,18 @@ Versatility 20%
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q152784) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Travel Gear](/products_or_materials_produced/travel-gear/); [Outerwear](/products_or_materials_produced/outerwear/); [Backpack](/products_or_materials_produced/backpack/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Tent](/products_or_materials_produced/tent/); [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [Denver](/headquarters_locations/denver/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Douglas Tompkins, Susie Tompkins Buell |
 | Freebase Id | /m/04n92b |
 | Headquarters Location | Denver |
 | Country | United States |
 | Inception | 1968-01-01 |
-| Logo Image | TheNorthFace logo.svg |
 | X (Twitter) Username | TheNorthFace (as of 2020-04-27, from 2007-07-18), thenorthface |
 | Parent Organization Or Unit | VF Corporation |
 | Product Or Material Produced | outerwear, backpack, tent, sleeping bag, sports equipment (+4 more) |

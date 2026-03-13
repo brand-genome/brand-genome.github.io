@@ -2,7 +2,7 @@
 title: US Army Corps of Engineers
 slug: "us-army-corps-of-engineers"
 description: ""
-date: "2026-03-05T22:38:39.389608"
+date: "2026-03-13T08:56:59.357042"
 draft: false
 sectors:
   - "public-sector"
@@ -14,16 +14,27 @@ years:
 languages:
   - english
 tags:
+  - military
+  - engineering
   - vintage
   - featured
-  - engineering
-  - military
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1775
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +63,12 @@ typographies:
   - helvetica
 imagery_styles: []
 wikidata_description: "direct reporting unit and U.S. Army's branch for military engineering"
+wikidata_url: "https://www.wikidata.org/wiki/Q1049334"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,12 +112,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1049334) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1775](/foundation_dates/1775/) |
 | Topic'S Main Category | Category:United States Army Corps of Engineers |
 | Freebase Id | /m/0l9wb |
 | Gnd Id | 114157-0 |
 | Military Branch | United States Army |
 | Country | United States |
-| Logo Image | United States Army Corps of Engineers logo.svg (from 1981), US-ArmyCorpsOfEngineers-TraditionalLogo.svg (from 1830, until 1981) |
 | Headquarters Location | Washington, D.C. |
 | New York Times Topic Id | organization/army-corps-of-engineers |
 | Isni | 0000000405824666 |
@@ -150,7 +168,7 @@ guideline_count: 1
 | Osm Name Suggestion Index Id | unitedstatesarmycorpsofengineers-167f6a, unitedstatesarmycorpsofengineers-059b34, unitedstatesarmycorpsofengineers-2ac081, unitedstatesarmycorpsofengineers-b9cbaf, unitedstatesarmycorpsofengineers-bdd4b2 |
 | Openalex Id | I1306490931 |
 | Phone Number | +1-202-761-0011 |
-| Email Address | mailto:hq-publicaffairs@usace.army.mil |
+| Email Address | hq-publicaffairs@usace.army.mil |
 | Located In The Administrative Territorial Entity | Washington, D.C. |
 | Street Address | 441 G St NW, Washington, DC 20314-1000 |
 | Flickr User Id | 30539067@N04 (from 2008-09) |

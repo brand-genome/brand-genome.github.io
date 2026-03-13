@@ -2,7 +2,7 @@
 title: NPR
 slug: npr
 description: ""
-date: "2026-03-05T22:38:39.715405"
+date: "2026-03-13T08:56:59.732958"
 draft: false
 sectors:
   - broadcasting
@@ -19,9 +19,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +62,12 @@ typographies:
 imagery_styles:
   - graphic
 wikidata_description: American nonprofit media organization
+wikidata_url: "https://www.wikidata.org/wiki/Q671510"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q671510) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:NPR |
 | Freebase Id | /m/0c0sl |
 | Headquarters Location | Washington, D.C., Washington, D.C. |
@@ -154,7 +174,6 @@ guideline_count: 1
 | Allsides Id | npr-media-bias |
 | Official Shop Url | https://shop.npr.org |
 | Industry | public broadcasting |
-| Logo Image | National Public Radio logo (2).svg, NPR new logo.svg |
 | Bbc Things Id | e2fd7721-c0c1-4a93-b8e5-a88171d61243 |
 | Shortened Url Formatter | https://n.pr/$1 |
 | Topic Has Template | Template:NPR |
@@ -170,7 +189,6 @@ guideline_count: 1
 | Nl Cr Aut Id | pna20231192631 |
 | Influencewatch Id | non-profit/national-public-radio-npr |
 | Metacritic Publication Id | npr |
-| Total Assets | 409,698,714 United States dollar (as of 2022), 423,960,780 United States dollar (as of 2021), 388,515,133 United States dollar (as of 2023), 394,636,102 United States dollar (as of 2011), 408,283,639 United States dollar (as of 2012) (+9 more) |
 | Dpla Subject Term | National Public Radio (U.S.) |
 | Fast Id | 531135 |
 | Canadiana Name Authority Id | ncf10284928 |
@@ -192,17 +210,38 @@ guideline_count: 1
 
 ### Revenue History
 
-- $218.02M (218,018,393 United States dollar (as of 2016-01-01))
-- $277.71M (277,707,916 United States dollar (as of 2019))
-- $251.96M (251,960,663 United States dollar (as of 2018))
-- $223.37M (223,372,071 United States dollar (as of 2017))
-- $177.61M (177,605,127 United States dollar (as of 2020))
-- $305.64M (305,638,035 United States dollar (as of 2022))
-- $288.07M (288,067,110 United States dollar (as of 2021))
-- $302.47M (302,474,004 United States dollar (as of 2023))
-- $184.27M (184,273,037 United States dollar (as of 2011))
-- $190.47M (190,468,098 United States dollar (as of 2012))
-- $190.56M (190,557,609 United States dollar (as of 2013))
-- $204.20M (204,201,875 United States dollar (as of 2014))
-- $196.53M (196,531,000 United States dollar (as of 2015))
-- $325.23M (325,227,715 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $218.02M | as of 2016-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $277.71M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $251.96M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $223.37M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $177.61M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $305.64M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $288.07M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $302.47M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $184.27M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $190.47M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $190.56M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $204.20M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $196.53M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $325.23M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $409.70M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $423.96M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $388.52M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $394.64M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $408.28M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $393.37M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $354.83M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $344.18M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $347.02M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $355.85M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $357.69M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $374.77M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $392.18M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $407.57M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

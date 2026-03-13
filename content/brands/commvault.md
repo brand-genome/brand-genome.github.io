@@ -2,11 +2,11 @@
 title: Commvault
 slug: commvault
 description: ""
-date: "2026-03-05T22:38:39.717895"
+date: "2026-03-13T08:56:59.735930"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "tinton-falls"
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,27 +55,29 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-2965"
-  - "pantone-2995"
   - "pantone-185"
-  - "pantone-8400"
+  - "pantone-2965"
   - blue
-  - "pantone-428"
+  - "pantone-8400"
+  - "pantone-2995"
   - gray
+  - "pantone-428"
 typographies:
-  - times
   - din
+  - times
   - display
 imagery_styles:
   - photography
-  - clean
-  - modern
   - graphic
+  - modern
+  - clean
 wikidata_description: data management and information management software company
+wikidata_url: "https://www.wikidata.org/wiki/Q5152058"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -142,6 +155,12 @@ Tahoma is a system font resembling DIN and should be used as the default fallbac
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5152058) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tinton Falls](/headquarters_locations/tinton-falls/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Stock Exchange | Nasdaq (from 2006) |
 | Inception | 1996 |
 | Isni | 0000000405445797 |
@@ -150,7 +169,6 @@ Tahoma is a system font resembling DIN and should be used as the default fallbac
 | Headquarters Location | Tinton Falls |
 | Grid Id | grid.471113.1 |
 | Ror Id | 05011pz46 |
-| Logo Image | Commvault logo 2019.svg |
 | Instagram Username | commvault |
 | X (Twitter) Username | commvault (as of 2020-12-24, from 2009-03-12), Commvault |
 | Social Media Followers | 71,275 (as of 2021-01-02), 69,631 (as of 2022-02-24), 68,255 (as of 2023-02-07) |

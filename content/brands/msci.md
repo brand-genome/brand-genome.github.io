@@ -2,7 +2,7 @@
 title: MSCI
 slug: msci
 description: ""
-date: "2026-03-05T22:38:39.352505"
+date: "2026-03-13T08:56:59.303779"
 draft: false
 sectors:
   - finance
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,31 +54,33 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - "pantone-198"
-  - "pantone-123"
-  - "pantone-340"
-  - "pantone-3265"
-  - "pantone-296"
-  - black
   - blue
-  - "pantone-2123"
+  - "pantone-656"
+  - "pantone-296"
+  - "pantone-198"
+  - "pantone-144"
+  - "pantone-3265"
   - turquoise
   - "pantone-2736"
-  - "pantone-144"
-  - "pantone-656"
   - "pantone-2124"
+  - black
+  - "pantone-2123"
+  - "pantone-340"
+  - "pantone-123"
 typographies:
+  - din
   - roboto
   - merriweather
   - arial
-  - din
 imagery_styles:
   - graphic
 wikidata_description: American financial service provider
+wikidata_url: "https://www.wikidata.org/wiki/Q768773"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,12 +133,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q768773) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/06twx6 |
 | Stock Exchange | New York Stock Exchange (from 2007-11-15) |
 | Isin | US55354G1004 |
 | Headquarters Location | New York City |
 | Inception | 1969 |
-| Logo Image | MSCI logo.svg |
 | Corporate Number (Japan) | 5700150000328 |
 | Permid | 4295906344 |
 | Country | United States |

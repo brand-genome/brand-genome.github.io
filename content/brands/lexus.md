@@ -2,7 +2,7 @@
 title: Lexus
 slug: lexus
 description: ""
-date: "2026-03-05T22:38:39.791179"
+date: "2026-03-13T08:56:59.842645"
 draft: false
 sectors:
   - automobile
@@ -20,6 +20,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "luxury-vehicle"
+  - "performance-car"
+products: []
+headquarters_locations:
+  - nagoya
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese brand of luxury vehicle owned by Toyota Motor Corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q35919"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +76,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q35919) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/); [Performance Car](/products_or_materials_produced/performance-car/) |
+| Headquarters Location | [Nagoya](/headquarters_locations/nagoya/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Founded By | Eiji Toyoda |
 | Topic'S Main Category | Category:Lexus |
 | Freebase Id | /m/04n7g |
@@ -75,7 +97,6 @@ guideline_count: 1
 | X (Twitter) Username | Lexus (as of 2018-05-10, from 2009-06-18), lexusuk (as of 2020-02-29, from 2010-07-06), lexusracingusa (as of 2020-02-29, from 2015-10-08), LexusKSA (as of 2020-12-27, from 2011-08-06), lexus_jpn (as of 2021-06-28, from 2011-03-08) (+19 more) |
 | Youtube Channel Id | UCEDHfFp2GZonrhuAaz7VjPw (as of 2024-10-27, from 2008-01-05), UC-diiKO_PSuSSXCsuNDaziQ (as of 2024-10-13, from 2013-03-14), UC4DskZ7ft8IubOmsacUdY5A (as of 2024-10-20, from 2010-02-24), UC4r8r9QTsoMR4Km0elB9MHg (as of 2024-10-13, from 2013-01-03), UC9hKlm_2AUqTt2nSfI-_SZQ (as of 2024-10-13, from 2010-07-31) (+42 more) |
 | Google+ Id | +Lexus |
-| Logo Image | Lexus.svg |
 | Industry | automotive industry (from 1989), shipbuilding (from 1997) |
 | Quora Topic Id | Lexus-car-company |
 | Dagens Nyheter Topic Id | lexus |

@@ -2,11 +2,11 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-03-05T22:38:39.744054"
+date: "2026-03-13T08:56:59.782451"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - "arts-culture"
 regions:
   - usa
@@ -22,9 +22,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1846
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,19 +56,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - secondary
+  - lockup
 brand_colors:
-  - blue
-  - black
   - yellow
+  - black
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: group of museums and research centers administered by the United States government
+wikidata_url: "https://www.wikidata.org/wiki/Q131626"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131626) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1846](/foundation_dates/1846/) |
 | Country | United States |
 | Topic'S Main Category | Category:Smithsonian Institution |
 | Gnd Id | 38076-3 |
@@ -132,7 +152,6 @@ guideline_count: 1
 | Snac Ark Id | w69h69v0, w6rc7tp0 |
 | Te Papa Agent Id | 39438 |
 | Member Of | Digital Library Federation, Association of Research Libraries, World Digital Library, IIIF Consortium, International GLAM Labs Community (+3 more) |
-| Logo Image | Smithsonian sun logo no text.svg |
 | Babelnet Id | 03506192n |
 | Permid | 4298216676 |
 | Open Funder Registry Funder Id | 100000014 |
@@ -250,7 +269,6 @@ guideline_count: 1
 | Openalex Id | P4310315861 |
 | Discogs Label Id | 406745 |
 | Kisti Id | K000215681 |
-| Total Assets | 6,953,060,016 United States dollar (as of 2022), 7,059,162,886 United States dollar (as of 2021), 7,198,888,846 United States dollar (as of 2023), 3,516,523,060 United States dollar (as of 2011), 3,795,609,529 United States dollar (as of 2012) (+9 more) |
 | Factgrid Item Id | Q511926 |
 | Librarything Author Id | smithsonian |
 | Kalliope Verbund (Gnd) Id | 38076-3 |
@@ -269,17 +287,38 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.46B (1,456,826,975 United States dollar (as of 2017-01-01))
-- $1.60B (1,601,124,226 United States dollar (as of 2019))
-- $1.47B (1,466,053,226 United States dollar (as of 2018))
-- $1.86B (1,855,983,046 United States dollar (as of 2022))
-- $1.80B (1,804,763,983 United States dollar (as of 2021))
-- $1.88B (1,876,542,577 United States dollar (as of 2023))
-- $1.24B (1,240,978,409 United States dollar (as of 2011))
-- $1.32B (1,315,239,542 United States dollar (as of 2012))
-- $1.37B (1,371,587,031 United States dollar (as of 2013))
-- $1.45B (1,452,410,465 United States dollar (as of 2014))
-- $1.35B (1,354,737,828 United States dollar (as of 2015))
-- $1.45B (1,449,630,382 United States dollar (as of 2016))
-- $1.56B (1,561,599,985 United States dollar (as of 2020))
-- $1.96B (1,955,619,953 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.46B | as of 2017-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.60B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.47B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.86B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.80B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.88B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.24B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.32B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.37B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.45B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.35B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.45B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.56B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.96B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $6.95B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.06B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.20B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.52B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.80B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.05B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.40B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.52B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.71B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.89B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.15B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.42B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.05B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.57B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

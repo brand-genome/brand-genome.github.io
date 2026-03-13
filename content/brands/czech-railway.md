@@ -2,11 +2,11 @@
 title: Czech railway
 slug: "czech-railway"
 description: ""
-date: "2026-03-05T22:38:39.279285"
+date: "2026-03-13T08:56:59.221332"
 draft: false
 sectors:
-  - "public-sector"
   - railroad
+  - "public-sector"
 regions:
   - "czech-republic"
 years:
@@ -14,19 +14,34 @@ years:
 languages:
   - czech
 tags:
-  - featured
   - transport
+  - featured
 industries:
-  - "passenger-transport"
   - "rail-transport"
+  - "passenger-transport"
 countries:
   - "czech-republic"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - railway
+products: []
+headquarters_locations:
+  - prague
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Czech passenger rail transport operator
+wikidata_url: "https://www.wikidata.org/wiki/Q304944"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +86,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q304944) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Railway](/products_or_materials_produced/railway/) |
+| Headquarters Location | [Prague](/headquarters_locations/prague/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Freebase Id | /m/043b3b |
 | Image | 680 005 CZ-CD Ostrava.jpg |
 | Headquarters Location | Prague |
@@ -77,15 +101,12 @@ guideline_count: 1
 | Inception | 2003 |
 | Location Of Formation | Prague |
 | Legal Form | akciová společnost (from 2003-01-01) |
-| Logo Image | Ceske drahy-logo.svg, ČD logo.svg |
 | Country | Czech Republic |
 | Child Organization Or Unit | ČD Cargo (as of 2015-12-31), Výzkumný Ústav Železniční (as of 2015-12-31), Dopravní vzdělávací institut (as of 2015-12-31), ČD – Telematika (as of 2018-12-31), ČSAD SVT Praha (+6 more) |
 | Chief Executive Officer | Pavel Krtek (from 2014, until 2018), Miroslav Kupec (from 2018, until 2019), Daniel Kurucz (from 2014-02-21, until 2014-11-10), Dalibor Zelený (from 2013-07-31, until 2014-02-20), Petr Žaluda (from 2008-02-01, until 2013-06-30) (+4 more) |
 | Owner Of | JLV (as of 2015-12-31), Masaryk Station Development (as of 2015-12-31), EUROFIMA, Intercontainer-Interfrigo, CR-City |
-| Total Assets | 88,791,785,000 Czech koruna (as of 2015-12-31), 89,545,465,000 Czech koruna (as of 2014-12-31), 86,368,000,000 Czech koruna (as of 2017-12-31), 86,938,000,000 Czech koruna (as of 2016-12-31), 84,832,000,000 Czech koruna (as of 2018-12-31) (+6 more) |
 | Legal Entity Identifier | 31570010000000034336 |
 | Industry | rail transport, passenger transport |
-| Employees | 23,947 (as of 2015), 23,542 (as of 2017), 23,374 (as of 2018), 22,037 (as of 2021-01-01), 23,138 (as of 2020-01-01) (+4 more) |
 | Owned By | Czech Republic |
 | Czech Registration Id (Ičo) | 70994226 |
 | Ipa Transcription | ˈtʃɛskɛː ˈdraːɦɪ |
@@ -96,12 +117,11 @@ guideline_count: 1
 | Ror Id | 049m9e566 |
 | Member Of | International Union of Railways (from 1922), Community of European Railway and Infrastructure Companies |
 | Product Or Material Produced | railway |
-| Total Equity | 40,037,000,000 Czech koruna (as of 2018-12-31), 38,985,000,000 Czech koruna (as of 2017-12-31), 36,870,000,000 Czech koruna (as of 2021-12-31), 37,325,000,000 Czech koruna (as of 2020-12-31), 41,393,000,000 Czech koruna (as of 2019-12-31) (+3 more) |
 | Board Member | Václav Nebeský (from 2019, until 2022), Ivan Bednárik (from 2020, until 2022), Michal Krapinec (from 2022) |
 | Supervisory Board Member | Pavel Kysilka (from 2019, until 2022), Josef Kolář (from 2018, until 2021), Libor Švadlenka (from 2019, until 2021), Vojtěch Kocourek (from 2014, until 2022), Tatiana Molková (from 2019, until 2021) (+7 more) |
 | Facebook Username | ceskedrahy |
 | Instagram Username | ceskedrahy |
-| Email Address | mailto:info@cd.cz |
+| Email Address | info@cd.cz |
 | Phone Number | +420-221-111-122 |
 | Bhcl Uuid | b583c148-8656-4826-9f1f-7aede5c94cbd |
 | Isds Id | e52cdsf |
@@ -126,39 +146,88 @@ guideline_count: 1
 
 ### Revenue History
 
-- $37.76B (37,762,555,000 Czech koruna (as of 2015))
-- $36.74B (36,736,949,000 Czech koruna (as of 2014))
-- $33.97B (33,969,000,000 Czech koruna (as of 2017-01-01))
-- $33.29B (33,287,000,000 Czech koruna (as of 2016-01-01))
-- $39.10B (39,097,000,000 Czech koruna (as of 2018))
-- $38.53B (38,534,000,000 Czech koruna (as of 2021-01-01))
-- $35.91B (35,915,000,000 Czech koruna (as of 2020-01-01))
-- $40.66B (40,656,000,000 Czech koruna (as of 2019-01-01))
-- $51.64B (51,644,000,000 Czech koruna (as of 2024-01-01))
-- $49.15B (49,148,000,000 Czech koruna (as of 2023-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $37.76B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.74B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $33.97B | as of 2017-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $33.29B | as of 2016-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.10B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.53B | as of 2021-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.91B | as of 2020-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.66B | as of 2019-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $51.64B | as of 2024-01-01 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $49.15B | as of 2023-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $1.70B (1,704,000,000 Czech koruna (as of 2017-01-01))
-- $2.26B (2,257,000,000 Czech koruna (as of 2016-01-01))
-- $2.62B (2,625,000,000 Czech koruna (as of 2018))
-- $7.99B (7,993,000,000 Czech koruna (as of 2021-01-01))
-- $4.89B (4,893,000,000 Czech koruna (as of 2020-01-01))
-- $2.54B (2,537,000,000 Czech koruna (as of 2019-01-01))
-- $1.26B (1,262,000,000 Czech koruna (as of 2024-01-01))
-- $3.83B (3,826,000,000 Czech koruna (as of 2023-01-01))
-- $1.90B (1,902,000,000 Czech koruna (as of 2022-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.70B | as of 2017-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.26B | as of 2016-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.62B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.99B | as of 2021-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.89B | as of 2020-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.54B | as of 2019-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.26B | as of 2024-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.83B | as of 2023-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.90B | as of 2022-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $1.40B (-1,401,708,000 Czech koruna (as of 2015))
-- $156.21M (156,206,000 Czech koruna (as of 2014))
-- $984.00M (984,000,000 Czech koruna (as of 2017-01-01))
-- $882.00M (882,000,000 Czech koruna (as of 2016-01-01))
-- $1.19B (1,185,000,000 Czech koruna (as of 2018))
-- $1.64B (-1,636,000,000 Czech koruna (as of 2021-01-01))
-- $4.13B (-4,135,000,000 Czech koruna (as of 2020-01-01))
-- $1.31B (1,315,000,000 Czech koruna (as of 2019-01-01))
-- $1.36B (1,365,000,000 Czech koruna (as of 2024-01-01))
-- $3.20B (3,196,000,000 Czech koruna (as of 2023-01-01))
-- $139.00M (-139,000,000 Czech koruna (as of 2022-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.40B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $156.21M | as of 2014 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $984.00M | as of 2017-01-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $882.00M | as of 2016-01-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.19B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.64B | as of 2021-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.13B | as of 2020-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.31B | as of 2019-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.36B | as of 2024-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.20B | as of 2023-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $139.00M | as of 2022-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 23,947 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,542 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,374 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 22,037 | as of 2021-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,138 | as of 2020-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,529 | as of 2019-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,550 | as of 2024-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,823 | as of 2023-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,875 | as of 2022-01-01 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $88.79B | as of 2015-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $89.55B | as of 2014-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $86.37B | as of 2017-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $86.94B | as of 2016-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $84.83B | as of 2018-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $103.52B | as of 2021-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $95.72B | as of 2020-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $95.99B | as of 2019-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $141.95B | as of 2024-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $126.98B | as of 2023-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $120.41B | as of 2022-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $40.04B | as of 2018-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $38.98B | as of 2017-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $36.87B | as of 2021-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $37.33B | as of 2020-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $41.39B | as of 2019-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $39.00B | as of 2024-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $37.63B | as of 2023-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $35.12B | as of 2022-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |

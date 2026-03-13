@@ -2,7 +2,7 @@
 title: Corfo
 slug: corfo
 description: ""
-date: "2026-03-05T22:38:39.598692"
+date: "2026-03-13T08:56:59.540361"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "calle-moneda"
+subsidiaries: []
+foundation_dates:
+  - 1939
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,17 +50,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - "pantone-293"
+  - white
   - black
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: Chilean governmental organization
+wikidata_url: "https://www.wikidata.org/wiki/Q1135552"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,10 +96,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1135552) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Calle Moneda](/headquarters_locations/calle-moneda/) |
+| Foundation Date | [1939](/foundation_dates/1939/) |
 | Freebase Id | /m/027ypsh |
 | Inception | 1939 |
 | Country | Chile |
-| Logo Image | Logo Corfo.png |
 | Open Funder Registry Funder Id | 100009465 |
 | Isni | 0000000122070753 |
 | Library Of Congress Authority Id | n81028007 |

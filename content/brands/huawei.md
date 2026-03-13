@@ -2,7 +2,7 @@
 title: Huawei
 slug: huawei
 description: ""
-date: "2026-03-05T22:38:39.379142"
+date: "2026-03-13T08:56:59.338880"
 draft: false
 sectors:
   - software
@@ -17,17 +17,40 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "electronics-industry"
+  - telecommunications
   - "information-and-communications-technology"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
-  - "500b-1t"
+  - "500B-1T"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "UNDER-1M"
+market_cap_buckets: []
+products_or_materials_produced:
+  - laptop
+  - smartwatch
+  - "tablet-computer"
+  - "managed-services"
+  - "networking-hardware"
+  - smartphone
+  - 5g
+  - dongle
+  - "broadband-internet-access"
+products: []
+headquarters_locations:
+  - shenzhen
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +69,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
+  - primary
   - horizontal
+  - symbol
 brand_colors:
   - white
   - red
@@ -57,14 +80,16 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - gradient
   - professional
+  - bold
 wikidata_description: Chinese multinational technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q160120"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +142,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q160120) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Managed Services](/products_or_materials_produced/managed-services/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [5G](/products_or_materials_produced/5g/); [Dongle](/products_or_materials_produced/dongle/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
+| Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Founded By | Ren Zhengfei |
 | Headquarters Location | Shenzhen |
 | Child Organization Or Unit | HiSilicon, Huawei Technologies (UK), Huawei (United States), Huawei Technologies Deutschland, Huawei Technologies (Canada) (+4 more) |
@@ -136,8 +168,6 @@ guideline_count: 1
 | Giphy Username | huawei_mobile |
 | Instagram Username | huawei |
 | Facebook Username | huaweimobile |
-| Total Assets | 443,634,000,000 renminbi (as of 2016-12-31), 372,155,000,000 renminbi (as of 2015-12-31) |
-| Employees | 180,000 (as of 2017), 180,000 (as of 2019), 197,000 (as of 2021-10-24), 105,000 (as of 2021-10-24) |
 | Owned By | Ren Zhengfei (as of 2016), Ren Zhengfei (as of 2019) |
 | The Times Of India Topic Id | Huawei |
 | Selibr Id | 399309 |
@@ -168,7 +198,6 @@ guideline_count: 1
 | Unified Social Credit Id | 914403001922038216 |
 | Littlesis Organization Id | 164492 |
 | Eu Transparency Register Id | 114467111412-38 |
-| Logo Image | Huawei wordmark.svg (from 2006, until 2019), Huawei wordmark 2019.svg (from 2019) |
 | Different From | Hawaii |
 | Director / Manager | Ren Zhengfei |
 | Hkcan Id | 9811112558803406 |
@@ -179,7 +208,6 @@ guideline_count: 1
 | Nlc Authorities | 000621034, 000621033 |
 | Crunchbase Organization Id | huawei |
 | Official Name | Huawei Technologies Co., Ltd. |
-| Total Equity | 21,000 renminbi (as of 1987) |
 | Glassdoor Company Id | 9304 |
 | National Library Of Israel J9U Id | 987007352531705171 |
 | Social Media Followers | 7,675,717 (as of 2021-11-17), 189,000 (as of 2022-02-02), 10,246,537 (as of 2023-02-11), 246,000 (as of 2023-03-22), 297,000 (as of 2023-05-31) (+2 more) |
@@ -230,16 +258,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $521.57B (521,574,000,000 renminbi (as of 2016))
-- $395.01B (395,009,000,000 renminbi (as of 2015))
-- $721.20B (721,202,000,000 renminbi (as of 2018))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $521.57B | as of 2016 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $395.01B | as of 2015 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $721.20B | as of 2018 | [500B-1T](/revenue_buckets/500b-1t/) |
 
 ### Operating Income History
 
-- $47.52B (47,515,000,000 renminbi (as of 2016))
-- $45.79B (45,786,000,000 renminbi (as of 2015))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $47.52B | as of 2016 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $45.79B | as of 2015 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $37.05B (37,052,000,000 renminbi (as of 2016))
-- $36.91B (36,910,000,000 renminbi (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $37.05B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $36.91B | as of 2015 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 180,000 | as of 2017 | [100K-500K](/employees_buckets/100k-500k/) |
+| 180,000 | as of 2019 | [100K-500K](/employees_buckets/100k-500k/) |
+| 197,000 | as of 2021-10-24 | [100K-500K](/employees_buckets/100k-500k/) |
+| 105,000 | as of 2021-10-24 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $443.63B | as of 2016-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $372.15B | as of 2015-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $21.00K | as of 1987 | [UNDER-1M](/total_equity_buckets/under-1m/) |

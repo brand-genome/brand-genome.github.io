@@ -2,11 +2,11 @@
 title: UNIFEM
 slug: unifem
 description: ""
-date: "2026-03-05T22:38:39.339439"
+date: "2026-03-13T08:56:59.294886"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +49,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
-  - white
-  - blue
   - "pantone-285"
+  - white
   - black
+  - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles: []
 wikidata_description: university in Sete Lagoas Brazil
+wikidata_url: "https://www.wikidata.org/wiki/Q29183581"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +109,10 @@ guideline_count: 1
 - The logo must only be reproduced from official artwork provided by the Strategic Partnerships and Communications Group. Any deviations or customizations require prior approval from this group.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q29183581) |
 
 | Property | Value |
 |----------|-------|

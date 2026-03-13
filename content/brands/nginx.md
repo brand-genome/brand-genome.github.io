@@ -2,11 +2,11 @@
 title: Nginx
 slug: nginx
 description: ""
-date: "2026-03-05T22:38:39.415859"
+date: "2026-03-13T08:56:59.375850"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - international
 years:
@@ -21,6 +21,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: open source web server and a reverse proxy server
+wikidata_url: "https://www.wikidata.org/wiki/Q306144"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -173,10 +185,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q306144) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Copyright License | 2-clause BSD License |
 | Freebase Id | /m/02qft91 |
 | Programmed In |  |
-| Logo Image | Nginx logo.svg |
 | Software Version Identifier | 1.6.1, 1.6.0, 1.4.7, 1.4.6, 1.4.5 (+171 more) |
 | Operating System | Unix-like operating system, Microsoft Windows |
 | Developer | Maxim Dounin, Igor Sysoev |

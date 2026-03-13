@@ -2,7 +2,7 @@
 title: Cinnafilm
 slug: cinnafilm
 description: ""
-date: "2026-03-05T22:38:39.419492"
+date: "2026-03-13T08:56:59.379165"
 draft: false
 sectors:
   - broadcasting
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:
@@ -22,6 +22,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,33 +49,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
+  - alternate
   - primary
   - symbol
-  - alternate
-  - secondary
   - wordmark
 brand_colors:
   - white
-  - gold
-  - orange
-  - black
   - blue
-  - gray
+  - gold
   - purple
+  - black
+  - orange
+  - gray
 typographies:
-  - roboto
   - monospace
   - helvetica
+  - roboto
   - display
 imagery_styles:
-  - bold
-  - professional
   - product
+  - professional
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 

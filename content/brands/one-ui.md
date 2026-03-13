@@ -2,7 +2,7 @@
 title: One UI
 slug: "one-ui"
 description: ""
-date: "2026-03-05T22:38:39.770970"
+date: "2026-03-13T08:56:59.822019"
 draft: false
 sectors:
   - software
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2018
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +51,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: user interface developed by Samsung
+wikidata_url: "https://www.wikidata.org/wiki/Q60220726"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,7 +73,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | One-ui logo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q60220726) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2018](/foundation_dates/2018/) |
 | Developer | Samsung Electronics |
 | Operating System | Android |
 | Inception | 2018-11-07 |

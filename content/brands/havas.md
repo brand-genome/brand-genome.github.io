@@ -2,11 +2,11 @@
 title: Havas
 slug: havas
 description: ""
-date: "2026-03-05T22:38:39.518270"
+date: "2026-03-13T08:56:59.446418"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - france
 years:
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +53,23 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - magenta
-  - black
   - green
+  - black
+  - magenta
 typographies:
   - helvetica
 imagery_styles:
-  - bold
-  - aerial
   - photography
   - staged
+  - aerial
+  - bold
 wikidata_description: Dutch car company
+wikidata_url: "https://www.wikidata.org/wiki/Q2783003"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +123,10 @@ guideline_count: 1
 - Contact for support: brandhelp@havas.com; brand portal: tobettertogether.com.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2783003) |
 
 | Property | Value |
 |----------|-------|

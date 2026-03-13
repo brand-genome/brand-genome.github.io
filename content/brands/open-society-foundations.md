@@ -2,7 +2,7 @@
 title: Open Society Foundations
 slug: "open-society-foundations"
 description: ""
-date: "2026-03-05T22:38:39.355462"
+date: "2026-03-13T08:56:59.307099"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "224-west-57th-street"
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: international grantmaking network founded by business magnate George Soros
+wikidata_url: "https://www.wikidata.org/wiki/Q786194"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,6 +85,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q786194) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [224 West 57Th Street](/headquarters_locations/224-west-57th-street/); [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Freebase Id | /m/01xfsz, /m/01xfsm |
 | Gnd Id | 1165540282 |
 | Founded By | George Soros |
@@ -85,7 +105,6 @@ guideline_count: 1
 | Member Of | Open Research Funders Group, Emerging Practitioners in Philanthropy (as of 2022-06), DataCite, Philanthropy Europe Association, C40 Cities Climate Leadership Group (as of 2025-10-10) |
 | Encyclopædia Britannica Online Id | topic/Open-Society-Foundations |
 | Open Funder Registry Funder Id | 100000919, 100006640 |
-| Logo Image | Open Society Foundations Logo.svg (as of 2020) |
 | Grid Id | grid.453407.1 |
 | C Span Organization Id | 104183 |
 | Legal Form | nonprofit organization |

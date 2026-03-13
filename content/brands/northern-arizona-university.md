@@ -2,7 +2,7 @@
 title: Northern Arizona University
 slug: "northern-arizona-university"
 description: ""
-date: "2026-03-05T22:38:39.523870"
+date: "2026-03-13T08:56:59.459193"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1899
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,27 +51,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - alternate
-  - secondary
   - horizontal
   - wordmark
 brand_colors:
   - white
+  - blue
   - gold
   - "pantone-281"
   - black
-  - blue
 typographies:
   - roboto
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "public university in Flagstaff, Arizona, US"
+wikidata_url: "https://www.wikidata.org/wiki/Q139901"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +117,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q139901) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1899](/foundation_dates/1899/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Flagstaff |
 | Topic'S Main Category | Category:Northern Arizona University |
@@ -142,7 +160,6 @@ guideline_count: 1
 | Social Media Followers | 39,030 (as of 2021-01-03), 39,313 (as of 2020-04-13), 39,345 (as of 2022-02-28), 40,145 (as of 2023-02-06) |
 | Crunchbase Organization Id | northern-arizona-university, northern-arizona-university’s-foundation |
 | Count Of Students | 29,566 (as of 2020-09) |
-| Employees | 3,485 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I203172682, P4310316062 |
@@ -159,3 +176,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/7908f291-96df-4101-9c12-87812b2ef1e3 |
 | Scholargps Institution Id | 47062165951356 |
 | Athletics Program | Northern Arizona Lumberjacks |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,485 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

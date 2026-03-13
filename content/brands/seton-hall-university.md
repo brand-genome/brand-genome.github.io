@@ -2,7 +2,7 @@
 title: Seton Hall University
 slug: "seton-hall-university"
 description: ""
-date: "2026-03-05T22:38:39.798984"
+date: "2026-03-13T08:56:59.852652"
 draft: false
 sectors:
   - university
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1856
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +64,16 @@ brand_colors:
 typographies:
   - garamond
 imagery_styles:
-  - bold
   - photography
   - professional
+  - bold
 wikidata_description: "private Roman Catholic university in South Orange, New Jersey"
+wikidata_url: "https://www.wikidata.org/wiki/Q585828"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +124,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q585828) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1856](/foundation_dates/1856/) |
 | Coordinate Location | 40.743144, -74.246635 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | New Jersey |
@@ -137,12 +156,10 @@ guideline_count: 1
 | Grid Id | grid.263379.a |
 | Category For Employees Of The Organization | Category:Seton Hall University faculty |
 | Affiliation | Association of Catholic Colleges and Universities |
-| Logo Image | Shu logo.png |
 | Gnd Id | 75200-9 |
 | Owner Of | Owen T. Carroll Field, WSOU, Walsh Gymnasium |
 | Nl Cr Aut Id | ko2011653197 |
 | Microsoft Academic Id (Discontinued) | 12524447 |
-| Employees | 860 |
 | Street Address | 400 S Orange Ave, South Orange, NJ, 07079-2697 |
 | Library Of Congress Authority Id | n79128993 |
 | Times Higher Education World University Id | seton-hall-university |
@@ -152,7 +169,6 @@ guideline_count: 1
 | Has Part(S) | Seton Hall University Libraries |
 | Child Organization Or Unit | Seton Hall University Libraries |
 | Count Of Students | 9,814 (as of 2020-09), 8,521 (as of 2021-09-01) |
-| Total Assets | 814,560,000 United States dollar (as of 2020-06-30) |
 | Endowment | 270,000,000 United States dollar (as of 2020-06-30), 312,324,000 United States dollar (as of 2022-06-30), 330,878,000 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -178,3 +194,15 @@ guideline_count: 1
 | Funder | Open Society Foundations (as of 2020) |
 | ‎Yale Lux Id | group/f60deec5-d5a0-4021-97d9-41444b7c6342 |
 | Athletics Program | Seton Hall Pirates |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 860 | - | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $814.56M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

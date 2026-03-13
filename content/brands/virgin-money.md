@@ -2,7 +2,7 @@
 title: Virgin Money
 slug: "virgin-money"
 description: ""
-date: "2026-03-05T22:38:39.568168"
+date: "2026-03-13T08:56:59.497746"
 draft: false
 sectors:
   - insurance
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - norwich
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,8 +52,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - red
@@ -51,10 +62,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "is a financial services brand used by three independent brand-licensees worldwide."
+wikidata_url: "https://www.wikidata.org/wiki/Q14463124"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q14463124) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Norwich](/headquarters_locations/norwich/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Topic'S Main Category | Category:Virgin Money |
 | Headquarters Location | Norwich |
 | Inception | 1995 |
@@ -111,7 +130,6 @@ guideline_count: 1
 | Legal Form | private company limited by shares |
 | Country | United Kingdom |
 | Uk Parliament Thesaurus Id | 85728 |
-| Logo Image | Virgin-money-view.svg |
 | X (Twitter) Username | VirginMoneyAU (as of 2020-12-28, from 2010-09-15) |
 | Facebook Username | VirginMoneyAU |
 | Freebase Id | /m/0t_cwpd |

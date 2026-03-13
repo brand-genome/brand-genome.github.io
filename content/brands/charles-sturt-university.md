@@ -2,7 +2,7 @@
 title: Charles Sturt University
 slug: "charles-sturt-university"
 description: ""
-date: "2026-03-05T22:38:39.254953"
+date: "2026-03-13T08:56:59.197916"
 draft: false
 sectors:
   - university
@@ -19,9 +19,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bathurst
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: public university in Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q1066188"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +82,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1066188) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bathurst](/headquarters_locations/bathurst/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Topic'S Main Category | Category:Charles Sturt University |
 | Freebase Id | /m/02ng4z |
 | Country | Australia |
@@ -110,15 +131,33 @@ guideline_count: 1
 | ‎Yale Lux Id | group/f461d1fd-3070-4888-b180-3cccf06f6d20 |
 | World Higher Education Database Id | IAU-002660 |
 | Australian Business Number | 83878708551 |
-| Total Assets | 1,803,745,000 Australian dollar (as of 2023), 1,806,745,000 Australian dollar (as of 2022), 1,905,284,000 Australian dollar (as of 2021), 1,732,647,000 Australian dollar (as of 2019) |
 | Number Of Volunteers | 1,192 (as of 2023), 1,215 (as of 2022), 1,284 (as of 2021), 1,239 (as of 2019) |
 | Donations | 653,000 Australian dollar (as of 2023), 358,000 Australian dollar (as of 2022), 393,000 Australian dollar (as of 2021), 500,000 Australian dollar (as of 2019) |
-| Employees | 2,350 (as of 2023), 2,117 (as of 2022), 1,986 (as of 2021), 2,252 (as of 2019) |
 | Threads Username | charlessturtuni |
 
 ### Revenue History
 
-- $489.42M (489,423,000 Australian dollar (as of 2023))
-- $490.41M (490,408,000 Australian dollar (as of 2022))
-- $611.67M (611,672,000 Australian dollar (as of 2021))
-- $593.98M (593,982,000 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $489.42M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $490.41M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $611.67M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $593.98M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,350 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,117 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,986 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,252 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.80B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.81B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.91B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.73B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |

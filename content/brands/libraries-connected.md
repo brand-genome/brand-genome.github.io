@@ -2,7 +2,7 @@
 title: Libraries Connected
 slug: "libraries-connected"
 description: ""
-date: "2026-03-05T22:38:39.356553"
+date: "2026-03-13T08:56:59.308503"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - modern
 wikidata_description: British library organisation
+wikidata_url: "https://www.wikidata.org/wiki/Q111913709"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,6 +86,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q111913709) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Member Of | NAPLE |
 | Country | United Kingdom |
 | Inception | 1996 |
@@ -83,15 +101,23 @@ guideline_count: 1
 | Native Label | Society of Chief Librarians (from 1996, until 2018), Libraries Connected (from 2018) |
 | Charity Commission No. | 1176482 |
 | Opencorporates Id | gb/07559747 |
-| Employees | 13 (as of 2024), 15 (as of 2025) |
 | Number Of Volunteers | 15 (as of 2024) |
 | Donations | 11,584 pound sterling (as of 2025) |
 
 ### Revenue History
 
-- $1.29M (1,289,027 pound sterling (as of 2020))
-- $1.65M (1,646,880 pound sterling (as of 2021))
-- $1.51M (1,513,847 pound sterling (as of 2022))
-- $2.34M (2,340,961 pound sterling (as of 2023))
-- $1.86M (1,862,192 pound sterling (as of 2024))
-- $2.71M (2,714,195 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.29M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.65M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.51M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.34M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.86M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.71M | as of 2025 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |
+| 15 | as of 2025 | [UNDER-100](/employees_buckets/under-100/) |

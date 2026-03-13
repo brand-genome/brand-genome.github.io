@@ -2,7 +2,7 @@
 title: uniFrance
 slug: unifrance
 description: ""
-date: "2026-03-05T22:38:39.279757"
+date: "2026-03-13T08:56:59.222006"
 draft: false
 sectors:
   - entertainment
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: association promoting French cinema abroad
+wikidata_url: "https://www.wikidata.org/wiki/Q1516429"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1516429) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/0g9vqgy |
 | Country | France |
 | Headquarters Location | Paris |
@@ -93,7 +112,6 @@ guideline_count: 1
 | Social Media Followers | 50,713 (as of 2021-01-06), 47,299 (as of 2018-05-10), 147,000 (as of 2021-07-03), 51,666 (as of 2022-01-27), 169,000 (as of 2022-03-18) (+4 more) |
 | Corporate Officer | Hervé Michel (from 2021-06-23) |
 | Industry | foreign affairs |
-| Logo Image | Logo Unifrance 2021.png |
 | National Library Of Israel J9U Id | 987007456759105171 |
 | Opencorporates Id | fr/784359069 |
 | Siren Number | 784359069 |

@@ -2,13 +2,13 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-03-05T22:38:39.655344"
+date: "2026-03-13T08:56:59.582169"
 draft: false
 sectors:
-  - automobile
-  - "space-technology"
   - aerospace
   - hardware
+  - "space-technology"
+  - automobile
 regions:
   - "united-kingdom"
 years:
@@ -16,17 +16,28 @@ years:
 languages:
   - english
 tags:
-  - industry
   - engineering
+  - industry
 industries:
   - "automotive-industry"
   - "aerospace-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - redditch
+subsidiaries: []
+foundation_dates:
+  - 1900
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,30 +56,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
-  - gold
-  - black
-  - yellow
   - blue
+  - yellow
+  - gold
   - silver
+  - black
 typographies:
   - univers
 imagery_styles:
-  - bold
   - photography
-  - professional
   - natural
+  - professional
+  - bold
 wikidata_description: British multinational automotive and aerospace company
+wikidata_url: "https://www.wikidata.org/wiki/Q597047"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +124,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q597047) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Redditch](/headquarters_locations/redditch/) |
+| Foundation Date | [1900](/foundation_dates/1900/) |
 | Headquarters Location | Redditch |
 | Freebase Id | /m/026w6x |
 | Opencorporates Id | gb/00066549 |
@@ -141,4 +160,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.41B (1,410,000,000 United States dollar (as of 2017-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.41B | as of 2017-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |

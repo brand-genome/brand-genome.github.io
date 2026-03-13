@@ -2,7 +2,7 @@
 title: Kent State University
 slug: "kent-state-university"
 description: ""
-date: "2026-03-05T22:38:39.772685"
+date: "2026-03-13T08:56:59.824180"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - kent
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Kent, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1473615"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1473615) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Kent](/headquarters_locations/kent/) |
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Country | United States |
 | Topic'S Main Category | Category:Kent State University |
 | Freebase Id | /m/04bfg |
@@ -90,7 +110,6 @@ guideline_count: 1
 | Times Higher Education World University Id | kent-state-university |
 | Google Maps Customer Id | 15986076152611259443 |
 | U Multirank University Id | kent-state-university |
-| Logo Image | Kent State University Logo.svg |
 | Headquarters Location | Kent |
 | Located In The Administrative Territorial Entity | Kent |
 | Microsoft Academic Id (Discontinued) | 149910238 |
@@ -111,7 +130,6 @@ guideline_count: 1
 | Content Partnership Category | Category:Media contributed by Kent State University |
 | Crunchbase Organization Id | kent-state-university |
 | Count Of Students | 26,822 (as of 2020-09), 35,000 (as of 2021-09-01) |
-| Employees | 3,790 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I149910238, P4310316299 |
@@ -142,3 +160,9 @@ guideline_count: 1
 | Ohio University Archivesspace Agent Id | corporate_entities/1124 |
 | Littlesis Organization Id | 34311 |
 | Athletics Program | Kent State Golden Flashes |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,790 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

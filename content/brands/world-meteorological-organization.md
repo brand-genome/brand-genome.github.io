@@ -2,7 +2,7 @@
 title: World Meteorological Organization
 slug: "world-meteorological-organization"
 description: ""
-date: "2026-03-05T22:38:39.581785"
+date: "2026-03-13T08:56:59.522184"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - geneva
+subsidiaries: []
+foundation_dates:
+  - 1950
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +52,25 @@ body_sections: []
 logo_elements:
   - abstract
 brand_colors:
-  - "pantone-108"
-  - yellow
-  - "pantone-368"
   - pink
+  - yellow
   - "pantone-196"
+  - "pantone-108"
+  - "pantone-368"
   - green
 typographies:
   - verdana
 imagery_styles:
-  - abstract
   - photography
   - contemporary
+  - abstract
 wikidata_description: specialized agency of the United Nations for meteorology
+wikidata_url: "https://www.wikidata.org/wiki/Q170424"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q170424) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/) |
+| Foundation Date | [1950](/foundation_dates/1950/) |
 | Topic'S Main Category | Category:World Meteorological Organization |
 | Freebase Id | /m/0841c |
 | Gnd Id | 2034291-3 |
@@ -164,7 +183,6 @@ guideline_count: 1
 | Follows | International Meteorological Organization |
 | Ringgold Id | 17104 |
 | Parent Organization Or Unit | United Nations |
-| Logo Image | OMM logo.png |
 | Pronunciation Audio | De-Weltorganisation für Meteorologie.ogg |
 | Sciencedirect Topic Id | earth-and-planetary-sciences/world-meteorological-organization |
 | Official Observer Status In Organization | World Intellectual Property Organization, International Organization for Migration, Arctic Council, United Nations General Assembly, SPRFMO |

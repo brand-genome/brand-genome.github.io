@@ -2,7 +2,7 @@
 title: Olivetti
 slug: olivetti
 description: ""
-date: "2026-03-05T22:38:39.244272"
+date: "2026-03-13T08:56:59.188638"
 draft: false
 sectors:
   - software
@@ -10,15 +10,15 @@ sectors:
 regions:
   - italy
 years:
-  - 2002
   - 2019
+  - 2002
 languages:
   - english
   - italian
 tags:
   - vintage
-  - featured
   - corporate
+  - featured
 industries:
   - "information-technology-industry"
 countries:
@@ -26,6 +26,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "information-technology"
+  - "computer-hardware"
+  - typewriter
+products: []
+headquarters_locations:
+  - ivrea
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Italian manufacturer of computers, tablets, smartphones, printers and other such business products as calculators and fax machines"
+wikidata_url: "https://www.wikidata.org/wiki/Q673267"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +91,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q673267) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Information Technology](/products_or_materials_produced/information-technology/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Typewriter](/products_or_materials_produced/typewriter/) |
+| Headquarters Location | [Ivrea](/headquarters_locations/ivrea/) |
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Founded By | Camillo Olivetti |
 | Topic'S Main Category | Category:Olivetti |
 | Freebase Id | /m/03hktb |
@@ -88,7 +111,6 @@ guideline_count: 2
 | Parent Organization Or Unit | TIM Group |
 | Boijmans Artist Id | 9115 |
 | Gnd Id | 2013550-6, 4607106-4, 16276481-9 |
-| Logo Image | Olivetti logo (2009-2021).svg (from 2009, until 2021), Olivetti logo (1971-2009).svg (from 1971, until 2009), Olivetti logo (2021-present).svg (from 2021) |
 | Location Of Formation | Ivrea |
 | Bibliothèque Nationale De France Id | 118777551 |
 | Idref Id | 026551063 |

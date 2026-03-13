@@ -2,7 +2,7 @@
 title: Kawasaki
 slug: kawasaki
 description: ""
-date: "2026-03-05T22:38:39.303764"
+date: "2026-03-13T08:56:59.245666"
 draft: false
 sectors:
   - automobile
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +54,12 @@ typographies:
 imagery_styles:
   - photography
 wikidata_description: motorcycles by Kawasaki Heavy Industries
+wikidata_url: "https://www.wikidata.org/wiki/Q6379855"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +109,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6379855) |
+
+| Property | Value |
+|----------|-------|
 | Topic'S Main Category | Category:Kawasaki motorcycles |
 | Facebook Username | kawasaki |
 | X (Twitter) Username | KawasakiUSA (as of 2020-04-26, from 2009-02-10) |
@@ -107,5 +122,4 @@ guideline_count: 1
 | Social Media Followers | 94,423 (as of 2021-01-05), 89,777 (as of 2020-04-26), 99,787 (as of 2022-02-24), 110,157 (as of 2023-02-06) |
 | Freebase Id | /m/0crdwmb |
 | Crunchbase Organization Id | kawasaki-motors-corp-u-s-a |
-| Logo Image | Kawasaki-logo.svg |
 | Manufacturer | Kawasaki Motors |

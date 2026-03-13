@@ -2,11 +2,11 @@
 title: "Nutri-score"
 slug: "nutri-score"
 description: ""
-date: "2026-03-05T22:38:39.325946"
+date: "2026-03-13T08:56:59.280474"
 draft: false
 sectors:
-  - food
   - "public-sector"
+  - food
 regions:
   - france
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2017
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,16 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "French front-of-package nutrition label"
+wikidata_url: "https://www.wikidata.org/wiki/Q46577569"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +113,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q46577569) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2017](/foundation_dates/2017/) |
 | Country Of Origin | France |
 | Image | Nutri-score-A.svg, Nutri-score-B.svg, Nutri-score-C.svg, Nutri-score-D.svg, Nutri-score-E.svg |
 | Inception | 2017 |

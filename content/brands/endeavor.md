@@ -2,7 +2,7 @@
 title: Endeavor
 slug: endeavor
 description: ""
-date: "2026-03-05T22:38:39.369561"
+date: "2026-03-13T08:56:59.328014"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - business
   - community
+  - business
 industries:
   - "talent-agent"
 countries:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "beverly-hills"
+subsidiaries: []
+foundation_dates:
+  - 1898
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,13 +55,15 @@ brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: American talent agency
+wikidata_url: "https://www.wikidata.org/wiki/Q1515039"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -127,6 +140,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1515039) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Beverly Hills](/headquarters_locations/beverly-hills/) |
+| Foundation Date | [1898](/foundation_dates/1898/) |
 | Freebase Id | /m/05htfh |
 | Inception | 1898 |
 | Country | United States |
@@ -145,7 +164,6 @@ guideline_count: 1
 | Location Of Formation | Beverly Hills |
 | Crunchbase Organization Id | william-morris-endeavor |
 | Industry | talent agent |
-| Logo Image | Endeavor Group logo.svg |
 | Stock Exchange | New York Stock Exchange |
 | Central Index Key | 0001766363 |
 | Irs Employer Identification Number | 83-3340169 |

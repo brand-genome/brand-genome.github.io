@@ -2,7 +2,7 @@
 title: ACLU
 slug: aclu
 description: ""
-date: "2026-03-05T22:38:39.600450"
+date: "2026-03-13T08:56:59.542708"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1920
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American advocacy group
+wikidata_url: "https://www.wikidata.org/wiki/Q21637"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,6 +85,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21637) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1920](/foundation_dates/1920/) |
 | Topic'S Main Category | Category:American Civil Liberties Union |
 | Freebase Id | /m/0vkm |
 | Viaf Cluster Id | 124191829 |
@@ -102,7 +122,6 @@ guideline_count: 1
 | Idref Id | 027603644 |
 | Bibliothèque Nationale De France Id | 12373672n |
 | Legal Form | 501(c)(4) organization |
-| Logo Image | New ACLU Logo 2017.svg |
 | Field Of Work | advocacy, civil and political rights |
 | Country Of Origin | United States |
 | Irs Employer Identification Number | 13-3871360 |
@@ -147,7 +166,6 @@ guideline_count: 1
 | Cinii Research Id | 1140000791647512064 |
 | Award Received | Hugh M. Hefner First Amendment Award, VH1 Trailblazer Honors (as of 2018) |
 | Image | MC0 8234 (34813775070).jpg |
-| Total Assets | 218,780,528 United States dollar (as of 2022), 205,028,782 United States dollar (as of 2021), 181,410,698 United States dollar (as of 2023), 25,400,931 United States dollar (as of 2012), 23,942,179 United States dollar (as of 2013) (+9 more) |
 | Funder | Open Society Foundations (as of 2022) |
 | Affiliation |  |
 | Operating Area | United States |
@@ -162,17 +180,38 @@ guideline_count: 1
 
 ### Revenue History
 
-- $162.15M (162,150,933 United States dollar (as of 2022))
-- $170.96M (170,961,146 United States dollar (as of 2021))
-- $146.70M (146,699,874 United States dollar (as of 2023))
-- $33.86M (33,858,928 United States dollar (as of 2012))
-- $34.72M (34,724,259 United States dollar (as of 2013))
-- $36.93M (36,933,127 United States dollar (as of 2014))
-- $50.63M (50,628,968 United States dollar (as of 2015))
-- $42.80M (42,801,693 United States dollar (as of 2016))
-- $155.83M (155,827,510 United States dollar (as of 2017))
-- $144.42M (144,422,305 United States dollar (as of 2018))
-- $139.09M (139,090,985 United States dollar (as of 2019))
-- $140.40M (140,404,183 United States dollar (as of 2020))
-- $142.70M (142,704,104 United States dollar (as of 2024))
-- $222.05M (222,051,375 United States dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $162.15M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $170.96M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $146.70M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $33.86M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $34.72M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $36.93M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $50.63M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $42.80M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $155.83M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $144.42M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $139.09M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $140.40M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $142.70M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $222.05M | as of 2025 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $218.78M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $205.03M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $181.41M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $25.40M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.94M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.49M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $83.79M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $87.96M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $166.21M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $205.70M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $192.99M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $202.35M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $177.32M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $242.81M | as of 2025 | [100M-500M](/total_assets_buckets/100m-500m/) |

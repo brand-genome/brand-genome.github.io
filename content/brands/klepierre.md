@@ -2,7 +2,7 @@
 title: Klepierre
 slug: klepierre
 description: ""
-date: "2026-03-05T22:38:39.822368"
+date: "2026-03-13T08:56:59.898776"
 draft: false
 sectors:
   - "real-estate"
@@ -15,16 +15,32 @@ languages:
 tags:
   - financial
 industries:
-  - "real-estate-industry"
   - "activities-of-head-offices"
+  - "real-estate-industry"
 countries:
   - france
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "1B-10B"
+products_or_materials_produced:
+  - "commercial-property"
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French real estate investment trust
+wikidata_url: "https://www.wikidata.org/wiki/Q3197950"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +125,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3197950) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Commercial Property](/products_or_materials_produced/commercial-property/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Freebase Id | /m/051yplv |
 | Headquarters Location | Paris |
 | Child Organization Or Unit | Société d'étude et de gestion des centres d'équipement, Nový Smíchov First Floor, Klepierre CZ |
@@ -114,7 +139,6 @@ guideline_count: 1
 | Topic'S Main Category | Category:Klépierre |
 | Viaf Cluster Id | 152420022 |
 | Bibliothèque Nationale De France Id | 12530026m |
-| Employees | 1,350 (as of 2016-06), 1,031 (as of 2023-12-31), 1,015 (as of 2022-12-31) |
 | X (Twitter) Username | KlepierreGroup (as of 2020-04-26, from 2017-06-15) |
 | Isin | FR0000121964 |
 | Industry | real estate industry, activities of head offices |
@@ -123,7 +147,6 @@ guideline_count: 1
 | Instagram Username | klepierre |
 | Youtube Channel Id | UC7Soagoms2jhH37ZHkiN4Jw (as of 2021-05-09, from 2013-11-05) |
 | Stock Exchange | OTC Markets Group, Euronext Paris |
-| Logo Image | Klepierre logo.jpeg |
 | Motto Text | Shop. Meet. Connect |
 | Product Or Material Produced | commercial property |
 | Owned By | Simon Property Group (as of 2023-12-31), BlackRock (as of 2023-12-31), APG Algemene Pensioen Groep NV (as of 2023-12-31) |
@@ -133,24 +156,59 @@ guideline_count: 1
 | Opencorporates Id | fr/352908867 |
 | Siren Number | 352908867 |
 | Official Name | KLEPIERRE & CIE |
-| Total Assets | 20,092,800,000 euro (as of 2023-12-31), 20,551,200,000 euro (as of 2022-12-31) |
-| Total Equity | 10,459,000,000 euro (as of 2022-12-31), 10,459,000,000 euro (as of 2023-12-31) |
-| Market Capitalization | 7,080,000,000 euro (as of 2023-12-31), 6,176,000,000 euro (as of 2022-12-31), 5,981,000,000 euro (as of 2021-12-31), 5,516,000,000 euro (as of 2020-12-31), 10,245,000,000 euro (as of 2019-12-31) |
 | Wikirate Company Id | 2604796 |
 | Youtube Handle | klepierre5768 (as of 2025-10-21) |
 | Threads Username | klepierre |
 
 ### Revenue History
 
-- $1.42B (1,420,100,000 euro (as of 2023-01-01))
-- $1.43B (1,428,500,000 euro (as of 2022-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.42B | as of 2023-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.43B | as of 2022-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $427.20M (427,200,000 euro (as of 2023-01-01))
-- $542.50M (542,500,000 euro (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $427.20M | as of 2023-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $542.50M | as of 2022 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $174.30M (174,300,000 euro (as of 2023-01-01))
-- $429.80M (429,800,000 euro (as of 2022-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $174.30M | as of 2023-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $429.80M | as of 2022-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,350 | as of 2016-06 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,031 | as of 2023-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,015 | as of 2022-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $20.09B | as of 2023-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $20.55B | as of 2022-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $10.46B | as of 2022-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $10.46B | as of 2023-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $7.08B | as of 2023-12-31 | [1B-10B](/market_cap_buckets/1b-10b/) |
+| $6.18B | as of 2022-12-31 | [1B-10B](/market_cap_buckets/1b-10b/) |
+| $5.98B | as of 2021-12-31 | [1B-10B](/market_cap_buckets/1b-10b/) |
+| $5.52B | as of 2020-12-31 | [1B-10B](/market_cap_buckets/1b-10b/) |
+| $10.24B | as of 2019-12-31 | [10B-50B](/market_cap_buckets/10b-50b/) |

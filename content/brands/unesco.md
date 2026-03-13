@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-03-05T22:38:39.615347"
+date: "2026-03-13T08:56:59.562112"
 draft: false
 sectors:
-  - research
-  - ngo
-  - education
   - "public-sector"
   - "arts-culture"
+  - education
+  - ngo
+  - research
 regions:
   - international
 years:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +59,17 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: "specialised agency of the United Nations for education, sciences, and culture"
+wikidata_url: "https://www.wikidata.org/wiki/Q7809"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +103,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7809) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Flag Image | Flag of UNESCO.svg |
 | Inception | 1945-11-16 |
 | Topic'S Main Category | Category:UNESCO |
@@ -254,7 +273,6 @@ guideline_count: 1
 | Great Russian Encyclopedia Portal Id | iunesko-ffb903 |
 | Operating Area | worldwide |
 | Vikidia Article Id | fr:Organisation_des_Nations_unies_pour_l'éducation,_la_science_et_la_culture |
-| Logo Image | Logo UNESCO 2021.svg (from 2021), UNESCO logo.svg (until 2021) |
 | Chairperson | Audrey Azoulay (from 2017-11-15, until 2025-10-06), Irina Bokova (from 2009, until 2017), Kōichirō Matsuura (from 1999, until 2009), Federico Mayor Zaragoza (from 1987, until 1999), Amadou Mahtar M'Bow (from 1974, until 1987) (+7 more) |
 | Topic'S Main Wikimedia Portal |  |
 | Kisti Id | K000213031 |

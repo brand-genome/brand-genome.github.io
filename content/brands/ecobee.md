@@ -2,11 +2,11 @@
 title: Ecobee
 slug: ecobee
 description: ""
-date: "2026-03-05T22:38:39.778567"
+date: "2026-03-13T08:56:59.831522"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - canada
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - toronto
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - grey
-  - black
-  - "pantone-2256"
   - blue
   - "pantone-2190"
   - green
+  - black
+  - "pantone-2256"
 typographies:
   - gotham
   - display
 imagery_styles:
-  - modern
   - product
   - clean
+  - modern
 wikidata_description: Canadian home automation company
+wikidata_url: "https://www.wikidata.org/wiki/Q5333159"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5333159) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Toronto](/headquarters_locations/toronto/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Headquarters Location | Toronto |
 | Image | Ecobee4.jpg |
 | Member Of | Wi-Fi Alliance |

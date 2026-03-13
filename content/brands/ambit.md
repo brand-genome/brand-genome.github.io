@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-03-05T22:38:39.547873"
+date: "2026-03-13T08:56:59.473232"
 draft: false
 sectors:
   - software
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,25 +49,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
+  - wordmark
 brand_colors:
   - white
-  - orange
   - grey
   - black
+  - orange
   - "pantone-021"
 typographies:
   - montserrat
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: former Czech company
+wikidata_url: "https://www.wikidata.org/wiki/Q134894427"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +103,10 @@ guideline_count: 1
 - Contact details for inquiries: Tim Warren (Phone: +64 21 642 069, Email: tim.warren@ambitai.com).
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q134894427) |
 
 | Property | Value |
 |----------|-------|

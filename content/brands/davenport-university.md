@@ -2,7 +2,7 @@
 title: Davenport University
 slug: "davenport-university"
 description: ""
-date: "2026-03-05T22:38:39.214431"
+date: "2026-03-13T08:56:59.152486"
 draft: false
 sectors:
   - university
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "caledonia-township"
+subsidiaries: []
+foundation_dates:
+  - 1866
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in Michigan, US"
+wikidata_url: "https://www.wikidata.org/wiki/Q5230267"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5230267) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Caledonia Township](/headquarters_locations/caledonia-township/) |
+| Foundation Date | [1866](/foundation_dates/1866/) |
 | Coordinate Location | 42.8503, -85.5307 |
 | Integrated Postsecondary Education Data System Id | 169479 |
 | Country | United States |
@@ -90,9 +111,7 @@ guideline_count: 1
 | Viaf Cluster Id | 250884352 |
 | Social Media Followers | 10,024 (as of 2021-01-07), 10,220 (as of 2020-04-19), 9,839 (as of 2023-02-13) |
 | Count Of Students | 6,127 (as of 2020-09) |
-| Total Assets | 192,809,962 United States dollar (as of 2020-06-30) |
 | Endowment | 25,989,549 United States dollar (as of 2020-06-30) |
-| Employees | 1,021 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Academic Calendar Type | semester |
@@ -106,10 +125,21 @@ guideline_count: 1
 | Headquarters Location | Caledonia Township |
 | Topic'S Main Category | Category:Davenport University |
 | Image | Davenport University Livonia Michigan campus.JPG |
-| Logo Image | Davenport university logo.png |
 | Web Feed Url | https://www.davenport.edu/rss.xml |
 | World Higher Education Database Id | IAU-003587 |
 | Youtube Handle | davenportuniversity8254 (as of 2025-11-26) |
 | Number Of Viewers/Listeners | 666,234 (as of 2025-11-26) |
 | Threads Username | davenportuniversity |
 | Athletics Program | Davenport Panthers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,021 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $192.81M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

@@ -2,7 +2,7 @@
 title: Reed College
 slug: "reed-college"
 description: ""
-date: "2026-03-05T22:38:39.187685"
+date: "2026-03-13T08:56:59.120430"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,31 +51,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - secondary
-  - lockup
-  - horizontal
-  - stacked
   - logomark
+  - secondary
+  - primary
+  - lockup
+  - stacked
+  - horizontal
+  - seal
 brand_colors:
-  - blue
   - red
   - black
+  - blue
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
-  - photography
-  - graphic
-  - illustration
-  - candid
   - natural
+  - illustration
+  - photography
+  - candid
+  - graphic
 wikidata_description: "private liberal arts college in Portland, Oregon"
+wikidata_url: "https://www.wikidata.org/wiki/Q1140775"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +134,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1140775) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Named After | Simeon Gannett Reed, Amanda Reed |
 | Coordinate Location | 45.48, -122.63 |
 | Topic'S Main Category | Category:Reed College |
@@ -144,7 +163,6 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 100009937 |
 | Encyclopædia Britannica Online Id | topic/Reed-College |
 | Grid Id | grid.182981.b |
-| Logo Image | Reed College Wordmark.png |
 | Microsoft Academic Id (Discontinued) | 55486353 |
 | Street Address | 3203 SE Woodstock Blvd, Portland, OR, 97202-8199 |
 | Hal Structure Id | 428747 |
@@ -162,9 +180,7 @@ guideline_count: 1
 | Count Of Students | 1,447 (as of 2017), 1,528 (as of 2021-09-01) |
 | Official Map Url | https://www.reed.edu/map/, https://www.reed.edu/map/reed-campus-map.pdf |
 | Crunchbase Organization Id | reed-college |
-| Total Assets | 831,907,132 United States dollar (as of 2020-06-30) |
 | Endowment | 545,093,997 United States dollar (as of 2020-06-30), 721,765,698 United States dollar (as of 2022-06-30), 773,188,594 United States dollar (as of 2021-06-30) |
-| Employees | 571 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Native Label | Reed College |
@@ -182,3 +198,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/76c0fe74-d720-477e-a458-57cf519df094 |
 | Scholargps Institution Id | 96949505750089 |
 | Influencewatch Id | organization/reed-college |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 571 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $831.91M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-03-05T22:38:39.573099"
+date: "2026-03-13T08:56:59.504552"
 draft: false
 sectors:
   - automobile
@@ -21,7 +21,22 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "sport-utility-vehicle"
+  - "commercial-vehicle"
+  - car
+products: []
+headquarters_locations:
+  - minato
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,24 +55,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - red
-  - magenta
-  - black
   - yellow
   - silver
+  - black
   - gray
+  - magenta
 typographies: []
 imagery_styles:
   - dynamic
 wikidata_description: Japanese automotive manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q36033"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,8 +110,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q36033) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Minato](/headquarters_locations/minato/) |
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:Mitsubishi Motors |
-| Logo Image | Mitsubishi motors new logo.svg |
 | Stock Exchange | Tokyo Stock Exchange |
 | Inception | 1970-04-22 |
 | Headquarters Location | Minato |
@@ -136,7 +159,6 @@ guideline_count: 1
 | Niconicopedia Id | 三菱自動車工業 |
 | Short Name | MMC |
 | Babelnet Id | 01310930n |
-| Employees | 42,625 (as of 2022-11-10) |
 | Social Media Followers | 22,900 (as of 2021-07-01), 28,800 (as of 2023-02-17), 38,000 (as of 2024-01-16), 42,000 (as of 2024-06-24), 46,500 (as of 2025-05-18) |
 | Crunchbase Organization Id | mitsubishi-motors |
 | National Library Of Israel J9U Id | 987007298888405171 |
@@ -157,4 +179,12 @@ guideline_count: 1
 
 ### Net Profit History
 
-- $1.11B (1,110,000,000 (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.11B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 42,625 | as of 2022-11-10 | [10K-50K](/employees_buckets/10k-50k/) |

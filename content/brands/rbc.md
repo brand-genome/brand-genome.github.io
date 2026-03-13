@@ -2,7 +2,7 @@
 title: Rbc
 slug: rbc
 description: ""
-date: "2026-03-05T22:38:40.035419"
+date: "2026-03-13T08:57:00.058294"
 draft: false
 sectors:
   - finance
@@ -12,256 +12,433 @@ years: []
 languages: []
 tags: []
 industries:
-  - "financial-services"
-  - "economics-of-banking"
   - "financial-sector"
+  - "economics-of-banking"
+  - "financial-services"
 countries:
   - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "tour-de-la-banque-royale"
+  - "royal-bank-plaza"
+  - toronto
+  - "place-ville-marie"
+subsidiaries:
+  - "rbc-ventures-inc"
+  - "rbc-bank"
+foundation_dates:
+  - 1864
 lightings:
+  - natural
+  - "light-glare"
+  - colored
   - studio
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - "background-as-frame"
-  - wood
-  - textured
-  - blurred
-  - transparent
   - solid
-  - light
+  - transparent
+  - wood
+  - brick
+  - textured
+  - "background-as-frame"
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
-  - brick
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "sunset-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - bright
-  - dark
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - monotone
+  - grayscale
+  - dark
+  - light
+  - bright
 photography_genres:
+  - staged
+  - corporate
+  - historical
+  - product
+  - promotional
+  - abstract
   - audience
   - selfie
-  - professional
-  - landscape
-  - botanical
-  - promotional
-  - product
-  - "text-based"
-  - text
-  - lifestyle
-  - interior
-  - abstract
-  - "audience-perspective"
-  - street
-  - advertising
-  - architectural
-  - sports
-  - action
-  - "live-stage"
-  - candid
-  - group
-  - documentary
-  - event
-  - sky
-  - advertisement
-  - cityscape
-  - "text-heavy"
-  - corporate
   - family
-  - portrait
-  - staged
-  - historical
-  - "still-life"
-concepts:
-  - professional
-  - branding
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - corporate
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
-  - "corporate-logo"
-  - "incomplete-art"
+  - cityscape
   - "live-stage"
+  - sports
+  - street
+  - "text-based"
+  - professional
+  - sky
+  - group
+  - advertising
+  - advertisement
+  - documentary
+  - "text-heavy"
+  - portrait
+  - landscape
+  - interior
+  - "audience-perspective"
+  - candid
+  - text
+  - "still-life"
+  - architectural
+  - event
+  - action
+  - lifestyle
+  - botanical
+concepts:
+  - "text-heavy"
+  - corporate
+  - "incomplete-art"
+  - illustration
+  - professional
   - photorealism
+  - branding
+  - "wave-pattern"
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "live-stage"
+  - "corporate-logo"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "motion-capture"
-  - "high-saturation"
-  - "motion-blur"
-  - "long-exposure"
-  - "vanishing-point"
   - "short-exposure"
+  - "motion-capture"
+  - "vanishing-point"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
   - "light-on-subject"
+  - silhouette
+  - "motion-blur"
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "off-white"
   - "mud-green"
   - olive
-  - black
-  - "dark-blue"
-  - "light-blue"
   - "royal-blue"
+  - "dark-blue"
+  - black
+  - "light-blue"
+  - "off-white"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
+  - covered
+  - updo
+  - neat
   - "pulled-back"
   - bald
-  - neat
-  - wavy
+  - casual
+  - short
+  - varied
+  - flowing
   - loose
   - straight
   - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
   - gray
   - "tied-back"
-  - varied
-  - covered
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
-  - smiling
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
+  - smiling
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - professional
-  - costume
-  - protective
   - formal
-  - swimwear
-  - traditional
+  - beachwear
+  - athletic
   - "business-casual"
+  - casual
+  - traditional
+  - professional
+  - "form-fitting"
+  - protective
+  - swimwear
+  - business
+  - costume
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
   - dark
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - engaged
-  - leaning
-  - relaxed
   - dynamic
-  - reclined
-  - active
-  - holding
-  - standing
-  - running
   - stretching
   - confident
-gazes:
+  - active
+  - leaning
   - engaged
-  - away
+  - running
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
+  - "lower-half"
   - "hand-only"
-  - "head-shot"
   - midsection
   - "full-back"
-  - "lower-half"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: financial institution in Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q735261"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 304
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FQokFY-WYAI6_l0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQmYsGYXwAAhGs2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQlKTzXXwAQtbwx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQjMgpdWYAMJJMQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQfz2KhXwAwp7bb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQdx16OXsAoPoS2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQYdehhWUAMCB7g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQVrWgBXMAQnDr2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQOsLewXEAY5W2H?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQOl8LPWYAQpYgt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQF0meyXwAU06PP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQD72HZWUAMPgiA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQBhR2UXEAUaKx6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM3mQUSX0AUIoZ7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_RT6RwXoAcCAUY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E90X5ktWYAUOwNP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzT0EGSUcAM8xjC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzSlKTwUYAg6RB2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzSc8TXVoAEsoXM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzHY9FgWUAAMDS0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzF0inqWEAA-eih?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzDEFtzXEAMYXuV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzCNfEAWQAAudnY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzBjy9kXMAQXh2H?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzBDaWnW8AQG0eX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey8ZRc0WYActHbc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey34lIkXAAEW-3W?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey0up49WEAYk85u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eyxju-8XIAQ54DQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eyu6Y8OXEAE4P3F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyYcjDdWQAEzKT4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ExvRPEXXAAEpGTx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbFOL6dXsAA6XxX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbFACAjWAAU8Jus?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbE5S8bX0AMeSpi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbENkxOXQAAGT4d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbCXk6KXkAQV29V?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ea3yg_RWkAAKBOR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EayneCkXQAAtuyK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EayXCeaXYAE9N1T?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EawIiXhXQAEPWYp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaodmFSXQAA36fn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eam0A97WAAAxLx4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EalWwpkWoAMZI0W?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eaki5CfWAAMaDdQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EajRl5TXkAEp-V6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eaeu2EOWoAAX0oz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaGeFsLXsAIWmXt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWAWModXYAEjdjU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVg1kILWsAEYqhI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVcbQOwXsAAHmzG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EN36qhpX0AACUfc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENXJjn_X0AI0I_R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJRrpbtX0AEa6S7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAp-o9bWsAAsMpL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D41lWX9XoAAbMzW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4teSViWwAI6THA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4l-NC4W4AAuYAc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4c8AuYWAAABHIv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4b9XMYW0AUV-GO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4Y2IM2X4AAfdg8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4SAa6SW4AEJESy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4ROJ7bW4AAKL_J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4PXkaWUUAAQ28A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4OXl7XW4AAd9iW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4LzLkDWsAAOadX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4IkIU-WwAEih6i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3BEI6PX0AA3ry5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D19X7mVW0AAW9-G?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjT5zowX0AAvfkT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dhv_BMnVQAEWDP8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DeoCryOW0AE2LMm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DeURr6nXUAAXScF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da3YwqtUwAAplzf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da2uLrhW0AEFbHV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da2ZZYnVQAALYuk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da1HxIrWsAIVQP-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da0drk4XcAAWsL2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DawDDcTV4AEpbqp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DasMpCRX0AAZgUG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaqMP3GW0AAjcoC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DamSANQX0AIMFbG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DahjZMCVAAAdQfU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaWf3i2V4AUdXGt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaWPE2WXUAAo5m1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaTI4k9W4AAKTrm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXsNpLCW4AEb-nk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWUqgdEXkAAY_zE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVTAMVzW4AElbbY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYiuBdyXwAgMtHC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FMoLhmEXEAkRiDj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBq-x-EWUAEUSoh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8JJN11WYAolC7N?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E29qQH6UcAUwpW7?format=png&name=large"
+  - "https://pbs.twimg.com/media/E2v3ccLXwAI6qxM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzbPsRMX0AQlis8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey4snG4XMAEn5Tz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnNwYwfXcAoXjBc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmeHtLXWMAANnEs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eh_IAgqWoAAs0u6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhWQ8CJWoAASwCw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EcfUz_WWoAAXNHu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EcRqGlWXkAANFIo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbFL965XYAE3FvS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZxX3dgWsAMX16-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZgc7LTWAAoa6WJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWYZ-i3XsAIzO5C?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWJwsV5XkAs1CIF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWC7OzjXYAAK2tX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETq2ygHXQAADsPu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETk0btbWAAIeJ2g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETf5uEpXsAA2JEu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETZyVS2XQAAlWiG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJGpICZW4AEW6P-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EINmqmCXUAADShJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF5maRuXoAA9bFa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEQu-xeXYAMPPTP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9bfISkWwAAIc7Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9XMePUWkAYy9Rw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D897l5FW4AA9PwU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8qJZFeXkAEczrQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8iklp-XUAEyZlg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4S4SOUX4AEUim0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3j-i04XkAA-Bd3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3PmXXlXkAAW-B0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2LnIWPXQAA0lo2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2Bfsq9WkAE_J94?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwamaDcUUAAJvPX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DssaKU4W0AA4NeE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dno0I9QVsAAEsKl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnJWmHKW0AAzaN9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmrgNA4XgAA0qGV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dljy_JXX4AIw3Fe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjUR3J4XcAEvRMj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjC3_tAXoAI2dyM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Di_BO9ZWsAUp0Pn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DizrG7PXkAAuj6d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhMiT3hU8AAA4ue?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhBDlG0WsAEu_on?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgfJIbVW0AIL515?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfXlnYOWsAEyHt2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/De2Ap21X4AEixX2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdsEnNJUQAEmNFo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdExHEIWkAAu2bR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dbq_17TVQAAQ4TY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbpGAKdU0AAjIbw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da06_3nXUAA7hyK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaXL34eWsAAipoZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaWuVH3VwAEdEv3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY6uVQBW0AINdsF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYwzchcWkAA33aw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYfR7MqV4AEbeob?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXtVUGcVoAANT0D?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXPuPcYU0AA6EI6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DViqsnwXkAA4FPT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUoTV9LXkAAJVeE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTrVxPEUMAAY0wM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTHyGW-UMAApiqW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DS08gnlWsAAw5fB?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 304 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Light Blue | 26.4% | 22.4% | 14.2% | 35.9% | 50.5% | ±16.4% | 44.1% |
-| Royal Blue | 25.4% | 15.0% | 10.4% | 24.2% | 58.2% | ±23.8% | 22.7% |
-| Black | 22.6% | 15.8% | 11.1% | 30.1% | 44.4% | ±17.4% | 56.2% |
-| White | 22.6% | 14.6% | 8.7% | 34.0% | 43.0% | ±20.3% | 25.3% |
-| Mud Green | 21.3% | 18.4% | 12.9% | 26.2% | 37.8% | ±12.1% | 45.7% |
-| Dark Blue | 21.0% | 13.7% | 9.0% | 22.2% | 51.9% | ±19.4% | 34.5% |
-| Off White | 20.5% | 15.5% | 9.4% | 35.1% | 42.4% | ±13.7% | 13.5% |
-| Olive | 19.5% | 14.4% | 10.9% | 23.3% | 32.3% | ±14.3% | 34.5% |
+| Color | Mean |
+|-------|------|
+| Light Blue | 26.4% |
+| Royal Blue | 25.4% |
+| Black | 22.6% |
+| White | 22.6% |
+| Mud Green | 21.3% |
+| Dark Blue | 21.0% |
+| Off White | 20.5% |
+| Olive | 19.5% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 4.3% | 0.0% | 0.0% | 0.0% | ±11.1% |
-| Neutral | 57.9% | 60.5% | 36.5% | 82.8% | ±29.7% |
-| Cool | 37.8% | 34.2% | 13.0% | 61.0% | ±29.7% |
+| Tone | Mean |
+|------|------|
+| Warm | 4.3% |
+| Neutral | 57.9% |
+| Cool | 37.8% |
 
 ### Sample Images
 
@@ -371,6 +548,13 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q735261) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tour De La Banque Royale](/headquarters_locations/tour-de-la-banque-royale/); [Royal Bank Plaza](/headquarters_locations/royal-bank-plaza/); [Toronto](/headquarters_locations/toronto/); [Place Ville Marie](/headquarters_locations/place-ville-marie/) |
+| Subsidiary | [Rbc Ventures Inc](/subsidiaries/rbc-ventures-inc/); [Rbc Bank](/subsidiaries/rbc-bank/) |
+| Foundation Date | [1864](/foundation_dates/1864/) |
 | Country | Canada |
 | Headquarters Location | Royal Bank Plaza, Place Ville Marie, Tour de la Banque Royale, Toronto |
 | Industry | financial services, economics of banking, financial sector |
@@ -378,7 +562,6 @@ guideline_count: 0
 | Chief Executive Officer | Gordon Nixon |
 | Stock Exchange | Toronto Stock Exchange, New York Stock Exchange (from 1995-10-16), Swiss Stock Exchange, Tokyo Stock Exchange (until 1993-00-00) |
 | Subsidiary | RBC Bank, RBC Ventures Inc. |
-| Logo Image | RBC logo.jpg |
 | Image | L'Édifice de la Banque Royale.jpg |
 | Operating Area | Canada |
 | Chairperson | Herbert Samuel Holt (from 1934-00-00, until 1941-00-00), Herbert Samuel Holt (from 1908-00-00, until 1934-00-00) |

@@ -6,7 +6,7 @@
         <nav class="breadcrumb">
             <a href="{{ "/" | relURL }}">Home</a> →
             <a href="{{ .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a> →
-            {{ if eq .Data.Plural "years" }}
+            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") }}
             <span>{{ .Title }}</span>
             {{ else }}
             <span>{{ .Title | humanize }}</span>
@@ -14,7 +14,7 @@
         </nav>
         <h1>
             <span class="term-type">{{ .Data.Singular | title }}:</span>
-            {{ if eq .Data.Plural "years" }}
+            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") }}
             {{ .Title }}
             {{ else }}
             {{ .Title | humanize }}
@@ -22,6 +22,35 @@
         </h1>
         <p class="term-count">{{ len .Pages }} brands with this {{ .Data.Singular | lower }}</p>
     </header>
+
+    {{ if or (eq .Data.Plural "lightings") (eq .Data.Plural "perspectives") (eq .Data.Plural "photography_genres") (eq .Data.Plural "concepts") (eq .Data.Plural "image_backgrounds") (eq .Data.Plural "color_schemes") (eq .Data.Plural "depths") (eq .Data.Plural "image_effects") (eq .Data.Plural "hair_styles") (eq .Data.Plural "facial_expressions") (eq .Data.Plural "clothing_styles") (eq .Data.Plural "clothing_colors") (eq .Data.Plural "posings") (eq .Data.Plural "gazes") (eq .Data.Plural "body_sections") }}
+    <section class="visual-definition-panel">
+        <div class="visual-definition-left">
+            <h2>Definition: {{ .Data.Singular | humanize }} — {{ .Title | humanize }}</h2>
+            {{ if eq .Data.Plural "lightings" }}
+            <p><strong>{{ .Title | humanize }}</strong> lighting captures how illumination is used in brand images to shape contrast, clarity, and emotional tone.</p>
+            <p>It helps compare whether a brand's visuals are bright, moody, natural, cinematic, or studio-oriented.</p>
+            {{ else }}
+            <p><strong>{{ .Title | humanize }}</strong> is a specific value of the {{ .Data.Singular | humanize }} visual attribute used to characterize brand imagery.</p>
+            <p>This value enables one-degree comparisons across brands sharing similar visual DNA patterns.</p>
+            {{ end }}
+        </div>
+        <div class="visual-definition-right">
+            <h3>Brand Collage</h3>
+            <div class="mini-brand-collage">
+                {{ range first 12 .Pages.ByTitle }}
+                <a href="{{ .Permalink }}" class="mini-thumb-link" title="{{ .Title }}">
+                    {{ if and .Params.sample_image_urls (gt (len .Params.sample_image_urls) 0) }}
+                    <img src="{{ index .Params.sample_image_urls 0 }}" alt="{{ .Title }} sample image" class="mini-thumb-img" loading="lazy" />
+                    {{ else }}
+                    <span class="mini-thumb-fallback">{{ .Title }}</span>
+                    {{ end }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
 
     <div class="term-connections">
         <h2>🔗 Connected Brands</h2>

@@ -2,7 +2,7 @@
 title: Riverland Community College
 slug: "riverland-community-college"
 description: ""
-date: "2026-03-05T22:38:39.373272"
+date: "2026-03-13T08:56:59.332007"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1940
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,16 +50,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - logomark
   - horizontal
+  - logomark
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "community college in Minnesota, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q7338244"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +113,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7338244) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1940](/foundation_dates/1940/) |
 | Country | United States |
 | Integrated Postsecondary Education Data System Id | 173063 |
 | Postal Code | 55912-1473 |
@@ -116,6 +134,11 @@ guideline_count: 1
 | Coordinate Location | 43.67638888888889, -92.99583333333334 |
 | Crunchbase Organization Id | riverland-community-college |
 | Count Of Students | 3,494 (as of 2020-09) |
-| Employees | 247 (as of 2020-09) |
 | Academic Calendar Type | semester |
 | Member Of | American Council on Education, Open Education Network, American Association of Community Colleges |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 247 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

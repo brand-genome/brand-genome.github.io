@@ -2,11 +2,11 @@
 title: Wellcome
 slug: wellcome
 description: ""
-date: "2026-03-05T22:38:39.788112"
+date: "2026-03-13T08:56:59.838426"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1936
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,14 +56,16 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - photography
+  - dynamic
   - graphic
 wikidata_description: "healthcare research charity based in London, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q326276"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +107,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q326276) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1936](/foundation_dates/1936/) |
 | Topic'S Main Category | Category:Wellcome Trust |
 | Freebase Id | /m/039fvb |
 | Inception | 1936 |
@@ -127,11 +147,9 @@ guideline_count: 1
 | Api Endpoint Url | https://idp.wellcome.ac.uk/idp/shibboleth |
 | Social Media Followers | 188,215 (as of 2021-01-01), 173,142 (as of 2020-04-24), 215,955 (as of 2022-02-21), 221,092 (as of 2023-02-04), 304,000 (as of 2025-09-17) |
 | Legal Entity Identifier | 549300YQJTZ9YPHW5V73 |
-| Logo Image | Wellcome Trust logo.svg (as of 2012) |
 | National Library Of Israel J9U Id | 987007269748405171 |
 | Openalex Id | I87048295 |
 | Donations | 19,813,404 pound sterling (as of 2018), 21,887,180 pound sterling (as of 2017), 17,840,584 pound sterling (as of 2016), 20,948,036 pound sterling (as of 2019), 18,522,483 pound sterling (as of 2020) |
-| Employees | 1,797 (as of 2018), 1,784 (as of 2017), 1,832 (as of 2016), 1,857 (as of 2019), 1,969 (as of 2020) (+1 more) |
 | Language Used | English |
 | Lobby Register Of The German Bundestag Id | R003283 |
 | Nla Trove People Id | 843835 |
@@ -167,12 +185,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $484.77M (484,774,023 pound sterling (as of 2018))
-- $425.29M (425,285,020 pound sterling (as of 2017))
-- $390.30M (390,300,298 pound sterling (as of 2016))
-- $481.01M (481,005,644 pound sterling (as of 2019))
-- $463.59M (463,593,136 pound sterling (as of 2020))
-- $410.26M (410,257,213 pound sterling (as of 2021))
-- $502.29M (502,291,234 pound sterling (as of 2022))
-- $541.83M (541,832,807 pound sterling (as of 2023))
-- $569.50M (569,497,051 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $484.77M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $425.29M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $390.30M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $481.01M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $463.59M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $410.26M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $502.29M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $541.83M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $569.50M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,797 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,784 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,832 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,857 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,969 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,377 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |

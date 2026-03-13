@@ -2,7 +2,7 @@
 title: Tides
 slug: tides
 description: ""
-date: "2026-03-05T22:38:39.648346"
+date: "2026-03-13T08:56:59.576739"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,32 +55,34 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-583"
   - "pantone-2200"
-  - "pantone-7706"
-  - black
-  - cyan
   - "pantone-603"
   - "pantone-368"
-  - "pantone-583"
-  - "pantone-342"
-  - gray
   - "pantone-7723"
+  - cyan
+  - black
+  - gray
+  - "pantone-7706"
+  - "pantone-342"
 typographies:
-  - avenir
   - lato
+  - avenir
   - georgia
   - arial
 imagery_styles:
-  - bold
   - photography
-  - artificial
-  - gradient
   - candid
+  - gradient
+  - artificial
+  - bold
 wikidata_description: public charity and fiscal sponsor working to advance progressive policy
+wikidata_url: "https://www.wikidata.org/wiki/Q7800861"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -130,6 +144,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7800861) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Country | United States |
 | Founded By | Drummond Pike |
 | Inception | 1976-06-04 |
@@ -157,23 +177,43 @@ guideline_count: 1
 | Influencewatch Id | non-profit/tides-foundation |
 | Legal Form |  |
 | Donations | 573,714,006 United States dollar (as of 2022), 820,781,802 United States dollar (as of 2021), 329,874,862 United States dollar (as of 2023), 90,793,184 United States dollar (as of 2011), 88,466,974 United States dollar (as of 2012) (+9 more) |
-| Total Assets | 978,547,541 United States dollar (as of 2022), 1,232,210,451 United States dollar (as of 2021), 646,096,687 United States dollar (as of 2023), 156,657,142 United States dollar (as of 2011), 141,039,613 United States dollar (as of 2012) (+9 more) |
 | Funder | Open Society Foundations (as of 2023), Open Society Foundations (as of 2023), Open Society Foundations (as of 2023), Open Society Foundations (as of 2023), Open Society Foundations (as of 2022) (+39 more) |
 | ‎Yale Lux Id | group/f3140a92-2d96-4ebd-ba38-a2fb9bc7f907 |
 
 ### Revenue History
 
-- $580.70M (580,695,428 United States dollar (as of 2022))
-- $863.48M (863,481,509 United States dollar (as of 2021))
-- $350.13M (350,128,498 United States dollar (as of 2023))
-- $96.47M (96,474,947 United States dollar (as of 2011))
-- $94.48M (94,482,222 United States dollar (as of 2012))
-- $114.03M (114,031,827 United States dollar (as of 2013))
-- $155.95M (155,948,337 United States dollar (as of 2014))
-- $157.93M (157,925,559 United States dollar (as of 2015))
-- $285.61M (285,614,910 United States dollar (as of 2016))
-- $298.42M (298,417,689 United States dollar (as of 2017))
-- $419.31M (419,305,631 United States dollar (as of 2018))
-- $511.08M (511,078,682 United States dollar (as of 2019))
-- $1.07B (1,066,458,024 United States dollar (as of 2020))
-- $367.99M (367,989,822 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $580.70M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $863.48M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $350.13M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $96.47M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $94.48M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $114.03M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $155.95M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $157.93M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $285.61M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $298.42M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $419.31M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $511.08M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.07B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $367.99M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $978.55M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.23B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $646.10M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $156.66M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $141.04M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $150.55M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $173.41M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $187.04M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $257.76M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $313.46M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $400.79M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $531.36M | as of 2019 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.01B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $534.45M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

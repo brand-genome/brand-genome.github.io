@@ -2,7 +2,7 @@
 title: Three
 slug: three
 description: ""
-date: "2026-03-05T22:38:39.123234"
+date: "2026-03-13T08:56:59.075545"
 draft: false
 sectors:
   - telecom
@@ -14,17 +14,31 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
-  - "hong-kong"
   - luxembourg
+  - "hong-kong"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "mobile-telephony"
+  - "landline-telephone"
+products: []
+headquarters_locations:
+  - luxembourg
+  - "hong-kong"
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: global telecommunications brand
+wikidata_url: "https://www.wikidata.org/wiki/Q407009"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -72,6 +88,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q407009) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Landline Telephone](/products_or_materials_produced/landline-telephone/) |
+| Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/); [Hong Kong](/headquarters_locations/hong-kong/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Freebase Id | /m/02kdls |
 | Headquarters Location | Hong Kong, Luxembourg |
 | Inception | 2003-03-03 |
@@ -84,13 +107,12 @@ guideline_count: 2
 | Osm Name Suggestion Index Id | three-063284, three-94b138 |
 | Legal Form | subsidiary company |
 | Founded By | Hutchison Whampoa |
-| Email Address | mailto:info@three.com |
+| Email Address | info@three.com |
 | Image | 3Store.jpg |
 | Operating Area | Hong Kong, United Kingdom, Austria, Indonesia, Ireland (+5 more) |
 | Chief Executive Officer | Canning Fok |
 | Crunchbase Organization Id | h3g |
 | Eu Vat Number | LU18782939 |
-| Logo Image | Three logo.svg |
 | Topic'S Main Category | Category:3 (company) |
 | Quora Topic Id | Hutchison-3G |
 | Linkedin Company Or Organization Id | hutchison-3g |

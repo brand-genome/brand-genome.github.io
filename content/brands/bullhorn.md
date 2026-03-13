@@ -2,7 +2,7 @@
 title: Bullhorn
 slug: bullhorn
 description: ""
-date: "2026-03-05T22:38:39.709168"
+date: "2026-03-13T08:56:59.724663"
 draft: false
 sectors:
   - software
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +52,20 @@ body_sections: []
 logo_elements:
   - stacked
 brand_colors:
-  - blue
   - orange
+  - blue
 typographies:
   - gotham
 imagery_styles:
   - vibrant
   - graphic
 wikidata_description: American cloud computing company
+wikidata_url: "https://www.wikidata.org/wiki/Q22073784"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -625,6 +638,12 @@ users have complete visibility.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22073784) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Inception | 1999 |
 | Headquarters Location | Boston |
 | Country | United States |

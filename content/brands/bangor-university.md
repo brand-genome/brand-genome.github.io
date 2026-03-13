@@ -2,7 +2,7 @@
 title: Bangor University
 slug: "bangor-university"
 description: ""
-date: "2026-03-05T22:38:39.493021"
+date: "2026-03-13T08:56:59.422241"
 draft: false
 sectors:
   - university
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1884
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,29 +54,31 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-124"
-  - "pantone-1805"
-  - white
-  - black
-  - "pantone-152"
   - "pantone-105"
+  - white
+  - "pantone-152"
+  - "pantone-1805"
+  - "pantone-124"
+  - black
 typographies:
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - landscape
-  - vibrant
-  - graphic
-  - contemporary
-  - modern
   - natural
+  - contemporary
   - portrait
+  - landscape
+  - modern
+  - vibrant
+  - photography
+  - graphic
+  - bold
 wikidata_description: Welsh institute of higher education
+wikidata_url: "https://www.wikidata.org/wiki/Q790029"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q790029) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1884](/foundation_dates/1884/) |
 | Topic'S Main Category | Category:Bangor University |
 | Coordinate Location | 53.2289, -4.1301 |
 | Freebase Id | /m/023h81 |
@@ -148,7 +166,7 @@ guideline_count: 1
 | Count Of Students | 11,270 (as of 2018) |
 | Musicbrainz Place Id | 0eb3fcb0-2927-4e13-96f4-610e91c76b95 |
 | Uses | Blackboard Learn |
-| Email Address | mailto:info-compliance@bangor.ac.uk |
+| Email Address | info-compliance@bangor.ac.uk |
 | Complies With | privacy policy |
 | Microsoft Academic Id (Discontinued) | 161548249 |
 | Library Of Congress Authority Id | no00040296 |
@@ -167,7 +185,6 @@ guideline_count: 1
 | Openalex Id | I161548249 |
 | Charity Commission No. | 1141565 (from 2011-04-21) |
 | Donations | 10,594,000 pound sterling (as of 2016), 6,970,000 pound sterling (as of 2018), 6,806,000 pound sterling (as of 2017), 9,591,000 pound sterling (as of 2020), 440,000 pound sterling (as of 2019) (+4 more) |
-| Employees | 1,812 (as of 2016), 1,685 (as of 2018), 1,644 (as of 2020), 1,667 (as of 2019), 1,656 (as of 2024) |
 | Number Of Volunteers | 535 (as of 2018), 209 (as of 2020), 199 (as of 2019), 114 (as of 2017), 100 (as of 2016) |
 | Owner Of | Bangor University Art Collection |
 | Child Organization Or Unit | Bangor University Art Collection |
@@ -191,12 +208,24 @@ guideline_count: 1
 
 ### Revenue History
 
-- $143.44M (143,442,000 pound sterling (as of 2016))
-- $164.88M (164,877,000 pound sterling (as of 2018))
-- $143.38M (143,380,000 pound sterling (as of 2017))
-- $147.70M (147,696,000 pound sterling (as of 2020))
-- $146.38M (146,380,000 pound sterling (as of 2019))
-- $153.37M (153,368,000 pound sterling (as of 2021))
-- $163.25M (163,249,000 pound sterling (as of 2022))
-- $177.70M (177,704,000 pound sterling (as of 2023))
-- $170.12M (170,118,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $143.44M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $164.88M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $143.38M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $147.70M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $146.38M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $153.37M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $163.25M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $177.70M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $170.12M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,812 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,685 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,644 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,667 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,656 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |

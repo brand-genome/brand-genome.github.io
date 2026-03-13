@@ -2,7 +2,7 @@
 title: Nanyang Academy of Fine Arts
 slug: "nanyang-academy-of-fine-arts"
 description: ""
-date: "2026-03-05T22:38:39.216633"
+date: "2026-03-13T08:56:59.154671"
 draft: false
 sectors:
   - education
@@ -19,9 +19,21 @@ industries: []
 countries:
   - singapore
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1938
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: art school in Singapore
+wikidata_url: "https://www.wikidata.org/wiki/Q6964460"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6964460) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1938](/foundation_dates/1938/) |
 | Coordinate Location | 1.30023, 103.852 |
 | Country | Singapore |
 | Topic'S Main Category | Category:Nanyang Academy of Fine Arts |
@@ -92,12 +111,28 @@ guideline_count: 1
 | Youtube Handle | nafasg (as of 2025-10-20) |
 | Singapore Unique Entity Number | 201006523M |
 | Donations | 1,587,227 Singapore dollar (as of 2023), 3,264,310 Singapore dollar (as of 2024), 1,457,093 Singapore dollar (as of 2025) |
-| Total Assets | 161,767,827 Singapore dollar (as of 2023), 161,489,575 Singapore dollar (as of 2024), 161,901,272 Singapore dollar (as of 2025) |
-| Employees | 651 (as of 2023), 816 (as of 2024), 881 (as of 2025) |
 | Number Of Viewers/Listeners | 1,165,656 (as of 2025-11-26) |
 
 ### Revenue History
 
-- $71.76M (71,760,612 Singapore dollar (as of 2023))
-- $75.59M (75,587,679 Singapore dollar (as of 2024))
-- $78.99M (78,988,031 Singapore dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $71.76M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $75.59M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.99M | as of 2025 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 651 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |
+| 816 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |
+| 881 | as of 2025 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $161.77M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $161.49M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $161.90M | as of 2025 | [100M-500M](/total_assets_buckets/100m-500m/) |

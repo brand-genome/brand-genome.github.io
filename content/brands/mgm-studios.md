@@ -2,7 +2,7 @@
 title: MGM Studios
 slug: "mgm-studios"
 description: ""
-date: "2026-03-05T22:38:39.113964"
+date: "2026-03-13T08:56:59.059470"
 draft: false
 sectors:
   - entertainment
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - entertainment
   - art
+  - entertainment
 industries:
   - "film-production"
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates:
+  - 1924
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American film and television and distribution company
+wikidata_url: "https://www.wikidata.org/wiki/Q179200"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +81,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q179200) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
+| Foundation Date | [1924](/foundation_dates/1924/) |
 | Founded By | Marcus Loew, Louis B. Mayer |
 | Topic'S Main Category | Category:Metro-Goldwyn-Mayer |
 | Freebase Id | /m/0g1rw |
@@ -111,7 +130,6 @@ guideline_count: 2
 | Filmography | Metro-Goldwyn-Mayer filmography |
 | Social Media Followers | 2,185,359 (as of 2021-01-06), 2,007,762 (as of 2018-05-10), 400,000 (as of 2021-11-17), 2,162,905 (as of 2022-02-26), 446,000 (as of 2022-03-18) (+7 more) |
 | Lex Id | Metro-Goldwyn-Mayer, MGM |
-| Logo Image | Metro-Goldwyn-Mayer logo.svg |
 | Fandom Article Id | logos:Metro-Goldwyn-Mayer, jamesbond:Metro-Goldwyn-Mayer |
 | Alexander Turnbull Library Id | 123117 |
 | Fotoch Photographer Id | 38858 |

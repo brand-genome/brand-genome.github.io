@@ -2,11 +2,11 @@
 title: AES
 slug: aes
 description: ""
-date: "2026-03-05T22:38:39.356203"
+date: "2026-03-13T08:56:59.307964"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - electricity
+products: []
+headquarters_locations:
+  - "arlington-county"
+subsidiaries: []
+foundation_dates:
+  - 1981
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +53,26 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - violet
   - white
   - blue
-  - violet
 typographies:
   - roboto
   - script
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
   - dynamic
-  - gradient
   - clean
+  - vibrant
+  - photography
+  - gradient
+  - bold
 wikidata_description: American utility and power company
+wikidata_url: "https://www.wikidata.org/wiki/Q291508"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +135,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q291508) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electricity](/products_or_materials_produced/electricity/) |
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/) |
+| Foundation Date | [1981](/foundation_dates/1981/) |
 | Stock Exchange | New York Stock Exchange (from 1996-10-16) |
 | Freebase Id | /m/03br8l4 |
 | Country | United States |
@@ -156,7 +177,6 @@ guideline_count: 1
 | Facebook Username | TheAESCorporation |
 | Legal Form | Delaware corporation |
 | Global Energy Monitor Wiki Id | AES |
-| Logo Image | AES Corporation logo.svg |
 | Uk Parliament Thesaurus Id | 429133 |
 | Wikirate Company Id | 1600975 |
 | Eia Utility Id | 61012 |

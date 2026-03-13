@@ -2,7 +2,7 @@
 title: Open Search
 slug: "open-search"
 description: ""
-date: "2026-03-05T22:38:39.423719"
+date: "2026-03-13T08:56:59.385171"
 draft: false
 sectors:
   - software
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - starnberg
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,21 +52,23 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - blue
   - purple
+  - blue
   - black
 typographies:
   - "open-sans"
   - serif
 imagery_styles:
-  - bold
   - geometric
+  - bold
   - monochrome
 wikidata_description: nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q118977905"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +109,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q118977905) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Starnberg](/headquarters_locations/starnberg/) |
 | Headquarters Location | Starnberg |
 | Mastodon Address | osf@suma-ev.social (from 2023-06-05) |
 | X (Twitter) Username | openwebsearch |

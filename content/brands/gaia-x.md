@@ -2,7 +2,7 @@
 title: "Gaia-X"
 slug: "gaia-x"
 description: ""
-date: "2026-03-05T22:38:39.299966"
+date: "2026-03-13T08:56:59.241177"
 draft: false
 sectors:
   - software
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,17 +51,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
-  - turquoise
   - purple
+  - turquoise
+  - blue
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: European initiative aiming to create the de facto standard to enable federated and trusted data and infrastructure ecosystems
+wikidata_url: "https://www.wikidata.org/wiki/Q74431584"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,6 +100,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q74431584) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/) |
 | Google Knowledge Graph Id | /g/11h8bs0d_v |
 | Legal Form | international non-profit association |
 | X (Twitter) Username | gaiax_aisbl (from 2021-03) |

@@ -2,7 +2,7 @@
 title: Gefco
 slug: gefco
 description: ""
-date: "2026-03-05T22:38:39.320790"
+date: "2026-03-13T08:56:59.270380"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,13 +15,25 @@ languages:
 tags:
   - transport
 industries:
-  - "chartering-and-transport-organization"
   - logistics
+  - "chartering-and-transport-organization"
 countries:
   - france
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - courbevoie
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: logistics company
+wikidata_url: "https://www.wikidata.org/wiki/Q3093177"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +75,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3093177) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Courbevoie](/headquarters_locations/courbevoie/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Headquarters Location | Courbevoie |
 | Inception | 1949-01-01 |
 | Location Of Formation | France |
@@ -72,13 +92,17 @@ guideline_count: 1
 | Country | France |
 | Eu Vat Number | FR83542050315 |
 | Viaf Cluster Id | 134629989 |
-| Logo Image | Logo GEFCO en 2018.svg |
 | Google Knowledge Graph Id | /g/12nvp520r |
 | Owned By | CMA CGM (from 2022) |
 | Child Organization Or Unit | Chronotruck, GEFCO Forwarding CZ |
-| Employees | 11,500 (as of 2020) |
 | Legal Form | SA à directoire (s.a.i.) |
 | Opencorporates Id | fr/542050315 |
 | Vehicle Keeper Marking (Vkm) | GEFCO |
 | Siren Number | 542050315 |
 | Official Name | GEFCO SA |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 11,500 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |

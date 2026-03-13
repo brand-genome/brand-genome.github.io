@@ -2,7 +2,7 @@
 title: Gibson
 slug: gibson
 description: ""
-date: "2026-03-05T22:38:39.729785"
+date: "2026-03-13T08:56:59.749933"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,21 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "bass-guitar"
+  - guitar
+  - "electric-guitar"
+products: []
+headquarters_locations:
+  - tennessee
+  - nashville
+subsidiaries: []
+foundation_dates:
+  - 1902
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +60,12 @@ typographies:
 imagery_styles:
   - graphic
 wikidata_description: American guitar manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q210278"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -79,6 +96,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q210278) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [Guitar](/products_or_materials_produced/guitar/); [Electric Guitar](/products_or_materials_produced/electric-guitar/) |
+| Headquarters Location | [Tennessee](/headquarters_locations/tennessee/); [Nashville](/headquarters_locations/nashville/) |
+| Foundation Date | [1902](/foundation_dates/1902/) |
 | Founded By | Orville Gibson |
 | Topic'S Main Category | Category:Gibson Brands |
 | Freebase Id | /m/01chbr |
@@ -87,7 +111,6 @@ guideline_count: 1
 | Inception | 1902-01-01 |
 | Commons Gallery | Gibson |
 | Location Of Formation | Kalamazoo |
-| Logo Image | Gibson Guitar logo.svg |
 | Viaf Cluster Id | 131751788 |
 | Idref Id | 027785475 |
 | Gnd Id | 4475624-0 |

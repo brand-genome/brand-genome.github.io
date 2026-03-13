@@ -2,7 +2,7 @@
 title: Massachusetts Bay Transportation Authority
 slug: "massachusetts-bay-transportation-authority"
 description: ""
-date: "2026-03-05T22:38:39.267182"
+date: "2026-03-13T08:56:59.209463"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 1964
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: public transit operator in the Boston metropolitan area
+wikidata_url: "https://www.wikidata.org/wiki/Q171985"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,13 +81,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q171985) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [1964](/foundation_dates/1964/) |
 | Topic'S Main Category | Category:Massachusetts Bay Transportation Authority |
 | Freebase Id | /m/04_r1 |
 | Viaf Cluster Id | 132495559 |
 | Country | United States |
 | Legal Entity Identifier | 549300D2U0XBUXGX8P68 |
 | Quora Topic Id | Massachusetts-Bay-Transportation-Authority |
-| Logo Image | MBTA.svg |
 | Inception | 1964-01-01 |
 | Babelnet Id | 01257643n |
 | Permid | 4297750229 |

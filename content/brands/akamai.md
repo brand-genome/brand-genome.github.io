@@ -2,12 +2,12 @@
 title: Akamai
 slug: akamai
 description: ""
-date: "2026-03-05T22:38:39.085899"
+date: "2026-03-13T08:56:59.041743"
 draft: false
 sectors:
-  - software
-  - networking
   - cybersecurity
+  - networking
+  - software
 regions:
   - usa
 years:
@@ -18,16 +18,32 @@ tags:
   - technology
   - software
 industries:
-  - "web-hosting-service"
   - "internet-industry"
+  - "web-hosting-service"
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets:
-  - "500m-1b"
+  - "500M-1B"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cambridge
+  - massachusetts
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +68,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: "American content delivery network, cybersecurity, and cloud service company"
+wikidata_url: "https://www.wikidata.org/wiki/Q415598"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,6 +91,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q415598) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/); [Massachusetts](/headquarters_locations/massachusetts/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Founded By | F. Thomson Leighton, Daniel Lewin, Randall Kaplan |
 | Stock Exchange | Nasdaq (from 1999-10-29) |
 | Freebase Id | /m/02fqbt |
@@ -82,12 +106,10 @@ guideline_count: 1
 | Inception | 1998-01-01 |
 | Child Organization Or Unit | Prolexic Technologies |
 | Country | United States |
-| Logo Image | Akamai logo.svg |
 | Legal Form | public company, Delaware corporation |
 | Owned By | Capital Group Companies, The Vanguard Group |
 | Legal Entity Identifier | OC1LZNN2LF5WTJ5RIL89 |
 | Industry | Internet industry, web hosting service |
-| Employees | 2,654 (as of 2012), 8,368 (as of 2020) |
 | Facebook Username | 6918186981 |
 | X (Twitter) Username | Akamai (as of 2020-04-24, from 2009-01-27) |
 | Ipv6 Routing Prefix | 2001:668:1f:23::/64, 2001:668:1f:24::/63, 2001:668:1f:26::/64, 2001:668:1f:46::/64 |
@@ -110,9 +132,6 @@ guideline_count: 1
 | Central Index Key | 0001086222 |
 | Social Media Followers | 112,790 (as of 2021-01-04), 112,007 (as of 2020-04-24), 117,897 (as of 2022-03-01), 124,352 (as of 2023-02-12) |
 | Crunchbase Organization Id | akamai-technologies |
-| Total Assets | 7,764,130,000 United States dollar (as of 2020) |
-| Total Equity | 4,251,296,000 United States dollar (as of 2020) |
-| Market Capitalization | 18,640,000,000 United States dollar (as of 2021-08-23) |
 | Isni | 0000000463624072 |
 | Glassdoor Company Id | 9219 |
 | Comparably Company Id | akamai |
@@ -132,14 +151,45 @@ guideline_count: 1
 
 ### Revenue History
 
-- $859.77M (859,770,000 United States dollar (as of 2009))
-- $3.20B (3,198,149,000 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $859.77M | as of 2009 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $3.20B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $658.53M (658,534,000 United States dollar (as of 2020))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $658.53M | as of 2020 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $145.91M (145,910,000 United States dollar (as of 2009))
-- $557.05M (557,054,000 United States dollar (as of 2020))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $145.91M | as of 2009 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $557.05M | as of 2020 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,654 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,368 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $7.76B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $4.25B | as of 2020 | [1B-10B](/total_equity_buckets/1b-10b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $18.64B | as of 2021-08-23 | [10B-50B](/market_cap_buckets/10b-50b/) |

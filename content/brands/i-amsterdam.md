@@ -2,7 +2,7 @@
 title: I amsterdam
 slug: "i-amsterdam"
 description: ""
-date: "2026-03-05T22:38:39.630763"
+date: "2026-03-13T08:56:59.563208"
 draft: false
 sectors:
   - "public-sector"
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1300
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +59,12 @@ typographies:
 imagery_styles:
   - photography
 wikidata_description: capital and most populous city of the Netherlands
+wikidata_url: "https://www.wikidata.org/wiki/Q727"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +127,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q727) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1300](/foundation_dates/1300/) |
 | Image | Amsterdam Photo 2020 Copernicus Sentinel-2.jpg, Amsterdam airphoto.jpg, Imagen de los canales concéntricos en Ámsterdam.png |
 | Locator Map Image | Amsterdam location map.svg |
 | Coordinate Location | 52.36666666666667, 4.883333333333333 |
@@ -280,7 +297,6 @@ guideline_count: 1
 | Un/Locode | NLAMS |
 | Snarc Id | Q1378 |
 | Vikidia Article Id | en:Amsterdam, it:Amsterdam, es:Ámsterdam, hy:Ամստերդամ, fr:Amsterdam |
-| Logo Image | Logo of Gemeente Amsterdam.svg |
 | Thesaurus Linguae Aegyptiae Thesaurus Id | 3LEYCONHJFEMDB3H2KJRLIPOFE |
 | Apple Maps Id | 11358101023441681790 |
 | Hikr Waypoint Id | 22384 |

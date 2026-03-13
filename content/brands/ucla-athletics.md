@@ -2,7 +2,7 @@
 title: UCLA Athletics
 slug: "ucla-athletics"
 description: ""
-date: "2026-03-05T22:38:39.202277"
+date: "2026-03-13T08:56:59.139211"
 draft: false
 sectors:
   - sports
@@ -16,14 +16,24 @@ languages:
   - english
 tags:
   - education
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,30 +52,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - mascot
   - secondary
+  - primary
   - lockup
+  - mascot
   - wordmark
 brand_colors:
   - white
-  - gold
   - "pantone-2383"
-  - black
   - blue
   - pink
   - "pantone-3553"
-  - "pantone-227"
+  - gold
   - "pantone-130"
+  - "pantone-227"
+  - black
 typographies:
   - gotham
 imagery_styles:
   - bold
 wikidata_description: "intercollegiate sports teams of the University of California, Los Angeles"
+wikidata_url: "https://www.wikidata.org/wiki/Q1753811"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +127,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1753811) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
 | Topic'S Main Category | Category:UCLA Bruins |
 | Freebase Id | /m/08zq0j |
 | Home Venue | Rose Bowl |
@@ -122,7 +139,6 @@ guideline_count: 2
 | Represents | University of California, Los Angeles |
 | Sport | basketball, American football, baseball, association football, badminton |
 | Country | United States |
-| Logo Image | UCLA Bruins primary logo.svg |
 | Has Part(S) | UCLA Bruins men's basketball, UCLA Bruins women's basketball |
 | Ncaa.Com Team Id | ucla |
 | League Or Competition | NCAA Division I |

@@ -2,11 +2,11 @@
 title: Budweiser
 slug: budweiser
 description: ""
-date: "2026-03-05T22:38:39.290241"
+date: "2026-03-13T08:56:59.230004"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -21,11 +21,26 @@ industries:
 countries:
   - "czech-republic"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "budweiser-budvar"
+products: []
+headquarters_locations:
+  - "ceske-budejovice"
+subsidiaries: []
+foundation_dates:
+  - 1895
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +63,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "brewery in České Budějovice, Czechia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1001644"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +84,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1001644) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Budweiser Budvar](/products_or_materials_produced/budweiser-budvar/) |
+| Headquarters Location | [Ceske Budejovice](/headquarters_locations/ceske-budejovice/) |
+| Foundation Date | [1895](/foundation_dates/1895/); [1967](/foundation_dates/1967/) |
 | Freebase Id | /m/025txc6 |
 | Headquarters Location | České Budějovice |
 | Image | CZE – Südböhmische Region — Böhmisch-Budweis — Karolíny Světlé 512-4 (Brauerei Budvar) 2022-07-14 Mattes.jpg |
@@ -87,8 +111,6 @@ guideline_count: 1
 | Official Name | Budějovický Budvar, národní podnik, Budweiser Budvar, National Corporation, Budweiser Budvar, Entreprise Nationale |
 | Product Or Material Produced | Budweiser Budvar |
 | Owner Of | Research Institute of Brewing and Malting |
-| Total Assets | 5,327,842,000 Czech koruna (as of 2017-12-31), 5,095,265,000 Czech koruna (as of 2016-12-31) |
-| Employees | 672 (as of 2017-01-01), 667 (as of 2016-01-01) |
 | Owned By | Czech Republic |
 | Legal Entity Identifier | 31570010000000006303 |
 | Chief Executive Officer | Petr Dvořák (from 2017) |
@@ -99,7 +121,6 @@ guideline_count: 1
 | Isds Id | yrfs29r |
 | Supervisory Board Member | Jan Procházka (from 2014, until 2023) |
 | Museum Digital Tag Id | 156523 |
-| Logo Image | Budejovicky Budvar logo.png |
 | Facebook Username | BudejovickyBudvar |
 | Industry | brewing industry |
 | Different From | Budweiser Budvar |
@@ -109,15 +130,35 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.54B (2,543,244,000 Czech koruna (as of 2017-01-01))
-- $2.61B (2,611,891,000 Czech koruna (as of 2016-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.54B | as of 2017-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.61B | as of 2016-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $321.02M (321,023,000 Czech koruna (as of 2017-01-01))
-- $347.45M (347,453,000 Czech koruna (as of 2016-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $321.02M | as of 2017-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $347.45M | as of 2016-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $254.93M (254,927,000 Czech koruna (as of 2017-01-01))
-- $564.38M (564,381,000 Czech koruna (as of 2016-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $254.93M | as of 2017-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $564.38M | as of 2016-01-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 672 | as of 2017-01-01 | [100-1K](/employees_buckets/100-1k/) |
+| 667 | as of 2016-01-01 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $5.33B | as of 2017-12-31 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.10B | as of 2016-12-31 | [1B-10B](/total_assets_buckets/1b-10b/) |

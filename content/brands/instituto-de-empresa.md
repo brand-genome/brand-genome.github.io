@@ -2,7 +2,7 @@
 title: Instituto de Empresa
 slug: "instituto-de-empresa"
 description: ""
-date: "2026-03-05T22:38:39.510251"
+date: "2026-03-13T08:56:59.434938"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - madrid
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: business school
+wikidata_url: "https://www.wikidata.org/wiki/Q1153198"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +106,12 @@ History and identity
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1153198) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Madrid](/headquarters_locations/madrid/) |
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Freebase Id | /m/07xn0y |
 | Country | Spain |
 | Viaf Cluster Id | 155919164 |
@@ -103,7 +122,6 @@ History and identity
 | Ringgold Id | 367406 |
 | Part Of | IE University |
 | Image | IE Business School (Madrid) 01.jpg |
-| Logo Image | IE Business School logo.svg |
 | Coordinate Location | 40.438194444444, -3.6875277777778 |
 | Library Of Congress Authority Id | nb2013009987, n83225423 |
 | National Library Of Spain Spmabn Id (Bne V1.0) | XX132506 |

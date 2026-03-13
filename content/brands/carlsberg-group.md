@@ -2,11 +2,11 @@
 title: Carlsberg Group
 slug: "carlsberg-group"
 description: ""
-date: "2026-03-05T22:38:39.176120"
+date: "2026-03-13T08:56:59.102340"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - denmark
 years:
@@ -14,17 +14,32 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - corporate
+  - "food-beverage"
 industries:
-  - "food-industry"
   - "beverage-industry"
+  - "food-industry"
 countries:
   - denmark
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - beer
+  - water
+  - "non-alcoholic-beverage"
+products: []
+headquarters_locations:
+  - copenhagen
+subsidiaries: []
+foundation_dates:
+  - 1847
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +59,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - green
 typographies: []
 imagery_styles:
-  - bold
   - dynamic
   - modern
+  - bold
 wikidata_description: Danish brewery group
+wikidata_url: "https://www.wikidata.org/wiki/Q113215"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +108,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q113215) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Beer](/products_or_materials_produced/beer/); [Water](/products_or_materials_produced/water/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/) |
+| Headquarters Location | [Copenhagen](/headquarters_locations/copenhagen/) |
+| Foundation Date | [1847](/foundation_dates/1847/) |
 | Named After | Carl Jacobsen |
 | Freebase Id | /m/01w141 |
 | Headquarters Location | Copenhagen |
@@ -101,7 +125,6 @@ guideline_count: 2
 | Image | Carlsberg Elephant Gate.jpg |
 | Country | Denmark |
 | Child Organization Or Unit | Karlsberg Bulgaria AD, Holsten Brewery, Carlsberg Polska, Carlsberg Breweries A/S, Carlsberg Ukraine (+4 more) |
-| Logo Image | Carlsberg Group.png |
 | Legal Form | aktieselskab |
 | Stock Exchange | Nasdaq Copenhagen A/S |
 | Cvr Number | 61056416 |
@@ -138,7 +161,6 @@ guideline_count: 2
 | Trap Danmark Id | Carlsberg_A/S |
 | Native Label | Carlsberg |
 | Crunchbase Organization Id | carlsberg-group |
-| Employees | 38,906 (as of 2022) |
 | Legal Entity Identifier | 5299001O0WJQYB5GYZ19 |
 | Museum Digital Id | 93942 |
 | Parent Organization Or Unit | Carlsberg Foundation |
@@ -155,4 +177,12 @@ guideline_count: 2
 
 ### Revenue History
 
-- $70.30B (70,300,000,000 Danish krone (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $70.30B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 38,906 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

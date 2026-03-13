@@ -2,7 +2,7 @@
 title: Ministerstvo Kultury
 slug: "ministerstvo-kultury"
 description: ""
-date: "2026-03-05T22:38:39.365582"
+date: "2026-03-13T08:56:59.318154"
 draft: false
 sectors:
   - "public-sector"
@@ -13,14 +13,25 @@ years:
 languages:
   - czech
 tags:
-  - cultural
   - institution
+  - cultural
 industries: []
 countries:
   - "czech-republic"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - prague
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - graphic
 wikidata_description: ministry of the Czech Republic
+wikidata_url: "https://www.wikidata.org/wiki/Q6866715"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -85,6 +98,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6866715) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Prague](/headquarters_locations/prague/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Image | Nosticův palác 17.JPG |
 | Country | Czech Republic |
 | Inception | 1969-01-08 |
@@ -101,7 +120,7 @@ guideline_count: 1
 | Viaf Cluster Id | 144531030 |
 | Phone Number | +420-257-085-111 |
 | Fax Number | +420-224-318-155 |
-| Email Address | mailto:epodatelna@mkcr.cz |
+| Email Address | epodatelna@mkcr.cz |
 | Facebook Username | ministerstvokulturycr |
 | Instagram Username | ministerstvokultury |
 | X (Twitter) Username | minkultury (as of 2020-12-25, from 2012-04-20) |

@@ -2,16 +2,16 @@
 title: Rotary International
 slug: "rotary-international"
 description: ""
-date: "2026-03-05T22:38:39.274330"
+date: "2026-03-13T08:56:59.216498"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2016
   - 2019
   - 2015
+  - 2016
 languages:
   - english
 tags:
@@ -20,9 +20,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - evanston
+subsidiaries: []
+foundation_dates:
+  - 1905
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,50 +52,52 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
-  - secondary
-  - signature
-  - wordmark
   - logomark
+  - secondary
+  - primary
+  - wordmark
+  - signature
 brand_colors:
   - white
-  - violet
   - red
-  - gold
-  - orange
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
+  - gold
+  - violet
+  - green
   - turquoise
   - silver
-  - green
+  - orange
+  - black
 typographies:
-  - impact
+  - arial
+  - helvetica
   - frutiger
   - "open-sans"
-  - arial
   - georgia
-  - helvetica
+  - impact
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
+  - natural
+  - clean
+  - modern
+  - illustration
   - professional
   - monochrome
-  - illustration
-  - gradient
-  - modern
+  - vibrant
   - candid
-  - clean
   - organic
-  - natural
+  - gradient
+  - photography
+  - bold
 wikidata_description: "international non-profit service organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q109179"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -263,6 +276,12 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q109179) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Evanston](/headquarters_locations/evanston/) |
+| Foundation Date | [1905](/foundation_dates/1905/) |
 | Gnd Id | 1009492-1 |
 | Viaf Cluster Id | 159165695, 145894087 |
 | Library Of Congress Authority Id | n80038307 |
@@ -333,4 +352,6 @@ guideline_count: 4
 
 ### Revenue History
 
-- $35.00M (35,000,000 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $35.00M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |

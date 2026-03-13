@@ -2,7 +2,7 @@
 title: PSV Eindhoven
 slug: "psv-eindhoven"
 description: ""
-date: "2026-03-05T22:38:39.163990"
+date: "2026-03-13T08:56:59.097990"
 draft: false
 sectors:
   - sports
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - netherlands
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - eindhoven
+subsidiaries: []
+foundation_dates:
+  - 1913
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,28 +50,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - abstract
   - lockup
-  - primary
   - badge
 brand_colors:
   - white
   - red
-  - black
   - "pantone-186"
+  - black
 typographies:
-  - impact
   - slab
   - serif
+  - impact
 imagery_styles:
-  - bold
   - photography
   - abstract
+  - bold
 wikidata_description: "sports club from Eindhoven, the Netherlands"
+wikidata_url: "https://www.wikidata.org/wiki/Q11938"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +131,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11938) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Eindhoven](/headquarters_locations/eindhoven/) |
+| Foundation Date | [1913](/foundation_dates/1913/) |
 | Named After | Koninklijke Philips NV |
 | Home Venue | Philips Stadion |
 | League Or Competition | Eredivisie (from 1956) |

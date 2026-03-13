@@ -2,11 +2,11 @@
 title: Workplace
 slug: workplace
 description: ""
-date: "2026-03-05T22:38:39.347622"
+date: "2026-03-13T08:56:59.299232"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,16 +49,18 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
+  - "pantone-285"
   - grey
   - "pantone-2379"
-  - "pantone-285"
 typographies: []
 imagery_styles: []
 wikidata_description: collaboration software by Meta Platforms
+wikidata_url: "https://www.wikidata.org/wiki/Q28135300"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,8 +98,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28135300) |
+
+| Property | Value |
+|----------|-------|
 | Facebook Username | WorkplacefromMeta |
-| Logo Image | Workplace from Meta (stacked).svg, Workplace from Meta (inline).svg |
 | Google Knowledge Graph Id | /g/11c1v_xl9s |
 | Subclass Of | communications media, collaborative software,  |
 | X (Twitter) Username | WorkplaceMeta (as of 2022-02-07, from 2016-07-07) |

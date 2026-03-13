@@ -2,7 +2,7 @@
 title: Yelp
 slug: yelp
 description: ""
-date: "2026-03-05T22:38:39.802363"
+date: "2026-03-13T08:56:59.857945"
 draft: false
 sectors:
   - "social-media"
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,10 +49,10 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - "app-icon"
   - lockup
-  - horizontal
   - vertical
+  - "app-icon"
+  - horizontal
 brand_colors:
   - red
   - grey
@@ -53,10 +62,12 @@ typographies:
 imagery_styles:
   - graphic
 wikidata_description: help viewer application for the GNOME desktop environment
+wikidata_url: "https://www.wikidata.org/wiki/Q47430544"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +111,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q47430544) |
+
+| Property | Value |
+|----------|-------|
 | Source Code Repository Url | https://gitlab.gnome.org/GNOME/yelp.git, https://github.com/GNOME/yelp |
 | Software Version Identifier | 3.27.1, 3.28.0, 3.28.1, 2.22.1, 2.23.1 (+101 more) |
 | Copyright License | GNU General Public License, version 2.0 or later |
@@ -110,7 +125,6 @@ guideline_count: 1
 | Fedora Package | yelp |
 | Open Hub Id | yelp |
 | Repology Project Name | yelp |
-| Logo Image | Gnome-help-browser-modified.svg, GNOME Yelp Icon.png, GNOME Help (Yelp) icon.svg |
 | Freebsd Port | x11/yelp |
 | Netbsd Package Id | misc/yelp3 |
 | Openbsd Port | x11/gnome/yelp |

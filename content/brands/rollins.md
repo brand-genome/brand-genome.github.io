@@ -2,7 +2,7 @@
 title: Rollins
 slug: rollins
 description: ""
-date: "2026-03-05T22:38:39.744617"
+date: "2026-03-13T08:56:59.783379"
 draft: false
 sectors:
   - education
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "winter-park"
+subsidiaries: []
+foundation_dates:
+  - 1885
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,34 +53,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
-  - gold
-  - "pantone-2387"
-  - black
-  - yellow
-  - blue
   - "pantone-116"
+  - blue
+  - yellow
+  - gold
+  - black
+  - "pantone-2387"
 typographies:
   - gotham
   - serif
   - "sans-serif"
 imagery_styles:
-  - bold
-  - photography
-  - graphic
   - dynamic
-  - classic
   - clean
+  - photography
+  - classic
+  - graphic
+  - bold
 wikidata_description: "private liberal arts college in Winter Park, Florida, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q2164222"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +128,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2164222) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Winter Park](/headquarters_locations/winter-park/) |
+| Foundation Date | [1885](/foundation_dates/1885/) |
 | Coordinate Location | 28.5915, -81.3484 |
 | Country | United States |
 | Topic'S Main Category | Category:Rollins College |
@@ -140,9 +161,7 @@ guideline_count: 1
 | Social Media Followers | 15,633 (as of 2021-01-03), 15,737 (as of 2022-03-01), 15,988 (as of 2023-02-10), 8,550 (as of 2025-10-04) |
 | Schoenberg Database Of Manuscripts Name Id | 35360 |
 | Count Of Students | 3,104 (as of 2020-09) |
-| Total Assets | 708,297,000 United States dollar (as of 2020-06-30) |
 | Endowment | 363,485,000 United States dollar (as of 2020-06-30), 438,112,000 United States dollar (as of 2022-06-30), 467,605,000 United States dollar (as of 2021-06-30) |
-| Employees | 643 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Opencorporates Id | us_fl/N10822 |
@@ -165,3 +184,15 @@ guideline_count: 1
 | Inaturalist Place Id | 136690 |
 | ‎Yale Lux Id | group/e75304a3-3064-42f8-a92c-e158a01c9836 |
 | Youtube Channel Id | UCNJvqKpCe8JtYPcmFJRNtTw (as of 2025-09-21, from 2007-04-14) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 643 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $708.30M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

@@ -2,11 +2,11 @@
 title: Fandango
 slug: fandango
 description: ""
-date: "2026-03-05T22:38:39.657872"
+date: "2026-03-13T08:56:59.584897"
 draft: false
 sectors:
-  - entertainment
   - "e-commerce"
+  - entertainment
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - rome
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Italian film production and distribution company
+wikidata_url: "https://www.wikidata.org/wiki/Q3739211"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3739211) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rome](/headquarters_locations/rome/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Founded By | Domenico Procacci |
 | Inception | 1989-01-01 |
 | Country Of Origin | Italy |
@@ -78,7 +97,6 @@ guideline_count: 1
 | Viaf Cluster Id | 145804993 |
 | Child Organization Or Unit | Fandango Libri s.r.l. (from 1999, until 2005-02) |
 | Freebase Id | /m/0t506sf |
-| Logo Image | Fandango logotipo.png |
 | Crunchbase Organization Id | fandango-s-p-a |
 | Eidr Party Id | 10.5237/9261-0F6D |
 | National Library Of Israel J9U Id | 987007315565705171 |

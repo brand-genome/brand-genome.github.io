@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-03-05T22:38:39.728728"
+date: "2026-03-13T08:56:59.748539"
 draft: false
 sectors:
   - electronics
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - minato
+subsidiaries: []
+foundation_dates:
+  - 1935
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +52,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - black
-  - gray
   - "pantone-876"
+  - gray
 typographies: []
 imagery_styles:
   - photography
-  - gradient
   - product
+  - gradient
 wikidata_description: Japanese multinational electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q855479"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q855479) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Minato](/headquarters_locations/minato/) |
+| Foundation Date | [1935](/foundation_dates/1935/) |
 | Freebase Id | /m/057qy5 |
 | Industry | electronics |
 | Stock Exchange | Tokyo Stock Exchange (from 1961-09) |
@@ -104,9 +124,7 @@ guideline_count: 1
 | Topic'S Main Category | Category:TDK |
 | X (Twitter) Username | TDK_Press (as of 2018-05-10, from 2011-03-16), TDK_Corporation (as of 2021-07-17, from 2019-08) |
 | Ndl Authority Id | 00304634 |
-| Logo Image | TDK-Logo.svg |
 | Legal Form | kabushiki gaisha |
-| Employees | 53,923 |
 | Facebook Username | TDK.jp |
 | Image | VHS casette.JPG |
 | Isni | 000000010155058X |
@@ -138,3 +156,9 @@ guideline_count: 1
 | Gnd Id | 16154156-2 |
 | T10 Vendor Id String | TDK |
 | Youtube Handle | tdk_corporation (as of 2025-10-20) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 53,923 | - | [50K-100K](/employees_buckets/50k-100k/) |

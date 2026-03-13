@@ -2,7 +2,7 @@
 title: HM Government
 slug: "hm-government"
 description: ""
-date: "2026-03-05T22:38:39.216769"
+date: "2026-03-13T08:56:59.154810"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "10-downing-street"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: central government of the United Kingdom of Great Britain and Northern Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q6063"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -155,6 +167,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6063) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [10 Downing Street](/headquarters_locations/10-downing-street/) |
 | Topic'S Main Category | Category:Government of the United Kingdom |
 | Project Gutenberg Author Id | 40023 |
 | Country | United Kingdom |
@@ -177,7 +194,6 @@ guideline_count: 2
 | Bbc News Topic Id | c6ly3zw499nt |
 | Freebase Id | /m/09g9s5g |
 | Github Account | ukgovdatascience |
-| Logo Image | UK Government Overseas Logo.svg |
 | Twitch Username | ukgov_official (from 2020-03-27) |
 | Openalex Id | I2802373619 |
 | Bbc Things Id | a35c70a6-9373-444e-84be-990706e7029a |

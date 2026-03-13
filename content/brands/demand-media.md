@@ -2,11 +2,11 @@
 title: Demand Media
 slug: "demand-media"
 description: ""
-date: "2026-03-05T22:38:39.655055"
+date: "2026-03-13T08:56:59.581848"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "santa-monica"
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,36 +51,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - primary
-  - badge
   - secondary
+  - symbol
+  - badge
 brand_colors:
   - white
   - red
-  - "pantone-115"
-  - "pantone-305"
-  - "pantone-382"
-  - "pantone-381"
-  - "pantone-7479"
-  - black
-  - yellow
-  - blue
-  - gray
-  - green
-  - "pantone-285"
   - "pantone-116"
+  - blue
+  - "pantone-115"
+  - yellow
+  - "pantone-382"
+  - "pantone-285"
+  - "pantone-381"
+  - green
+  - black
+  - gray
+  - "pantone-305"
+  - "pantone-7479"
 typographies: []
 imagery_styles:
-  - bold
-  - colorful
-  - dynamic
   - vibrant
+  - dynamic
+  - colorful
+  - bold
 wikidata_description: an American content company
+wikidata_url: "https://www.wikidata.org/wiki/Q5255025"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -312,11 +325,16 @@ Primary Palette and Supporting Secondary palette appear consistently.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5255025) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Santa Monica](/headquarters_locations/santa-monica/) |
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Stock Exchange | New York Stock Exchange |
 | Isin | US24802N1090 |
 | Headquarters Location | Santa Monica |
 | Inception | 2006-05-01 |
-| Logo Image | Demand media 13logo.png |
 | Quora Topic Id | Demand-Media |
 | Alexa Rank | 2,377,368 (as of 2017-12-01) |
 | Industry | online service |

@@ -2,7 +2,7 @@
 title: Hisense
 slug: hisense
 description: ""
-date: "2026-03-05T22:38:39.327917"
+date: "2026-03-13T08:56:59.282250"
 draft: false
 sectors:
   - "home-appliances"
@@ -20,9 +20,21 @@ industries:
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "home-appliance"
+products: []
+headquarters_locations:
+  - qingdao
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Chinese multinational white goods and electronics manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q2527941"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,12 +79,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2527941) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/) |
+| Headquarters Location | [Qingdao](/headquarters_locations/qingdao/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/09npdx |
 | Inception | 1969-09, 1969 |
 | Headquarters Location | Qingdao |
 | Child Organization Or Unit | Hisense Kelon, Gorenje, Hisense Visual Technology, TVS REGZA (from 2018) |
 | Location Of Formation | Qingdao |
-| Logo Image | Hisense.svg |
 | Stock Exchange | Shanghai Stock Exchange, Hong Kong Stock Exchange, Shenzhen Stock Exchange |
 | Legal Form | public company |
 | Country | People's Republic of China |
@@ -100,4 +120,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $126.63B (126,634,970,000 renminbi (as of 2018-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $126.63B | as of 2018-01-01 | [100B-500B](/revenue_buckets/100b-500b/) |

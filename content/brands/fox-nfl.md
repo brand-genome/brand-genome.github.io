@@ -2,11 +2,11 @@
 title: Fox NFL
 slug: "fox-nfl"
 description: ""
-date: "2026-03-05T22:38:39.317251"
+date: "2026-03-13T08:56:59.265084"
 draft: false
 sectors:
-  - broadcasting
   - sports
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +50,20 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
-  - black
   - yellow
+  - black
+  - blue
 typographies: []
 imagery_styles:
-  - bold
   - flat
+  - bold
 wikidata_description: television series
+wikidata_url: "https://www.wikidata.org/wiki/Q6953774"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -205,6 +216,10 @@ X&O GRID PATTERN
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6953774) |
+
+| Property | Value |
+|----------|-------|
 | Imdb Id | tt0896893 |
 | Original Broadcaster | Fox Broadcasting Company |
 | Country Of Origin | United States |
@@ -213,7 +228,6 @@ X&O GRID PATTERN
 | Camera Setup | multiple-camera setup |
 | Number Of Seasons | 21 |
 | Distributed By | 20th Television |
-| Logo Image | NFL on Fox 2014.svg, NFL on Fox logo from 1998–2000.png |
 | Freebase Id | /m/05yn05 |
 | Tmdb Tv Series Id | 233867 |
 | Ratinggraph Tv Show Id | nfl-on-fox-ratings-26072 |

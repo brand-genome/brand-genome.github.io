@@ -2,7 +2,7 @@
 title: Miami Dolphins
 slug: "miami-dolphins"
 description: ""
-date: "2026-03-05T22:38:39.353881"
+date: "2026-03-13T08:56:59.305393"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - miami
+subsidiaries: []
+foundation_dates:
+  - 1966
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
   - white
-  - orange
+  - "pantone-321"
   - black
   - "pantone-1655"
-  - "pantone-321"
+  - orange
 typographies:
   - avenir
 imagery_styles:
-  - bold
-  - clean
   - graphic
+  - clean
+  - bold
 wikidata_description: "National Football League franchise in Miami, Florida"
+wikidata_url: "https://www.wikidata.org/wiki/Q223243"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q223243) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Miami](/headquarters_locations/miami/) |
+| Foundation Date | [1966](/foundation_dates/1966/) |
 | Part Of | AFC East |
 | Country | United States |
 | Topic'S Main Category | Category:Miami Dolphins |

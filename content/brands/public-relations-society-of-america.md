@@ -2,7 +2,7 @@
 title: Public Relations Society of America
 slug: "public-relations-society-of-america"
 description: ""
-date: "2026-03-05T22:38:39.244917"
+date: "2026-03-13T08:56:59.189266"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "1M-10M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: professional society
+wikidata_url: "https://www.wikidata.org/wiki/Q7257536"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7257536) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Viaf Cluster Id | 149521558 |
 | Isni | 0000000100566547 |
 | Country | United States |
@@ -83,13 +103,11 @@ guideline_count: 1
 | Social Media Followers | 107,613 (as of 2021-01-02), 108,214 (as of 2022-02-28), 107,074 (as of 2023-02-10) |
 | Crunchbase Organization Id | public-relations-society-of-america |
 | Inception | 1948-02-04 |
-| Logo Image | Public Relations Society of America logo.png |
 | National Library Of Israel J9U Id | 987007597072405171 |
 | Short Name | PRSA |
 | Openalex Id | P4310316515 |
 | Industry | business and professional associations, unions |
 | Donations | 379,187 United States dollar (as of 2022), 244,282 United States dollar (as of 2021), 206,646 United States dollar (as of 2023), 202,280 United States dollar (as of 2011), 179,236 United States dollar (as of 2012) (+8 more) |
-| Total Assets | 1,414,604 United States dollar (as of 2022), 1,247,330 United States dollar (as of 2021), 1,198,286 United States dollar (as of 2023), 529,609 United States dollar (as of 2011), 586,462 United States dollar (as of 2012) (+8 more) |
 | Linkedin Company Or Organization Id | prsa |
 | Facebook Username | PRSANational |
 | ‎Yale Lux Id | group/c70fa985-dc75-4d01-a4e9-635da1f68c7b |
@@ -97,16 +115,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $363.24K (363,243 United States dollar (as of 2022))
-- $300.86K (300,862 United States dollar (as of 2021))
-- $208.40K (208,403 United States dollar (as of 2023))
-- $195.50K (195,503 United States dollar (as of 2011))
-- $186.41K (186,413 United States dollar (as of 2012))
-- $250.53K (250,526 United States dollar (as of 2013))
-- $312.47K (312,466 United States dollar (as of 2014))
-- $489.07K (489,072 United States dollar (as of 2015))
-- $431.72K (431,723 United States dollar (as of 2016))
-- $243.19K (243,190 United States dollar (as of 2017))
-- $413.70K (413,704 United States dollar (as of 2018))
-- $413.67K (413,673 United States dollar (as of 2019))
-- $342.26K (342,264 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $363.24K | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $300.86K | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $208.40K | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $195.50K | as of 2011 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $186.41K | as of 2012 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $250.53K | as of 2013 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $312.47K | as of 2014 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $489.07K | as of 2015 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $431.72K | as of 2016 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $243.19K | as of 2017 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $413.70K | as of 2018 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $413.67K | as of 2019 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $342.26K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.41M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.25M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.20M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $529.61K | as of 2011 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $586.46K | as of 2012 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $637.84K | as of 2013 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $732.30K | as of 2014 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $812.92K | as of 2015 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $1.15M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.06M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.07M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.13M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.08M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |

@@ -2,7 +2,7 @@
 title: Volkswagen
 slug: volkswagen
 description: ""
-date: "2026-03-05T22:38:39.791870"
+date: "2026-03-13T08:56:59.843644"
 draft: false
 sectors:
   - automobile
@@ -19,11 +19,44 @@ industries:
 countries:
   - germany
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "volkswagen-up"
+  - "volkswagen-golf"
+  - "volkswagen-jetta"
+  - "volkswagen-fox"
+  - "volkswagen-t-roc"
+  - "volkswagen-id-series"
+  - "volkswagen-bora"
+  - "volkswagen-tiguan"
+  - "volkswagen-transporter"
+  - "volkswagen-amarok"
+  - "volkswagen-scirocco"
+  - "volkswagen-polo"
+  - "volkswagen-vento"
+  - "volkswagen-beetle"
+  - "volkswagen-derby"
+  - "volkswagen-crafter"
+  - "volkswagen-eos"
+  - "volkswagen-arteon"
+  - "volkswagen-t-cross"
+  - "volkswagen-lupo"
+  - "volkswagen-passat"
+  - "volkswagen-phaeton"
+products: []
+headquarters_locations:
+  - wolfsburg
+subsidiaries: []
+foundation_dates:
+  - 1937
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,16 +76,18 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - orange
+  - blue
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: German automotive brand; manufacturing subsidiary of Volkswagen Group
+wikidata_url: "https://www.wikidata.org/wiki/Q246"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +145,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q246) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Volkswagen Up](/products_or_materials_produced/volkswagen-up/); [Volkswagen Golf](/products_or_materials_produced/volkswagen-golf/); [Volkswagen Jetta](/products_or_materials_produced/volkswagen-jetta/); [Volkswagen Fox](/products_or_materials_produced/volkswagen-fox/); [Volkswagen T Roc](/products_or_materials_produced/volkswagen-t-roc/); [Volkswagen Id Series](/products_or_materials_produced/volkswagen-id-series/); [Volkswagen Bora](/products_or_materials_produced/volkswagen-bora/); [Volkswagen Tiguan](/products_or_materials_produced/volkswagen-tiguan/); [Volkswagen Transporter](/products_or_materials_produced/volkswagen-transporter/); [Volkswagen Amarok](/products_or_materials_produced/volkswagen-amarok/); [Volkswagen Scirocco](/products_or_materials_produced/volkswagen-scirocco/); [Volkswagen Polo](/products_or_materials_produced/volkswagen-polo/); +10 more |
+| Headquarters Location | [Wolfsburg](/headquarters_locations/wolfsburg/) |
+| Foundation Date | [1937](/foundation_dates/1937/) |
 | Named After | KdF Wagen |
 | Freebase Id | /m/07ywl, /m/0h5wtyy |
 | Topic'S Main Category | Category:Volkswagen |
@@ -120,7 +162,6 @@ guideline_count: 1
 | Hashtag | Volkswagen |
 | Giphy Username | volkswagen-sk |
 | X (Twitter) Username | Volkswagen (as of 2018-05-10, from 2015-02-06), VW (as of 2020-02-27, from 2009-04-01) |
-| Logo Image | Volkswagen logo 2019.svg (from 2019), Volkswagen logo.png (from 2017, until 2019), VW logo 2000.png (from 2000, until 2017), VW logo 1937 to 1939.svg (from 1937, until 1939) |
 | Permid | 4295869244 |
 | Great Norwegian Encyclopedia Id | Volkswagen |
 | Founded By | German Labor Front |
@@ -196,45 +237,51 @@ guideline_count: 1
 
 ### Revenue History
 
-- $197.01B (197,007,000,000 euro (as of 2013))
-- $202.46B (202,458,000,000 euro (as of 2014))
-- $213.29B (213,292,000,000 euro (as of 2015))
-- $217.27B (217,267,000,000 euro (as of 2016))
-- $230.68B (230,682,000,000 euro (as of 2017))
-- $235.85B (235,849,000,000 euro (as of 2018))
-- $252.63B (252,632,000,000 euro (as of 2019))
-- $222.88B (222,884,000,000 euro (as of 2020))
-- $250.20B (250,200,000,000 euro (as of 2021))
-- $279.23B (279,232,000,000 euro (as of 2022))
-- $322.28B (322,284,000,000 euro (as of 2023))
-- $324.66B (324,656,000,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $197.01B | as of 2013 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $202.46B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $213.29B | as of 2015 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $217.27B | as of 2016 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $230.68B | as of 2017 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $235.85B | as of 2018 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $252.63B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $222.88B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $250.20B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $279.23B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $322.28B | as of 2023 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $324.66B | as of 2024 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $11.67B (11,671,000,000 euro (as of 2013))
-- $12.70B (12,697,000,000 euro (as of 2014))
-- $4.07B (-4,069,000,000 euro (as of 2015))
-- $7.10B (7,103,000,000 euro (as of 2016))
-- $13.82B (13,818,000,000 euro (as of 2017))
-- $13.92B (13,920,000,000 euro (as of 2018))
-- $16.96B (16,960,000,000 euro (as of 2019))
-- $9.68B (9,675,000,000 euro (as of 2020))
-- $19.27B (19,275,000,000 euro (as of 2021))
-- $22.12B (22,124,000,000 euro (as of 2022))
-- $22.58B (22,576,000,000 euro (as of 2023))
-- $19.06B (19,060,000,000 euro (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $11.67B | as of 2013 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $12.70B | as of 2014 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $4.07B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.10B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $13.82B | as of 2017 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $13.92B | as of 2018 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $16.96B | as of 2019 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.68B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $19.27B | as of 2021 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $22.12B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $22.58B | as of 2023 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $19.06B | as of 2024 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $9.14B (9,145,000,000 euro (as of 2013))
-- $11.07B (11,068,000,000 euro (as of 2014))
-- $1.36B (-1,361,000,000 euro (as of 2015))
-- $5.38B (5,379,000,000 euro (as of 2016))
-- $11.64B (11,638,000,000 euro (as of 2017))
-- $12.15B (12,153,000,000 euro (as of 2018))
-- $14.03B (14,029,000,000 euro (as of 2019))
-- $8.82B (8,824,000,000 euro (as of 2020))
-- $15.43B (15,428,000,000 euro (as of 2021))
-- $15.84B (15,836,000,000 euro (as of 2022))
-- $17.93B (17,928,000,000 euro (as of 2023))
-- $12.39B (12,394,000,000 euro (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $9.14B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.07B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $1.36B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.38B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.64B | as of 2017 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $12.15B | as of 2018 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $14.03B | as of 2019 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $8.82B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $15.43B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $15.84B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $17.93B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $12.39B | as of 2024 | [10B-50B](/net_profit_buckets/10b-50b/) |

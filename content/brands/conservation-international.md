@@ -2,7 +2,7 @@
 title: Conservation International
 slug: "conservation-international"
 description: ""
-date: "2026-03-05T22:38:39.601842"
+date: "2026-03-13T08:56:59.544681"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "arlington-county"
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +54,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - alternate
   - primary
+  - alternate
 brand_colors:
   - white
-  - blue
   - green
+  - blue
   - gray
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: nonprofit environmental organization
+wikidata_url: "https://www.wikidata.org/wiki/Q1127365"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,12 +125,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | CIlogo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1127365) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Freebase Id | /m/0b11jd |
 | Viaf Cluster Id | 152075929 |
 | Headquarters Location | Arlington County |
 | Inception | 1987-01-01 |
-| Employees | 900 |
 | Isni | 0000000406391575 |
 | Quora Topic Id | Conservation-International |
 | Ringgold Id | 94205 |
@@ -158,24 +177,50 @@ guideline_count: 1
 | Openalex Id | P4310316218 |
 | Industry | environment |
 | Kisti Id | K000215939 |
-| Total Assets | 568,924,651 United States dollar (as of 2022), 488,990,693 United States dollar (as of 2021), 617,089,038 United States dollar (as of 2023), 296,304,147 United States dollar (as of 2011), 288,115,651 United States dollar (as of 2012) (+9 more) |
 | Award Received | Blue Planet Prize (as of 1997) |
 | Iati Organisation Id | US-EIN-52-1497470 |
 | ‎Yale Lux Id | group/e7ad105d-f4a0-4365-9f48-53dbc2c8d3ef |
 
 ### Revenue History
 
-- $138.54M (138,544,673 United States dollar (as of 2017-01-01))
-- $159.50M (159,498,081 United States dollar (as of 2020))
-- $140.40M (140,400,903 United States dollar (as of 2019))
-- $145.01M (145,013,840 United States dollar (as of 2018))
-- $290.50M (290,503,839 United States dollar (as of 2022))
-- $187.94M (187,936,196 United States dollar (as of 2021))
-- $235.13M (235,131,545 United States dollar (as of 2023))
-- $140.77M (140,766,897 United States dollar (as of 2011))
-- $132.80M (132,795,704 United States dollar (as of 2012))
-- $96.82M (96,823,379 United States dollar (as of 2013))
-- $152.49M (152,494,841 United States dollar (as of 2014))
-- $162.26M (162,261,216 United States dollar (as of 2015))
-- $207.66M (207,655,914 United States dollar (as of 2016))
-- $271.22M (271,220,924 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $138.54M | as of 2017-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $159.50M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $140.40M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $145.01M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $290.50M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $187.94M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $235.13M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $140.77M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $132.80M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $96.82M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $152.49M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $162.26M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $207.66M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $271.22M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 900 | - | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $568.92M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $488.99M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $617.09M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $296.30M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $288.12M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $251.53M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $272.00M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $307.36M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $357.42M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $379.26M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $360.81M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $371.34M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $403.47M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $647.54M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

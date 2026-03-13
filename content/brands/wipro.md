@@ -2,30 +2,41 @@
 title: Wipro
 slug: wipro
 description: ""
-date: "2026-03-05T22:38:39.116080"
+date: "2026-03-13T08:56:59.063319"
 draft: false
 sectors:
+  - cybersecurity
   - consulting
   - software
-  - cybersecurity
 regions:
   - india
 years:
-  - 2022
   - 2024
+  - 2022
   - 2017
 languages:
   - english
 tags:
   - technology
 industries:
-  - "information-technology-consulting"
   - "it-service-management"
+  - "information-technology-consulting"
 countries:
   - india
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bengaluru
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +60,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "Indian information technology services corporation headquartered in Bengaluru, India"
+wikidata_url: "https://www.wikidata.org/wiki/Q1364176"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -187,6 +200,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1364176) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bengaluru](/headquarters_locations/bengaluru/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Topic'S Main Category | Category:Wipro |
 | Freebase Id | /m/0241_l |
 | Headquarters Location | Bengaluru |
@@ -226,4 +245,3 @@ guideline_count: 3
 | Eu Transparency Register Id | 909207194106-17 |
 | ‎Yale Lux Id | group/8ae87d2a-c6cb-4130-9d0a-7cafd243807a |
 | Usb Vendor Id | 084a |
-| Logo Image | Wipro new logo.svg |

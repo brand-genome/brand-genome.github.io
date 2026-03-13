@@ -2,7 +2,7 @@
 title: NBC Sports
 slug: "nbc-sports"
 description: ""
-date: "2026-03-05T22:38:39.635971"
+date: "2026-03-13T08:56:59.564983"
 draft: false
 sectors:
   - broadcasting
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stamford
+subsidiaries: []
+foundation_dates:
+  - 1939
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - black
@@ -49,10 +60,12 @@ typographies:
   - display
 imagery_styles: []
 wikidata_description: sports division of the NBC television network
+wikidata_url: "https://www.wikidata.org/wiki/Q3046048"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,13 +102,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3046048) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stamford](/headquarters_locations/stamford/) |
+| Foundation Date | [1939](/foundation_dates/1939/) |
 | Topic'S Main Category | Category:NBC Sports |
 | Freebase Id | /m/05mzng |
 | Country | United States |
 | Inception | 1939-05-17 |
 | Quora Topic Id | NBC-Sports |
 | X (Twitter) Username | NBCSports (as of 2018-05-10, from 2008-01-04) |
-| Logo Image | NBC Sports 2023.svg, NBC Sports stacked logo (2012-present).svg, NBC Sports logo 1989-2011.svg |
 | Owned By | NBCUniversal |
 | Youtube Channel Id | UCqZQlzSHbVJrwrn5XvzrzcA (as of 2020-12-03, from 2012-02-07) |
 | Facebook Username | NBCSports |

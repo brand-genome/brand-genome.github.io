@@ -2,7 +2,7 @@
 title: Brooklyn College
 slug: "brooklyn-college"
 description: ""
-date: "2026-03-05T22:38:39.716905"
+date: "2026-03-13T08:56:59.734821"
 draft: false
 sectors:
   - education
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - brooklyn
+subsidiaries: []
+foundation_dates:
+  - 1930
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,16 +57,18 @@ logo_elements:
 brand_colors: []
 typographies:
   - serif
-  - slab
   - display
+  - slab
 imagery_styles:
-  - contemporary
   - photography
+  - contemporary
 wikidata_description: "senior college of the City University of New York, located in Brooklyn"
+wikidata_url: "https://www.wikidata.org/wiki/Q371625"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q371625) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Brooklyn](/headquarters_locations/brooklyn/) |
+| Foundation Date | [1930](/foundation_dates/1930/) |
 | Coordinate Location | 40.631111111111, -73.9525 |
 | Country | United States |
 | Topic'S Main Category | Category:Brooklyn College |
@@ -134,7 +154,6 @@ guideline_count: 1
 | Crunchbase Organization Id | cuny-brooklyn-college |
 | Kallías Id | KS00127275 |
 | National Library Of Israel J9U Id | 987007259127305171 |
-| Employees | 2,412 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I83041322 |
@@ -149,3 +168,9 @@ guideline_count: 1
 | Athletics Program | Brooklyn Bulldogs |
 | Gnis Feature Id | 946717 |
 | Located In The Administrative Territorial Entity | Brooklyn |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,412 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

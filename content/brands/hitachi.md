@@ -2,12 +2,12 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-03-05T22:38:39.820477"
+date: "2026-03-13T08:56:59.895838"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - japan
 years:
@@ -18,13 +18,24 @@ tags:
   - electronics
   - corporate
 industries:
-  - "consumer-electronics-industry"
   - "electrical-industry"
+  - "consumer-electronics-industry"
 countries:
   - japan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - marunouchi
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +54,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
   - silver
   - black
 typographies:
-  - times
   - helvetica
+  - times
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: Japanese multinational engineering and electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q53238"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q53238) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Marunouchi](/headquarters_locations/marunouchi/) |
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Founded By | Namihei Odaira |
 | Viaf Cluster Id | 164149294368980522279 |
 | Library Of Congress Authority Id | n81038506 |
@@ -118,7 +137,6 @@ guideline_count: 1
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0032748 |
 | Isin | JP3788600009 |
 | Inception | 1910-01-01 |
-| Logo Image | Hitachi 2025 logo.svg |
 | Stock Exchange | Tokyo Stock Exchange, OTC Markets Group, Nagoya Stock Exchange |
 | Child Organization Or Unit | Hitachi Vantara, Hitachi Digital Services, Koki Holdings Co.,Ltd., Hitachi Construction Machinery, Hitachi Cable (+8 more) |
 | Legal Form | kabushiki gaisha |

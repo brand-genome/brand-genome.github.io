@@ -2,7 +2,7 @@
 title: Clemson university
 slug: "clemson-university"
 description: ""
-date: "2026-03-05T22:38:39.396537"
+date: "2026-03-13T08:56:59.362550"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1889
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in South Carolina, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q631066"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,6 +102,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q631066) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1889](/foundation_dates/1889/) |
 | Coordinate Location | 34.678333333333, -82.839166666667 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Clemson, Pickens County, South Carolina |
@@ -117,7 +135,6 @@ guideline_count: 1
 | Arwu University Id | Clemson-University |
 | Qs World University Id | clemson-university |
 | U Multirank University Id | clemson-university |
-| Logo Image | Clemson University Wordmark.svg |
 | Owner Of | Memorial Stadium, Clemson, Littlejohn Coliseum, Doug Kingsmore Stadium, WSBF-FM, Riggs Field |
 | Openstreetmap Relation Id | 145811 |
 | Microsoft Academic Id (Discontinued) | 8078737 |
@@ -134,7 +151,6 @@ guideline_count: 1
 | Crunchbase Organization Id | clemson-university |
 | Has Part(S) | Clemson University International Center for Automotive Research, Clemson University College of Engineering, Computing and Applied Sciences |
 | Count Of Students | 26,406 (as of 2020-09), 25,066 (as of 2021-09-01) |
-| Employees | 5,585 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | clemson, Clemson |
@@ -162,3 +178,9 @@ guideline_count: 1
 | Threads Username | clemsonuniversity |
 | Athletics Program | Clemson Tigers |
 | Post Town | Clemson, SC |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,585 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

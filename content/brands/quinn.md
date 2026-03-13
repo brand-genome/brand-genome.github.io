@@ -2,11 +2,11 @@
 title: Quinn
 slug: quinn
 description: ""
-date: "2026-03-05T22:38:39.483565"
+date: "2026-03-13T08:56:59.416484"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - usa
 years:
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hamden
+subsidiaries: []
+foundation_dates:
+  - 1929
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ typographies:
 imagery_styles:
   - classic
 wikidata_description: "private university in Hamden, Connecticut, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1030044"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -76,6 +91,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1030044) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hamden](/headquarters_locations/hamden/) |
+| Foundation Date | [1929](/foundation_dates/1929/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Connecticut, Hamden |
 | Topic'S Main Category | Category:Quinnipiac University |
@@ -108,9 +129,7 @@ guideline_count: 1
 | Times Higher Education World University Id | quinnipiac-university |
 | Social Media Followers | 36,438 (as of 2021-01-07), 36,130 (as of 2020-04-23), 36,747 (as of 2022-01-27), 36,899 (as of 2023-02-02) |
 | Count Of Students | 9,746 (as of 2020-09), 8,248 (as of 2021-09-01) |
-| Total Assets | 1,587,314,312 United States dollar (as of 2020-06-30) |
 | Endowment | 545,134,316 United States dollar (as of 2020-06-30), 674,056,725 United States dollar (as of 2022-06-30), 753,872,403 United States dollar (as of 2021-06-30) |
-| Employees | 1,818 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I43267033 |
@@ -121,7 +140,6 @@ guideline_count: 1
 | Number Of Households | 0 (as of 2020-12-31) |
 | National Library Of Israel J9U Id | 987011257508905171 |
 | Crunchbase Organization Id | quinnipiac-university |
-| Logo Image | Quinnipiac University logo (2017).svg (from 2017-02-17), Quinnipiac University logo (2016).svg (from 2016-06-23, until 2017-02-17) |
 | Academic Calendar Type | semester |
 | Sevis School Id | 6760 |
 | Google Scholar Organization Id | 9938998367940787327 |
@@ -136,3 +154,15 @@ guideline_count: 1
 | Threads Username | quinnipiacu |
 | Athletics Program | Quinnipiac Bobcats |
 | Located In The Statistical Territorial Entity | Quinnipiac University |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,818 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.59B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

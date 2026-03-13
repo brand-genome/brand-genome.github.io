@@ -2,7 +2,7 @@
 title: Redfern
 slug: redfern
 description: ""
-date: "2026-03-05T22:38:39.812025"
+date: "2026-03-13T08:56:59.879416"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1878
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +60,12 @@ imagery_styles:
   - natural
   - vibrant
 wikidata_description: "railway station in Sydney, New South Wales, Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q7305835"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -82,6 +94,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7305835) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1878](/foundation_dates/1878/) |
 | Connecting Line | Main Suburban railway line, Illawarra railway line |
 | Adjacent Station | Macdonaldtown railway station, Central railway station, Erskineville railway station, Central railway station, St Peters railway station (+8 more) |
 | Located In The Administrative Territorial Entity | City of Sydney, City of Sydney, Alexandria, New South Wales |

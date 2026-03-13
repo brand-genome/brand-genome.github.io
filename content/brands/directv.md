@@ -2,7 +2,7 @@
 title: DIRECTV
 slug: directv
 description: ""
-date: "2026-03-05T22:38:39.775370"
+date: "2026-03-13T08:56:59.827883"
 draft: false
 sectors:
   - broadcasting
@@ -22,238 +22,422 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products:
+  - "satellite-television"
+headquarters_locations:
+  - "el-segundo"
+subsidiaries:
+  - vrio
+  - "directv-stream"
+  - "att-sports-networks"
+  - iptv
+  - "game-show-network"
+foundation_dates:
+  - 1985
+  - 1990
 lightings:
+  - natural
   - studio
+  - colored
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
-  - "altered-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
+  - "low-angle-photo"
+  - "altered-perspective"
 image_backgrounds:
-  - wood
-  - textured
-  - text
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
+  - green
   - gradient
+  - text
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
-  - green
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - light
-  - "sunset-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - "galaxy-colors"
-  - "inverted-colors"
-  - bright
-  - dark
   - "aquatic-colors"
+  - "inverted-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - "galaxy-colors"
+  - monotone
+  - grayscale
+  - dark
+  - light
+  - bright
 photography_genres:
-  - selfie
-  - landscape
-  - promotional
-  - product
-  - text
-  - interior
-  - illustration
-  - abstract
-  - street
-  - advertising
-  - architectural
-  - sports
-  - candid
-  - action
-  - "live-stage"
-  - group
-  - astronomy
-  - logo
-  - advertisement
-  - fashion
-  - sky
-  - "text-heavy"
-  - underwater
-  - corporate
-  - cartoon
-  - "graphic-design"
-  - portrait
-  - beauty
   - staged
+  - corporate
+  - logo
   - historical
-  - instructional
-  - "still-life"
-concepts:
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
-  - typography
+  - product
+  - promotional
   - "graphic-design"
-  - "wave-pattern"
+  - abstract
+  - instructional
+  - selfie
+  - underwater
+  - cartoon
+  - "live-stage"
+  - street
+  - sports
+  - sky
+  - fashion
+  - astronomy
+  - group
+  - advertising
+  - advertisement
+  - beauty
+  - portrait
+  - "text-heavy"
+  - interior
+  - landscape
+  - illustration
+  - candid
+  - text
+  - "still-life"
+  - architectural
+  - action
+concepts:
+  - "text-heavy"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
+  - "short-exposure"
   - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
+  - "negative-space"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
   - symmetrical
   - asymmetry
-  - "long-exposure"
-  - "short-exposure"
-  - "negative-space"
+  - "neutral-density-filter"
 dominant_colors:
   - white
   - olive
-  - orange
-  - black
-  - "dark-blue"
   - "dark-brown"
-  - "light-blue"
+  - "dark-blue"
   - turquoise
+  - black
+  - orange
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - flowing
-  - casual
   - white
-  - wavy
-  - loose
-  - gray
-  - updo
-  - "tied-back"
-  - straight
-  - ponytail
-  - curly
-  - braided
-  - short
   - varied
-  - covered
-  - "pulled-back"
-  - neat
-  - bald
+  - ponytail
   - black
   - long
+  - neat
+  - bald
+  - gray
+  - "tied-back"
+  - curly
+  - braided
+  - updo
+  - "pulled-back"
+  - flowing
+  - straight
+  - covered
+  - casual
+  - loose
+  - short
+  - wavy
 facial_expressions:
-  - joyful
-  - smiling
   - shocked
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
   - surprised
+  - smiling
+  - content
 clothing_styles:
-  - casual
-  - relaxed
-  - athletic
-  - "form-fitting"
-  - business
-  - beachwear
-  - costume
   - formal
+  - beachwear
+  - comfortable
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - relaxed
+  - "form-fitting"
   - protective
   - swimwear
-  - traditional
-  - comfortable
-  - "business-casual"
+  - business
+  - costume
 clothing_colors:
   - red
-  - vibrant
-  - muted
+  - pastel
+  - beige
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
   - light
+  - earthy
   - patriotic
-  - beige
-  - pastel
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
   - running
   - stretching
-  - static
+  - active
+  - leaning
+  - walking
   - confident
-gazes:
+  - static
+  - relaxed
   - engaged
-  - away
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - surprised
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - "lower-half"
-  - "full-back"
-  - midsection
   - "upper-body"
-  - "full-body"
   - "close-up"
+  - "lower-half"
+  - "hand-only"
+  - midsection
+  - "full-back"
+  - "head-shot"
+  - "full-body"
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - red
-  - orange
   - yellow
+  - red
+  - blue
+  - orange
 typographies:
   - din
 imagery_styles:
   - photography
   - lifestyle
 wikidata_description: episode of Undercover Boss (S2 E3)
+wikidata_url: "https://www.wikidata.org/wiki/Q114471299"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 347
 guideline_count: 1
+sample_image_urls:
+  - "https://pbs.twimg.com/media/EjwoJLbXsAANCen?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ExQt6AQWEAodLMS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8MQWM_XEA03cYs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DT7eQjRVoAAjaeH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwzSniDWUAIMH-S?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FIhgzA4UYAArjmw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSB-MAKVkAEL12U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FNp4NRKXwAAhCia?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCqZiRZUYAEYiaX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EziTZbJWQAIH0hI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYpMw5iVAAAPGFD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ew28oQeWYA0x36l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaWjO4ZU8AAuNll?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjVfa7jWAAAy6W4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYcl_x6XoAEd2jJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_LZ-iBVkAEaS01?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtGfTfzWkAU4Fyr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fhemg-nWAAUiFqY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ea0nS09U0AASBl0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvBBXr0WYAMV5Rk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4gUoxNUUAU_Ggj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRtnh0xVcAAtlkY?format=png&name=large"
+  - "https://pbs.twimg.com/media/FSgd9aaVcAESXQP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXTh4EQXgAEFVku?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5oYGoZXMAA0E7-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FG5GHDPVcAIGRlu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FHUA0-RUcAAVB1M?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0tUe9kXoAEJPOZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8RZ7bYX0AIQWmA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5SpXzoXMAY1gc1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eh98Y_yXkAE3TUq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPwUQi5UYBEa7ns?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4bq_c0XIAM0BR5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfHrQI-XEAQUVUB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FAe2u6SVUAA31iZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4dCPkXXoAELM0J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7kDnX7XIAchi-f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCoMrmZVkAI2NQ1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyT9ejMWYAEQG5l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9PzwbLVkAYGFug?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FaxhV5sWYAESUfR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FA4V0WjWYAAxZ26?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyIvWD-WYAE6mKE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ep3x7ypXcAQTx90?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9FOcpBXsAUgfkp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-SsDHjVQAAzsk9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eb7vZVUU8AAdtq3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EisskktWAAAXoRA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGcCFVtXoAUyJQz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfCfU4jXEAAp6iT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fc8KEoXX0AIpDtu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-PEEgEXIAEuIPv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfHsUNpXwAAv7WJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9vS6LMWQAIWWR3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DleHwQTVsAApBeH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGGb4JCXwAM-QYn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWhqeEnUcAAlse-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEhGIHtVQAEyhWZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FERRyXPXwAIlpZx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUl3hJ6WQAEZlCC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FL6mwpAVcAE2d4l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJ-B3noVEAAVlQs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUW6zbnWIAoeZWr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FH3xQtZUYAAjUZO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FI2uJ7rVcAAoFxu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGRCyvZVcAAuCi9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCpKDIUXEAgCL63?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FP7jJ05aUAAFZKl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWSbrnYXwAUkDsF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEvkxiOUcAE7VRt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPEjZM8UYAAeAHd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVzhm_4XoAYXQ49?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOZD6UhVkAAomdQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FIsNYh6VIAESoz9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJ0r81kUYAI682D?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYEjU5bVsAAPIZ7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLQsN3TVQAgyUHY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGtPh2rVEAA7Goo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLq03wPVQAEaxED?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLWIFmmXEAYAhoL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FNWUV5fXoAAD5Oh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FD73dWFX0Ac5wIC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKZkA3pUUAA0aZY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWX1VKYXkAU4f8D?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQlY7KIVcAcgOwG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdIdqwLX0AAPgLB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKTSjj3UUAADdPm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM0jFetVkAITacw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEQziU2XwAgIpcj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FTdp3_gVEAARa5g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FHylWgKWQAA5pjU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQqhA6CVEAQ6CwE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGtN9IqVgAAaoKv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FE6H56CVIAQ5PV7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGwOe1lUYAAbO1o?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGMLnxrVkAUfEWL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVY3AkKWIAAcfiO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEg28eQU8AANXVo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLQTr2qUYAo2IAi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLM1-8AXoAEJiCu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFZpPB4VIAQn_Cd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFoBwD1VUAEiyej?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcUM1pwakAE8d3g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUTA44sVIAA5nAs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSVQM_BVsAAWfYU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXKtlKhX0AESeUs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGG3qy0WYAILjx4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FV3zkgnX0AAoTHI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FE0jDvoVUAAfgeY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEkS7H5VgAA80pS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCPd5JRVEAE8nM8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCk5HeuVgAAuJP-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGq5rVEXwBE-i35?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdJb48YXkAIclrM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhQGvegWoAQeSpZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkTV7fFXYAgeVmD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FbvjeD3XgAIOkCk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQKvTvMVsAAC9UE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYOcN8OXwAUewCy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9y7idwX0AYaMyG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EujNMoOXUAIGH3X?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRtsyUWVEAYSc_J?format=png&name=large"
+  - "https://pbs.twimg.com/media/FRtv6ZyVEAEk_xM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDxugZRXsAgZd5A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2caX9gUgAAbgFV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLZrsBhWQAop924?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXph1VnUYAEPvqH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9RKoyiWUAUwc3-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fa4MPhpakAAInaw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-okxDdWYAIGS3m?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9LoDVxXsAsfV28?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfH_DbsWQAEoPXN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPpES8rX4AI5ikJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfUXYDtUMAAIfMo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyHes9MWsAA7fvF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2gewgQWwAAMmOJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EV1-kOLWAAE7qe0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfIaY39XoAcwCiE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_xCn5TXkAAeQdI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fdbdi4AXwAIP7wX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8sLzTkUcAIxjEa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfJCX-dXwAAg0GF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-iD1pZVgAIr78p?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E94S4zrXMAUozBn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnNW1m7WMAAFveF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnnWKGpXcAAGp14?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGwe78MUcAA4mML?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FA41jPJX0AA_BJH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbXtkxOUcAEsnu6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdE8I2lVAAAtqPT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dl4Rq6wU8AA5XbG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-O6Dn-VgAI5Mmp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjNfxbKU8AEvmjV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwGp0f4WoAAEg_q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjMKNrgX0AUkJUc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ElG10YXW0AAkuPn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwCygq6VAAAuWdH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmvnNWqXYAAJI08?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dk525EnUcAA0oSt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/En2XVx7XYAEpMj3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDG3a3cVcAAHMBT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXaFgVMUMAE4vEH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E99ceDvWQAApdY9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLhsTVGUUAEeO1d?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -293,24 +477,24 @@ guideline_count: 1
 ### Color Analysis
 *Statistics computed across 347 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Dark Blue | 37.9% | 33.1% | 12.4% | 58.2% | 83.0% | ±28.1% | 49.3% |
-| Black | 31.9% | 26.8% | 13.6% | 44.8% | 64.6% | ±21.6% | 65.4% |
-| Light Blue | 24.3% | 13.6% | 9.2% | 25.7% | 62.8% | ±24.6% | 19.9% |
-| Turquoise | 22.5% | 12.9% | 7.9% | 41.6% | 49.9% | ±17.9% | 11.0% |
-| White | 22.1% | 14.2% | 9.8% | 27.4% | 58.0% | ±20.2% | 35.2% |
-| Dark Brown | 21.7% | 15.2% | 9.9% | 28.1% | 41.4% | ±16.2% | 48.4% |
-| Olive | 18.9% | 10.6% | 7.8% | 30.8% | 36.6% | ±13.6% | 11.5% |
-| Orange | 16.9% | 10.7% | 8.5% | 18.2% | 32.1% | ±13.5% | 14.7% |
+| Color | Mean |
+|-------|------|
+| Dark Blue | 37.9% |
+| Black | 31.9% |
+| Light Blue | 24.3% |
+| Turquoise | 22.5% |
+| White | 22.1% |
+| Dark Brown | 21.7% |
+| Olive | 18.9% |
+| Orange | 16.9% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 6.1% | 0% | 0.0% | 7.8% | ±13.0% |
-| Neutral | 58.3% | 63.4% | 28.5% | 91.3% | ±34.0% |
-| Cool | 35.6% | 21.6% | 0.0% | 67.8% | ±35.4% |
+| Tone | Mean |
+|------|------|
+| Warm | 6.1% |
+| Neutral | 58.3% |
+| Cool | 35.6% |
 
 ### Sample Images
 
@@ -420,6 +604,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q114471299) |
+
+| Property | Value |
+|----------|-------|
+| Product | [Satellite Television](/products/satellite-television/) |
+| Headquarters Location | [El Segundo](/headquarters_locations/el-segundo/) |
+| Subsidiary | [Vrio](/subsidiaries/vrio/); [Directv Stream](/subsidiaries/directv-stream/); [Att Sports Networks](/subsidiaries/att-sports-networks/); [Iptv](/subsidiaries/iptv/); [Game Show Network](/subsidiaries/game-show-network/) |
+| Foundation Date | [1985](/foundation_dates/1985/); [1990](/foundation_dates/1990/) |
 | Publication Date | 2010-10-10 |
 | Season | Undercover Boss, season 2 |
 | Part Of The Series | Undercover Boss |
@@ -430,7 +622,6 @@ guideline_count: 1
 | Trakt.Tv Id | shows/undercover-boss/seasons/2/episodes/3 |
 | Country | United States |
 | Headquarters Location | El Segundo |
-| Logo Image | DIRECTV 2021 logo.svg (from 2021, until 2025), DirecTV logo new.svg (from 2016, until 2021), 2015 Directv logo.svg (from 2015, until 2016), 2011 Directv logo.svg (from 2011, until 2015), 2004 Directv logo.svg (from 2004, until 2008) (+3 more) |
 | Inception | 1990, 1985 |
 | Industry | telecommunications |
 | Parent Organization | DirecTV Group (until 2015), AT&T Communications, LLC |

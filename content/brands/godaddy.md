@@ -2,7 +2,7 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-03-05T22:38:39.565030"
+date: "2026-03-13T08:56:59.491367"
 draft: false
 sectors:
   - software
@@ -20,10 +20,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - scottsdale
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +54,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - lockup
+  - wordmark
   - symbol
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - impact
 imagery_styles:
-  - professional
   - clean
+  - professional
 wikidata_description: publicly held company that is primarily an internet domain registrar and web hosting company
+wikidata_url: "https://www.wikidata.org/wiki/Q1416215"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1416215) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Scottsdale](/headquarters_locations/scottsdale/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Headquarters Location | Scottsdale |
 | Country | United States |
 | Freebase Id | /m/03zjn4 |
@@ -124,13 +144,11 @@ guideline_count: 1
 | Grid Id | grid.497152.c |
 | Industry | web hosting service |
 | Founded By | Bob Parsons |
-| Employees | 5,990 (as of 2017) |
 | Stock Exchange | Nasdaq, New York Stock Exchange |
 | Ror Id | 00pb9rf78 |
 | Downdetector Id | go-daddy |
 | Member Of | Node.js Foundation, OpenJS Foundation |
 | Topic'S Main Category | Category:GoDaddy |
-| Logo Image | GoDaddy logo.svg (from 2020-01-14) |
 | Instagram Username | godaddy |
 | Autonomous System Number | 26496 |
 | Github Account | godaddy |
@@ -151,8 +169,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.23B (2,231,900,000 United States dollar (as of 2017))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.23B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $154.00M (154,000,000 United States dollar (as of 2017))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $154.00M | as of 2017 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,990 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |

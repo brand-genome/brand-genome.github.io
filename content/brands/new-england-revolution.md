@@ -2,7 +2,7 @@
 title: New England Revolution
 slug: "new-england-revolution"
 description: ""
-date: "2026-03-05T22:38:39.280438"
+date: "2026-03-13T08:56:59.222669"
 draft: false
 sectors:
   - sports
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - foxboro
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "professional soccer club based in Boston, Massachusetts, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q309095"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q309095) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Foxboro](/headquarters_locations/foxboro/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Topic'S Main Category | Category:New England Revolution |
 | Freebase Id | /m/01kkk4 |
 | Sport | association football |
@@ -77,7 +96,6 @@ guideline_count: 1
 | Youtube Channel Id | UCn1LnRzToob6tRp8V_ijeBQ (as of 2020-12-12, from 2008-05-15) |
 | Instagram Username | nerevolution |
 | Kbpedia Id | NewEnglandRevolution |
-| Logo Image | New England Revolution wordmark.svg (from 1996, until 2021), MLS crest logo RGB - New England Revolution.svg (from 2015), New England Revolution wordmark 2022.svg (from 2022) |
 | Described At Url | https://www.mlssoccer.com/meta/club/new-england |
 | Social Media Followers | 120,437 (as of 2021-01-02), 116,243 (as of 2020-04-26), 10,500 (as of 2021-07-03), 129,315 (as of 2022-03-01), 133,349 (as of 2023-02-09) (+4 more) |
 | X Topic Id | 731226236190523393 |

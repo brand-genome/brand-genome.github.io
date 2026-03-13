@@ -2,7 +2,7 @@
 title: Creighton University
 slug: "creighton-university"
 description: ""
-date: "2026-03-05T22:38:39.504569"
+date: "2026-03-13T08:56:59.428399"
 draft: false
 sectors:
   - university
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - omaha
+subsidiaries: []
+foundation_dates:
+  - 1878
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +53,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
-  - white
-  - blue
-  - black
   - "pantone-286"
+  - white
+  - black
+  - blue
 typographies:
   - serif
   - "proxima-nova"
 imagery_styles:
-  - bold
-  - photography
-  - classic
-  - candid
   - natural
   - portrait
+  - candid
+  - photography
+  - classic
+  - bold
 wikidata_description: "private Jesuit university in Omaha, Nebraska, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q770544"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +133,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q770544) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Omaha](/headquarters_locations/omaha/) |
+| Foundation Date | [1878](/foundation_dates/1878/) |
 | Coordinate Location | 41.264722222222, -95.946111111111 |
 | Country | United States |
 | Topic'S Main Category | Category:Creighton University |
@@ -142,7 +163,6 @@ guideline_count: 1
 | Affiliation | Association of Jesuit Colleges and Universities |
 | Times Higher Education World University Id | creighton-university |
 | Google Maps Customer Id | 3675518554145926252 |
-| Logo Image | Creighton University logo.svg |
 | Image | Creighton mall west.JPG |
 | Owner Of | Creighton Sports Complex, D. J. Sokol Arena, Morrison Stadium |
 | Microsoft Academic Id (Discontinued) | 114493937 |
@@ -163,9 +183,7 @@ guideline_count: 1
 | Jstor Publisher Id | creightonu |
 | Social Media Followers | 17,530 (as of 2021-01-07), 17,083 (as of 2020-04-25), 18,395 (as of 2022-02-21), 18,955 (as of 2023-02-07), 5,000 (as of 2025-11-08) |
 | Count Of Students | 8,770 (as of 2020-09), 8,184 (as of 2021-09-01) |
-| Total Assets | 1,453,501,000 United States dollar (as of 2020-06-30) |
 | Endowment | 565,975,000 United States dollar (as of 2020-06-30), 690,797,307 United States dollar (as of 2022-06-30), 731,986,886 United States dollar (as of 2021-06-30) |
-| Employees | 2,234 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Crunchbase Organization Id | creighton-university |
@@ -187,3 +205,15 @@ guideline_count: 1
 | Library Of Congress Authority Id | n83223977 |
 | Threads Username | creighton1878 |
 | Athletics Program | Creighton Bluejays |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,234 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.45B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

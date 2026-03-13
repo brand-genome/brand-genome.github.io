@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-03-05T22:38:39.669762"
+date: "2026-03-13T08:56:59.589194"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2007
   - 2015
+  - 2007
 languages:
   - english
 tags:
@@ -22,6 +22,22 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bus
+  - truck
+  - "passenger-car"
+  - "commercial-vehicle"
+  - engine
+products: []
+headquarters_locations:
+  - stuttgart
+subsidiaries: []
+foundation_dates:
+  - 1926
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,34 +56,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
-  - black
   - "pantone-877"
+  - black
   - "pantone-282"
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - graphic
+  - natural
   - clean
+  - portrait
+  - landscape
   - modern
+  - photography
   - minimal
   - gradient
-  - landscape
-  - natural
-  - portrait
+  - graphic
 wikidata_description: "German automobile brand owned by Mercedes-Benz AG"
+wikidata_url: "https://www.wikidata.org/wiki/Q36008"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -172,11 +190,17 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q36008) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/) |
+| Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
+| Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |
 | Topic'S Main Category | Category:Mercedes-Benz |
 | Gnd Id | 4038692-2 |
 | Inception | 1926 |
-| Logo Image | Mercedes-Benz Logo 2010.svg (from 2010, until 2021) |
 | Facebook Username | MercedesBenz |
 | Giphy Username | mercedesbenz |
 | Instagram Username | mercedesbenz |

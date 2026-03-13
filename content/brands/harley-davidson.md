@@ -2,13 +2,13 @@
 title: Harley Davidson
 slug: "harley-davidson"
 description: ""
-date: "2026-03-05T22:38:39.367382"
+date: "2026-03-13T08:56:59.323918"
 draft: false
 sectors:
   - "consumer-goods"
+  - finance
   - insurance
   - automobile
-  - finance
 regions:
   - usa
 years:
@@ -16,14 +16,24 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,27 +55,29 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - "pantone-165"
-  - orange
-  - yellow
-  - "pantone-464"
-  - "pantone-159"
   - brown
+  - "pantone-165"
+  - "pantone-464"
+  - yellow
+  - "pantone-159"
   - "pantone-130"
+  - orange
 typographies:
   - bodoni
-  - script
   - optima
   - helvetica
+  - script
   - display
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "transport museum in Milwaukee, Wisconsin"
+wikidata_url: "https://www.wikidata.org/wiki/Q5658750"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +136,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5658750) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Coordinate Location | 43.031349, -87.916828 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Wisconsin |

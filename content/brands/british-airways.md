@@ -2,11 +2,11 @@
 title: British Airways
 slug: "british-airways"
 description: ""
-date: "2026-03-05T22:38:39.827300"
+date: "2026-03-13T08:56:59.912600"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - "united-kingdom"
 years:
@@ -14,17 +14,28 @@ years:
 languages:
   - english
 tags:
-  - airline
-  - transport
   - corporate
+  - transport
+  - airline
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: flag carrier airline of the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q8766"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8766) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Isin | GB0001290575 |
 | Airline Hub | London Heathrow Airport, London Gatwick Airport |
 | Item Operated | Airbus A320-100 (from 1988, until 2007), Boeing 737 (from 1977, until 2015), Boeing 747 (from 1974, until 2024), Boeing 757 (from 1983, until 2015), Boeing 767 (from 1990, until 2018) (+36 more) |
@@ -171,7 +190,6 @@ guideline_count: 1
 | Err Keyword Id | 25601 |
 | Delfi.Ee Topic Id | 56499124 |
 | Subreddit | BritishAirways |
-| Logo Image | Logo wordmark British Airways.png |
 | ‎Yale Lux Id | group/23159f19-cbc5-474c-8014-9bfd813562cf |
 | History Of Topic | history of British Airways |
 | Wikirate Company Id | 2153202 |
@@ -179,8 +197,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $13.02B (13,020,000,000 pound sterling (as of 2018))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.02B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $1.95B (1,952,000,000 pound sterling (as of 2018))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.95B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |

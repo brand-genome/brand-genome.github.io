@@ -2,7 +2,7 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-03-05T22:38:39.711778"
+date: "2026-03-13T08:56:59.728239"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -16,19 +16,40 @@ languages:
 tags:
   - software
 industries:
-  - "business-intelligence"
-  - "technology-industry"
-  - "software-development"
-  - "data-visualization"
   - analytics
   - "software-industry"
+  - "data-visualization"
+  - "software-development"
+  - "technology-industry"
+  - "business-intelligence"
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets:
+  - "50B-100B"
+products_or_materials_produced:
+  - "data-analysis-software"
+  - "business-intelligence-software"
+  - application
+  - "mobile-app"
+  - "computer-program"
+  - software
+products: []
+headquarters_locations:
+  - wilmington
+  - tysons
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +70,9 @@ body_sections: []
 logo_elements:
   - icon
   - alternate
-  - horizontal
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
   - "pantone-1795"
@@ -61,10 +82,12 @@ typographies:
 imagery_styles:
   - graphic
 wikidata_description: American technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q1192211"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +122,13 @@ Thank you
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1192211) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Application](/products_or_materials_produced/application/); [Mobile App](/products_or_materials_produced/mobile-app/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Wilmington](/headquarters_locations/wilmington/); [Tysons](/headquarters_locations/tysons/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/052hvb |
 | Stock Exchange | Nasdaq (from 1998) |
 | Headquarters Location | Tysons (from 1994), Wilmington (from 1989, until 1994) |
@@ -110,16 +140,12 @@ Thank you
 | X (Twitter) Username | MicroStrategy (as of 2018-05-10, from 2008-05-23) |
 | Linkedin Company Or Organization Id | 3643 |
 | Industry | analytics, business intelligence, data visualization, technology industry, software industry (+1 more) |
-| Logo Image | Microstrategy-logo.gif |
 | Product Or Material Produced | software, computer program, application, business intelligence software, data analysis software (+1 more) |
 | Founded By | Michael J. Saylor (from 1989), Sanju Bansal |
 | Chairperson | Michael J. Saylor (from 1989) |
-| Employees | 2,528 (as of 2018) |
 | Part Of | S&P 600, Nasdaq-100 |
 | Official Name | MicroStrategy Incorporated |
 | Country | United States |
-| Total Assets | 855,768,000 United States dollar (as of 2018) |
-| Market Capitalization | 79,460,000,000 United States dollar (as of 2025) |
 | Owned By | Michael J. Saylor, BlackRock, The Vanguard Group, Invesco |
 | Github Account | MicroStrategy |
 | Legal Entity Identifier | 549300WQTWEJUEHXQX21 |
@@ -139,8 +165,30 @@ Thank you
 
 ### Revenue History
 
-- $463.50M (463,500,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $463.50M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $1.17B (-1,170,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.17B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,528 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $855.77M | as of 2018 | [500M-1B](/total_assets_buckets/500m-1b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $79.46B | as of 2025 | [50B-100B](/market_cap_buckets/50b-100b/) |

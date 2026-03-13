@@ -2,7 +2,7 @@
 title: Cuyamaca College
 slug: "cuyamaca-college"
 description: ""
-date: "2026-03-05T22:38:39.328040"
+date: "2026-03-13T08:56:59.282403"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1978
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,26 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - mascot
-  - secondary
-  - lockup
-  - horizontal
   - signature
+  - secondary
+  - primary
+  - lockup
+  - mascot
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - arial
   - times
+  - arial
 imagery_styles: []
 wikidata_description: "community college in Rancho San Diego, California, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q5197087"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -137,6 +150,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5197087) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1978](/foundation_dates/1978/) |
 | Coordinate Location | 32.7445, -116.94 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | California |
@@ -157,9 +175,14 @@ guideline_count: 2
 | Freebase Id | /m/0df6j4 |
 | Crunchbase Organization Id | cuyamaca-college |
 | Count Of Students | 8,720 (as of 2020-09) |
-| Employees | 529 (as of 2020-09) |
 | Openalex Id | I2801946798 |
 | Academic Calendar Type | semester |
 | Sevis School Id | 1759 |
 | Member Of | American Association of Community Colleges |
 | Parent Organization Or Unit | California Community Colleges |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 529 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

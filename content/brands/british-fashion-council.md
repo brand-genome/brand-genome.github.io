@@ -2,11 +2,11 @@
 title: British Fashion Council
 slug: "british-fashion-council"
 description: ""
-date: "2026-03-05T22:38:39.333839"
+date: "2026-03-13T08:56:59.287795"
 draft: false
 sectors:
-  - fashion
   - ngo
+  - fashion
 regions:
   - "united-kingdom"
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "somerset-house"
+subsidiaries: []
+foundation_dates:
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,21 +52,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies:
-  - impact
   - times
+  - impact
 imagery_styles:
-  - bold
-  - contemporary
   - graphic
+  - contemporary
+  - bold
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q4969966"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -217,6 +230,12 @@ GUIDELINES
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4969966) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Somerset House](/headquarters_locations/somerset-house/) |
+| Foundation Date | [1983](/foundation_dates/1983/) |
 | Library Of Congress Authority Id | nb2010028045 |
 | Viaf Cluster Id | 132794500 |
 | Inception | 1983 |

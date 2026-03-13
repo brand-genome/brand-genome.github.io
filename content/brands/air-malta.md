@@ -2,7 +2,7 @@
 title: Air Malta
 slug: "air-malta"
 description: ""
-date: "2026-03-05T22:38:39.494286"
+date: "2026-03-13T08:56:59.423500"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - malta
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +50,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - red
 typographies:
   - script
   - arial
 imagery_styles:
+  - vibrant
+  - natural
   - modern
   - photography
-  - natural
-  - vibrant
 wikidata_description: defunct Maltese airline
+wikidata_url: "https://www.wikidata.org/wiki/Q221604"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +114,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q221604) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Malta](/headquarters_locations/malta/) |
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Topic'S Main Category | Category:Air Malta |
 | Freebase Id | /m/01453d |
 | Gnd Id | 5169202-8 |
@@ -109,7 +128,6 @@ guideline_count: 1
 | Icao Airline Designator | AMC |
 | Callsign Of Airline | AIR MALTA |
 | Airline Hub | Malta International Airport |
-| Logo Image | Air Malta (2012).svg (from 2012), Air Malta Logo neu.svg (from 2000, until 2012), Air Malta Logo.svg (from 1980, until 2000) |
 | Child Organization Or Unit | Azzurra Air |
 | Inception | 1973 |
 | Quora Topic Id | Air-Malta |

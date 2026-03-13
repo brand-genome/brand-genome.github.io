@@ -2,7 +2,7 @@
 title: Universidad de los Andes
 slug: "universidad-de-los-andes"
 description: ""
-date: "2026-03-05T22:38:39.820277"
+date: "2026-03-13T08:56:59.895551"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bogota
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,19 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
   - photography
 wikidata_description: private university in Colombia
+wikidata_url: "https://www.wikidata.org/wiki/Q1569421"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -165,6 +178,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1569421) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bogota](/headquarters_locations/bogota/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Topic'S Main Category | Category:University of Los Andes (Colombia) |
 | Freebase Id | /m/03py55 |
 | Coordinate Location | 4.6012, -74.0657 |
@@ -183,7 +202,6 @@ guideline_count: 1
 | Qs World University Id | universidad-de-los-andes |
 | Times Higher Education World University Id | university-andes-colombia |
 | U Multirank University Id | university-de-los-andes |
-| Logo Image | University of Los Andes logo.svg |
 | Founded By |  |
 | Nl Cr Aut Id | ko2003181581 |
 | Microsoft Academic Id (Discontinued) | 162096671 |

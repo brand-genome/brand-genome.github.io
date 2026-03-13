@@ -2,7 +2,7 @@
 title: World Triathlon
 slug: "world-triathlon"
 description: ""
-date: "2026-03-05T22:38:39.366054"
+date: "2026-03-13T08:56:59.318707"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lausanne
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,23 +49,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
-  - bold
-  - photography
-  - dynamic
-  - professional
-  - clean
   - natural
+  - dynamic
+  - clean
+  - professional
+  - photography
+  - bold
 wikidata_description: international triathlon governing body
+wikidata_url: "https://www.wikidata.org/wiki/Q637663"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q637663) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Topic'S Main Category | Category:World Triathlon |
 | Freebase Id | /m/043nrf |
 | Viaf Cluster Id | 163764864 |

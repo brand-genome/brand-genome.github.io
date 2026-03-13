@@ -2,7 +2,7 @@
 title: Kean University
 slug: "kean-university"
 description: ""
-date: "2026-03-05T22:38:39.770099"
+date: "2026-03-13T08:56:59.821452"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1855
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in New Jersey, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q6382148"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +134,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6382148) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1855](/foundation_dates/1855/) |
 | Coordinate Location | 40.6795, -74.2319 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Union, New Jersey, Hillside, Union County |
@@ -148,7 +166,6 @@ guideline_count: 1
 | Freebase Id | /m/01r45j |
 | Social Media Followers | 11,891 (as of 2021-01-08), 12,350 (as of 2022-02-25), 12,644 (as of 2023-02-03), 6,730 (as of 2023-06-28), 7,390 (as of 2024-07-13) (+1 more) |
 | Count Of Students | 14,064 (as of 2020-09) |
-| Employees | 1,886 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I47449453 |
@@ -164,8 +181,13 @@ guideline_count: 1
 | Snarc Id | Q46422 |
 | Kisti Id | K000207335 |
 | Located In The Statistical Territorial Entity | Kean University |
-| Logo Image | Kean univ textlogo.png |
 | ‎Yale Lux Id | group/6893ad5a-43f6-454e-be2c-3be9225764fb |
 | Threads Username | keanuniversity |
 | Athletics Program | Kean Cougars |
 | Post Town | Union, NJ |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,886 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

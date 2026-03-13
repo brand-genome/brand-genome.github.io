@@ -2,7 +2,7 @@
 title: Southern Oregon University
 slug: "southern-oregon-university"
 description: ""
-date: "2026-03-05T22:38:39.415086"
+date: "2026-03-13T08:56:59.374543"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1872
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,33 +51,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - mascot
   - primary
+  - mascot
   - wordmark
 brand_colors:
+  - brown
   - white
   - red
-  - gold
-  - "pantone-186"
-  - orange
-  - black
   - blue
-  - brown
+  - gold
   - green
+  - "pantone-186"
+  - black
+  - orange
 typographies:
-  - impact
   - futura
+  - impact
 imagery_styles:
-  - bold
-  - photography
-  - graphic
   - dynamic
   - clean
+  - photography
+  - graphic
+  - bold
 wikidata_description: "public liberal arts college in Ashland, Oregon, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q1888661"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +134,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1888661) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1872](/foundation_dates/1872/) |
 | Coordinate Location | 42.1857, -122.694 |
 | Country | United States |
 | Topic'S Main Category | Category:Southern Oregon University |
@@ -139,7 +157,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Southern Oregon University alumni |
 | Grid Id | grid.263870.8 |
 | Microsoft Academic Id (Discontinued) | 75909800 |
-| Employees | 976 |
 | Street Address | 1250 Siskiyou Blvd, Ashland, OR, 97520 |
 | Located In The Administrative Territorial Entity | Ashland |
 | Times Higher Education World University Id | southern-oregon-university |
@@ -162,4 +179,9 @@ guideline_count: 1
 | Kisti Id | K000207890 |
 | Domain Name | sou.edu |
 | Image | Churchill Hall (Jackson County, Oregon scenic images) (jacD0029).jpg |
-| Logo Image | South oregon univ logo.png |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 976 | - | [100-1K](/employees_buckets/100-1k/) |

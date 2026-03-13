@@ -2,7 +2,7 @@
 title: Elavon
 slug: elavon
 description: ""
-date: "2026-03-05T22:38:39.718174"
+date: "2026-03-13T08:56:59.736271"
 draft: false
 sectors:
   - finance
@@ -20,6 +20,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - atlanta
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +58,16 @@ brand_colors:
   - gray
 typographies: []
 imagery_styles:
-  - bold
-  - static
   - photography
+  - static
+  - bold
 wikidata_description: credit card processing
+wikidata_url: "https://www.wikidata.org/wiki/Q5353627"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5353627) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Headquarters Location | Atlanta |
 | Inception | 1991 |
 | Quora Topic Id | Elavon |
@@ -115,5 +134,4 @@ guideline_count: 1
 | Parent Organization Or Unit | U.S. Bancorp |
 | Industry | financial services |
 | Crunchbase Organization Id | elavon |
-| Logo Image | Elavon primary logo.svg |
 | Youtube Handle | elavoninc (as of 2025-12-06) |

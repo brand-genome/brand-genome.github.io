@@ -2,12 +2,12 @@
 title: Fortinet
 slug: fortinet
 description: ""
-date: "2026-03-05T22:38:39.436885"
+date: "2026-03-13T08:56:59.401594"
 draft: false
 sectors:
-  - software
-  - networking
   - cybersecurity
+  - networking
+  - software
 regions:
   - usa
 years:
@@ -15,17 +15,32 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries:
   - "computer-security"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1m-10m"
+  - "1M-10M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+  - "networking-hardware"
+products: []
+headquarters_locations:
+  - sunnyvale
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +65,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: network security corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q2749364"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,17 +116,21 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2749364) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
+| Headquarters Location | [Sunnyvale](/headquarters_locations/sunnyvale/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/06lqbt |
 | Headquarters Location | Sunnyvale |
 | Stock Exchange | Nasdaq (from 2009-11-18) |
 | Inception | 2000-01-01 |
-| Employees | 5,066 (as of 2017) |
-| Total Assets | 1,270,000,000 United States dollar (as of 2015-12-31) |
 | Quora Topic Id | Fortinet-1 |
 | Product Or Material Produced | networking hardware, software |
 | Isin | US34959E1091 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.12356 |
-| Logo Image | Fortinet logo.svg |
 | Founded By | Ken Xie |
 | Country | United States |
 | Industry | computer security |
@@ -136,8 +157,24 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.01B (1,010,000,000 United States dollar (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.01B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $8.00M (8,000,000 United States dollar (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $8.00M | as of 2015 | [1M-10M](/net_profit_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,066 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.27B | as of 2015-12-31 | [1B-10B](/total_assets_buckets/1b-10b/) |

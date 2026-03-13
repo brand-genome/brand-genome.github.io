@@ -2,11 +2,11 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-03-05T22:38:39.581287"
+date: "2026-03-13T08:56:59.521539"
 draft: false
 sectors:
-  - ngo
   - "legal-services"
+  - ngo
 regions:
   - international
 years:
@@ -18,9 +18,23 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "creative-commons-license"
+products: []
+headquarters_locations:
+  - "mountain-view"
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +57,29 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - gold
-  - orange
-  - black
   - blue
-  - turquoise
-  - gray
+  - gold
   - green
+  - turquoise
+  - black
+  - orange
+  - gray
 typographies:
-  - roboto
   - "source-sans"
+  - roboto
 imagery_styles:
+  - professional
   - photography
   - vibrant
   - graphic
-  - professional
   - geometric
 wikidata_description: "non-profit-organization creating copyright licenses for the public release of creative works"
+wikidata_url: "https://www.wikidata.org/wiki/Q43449"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +125,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q43449) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Creative Commons License](/products_or_materials_produced/creative-commons-license/) |
+| Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Gnd Id | 7565402-7 |
 | Topic'S Main Category | Category:Creative Commons |
 | Chief Executive Officer | Ryan Merkley (from 2014-06-01, until 2019), Catherine Stihler (from 2020-08-17, until 2024), Anna Tumadóttir (from 2024-04) |
@@ -123,7 +146,7 @@ guideline_count: 1
 | Award Received | FSF Free Software Award for Projects of Social Benefit (as of 2009-03-24), Prix Ars Electronica (as of 2004), Open Publishing Awards (as of 2021) |
 | Irc Channel Url | irc://irc.freenode.net/#creativecommons |
 | Motto Text | Creative Commons develops, supports, and stewards legal and technical infrastructure that maximizes digital creativity, sharing, and innovation. |
-| Email Address | mailto:info@creativecommons.org |
+| Email Address | info@creativecommons.org |
 | Search Formatter Url | https://ccsearch.creativecommons.org/?search=$1&page=1&search_fields=title&search_fields=creator&search_fields=tags&per_page=20&work_types=photos&providers=500px&providers=flickr&work_types=cultural&providers=europeana&providers=met&providers=nypl&providers=rijksmuseum |
 | Charity Navigator Id (Obsolete) | 11730 |
 | Irs Employer Identification Number | 04-3585301 |
@@ -151,7 +174,6 @@ guideline_count: 1
 | On Focus List Of Wikimedia Project | WikiProject Open access, Open Culture / GLAM Glossary |
 | Short Name | CC, 🅭 |
 | Github Account | creativecommons |
-| Logo Image | CC-logo.svg |
 | Social Media Followers | 552,378 (as of 2021-01-01), 604,526 (as of 2018-05-10), 539,255 (as of 2022-03-01), 533,326 (as of 2023-02-11), 2,816 (as of 2024-02-12) (+3 more) |
 | Filmpolski Id | 58914 |
 | Interwiki Prefix At Wikimedia | creativecommonswiki (from 2010-04-19), ccorg (from 2024-10-23) |
@@ -165,7 +187,6 @@ guideline_count: 1
 | Donations | 2,736,370 United States dollar (as of 2019), 7,330,744 United States dollar (as of 2022), 9,506,488 United States dollar (as of 2021), 4,508,294 United States dollar (as of 2023), 9,742,864 United States dollar (as of 2011) (+8 more) |
 | Lex Id | Creative_Commons |
 | Depicted By | Creative Commons icon |
-| Employees | 147 |
 | Language Used | English |
 | Video | Creative Commons-Clips zur freien Nutzung – einfach erklärt (Terra X, ZDF).webm |
 | National Library Of Korea Id | KAB201729528 |
@@ -190,7 +211,6 @@ guideline_count: 1
 | Vikidia Article Id | es:Creative_Commons |
 | Journalistikon.De Id | creative-commons |
 | Bing Entity Id | fbdecc88-d013-be8b-2de8-061c51678fd5 |
-| Total Assets | 12,542,497 United States dollar (as of 2022), 9,584,245 United States dollar (as of 2021), 10,951,751 United States dollar (as of 2023), 10,419,288 United States dollar (as of 2011), 6,058,282 United States dollar (as of 2012) (+8 more) |
 | Bluesky Handle | creativecommons.bsky.social |
 | Linkedin Company Or Organization Id | creative-commons |
 | Eu Corporate Body Code | CC |
@@ -203,16 +223,42 @@ guideline_count: 1
 
 ### Revenue History
 
-- $12.56M (12,563,767 United States dollar (as of 2016-01-01))
-- $3.27M (3,267,812 United States dollar (as of 2019))
-- $2.01M (2,006,658 United States dollar (as of 2018))
-- $1.64M (1,639,408 United States dollar (as of 2017))
-- $7.66M (7,655,908 United States dollar (as of 2022))
-- $9.85M (9,853,619 United States dollar (as of 2021))
-- $4.89M (4,891,109 United States dollar (as of 2023))
-- $9.85M (9,846,493 United States dollar (as of 2011))
-- $1.13M (1,128,968 United States dollar (as of 2012))
-- $4.24M (4,238,850 United States dollar (as of 2013))
-- $2.92M (2,915,456 United States dollar (as of 2014))
-- $1.70M (1,702,944 United States dollar (as of 2015))
-- $942.78K (942,784 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $12.56M | as of 2016-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $3.27M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.01M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.64M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.66M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.85M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.89M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.85M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.13M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.24M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.92M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.70M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $942.78K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 147 | - | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $12.54M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $9.58M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.95M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.42M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $6.06M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.63M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.66M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.56M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.82M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $8.96M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.70M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.61M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.94M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |

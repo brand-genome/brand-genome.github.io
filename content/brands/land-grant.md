@@ -2,7 +2,7 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-03-05T22:38:39.658091"
+date: "2026-03-13T08:56:59.585145"
 draft: false
 sectors:
   - brewery
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +56,19 @@ brand_colors:
   - black
   - gray
 typographies:
-  - impact
   - roboto
+  - impact
 imagery_styles:
-  - bold
-  - minimal
   - graphic
+  - minimal
+  - bold
 wikidata_description: "1849 United Kingdom of Great Britain and Ireland Act of Parliament 12 & 13 Vic c. 22"
+wikidata_url: "https://www.wikidata.org/wiki/Q106327489"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -751,6 +762,10 @@ beers. Refer to the color swatches below.
 SEASONAL AND LIMITED RELEASE BRAND COLORS
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106327489) |
 
 | Property | Value |
 |----------|-------|

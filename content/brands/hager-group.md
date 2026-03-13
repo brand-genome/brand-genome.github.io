@@ -2,11 +2,11 @@
 title: Hager Group
 slug: "hager-group"
 description: ""
-date: "2026-03-05T22:38:39.475120"
+date: "2026-03-13T08:56:59.410127"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - germany
 years:
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - blieskastel
+subsidiaries: []
+foundation_dates:
+  - 1955
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: German company
+wikidata_url: "https://www.wikidata.org/wiki/Q440408"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,16 +105,26 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q440408) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Blieskastel](/headquarters_locations/blieskastel/) |
+| Foundation Date | [1955](/foundation_dates/1955/) |
 | Headquarters Location | Blieskastel |
 | Inception | 1955-01-01 |
 | Legal Form | Societas Europaea |
 | Country | Germany |
 | Location Of Formation | Blieskastel |
-| Employees | 10,500 |
-| Logo Image | Hager Group Logo grey.png |
 | Member Of | Designetz,  |
 | Google Knowledge Graph Id | /g/121n3_v7 |
 | Opencorporates Id | de/V1109_HRB16434 |
 | Glassdoor Company Id | 724602 |
 | Eu Transparency Register Id | 53349753503-84, 882684241667-75 |
 | Legal Entity Identifier | 529900TVS7JQY1E72426 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 10,500 | - | [10K-50K](/employees_buckets/10k-50k/) |

@@ -2,7 +2,7 @@
 title: Barbican Centre
 slug: "barbican-centre"
 description: ""
-date: "2026-03-05T22:38:39.275068"
+date: "2026-03-13T08:56:59.217104"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2007
+  - 2013
 languages:
   - english
 tags:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +57,17 @@ brand_colors:
 typographies:
   - futura
 imagery_styles:
-  - bold
-  - colorful
-  - monochrome
   - dynamic
+  - colorful
+  - bold
+  - monochrome
 wikidata_description: arts centre in the City of London
+wikidata_url: "https://www.wikidata.org/wiki/Q653858"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +115,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q653858) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Coordinate Location | 51.5202, -0.095 |
 | Owned By | City of London Corporation |
 | Designed By | Chamberlin, Powell and Bon |
@@ -143,7 +160,7 @@ guideline_count: 2
 | Brockhaus Enzyklopädie Online Id | barbican-centre |
 | Ne.Se Id | barbican-centre |
 | Historic County | Middlesex |
-| Email Address | mailto:info@barbican.org.uk |
+| Email Address | info@barbican.org.uk |
 | Facebook Username | BarbicanCentre |
 | Instagram Username | barbicancentre |
 | Social Media Followers | 1,012,047 (as of 2021-01-04), 1,027,875 (as of 2020-02-28), 998,653 (as of 2022-01-08), 995,792 (as of 2023-02-10) |

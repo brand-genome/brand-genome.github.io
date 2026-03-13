@@ -2,7 +2,7 @@
 title: European Commission
 slug: "european-commission"
 description: ""
-date: "2026-03-05T22:38:39.318561"
+date: "2026-03-13T08:56:59.266473"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: executive branch of the European Union
+wikidata_url: "https://www.wikidata.org/wiki/Q8880"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8880) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Award Received | Charlemagne Prize (as of 1969-05-15), BigBrotherAwards (as of 2021), European Sustainability Award (as of 2022) |
 | Member Of | Council of the Baltic Sea States, Group on Earth Observations, Global Ecolabelling Network, Barents Euro-Arctic Council, Coalition for Advancing Research Assessment |
 | Headquarters Location | City of Brussels |
@@ -88,7 +108,6 @@ guideline_count: 1
 | Bbc Things Id | 9983b28f-b17e-4cc7-bf38-d68606569f5c |
 | Babelio Author Id | 150410 |
 | Authority | College of Commissioners |
-| Logo Image | European Commission.svg, Logo Commission européenne FR.png, Europaeische Kommission logo.svg |
 | Giphy Username | EuropeanCommission |
 | Instagram Username | europeancommission |
 | Facebook Username | EuropeanCommission |
@@ -111,7 +130,6 @@ guideline_count: 1
 | Jorfsearch Organization Id | Q8880 |
 | Corporate Officer | Frans Timmermans (from 2019-12-01), Josep Borrell (from 2019-12-01) |
 | Language Used | English, German, French |
-| Employees | 32,871 (as of 2025-04) |
 | Parent Organization Or Unit | European Union |
 | Foundational Text | Treaty of Rome |
 | Klexikon Article Id | Europäische_Kommission |
@@ -235,3 +253,9 @@ guideline_count: 1
 | Die Tageszeitung Tag Id | t5008068 |
 | Google News Publication Id | CAAqJggKIiBDQklTRWdnTWFnNEtER1ZqTG1WMWNtOXdZUzVsZFNnQVAB |
 | On Focus List Of Wikimedia Project | Govdirectory |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 32,871 | as of 2025-04 | [10K-50K](/employees_buckets/10k-50k/) |

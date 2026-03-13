@@ -2,7 +2,7 @@
 title: DOF
 slug: dof
 description: ""
-date: "2026-03-05T22:38:39.733171"
+date: "2026-03-13T08:56:59.772828"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - manila
+subsidiaries: []
+foundation_dates:
+  - 1897
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,16 +55,18 @@ typographies:
   - serif
   - arial
 imagery_styles:
-  - bold
+  - portrait
   - photography
   - product
   - minimal
-  - portrait
+  - bold
 wikidata_description: national executive department of the Philippines
+wikidata_url: "https://www.wikidata.org/wiki/Q3002326"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3002326) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Manila](/headquarters_locations/manila/) |
+| Foundation Date | [1897](/foundation_dates/1897/) |
 | Topic'S Main Category | Category:Department of Finance (Philippines) |
 | Freebase Id | /m/0dnlxy |
 | Country | Philippines |

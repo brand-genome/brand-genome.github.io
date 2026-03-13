@@ -2,7 +2,7 @@
 title: epp Group
 slug: "epp-group"
 description: ""
-date: "2026-03-05T22:38:39.719076"
+date: "2026-03-13T08:56:59.737780"
 draft: false
 sectors:
   - "public-sector"
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1953
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +53,29 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - teal
-  - grey
-  - orange
-  - yellow
-  - blue
   - "pantone-1365"
+  - grey
   - "pantone-3015"
+  - blue
+  - yellow
+  - orange
+  - teal
 typographies:
+  - garamond
   - "open-sans"
   - trebuchet
-  - garamond
 imagery_styles:
+  - graphic
+  - gradient
   - professional
   - monochrome
-  - gradient
-  - graphic
 wikidata_description: "centre-right political group of the European Parliament"
+wikidata_url: "https://www.wikidata.org/wiki/Q635616"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +133,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q635616) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1953](/foundation_dates/1953/) |
 | Chairperson | Manfred Weber (from 2014-06-04), Joseph Daul (from 2007-01-09, until 2014-06-04), Hans-Gert Pöttering (from 1999-07-20, until 2007-01-15), Wilfried Martens (from 1994-07-19, until 1999-07-19), Leo Tindemans (from 1992-01-21, until 1994-07-18) (+9 more) |
 | Has Part(S) | European People's Party |
 | Freebase Id | /m/02pf1, /m/0134_6lx |
@@ -149,7 +166,6 @@ guideline_count: 1
 | Odis Id | OR_10294, OR_62881 |
 | Small Logo Or Icon | EPP logo.png (from 2015-06-24), EPP Group Logo (1999-2015).svg (from 1999, until 2015-06-23) |
 | Political Alignment | centre-right |
-| Logo Image | EPP Group logo-bg.svg, EPP Group logo-cs.svg, EPP Group logo-da.svg, EPP Group logo-de.svg, EPP Group logo-el.svg (+18 more) |
 | Public Funding | 18,200,000 (as of 2024-07) |
 | Eu Corporate Body Code | EP_GROUP_EPP |
 | ‎Yale Lux Id | group/476f095f-ba3f-4d48-8de9-8b503ca8dc3b |

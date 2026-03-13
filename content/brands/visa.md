@@ -2,7 +2,7 @@
 title: Visa
 slug: visa
 description: ""
-date: "2026-03-05T22:38:39.364440"
+date: "2026-03-13T08:56:59.316518"
 draft: false
 sectors:
   - software
@@ -14,18 +14,37 @@ years:
 languages:
   - english
 tags:
-  - financial
   - technology
+  - financial
 industries:
   - "financial-services"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced:
+  - "credit-card"
+products: []
+headquarters_locations:
+  - "foster-city"
+  - "san-mateo"
+  - "mission-rock"
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +67,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational financial services corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q328840"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,13 +91,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q328840) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Credit Card](/products_or_materials_produced/credit-card/) |
+| Headquarters Location | [Foster City](/headquarters_locations/foster-city/); [San Mateo](/headquarters_locations/san-mateo/); [Mission Rock](/headquarters_locations/mission-rock/); [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Stock Exchange | New York Stock Exchange (from 2008) |
 | Inception | 1958 |
 | Freebase Id | /m/01kqjn |
 | Image | Visa headquarters - August 2025 - Sarah Stierch.jpg |
 | Isin | US92826C8394 |
 | Country | United States |
-| Employees | 11,300 (as of 2015), 17,000 (as of 2018), 20,500 (as of 2020), 21,500 (as of 2021), 26,500 (as of 2022-09-30) (+1 more) |
 | Location Of Formation | Fresno |
 | Legal Entity Identifier | 549300JZ4OKEHW3DPJ59 |
 | Isni | 0000000404378027 |
@@ -97,8 +124,6 @@ guideline_count: 1
 | Ror Id | 05t1y0b59 |
 | Official Name | VISA INC. |
 | Irs Employer Identification Number | 26-0267673 |
-| Total Assets | 69,225,000,000 United States dollar (as of 2018-09-30), 67,977,000,000 United States dollar (as of 2017-09-30), 64,035,000,000 United States dollar (as of 2016-09-30), 39,367,000,000 United States dollar (as of 2015-09-30), 37,543,000,000 United States dollar (as of 2014-09-30) (+2 more) |
-| Total Equity | 34,006,000,000 United States dollar (as of 2018-09-30), 32,760,000,000 United States dollar (as of 2017-09-30), 29,842,000,000 United States dollar (as of 2015-09-30), 27,413,000,000 United States dollar (as of 2014-09-30), 3,291,200,000 United States dollar (as of 2016-09-30) (+2 more) |
 | Downdetector Id | visa |
 | Product Or Material Produced | credit card |
 | Omni Topic Id | 23e5fd57-0a9c-464e-872a-a7ec04acf648 |
@@ -109,7 +134,6 @@ guideline_count: 1
 | Topic'S Main Category | Category:Visa Inc. |
 | Linkedin Company Or Organization Id | visa |
 | Crunchbase Organization Id | visa-europe |
-| Market Capitalization | 494,680,000,000 United States dollar (as of 2021-08-26), 478,760,000,000 United States dollar (as of 2022-01-30), 657,727,000,000 United States dollar (as of 2025-05-01) |
 | National Library Of Israel J9U Id | 987007460613705171 |
 | Fandom Article Id | logos:Visa |
 | Canadiana Name Authority Id | ncf11132718 |
@@ -119,7 +143,6 @@ guideline_count: 1
 | Lex Id | Visa |
 | Librarything Author Id | visa |
 | Service Status Information Url | https://downdetector.ph/status/visa/ |
-| Logo Image | Visa Inc. logo (1992–1999).svg (from 1992, until 2000), Visa Inc. logo (2014–2021).svg (from 2014, until 2021), Visa Inc. logo (2021–present).svg (from 2021), Visa Inc. logo (1999–2005).svg (from 1996, until 2005), Visa Inc. logo (2005–2014).svg (from 2005, until 2014) |
 | Great Russian Encyclopedia Portal Id | visa-c644e5 |
 | Zhihu Topic Id | 20669662, 19553447 |
 | Youtube Handle | visabrand |
@@ -143,66 +166,115 @@ guideline_count: 1
 
 ### Revenue History
 
-- $20.61B (20,609,000,000 United States dollar (as of 2018-01-01))
-- $18.36B (18,358,000,000 United States dollar (as of 2017-01-01))
-- $13.88B (13,880,000,000 United States dollar (as of 2015-01-01))
-- $12.70B (12,702,000,000 United States dollar (as of 2014-01-01))
-- $15.08B (15,082,000,000 United States dollar (as of 2016))
-- $21.85B (21,846,000,000 United States dollar (as of 2020-09-30))
-- $24.11B (24,105,000,000 United States dollar (as of 2021-09-30))
-- $3.59B (3,590,000,000 United States dollar (as of 2007, from 2006-10-01, until 2007-09-30))
-- $6.26B (6,263,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-30))
-- $6.91B (6,911,000,000 United States dollar (as of 2009, from 2008-10-01, until 2009-09-30))
-- $8.06B (8,065,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $9.19B (9,188,000,000 United States dollar (as of 2011, from 2010-10-01, until 2011-09-30))
-- $10.42B (10,421,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $11.78B (11,778,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $22.98B (22,977,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $29.31B (29,310,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $32.65B (32,653,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
-- $35.93B (35,926,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-30))
-- $40.00B (40,000,000,000 United States dollar (as of 2025, from 2024-10-01, until 2025-09-30))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $20.61B | as of 2018-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.36B | as of 2017-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.88B | as of 2015-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.70B | as of 2014-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.08B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.85B | as of 2020-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.11B | as of 2021-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $3.59B | as of 2007, from 2006-10-01, until 2007-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.26B | as of 2008, from 2007-10-01, until 2008-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.91B | as of 2009, from 2008-10-01, until 2009-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.06B | as of 2010, from 2009-10-01, until 2010-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.19B | as of 2011, from 2010-10-01, until 2011-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.42B | as of 2012, from 2011-10-01, until 2012-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.78B | as of 2013, from 2012-10-01, until 2013-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.98B | as of 2019, from 2018-10-01, until 2019-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.31B | as of 2022, from 2021-10-01, until 2022-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.65B | as of 2023, from 2022-10-01, until 2023-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.93B | as of 2024, from 2023-10-01, until 2024-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.00B | as of 2025, from 2024-10-01, until 2025-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $12.95B (12,951,000,000 United States dollar (as of 2018))
-- $12.14B (12,144,000,000 United States dollar (as of 2017-01-01))
-- $7.88B (7,883,000,000 United States dollar (as of 2016-01-01))
-- $9.06B (9,064,000,000 United States dollar (as of 2015-01-01))
-- $7.70B (7,697,000,000 United States dollar (as of 2014-01-01))
-- $14.08B (14,081,000,000 United States dollar (as of 2020-09-30))
-- $15.80B (15,804,000,000 United States dollar (as of 2021-09-30))
-- $1.45B (-1,449,000,000 United States dollar (as of 2007, from 2006-10-01, until 2007-09-30))
-- $1.23B (1,232,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-30))
-- $3.54B (3,538,000,000 United States dollar (as of 2009, from 2008-10-01, until 2009-09-30))
-- $4.59B (4,589,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $5.46B (5,456,000,000 United States dollar (as of 2011, from 2010-10-01, until 2011-09-30))
-- $2.14B (2,139,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $7.24B (7,239,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $15.00B (15,001,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $18.81B (18,813,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $21.00B (21,000,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
-- $23.59B (23,595,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-30))
-- $23.99B (23,994,000,000 United States dollar (as of 2025, from 2024-10-01, until 2025-09-30))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $12.95B | as of 2018 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $12.14B | as of 2017-01-01 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $7.88B | as of 2016-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $9.06B | as of 2015-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.70B | as of 2014-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $14.08B | as of 2020-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $15.80B | as of 2021-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $1.45B | as of 2007, from 2006-10-01, until 2007-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.23B | as of 2008, from 2007-10-01, until 2008-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.54B | as of 2009, from 2008-10-01, until 2009-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.59B | as of 2010, from 2009-10-01, until 2010-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.46B | as of 2011, from 2010-10-01, until 2011-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.14B | as of 2012, from 2011-10-01, until 2012-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.24B | as of 2013, from 2012-10-01, until 2013-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $15.00B | as of 2019, from 2018-10-01, until 2019-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $18.81B | as of 2022, from 2021-10-01, until 2022-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $21.00B | as of 2023, from 2022-10-01, until 2023-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $23.59B | as of 2024, from 2023-10-01, until 2024-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $23.99B | as of 2025, from 2024-10-01, until 2025-09-30 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $10.30B (10,301,000,000 United States dollar (as of 2018-01-01))
-- $6.70B (6,699,000,000 United States dollar (as of 2017-01-01))
-- $5.99B (5,991,000,000 United States dollar (as of 2016-01-01))
-- $6.33B (6,328,000,000 United States dollar (as of 2015-01-01))
-- $5.44B (5,438,000,000 United States dollar (as of 2014-01-01))
-- $10.87B (10,866,000,000 United States dollar (as of 2020-09-30))
-- $12.31B (12,311,000,000 United States dollar (as of 2021-09-30))
-- $1.08B (-1,076,000,000 United States dollar (as of 2007, from 2006-10-01, until 2007-09-30))
-- $804.00M (804,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-30))
-- $2.35B (2,353,000,000 United States dollar (as of 2009, from 2008-10-01, until 2009-09-30))
-- $2.97B (2,966,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $3.65B (3,650,000,000 United States dollar (as of 2011, from 2010-10-01, until 2011-09-30))
-- $2.14B (2,144,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $4.98B (4,980,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $12.08B (12,080,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $14.96B (14,957,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $17.27B (17,273,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
-- $19.74B (19,743,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-30))
-- $20.06B (20,058,000,000 United States dollar (as of 2025, from 2024-10-01, until 2025-09-30))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $10.30B | as of 2018-01-01 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $6.70B | as of 2017-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.99B | as of 2016-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.33B | as of 2015-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.44B | as of 2014-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $10.87B | as of 2020-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $12.31B | as of 2021-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $1.08B | as of 2007, from 2006-10-01, until 2007-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $804.00M | as of 2008, from 2007-10-01, until 2008-09-30 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $2.35B | as of 2009, from 2008-10-01, until 2009-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.97B | as of 2010, from 2009-10-01, until 2010-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.65B | as of 2011, from 2010-10-01, until 2011-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.14B | as of 2012, from 2011-10-01, until 2012-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.98B | as of 2013, from 2012-10-01, until 2013-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $12.08B | as of 2019, from 2018-10-01, until 2019-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $14.96B | as of 2022, from 2021-10-01, until 2022-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $17.27B | as of 2023, from 2022-10-01, until 2023-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $19.74B | as of 2024, from 2023-10-01, until 2024-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $20.06B | as of 2025, from 2024-10-01, until 2025-09-30 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 11,300 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,000 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 20,500 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,500 | as of 2021 | [10K-50K](/employees_buckets/10k-50k/) |
+| 26,500 | as of 2022-09-30 | [10K-50K](/employees_buckets/10k-50k/) |
+| 31,600 | as of 2024-09-30 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $69.22B | as of 2018-09-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $67.98B | as of 2017-09-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $64.03B | as of 2016-09-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $39.37B | as of 2015-09-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $37.54B | as of 2014-09-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $80.92B | as of 2020-09-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $82.90B | as of 2021-09-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $34.01B | as of 2018-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $32.76B | as of 2017-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $29.84B | as of 2015-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.41B | as of 2014-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $3.29B | as of 2016-09-30 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $36.21B | as of 2020-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $37.59B | as of 2021-09-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $494.68B | as of 2021-08-26 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $478.76B | as of 2022-01-30 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $657.73B | as of 2025-05-01 | [500B-1T](/market_cap_buckets/500b-1t/) |

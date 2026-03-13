@@ -2,7 +2,7 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-03-05T22:38:39.333050"
+date: "2026-03-13T08:56:59.286951"
 draft: false
 sectors:
   - software
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,10 +49,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
+  - primary
   - lockup
+  - symbol
   - horizontal
   - wordmark
 brand_colors:
@@ -52,10 +62,12 @@ typographies:
   - display
 imagery_styles: []
 wikidata_description: family of computer operating systems developed by Microsoft
+wikidata_url: "https://www.wikidata.org/wiki/Q1406"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +114,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1406) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Developer | Microsoft |
 | Software Version Identifier | 10.0.17133, 10.0.17134.112, 10.0.17134.228, 10.0.17763.316 (until 2028-10-10), 10.0.18343.1 (+7 more) |
 | Topic'S Main Category | Category:Microsoft Windows |
@@ -196,7 +213,6 @@ guideline_count: 2
 | Touhou Wiki Id | Windows, fr:Windows |
 | Pixiv Encyclopedia Id | windows |
 | Reddit Topic Id | microsoft_windows |
-| Logo Image | Windows logo and wordmark - 2012–2015.svg (from 2012, until 2015), Windows logo and wordmark - 2021.svg (from 2021) |
 | Small Logo Or Icon | Windows logo - 2012.svg (from 2012, until 2021), Windows logo - 2021.svg (from 2021) |
 | Gitlab Topic Id | windows |
 | National Library Of Spain Spmabn Id (Bne V1.0) | XX4997225 |

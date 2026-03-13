@@ -2,7 +2,7 @@
 title: X
 slug: x
 description: ""
-date: "2026-03-05T22:38:39.122409"
+date: "2026-03-13T08:56:59.071805"
 draft: false
 sectors:
   - "social-media"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - internet
   - app
   - featured
-  - internet
 industries:
   - internet
 countries:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2023
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American social networking service founded in 2006
+wikidata_url: "https://www.wikidata.org/wiki/Q918"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +84,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q918) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2023](/foundation_dates/2023/); [2006](/foundation_dates/2006/) |
 | Programmed In | , , , Java |
 | Topic'S Main Category | Category:Twitter |
 | Gnd Id | 7660487-1 |
@@ -172,7 +192,6 @@ guideline_count: 1
 | National Library Of Ireland Id | vtls002387019 |
 | Github Account | twitter |
 | Small Logo Or Icon | X logo 2023.svg, X logo 2023 original.svg |
-| Logo Image | X logo 2023 original.svg (from 2023-07), X logo 2023.svg (from 2023), Logo of Twitter.svg (from 2012, until 2023) |
 | Native Label | Twitter, X |
 | Hashtag | X, Twitter, BirdSite |
 | Official Color | black-and-white (from 2023-07), blue (from 2010-09-14, until 2023-07), white (from 2023-07) |

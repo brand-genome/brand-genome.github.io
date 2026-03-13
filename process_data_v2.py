@@ -51,25 +51,36 @@ WIKIDATA_EXCLUDE_PROPERTIES = {
     'geonames_id', 'commons_category', 'topic_main_category',
     'instance_of',  # Remove per user request
     'official_website',  # Remove per user request  
+    'logo_image',  # Remove from Additional Properties
 }
 
 # Financial bucket definitions (in USD) - used for revenue, operating income, net profit
 FINANCIAL_BUCKETS = [
-    (float('-inf'), -1_000_000_000, "loss-over-1b"),
-    (-1_000_000_000, -100_000_000, "loss-100m-1b"),
-    (-100_000_000, -10_000_000, "loss-10m-100m"),
-    (-10_000_000, 0, "loss-under-10m"),
-    (0, 1_000_000, "under-1m"),
-    (1_000_000, 10_000_000, "1m-10m"),
-    (10_000_000, 100_000_000, "10m-100m"),
-    (100_000_000, 500_000_000, "100m-500m"),
-    (500_000_000, 1_000_000_000, "500m-1b"),
-    (1_000_000_000, 10_000_000_000, "1b-10b"),
-    (10_000_000_000, 50_000_000_000, "10b-50b"),
-    (50_000_000_000, 100_000_000_000, "50b-100b"),
-    (100_000_000_000, 500_000_000_000, "100b-500b"),
-    (500_000_000_000, 1_000_000_000_000, "500b-1t"),
-    (1_000_000_000_000, float('inf'), "over-1t"),
+    (float('-inf'), -1_000_000_000, "LOSS-OVER-1B"),
+    (-1_000_000_000, -100_000_000, "LOSS-100M-1B"),
+    (-100_000_000, -10_000_000, "LOSS-10M-100M"),
+    (-10_000_000, 0, "LOSS-UNDER-10M"),
+    (0, 1_000_000, "UNDER-1M"),
+    (1_000_000, 10_000_000, "1M-10M"),
+    (10_000_000, 100_000_000, "10M-100M"),
+    (100_000_000, 500_000_000, "100M-500M"),
+    (500_000_000, 1_000_000_000, "500M-1B"),
+    (1_000_000_000, 10_000_000_000, "1B-10B"),
+    (10_000_000_000, 50_000_000_000, "10B-50B"),
+    (50_000_000_000, 100_000_000_000, "50B-100B"),
+    (100_000_000_000, 500_000_000_000, "100B-500B"),
+    (500_000_000_000, 1_000_000_000_000, "500B-1T"),
+    (1_000_000_000_000, float('inf'), "OVER-1T"),
+]
+
+EMPLOYEE_BUCKETS = [
+    (0, 100, "UNDER-100"),
+    (100, 1_000, "100-1K"),
+    (1_000, 10_000, "1K-10K"),
+    (10_000, 50_000, "10K-50K"),
+    (50_000, 100_000, "50K-100K"),
+    (100_000, 500_000, "100K-500K"),
+    (500_000, float('inf'), "OVER-500K"),
 ]
 
 # Alias for backwards compatibility
@@ -192,6 +203,15 @@ def get_financial_bucket(value):
     """Alias for get_revenue_bucket - works for any financial metric."""
     return get_revenue_bucket(value)
 
+def get_employee_bucket(employee_value):
+    """Get employee count bucket for a given value."""
+    if employee_value is None:
+        return None
+    for low, high, bucket in EMPLOYEE_BUCKETS:
+        if low <= employee_value < high:
+            return bucket
+    return None
+
 def format_revenue_display(revenue_value):
     """Format revenue for display."""
     if revenue_value is None:
@@ -207,6 +227,67 @@ def format_revenue_display(revenue_value):
         return f"${revenue_value / 1_000:.2f}K"
     else:
         return f"${revenue_value:.2f}"
+
+def format_count_display(value):
+    """Format count values for display."""
+    if value is None:
+        return None
+    return f"{int(round(value)):,}"
+
+def extract_year_info(value):
+    """Extract year/time qualifiers from a Wikidata value."""
+    if isinstance(value, dict):
+        year_parts = []
+        if value.get('point_in_time'):
+            year_parts.append(f"as of {value['point_in_time']}")
+        if value.get('start_time'):
+            year_parts.append(f"from {value['start_time']}")
+        if value.get('end_time'):
+            year_parts.append(f"until {value['end_time']}")
+        return ', '.join(year_parts) if year_parts else '-'
+
+    text = str(value)
+    years = re.findall(r'\b\d{4}(?:-\d{2}-\d{2})?\b', text)
+    return ', '.join(years[:3]) if years else '-'
+
+def clean_display_value(value):
+    """Normalize display values for properties table."""
+    text = str(value)
+    return text.replace('mailto:', '').replace('|', '\\|')
+
+def build_history_entry(value, bucket_fn, display_fn):
+    """Build a normalized history entry with year info and bucket."""
+    numeric_source = value.get('value') if isinstance(value, dict) else value
+    numeric_value = parse_revenue(numeric_source)
+    if numeric_value is None:
+        return None
+
+    return {
+        'formatted': display_fn(numeric_value),
+        'year_info': extract_year_info(value),
+        'bucket': bucket_fn(numeric_value),
+        'raw': format_wikidata_value(value),
+    }
+
+def to_value_list(value):
+    """Normalize value into a list."""
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return value
+    return [value]
+
+def extract_connection_values(value):
+    """Extract plain string connection values from Wikidata value(s)."""
+    extracted = []
+    for item in to_value_list(value):
+        if isinstance(item, dict):
+            item_val = item.get('value')
+            if item_val:
+                extracted.append(str(item_val))
+        elif item:
+            extracted.append(str(item))
+    return extracted
 
 # =============================================================================
 # TEXT ENTITY EXTRACTION (spaCy)
@@ -651,70 +732,106 @@ def aggregate_visual_attributes(posts, llava_img, llava_human):
 def process_wikidata_properties(wikidata):
     """Process Wikidata properties, filtering out excluded ones."""
     if not wikidata or 'properties' not in wikidata:
-        return {}, None, [], None, [], None, []
+        return {}, {}, {}, {}
     
     processed = {}
-    revenue_bucket = None
-    revenue_list = []
-    operating_income_bucket = None
-    operating_income_list = []
-    net_profit_bucket = None
-    net_profit_list = []
+    primary_buckets = {
+        'revenue_bucket': None,
+        'operating_income_bucket': None,
+        'net_profit_bucket': None,
+        'employees_bucket': None,
+        'total_assets_bucket': None,
+        'total_equity_bucket': None,
+        'market_cap_bucket': None,
+    }
+
+    histories = {
+        'revenue_history': [],
+        'operating_income_history': [],
+        'net_profit_history': [],
+        'employees_history': [],
+        'total_assets_history': [],
+        'total_equity_history': [],
+        'market_cap_history': [],
+    }
+
+    one_degree = {
+        'products_or_materials_produced': [],
+        'products': [],
+        'headquarters_locations': [],
+        'subsidiaries': [],
+        'foundation_dates': [],
+    }
     
     props = wikidata.get('properties', {})
     
-    # Financial properties to handle specially
-    financial_props = {
-        'total_revenue': (revenue_list, 'revenue_bucket'),
-        'operating_income': (operating_income_list, 'operating_income_bucket'),
-        'net_profit': (net_profit_list, 'net_profit_bucket'),
+    history_configs = {
+        'total_revenue': ('revenue_history', 'revenue_bucket', get_financial_bucket, format_revenue_display),
+        'operating_income': ('operating_income_history', 'operating_income_bucket', get_financial_bucket, format_revenue_display),
+        'net_profit': ('net_profit_history', 'net_profit_bucket', get_financial_bucket, format_revenue_display),
+        'employees': ('employees_history', 'employees_bucket', get_employee_bucket, format_count_display),
+        'total_assets': ('total_assets_history', 'total_assets_bucket', get_financial_bucket, format_revenue_display),
+        'total_equity': ('total_equity_history', 'total_equity_bucket', get_financial_bucket, format_revenue_display),
+        'market_capitalization': ('market_cap_history', 'market_cap_bucket', get_financial_bucket, format_revenue_display),
+        'market_cap': ('market_cap_history', 'market_cap_bucket', get_financial_bucket, format_revenue_display),
     }
     
     for key, value in props.items():
-        # Skip excluded properties
         if key in WIKIDATA_EXCLUDE_PROPERTIES:
             continue
-        
-        # Special handling for financial properties
-        if key in financial_props:
-            target_list, bucket_name = financial_props[key]
-            if isinstance(value, list):
-                for item in value:
-                    val_str = format_wikidata_value(item)
-                    parsed = parse_revenue(val_str)
-                    if parsed:
-                        bucket = get_financial_bucket(parsed)
-                        target_list.append({
-                            'raw': val_str,
-                            'formatted': format_revenue_display(parsed),
-                            'bucket': bucket
-                        })
-            else:
-                val_str = format_wikidata_value(value)
-                parsed = parse_revenue(val_str)
-                if parsed:
-                    bucket = get_financial_bucket(parsed)
-                    target_list.append({
-                        'raw': val_str,
-                        'formatted': format_revenue_display(parsed),
-                        'bucket': bucket
-                    })
+
+        if key in history_configs:
+            history_key, bucket_key, bucket_fn, display_fn = history_configs[key]
+            entries = []
+            for item in to_value_list(value):
+                entry = build_history_entry(item, bucket_fn, display_fn)
+                if entry and entry.get('bucket'):
+                    entries.append(entry)
+
+            if entries:
+                histories[history_key].extend(entries)
+                if not primary_buckets[bucket_key]:
+                    primary_buckets[bucket_key] = entries[0]['bucket']
             continue
-        
-        # Format other values
+
+        if key == 'product_or_material_produced':
+            one_degree['products_or_materials_produced'].extend(extract_connection_values(value))
+        elif key == 'product':
+            one_degree['products'].extend(extract_connection_values(value))
+        elif key == 'headquarters_location':
+            one_degree['headquarters_locations'].extend(extract_connection_values(value))
+        elif key == 'subsidiary':
+            one_degree['subsidiaries'].extend(extract_connection_values(value))
+        elif key == 'inception':
+            for item in extract_connection_values(value):
+                year_match = re.search(r'\b\d{4}\b', item)
+                one_degree['foundation_dates'].append(year_match.group(0) if year_match else item)
+
         formatted = format_wikidata_value(value)
         if formatted:
             processed[key] = formatted
-    
-    # Get first bucket for each financial metric
-    if revenue_list:
-        revenue_bucket = revenue_list[0].get('bucket')
-    if operating_income_list:
-        operating_income_bucket = operating_income_list[0].get('bucket')
-    if net_profit_list:
-        net_profit_bucket = net_profit_list[0].get('bucket')
-    
-    return processed, revenue_bucket, revenue_list, operating_income_bucket, operating_income_list, net_profit_bucket, net_profit_list
+
+    for key in histories:
+        unique = []
+        seen = set()
+        for entry in histories[key]:
+            sig = f"{entry.get('formatted')}|{entry.get('year_info')}|{entry.get('bucket')}"
+            if sig not in seen:
+                seen.add(sig)
+                unique.append(entry)
+        histories[key] = unique
+
+    for key in one_degree:
+        deduped = []
+        seen = set()
+        for item in one_degree[key]:
+            normalized = slugify(item)
+            if normalized and normalized not in seen:
+                seen.add(normalized)
+                deduped.append(normalized)
+        one_degree[key] = deduped
+
+    return processed, primary_buckets, histories, one_degree
 
 # =============================================================================
 # MARKDOWN GENERATION
@@ -745,6 +862,17 @@ def generate_brand_markdown(brand_info):
         'revenue_buckets': [brand_info.get('revenue_bucket')] if brand_info.get('revenue_bucket') else [],
         'operating_income_buckets': [brand_info.get('operating_income_bucket')] if brand_info.get('operating_income_bucket') else [],
         'net_profit_buckets': [brand_info.get('net_profit_bucket')] if brand_info.get('net_profit_bucket') else [],
+        'employees_buckets': [brand_info.get('employees_bucket')] if brand_info.get('employees_bucket') else [],
+        'total_assets_buckets': [brand_info.get('total_assets_bucket')] if brand_info.get('total_assets_bucket') else [],
+        'total_equity_buckets': [brand_info.get('total_equity_bucket')] if brand_info.get('total_equity_bucket') else [],
+        'market_cap_buckets': [brand_info.get('market_cap_bucket')] if brand_info.get('market_cap_bucket') else [],
+
+        # One-degree connection taxonomies
+        'products_or_materials_produced': brand_info.get('products_or_materials_produced', []),
+        'products': brand_info.get('products', []),
+        'headquarters_locations': brand_info.get('headquarters_locations', []),
+        'subsidiaries': brand_info.get('subsidiaries', []),
+        'foundation_dates': brand_info.get('foundation_dates', []),
         
         # Visual taxonomies
         'lightings': brand_info.get('lightings', []),
@@ -777,10 +905,12 @@ def generate_brand_markdown(brand_info):
         
         # Metadata
         'wikidata_description': brand_info.get('wikidata_description', ''),
+        'wikidata_url': brand_info.get('wikidata_url', ''),
         'has_twitter': brand_info.get('has_twitter', False),
         'has_guidelines': brand_info.get('has_guidelines', False),
         'promotion_image_count': brand_info.get('twitter_post_count', 0),
         'guideline_count': brand_info.get('guideline_count', 0),
+        'sample_image_urls': brand_info.get('sample_image_urls', []),
     }
     
     # Build YAML frontmatter
@@ -861,18 +991,12 @@ def generate_brand_markdown(brand_info):
             content_lines.append('')
             
             # Main color statistics table
-            content_lines.append('| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |')
-            content_lines.append('|-------|------|--------|-----|-----|-----|---------|------------|')
+            content_lines.append('| Color | Mean |')
+            content_lines.append('|-------|------|')
             for color_info in brand_info['color_palette'][:8]:
                 content_lines.append(
                     f"| {color_info['color']} | "
-                    f"{color_info.get('mean', 0)}% | "
-                    f"{color_info.get('median', 0)}% | "
-                    f"{color_info.get('p25', 0)}% | "
-                    f"{color_info.get('p75', 0)}% | "
-                    f"{color_info.get('p90', 0)}% | "
-                    f"±{color_info.get('std_dev', 0)}% | "
-                    f"{color_info.get('appearance_rate', 0)}% |"
+                    f"{color_info.get('mean', 0)}% |"
                 )
             content_lines.append('')
             
@@ -880,16 +1004,12 @@ def generate_brand_markdown(brand_info):
             if brand_info.get('tone_stats'):
                 content_lines.append('### Tone Distribution')
                 content_lines.append('')
-                content_lines.append('| Tone | Mean | Median | P25 | P75 | Std Dev |')
-                content_lines.append('|------|------|--------|-----|-----|---------|')
+                content_lines.append('| Tone | Mean |')
+                content_lines.append('|------|------|')
                 for tone, stats in brand_info['tone_stats'].items():
                     content_lines.append(
                         f"| {tone.title()} | "
-                        f"{stats.get('mean', 0)}% | "
-                        f"{stats.get('median', 0)}% | "
-                        f"{stats.get('p25', 0)}% | "
-                        f"{stats.get('p75', 0)}% | "
-                        f"±{stats.get('std_dev', 0)}% |"
+                        f"{stats.get('mean', 0)}% |"
                     )
                 content_lines.append('')
         
@@ -936,8 +1056,29 @@ def generate_brand_markdown(brand_info):
     if brand_info.get('wikidata_properties'):
         content_lines.append('## Additional Properties')
         content_lines.append('')
+        if brand_info.get('wikidata_url'):
+            content_lines.append('| Property | Value |')
+            content_lines.append('|----------|-------|')
+            content_lines.append(f"| Wikidata Link | [Open Wikidata]({brand_info['wikidata_url']}) |")
+            content_lines.append('')
+
         content_lines.append('| Property | Value |')
         content_lines.append('|----------|-------|')
+
+        one_degree_rows = [
+            ('Product Or Material Produced', brand_info.get('products_or_materials_produced', []), '/products_or_materials_produced/'),
+            ('Product', brand_info.get('products', []), '/products/'),
+            ('Headquarters Location', brand_info.get('headquarters_locations', []), '/headquarters_locations/'),
+            ('Subsidiary', brand_info.get('subsidiaries', []), '/subsidiaries/'),
+            ('Foundation Date', brand_info.get('foundation_dates', []), '/foundation_dates/'),
+        ]
+        for label, values, base_path in one_degree_rows:
+            if values:
+                links = [f"[{v.replace('-', ' ').title()}]({base_path}{slugify(v)}/)" for v in values[:12]]
+                if len(values) > 12:
+                    links.append(f"+{len(values)-12} more")
+                content_lines.append(f"| {label} | {'; '.join(links)} |")
+
         for key, value in brand_info['wikidata_properties'].items():
             display_key = key.replace('_', ' ').title()
             if isinstance(value, list):
@@ -946,36 +1087,32 @@ def generate_brand_markdown(brand_info):
                     display_val += f' (+{len(value)-5} more)'
             else:
                 display_val = str(value)
-            display_val = display_val.replace('|', '\\|')
+            display_val = clean_display_value(display_val)
             content_lines.append(f'| {display_key} | {display_val} |')
         content_lines.append('')
-    
-    # Revenue section (as list)
-    if brand_info.get('revenue_list'):
-        content_lines.append('### Revenue History')
+
+    def add_history_table(title, amount_col, entries, taxonomy_base):
+        if not entries:
+            return
+        content_lines.append(f'### {title}')
         content_lines.append('')
-        for rev in brand_info['revenue_list']:
-            if rev.get('formatted'):
-                content_lines.append(f"- {rev['formatted']} ({rev['raw']})")
-        content_lines.append('')
-    
-    # Operating Income section (as list)
-    if brand_info.get('operating_income_list'):
-        content_lines.append('### Operating Income History')
-        content_lines.append('')
-        for oi in brand_info['operating_income_list']:
-            if oi.get('formatted'):
-                content_lines.append(f"- {oi['formatted']} ({oi['raw']})")
+        content_lines.append(f'| {amount_col} | Year information | Bucket |')
+        content_lines.append('|---|---|---|')
+        for entry in entries:
+            bucket = entry.get('bucket', '')
+            bucket_link = f"[{bucket}]({taxonomy_base}{slugify(bucket)}/)" if bucket else '-'
+            amount = entry.get('formatted') or '-'
+            year_info = (entry.get('year_info') or '-').replace('|', '\\|')
+            content_lines.append(f"| {amount} | {year_info} | {bucket_link} |")
         content_lines.append('')
     
-    # Net Profit section (as list)
-    if brand_info.get('net_profit_list'):
-        content_lines.append('### Net Profit History')
-        content_lines.append('')
-        for np_item in brand_info['net_profit_list']:
-            if np_item.get('formatted'):
-                content_lines.append(f"- {np_item['formatted']} ({np_item['raw']})")
-        content_lines.append('')
+    add_history_table('Revenue History', 'Revenue ($)', brand_info.get('revenue_history', []), '/revenue_buckets/')
+    add_history_table('Operating Income History', 'Operating Income ($)', brand_info.get('operating_income_history', []), '/operating_income_buckets/')
+    add_history_table('Net Profit History', 'Net Profit ($)', brand_info.get('net_profit_history', []), '/net_profit_buckets/')
+    add_history_table('Employees History', 'Employees', brand_info.get('employees_history', []), '/employees_buckets/')
+    add_history_table('Total Assets History', 'Total Assets ($)', brand_info.get('total_assets_history', []), '/total_assets_buckets/')
+    add_history_table('Total Equity History', 'Total Equity ($)', brand_info.get('total_equity_history', []), '/total_equity_buckets/')
+    add_history_table('Market Capitalization History', 'Market Capitalization ($)', brand_info.get('market_cap_history', []), '/market_cap_buckets/')
     
     return '\n'.join(lines) + '\n'.join(content_lines)
 
@@ -1031,6 +1168,7 @@ def main():
                 'industries': [],
                 'countries': [],
                 'wikidata_description': '',
+                'wikidata_url': '',
                 'wikidata_properties': {},
                 'guidelines': [],
                 'twitter_posts': [],
@@ -1039,7 +1177,24 @@ def main():
                 'twitter_post_count': 0,
                 'guideline_count': 0,
                 'revenue_bucket': None,
-                'revenue_list': [],
+                'operating_income_bucket': None,
+                'net_profit_bucket': None,
+                'employees_bucket': None,
+                'total_assets_bucket': None,
+                'total_equity_bucket': None,
+                'market_cap_bucket': None,
+                'revenue_history': [],
+                'operating_income_history': [],
+                'net_profit_history': [],
+                'employees_history': [],
+                'total_assets_history': [],
+                'total_equity_history': [],
+                'market_cap_history': [],
+                'products_or_materials_produced': [],
+                'products': [],
+                'headquarters_locations': [],
+                'subsidiaries': [],
+                'foundation_dates': [],
                 # Visual attributes
                 'lightings': [],
                 'perspectives': [],
@@ -1070,6 +1225,7 @@ def main():
                 'imagery_styles': [],
                 # Websites (union of all sources)
                 'websites': [],
+                'sample_image_urls': [],
             }
         
         brand = all_brands[normalized]
@@ -1105,26 +1261,22 @@ def main():
         if item_wikidata:
             if not brand['wikidata_description']:
                 brand['wikidata_description'] = item_wikidata.get('description', '')
+            if not brand['wikidata_url']:
+                brand['wikidata_url'] = item_wikidata.get('wikidata_url', '')
             
             # Process properties (excluding instance_of, official_website)
-            props, revenue_bucket, revenue_list, operating_income_bucket, operating_income_list, net_profit_bucket, net_profit_list = process_wikidata_properties(item_wikidata)
+            props, primary_buckets, histories, one_degree = process_wikidata_properties(item_wikidata)
             brand['wikidata_properties'].update(props)
-            
-            if revenue_bucket and not brand['revenue_bucket']:
-                brand['revenue_bucket'] = revenue_bucket
-            brand['revenue_list'].extend(revenue_list)
-            
-            if operating_income_bucket and not brand.get('operating_income_bucket'):
-                brand['operating_income_bucket'] = operating_income_bucket
-            if 'operating_income_list' not in brand:
-                brand['operating_income_list'] = []
-            brand['operating_income_list'].extend(operating_income_list)
-            
-            if net_profit_bucket and not brand.get('net_profit_bucket'):
-                brand['net_profit_bucket'] = net_profit_bucket
-            if 'net_profit_list' not in brand:
-                brand['net_profit_list'] = []
-            brand['net_profit_list'].extend(net_profit_list)
+
+            for bucket_key, bucket_val in primary_buckets.items():
+                if bucket_val and not brand.get(bucket_key):
+                    brand[bucket_key] = bucket_val
+
+            for hist_key, hist_values in histories.items():
+                brand[hist_key].extend(hist_values)
+
+            for conn_key, conn_values in one_degree.items():
+                brand[conn_key].extend(conn_values)
             
             # Extract taxonomies from wikidata
             wd_props = item_wikidata.get('properties', {})
@@ -1209,6 +1361,7 @@ def main():
                 'industries': [],
                 'countries': [],
                 'wikidata_description': '',
+                'wikidata_url': '',
                 'wikidata_properties': {},
                 'guidelines': [],
                 'twitter_posts': [],
@@ -1217,7 +1370,24 @@ def main():
                 'twitter_post_count': 0,
                 'guideline_count': 0,
                 'revenue_bucket': None,
-                'revenue_list': [],
+                'operating_income_bucket': None,
+                'net_profit_bucket': None,
+                'employees_bucket': None,
+                'total_assets_bucket': None,
+                'total_equity_bucket': None,
+                'market_cap_bucket': None,
+                'revenue_history': [],
+                'operating_income_history': [],
+                'net_profit_history': [],
+                'employees_history': [],
+                'total_assets_history': [],
+                'total_equity_history': [],
+                'market_cap_history': [],
+                'products_or_materials_produced': [],
+                'products': [],
+                'headquarters_locations': [],
+                'subsidiaries': [],
+                'foundation_dates': [],
                 'lightings': [],
                 'perspectives': [],
                 'image_backgrounds': [],
@@ -1244,12 +1414,18 @@ def main():
                 'typographies': [],
                 'imagery_styles': [],
                 'websites': [],
+                'sample_image_urls': [],
             }
             matched_brand = company_norm
         
         brand = all_brands[matched_brand]
         brand['twitter_posts'].extend(posts)
         brand['has_twitter'] = True
+
+        for post in posts:
+            media_url = extract_media_url(post.get('media', ''))
+            if media_url:
+                brand['sample_image_urls'].append(media_url)
         
         # Add sectors from company_sector.csv
         if company_norm in company_sectors:
@@ -1280,26 +1456,22 @@ def main():
             
             if not brand['wikidata_description']:
                 brand['wikidata_description'] = wd.get('description', '')
+            if not brand['wikidata_url']:
+                brand['wikidata_url'] = wd.get('wikidata_url', '')
             
             # Process properties
-            props, revenue_bucket, revenue_list, operating_income_bucket, operating_income_list, net_profit_bucket, net_profit_list = process_wikidata_properties(wd)
+            props, primary_buckets, histories, one_degree = process_wikidata_properties(wd)
             brand['wikidata_properties'].update(props)
-            
-            if revenue_bucket and not brand['revenue_bucket']:
-                brand['revenue_bucket'] = revenue_bucket
-            brand['revenue_list'].extend(revenue_list)
-            
-            if operating_income_bucket and not brand.get('operating_income_bucket'):
-                brand['operating_income_bucket'] = operating_income_bucket
-            if 'operating_income_list' not in brand:
-                brand['operating_income_list'] = []
-            brand['operating_income_list'].extend(operating_income_list)
-            
-            if net_profit_bucket and not brand.get('net_profit_bucket'):
-                brand['net_profit_bucket'] = net_profit_bucket
-            if 'net_profit_list' not in brand:
-                brand['net_profit_list'] = []
-            brand['net_profit_list'].extend(net_profit_list)
+
+            for bucket_key, bucket_val in primary_buckets.items():
+                if bucket_val and not brand.get(bucket_key):
+                    brand[bucket_key] = bucket_val
+
+            for hist_key, hist_values in histories.items():
+                brand[hist_key].extend(hist_values)
+
+            for conn_key, conn_values in one_degree.items():
+                brand[conn_key].extend(conn_values)
             
             # Extract taxonomies
             wd_props = wd.get('properties', {})
@@ -1325,39 +1497,25 @@ def main():
                     'image_effects', 'hair_styles', 'facial_expressions', 'clothing_styles', 
                     'clothing_colors', 'posings', 'gazes', 'body_sections', 
                     'logo_elements', 'brand_colors', 'typographies', 'imagery_styles',
-                    'dominant_colors']:
+                    'dominant_colors', 'products_or_materials_produced', 'products',
+                    'headquarters_locations', 'subsidiaries', 'foundation_dates']:
             brand[key] = list(set(brand.get(key, [])))
             brand[key] = [v for v in brand[key] if v]
-        
-        # Deduplicate revenue list
-        seen_revenues = set()
-        unique_revenues = []
-        for rev in brand['revenue_list']:
-            key = rev.get('raw', '')
-            if key and key not in seen_revenues:
-                seen_revenues.add(key)
-                unique_revenues.append(rev)
-        brand['revenue_list'] = unique_revenues
-        
-        # Deduplicate operating income list
-        seen_oi = set()
-        unique_oi = []
-        for oi in brand.get('operating_income_list', []):
-            key = oi.get('raw', '')
-            if key and key not in seen_oi:
-                seen_oi.add(key)
-                unique_oi.append(oi)
-        brand['operating_income_list'] = unique_oi
-        
-        # Deduplicate net profit list
-        seen_np = set()
-        unique_np = []
-        for np_item in brand.get('net_profit_list', []):
-            key = np_item.get('raw', '')
-            if key and key not in seen_np:
-                seen_np.add(key)
-                unique_np.append(np_item)
-        brand['net_profit_list'] = unique_np
+
+        brand['sample_image_urls'] = list(dict.fromkeys(brand.get('sample_image_urls', [])))
+
+        for history_key in [
+            'revenue_history', 'operating_income_history', 'net_profit_history',
+            'employees_history', 'total_assets_history', 'total_equity_history', 'market_cap_history'
+        ]:
+            seen = set()
+            unique_values = []
+            for item in brand.get(history_key, []):
+                sig = f"{item.get('formatted')}|{item.get('year_info')}|{item.get('bucket')}"
+                if sig not in seen:
+                    seen.add(sig)
+                    unique_values.append(item)
+            brand[history_key] = unique_values
         
         # Deduplicate websites
         brand['websites'] = sorted(list(set(brand.get('websites', []))))

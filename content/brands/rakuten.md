@@ -2,7 +2,7 @@
 title: Rakuten
 slug: rakuten
 description: ""
-date: "2026-03-05T22:38:39.077213"
+date: "2026-03-13T08:56:59.028628"
 draft: false
 sectors:
   - retail
@@ -20,10 +20,26 @@ industries:
 countries:
   - japan
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100b-500b"
+  - "100B-500B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "500B-1T"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "futako-tamagawa-rise"
+  - tokyo
+  - "shinagawa-seaside"
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Japanese e-commerce company"
+wikidata_url: "https://www.wikidata.org/wiki/Q973054"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,14 +85,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q973054) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Futako Tamagawa Rise](/headquarters_locations/futako-tamagawa-rise/); [Tokyo](/headquarters_locations/tokyo/); [Shinagawa Seaside](/headquarters_locations/shinagawa-seaside/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Inception | 1997-02-07 |
 | Country | Japan |
 | Headquarters Location | Shinagawa Seaside (from 2008-04, until 2015-08-23), Futako-Tamagawa Rise (from 2015-08-24), Tokyo |
 | Founded By | Hiroshi Mikitani |
 | Topic'S Main Category | Category:Rakuten |
 | Freebase Id | /m/0464vx |
-| Logo Image | Rakuten logo.svg, Rakuten Global Brand Logo.svg |
-| Employees | 10,000 |
 | Child Organization Or Unit | Kobo Inc., Rakuten Bank (from 2022-04-01), Rakuten Card, Rakuten Securities (until 2019-04-01), Rakuten Edy (from 2014-01, until 2019-01) (+11 more) |
 | Name In Kana | らくてん |
 | Legal Form | kabushiki gaisha |
@@ -109,8 +131,6 @@ guideline_count: 1
 | Central Index Key | 0001294591 |
 | Official Name | 株式会社エム・ディー・エム (from 1997-02, until 1999-05), 楽天株式会社 (from 1999-06, until 2021-03), 楽天グループ株式会社 (from 2021-04) |
 | Name | エム・ディー・エム (from 1997-02, until 1999-05), 楽天 (from 1999-06, until 2021-03), 楽天グループ (from 2021-04) |
-| Total Assets | 16,831,000,000 yen (as of 2021) |
-| Total Equity | 629,010,000,000 yen |
 | Owned By | Hiroshi Mikitani, Japan Post Holdings |
 | Significant Person | Hiroshi Mikitani |
 | Instagram Username | rakuten_official |
@@ -131,8 +151,30 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.68B (1,681,000,000 yen (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.68B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $135.80B (-135,800,000,000 yen (as of 2021))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $135.80B | as of 2021 | [100B-500B](/net_profit_buckets/100b-500b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 10,000 | - | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $16.83B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $629.01B | - | [500B-1T](/total_equity_buckets/500b-1t/) |

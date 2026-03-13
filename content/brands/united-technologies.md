@@ -2,7 +2,7 @@
 title: United Technologies
 slug: "united-technologies"
 description: ""
-date: "2026-03-05T22:38:39.702374"
+date: "2026-03-13T08:56:59.714232"
 draft: false
 sectors:
   - defense
@@ -21,9 +21,20 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hartford
+subsidiaries: []
+foundation_dates:
+  - 1929
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +59,30 @@ logo_elements:
   - signature
 brand_colors:
   - white
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
+  - black
+  - gray
 typographies:
   - impact
   - "sans-serif"
 imagery_styles:
-  - bold
-  - photography
-  - product
-  - flat
+  - natural
+  - clean
   - macro
   - candid
-  - clean
-  - natural
+  - product
+  - photography
+  - flat
+  - bold
 wikidata_description: defunct American multinational conglomerate (1929–2020)
+wikidata_url: "https://www.wikidata.org/wiki/Q1045758"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +132,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1045758) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hartford](/headquarters_locations/hartford/) |
+| Foundation Date | [1929](/foundation_dates/1929/) |
 | Follows | United Aircraft, Sheller-Globe Corporation |
 | Topic'S Main Category | Category:United Technologies |
 | Freebase Id | /m/02_g11 |
@@ -128,7 +147,6 @@ guideline_count: 1
 | Isin | US75513E1010 |
 | Child Organization Or Unit | Carrier Corporation, Pratt & Whitney, Collins Aerospace, Sicli (from 2004) |
 | Inception | 1929-01-01 |
-| Logo Image | UnitedTechnologiesLogo.png |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0068495 |
 | Image | UTCHeadquarters.JPG |
 | Industry | holding company |
@@ -169,4 +187,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $13.10B (13,100,000,000 United States dollar (as of 2019-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.10B | as of 2019-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |

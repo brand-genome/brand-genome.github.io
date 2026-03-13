@@ -2,7 +2,7 @@
 title: University of the Philippines
 slug: "university-of-the-philippines"
 description: ""
-date: "2026-03-05T22:38:39.215628"
+date: "2026-03-13T08:56:59.153915"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: national university of the Philippines
+wikidata_url: "https://www.wikidata.org/wiki/Q746592"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q746592) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Has Part(S) | University of the Philippines Mindanao, University of the Philippines Manila, University of the Philippines Diliman, University of the Philippines Los Baños, University of the Philippines Baguio (+2 more) |
 | Coordinate Location | 14.666666666667, 121.06666666667 |
 | Topic'S Main Category | Category:University of the Philippines |
@@ -90,7 +107,6 @@ guideline_count: 1
 | Microsoft Academic Id (Discontinued) | 103911934 |
 | Library Of Congress Authority Id | n79003966, n82071728 |
 | X (Twitter) Username | upsystem (as of 2020-04-15, from 2010-06-01) |
-| Logo Image | University of the Philippines seal.svg |
 | Facebook Username | upsystem |
 | Instagram Username | unibersidadngpilipinas |
 | Ror Id | 02hqkr514 |

@@ -104,7 +104,7 @@
             <h3 class="connection-type">Revenue Range</h3>
             <div class="connection-links">
                 {{ range . }}
-                <a href="{{ "/revenue_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link revenue">{{ . | humanize }}</a>
+                <a href="{{ "/revenue_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link revenue">{{ . }}</a>
                 {{ end }}
             </div>
         </div>
@@ -116,7 +116,7 @@
             <h3 class="connection-type">Operating Income Range</h3>
             <div class="connection-links">
                 {{ range . }}
-                <a href="{{ "/operating_income_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link operating-income">{{ . | humanize }}</a>
+                <a href="{{ "/operating_income_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link operating-income">{{ . }}</a>
                 {{ end }}
             </div>
         </div>
@@ -128,7 +128,106 @@
             <h3 class="connection-type">Net Profit Range</h3>
             <div class="connection-links">
                 {{ range . }}
-                <a href="{{ "/net_profit_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link net-profit">{{ . | humanize }}</a>
+                <a href="{{ "/net_profit_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link net-profit">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.employees_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Employees Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/employees_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link net-profit">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.total_assets_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Total Assets Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/total_assets_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link revenue">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.total_equity_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Total Equity Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/total_equity_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link operating-income">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.market_cap_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Market Capitalization Range</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/market_cap_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link net-profit">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.products_or_materials_produced }}
+        <div class="connection-group">
+            <h3 class="connection-type">Product Or Material Produced</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/products_or_materials_produced/" | relURL }}{{ . | urlize }}/" class="connection-link type">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.products }}
+        <div class="connection-group">
+            <h3 class="connection-type">Product</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/products/" | relURL }}{{ . | urlize }}/" class="connection-link type">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.headquarters_locations }}
+        <div class="connection-group">
+            <h3 class="connection-type">Headquarters Location</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/headquarters_locations/" | relURL }}{{ . | urlize }}/" class="connection-link region">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.subsidiaries }}
+        <div class="connection-group">
+            <h3 class="connection-type">Subsidiary</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/subsidiaries/" | relURL }}{{ . | urlize }}/" class="connection-link type">{{ . | humanize }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.foundation_dates }}
+        <div class="connection-group">
+            <h3 class="connection-type">Foundation Date</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/foundation_dates/" | relURL }}{{ . | urlize }}/" class="connection-link year">{{ . }}</a>
                 {{ end }}
             </div>
         </div>

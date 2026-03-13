@@ -2,7 +2,7 @@
 title: Technovation
 slug: technovation
 description: ""
-date: "2026-03-05T22:38:39.717530"
+date: "2026-03-13T08:56:59.735519"
 draft: false
 sectors:
   - education
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,46 +47,48 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
+  - primary
   - lockup
-  - horizontal
+  - symbol
   - stacked
+  - horizontal
 brand_colors:
   - white
-  - "pantone-326"
-  - "pantone-413"
-  - "pantone-690"
-  - "pantone-414"
-  - "pantone-419"
-  - "pantone-415"
-  - "pantone-7721"
-  - gray
-  - "pantone-5135"
   - "pantone-349"
-  - "pantone-7642"
-  - "pantone-2247"
-  - "pantone-446"
-  - "pantone-262"
-  - grey
-  - "pantone-583"
-  - "pantone-7640"
-  - "pantone-325"
-  - "pantone-379"
-  - "pantone-5126"
+  - "pantone-414"
   - silver
+  - "pantone-325"
+  - "pantone-262"
+  - "pantone-415"
+  - "pantone-326"
+  - "pantone-379"
+  - "pantone-5135"
+  - "pantone-690"
+  - gray
+  - "pantone-446"
+  - "pantone-2247"
+  - "pantone-583"
+  - "pantone-5126"
+  - "pantone-413"
   - green
+  - "pantone-419"
+  - "pantone-7642"
+  - "pantone-7721"
+  - grey
   - "pantone-7723"
+  - "pantone-7640"
 typographies:
   - "source-sans"
 imagery_styles:
   - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

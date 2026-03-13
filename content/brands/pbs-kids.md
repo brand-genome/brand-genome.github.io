@@ -2,7 +2,7 @@
 title: PBS Kids
 slug: "pbs-kids"
 description: ""
-date: "2026-03-05T22:38:39.230026"
+date: "2026-03-13T08:56:59.173733"
 draft: false
 sectors:
   - broadcasting
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "crystal-city"
+subsidiaries: []
+foundation_dates:
+  - 1994
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American PBS children's programming brand since 1999"
+wikidata_url: "https://www.wikidata.org/wiki/Q3245159"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3245159) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Crystal City](/headquarters_locations/crystal-city/) |
+| Foundation Date | [1994](/foundation_dates/1994/); [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:PBS Kids |
 | Freebase Id | /m/06_zh7 |
 | Inception | 1994-07-11, 1999-09-06 |
@@ -85,5 +105,4 @@ guideline_count: 1
 | Stylized Name | PBS KIDS |
 | Tmdb Company Id | 73756 |
 | Roku Channel Store Id | f395da9990218478ae22ab235603469b |
-| Logo Image | PBS Kids logo (2022).svg (from 2022) |
 | Domain Name | pbskids.org |

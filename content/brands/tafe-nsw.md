@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-03-05T22:38:39.359141"
+date: "2026-03-13T08:56:59.311049"
 draft: false
 sectors:
   - education
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1833
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,22 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
-  - lockup
   - stacked
+  - primary
+  - horizontal
+  - lockup
 brand_colors:
   - black
 typographies: []
 imagery_styles:
   - photography
-  - professional
   - graphic
+  - professional
 wikidata_description: Australian vocational education and training provider
+wikidata_url: "https://www.wikidata.org/wiki/Q7669247"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +113,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7669247) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1833](/foundation_dates/1833/) |
 | Topic'S Main Category | Category:TAFE NSW |
 | Quora Topic Id | TAFE-NSW |
 | Country | Australia |

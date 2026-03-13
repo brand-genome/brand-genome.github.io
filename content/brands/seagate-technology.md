@@ -2,11 +2,11 @@
 title: Seagate Technology
 slug: "seagate-technology"
 description: ""
-date: "2026-03-05T22:38:39.802076"
+date: "2026-03-13T08:56:59.857442"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -20,11 +20,28 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "solid-state-drive"
+  - "hybrid-drive"
+  - seagate
+  - "hard-disk"
+  - software
+products: []
+headquarters_locations:
+  - cupertino
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American data storage company
+wikidata_url: "https://www.wikidata.org/wiki/Q705392"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +85,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q705392) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Hybrid Drive](/products_or_materials_produced/hybrid-drive/); [Seagate](/products_or_materials_produced/seagate/); [Hard Disk](/products_or_materials_produced/hard-disk/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Cupertino](/headquarters_locations/cupertino/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Stock Exchange | Nasdaq (from 2002-12-11) |
 | Industry | computer storage media |
 | Headquarters Location | Cupertino |
@@ -73,13 +99,11 @@ guideline_count: 1
 | Freebase Id | /m/01wdsm |
 | Isin | IE00B58JVZ52 |
 | Inception | 1979-01-01 |
-| Logo Image | Seagate logo.svg |
 | Legal Form | Limited Company |
 | Topic'S Main Category | Category:Seagate Technology |
 | Founded By | Alan Shugart |
 | Product Or Material Produced | hard disk, hybrid drive, solid-state drive, software, Seagate |
 | Image | Seagate Technology Headquarters Cupertino.jpg, Seagate Headquarters Fremont.jpg |
-| Employees | 57,900 |
 | Country | United States |
 | Legal Entity Identifier | 44WLCTE321JACKS7ED43 |
 | Quora Topic Id | Seagate-Technology-company, Seagate-Technology |
@@ -117,51 +141,63 @@ guideline_count: 1
 
 ### Revenue History
 
-- $9.80B (9,805,000,000 United States dollar (as of 2009, from 2008-06-28, until 2009-07-03))
-- $11.39B (11,395,000,000 United States dollar (as of 2010, from 2009-07-04, until 2010-07-02))
-- $10.97B (10,971,000,000 United States dollar (as of 2011, from 2010-07-03, until 2011-07-01))
-- $14.94B (14,939,000,000 United States dollar (as of 2012, from 2011-07-02, until 2012-06-29))
-- $14.35B (14,351,000,000 United States dollar (as of 2013, from 2012-06-30, until 2013-06-28))
-- $13.72B (13,724,000,000 United States dollar (as of 2014, from 2013-06-29, until 2014-06-27))
-- $13.74B (13,739,000,000 United States dollar (as of 2015, from 2014-06-28, until 2015-07-03))
-- $11.16B (11,160,000,000 United States dollar (as of 2016, from 2015-07-04, until 2016-07-01))
-- $10.77B (10,771,000,000 United States dollar (as of 2017, from 2016-07-02, until 2017-06-30))
-- $11.18B (11,184,000,000 United States dollar (as of 2018, from 2017-07-01, until 2018-06-29))
-- $10.39B (10,390,000,000 United States dollar (as of 2019, from 2018-06-30, until 2019-06-28))
-- $10.51B (10,509,000,000 United States dollar (as of 2020, from 2019-06-29, until 2020-07-03))
-- $10.68B (10,681,000,000 United States dollar (as of 2021, from 2020-07-04, until 2021-07-02))
-- $11.66B (11,661,000,000 United States dollar (as of 2022, from 2021-07-03, until 2022-07-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $9.80B | as of 2009, from 2008-06-28, until 2009-07-03 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $11.39B | as of 2010, from 2009-07-04, until 2010-07-02 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.97B | as of 2011, from 2010-07-03, until 2011-07-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.94B | as of 2012, from 2011-07-02, until 2012-06-29 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.35B | as of 2013, from 2012-06-30, until 2013-06-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.72B | as of 2014, from 2013-06-29, until 2014-06-27 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.74B | as of 2015, from 2014-06-28, until 2015-07-03 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.16B | as of 2016, from 2015-07-04, until 2016-07-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.77B | as of 2017, from 2016-07-02, until 2017-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.18B | as of 2018, from 2017-07-01, until 2018-06-29 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.39B | as of 2019, from 2018-06-30, until 2019-06-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.51B | as of 2020, from 2019-06-29, until 2020-07-03 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.68B | as of 2021, from 2020-07-04, until 2021-07-02 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.66B | as of 2022, from 2021-07-03, until 2022-07-01 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $2.67B (-2,665,000,000 United States dollar (as of 2009, from 2008-06-28, until 2009-07-03))
-- $1.74B (1,740,000,000 United States dollar (as of 2010, from 2009-07-04, until 2010-07-02))
-- $806.00M (806,000,000 United States dollar (as of 2011, from 2010-07-03, until 2011-07-01))
-- $3.11B (3,108,000,000 United States dollar (as of 2012, from 2011-07-02, until 2012-06-29))
-- $2.09B (2,091,000,000 United States dollar (as of 2013, from 2012-06-30, until 2013-06-28))
-- $1.78B (1,776,000,000 United States dollar (as of 2014, from 2013-06-29, until 2014-06-27))
-- $2.06B (2,058,000,000 United States dollar (as of 2015, from 2014-06-28, until 2015-07-03))
-- $445.00M (445,000,000 United States dollar (as of 2016, from 2015-07-04, until 2016-07-01))
-- $1.05B (1,054,000,000 United States dollar (as of 2017, from 2016-07-02, until 2017-06-30))
-- $1.63B (1,634,000,000 United States dollar (as of 2018, from 2017-07-01, until 2018-06-29))
-- $1.49B (1,487,000,000 United States dollar (as of 2019, from 2018-06-30, until 2019-06-28))
-- $1.30B (1,300,000,000 United States dollar (as of 2020, from 2019-06-29, until 2020-07-03))
-- $1.49B (1,492,000,000 United States dollar (as of 2021, from 2020-07-04, until 2021-07-02))
-- $1.96B (1,955,000,000 United States dollar (as of 2022, from 2021-07-03, until 2022-07-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $2.67B | as of 2009, from 2008-06-28, until 2009-07-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.74B | as of 2010, from 2009-07-04, until 2010-07-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $806.00M | as of 2011, from 2010-07-03, until 2011-07-01 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $3.11B | as of 2012, from 2011-07-02, until 2012-06-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.09B | as of 2013, from 2012-06-30, until 2013-06-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.78B | as of 2014, from 2013-06-29, until 2014-06-27 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.06B | as of 2015, from 2014-06-28, until 2015-07-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $445.00M | as of 2016, from 2015-07-04, until 2016-07-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $1.05B | as of 2017, from 2016-07-02, until 2017-06-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.63B | as of 2018, from 2017-07-01, until 2018-06-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.49B | as of 2019, from 2018-06-30, until 2019-06-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.30B | as of 2020, from 2019-06-29, until 2020-07-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.49B | as of 2021, from 2020-07-04, until 2021-07-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.96B | as of 2022, from 2021-07-03, until 2022-07-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $3.12B (-3,125,000,000 United States dollar (as of 2009, from 2008-06-28, until 2009-07-03))
-- $1.61B (1,609,000,000 United States dollar (as of 2010, from 2009-07-04, until 2010-07-02))
-- $511.00M (511,000,000 United States dollar (as of 2011, from 2010-07-03, until 2011-07-01))
-- $2.86B (2,862,000,000 United States dollar (as of 2012, from 2011-07-02, until 2012-06-29))
-- $1.84B (1,838,000,000 United States dollar (as of 2013, from 2012-06-30, until 2013-06-28))
-- $1.57B (1,570,000,000 United States dollar (as of 2014, from 2013-06-29, until 2014-06-27))
-- $1.74B (1,742,000,000 United States dollar (as of 2015, from 2014-06-28, until 2015-07-03))
-- $248.00M (248,000,000 United States dollar (as of 2016, from 2015-07-04, until 2016-07-01))
-- $772.00M (772,000,000 United States dollar (as of 2017, from 2016-07-02, until 2017-06-30))
-- $1.18B (1,182,000,000 United States dollar (as of 2018, from 2017-07-01, until 2018-06-29))
-- $2.01B (2,012,000,000 United States dollar (as of 2019, from 2018-06-30, until 2019-06-28))
-- $1.00B (1,004,000,000 United States dollar (as of 2020, from 2019-06-29, until 2020-07-03))
-- $1.31B (1,314,000,000 United States dollar (as of 2021, from 2020-07-04, until 2021-07-02))
-- $1.65B (1,649,000,000 United States dollar (as of 2022, from 2021-07-03, until 2022-07-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $3.12B | as of 2009, from 2008-06-28, until 2009-07-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.61B | as of 2010, from 2009-07-04, until 2010-07-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $511.00M | as of 2011, from 2010-07-03, until 2011-07-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $2.86B | as of 2012, from 2011-07-02, until 2012-06-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.84B | as of 2013, from 2012-06-30, until 2013-06-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.57B | as of 2014, from 2013-06-29, until 2014-06-27 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.74B | as of 2015, from 2014-06-28, until 2015-07-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $248.00M | as of 2016, from 2015-07-04, until 2016-07-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $772.00M | as of 2017, from 2016-07-02, until 2017-06-30 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.18B | as of 2018, from 2017-07-01, until 2018-06-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.01B | as of 2019, from 2018-06-30, until 2019-06-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.00B | as of 2020, from 2019-06-29, until 2020-07-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.31B | as of 2021, from 2020-07-04, until 2021-07-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.65B | as of 2022, from 2021-07-03, until 2022-07-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 57,900 | - | [50K-100K](/employees_buckets/50k-100k/) |

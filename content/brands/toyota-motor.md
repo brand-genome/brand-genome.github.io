@@ -2,7 +2,7 @@
 title: Toyota Motor
 slug: "toyota-motor"
 description: ""
-date: "2026-03-05T22:38:39.270051"
+date: "2026-03-13T08:56:59.212629"
 draft: false
 sectors:
   - automobile
@@ -13,18 +13,36 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
 countries:
   - japan
 revenue_buckets:
-  - "over-1t"
+  - "OVER-1T"
 operating_income_buckets:
-  - "over-1t"
+  - "OVER-1T"
 net_profit_buckets:
-  - "over-1t"
+  - "OVER-1T"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "OVER-1T"
+total_equity_buckets:
+  - "100B-500B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced:
+  - car
+  - "light-commercial-vehicle"
+products: []
+headquarters_locations:
+  - toyota
+subsidiaries: []
+foundation_dates:
+  - 1937
+  - 1938
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +65,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese multinational automotive manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q53268"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +88,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q53268) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/) |
+| Headquarters Location | [Toyota](/headquarters_locations/toyota/) |
+| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
 | Chief Executive Officer | Kōji Satō (from 2023), Katsuaki Watanabe (from 2005, until 2009), Akio Toyoda (from 2009, until 2023) |
 | Founded By | Kiichirō Toyoda |
 | Headquarters Location | Toyota |
@@ -90,16 +117,12 @@ guideline_count: 1
 | Industry | automotive industry |
 | Corporate Number (Japan) | 1180301018771 |
 | New York Times Topic Id | company/toyota-motor-corporation |
-| Logo Image | Registered trademark img 06.png, Toyota Symbol.svg, Toyota logo.svg, Toyota.svg |
 | Gnd Id | 136030-9 |
 | Isni | 0000000091751993 |
 | Quora Topic Id | Toyota-company-1 |
-| Total Assets | 47,427,597,000,000 yen (as of 2016-03-31), 47,729,830,000,000 yen (as of 2015-03-31), 821,090,000,000 United States dollar (as of 2024) |
 | Owned By | Nippon Life Insurance Company |
 | Owner Of | Denso, Toyota Industries, Aisin Seiki, Toyota Tsusho, Toyoda Gosei (+4 more) |
-| Employees | 359,542 (as of 2020-03-31) |
 | Ringgold Id | 10903 |
-| Market Capitalization | 172,899,000,000 United States dollar (as of 2020-06-11), 249,042,000,000 United States dollar (as of 2025-05-01) |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.46790 |
 | Product Or Material Produced | car, light commercial vehicle |
 | Justia Patents Company Id | toyota |
@@ -154,7 +177,6 @@ guideline_count: 1
 | Topic Has Template | Template:Toyota Motor Corporation |
 | Vikidia Article Id | fr:Toyota |
 | Zhihu Topic Id | 20032596 |
-| Total Equity | 321,090,000,000 United States dollar (as of 2024) |
 | Location Information Url | http://www.toyotamalawi.com/dealers/, https://toyota-indus.com/find-a-dealer, https://toyota.co.tz/dealers/, https://toyota.com.ph/dealer, https://toyota.ly/find-a-dealer/ (+23 more) |
 | Telegram Username | Toyota_Ukraine_bot, toyota_lexus_parts_iran |
 | Linkedin Company Or Organization Id | ToyotaZimbabwe, sverige.toyota, toyota-argentina, toyota-auto-finland-oy, toyota-belgium_2 (+31 more) |
@@ -177,18 +199,51 @@ guideline_count: 1
 
 ### Revenue History
 
-- $28.40T (28,403,118,000,000 yen (as of 2016))
-- $27.23T (27,234,521,000,000 yen (as of 2015))
-- $410.89B (410,890,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $28.40T | as of 2016 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $27.23T | as of 2015 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $410.89B | as of 2024 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $2.85T (2,853,971,000,000 yen (as of 2016))
-- $2.75T (2,750,564,000,000 yen (as of 2015))
-- $48.77B (48,770,000,000 United States dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $2.85T | as of 2016 | [OVER-1T](/operating_income_buckets/over-1t/) |
+| $2.75T | as of 2015 | [OVER-1T](/operating_income_buckets/over-1t/) |
+| $48.77B | as of 2024 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $2.31T (2,312,694,000,000 yen (as of 2016))
-- $2.17T (2,173,338,000,000 yen (as of 2015))
-- $45.06B (45,060,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $2.31T | as of 2016 | [OVER-1T](/net_profit_buckets/over-1t/) |
+| $2.17T | as of 2015 | [OVER-1T](/net_profit_buckets/over-1t/) |
+| $45.06B | as of 2024 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 359,542 | as of 2020-03-31 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $47.43T | as of 2016-03-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $47.73T | as of 2015-03-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $821.09B | as of 2024 | [500B-1T](/total_assets_buckets/500b-1t/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $321.09B | as of 2024 | [100B-500B](/total_equity_buckets/100b-500b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $172.90B | as of 2020-06-11 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $249.04B | as of 2025-05-01 | [100B-500B](/market_cap_buckets/100b-500b/) |

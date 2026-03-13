@@ -2,7 +2,7 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-03-05T22:38:39.536593"
+date: "2026-03-13T08:56:59.469178"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - irving
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,25 +55,27 @@ logo_elements:
   - secondary
 brand_colors:
   - red
+  - blue
   - gold
   - black
-  - blue
   - gray
 typographies:
-  - impact
-  - trebuchet
   - din
+  - trebuchet
+  - impact
 imagery_styles:
-  - bold
-  - photography
-  - staged
-  - candid
   - natural
+  - staged
+  - photography
+  - candid
+  - bold
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q608132"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -131,6 +144,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q608132) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Irving](/headquarters_locations/irving/) |
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Topic'S Main Wikimedia Portal | Portal:Boy Scouts of America |
 | Topic'S Main Category | Category:Boy Scouts of America |
 | Freebase Id | /m/0k53z |
@@ -166,7 +185,6 @@ guideline_count: 2
 | Field Of Work | scouting |
 | Kbpedia Id | BoyScoutsOfAmerica |
 | Social Media Followers | 80,576 (as of 2021-01-02), 81,260 (as of 2020-04-19), 79,037 (as of 2022-01-08), 78,453 (as of 2023-02-03), 22,600 (as of 2025-04-14) |
-| Logo Image | BSA text logo.jpg |
 | Significant Event | bankruptcy, child sexual abuse, legal settlement (as of 2021) |
 | Represented By | Sidley Austin |
 | National Library Of Israel J9U Id | 987007526378205171 |

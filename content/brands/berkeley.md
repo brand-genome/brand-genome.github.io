@@ -2,7 +2,7 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-03-05T22:38:39.566516"
+date: "2026-03-13T08:56:59.493313"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1866
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,25 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - lockup
   - secondary
+  - wordmark
 brand_colors:
-  - "pantone-124"
-  - gold
-  - "pantone-1925"
-  - "pantone-282"
-  - "pantone-7461"
   - blue
+  - "pantone-282"
+  - gold
+  - "pantone-7461"
+  - "pantone-1925"
+  - "pantone-124"
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Alameda County, California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q484678"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +115,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q484678) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1866](/foundation_dates/1866/) |
 | Dewey Decimal Classification | 2--79467 |
 | Twinned Administrative Body | Jena (from 1989-06-27), Asmara, Blackfeet Indian Reservation, Gao, Ulan-Ude (+3 more) |
 | Country | United States |

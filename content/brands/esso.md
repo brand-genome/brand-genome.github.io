@@ -2,7 +2,7 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-03-05T22:38:39.759018"
+date: "2026-03-13T08:56:59.808182"
 draft: false
 sectors:
   - petroleum
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - lubricant
+  - gasoline
+products: []
+headquarters_locations:
+  - irving
+subsidiaries: []
+foundation_dates:
+  - 1911
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +53,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
   - symbol
 brand_colors:
+  - "pantone-293"
   - white
   - red
-  - magenta
-  - "pantone-293"
-  - cyan
-  - yellow
   - "pantone-485"
   - blue
+  - yellow
+  - cyan
+  - magenta
 typographies:
-  - serif
   - univers
+  - serif
 imagery_styles:
   - graphic
 wikidata_description: American oil and gas station brand
+wikidata_url: "https://www.wikidata.org/wiki/Q867662"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,11 +115,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q867662) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Lubricant](/products_or_materials_produced/lubricant/); [Gasoline](/products_or_materials_produced/gasoline/) |
+| Headquarters Location | [Irving](/headquarters_locations/irving/) |
+| Foundation Date | [1911](/foundation_dates/1911/) |
 | Freebase Id | /m/01dw30 |
 | Headquarters Location | Irving |
 | Commons Gallery | Esso |
 | Inception | 1911 |
-| Logo Image | Esso textlogo.svg |
 | Owned By | ExxonMobil |
 | Image | Esso Stabekk.JPG |
 | Different From | Esso |

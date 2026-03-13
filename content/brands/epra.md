@@ -2,7 +2,7 @@
 title: EPRA
 slug: epra
 description: ""
-date: "2026-03-05T22:38:39.537778"
+date: "2026-03-13T08:56:59.469544"
 draft: false
 sectors:
   - "real-estate"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,9 +49,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
   - black
@@ -49,10 +59,12 @@ typographies: []
 imagery_styles:
   - bold
 wikidata_description: "airport in Radom, Poland"
+wikidata_url: "https://www.wikidata.org/wiki/Q2066541"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +102,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2066541) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Iata Airport Code | RDO |
 | Icao Airport Code | EPRA |
 | Coordinate Location | 51.389166666667, 21.213611111111 |
@@ -106,7 +123,6 @@ guideline_count: 1
 | Wolfram Language Entity Code | Entity["Airport", "EPRA"] |
 | Patronage | 0 (as of 2012-01-01), 0 (as of 2013-01-01), 0 (as of 2014-01-01), 670 (as of 2015-01-01), 8,965 (as of 2016-01-01) (+6 more) |
 | Openstreetmap Way Id | 616266929 |
-| Logo Image | Port Lotniczy Radom logo.svg |
 | State Of Use | in use |
 | Gns Unique Feature Id | -524874 |
 | Aerodrome Reference Point | 51.38883, 21.21167 |

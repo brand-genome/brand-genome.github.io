@@ -2,7 +2,7 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-03-05T22:38:39.181660"
+date: "2026-03-13T08:56:59.109603"
 draft: false
 sectors:
   - "renewable-energy"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - petroleum
+products: []
+headquarters_locations:
+  - "torre-moeve"
+subsidiaries: []
+foundation_dates:
+  - 1929
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,22 +56,24 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - red
   - "pantone-485"
-  - silver
-  - gray
+  - red
   - "pantone-424"
+  - silver
   - "pantone-877"
+  - gray
 typographies:
   - script
 imagery_styles:
-  - professional
   - product
+  - professional
 wikidata_description: Spanish multinational oil and gas company
+wikidata_url: "https://www.wikidata.org/wiki/Q608819"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,12 +130,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q608819) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/) |
+| Headquarters Location | [Torre Moeve](/headquarters_locations/torre-moeve/) |
+| Foundation Date | [1929](/foundation_dates/1929/) |
 | Freebase Id | /m/04gmfxs |
 | Headquarters Location | Torre Moeve |
 | Viaf Cluster Id | 139695195 |
 | Inception | 1929-01-01 |
 | Country | Spain |
-| Logo Image | Moeve logo.svg, Cepsa.svg |
 | Owned By | Mamoura Diversified Global Holding |
 | Grid Id | grid.424210.1 |
 | Industry | petroleum industry |

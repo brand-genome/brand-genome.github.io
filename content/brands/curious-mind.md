@@ -2,11 +2,11 @@
 title: Curious Mind
 slug: "curious-mind"
 description: ""
-date: "2026-03-05T22:38:39.705752"
+date: "2026-03-13T08:56:59.718806"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "new-zealand"
 years:
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,26 +49,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - white
   - red
   - "pantone-1788"
-  - gold
-  - "pantone-7547"
-  - purple
   - blue
+  - "pantone-7547"
+  - gold
+  - purple
   - green
   - "pantone-1245"
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: "a non-profit organsization in Ghana"
+wikidata_url: "https://www.wikidata.org/wiki/Q107157227"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +113,10 @@ guideline_count: 1
 - The logo kit provides Curious Minds logo files and guidance on application. Users are advised to contact the organization administering the funding or MBIE Design Team if they have questions about brand guideline usage.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q107157227) |
 
 | Property | Value |
 |----------|-------|

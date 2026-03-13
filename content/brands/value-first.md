@@ -2,7 +2,7 @@
 title: Value First
 slug: "value-first"
 description: ""
-date: "2026-03-05T22:38:39.555918"
+date: "2026-03-13T08:56:59.477822"
 draft: false
 sectors:
   - software
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,35 +47,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - favicon
+  - secondary
+  - primary
   - stacked
+  - horizontal
 brand_colors:
   - white
   - grey
-  - orange
+  - blue
+  - yellow
+  - green
   - cyan
   - black
-  - yellow
-  - blue
+  - orange
   - gray
-  - green
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - photography
-  - graphic
-  - geometric
-  - lifestyle
   - colorful
+  - graphic
+  - bold
+  - lifestyle
+  - geometric
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

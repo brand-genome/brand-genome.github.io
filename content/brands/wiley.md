@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-03-05T22:38:39.586743"
+date: "2026-03-13T08:56:59.529022"
 draft: false
 sectors:
   - education
@@ -18,17 +18,29 @@ tags:
   - edition
 industries: []
 countries:
-  - "united-states"
-  - netherlands
-  - australia
   - germany
-  - italy
-  - japan
+  - netherlands
   - "peoples-republic-of-china"
   - "united-kingdom"
+  - australia
+  - "united-states"
+  - italy
+  - japan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - hoboken
+subsidiaries: []
+foundation_dates:
+  - 1807
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,14 +66,16 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
+  - vibrant
   - bold
   - photography
-  - vibrant
 wikidata_description: American multinational publishing company
+wikidata_url: "https://www.wikidata.org/wiki/Q1479654"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,8 +131,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1479654) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Hoboken](/headquarters_locations/hoboken/) |
+| Foundation Date | [1807](/foundation_dates/1807/) |
 | Topic'S Main Category | Category:Wiley (publisher) |
-| Logo Image | Wiley logo old.svg (until 2013-01-01), Wiley logo.svg (from 2013-01-01) |
 | Gnd Id | 4101395-5 |
 | Freebase Id | /m/02mwrv |
 | Headquarters Location | Hoboken |

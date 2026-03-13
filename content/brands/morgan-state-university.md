@@ -2,7 +2,7 @@
 title: Morgan State University
 slug: "morgan-state-university"
 description: ""
-date: "2026-03-05T22:38:39.572236"
+date: "2026-03-13T08:56:59.503167"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - baltimore
+subsidiaries: []
+foundation_dates:
+  - 1867
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,25 +54,27 @@ body_sections: []
 logo_elements:
   - mascot
 brand_colors:
-  - white
-  - "pantone-728"
-  - gold
-  - orange
-  - black
-  - blue
-  - "pantone-1655"
   - brown
-  - "pantone-288"
+  - white
+  - blue
+  - gold
   - "pantone-136"
+  - "pantone-288"
+  - black
+  - orange
+  - "pantone-1655"
+  - "pantone-728"
 typographies:
   - futura
 imagery_styles:
   - bold
 wikidata_description: "university in Baltimore, Maryland, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1054905"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +128,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1054905) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Baltimore](/headquarters_locations/baltimore/) |
+| Foundation Date | [1867](/foundation_dates/1867/) |
 | Coordinate Location | 39.34388888888889, -76.58472222222223 |
 | Country | United States |
 | Topic'S Main Category | Category:Morgan State University |
@@ -152,7 +172,6 @@ guideline_count: 1
 | Social Media Followers | 20,666 (as of 2021-01-07), 19,220 (as of 2020-04-22), 23,766 (as of 2022-02-27), 25,933 (as of 2023-02-04) |
 | Heritage Designation | National Treasure |
 | Crunchbase Organization Id | morgan-state-university |
-| Employees | 1,768 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Official Name | Centenary Biblical Institute (from 1867, until 1890), Morgan College (from 1890, until 1939), Morgan State College (from 1939, until 1975), Morgan State University (from 1975) |
@@ -176,3 +195,9 @@ guideline_count: 1
 | Encyclopedia Of African American History 1896 To The Present Entry Id | 0832 |
 | Threads Username | morganstateu |
 | Athletics Program | Morgan State Bears and Lady Bears |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,768 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

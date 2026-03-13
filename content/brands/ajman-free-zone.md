@@ -2,7 +2,7 @@
 title: Ajman Free Zone
 slug: "ajman-free-zone"
 description: ""
-date: "2026-03-05T22:38:39.319464"
+date: "2026-03-13T08:56:59.268548"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,33 +49,35 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
-  - "pantone-360"
   - "pantone-115"
-  - black
-  - "pantone-426"
   - "pantone-310"
   - "pantone-265"
-  - silver
-  - "pantone-137"
   - "pantone-2727"
+  - silver
   - "pantone-877"
+  - "pantone-360"
+  - black
+  - "pantone-137"
+  - "pantone-426"
 typographies:
-  - arial
   - frutiger
+  - arial
 imagery_styles:
-  - bold
-  - contemporary
   - clean
   - modern
+  - bold
+  - contemporary
 wikidata_description: registration authority
+wikidata_url: "https://www.wikidata.org/wiki/Q107179272"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +114,10 @@ guideline_count: 1
 - The guidelines emphasize a modern, clean, and tactile approach to corporate and visual identity.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q107179272) |
 
 | Property | Value |
 |----------|-------|

@@ -2,11 +2,11 @@
 title: CMO Council
 slug: "cmo-council"
 description: ""
-date: "2026-03-05T22:38:39.707243"
+date: "2026-03-13T08:56:59.721841"
 draft: false
 sectors:
-  - ngo
   - "marketing-advertising"
+  - ngo
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +52,29 @@ logo_elements:
   - signature
 brand_colors:
   - white
-  - red
-  - "pantone-186"
-  - grey
-  - black
   - "pantone-447"
+  - red
+  - grey
+  - "pantone-186"
+  - black
 typographies:
   - "open-sans"
-  - gotham
   - avenir
+  - gotham
 imagery_styles:
-  - bold
-  - photography
-  - graphic
-  - flat
-  - modern
   - clean
+  - modern
+  - photography
+  - flat
+  - graphic
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

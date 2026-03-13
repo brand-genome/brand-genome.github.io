@@ -2,7 +2,7 @@
 title: SalesForce
 slug: salesforce
 description: ""
-date: "2026-03-05T22:38:39.395426"
+date: "2026-03-13T08:56:59.361739"
 draft: false
 sectors:
   - software
@@ -15,23 +15,57 @@ languages:
 tags:
   - software
 industries:
-  - "enterprise-software"
-  - automation
-  - analytics
-  - "email-marketing"
-  - "cloud-computing"
-  - "software-as-a-service"
-  - "software-industry"
   - "customer-relationship-management"
+  - "enterprise-software"
+  - analytics
+  - "software-industry"
   - "intelligent-agent"
+  - automation
+  - "software-as-a-service"
+  - "cloud-computing"
+  - "email-marketing"
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets:
-  - "10m-100m"
+  - "10M-100M"
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "integration-platform"
+  - "virtual-agent"
+  - "email-marketing"
+  - salesforce
+  - "artificial-intelligence"
+  - "intelligent-agent"
+  - "customer-relationship-management-software"
+  - "enterprise-software"
+  - analytics
+  - "customer-data-platform"
+  - "ai-agent"
+  - "order-management-system"
+  - "cloud-computing"
+  - heroku
+  - "marketing-automation"
+  - "data-visualization-software"
+  - "b2b-e-commerce"
+  - "automation-technology"
+  - "software-as-a-service"
+  - "e-commerce"
+  - "small-business-software"
+products: []
+headquarters_locations:
+  - "san-francisco"
+  - "salesforce-tower"
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,13 +90,15 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - static
   - product
+  - static
 wikidata_description: "American cloud-based software company"
+wikidata_url: "https://www.wikidata.org/wiki/Q941127"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +144,13 @@ Information about creating and updating your AppExchange listing can be found in
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q941127) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Integration Platform](/products_or_materials_produced/integration-platform/); [Virtual Agent](/products_or_materials_produced/virtual-agent/); [Email Marketing](/products_or_materials_produced/email-marketing/); [Salesforce](/products_or_materials_produced/salesforce/); [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/); [Intelligent Agent](/products_or_materials_produced/intelligent-agent/); [Customer Relationship Management Software](/products_or_materials_produced/customer-relationship-management-software/); [Enterprise Software](/products_or_materials_produced/enterprise-software/); [Analytics](/products_or_materials_produced/analytics/); [Customer Data Platform](/products_or_materials_produced/customer-data-platform/); [Ai Agent](/products_or_materials_produced/ai-agent/); [Order Management System](/products_or_materials_produced/order-management-system/); +9 more |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [Salesforce Tower](/headquarters_locations/salesforce-tower/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Freebase Id | /m/07btr5 |
 | Stock Exchange | New York Stock Exchange (from 2004-06-23) |
 | Topic'S Main Category | Category:Salesforce |
@@ -115,7 +158,6 @@ Information about creating and updating your AppExchange listing can be found in
 | Headquarters Location | Salesforce Tower, San Francisco |
 | Isin | US79466L3024 |
 | Inception | 1999-02-03 |
-| Employees | 767 (as of 2005), 1,304 (as of 2006), 2,070 (as of 2007), 2,606 (as of 2008), 3,566 (as of 2009) (+10 more) |
 | Founded By | Marc Benioff |
 | Country | United States |
 | Legal Form | corporation |
@@ -149,7 +191,6 @@ Information about creating and updating your AppExchange listing can be found in
 | Service Status Information Url | https://status.salesforce.com/ |
 | Legal Entity Identifier | RCGZFPDMRW58VJ54VR07 |
 | Privacy Policy Url | https://www.salesforce.com/company/privacy/full_privacy/ |
-| Logo Image | Salesforce.com logo.svg |
 | Zhihu Topic Id | 19556358, 19557612 |
 | Crunchbase Organization Id | salesforce |
 | Fandom Article Id | logos:Salesforce.com |
@@ -182,63 +223,89 @@ Information about creating and updating your AppExchange listing can be found in
 
 ### Revenue History
 
-- $748.70M (748,700,000 United States dollar (as of 2007, from 2007-02-01, until 2008-01-31))
-- $1.08B (1,076,769,000 United States dollar (as of 2008, from 2008-02-01, until 2009-01-31))
-- $1.31B (1,305,583,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-31))
-- $1.66B (1,657,139,000 United States dollar (as of 2010, from 2010-02-01, until 2011-01-31))
-- $2.27B (2,266,539,000 United States dollar (as of 2011, from 2011-02-01, until 2012-01-31))
-- $3.05B (3,050,195,000 United States dollar (as of 2012, from 2012-02-01, until 2013-01-31))
-- $4.07B (4,071,003,000 United States dollar (as of 2013, from 2013-02-01, until 2014-01-31))
-- $5.37B (5,373,586,000 United States dollar (as of 2014, from 2014-02-01, until 2015-01-31))
-- $6.67B (6,667,216,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-31))
-- $8.39B (8,391,984,000 United States dollar (as of 2016, from 2016-02-01, until 2017-01-31))
-- $10.54B (10,540,000,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $13.28B (13,282,000,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $17.10B (17,098,000,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $21.25B (21,252,000,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $26.49B (26,492,000,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $31.35B (31,352,000,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
-- $34.86B (34,857,000,000 United States dollar (as of 2023, from 2023-02-01, until 2024-01-31))
-- $37.90B (37,895,000,000 United States dollar (as of 2024, from 2024-02-01, until 2025-01-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $748.70M | as of 2007, from 2007-02-01, until 2008-01-31 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.08B | as of 2008, from 2008-02-01, until 2009-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.31B | as of 2009, from 2009-02-01, until 2010-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.66B | as of 2010, from 2010-02-01, until 2011-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.27B | as of 2011, from 2011-02-01, until 2012-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.05B | as of 2012, from 2012-02-01, until 2013-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.07B | as of 2013, from 2013-02-01, until 2014-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.37B | as of 2014, from 2014-02-01, until 2015-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.67B | as of 2015, from 2015-02-01, until 2016-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.39B | as of 2016, from 2016-02-01, until 2017-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.54B | as of 2017, from 2017-02-01, until 2018-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.28B | as of 2018, from 2018-02-01, until 2019-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.10B | as of 2019, from 2019-02-01, until 2020-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.25B | as of 2020, from 2020-02-01, until 2021-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $26.49B | as of 2021, from 2021-02-01, until 2022-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.35B | as of 2022, from 2022-02-01, until 2023-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $34.86B | as of 2023, from 2023-02-01, until 2024-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.90B | as of 2024, from 2024-02-01, until 2025-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $20.31M (20,309,000 United States dollar (as of 2007, from 2007-02-01, until 2008-01-31))
-- $63.74M (63,742,000 United States dollar (as of 2008, from 2008-02-01, until 2009-01-31))
-- $115.27M (115,272,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-31))
-- $97.50M (97,497,000 United States dollar (as of 2010, from 2010-02-01, until 2011-01-31))
-- $35.09M (-35,085,000 United States dollar (as of 2011, from 2011-02-01, until 2012-01-31))
-- $110.71M (-110,710,000 United States dollar (as of 2012, from 2012-02-01, until 2013-01-31))
-- $286.07M (-286,074,000 United States dollar (as of 2013, from 2013-02-01, until 2014-01-31))
-- $145.63M (-145,633,000 United States dollar (as of 2014, from 2014-02-01, until 2015-01-31))
-- $114.92M (114,923,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-31))
-- $64.23M (64,228,000 United States dollar (as of 2016, from 2016-02-01, until 2017-01-31))
-- $235.77M (235,768,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $535.00M (535,000,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $297.00M (297,000,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $455.00M (455,000,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $548.00M (548,000,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $1.03B (1,030,000,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
-- $5.01B (5,011,000,000 United States dollar (as of 2023, from 2023-02-01, until 2024-01-31))
-- $7.21B (7,205,000,000 United States dollar (as of 2024, from 2024-02-01, until 2025-01-31))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $20.31M | as of 2007, from 2007-02-01, until 2008-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $63.74M | as of 2008, from 2008-02-01, until 2009-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $115.27M | as of 2009, from 2009-02-01, until 2010-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $97.50M | as of 2010, from 2010-02-01, until 2011-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $35.09M | as of 2011, from 2011-02-01, until 2012-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $110.71M | as of 2012, from 2012-02-01, until 2013-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $286.07M | as of 2013, from 2013-02-01, until 2014-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $145.63M | as of 2014, from 2014-02-01, until 2015-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $114.92M | as of 2015, from 2015-02-01, until 2016-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $64.23M | as of 2016, from 2016-02-01, until 2017-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $235.77M | as of 2017, from 2017-02-01, until 2018-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $535.00M | as of 2018, from 2018-02-01, until 2019-01-31 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $297.00M | as of 2019, from 2019-02-01, until 2020-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $455.00M | as of 2020, from 2020-02-01, until 2021-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $548.00M | as of 2021, from 2021-02-01, until 2022-01-31 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.03B | as of 2022, from 2022-02-01, until 2023-01-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.01B | as of 2023, from 2023-02-01, until 2024-01-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.21B | as of 2024, from 2024-02-01, until 2025-01-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $18.36M (18,356,000 United States dollar (as of 2007, from 2007-02-01, until 2008-01-31))
-- $43.43M (43,428,000 United States dollar (as of 2008, from 2008-02-01, until 2009-01-31))
-- $80.72M (80,719,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-31))
-- $64.47M (64,474,000 United States dollar (as of 2010, from 2010-02-01, until 2011-01-31))
-- $11.57M (-11,572,000 United States dollar (as of 2011, from 2011-02-01, until 2012-01-31))
-- $270.44M (-270,445,000 United States dollar (as of 2012, from 2012-02-01, until 2013-01-31))
-- $232.18M (-232,175,000 United States dollar (as of 2013, from 2013-02-01, until 2014-01-31))
-- $262.69M (-262,688,000 United States dollar (as of 2014, from 2014-02-01, until 2015-01-31))
-- $47.43M (-47,426,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-31))
-- $179.63M (179,632,000 United States dollar (as of 2016, from 2016-02-01, until 2017-01-31))
-- $127.48M (127,478,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $1.11B (1,110,000,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $126.00M (126,000,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $4.07B (4,072,000,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $1.44B (1,444,000,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $208.00M (208,000,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
-- $4.14B (4,136,000,000 United States dollar (as of 2023, from 2023-02-01, until 2024-01-31))
-- $6.20B (6,197,000,000 United States dollar (as of 2024, from 2024-02-01, until 2025-01-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $18.36M | as of 2007, from 2007-02-01, until 2008-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $43.43M | as of 2008, from 2008-02-01, until 2009-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $80.72M | as of 2009, from 2009-02-01, until 2010-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $64.47M | as of 2010, from 2010-02-01, until 2011-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $11.57M | as of 2011, from 2011-02-01, until 2012-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $270.44M | as of 2012, from 2012-02-01, until 2013-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $232.18M | as of 2013, from 2013-02-01, until 2014-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $262.69M | as of 2014, from 2014-02-01, until 2015-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $47.43M | as of 2015, from 2015-02-01, until 2016-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $179.63M | as of 2016, from 2016-02-01, until 2017-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $127.48M | as of 2017, from 2017-02-01, until 2018-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.11B | as of 2018, from 2018-02-01, until 2019-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $126.00M | as of 2019, from 2019-02-01, until 2020-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $4.07B | as of 2020, from 2020-02-01, until 2021-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.44B | as of 2021, from 2021-02-01, until 2022-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $208.00M | as of 2022, from 2022-02-01, until 2023-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $4.14B | as of 2023, from 2023-02-01, until 2024-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.20B | as of 2024, from 2024-02-01, until 2025-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 767 | as of 2005 | [100-1K](/employees_buckets/100-1k/) |
+| 1,304 | as of 2006 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,070 | as of 2007 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,606 | as of 2008 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,566 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,969 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,306 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,785 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,800 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 13,300 | as of 2014 | [10K-50K](/employees_buckets/10k-50k/) |
+| 16,000 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,000 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 25,000 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 29,000 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 35,000 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |

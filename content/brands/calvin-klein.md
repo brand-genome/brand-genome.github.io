@@ -2,13 +2,13 @@
 title: Calvin Klein
 slug: "calvin-klein"
 description: ""
-date: "2026-03-05T22:38:39.353082"
+date: "2026-03-13T08:56:59.304429"
 draft: false
 sectors:
+  - beauty
   - fashion
   - cosmetics
   - "home-appliances"
-  - beauty
 regions:
   - usa
 years:
@@ -19,13 +19,26 @@ tags:
   - fashion
   - featured
 industries:
-  - fashion
   - "clothing-industry"
+  - fashion
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - perfume
+  - clothing
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American fashion house
+wikidata_url: "https://www.wikidata.org/wiki/Q1068628"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +83,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1068628) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Perfume](/products_or_materials_produced/perfume/); [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Calvin Klein, Barry K. Schwartz |
 | Topic'S Main Category | Category:Calvin Klein |
 | Viaf Cluster Id | 132480979 |
@@ -102,7 +124,6 @@ guideline_count: 1
 | Location Information Url | https://stores.calvinklein.us/ |
 | Fandom Article Id | logo:Calvin_Klein |
 | ‎Yale Lux Id | group/f3a4ed7f-94f3-4c51-9cc8-b6ab2ce2f2e3 |
-| Logo Image | Calvin klein logo old.svg (from 1975, until 1992), Calvin Klein logo.svg (from 1992, until 2017), Calvin klein logo.svg (from 2017, until 2020), Calvin klein logo web23.svg (from 2020) |
 | Worldcat Entities Id | E39QQPVp7VVjxVcQ4kT7BQ7C6g |
 | Freebase Id | /m/0_vn4bf, /m/02r33n4 |
 | Legal Form | corporation |

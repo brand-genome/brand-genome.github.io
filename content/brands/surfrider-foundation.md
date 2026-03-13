@@ -2,7 +2,7 @@
 title: Surfrider Foundation
 slug: "surfrider-foundation"
 description: ""
-date: "2026-03-05T22:38:39.084916"
+date: "2026-03-13T08:56:59.040850"
 draft: false
 sectors:
   - ngo
@@ -14,15 +14,27 @@ languages:
   - english
 tags:
   - ngo
-  - featured
   - environment
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-clemente"
+subsidiaries: []
+foundation_dates:
+  - 1984
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,27 +57,29 @@ logo_elements:
   - symbol
 brand_colors:
   - red
+  - blue
   - "pantone-7464"
-  - "pantone-5275"
+  - "pantone-552"
   - "pantone-629"
   - black
-  - "pantone-426"
-  - blue
-  - "pantone-7418"
+  - "pantone-5275"
   - gray
-  - "pantone-552"
+  - "pantone-7418"
+  - "pantone-426"
 typographies:
   - roboto
 imagery_styles:
-  - bold
   - candid
-  - natural
   - graphic
+  - natural
+  - bold
 wikidata_description: foundation
+wikidata_url: "https://www.wikidata.org/wiki/Q1128567"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1128567) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Clemente](/headquarters_locations/san-clemente/) |
+| Foundation Date | [1984](/foundation_dates/1984/) |
 | Freebase Id | /m/0864p_ |
 | Viaf Cluster Id | 155840487 |
 | Sport | surfing |
@@ -133,21 +153,40 @@ guideline_count: 1
 | Donations | 9,642,973 United States dollar (as of 2019), 10,223,289 United States dollar (as of 2022), 10,864,126 United States dollar (as of 2021), 11,819,844 United States dollar (as of 2023), 4,798,611 United States dollar (as of 2011) (+8 more) |
 | Headquarters Location | San Clemente |
 | Golden Id | Surfrider_Foundation-EKRKK4 |
-| Total Assets | 20,166,105 United States dollar (as of 2022), 18,564,951 United States dollar (as of 2021), 21,275,824 United States dollar (as of 2023), 4,236,010 United States dollar (as of 2011), 4,682,534 United States dollar (as of 2012) (+8 more) |
 | ‎Yale Lux Id | group/59d7271e-ae7e-4f94-959b-49f1b7723807 |
 
 ### Revenue History
 
-- $7.27M (7,267,265 United States dollar (as of 2016-01-01))
-- $11.46M (11,457,073 United States dollar (as of 2019))
-- $8.62M (8,618,975 United States dollar (as of 2018))
-- $7.01M (7,009,736 United States dollar (as of 2017))
-- $12.28M (12,280,357 United States dollar (as of 2022))
-- $13.56M (13,558,022 United States dollar (as of 2021))
-- $14.31M (14,309,868 United States dollar (as of 2023))
-- $6.16M (6,160,511 United States dollar (as of 2011))
-- $6.71M (6,712,936 United States dollar (as of 2012))
-- $6.08M (6,077,987 United States dollar (as of 2013))
-- $5.71M (5,714,958 United States dollar (as of 2014))
-- $6.27M (6,270,599 United States dollar (as of 2015))
-- $12.60M (12,597,004 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $7.27M | as of 2016-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $11.46M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $8.62M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.01M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $12.28M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $13.56M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $14.31M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $6.16M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.71M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.08M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.71M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.27M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $12.60M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $20.17M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.56M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $21.28M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $4.24M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.68M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.58M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.92M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.32M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.12M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.16M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.91M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $9.37M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $13.75M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

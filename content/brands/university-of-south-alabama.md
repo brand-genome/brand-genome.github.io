@@ -2,7 +2,7 @@
 title: University of South Alabama
 slug: "university-of-south-alabama"
 description: ""
-date: "2026-03-05T22:38:39.086947"
+date: "2026-03-13T08:56:59.042737"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2016
   - 2024
+  - 2016
 languages:
   - english
 tags:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mobile
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public, national research university in Mobile, Alabama, United States; officially nicknamed \"South\""
+wikidata_url: "https://www.wikidata.org/wiki/Q13572981"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13572981) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mobile](/headquarters_locations/mobile/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Coordinate Location | 30.69588, -88.17691 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Mobile |
@@ -80,10 +100,8 @@ guideline_count: 2
 | Open Funder Registry Funder Id | 100011408 |
 | Category For Alumni Of Educational Institution | Category:University of South Alabama alumni |
 | Grid Id | grid.267153.4 |
-| Logo Image | USA.gif, University of South Alabama wordmark.svg |
 | Microsoft Academic Id (Discontinued) | 83809506 |
 | Count Of Students | 16,055, 15,569 (as of 2017), 10,988 (as of 2017), 4,581 (as of 2017), 13,992 (as of 2021-09-01) (+1 more) |
-| Employees | 5,800 |
 | Street Address | 307 N University Blvd, Mobile, AL 36688-0002 |
 | Library Of Congress Authority Id | n78072722 |
 | Image | Shelbyhallcomputing.JPG (as of 2012-09) |
@@ -123,3 +141,9 @@ guideline_count: 2
 | ‎Yale Lux Id | group/60a2c015-38e1-4c6b-92ff-f2ebf9eba556 |
 | Threads Username | uofsouthalabama |
 | Athletics Program | South Alabama Jaguars |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,800 | - | [1K-10K](/employees_buckets/1k-10k/) |

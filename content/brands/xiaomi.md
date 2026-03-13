@@ -2,12 +2,12 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-03-05T22:38:39.507169"
+date: "2026-03-13T08:56:59.431477"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - china
 years:
@@ -17,17 +17,34 @@ languages:
 tags:
   - electronics
 industries:
-  - "consumer-electronics-industry"
-  - "automotive-industry"
   - "home-appliance"
   - "mobile-phone"
+  - "automotive-industry"
+  - "consumer-electronics-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets: []
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "computer-hardware"
+  - "building-automation"
+  - "networking-hardware"
+  - software
+products: []
+headquarters_locations:
+  - beijing
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,26 +63,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - alternate
-  - secondary
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - white
-  - orange
-  - black
   - grey
+  - black
+  - orange
 typographies:
   - impact
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: Chinese electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q1636958"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +141,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1636958) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |
 | Founded By | Lei Jun, Lin Bin |
 | Chief Executive Officer | Lei Jun (from 2010) |
@@ -133,7 +159,6 @@ guideline_count: 1
 | Facebook Username | xiaomiglobal |
 | Location Of Formation | Beijing |
 | Topic Has Template | Template:Xiaomi |
-| Logo Image | Xiaomi logo (2021-).svg |
 | Headquarters Location | Beijing, Beijing |
 | Wall Street Journal Topic Id | organization/X/xiaomi/8146 |
 | Operating Area | worldwide |
@@ -151,7 +176,6 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | xiaomi-technology |
 | Microsoft Academic Id (Discontinued) | 862669128 |
 | Zhihu Topic Id | 19552883, 19626175 |
-| Employees | 16,683 (as of 2018-12-31) |
 | Ror Id | 029f7bn57 |
 | Child Organization Or Unit | Redmi, Huami Corporation, Meitu, Ninebot, Black Shark (+3 more) |
 | Image | Xiaomi Headquarters.jpg, Xiaomi Store Portugal.jpg |
@@ -169,7 +193,6 @@ guideline_count: 1
 | Social Media Followers | 2,563,394 (as of 2021-02-05), 3,604,275 (as of 2022-02-27), 4,387,847 (as of 2023-02-02), 197,775 (as of 2023-05-23) |
 | Cna Topic Id | xiaomi |
 | Stock Exchange | Hong Kong Stock Exchange |
-| Total Assets | 253,679,823,000 renminbi (as of 2021) |
 | Tiktok Username | xiaomi.official |
 | Google Play Developer Id | 5113340212256272297 |
 | App Store Developer Id | 377175754 |
@@ -207,8 +230,24 @@ guideline_count: 1
 
 ### Operating Income History
 
-- $20.00B (20,000,000,000 United States dollar)
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $20.00B | - | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $13.48B (13,478,000,000 (as of 2018))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $13.48B | as of 2018 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 16,683 | as of 2018-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $253.68B | as of 2021 | [100B-500B](/total_assets_buckets/100b-500b/) |

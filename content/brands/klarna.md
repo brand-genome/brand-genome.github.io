@@ -2,7 +2,7 @@
 title: Klarna
 slug: klarna
 description: ""
-date: "2026-03-05T22:38:39.220409"
+date: "2026-03-13T08:56:59.157323"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - internet
+  - financial
 industries:
   - "mobile-payment-industry"
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stockholm
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,17 +53,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - secondary
+  - lockup
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: Swedish fintech company
+wikidata_url: "https://www.wikidata.org/wiki/Q1165072"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,12 +116,17 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1165072) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stockholm](/headquarters_locations/stockholm/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Founded By | Sebastian Siemiatkowski, Niklas Adalberth |
 | Freebase Id | /m/0bwh54c |
 | Headquarters Location | Stockholm |
 | Inception | 2007-09-05 |
 | Legal Form | joint-stock company |
-| Logo Image | Klarna logo blue.png, Klarna Logo black.svg |
 | Quora Topic Id | Klarna |
 | Dagens Nyheter Topic Id | klarna |
 | X (Twitter) Username | Klarna (as of 2020-02-28, from 2009-04-15) |

@@ -2,11 +2,11 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-03-05T22:38:39.759588"
+date: "2026-03-13T08:56:59.808908"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - qatar
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - doha
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +57,18 @@ typographies:
   - din
   - display
 imagery_styles:
-  - bold
   - dynamic
   - contemporary
-  - minimal
   - subtle
+  - minimal
+  - bold
 wikidata_description: Qatari international television channel
+wikidata_url: "https://www.wikidata.org/wiki/Q13477"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -178,6 +191,12 @@ A central position is used at the end of channel generic promos.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13477) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Doha](/headquarters_locations/doha/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Gnd Id | 4699478-6 |
 | Ndl Authority Id | 01010566 |
 | Viaf Cluster Id | 172920101, 316757003 |

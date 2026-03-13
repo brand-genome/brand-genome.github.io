@@ -2,7 +2,7 @@
 title: Three Sticks Wines
 slug: "three-sticks-wines"
 description: ""
-date: "2026-03-05T22:38:39.509285"
+date: "2026-03-13T08:56:59.433719"
 draft: false
 sectors:
   - drink
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,21 +52,23 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - "pantone-7516"
   - black
+  - "pantone-7516"
 typographies:
-  - georgia
   - helvetica
+  - georgia
 imagery_styles:
-  - bold
-  - vintage
   - photography
   - natural
+  - bold
+  - vintage
 wikidata_description: "winery in Sonoma, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q63954508"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +123,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q63954508) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Country | United States |
 | Coordinate Location | 38.2937801, -122.459743 |
 | Located In The Administrative Territorial Entity | Sonoma |
@@ -118,7 +135,7 @@ guideline_count: 1
 | Street Address | 143 West Spain |
 | Postal Code | 95476 |
 | Phone Number | +1-707-996-3328 |
-| Email Address | mailto:info@threestickswines.com |
+| Email Address | info@threestickswines.com |
 | Facebook Username | threestickswines |
 | Instagram Username | threestickswines |
 | X (Twitter) Username | threestickswine (as of 2020-04-24, from 2009-06-16) |

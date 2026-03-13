@@ -2,7 +2,7 @@
 title: Harris Teeter
 slug: "harris-teeter"
 description: ""
-date: "2026-03-05T22:38:40.032679"
+date: "2026-03-13T08:57:00.050960"
 draft: false
 sectors:
   - supermarket
@@ -18,228 +18,327 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products:
+  - bakery
+headquarters_locations:
+  - matthews
+subsidiaries: []
+foundation_dates:
+  - 1936
 lightings:
+  - natural
   - studio
   - soft
   - moderate
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
   - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - "complementary-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - grayscale
+  - "analogous-colors"
 photography_genres:
-  - selfie
   - commercial
-  - landscape
-  - promotional
-  - food
-  - "social-cause"
-  - product
-  - text
-  - lifestyle
-  - illustration
-  - "food-photography"
-  - street
-  - advertising
-  - architectural
-  - sports
-  - action
-  - "live-stage"
-  - group
-  - documentary
-  - "fine-art"
   - logo
-  - advertisement
-  - fashion
-  - sky
-  - "text-heavy"
-  - family
-  - typography
+  - "food-photography"
+  - product
+  - promotional
   - "graphic-design"
+  - selfie
+  - family
+  - "live-stage"
+  - street
+  - sports
+  - "fine-art"
+  - "social-cause"
+  - sky
+  - fashion
+  - group
+  - typography
+  - advertisement
+  - documentary
+  - advertising
+  - "text-heavy"
   - portrait
   - beauty
-  - "still-life"
-concepts:
-  - "sports-event"
-  - athlete
-  - cartoon
-  - "text-heavy"
+  - landscape
+  - food
   - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
+  - text
+  - "still-life"
+  - architectural
+  - action
+  - lifestyle
+concepts:
+  - "text-heavy"
+  - "sports-event"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - athlete
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
-  - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "isolated-focal-point"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
-  - "wide-angle-shot"
   - "deep-depth-of-field"
+  - "mid-shot"
+  - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "isolated-focal-point"
+  - "bokeh-effect"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "motion-blur"
-  - "long-exposure"
   - "short-exposure"
   - "vanishing-point"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "motion-blur"
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "off-white"
-  - red
   - mustard
-  - "dark-green"
+  - red
   - "dark-blue"
   - black
+  - "dark-green"
   - "light-blue"
+  - "off-white"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - "pulled-back"
-  - neat
-  - wavy
-  - loose
-  - up
-  - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
-  - "tied-back"
-  - varied
   - covered
+  - updo
+  - neat
+  - "pulled-back"
+  - casual
+  - short
+  - loose
+  - varied
+  - up
+  - flowing
+  - ponytail
+  - "tied-back"
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
   - joyful
+  - focused
+  - neutral
   - engaged
   - relaxed
-  - neutral
-  - content
-  - focused
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
   - professional
   - "form-fitting"
-  - costume
-  - formal
   - protective
   - swimwear
-  - traditional
-  - "business-casual"
+  - business
+  - costume
 clothing_colors:
-  - vibrant
-  - muted
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - active
-  - holding
-  - standing
   - running
   - stretching
+  - active
   - confident
+  - leaning
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
 gazes:
-  - engaged
-  - away
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "hand-only"
+  - "lower-half"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: large supermarket chain in the southern United States
+wikidata_url: "https://www.wikidata.org/wiki/Q5665067"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 108
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FnV9WIQWIA44Rb7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjJsiziWIAAotdR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FbWNZzjWYAAJeka?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLq_jIFXEAAgxsL?format=png&name=large"
+  - "https://pbs.twimg.com/media/FLRMnpzXEAUhii5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFdHTJNXwAcYMc0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCKb4vUWQAInuX2?format=png&name=large"
+  - "https://pbs.twimg.com/media/E-sqQk1WYAEFHV7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey8IZaWW8AMPd9R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsW2mrIXcAAlpjO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ElrKXVvXEAE1-N6?format=png&name=large"
+  - "https://pbs.twimg.com/media/EU4UzH-XQAImLMQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUhXAwXXYAE25xb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUjOIlhXsAAHEPy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUJBX4YXYAkV-Rq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUHrEPqXkAI3cFJ?format=png&name=large"
+  - "https://pbs.twimg.com/media/ETl1BAwWAAAyfC0?format=png&name=large"
+  - "https://pbs.twimg.com/media/ESXciXxXYAEtQaB?format=png&name=large"
+  - "https://pbs.twimg.com/media/ERElYcnWoAA0_JS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EO-2WFuWsAAIiyQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EObO6MkWoAAiib2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EORG5prWoAAtc88?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENoN8MxXYAcX0aq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMGI9XMXkAAjYRp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI3udZZW4AA2blZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EGdcUzuXkAId0d9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAzjpUeW4AAr2yz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D-aBCoVXYAAnHCj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8z1BPaW4AMNjfJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8zzhYcXYAIbhs-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7rvzt3X4AA3war?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7rvmMLXsAQzWzv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7HEZAnXYAArzpx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7HDZIuXoAA6B65?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6oQpYgWsAAJtGh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6oY-GLXoAEy-qG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6oQeBgW4AATylI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6nS-X1WsAANBaQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6Hwu6gWwAI7xeB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6HviyIW0AEaoMp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5BnBROXoAA61hD?format=png&name=large"
+  - "https://pbs.twimg.com/media/D4b98XuW0AEy0Uz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D35koFVWsAUtGDm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0RnHDnW0AAm0Lz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtHTk9pXcAIScRl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DptWTGyW0AAEL7K?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpJG0veXcAE173j?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoxYpGmW0AI2GzZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoDCczyW0AADOUS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoC0WmyWsAIAS7R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnTsxUKXcAYCKLM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnZfIFKX0AExtwc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnTsI8VW4AAh72E?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnFxl2_XoAE5TPC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmbTvVQU8AARfrp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmVc9uMW4AIIQIS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dlyf7GDX4AAtd37?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlyebyhW0AACUbX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlO14jHXsAIrLny?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkvO9nJUcAAACQr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkvMKmpUYAATCe-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkqxYsQX4AI9_6S?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkqOAbWX4AA-I12?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkGoNxvX0AEba_X?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjmOzLyXsAAWNtI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjgtD2AWwAEtLrG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Di9uX4SVsAAg2_s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Did5sFXW4AANY97?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Did4hJpX0AA4XPe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiQHgmxXUAEeWN0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhSDAd6W0AYBkEC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgDwgO0XUAEchFd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Df0eISJX4AA9G0O?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Df0c9CeX0AEMcYa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfBGy8zWAAIepDV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfA6qfsWsAA5t3r?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdfA9fmVQAAgF-H?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZU0Ds6WkAAfN-D?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYbm1YdXkAAd_Q8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXUDupQXcAAr_uk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWuzeosW0AIMtei?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWkOB4WX4AEhsWR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVhWYR7W4AAIFWr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVYeokQXcAEoS9H?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTl15zhW4AAMZNU?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 108 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Light Blue | 29.4% | 24.9% | 17.1% | 35.1% | 48.3% | ±15.4% | 15.7% |
-| Black | 28.9% | 23.2% | 14.0% | 36.2% | 55.0% | ±21.4% | 27.8% |
-| Dark Blue | 24.0% | 14.5% | 12.1% | 15.2% | 46.9% | ±26.0% | 18.5% |
-| Mustard | 22.7% | 10.5% | 8.5% | 23.1% | 60.5% | ±23.0% | 10.2% |
-| White | 21.8% | 18.7% | 11.8% | 26.3% | 38.3% | ±14.3% | 53.7% |
-| Red | 21.5% | 15.6% | 8.6% | 26.2% | 26.4% | ±20.0% | 12.0% |
-| Dark Green | 21.5% | 11.4% | 8.0% | 15.7% | 47.9% | ±26.7% | 16.7% |
-| Off White | 19.9% | 15.6% | 10.1% | 25.5% | 39.2% | ±13.6% | 38.9% |
+| Color | Mean |
+|-------|------|
+| Light Blue | 29.4% |
+| Black | 28.9% |
+| Dark Blue | 24.0% |
+| Mustard | 22.7% |
+| White | 21.8% |
+| Red | 21.5% |
+| Dark Green | 21.5% |
+| Off White | 19.9% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 16.4% | 8.9% | 0.0% | 22.4% | ±22.2% |
-| Neutral | 64.8% | 72.1% | 46.9% | 88.5% | ±29.6% |
-| Cool | 18.8% | 0.0% | 0.0% | 28.1% | ±28.1% |
+| Tone | Mean |
+|------|------|
+| Warm | 16.4% |
+| Neutral | 64.8% |
+| Cool | 18.8% |
 
 ### Sample Images
 
@@ -349,9 +448,15 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5665067) |
+
+| Property | Value |
+|----------|-------|
+| Product | [Bakery](/products/bakery/) |
+| Headquarters Location | [Matthews](/headquarters_locations/matthews/) |
+| Foundation Date | [1936](/foundation_dates/1936/) |
 | Country | United States |
 | Headquarters Location | Matthews |
-| Logo Image | Harris-Teeter.png |
 | Inception | 1936-01-01 |
 | Industry | supermarket |
 | Parent Organization | Kroger (from 2014) |

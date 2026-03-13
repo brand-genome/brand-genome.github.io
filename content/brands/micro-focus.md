@@ -2,11 +2,11 @@
 title: Micro Focus
 slug: "micro-focus"
 description: ""
-date: "2026-03-05T22:38:39.359679"
+date: "2026-03-13T08:56:59.311588"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -16,14 +16,26 @@ languages:
 tags:
   - software
 industries:
-  - "software-development"
   - "information-technology"
+  - "software-development"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "enterprise-software"
+products: []
+headquarters_locations:
+  - newbury
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: former British multinational software and information technology business
+wikidata_url: "https://www.wikidata.org/wiki/Q1931458"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,13 +81,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1931458) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Enterprise Software](/products_or_materials_produced/enterprise-software/) |
+| Headquarters Location | [Newbury](/headquarters_locations/newbury/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Follows | NetManage |
 | Topic'S Main Category | Category:Micro Focus International |
 | Headquarters Location | Newbury |
 | Inception | 1976 |
 | Child Organization Or Unit | Attachmate, Novell, NetIQ, Borland, Micro Focus (United States) (+1 more) |
 | Isin | GB00BQY7BX88 |
-| Logo Image | Micro Focus logo.svg |
 | Legal Form | private company limited by shares |
 | Quora Topic Id | Micro-Focus-company |
 | Open Funder Registry Funder Id | 100004780 |
@@ -101,9 +121,11 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.38B (1,380,700,000 United States dollar (as of 2017))
-- $1.25B (1,245,000,000 United States dollar (as of 2016))
-- $834.50M (834,500,000 United States dollar (as of 2015))
-- $433.10M (433,100,000 United States dollar (as of 2014))
-- $412.20M (412,200,000 United States dollar (as of 2013))
-- $3.00T (3,000,000,000,000 (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.38B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.25B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $834.50M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $433.10M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $412.20M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $3.00T | as of 2021 | [OVER-1T](/revenue_buckets/over-1t/) |

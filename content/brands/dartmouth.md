@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-03-05T22:38:39.614424"
+date: "2026-03-13T08:56:59.560983"
 draft: false
 sectors:
   - university
@@ -20,9 +20,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1769
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +60,21 @@ logo_elements:
 brand_colors:
   - white
   - red
+  - green
   - orange
   - black
-  - green
 typographies:
   - impact
 imagery_styles:
   - photography
   - natural
 wikidata_description: "private university in Hanover, New Hampshire, US"
+wikidata_url: "https://www.wikidata.org/wiki/Q49116"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +129,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49116) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1769](/foundation_dates/1769/) |
 | Country | United States |
 | Gnd Id | 1024878-X |
 | Coordinate Location | 43.703333333333, -72.288333333333 |
@@ -159,7 +178,6 @@ guideline_count: 1
 | Times Higher Education World University Id | dartmouth-college |
 | Google Maps Customer Id | 13670772654116243660 |
 | U Multirank University Id | dartmouth-college |
-| Logo Image | Dartmouth College logo.svg |
 | Archinform Keyword Id | 3091 |
 | Idref Id | 026583267 |
 | Viaf Cluster Id | 133612333 |
@@ -181,9 +199,7 @@ guideline_count: 1
 | Different From | University of Massachusetts Dartmouth |
 | National Library Of Israel J9U Id | 987007260280605171 |
 | Count Of Students | 6,292 (as of 2020-09), 6,761 (as of 2021-09-01), 6,700 (as of 2024) |
-| Total Assets | 9,078,339,729 United States dollar (as of 2020-06-30), 11,447,539,519 United States dollar (as of 2022), 11,884,162,956 United States dollar (as of 2021), 11,665,744,420 United States dollar (as of 2023), 5,828,845,616 United States dollar (as of 2011) (+9 more) |
 | Endowment | 5,975,179,828 United States dollar (as of 2020-06-30), 8,065,742,785 United States dollar (as of 2022-06-30), 8,484,189,450 United States dollar (as of 2021-06-30), 8,300,000,000 (as of 2024) |
-| Employees | 3,961 (as of 2020-09), 4,381 (as of 2024) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I107672454, P4310316354 |
@@ -236,17 +252,45 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.95B (1,952,191,796 United States dollar (as of 2022))
-- $1.85B (1,850,561,594 United States dollar (as of 2021))
-- $1.60B (1,603,346,438 United States dollar (as of 2023))
-- $959.21M (959,207,208 United States dollar (as of 2011))
-- $967.70M (967,704,645 United States dollar (as of 2012))
-- $1.19B (1,193,865,978 United States dollar (as of 2013))
-- $1.31B (1,310,504,806 United States dollar (as of 2014))
-- $1.39B (1,394,170,409 United States dollar (as of 2015))
-- $1.20B (1,196,784,087 United States dollar (as of 2016))
-- $1.27B (1,268,341,777 United States dollar (as of 2017))
-- $1.44B (1,435,522,287 United States dollar (as of 2018))
-- $1.44B (1,444,207,354 United States dollar (as of 2019))
-- $1.58B (1,581,351,409 United States dollar (as of 2020))
-- $1.70B (1,704,785,821 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.95B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.85B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.60B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $959.21M | as of 2011 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $967.70M | as of 2012 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.19B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.31B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.39B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.20B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.27B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.44B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.44B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.58B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.70B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,961 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,381 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $9.08B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $11.45B | as of 2022 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.88B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.67B | as of 2023 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $5.83B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.96B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.17B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.96B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.27B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.26B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.88B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.28B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.63B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $12.05B | as of 2024 | [10B-50B](/total_assets_buckets/10b-50b/) |

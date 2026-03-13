@@ -2,11 +2,11 @@
 title: Mental Health Research UK
 slug: "mental-health-research-uk"
 description: ""
-date: "2026-03-05T22:38:39.229280"
+date: "2026-03-13T08:56:59.173105"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -14,15 +14,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - health
+  - featured
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "nonprofit organization in Leicester, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q21006835"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21006835) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Inception | 2008 |
 | Coordinate Location | 52.637723, -1.142089 |
 | Country | United Kingdom |
@@ -79,9 +96,11 @@ guideline_count: 1
 
 ### Revenue History
 
-- $217.40K (217,397 pound sterling (as of 2020))
-- $330.93K (330,925 pound sterling (as of 2021))
-- $128.46K (128,460 pound sterling (as of 2022))
-- $113.88K (113,884 pound sterling (as of 2023))
-- $272.59K (272,588 pound sterling (as of 2024))
-- $280.01K (280,007 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $217.40K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $330.93K | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $128.46K | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $113.88K | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $272.59K | as of 2024 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $280.01K | as of 2025 | [UNDER-1M](/revenue_buckets/under-1m/) |

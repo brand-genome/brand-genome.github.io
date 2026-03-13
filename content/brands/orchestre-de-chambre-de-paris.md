@@ -2,7 +2,7 @@
 title: Orchestre de Chambre de Paris
 slug: "orchestre-de-chambre-de-paris"
 description: ""
-date: "2026-03-05T22:38:39.819849"
+date: "2026-03-13T08:56:59.894833"
 draft: false
 sectors:
   - "arts-culture"
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1978
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +48,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
-  - vertical
   - horizontal
+  - alternate
+  - vertical
 brand_colors:
   - orange
 typographies:
   - bodoni
   - display
 imagery_styles:
-  - photography
+  - natural
+  - realistic
   - professional
   - monochrome
-  - realistic
-  - natural
+  - photography
 wikidata_description: French chamber orchestra
+wikidata_url: "https://www.wikidata.org/wiki/Q3355284"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +121,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3355284) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1978](/foundation_dates/1978/) |
 | Musicbrainz Artist Id | 3062b9fd-923f-49d7-9ee7-2933d9356ad7, 7df261f1-1a33-454b-96b6-f0c83d43bb29 |
 | Musical Conductor | Lars Vogt |
 | Songkick Artist Id | 2224186 |
@@ -124,6 +141,5 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 13903285m |
 | Allmusic Artist Id | mn0002448012 |
 | ‎Yale Lux Id | group/df40085e-01c0-4a60-bbb4-7a395acdb7bf |
-| Logo Image | LogoOCP--PasEOP.jpg |
 | Isni | 0000000088763037 |
 | Cinii Research Id | 1981149387924582272 |

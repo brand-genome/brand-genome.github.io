@@ -2,7 +2,7 @@
 title: Aviva
 slug: aviva
 description: ""
-date: "2026-03-05T22:38:40.034460"
+date: "2026-03-13T08:57:00.057048"
 draft: false
 sectors:
   - insurance
@@ -19,209 +19,300 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries:
+  - "commercial-union-versicherungs-ag"
+  - "aviva-canada"
+foundation_dates:
+  - 2000
 lightings:
+  - natural
   - studio
+  - colored
   - soft
   - moderate
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - wood
-  - textured
-  - blurred
   - transparent
   - solid
-  - light
+  - wood
+  - textured
   - gradient
-  - bright
+  - blurred
   - dark
+  - light
+  - bright
 color_schemes:
-  - "bright-colors"
-  - grayscale
+  - "aquatic-colors"
   - "complementary-colors"
+  - "autumnal-colors"
+  - "bright-colors"
+  - "pastel-colors"
   - "sunset-colors"
+  - grayscale
   - light
   - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - "aquatic-colors"
 photography_genres:
-  - architectural
-  - audience
-  - fashion
-  - sky
-  - selfie
   - "text-heavy"
-  - interior
-  - "still-life"
-  - landscape
-  - sports
-  - action
-  - "live-stage"
   - portrait
+  - action
+  - interior
+  - audience
+  - landscape
+  - selfie
+  - sky
+  - "still-life"
+  - fashion
+  - "live-stage"
+  - architectural
   - group
+  - sports
 concepts:
   - advertisement
   - "text-heavy"
-  - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "high-contrast"
-  - "high-saturation"
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "long-exposure"
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "mud-green"
   - olive
-  - "dark-green"
+  - "mud-green"
+  - "dark-brown"
   - "dark-blue"
   - black
-  - "dark-brown"
   - gray
+  - "dark-green"
 color_tones:
   - neutral
 hair_styles:
+  - covered
+  - updo
+  - neat
+  - "pulled-back"
+  - varied
+  - short
+  - loose
   - casual
   - flowing
-  - "pulled-back"
-  - neat
-  - wavy
-  - loose
   - straight
   - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
   - "tied-back"
-  - varied
-  - covered
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - excited
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
+  - content
   - happy
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - holding
-  - active
-  - standing
   - running
-  - stretching
   - confident
+  - leaning
+  - active
+  - stretching
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
 gazes:
-  - engaged
-  - away
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - "lower-half"
-  - midsection
-  - "full-back"
-  - "upper-body"
   - dynamic
-  - "full-body"
+  - "upper-body"
   - "close-up"
+  - "lower-half"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: British insurance company
+wikidata_url: "https://www.wikidata.org/wiki/Q791179"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 145
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FhTHlWAXoAAoMWs?format=png&name=large"
+  - "https://pbs.twimg.com/media/FetN5EiXgAID1QZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fb_1hg3WYAMcDN_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FbmUD_EWYAApSNl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZOw9CkWIAYgqVG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWdN39BXkAQgTrc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWR1MKoWIAANvSJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVXRyTKWAAAj2Rg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVXI8ZgXwAAf1aW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FR1e2ilXEAA0yRD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOrvZCpXwAkaLua?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM8L1KvWUAYDu7Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOPFYqFXIAkBjdI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOO87SIXMAMlbbN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOM3Y4DWQAMyLmo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FNq52dRXMAApthX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM1mxDzWUAAvKYm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FMNv9yWX0AQn-0d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FL5mnceWQBE1wJZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLyotSfXEAAPhyF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLkaIGqX0AA-kwW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FK6M8GcXEAI_XXM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFXlh8ZX0AkFZut?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFBpqHwXEAEvFn_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEZQLp8XIAAhp2O?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FETgrOfXIAACQgl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEJ4_NsWYAIw3i-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEFyICuXwAESSDB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDsBbf8WEAIIg6t?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDhOASyXEAALTNt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDGsM00WEAIpP6i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBRa553WUAQJ_9f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5xdWoUX0AEu7Y5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5hJllqWUAIZLZR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4l6h_8XoAcIigl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4jOHVjWUAI5TaR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3CU5MIXEAEbUer?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eyd5GMSWYAEGxeS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyX30svWUAo59ek?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ew74dPNW8AAXKVN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwxZsaKWgAQcTBK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvEALoYXAAIjKKi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnlQ-ylXUAAsqNH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Emu1lByXUAEUZpx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmYH6dpXUAAFpMn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkcZV4GXUAEbWPr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eg_E7GDXYAA-Lpg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ebd_H58X0AYpKbY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EX_EhRFXsAAuW9o?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ES2G2A6X0AE0ywW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJprcNdWkAAXV-z?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHF7E_ZWkAAchVx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EGSeyKMXYAEZ0n5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF9ZovoXkAA7teA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF9HpDZXYAIinKB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFGHhO4WkAESEBn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ED37QIDX4AMl63w?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDh7HMLXUAAaMeS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8PQ-S4X4AAt_YH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8M09OcX4AA8aI1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8LHIdtXkAEigvg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2kavbrXQAAlC57?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D01KgyjXcAALXU-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzdcBymWkAEiDB-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dy-duKIXQAAPMb3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DypIpKXX0AIIN2_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyQXSbMWkAEYDNs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dr0bdkKWkAAA_9L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbAU-URWAAAUCDT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZN84iMWAAADNcR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DX8ntB-VwAEyHgl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXM2ZqEW4AAT0pU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXH9xdmWkAAdJ4n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DU9mPC-XkAAEqrl?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 145 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Black | 31.0% | 28.2% | 17.8% | 36.0% | 57.1% | ±17.3% | 84.1% |
-| Dark Blue | 22.0% | 13.6% | 9.5% | 27.9% | 47.2% | ±16.4% | 35.2% |
-| Dark Green | 19.6% | 18.0% | 11.9% | 25.3% | 29.8% | ±8.9% | 53.8% |
-| Mud Green | 19.6% | 14.1% | 10.3% | 27.8% | 41.7% | ±12.8% | 35.2% |
-| Olive | 18.7% | 18.0% | 14.9% | 20.8% | 23.7% | ±9.7% | 26.2% |
-| White | 18.5% | 14.1% | 11.2% | 21.7% | 30.6% | ±11.3% | 10.3% |
-| Dark Brown | 17.4% | 14.1% | 10.7% | 20.3% | 25.1% | ±11.6% | 55.9% |
-| Gray | 16.5% | 13.6% | 10.4% | 16.3% | 28.9% | ±10.5% | 37.2% |
+| Color | Mean |
+|-------|------|
+| Black | 31.0% |
+| Dark Blue | 22.0% |
+| Dark Green | 19.6% |
+| Mud Green | 19.6% |
+| Olive | 18.7% |
+| White | 18.5% |
+| Dark Brown | 17.4% |
+| Gray | 16.5% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 4.2% | 0% | 0.0% | 0.0% | ±9.1% |
-| Neutral | 65.2% | 66.6% | 51.8% | 84.5% | ±24.3% |
-| Cool | 30.7% | 25.3% | 13.5% | 44.6% | ±23.9% |
+| Tone | Mean |
+|------|------|
+| Warm | 4.2% |
+| Neutral | 65.2% |
+| Cool | 30.7% |
 
 ### Sample Images
 
@@ -331,13 +422,18 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q791179) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Subsidiary | [Commercial Union Versicherungs Ag](/subsidiaries/commercial-union-versicherungs-ag/); [Aviva Canada](/subsidiaries/aviva-canada/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Country | United Kingdom |
 | Headquarters Location | London |
-| Logo Image | Aviva Logo.svg |
 | Inception | 2000-01-01 |
 | Chief Executive Officer | Amanda Blanc (from 2020-07-05) |
 | Industry | financial services, insurance |
-| Employees | 27,873 (as of 2024) |
 | Subsidiary | , Commercial Union Versicherungs-AG, Aviva Canada |
 | Owner Of | Tour Carpe Diem, The Mount, Sheffield, DeltaFort Beleggingen I |
 | Owned By | BlackRock (as of 2024-12-31), Dodge & Cox (as of 2024-12-31), Norges Bank (as of 2024-12-31) |
@@ -345,7 +441,6 @@ guideline_count: 0
 | Legal Form | public limited company |
 | Stock Exchange | London Stock Exchange, OTC Markets Group |
 | Isin | GB0002162385, GB00BPQY8M80 |
-| Total Assets | 353,883,000,000 pound sterling (as of 2024-12-31) |
 | Image | St. Helen's - St. Mary Axe- 2011-05-04.jpg |
 | Chairperson | George Culmer (from 2020) |
 | Facebook Id | Aviva |
@@ -354,4 +449,18 @@ guideline_count: 0
 
 ### Net Profit History
 
-- $705.00M (705,000,000 pound sterling (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $705.00M | as of 2024 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 27,873 | as of 2024 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $353.88B | as of 2024-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |

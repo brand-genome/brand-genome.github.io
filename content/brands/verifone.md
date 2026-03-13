@@ -2,22 +2,22 @@
 title: Verifone
 slug: verifone
 description: ""
-date: "2026-03-05T22:38:39.199947"
+date: "2026-03-13T08:56:59.136578"
 draft: false
 sectors:
   - software
-  - finance
   - hardware
+  - finance
 regions:
   - usa
 years:
-  - 2018
   - 2023
+  - 2018
 languages:
   - english
 tags:
-  - financial
   - internet
+  - financial
 industries:
   - electronics
 countries:
@@ -25,6 +25,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "payment-terminal"
+products: []
+headquarters_locations:
+  - "coral-springs"
+  - "san-jose"
+subsidiaries: []
+foundation_dates:
+  - 1981
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,18 +58,20 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: business enterprise
+wikidata_url: "https://www.wikidata.org/wiki/Q2912154"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +114,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2912154) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Payment Terminal](/products_or_materials_produced/payment-terminal/) |
+| Headquarters Location | [Coral Springs](/headquarters_locations/coral-springs/); [San Jose](/headquarters_locations/san-jose/) |
+| Foundation Date | [1981](/foundation_dates/1981/) |
 | Stock Exchange | New York Stock Exchange (until 2018), Nasdaq |
 | Headquarters Location | San Jose, Coral Springs |
 | Country | United States |
@@ -109,7 +131,6 @@ guideline_count: 2
 | Mac Address Block Large Id | 000B4F, 60C798, A46011 |
 | Grid Id | grid.497246.a |
 | Ror Id | 01fex4x77 |
-| Logo Image | Verifone Logo.svg |
 | Product Or Material Produced | payment terminal |
 | Described At Url | http://www.fundinguniverse.com/company-histories/verifone-inc-history/ |
 | X (Twitter) Username | verifone (as of 2020-12-28, from 2009-05-02), Verifone |

@@ -2,16 +2,16 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-03-05T22:38:39.535197"
+date: "2026-03-13T08:56:59.467576"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - electricity
+products: []
+headquarters_locations:
+  - atlanta
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,12 +54,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
   - red
@@ -56,17 +68,19 @@ typographies:
   - impact
   - arial
 imagery_styles:
-  - bold
   - staged
-  - vibrant
   - dynamic
-  - flat
   - clean
+  - vibrant
+  - flat
+  - bold
 wikidata_description: US electricity corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q2304693"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +136,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2304693) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electricity](/products_or_materials_produced/electricity/) |
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Topic'S Main Category | Category:Southern Company |
 | Freebase Id | /m/01c48j |
 | Headquarters Location | Atlanta |
@@ -129,7 +150,6 @@ guideline_count: 2
 | Isin | US8425871071 |
 | Inception | 1945 |
 | Child Organization Or Unit | Georgia Power, Southern Linc, Mississippi Power, Alabama Power |
-| Logo Image | Southern Company logo.svg, Southern Company newer logo.svg |
 | Legal Entity Identifier | 549300FC3G3YU2FBZD92 |
 | Isni | 0000000103181319 |
 | Ringgold Id | 54120 |

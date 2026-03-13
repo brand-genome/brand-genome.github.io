@@ -2,11 +2,11 @@
 title: Yale University
 slug: "yale-university"
 description: ""
-date: "2026-03-05T22:38:39.536031"
+date: "2026-03-13T08:56:59.468414"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
@@ -22,9 +22,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-haven"
+subsidiaries: []
+foundation_dates:
+  - 1701
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in New Haven, Connecticut"
+wikidata_url: "https://www.wikidata.org/wiki/Q49112"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,7 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Yale University Shield 1.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49112) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New Haven](/headquarters_locations/new-haven/) |
+| Foundation Date | [1701](/foundation_dates/1701/) |
 | Libraries Australia Id | 35623135 |
 | Coordinate Location | 41.311111111111, -72.926666666667 |
 | Topic'S Main Category | Category:Yale University |
@@ -140,7 +160,6 @@ guideline_count: 1
 | Musicbrainz Place Id | 8ae1c73c-6e0d-4531-a29c-6a5ca91b1577 |
 | Official Color | Yale Blue |
 | Microsoft Academic Id (Discontinued) | 32971472 |
-| Employees | 3,619 |
 | Street Address | Woodbridge Hall, New Haven, CT, 06520 |
 | Zhihu Topic Id | 19634767 |
 | Ror Id | 03v76x132 |
@@ -170,7 +189,6 @@ guideline_count: 1
 | Osm Name Suggestion Index Id | yaleuniversity-2ea36d, yaleuniversity-5f4799, yaleuniversity-866ce7 |
 | Online Pwn Encyclopedia Id | 3991466 |
 | National Library Of Israel J9U Id | 987007270184205171 |
-| Total Assets | 44,696,382,000 United States dollar (as of 2020-06-30), 27,801,734,697 United States dollar (as of 2011), 28,321,347,357 United States dollar (as of 2012), 28,911,175,542 United States dollar (as of 2013), 32,031,841,267 United States dollar (as of 2014) (+9 more) |
 | Endowment | 31,201,686,000 United States dollar (as of 2020-06-30), 41,383,300,000 United States dollar (as of 2022-06-30), 42,282,900,000 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -229,17 +247,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $3.49B (3,488,705,694 United States dollar (as of 2011))
-- $3.63B (3,627,023,737 United States dollar (as of 2012))
-- $3.69B (3,688,471,185 United States dollar (as of 2013))
-- $4.48B (4,477,633,568 United States dollar (as of 2014))
-- $5.46B (5,461,672,525 United States dollar (as of 2015))
-- $4.81B (4,807,997,730 United States dollar (as of 2016))
-- $4.68B (4,678,330,813 United States dollar (as of 2017))
-- $5.09B (5,089,937,007 United States dollar (as of 2018))
-- $5.55B (5,551,534,852 United States dollar (as of 2019))
-- $5.60B (5,595,177,145 United States dollar (as of 2020))
-- $7.62B (7,616,500,018 United States dollar (as of 2021))
-- $7.41B (7,410,414,729 United States dollar (as of 2022))
-- $6.32B (6,315,023,788 United States dollar (as of 2023))
-- $6.84B (6,841,256,079 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.49B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.63B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.69B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.48B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.46B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.81B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.68B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.09B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.55B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.60B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.62B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.41B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.32B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.84B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,619 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $44.70B | as of 2020-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $27.80B | as of 2011 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $28.32B | as of 2012 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $28.91B | as of 2013 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $32.03B | as of 2014 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $34.13B | as of 2015 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $34.10B | as of 2016 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $36.62B | as of 2017 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $39.07B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $40.53B | as of 2019 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $56.10B | as of 2021 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $54.60B | as of 2022 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $54.31B | as of 2023 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $55.21B | as of 2024 | [50B-100B](/total_assets_buckets/50b-100b/) |

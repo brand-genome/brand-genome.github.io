@@ -2,7 +2,7 @@
 title: Xunta de Galicia
 slug: "xunta-de-galicia"
 description: ""
-date: "2026-03-05T22:38:39.193977"
+date: "2026-03-13T08:56:59.129131"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "santiago-de-compostela"
+subsidiaries: []
+foundation_dates:
+  - 1981
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "collective decision-making body of the government of the autonomous community of Galicia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1779601"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1779601) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Santiago De Compostela](/headquarters_locations/santiago-de-compostela/) |
+| Foundation Date | [1981](/foundation_dates/1981/) |
 | Freebase Id | /m/06pk_c |
 | Topic'S Main Category | Category:Xunta de Galicia |
 | Applies To Jurisdiction | Galicia |
@@ -84,7 +103,6 @@ guideline_count: 1
 | Open Data Portal | Xunta de Galicia Open Data |
 | Office Held By Head Of Government | President of the Xunta of Galicia |
 | Field Of Work | government |
-| Logo Image | Logotipo de la Xunta de Galicia.svg (from 2003, until 2021), Logo da Xunta de Galicia (1985).svg (from 1985, until 2003), Logo da Xunta de Galicia (2021).svg (from 2021) |
 | Facebook Username | xuntadegalicia |
 | X (Twitter) Username | xuntadegalicia |
 | Youtube Channel Id | UCD9wQPT5jGybrYPmD8sGuWw (as of 2022-03-20, from 2007-03-06) |

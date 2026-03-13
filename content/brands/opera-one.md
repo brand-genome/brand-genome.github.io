@@ -2,7 +2,7 @@
 title: Opera One
 slug: "opera-one"
 description: ""
-date: "2026-03-05T22:38:39.242550"
+date: "2026-03-13T08:56:59.186689"
 draft: false
 sectors:
   - software
@@ -13,13 +13,23 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: web browser developed by Opera Software
+wikidata_url: "https://www.wikidata.org/wiki/Q41242"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q41242) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Based On | WebKit, V8, Presto |
 | Developer | Opera |
 | Operating System | Microsoft Windows, macOS, Linux, iOS, Android (+2 more) |
@@ -92,7 +109,6 @@ guideline_count: 1
 | Aur Package | opera-developer, opera-beta, opera-legacy |
 | App Store App Id | 1411869974 |
 | Social Media Followers | 646,082 (as of 2021-01-06), 657,939 (as of 2020-04-14), 634,988 (as of 2022-02-28), 633,530 (as of 2023-02-09) |
-| Logo Image | Opera 2015 icon.svg |
 | Wordnet 3.1 Synset Id | 06584114-n |
 | Google Play Store App Id | com.opera.browser |
 | Alternativeto Software Id | opera |

@@ -2,11 +2,11 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-03-05T22:38:39.603802"
+date: "2026-03-13T08:56:59.547017"
 draft: false
 sectors:
-  - education
   - "veterinary-pet-care"
+  - education
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,27 +51,29 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - orange
-  - black
-  - yellow
   - blue
   - pink
+  - yellow
+  - black
+  - orange
   - gray
 typographies:
-  - raleway
   - avenir
+  - raleway
 imagery_styles:
-  - bold
-  - photography
-  - professional
+  - natural
   - dramatic
   - modern
-  - natural
+  - professional
+  - photography
+  - bold
 wikidata_description: client program for CompuServe Information Service
+wikidata_url: "https://www.wikidata.org/wiki/Q6981562"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +121,10 @@ guideline_count: 1
 - Document contains extensive style conventions for punctuation, hyphen usage, phone formatting, titles, and names. Detailed guidance available.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6981562) |
 
 | Property | Value |
 |----------|-------|

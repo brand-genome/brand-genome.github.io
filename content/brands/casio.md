@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-03-05T22:38:39.634243"
+date: "2026-03-13T08:56:59.563952"
 draft: false
 sectors:
   - electronics
@@ -21,6 +21,22 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - calculator
+  - "electronic-dictionary"
+  - "electronic-musical-instrument"
+  - watch
+products: []
+headquarters_locations:
+  - shibuya
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,16 +57,18 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - red
+  - blue
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: multinational electronics manufacturing company
+wikidata_url: "https://www.wikidata.org/wiki/Q217338"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +108,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q217338) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Calculator](/products_or_materials_produced/calculator/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/); [Watch](/products_or_materials_produced/watch/) |
+| Headquarters Location | [Shibuya](/headquarters_locations/shibuya/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Shibuya |
 | Named After | Tadao Kashio |
 | Founded By | Tadao Kashio |
@@ -103,7 +128,6 @@ guideline_count: 1
 | Museum Of Modern Art Artist Id | 1011 |
 | Ndl Authority Id | 00350134 |
 | Location Of Formation | Shibuya |
-| Logo Image | Casio logo.svg |
 | Legal Form | kabushiki gaisha |
 | Corporate Number (Japan) | 4011001030015 |
 | Industry | Electronics, Electrical Engineering and Automation |
@@ -126,7 +150,6 @@ guideline_count: 1
 | Facebook Username | CASIO-Calculators-Global-155268021727400, CasioJapan |
 | Member Of | Wi-Fi Alliance, SD Association, Camera & Imaging Products Association |
 | Youtube Channel Id | UCAaJ7xaKXPVTtPdnNKtUD1g (as of 2020-12-09, from 2012-06-13) |
-| Employees | 9,732 (as of 2023) |
 | Manualslib Brand Id | casio |
 | Product Or Material Produced | calculator, watch, electronic dictionary, electronic musical instrument |
 | Niconicopedia Id | カシオ計算機 |
@@ -164,3 +187,9 @@ guideline_count: 1
 | Pnp Vendor Id | CAS |
 | Threads Username | casio_us |
 | Musicbrainz Artist Id | 8209e9f3-f295-4141-82b1-c5c7c442092b |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 9,732 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |

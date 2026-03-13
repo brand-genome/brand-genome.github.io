@@ -2,7 +2,7 @@
 title: Brazilian Football Confederation
 slug: "brazilian-football-confederation"
 description: ""
-date: "2026-03-05T22:38:39.408999"
+date: "2026-03-13T08:56:59.370303"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "barra-da-tijuca"
+subsidiaries: []
+foundation_dates:
+  - 1914
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,22 +51,24 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - "pantone-7482"
   - "pantone-109"
   - gold
   - "pantone-2194"
-  - black
   - silver
   - "pantone-288"
-  - "pantone-7482"
+  - black
 typographies:
   - arial
 imagery_styles:
   - bold
 wikidata_description: governing body of association football in Brazil
+wikidata_url: "https://www.wikidata.org/wiki/Q244754"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +113,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q244754) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Barra Da Tijuca](/headquarters_locations/barra-da-tijuca/) |
+| Foundation Date | [1914](/foundation_dates/1914/) |
 | Freebase Id | /m/032jvc |
 | Headquarters Location | Barra da Tijuca |
 | Inception | 1914-08-20 |
@@ -123,7 +142,6 @@ guideline_count: 1
 | Social Media Followers | 4,794,163 (as of 2021-01-01), 4,605,321 (as of 2020-02-15), 1,360,000 (as of 2022-01-19), 1,600,000 (as of 2023-02-17), 1,700,000 (as of 2024-04-20) (+1 more) |
 | Youtube Channel Id | UCdQuDaRww5NkKpQQ1BJBWww (as of 2021-05-16, from 2010-08-31) |
 | Bbc Things Id | aad5ef3c-8c34-41ae-a2fa-984ecdd7d5a5 |
-| Logo Image | Brazilian Football Confederation logo.svg, Confederação Brasileira de Futebol (2016–2019).svg (from 2016, until 2019) |
 | Head Coach | Tite |
 | Main Wikidata Property | Brazilian Football Confederation player ID |
 | Position Held By Head Of The Organization | President of the Brazilian Football Confederation |

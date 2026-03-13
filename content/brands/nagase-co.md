@@ -2,7 +2,7 @@
 title: "Nagase & Co."
 slug: "nagase-co"
 description: ""
-date: "2026-03-05T22:38:39.235151"
+date: "2026-03-13T08:56:59.179065"
 draft: false
 sectors:
   - consulting
@@ -13,14 +13,26 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries: []
 countries:
   - japan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - osaka
+  - chuo
+subsidiaries: []
+foundation_dates:
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q11653391"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11653391) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Osaka](/headquarters_locations/osaka/); [Chuo](/headquarters_locations/chuo/) |
+| Foundation Date | [1917](/foundation_dates/1917/) |
 | Ndl Authority Id | 00641601 |
 | Viaf Cluster Id | 124723667 |
 | Headquarters Location | Chūō, Osaka |

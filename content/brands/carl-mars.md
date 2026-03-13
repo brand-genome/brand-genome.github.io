@@ -2,7 +2,7 @@
 title: Carl Mars
 slug: "carl-mars"
 description: ""
-date: "2026-03-05T22:38:39.227781"
+date: "2026-03-13T08:56:59.171071"
 draft: false
 sectors:
   - "arts-culture"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,20 +53,22 @@ logo_elements:
 brand_colors:
   - white
   - blue
-  - "pantone-2738"
-  - gray
   - "pantone-1785"
+  - gray
+  - "pantone-2738"
 typographies:
   - "open-sans"
-  - nunito
   - avenir
+  - nunito
 imagery_styles:
   - bold
 wikidata_description: "organization in Columbus, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q30271090"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +112,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30271090) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Coordinate Location | 39.235932, -85.873372 |
 | Country | United States |
 | Grid Id | grid.478632.c |

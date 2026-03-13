@@ -2,7 +2,7 @@
 title: More4
 slug: more4
 description: ""
-date: "2026-03-05T22:38:39.264039"
+date: "2026-03-13T08:56:59.206066"
 draft: false
 sectors:
   - broadcasting
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "British free-to-air television channel"
+wikidata_url: "https://www.wikidata.org/wiki/Q2219852"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,12 +76,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2219852) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Freebase Id | /m/076gb9 |
 | Inception | 2005 |
 | Owned By | Channel Four Television Corporation |
 | Country | United Kingdom |
 | X (Twitter) Username | all4 (as of 2020-04-18, from 2009-04-01), All4 |
-| Logo Image | More4 logo 2018.png (from 2018-09-27), More 4 logo 2018.jpg (from 2018-09-27) |
 | Headquarters Location | London |
 | Social Media Followers | 24,736 (as of 2021-01-02), 23,610 (as of 2020-04-18), 27,467 (as of 2022-03-01), 30,446 (as of 2023-02-06) |
 | Fandom Article Id | channel4:More4 |

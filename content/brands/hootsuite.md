@@ -2,21 +2,21 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-03-05T22:38:39.327333"
+date: "2026-03-13T08:56:59.281588"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - canada
 years:
-  - 2017
   - 2011
+  - 2017
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries:
   - "social-media"
 countries:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vancouver
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,28 +53,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
+  - logomark
+  - secondary
   - primary
   - symbol
-  - icon
-  - secondary
-  - logomark
 brand_colors:
   - black
 typographies:
-  - roboto
   - "open-sans"
-  - slab
+  - roboto
   - display
+  - slab
 imagery_styles:
-  - bold
   - photography
-  - professional
   - graphic
+  - professional
+  - bold
 wikidata_description: social media management platform
+wikidata_url: "https://www.wikidata.org/wiki/Q2749075"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -398,6 +411,12 @@ K
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2749075) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Freebase Id | /m/080chm5 |
 | Inception | 2008-11-28 |
 | Quora Topic Id | HootSuite-product |

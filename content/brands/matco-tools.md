@@ -2,11 +2,11 @@
 title: Matco Tools
 slug: "matco-tools"
 description: ""
-date: "2026-03-05T22:38:39.575630"
+date: "2026-03-13T08:56:59.507939"
 draft: false
 sectors:
-  - automobile
   - hardware
+  - automobile
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stow
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ imagery_styles:
   - photography
   - professional
 wikidata_description: American professional tool distributor
+wikidata_url: "https://www.wikidata.org/wiki/Q6786318"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +105,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6786318) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stow](/headquarters_locations/stow/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Country | United States |
 | Headquarters Location | Stow |
 | Quora Topic Id | Matco-Tools |

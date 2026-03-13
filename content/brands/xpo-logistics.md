@@ -2,7 +2,7 @@
 title: XPO Logistics
 slug: "xpo-logistics"
 description: ""
-date: "2026-03-05T22:38:39.554569"
+date: "2026-03-13T08:56:59.476381"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -20,9 +20,20 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - greenwich
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,35 +52,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - alternate
   - secondary
+  - primary
+  - alternate
+  - symbol
   - signature
 brand_colors:
   - white
   - red
-  - orange
-  - black
-  - yellow
   - blue
-  - gray
-  - green
+  - yellow
   - purple
+  - green
+  - black
+  - orange
+  - gray
 typographies:
-  - roboto
-  - arial
-  - impact
   - display
+  - roboto
+  - impact
+  - arial
 imagery_styles:
   - product
-  - monochrome
   - staged
+  - monochrome
 wikidata_description: American transportation company
+wikidata_url: "https://www.wikidata.org/wiki/Q8042415"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,10 +136,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8042415) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Greenwich](/headquarters_locations/greenwich/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Stock Exchange | New York Stock Exchange (from 2003-10-07) |
 | Inception | 1987 |
 | Headquarters Location | Greenwich (from 2011) |
-| Logo Image | XPO Logistics logo.svg, XPO, Inc (2023).svg |
 | Isin | US9837931008 |
 | Country | United States |
 | Industry | transport industry, logistics |
@@ -156,4 +174,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $15.00B (15,000,000,000 United States dollar (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $15.00B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |

@@ -2,7 +2,7 @@
 title: GoTo
 slug: goto
 description: ""
-date: "2026-03-05T22:38:39.293413"
+date: "2026-03-13T08:56:59.235269"
 draft: false
 sectors:
   - software
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "cloud-computing"
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +59,15 @@ typographies:
   - display
 imagery_styles:
   - photography
-  - professional
   - product
+  - professional
 wikidata_description: American software company based in Boston
+wikidata_url: "https://www.wikidata.org/wiki/Q823303"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q823303) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Cloud Computing](/products_or_materials_produced/cloud-computing/) |
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Stock Exchange | Nasdaq |
 | Freebase Id | /m/0g9fc8 |
 | Headquarters Location | Boston |
@@ -118,5 +139,4 @@ guideline_count: 1
 | Crunchbase Organization Id | logmein |
 | Product Or Material Produced | cloud computing |
 | Legal Entity Identifier | 549300D12V5KRBV00592 |
-| Logo Image | LogMeIn logo.svg (from 2006, until 2022), GoToMeeting logo.svg (from 2022) |
 | Legal Form | Delaware corporation |

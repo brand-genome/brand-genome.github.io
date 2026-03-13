@@ -2,31 +2,40 @@
 title: Mc Donald’s
 slug: "mc-donalds"
 description: ""
-date: "2026-03-05T22:38:39.156264"
+date: "2026-03-13T08:56:59.096472"
 draft: false
 sectors:
   - restaurant
 regions:
-  - vietnam
   - usa
+  - vietnam
 years:
   - 2019
-  - 2024
-  - 1999
   - 2009
   - 2012
+  - 1999
+  - 2024
 languages:
   - english
   - vietnamese
 tags:
+  - corporate
   - "food-beverage"
   - featured
-  - corporate
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,43 +54,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
+  - lettermark
   - primary
   - symbol
-  - icon
   - wordmark
-  - lettermark
 brand_colors:
   - white
   - red
-  - gold
-  - "pantone-123"
-  - black
-  - yellow
   - "pantone-485"
   - blue
-  - gray
+  - yellow
+  - gold
   - green
+  - black
+  - gray
+  - "pantone-123"
 typographies:
+  - arial
+  - helvetica
   - script
   - "century-gothic"
-  - arial
   - akzidenz
-  - helvetica
 imagery_styles:
-  - bold
-  - photography
+  - natural
+  - clean
+  - modern
+  - illustration
   - playful
+  - photography
   - product
   - graphic
-  - illustration
-  - modern
-  - clean
-  - natural
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 5
+sample_image_urls: []
 ---
 ## Official Websites
 

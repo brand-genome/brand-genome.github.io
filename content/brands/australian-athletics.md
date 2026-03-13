@@ -2,7 +2,7 @@
 title: Australian Athletics
 slug: "australian-athletics"
 description: ""
-date: "2026-03-05T22:38:39.090502"
+date: "2026-03-13T08:56:59.043513"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,34 +47,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - horizontal
+  - wordmark
 brand_colors:
   - white
-  - orange
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - orange
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - bold
-  - photography
-  - staged
-  - vibrant
-  - graphic
   - dynamic
-  - gradient
-  - landscape
+  - staged
   - portrait
+  - landscape
+  - vibrant
+  - photography
+  - gradient
+  - graphic
+  - bold
 wikidata_description: "database from the Australian athletics association, Athletics Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q115794139"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +133,10 @@ guideline_count: 1
 - Brandmark or wave graphic elements must not be skewed, compressed, distorted, or recolored improperly outside the outlined methods.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115794139) |
 
 | Property | Value |
 |----------|-------|

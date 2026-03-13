@@ -2,11 +2,11 @@
 title: HackerOne
 slug: hackerone
 description: ""
-date: "2026-03-05T22:38:39.606785"
+date: "2026-03-13T08:56:59.551487"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -23,6 +23,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - pink
 typographies: []
 imagery_styles:
-  - dynamic
   - photography
+  - dynamic
   - modern
 wikidata_description: cybersecurity company
+wikidata_url: "https://www.wikidata.org/wiki/Q22022648"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +117,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22022648) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Inception | 2012 |
 | Quora Topic Id | HackerOne |
 | Country | United States |

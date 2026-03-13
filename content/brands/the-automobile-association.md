@@ -2,7 +2,7 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-03-05T22:38:39.816293"
+date: "2026-03-13T08:56:59.885766"
 draft: false
 sectors:
   - insurance
@@ -16,17 +16,28 @@ languages:
 tags:
   - insurance
 industries:
-  - "insurance-industry"
   - "activities-of-other-membership-organisations-nec"
+  - "insurance-industry"
   - "voluntary-sector"
-  - "roadside-assistance"
   - "drivers-education"
   - "road-transport"
+  - "roadside-assistance"
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - basingstoke
+subsidiaries: []
+foundation_dates:
+  - 1905
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +58,19 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-116"
-  - black
   - yellow
+  - black
 typographies: []
 imagery_styles:
   - photography
   - product
 wikidata_description: British motoring association
+wikidata_url: "https://www.wikidata.org/wiki/Q1785352"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1785352) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Basingstoke](/headquarters_locations/basingstoke/) |
+| Foundation Date | [1905](/foundation_dates/1905/) |
 | Headquarters Location | Basingstoke |
 | Inception | 1905-01-01 |
 | Parent Organization Or Unit | Acromas Holdings (from 2007-01-01) |
@@ -125,7 +144,6 @@ guideline_count: 1
 | Viaf Cluster Id | 148425127 |
 | Library Of Congress Authority Id | n78087104 |
 | Isbn Publisher Prefix | 978-0-86145 |
-| Logo Image | The AA.svg |
 | Image | AA Vauxhall Vivaro Van 2008.jpg |
 | Quora Topic Id | The-Automobile-Association |
 | Permid | 5014439907 |

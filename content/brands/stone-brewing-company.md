@@ -2,11 +2,11 @@
 title: Stone Brewing Company
 slug: "stone-brewing-company"
 description: ""
-date: "2026-03-05T22:38:39.573695"
+date: "2026-03-13T08:56:59.505421"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - escondido
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ typographies:
   - arial
 imagery_styles: []
 wikidata_description: "Stone Brewing is a brewery headquartered in Escondido, California, USA. Founded in 1996 in San Marcos, California, it is the largest brewery in Southern California."
+wikidata_url: "https://www.wikidata.org/wiki/Q7618876"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7618876) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Escondido](/headquarters_locations/escondido/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Headquarters Location | Escondido |
 | Country | United States |
 | Inception | 1996 |

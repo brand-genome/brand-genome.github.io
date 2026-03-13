@@ -2,7 +2,7 @@
 title: Zumba
 slug: zumba
 description: ""
-date: "2026-03-05T22:38:39.932955"
+date: "2026-03-13T08:56:59.961666"
 draft: false
 sectors:
   - fitness
@@ -18,218 +18,286 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings:
+  - natural
   - studio
+  - colored
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - "complementary-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - bright
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - grayscale
+  - light
+  - bright
 photography_genres:
-  - selfie
   - pool
-  - landscape
   - product
-  - interior
-  - illustration
-  - street
-  - advertising
-  - architectural
-  - action
-  - "live-stage"
-  - group
-  - advertisement
-  - fashion
-  - "text-heavy"
-  - cartoon
-  - typography
   - "graphic-design"
+  - selfie
+  - cartoon
+  - "live-stage"
+  - street
+  - fashion
+  - group
+  - advertising
+  - advertisement
+  - typography
+  - "text-heavy"
   - portrait
   - beauty
-  - "still-life"
-concepts:
-  - cartoon
-  - "text-heavy"
+  - landscape
+  - interior
   - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
+  - "still-life"
+  - architectural
+  - action
+concepts:
+  - "text-heavy"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "bokeh-effect"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "motion-capture"
-  - "long-exposure"
   - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
+  - "long-exposure"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - emerald
-  - black
+  - gray
+  - pink
   - "dark-blue"
   - cyan
+  - black
+  - emerald
   - "light-blue"
-  - pink
-  - gray
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - white
-  - blonde
-  - "pulled-back"
-  - flowing
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - updo
-  - short
-  - curly
-  - long
-  - "tied-back"
-  - varied
   - covered
+  - white
+  - updo
+  - "pulled-back"
+  - blonde
+  - casual
+  - loose
+  - short
+  - flowing
+  - varied
+  - ponytail
+  - "tied-back"
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
   - joyful
-  - smiling
   - engaged
-  - relaxed
   - neutral
-  - content
   - focused
+  - relaxed
   - contemplative
+  - smiling
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - engaged
-  - leaning
-  - relaxed
   - dynamic
-  - reclined
-  - active
-  - holding
-  - standing
   - running
-  - stretching
   - confident
-gazes:
+  - active
+  - leaning
   - engaged
-  - away
+  - walking
+  - stretching
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - "lower-half"
-  - midsection
-  - "full-back"
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "lower-half"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Dance fitness workout method
+wikidata_url: "https://www.wikidata.org/wiki/Q229680"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 91
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/E9eXDZqWQAA7oPq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5YjKshWUAMB_sf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4f5wc_XoAU88SE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3J5A8MX0AIN78c?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2zwRZWWEAgZFuo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjvPaOJX0AIF7JS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfjcyUAWkAQztWB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeGwLFoXoAEINwJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdyJuVNXYAI-Ch6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdTQWqJWsAYctbg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eaudb2TWkAA33pY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaZ3GFPWkAEf8zK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaQQ7fZWoAEUBrP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EaAHE0mWAAUYoNv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYO0Mb5X0AA-77F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYKyqEOXgAILq9m?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWOEggSXkAEk6jZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVqBRO4XQAIHn6e?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESHLoHfW4AAxIoU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQ6ZQo3WAAAbUh4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EOALVt0X4AAQPSP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENxjRLtWwAEyN2t?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENXzSyEWsAIk9r6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENDM7YsWsAEThie?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMaAOTyXsAMbwKC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMPs5PvWwAYCmrD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELrp2x8WoAEPhJ_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKJztFmWwAAvJxy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJ_gkV_XUAUbN8R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJu3-tIWwAYriNB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJlwlKYW4AcXli4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI3aWATXkAA4jjy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EITJZjoXsAA5fnZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHfpiSdWoAAQUg8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHQMmDcW4AcnDd2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFPc6fYXkAEMLxZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFFJzAOXkAEJPVI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFAAK0KWkAAr7EY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDodBl-XUAERs16?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDJjjZjW4AApdTu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EBIz7tKXsAAeoJd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAvD2bUX4AItqvA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_wp8ETW4AokNRq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_Xg-04XYAIibtf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D-kBG8dWsAEAHMC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9whCTfXUAE5dFC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8JhXhzXsAE8WqH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7061r5XkAAfe2X?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D68RdAqWkAAmF7T?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D4Xeoy0X4AAS2lk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3UiDDPWkAE5hAa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2_7lsjXcAUwJBL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1eFV-_WwAEKvBs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0RDQHYWwAABTXq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DztAGDRX0AE9LRt?format=png&name=large"
+  - "https://pbs.twimg.com/media/DjMeOgsX0AAe8MD?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 91 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| White | 34.4% | 20.2% | 10.3% | 35.5% | 100.0% | ±33.1% | 24.2% |
-| Pink | 29.2% | 11.0% | 7.3% | 51.7% | 68.4% | ±32.3% | 11.0% |
-| Dark Blue | 28.2% | 20.4% | 16.2% | 26.4% | 63.2% | ±21.5% | 40.7% |
-| Black | 27.0% | 20.2% | 12.3% | 37.4% | 50.3% | ±18.8% | 49.5% |
-| Emerald | 25.2% | 15.2% | 13.3% | 44.1% | 44.4% | ±15.5% | 13.2% |
-| Cyan | 24.6% | 14.8% | 8.8% | 31.1% | 56.7% | ±23.5% | 17.6% |
-| Light Blue | 20.0% | 16.6% | 10.8% | 25.2% | 35.8% | ±10.7% | 20.9% |
-| Gray | 19.3% | 17.2% | 10.1% | 29.1% | 32.6% | ±10.1% | 33.0% |
+| Color | Mean |
+|-------|------|
+| White | 34.4% |
+| Pink | 29.2% |
+| Dark Blue | 28.2% |
+| Black | 27.0% |
+| Emerald | 25.2% |
+| Cyan | 24.6% |
+| Light Blue | 20.0% |
+| Gray | 19.3% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 9.6% | 0% | 0.0% | 9.8% | ±18.8% |
-| Neutral | 52.3% | 59.1% | 24.9% | 76.3% | ±32.6% |
-| Cool | 38.2% | 33.4% | 0.0% | 62.1% | ±34.8% |
+| Tone | Mean |
+|------|------|
+| Warm | 9.6% |
+| Neutral | 52.3% |
+| Cool | 38.2% |
 
 ### Sample Images
 
@@ -339,6 +407,11 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q229680) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Inception | 2001 |
 | Founded By | Alberto “Beto”Perez |
 | Industry | physical fitness |

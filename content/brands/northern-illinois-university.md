@@ -2,7 +2,7 @@
 title: Northern Illinois University
 slug: "northern-illinois-university"
 description: ""
-date: "2026-03-05T22:38:39.351075"
+date: "2026-03-13T08:56:59.303225"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dekalb
+subsidiaries: []
+foundation_dates:
+  - 1895
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,11 +51,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors: []
 typographies:
   - gotham
@@ -51,10 +63,12 @@ typographies:
 imagery_styles:
   - photography
 wikidata_description: "public university in DeKalb, Illinois, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1191344"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1191344) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dekalb](/headquarters_locations/dekalb/) |
+| Foundation Date | [1895](/foundation_dates/1895/) |
 | Coordinate Location | 41.933888888889, -88.777777777778 |
 | Located In The Administrative Territorial Entity | DeKalb |
 | Topic'S Main Category | Category:Northern Illinois University |
@@ -141,7 +161,6 @@ guideline_count: 1
 | Social Media Followers | 41,023 (as of 2021-01-07), 41,453 (as of 2020-04-22), 40,806 (as of 2022-02-27), 40,881 (as of 2023-02-10) |
 | Crunchbase Organization Id | northern-illinois-university |
 | Count Of Students | 16,769 (as of 2020-09) |
-| Employees | 2,963 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I102502594, P4310315949 |
@@ -158,3 +177,9 @@ guideline_count: 1
 | Arwu University Id | northern-illinois-university |
 | ‎Yale Lux Id | group/56c94863-30a7-4e60-b31b-69edf63e16a3 |
 | Athletics Program | Northern Illinois Huskies |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,963 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

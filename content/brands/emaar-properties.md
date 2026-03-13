@@ -2,7 +2,7 @@
 title: Emaar Properties
 slug: "emaar-properties"
 description: ""
-date: "2026-03-05T22:38:39.080859"
+date: "2026-03-13T08:56:59.033910"
 draft: false
 sectors:
   - "real-estate"
@@ -19,10 +19,23 @@ industries:
 countries:
   - "united-arab-emirates"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dubai
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,25 +54,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - black
   - gray
 typographies:
+  - optima
   - georgia
   - arial
-  - optima
 imagery_styles:
   - graphic
   - lifestyle
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1153463"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -191,17 +206,21 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1153463) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dubai](/headquarters_locations/dubai/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Freebase Id | /m/04s117 |
 | Headquarters Location | Dubai |
 | Topic'S Main Category | Category:Emaar Properties |
 | Isin | AE0005802576 |
 | Inception | 1997-01-01 |
-| Employees | 1,000 |
 | Location Of Formation | Dubai |
 | Legal Form | joint-stock company |
 | Stock Exchange | Dubai Financial Market (from 2000) |
 | Owned By | Investment Corporation of Dubai, The Vanguard Group |
-| Total Assets | 79,556,794,000 United Arab Emirates dirham (as of 2015-12-31), 74,179,256,000 United Arab Emirates dirham (as of 2014-12-30), 112,751,930,000 United Arab Emirates dirham (as of 2017-12-31), 96,080,366,000 United Arab Emirates dirham (as of 2016-12-31) |
 | Industry | real estate development |
 | Quora Topic Id | Emaar-Properties-company |
 | Image | Emaar Logo on Fence in Dubai Marina on 9 March 2007.jpg |
@@ -212,21 +231,39 @@ guideline_count: 1
 | Youtube Channel Id | UCmLHH1rBEEGNhvR8iFZhBgw (as of 2021-01-31, from 2014-01-09) |
 | Facebook Username | emaardubai |
 | Social Media Followers | 170,192 (as of 2021-02-05), 41,100 (as of 2021-07-01), 184,086 (as of 2022-01-27), 47,700 (as of 2022-03-17), 182,133 (as of 2023-02-07) (+3 more) |
-| Logo Image | Emaar logo.svg |
 | Crunchbase Organization Id | emaar |
 | Kisti Id | K000229506 |
 | Founded By | Mohamed Atiya |
 
 ### Revenue History
 
-- $13.66B (13,660,536,000 United Arab Emirates dirham (as of 2015))
-- $9.93B (9,930,044,000 United Arab Emirates dirham (as of 2014))
-- $15.54B (15,539,704,000 United Arab Emirates dirham (as of 2016))
-- $18.81B (18,812,044,000 United Arab Emirates dirham (as of 2017))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.66B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.93B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $15.54B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.81B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $4.59B (4,589,293,000 United Arab Emirates dirham (as of 2015))
-- $3.69B (3,686,190,000 United Arab Emirates dirham (as of 2014))
-- $6.00B (6,001,951,000 United Arab Emirates dirham (as of 2016))
-- $6.78B (6,777,915,000 United Arab Emirates dirham (as of 2017))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.59B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.69B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.00B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.78B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,000 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $79.56B | as of 2015-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $74.18B | as of 2014-12-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $112.75B | as of 2017-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $96.08B | as of 2016-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |

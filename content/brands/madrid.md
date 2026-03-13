@@ -2,21 +2,21 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-03-05T22:38:39.331532"
+date: "2026-03-13T08:56:59.285488"
 draft: false
 sectors:
   - tourism
 regions:
   - spain
 years:
-  - 2016
   - 2019
   - 2012
+  - 2016
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
   - tourism
 industries: []
 countries:
@@ -24,6 +24,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +52,29 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - crest
-  - horizontal
   - abstract
+  - crest
   - vertical
+  - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies:
   - serif
-  - "sans-serif"
   - display
+  - "sans-serif"
 imagery_styles:
-  - bold
   - abstract
+  - bold
 wikidata_description: capital of Spain
+wikidata_url: "https://www.wikidata.org/wiki/Q2807"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,6 +149,10 @@ guideline_count: 3
 - The PDF specifies various logo formats and contextual rules for using sub-brands and symbols under different scenarios. Digital and print mediums are consistently differentiated.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2807) |
 
 | Property | Value |
 |----------|-------|

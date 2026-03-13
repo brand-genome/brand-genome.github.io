@@ -2,11 +2,11 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-03-05T22:38:39.804863"
+date: "2026-03-13T08:56:59.860557"
 draft: false
 sectors:
-  - "space-technology"
   - "public-sector"
+  - "space-technology"
 regions:
   - france
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +61,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: French space agency
+wikidata_url: "https://www.wikidata.org/wiki/Q48756"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48756) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Member Of | ASTech aerospace technologies cluster, Couperin Consortium, Renater, International Astronautical Federation (from 1981), Inter-Agency Space Debris Coordination Committee (+2 more) |
 | Freebase Id | /m/024fy1 |
 | Topic'S Main Category | Category:CNES |
@@ -145,7 +164,6 @@ guideline_count: 1
 | Social Media Followers | 125,189 (as of 2021-01-07), 116,003 (as of 2020-04-25), 91,700 (as of 2021-07-03), 163,024 (as of 2022-03-02), 177,689 (as of 2023-02-04) (+7 more) |
 | Coordinate Location | 48.86150775, 2.3451602777777776 |
 | Egapro Gender Equality Index | 89 (as of 2020-01-01), 94 (as of 2019-01-01) |
-| Logo Image | Logo CNES 2017 triangulaire bleu.png |
 | Linkedin Company Or Organization Id | cnes |
 | Openalex Id | I2799535048 |
 | Described By Source | Open GLAM Survey (as of 2022-03-01) |

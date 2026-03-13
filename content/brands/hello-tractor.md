@@ -2,11 +2,11 @@
 title: Hello Tractor
 slug: "hello-tractor"
 description: ""
-date: "2026-03-05T22:38:39.376693"
+date: "2026-03-13T08:56:59.336110"
 draft: false
 sectors:
-  - software
   - "agricultural-heavy-equipment"
+  - software
 regions:
   - kenya
 years:
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - industry
   - agriculture
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,25 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - symbol
   - secondary
+  - wordmark
+  - symbol
 brand_colors:
   - blue
 typographies:
   - avenir
-  - serif
   - times
+  - serif
 imagery_styles:
-  - bold
-  - playful
   - graphic
+  - playful
+  - bold
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q115136871"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -466,6 +477,10 @@ R: 240   G: 240   B: 240
 C: 5%   M: 5%   Y: 5%   K: 0%
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115136871) |
 
 | Property | Value |
 |----------|-------|

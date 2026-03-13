@@ -2,7 +2,7 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-03-05T22:38:39.271111"
+date: "2026-03-13T08:56:59.213614"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2008
   - 2017
+  - 2008
 languages:
   - english
 tags:
@@ -23,6 +23,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1766
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +59,15 @@ brand_colors:
 typographies:
   - serif
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "multi-campus public research university in New Jersey, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q499451"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +119,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q499451) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1766](/foundation_dates/1766/) |
 | Country | United States |
 | Coordinate Location | 40.501666666667, -74.448055555556 |
 | Topic'S Main Category | Category:Rutgers University |
@@ -138,7 +155,6 @@ guideline_count: 2
 | Arwu University Id | Rutgers-The-State-University-of-New-Jersey---New-Brunswick |
 | Qs World University Id | rutgers-university-new-brunswick |
 | U Multirank University Id | rutgers-the-state-university-new-jersey |
-| Logo Image | Rutgers University with the state university logo.svg |
 | Named After | Henry Rutgers |
 | Bibliothèque Nationale De France Id | 11985904k |
 | Owner Of | SHI Stadium, Bainton Field, Yurcak Field, One Washington Park, Rutgers Stadium (+1 more) |

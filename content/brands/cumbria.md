@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-03-05T22:38:39.566817"
+date: "2026-03-13T08:56:59.495507"
 draft: false
 sectors:
   - tourism
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1787
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,20 +52,22 @@ logo_elements:
   - alternate
 brand_colors:
   - white
-  - orange
-  - black
   - yellow
+  - black
+  - orange
 typographies:
   - helvetica
   - display
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "city in Allegany County, Maryland, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q754868"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +126,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q754868) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1787](/foundation_dates/1787/) |
 | Country | United States |
 | Coordinate Location | 39.65277777777778, -78.7625 |
 | Topic'S Main Category | Category:Cumberland, Maryland |

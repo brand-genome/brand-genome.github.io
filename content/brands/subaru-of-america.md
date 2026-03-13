@@ -2,7 +2,7 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-03-05T22:38:39.311719"
+date: "2026-03-13T08:56:59.252444"
 draft: false
 sectors:
   - automobile
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
   - corporate
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - "cherry-hill"
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,19 +55,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - product
   - natural
+  - product
 wikidata_description: American distributor of Subaru vehicles
+wikidata_url: "https://www.wikidata.org/wiki/Q7630825"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -259,6 +273,13 @@ Section A: Confidence in Motion Logos
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7630825) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Cherry Hill](/headquarters_locations/cherry-hill/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Country | United States |
 | Headquarters Location | Cherry Hill |
 | Inception | 1968 |
@@ -267,4 +288,3 @@ Section A: Confidence in Motion Logos
 | Product Or Material Produced | car |
 | Freebase Id | /m/09gm873 |
 | Crunchbase Organization Id | subaru-of-america |
-| Logo Image | Subaru logo (transparent).svg |

@@ -2,11 +2,11 @@
 title: UNDP
 slug: undp
 description: ""
-date: "2026-03-05T22:38:39.824296"
+date: "2026-03-13T08:56:59.905129"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -14,13 +14,24 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - institution
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "headquarters-of-the-united-nations"
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,15 +53,17 @@ logo_elements:
   - emblem
 brand_colors: []
 typographies:
-  - arial
   - helvetica
   - display
+  - arial
 imagery_styles: []
 wikidata_description: department of the United Nations which is charged with managing peacekeeping operations
+wikidata_url: "https://www.wikidata.org/wiki/Q1589437"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +105,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1589437) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Headquarters Of The United Nations](/headquarters_locations/headquarters-of-the-united-nations/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Freebase Id | /m/025vnyp |
 | Part Of | United Nations System |
 | Inception | 1992 |

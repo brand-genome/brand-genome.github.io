@@ -2,7 +2,7 @@
 title: Wisconsin Union
 slug: "wisconsin-union"
 description: ""
-date: "2026-03-05T22:38:39.310692"
+date: "2026-03-13T08:56:59.251044"
 draft: false
 sectors:
   - education
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
+  - wordmark
   - signature
   - symbol
 brand_colors:
@@ -50,10 +59,12 @@ typographies:
   - display
 imagery_styles: []
 wikidata_description: membership organization at the University of Wisconsin–Madison
+wikidata_url: "https://www.wikidata.org/wiki/Q8027342"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +111,10 @@ guideline_count: 1
 - The document highlights the Wisconsin Union’s registered trademarks and wordmarks as brand proprietary assets.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8027342) |
 
 | Property | Value |
 |----------|-------|

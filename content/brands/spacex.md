@@ -2,7 +2,7 @@
 title: SpaceX
 slug: spacex
 description: ""
-date: "2026-03-05T22:38:39.716213"
+date: "2026-03-13T08:56:59.734336"
 draft: false
 sectors:
   - satellite
@@ -23,6 +23,29 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - superdraco
+  - kestrel
+  - dragon
+  - merlin
+  - octagrabber
+  - raptor
+  - falcon
+  - "spacex-draco"
+  - "autonomous-spaceport-drone-ship"
+  - starhopper
+products: []
+headquarters_locations:
+  - hawthorne
+  - brownsville
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,16 +64,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American private aerospace company
+wikidata_url: "https://www.wikidata.org/wiki/Q193701"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,13 +112,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q193701) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Superdraco](/products_or_materials_produced/superdraco/); [Kestrel](/products_or_materials_produced/kestrel/); [Dragon](/products_or_materials_produced/dragon/); [Merlin](/products_or_materials_produced/merlin/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Raptor](/products_or_materials_produced/raptor/); [Falcon](/products_or_materials_produced/falcon/); [Spacex Draco](/products_or_materials_produced/spacex-draco/); [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Starhopper](/products_or_materials_produced/starhopper/) |
+| Headquarters Location | [Hawthorne](/headquarters_locations/hawthorne/); [Brownsville](/headquarters_locations/brownsville/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Headquarters Location | Hawthorne, Brownsville |
 | Chief Executive Officer | Elon Musk (from 2002) |
 | Inception | 2002-03-14 |
 | Industry | space industry |
 | Topic'S Main Category | Category:SpaceX |
 | Freebase Id | /m/03fkyw |
-| Logo Image | SpaceX logo black.svg |
 | Image | Entrance to SpaceX headquarters.jpg |
 | X (Twitter) Username | SpaceX (as of 2022-08-06, from 2009-04-23) |
 | Instagram Username | spacex (as of 2022-08-06, from 2012-01) |
@@ -140,7 +171,6 @@ guideline_count: 1
 | Github Topic | spacex |
 | X Topic Id | 872801738394279936 |
 | Nl Cr Aut Id | hka20211122944 |
-| Employees | 160 (as of 2005-11), 500 (as of 2008-07), 1,100 (as of 2010), 1,800 (as of 2012), 3,800 (as of 2013-10) (+6 more) |
 | Product Or Material Produced | autonomous spaceport drone ship, SpaceX Draco, Dragon, Falcon, Kestrel (+5 more) |
 | National Library Of Israel J9U Id | 987007316668605171 |
 | Bloomberg Company Id | 711339Z:US |
@@ -201,3 +231,19 @@ guideline_count: 1
 | Know Your Meme Slug | spacex (as of 2025-10-26) |
 | Location Of Formation | El Segundo |
 | Different From | Spacek |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 160 | as of 2005-11 | [100-1K](/employees_buckets/100-1k/) |
+| 500 | as of 2008-07 | [100-1K](/employees_buckets/100-1k/) |
+| 1,100 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,800 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,800 | as of 2013-10 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,500 | as of 2015-04 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,000 | as of 2016-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,000 | as of 2017-04 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,000 | as of 2017-11-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,000 | as of 2020-08 | [1K-10K](/employees_buckets/1k-10k/) |
+| 12,000 | as of 2022-04 | [10K-50K](/employees_buckets/10k-50k/) |

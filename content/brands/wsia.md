@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-03-05T22:38:39.657657"
+date: "2026-03-13T08:56:59.584639"
 draft: false
 sectors:
   - insurance
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,21 +46,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - primary
   - lockup
+  - symbol
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: "American trade association representing the wholesale, speciality & \"surplus lines\" insurance industry"
+wikidata_url: "https://www.wikidata.org/wiki/Q117006586"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -85,6 +96,10 @@ guideline_count: 1
 - This guide is a reference for maintaining WSIA brand identity, offering a flexible system for creativity within set guidelines. Contact Director of Marketing/Communications if needed.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q117006586) |
 
 | Property | Value |
 |----------|-------|

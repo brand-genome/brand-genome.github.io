@@ -2,7 +2,7 @@
 title: Starling Bank
 slug: "starling-bank"
 description: ""
-date: "2026-03-05T22:38:39.196389"
+date: "2026-03-13T08:56:59.131312"
 draft: false
 sectors:
   - finance
@@ -15,14 +15,25 @@ languages:
 tags:
   - financial
 industries:
-  - "software-development"
   - "software-industry"
+  - "software-development"
   - "financial-services"
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Challenger bank in the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q19903669"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,7 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Starling Bank Logo.png |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19903669) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
 | Quora Topic Id | Starling-Bank |
 | Headquarters Location | London |
 | Industry | software development, software industry, financial services |
@@ -81,7 +98,6 @@ guideline_count: 1
 | Operating System | iOS, Android |
 | Distribution Format | digital download |
 | Developer | Starling Bank |
-| Employees | 3,939 (as of 2025), 1,245 (as of 2021-07), 1,941 (as of 2022-07), 958 (as of 2020-07-31) |
 | Founded By | Anne Boden |
 | Chief Executive Officer | Anne Boden (from 2014-06-18) |
 | Linkedin Company Or Organization Id | starlingbank |
@@ -93,3 +109,12 @@ guideline_count: 1
 | Country | United Kingdom |
 | The Guardian Topic Id | business/starling-bank |
 | Nlai Id | 1712936 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,939 | as of 2025 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,245 | as of 2021-07 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,941 | as of 2022-07 | [1K-10K](/employees_buckets/1k-10k/) |
+| 958 | as of 2020-07-31 | [100-1K](/employees_buckets/100-1k/) |

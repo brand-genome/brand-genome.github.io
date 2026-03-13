@@ -2,7 +2,7 @@
 title: Coritiba Football Club
 slug: "coritiba-football-club"
 description: ""
-date: "2026-03-05T22:38:39.767990"
+date: "2026-03-13T08:56:59.819515"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - curitiba
+subsidiaries: []
+foundation_dates:
+  - 1909
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ typographies:
   - arial
 imagery_styles: []
 wikidata_description: Brazilian football club from Curitiba
+wikidata_url: "https://www.wikidata.org/wiki/Q478317"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q478317) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Curitiba](/headquarters_locations/curitiba/) |
+| Foundation Date | [1909](/foundation_dates/1909/) |
 | Home Venue | Estádio Couto Pereira |
 | League Or Competition | Campeonato Brasileiro Série A, Campeonato Brasileiro Série B |
 | Topic'S Main Category | Category:Coritiba Foot Ball Club |
@@ -98,7 +117,6 @@ guideline_count: 1
 | X (Twitter) Username | Coritiba (as of 2020-02-29, from 2009-04-15) |
 | Facebook Username | coritibaoficial |
 | Headquarters Location | Curitiba |
-| Logo Image | Coritiba Foot Ball Club logo.svg, ECFC1.png |
 | Head Coach | Argel Fuchs (from 2018-09-17, until 2019-02-15), Umberto Louzer (from 2019-02-25, until 2019), Jorginho (from 2020-08-21, until 2020-10-27), Gustavo Morínigo (from 2021-01-15, until 2022-08-14), António Oliveira (from 2022-12-13) |
 | Category For Members Of A Team | Category:Coritiba Foot Ball Club players |
 | Owner Of | Estádio Couto Pereira |

@@ -2,27 +2,38 @@
 title: Hong Kong
 slug: "hong-kong"
 description: ""
-date: "2026-03-05T22:38:39.212182"
+date: "2026-03-13T08:56:59.149503"
 draft: false
 sectors:
   - "public-sector"
   - tourism
 regions:
-  - "hong-kong"
   - china
+  - "hong-kong"
 years:
   - 2012
   - 2020
 languages:
   - chinese
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1841
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,28 +53,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
   - red
-  - orange
-  - black
-  - yellow
-  - cyan
   - blue
-  - green
+  - yellow
   - purple
+  - green
+  - cyan
+  - black
+  - orange
 typographies: []
 imagery_styles:
-  - bold
-  - gradient
   - graphic
+  - gradient
+  - bold
 wikidata_description: city and special administrative region of China
+wikidata_url: "https://www.wikidata.org/wiki/Q8646"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +128,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8646) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1841](/foundation_dates/1841/); [1997](/foundation_dates/1997/) |
 | Great Russian Encyclopedia Online Id (2017) | 4177745 |
 | Getty Thesaurus Of Geographic Names Id | 7004542 |
 | Topic'S Main Wikimedia Portal | Portal:Hong Kong |
@@ -335,7 +353,6 @@ guideline_count: 2
 | Panoramic View | Kowloon Panorama by Ryan Cheng 2010.jpg |
 | Location Map | Map of Hong Kong 18 Districts zh.svg, Hk-map.png, Hong Kong districts map (nl).png |
 | Hashtag | Hong_Kong, 香港, hong-kong |
-| Logo Image | Hong Kong in Chinese 2.svg |
 | Golden Id | Hong_Kong-B6GK |
 | Topographic Map | Atlas of Hong Kong |
 | Detail Map | Hong Kong Railway Route Map en.svg |

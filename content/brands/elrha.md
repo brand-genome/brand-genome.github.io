@@ -2,11 +2,11 @@
 title: Elrha
 slug: elrha
 description: ""
-date: "2026-03-05T22:38:39.296950"
+date: "2026-03-13T08:56:59.237537"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -20,9 +20,19 @@ industries:
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: nonprofit organization in the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q45132340"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +112,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q45132340) |
+
+| Property | Value |
+|----------|-------|
 | Country | United Kingdom |
 | Open Funder Registry Funder Id | 100012056 |
 | Grid Id | grid.510292.d |
@@ -108,7 +124,6 @@ guideline_count: 1
 | Charity Commission No. | 1177110 (from 2018-02-12) |
 | Legal Form | charitable organization |
 | Donations | 50,291 pound sterling (as of 2019), 97,791 pound sterling (as of 2020), 347,095 pound sterling (as of 2018), 28,441 pound sterling (as of 2021), 5 pound sterling (as of 2022) (+1 more) |
-| Employees | 28 (as of 2019), 36 (as of 2020), 23 (as of 2018), 44 (as of 2023), 44 (as of 2024) |
 | Uia Open Yearbook Organization Website Id | 1122287782 |
 | Iati Organisation Id | GB-CHC-1177110 |
 | Companies House Company Id | 11142219 |
@@ -120,10 +135,22 @@ guideline_count: 1
 
 ### Revenue History
 
-- $7.30M (7,296,932 pound sterling (as of 2019))
-- $13.74M (13,735,249 pound sterling (as of 2020))
-- $5.63M (5,630,693 pound sterling (as of 2018))
-- $9.37M (9,372,721 pound sterling (as of 2021))
-- $9.61M (9,608,537 pound sterling (as of 2022))
-- $12.72M (12,717,740 pound sterling (as of 2023))
-- $12.67M (12,671,429 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $7.30M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $13.74M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $5.63M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.37M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.61M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $12.72M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $12.67M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 28 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 36 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 23 | as of 2018 | [UNDER-100](/employees_buckets/under-100/) |
+| 44 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 44 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

@@ -2,11 +2,11 @@
 title: Bitmoji
 slug: bitmoji
 description: ""
-date: "2026-03-05T22:38:39.766182"
+date: "2026-03-13T08:56:59.817368"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - app
   - software
+  - app
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2014
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: personalized virtual emoji avatar
+wikidata_url: "https://www.wikidata.org/wiki/Q136760098"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,7 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Bitmoji Logo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136760098) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2014](/foundation_dates/2014/) |
 | Inception | 2014 |
 | Named After | Bitstrips, emoji |
 | Owned By | Snap Inc. |
@@ -71,7 +87,7 @@ guideline_count: 1
 | Distributed By | , Google Play |
 | Platform | iOS, Android |
 | Software Version Identifier | 11.69 |
-| Email Address | mailto:bitmoji-support@snap.com |
+| Email Address | bitmoji-support@snap.com |
 | Terms Of Service Url | https://www.bitmoji.com/support/terms.html |
 | Privacy Policy Url | https://www.snap.com/en-US/privacy/privacy-policy |
 | Hashtag | bitmoji |

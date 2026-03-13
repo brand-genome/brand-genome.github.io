@@ -2,7 +2,7 @@
 title: Paab
 slug: paab
 description: ""
-date: "2026-03-05T22:38:39.409800"
+date: "2026-03-13T08:56:59.371143"
 draft: false
 sectors:
   - ngo
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +52,27 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-325"
-  - "pantone-7683"
   - "pantone-185"
+  - navy
+  - blue
   - "pantone-2755"
+  - "pantone-7683"
+  - "pantone-380"
+  - green
+  - "pantone-325"
   - black
   - "pantone-7621"
   - "pantone-1815"
-  - blue
-  - "pantone-380"
-  - navy
-  - green
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

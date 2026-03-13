@@ -2,7 +2,7 @@
 title: Surf Life Saving New Zealand
 slug: "surf-life-saving-new-zealand"
 description: ""
-date: "2026-03-05T22:38:39.704294"
+date: "2026-03-13T08:56:59.716397"
 draft: false
 sectors:
   - ngo
@@ -20,9 +20,21 @@ industries: []
 countries:
   - "new-zealand"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - wellington
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,18 +56,20 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - orange
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
+  - orange
+  - gray
 typographies: []
 imagery_styles: []
 wikidata_description: New Zealand nationwide organization dedicated to safety on the open water
+wikidata_url: "https://www.wikidata.org/wiki/Q7645867"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7645867) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Wellington](/headquarters_locations/wellington/) |
 | Headquarters Location | Wellington |
 | Country | New Zealand |
 | Library Of Congress Authority Id | no2008138858 |
@@ -103,26 +122,67 @@ guideline_count: 1
 | Alexander Turnbull Library Id | 298785 |
 | Instagram Username | surflifesavingnz |
 | Nz Charities Register Number | CC38280 |
-| Total Assets | 20,857,995 New Zealand dollar (as of 2025), 13,312,212 New Zealand dollar (as of 2024), 11,246,593 New Zealand dollar (as of 2023), 9,467,930 New Zealand dollar (as of 2022), 6,401,317 New Zealand dollar (as of 2021) (+12 more) |
 | Donations | 749,004 New Zealand dollar (as of 2025), 738,658 New Zealand dollar (as of 2024), 4,890,601 New Zealand dollar (as of 2023), 4,137,929 New Zealand dollar (as of 2022), 13,114,773 New Zealand dollar (as of 2021) (+10 more) |
-| Employees | 91 (as of 2025), 61 (as of 2024), 51 (as of 2023), 49 (as of 2022), 47 (as of 2020) (+9 more) |
 
 ### Revenue History
 
-- $38.09M (38,090,308 New Zealand dollar (as of 2025))
-- $27.91M (27,905,043 New Zealand dollar (as of 2024))
-- $22.55M (22,550,317 New Zealand dollar (as of 2023))
-- $20.28M (20,282,098 New Zealand dollar (as of 2022))
-- $18.99M (18,989,452 New Zealand dollar (as of 2021))
-- $11.20M (11,197,000 New Zealand dollar (as of 2020))
-- $10.99M (10,992,023 New Zealand dollar (as of 2019))
-- $10.35M (10,352,014 New Zealand dollar (as of 2018))
-- $9.54M (9,541,790 New Zealand dollar (as of 2017))
-- $8.86M (8,855,000 New Zealand dollar (as of 2016))
-- $9.09M (9,086,000 New Zealand dollar (as of 2015))
-- $9.41M (9,412,055 New Zealand dollar (as of 2014))
-- $9.52M (9,515,396 New Zealand dollar (as of 2013))
-- $10.43M (10,430,949 New Zealand dollar (as of 2012))
-- $10.55M (10,545,499 New Zealand dollar (as of 2011))
-- $8.49M (8,487,241 New Zealand dollar (as of 2010))
-- $8.28M (8,278,306 New Zealand dollar (as of 2009))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $38.09M | as of 2025 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.91M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $22.55M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $20.28M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.99M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $11.20M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.99M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.35M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.54M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.86M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.09M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.41M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.52M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.43M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.55M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $8.49M | as of 2010 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.28M | as of 2009 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 91 | as of 2025 | [UNDER-100](/employees_buckets/under-100/) |
+| 61 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |
+| 51 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 49 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 47 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 41 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 35 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 36 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 31 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |
+| 30 | as of 2014 | [UNDER-100](/employees_buckets/under-100/) |
+| 28 | as of 2013 | [UNDER-100](/employees_buckets/under-100/) |
+| 45 | as of 2011 | [UNDER-100](/employees_buckets/under-100/) |
+| 40 | as of 2010 | [UNDER-100](/employees_buckets/under-100/) |
+| 24 | as of 2009 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $20.86M | as of 2025 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $13.31M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.25M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $9.47M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.40M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.62M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.60M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.75M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.27M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.21M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.34M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.15M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.44M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.11M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.68M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.24M | as of 2010 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.13M | as of 2009 | [1M-10M](/total_assets_buckets/1m-10m/) |

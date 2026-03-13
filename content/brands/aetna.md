@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-03-05T22:38:39.555761"
+date: "2026-03-13T08:56:59.477601"
 draft: false
 sectors:
   - insurance
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "health-insurance"
+products: []
+headquarters_locations:
+  - hartford
+subsidiaries: []
+foundation_dates:
+  - 1853
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,16 +55,18 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - white
   - violet
+  - white
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: American managed health care company
+wikidata_url: "https://www.wikidata.org/wiki/Q26049"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -82,6 +97,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q26049) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Health Insurance](/products_or_materials_produced/health-insurance/) |
+| Headquarters Location | [Hartford](/headquarters_locations/hartford/) |
+| Foundation Date | [1853](/foundation_dates/1853/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02, until 2018-11-28) |
 | Founded By | Eliphalet Adams Bulkeley |
 | Freebase Id | /m/0kg8x |
@@ -98,11 +120,9 @@ guideline_count: 1
 | Ringgold Id | 19308 |
 | Country | United States |
 | Chief Executive Officer | Mark T. Bertolini (from 2010-11-29) |
-| Employees | 49,500 (as of 2016), 47,950 (as of 2018) |
 | Permid | 4295903286 |
 | Open Funder Registry Funder Id | 100003601 |
 | Grid Id | grid.413341.0 |
-| Logo Image | 1 Heart Aetna logo sm rgb violet.svg |
 | Microsoft Academic Id (Discontinued) | 152171566 |
 | Ror Id | 00tg1yh20 |
 | Littlesis Organization Id | 86 |
@@ -123,3 +143,10 @@ guideline_count: 1
 | ‎Yale Lux Id | group/bb252077-3150-4672-829e-7c766ad840be |
 | Wikirate Company Id | 47706 |
 | Threads Username | aetna |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 49,500 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 47,950 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |

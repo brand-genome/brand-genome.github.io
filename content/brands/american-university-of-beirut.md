@@ -2,7 +2,7 @@
 title: American University of Beirut
 slug: "american-university-of-beirut"
 description: ""
-date: "2026-03-05T22:38:39.164880"
+date: "2026-03-13T08:56:59.098827"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1866
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,21 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - horizontal
+  - seal
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: private university in Lebanon
+wikidata_url: "https://www.wikidata.org/wiki/Q469482"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +104,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q469482) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1866](/foundation_dates/1866/) |
 | Coordinate Location | 33.899963888889, 35.482283333333 |
 | Topic'S Main Category | Category:American University of Beirut |
 | Freebase Id | /m/02dgq2 |

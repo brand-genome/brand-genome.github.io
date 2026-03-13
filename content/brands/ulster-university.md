@@ -2,7 +2,7 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-03-05T22:38:39.560806"
+date: "2026-03-13T08:56:59.484395"
 draft: false
 sectors:
   - education
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - coleraine
+subsidiaries: []
+foundation_dates:
+  - 1984
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,33 +54,35 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-204"
-  - "pantone-282"
-  - "pantone-3560"
-  - "pantone-2756"
-  - cyan
-  - black
-  - "pantone-166"
   - "pantone-207"
-  - gray
+  - "pantone-282"
   - "pantone-143"
-  - "pantone-2292"
+  - "pantone-3560"
+  - "pantone-166"
+  - "pantone-2756"
+  - "pantone-204"
   - "pantone-7658"
   - "pantone-306"
+  - cyan
   - "pantone-871"
+  - gray
+  - black
+  - "pantone-2292"
 typographies:
   - futura
 imagery_styles:
-  - bold
-  - photography
-  - staged
-  - lifestyle
   - natural
+  - staged
+  - photography
+  - lifestyle
+  - bold
 wikidata_description: "multi-campus university located in Northern Ireland"
+wikidata_url: "https://www.wikidata.org/wiki/Q2096524"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,6 +141,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2096524) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Coleraine](/headquarters_locations/coleraine/) |
+| Foundation Date | [1984](/foundation_dates/1984/) |
 | Freebase Id | /m/02bhqz |
 | Topic'S Main Category | Category:Ulster University |
 | Coordinate Location | 55.1478, -6.67222 |
@@ -150,7 +169,6 @@ guideline_count: 2
 | Qs World University Id | ulster-university |
 | Times Higher Education World University Id | ulster-university |
 | U Multirank University Id | ulster-university |
-| Logo Image | University of Ulster logo.svg |
 | Gnd Id | 2119287-X |
 | Viaf Cluster Id | 158168849 |
 | Microsoft Academic Id (Discontinued) | 138801177 |

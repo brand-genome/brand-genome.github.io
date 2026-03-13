@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-03-05T22:38:39.114238"
+date: "2026-03-13T08:56:59.059694"
 draft: false
 sectors:
   - airline
@@ -13,14 +13,26 @@ years:
 languages:
   - english
 tags:
-  - airline
   - aeronautic
+  - airline
 industries: []
 countries:
   - fiji
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "nadi-international-airport"
+  - nadi
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: national airline of Fiji
+wikidata_url: "https://www.wikidata.org/wiki/Q407719"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q407719) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Nadi International Airport](/headquarters_locations/nadi-international-airport/); [Nadi](/headquarters_locations/nadi/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Country | Fiji |
 | Item Operated | Airbus A330, Boeing 737 Next Generation, Boeing 747-400, de Havilland DH.114 Heron |
 | Airline Hub | Nadi International Airport, Nausori International Airport |
@@ -69,7 +89,6 @@ guideline_count: 1
 | Icao Airline Designator | FJI |
 | Has Organizational Division | Fiji Link |
 | Headquarters Location | Nadi International Airport, nadi |
-| Logo Image | Air Pacific logo.svg (from 2003, until 2013) |
 | Callsign Of Airline | FIJI |
 | Inception | 1947-01-01 |
 | Freebase Id | /m/02hxgr |

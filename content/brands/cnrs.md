@@ -2,27 +2,37 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-03-05T22:38:39.285660"
+date: "2026-03-13T08:56:59.227994"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - france
 years:
-  - 2010
   - 2019
+  - 2010
 languages:
   - french
 tags:
-  - science
   - institution
+  - science
 industries: []
 countries:
   - lebanon
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +54,23 @@ logo_elements:
   - signature
 brand_colors:
   - white
-  - "pantone-2965"
-  - black
   - "pantone-7458"
-  - blue
   - "pantone-5405"
+  - "pantone-2965"
+  - blue
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - graphic
 wikidata_description: "government organization in Beirut, Lebanon"
+wikidata_url: "https://www.wikidata.org/wiki/Q30284428"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +109,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30284428) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Grid Id | grid.423603.0 |
 | Inception | 1962-01-01 |
 | Coordinate Location | 33.860187, 35.485855 |

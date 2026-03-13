@@ -2,7 +2,7 @@
 title: JGI
 slug: jgi
 description: ""
-date: "2026-03-05T22:38:39.587022"
+date: "2026-03-13T08:56:59.529389"
 draft: false
 sectors:
   - research
@@ -13,13 +13,22 @@ years:
 languages:
   - english
 tags:
-  - science
   - biology
+  - science
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
-  - black
   - blue
-  - gray
   - green
+  - black
+  - gray
 typographies:
   - arial
 imagery_styles:
   - bold
 wikidata_description: Java implementation of Git
+wikidata_url: "https://www.wikidata.org/wiki/Q72274152"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +110,10 @@ guideline_count: 1
 - Contact for additional information: David Gilbert, degilbert@lbl.gov.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q72274152) |
 
 | Property | Value |
 |----------|-------|

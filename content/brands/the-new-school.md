@@ -2,7 +2,7 @@
 title: The New School
 slug: "the-new-school"
 description: ""
-date: "2026-03-05T22:38:39.245529"
+date: "2026-03-13T08:56:59.189912"
 draft: false
 sectors:
   - university
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,19 +56,21 @@ logo_elements: []
 brand_colors:
   - white
   - red
-  - orange
-  - black
   - yellow
   - silver
+  - orange
+  - black
 typographies:
   - garamond
 imagery_styles:
   - photography
 wikidata_description: private university in New York
+wikidata_url: "https://www.wikidata.org/wiki/Q599316"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +119,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q599316) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Topic'S Main Category | Category:The New School |
 | Located In The Administrative Territorial Entity | Manhattan |
 | Coordinate Location | 40.73534, -73.99704 |
@@ -154,8 +173,6 @@ guideline_count: 2
 | Crunchbase Organization Id | the-new-school |
 | National Library Of Israel J9U Id | 987007265942805171 |
 | Count Of Students | 9,047 (as of 2020-09), 10,007 (as of 2021-09-01) |
-| Total Assets | 1,320,226,000 United States dollar (as of 2020-06-30) |
-| Employees | 3,017 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | TheNewSchool (from 2011-09-12) |
@@ -180,3 +197,15 @@ guideline_count: 2
 | Nukat Id | n2015061318 |
 | ‎Yale Lux Id | group/0559d79a-3331-40ee-97c5-c5ff5d179492 |
 | World Higher Education Database Id | IAU-016502 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,017 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.32B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

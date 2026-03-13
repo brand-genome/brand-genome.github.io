@@ -2,7 +2,7 @@
 title: Southwest Airlines
 slug: "southwest-airlines"
 description: ""
-date: "2026-03-05T22:38:39.814850"
+date: "2026-03-13T08:56:59.883575"
 draft: false
 sectors:
   - airline
@@ -13,215 +13,325 @@ years:
 languages:
   - english
 tags:
-  - airline
   - transport
+  - airline
 industries:
   - "air-transport"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "500m-1b"
+  - "500M-1B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dallas
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings:
+  - natural
   - studio
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - "background-as-frame"
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
+  - "background-as-frame"
   - gradient
-  - bright
+  - blurred
   - dark
-color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - "sky-colors"
-  - monotone
-  - "complementary-colors"
-  - "sunset-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
+  - light
   - bright
+color_schemes:
   - "aquatic-colors"
+  - "sky-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - monotone
+  - grayscale
+  - bright
 photography_genres:
+  - staged
+  - product
+  - "graphic-design"
   - selfie
+  - family
+  - "pet-photography"
+  - "live-stage"
+  - street
   - professional
   - news
-  - landscape
-  - product
-  - interior
-  - street
-  - advertising
-  - architectural
-  - action
-  - "live-stage"
-  - documentary
-  - group
-  - event
   - sky
-  - bridal
-  - "pet-photography"
+  - group
+  - advertising
+  - documentary
   - "text-heavy"
-  - family
-  - "graphic-design"
   - portrait
-  - staged
+  - interior
+  - landscape
+  - bridal
   - "still-life"
+  - architectural
+  - event
+  - action
 concepts:
-  - cartoon
+  - documentary
   - "text-heavy"
+  - "incomplete-art"
   - illustration
+  - photorealism
+  - cartoon
+  - "graphic-design"
   - vintage
   - typography
-  - "graphic-design"
-  - "incomplete-art"
-  - photorealism
-  - documentary
 depths:
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - white
   - olive
+  - "dark-brown"
+  - "royal-blue"
   - "dark-blue"
   - black
-  - "dark-brown"
-  - "light-blue"
-  - "royal-blue"
   - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
+  - covered
+  - updo
+  - neat
   - "pulled-back"
   - bald
-  - neat
-  - wavy
+  - varied
+  - short
+  - casual
+  - flowing
   - loose
   - straight
   - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
   - gray
   - "tied-back"
-  - varied
-  - covered
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
   - shocked
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
   - surprised
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - professional
-  - costume
   - formal
+  - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - professional
+  - "form-fitting"
   - protective
   - swimwear
-  - traditional
-  - "business-casual"
+  - business
+  - costume
 clothing_colors:
-  - vibrant
-  - muted
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
   - uniform
+  - earthy
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - active
-  - holding
-  - standing
   - running
   - stretching
-  - static
+  - active
+  - leaning
+  - walking
   - confident
-gazes:
   - engaged
-  - away
+  - relaxed
+  - static
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
   - "hand-only"
-  - "head-shot"
+  - "lower-half"
   - midsection
   - "full-back"
-  - "lower-half"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: airline of the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q503308"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 151
 guideline_count: 1
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FnbhKjTWYAASrPo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FnbWVYTXoAgXgkX?format=png&name=large"
+  - "https://pbs.twimg.com/media/FnWfYG2aEAUxgnC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FmMv2L3WYAIb0pJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FmIiomAXEBktI9-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FmD5pGNX0As3LQO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FlFjaBgXkAMmOzb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FkcPbMKWIAkJjjv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FkH6_PWXkAEuDyf?format=png&name=large"
+  - "https://pbs.twimg.com/media/FjzqRlBXEB4YRQw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjpM8dDXkAEA88X?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjklXHxWQAADVUP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fjjo5boXEAEPz0h?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjZgYfmWQBcTwK9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjEZYWiXwAIpwN9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdN6mLZXoAEo1Zh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdCKkwvXEAYiJW-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcpgmV7WQAAKUFy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcpD3oEWIAATeR2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcEHsmNWQAEcSiF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZQgnuuXwAIzPsw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXk0FpWWYAUE1GG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FV42drbWQAEbzo3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVx3tWgWUAADQry?format=png&name=large"
+  - "https://pbs.twimg.com/media/FVvErFlWIAE-4wq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUSD4WnX0Acyd2h?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FT37HlbWUAAqPWz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FTJVk-gVUAADFfN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSp9yssWIAAhXiR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRh7hY8XsAUaoOT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRccH00WUAEJdMy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ0AonDWYAIDCcr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQQcYMzX0BQQ9z-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQK6xtHXEAEOxLi?format=png&name=large"
+  - "https://pbs.twimg.com/media/FPxT9mgWUAEwJMK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPSzYgNXEAQiQGK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLQrRFzX0AIvUFo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FI2mD7KXIAAQ8WP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FB7sQ-_WUAUqTtG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBr36huXIAMOv7-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_asgnfWEAgoAah?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9Fsr7DXIAcNsPN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3ngFJwWUAIy1mt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Es7R7AlXIAEhAkJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnDvnIEXEAAfsxw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EknnswuXgAEPFwb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjVAjJdWoAE_TKv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ehk7Xb7XkAAhEhM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgxoDXjXkAEPzwF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egrx1diWoAAXWaa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egns6AHX0AEgJWD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgmKfUGXsAEPN1u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egc2Q3VXgAUcdkI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgXgE0gWkAIlrWG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgTA0uLWoAQeqLN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgDNV2UXkAExMz8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ef-gMT4XsAAR7MK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ef5UONpXoAY5qWu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ef3sCDnWkAEPMkx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfynMx0WoAABdiC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfpXfl7XgAYYUND?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfaaxXcWkAcHmCr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfYzcMgXoAcJaHx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfP_lRoWsAEUn2K?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfJ63V3XYAM7y0S?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfF8gZTXoAQFX0r?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ee7BxwNXsAErCBY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ee2UwsTXkAA-JIp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eev9Uw1WoAEQgUA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eer9VOKXsAA8W4Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeqhlHYWsAElXCE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EegQN6qXoAEHFnY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeQ1zuTXYAMJXM8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeNVz2tXkAEdzSq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeLqvC-XoAAlrvz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeIJjiaXsAM3BxP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeGYgU0XkAAttse?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeBVXj2UwBQvkyd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ed9yv51XgAANxEI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ed8W-hOXkAA9GHw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Edx2RsKXsAEosRL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdtryyrWsAEfAge?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Edn8Z5AXgAA2IhZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdjhyKbXgAAepQZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbO9QPPXQAA1SMT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYETNYYWAAIJMIc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPe7qWGWoAA5UDn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EGTexhIU0AEnu6O?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEmfCFPXoAQp_Fd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEMC3bNWkAQuV8l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D345hXwWAAEJMsR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1khPq0XQAMqIDr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwZpoyBWsAE7yPQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwGmQ6iX4AAknVv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Drf6a45WsAMjIaM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dm0HSqOW4AAVsrY?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -240,24 +350,24 @@ guideline_count: 1
 ### Color Analysis
 *Statistics computed across 151 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Black | 26.5% | 25.7% | 17.7% | 34.2% | 45.9% | ±12.3% | 80.8% |
-| Light Blue | 25.6% | 26.3% | 12.6% | 34.5% | 40.2% | ±14.4% | 23.8% |
-| White | 21.8% | 19.1% | 11.2% | 26.0% | 35.4% | ±16.4% | 24.5% |
-| Dark Blue | 19.2% | 13.3% | 9.2% | 21.2% | 42.4% | ±16.7% | 47.7% |
-| Royal Blue | 19.1% | 13.9% | 10.7% | 28.7% | 31.8% | ±10.8% | 17.2% |
-| Gray | 18.6% | 14.6% | 9.3% | 22.6% | 36.6% | ±12.0% | 66.9% |
-| Olive | 16.9% | 10.0% | 7.3% | 25.4% | 41.3% | ±12.7% | 18.5% |
-| Dark Brown | 16.8% | 13.8% | 9.6% | 20.8% | 29.7% | ±10.5% | 54.3% |
+| Color | Mean |
+|-------|------|
+| Black | 26.5% |
+| Light Blue | 25.6% |
+| White | 21.8% |
+| Dark Blue | 19.2% |
+| Royal Blue | 19.1% |
+| Gray | 18.6% |
+| Olive | 16.9% |
+| Dark Brown | 16.8% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 3.1% | 0% | 0.0% | 0.0% | ±6.7% |
-| Neutral | 74.4% | 86.7% | 61.5% | 97.1% | ±29.3% |
-| Cool | 22.5% | 9.6% | 0.0% | 34.3% | ±29.9% |
+| Tone | Mean |
+|------|------|
+| Warm | 3.1% |
+| Neutral | 74.4% |
+| Cool | 22.5% |
 
 ### Sample Images
 
@@ -367,6 +477,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q503308) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dallas](/headquarters_locations/dallas/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Inception | 1967-03-15, 1967 |
 | Founded By | Herb Kelleher, Rollin King |
 | Item Operated | Boeing 737 Classic, Boeing 737 Next Generation, Boeing 737 MAX, Boeing 737 |
@@ -385,14 +501,12 @@ guideline_count: 1
 | House Publication | Spirit |
 | Facebook Username | Southwest |
 | Legal Entity Identifier | UDTZ87G0STFETI6HGH41 |
-| Logo Image | Southwest Airlines logo 2014.svg |
 | Isni | 0000000121120018 |
 | Start Of Work Period | 1971-06-18 |
 | Country | United States |
 | Airline Hub | Dallas Love Field |
 | Quora Topic Id | Southwest-Airlines-company |
 | Motto Text | Low fares. Nothing to hide |
-| Employees | 59,793 (as of 2019-06-30), 57,674 (as of 2018) |
 | Merchant Category Code | 3066 |
 | Permid | 4295904946 |
 | Open Funder Registry Funder Id | 100004786 |
@@ -485,57 +599,70 @@ guideline_count: 1
 
 ### Revenue History
 
-- $21.96B (21,965,000,000 United States dollar (as of 2018))
-- $9.86B (9,861,000,000 United States dollar (as of 2007))
-- $11.02B (11,023,000,000 United States dollar (as of 2008))
-- $10.35B (10,350,000,000 United States dollar (as of 2009))
-- $12.10B (12,104,000,000 United States dollar (as of 2010))
-- $15.66B (15,658,000,000 United States dollar (as of 2011))
-- $17.09B (17,088,000,000 United States dollar (as of 2012))
-- $17.70B (17,699,000,000 United States dollar (as of 2013))
-- $18.61B (18,605,000,000 United States dollar (as of 2014))
-- $19.82B (19,820,000,000 United States dollar (as of 2015))
-- $20.43B (20,425,000,000 United States dollar (as of 2016))
-- $21.17B (21,171,000,000 United States dollar (as of 2017))
-- $22.43B (22,428,000,000 United States dollar (as of 2019))
-- $9.05B (9,048,000,000 United States dollar (as of 2020))
-- $15.79B (15,790,000,000 United States dollar (as of 2021))
-- $23.81B (23,814,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $21.96B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.86B | as of 2007 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $11.02B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.35B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.10B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.66B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.09B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.70B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.61B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.82B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $20.43B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.17B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.43B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.05B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $15.79B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.81B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $791.00M (791,000,000 United States dollar (as of 2007))
-- $449.00M (449,000,000 United States dollar (as of 2008))
-- $262.00M (262,000,000 United States dollar (as of 2009))
-- $988.00M (988,000,000 United States dollar (as of 2010))
-- $693.00M (693,000,000 United States dollar (as of 2011))
-- $623.00M (623,000,000 United States dollar (as of 2012))
-- $1.28B (1,278,000,000 United States dollar (as of 2013))
-- $2.23B (2,225,000,000 United States dollar (as of 2014))
-- $4.12B (4,116,000,000 United States dollar (as of 2015))
-- $3.76B (3,760,000,000 United States dollar (as of 2016))
-- $3.52B (3,515,000,000 United States dollar (as of 2017))
-- $3.21B (3,206,000,000 United States dollar (as of 2018))
-- $2.96B (2,957,000,000 United States dollar (as of 2019))
-- $3.82B (-3,816,000,000 United States dollar (as of 2020))
-- $1.72B (1,721,000,000 United States dollar (as of 2021))
-- $1.02B (1,017,000,000 United States dollar (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $791.00M | as of 2007 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $449.00M | as of 2008 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $262.00M | as of 2009 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $988.00M | as of 2010 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $693.00M | as of 2011 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $623.00M | as of 2012 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.28B | as of 2013 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.23B | as of 2014 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.12B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.76B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.52B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.21B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.96B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.82B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.72B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.02B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $645.00M (645,000,000 United States dollar (as of 2007))
-- $178.00M (178,000,000 United States dollar (as of 2008))
-- $99.00M (99,000,000 United States dollar (as of 2009))
-- $459.00M (459,000,000 United States dollar (as of 2010))
-- $178.00M (178,000,000 United States dollar (as of 2011))
-- $421.00M (421,000,000 United States dollar (as of 2012))
-- $754.00M (754,000,000 United States dollar (as of 2013))
-- $1.14B (1,136,000,000 United States dollar (as of 2014))
-- $2.18B (2,181,000,000 United States dollar (as of 2015))
-- $2.24B (2,244,000,000 United States dollar (as of 2016))
-- $3.49B (3,488,000,000 United States dollar (as of 2017))
-- $2.46B (2,465,000,000 United States dollar (as of 2018))
-- $2.30B (2,300,000,000 United States dollar (as of 2019))
-- $3.07B (-3,074,000,000 United States dollar (as of 2020))
-- $977.00M (977,000,000 United States dollar (as of 2021))
-- $539.00M (539,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $645.00M | as of 2007 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $178.00M | as of 2008 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $99.00M | as of 2009 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $459.00M | as of 2010 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $178.00M | as of 2011 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $421.00M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $754.00M | as of 2013 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.14B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.18B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.24B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.49B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.46B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.30B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.07B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $977.00M | as of 2021 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $539.00M | as of 2022 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 59,793 | as of 2019-06-30 | [50K-100K](/employees_buckets/50k-100k/) |
+| 57,674 | as of 2018 | [50K-100K](/employees_buckets/50k-100k/) |

@@ -2,7 +2,7 @@
 title: City of Guelph
 slug: "city-of-guelph"
 description: ""
-date: "2026-03-05T22:38:39.714530"
+date: "2026-03-13T08:56:59.731967"
 draft: false
 sectors:
   - "public-sector"
@@ -13,13 +13,22 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +52,27 @@ logo_elements:
   - crest
 brand_colors:
   - white
-  - teal
-  - black
-  - blue
-  - "pantone-7460"
   - "pantone-369"
-  - beige
   - navy
+  - blue
+  - beige
   - green
+  - black
+  - "pantone-7460"
+  - teal
 typographies:
+  - garamond
   - verdana
   - courier
-  - garamond
 imagery_styles:
   - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

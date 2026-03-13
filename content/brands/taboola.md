@@ -2,11 +2,11 @@
 title: Taboola
 slug: taboola
 description: ""
-date: "2026-03-05T22:38:39.257011"
+date: "2026-03-13T08:56:59.200810"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -17,13 +17,24 @@ tags:
   - marketing
 industries:
   - "software-industry"
-  - "digital-marketing"
   - "advertising-industry"
+  - "digital-marketing"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Technology company specialized in contextual, native advertising"
+wikidata_url: "https://www.wikidata.org/wiki/Q18154756"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18154756) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Inception | 2007 |
 | Quora Topic Id | Taboola |
 | Industry | software industry, advertising industry, digital marketing |
@@ -78,7 +97,6 @@ guideline_count: 1
 | Central Index Key | 0001840502 |
 | Bloomberg Company Id | 54026Z:US |
 | Crunchbase Organization Id | taboola |
-| Logo Image | Taboola logo.svg |
 | Official Blog Url | https://blog.taboola.com, https://blog.taboola.com/de/, https://blog.taboola.com/pt/, https://blog.taboola.com/es/, https://blog.taboola.com/fr/ (+2 more) |
 | Linkedin Company Or Organization Id | taboola, taboola-dach, taboola-france, taboola-greater-china |
 | Glassdoor Company Id | 386708 |

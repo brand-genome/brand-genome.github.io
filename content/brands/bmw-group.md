@@ -2,11 +2,11 @@
 title: BMW Group
 slug: "bmw-group"
 description: ""
-date: "2026-03-05T22:38:39.411072"
+date: "2026-03-13T08:56:59.372277"
 draft: false
 sectors:
-  - automobile
   - finance
+  - automobile
 regions:
   - germany
 years:
@@ -14,21 +14,38 @@ years:
 languages:
   - english
 tags:
-  - sport
   - transport
+  - sport
 industries:
-  - "manufacture-of-motor-vehicles"
   - "automotive-industry"
+  - "manufacture-of-motor-vehicles"
   - "activities-of-holding-companies"
   - "aeronautical-engineering"
 countries:
   - germany
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets: []
+market_cap_buckets:
+  - "50B-100B"
+products_or_materials_produced:
+  - "electric-car"
+  - car
+  - motorcycle
+products: []
+headquarters_locations:
+  - munich
+subsidiaries: []
+foundation_dates:
+  - 1916
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +70,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "German automobile manufacturer, and conglomerate"
+wikidata_url: "https://www.wikidata.org/wiki/Q26678"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +111,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q26678) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electric Car](/products_or_materials_produced/electric-car/); [Car](/products_or_materials_produced/car/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
+| Headquarters Location | [Munich](/headquarters_locations/munich/) |
+| Foundation Date | [1916](/foundation_dates/1916/) |
 | Headquarters Location | Munich |
 | Stock Exchange | Frankfurt Stock Exchange, Nasdaq, Frankfurt Stock Exchange |
 | Founded By | Camillo Castiglioni, Karl Rapp, Franz Josef Popp, Gustav Otto |
@@ -99,7 +125,6 @@ guideline_count: 1
 | Topic'S Main Category | Category:BMW Group |
 | Isin | DE0005190003, DE0005190037 |
 | Freebase Id | /m/017yh |
-| Employees | 118,909 (as of 2021-12-31), 149,475 (as of 2022-12-31), 120,726 (as of 2020) |
 | Industry | automotive industry, manufacture of motor vehicles, aeronautical engineering, activities of holding companies |
 | Part Of | DAX (from 1988-07-01), EURO STOXX 50, DivDAX (from 1999-09-20, until 2000-09-18), DivDAX (from 2008-09-22, until 2009-09-21), DivDAX (from 2011-09-19) (+1 more) |
 | Inception | 1916-03-07 |
@@ -148,7 +173,6 @@ guideline_count: 1
 | Osm Name Suggestion Index Id | bmw-13eeb7, bmw-5601d5, bmw-28ff7e, bmw-9c1a6c, bmw-dc8719 |
 | De Agostini Id | BMW |
 | Kbpedia Id | BMWCar |
-| Logo Image | BMW logo (gray).svg, Logo BMW Group 2021.svg (from 2021), BMW.svg (from 1997, until 2020), BMW 1970-1989 Logo.svg (from 1970, until 1989), BMW 1963-1997 Logo.svg (from 1963, until 1997) (+2 more) |
 | Described At Url | http://www.fundinguniverse.com/company-histories/bayerische-motoren-werke-ag-history/ |
 | Supervisory Board Member | Reinhard Hüttl (from 2008) |
 | Uk Parliament Thesaurus Id | 2083 |
@@ -160,12 +184,10 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | bmw-group (as of 2021-08-27) |
 | Github Account | bmwgroup |
 | Privacy Policy Url | https://www.bmwgroup.com/en/general/data_privacy.html, https://www.bmwgroup.com/de/general/data_privacy.html |
-| Email Address | mailto:corporate.website@bmwgroup.com, mailto:datenschutz@bmw.de, mailto:kundenbetreuung@bmw.de |
+| Email Address | corporate.website@bmwgroup.com, datenschutz@bmw.de, kundenbetreuung@bmw.de |
 | Phone Number | +49-89-382-0, +49-89-1250-16000 |
 | Fax Number | +49-89-382-7025858 |
 | National Library Of Israel J9U Id | 987007451667505171 |
-| Total Assets | 228,034,000,000 euro (as of 2019) |
-| Market Capitalization | 59,907,000,000 euro (as of 2019) |
 | Openalex Id | I1283382300 |
 | Lobby Register Of The German Bundestag Id | R002370 (from 2022-02-28) |
 | Lex Id | BMW |
@@ -207,21 +229,47 @@ guideline_count: 1
 
 ### Revenue History
 
-- $142.38B (142,380,000,000 euro (as of 2024))
-- $155.50B (155,498,000,000 euro (as of 2023))
-- $142.61B (142,610,000,000 euro (as of 2022))
-- $111.24B (111,239,000,000 euro (as of 2021))
-- $98.99B (98,990,000,000 euro (as of 2020))
-- $104.21B (104,210,000,000 euro (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $142.38B | as of 2024 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $155.50B | as of 2023 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $142.61B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $111.24B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $98.99B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $104.21B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $7.41B (7,411,000,000 euro (as of 2019))
-- $14.00B (13,999,000,000 euro (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $7.41B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $14.00B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $5.02B (5,022,000,000 (as of 2019))
-- $12.46B (12,463,000,000 euro (as of 2021))
-- $18.58B (18,582,000,000 euro (as of 2022))
-- $7.68B (7,680,000,000 euro (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $5.02B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $12.46B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $18.58B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $7.68B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 118,909 | as of 2021-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 149,475 | as of 2022-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 120,726 | as of 2020 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $228.03B | as of 2019 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $59.91B | as of 2019 | [50B-100B](/market_cap_buckets/50b-100b/) |

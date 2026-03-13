@@ -2,7 +2,7 @@
 title: Los Angeles Lakers
 slug: "los-angeles-lakers"
 description: ""
-date: "2026-03-05T22:38:39.702692"
+date: "2026-03-13T08:56:59.714603"
 draft: false
 sectors:
   - sports
@@ -14,14 +14,26 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates:
+  - 1946
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,21 +57,23 @@ logo_elements:
 brand_colors:
   - white
   - red
+  - purple
   - black
   - gray
-  - purple
 typographies:
-  - arial
   - din
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: American professional basketball team
+wikidata_url: "https://www.wikidata.org/wiki/Q121783"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +112,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q121783) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
+| Foundation Date | [1946](/foundation_dates/1946/); [1947](/foundation_dates/1947/) |
 | Head Coach | JJ Redick (from 2024-06-20) |
 | League Or Competition | National Basketball Association |
 | Home Venue | Minneapolis Auditorium (from 1947-01-01, until 1959-01-01), Minneapolis Armory (from 1947, until 1960-01-01), Los Angeles Memorial Sports Arena (from 1960-01-01, until 1967-01-01), Kia Forum (from 1967-01-01, until 1999-01-01), Crypto.com Arena (from 1999-01-01) |
@@ -124,7 +144,6 @@ guideline_count: 1
 | X Topic Id | 706083845846597632 |
 | Subreddit | lakers |
 | Social Media Followers | 9,473,905 (as of 2021-01-02), 7,450,611 (as of 2018-05-10), 10,619,572 (as of 2022-03-02), 11,357,120 (as of 2023-02-04) |
-| Logo Image | Los Angeles Lakers logo.svg, Los Angeles Lakers Wordmark Logo 2001-current.svg |
 | Armeniapedia Id | 12281 |
 | Different From | SC Rapperswil-Jona Lakers |
 | Alexander Turnbull Library Id | 301568 |

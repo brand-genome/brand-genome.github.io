@@ -2,7 +2,7 @@
 title: Zendesk
 slug: zendesk
 description: ""
-date: "2026-03-05T22:38:39.263805"
+date: "2026-03-13T08:56:59.205934"
 draft: false
 sectors:
   - software
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: CRM company that builds customer support and sales software which aims for quick implementation and adaptation at scale
+wikidata_url: "https://www.wikidata.org/wiki/Q15401349"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,15 +77,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15401349) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Headquarters Location | San Francisco |
 | Inception | 2007-01-01 |
-| Employees | 500, 3,830 (as of 2020) |
 | Stock Exchange | New York Stock Exchange |
 | Country | United States |
 | Quora Topic Id | Zendesk-company |
 | Isin | US98936J1016 |
 | Permid | 4298489491 |
-| Logo Image | Zendesk logo.svg |
 | Downdetector Id | zendesk |
 | X (Twitter) Username | zendesk (as of 2020-05-01, from 2008-05-29), Zendesk |
 | Facebook Username | Zendesk |
@@ -97,3 +115,10 @@ guideline_count: 1
 | Legal Form | Delaware corporation |
 | Domain Name | zendesk.com |
 | Subreddit | Zendesk |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 500 | - | [100-1K](/employees_buckets/100-1k/) |
+| 3,830 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: Vytautas Magnus University
 slug: "vytautas-magnus-university"
 description: ""
-date: "2026-03-05T22:38:39.280245"
+date: "2026-03-13T08:56:59.222464"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1989
+  - 1922
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Kaunas, Lithuania (1989-)"
+wikidata_url: "https://www.wikidata.org/wiki/Q1756541"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1756541) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1989](/foundation_dates/1989/); [1922](/foundation_dates/1922/) |
 | Official Name | Vytauto Didžiojo universitetas, Каўнаскі ўніверсітэт (until 1950-10-31), Ковенскі ўнівэрсытэт (until 1950-10-31) |
 | Coordinate Location | 54.898333333333, 23.913888888889 |
 | Topic'S Main Category | Category:Vytautas Magnus University |
@@ -80,7 +99,6 @@ guideline_count: 1
 | Ringgold Id | 105468 |
 | Quora Topic Id | Vytautas-Magnus-University |
 | Category For Alumni Of Educational Institution | Category:Vytautas Magnus University alumni |
-| Logo Image | VMU emblem.JPG |
 | Doi Prefix | 10.7220 |
 | Grid Id | grid.19190.30 |
 | Category For Employees Of The Organization | Category:Academic staff of Vytautas Magnus University |
@@ -119,7 +137,6 @@ guideline_count: 1
 | Cinii Research Id | 1140282266535792128 |
 | Kisti Id | K000202500 |
 | Arwu University Id | vytautas-magnus-university |
-| Employees | 1,901 (as of 2024-01) |
 | Lithuanian Company Code | 111950396 |
 | Kalliope Verbund (Gnd) Id | 505502-7 |
 | Date Of Official Opening | 1989-09-01 |
@@ -129,3 +146,9 @@ guideline_count: 1
 | Factgrid Item Id | Q1262886 |
 | ‎Yale Lux Id | group/5f870812-2f99-4f1b-a441-e1a06e9d3577 |
 | Doab Publisher Id | 1327 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,901 | as of 2024-01 | [1K-10K](/employees_buckets/1k-10k/) |

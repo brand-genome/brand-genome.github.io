@@ -2,7 +2,7 @@
 title: Tata Consultancy Services
 slug: "tata-consultancy-services"
 description: ""
-date: "2026-03-05T22:38:39.107984"
+date: "2026-03-13T08:56:59.056866"
 draft: false
 sectors:
   - consulting
@@ -16,13 +16,26 @@ languages:
 tags:
   - technology
 industries:
-  - "information-technology-consulting"
   - "it-service-management"
+  - "information-technology-consulting"
 countries:
   - india
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "OVER-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - integration
+products: []
+headquarters_locations:
+  - mumbai
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Information technology consulting company
+wikidata_url: "https://www.wikidata.org/wiki/Q13227919"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,11 +79,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13227919) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Integration](/products_or_materials_produced/integration/) |
+| Headquarters Location | [Mumbai](/headquarters_locations/mumbai/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Topic'S Main Category | Category:Tata Consultancy Services |
 | Freebase Id | /m/01psx8 |
 | Headquarters Location | Mumbai |
 | Inception | 1968-01-01 |
-| Logo Image | TATA Consultancy Services Logo.svg |
 | Facebook Username | TataConsultancyServices |
 | Parent Organization Or Unit | Tata Group |
 | Owned By | Tata Group |
@@ -77,7 +98,6 @@ guideline_count: 1
 | Country | India |
 | Quora Topic Id | Tata-Consultancy-Services-company |
 | Chief Executive Officer | Rajesh Gopinathan |
-| Employees | 600,000 |
 | Isin | INE467B01029 |
 | Grid Id | grid.452790.d |
 | Legal Form | public company |
@@ -109,3 +129,9 @@ guideline_count: 1
 | Opencorporates Id | in/L22210MH1995PLC084781 |
 | ‎Yale Lux Id | group/cfa41ab8-8d2c-4c0c-a4bc-7c2f557248c9 |
 | Usb Vendor Id | 21b1 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 600,000 | - | [OVER-500K](/employees_buckets/over-500k/) |

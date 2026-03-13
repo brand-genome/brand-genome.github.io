@@ -2,11 +2,11 @@
 title: Radeon
 slug: radeon
 description: ""
-date: "2026-03-05T22:38:39.814321"
+date: "2026-03-13T08:56:59.883002"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: brand of graphics processing units by AMD
+wikidata_url: "https://www.wikidata.org/wiki/Q295089"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,13 +74,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q295089) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/02440y |
 | Subclass Of | graphics processing unit, integrated graphics processor |
 | Quora Topic Id | Ati-Radeon |
 | Babelnet Id | 03131424n |
 | X (Twitter) Username | Radeon (as of 2020-04-14, from 2009-03-06) |
 | Inception | 2000-04-01 |
-| Logo Image | AMD Radeon graphics logo 2016.svg (from 2016), AMD Radeon logo.svg (from 2010, until 2016), ATI Radeon Graphics Logo.svg (from 2007, until 2010), ATI Radeon Badge.svg (from 2004, until 2007), ATI TECHNOLOGIES LOGO.svg (from 2000, until 2004) |
 | Social Media Followers | 718,600 (as of 2021-01-02), 651,363 (as of 2020-04-14), 778,111 (as of 2022-02-28), 792,386 (as of 2023-02-10) |
 | Fandom Article Id | logos:Radeon |
 | Facebook Username | Radeon |

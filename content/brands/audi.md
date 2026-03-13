@@ -2,7 +2,7 @@
 title: Audi
 slug: audi
 description: ""
-date: "2026-03-05T22:38:39.188453"
+date: "2026-03-13T08:56:59.121291"
 draft: false
 sectors:
   - automobile
@@ -22,11 +22,25 @@ countries:
   - germany
   - "german-reich"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - ingolstadt
+subsidiaries: []
+foundation_dates:
+  - 1909
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +60,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
-  - "pantone-186"
-  - grey
-  - black
   - "pantone-485"
+  - red
+  - grey
+  - white
+  - "pantone-186"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: German automotive manufacturing subsidiary of Volkswagen Group
+wikidata_url: "https://www.wikidata.org/wiki/Q23317"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,8 +121,14 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q23317) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Ingolstadt](/headquarters_locations/ingolstadt/) |
+| Foundation Date | [1909](/foundation_dates/1909/) |
 | Member Of | Open Automotive Alliance (from 2014-01-06), Stiftung Bildungspakt Bayern, German Road Safety Council, Wettbewerbszentrale e.V., Wirtschaftsforum der SPD (+30 more) |
-| Logo Image | Audi-Logo 2016.svg, Audi logo detail.svg, Audi.png, 2808 audi logo nuevo th 2.jpg |
 | Isin | DE0006757008 |
 | Founded By | August Horch |
 | Owned By | Volkswagen Group |
@@ -117,7 +139,6 @@ guideline_count: 2
 | Freebase Id | /m/0k50 |
 | Gnd Id | 277575-X |
 | Industry | automotive industry, vehicle construction |
-| Employees | 63,839 (as of 2011-12-31), 79,483 (as of 2014-12-31), 84,435 (as of 2015-12-31) |
 | Follows | Auto Union, NSU Motorenwerke |
 | Parent Organization Or Unit | Volkswagen Group |
 | Motto | Vorsprung durch Technik |
@@ -138,7 +159,6 @@ guideline_count: 2
 | Dagens Nyheter Topic Id | audi |
 | Motto Text | Vorsprung durch Technik |
 | Image | Das Audi Forum Ingolstadt.JPG, Audi Ingolstadt.jpg (from 1985) |
-| Total Assets | 16,800,000,000 euro (as of 2019) |
 | Grid Id | grid.423767.3 |
 | Category For Employees Of The Organization | Category:Audi people |
 | Pm20 Folder Id | co/001800 |
@@ -189,12 +209,32 @@ guideline_count: 2
 
 ### Revenue History
 
-- $48.80B (48,800,000,000 euro (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $48.80B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $5.40B (5,400,000,000 euro (as of 2019))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $5.40B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $4.30B (4,300,000,000 euro (as of 2019))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.30B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 63,839 | as of 2011-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 79,483 | as of 2014-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 84,435 | as of 2015-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $16.80B | as of 2019 | [10B-50B](/total_assets_buckets/10b-50b/) |

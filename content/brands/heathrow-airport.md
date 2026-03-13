@@ -2,7 +2,7 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-03-05T22:38:39.657095"
+date: "2026-03-13T08:56:59.583899"
 draft: false
 sectors:
   - "public-transportation"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "compass-centre"
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +57,20 @@ logo_elements:
 brand_colors:
   - black
 typographies:
+  - frutiger
   - impact
   - arial
-  - frutiger
 imagery_styles:
-  - bold
   - photography
   - staged
+  - bold
 wikidata_description: "United Kingdom-based airport operator"
+wikidata_url: "https://www.wikidata.org/wiki/Q795363"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -129,6 +142,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q795363) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Compass Centre](/headquarters_locations/compass-centre/) |
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Industry | transport |
 | Headquarters Location | Compass Centre |
 | Country | United Kingdom |
@@ -151,7 +170,6 @@ guideline_count: 2
 | Ror Id | 04a91ra66 |
 | Ringgold Id | 102182 |
 | Image | Heathrow Terminal 5 airside 020.JPG |
-| Logo Image | BAA Logo.svg |
 | Companies House Company Id | 05757208 |
 | Crunchbase Organization Id | heathrow-airport-holdings |
 | Bbc Things Id | 8f09bfc9-be56-4178-9c88-907893f955e8 |

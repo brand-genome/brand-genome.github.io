@@ -2,7 +2,7 @@
 title: TranSantiago
 slug: transantiago
 description: ""
-date: "2026-03-05T22:38:39.503412"
+date: "2026-03-13T08:56:59.426727"
 draft: false
 sectors:
   - "public-transportation"
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public transport system serving Santiago, Chile"
+wikidata_url: "https://www.wikidata.org/wiki/Q954223"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,10 +77,14 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q954223) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Freebase Id | /m/06y4dx |
 | Commons Gallery | Transantiago |
 | Image | Bus 510 en Avenida Matta, Santiago 20220529.jpg |
-| Logo Image | Logotipo Red Metropolitana de Movilidad (Vertical).svg (from 2019-03), Transantiago Logo.svg (from 2006, until 2018), Transantiago Logo 2019.png (from 2018, until 2019), DTPM.png |
 | Topic'S Main Category | Category:Transantiago |
 | Country | Chile |
 | Named After | Santiago |

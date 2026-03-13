@@ -2,7 +2,7 @@
 title: Banco do Brasil
 slug: "banco-do-brasil"
 description: ""
-date: "2026-03-05T22:38:39.198988"
+date: "2026-03-13T08:56:59.135738"
 draft: false
 sectors:
   - finance
@@ -15,14 +15,29 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
-  - "economics-of-banking"
   - "financial-sector"
+  - "economics-of-banking"
+  - "financial-services"
 countries:
   - brazil
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bank
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+  - brasilia
+subsidiaries: []
+foundation_dates:
+  - 1808
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian banking institution
+wikidata_url: "https://www.wikidata.org/wiki/Q610817"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +82,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q610817) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bank](/products_or_materials_produced/bank/) |
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/); [Brasilia](/headquarters_locations/brasilia/) |
+| Foundation Date | [1808](/foundation_dates/1808/) |
 | Freebase Id | /m/036yt4 |
 | Headquarters Location | Brasília, Rio de Janeiro |
 | Image | Fachada do edifício sede do Banco do Brasil em Brasília.jpg, Avenida Manoel Dias da Silva - 03.jpg, Sao Paulo, Brazil 1312423 68.jpg |
@@ -76,7 +100,6 @@ guideline_count: 1
 | Location Of Formation | Rio de Janeiro |
 | Legal Form | S.A. |
 | Corporate Number (Japan) | 2700150002327 |
-| Logo Image | Banco do Brasil Logo.svg |
 | Owned By | Federal Government of Brazil |
 | Founded By | John VI of Portugal |
 | Quora Topic Id | Banco-Do-Brasil, Banco-Do-Brasil-S-A |
@@ -96,8 +119,6 @@ guideline_count: 1
 | Instagram Username | bancodobrasil |
 | Industry | economics of banking, financial services, financial sector |
 | Iso 9362 Swift/Bic Code | BRASBRRJXXX, BRASBRRJBSA, BRASBRRJBNU |
-| Employees | 111,628 (as of 2014-12-31) |
-| Total Assets | 68,810,000,000 United States dollar (as of 2014-12-31) |
 | Product Or Material Produced | bank |
 | Legal Entity Identifier | QE0Q0253K88YAGNPE356 |
 | Osm Name Suggestion Index Id | bancodobrasil-0ed44d, bancodobrasil-a02d2b |
@@ -124,3 +145,15 @@ guideline_count: 1
 | Rero Id (Legacy) | A002965536 |
 | Cinii Research Id | 1980867909749968943 |
 | Opencorporates Id | jp/2700150002327 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 111,628 | as of 2014-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $68.81B | as of 2014-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |

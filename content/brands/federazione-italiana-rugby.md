@@ -2,7 +2,7 @@
 title: Federazione Italiana Rugby
 slug: "federazione-italiana-rugby"
 description: ""
-date: "2026-03-05T22:38:39.476475"
+date: "2026-03-13T08:56:59.411254"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - rome
+subsidiaries: []
+foundation_dates:
+  - 1928
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
+  - "pantone-873"
   - white
   - "pantone-341"
-  - "pantone-873"
   - "pantone-186"
-  - "pantone-7621"
   - "pantone-871"
+  - "pantone-7621"
 typographies:
   - din
 imagery_styles:
-  - bold
   - photography
   - gradient
+  - bold
 wikidata_description: governing body of rugby union in Italy
+wikidata_url: "https://www.wikidata.org/wiki/Q138125"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q138125) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rome](/headquarters_locations/rome/) |
+| Foundation Date | [1928](/foundation_dates/1928/) |
 | Freebase Id | /m/0bs9f9 |
 | Sport | rugby union |
 | Headquarters Location | Rome |
@@ -124,7 +143,7 @@ guideline_count: 1
 | Viaf Cluster Id | 262140972 |
 | Gnd Id | 10017494-2 |
 | Member Of | Rugby Europe (from 1934-01-02), World Rugby (from 1987), Italian National Olympic Committee (from 1928) |
-| Email Address | mailto:stampa@federugby.it |
+| Email Address | stampa@federugby.it |
 | Phone Number | +39-06-4521-3187 |
 | Official Name | Federazione Italiana Rugby |
 | Youtube Channel Id | UCU3MgfKc-uBOz_Bj4SCha0A (as of 2020-12-09, from 2010-05-13) |

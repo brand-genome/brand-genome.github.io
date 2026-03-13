@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-03-05T22:38:39.796498"
+date: "2026-03-13T08:56:59.849937"
 draft: false
 sectors:
   - entertainment
@@ -20,6 +20,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+  - "16th-arrondissement-of-paris"
+  - london
+  - "chaillot-palace"
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,32 +52,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
+  - "pantone-195"
   - white
   - red
-  - "pantone-199"
-  - "pantone-195"
+  - brown
   - black
   - "pantone-201"
-  - brown
+  - "pantone-199"
 typographies:
   - gotham
   - serif
   - display
 imagery_styles:
-  - bold
-  - photography
   - contemporary
-  - gradient
   - static
+  - photography
+  - gradient
+  - bold
 wikidata_description: intergovernmental military alliance between 32 member states
+wikidata_url: "https://www.wikidata.org/wiki/Q7184"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -127,6 +143,12 @@ Ensure optimal font size in relation to chosen imagery for harmony.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7184) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/); [London](/headquarters_locations/london/); [Chaillot Palace](/headquarters_locations/chaillot-palace/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Motto Text | Animus in consulendo liber |
 | Official Language | English, French |
 | Flag Image | Flag of NATO.svg |
@@ -167,7 +189,6 @@ Ensure optimal font size in relation to chosen imagery for harmony.
 | New York Times Topic Id | organization/north-atlantic-treaty-organization |
 | Quora Topic Id | NATO |
 | Cultureel Woordenboek Id | internationale-politiek/navo |
-| Logo Image | NATO OTAN landscape logo.svg |
 | Le Monde Diplomatique Subject Id | sujet/otan |
 | Getty Thesaurus Of Geographic Names Id | 7029610 |
 | Stw Thesaurus For Economics Id | 17991-6 |

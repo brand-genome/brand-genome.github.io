@@ -2,27 +2,37 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-03-05T22:38:39.469470"
+date: "2026-03-13T08:56:59.406374"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - italy
 years:
-  - 2016
   - 2017
+  - 2016
 languages:
   - italian
 tags:
+  - city
   - regional
   - featured
-  - city
 industries: []
 countries:
   - italy
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,31 +51,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
   - secondary
+  - primary
+  - vertical
   - crest
   - horizontal
-  - vertical
 brand_colors:
   - white
   - red
   - gold
-  - black
-  - silver
   - green
+  - silver
+  - black
 typographies:
-  - bodoni
-  - times
   - frutiger
+  - times
+  - bodoni
 imagery_styles:
   - bold
   - monochrome
 wikidata_description: "photo archive in Milan, Italy"
+wikidata_url: "https://www.wikidata.org/wiki/Q21551956"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -151,6 +163,10 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21551956) |
+
+| Property | Value |
+|----------|-------|
 | Culturaitalia Id | oai:culturaitalia.it:museiditalia-mus_7576 |
 | Country | Italy |
 | Located In The Administrative Territorial Entity | Milan |
@@ -163,6 +179,12 @@ guideline_count: 2
 | Street Address | Piazza Castello, Snc, 20121 Milano |
 | Has Facility | archive building, photo archive, library, cloakroom |
 | Idref Id | 117054208 |
-| Employees | 5 (as of 2011), 5 (as of 2015) |
 | Wiki Loves Monuments Id | 03F2050496 (from 2024-05-24) |
 | ‎Yale Lux Id | group/ea5dd03a-88ce-4d2c-8402-e1cc7dc1a1da |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5 | as of 2011 | [UNDER-100](/employees_buckets/under-100/) |
+| 5 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |

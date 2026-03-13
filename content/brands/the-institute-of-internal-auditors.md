@@ -2,7 +2,7 @@
 title: The Institute of Internal Auditors
 slug: "the-institute-of-internal-auditors"
 description: ""
-date: "2026-03-05T22:38:39.765365"
+date: "2026-03-13T08:56:59.816491"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "lake-mary"
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,20 +52,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies:
   - serif
 imagery_styles:
-  - bold
   - modern
+  - bold
   - muted
 wikidata_description: professional association
+wikidata_url: "https://www.wikidata.org/wiki/Q1056306"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +103,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1056306) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lake Mary](/headquarters_locations/lake-mary/) |
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Freebase Id | /m/0cj5k4 |
 | Viaf Cluster Id | 134665349 |
 | National Library Of Spain Spmabn Id (Bne V1.0) | XX118937 |

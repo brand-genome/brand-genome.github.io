@@ -2,7 +2,7 @@
 title: Jetstar Airways
 slug: "jetstar-airways"
 description: ""
-date: "2026-03-05T22:38:39.751875"
+date: "2026-03-13T08:56:59.791306"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - melbourne
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,18 +51,20 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - orange
   - black
+  - orange
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - static
+  - bold
 wikidata_description: "Australian low-cost airline"
+wikidata_url: "https://www.wikidata.org/wiki/Q767627"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -172,6 +185,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q767627) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Melbourne](/headquarters_locations/melbourne/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | Australia |
 | Item Operated | Airbus A320 family, Airbus A320neo family, Airbus A321-200, Boeing 787 Dreamliner |
 | Airline Hub | Melbourne Airport, Brisbane Airport, Gold Coast Airport, Cairns Airport |
@@ -187,7 +206,6 @@ guideline_count: 1
 | Inception | 2003 |
 | Australian Business Number | 33069720243 |
 | Quora Topic Id | Jetstar-Airways |
-| Logo Image | Jetstar logo.svg |
 | Chief Executive Officer | Alan Joyce (from 2003-10, until 2008-11) |
 | Commons Gallery | Jetstar Airways |
 | Reward Program | Qantas Airways |

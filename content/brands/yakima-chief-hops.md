@@ -2,7 +2,7 @@
 title: Yakima Chief Hops
 slug: "yakima-chief-hops"
 description: ""
-date: "2026-03-05T22:38:39.566699"
+date: "2026-03-13T08:56:59.493626"
 draft: false
 sectors:
   - food
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2021
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,19 +54,21 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-1795"
   - blue
   - "pantone-7463"
   - "pantone-9202"
+  - "pantone-1795"
 typographies: []
 imagery_styles:
   - photography
   - product
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q131995947"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131995947) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2021](/foundation_dates/2021/) |
 | Siren Number | 892066416 |
 | Industry |  |
 | Country | France |

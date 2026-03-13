@@ -2,7 +2,7 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-03-05T22:38:39.338302"
+date: "2026-03-13T08:56:59.292905"
 draft: false
 sectors:
   - food
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "ice-cream"
+  - pie
+products: []
+headquarters_locations:
+  - canton
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,9 +56,9 @@ logo_elements:
   - symbol
 brand_colors:
   - white
-  - blue
   - magenta
   - black
+  - blue
 typographies:
   - helvetica
   - display
@@ -54,10 +67,12 @@ imagery_styles:
   - natural
   - lifestyle
 wikidata_description: US international ice cream parlor chain
+wikidata_url: "https://www.wikidata.org/wiki/Q584601"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,12 +115,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q584601) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Ice Cream](/products_or_materials_produced/ice-cream/); [Pie](/products_or_materials_produced/pie/) |
+| Headquarters Location | [Canton](/headquarters_locations/canton/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Founded By | Burt Baskin, Irv Robbins |
 | Freebase Id | /m/01_k56 |
 | Inception | 1945 |
 | Headquarters Location | Canton |
 | Industry | ice cream manufacturer |
-| Logo Image | Baskin-Robbins logo 2022.svg |
 | Parent Organization Or Unit | Inspire Brands |
 | Owned By | Inspire Brands |
 | Quora Topic Id | Baskin-Robbins-1 |

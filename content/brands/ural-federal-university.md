@@ -2,11 +2,11 @@
 title: Ural Federal University
 slug: "ural-federal-university"
 description: ""
-date: "2026-03-05T22:38:39.283110"
+date: "2026-03-13T08:56:59.225134"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - russia
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1920
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university
+wikidata_url: "https://www.wikidata.org/wiki/Q1506552"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +80,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1506552) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1920](/foundation_dates/1920/) |
 | Country | Russia, Soviet Union |
 | Coordinate Location | 56.844053, 60.654283 |
 | Freebase Id | /m/0gw_pqp |
@@ -80,7 +98,6 @@ guideline_count: 1
 | Official Name | Уральский федеральный университет имени первого Президента России Б. Н. Ельцина (from 2010) |
 | Great Russian Encyclopedia Online Id (2017) | 4700653 |
 | Count Of Students | 57,000 |
-| Logo Image | Ural Federal University (eng).jpg |
 | Category For Alumni Of Educational Institution |  |
 | Grid Id | grid.412761.7 |
 | Affiliation | University of the Arctic |
@@ -92,7 +109,6 @@ guideline_count: 1
 | Image | Ural State Technical University (August 2022) - 1.jpg |
 | Location | Yekaterinburg |
 | Microsoft Academic Id (Discontinued) | 130823665 |
-| Employees | 5,640 |
 | Ringgold Id | 237828 |
 | Viaf Cluster Id | 233206071 |
 | Library Of Congress Authority Id | no2013035499 |
@@ -132,3 +148,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/c06231f9-521f-45ad-a934-ee62861dd718 |
 | Located On Street | Mir Street |
 | Catchphrase | Думай, делай, достигай! |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,640 | - | [1K-10K](/employees_buckets/1k-10k/) |

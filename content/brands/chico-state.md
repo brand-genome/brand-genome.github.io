@@ -2,7 +2,7 @@
 title: Chico State
 slug: "chico-state"
 description: ""
-date: "2026-03-05T22:38:39.315207"
+date: "2026-03-13T08:56:59.259709"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - chico
+subsidiaries: []
+foundation_dates:
+  - 1887
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,23 +54,25 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - impact
-  - serif
-  - "sans-serif"
-  - verdana
   - gotham
+  - verdana
+  - serif
   - georgia
+  - impact
+  - "sans-serif"
 imagery_styles:
-  - bold
-  - photography
   - dynamic
-  - geometric
   - professional
+  - photography
+  - bold
+  - geometric
 wikidata_description: "university in California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1026912"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1026912) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chico](/headquarters_locations/chico/) |
+| Foundation Date | [1887](/foundation_dates/1887/) |
 | Coordinate Location | 39.73, -121.8475 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Chico |
@@ -130,7 +150,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:California State University, Chico alumni |
 | Grid Id | grid.253555.1 |
 | Affiliation | California State University |
-| Logo Image | CSU, Chico logo.svg |
 | Microsoft Academic Id (Discontinued) | 36053171 |
 | Street Address | First and Normal Sts, Chico, CA, 95929-0150 |
 | Library Of Congress Authority Id | n80050754 |
@@ -144,7 +163,6 @@ guideline_count: 1
 | Social Media Followers | 21,793 (as of 2021-01-05), 21,571 (as of 2020-04-19), 21,857 (as of 2022-02-25), 21,697 (as of 2023-02-10) |
 | Crunchbase Organization Id | california-state-university-chico |
 | Count Of Students | 16,746 (as of 2020-09), 14,119 (as of 2021-09-01) |
-| Employees | 1,913 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I36053171 |
@@ -173,3 +191,9 @@ guideline_count: 1
 | Gnd Id | 1039955-0 |
 | Libraries Australia Id | 36564611 |
 | Rero Id (Legacy) | A005466019 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,913 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

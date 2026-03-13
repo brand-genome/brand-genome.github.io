@@ -2,11 +2,11 @@
 title: UN Women
 slug: "un-women"
 description: ""
-date: "2026-03-05T22:38:39.517517"
+date: "2026-03-13T08:56:59.444977"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -19,9 +19,19 @@ industries: []
 countries:
   - netherlands
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "the-hague"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: nonprofit organisation from the Netherlands
+wikidata_url: "https://www.wikidata.org/wiki/Q137271180"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +125,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q137271180) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [The Hague](/headquarters_locations/the-hague/) |
 | Kvk Company Id | 66624525 |
 | Country | Netherlands |
 | Headquarters Location | The Hague |
@@ -120,9 +137,11 @@ guideline_count: 1
 
 ### Revenue History
 
-- $389.89K (389,888 euro (as of 2024))
-- $152.58K (152,576 euro (as of 2023))
-- $149.01K (149,010 euro (as of 2022))
-- $161.44K (161,440 euro (as of 2021))
-- $75.69K (75,689 euro (as of 2020))
-- $64.65K (64,649 euro (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $389.89K | as of 2024 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $152.58K | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $149.01K | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $161.44K | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $75.69K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $64.65K | as of 2019 | [UNDER-1M](/revenue_buckets/under-1m/) |

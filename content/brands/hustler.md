@@ -2,7 +2,7 @@
 title: Hustler
 slug: hustler
 description: ""
-date: "2026-03-05T22:38:39.718973"
+date: "2026-03-13T08:56:59.737510"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "pornographic-film"
+products: []
+headquarters_locations:
+  - "united-states"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,17 +51,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American pornographic film studio
+wikidata_url: "https://www.wikidata.org/wiki/Q5950024"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +107,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5950024) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Pornographic Film](/products_or_materials_produced/pornographic-film/) |
+| Headquarters Location | [United States](/headquarters_locations/united-states/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Founded By | Larry Flynt |
 | Inception | 1998 |
 | Headquarters Location | United States |

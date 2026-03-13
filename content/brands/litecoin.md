@@ -2,11 +2,11 @@
 title: Litecoin
 slug: litecoin
 description: ""
-date: "2026-03-05T22:38:39.606653"
+date: "2026-03-13T08:56:59.551276"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - ngo
+  - "blockchain-crypto"
 regions:
   - singapore
 years:
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - financial
   - internet
+  - financial
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,22 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - stacked
   - primary
   - secondary
-  - stacked
+  - icon
 brand_colors:
   - white
-  - blue
   - silver
+  - blue
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: cryptocurrency
+wikidata_url: "https://www.wikidata.org/wiki/Q4043030"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,11 +114,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4043030) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Based On |  |
 | Freebase Id | /m/0t544l4 |
 | Copyright License | MIT License |
 | Programmed In |  |
-| Logo Image | Official Litecoin Logo With Text.png, Litecoin Logo.jpg, LTC-400.png |
 | Image | Litecoin Client Overview Tab.jpg |
 | Inception | 2011-10-07 |
 | Source Code Repository Url | https://github.com/litecoin-project/litecoin |

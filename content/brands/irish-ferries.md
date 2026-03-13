@@ -2,11 +2,11 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-03-05T22:38:39.510128"
+date: "2026-03-13T08:56:59.434810"
 draft: false
 sectors:
-  - "maritime-shipping"
   - tourism
+  - "maritime-shipping"
 regions:
   - ireland
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dublin
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +57,16 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
+  - bold
 wikidata_description: "Irish ferry company, division of the Irish Continental Group"
+wikidata_url: "https://www.wikidata.org/wiki/Q997355"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,7 +117,12 @@ Green tab panel opacity: Recommended minimum opacity is 65%.
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Irishferrieslogo.gif |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q997355) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Viaf Cluster Id | 315945038 |
 | Headquarters Location | Dublin |
 | Inception | 1973-01-01 |

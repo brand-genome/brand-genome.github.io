@@ -2,7 +2,7 @@
 title: Valmont
 slug: valmont
 description: ""
-date: "2026-03-05T22:38:39.302179"
+date: "2026-03-13T08:56:59.243932"
 draft: false
 sectors:
   - construction
@@ -21,11 +21,24 @@ industries:
 countries:
   - "czech-republic"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "10m-100m"
+  - "10M-100M"
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets: []
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets:
+  - "100M-500M"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - brno
+subsidiaries: []
+foundation_dates:
+  - 2016
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +66,12 @@ imagery_styles:
   - photography
   - professional
 wikidata_description: Czech company
+wikidata_url: "https://www.wikidata.org/wiki/Q110254058"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,14 +120,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q110254058) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Brno](/headquarters_locations/brno/) |
+| Foundation Date | [2016](/foundation_dates/2016/) |
 | Czech Registration Id (Ičo) | 05340977 |
 | Headquarters Location | Brno |
 | Legal Form | společnost s ručením omezeným |
 | Country | Czech Republic |
 | Inception | 2016-08-25 |
 | Official Name | VALMONT CR, spol. s r.o. (from 2018-02-28), PRESS-TABAK s.r.o. (from 2016-08-25, until 2018-02-28) |
-| Total Assets | 657,898,000 Czech koruna (as of 2020-12-31) |
-| Total Equity | 313,812,000 Czech koruna (as of 2020-12-31) |
 | Follows | VALMONT CR, spol. s r.o. (as of 2018) |
 | Owned By | PressMedia (from 2021) |
 | Isds Id | 67x2aw4 |
@@ -128,12 +147,30 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.23B (2,232,169,000 Czech koruna (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.23B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $56.04M (56,037,000 Czech koruna (as of 2020))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $56.04M | as of 2020 | [10M-100M](/operating_income_buckets/10m-100m/) |
 
 ### Net Profit History
 
-- $26.04M (26,040,000 Czech koruna (as of 2020))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $26.04M | as of 2020 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $657.90M | as of 2020-12-31 | [500M-1B](/total_assets_buckets/500m-1b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $313.81M | as of 2020-12-31 | [100M-500M](/total_equity_buckets/100m-500m/) |

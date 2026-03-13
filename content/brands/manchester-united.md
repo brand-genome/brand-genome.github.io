@@ -2,7 +2,7 @@
 title: Manchester United
 slug: "manchester-united"
 description: ""
-date: "2026-03-05T22:38:39.286401"
+date: "2026-03-13T08:56:59.228742"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - manchester
+subsidiaries: []
+foundation_dates:
+  - 1878
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,9 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
   - crest
 brand_colors:
   - white
@@ -50,16 +61,18 @@ typographies:
   - akzidenz
   - arial
 imagery_styles:
-  - bold
+  - portrait
+  - landscape
   - photography
   - graphic
-  - landscape
-  - portrait
+  - bold
 wikidata_description: "association football club in Manchester, England"
+wikidata_url: "https://www.wikidata.org/wiki/Q18656"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18656) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Manchester](/headquarters_locations/manchester/) |
+| Foundation Date | [1878](/foundation_dates/1878/) |
 | Image | Manchester United v Tottenham Hotspur, 12 March 2022 (05).jpg |
 | League Or Competition | Premier League (from 1975) |
 | Head Coach | José Mourinho (from 2016-05-27, until 2018-12-18), David Moyes (from 2013-07-01, until 2014-04-22), Ole Gunnar Solskjær (from 2018-12-19, until 2021-11-21), Alex Ferguson (from 1986-11-06, until 2013-06-30), Louis van Gaal (from 2014-07-01, until 2016-05-23) (+7 more) |

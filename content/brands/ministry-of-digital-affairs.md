@@ -2,7 +2,7 @@
 title: Ministry of Digital Affairs
 slug: "ministry-of-digital-affairs"
 description: ""
-date: "2026-03-05T22:38:39.302060"
+date: "2026-03-13T08:56:59.243787"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "pesel-number"
+products: []
+headquarters_locations:
+  - warsaw
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,17 +52,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - "pantone-101"
   - white
   - "pantone-430"
-  - "pantone-101"
 typographies:
   - poppins
 imagery_styles: []
 wikidata_description: "Polish ministry (2015-2020, 2023-)"
+wikidata_url: "https://www.wikidata.org/wiki/Q21779174"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,10 +104,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21779174) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Pesel Number](/products_or_materials_produced/pesel-number/) |
+| Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Country | Poland |
 | Inception | 2015-12-08 |
 | Viaf Cluster Id | 87146936699013781348 |
-| Logo Image | Logo Ministerstwa Cyfryzacji.svg |
 | Image | Ministerstwo Cyfryzacji 2015.jpg |
 | Replaces | Ministry of Administration and Digitization (Poland) |
 | Headquarters Location | Warsaw |

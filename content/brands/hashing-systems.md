@@ -2,7 +2,7 @@
 title: Hashing Systems
 slug: "hashing-systems"
 description: ""
-date: "2026-03-05T22:38:39.602005"
+date: "2026-03-13T08:56:59.544960"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,46 +47,48 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
-  - wordmark
   - favicon
-  - stacked
   - logomark
+  - secondary
+  - primary
+  - stacked
+  - wordmark
 brand_colors:
   - white
-  - "pantone-1788"
-  - orange
-  - navy
-  - gray
-  - "pantone-717"
-  - "pantone-7481"
-  - "pantone-426"
-  - "pantone-2995"
   - red
-  - "pantone-151"
-  - turquoise
-  - "pantone-152"
-  - "pantone-3265"
-  - black
+  - "pantone-2765"
   - blue
   - "pantone-289"
-  - "pantone-2765"
-  - green
+  - "pantone-2995"
   - purple
+  - turquoise
+  - black
+  - "pantone-426"
+  - "pantone-717"
+  - orange
+  - gray
+  - "pantone-1788"
+  - "pantone-152"
+  - "pantone-3265"
+  - green
+  - "pantone-151"
+  - navy
+  - "pantone-7481"
 typographies:
-  - poppins
   - verdana
+  - poppins
   - "sans-serif"
 imagery_styles:
-  - contemporary
   - clean
+  - contemporary
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

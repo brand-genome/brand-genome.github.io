@@ -2,7 +2,7 @@
 title: Universidad de Salamanca
 slug: "universidad-de-salamanca"
 description: ""
-date: "2026-03-05T22:38:39.339019"
+date: "2026-03-13T08:56:59.294136"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - salamanca
+subsidiaries: []
+foundation_dates:
+  - 1218
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in Salamanca, Spain"
+wikidata_url: "https://www.wikidata.org/wiki/Q308963"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +111,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q308963) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Salamanca](/headquarters_locations/salamanca/) |
+| Foundation Date | [1218](/foundation_dates/1218/) |
 | Located In The Administrative Territorial Entity | Salamanca |
 | Member Of | Coimbra Group, Mediterranean Universities Union, European University Association, EC2U, Conference of Rectors of Spanish Universities (as of 2022-05) (+3 more) |
 | Topic'S Main Category | Category:University of Salamanca |
@@ -125,7 +144,6 @@ guideline_count: 1
 | Ringgold Id | 16779 |
 | Openmlol Author Id | 32270 |
 | Inception | 1218 |
-| Logo Image | Logotipo Universidad de Salamanca.svg |
 | Coat Of Arms Image | Universidad Salamanca.gif |
 | Libraries Australia Id | 36576234 |
 | Nacsis Cat Author Id | DA06072343 |

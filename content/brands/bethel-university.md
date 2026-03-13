@@ -2,7 +2,7 @@
 title: Bethel University
 slug: "bethel-university"
 description: ""
-date: "2026-03-05T22:38:39.785539"
+date: "2026-03-13T08:56:59.836888"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "1M-10M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1886
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Black college in Little Rock, Arkansas (1886–)"
+wikidata_url: "https://www.wikidata.org/wiki/Q7502148"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -74,6 +88,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7502148) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1886](/foundation_dates/1886/) |
 | Coordinate Location | 34.7593, -92.2605 |
 | Ringgold Id | 176562 |
 | Country | United States |
@@ -86,11 +105,21 @@ guideline_count: 1
 | Viaf Cluster Id | 153652862 |
 | Freebase Id | /m/02z43lb |
 | Count Of Students | 223 (as of 2020-09) |
-| Total Assets | 7,686,174 United States dollar (as of 2020-06-30) |
-| Employees | 99 (as of 2020-09) |
 | Integrated Postsecondary Education Data System Id | 107840 |
 | Academic Calendar Type | semester |
 | Sevis School Id | 4959076 |
 | Library Of Congress Authority Id | n84053036 |
 | Image | Shorter University, Argenta, Arkansas.jpg |
 | ‎Yale Lux Id | group/67ff8209-33eb-4809-888b-1fc344b81bfa |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 99 | as of 2020-09 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $7.69M | as of 2020-06-30 | [1M-10M](/total_assets_buckets/1m-10m/) |

@@ -2,7 +2,7 @@
 title: North Sails
 slug: "north-sails"
 description: ""
-date: "2026-03-05T22:38:39.378880"
+date: "2026-03-13T08:56:59.338630"
 draft: false
 sectors:
   - fashion
@@ -21,6 +21,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - milford
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
   - lockup
-  - wordmark
   - stacked
+  - wordmark
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: international sailmaker company
+wikidata_url: "https://www.wikidata.org/wiki/Q3344162"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,10 +123,15 @@ True White:
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3344162) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Milford](/headquarters_locations/milford/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Founded By | Lowell North |
 | Headquarters Location | Milford |
 | Quora Topic Id | North-Sails |
-| Logo Image | NorthSails Logo 2024.svg |
 | Inception | 1957 |
 | Freebase Id | /m/0n5x6gk |
 | Osm Name Suggestion Index Id | northsails-3937bd |

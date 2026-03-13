@@ -2,11 +2,11 @@
 title: The Indian Express
 slug: "the-indian-express"
 description: ""
-date: "2026-03-05T22:38:39.529421"
+date: "2026-03-13T08:56:59.462472"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - india
 years:
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - media
+  - featured
 industries: []
 countries:
   - india
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mumbai
+subsidiaries: []
+foundation_dates:
+  - 1931
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,22 +57,24 @@ brand_colors:
   - white
   - red
   - grey
-  - black
   - blue
   - beige
+  - black
 typographies:
   - roboto
   - serif
 imagery_styles:
-  - bold
-  - modern
   - photography
   - natural
+  - modern
+  - bold
 wikidata_description: daily broadsheet newspaper in India
+wikidata_url: "https://www.wikidata.org/wiki/Q1954843"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1954843) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mumbai](/headquarters_locations/mumbai/) |
+| Foundation Date | [1931](/foundation_dates/1931/) |
 | Freebase Id | /m/024l8l |
 | Oclc Number | 70274541 |
 | Title | The Indian Express |
@@ -130,7 +149,6 @@ guideline_count: 1
 | Dailymotion Channel Id | indianexpress |
 | Youtube Channel Id | UCJEDFSxHHOW1PpBccdSxOTA (as of 2021-06-13, from 2011-09-30) |
 | Media Bias/Fact Check Id | the-indian-express (as of 2024-02-02) |
-| Logo Image | The Indian Express logo.svg |
 | Crunchbase Organization Id | indian-express-newspapers |
 | Encyclopedia Of China (Third Edition) Id | 106870 |
 | Country | India |

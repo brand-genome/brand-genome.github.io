@@ -2,7 +2,7 @@
 title: TEDx
 slug: tedx
 description: ""
-date: "2026-03-05T22:38:39.679612"
+date: "2026-03-13T08:56:59.597469"
 draft: false
 sectors:
   - "arts-culture"
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,19 +51,21 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
   - "pantone-485"
+  - black
 typographies:
-  - arial
-  - times
   - helvetica
+  - times
+  - arial
 imagery_styles:
   - professional
 wikidata_description: "TEDx event series, in Santa Cruz"
+wikidata_url: "https://www.wikidata.org/wiki/Q22909293"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,8 +121,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22909293) |
+
+| Property | Value |
+|----------|-------|
 | Subclass Of | TEDx conference |
 | Location | Santa Cruz |
 | Owned By | Sapling Foundation |
-| Logo Image | Ted-x-Santa-cruz-logo.png |
 | Google Knowledge Graph Id | /g/11bxfh4lgg |

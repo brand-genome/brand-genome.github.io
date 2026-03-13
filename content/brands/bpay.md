@@ -2,7 +2,7 @@
 title: Bpay
 slug: bpay
 description: ""
-date: "2026-03-05T22:38:39.788012"
+date: "2026-03-13T08:56:59.838324"
 draft: false
 sectors:
   - finance
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - financial
   - technology
+  - financial
 industries:
   - "financial-services"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - australia
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,17 +52,19 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles:
-  - landscape
   - portrait
+  - landscape
 wikidata_description: electronic bill payment system in Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q4836243"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,6 +102,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4836243) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Australia](/headquarters_locations/australia/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Headquarters Location | Australia |
 | Inception | 1997 |
 | Quora Topic Id | BPAY |

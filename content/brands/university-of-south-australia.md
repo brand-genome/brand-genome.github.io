@@ -2,7 +2,7 @@
 title: University of South Australia
 slug: "university-of-south-australia"
 description: ""
-date: "2026-03-05T22:38:39.605861"
+date: "2026-03-13T08:56:59.550208"
 draft: false
 sectors:
   - education
@@ -14,16 +14,29 @@ years:
 languages:
   - english
 tags:
+  - signage
   - education
   - university
-  - signage
 industries: []
 countries:
   - australia
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - adelaide
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: public university in South Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q15576"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +81,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15576) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Adelaide](/headquarters_locations/adelaide/) |
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Country | Australia |
 | Topic'S Main Category | Category:University of South Australia |
 | Freebase Id | /m/01xfdx |
@@ -117,16 +138,35 @@ guideline_count: 1
 | World Higher Education Database Id | IAU-020496 |
 | Zhihu Topic Id | 20014504 |
 | Australian Business Number | 37191313308 |
-| Total Assets | 2,054,113,000 Australian dollar (as of 2023), 2,016,561,000 Australian dollar (as of 2022), 1,969,897,000 Australian dollar (as of 2021), 1,923,377,000 Australian dollar (as of 2020), 1,917,780,000 Australian dollar (as of 2019) |
 | Number Of Volunteers | 1,000 (as of 2023) |
 | Donations | 2,035,000 Australian dollar (as of 2023), 2,005,000 Australian dollar (as of 2022), 1,679,000 Australian dollar (as of 2021), 1,037,000 Australian dollar (as of 2020), 4,013,000 Australian dollar (as of 2019) |
-| Employees | 2,910 (as of 2023), 2,816 (as of 2021), 2,890 (as of 2020), 2,940 (as of 2019) |
 | Threads Username | universitysa |
 
 ### Revenue History
 
-- $713.60M (713,600,000 Australian dollar (as of 2023))
-- $667.42M (667,423,000 Australian dollar (as of 2022))
-- $677.33M (677,331,000 Australian dollar (as of 2021))
-- $696.05M (696,051,000 Australian dollar (as of 2020))
-- $684.68M (684,676,000 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $713.60M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $667.42M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $677.33M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $696.05M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $684.68M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,910 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,816 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,890 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,940 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.05B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.02B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.97B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.92B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.92B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |

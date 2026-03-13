@@ -2,7 +2,7 @@
 title: Unicef USA
 slug: "unicef-usa"
 description: ""
-date: "2026-03-05T22:38:39.762184"
+date: "2026-03-13T08:56:59.811080"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,17 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies:
   - impact
 imagery_styles: []
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q54557197"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +120,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54557197) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Charity Navigator Id (Obsolete) | 4617 |
 | Country | United States |
 | Parent Organization Or Unit | UNICEF |
@@ -120,7 +138,6 @@ guideline_count: 1
 | Donations | 626,144,704 United States dollar (as of 2020), 1,059,261,676 United States dollar (as of 2022), 507,732,515 United States dollar (as of 2021), 824,276,437 United States dollar (as of 2023), 208,510,041 United States dollar (as of 2012) (+8 more) |
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | New York City |
-| Total Assets | 445,451,590 United States dollar (as of 2022), 313,758,367 United States dollar (as of 2021), 295,994,448 United States dollar (as of 2023), 143,789,814 United States dollar (as of 2012), 157,177,108 United States dollar (as of 2013) (+8 more) |
 | Bluesky Handle | unicefusa.org |
 | Facebook Username | UNICEF-USA |
 | Domain Name | unicefusa.org |
@@ -129,16 +146,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $510.77M (510,774,354 United States dollar (as of 2017-01-01))
-- $538.52M (538,517,959 United States dollar (as of 2019))
-- $567.06M (567,056,368 United States dollar (as of 2018))
-- $1.06B (1,061,946,827 United States dollar (as of 2022))
-- $510.72M (510,721,032 United States dollar (as of 2021))
-- $829.05M (829,050,932 United States dollar (as of 2023))
-- $211.54M (211,543,386 United States dollar (as of 2012))
-- $310.90M (310,900,028 United States dollar (as of 2013))
-- $475.59M (475,591,950 United States dollar (as of 2014))
-- $500.12M (500,119,774 United States dollar (as of 2015))
-- $553.25M (553,250,245 United States dollar (as of 2016))
-- $573.87M (573,865,026 United States dollar (as of 2020))
-- $720.40M (720,404,955 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $510.77M | as of 2017-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $538.52M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $567.06M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.06B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $510.72M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $829.05M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $211.54M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $310.90M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $475.59M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $500.12M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $553.25M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $573.87M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $720.40M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $445.45M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $313.76M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $295.99M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $143.79M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $157.18M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $258.13M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $236.81M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $216.63M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $231.12M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $247.21M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $406.76M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $394.70M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $275.19M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

@@ -2,11 +2,11 @@
 title: Intel
 slug: intel
 description: ""
-date: "2026-03-05T22:38:39.521920"
+date: "2026-03-13T08:56:59.457169"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -14,19 +14,34 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - technology
+  - vintage
 industries:
-  - "semiconductor-industry"
   - "electrical-industry"
+  - "semiconductor-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "50B-100B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "santa-clara"
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +64,18 @@ logo_elements:
   - symbol
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: American multinational technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q248"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q248) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Library Of Congress Authority Id | n78020122 |
 | Viaf Cluster Id | 154747966 |
 | Isni | 0000000412177655 |
@@ -134,8 +157,6 @@ guideline_count: 1
 | Legal Entity Identifier | KNX4USFCNGPY45LOCE31 |
 | Great Russian Encyclopedia Online Id (2017) | 2013904 |
 | Quora Topic Id | Intel-company, Integrated-Electronics |
-| Total Assets | 103,065,000,000 United States dollar (as of 2015-12-26), 113,327,000,000 United States dollar (as of 2016-12-31), 136,524,000,000 United States dollar (as of 2019), 153,091,000,000 United States dollar (as of 2020), 168,406,000,000 United States dollar (as of 2021) |
-| Employees | 107,300 (as of 2014), 106,000 (as of 2016-12-31), 110,800 (as of 2019), 110,600 (as of 2020), 121,100 (as of 2021) |
 | British Museum Person Or Institution Id | 205579 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.343, 2.16.840.1.113741, 1.3.68, 1.2.840.113741 |
 | Justia Patents Company Id | intel |
@@ -189,8 +210,6 @@ guideline_count: 1
 | Central Index Key | 0000050863 |
 | Osm Name Suggestion Index Id | intelcorporation-416623, intelcorporation-994ed4 |
 | Ringgold Id | 7198 |
-| Total Equity | 77,504,000,000 United States dollar (as of 2019), 81,038,000,000 United States dollar (as of 2020), 95,391,000,000 United States dollar (as of 2021) |
-| Market Capitalization | 200,000,000,000 Canadian dollar (as of 2019-07-28), 223,140,000,000 United States dollar (as of 2021-06-24), 194,360,000,000 United States dollar (as of 2022-01-31), 183,400,000,000 United States dollar (as of 2022-02-18) |
 | Proleksis Enciklopedija Id | 28109 |
 | Hrvatska Enciklopedija Id | 27593 |
 | De Agostini Id | INTEL |
@@ -214,7 +233,6 @@ guideline_count: 1
 | Fandom Article Id | apple:Intel, computer:Intel |
 | Canadiana Name Authority Id | ncf12086065 |
 | National Library Of Poland Mms Id | 9812358946705606 |
-| Logo Image | Intel logo (1968-2006).svg (from 1968, until 2006), Intel logo (2006-2020).svg (from 2006, until 2020), Intel logo (2020, dark blue).svg (from 2020), Intel logo (2020, light blue).svg (from 2020), Intel logo 2023.svg (from 2020) |
 | Press Information Url | https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html#gs.ncnr5v |
 | Internet Content Provider Registration Record Id | 沪ICP备18006294号-1, 京ICP备14036123号-1 |
 | Wechat Id | intelbizweixin |
@@ -295,66 +313,109 @@ guideline_count: 1
 
 ### Revenue History
 
-- $55.35B (55,355,000,000 United States dollar (as of 2015))
-- $59.40B (59,400,000,000 United States dollar (as of 2016))
-- $71.97B (71,965,000,000 United States dollar (as of 2019))
-- $77.87B (77,867,000,000 United States dollar (as of 2020))
-- $79.02B (79,024,000,000 United States dollar (as of 2021))
-- $38.33B (38,334,000,000 United States dollar (as of 2007))
-- $37.59B (37,586,000,000 United States dollar (as of 2008))
-- $35.13B (35,127,000,000 United States dollar (as of 2009))
-- $43.62B (43,623,000,000 United States dollar (as of 2010))
-- $54.00B (53,999,000,000 United States dollar (as of 2011))
-- $53.34B (53,341,000,000 United States dollar (as of 2012))
-- $52.71B (52,708,000,000 United States dollar (as of 2013))
-- $55.87B (55,870,000,000 United States dollar (as of 2014))
-- $62.76B (62,761,000,000 United States dollar (as of 2017))
-- $70.85B (70,848,000,000 United States dollar (as of 2018))
-- $63.05B (63,054,000,000 United States dollar (as of 2022))
-- $54.23B (54,228,000,000 United States dollar (as of 2023))
-- $53.10B (53,101,000,000 United States dollar (as of 2024))
-- $52.85B (52,853,000,000 United States dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $55.35B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $59.40B | as of 2016 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $71.97B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $77.87B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $79.02B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $38.33B | as of 2007 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.59B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.13B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.62B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $54.00B | as of 2011 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $53.34B | as of 2012 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $52.71B | as of 2013 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $55.87B | as of 2014 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $62.76B | as of 2017 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $70.85B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $63.05B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $54.23B | as of 2023 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $53.10B | as of 2024 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $52.85B | as of 2025 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $14.00B (14,002,000,000 United States dollar (as of 2015))
-- $12.78B (12,784,000,000 United States dollar (as of 2016))
-- $22.04B (22,035,000,000 United States dollar (as of 2019))
-- $23.68B (23,678,000,000 United States dollar (as of 2020))
-- $19.46B (19,456,000,000 United States dollar (as of 2021))
-- $8.22B (8,216,000,000 United States dollar (as of 2007))
-- $8.95B (8,954,000,000 United States dollar (as of 2008))
-- $5.71B (5,711,000,000 United States dollar (as of 2009))
-- $15.59B (15,588,000,000 United States dollar (as of 2010))
-- $17.48B (17,477,000,000 United States dollar (as of 2011))
-- $14.64B (14,638,000,000 United States dollar (as of 2012))
-- $12.29B (12,291,000,000 United States dollar (as of 2013))
-- $15.35B (15,347,000,000 United States dollar (as of 2014))
-- $18.05B (18,050,000,000 United States dollar (as of 2017))
-- $23.32B (23,316,000,000 United States dollar (as of 2018))
-- $2.33B (2,334,000,000 United States dollar (as of 2022))
-- $93.00M (93,000,000 United States dollar (as of 2023))
-- $11.68B (-11,678,000,000 United States dollar (as of 2024))
-- $2.21B (-2,214,000,000 United States dollar (as of 2025))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $14.00B | as of 2015 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $12.78B | as of 2016 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $22.04B | as of 2019 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $23.68B | as of 2020 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $19.46B | as of 2021 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $8.22B | as of 2007 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.95B | as of 2008 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.71B | as of 2009 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $15.59B | as of 2010 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $17.48B | as of 2011 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $14.64B | as of 2012 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $12.29B | as of 2013 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $15.35B | as of 2014 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $18.05B | as of 2017 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $23.32B | as of 2018 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $2.33B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $93.00M | as of 2023 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $11.68B | as of 2024 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $2.21B | as of 2025 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $11.42B (11,420,000,000 United States dollar (as of 2015))
-- $10.32B (10,316,000,000 United States dollar (as of 2016))
-- $21.05B (21,048,000,000 United States dollar (as of 2019))
-- $20.90B (20,899,000,000 United States dollar (as of 2020))
-- $19.87B (19,868,000,000 United States dollar (as of 2021))
-- $6.98B (6,976,000,000 United States dollar (as of 2007))
-- $5.29B (5,292,000,000 United States dollar (as of 2008))
-- $4.37B (4,369,000,000 United States dollar (as of 2009))
-- $11.46B (11,464,000,000 United States dollar (as of 2010))
-- $12.94B (12,942,000,000 United States dollar (as of 2011))
-- $11.01B (11,005,000,000 United States dollar (as of 2012))
-- $9.62B (9,620,000,000 United States dollar (as of 2013))
-- $11.70B (11,704,000,000 United States dollar (as of 2014))
-- $9.60B (9,601,000,000 United States dollar (as of 2017))
-- $21.05B (21,053,000,000 United States dollar (as of 2018))
-- $8.01B (8,014,000,000 United States dollar (as of 2022))
-- $1.69B (1,689,000,000 United States dollar (as of 2023))
-- $18.76B (-18,756,000,000 United States dollar (as of 2024))
-- $267.00M (-267,000,000 United States dollar (as of 2025))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $11.42B | as of 2015 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $10.32B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $21.05B | as of 2019 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $20.90B | as of 2020 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $19.87B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $6.98B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.29B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.37B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.46B | as of 2010 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $12.94B | as of 2011 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $11.01B | as of 2012 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $9.62B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.70B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $9.60B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $21.05B | as of 2018 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $8.01B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.69B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $18.76B | as of 2024 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $267.00M | as of 2025 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 107,300 | as of 2014 | [100K-500K](/employees_buckets/100k-500k/) |
+| 106,000 | as of 2016-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 110,800 | as of 2019 | [100K-500K](/employees_buckets/100k-500k/) |
+| 110,600 | as of 2020 | [100K-500K](/employees_buckets/100k-500k/) |
+| 121,100 | as of 2021 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $103.06B | as of 2015-12-26 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $113.33B | as of 2016-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $136.52B | as of 2019 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $153.09B | as of 2020 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $168.41B | as of 2021 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $77.50B | as of 2019 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $81.04B | as of 2020 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $95.39B | as of 2021 | [50B-100B](/total_equity_buckets/50b-100b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $200.00B | as of 2019-07-28 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $223.14B | as of 2021-06-24 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $194.36B | as of 2022-01-31 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $183.40B | as of 2022-02-18 | [100B-500B](/market_cap_buckets/100b-500b/) |

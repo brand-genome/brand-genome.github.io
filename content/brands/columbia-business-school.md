@@ -2,7 +2,7 @@
 title: Columbia Business School
 slug: "columbia-business-school"
 description: ""
-date: "2026-03-05T22:38:39.321044"
+date: "2026-03-13T08:56:59.270623"
 draft: false
 sectors:
   - education
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1916
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,19 +51,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - secondary
-  - symbol
   - logomark
+  - symbol
 brand_colors: []
 typographies:
-  - impact
   - display
+  - impact
 imagery_styles:
   - photography
 wikidata_description: business school
+wikidata_url: "https://www.wikidata.org/wiki/Q907481"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -385,6 +397,11 @@ Dean, a new loc ation and a new website
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q907481) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1916](/foundation_dates/1916/) |
 | Coordinate Location | 40.80998, -73.96096 |
 | Located In The Administrative Territorial Entity | Manhattan |
 | Freebase Id | /m/095kp |

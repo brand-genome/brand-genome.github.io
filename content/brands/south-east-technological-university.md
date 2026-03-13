@@ -2,7 +2,7 @@
 title: South East Technological University
 slug: "south-east-technological-university"
 description: ""
-date: "2026-03-05T22:38:39.312568"
+date: "2026-03-13T08:56:59.254011"
 draft: false
 sectors:
   - education
@@ -14,16 +14,28 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
   - university
 industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +61,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: University in the south east of Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q55670387"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -131,6 +145,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55670387) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Country | Ireland |
 | Google Knowledge Graph Id | /g/11g1mj3f7z |
 | Coordinate Location | 52.246063, -7.138733 |
@@ -146,12 +165,25 @@ guideline_count: 1
 | Member Of | ORCID, Inc. (as of 2023-10), Coalition for Advancing Research Assessment, European University for Smart Urban Coastal Sustainability |
 | Irish Registered Charity Number (Rcn) | 20206428 |
 | Eu Participant Identification Code | 886107126 |
-| Total Assets | 302,402,000 euro (as of 2023), 332,312,000 euro (as of 2024) |
-| Employees | 442 (as of 2023), 1,551 (as of 2024) |
 | Youtube Handle | setuireland (as of 2025-11-24) |
-| Logo Image | South East Technological University logo.svg |
 
 ### Revenue History
 
-- $314.16M (314,157,000 euro (as of 2023))
-- $258.62M (258,623,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $314.16M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $258.62M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 442 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |
+| 1,551 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $302.40M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $332.31M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

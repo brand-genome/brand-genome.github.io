@@ -2,11 +2,11 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-03-05T22:38:39.544964"
+date: "2026-03-13T08:56:59.471349"
 draft: false
 sectors:
-  - healthcare
   - pharma
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "amoxicillinclavulanic-acid"
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1978
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,17 +55,19 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - blue
   - coral
+  - blue
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "UK-headquartered pharmaceutical company"
+wikidata_url: "https://www.wikidata.org/wiki/Q12179266"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +114,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12179266) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Amoxicillinclavulanic Acid](/products_or_materials_produced/amoxicillinclavulanic-acid/) |
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1978](/foundation_dates/1978/) |
 | Stock Exchange | London Stock Exchange (from 2005) |
 | Isin | GB00B0LCW083 |
 | Headquarters Location | London |
@@ -108,7 +129,6 @@ guideline_count: 1
 | Quora Topic Id | Hikma-Pharmaceuticals |
 | Grid Id | grid.497208.0 |
 | Isni | 0000000405515943 |
-| Logo Image | Hik Logo Primary Coral rgb.png |
 | Ror Id | 012pkqv60 |
 | Country | United Kingdom |
 | Location Of Formation | Jordan |

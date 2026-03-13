@@ -2,11 +2,11 @@
 title: IUCN
 slug: iucn
 description: ""
-date: "2026-03-05T22:38:39.636401"
+date: "2026-03-13T08:56:59.565352"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -21,11 +21,27 @@ industries:
 countries:
   - switzerland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets:
-  - "1m-10m"
+  - "1M-10M"
 net_profit_buckets:
-  - "1m-10m"
+  - "1M-10M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets:
+  - "10M-100M"
+market_cap_buckets: []
+products_or_materials_produced:
+  - "iucn-red-list"
+  - "iucn-red-list-of-ecosystems"
+products: []
+headquarters_locations:
+  - gland
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international organization
+wikidata_url: "https://www.wikidata.org/wiki/Q48268"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +93,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48268) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Iucn Red List](/products_or_materials_produced/iucn-red-list/); [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/) |
+| Headquarters Location | [Gland](/headquarters_locations/gland/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Image | IUCN-Headquarters.jpg |
 | Topic'S Main Category | Category:International Union for Conservation of Nature |
 | Freebase Id | /m/0ptqy |
@@ -92,7 +117,6 @@ guideline_count: 1
 | Inception | 1948-10-05 |
 | Openmlol Author Id | 167080 |
 | Main Wikidata Property | IUCN conservation status, IUCN protected areas category, IUCN taxon ID |
-| Logo Image | IUCN logo.svg |
 | Headquarters Location | Gland |
 | Archives At | International Institute of Social History, University of Toronto Archives & Records Management Services |
 | Cths Society Id | 100624 |
@@ -103,7 +127,6 @@ guideline_count: 1
 | Uk Parliament Thesaurus Id | 37829 |
 | Legal Form | association |
 | Industry | animal protection |
-| Employees | 1,089 (as of 2024) |
 | Owner Of | World Commission on Protected Areas |
 | Schematic | IUCN programme 2013-2016.jpg |
 | Located In The Administrative Territorial Entity | Canton of Vaud |
@@ -153,24 +176,46 @@ guideline_count: 1
 | Product Or Material Produced | IUCN Red List, IUCN Red List of Ecosystems |
 | Significant Person | Julian Huxley |
 | ‎Yale Lux Id | group/7087101a-686c-413b-8ef6-1d226cf2ffa2 |
-| Total Assets | 224,161,000 Swiss franc (as of 2024-12-31) |
 | Cash | 118,430,000 Swiss franc (as of 2024-12-31) |
-| Total Equity | 31,693,000 Swiss franc (as of 2024-12-31) |
 | Budget | 193,728,000 Swiss franc (as of 2024) |
 | Phone Number | +41-22-999-00-00 |
-| Email Address | mailto:press@iucn.org |
+| Email Address | press@iucn.org |
 | Instagram Username | iucn_congress |
 | Kisti Id | K000209559 |
 
 ### Revenue History
 
-- $148.00M (148,000,000 United States dollar (as of 2019))
-- $196.87M (196,873,000 Swiss franc (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $148.00M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $196.87M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
 
 ### Operating Income History
 
-- $3.15M (3,145,000 Swiss franc (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $3.15M | as of 2024 | [1M-10M](/operating_income_buckets/1m-10m/) |
 
 ### Net Profit History
 
-- $6.31M (6,313,000 Swiss franc (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $6.31M | as of 2024 | [1M-10M](/net_profit_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,089 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $224.16M | as of 2024-12-31 | [100M-500M](/total_assets_buckets/100m-500m/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $31.69M | as of 2024-12-31 | [10M-100M](/total_equity_buckets/10m-100m/) |

@@ -2,11 +2,11 @@
 title: SanDisk
 slug: sandisk
 description: ""
-date: "2026-03-05T22:38:39.810701"
+date: "2026-03-13T08:56:59.875205"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -22,6 +22,24 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "solid-state-drive"
+  - "computer-memory"
+  - "dynamic-random-access-memory"
+  - "memory-card"
+  - "usb-flash-drive"
+  - "sim-card"
+  - "portable-media-player"
+products: []
+headquarters_locations:
+  - milpitas
+subsidiaries: []
+foundation_dates:
+  - 1988
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American computer technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q260833"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,11 +85,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q260833) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Computer Memory](/products_or_materials_produced/computer-memory/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Memory Card](/products_or_materials_produced/memory-card/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/); [Sim Card](/products_or_materials_produced/sim-card/); [Portable Media Player](/products_or_materials_produced/portable-media-player/) |
+| Headquarters Location | [Milpitas](/headquarters_locations/milpitas/) |
+| Foundation Date | [1988](/foundation_dates/1988/) |
 | Stock Exchange | Nasdaq (from 2025-02-24) |
 | Headquarters Location | Milpitas |
 | Freebase Id | /m/039m_g |
 | Image | Former SanDisk Headquarters Milpitas.jpg |
-| Logo Image | SanDisk 2024 logo.svg (from 2024), SanDisk-Logo.svg (from 1995, until 2007), SanDisk Logo 2007.svg (from 2007, until 2024) |
 | Topic'S Main Category | Category:Sandisk |
 | Isin | US80004C1018 |
 | Inception | 1988-01-01 |

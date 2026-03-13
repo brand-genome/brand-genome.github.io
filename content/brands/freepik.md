@@ -2,7 +2,7 @@
 title: Freepik
 slug: freepik
 description: ""
-date: "2026-03-05T22:38:39.201409"
+date: "2026-03-13T08:56:59.138314"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries:
   - "stock-photography"
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - malaga
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "graphic design company with a platform for creating and editing audio-visual content"
+wikidata_url: "https://www.wikidata.org/wiki/Q104211654"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,12 +81,17 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q104211654) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Malaga](/headquarters_locations/malaga/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010 |
 | Industry | stock photography |
 | Headquarters Location | Málaga |
 | Country | Spain |
 | Item Operated | Freepik |
-| Logo Image | FREEPIK logo.svg |
 | Google Knowledge Graph Id | /g/11f2b2dy96 |
 | Domain Name | freepik.com |
 | Facebook Username | Freepik |

@@ -2,7 +2,7 @@
 title: Hv Renegades
 slug: "hv-renegades"
 description: ""
-date: "2026-03-05T22:38:40.033587"
+date: "2026-03-13T08:57:00.055488"
 draft: false
 sectors:
   - sports
@@ -16,209 +16,269 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings:
+  - natural
   - studio
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
-  - "centered-composition"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "rule-of-thirds"
-  - "low-angle-photo"
+  - "centered-composition"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - wood
-  - textured
-  - blurred
   - transparent
   - solid
-  - light
+  - wood
+  - textured
   - gradient
-  - bright
+  - blurred
   - dark
-color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - "complementary-colors"
   - light
-  - "sunset-colors"
-  - "analogous-colors"
-  - "pastel-colors"
+  - bright
+color_schemes:
+  - "complementary-colors"
+  - "two-tone"
   - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - grayscale
+  - light
   - bright
 photography_genres:
-  - landscape
-  - product
-  - selfie
-  - fashion
-  - sky
-  - group
-  - "still-life"
-  - architectural
-  - sports
-  - action
-  - "live-stage"
-  - portrait
   - beauty
-concepts:
-  - silhouette
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
-  - "incomplete-art"
+  - portrait
+  - action
+  - landscape
+  - selfie
+  - product
+  - sky
+  - fashion
+  - "still-life"
   - "live-stage"
+  - architectural
+  - group
+  - sports
+concepts:
+  - "text-heavy"
+  - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - silhouette
+  - "graphic-design"
+  - vintage
+  - "live-stage"
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "multiple-focal-points"
-  - silhouette
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
-image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
   - silhouette
-  - "high-contrast"
-  - "long-exposure"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+image_effects:
   - "short-exposure"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - olive
-  - orange
-  - "dark-green"
-  - black
-  - "dark-blue"
-  - "light-blue"
   - "royal-blue"
+  - "dark-blue"
+  - black
+  - orange
   - gray
+  - "dark-green"
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
+  - covered
+  - updo
+  - neat
+  - "pulled-back"
+  - beard
   - casual
   - flowing
-  - "pulled-back"
-  - neat
-  - wavy
   - loose
-  - ponytail
-  - braided
-  - mustache
   - short
-  - curly
-  - updo
-  - "tied-back"
   - varied
-  - covered
-  - beard
+  - ponytail
+  - "tied-back"
+  - mustache
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
-  - smiling
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
+  - smiling
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
-  - muted
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - active
-  - holding
-  - standing
   - running
-  - stretching
   - confident
+  - leaning
+  - active
+  - stretching
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
 gazes:
-  - engaged
-  - away
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
+  - "close-up"
+  - "upper-body"
   - "lower-half"
+  - "hand-only"
   - midsection
   - "full-back"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 92
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FaiV8__WYAEM8up?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUhE47QXwAAQBPe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DvBqY__X0AAmm1E?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYSkNsxWYAAxFoM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUqlqg8WUAA8-eN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCfT402WEAAuW-u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FbmuGaTX0AAlleJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FafZu7SXwAMw7wY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FX0P5MIUYAYxWKM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7olLuZWYAc_-48?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVeV0U1WQAEmH8D?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FciTujJWIAAwVTT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fcjo2IfXgAcy2xj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYx3wxLXkAALOQ9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FO3MQ0nXwAEH-zF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FoDzMMSWAAE3nQN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8C-qUIXoAgqj0l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E744cJmXMAAfFDu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPTkcZjXUAE26fQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZvFGY0XoAAD_C9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fbqcfx8XwAEhJtE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dh7iyvmV4AEydtv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUQ_c-gXwAIIHOe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FczaX21XoAENXiX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E7KppYzWEAY9EYJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FlEfKEoX0AA-sd2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOo6_E8WQBEyotF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dw9-YlQWoAEYewg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXexmyBXwAgCCEd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ExasEG7WQAY5Wj4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E6NLXZTXoAIDY7x?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FB7016gXsAooqd9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGvK0gxUcBAyDHF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ6ciDSXEAMMYbX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FYtpOZ3XgAA7ugW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWcBaa4XoAAHJIl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVdrMywWQAAI8gJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fadn7_rXkAQxTn1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXVMr8NWQAMM7mG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXu2TQoUUAIf8Bx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmsR3sSW0AAs6-8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Djxd9KcXoAAhw_J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dj9hqhkX0AA6z0W?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcLCiVcXgAA9mhj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0-sVjUWUAc6nbI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E1huASUXoAE8WCN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZhFTrPXwAAySt-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FbWB8Q-XkAMsOkg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fnp5cjYWIAE0v1k?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 92 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Dark Blue | 29.4% | 23.3% | 16.2% | 41.8% | 57.8% | ±18.3% | 67.4% |
-| Light Blue | 22.6% | 17.0% | 10.1% | 33.5% | 44.6% | ±17.9% | 39.1% |
-| Dark Green | 21.0% | 19.5% | 14.8% | 26.5% | 30.9% | ±7.0% | 16.3% |
-| Orange | 20.6% | 14.6% | 12.4% | 16.9% | 53.8% | ±16.0% | 12.0% |
-| Black | 20.5% | 15.2% | 9.5% | 26.9% | 35.3% | ±16.9% | 55.4% |
-| Gray | 20.2% | 14.1% | 10.3% | 29.0% | 41.4% | ±12.8% | 54.3% |
-| Olive | 15.2% | 11.5% | 9.6% | 19.3% | 25.8% | ±7.6% | 22.8% |
-| Royal Blue | 15.1% | 13.2% | 9.9% | 17.6% | 27.1% | ±6.7% | 40.2% |
+| Color | Mean |
+|-------|------|
+| Dark Blue | 29.4% |
+| Light Blue | 22.6% |
+| Dark Green | 21.0% |
+| Orange | 20.6% |
+| Black | 20.5% |
+| Gray | 20.2% |
+| Olive | 15.2% |
+| Royal Blue | 15.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 2.5% | 0.0% | 0.0% | 0.0% | ±8.7% |
-| Neutral | 50.4% | 48.4% | 20.4% | 78.7% | ±31.3% |
-| Cool | 47.0% | 49.8% | 20.8% | 77.9% | ±31.1% |
+| Tone | Mean |
+|------|------|
+| Warm | 2.5% |
+| Neutral | 50.4% |
+| Cool | 47.0% |
 
 ### Sample Images
 

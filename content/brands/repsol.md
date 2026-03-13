@@ -2,14 +2,14 @@
 title: Repsol
 slug: repsol
 description: ""
-date: "2026-03-05T22:38:39.277532"
+date: "2026-03-13T08:56:59.219606"
 draft: false
 sectors:
   - gas
   - "petrol-station"
+  - "renewable-energy"
   - oil
   - petroleum
-  - "renewable-energy"
 regions:
   - spain
 years:
@@ -17,16 +17,29 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - industry
+  - featured
 industries:
   - "petroleum-industry"
 countries:
   - spain
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - petroleum
+products: []
+headquarters_locations:
+  - "repsol-campus"
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish multinational energy and petrochemical company
+wikidata_url: "https://www.wikidata.org/wiki/Q174747"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -72,18 +87,23 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q174747) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/) |
+| Headquarters Location | [Repsol Campus](/headquarters_locations/repsol-campus/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Freebase Id | /m/03p31xx |
 | Headquarters Location | Repsol Campus |
 | Viaf Cluster Id | 147259558 |
 | Isin | ES0173516115 |
 | Inception | 1986 |
-| Employees | 24,289 (as of 2014), 27,111 (as of 2015), 25,288 (as of 2018), 25,288 (as of 2019), 24,125 (as of 2020) (+2 more) |
 | Legal Form | sociedad anónima |
 | Industry | petroleum industry |
 | Image | Repsol headquarters (Madrid) 03.jpg |
 | Quora Topic Id | Repsol-company |
 | Country | Spain |
-| Logo Image | Repsol 2025.svg (from 2025), Repsol logo.svg (from 2012, until 2025) |
 | Permid | 4296848861 |
 | Stock Exchange | Madrid Stock Exchange (from 1999-04-19) |
 | Child Organization Or Unit | Repsol Petróleo, Repsol Butano, Repsol Química, Repsol Exploración, Petronor |
@@ -132,4 +152,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $61.81B (61,810,000,000 United States dollar (as of 2024-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $61.81B | as of 2024-01-01 | [50B-100B](/revenue_buckets/50b-100b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 24,289 | as of 2014 | [10K-50K](/employees_buckets/10k-50k/) |
+| 27,111 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 25,288 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 25,288 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |
+| 24,125 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
+| 24,134 | as of 2021 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,810 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

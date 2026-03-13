@@ -2,7 +2,7 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-03-05T22:38:39.691452"
+date: "2026-03-13T08:56:59.619162"
 draft: false
 sectors:
   - food
@@ -16,13 +16,26 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "quick-service-restaurant-sector"
   - "fast-food"
+  - "quick-service-restaurant-sector"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "fast-food"
+  - "fried-chicken"
+products: []
+headquarters_locations:
+  - louisville
+subsidiaries: []
+foundation_dates:
+  - 1930
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American fast food restaurant chain specializing in fried chicken
+wikidata_url: "https://www.wikidata.org/wiki/Q524757"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +79,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q524757) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Fast Food](/products_or_materials_produced/fast-food/); [Fried Chicken](/products_or_materials_produced/fried-chicken/) |
+| Headquarters Location | [Louisville](/headquarters_locations/louisville/) |
+| Foundation Date | [1930](/foundation_dates/1930/) |
 | Topic'S Main Category | Category:KFC |
 | Freebase Id | /m/09b6t |
 | Viaf Cluster Id | 154723534 |
@@ -93,7 +115,6 @@ guideline_count: 1
 | Tiktok Username | kentuckyfriedchicken, kfc_cesko, kfc_hu, kfc_srbija, kfc.ukraine (+29 more) |
 | Fandom Article Id | logos:KFC |
 | National Library Of Israel J9U Id | 987007604730905171 |
-| Logo Image | Kfc textlogo.svg, KFC logo wordmark.svg |
 | Has Characteristic | KFC bucket |
 | Wikisimpsons Article Id | 1523 |
 | Indeed Company Id | KFC |

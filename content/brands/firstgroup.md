@@ -2,7 +2,7 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-03-05T22:38:39.722544"
+date: "2026-03-13T08:56:59.741724"
 draft: false
 sectors:
   - railroad
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - speyer
+subsidiaries: []
+foundation_dates:
+  - 1934
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: transport company in Germany
+wikidata_url: "https://www.wikidata.org/wiki/Q2657565"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,10 +114,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2657565) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Speyer](/headquarters_locations/speyer/) |
+| Foundation Date | [1934](/foundation_dates/1934/) |
 | Country | Germany |
 | Inception | 1934 |
 | Headquarters Location | Speyer |
 | Official Name | Arthur Merl, VerwaItungs-GmbH (until 2008-03-25), BRH ViaBus GmbH (from 2011-12-01), FirstGroup Rhein-Neckar GmbH (from 2008-03-25, until 2011-12-01) |
-| Logo Image | BRH Viabus logo.svg |
 | Member Of | Rhein-Main-Verkehrsverbund |
 | Google Knowledge Graph Id | /g/1hl3hj2gg |

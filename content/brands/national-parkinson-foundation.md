@@ -2,11 +2,11 @@
 title: National Parkinson Foundation
 slug: "national-parkinson-foundation"
 description: ""
-date: "2026-03-05T22:38:39.637157"
+date: "2026-03-13T08:56:59.566466"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - usa
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - miami
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +52,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
-  - blue
-  - orange
   - cyan
+  - orange
+  - blue
   - gray
 typographies:
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - bold
   - gradient
+  - bold
 wikidata_description: "organization aiming to improve quality of life for Parkinson's disease patients"
+wikidata_url: "https://www.wikidata.org/wiki/Q6974753"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6974753) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Miami](/headquarters_locations/miami/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Miami |
 | Isni | 0000000122362879 |
 | Country | United States |
@@ -110,7 +129,6 @@ guideline_count: 1
 | Grid Id | grid.453428.c |
 | Library Of Congress Authority Id | n86130874 |
 | Ror Id | 005aa3k38 |
-| Logo Image | Parkinson's Foundation logo.svg |
 | Viaf Cluster Id | 168429161 |
 | Google Knowledge Graph Id | /g/11gxfjt5mc |
 | Inception | 1957 |

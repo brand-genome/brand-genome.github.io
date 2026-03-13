@@ -2,7 +2,7 @@
 title: World Water Council
 slug: "world-water-council"
 description: ""
-date: "2026-03-05T22:38:39.649073"
+date: "2026-03-13T08:56:59.577847"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ regions:
   - france
   - international
 years:
-  - 2012
   - 2011
+  - 2012
 languages:
   - french
 tags:
@@ -21,6 +21,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,15 +51,17 @@ logo_elements: []
 brand_colors:
   - "pantone-640"
 typographies:
-  - "gill-sans"
   - helvetica
+  - "gill-sans"
 imagery_styles:
   - clean
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 

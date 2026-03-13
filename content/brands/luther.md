@@ -2,7 +2,7 @@
 title: Luther
 slug: luther
 description: ""
-date: "2026-03-05T22:38:39.236154"
+date: "2026-03-13T08:56:59.180383"
 draft: false
 sectors:
   - automobile
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1521
+  - 1517
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: form of Protestantism commonly associated with the teachings of Martin Luther
+wikidata_url: "https://www.wikidata.org/wiki/Q75809"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -60,6 +73,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q75809) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1521](/foundation_dates/1521/); [1517](/foundation_dates/1517/) |
 | Subclass Of | Protestantism |
 | Named After | Martin Luther |
 | Bncf Thesaurus Id | 18892 |

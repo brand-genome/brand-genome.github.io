@@ -2,7 +2,7 @@
 title: NFL
 slug: nfl
 description: ""
-date: "2026-03-05T22:38:39.812437"
+date: "2026-03-13T08:56:59.880104"
 draft: false
 sectors:
   - sports
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "345-park-avenue"
+subsidiaries: []
+foundation_dates:
+  - 1920
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: professional American football league
+wikidata_url: "https://www.wikidata.org/wiki/Q1215884"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +111,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1215884) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [345 Park Avenue](/headquarters_locations/345-park-avenue/) |
+| Foundation Date | [1920](/foundation_dates/1920/) |
 | Country | United States |
 | Topic'S Main Category | Category:National Football League |
 | Gnd Id | 1048975-7 |
@@ -160,7 +179,6 @@ guideline_count: 1
 | Roku Channel Store Id | b8741c391c59c1dda457073d3295b555 |
 | Yle Topic Id | 18-4472 |
 | Significant Event | AFL–NFL merger |
-| Logo Image | NFL wordmark logo 2008.svg (from 2008) |
 | Ifttt Service Id | the_nfl |
 | App Store Developer Id | 389781157 |
 | Spotify Artist Id | 1oj9F8x44ah5gxYecEj8ch |

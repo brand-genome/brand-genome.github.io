@@ -2,7 +2,7 @@
 title: Edinburgh Napier University
 slug: "edinburgh-napier-university"
 description: ""
-date: "2026-03-05T22:38:39.598550"
+date: "2026-03-13T08:56:59.540126"
 draft: false
 sectors:
   - university
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - edinburgh
+subsidiaries: []
+foundation_dates:
+  - 1965
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university in Scotland
+wikidata_url: "https://www.wikidata.org/wiki/Q1277357"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -79,6 +93,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1277357) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Edinburgh](/headquarters_locations/edinburgh/) |
+| Foundation Date | [1965](/foundation_dates/1965/) |
 | Topic'S Main Category | Category:Edinburgh Napier University |
 | Coordinate Location | 55.922939, -3.228033 |
 | Freebase Id | /m/034_6b |
@@ -107,7 +127,6 @@ guideline_count: 1
 | Gnd Id | 5111584-0 |
 | Microsoft Academic Id (Discontinued) | 251738 |
 | Count Of Students | 17,000 |
-| Employees | 1,660 |
 | Library Of Congress Authority Id | nb2009032629 |
 | Ror Id | 03zjvnn91 |
 | Hal Structure Id | 303523 |
@@ -137,8 +156,16 @@ guideline_count: 1
 
 ### Revenue History
 
-- $127.62M (127,616,255 pound sterling (as of 2020))
-- $131.08M (131,076,402 pound sterling (as of 2021))
-- $148.31M (148,309,363 pound sterling (as of 2022))
-- $168.84M (168,844,118 pound sterling (as of 2023))
-- $171.76M (171,755,817 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $127.62M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $131.08M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $148.31M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $168.84M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $171.76M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,660 | - | [1K-10K](/employees_buckets/1k-10k/) |

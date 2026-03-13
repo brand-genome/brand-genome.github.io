@@ -2,7 +2,7 @@
 title: Cartoon Network
 slug: "cartoon-network"
 description: ""
-date: "2026-03-05T22:38:39.315874"
+date: "2026-03-13T08:56:59.260648"
 draft: false
 sectors:
   - broadcasting
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2016
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,19 +55,21 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - magenta
-  - black
-  - cyan
   - yellow
+  - cyan
+  - black
+  - magenta
 typographies:
   - gotham
 imagery_styles:
   - bold
 wikidata_description: Africa and MENA feeds
+wikidata_url: "https://www.wikidata.org/wiki/Q28715029"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,9 +121,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28715029) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2016](/foundation_dates/2016/) |
 | Inception | 2016 |
 | Owned By | Turner Broadcasting System Europe |
-| Logo Image | Cartoon Network HD logo.svg |
 | Language Used | English |
 | Parent Organization Or Unit | Turner Broadcasting System |
 | Country | United Arab Emirates |

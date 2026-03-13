@@ -2,11 +2,11 @@
 title: Inteco
 slug: inteco
 description: ""
-date: "2026-03-05T22:38:39.354651"
+date: "2026-03-13T08:56:59.306039"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - russia
 years:
@@ -14,13 +14,24 @@ years:
 languages:
   - russian
 tags:
-  - construction
   - "real-estate"
+  - construction
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: Russian investement and construction company
+wikidata_url: "https://www.wikidata.org/wiki/Q4201982"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -139,11 +152,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4201982) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Inception | 1991-01-01 |
 | Headquarters Location | Moscow |
 | Quora Topic Id | Inteco |
 | Legal Form | joint-stock company |
-| Logo Image | Inteco-rus.jpg |
 | Uk Parliament Thesaurus Id | 27397 |
 | Freebase Id | /m/03qftcn |
 | Forbes Russia Profile Id | inteko |

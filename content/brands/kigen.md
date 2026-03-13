@@ -2,12 +2,12 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-03-05T22:38:39.427824"
+date: "2026-03-13T08:56:59.395182"
 draft: false
 sectors:
-  - telecom
-  - networking
   - cybersecurity
+  - networking
+  - telecom
 regions:
   - "united-kingdom"
 years:
@@ -15,14 +15,23 @@ years:
 languages:
   - english
 tags:
-  - security
   - networks
+  - security
 industries: []
 countries:
   - "empire-of-japan"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,21 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
   - montserrat
 imagery_styles:
   - bold
 wikidata_description: 1940 Japanese song
+wikidata_url: "https://www.wikidata.org/wiki/Q11604975"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +102,10 @@ guideline_count: 1
 - Trademark notes: Kigen's name and logo are among its most valuable intellectual property assets. Trademark use is strictly regulated, and all goodwill associated with its use belongs exclusively to Kigen.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11604975) |
 
 | Property | Value |
 |----------|-------|

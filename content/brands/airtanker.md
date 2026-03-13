@@ -2,7 +2,7 @@
 title: AirTanker
 slug: airtanker
 description: ""
-date: "2026-03-05T22:38:39.706603"
+date: "2026-03-13T08:56:59.720328"
 draft: false
 sectors:
   - defense
@@ -21,10 +21,24 @@ industries:
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "under-1m"
+  - "UNDER-1M"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets:
+  - "10M-100M"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "airtanker-hub"
+  - "raf-brize-norton"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,32 +57,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
+  - blue
   - "pantone-287"
   - "pantone-278"
   - black
-  - blue
   - gray
   - "pantone-7406"
 typographies:
+  - din
   - impact
   - arial
-  - din
 imagery_styles:
   - bold
   - landscape
 wikidata_description: "British aircraft leasing company, operating the RAF Voyager military multi-role tanker transport"
+wikidata_url: "https://www.wikidata.org/wiki/Q4697690"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -129,6 +145,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4697690) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Airtanker Hub](/headquarters_locations/airtanker-hub/); [Raf Brize Norton](/headquarters_locations/raf-brize-norton/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Parent Organization Or Unit | Cobham Limited, Airbus SE, Rolls-Royce, Babcock International, Thales Group (+1 more) |
 | Icao Airline Designator | TOW |
 | Callsign Of Airline | TOWLINE |
@@ -153,10 +175,8 @@ guideline_count: 1
 | Postal Code | OX18 3LX |
 | Post Town | Carterton |
 | Coordinate Location | 51.76153, -1.57202 |
-| Employees | 689 (as of 2020-12-31) |
 | Main Subject | aviation, military |
 | Industry | aviation, military |
-| Total Equity | 64,300,000 pound sterling (as of 2020-12-31) |
 | Cash | 64,000,000 pound sterling (as of 2020-12-31) |
 | Eu Vat Number | GB918379682 |
 | Historic County | Oxfordshire |
@@ -166,9 +186,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $700.00M (700,000,000 United States dollar (as of 2015-01-01))
-- $156.30M (156,300,000 pound sterling (as of 2020-12-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $700.00M | as of 2015-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $156.30M | as of 2020-12-31 | [100M-500M](/revenue_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $213.00K (-213,000 pound sterling (as of 2020-12-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $213.00K | as of 2020-12-31 | [UNDER-1M](/net_profit_buckets/under-1m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 689 | as of 2020-12-31 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $64.30M | as of 2020-12-31 | [10M-100M](/total_equity_buckets/10m-100m/) |

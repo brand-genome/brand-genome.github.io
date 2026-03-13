@@ -2,7 +2,7 @@
 title: Adelaide Airport
 slug: "adelaide-airport"
 description: ""
-date: "2026-03-05T22:38:39.706866"
+date: "2026-03-13T08:56:59.721321"
 draft: false
 sectors:
   - "public-transportation"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1955
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,13 +53,15 @@ brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
-  - landscape
   - portrait
+  - landscape
 wikidata_description: "airport in Adelaide, Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q14302"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -85,6 +97,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q14302) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1955](/foundation_dates/1955/) |
 | Iata Airport Code | ADL |
 | Icao Airport Code | YPAD |
 | Country | Australia |
@@ -104,7 +121,7 @@ guideline_count: 1
 | Inception | 1955-01-01 |
 | Image Of Interior | Adelaideterminal.jpg |
 | Street Address | 1 James Schofield Dr, Adelaide Airport SA 5950, Australien |
-| Email Address | mailto:airport@aal.com.au |
+| Email Address | airport@aal.com.au |
 | Phone Number | +61-8-8308-9211 |
 | State Of Use | in use |
 | Scheduled Service Destination | Auckland Airport |

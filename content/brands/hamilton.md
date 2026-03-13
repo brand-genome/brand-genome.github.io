@@ -2,7 +2,7 @@
 title: Hamilton
 slug: hamilton
 description: ""
-date: "2026-03-05T22:38:39.580792"
+date: "2026-03-13T08:56:59.520827"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,24 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1846
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Ontario, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q133116"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q133116) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1846](/foundation_dates/1846/) |
 | Twinned Administrative Body | Sulmona, Fukuyama (from 1976-10-04), Kaga, Mangaluru, Racalmuto (+12 more) |
 | Population | 519,949 (as of 2011), 536,917 (as of 2016), 569,353 (as of 2021) |
 | Flag Image | Flag of Hamilton.svg |
@@ -156,7 +173,6 @@ guideline_count: 1
 | Great Norwegian Encyclopedia Id | Hamilton_-_by_i_Canada |
 | Lex Id | Hamilton_-_by_i_Canada |
 | Zhihu Topic Id | 19667057 |
-| Logo Image | Hamilton City logo.svg, Hamilton City logo (horizontal).svg |
 | Online Pwn Encyclopedia Id | 3909779 |
 | Cgndb Unique Id | FEVNS, FBLJL |
 | Statistics Canada Geographic Code | 3525, 3525005 |

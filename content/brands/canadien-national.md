@@ -2,11 +2,11 @@
 title: Canadien National
 slug: "canadien-national"
 description: ""
-date: "2026-03-05T22:38:39.812151"
+date: "2026-03-13T08:56:59.879650"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - railroad
+  - "logistics-supply-chain"
 regions:
   - canada
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "downtown-montreal"
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,20 +54,22 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
+  - "pantone-485"
   - red
   - black
-  - "pantone-485"
+  - white
 typographies:
   - frutiger
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: Canadian Class I freight railway company
+wikidata_url: "https://www.wikidata.org/wiki/Q624798"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,9 +108,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q624798) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Downtown Montreal](/headquarters_locations/downtown-montreal/) |
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Stock Exchange | New York Stock Exchange (from 1995-11-17), Toronto Stock Exchange (from 1995-11-17) |
 | Topic'S Main Category | Category:Canadian National Railway |
-| Logo Image | CN Railway logo.svg (from 1960), CN Railway Logo.jpg (until 1960) |
 | Freebase Id | /m/05njt7 |
 | Isin | CA1363751027 |
 | Headquarters Location | Downtown Montreal |

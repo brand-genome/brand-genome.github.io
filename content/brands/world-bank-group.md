@@ -2,7 +2,7 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-03-05T22:38:39.802724"
+date: "2026-03-13T08:56:59.858389"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "world-bank-headquarters"
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +52,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - arial
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: international financial institution
+wikidata_url: "https://www.wikidata.org/wiki/Q7164"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7164) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [World Bank Headquarters](/headquarters_locations/world-bank-headquarters/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Gnd Id | 121364-7 |
 | Topic'S Main Category | Category:World Bank |
 | Freebase Id | /m/02vk52z |
@@ -154,7 +173,6 @@ guideline_count: 1
 | Director / Manager | Kristalina Georgieva (from 2017-01-02, until 2019-10-01) |
 | Ror Id | 00ae7jd04 |
 | Member Of | Confederation of Open Access Repositories, DataCite |
-| Logo Image | The World Bank logo.svg, World Bank logo.svg |
 | Board Member | Robert L. Garner (from 1947-01-01, until 1956-01-01), Eugene R. Black, Sr. (from 1949-01-01, until 1962-01-01) |
 | Partnership With | United Cities and Local Governments, International Fund for Agricultural Development |
 | Treccani'S Dizionario Di Storia Id | banca-mondiale |

@@ -2,7 +2,7 @@
 title: Sharp
 slug: sharp
 description: ""
-date: "2026-03-05T22:38:39.800617"
+date: "2026-03-13T08:56:59.854791"
 draft: false
 sectors:
   - electronics
@@ -20,11 +20,25 @@ industries:
 countries:
   - japan
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "OVER-1T"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "home-appliance"
+products: []
+headquarters_locations:
+  - osaka
+subsidiaries: []
+foundation_dates:
+  - 1912
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q53227"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +84,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q53227) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/) |
+| Headquarters Location | [Osaka](/headquarters_locations/osaka/) |
+| Foundation Date | [1912](/foundation_dates/1912/) |
 | Founded By | Tokuji Hayakawa |
 | Topic'S Main Category | Category:Sharp Corporation |
 | Freebase Id | /m/0344fh |
@@ -80,12 +103,10 @@ guideline_count: 1
 | Location Of Formation | Tokyo |
 | Country | Japan |
 | Legal Form | kabushiki gaisha |
-| Logo Image | Logo of the Sharp Corporation.svg |
 | Owned By | Foxconn, Foxconn Technology, Foxconn Group (as of 2022-03-31), Foxconn (Far East) (as of 2022-03-31), Foxconn Technology (as of 2022-03-31) (+4 more) |
 | Facebook Username | SHARP.Japan |
 | Corporate Number (Japan) | 6120001005484 |
 | Image | Sharp Sakai (brighter filtered).jpg |
-| Employees | 50,253 (as of 2014) |
 | Quora Topic Id | Sharp-Corporation |
 | Boijmans Artist Id | 16339 |
 | Encyclopædia Britannica Online Id | topic/Sharp-Corporation |
@@ -95,7 +116,6 @@ guideline_count: 1
 | Grid Id | grid.410831.f |
 | Product Or Material Produced | home appliance |
 | Parent Organization Or Unit | Foxconn (from 2016-04-02) |
-| Total Assets | 1,773,682,000,000 yen (as of 2017-03-31), 1,908,660,000,000 yen (as of 2018-03-31) |
 | Owner Of | Sharp Solar, Sakai Display Products |
 | Different From | Sharp |
 | Musicbrainz Artist Id | 567cce17-b40c-4f62-abf0-6dd4fe21c3be |
@@ -133,16 +153,35 @@ guideline_count: 1
 
 ### Revenue History
 
-- $28.70B (28,700,000,000 United States dollar (as of 2014))
-- $2.43T (2,427,271,000,000 yen (as of 2018))
-- $2.05T (2,050,639,000,000 yen (as of 2017))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $28.70B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $2.43T | as of 2018 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $2.05T | as of 2017 | [OVER-1T](/revenue_buckets/over-1t/) |
 
 ### Operating Income History
 
-- $1.06B (1,060,000,000 United States dollar (as of 2014))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.06B | as of 2014 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $110.00M (110,000,000 United States dollar (as of 2014))
-- $24.32B (-24,325,000,000 yen (as of 2017))
-- $70.22B (70,225,000,000 yen (as of 2018))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $110.00M | as of 2014 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $24.32B | as of 2017 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $70.22B | as of 2018 | [50B-100B](/net_profit_buckets/50b-100b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 50,253 | as of 2014 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.77T | as of 2017-03-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.91T | as of 2018-03-31 | [OVER-1T](/total_assets_buckets/over-1t/) |

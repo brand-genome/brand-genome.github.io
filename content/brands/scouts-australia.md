@@ -2,7 +2,7 @@
 title: Scouts Australia
 slug: "scouts-australia"
 description: ""
-date: "2026-03-05T22:38:39.642106"
+date: "2026-03-13T08:56:59.570313"
 draft: false
 sectors:
   - education
@@ -19,9 +19,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "sydney-olympic-park"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,23 +56,25 @@ logo_elements:
   - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - nunito
   - display
 imagery_styles:
-  - bold
+  - dynamic
+  - clean
+  - modern
   - product
   - graphic
-  - dynamic
-  - modern
-  - clean
+  - bold
 wikidata_description: international youth organisation in Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q7438642"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -438,6 +453,12 @@ Scouts Australia Brand Book | January 2019
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7438642) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sydney Olympic Park](/headquarters_locations/sydney-olympic-park/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Country | Australia |
 | Nl Cr Aut Id | xx0216154, xx0216153 |
 | Inception | 1958-01-01 |
@@ -451,15 +472,34 @@ Scouts Australia Brand Book | January 2019
 | Domain Name | scouts.com.au |
 | Australian Business Number | 57030516857 |
 | Headquarters Location | Sydney Olympic Park |
-| Total Assets | 27,874,881 Australian dollar (as of 2024), 31,182,975 Australian dollar (as of 2023), 25,397,357 Australian dollar (as of 2022), 20,442,348 Australian dollar (as of 2021), 16,914,695 Australian dollar (as of 2020) |
 | Number Of Volunteers | 60 (as of 2024) |
 | Donations | 60,582 Australian dollar (as of 2024), 19,593 Australian dollar (as of 2023), 1,251,053 Australian dollar (as of 2022), 806,926 Australian dollar (as of 2021), 180,480 Australian dollar (as of 2020) |
-| Employees | 13 (as of 2024), 14 (as of 2022), 15 (as of 2021), 16 (as of 2020) |
 
 ### Revenue History
 
-- $13.29M (13,291,727 Australian dollar (as of 2024))
-- $4.73M (4,732,494 Australian dollar (as of 2023))
-- $4.38M (4,379,771 Australian dollar (as of 2022))
-- $2.62M (2,620,657 Australian dollar (as of 2021))
-- $8.86M (8,863,426 Australian dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.29M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $4.73M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.38M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.62M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.86M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |
+| 14 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 15 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 16 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $27.87M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.18M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $25.40M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.44M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.91M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

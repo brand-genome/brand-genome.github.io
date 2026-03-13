@@ -2,7 +2,7 @@
 title: YWCA Canberra
 slug: "ywca-canberra"
 description: ""
-date: "2026-03-05T22:38:39.351505"
+date: "2026-03-13T08:56:59.303575"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - canberra
+subsidiaries: []
+foundation_dates:
+  - 1935
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,33 +52,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - stacked
+  - primary
   - secondary
+  - symbol
 brand_colors:
   - white
   - grey
   - "pantone-433"
   - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
-  - photography
-  - staged
-  - vibrant
-  - graphic
-  - dynamic
-  - geometric
-  - clean
   - natural
+  - dynamic
+  - staged
+  - clean
+  - vibrant
+  - photography
+  - graphic
+  - bold
+  - geometric
 wikidata_description: nonprofit organisation from Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q136717649"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,20 +131,45 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136717649) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Canberra](/headquarters_locations/canberra/) |
+| Foundation Date | [1935](/foundation_dates/1935/) |
 | Headquarters Location | Canberra |
 | Country | Australia |
 | Australian Business Number | 48008389151 |
 | Official Name | YWCA Canberra |
 | Inception | 1935-01-01 |
-| Total Assets | 28,513,484 Australian dollar (as of 2023), 24,456,686 Australian dollar (as of 2022), 25,174,385 Australian dollar (as of 2021), 23,395,707 Australian dollar (as of 2020), 11,629,399 Australian dollar (as of 2019) |
 | Number Of Volunteers | 15 (as of 2023), 20 (as of 2022), 12 (as of 2019) |
 | Donations | 1,138,844 Australian dollar (as of 2023), 765,521 Australian dollar (as of 2022), 392,568 Australian dollar (as of 2021), 175,791 Australian dollar (as of 2020), 41,012 Australian dollar (as of 2019) |
-| Employees | 280 (as of 2023), 250 (as of 2022), 200 (as of 2020), 207 (as of 2019) |
 
 ### Revenue History
 
-- $26.46M (26,463,502 Australian dollar (as of 2023))
-- $21.20M (21,199,773 Australian dollar (as of 2022))
-- $19.12M (19,120,478 Australian dollar (as of 2021))
-- $16.40M (16,403,367 Australian dollar (as of 2020))
-- $17.97M (17,969,506 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $26.46M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $21.20M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.12M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $16.40M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $17.97M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 280 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |
+| 250 | as of 2022 | [100-1K](/employees_buckets/100-1k/) |
+| 200 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 207 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $28.51M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $24.46M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $25.17M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.40M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.63M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |

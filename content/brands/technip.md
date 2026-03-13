@@ -2,13 +2,13 @@
 title: Technip
 slug: technip
 description: ""
-date: "2026-03-05T22:38:39.641343"
+date: "2026-03-13T08:56:59.569349"
 draft: false
 sectors:
   - construction
-  - "renewable-energy"
-  - oil
   - gas
+  - oil
+  - "renewable-energy"
 regions:
   - france
 years:
@@ -18,16 +18,28 @@ languages:
 tags:
   - engineering
 industries:
-  - engineering
   - "activities-of-head-offices"
+  - engineering
 countries:
   - france
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "project-management"
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1598474"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,13 +83,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1598474) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Project Management](/products_or_materials_produced/project-management/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Freebase Id | /m/0ct76r |
 | Isin | FR0000131708 |
 | Stock Exchange | Euronext |
 | Headquarters Location | Paris |
 | Inception | 1958-01-01 |
 | Legal Form | public limited company with a board of directors (n.o.s.) |
-| Logo Image | Technip.svg |
 | Isni | 0000000106599067 |
 | Quora Topic Id | Technip |
 | Country | France |
@@ -103,60 +123,66 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.97B (2,972,000,000 euro (as of 2000))
-- $3.55B (3,546,000,000 euro (as of 2001))
-- $4.45B (4,452,300,000 euro (as of 2002))
-- $4.71B (4,711,100,000 euro (as of 2003))
-- $5.14B (5,141,000,000 euro (as of 2004))
-- $5.38B (5,376,100,000 euro (as of 2005))
-- $6.93B (6,926,500,000 euro (as of 2006))
-- $7.89B (7,886,500,000 euro (as of 2007))
-- $7.48B (7,481,400,000 euro (as of 2008))
-- $6.46B (6,456,000,000 euro (as of 2009))
-- $6.08B (6,081,900,000 euro (as of 2010))
-- $6.81B (6,813,000,000 euro (as of 2011))
-- $8.20B (8,203,900,000 euro (as of 2012))
-- $9.34B (9,336,100,000 euro (as of 2013))
-- $10.07B (10,073,900,000 euro (as of 2014))
-- $10.34B (10,337,900,000 euro (as of 2015))
-- $11.05B (11,051,000,000 euro (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.97B | as of 2000 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.55B | as of 2001 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.45B | as of 2002 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.71B | as of 2003 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.14B | as of 2004 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.38B | as of 2005 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.93B | as of 2006 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.89B | as of 2007 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.48B | as of 2008 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.46B | as of 2009 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.08B | as of 2010 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.81B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.20B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.34B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.07B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.34B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.05B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $182.60M (182,600,000 euro (as of 2000))
-- $234.80M (234,800,000 euro (as of 2001))
-- $204.60M (204,600,000 euro (as of 2002))
-- $227.60M (227,600,000 euro (as of 2003))
-- $258.50M (258,500,000 euro (as of 2004))
-- $231.00M (231,000,000 euro (as of 2005))
-- $360.10M (360,100,000 euro (as of 2006))
-- $266.90M (266,900,000 euro (as of 2007))
-- $656.90M (656,900,000 euro (as of 2008))
-- $676.70M (676,700,000 euro (as of 2009))
-- $620.30M (620,300,000 euro (as of 2010))
-- $709.50M (709,500,000 euro (as of 2011))
-- $821.70M (821,700,000 euro (as of 2012))
-- $844.50M (844,500,000 euro (as of 2013))
-- $759.90M (759,900,000 euro (as of 2014))
-- $746.00M (746,000,000 euro (as of 2015))
-- $934.00M (934,000,000 euro (as of 2016))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $182.60M | as of 2000 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $234.80M | as of 2001 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $204.60M | as of 2002 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $227.60M | as of 2003 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $258.50M | as of 2004 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $231.00M | as of 2005 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $360.10M | as of 2006 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $266.90M | as of 2007 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $656.90M | as of 2008 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $676.70M | as of 2009 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $620.30M | as of 2010 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $709.50M | as of 2011 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $821.70M | as of 2012 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $844.50M | as of 2013 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $759.90M | as of 2014 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $746.00M | as of 2015 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $934.00M | as of 2016 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $214.20M (214,200,000 euro (as of 2000))
-- $108.10M (108,100,000 euro (as of 2001))
-- $29.40M (-29,400,000 euro (as of 2002))
-- $19.70M (-19,700,000 euro (as of 2003))
-- $4.70M (4,700,000 euro (as of 2004))
-- $93.30M (93,300,000 euro (as of 2005))
-- $200.10M (200,100,000 euro (as of 2006))
-- $126.30M (126,300,000 euro (as of 2007))
-- $448.00M (448,000,000 euro (as of 2008))
-- $170.40M (170,400,000 euro (as of 2009))
-- $417.60M (417,600,000 euro (as of 2010))
-- $507.30M (507,300,000 euro (as of 2011))
-- $539.70M (539,700,000 euro (as of 2012))
-- $563.10M (563,100,000 euro (as of 2013))
-- $436.60M (436,600,000 euro (as of 2014))
-- $45.10M (45,100,000 euro (as of 2015))
-- $637.00M (637,000,000 euro (as of 2016))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $214.20M | as of 2000 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $108.10M | as of 2001 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $29.40M | as of 2002 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $19.70M | as of 2003 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $4.70M | as of 2004 | [1M-10M](/net_profit_buckets/1m-10m/) |
+| $93.30M | as of 2005 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $200.10M | as of 2006 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $126.30M | as of 2007 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $448.00M | as of 2008 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $170.40M | as of 2009 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $417.60M | as of 2010 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $507.30M | as of 2011 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $539.70M | as of 2012 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $563.10M | as of 2013 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $436.60M | as of 2014 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $45.10M | as of 2015 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $637.00M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |

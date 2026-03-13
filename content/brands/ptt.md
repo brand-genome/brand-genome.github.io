@@ -2,11 +2,11 @@
 title: PTT
 slug: ptt
 description: ""
-date: "2026-03-05T22:38:39.301319"
+date: "2026-03-13T08:56:59.242805"
 draft: false
 sectors:
-  - "parcel-service"
   - "public-sector"
+  - "parcel-service"
   - "e-commerce"
 regions:
   - turkiye
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "the-hague"
+subsidiaries: []
+foundation_dates:
+  - 1918
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: former state postal service of the Netherlands
+wikidata_url: "https://www.wikidata.org/wiki/Q2044787"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2044787) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [The Hague](/headquarters_locations/the-hague/) |
+| Foundation Date | [1918](/foundation_dates/1918/) |
 | Country | Netherlands |
 | Headquarters Location | The Hague |
 | Inception | 1918-01-01 |

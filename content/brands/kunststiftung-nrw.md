@@ -2,11 +2,11 @@
 title: Kunststiftung NRW
 slug: "kunststiftung-nrw"
 description: ""
-date: "2026-03-05T22:38:39.279182"
+date: "2026-03-13T08:56:59.221226"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - germany
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dusseldorf
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: German art foundation
+wikidata_url: "https://www.wikidata.org/wiki/Q1792632"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1792632) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Inception | 1989 |
 | Legal Form | private foundation |
 | Gnd Id | 16033073-7 |
@@ -74,7 +93,6 @@ guideline_count: 1
 | Country | Germany |
 | Headquarters Location | Düsseldorf |
 | Idref Id | 162101996 |
-| Logo Image | Logo Kunststiftung NRW (schwarz).png |
 | Legal Entity Identifier | 529900N42W752Y5H4342 (from 2017-11-21) |
 | Library Of Congress Authority Id | n2012055316 |
 | Organisation Tax Status | tax-exempt under the German Fiscal Code |

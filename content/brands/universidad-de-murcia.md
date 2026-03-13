@@ -2,27 +2,38 @@
 title: Universidad de Murcia
 slug: "universidad-de-murcia"
 description: ""
-date: "2026-03-05T22:38:39.195312"
+date: "2026-03-13T08:56:59.130179"
 draft: false
 sectors:
   - university
 regions:
   - spain
 years:
-  - 2009
   - 2023
+  - 2009
 languages:
   - spanish
 tags:
   - education
-  - featured
   - university
+  - featured
 industries: []
 countries:
   - spain
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - murcia
+subsidiaries: []
+foundation_dates:
+  - 1915
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,25 +56,27 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - gold
   - grey
-  - black
+  - gold
   - silver
+  - black
   - "pantone-187"
 typographies:
-  - arial
   - din
   - helvetica
   - verdana
+  - arial
 imagery_styles:
-  - bold
-  - gradient
   - graphic
+  - gradient
+  - bold
 wikidata_description: public university in Spain
+wikidata_url: "https://www.wikidata.org/wiki/Q1236345"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +138,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1236345) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Murcia](/headquarters_locations/murcia/) |
+| Foundation Date | [1915](/foundation_dates/1915/) |
 | Topic'S Main Category | Category:University of Murcia |
 | Freebase Id | /m/0djt3f |
 | Viaf Cluster Id | 124430002 |
@@ -161,7 +180,6 @@ guideline_count: 2
 | Times Higher Education World University Id | university-murcia |
 | Google Maps Customer Id | 14700011092572875519 |
 | U Multirank University Id | university-of-murcia |
-| Logo Image | Universitas Studiorum Murciana b-w.png |
 | Dir3 Id | U01200001 |
 | Microsoft Academic Id (Discontinued) | 80180929 |
 | Eu Vat Number | ESQ3018001B |

@@ -2,7 +2,7 @@
 title: ATNS
 slug: atns
 description: ""
-date: "2026-03-05T22:38:39.758729"
+date: "2026-03-13T08:56:59.807789"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,35 +49,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
-  - secondary
   - stacked
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - grey
+  - "pantone-307"
+  - blue
+  - "pantone-200"
   - "pantone-7546"
   - "pantone-294"
   - "pantone-2945"
-  - grey
-  - black
-  - blue
   - "pantone-430"
-  - gray
-  - "pantone-200"
-  - "pantone-307"
   - "pantone-136"
+  - black
+  - gray
 typographies:
+  - din
   - impact
   - arial
-  - din
 imagery_styles:
-  - landscape
   - product
   - portrait
+  - landscape
 wikidata_description: college affiliated to the Sri Venkateswara University
+wikidata_url: "https://www.wikidata.org/wiki/Q92184228"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,6 +135,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q92184228) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Aishe Code | C-27714 |
 | Affiliation | Sri Venkateswara University |
 | Country | India |

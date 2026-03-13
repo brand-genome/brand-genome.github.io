@@ -2,11 +2,11 @@
 title: Monsanto
 slug: monsanto
 description: ""
-date: "2026-03-05T22:38:39.789527"
+date: "2026-03-13T08:56:59.840583"
 draft: false
 sectors:
-  - "consumer-goods"
   - biotech
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -20,10 +20,26 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - herbicide
+  - seed
+  - fertilizer
+products: []
+headquarters_locations:
+  - "st-louis"
+  - "creve-coeur"
+subsidiaries: []
+foundation_dates:
+  - 1901
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +59,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors: []
 typographies:
-  - verdana
-  - garamond
-  - times
   - arial
   - helvetica
+  - garamond
+  - verdana
+  - times
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "American multinational agricultural biotechnology, seed, and agrochemical company"
+wikidata_url: "https://www.wikidata.org/wiki/Q207983"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +121,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q207983) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Herbicide](/products_or_materials_produced/herbicide/); [Seed](/products_or_materials_produced/seed/); [Fertilizer](/products_or_materials_produced/fertilizer/) |
+| Headquarters Location | [St Louis](/headquarters_locations/st-louis/); [Creve Coeur](/headquarters_locations/creve-coeur/) |
+| Foundation Date | [1901](/foundation_dates/1901/) |
 | Founded By | John Francis Queeny |
 | Topic'S Main Category | Category:Monsanto |
 | Freebase Id | /m/0n8m6 |
@@ -120,7 +145,6 @@ guideline_count: 1
 | Ringgold Id | 7555 |
 | Eu Transparency Register Id | 678841411135-35 |
 | Chief Executive Officer | Hugh Grant (from 2003), Robert B. Shapiro (from 1995, until 2000), Charles Allen Thomas (from 1960, until 1964), Edgar Monsanto Queeny (from 1928, until 1960), John Francis Queeny (until 1928) |
-| Employees | 25,500 (as of 2015), 21,900 (as of 2013), 21,700 (as of 2008-12-01), 21,400 (as of 2010) |
 | Quora Topic Id | Monsanto-company |
 | Owned By | Bayer |
 | Product Or Material Produced | seed, herbicide, fertilizer |
@@ -157,15 +181,27 @@ guideline_count: 1
 | Radio France Person Id | monsanto |
 | Gran Enciclopèdia Catalana Id | monsanto-company |
 | Lobbypedia Id | Monsanto |
-| Logo Image | Monsanto text logo.png |
 | Legal Form | Delaware corporation |
 | France 24 Topic Id (French) | monsanto |
 | ‎Yale Lux Id | group/cf38d01d-1b8a-4a56-bbaa-361cdce1aeca |
 
 ### Revenue History
 
-- $15.00B (15,000,000,000 United States dollar (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $15.00B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $2.30B (2,300,000,000 United States dollar (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $2.30B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 25,500 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,900 | as of 2013 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,700 | as of 2008-12-01 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,400 | as of 2010 | [10K-50K](/employees_buckets/10k-50k/) |

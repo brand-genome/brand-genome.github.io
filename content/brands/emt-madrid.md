@@ -2,7 +2,7 @@
 title: EMT Madrid
 slug: "emt-madrid"
 description: ""
-date: "2026-03-05T22:38:39.384519"
+date: "2026-03-13T08:56:59.349448"
 draft: false
 sectors:
   - "public-transportation"
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bus
+products: []
+headquarters_locations:
+  - "emt-headquarters-madrid"
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,8 +54,8 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - symbol
   - horizontal
+  - symbol
 brand_colors:
   - blue
 typographies: []
@@ -50,10 +63,12 @@ imagery_styles:
   - dynamic
   - clean
 wikidata_description: "company charged with the planning of public urban transport in the city in Madrid, Spain"
+wikidata_url: "https://www.wikidata.org/wiki/Q1094755"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,9 +115,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1094755) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/) |
+| Headquarters Location | [Emt Headquarters Madrid](/headquarters_locations/emt-headquarters-madrid/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Headquarters Location | E.M.T. headquarters, Madrid |
 | Country | Spain |
-| Logo Image | EMTlogo.svg |
 | Location Of Formation | Madrid |
 | Inception | 1947-11-12 |
 | Industry | public transport |
@@ -118,7 +139,6 @@ guideline_count: 1
 | Library Of Congress Authority Id | n80025237 |
 | Viaf Cluster Id | 145123194 |
 | Operating Area | Madrid |
-| Employees | 8,540 (as of 2018), 8,055 (as of 2011) |
 | Owned By | Madrid City Council |
 | Microsoft Academic Id (Discontinued) | 2801150545 |
 | Ror Id | 05x7hpz69 |
@@ -129,3 +149,10 @@ guideline_count: 1
 | Facebook Username | emtmadrid |
 | Osm Name Suggestion Index Id | empresamunicipaldetransportesdemadrid-9d27c7, empresamunicipaldetransportesdemadrid-178a9c |
 | ‎Yale Lux Id | group/26102820-3270-445f-9042-1db21e1e1b56 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 8,540 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,055 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |

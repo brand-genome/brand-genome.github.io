@@ -2,11 +2,11 @@
 title: Sapo
 slug: sapo
 description: ""
-date: "2026-03-05T22:38:39.827008"
+date: "2026-03-13T08:56:59.911898"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
   - "e-commerce"
 regions:
   - portugal
@@ -15,8 +15,8 @@ years:
 languages:
   - portuguese
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - internet
 countries:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "internet-service-provider"
+products: []
+headquarters_locations:
+  - lisbon
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,19 +54,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies:
-  - arial
   - "proxima-nova"
+  - arial
 imagery_styles:
   - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q284147"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -330,6 +344,13 @@ FASHION SAPO VOUCHER MODA SAPO VOUCHER
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q284147) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Internet Service Provider](/products_or_materials_produced/internet-service-provider/) |
+| Headquarters Location | [Lisbon](/headquarters_locations/lisbon/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Freebase Id | /m/080lg4, /m/063g2m5 |
 | Headquarters Location | Lisbon |
 | Parent Organization Or Unit | Altice Portugal |
@@ -338,7 +359,6 @@ FASHION SAPO VOUCHER MODA SAPO VOUCHER
 | Alexa Rank | 911 (as of 2017-12-01) |
 | X (Twitter) Username | sapo (as of 2020-12-30, from 2008-05-20) |
 | Industry | Internet |
-| Logo Image | Logo for SAPO (2025).svg |
 | Social Media Followers | 278,818 (as of 2021-01-07), 281,459 (as of 2022-02-27), 287,469 (as of 2023-02-07) |
 | Product Or Material Produced | internet service provider |
 | Crunchbase Organization Id | sapo |

@@ -2,7 +2,7 @@
 title: First Bank of Nigeria
 slug: "first-bank-of-nigeria"
 description: ""
-date: "2026-03-05T22:38:39.194572"
+date: "2026-03-13T08:56:59.129449"
 draft: false
 sectors:
   - finance
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "financial-services"
+products: []
+headquarters_locations:
+  - lagos
+subsidiaries: []
+foundation_dates:
+  - 1894
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,26 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
+  - "pantone-873"
   - white
   - "pantone-341"
-  - "pantone-873"
   - "pantone-186"
-  - "pantone-7621"
   - "pantone-871"
+  - "pantone-7621"
 typographies:
   - din
 imagery_styles:
-  - bold
   - photography
   - gradient
+  - bold
 wikidata_description: Nigerian multinational bank
+wikidata_url: "https://www.wikidata.org/wiki/Q5452342"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +125,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5452342) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/) |
+| Headquarters Location | [Lagos](/headquarters_locations/lagos/) |
+| Foundation Date | [1894](/foundation_dates/1894/) |
 | Headquarters Location | Lagos |
 | Inception | 1894 |
 | X (Twitter) Username | firstbankngr (as of 2020-04-19, from 2011-04-06), FirstBankngr |

@@ -2,7 +2,7 @@
 title: Stellantis
 slug: stellantis
 description: ""
-date: "2026-03-05T22:38:39.395863"
+date: "2026-03-13T08:56:59.362288"
 draft: false
 sectors:
   - automobile
@@ -19,11 +19,31 @@ industries:
 countries:
   - netherlands
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "50B-100B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced:
+  - truck
+  - "utility-vehicle"
+  - "automotive-part"
+  - "commercial-vehicle"
+  - car
+products: []
+headquarters_locations:
+  - amsterdam
+subsidiaries: []
+foundation_dates:
+  - 2021
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +69,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "Franco-Italian-American multinational automotive manufacturer"
+wikidata_url: "https://www.wikidata.org/wiki/Q97439162"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,13 +95,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q97439162) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
+| Foundation Date | [2021](/foundation_dates/2021/) |
 | Industry | automotive industry |
-| Logo Image | Stellantis.svg |
 | Headquarters Location | Amsterdam |
 | Chairperson | John Elkann (from 2021-01-21) |
 | Owned By | Exor, Peugeot Invest, Bpifrance |
 | Product Or Material Produced | car, utility vehicle, truck, commercial vehicle, automotive part |
-| Employees | 281,595 (as of 2021-12-31), 272,367 (as of 2022-12-31), 258,275 (as of 2023-12-31) |
 | Country | Netherlands |
 | Replaces | Groupe PSA (as of 2021), Fiat Chrysler Automobiles (as of 2021) |
 | Inception | 2021-01-16 |
@@ -105,8 +132,6 @@ guideline_count: 1
 | Crunchbase Organization Id | stellantis |
 | Le Figaro Tag Id | Stellantis |
 | Part Of | CAC 40 (from 2021-01-16) |
-| Total Assets | 186,200,000,000 euro (as of 2022) |
-| Total Equity | 72,400,000,000 euro (as of 2022) |
 | Weibo User Id | psaasia |
 | Süddeutsche Zeitung Topic Id | Stellantis |
 | Viaf Cluster Id | 3419163877724946060000 |
@@ -119,7 +144,6 @@ guideline_count: 1
 | Siren Number | 879786085 |
 | Official Name | Stellantis N.V. |
 | Ne.Se Id | stellantis |
-| Market Capitalization | 27,806,000,000 United States dollar (as of 2025-05-01) |
 | Ror Id | 011wcsv83 |
 | ‎Yale Lux Id | group/19b7e05e-d9b3-40b6-8f09-201ca47f56fa |
 | Instagram Username | stellantis_official |
@@ -137,17 +161,49 @@ guideline_count: 1
 
 ### Revenue History
 
-- $152.12B (152,119,000,000 euro (as of 2021))
-- $179.59B (179,592,000,000 euro (as of 2022))
-- $189.54B (189,544,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $152.12B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $179.59B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $189.54B | as of 2023 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $20.00B (20,000,000,000 euro (as of 2022))
-- $22.38B (22,376,000,000 euro (as of 2023))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $20.00B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $22.38B | as of 2023 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $13.35B (13,354,000,000 euro (as of 2021))
-- $16.78B (16,779,000,000 euro (as of 2022))
-- $18.62B (18,625,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $13.35B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $16.78B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $18.62B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 281,595 | as of 2021-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 272,367 | as of 2022-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 258,275 | as of 2023-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $186.20B | as of 2022 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $72.40B | as of 2022 | [50B-100B](/total_equity_buckets/50b-100b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $27.81B | as of 2025-05-01 | [10B-50B](/market_cap_buckets/10b-50b/) |

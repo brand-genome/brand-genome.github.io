@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-03-05T22:38:39.118340"
+date: "2026-03-13T08:56:59.067629"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -15,19 +15,36 @@ languages:
   - english
 tags:
   - technology
-  - software
   - security
+  - software
 industries:
-  - "computer-security"
   - "software-industry"
   - "computer-storage-media"
+  - "computer-security"
   - "computer-hardware-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "zero-trust-architecture"
+  - "data-security"
+  - "data-security-and-protection"
+  - "remote-backup-service"
+  - "computer-security"
+products: []
+headquarters_locations:
+  - "palo-alto"
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +67,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Zero trust data security and cloud data management for Enterprise companies
+wikidata_url: "https://www.wikidata.org/wiki/Q55632076"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +88,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55632076) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security](/products_or_materials_produced/data-security/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Computer Security](/products_or_materials_produced/computer-security/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-12 |
 | Youtube Channel Id | UCDoKLwlfdfH61rkzD3pu_ZQ (as of 2020-12-02, from 2015-05-19) |
 | X (Twitter) Username | rubrikinc (as of 2020-12-27, from 2014-08-01) |
@@ -89,9 +115,7 @@ guideline_count: 1
 | Legal Form | public company |
 | Facebook Username | RubrikInc |
 | Quora Topic Id | Rubrik-company |
-| Employees | 2,500 (as of 2022) |
 | Sitemap Url | https://www.rubrik.com/sitemap.xml |
-| Logo Image | Rubrik Logo.svg |
 | Member Of | Business Software Alliance, New York Stock Exchange, World Economic Forum |
 | Stock Exchange | New York Stock Exchange (from 2024-04) |
 | Product Or Material Produced | computer security, data security, data security and protection, zero trust architecture, remote backup service |
@@ -99,4 +123,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $600.00M (600,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $600.00M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,500 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |

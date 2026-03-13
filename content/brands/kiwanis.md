@@ -2,7 +2,7 @@
 title: Kiwanis
 slug: kiwanis
 description: ""
-date: "2026-03-05T22:38:39.779879"
+date: "2026-03-13T08:56:59.834069"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - indianapolis
+subsidiaries: []
+foundation_dates:
+  - 1915
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q1586640"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +74,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1586640) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Indianapolis](/headquarters_locations/indianapolis/) |
+| Foundation Date | [1915](/foundation_dates/1915/) |
 | Topic'S Main Category | Category:Kiwanis |
 | Freebase Id | /m/023h5j |
 | Country | United States |
@@ -82,7 +101,6 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007585583905171 |
 | Great Norwegian Encyclopedia Id | Kiwanis_International |
 | Uia Open Yearbook Organization Website Id | 1100004704 |
-| Logo Image | Kiwanis seal and word mark.svg |
 | Kisti Id | K000181057 |
 | Kalliope Verbund (Gnd) Id | 10051493-5 |
 | ‎Yale Lux Id | group/5185c4b4-55b8-43fd-aaec-f29c12159e80 |

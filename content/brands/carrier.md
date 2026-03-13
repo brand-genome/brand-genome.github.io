@@ -2,7 +2,7 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-03-05T22:38:39.718643"
+date: "2026-03-13T08:56:59.737047"
 draft: false
 sectors:
   - construction
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - charlotte
+  - indianapolis
+  - farmington
+subsidiaries: []
+foundation_dates:
+  - 1978
+  - 1915
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +55,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - arial
-  - times
   - helvetica
+  - times
+  - arial
 imagery_styles:
   - bold
 wikidata_description: American air conditioning company
+wikidata_url: "https://www.wikidata.org/wiki/Q731912"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q731912) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/); [Indianapolis](/headquarters_locations/indianapolis/); [Farmington](/headquarters_locations/farmington/) |
+| Foundation Date | [1978](/foundation_dates/1978/); [1915](/foundation_dates/1915/) |
 | Freebase Id | /m/07_dc0 |
 | Headquarters Location | Charlotte, Indianapolis, Farmington |
 | Founded By | Willis Carrier |
@@ -113,7 +135,6 @@ guideline_count: 1
 | Country | United States |
 | Viaf Cluster Id | 154751948 |
 | Industry | heating, ventilation, and air conditioning, construction industry |
-| Logo Image | Logo of the Carrier Corporation.svg |
 | Legal Entity Identifier | 549300GUSOAN8YCR8P16 |
 | Youtube Channel Id | UCtKSYiZM4UMSaQ28uWlHWKg (as of 2020-12-20, from 2016-03-11) |
 | Isni | 0000000107286484 |

@@ -2,7 +2,7 @@
 title: Assa Abloy
 slug: "assa-abloy"
 description: ""
-date: "2026-03-05T22:38:39.570778"
+date: "2026-03-13T08:56:59.501077"
 draft: false
 sectors:
   - hardware
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - lock
+products: []
+headquarters_locations:
+  - stockholm
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +56,26 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-287"
-  - orange
-  - black
-  - yellow
   - blue
-  - silver
+  - "pantone-287"
   - beige
+  - yellow
+  - silver
   - green
+  - black
+  - orange
 typographies:
   - verdana
 imagery_styles:
   - photography
   - product
 wikidata_description: Swedish company
+wikidata_url: "https://www.wikidata.org/wiki/Q738421"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,12 +127,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q738421) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Lock](/products_or_materials_produced/lock/) |
+| Headquarters Location | [Stockholm](/headquarters_locations/stockholm/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Freebase Id | /m/02h132 |
 | Follows | Yale & Valor |
 | Viaf Cluster Id | 296017436 |
 | Headquarters Location | Stockholm |
 | Inception | 1994-01-01 |
-| Logo Image | Assa Abloy.svg |
 | Legal Form | aktiebolag |
 | Industry | industrial manufacturing |
 | Quora Topic Id | Assa-Abloy |
@@ -133,7 +154,6 @@ guideline_count: 1
 | Opencorporates Id | se/556059-3575 |
 | Eu Vat Number | SE556059357501 |
 | Isin | SE0007100581 |
-| Employees | 47,426 |
 | Product Or Material Produced | lock |
 | X (Twitter) Username | assaabloygs (as of 2020-04-19, from 2009-09-04) |
 | Facebook Username | assaabloy |
@@ -147,3 +167,9 @@ guideline_count: 1
 | Carbon Footprint | 60,243 tonne of carbon dioxide equivalent (from 2023-01-01, until 2023-12-31), 166,908 tonne of carbon dioxide equivalent (from 2023-01-01, until 2023-12-31), 16,629,181 tonne of carbon dioxide equivalent (from 2023-01-01, until 2023-12-31), 15,240,417 tonne of carbon dioxide equivalent (from 2023-01-01, until 2023-12-31), 55,751 tonne of carbon dioxide equivalent (from 2023-01-01, until 2023-12-31) (+36 more) |
 | Wikirate Company Id | 57629 |
 | Youtube Handle | assaabloyitalia7737 (as of 2025-10-20) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 47,426 | - | [10K-50K](/employees_buckets/10k-50k/) |

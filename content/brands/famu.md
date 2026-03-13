@@ -2,7 +2,7 @@
 title: FAMU
 slug: famu
 description: ""
-date: "2026-03-05T22:38:39.525165"
+date: "2026-03-13T08:56:59.460979"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1887
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,27 +51,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
+  - seal
   - signature
 brand_colors:
-  - orange
   - green
+  - orange
 typographies:
   - "century-gothic"
-  - serif
   - times
+  - serif
   - "gill-sans"
 imagery_styles:
-  - dynamic
   - photography
   - product
   - clean
+  - dynamic
 wikidata_description: "public, historically black university in Tallahassee, Florida (U.S.)"
+wikidata_url: "https://www.wikidata.org/wiki/Q1430048"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -185,6 +198,11 @@ Maintaining clean brands/ed logo layouts within university space contributions.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1430048) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1887](/foundation_dates/1887/) |
 | Coordinate Location | 30.4178, -84.2845 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Florida |
@@ -205,7 +223,6 @@ Maintaining clean brands/ed logo layouts within university space contributions.
 | Category For Alumni Of Educational Institution | Category:Florida A&M University alumni |
 | Grid Id | grid.255948.7 |
 | Affiliation | State University System of Florida |
-| Logo Image | Florida A&M University logo.svg |
 | Street Address | 1500 S Martin Luther King Jr Blvd, Tallahassee, FL, 32307 |
 | Library Of Congress Authority Id | n81139282 |
 | Times Higher Education World University Id | florida-agricultural-and-mechanical-university |
@@ -222,7 +239,6 @@ Maintaining clean brands/ed logo layouts within university space contributions.
 | Chairperson | Frederick S. Humphries (from 1985, until 2001), George W. Gore (from 1950, until 1968) |
 | Crunchbase Organization Id | florida-agricultural-and-mechanical-university |
 | Count Of Students | 9,184 (as of 2020-09), 8,077 (as of 2021-09-01) |
-| Employees | 1,830 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I8248082 |
@@ -242,3 +258,9 @@ Maintaining clean brands/ed logo layouts within university space contributions.
 | Encyclopedia Of African American History 1896 To The Present Entry Id | 0434 |
 | Threads Username | famu_1887 |
 | Athletics Program | Florida A&M Rattlers and Lady Rattlers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,830 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

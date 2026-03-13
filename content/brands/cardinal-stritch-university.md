@@ -2,7 +2,7 @@
 title: Cardinal Stritch University
 slug: "cardinal-stritch-university"
 description: ""
-date: "2026-03-05T22:38:39.601614"
+date: "2026-03-13T08:56:59.544353"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1937
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - wordmark
+  - primary
   - stacked
+  - wordmark
 brand_colors: []
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
-  - contemporary
   - photography
+  - contemporary
 wikidata_description: "Roman Catholic university in Wisconsin, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q5038617"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +129,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5038617) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1937](/foundation_dates/1937/) |
 | Coordinate Location | 43.14, -87.91 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Wisconsin, Milwaukee County, Fox Point, Glendale |
@@ -142,9 +161,7 @@ guideline_count: 1
 | Social Media Followers | 3,246 (as of 2021-01-05), 3,264 (as of 2020-04-24) |
 | Crunchbase Organization Id | cardinal-stritch-university |
 | Count Of Students | 1,646 (as of 2020-09) |
-| Total Assets | 44,442,025 United States dollar (as of 2020-06-30) |
 | Endowment | 12,499,997 United States dollar (as of 2020-06-30) |
-| Employees | 380 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Academic Calendar Type | semester |
@@ -153,3 +170,15 @@ guideline_count: 1
 | Domain Name | stritch.edu |
 | Athletics Program | Cardinal Stritch Wolves |
 | Post Town | Milwaukee, WI |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 380 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $44.44M | as of 2020-06-30 | [10M-100M](/total_assets_buckets/10m-100m/) |

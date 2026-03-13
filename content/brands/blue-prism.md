@@ -2,7 +2,7 @@
 title: Blue Prism
 slug: "blue-prism"
 description: ""
-date: "2026-03-05T22:38:39.419246"
+date: "2026-03-13T08:56:59.378685"
 draft: false
 sectors:
   - software
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - warrington
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,17 +56,19 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - staged
-  - illustration
-  - abstract
-  - flat
   - macro
+  - illustration
+  - photography
+  - flat
+  - abstract
 wikidata_description: British software company
+wikidata_url: "https://www.wikidata.org/wiki/Q30324186"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +134,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30324186) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Warrington](/headquarters_locations/warrington/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Inception | 2001-01-01 |
 | Google Knowledge Graph Id | /g/11c37h5z8v |
 | X (Twitter) Username | blue_prism (as of 2020-04-19, from 2010-04-05) |
@@ -132,7 +151,6 @@ guideline_count: 2
 | Stock Exchange | OTC Markets Group |
 | Isin | GB00BYQ0HV16 |
 | Social Media Followers | 28,843 (as of 2021-01-03), 24,502 (as of 2020-04-19), 7,740 (as of 2021-10-12), 30,271 (as of 2022-02-26), 29,513 (as of 2023-02-04) (+3 more) |
-| Logo Image | BluePrismLogo.png (from 2005) |
 | Industry | robotic process automation |
 | Crunchbase Organization Id | blue-prism-group-plc |
 | Legal Entity Identifier | 2138006DQE9FNUW8KO83 |

@@ -2,7 +2,7 @@
 title: Tetra Pak
 slug: "tetra-pak"
 description: ""
-date: "2026-03-05T22:38:39.800086"
+date: "2026-03-13T08:56:59.854561"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -20,9 +20,22 @@ countries:
   - switzerland
   - sweden
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "food-packaging"
+products: []
+headquarters_locations:
+  - pully
+subsidiaries: []
+foundation_dates:
+  - 1943
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: multinational food packaging and processing company
+wikidata_url: "https://www.wikidata.org/wiki/Q659200"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q659200) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Food Packaging](/products_or_materials_produced/food-packaging/) |
+| Headquarters Location | [Pully](/headquarters_locations/pully/) |
+| Foundation Date | [1943](/foundation_dates/1943/) |
 | Founded By | Ruben Rausing |
 | Freebase Id | /m/01d8rd |
 | Viaf Cluster Id | 172471109 |
@@ -70,7 +92,6 @@ guideline_count: 1
 | Inception | 1943 |
 | Legal Form | Aktiengesellschaft |
 | Location Of Formation | Lund |
-| Logo Image | TetraPak-Logo EN.svg |
 | Country | Sweden, Switzerland |
 | Quora Topic Id | Tetra-Pak-company |
 | Eu Transparency Register Id | 7574443768-34 |
@@ -81,7 +102,6 @@ guideline_count: 1
 | Image | Tetra Pak packaging portfolio I medium size.jpg |
 | Industry | product packaging industry |
 | Microsoft Academic Id (Discontinued) | 2799362445 |
-| Employees | 22,896 |
 | Swedish Organization Number | 556050-0398 |
 | Library Of Congress Authority Id | n90637628 |
 | Ror Id | 028h2cy94 |
@@ -113,4 +133,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $10.36B (10,360,000,000 euro (as of 2011))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $10.36B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 22,896 | - | [10K-50K](/employees_buckets/10k-50k/) |

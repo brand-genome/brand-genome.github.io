@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-03-05T22:38:39.400719"
+date: "2026-03-13T08:56:59.365027"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - israel
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries:
   - "computer-security-software"
 countries:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+  - "networking-hardware"
+products: []
+headquarters_locations:
+  - "tel-aviv"
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,31 +54,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
   - alternate
+  - primary
   - horizontal
 brand_colors:
   - white
-  - pink
   - black
+  - pink
   - gray
 typographies:
-  - arial
   - din
   - display
+  - arial
 imagery_styles:
-  - bold
-  - photography
   - dynamic
-  - professional
   - contemporary
+  - professional
+  - photography
+  - bold
 wikidata_description: Israeli security company
+wikidata_url: "https://www.wikidata.org/wiki/Q176587"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +129,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q176587) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
+| Headquarters Location | [Tel Aviv](/headquarters_locations/tel-aviv/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Freebase Id | /m/06wx09 |
 | Viaf Cluster Id | 258834890, 143318652 |
 | Inception | 1993 |
@@ -143,7 +165,7 @@ guideline_count: 1
 | Youtube Channel Id | UCXnlgfiXZQm1sbxMzU-8ZKA (as of 2023-02-19, from 2008-08-08) |
 | Linkedin Company Or Organization Id | check-point-software-technologies (as of 2022-01-30) |
 | Instagram Username | checkpointsoftware (as of 2022-01-30) |
-| Email Address | mailto:cpp@checkpoint.com, mailto:privacy_inquiries@checkpoint.com |
+| Email Address | cpp@checkpoint.com, privacy_inquiries@checkpoint.com |
 | Social Media Followers | 69,626 (as of 2021-01-03), 67,590 (as of 2020-04-19), 73,100 (as of 2021-07-03), 70,983 (as of 2022-02-25), 71,306 (as of 2023-02-04) (+2 more) |
 | Central Index Key | 0001015922 |
 | Manualslib Brand Id | check-point |
@@ -153,6 +175,5 @@ guideline_count: 1
 | Official Name | Check Point Software Technologies Ltd., צ'ק פוינט טכנולוגיות תוכנה בע"מ |
 | Short Name | Check Point |
 | Child Organization Or Unit | Zone Labs |
-| Logo Image | Check Point logo 2022.svg |
 | Domain Name | checkpoint.com |
 | ‎Private Enterprise Number | 2620 |

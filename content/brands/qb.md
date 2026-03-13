@@ -2,7 +2,7 @@
 title: QB
 slug: qb
 description: ""
-date: "2026-03-05T22:38:39.763698"
+date: "2026-03-13T08:56:59.814598"
 draft: false
 sectors:
   - construction
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - amersfoort
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,22 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - black
 typographies:
   - arial
 imagery_styles:
+  - product
   - bold
   - monochrome
-  - product
 wikidata_description: Dutch public transport bus company
+wikidata_url: "https://www.wikidata.org/wiki/Q3146926"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,15 +114,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3146926) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Amersfoort](/headquarters_locations/amersfoort/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Image | Qbuzz Friesland.jpg, AlblasserwaardBuurtbus01.jpg |
 | Headquarters Location | Amersfoort |
 | Country | Netherlands |
 | Inception | 2008-04 |
-| Logo Image | Qbuzz logo.svg |
 | Parent Organization Or Unit | Nederlandse Spoorwegen (until 2017-07-13), Busitalia-Sita Nord (from 2017-07-13) |
 | Legal Form | besloten vennootschap |
 | Location Of Formation | Amersfoort |
-| Employees | 2,100 (as of 2017), 1,846 (as of 2016) |
 | Osm Name Suggestion Index Id | qbuzz-a00d8a, qbuzz-fa6152 |
 | Facebook Username | Qbuzz |
 | X (Twitter) Username | qbuzzgd (as of 2020-12-27, from 2012-11-23) |
@@ -123,3 +141,10 @@ guideline_count: 1
 | Crunchbase Organization Id | qbuzz |
 | Legal Entity Identifier | 894500TSQ32KOEVUKS11 |
 | Wikikids Id | Qbuzz |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,100 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,846 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |

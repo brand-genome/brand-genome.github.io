@@ -2,7 +2,7 @@
 title: General Electric
 slug: "general-electric"
 description: ""
-date: "2026-03-05T22:38:39.679157"
+date: "2026-03-13T08:56:59.596789"
 draft: false
 sectors:
   - aerospace
@@ -14,24 +14,40 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries:
-  - "mechanical-engineering"
   - "automotive-industry"
-  - conglomerate
+  - "power-engineering"
   - "finance-lease"
   - "weapons-industry"
-  - "power-engineering"
   - "aircraft-industry"
+  - conglomerate
+  - "mechanical-engineering"
 countries:
   - "united-states"
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+  - massachusetts
+subsidiaries: []
+foundation_dates:
+  - 1892
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,10 +71,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q54173"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +122,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54173) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/); [Massachusetts](/headquarters_locations/massachusetts/) |
+| Foundation Date | [1892](/foundation_dates/1892/) |
 | Founded By | Thomas Edison, Elihu Thomson, Charles A. Coffin, Edwin J. Houston |
 | Library Of Congress Authority Id | n79078780 |
 | Viaf Cluster Id | 136799030 |
@@ -119,9 +143,6 @@ guideline_count: 2
 | Country | United States |
 | Location Of Formation | Schenectady |
 | Legal Entity Identifier | 3C7474T6CDKPR9K6YT90 |
-| Employees | 307,000 (as of 2014), 295,000 (as of 2016-12-31), 333,000 (as of 2016), 313,000 (as of 2018-06-06), 174,000 (as of 2020-12-31) |
-| Market Capitalization | 288,000,000,000 United States dollar (as of 2016), 114,920,000,000 United States dollar (as of 2021-08-26) |
-| Total Assets | 365,183,000,000 United States dollar (as of 2016-12-31), 493,071,000,000 United States dollar (as of 2015-12-31), 656,285,000,000 United States dollar (as of 2013), 253,452,000,000 United States dollar (as of 2020-12-31) |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.2910 |
 | Ipv4 Routing Prefix | 3.0.0.0/8 |
 | Openmlol Author Id | 75260 |
@@ -159,7 +180,6 @@ guideline_count: 2
 | Ror Id | 013msgt25 |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0029653 |
 | Littlesis Organization Id | 6 |
-| Logo Image | General Electric logo.svg |
 | Manualslib Brand Id | ge |
 | Mppda Digital Archive Organisation Id | 680 |
 | Gui Number | 11464863 |
@@ -172,7 +192,6 @@ guideline_count: 2
 | Has Works In The Collection | Netherlands Open Air Museum, Bundeswehr Museum of German Defense Technology |
 | Zhihu Topic Id | 19650965 |
 | Crunchbase Organization Id | general-electric |
-| Total Equity | 37,073,000,000 United States dollar (as of 2020-12-31) |
 | Great Norwegian Encyclopedia Id | General_Electric_Company |
 | Brockhaus Enzyklopädie Online Id | general-electric-company |
 | Fandom Article Id | logos:General_Electric |
@@ -216,30 +235,68 @@ guideline_count: 2
 
 ### Revenue History
 
-- $123.69B (123,693,000,000 United States dollar (as of 2016))
-- $117.39B (117,386,000,000 United States dollar (as of 2015))
-- $117.18B (117,184,000,000 United States dollar (as of 2014))
-- $146.04B (146,045,000,000 United States dollar (as of 2013))
-- $90.22B (90,221,000,000 United States dollar (as of 2019-01-01))
-- $75.83B (75,833,000,000 United States dollar (as of 2020))
-- $74.20B (74,196,000,000 United States dollar (as of 2021))
-- $122.09B (122,092,000,000 United States dollar (as of 2017))
-- $121.61B (121,615,000,000 United States dollar (as of 2018))
-- $76.56B (76,555,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $123.69B | as of 2016 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $117.39B | as of 2015 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $117.18B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $146.04B | as of 2013 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $90.22B | as of 2019-01-01 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $75.83B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $74.20B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $122.09B | as of 2017 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $121.61B | as of 2018 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $76.56B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $26.27B (26,267,000,000 United States dollar (as of 2013))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $26.27B | as of 2013 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $8.54B (8,540,000,000 United States dollar (as of 2016))
-- $5.79B (-5,795,000,000 United States dollar (as of 2015))
-- $15.35B (15,345,000,000 United States dollar (as of 2014))
-- $13.06B (13,057,000,000 United States dollar (as of 2013))
-- $22.36B (-22,355,000,000 United States dollar (as of 2018))
-- $5.55B (5,546,000,000 United States dollar (as of 2020))
-- $5.79B (-5,786,000,000 United States dollar (as of 2017))
-- $4.98B (-4,979,000,000 United States dollar (as of 2019))
-- $6.52B (-6,520,000,000 United States dollar (as of 2021))
-- $225.00M (225,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $8.54B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.79B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $15.35B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $13.06B | as of 2013 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $22.36B | as of 2018 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $5.55B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.79B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.98B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.52B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $225.00M | as of 2022 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 307,000 | as of 2014 | [100K-500K](/employees_buckets/100k-500k/) |
+| 295,000 | as of 2016-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 333,000 | as of 2016 | [100K-500K](/employees_buckets/100k-500k/) |
+| 313,000 | as of 2018-06-06 | [100K-500K](/employees_buckets/100k-500k/) |
+| 174,000 | as of 2020-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $365.18B | as of 2016-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $493.07B | as of 2015-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $656.28B | as of 2013 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $253.45B | as of 2020-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $37.07B | as of 2020-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $288.00B | as of 2016 | [100B-500B](/market_cap_buckets/100b-500b/) |
+| $114.92B | as of 2021-08-26 | [100B-500B](/market_cap_buckets/100b-500b/) |

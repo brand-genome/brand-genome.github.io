@@ -2,23 +2,23 @@
 title: FAO
 slug: fao
 description: ""
-date: "2026-03-05T22:38:39.194887"
+date: "2026-03-13T08:56:59.129754"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
-  - 2024
   - 2023
+  - 2024
 languages:
   - english
 tags:
-  - "food-beverage"
-  - "social-networks"
   - agriculture
   - institution
+  - "food-beverage"
+  - "social-networks"
 industries:
   - "international-governmental-or-non-governmental-organizations"
 countries:
@@ -26,6 +26,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - rome
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international organization with the objective of ending hunger
+wikidata_url: "https://www.wikidata.org/wiki/Q82151"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -72,6 +85,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q82151) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rome](/headquarters_locations/rome/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Topic'S Main Category | Category:Food and Agriculture Organization |
 | Gnd Id | 2010460-1 |
 | Ndl Authority Id | 00288567 |
@@ -93,7 +112,6 @@ guideline_count: 2
 | Bibliothèque Nationale De France Id | 118620937 |
 | Ringgold Id | 17107 |
 | Le Monde Diplomatique Subject Id | sujet/fao |
-| Logo Image | FAO logo.svg |
 | Ipv4 Routing Prefix | 168.202.0.0/16 |
 | Quora Topic Id | Food-and-Agriculture-Organization-of-the-United-Nations-FAO |
 | Encyclopedia Of Australian Science Id | A000221b |

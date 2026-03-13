@@ -2,11 +2,11 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-03-05T22:38:39.332721"
+date: "2026-03-13T08:56:59.286612"
 draft: false
 sectors:
-  - automobile
   - "logistics-supply-chain"
+  - automobile
 regions:
   - sweden
 years:
@@ -14,18 +14,36 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
   - sweden
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "50B-100B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - truck
+  - coach
+  - "commercial-vehicle"
+  - "diesel-engine"
+products: []
+headquarters_locations:
+  - sodertalje
+subsidiaries: []
+foundation_dates:
+  - 1911
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +68,19 @@ brand_colors: []
 typographies:
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - monochrome
-  - artificial
-  - realistic
   - natural
+  - realistic
+  - monochrome
+  - photography
+  - artificial
+  - bold
 wikidata_description: Swedish truck and bus manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q219960"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +132,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q219960) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/) |
+| Headquarters Location | [Sodertalje](/headquarters_locations/sodertalje/) |
+| Foundation Date | [1911](/foundation_dates/1911/) |
 | Topic'S Main Category | Category:Scania AB |
 | Commons Gallery | Scania AB |
 | Freebase Id | /m/01d8fq |
@@ -155,25 +182,45 @@ guideline_count: 1
 | Crunchbase Organization Id | scania |
 | Weibo User Id | 1006062057368611 |
 | Legal Entity Identifier | 52990000AKKX75BMWB43 |
-| Employees | 56,927 (as of 2022) |
 | Operating Area | worldwide |
-| Total Assets | 290,660,000,000 Swedish krona (as of 2022) |
-| Total Equity | 79,620,000,000 Swedish krona (as of 2022) |
 | Youtube Channel Id | UCr7JOoXij1Vgq-6KOeB7_bA (as of 2024-08-18, from 2007-11-21) |
 | Wmi Code | YS2 |
-| Logo Image | Scandia wordmark.svg |
 | Osm Name Suggestion Index Id | scania-f0ee07, scania-bb8fb2 |
 | Bing Entity Id | 76d39ad4-3d9b-2cdf-00e9-93fc6eff7fd2 |
 | Fandom Article Id | logo:Scania_AB |
 
 ### Revenue History
 
-- $170.00B (170,000,000,000 Swedish krona (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $170.00B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $12.37B (12,370,000,000 Swedish krona (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $12.37B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $7.86B (7,860,000,000 Swedish krona (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $7.86B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 56,927 | as of 2022 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $290.66B | as of 2022 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $79.62B | as of 2022 | [50B-100B](/total_equity_buckets/50b-100b/) |

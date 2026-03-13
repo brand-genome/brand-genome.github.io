@@ -2,7 +2,7 @@
 title: Filtron
 slug: filtron
 description: ""
-date: "2026-03-05T22:38:39.672135"
+date: "2026-03-13T08:56:59.592630"
 draft: false
 sectors:
   - automobile
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "milton-keynes"
+subsidiaries: []
+foundation_dates:
+  - 1940
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +51,25 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
+  - "pantone-427"
   - white
   - "pantone-109"
-  - "pantone-376"
   - "pantone-186"
   - black
   - "pantone-429"
-  - "pantone-427"
+  - "pantone-376"
 typographies:
-  - arial
   - futura
+  - arial
 imagery_styles:
   - bold
 wikidata_description: British company
+wikidata_url: "https://www.wikidata.org/wiki/Q5449280"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5449280) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Milton Keynes](/headquarters_locations/milton-keynes/) |
+| Foundation Date | [1940](/foundation_dates/1940/) |
 | Stock Exchange | London Stock Exchange |
 | Headquarters Location | Milton Keynes |
 | Inception | 1940 |

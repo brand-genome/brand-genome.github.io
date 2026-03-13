@@ -2,11 +2,11 @@
 title: Boise Cascade
 slug: "boise-cascade"
 description: ""
-date: "2026-03-05T22:38:39.362209"
+date: "2026-03-13T08:56:59.313955"
 draft: false
 sectors:
-  - construction
   - "forestry-timber"
+  - construction
 regions:
   - usa
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boise
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,36 +50,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - "pantone-357"
   - red
-  - "pantone-382"
   - grey
-  - "pantone-433"
-  - black
-  - "pantone-362"
   - yellow
-  - "pantone-4196"
-  - "pantone-1655"
+  - "pantone-382"
+  - "pantone-362"
   - "pantone-5435"
   - green
+  - black
+  - "pantone-1655"
+  - "pantone-4196"
+  - "pantone-433"
 typographies:
-  - arial
   - montserrat
+  - arial
 imagery_styles:
-  - bold
-  - contemporary
   - graphic
+  - contemporary
+  - bold
 wikidata_description: pulp and paper products company
+wikidata_url: "https://www.wikidata.org/wiki/Q2909088"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -126,6 +139,12 @@ Imagery principles: Involved (showcase people interacting), Straight Forward (ca
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2909088) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boise](/headquarters_locations/boise/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Boise |
 | Inception | 1957-01-01 |
 | Quora Topic Id | Boise-Cascade, Boise-Cascade-Company-company |
@@ -139,7 +158,6 @@ Imagery principles: Involved (showcase people interacting), Straight Forward (ca
 | Stock Exchange | New York Stock Exchange |
 | Central Index Key | 0001009881 |
 | Country | United States |
-| Logo Image | Boise Cascade logo.svg |
 | Youtube Handle | boisecascadecompany (as of 2025-11-27) |
 | Number Of Viewers/Listeners | 6,589,372 (as of 2025-11-27) |
 | Threads Username | boisecascade |

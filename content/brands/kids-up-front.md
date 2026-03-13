@@ -2,7 +2,7 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-03-05T22:38:39.406281"
+date: "2026-03-13T08:56:59.366877"
 draft: false
 sectors:
   - ngo
@@ -20,9 +20,20 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "UNDER-1M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +58,18 @@ brand_colors:
   - white
   - black
 typographies:
-  - nunito
   - avenir
+  - nunito
 imagery_styles:
-  - bold
   - clean
+  - bold
 wikidata_description: charitable organization from Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q137366507"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,10 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q137366507) |
+
+| Property | Value |
+|----------|-------|
 | Cra Program Account Number | 805044542RR0001 |
 | Country | Canada |
-| Employees | 1 (as of 2006), 2 (as of 2007), 3 (as of 2012), 4 (as of 2013), 6 (as of 2019) (+1 more) |
-| Total Assets | 55,284 Canadian dollar (as of 2006), 75,836 Canadian dollar (as of 2007), 127,021 Canadian dollar (as of 2008), 166,228 Canadian dollar (as of 2009), 165,619 Canadian dollar (as of 2010) (+14 more) |
 | Donations | 89,390 Canadian dollar (as of 2006), 52,826 Canadian dollar (as of 2007), 55,805 Canadian dollar (as of 2008), 1,309,899 Canadian dollar (as of 2009), 1,117,609 Canadian dollar (as of 2010) (+14 more) |
 | Linkedin Company Or Organization Id | kids-up-front-toronto |
 | Instagram Username | kidsupfrontto |
@@ -114,22 +129,59 @@ guideline_count: 1
 
 ### Revenue History
 
-- $625.64K (625,638 Canadian dollar (as of 2006))
-- $815.74K (815,739 Canadian dollar (as of 2007))
-- $832.22K (832,223 Canadian dollar (as of 2008))
-- $1.33M (1,333,244 Canadian dollar (as of 2009))
-- $1.15M (1,152,609 Canadian dollar (as of 2010))
-- $1.28M (1,280,267 Canadian dollar (as of 2011))
-- $1.96M (1,958,096 Canadian dollar (as of 2012))
-- $2.96M (2,963,616 Canadian dollar (as of 2013))
-- $2.84M (2,835,619 Canadian dollar (as of 2014))
-- $2.73M (2,733,632 Canadian dollar (as of 2015))
-- $2.92M (2,919,088 Canadian dollar (as of 2016))
-- $3.33M (3,333,000 Canadian dollar (as of 2017))
-- $3.15M (3,153,968 Canadian dollar (as of 2018))
-- $2.99M (2,985,225 Canadian dollar (as of 2019))
-- $973.97K (973,969 Canadian dollar (as of 2020))
-- $1.09M (1,092,804 Canadian dollar (as of 2021))
-- $2.85M (2,852,160 Canadian dollar (as of 2022))
-- $2.84M (2,843,774 Canadian dollar (as of 2023))
-- $3.38M (3,379,821 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $625.64K | as of 2006 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $815.74K | as of 2007 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $832.22K | as of 2008 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.33M | as of 2009 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.15M | as of 2010 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.28M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.96M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.96M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.84M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.73M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.92M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.33M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.15M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.99M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $973.97K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.09M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.85M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.84M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.38M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1 | as of 2006 | [UNDER-100](/employees_buckets/under-100/) |
+| 2 | as of 2007 | [UNDER-100](/employees_buckets/under-100/) |
+| 3 | as of 2012 | [UNDER-100](/employees_buckets/under-100/) |
+| 4 | as of 2013 | [UNDER-100](/employees_buckets/under-100/) |
+| 6 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 5 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $55.28K | as of 2006 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $75.84K | as of 2007 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $127.02K | as of 2008 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $166.23K | as of 2009 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $165.62K | as of 2010 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $194.09K | as of 2011 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $226.08K | as of 2012 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $245.29K | as of 2013 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $311.41K | as of 2014 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $409.82K | as of 2015 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $553.67K | as of 2016 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $634.68K | as of 2017 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $708.15K | as of 2018 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $810.19K | as of 2019 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $918.36K | as of 2020 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $993.75K | as of 2021 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $1.06M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.12M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.18M | as of 2024 | [1M-10M](/total_assets_buckets/1m-10m/) |

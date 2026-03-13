@@ -2,11 +2,11 @@
 title: Ninja One
 slug: "ninja-one"
 description: ""
-date: "2026-03-05T22:38:39.187158"
+date: "2026-03-13T08:56:59.116799"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,42 +46,44 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - icon
-  - secondary
-  - lockup
-  - abstract
   - favicon
+  - secondary
+  - primary
+  - lockup
   - vertical
+  - symbol
+  - abstract
 brand_colors:
   - white
-  - "pantone-802"
-  - "pantone-715"
-  - "pantone-165"
   - "pantone-302"
-  - "pantone-7541"
-  - black
+  - "pantone-715"
   - blue
+  - "pantone-165"
+  - "pantone-656"
   - "pantone-7463"
   - "pantone-2185"
-  - gray
+  - "pantone-7541"
   - green
-  - "pantone-656"
+  - black
+  - gray
   - "pantone-7479"
+  - "pantone-802"
 typographies:
   - montserrat
 imagery_styles:
-  - photography
-  - geometric
-  - abstract
-  - subtle
   - clean
+  - photography
+  - subtle
+  - abstract
+  - geometric
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

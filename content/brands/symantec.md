@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-03-05T22:38:39.753062"
+date: "2026-03-13T08:56:59.792162"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -21,11 +21,27 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets:
+  - "10M-100M"
+market_cap_buckets: []
+products_or_materials_produced:
+  - norton
+products: []
+headquarters_locations:
+  - tempe
+  - "mountain-view"
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +66,15 @@ brand_colors:
   - yellow
 typographies: []
 imagery_styles:
-  - professional
   - clean
+  - professional
 wikidata_description: American software company
+wikidata_url: "https://www.wikidata.org/wiki/Q677085"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q677085) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Norton](/products_or_materials_produced/norton/) |
+| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Mountain View](/headquarters_locations/mountain-view/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | Gary Hendrix |
 | Stock Exchange | Nasdaq (from 2019, until 2022), Nasdaq (until 2019), Nasdaq (from 2022) |
 | Topic'S Main Category | Category:Gen Digital |
@@ -102,7 +127,6 @@ guideline_count: 1
 | Headquarters Location | Tempe, Mountain View |
 | Isin | US6687711084 |
 | Inception | 1982-03-01 |
-| Logo Image | Logo NortonLifeLock.svg (from 2019, until 2022), Symantec logo10.svg (from 2010, until 2019), Symantec Logo.svg (from 2001, until 2010), Symantec Corporation logo 1990.svg (from 1990, until 1999), Gen logo.svg (from 2022) |
 | X (Twitter) Username | NortonLifeLock (as of 2020-01-02, from 2019-09-17), Symantec (as of 2016-10-06, from 2008-11-18), GenDigitalInc (as of 2023-01-22, from 2019-09-17) |
 | Facebook Username | NortonLifeLock, Symantec, Gen-Digital-100095212367251 |
 | Google+ Id | +Symantec |
@@ -140,9 +164,6 @@ guideline_count: 1
 | Social Media Followers | 205,761 (as of 2021-01-05), 119 (as of 2022-12-14), 202,868 (as of 2022-02-28), 3,497 (as of 2022-07-08), 2,200 (as of 2022-07-08) |
 | Board Member | Frank Dangeard (from 2007), Pavel Baudiš (from 2022), Vincent Pilette (from 2019), Ondřej Vlček (from 2022) |
 | Owned By | Capital Group Companies (as of 2020-07-01), The Vanguard Group (as of 2020-07-01), BlackRock (as of 2020-07-01), Starboard Value (as of 2020-07-01), The Vanguard Group (as of 2023-07-17) (+2 more) |
-| Total Assets | 7,735,000,000 United States dollar (as of 2020-04-03), 15,938,000,000 United States dollar (as of 2019-03-29), 15,759,000,000 United States dollar (as of 2018-03-30), 18,174,000,000 United States dollar (as of 2017-03-31), 11,767,000,000 United States dollar (as of 2016-04-01) (+1 more) |
-| Total Equity | 10,000,000 United States dollar (as of 2020-04-03), 5,738,000,000 United States dollar (as of 2019-03-29), 5,023,000,000 United States dollar (as of 2018-03-30), 3,487,000,000 United States dollar (as of 2017-03-31), 3,676,000,000 United States dollar (as of 2016-04-01) |
-| Employees | 3,659 (as of 2020-04-03) |
 | Gamefaqs Company Id | 199341 |
 | Described At Url | http://www.fundinguniverse.com/company-histories/symantec-corporation-history/ |
 | Official Name | NortonLifeLock Inc. (from 2019, until 2022), Symantec Corporation (from 1982, until 2019), Gen Digital Inc. (from 2022) |
@@ -172,25 +193,58 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.49B (2,490,000,000 United States dollar (as of 2020-01-01))
-- $2.46B (2,456,000,000 United States dollar (as of 2019-01-01))
-- $2.56B (2,559,000,000 United States dollar (as of 2018-01-01))
-- $2.08B (2,080,000,000 United States dollar (as of 2016-01-01))
-- $2.09B (2,091,000,000 United States dollar (as of 2017))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.49B | as of 2020-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.46B | as of 2019-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.56B | as of 2018-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.08B | as of 2016-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.09B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $355.00M (355,000,000 United States dollar (as of 2020-01-01))
-- $158.00M (158,000,000 United States dollar (as of 2019-01-01))
-- $154.00M (-154,000,000 United States dollar (as of 2018-01-01))
-- $152.00M (-152,000,000 United States dollar (as of 2017-01-01))
-- $167.00M (167,000,000 United States dollar (as of 2016-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $355.00M | as of 2020-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $158.00M | as of 2019-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $154.00M | as of 2018-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $152.00M | as of 2017-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $167.00M | as of 2016-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $3.89B (3,887,000,000 United States dollar (as of 2020-01-01))
-- $31.00M (31,000,000 United States dollar (as of 2019-01-01))
-- $1.14B (1,138,000,000 United States dollar (as of 2018-01-01))
-- $106.00M (-106,000,000 United States dollar (as of 2017-01-01))
-- $2.49B (2,488,000,000 United States dollar (as of 2016-01-01))
-- $554.00M (554,000,000 United States dollar (as of 2021-04-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $3.89B | as of 2020-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $31.00M | as of 2019-01-01 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $1.14B | as of 2018-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $106.00M | as of 2017-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $2.49B | as of 2016-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $554.00M | as of 2021-04-01 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,659 | as of 2020-04-03 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $7.74B | as of 2020-04-03 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $15.94B | as of 2019-03-29 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $15.76B | as of 2018-03-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $18.17B | as of 2017-03-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.77B | as of 2016-04-01 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $6.36B | as of 2021-04-01 | [1B-10B](/total_assets_buckets/1b-10b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $10.00M | as of 2020-04-03 | [10M-100M](/total_equity_buckets/10m-100m/) |
+| $5.74B | as of 2019-03-29 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $5.02B | as of 2018-03-30 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $3.49B | as of 2017-03-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $3.68B | as of 2016-04-01 | [1B-10B](/total_equity_buckets/1b-10b/) |

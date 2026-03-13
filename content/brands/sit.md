@@ -2,7 +2,7 @@
 title: SIT
 slug: sit
 description: ""
-date: "2026-03-05T22:38:39.713596"
+date: "2026-03-13T08:56:59.730634"
 draft: false
 sectors:
   - education
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - institut
   - technology
+  - institut
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +50,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
+  - "pantone-485"
   - red
   - black
-  - "pantone-485"
 typographies:
   - avenir
 imagery_styles:
   - dynamic
   - professional
 wikidata_description: set of related web pages served from a single web domain
+wikidata_url: "https://www.wikidata.org/wiki/Q35127"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +112,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q35127) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Dewey Decimal Classification | 006.7, 025.0422, 025.04252 |
 | Subclass Of | digital media, online publication, online service, virtual place, integrating resource (+3 more) |
 | Bncf Thesaurus Id | 7512 |

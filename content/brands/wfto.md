@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-03-05T22:38:39.433075"
+date: "2026-03-13T08:56:59.397100"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - culemborg
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ imagery_styles:
   - photography
   - duotone
 wikidata_description: "global association of fair trade producer cooperatives, exporters, importers, retailers, national and regional fair trade networks and Fair Trade Support Organizations"
+wikidata_url: "https://www.wikidata.org/wiki/Q1711776"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1711776) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Culemborg](/headquarters_locations/culemborg/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/06lcp8 |
 | Inception | 1989 |
 | Eu Transparency Register Id | 725848610338-68, 85745642486-51 |

@@ -2,7 +2,7 @@
 title: Cadillac
 slug: cadillac
 description: ""
-date: "2026-03-05T22:38:39.249354"
+date: "2026-03-13T08:56:59.193053"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "luxury-vehicle"
+products: []
+headquarters_locations:
+  - detroit
+subsidiaries: []
+foundation_dates:
+  - 1902
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: division of General Motors
+wikidata_url: "https://www.wikidata.org/wiki/Q27436"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +84,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q27436) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
+| Headquarters Location | [Detroit](/headquarters_locations/detroit/) |
+| Foundation Date | [1902](/foundation_dates/1902/) |
 | Follows | Henry Ford Company |
 | Founded By | Henry M. Leland, Henry Ford |
 | Topic'S Main Category | Category:Cadillac |
@@ -104,7 +125,6 @@ guideline_count: 1
 | Great Norwegian Encyclopedia Id | Cadillac |
 | Golden Id | Cadillac-VK3A4 |
 | Operating Area | United States, Canada, Mexico, Europe, Middle East (+3 more) |
-| Logo Image | Cadillac Wordmark 2021.svg (from 2021-10-01), Cadillac Wordmark.svg (until 2021), Cadillac emblem.jpg |
 | Weibo User Id | 1667554942 |
 | Crunchbase Organization Id | cadillac |
 | Baidu Tieba Name | 凯迪拉克 (as of 2023-05-07) |

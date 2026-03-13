@@ -2,17 +2,17 @@
 title: University of Pittsburgh
 slug: "university-of-pittsburgh"
 description: ""
-date: "2026-03-05T22:38:39.171320"
+date: "2026-03-13T08:56:59.100595"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
 years:
-  - 2022
   - 2024
+  - 2022
   - 2015
 languages:
   - english
@@ -25,6 +25,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - pittsburgh
+subsidiaries: []
+foundation_dates:
+  - 1787
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,38 +56,40 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - icon
-  - alternate
   - secondary
+  - primary
+  - alternate
+  - vertical
+  - seal
+  - stacked
   - horizontal
   - signature
-  - stacked
-  - vertical
 brand_colors:
   - white
+  - blue
   - gold
+  - green
   - orange
   - black
-  - blue
   - gray
-  - green
 typographies:
-  - serif
-  - "sans-serif"
   - script
   - merriweather
   - roboto
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - bold
-  - modern
   - graphic
+  - modern
+  - bold
 wikidata_description: "state-related research university located in Pittsburgh, Pennsylvania, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q235034"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -204,6 +219,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q235034) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pittsburgh](/headquarters_locations/pittsburgh/) |
+| Foundation Date | [1787](/foundation_dates/1787/) |
 | Founded By | Hugh Henry Brackenridge |
 | Located In The Administrative Territorial Entity | Pittsburgh, Oakland |
 | Coordinate Location | 40.444565, -79.953274 |
@@ -242,7 +263,6 @@ guideline_count: 3
 | Category For Employees Of The Organization | Category:University of Pittsburgh faculty |
 | Open Funder Registry Funder Id | 100007921 |
 | Permid | 5035893896 |
-| Logo Image | University of Pittsburgh wordmark.svg |
 | Grid Id | grid.21925.3d |
 | Bibliothèque Nationale De France Id | 12141444d |
 | Idref Id | 029882605 |
@@ -275,9 +295,7 @@ guideline_count: 3
 | Cantic Id | 981058515692906706 |
 | National Library Of Israel J9U Id | 987007269196005171 |
 | Count Of Students | 32,277 (as of 2020-09), 31,924 (as of 2021-09-01) |
-| Total Assets | 8,011,856,079 United States dollar (as of 2020-06-30) |
 | Endowment | 4,151,993,760 United States dollar (as of 2020-06-30), 5,528,910,000 United States dollar (as of 2022-06-30), 5,647,017,000 United States dollar (as of 2021-06-30) |
-| Employees | 13,264 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | Pitt (from 2010-02-08) |
@@ -342,3 +360,15 @@ guideline_count: 3
 | World Higher Education Database Id | IAU-020431 |
 | Irs Employer Identification Number | 25-0965591 |
 | Athletics Program | Pittsburgh Panthers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13,264 | as of 2020-09 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $8.01B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

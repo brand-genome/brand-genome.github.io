@@ -2,7 +2,7 @@
 title: Universidad de La Salle
 slug: "universidad-de-la-salle"
 description: ""
-date: "2026-03-05T22:38:39.767818"
+date: "2026-03-13T08:56:59.819169"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1863
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,20 +56,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
   - yellow
+  - blue
 typographies:
   - futura
   - helvetica
 imagery_styles:
-  - bold
   - geometric
+  - bold
   - organic
 wikidata_description: "private university in Philadelphia, Pennsylvania, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q3106542"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,6 +112,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3106542) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | Topic'S Main Category | Category:La Salle University |
 | Coordinate Location | 40.03925, -75.15325 |
 | Freebase Id | /m/02yr3z |
@@ -132,9 +151,7 @@ guideline_count: 1
 | Image | LaSalleLibrary.jpg |
 | Social Media Followers | 10,874 (as of 2021-01-04), 10,903 (as of 2020-04-22), 10,985 (as of 2022-02-26), 11,213 (as of 2023-02-09) |
 | Schoenberg Database Of Manuscripts Name Id | 49634 |
-| Total Assets | 273,667,540 United States dollar (as of 2020-06-30) |
 | Endowment | 80,002,231 United States dollar (as of 2020-06-30) |
-| Employees | 816 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I47652572 |
@@ -152,3 +169,15 @@ guideline_count: 1
 | Youtube Handle | lasalleuniversity (as of 2025-10-20) |
 | Number Of Viewers/Listeners | 9,123,634 (as of 2025-11-28) |
 | Athletics Program | La Salle Explorers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 816 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $273.67M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

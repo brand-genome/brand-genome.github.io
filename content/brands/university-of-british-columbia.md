@@ -2,7 +2,7 @@
 title: University of British Columbia
 slug: "university-of-british-columbia"
 description: ""
-date: "2026-03-05T22:38:39.540467"
+date: "2026-03-13T08:56:59.470173"
 draft: false
 sectors:
   - education
@@ -20,9 +20,22 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vancouver
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q391028"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q391028) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/) |
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Inception | 1908-01-01 |
 | Located In The Administrative Territorial Entity | Vancouver, Kelowna |
 | Country | Canada |
@@ -161,13 +182,10 @@ guideline_count: 1
 | Kalliope Verbund (Gnd) Id | 1010835-X |
 | ‎Private Enterprise Number | 60 |
 | Coat Of Arms Image | British columbia univ coat arms.svg |
-| Logo Image | British columbia ca univ logo.svg |
 | ‎Yale Lux Id | group/adb69c9e-76a2-49e8-8503-6fad9717f9c1 |
 | Irs Employer Identification Number | 98-6001255 |
 | Donations | 1,200,398,387 United States dollar (as of 2011), 1,135,210,687 United States dollar (as of 2012), 1,224,817,922 United States dollar (as of 2013), 1,162,063,632 United States dollar (as of 2014), 1,083,234,836 United States dollar (as of 2015) (+30 more) |
-| Total Assets | 4,193,198,565 United States dollar (as of 2011), 4,476,002,993 United States dollar (as of 2012), 4,544,926,506 United States dollar (as of 2013), 4,312,910,268 United States dollar (as of 2014), 3,991,050,399 United States dollar (as of 2015) (+30 more) |
 | Rilm Id | 244972 |
-| Employees | 6,539 (as of 2003), 19,087 (as of 2004), 17,374 (as of 2005), 19,194 (as of 2006), 19,535 (as of 2007) (+16 more) |
 | Organisation Tax Status | charitable organization in Canada |
 | Cra Program Account Number | 108161779RR0001 |
 | Threads Username | universityofbc |
@@ -175,38 +193,106 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.96B (1,963,407,620 United States dollar (as of 2011))
-- $1.95B (1,953,651,882 United States dollar (as of 2012))
-- $2.09B (2,090,985,876 United States dollar (as of 2013))
-- $2.03B (2,030,405,092 United States dollar (as of 2014))
-- $1.92B (1,924,481,554 United States dollar (as of 2015))
-- $1.82B (1,820,786,874 United States dollar (as of 2016))
-- $1.83B (1,833,357,664 United States dollar (as of 2017))
-- $2.03B (2,030,939,273 United States dollar (as of 2018))
-- $2.08B (2,083,291,189 United States dollar (as of 2019))
-- $2.27B (2,273,233,826 United States dollar (as of 2020))
-- $2.27B (2,266,245,117 United States dollar (as of 2021))
-- $2.75B (2,750,660,890 United States dollar (as of 2022))
-- $2.60B (2,597,142,824 United States dollar (as of 2023))
-- $1.11B (1,109,172,067 Canadian dollar (as of 2003))
-- $1.15B (1,149,169,000 Canadian dollar (as of 2004))
-- $1.29B (1,292,000,000 Canadian dollar (as of 2005))
-- $1.57B (1,569,762,000 Canadian dollar (as of 2006))
-- $1.64B (1,639,248,000 Canadian dollar (as of 2007))
-- $1.70B (1,700,299,000 Canadian dollar (as of 2008))
-- $1.65B (1,647,997,000 Canadian dollar (as of 2009))
-- $1.92B (1,923,258,000 Canadian dollar (as of 2010))
-- $2.00B (1,997,300,827 Canadian dollar (as of 2011))
-- $2.04B (2,040,016,500 Canadian dollar (as of 2012))
-- $2.11B (2,107,005,000 Canadian dollar (as of 2013))
-- $2.14B (2,141,578,000 Canadian dollar (as of 2014))
-- $2.20B (2,197,214,000 Canadian dollar (as of 2015))
-- $2.40B (2,396,214,000 Canadian dollar (as of 2016))
-- $2.41B (2,410,713,000 Canadian dollar (as of 2017))
-- $2.61B (2,605,795,000 Canadian dollar (as of 2018))
-- $2.77B (2,768,075,000 Canadian dollar (as of 2019))
-- $2.97B (2,966,998,000 Canadian dollar (as of 2020))
-- $3.01B (3,011,390,000 Canadian dollar (as of 2021))
-- $3.45B (3,453,830,451 Canadian dollar (as of 2022))
-- $3.44B (3,440,896,945 Canadian dollar (as of 2023))
-- $3.73B (3,731,139,680 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.96B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.95B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.09B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.03B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.92B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.82B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.83B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.03B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.08B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.27B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.27B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.75B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.60B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.11B | as of 2003 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.15B | as of 2004 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.29B | as of 2005 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.57B | as of 2006 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.64B | as of 2007 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.70B | as of 2008 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.65B | as of 2009 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.92B | as of 2010 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.00B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.04B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.11B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.14B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.20B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.40B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.41B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.61B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.77B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.97B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.01B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.45B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.44B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.73B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,539 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 19,087 | as of 2004 | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,374 | as of 2005 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,194 | as of 2006 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,535 | as of 2007 | [10K-50K](/employees_buckets/10k-50k/) |
+| 20,024 | as of 2008 | [10K-50K](/employees_buckets/10k-50k/) |
+| 9,282 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 22,637 | as of 2010 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,042 | as of 2011 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,531 | as of 2012 | [10K-50K](/employees_buckets/10k-50k/) |
+| 23,654 | as of 2013 | [10K-50K](/employees_buckets/10k-50k/) |
+| 24,298 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 22,925 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 24,748 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 25,882 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 27,345 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |
+| 28,608 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
+| 27,961 | as of 2021 | [10K-50K](/employees_buckets/10k-50k/) |
+| 30,306 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |
+| 32,172 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |
+| 32,593 | as of 2024 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $4.19B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.48B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.54B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.31B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.99B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.00B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.26B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.71B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.77B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.68B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.86B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.21B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.88B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.08B | as of 2003 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.34B | as of 2004 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.55B | as of 2005 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.07B | as of 2006 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.22B | as of 2007 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.73B | as of 2008 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.68B | as of 2009 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.27M | as of 2010 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.38B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.54B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.68B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.84B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.14B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.28B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.76B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.17B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.66B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.82B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.46B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.70B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $7.96B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.39B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

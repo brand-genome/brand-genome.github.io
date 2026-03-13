@@ -2,7 +2,7 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-03-05T22:38:39.521385"
+date: "2026-03-13T08:56:59.456594"
 draft: false
 sectors:
   - broadcasting
@@ -10,27 +10,37 @@ sectors:
 regions:
   - france
 years:
+  - 2017
+  - 2013
   - 2011
   - 2016
   - 2008
-  - 2017
-  - 2013
 languages:
-  - english
   - french
+  - english
 tags:
-  - "social-networks"
-  - mobile
   - broadcast
-  - featured
+  - "social-networks"
   - media
+  - featured
+  - mobile
 industries: []
 countries:
-  - france
   - germany
+  - france
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - strasbourg
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +61,21 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - orange
+  - blue
 typographies: []
 imagery_styles:
-  - bold
   - dynamic
-  - monochrome
   - illustration
+  - bold
+  - monochrome
 wikidata_description: "Franco-German television channel and network"
+wikidata_url: "https://www.wikidata.org/wiki/Q8073"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 5
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -174,8 +186,12 @@ guideline_count: 5
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8073) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Strasbourg](/headquarters_locations/strasbourg/) |
 | Streaming Media Url | https://www.arte.tv/de/live/, https://www.arte.tv/fr/direct/ |
-| Logo Image | Arte Logo 2017.svg (from 2011) |
 | Headquarters Location | Strasbourg |
 | Start Time | 1992-05-30 |
 | Freebase Id | /m/02y26_ |

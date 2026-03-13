@@ -2,7 +2,7 @@
 title: Care
 slug: care
 description: ""
-date: "2026-03-05T22:38:39.530008"
+date: "2026-03-13T08:56:59.463209"
 draft: false
 sectors:
   - healthcare
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1937
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "national park in Wayne and Garfield counties in Utah, United State"
+wikidata_url: "https://www.wikidata.org/wiki/Q129902"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +74,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q129902) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1937](/foundation_dates/1937/) |
 | Iucn Protected Areas Category | IUCN category II: National Park |
 | Coordinate Location | 38.2, -111.167 |
 | Country | United States |

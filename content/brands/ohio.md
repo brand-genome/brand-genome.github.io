@@ -2,7 +2,7 @@
 title: Ohio
 slug: ohio
 description: ""
-date: "2026-03-05T22:38:39.203331"
+date: "2026-03-13T08:56:59.140668"
 draft: false
 sectors:
   - "public-sector"
@@ -10,9 +10,9 @@ sectors:
 regions:
   - usa
 years:
-  - 2006
   - 2019
   - 2023
+  - 2006
 languages:
   - english
 tags:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - columbus
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,30 +54,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - white
   - red
+  - blue
   - gold
+  - green
   - orange
   - black
-  - blue
-  - green
 typographies:
   - avenir
 imagery_styles:
+  - vibrant
   - contemporary
   - clean
-  - vibrant
 wikidata_description: "public research university in Columbus, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q309331"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,13 +138,18 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q309331) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Columbus](/headquarters_locations/columbus/) |
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Coordinate Location | 40, -83.0125 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Columbus |
 | Topic'S Main Category | Category:Ohio State University |
 | Freebase Id | /m/05krk |
 | Member Of | Oak Ridge Associated Universities, Association of American Universities (from 1916), ORCID, Inc. (as of 2023-10), Digital Library Federation, Association of Research Libraries (+14 more) |
-| Logo Image | Ohio State University horizontal logo.svg |
 | Image | The Ohio State University December 2013 24 (University Hall).jpg |
 | Integrated Postsecondary Education Data System Id | 204796 |
 | Musicbrainz Label Id | 42d9338e-f652-4de4-888c-ecccd14535f6 |
@@ -184,7 +203,6 @@ guideline_count: 3
 | Theme Music | Carmen Ohio |
 | Musicbrainz Place Id | 84e1647a-ce0f-4225-9f14-29a8605f3f50 |
 | Microsoft Academic Id (Discontinued) | 52357470 |
-| Employees | 5,584 |
 | Street Address | 190 N. Oval Mall, Columbus, OH, 43210 |
 | Ror Id | 00rs6vg23 |
 | Count Of Students | 46,820 (as of 2018-01-01), 61,419 (as of 2021-09-01) |
@@ -252,3 +270,9 @@ guideline_count: 3
 | Has Works In The Collection | Anne Frank House |
 | Athletics Program | Ohio State Buckeyes |
 | ‎15Min.Lt Theme Id | 24921 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,584 | - | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: Meals on Wheels
 slug: "meals-on-wheels"
 description: ""
-date: "2026-03-05T22:38:39.563045"
+date: "2026-03-13T08:56:59.486974"
 draft: false
 sectors:
   - ngo
@@ -14,15 +14,26 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - social
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-diego"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,22 +55,24 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-302"
   - "pantone-3115"
-  - gray
+  - "pantone-302"
   - navy
+  - gray
 typographies:
   - "sans-serif"
 imagery_styles:
-  - dynamic
   - photography
-  - geometric
   - natural
+  - dynamic
+  - geometric
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q54619895"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +131,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54619895) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Diego](/headquarters_locations/san-diego/) |
 | Charity Navigator Id (Obsolete) | 8612 |
 | Country | United States |
 | Irs Employer Identification Number | 95-2660509 |
@@ -126,7 +144,6 @@ guideline_count: 1
 | Donations | 2,769,694 United States dollar (as of 2019), 4,328,357 United States dollar (as of 2022), 7,440,201 United States dollar (as of 2021), 5,942,447 United States dollar (as of 2023), 2,299,973 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | San Diego |
-| Total Assets | 15,090,572 United States dollar (as of 2022), 16,972,184 United States dollar (as of 2021), 29,709,930 United States dollar (as of 2023), 4,539,011 United States dollar (as of 2011), 5,102,480 United States dollar (as of 2012) (+8 more) |
 | Pinterest Username | mealsonwheelssd |
 | Youtube Channel Id | UCuadTkOG3qaf-Kn8joRVqsg (as of 2025-01-19, from 2012-03-05) |
 | Linkedin Company Or Organization Id | meals-on-wheels-greater-san-diego-inc. |
@@ -135,17 +152,37 @@ guideline_count: 1
 
 ### Revenue History
 
-- $4.44M (4,438,536 United States dollar (as of 2017-01-01))
-- $7.45M (7,454,494 United States dollar (as of 2020))
-- $5.04M (5,036,168 United States dollar (as of 2019))
-- $5.04M (5,036,168 United States dollar)
-- $9.30M (9,298,998 United States dollar (as of 2018))
-- $7.77M (7,769,932 United States dollar (as of 2022))
-- $10.63M (10,633,904 United States dollar (as of 2021))
-- $9.14M (9,136,190 United States dollar (as of 2023))
-- $3.70M (3,700,193 United States dollar (as of 2011))
-- $3.87M (3,868,998 United States dollar (as of 2012))
-- $3.92M (3,923,553 United States dollar (as of 2013))
-- $3.99M (3,991,899 United States dollar (as of 2014))
-- $4.05M (4,047,656 United States dollar (as of 2015))
-- $4.19M (4,193,350 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $4.44M | as of 2017-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.45M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.04M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.04M | - | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.30M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.77M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.63M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.14M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.70M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.87M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.92M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.99M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.05M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.19M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $15.09M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.97M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $29.71M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $4.54M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.10M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.32M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.38M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.12M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.14M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.36M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.27M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.46M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.12M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

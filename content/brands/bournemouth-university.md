@@ -2,7 +2,7 @@
 title: Bournemouth University
 slug: "bournemouth-university"
 description: ""
-date: "2026-03-05T22:38:39.488910"
+date: "2026-03-13T08:56:59.420675"
 draft: false
 sectors:
   - university
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +56,21 @@ brand_colors:
 typographies:
   - display
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
-  - lifestyle
-  - landscape
+  - natural
   - clean
   - portrait
-  - natural
+  - landscape
+  - vibrant
+  - photography
+  - bold
+  - lifestyle
 wikidata_description: "university in Bournemouth, Christchurch and Poole, UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q3182943"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +113,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3182943) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Coordinate Location | 50.7432, -1.8969 |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:Bournemouth University |

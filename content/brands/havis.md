@@ -2,7 +2,7 @@
 title: Havis
 slug: havis
 description: ""
-date: "2026-03-05T22:38:39.423508"
+date: "2026-03-13T08:56:59.384801"
 draft: false
 sectors:
   - hardware
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,23 +52,25 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
-  - black
   - blue
+  - black
+  - orange
   - gray
 typographies:
-  - arial
   - serif
   - display
+  - arial
 imagery_styles:
-  - bold
   - dynamic
   - product
+  - bold
 wikidata_description: American manufacturing company
+wikidata_url: "https://www.wikidata.org/wiki/Q25245536"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +114,10 @@ guideline_count: 1
 - Product naming strategy: Havis masterbrand ensures all product naming builds on the corporate brand. Temporary usage of transitional range brands such as Ledco, ChargeGuard, Kwik-Kit, IdleRight, Consolidator, MagnaFire, FX. Moves toward straightforward descriptive names to increase clarity and align with Havis reputation.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25245536) |
 
 | Property | Value |
 |----------|-------|

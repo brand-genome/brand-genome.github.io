@@ -2,12 +2,12 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-03-05T22:38:39.658550"
+date: "2026-03-13T08:56:59.585699"
 draft: false
 sectors:
   - gaming
-  - entertainment
   - hardware
+  - entertainment
 regions:
   - japan
 years:
@@ -25,6 +25,24 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "video-game"
+  - "video-game-console"
+  - software
+products: []
+headquarters_locations:
+  - kyoto
+  - "shimogyo-ku"
+  - "higashiyama-ku"
+subsidiaries: []
+foundation_dates:
+  - 1889
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +70,16 @@ brand_colors:
   - gray
 typographies: []
 imagery_styles:
-  - bold
-  - product
   - graphic
+  - product
+  - bold
 wikidata_description: Japanese multinational video game and consumer electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q8093"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +122,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8093) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Video Game](/products_or_materials_produced/video-game/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Kyoto](/headquarters_locations/kyoto/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/); [Higashiyama Ku](/headquarters_locations/higashiyama-ku/) |
+| Foundation Date | [1889](/foundation_dates/1889/); [1947](/foundation_dates/1947/) |
 | Headquarters Location | Kyoto, Shimogyō-ku (from 1889, until 1959), Higashiyama-ku (from 1959, until 2000) |
 | Founded By | Fusajirō Yamauchi |
 | Topic'S Main Category | Category:Nintendo |
@@ -112,7 +139,6 @@ guideline_count: 1
 | Image | Nintendo Headquarters - panoramio.jpg (as of 2010-03-31), Nintendo 1889.jpg (as of 1889), Headquarters of Nintendo Co., Ltd.jpg (as of 2022-02-24) |
 | Dewey Decimal Classification | 794.82 |
 | Isin | JP3756600007 |
-| Logo Image | Nintendo.svg (from 2016), Nintendo.png (from 1889, until 1950), Nintendo - 1960.svg (from 1960, until 1965), Nintendo - 1967.png (from 1967, until 1975), Nintendo red logo.svg (from 1975, until 2006) (+1 more) |
 | Facebook Username | Nintendo |
 | X (Twitter) Username | Nintendo (as of 2018-05-10, from 2011-05-30), NintendoDE (as of 2021-05-24, from 2012-02-13), NintendoNL (as of 2021-05-24, from 2012-02-13), NintendoBE_NL (as of 2021-05-24, from 2012-03-19), NintendoBE_FR (as of 2021-05-24, from 2012-02-13) (+3 more) |
 | Stock Exchange | Tokyo Stock Exchange (from 1983-07-21), Nasdaq, Frankfurt Stock Exchange, OTC Markets Group |
@@ -124,7 +150,6 @@ guideline_count: 1
 | Legal Form | kabushiki gaisha |
 | Commons Gallery | Nintendo |
 | Country | Japan |
-| Employees | 6,413 (as of 2020-09-30), 6,717 (as of 2022-03-31), 7,317 (as of 2023-03-31) |
 | Ndl Authority Id | 00644798 |
 | Viaf Cluster Id | 145603854 |
 | Musicbrainz Artist Id | 05e536dd-abaa-4e87-b9c0-678eb59c38c8 |
@@ -274,3 +299,11 @@ guideline_count: 1
 | Atlas Obscura Place Id | nintendo-head-office |
 | Floruit | 2021 |
 | Has Works In The Collection | Netherlands Institute for Sound and Vision |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,413 | as of 2020-09-30 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,717 | as of 2022-03-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,317 | as of 2023-03-31 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: SSB
 slug: ssb
 description: ""
-date: "2026-03-05T22:38:39.776753"
+date: "2026-03-13T08:56:59.829372"
 draft: false
 sectors:
   - finance
@@ -20,9 +20,22 @@ industries:
 countries:
   - germany
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stuttgart
+subsidiaries: []
+foundation_dates:
+  - 1898
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,26 +59,28 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-541"
-  - black
   - blue
+  - "pantone-541"
   - silver
+  - black
   - gray
 typographies:
-  - serif
-  - times
   - arial
-  - akzidenz
   - helvetica
+  - akzidenz
+  - times
+  - serif
 imagery_styles:
-  - bold
-  - clean
   - graphic
+  - clean
+  - bold
 wikidata_description: public transport operator in Germany
+wikidata_url: "https://www.wikidata.org/wiki/Q2359602"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -108,15 +123,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2359602) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
+| Foundation Date | [1898](/foundation_dates/1898/) |
 | Country | Germany |
 | Headquarters Location | Stuttgart |
 | Inception | 1898 |
 | Commons Gallery | Stuttgarter Straßenbahnen |
 | Owned By | Stuttgart |
-| Employees | 3,076 (as of 2016-12-31), 3,234 (as of 2017), 3,411 (as of 2023) |
-| Logo Image | SSB.svg (from 1998), SSB-Logo alt.svg (until 1998) |
 | Pm20 Folder Id | co/021446 |
-| Total Assets | 705,416,950 euro (as of 2016-12-31) |
 | Legal Form | Aktiengesellschaft |
 | Location Of Formation | Stuttgart |
 | Member Of | Stuttgart Transport and Tariff Association, Association of German Transport Companies, International Association of Public Transport |
@@ -140,4 +158,20 @@ guideline_count: 1
 
 ### Revenue History
 
-- $253.00M (253,000,000 euro (as of 2010))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $253.00M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,076 | as of 2016-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,234 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,411 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $705.42M | as of 2016-12-31 | [500M-1B](/total_assets_buckets/500m-1b/) |

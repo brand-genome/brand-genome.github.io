@@ -2,15 +2,15 @@
 title: Unicef
 slug: unicef
 description: ""
-date: "2026-03-05T22:38:39.721604"
+date: "2026-03-13T08:56:59.740752"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2018
   - 2012
+  - 2018
   - 2017
 languages:
   - english
@@ -22,9 +22,19 @@ industries:
 countries:
   - turkey
 revenue_buckets:
-  - "over-1t"
+  - "OVER-1T"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1951
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,29 +53,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - secondary
   - signature
-  - horizontal
   - vertical
 brand_colors:
   - white
   - grey
-  - cyan
-  - black
   - "pantone-7685"
   - blue
+  - cyan
+  - black
 typographies:
   - univers
   - arial
 imagery_styles:
-  - bold
   - photography
   - contemporary
+  - bold
 wikidata_description: "non-profit organisation from Turkey"
+wikidata_url: "https://www.wikidata.org/wiki/Q131429930"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -173,6 +185,11 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131429930) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1951](/foundation_dates/1951/) |
 | Country | Turkey |
 | Industry | law, advocacy and politics |
 | Donations | 21,867,534 Turkish lira (as of 2022), 18,937,281 Turkish lira (as of 2021), 81,662,490 Turkish lira (as of 2023), 53,178,416 Turkish lira (as of 2024) |
@@ -188,7 +205,9 @@ guideline_count: 3
 
 ### Revenue History
 
-- $110020288.00T (110,020,288 Turkish lira (as of 2023))
-- $22822927.00T (22,822,927 Turkish lira (as of 2022))
-- $20562031.00T (20,562,031 Turkish lira (as of 2021))
-- $105508840.00T (105,508,840 Turkish lira (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $110020288.00T | as of 2023 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $22822927.00T | as of 2022 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $20562031.00T | as of 2021 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $105508840.00T | as of 2024 | [OVER-1T](/revenue_buckets/over-1t/) |

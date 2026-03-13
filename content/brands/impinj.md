@@ -2,16 +2,16 @@
 title: Impinj
 slug: impinj
 description: ""
-date: "2026-03-05T22:38:39.370532"
+date: "2026-03-13T08:56:59.329187"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - seattle
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,47 +51,49 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
   - primary
+  - abstract
   - secondary
   - signature
 brand_colors:
   - white
-  - "pantone-2238"
   - red
-  - "pantone-108"
-  - teal
-  - "pantone-234"
-  - orange
-  - "pantone-7465"
-  - black
-  - yellow
   - blue
-  - "pantone-648"
-  - "pantone-3541"
-  - "pantone-2192"
-  - gray
-  - "pantone-2144"
   - "pantone-225"
+  - "pantone-2238"
+  - "pantone-2144"
+  - "pantone-3541"
+  - yellow
+  - "pantone-108"
+  - "pantone-2192"
+  - "pantone-234"
+  - black
+  - orange
+  - gray
+  - teal
+  - "pantone-648"
+  - "pantone-7465"
   - "pantone-718"
 typographies:
-  - roboto
   - slab
+  - roboto
   - impact
   - arial
 imagery_styles:
-  - bold
+  - natural
+  - modern
   - photography
   - product
   - abstract
-  - modern
+  - bold
   - muted
-  - natural
 wikidata_description: American manufacturer of RFID devices
+wikidata_url: "https://www.wikidata.org/wiki/Q4041316"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -176,6 +189,12 @@ Usage allows mixing fonts for balance and expression based on sharp-to-soft typo
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4041316) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Founded By | Carver Mead |
 | Headquarters Location | Seattle |
 | Country | United States |

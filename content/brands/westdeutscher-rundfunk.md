@@ -2,7 +2,7 @@
 title: Westdeutscher Rundfunk
 slug: "westdeutscher-rundfunk"
 description: ""
-date: "2026-03-05T22:38:39.278810"
+date: "2026-03-13T08:56:59.220836"
 draft: false
 sectors:
   - broadcasting
@@ -15,13 +15,25 @@ languages:
 tags:
   - broadcast
 industries:
-  - broadcasting
   - "media-industry"
+  - broadcasting
 countries:
   - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "terrestrial-television"
+products: []
+headquarters_locations:
+  - cologne
+subsidiaries: []
+foundation_dates:
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: German regional public broadcaster
+wikidata_url: "https://www.wikidata.org/wiki/Q203453"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q203453) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Terrestrial Television](/products_or_materials_produced/terrestrial-television/) |
+| Headquarters Location | [Cologne](/headquarters_locations/cologne/) |
+| Foundation Date | [1956](/foundation_dates/1956/) |
 | Locator Map Image | ARD Karte.svg |
 | Gnd Id | 2026599-2 |
 | Freebase Id | /m/03dhs2 |
@@ -79,7 +100,6 @@ guideline_count: 1
 | Encyclopædia Britannica Online Id | place/Westdeutscher-Rundfunk |
 | Inception | 1956-01-01 |
 | X (Twitter) Username | WDR (as of 2020-04-13, from 2011-03-28) |
-| Logo Image | WDR Dachmarke.svg |
 | Isni | 0000000111195024 |
 | Has Part(S) |  |
 | Hashtag | WDR |

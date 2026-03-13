@@ -2,7 +2,7 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-03-05T22:38:39.311303"
+date: "2026-03-13T08:56:59.251958"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - chicago
+subsidiaries: []
+foundation_dates:
+  - 1950
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,27 +55,29 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - gold
-  - teal
-  - orange
-  - black
-  - yellow
-  - blue
   - pink
-  - gray
-  - green
+  - blue
+  - yellow
+  - gold
   - purple
+  - green
+  - black
+  - orange
+  - gray
+  - teal
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - professional
   - graphic
+  - professional
 wikidata_description: "American non-profit"
+wikidata_url: "https://www.wikidata.org/wiki/Q51768"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +131,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q51768) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chicago](/headquarters_locations/chicago/) |
+| Foundation Date | [1950](/foundation_dates/1950/) |
 | Inception | 1950 |
 | Quora Topic Id | Society-of-Women-Engineers |
 | Founded By | Beatrice Hicks, Katharine Stinson |

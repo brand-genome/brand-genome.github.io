@@ -2,7 +2,7 @@
 title: Special Olympics
 slug: "special-olympics"
 description: ""
-date: "2026-03-05T22:38:39.516001"
+date: "2026-03-13T08:56:59.443063"
 draft: false
 sectors:
   - ngo
@@ -10,9 +10,9 @@ sectors:
 regions:
   - international
 years:
-  - 2016
   - 2002
   - 2012
+  - 2016
 languages:
   - english
   - chinese
@@ -23,6 +23,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1968
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,26 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
   - red
-  - teal
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
+  - teal
 typographies:
+  - helvetica
+  - times
   - impact
   - arial
-  - times
-  - helvetica
 imagery_styles: []
 wikidata_description: sporting competition for people with intellectual disabilities
+wikidata_url: "https://www.wikidata.org/wiki/Q15056133"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,6 +150,11 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15056133) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1968](/foundation_dates/1968/) |
 | Organizer | Special Olympics |
 | Inception | 1968 |
 | Event Interval | 2 year |

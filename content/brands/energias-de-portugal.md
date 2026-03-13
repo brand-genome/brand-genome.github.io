@@ -2,24 +2,24 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-03-05T22:38:39.297637"
+date: "2026-03-13T08:56:59.238270"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - portugal
 years:
-  - 2013
-  - 2018
   - 2022
   - 2015
+  - 2018
+  - 2013
 languages:
   - english
   - portuguese
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "electricity-supply-company"
 countries:
@@ -27,6 +27,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "electric-power"
+products: []
+headquarters_locations:
+  - "edp-headquarters"
+  - lisbon
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,33 +58,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
   - secondary
+  - logomark
+  - monogram
+  - primary
+  - vertical
   - abstract
   - wordmark
-  - logomark
-  - vertical
 brand_colors:
   - white
-  - black
   - blue
-  - "pantone-2985"
   - "pantone-7462"
   - green
+  - black
+  - "pantone-2985"
 typographies: []
 imagery_styles:
-  - photography
-  - playful
-  - graphic
   - dynamic
-  - abstract
   - illustration
+  - playful
+  - photography
+  - graphic
+  - abstract
 wikidata_description: Portuguese energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q1341222"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -637,6 +652,13 @@ y visual de la marca
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1341222) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electric Power](/products_or_materials_produced/electric-power/) |
+| Headquarters Location | [Edp Headquarters](/headquarters_locations/edp-headquarters/); [Lisbon](/headquarters_locations/lisbon/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Stock Exchange | Euronext Lisbon |
 | Freebase Id | /m/06j3rw |
 | Headquarters Location | Lisbon, EDP Headquarters |
@@ -665,7 +687,6 @@ y visual de la marca
 | Social Media Followers | 3,491 (as of 2021-01-04), 3,180 (as of 2020-06-15), 7,110 (as of 2021-10-12), 7,710 (as of 2023-03-22), 8,080 (as of 2024-03-30) (+1 more) |
 | Crunchbase Organization Id | edp |
 | Legal Entity Identifier | 529900CLC3WDMGI9VH80 |
-| Logo Image | EDP 2022.svg (from 2022), EDP logo.svg (from 2011, until 2022) |
 | Linkedin Company Or Organization Id | edpcomercial |
 | Energy Identification Code | 18XEDPGP-1234-6I |
 | Acer Code | A00012168.PT |

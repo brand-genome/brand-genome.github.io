@@ -2,7 +2,7 @@
 title: Wilkes University
 slug: "wilkes-university"
 description: ""
-date: "2026-03-05T22:38:39.219756"
+date: "2026-03-13T08:56:59.156649"
 draft: false
 sectors:
   - university
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "wilkes-barre"
+subsidiaries: []
+foundation_dates:
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private American university located in Wilkes-Barre, Pennsylvania"
+wikidata_url: "https://www.wikidata.org/wiki/Q8002474"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8002474) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Wilkes Barre](/headquarters_locations/wilkes-barre/) |
+| Foundation Date | [1933](/foundation_dates/1933/) |
 | Coordinate Location | 41.243333333333, -75.890833333333 |
 | Topic'S Main Category | Category:Wilkes University |
 | Country | United States |
@@ -77,7 +98,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Wilkes University alumni |
 | Grid Id | grid.268256.d |
 | Category For Employees Of The Organization | Category:Wilkes University faculty |
-| Logo Image | Wilkes univ textlogo.png |
 | Microsoft Academic Id (Discontinued) | 160003610 |
 | Street Address | 84 West South Street, Wilkes-Barre, PA, 18766 |
 | Library Of Congress Authority Id | n92062614 |
@@ -88,9 +108,7 @@ guideline_count: 1
 | Social Media Followers | 6,773 (as of 2021-01-04), 6,655 (as of 2020-04-24) |
 | Official Map Url | https://wilkes.university-tour.com/map.php, https://www.wilkes.edu/about-wilkes/planning-your-visit/_assets/CampusMapAug21.pdf (as of 2021-08) |
 | Count Of Students | 4,781 (as of 2020-09) |
-| Total Assets | 232,735,413 United States dollar (as of 2020-06-30) |
 | Endowment | 52,657,913 United States dollar (as of 2020-06-30) |
-| Employees | 948 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Fast Id | 678725 |
@@ -109,3 +127,15 @@ guideline_count: 1
 | Domain Name | wilkes.edu |
 | Unirank Id | 6521 |
 | Athletics Program | Wilkes Colonels |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 948 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $232.74M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

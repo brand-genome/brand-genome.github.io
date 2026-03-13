@@ -2,11 +2,11 @@
 title: UN Habitat
 slug: "un-habitat"
 description: ""
-date: "2026-03-05T22:38:39.545089"
+date: "2026-03-13T08:56:59.471550"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2020
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,14 +54,16 @@ brand_colors: []
 typographies:
   - roboto
 imagery_styles:
-  - bold
   - photography
   - staged
+  - bold
 wikidata_description: An annual film festival associated with the United Nations Habitat Program
+wikidata_url: "https://www.wikidata.org/wiki/Q135656195"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +109,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q135656195) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2020](/foundation_dates/2020/) |
 | Inception | 2020 |
 | Founded By | United Nations Human Settlements Programme, Better Cities Film Festival |
 | Location | World Urban Forum |

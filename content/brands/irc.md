@@ -2,7 +2,7 @@
 title: IRC
 slug: irc
 description: ""
-date: "2026-03-05T22:38:39.598803"
+date: "2026-03-13T08:56:59.540485"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,22 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "chanin-building"
+subsidiaries: []
+foundation_dates:
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,27 +52,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
-  - black
   - yellow
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "non-profit organization in the USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1666849"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,6 +138,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1666849) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chanin Building](/headquarters_locations/chanin-building/) |
+| Foundation Date | [1933](/foundation_dates/1933/) |
 | Headquarters Location | Chanin Building |
 | Freebase Id | /m/01bxrb |
 | Gnd Id | 4456301-2 |
@@ -148,11 +169,9 @@ guideline_count: 1
 | Ror Id | 03v6ftq03 |
 | Different From | International Committee of the Red Cross |
 | Uk Parliament Thesaurus Id | 37737 |
-| Logo Image | International Rescue Committee Logo.svg |
 | Social Media Followers | 13,400 (as of 2021-07-03), 16,200 (as of 2022-03-17), 18,500 (as of 2023-02-17), 20,300 (as of 2024-02-24), 21,700 (as of 2025-03-15) |
 | Media Bias/Fact Check Id | international-rescue-committee-irc (as of 2024-02-02) |
 | Donations | 184,349,000 United States dollar (as of 2020), 1,355,187,734 United States dollar (as of 2022), 924,498,780 United States dollar (as of 2021), 1,297,110,590 United States dollar (as of 2023), 388,492,046 United States dollar (as of 2011) (+9 more) |
-| Employees | 17,000 (as of 2020) |
 | Short Name | IRC |
 | Legal Form | 501(c)(3) organization |
 | National Library Of Israel J9U Id | 987007604737105171 |
@@ -161,7 +180,6 @@ guideline_count: 1
 | Gateway To Research Organisation Id | 8B572F37-FCD6-44BF-AB66-7F646744665F |
 | Official Observer Status In Organization | International Organization for Migration |
 | Uia Open Yearbook Organization Website Id | 1100036736 |
-| Total Assets | 584,265,431 United States dollar (as of 2022), 527,551,484 United States dollar (as of 2021), 629,978,674 United States dollar (as of 2023), 195,269,065 United States dollar (as of 2011), 197,925,719 United States dollar (as of 2012) (+9 more) |
 | Funder | Open Society Foundations (as of 2022), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021) (+10 more) |
 | Kalliope Verbund (Gnd) Id | 4456301-2 |
 | Iati Organisation Id | US-EIN-13-5660870 |
@@ -175,17 +193,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $727.82M (727,824,514 United States dollar (as of 2017-01-01))
-- $825.57M (825,572,000 United States dollar (as of 2020))
-- $1.37B (1,373,898,628 United States dollar (as of 2022))
-- $950.66M (950,664,386 United States dollar (as of 2021))
-- $1.34B (1,341,268,864 United States dollar (as of 2023))
-- $397.87M (397,873,717 United States dollar (as of 2011))
-- $386.54M (386,540,097 United States dollar (as of 2012))
-- $456.12M (456,122,865 United States dollar (as of 2013))
-- $562.02M (562,021,607 United States dollar (as of 2014))
-- $688.92M (688,920,920 United States dollar (as of 2015))
-- $736.80M (736,803,408 United States dollar (as of 2016))
-- $729.56M (729,556,526 United States dollar (as of 2018))
-- $785.36M (785,361,499 United States dollar (as of 2019))
-- $1.53B (1,529,582,620 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $727.82M | as of 2017-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $825.57M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.37B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $950.66M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.34B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $397.87M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $386.54M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $456.12M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $562.02M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $688.92M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $736.80M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $729.56M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $785.36M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.53B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 17,000 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $584.27M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $527.55M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $629.98M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $195.27M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $197.93M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $215.70M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $245.59M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $270.14M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $286.76M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $374.73M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $371.22M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $385.11M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $418.24M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $669.75M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

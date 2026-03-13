@@ -2,7 +2,7 @@
 title: Axa
 slug: axa
 description: ""
-date: "2026-03-05T22:38:39.428066"
+date: "2026-03-13T08:56:59.395468"
 draft: false
 sectors:
   - insurance
@@ -17,18 +17,30 @@ tags:
   - insurance
   - featured
 industries:
-  - "insurance-industry"
   - insurance
   - "financial-services"
   - "investment-funds-and-similar-financial-entities"
+  - "insurance-industry"
 countries:
   - france
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1816
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +64,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: French multinational insurance firm
+wikidata_url: "https://www.wikidata.org/wiki/Q160054"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,7 +126,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | AXA Logo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q160054) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1816](/foundation_dates/1816/) |
 | Topic'S Main Category | Category:Axa |
 | Freebase Id | /m/04mn99 |
 | Follows | Sun Life & Provincial Holdings, Guardian Assurance Company, Guardian Royal Exchange Assurance, Allsecures |
@@ -145,7 +164,6 @@ guideline_count: 1
 | Osm Name Suggestion Index Id | axa-1820e0, axa-2f6feb, axa-b7a026 |
 | Replaces | Nordstern, National Mutual Life Association of Australasia |
 | Social Media Followers | 85,311 (as of 2021-01-04), 8,090 (as of 2021-10-12), 85,534 (as of 2022-01-08), 85,810 (as of 2023-02-05), 8,770 (as of 2023-03-22) (+3 more) |
-| Employees | 114,625 (as of 2020), 120,869 (as of 2019), 110,477 (as of 2024) |
 | Image | Hotel de la vaupaliere54.jpg |
 | Linkedin Company Or Organization Id | axa |
 | Encyclopedia Of China (Second Edition) Id | 191253 |
@@ -173,58 +191,72 @@ guideline_count: 1
 
 ### Revenue History
 
-- $79.97B (79,971,000,000 euro (as of 2000))
-- $74.83B (74,832,000,000 euro (as of 2001))
-- $74.73B (74,727,000,000 euro (as of 2002))
-- $71.63B (71,628,000,000 euro (as of 2003))
-- $67.05B (67,046,000,000 euro (as of 2004))
-- $71.64B (71,645,000,000 euro (as of 2005))
-- $78.79B (78,793,000,000 euro (as of 2006))
-- $93.62B (93,617,000,000 euro (as of 2007))
-- $91.28B (91,285,000,000 euro (as of 2008))
-- $90.13B (90,128,000,000 euro (as of 2009))
-- $90.96B (90,964,000,000 euro (as of 2010))
-- $86.04B (86,042,000,000 euro (as of 2011))
-- $90.09B (90,093,000,000 euro (as of 2012))
-- $91.25B (91,248,000,000 euro (as of 2013))
-- $91.88B (91,880,000,000 euro (as of 2014))
-- $98.48B (98,478,000,000 euro (as of 2015))
-- $100.11B (100,115,000,000 euro (as of 2016))
-- $98.55B (98,549,000,000 euro (as of 2017))
-- $102.87B (102,874,000,000 euro (as of 2018))
-- $103.53B (103,532,000,000 euro (as of 2019))
-- $96.72B (96,723,000,000 euro (as of 2020))
-- $99.93B (99,931,000,000 euro (as of 2021))
-- $102.34B (102,345,000,000 euro (as of 2022))
-- $102.73B (102,733,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $79.97B | as of 2000 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $74.83B | as of 2001 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $74.73B | as of 2002 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $71.63B | as of 2003 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $67.05B | as of 2004 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $71.64B | as of 2005 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $78.79B | as of 2006 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $93.62B | as of 2007 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $91.28B | as of 2008 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $90.13B | as of 2009 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $90.96B | as of 2010 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $86.04B | as of 2011 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $90.09B | as of 2012 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $91.25B | as of 2013 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $91.88B | as of 2014 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $98.48B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $100.11B | as of 2016 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $98.55B | as of 2017 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $102.87B | as of 2018 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $103.53B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $96.72B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $99.93B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $102.34B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $102.73B | as of 2023 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $7.60B (7,604,000,000 euro (as of 2023))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $7.60B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $3.44B (3,444,000,000 euro (as of 2000))
-- $520.00M (520,000,000 euro (as of 2001))
-- $949.00M (949,000,000 euro (as of 2002))
-- $1.00B (1,005,000,000 euro (as of 2003))
-- $3.74B (3,738,000,000 euro (as of 2004))
-- $4.17B (4,173,000,000 euro (as of 2005))
-- $5.08B (5,085,000,000 euro (as of 2006))
-- $5.67B (5,666,000,000 euro (as of 2007))
-- $923.00M (923,000,000 euro (as of 2008))
-- $3.61B (3,606,000,000 euro (as of 2009))
-- $2.75B (2,749,000,000 euro (as of 2010))
-- $4.32B (4,324,000,000 euro (as of 2011))
-- $4.15B (4,152,000,000 euro (as of 2012))
-- $4.48B (4,482,000,000 euro (as of 2013))
-- $5.02B (5,024,000,000 euro (as of 2014))
-- $5.62B (5,617,000,000 euro (as of 2015))
-- $5.83B (5,829,000,000 euro (as of 2016))
-- $6.21B (6,209,000,000 euro (as of 2017))
-- $2.14B (2,140,000,000 euro (as of 2018))
-- $3.86B (3,857,000,000 euro (as of 2019))
-- $3.16B (3,164,000,000 euro (as of 2020))
-- $7.29B (7,294,000,000 euro (as of 2021))
-- $6.67B (6,675,000,000 euro (as of 2022))
-- $7.19B (7,189,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $3.44B | as of 2000 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $520.00M | as of 2001 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $949.00M | as of 2002 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.00B | as of 2003 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.74B | as of 2004 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.17B | as of 2005 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.08B | as of 2006 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.67B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $923.00M | as of 2008 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $3.61B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.75B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.32B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.15B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.48B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.02B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.62B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.83B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.21B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.14B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.86B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.16B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.29B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.67B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.19B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 114,625 | as of 2020 | [100K-500K](/employees_buckets/100k-500k/) |
+| 120,869 | as of 2019 | [100K-500K](/employees_buckets/100k-500k/) |
+| 110,477 | as of 2024 | [100K-500K](/employees_buckets/100k-500k/) |

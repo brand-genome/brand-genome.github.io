@@ -2,7 +2,7 @@
 title: BAE Systems
 slug: "bae-systems"
 description: ""
-date: "2026-03-05T22:38:39.223267"
+date: "2026-03-13T08:56:59.162107"
 draft: false
 sectors:
   - cybersecurity
@@ -22,9 +22,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "arlington-county"
+  - "falls-church"
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: aerospace and defense subsidiary of BAE Systems in North America
+wikidata_url: "https://www.wikidata.org/wiki/Q4834524"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4834524) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Falls Church](/headquarters_locations/falls-church/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Item Operated | North American Sabreliner |
 | Country | United States |
 | Child Organization Or Unit | BAE Systems Platforms & Services, BAE Systems AB |
@@ -75,7 +96,6 @@ guideline_count: 1
 | Headquarters Location | Arlington County, Falls Church |
 | Legal Form | joint-stock company |
 | Isni | 0000000405123173, 0000000406347662 |
-| Logo Image | BAE Systems logo.svg |
 | Industry | weapons industry |
 | Owned By | BAE Systems |
 | Ringgold Id | 61937 |
@@ -83,8 +103,15 @@ guideline_count: 1
 | X (Twitter) Username | BAESystemsInc (as of 2022-08-21, from 2009-06-24) |
 | Social Media Followers | 147,742 (as of 2022-08-23) |
 | Crunchbase Organization Id | bae-systems |
-| Employees | 41,000 (as of 2023) |
 
 ### Revenue History
 
-- $13.60B (13,600,000,000 United States dollar (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.60B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 41,000 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |

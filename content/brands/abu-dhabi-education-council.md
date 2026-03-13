@@ -2,11 +2,11 @@
 title: Abu Dhabi Education Council
 slug: "abu-dhabi-education-council"
 description: ""
-date: "2026-03-05T22:38:39.822750"
+date: "2026-03-13T08:56:59.899965"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "abu-dhabi"
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "emirate-of-abu-dhabi"
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - signature
+  - wordmark
 brand_colors:
   - red
   - turquoise
@@ -49,10 +60,12 @@ typographies: []
 imagery_styles:
   - illustration
 wikidata_description: educational authority for the Emirate of Abu Dhabi
+wikidata_url: "https://www.wikidata.org/wiki/Q40380206"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -557,6 +570,12 @@ Collateral
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q40380206) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Emirate Of Abu Dhabi](/headquarters_locations/emirate-of-abu-dhabi/) |
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Isni | 0000000417630420 |
 | Ringgold Id | 105966 |
 | Quora Topic Id | Abu-Dhabi-Education-Council |

@@ -2,16 +2,16 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-03-05T22:38:39.574691"
+date: "2026-03-13T08:56:59.506444"
 draft: false
 sectors:
   - education
 regions:
   - usa
 years:
-  - 2016
   - 2018
   - 2017
+  - 2016
 languages:
   - english
 tags:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1868
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,43 +51,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - icon
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - gold
-  - teal
-  - purple
-  - "pantone-2757"
   - grey
-  - orange
-  - black
-  - blue
-  - gray
-  - green
   - "pantone-7482"
+  - blue
+  - gold
+  - "pantone-2757"
+  - purple
+  - green
+  - black
+  - orange
+  - gray
+  - teal
 typographies:
   - brandon
-  - serif
-  - "sans-serif"
-  - times
-  - georgia
   - display
+  - times
+  - serif
+  - georgia
+  - "sans-serif"
 imagery_styles:
-  - bold
   - subtle
-  - professional
   - graphic
+  - professional
+  - bold
 wikidata_description: "public comprehensive university in Mankato, Minnesota"
+wikidata_url: "https://www.wikidata.org/wiki/Q1937387"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -167,6 +180,11 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1937387) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1868](/foundation_dates/1868/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Mankato |
 | Topic'S Main Category | Category:Minnesota State University, Mankato |
@@ -195,7 +213,6 @@ guideline_count: 3
 | Mnopedia Id | place/minnesota-state-university-mankato |
 | Musicbrainz Place Id | 561e5b80-8414-46ec-93c6-6d26de2c5a1e |
 | Microsoft Academic Id (Discontinued) | 152014189 |
-| Employees | 1,600 (as of 2018) |
 | Street Address | 120 Wigley Administration Center, Mankato, MN, 56001 |
 | Ringgold Id | 38703 |
 | Times Higher Education World University Id | minnesota-state-university-mankato |
@@ -217,8 +234,13 @@ guideline_count: 3
 | National Library Of Israel J9U Id | 987011257482505171 |
 | Snarc Id | Q46322 |
 | Kisti Id | K000207524 |
-| Logo Image | Minnesota state univ mankato simple.png |
 | Image | Old Main and Annex.jpg |
 | ‎Yale Lux Id | group/8871ab24-c00e-4d6a-b219-c3a3a811137c |
 | Athletics Program | Minnesota State Mavericks |
 | Mascot | Stomper the Maverick |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,600 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |

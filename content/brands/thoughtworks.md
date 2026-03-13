@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-03-05T22:38:39.172184"
+date: "2026-03-13T08:56:59.101564"
 draft: false
 sectors:
   - consulting
@@ -10,21 +10,32 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2024
+  - 2022
 languages:
   - english
 tags:
   - technology
 industries:
-  - consulting
   - "software-industry"
   - technology
+  - consulting
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - chicago
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,19 +56,21 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - black
   - blue
   - pink
+  - black
   - gray
 typographies:
   - inter
 imagery_styles:
   - bold
 wikidata_description: global technology consultancy
+wikidata_url: "https://www.wikidata.org/wiki/Q10382234"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q10382234) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chicago](/headquarters_locations/chicago/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Inception | 1993-01-01 |
 | Founded By | Neville Roy Singham |
 | Headquarters Location | Chicago |
@@ -124,5 +143,4 @@ guideline_count: 2
 | Stock Exchange | Nasdaq (from 2021-09-15) |
 | Has Use | Responsible Technology, open-source software, software engineering, cloud computing, data |
 | Instagram Username | thoughtworks |
-| Logo Image | Thoughtworks logo.png |
 | Threads Username | thoughtworks |

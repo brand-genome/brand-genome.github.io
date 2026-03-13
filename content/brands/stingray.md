@@ -2,7 +2,7 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-03-05T22:38:39.730527"
+date: "2026-03-13T08:56:59.753072"
 draft: false
 sectors:
   - broadcasting
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - music
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,20 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: television series
+wikidata_url: "https://www.wikidata.org/wiki/Q281892"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +101,10 @@ guideline_count: 1
 - Specific measurements for safe zone spacing around logos include reliance on x-height or equivalent.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q281892) |
 
 | Property | Value |
 |----------|-------|

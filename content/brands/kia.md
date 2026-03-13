@@ -2,20 +2,20 @@
 title: Kia
 slug: kia
 description: ""
-date: "2026-03-05T22:38:39.336643"
+date: "2026-03-13T08:56:59.291207"
 draft: false
 sectors:
   - automobile
 regions:
   - "south-korea"
 years:
-  - 2021
   - 2020
+  - 2021
 languages:
   - english
 tags:
-  - engineering
   - transport
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "commercial-vehicle"
+  - car
+products: []
+headquarters_locations:
+  - seoul
+subsidiaries: []
+foundation_dates:
+  - 1944
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +60,15 @@ brand_colors:
   - gray
 typographies: []
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: South Korean automobile manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q35349"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +114,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q35349) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
+| Foundation Date | [1944](/foundation_dates/1944/) |
 | Headquarters Location | Seoul |
 | Freebase Id | /m/01cytr |
 | Viaf Cluster Id | 170846620 |
@@ -118,7 +140,6 @@ guideline_count: 2
 | Country | South Korea |
 | Giphy Username | kia |
 | Grid Id | grid.471172.6 |
-| Logo Image | KIA logo3.svg (from 2021), KIA logo2.svg (from 2012, until 2021), Kia Motors 2002-2012 Logo.svg (from 1994, until 2012), Kia Motors Logo (1986-1994).svg (from 1986, until 1994), Kia Motors 1964-1986 Logo.svg (from 1964, until 1986) (+1 more) |
 | Encyclopædia Britannica Online Id | topic/Kia-Motors-Corporation |
 | Youtube Channel Id | UCptyYDiGZ9hs1pH0AaoBTxA (as of 2020-12-05, from 2008-09-29), UCBNE8W7zzA_jOQd2tRWTFCw (as of 2020-12-05, from 2011-04-12) |
 | Owner Of | Hyundai Mobis, Hyundai Steel, Hyundai AutoEver, Hyundai WIA, Hyundai Engineering and Construction (+1 more) |

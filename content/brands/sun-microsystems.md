@@ -2,11 +2,11 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-03-05T22:38:39.610342"
+date: "2026-03-13T08:56:59.556284"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -26,6 +26,22 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - workstation
+  - "computer-hardware"
+  - software
+  - server
+products: []
+headquarters_locations:
+  - "santa-clara"
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +63,17 @@ logo_elements:
   - logomark
 brand_colors:
   - white
-  - black
   - yellow
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: defunct American computer hardware and software company
+wikidata_url: "https://www.wikidata.org/wiki/Q14647"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +111,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q14647) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/); [Server](/products_or_materials_produced/server/) |
+| Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |
 | Founded By | Vinod Khosla, Andy Bechtolsheim, Bill Joy, Scott McNealy |
 | Inception | 1982-02-24 |
@@ -104,7 +129,6 @@ guideline_count: 2
 | Country | United States |
 | Headquarters Location | Santa Clara |
 | Viaf Cluster Id | 127152758, 312584409 |
-| Logo Image | Sun-Logo.svg |
 | Parent Organization Or Unit | Oracle Corporation (from 2010-01-27) |
 | Followed By | Oracle America |
 | Open Library Id | OL2653809A, OL2670627A |
@@ -130,7 +154,6 @@ guideline_count: 2
 | Stock Exchange | Nasdaq |
 | Uk Parliament Thesaurus Id | 82103 |
 | Owner Of | , Java, Solaris, SunOS |
-| Employees | 34,600 (as of 2007) |
 | Industry | computing, software development |
 | Child Organization Or Unit | Storage Technology Corporation |
 | Microsoft Academic Id (Discontinued) | 1328046515, 507390436 |
@@ -154,3 +177,9 @@ guideline_count: 2
 | Wikirate Company Id | 51379 |
 | T10 Vendor Id String | SUN |
 | Pnp Vendor Id | SVI |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 34,600 | as of 2007 | [10K-50K](/employees_buckets/10k-50k/) |

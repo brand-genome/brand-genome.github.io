@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-03-05T22:38:39.703008"
+date: "2026-03-13T08:56:59.715006"
 draft: false
 sectors:
   - publishing
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1982
+  - 1867
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ imagery_styles:
   - photography
   - vibrant
 wikidata_description: "newspaper in Minneapolis, Minnesota"
+wikidata_url: "https://www.wikidata.org/wiki/Q862148"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +115,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q862148) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1982](/foundation_dates/1982/); [1867](/foundation_dates/1867/) |
 | Freebase Id | /m/01nf4f |
 | Issn | 0895-2825, 2641-9556 |
 | Title | Star Tribune, The Minneapolis Journal, The Minneapolis Star |
@@ -119,7 +137,6 @@ guideline_count: 1
 | Located In The Administrative Territorial Entity | Minneapolis |
 | Facebook Username | startribune |
 | X (Twitter) Username | StarTribune (as of 2020-04-27, from 2008-11-12), StarTribSupport (as of 2020-12-28, from 2012-05-15) |
-| Logo Image | Star Tribune Logo.svg |
 | Newspapers.Com Paper Id | 4473, 1660, 4474 |
 | Viaf Cluster Id | 139626366 |
 | Encyclopædia Britannica Online Id | topic/Minneapolis-Tribune |

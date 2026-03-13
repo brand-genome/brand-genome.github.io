@@ -2,11 +2,11 @@
 title: Viber
 slug: viber
 description: ""
-date: "2026-03-05T22:38:39.698810"
+date: "2026-03-13T08:56:59.709394"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - japan
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "cross-platform instant messaging voice-over-Internet Protocol application for smartphones"
+wikidata_url: "https://www.wikidata.org/wiki/Q332707"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,9 +107,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q332707) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Operating System | iOS, Android, BlackBerry OS, Windows Phone, cross-platform (+3 more) |
 | Freebase Id | /m/0hncjr3 |
-| Logo Image | Rakuten Viber logo 2020.svg (as of 2020), Rakuten Viber new 2017 logo.png (as of 2017), Viber logo.svg (as of 2012), Viber logo 2018.svg (as of 2018) |
 | Software Version Identifier | 6.5.5, 6.8.0, 15.0.0.0, 15.1.0.5, 15.2.0.0 (+49 more) |
 | Quora Topic Id | Viber, Viber-product |
 | Developer | Rakuten Group, Inc., Rakuten Viber |

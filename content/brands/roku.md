@@ -2,7 +2,7 @@
 title: Roku
 slug: roku
 description: ""
-date: "2026-03-05T22:38:39.571144"
+date: "2026-03-13T08:56:59.501512"
 draft: false
 sectors:
   - technology
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +51,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: brand of streaming media players
+wikidata_url: "https://www.wikidata.org/wiki/Q15995436"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,10 +74,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15995436) |
+
+| Property | Value |
+|----------|-------|
 | Manufacturer | Roku, Inc. |
 | Freebase Id | /m/0_x7l9_ |
 | Subclass Of | digital media player |
-| Logo Image | Roku logo.svg |
 | Image | Roku 1 2017-02-23.jpg |
 | Developer | Roku, Inc. |
 | Different From | Ruku' |

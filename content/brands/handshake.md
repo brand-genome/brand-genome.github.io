@@ -2,7 +2,7 @@
 title: Handshake
 slug: handshake
 description: ""
-date: "2026-03-05T22:38:39.488686"
+date: "2026-03-13T08:56:59.420485"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
@@ -22,6 +22,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,41 +49,43 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
   - lockup
+  - wordmark
   - horizontal
   - signature
-  - wordmark
 brand_colors:
   - white
-  - "pantone-114"
   - red
-  - black
-  - cyan
-  - indigo
+  - "pantone-177"
   - blue
   - pink
-  - "pantone-177"
-  - gray
+  - "pantone-114"
+  - cyan
   - coral
+  - black
+  - gray
+  - indigo
   - "pantone-7443"
 typographies:
   - impact
   - display
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
-  - graphic
-  - modern
   - clean
+  - modern
+  - vibrant
+  - photography
+  - graphic
+  - bold
 wikidata_description: American employment company
+wikidata_url: "https://www.wikidata.org/wiki/Q133465050"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Moldova
 slug: moldova
 description: ""
-date: "2026-03-05T22:38:39.106470"
+date: "2026-03-13T08:56:59.055434"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1600
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "town in Caraș-Severin County, Romania"
+wikidata_url: "https://www.wikidata.org/wiki/Q829051"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q829051) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1600](/foundation_dates/1600/) |
 | Coat Of Arms Image | ROU CS Moldova Noua CoA1.png |
 | Country | Romania (from 1989-12-22), Socialist Republic of Romania (from 1965-08-21, until 1989-12-22), Romanian People's Republic (from 1947-12-30, until 1965-08-21), Kingdom of Romania (from 1919-08-04, until 1947-12-30), Kingdom of Serbs, Croats and Slovenes (from 1918-12-01, until 1919-08-04) (+7 more) |
 | Coordinate Location | 44.734722222222, 21.666388888889 |
@@ -97,6 +114,6 @@ guideline_count: 1
 | Openweathermap City Id | 672912 |
 | Museum Digital Place Id | 71491 |
 | Population By Native Language | 40 (as of 2021-12-01) |
-| Email Address | mailto:contact@primariamoldovanoua.ro |
+| Email Address | contact@primariamoldovanoua.ro |
 | Inception | 1600 |
 | Historical Region | Banat |

@@ -2,7 +2,7 @@
 title: Skills for Life
 slug: "skills-for-life"
 description: ""
-date: "2026-03-05T22:38:39.290900"
+date: "2026-03-13T08:56:59.230687"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2018
   - 2022
+  - 2018
 languages:
   - english
 tags:
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,39 +49,41 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
   - stacked
+  - primary
+  - horizontal
 brand_colors:
   - white
-  - violet
-  - "pantone-294"
-  - "pantone-108"
-  - teal
   - red
-  - "pantone-3275"
-  - "pantone-347"
-  - "pantone-285"
   - "pantone-183"
-  - black
-  - yellow
-  - blue
-  - pink
   - navy
-  - green
+  - pink
+  - "pantone-3275"
+  - "pantone-294"
+  - blue
+  - yellow
+  - "pantone-108"
+  - violet
   - purple
+  - "pantone-285"
+  - green
+  - "pantone-347"
+  - black
+  - teal
 typographies:
   - nunito
 imagery_styles:
-  - bold
   - photography
   - clean
   - modern
+  - bold
 wikidata_description: UK multi academy trust
+wikidata_url: "https://www.wikidata.org/wiki/Q122683686"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -147,6 +158,10 @@ guideline_count: 2
 - Application examples showcase visual identity and branding materials, with shop resources available at scouts.org.uk/shop for more assets to maintain brand consistency.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q122683686) |
 
 | Property | Value |
 |----------|-------|

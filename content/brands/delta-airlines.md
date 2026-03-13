@@ -2,11 +2,11 @@
 title: Delta Airlines
 slug: "delta-airlines"
 description: ""
-date: "2026-03-05T22:38:39.129001"
+date: "2026-03-13T08:56:59.083134"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - usa
 years:
@@ -14,19 +14,35 @@ years:
 languages:
   - english
 tags:
-  - airline
   - aeronautic
+  - airline
 industries:
   - aviation
   - "air-transport"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "500M-1B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - atlanta
+  - monroe
+subsidiaries: []
+foundation_dates:
+  - 1929
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +65,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: airline in the United States (1929–present)
+wikidata_url: "https://www.wikidata.org/wiki/Q188920"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -74,6 +92,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q188920) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Monroe](/headquarters_locations/monroe/) |
+| Foundation Date | [1929](/foundation_dates/1929/); [1925](/foundation_dates/1925/) |
 | Iata Airline Designator | DL |
 | Icao Airline Designator | DAL |
 | Airline Alliance | SkyTeam |
@@ -83,7 +107,6 @@ guideline_count: 2
 | Has Organizational Division | Delta Private Jets |
 | Headquarters Location | Atlanta (from 1941), Monroe (from 1925, until 1941) |
 | Stock Exchange | New York Stock Exchange |
-| Logo Image | Delta logo.svg |
 | Callsign Of Airline | DELTA |
 | Topic'S Main Category | Category:Delta Air Lines |
 | Freebase Id | /m/0k9ts |
@@ -98,7 +121,6 @@ guideline_count: 2
 | Ringgold Id | 148067 |
 | Isin | US2473617023 |
 | Start Of Work Period | 1925-03-02 |
-| Market Capitalization | 11,643,000,000 United States dollar (as of 2013), 32,580,000,000 United States dollar (as of 2019-01-24) |
 | Chief Executive Officer | Ed Bastian (from 2016), Richard H. Anderson (from 2007, until 2016), Gerald Grinstein (from 2004, until 2007), Leo F. Mullin (from 1997, until 2004), Ronald W. Allen (from 1987, until 1997) (+4 more) |
 | Giphy Username | delta |
 | Library Of Congress Authority Id | n85135774 |
@@ -145,8 +167,6 @@ guideline_count: 2
 | Le Figaro Tag Id | Delta-Air-Lines |
 | Said To Be The Same As | Delta Air Lines, Inc. |
 | Cash | 4,255,000,000 United States dollar (as of 2008), 4,607,000,000 United States dollar (as of 2009), 2,892,000,000 United States dollar (as of 2010), 1,814,000,000 United States dollar (as of 2017), 1,565,000,000 United States dollar (as of 2018) |
-| Total Equity | 874,000,000 United States dollar (as of 2008), 245,000,000 United States dollar (as of 2009), 611,000,000 United States dollar (as of 2010), 13,677,000,000 United States dollar (as of 2018) |
-| Total Assets | 45,084,000,000 United States dollar (as of 2008), 43,789,000,000 United States dollar (as of 2009), 43,184,000,000 United States dollar (as of 2010), 53,711,000,000 United States dollar (as of 2017), 60,270,000,000 United States dollar (as of 2018) |
 | Banq Authority Id | 0001132082 |
 | Fast Id | 607287 |
 | Irs Employer Identification Number | 58-0218548 |
@@ -184,57 +204,89 @@ guideline_count: 2
 
 ### Revenue History
 
-- $44.44B (44,438,000,000 United States dollar (as of 2018))
-- $28.06B (28,063,000,000 United States dollar (as of 2009))
-- $31.75B (31,755,000,000 United States dollar (as of 2010))
-- $35.12B (35,115,000,000 United States dollar (as of 2011))
-- $36.67B (36,670,000,000 United States dollar (as of 2012))
-- $37.77B (37,773,000,000 United States dollar (as of 2013))
-- $40.36B (40,362,000,000 United States dollar (as of 2014))
-- $40.70B (40,704,000,000 United States dollar (as of 2015))
-- $39.64B (39,639,000,000 United States dollar (as of 2016))
-- $41.24B (41,244,000,000 United States dollar (as of 2017))
-- $47.01B (47,007,000,000 United States dollar (as of 2019))
-- $17.09B (17,095,000,000 United States dollar (as of 2020))
-- $29.90B (29,899,000,000 United States dollar (as of 2021))
-- $50.58B (50,582,000,000 United States dollar (as of 2022))
-- $58.05B (58,048,000,000 United States dollar (as of 2023))
-- $61.64B (61,643,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $44.44B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.06B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.75B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.12B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.67B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.77B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.36B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.70B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.64B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $41.24B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $47.01B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.09B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.90B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $50.58B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $58.05B | as of 2023 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $61.64B | as of 2024 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $324.00M (-324,000,000 United States dollar (as of 2009))
-- $2.22B (2,217,000,000 United States dollar (as of 2010))
-- $1.98B (1,975,000,000 United States dollar (as of 2011))
-- $2.17B (2,175,000,000 United States dollar (as of 2012))
-- $3.40B (3,400,000,000 United States dollar (as of 2013))
-- $2.21B (2,206,000,000 United States dollar (as of 2014))
-- $7.80B (7,802,000,000 United States dollar (as of 2015))
-- $6.95B (6,952,000,000 United States dollar (as of 2016))
-- $6.11B (6,114,000,000 United States dollar (as of 2017))
-- $5.26B (5,264,000,000 United States dollar (as of 2018))
-- $6.62B (6,618,000,000 United States dollar (as of 2019))
-- $12.47B (-12,469,000,000 United States dollar (as of 2020))
-- $1.89B (1,886,000,000 United States dollar (as of 2021))
-- $3.66B (3,661,000,000 United States dollar (as of 2022))
-- $5.52B (5,521,000,000 United States dollar (as of 2023))
-- $6.00B (5,995,000,000 United States dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $324.00M | as of 2009 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $2.22B | as of 2010 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.98B | as of 2011 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.17B | as of 2012 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.40B | as of 2013 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.21B | as of 2014 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.80B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.95B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.11B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.26B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.62B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $12.47B | as of 2020 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $1.89B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.66B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.52B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.00B | as of 2024 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $3.21B (3,205,000,000 United States dollar (as of 2017))
-- $3.94B (3,935,000,000 United States dollar (as of 2018))
-- $1.24B (-1,237,000,000 United States dollar (as of 2009))
-- $593.00M (593,000,000 United States dollar (as of 2010))
-- $854.00M (854,000,000 United States dollar (as of 2011))
-- $1.01B (1,009,000,000 United States dollar (as of 2012))
-- $10.54B (10,540,000,000 United States dollar (as of 2013))
-- $659.00M (659,000,000 United States dollar (as of 2014))
-- $4.53B (4,526,000,000 United States dollar (as of 2015))
-- $4.37B (4,373,000,000 United States dollar (as of 2016))
-- $4.77B (4,767,000,000 United States dollar (as of 2019))
-- $12.38B (-12,385,000,000 United States dollar (as of 2020))
-- $280.00M (280,000,000 United States dollar (as of 2021))
-- $1.32B (1,318,000,000 United States dollar (as of 2022))
-- $4.61B (4,609,000,000 United States dollar (as of 2023))
-- $3.46B (3,457,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $3.21B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.94B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.24B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $593.00M | as of 2010 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $854.00M | as of 2011 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.01B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $10.54B | as of 2013 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $659.00M | as of 2014 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $4.53B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.37B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.77B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $12.38B | as of 2020 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $280.00M | as of 2021 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.32B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.61B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.46B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $45.08B | as of 2008 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $43.79B | as of 2009 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $43.18B | as of 2010 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $53.71B | as of 2017 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $60.27B | as of 2018 | [50B-100B](/total_assets_buckets/50b-100b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $874.00M | as of 2008 | [500M-1B](/total_equity_buckets/500m-1b/) |
+| $245.00M | as of 2009 | [100M-500M](/total_equity_buckets/100m-500m/) |
+| $611.00M | as of 2010 | [500M-1B](/total_equity_buckets/500m-1b/) |
+| $13.68B | as of 2018 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $11.64B | as of 2013 | [10B-50B](/market_cap_buckets/10b-50b/) |
+| $32.58B | as of 2019-01-24 | [10B-50B](/market_cap_buckets/10b-50b/) |

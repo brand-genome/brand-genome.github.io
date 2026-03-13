@@ -2,7 +2,7 @@
 title: Gothenburg
 slug: gothenburg
 description: ""
-date: "2026-03-05T22:38:39.520255"
+date: "2026-03-13T08:56:59.454849"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
   - tourism
 industries: []
 countries:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1621
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,26 +54,28 @@ logo_elements:
   - secondary
 brand_colors:
   - white
+  - "pantone-302"
+  - blue
+  - "pantone-7405"
+  - black
   - "pantone-7472"
   - "pantone-376"
-  - "pantone-7405"
-  - "pantone-302"
-  - black
-  - blue
 typographies:
+  - din
   - georgia
   - arial
-  - din
 imagery_styles:
-  - bold
   - dynamic
-  - modern
   - graphic
+  - modern
+  - bold
 wikidata_description: "second-largest city in Sweden and capital of the Västra Götaland County"
+wikidata_url: "https://www.wikidata.org/wiki/Q25287"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +127,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25287) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1621](/foundation_dates/1621/) |
 | Located In The Administrative Territorial Entity | Gothenburg Municipality (from 1971-01-01), Bohuslän (until 1634), Västergötland (until 1634), Mölndal Municipality, Partille Municipality (+1 more) |
 | Country | Sweden |
 | Topic'S Main Category | Category:Gothenburg |

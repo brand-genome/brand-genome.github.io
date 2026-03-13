@@ -2,11 +2,11 @@
 title: Universitas Sumatera Utara
 slug: "universitas-sumatera-utara"
 description: ""
-date: "2026-03-05T22:38:39.283308"
+date: "2026-03-13T08:56:59.225452"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - indonesia
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1957
+  - 1952
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "national university in North Sumatera, Indonesia"
+wikidata_url: "https://www.wikidata.org/wiki/Q4200341"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4200341) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1957](/foundation_dates/1957/); [1952](/foundation_dates/1952/) |
 | Freebase Id | /m/0bhb9h9 |
 | Country | Indonesia |
 | Located In Time Zone | UTC+07:00 |
@@ -80,7 +98,6 @@ guideline_count: 1
 | X (Twitter) Username | usuofficial (as of 2020-03-23, from 2009-07-31) |
 | Facebook Username | usuofficial |
 | Ror Id | 01kknrc90, 007gswz19 |
-| Logo Image | University of north sumatera logo.jpg |
 | Viaf Cluster Id | 125463460 |
 | Coordinate Location | 3.5617222222222225, 98.65633333333334 |
 | Social Media Followers | 27,443 (as of 2021-01-07), 27,118 (as of 2022-02-28), 27,774 (as of 2023-02-09) |

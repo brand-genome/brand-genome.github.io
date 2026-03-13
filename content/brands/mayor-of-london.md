@@ -2,26 +2,36 @@
 title: Mayor of London
 slug: "mayor-of-london"
 description: ""
-date: "2026-03-05T22:38:39.434944"
+date: "2026-03-13T08:56:59.399621"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - "united-kingdom"
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,15 +53,17 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - bold
   - photography
-  - monochrome
   - illustration
+  - bold
+  - monochrome
 wikidata_description: head of the government of Greater London
+wikidata_url: "https://www.wikidata.org/wiki/Q38931"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,6 +100,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q38931) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/0b1nv |
 | Subclass Of | strategic regional authority mayor |
 | Applies To Jurisdiction | Greater London |
@@ -101,7 +118,6 @@ guideline_count: 2
 | Country | United Kingdom |
 | Substitute/Deputy/Replacement Of Office/Officeholder | Deputy Mayor of London |
 | Google Arts & Culture Partner Id | mayor-of-london |
-| Logo Image | Mayor of London logo1.svg |
 | X (Twitter) Username | MayorofLondon (as of 2020-04-27, from 2008-05-08) |
 | Different From | Lord Mayor of London |
 | Term Length Of Position | 4 year |

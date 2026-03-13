@@ -2,35 +2,64 @@
 title: HP
 slug: hp
 description: ""
-date: "2026-03-05T22:38:39.190092"
+date: "2026-03-13T08:56:59.124264"
 draft: false
 sectors:
   - "home-appliances"
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
-  - 2006
   - 2019
   - 2020
+  - 2006
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "information-and-communications-industry"
   - "software-industry"
   - "information-technology-industry"
   - "computer-hardware-industry"
+  - "information-and-communications-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced:
+  - laptop
+  - "computer-hardware"
+  - computer
+  - "digital-camera"
+  - "pocket-computer"
+  - "systems-integrator"
+  - "tablet-computer"
+  - "personal-computer"
+  - "networking-hardware"
+  - server
+  - smartphone
+  - "mobile-phone"
+  - printer
+  - "computer-storage-media"
+  - "image-scanner"
+  - software
+products: []
+headquarters_locations:
+  - "palo-alto"
+subsidiaries: []
+foundation_dates:
+  - 1939
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +78,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
+  - futura
   - impact
   - arial
-  - futura
 imagery_styles:
   - photography
   - product
   - lifestyle
 wikidata_description: American information technology company (1939–2015)
+wikidata_url: "https://www.wikidata.org/wiki/Q80978"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -187,6 +218,13 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q80978) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Computer](/products_or_materials_produced/computer/); [Digital Camera](/products_or_materials_produced/digital-camera/); [Pocket Computer](/products_or_materials_produced/pocket-computer/); [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Server](/products_or_materials_produced/server/); [Smartphone](/products_or_materials_produced/smartphone/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); +4 more |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
+| Foundation Date | [1939](/foundation_dates/1939/) |
 | Topic'S Main Category | Category:Hewlett-Packard |
 | Headquarters Location | Palo Alto |
 | Freebase Id | /m/03mnk |
@@ -217,7 +255,6 @@ guideline_count: 4
 | Open Funder Registry Funder Id | 100004314 |
 | Compart Institution Id | 283 |
 | Mac Address Block Large Id | 0001E6, 0001E7, 0002A5, 0004EA, 000802 (+134 more) |
-| Employees | 302,000 (as of 2014), 48,000 (as of 2016) |
 | Grid Id | grid.418547.b |
 | Bibliothèque Nationale De France Id | 12498282n |
 | Idref Id | 03420119X |
@@ -287,11 +324,9 @@ guideline_count: 4
 | Fandom Article Id | logos:Hewlett-Packard |
 | Treccani Id | hewlett-packard |
 | De Agostini Id | Hewlett+Packard |
-| Logo Image | HP logo 2012.svg (from 2012, until 2025), HP logo 2009.svg (from 2010, until 2012), HP logo 2008.svg (from 2008, until 2010), Hewlett-Packard logo 1979 blue.svg (from 1979, until 2008), Hewlett-Packard logo 1964.svg (from 1964, until 1979) (+2 more) |
 | Official Name | HP Inc. (from 2015), Hewlett-Packard Company (from 1939, until 2015) |
 | Part Of | S&P 500 (from 1974-12-31) |
 | Board Member | Aída Álvarez (from 2016), Shumeet Banerji (from 2011), Robert Bennett (from 2013), Chip Bergh (from 2015), Bruce Broussard (from 2021) (+8 more) |
-| Market Capitalization | 29,000,000,000 United States dollar (as of 2017-07-08) |
 | Said To Be The Same As | HP Inc. |
 | Babelnet Id | 17535362n |
 | Central Index Key | 0000047217 |
@@ -308,62 +343,81 @@ guideline_count: 4
 
 ### Revenue History
 
-- $111.45B (111,454,000,000 United States dollar (as of 2014))
-- $2.00B (2,000,000,000 United States dollar (as of 2015-01-01))
-- $69.03B (69,032,000,000 United States dollar (as of 2015, from 2014-11-01, until 2015-10-31))
-- $103.36B (103,355,000,000 United States dollar (as of 2016, from 2014-11-01, until 2015-10-31))
-- $111.45B (111,454,000,000 United States dollar (as of 2014, from 2013-11-01, until 2014-10-31))
-- $104.29B (104,286,000,000 United States dollar (as of 2008, from 2006-11-01, until 2007-10-31))
-- $114.55B (114,552,000,000 United States dollar (as of 2009, from 2008-11-01, until 2009-10-31))
-- $126.03B (126,033,000,000 United States dollar (as of 2010, from 2009-11-01, until 2010-10-31))
-- $127.25B (127,245,000,000 United States dollar (as of 2011, from 2010-11-01, until 2011-10-31))
-- $120.36B (120,357,000,000 United States dollar (as of 2012, from 2011-11-01, until 2012-10-31))
-- $112.30B (112,298,000,000 United States dollar (as of 2013, from 2012-11-01, until 2013-10-31))
-- $58.76B (58,756,000,000 United States dollar (as of 2019))
-- $56.64B (56,639,000,000 United States dollar (as of 2020))
-- $63.49B (63,487,000,000 United States dollar (as of 2021))
-- $52.06B (52,056,000,000 United States dollar (as of 2017))
-- $58.47B (58,472,000,000 United States dollar (as of 2018))
-- $62.98B (62,983,000,000 United States dollar (as of 2022, from 2021-11-01, until 2022-10-31))
-- $53.72B (53,718,000,000 United States dollar (as of 2023, from 2022-11-01, until 2023-10-31))
-- $53.56B (53,559,000,000 United States dollar (as of 2024, from 2023-11-01, until 2024-10-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $111.45B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $2.00B | as of 2015-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $69.03B | as of 2015, from 2014-11-01, until 2015-10-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $103.36B | as of 2016, from 2014-11-01, until 2015-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $111.45B | as of 2014, from 2013-11-01, until 2014-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $104.29B | as of 2008, from 2006-11-01, until 2007-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $114.55B | as of 2009, from 2008-11-01, until 2009-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $126.03B | as of 2010, from 2009-11-01, until 2010-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $127.25B | as of 2011, from 2010-11-01, until 2011-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $120.36B | as of 2012, from 2011-11-01, until 2012-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $112.30B | as of 2013, from 2012-11-01, until 2013-10-31 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $58.76B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $56.64B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $63.49B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $52.06B | as of 2017 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $58.47B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $62.98B | as of 2022, from 2021-11-01, until 2022-10-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $53.72B | as of 2023, from 2022-11-01, until 2023-10-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $53.56B | as of 2024, from 2023-11-01, until 2024-10-31 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $8.72B (8,719,000,000 United States dollar (as of 2008, from 2006-11-01, until 2007-10-31))
-- $10.14B (10,136,000,000 United States dollar (as of 2009, from 2008-11-01, until 2009-10-31))
-- $11.48B (11,479,000,000 United States dollar (as of 2010, from 2009-11-01, until 2010-10-31))
-- $9.68B (9,677,000,000 United States dollar (as of 2011, from 2010-11-01, until 2011-10-31))
-- $11.06B (-11,057,000,000 United States dollar (as of 2012, from 2011-11-01, until 2012-10-31))
-- $7.13B (7,131,000,000 United States dollar (as of 2013, from 2012-11-01, until 2013-10-31))
-- $7.18B (7,185,000,000 United States dollar (as of 2014, from 2013-11-01, until 2014-10-31))
-- $5.47B (5,471,000,000 United States dollar (as of 2016, from 2014-11-01, until 2015-10-31))
-- $3.52B (3,519,000,000 United States dollar (as of 2017, from 2016-11-01, until 2017-10-31))
-- $4.06B (4,064,000,000 United States dollar (as of 2018, from 2017-11-01, until 2018-10-31))
-- $3.88B (3,877,000,000 United States dollar (as of 2019, from 2018-11-01, until 2019-10-31))
-- $3.46B (3,462,000,000 United States dollar (as of 2020, from 2019-11-01, until 2020-10-31))
-- $5.30B (5,302,000,000 United States dollar (as of 2021, from 2020-11-01, until 2021-10-31))
-- $4.68B (4,676,000,000 United States dollar (as of 2022, from 2021-11-01, until 2022-10-31))
-- $3.46B (3,456,000,000 United States dollar (as of 2023, from 2022-11-01, until 2023-10-31))
-- $3.82B (3,818,000,000 United States dollar (as of 2024, from 2023-11-01, until 2024-10-31))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $8.72B | as of 2008, from 2006-11-01, until 2007-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.14B | as of 2009, from 2008-11-01, until 2009-10-31 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $11.48B | as of 2010, from 2009-11-01, until 2010-10-31 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.68B | as of 2011, from 2010-11-01, until 2011-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $11.06B | as of 2012, from 2011-11-01, until 2012-10-31 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $7.13B | as of 2013, from 2012-11-01, until 2013-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.18B | as of 2014, from 2013-11-01, until 2014-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.47B | as of 2016, from 2014-11-01, until 2015-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.52B | as of 2017, from 2016-11-01, until 2017-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.06B | as of 2018, from 2017-11-01, until 2018-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.88B | as of 2019, from 2018-11-01, until 2019-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.46B | as of 2020, from 2019-11-01, until 2020-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.30B | as of 2021, from 2020-11-01, until 2021-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.68B | as of 2022, from 2021-11-01, until 2022-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.46B | as of 2023, from 2022-11-01, until 2023-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.82B | as of 2024, from 2023-11-01, until 2024-10-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $5.01B (5,014,000,000 United States dollar (as of 2014))
-- $7.26B (7,264,000,000 United States dollar (as of 2008, from 2006-11-01, until 2007-10-31))
-- $7.66B (7,660,000,000 United States dollar (as of 2009, from 2008-11-01, until 2009-10-31))
-- $8.76B (8,761,000,000 United States dollar (as of 2010, from 2009-11-01, until 2010-10-31))
-- $7.07B (7,074,000,000 United States dollar (as of 2011, from 2010-11-01, until 2011-10-31))
-- $12.65B (-12,650,000,000 United States dollar (as of 2012, from 2011-11-01, until 2012-10-31))
-- $5.11B (5,113,000,000 United States dollar (as of 2013, from 2012-11-01, until 2013-10-31))
-- $5.01B (5,013,000,000 United States dollar (as of 2014, from 2013-11-01, until 2014-10-31))
-- $4.55B (4,554,000,001 United States dollar (as of 2015, from 2014-11-01, until 2015-10-31))
-- $4.55B (4,554,000,000 United States dollar (as of 2016, from 2014-11-01, until 2015-10-31))
-- $2.53B (2,526,000,000 United States dollar (as of 2017, from 2016-11-01, until 2017-10-31))
-- $5.33B (5,327,000,000 United States dollar (as of 2018, from 2017-11-01, until 2018-10-31))
-- $3.15B (3,152,000,000 United States dollar (as of 2019, from 2018-11-01, until 2019-10-31))
-- $2.84B (2,844,000,000 United States dollar (as of 2020, from 2019-11-01, until 2020-10-31))
-- $6.50B (6,503,000,000 United States dollar (as of 2021, from 2020-11-01, until 2021-10-31))
-- $3.20B (3,203,000,000 United States dollar (as of 2022, from 2021-11-01, until 2022-10-31))
-- $3.26B (3,263,000,000 United States dollar (as of 2023, from 2022-11-01, until 2023-10-31))
-- $2.77B (2,775,000,000 United States dollar (as of 2024, from 2023-11-01, until 2024-10-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $5.01B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.26B | as of 2008, from 2006-11-01, until 2007-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.66B | as of 2009, from 2008-11-01, until 2009-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.76B | as of 2010, from 2009-11-01, until 2010-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.07B | as of 2011, from 2010-11-01, until 2011-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $12.65B | as of 2012, from 2011-11-01, until 2012-10-31 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $5.11B | as of 2013, from 2012-11-01, until 2013-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.01B | as of 2014, from 2013-11-01, until 2014-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.55B | as of 2015, from 2014-11-01, until 2015-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.55B | as of 2016, from 2014-11-01, until 2015-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.53B | as of 2017, from 2016-11-01, until 2017-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.33B | as of 2018, from 2017-11-01, until 2018-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.15B | as of 2019, from 2018-11-01, until 2019-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.84B | as of 2020, from 2019-11-01, until 2020-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.50B | as of 2021, from 2020-11-01, until 2021-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.20B | as of 2022, from 2021-11-01, until 2022-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.26B | as of 2023, from 2022-11-01, until 2023-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.77B | as of 2024, from 2023-11-01, until 2024-10-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 302,000 | as of 2014 | [100K-500K](/employees_buckets/100k-500k/) |
+| 48,000 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $29.00B | as of 2017-07-08 | [10B-50B](/market_cap_buckets/10b-50b/) |

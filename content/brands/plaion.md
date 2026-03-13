@@ -2,11 +2,11 @@
 title: Plaion
 slug: plaion
 description: ""
-date: "2026-03-05T22:38:39.134968"
+date: "2026-03-13T08:56:59.086019"
 draft: false
 sectors:
-  - publishing
   - gaming
+  - publishing
   - entertainment
 regions:
   - austria
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hofen
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Austrian media enterprise
+wikidata_url: "https://www.wikidata.org/wiki/Q555273"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,12 +83,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q555273) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hofen](/headquarters_locations/hofen/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Country | Austria |
 | Headquarters Location | Höfen |
 | Inception | 1994-01-01 |
 | Freebase Id | /m/02vy2w1 |
 | Industry | video game industry |
-| Logo Image | Plaion Logo.svg (from 2022), Koch Media Logo.svg (from 2006, until 2022) |
 | Legal Form | Gesellschaft mit beschränkter Haftung |
 | Member Of | GAME, game – The German Games Industry Association |
 | Parent Organization Or Unit | Embracer Group |

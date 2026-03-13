@@ -2,7 +2,7 @@
 title: Pittsburg State University
 slug: "pittsburg-state-university"
 description: ""
-date: "2026-03-05T22:38:39.799178"
+date: "2026-03-13T08:56:59.852903"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - pittsburg
+subsidiaries: []
+foundation_dates:
+  - 1903
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,11 +52,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
-  - horizontal
-  - wordmark
   - stacked
+  - wordmark
+  - horizontal
+  - seal
 brand_colors:
   - white
   - red
@@ -53,10 +65,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in Pittsburg, Kansas, US"
+wikidata_url: "https://www.wikidata.org/wiki/Q2097334"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2097334) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pittsburg](/headquarters_locations/pittsburg/) |
+| Foundation Date | [1903](/foundation_dates/1903/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Pittsburg |
 | Coordinate Location | 37.3913, -94.7036 |
@@ -137,14 +157,12 @@ guideline_count: 1
 | Crunchbase Organization Id | pittsburg-state-university |
 | Open Funder Registry Funder Id | 501100012644 |
 | National Library Of Israel J9U Id | 987007587730605171 |
-| Employees | 963 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I4780363, P4310316206 |
 | Subreddit | pittstate |
 | Endowment | 83,378,740 United States dollar (as of 2022-06-30), 95,752,791 United States dollar (as of 2021-06-30) |
 | Academic Calendar Type | semester |
-| Logo Image | Pittsburg State University wordmark.png |
 | Sevis School Id | 7699 |
 | Member Of | American Association of State Colleges and Universities |
 | Kisti Id | K000207718 |
@@ -152,3 +170,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/d2a4dd32-50b2-4b4f-9c0f-0fadd3bfb89b |
 | Headquarters Location | Pittsburg |
 | Athletics Program | Pittsburg State Gorillas |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 963 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

@@ -2,7 +2,7 @@
 title: Musicians Institute
 slug: "musicians-institute"
 description: ""
-date: "2026-03-05T22:38:39.731947"
+date: "2026-03-13T08:56:59.753665"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1977
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,23 +49,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - stacked
   - lockup
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
-  - magenta
-  - black
   - green
+  - black
+  - magenta
 typographies: []
 imagery_styles: []
 wikidata_description: "college of contemporary music located in Los Angeles, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q679759"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -465,6 +478,11 @@ CONTACT  INFO
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q679759) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1977](/foundation_dates/1977/) |
 | Coordinate Location | 34.100796, -118.337297 |
 | Freebase Id | /m/07qhrr |
 | Location | Hollywood |
@@ -484,7 +502,6 @@ CONTACT  INFO
 | Street Address | 6752 Hollywood Blvd., Hollywood, CA, 90028 |
 | Crunchbase Organization Id | musicians-institute |
 | Count Of Students | 714 (as of 2020-09) |
-| Employees | 312 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Academic Calendar Type | academic quarter |
@@ -492,3 +509,9 @@ CONTACT  INFO
 | ‎Yale Lux Id | group/780ab74d-8662-4ecc-a96f-f8f32fd7baba |
 | Linkedin Company Or Organization Id | musicians-institute |
 | Musicbrainz Place Id | cf00c072-b4dd-4523-b088-d3c1942a0503 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 312 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

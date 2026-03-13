@@ -2,7 +2,7 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-03-05T22:38:39.517908"
+date: "2026-03-13T08:56:59.445243"
 draft: false
 sectors:
   - construction
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "aichi-prefecture"
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,10 +50,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - lockup
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
@@ -52,10 +63,12 @@ typographies:
   - "century-gothic"
 imagery_styles: []
 wikidata_description: Japanese drug store
+wikidata_url: "https://www.wikidata.org/wiki/Q11331216"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -395,6 +408,12 @@ for Customers
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11331216) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Aichi Prefecture](/headquarters_locations/aichi-prefecture/) |
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Headquarters Location | Aichi Prefecture |
 | Inception | 1985-08 |
 | Isni | 0000000464641229 |

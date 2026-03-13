@@ -2,12 +2,12 @@
 title: Expedia Group
 slug: "expedia-group"
 description: ""
-date: "2026-03-05T22:38:39.735849"
+date: "2026-03-13T08:56:59.778049"
 draft: false
 sectors:
   - software
-  - "e-commerce"
   - tourism
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - seattle
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,28 +52,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
   - white
-  - orange
-  - black
   - blue
+  - black
+  - orange
   - gray
 typographies:
   - "century-gothic"
-  - arial
   - display
+  - arial
 imagery_styles: []
 wikidata_description: "American-based parent company to several global online travel brands"
+wikidata_url: "https://www.wikidata.org/wiki/Q8085893"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +113,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8085893) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Country Of Origin | United States |
 | Inception | 1996-10-22 |
 | Stock Exchange | Nasdaq (from 2005) |
@@ -108,7 +127,6 @@ guideline_count: 1
 | X (Twitter) Username | ExpediaGroup (as of 2020-04-25, from 2009-07-13) |
 | Chief Executive Officer | Dara Khosrowshahi (from 2004-12, until 2017-08-28), Ariane Gorin (from 2024-05) |
 | Topic'S Main Category | Category:Expedia Group |
-| Logo Image | Expedia Inc. logo.svg (until 2018), Expedia Group logo.svg, Expedia Group Logo.png |
 | Owned By | public company |
 | Part Of | S&P 500, Nasdaq-100, list of companies operating in West Bank settlements |
 | Chairperson | Barry Diller (from 2001) |

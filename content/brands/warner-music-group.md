@@ -2,7 +2,7 @@
 title: Warner Music Group
 slug: "warner-music-group"
 description: ""
-date: "2026-03-05T22:38:39.242698"
+date: "2026-03-13T08:56:59.187163"
 draft: false
 sectors:
   - entertainment
@@ -13,19 +13,32 @@ years:
 languages:
   - english
 tags:
-  - music
   - featured
+  - music
   - entertainment
 industries:
   - "music-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "10m-100m"
+  - "10M-100M"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+  - "paramount-plaza"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational entertainment and record label conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q21077"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21077) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [Paramount Plaza](/headquarters_locations/paramount-plaza/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Child Organization Or Unit | EMI Music Poland Sp. z o.o., Roadrunner Records, Sire Records Co. (from 1980), Atco Records, Fueled by Ramen (+52 more) |
 | Country | United States |
 | Musicbrainz Label Id | 85010168-8987-4540-a058-296d426c3981 |
@@ -77,11 +98,9 @@ guideline_count: 1
 | Topic'S Main Category | Category:Warner Music Group |
 | Viaf Cluster Id | 147938025 |
 | Inception | 1958-04-06 |
-| Logo Image | Warner Music Group horizontal logo.svg (from 2013, until 2021), Warner Music Group logo (2021).svg (from 2021) |
 | Location Of Formation | New York City |
 | Stock Exchange | Nasdaq (from 2020) |
 | Quora Topic Id | Warner-Music-Group |
-| Employees | 4,520 (as of 2017) |
 | Discogs Label Id | 2345 |
 | Owned By | Access Industries, Tencent, Len Blavatnik |
 | Dagens Næringsliv Topic Id | Warner_Music |
@@ -132,48 +151,60 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.99B (2,988,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $2.78B (2,780,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $2.87B (2,871,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $3.03B (3,027,000,000 United States dollar (as of 2014, from 2013-10-01, until 2014-09-30))
-- $2.97B (2,966,000,000 United States dollar (as of 2015, from 2014-10-01, until 2015-09-30))
-- $3.25B (3,246,000,000 United States dollar (as of 2016, from 2015-10-01, until 2016-09-30))
-- $3.58B (3,576,000,000 United States dollar (as of 2017, from 2016-10-01, until 2017-09-30))
-- $4.00B (4,005,000,000 United States dollar (as of 2018, from 2017-10-01, until 2018-09-30))
-- $4.47B (4,475,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $4.46B (4,463,000,000 United States dollar (as of 2020, from 2019-10-01, until 2020-09-30))
-- $5.30B (5,301,000,000 United States dollar (as of 2021, from 2020-10-01, until 2021-09-30))
-- $5.92B (5,919,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $6.04B (6,037,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.99B | as of 2010, from 2009-10-01, until 2010-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.78B | as of 2012, from 2011-10-01, until 2012-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.87B | as of 2013, from 2012-10-01, until 2013-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.03B | as of 2014, from 2013-10-01, until 2014-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.97B | as of 2015, from 2014-10-01, until 2015-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.25B | as of 2016, from 2015-10-01, until 2016-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.58B | as of 2017, from 2016-10-01, until 2017-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.00B | as of 2018, from 2017-10-01, until 2018-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.47B | as of 2019, from 2018-10-01, until 2019-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.46B | as of 2020, from 2019-10-01, until 2020-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.30B | as of 2021, from 2020-10-01, until 2021-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.92B | as of 2022, from 2021-10-01, until 2022-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.04B | as of 2023, from 2022-10-01, until 2023-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $90.00M (90,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $109.00M (109,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $75.00M (75,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $19.00M (19,000,000 United States dollar (as of 2014, from 2013-10-01, until 2014-09-30))
-- $127.00M (127,000,000 United States dollar (as of 2015, from 2014-10-01, until 2015-09-30))
-- $214.00M (214,000,000 United States dollar (as of 2016, from 2015-10-01, until 2016-09-30))
-- $222.00M (222,000,000 United States dollar (as of 2017, from 2016-10-01, until 2017-09-30))
-- $217.00M (217,000,000 United States dollar (as of 2018, from 2017-10-01, until 2018-09-30))
-- $356.00M (356,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $229.00M (-229,000,000 United States dollar (as of 2020, from 2019-10-01, until 2020-09-30))
-- $609.00M (609,000,000 United States dollar (as of 2021, from 2020-10-01, until 2021-09-30))
-- $714.00M (714,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $790.00M (790,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $90.00M | as of 2010, from 2009-10-01, until 2010-09-30 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $109.00M | as of 2012, from 2011-10-01, until 2012-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $75.00M | as of 2013, from 2012-10-01, until 2013-09-30 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $19.00M | as of 2014, from 2013-10-01, until 2014-09-30 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $127.00M | as of 2015, from 2014-10-01, until 2015-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $214.00M | as of 2016, from 2015-10-01, until 2016-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $222.00M | as of 2017, from 2016-10-01, until 2017-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $217.00M | as of 2018, from 2017-10-01, until 2018-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $356.00M | as of 2019, from 2018-10-01, until 2019-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $229.00M | as of 2020, from 2019-10-01, until 2020-09-30 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $609.00M | as of 2021, from 2020-10-01, until 2021-09-30 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $714.00M | as of 2022, from 2021-10-01, until 2022-09-30 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $790.00M | as of 2023, from 2022-10-01, until 2023-09-30 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $143.00M (-143,000,000 United States dollar (as of 2010, from 2009-10-01, until 2010-09-30))
-- $112.00M (-112,000,000 United States dollar (as of 2012, from 2011-10-01, until 2012-09-30))
-- $198.00M (-198,000,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-30))
-- $308.00M (-308,000,000 United States dollar (as of 2014, from 2013-10-01, until 2014-09-30))
-- $91.00M (-91,000,000 United States dollar (as of 2015, from 2014-10-01, until 2015-09-30))
-- $25.00M (25,000,000 United States dollar (as of 2016, from 2015-10-01, until 2016-09-30))
-- $143.00M (143,000,000 United States dollar (as of 2017, from 2016-10-01, until 2017-09-30))
-- $307.00M (307,000,000 United States dollar (as of 2018, from 2017-10-01, until 2018-09-30))
-- $256.00M (256,000,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-30))
-- $475.00M (-475,000,000 United States dollar (as of 2020, from 2019-10-01, until 2020-09-30))
-- $304.00M (304,000,000 United States dollar (as of 2021, from 2020-10-01, until 2021-09-30))
-- $551.00M (551,000,000 United States dollar (as of 2022, from 2021-10-01, until 2022-09-30))
-- $430.00M (430,000,000 United States dollar (as of 2023, from 2022-10-01, until 2023-09-30))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $143.00M | as of 2010, from 2009-10-01, until 2010-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $112.00M | as of 2012, from 2011-10-01, until 2012-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $198.00M | as of 2013, from 2012-10-01, until 2013-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $308.00M | as of 2014, from 2013-10-01, until 2014-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $91.00M | as of 2015, from 2014-10-01, until 2015-09-30 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $25.00M | as of 2016, from 2015-10-01, until 2016-09-30 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $143.00M | as of 2017, from 2016-10-01, until 2017-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $307.00M | as of 2018, from 2017-10-01, until 2018-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $256.00M | as of 2019, from 2018-10-01, until 2019-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $475.00M | as of 2020, from 2019-10-01, until 2020-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $304.00M | as of 2021, from 2020-10-01, until 2021-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $551.00M | as of 2022, from 2021-10-01, until 2022-09-30 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $430.00M | as of 2023, from 2022-10-01, until 2023-09-30 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,520 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |

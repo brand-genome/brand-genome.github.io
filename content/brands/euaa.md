@@ -2,7 +2,7 @@
 title: EUAA
 slug: euaa
 description: ""
-date: "2026-03-05T22:38:39.299594"
+date: "2026-03-13T08:56:59.240433"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - marsa
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,24 +51,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
+  - yellow
   - blue
   - black
-  - yellow
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - bold
-  - professional
   - graphic
+  - professional
+  - bold
 wikidata_description: agency of the European Union
+wikidata_url: "https://www.wikidata.org/wiki/Q4002697"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4002697) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Marsa](/headquarters_locations/marsa/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Marsa |
 | Gnd Id | 1056816279 |
 | Inception | 2010 |
@@ -118,8 +138,6 @@ guideline_count: 1
 | Library Of Congress Authority Id | nb2017018223 |
 | Short Name | EASO (until 2022-01-19), EUAA (from 2022-01-19) |
 | Isni | 0000000446660960 |
-| Logo Image | EASO official logo.png (until 2022-01-19), EUAA Logo.png (from 2022-01-19) |
-| Employees | 200 (as of 2019) |
 | Facebook Username | easo.eu, EUAsylumAgency |
 | X (Twitter) Username | easo (as of 2020-04-19, from 2011-06-28), EUAsylumAgency |
 | Instagram Username | easopress, euasylumagency |
@@ -129,7 +147,7 @@ guideline_count: 1
 | Social Media Followers | 41,546 (as of 2021-01-05), 31,703 (as of 2020-04-19), 48,124 (as of 2022-01-27), 60,520 (as of 2023-02-12) |
 | Freebase Id | /m/01261jzq |
 | Share Catalogue Author Id | 742181 |
-| Email Address | mailto:info@euaa.europa.eu |
+| Email Address | info@euaa.europa.eu |
 | Ringgold Id | 419473 |
 | Uia Open Yearbook Organization Website Id | 1122277393 |
 | Eu Corporate Body Code | EASO, EUAA |
@@ -141,3 +159,9 @@ guideline_count: 1
 | Threads Username | euasylumagency |
 | Contact Page Url | https://www.euaa.europa.eu/contact-us |
 | On Focus List Of Wikimedia Project | Govdirectory |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 200 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |

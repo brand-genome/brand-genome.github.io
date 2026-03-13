@@ -2,7 +2,7 @@
 title: Swedish Space Corporation
 slug: "swedish-space-corporation"
 description: ""
-date: "2026-03-05T22:38:39.516133"
+date: "2026-03-13T08:56:59.443267"
 draft: false
 sectors:
   - satellite
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "solna-municipality"
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company in Sweden
+wikidata_url: "https://www.wikidata.org/wiki/Q3270281"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,6 +101,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3270281) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Solna Municipality](/headquarters_locations/solna-municipality/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Freebase Id | /m/02w2g7 |
 | Inception | 1972 |
 | Headquarters Location | Solna Municipality |
@@ -111,7 +130,6 @@ guideline_count: 1
 | X (Twitter) Username | SSCSpace (as of 2020-07-03, from 2010-01-29), SSCSpaceSverige (from 2019-06) |
 | Youtube Channel Id | UC0sW3RDR2fDmt-EW9XxGuIQ (as of 2020-12-11, from 2010-03-16) |
 | Linkedin Company Or Organization Id | ssc-swedish-space-corporation |
-| Logo Image | Swedish Space Corporation Logo.svg |
 | Social Media Followers | 2,524 (as of 2021-01-05), 2,091 (as of 2020-07-03) |
 | Openalex Id | I2802775541 |
 | Idref Id | 02641399X |

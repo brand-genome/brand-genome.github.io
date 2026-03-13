@@ -2,7 +2,7 @@
 title: Ofur
 slug: ofur
 description: ""
-date: "2026-03-05T22:38:39.177789"
+date: "2026-03-13T08:56:59.104006"
 draft: false
 sectors:
   - fashion
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tokyo
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +49,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - magenta
   - green
+  - magenta
   - black
 typographies:
-  - "open-sans"
   - montserrat
+  - "open-sans"
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
   - product
+  - bold
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q11262379"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11262379) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Image | Ofuro-no-Ousama Kounandai.JPG |
 | Headquarters Location | Tokyo |
 | Inception | 1998-10-15 |

@@ -2,7 +2,7 @@
 title: Ikea
 slug: ikea
 description: ""
-date: "2026-03-05T22:38:39.200245"
+date: "2026-03-13T08:56:59.136990"
 draft: false
 sectors:
   - "consumer-goods"
@@ -17,12 +17,30 @@ tags:
   - corporate
 industries:
   - "industrial-manufacturing"
-  - retail
   - design
+  - retail
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "interior-decoration"
+  - mattress
+  - kitchenware
+  - "home-appliance"
+  - "ready-to-assemble-furniture"
+  - couch
+  - furniture
+  - linens
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1943
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +63,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Swedish multinational furniture store chain
+wikidata_url: "https://www.wikidata.org/wiki/Q54078"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,11 +87,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54078) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Mattress](/products_or_materials_produced/mattress/); [Kitchenware](/products_or_materials_produced/kitchenware/); [Home Appliance](/products_or_materials_produced/home-appliance/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Couch](/products_or_materials_produced/couch/); [Furniture](/products_or_materials_produced/furniture/); [Linens](/products_or_materials_produced/linens/) |
+| Foundation Date | [1943](/foundation_dates/1943/) |
 | Inception | 1943-07-28 |
 | Founded By | Ingvar Kamprad |
 | Gnd Id | 4392009-3 |
 | Topic'S Main Category | Category:IKEA |
-| Logo Image | Ikea logo.svg (from 2019) |
 | Industry | industrial manufacturing, design, retail |
 | Commons Gallery | IKEA |
 | Nationalmuseum Sweden Id | 1173 |

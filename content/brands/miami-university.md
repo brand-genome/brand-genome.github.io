@@ -2,7 +2,7 @@
 title: Miami University
 slug: "miami-university"
 description: ""
-date: "2026-03-05T22:38:39.798795"
+date: "2026-03-13T08:56:59.852409"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oxford
+subsidiaries: []
+foundation_dates:
+  - 1809
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university located in Oxford, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q590643"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +75,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q590643) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oxford](/headquarters_locations/oxford/) |
+| Foundation Date | [1809](/foundation_dates/1809/) |
 | Coordinate Location | 39.511905, -84.734674 |
 | Country | United States |
 | Topic'S Main Category | Category:Miami University |
@@ -88,7 +108,6 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 125316104 |
 | Permid | 4296295244 |
 | Qs World University Id | miami-university |
-| Logo Image | Miami University logo 2021.png |
 | Owner Of | Collins Hall, Culler Hall, Fisher Hall, Harris Dining Hall, Kumler Chapel (+17 more) |
 | Musicbrainz Place Id | 4b45dbe0-9489-4029-9eae-e5930af82f3a |
 | Microsoft Academic Id (Discontinued) | 83328450 |
@@ -125,7 +144,6 @@ guideline_count: 1
 | Youtube Channel Id | UCAgUwIZC4DJrfW63oyHS0ag (as of 2021-04-29, from 2008-02-06) |
 | Seal Image | Miami University seal.png |
 | Count Of Students | 18,880 (as of 2020-09), 21,626 (as of 2021-09-01) |
-| Employees | 3,242 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I83328450 |
@@ -146,3 +164,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/81605b9e-346f-4737-8381-2da5f68384fa |
 | World Higher Education Database Id | IAU-011629 |
 | Athletics Program | Miami RedHawks |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,242 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

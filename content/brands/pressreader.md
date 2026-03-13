@@ -2,11 +2,11 @@
 title: Pressreader
 slug: pressreader
 description: ""
-date: "2026-03-05T22:38:39.743762"
+date: "2026-03-13T08:56:59.781906"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
 regions:
   - canada
 years:
@@ -25,6 +25,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - richmond
+  - vancouver
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,26 +55,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - "app-icon"
   - icon
-  - wordmark
+  - primary
   - stacked
+  - "app-icon"
+  - wordmark
 brand_colors:
   - green
   - black
   - gray
 typographies: []
 imagery_styles:
-  - bold
-  - modern
-  - monochrome
   - vibrant
+  - modern
+  - bold
+  - monochrome
 wikidata_description: digital newspaper distribution and technology company based in Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q6041620"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -136,6 +150,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6041620) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Richmond](/headquarters_locations/richmond/); [Vancouver](/headquarters_locations/vancouver/) |
 | Name | PressReader Inc. (from 2014), NewspaperDirect (from 1999, until 2014) |
 | X (Twitter) Username | pressreader (as of 2020-12-25, from 2008-09-25), PressReaderCare (as of 2020-12-25, from 2014-07-21), PressReader |
 | Instagram Username | pressreader |

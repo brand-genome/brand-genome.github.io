@@ -2,7 +2,7 @@
 title: Polytech
 slug: polytech
 description: ""
-date: "2026-03-05T22:38:39.526778"
+date: "2026-03-13T08:56:59.461377"
 draft: false
 sectors:
   - education
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "7th-arrondissement-of-paris"
+  - palaiseau
+  - "5th-arrondissement-of-paris"
+subsidiaries: []
+foundation_dates:
+  - 1794
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,25 +52,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - monogram
   - abstract
   - signature
-  - monogram
   - vertical
 brand_colors:
   - blue
 typographies:
   - "sans-serif"
 imagery_styles:
-  - photography
-  - professional
-  - abstract
   - modern
+  - professional
   - candid
+  - photography
+  - abstract
 wikidata_description: French engineering grande école (selective higher education institution)
+wikidata_url: "https://www.wikidata.org/wiki/Q273626"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q273626) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [7Th Arrondissement Of Paris](/headquarters_locations/7th-arrondissement-of-paris/); [Palaiseau](/headquarters_locations/palaiseau/); [5Th Arrondissement Of Paris](/headquarters_locations/5th-arrondissement-of-paris/) |
+| Foundation Date | [1794](/foundation_dates/1794/) |
 | Freebase Id | /m/01v0b8 |
 | Country | France |
 | Coordinate Location | 48.7125, 2.21 |
@@ -149,7 +170,6 @@ guideline_count: 1
 | Times Higher Education World University Id | ecole-polytechnique |
 | Google Maps Customer Id | 4882674458400227870 |
 | U Multirank University Id | ecole-polytechnique |
-| Logo Image | École polytechnique signature.svg |
 | Budget | 46,000,000 euro (as of 2018), 185,000,000 euro (as of 2024) |
 | Count Of Students | 2,316 (as of 2018), 2,790 (as of 2024-07-16) |
 | Legal Form | public establishment of an administrative nature (until 2015-09-24), public scientific, cultural or professional establishment |

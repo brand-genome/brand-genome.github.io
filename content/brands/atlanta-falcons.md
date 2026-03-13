@@ -2,7 +2,7 @@
 title: Atlanta Falcons
 slug: "atlanta-falcons"
 description: ""
-date: "2026-03-05T22:38:39.353763"
+date: "2026-03-13T08:56:59.305265"
 draft: false
 sectors:
   - sports
@@ -13,14 +13,26 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - atlanta
+  - "flowery-branch"
+subsidiaries: []
+foundation_dates:
+  - 1966
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American football team
+wikidata_url: "https://www.wikidata.org/wiki/Q272059"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q272059) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Flowery Branch](/headquarters_locations/flowery-branch/) |
+| Foundation Date | [1966](/foundation_dates/1966/) |
 | Home Venue | Georgia Dome (from 1992, until 2016), Mercedes-Benz Stadium (from 2017) |
 | Country | United States |
 | Topic'S Main Category | Category:Atlanta Falcons |

@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-03-05T22:38:39.293789"
+date: "2026-03-13T08:56:59.235625"
 draft: false
 sectors:
   - finance
@@ -19,10 +19,22 @@ industries:
 countries:
   - italy
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - milan
+subsidiaries: []
+foundation_dates:
+  - 2017
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,26 +54,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - arial
   - "proxima-nova"
+  - arial
 imagery_styles:
+  - graphic
+  - clean
   - professional
   - monochrome
-  - clean
-  - graphic
 wikidata_description: Italian bank
+wikidata_url: "https://www.wikidata.org/wiki/Q3803598"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,15 +126,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3803598) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Milan](/headquarters_locations/milan/) |
+| Foundation Date | [2017](/foundation_dates/2017/) |
 | British Museum Person Or Institution Id | 181268 |
 | Location Of Formation | Milan |
 | Inception | 2017 |
 | Headquarters Location | Milan |
 | Legal Form | società per azioni |
 | Library Of Congress Authority Id | no93011623, no93011624 |
-| Logo Image | Nexi Logo.svg |
 | Country | Italy |
-| Employees | 10,580 (as of 2024) |
 | Industry | financial services |
 | Image | Nexi sede Milano.jpg |
 | Viaf Cluster Id | 150385076 |
@@ -142,8 +160,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $3.36B (3,360,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.36B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $711.80M (711,800,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $711.80M | as of 2023 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 10,580 | as of 2024 | [10K-50K](/employees_buckets/10k-50k/) |

@@ -2,11 +2,11 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-03-05T22:38:39.724299"
+date: "2026-03-13T08:56:59.744124"
 draft: false
 sectors:
-  - "public-transportation"
   - utilities
+  - "public-transportation"
 regions:
   - norway
 years:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oslo
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,8 +54,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - black
 typographies:
@@ -52,10 +64,12 @@ typographies:
 imagery_styles:
   - clean
 wikidata_description: Norwegian airport operator
+wikidata_url: "https://www.wikidata.org/wiki/Q791050"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +120,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q791050) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Topic'S Main Category | Category:Avinor |
 | Freebase Id | /m/0450_c |
 | Viaf Cluster Id | 232048315 |
@@ -115,7 +135,6 @@ guideline_count: 1
 | Inception | 2003-01-01 |
 | Legal Form | aksjeselskap |
 | Norwegian Organisation Number | 985198292 |
-| Logo Image | Avinor logo purple.svg |
 | Isni | 0000000404144271 |
 | Ipv6 Routing Prefix | 2a00:14d8:1001:429::/64, 2a00:14d8:443f::/48 |
 | Grid Id | grid.457437.6 |
@@ -134,8 +153,13 @@ guideline_count: 1
 | Norwegian State Administration Database Id | 8009 |
 | Great Norwegian Encyclopedia Id | Avinor |
 | Ávvir Topic Id | avinor |
-| Employees | 2,800 (as of 2025) |
 | Facebook Username | AvinorAS |
 | Legal Entity Identifier | 5967007LIEEXZX8ZW078 |
 | Yle Topic Id | 18-279701 |
 | Image | PirNord OSL.jpg |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,800 | as of 2025 | [1K-10K](/employees_buckets/1k-10k/) |

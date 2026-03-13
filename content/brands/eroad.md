@@ -2,12 +2,12 @@
 title: EROAD
 slug: eroad
 description: ""
-date: "2026-03-05T22:38:39.685923"
+date: "2026-03-13T08:56:59.612580"
 draft: false
 sectors:
+  - hardware
   - software
   - "logistics-supply-chain"
-  - hardware
 regions:
   - "new-zealand"
 years:
@@ -21,6 +21,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "100M-500M"
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +59,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: Australian public company
+wikidata_url: "https://www.wikidata.org/wiki/Q109626990"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +96,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q109626990) |
+
+| Property | Value |
+|----------|-------|
 | Stock Exchange | Australian Securities Exchange (from 2020-09-18) |
 | Official Name | EROAD LIMITED |
-| Market Capitalization | 477,347,192 Australian dollar (as of 2021-11-18) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $477.35M | as of 2021-11-18 | [100M-500M](/market_cap_buckets/100m-500m/) |

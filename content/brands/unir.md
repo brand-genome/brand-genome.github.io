@@ -2,7 +2,7 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-03-05T22:38:39.678163"
+date: "2026-03-13T08:56:59.595670"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - madrid
+  - logrono
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,18 +56,20 @@ logo_elements:
   - secondary
 brand_colors:
   - white
+  - black
   - blue
   - orange
-  - black
 typographies:
   - arial
 imagery_styles:
   - bold
 wikidata_description: private university in Spain
+wikidata_url: "https://www.wikidata.org/wiki/Q6156490"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6156490) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Madrid](/headquarters_locations/madrid/); [Logrono](/headquarters_locations/logrono/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Gnd Id | 1031961895 |
 | Country | Spain |
 | Grid Id | grid.13825.3d |
@@ -130,7 +150,6 @@ guideline_count: 1
 | Cantic Id | 981058507473706706 |
 | Quora Topic Id | Universidad-Internacional-De-La-Rioja |
 | Pontificia Università Della Santa Croce Id | 118026 |
-| Logo Image | UNIR Horizontal Logo.png |
 | Native Label | Universidad Internacional de La Rioja |
 | Open Funder Registry Funder Id | 100017407 |
 | Member Of | Conference of Rectors of Spanish Universities (as of 2022-05), Spanish Association of University Presses, Coalition for Advancing Research Assessment, International Council for Open and Distance Education, AUiP |

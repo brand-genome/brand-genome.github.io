@@ -2,7 +2,7 @@
 title: USAID
 slug: usaid
 description: ""
-date: "2026-03-05T22:38:39.435097"
+date: "2026-03-13T08:56:59.399826"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ regions:
   - usa
 years:
   - 2004
-  - 2008
   - 2020
+  - 2008
 languages:
   - english
 tags:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,15 +55,17 @@ logo_elements:
   - symbol
 brand_colors: []
 typographies:
-  - impact
   - "gill-sans"
+  - impact
 imagery_styles:
   - photography
 wikidata_description: US government civilian foreign aid agency
+wikidata_url: "https://www.wikidata.org/wiki/Q217072"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -127,6 +140,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q217072) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Topic'S Main Category | Category:United States Agency for International Development |
 | Freebase Id | /m/011hwh |
 | Gnd Id | 42425-0 (from 1961), 16300660-X |
@@ -168,7 +187,7 @@ guideline_count: 3
 | Youtube Channel Id | UCMqzXhud-wZD7_QKASbS7Vw (as of 2021-12-12, from 2008-06-09) |
 | Linkedin Company Or Organization Id | usaid |
 | Phone Number | +1-202-712-0000 |
-| Email Address | mailto:open@usaid.gov |
+| Email Address | open@usaid.gov |
 | Street Address | Ronald Reagan Building, Washington, DC 20523-1000 |
 | Applies To Jurisdiction | United States |
 | Operating Area | worldwide |
@@ -196,7 +215,6 @@ guideline_count: 3
 | Youtube Handle | usaidvideo |
 | Google News Topics Id | CAAqIggKIhxDQkFTRHdvSkwyMHZNREV4YUhkb0VnSmxiaWdBUAE |
 | Parent Organization Or Unit | United States Department of State |
-| Logo Image | USAID-Identity.svg |
 | Iati Organisation Id | US-GOV-1 |
 | New York Post Topic Id | usaid |
 | Ndl Authority Id | 01127266 |

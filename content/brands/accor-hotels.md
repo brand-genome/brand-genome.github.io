@@ -2,7 +2,7 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-03-05T22:38:39.569639"
+date: "2026-03-13T08:56:59.499421"
 draft: false
 sectors:
   - tourism
@@ -16,16 +16,30 @@ languages:
 tags:
   - tourism
 industries:
-  - "hospitality-industry"
   - "activities-of-head-offices"
+  - "hospitality-industry"
 countries:
   - france
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "500m-1b"
+  - "500M-1B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "issy-les-moulineaux"
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,32 +62,34 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-7546"
   - red
-  - "pantone-703"
   - grey
-  - "pantone-7550"
-  - black
   - blue
-  - "pantone-5513"
+  - "pantone-7546"
+  - "pantone-7550"
   - green
+  - black
   - "pantone-5763"
+  - "pantone-5513"
+  - "pantone-703"
 typographies:
   - gotham
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - staged
-  - graphic
-  - monochrome
-  - artificial
-  - contemporary
   - natural
+  - staged
+  - contemporary
+  - monochrome
+  - graphic
+  - artificial
 wikidata_description: French hotel group
+wikidata_url: "https://www.wikidata.org/wiki/Q212599"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -133,6 +149,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q212599) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Issy Les Moulineaux](/headquarters_locations/issy-les-moulineaux/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Topic'S Main Category | Category:Accor |
 | Freebase Id | /m/0496mw |
 | Inception | 1967 |
@@ -162,7 +184,6 @@ guideline_count: 1
 | Owner Of | Mantra Towers of Chevron, Norfolk Hotel, Pullman Hotels and Resorts, 40 Marsh Wall, hôtel Ibis Yerevan (+11 more) |
 | Eu Vat Number | FR93602036444 |
 | Littlesis Organization Id | 99211 |
-| Logo Image | AccorHotels Logo 2016.svg, Logo Accor.png |
 | Instagram Username | accorhotels, accor |
 | Pinterest Username | accorhotels |
 | Iso 9362 Swift/Bic Code | GRACFRP2XXX |
@@ -176,9 +197,6 @@ guideline_count: 1
 | Legal Form | public limited company with a board of directors (n.o.s.) |
 | Main Wikidata Property | Accor hotel ID |
 | Official Name | Accor SA, ACCOR |
-| Employees | 14,466 (as of 2021), 15,247 (as of 2020), 19,198 (as of 2023) |
-| Total Equity | 4,549,000,000 euro (as of 2021-12), 4,161,000,000 euro (as of 2020-12) |
-| Total Assets | 10,669,000,000 euro (as of 2021), 10,553,000,000 euro (as of 2020) |
 | Alexander Turnbull Library Id | 254161 |
 | Name | Accor (from 1983) |
 | Central Index Key | 0001049183 |
@@ -197,44 +215,72 @@ guideline_count: 1
 
 ### Revenue History
 
-- $5.65B (5,649,000,000 euro (as of 2012))
-- $5.54B (5,536,000,000 euro (as of 2013))
-- $5.45B (5,454,000,000 euro (as of 2014))
-- $5.58B (5,581,000,000 euro (as of 2015))
-- $1.60B (1,603,000,000 euro (as of 2016))
-- $1.94B (1,937,000,000 euro (as of 2017))
-- $3.61B (3,610,000,000 euro (as of 2018))
-- $4.05B (4,049,000,000 euro (as of 2019))
-- $1.62B (1,621,000,000 euro (as of 2020))
-- $2.20B (2,204,000,000 euro (as of 2021))
-- $4.22B (4,224,000,000 euro (as of 2022))
-- $5.06B (5,056,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.65B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.54B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.45B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.58B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.60B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.94B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.61B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.05B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.62B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.20B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.22B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.06B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $526.00M (526,000,000 euro (as of 2012))
-- $536.00M (536,000,000 euro (as of 2013))
-- $602.00M (602,000,000 euro (as of 2014))
-- $665.00M (665,000,000 euro (as of 2015))
-- $389.00M (389,000,000 euro (as of 2016))
-- $413.00M (413,000,000 euro (as of 2017))
-- $229.00M (229,000,000 euro (as of 2018))
-- $678.00M (678,000,000 euro (as of 2019))
-- $2.20B (-2,201,000,000 euro (as of 2020))
-- $53.00M (53,000,000 euro (as of 2021))
-- $543.00M (543,000,000 euro (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $526.00M | as of 2012 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $536.00M | as of 2013 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $602.00M | as of 2014 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $665.00M | as of 2015 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $389.00M | as of 2016 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $413.00M | as of 2017 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $229.00M | as of 2018 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $678.00M | as of 2019 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $2.20B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $53.00M | as of 2021 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $543.00M | as of 2022 | [500M-1B](/operating_income_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $599.00M (-599,000,000 euro (as of 2012))
-- $126.00M (126,000,000 euro (as of 2013))
-- $223.00M (223,000,000 euro (as of 2014))
-- $244.00M (244,000,000 euro (as of 2015))
-- $265.00M (265,000,000 euro (as of 2016))
-- $441.00M (441,000,000 euro (as of 2017))
-- $2.23B (2,233,000,000 euro (as of 2018))
-- $464.00M (464,000,000 euro (as of 2019))
-- $1.99B (-1,988,000,000 euro (as of 2020))
-- $85.00M (85,000,000 euro (as of 2021))
-- $402.00M (402,000,000 euro (as of 2022))
-- $633.00M (633,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $599.00M | as of 2012 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $126.00M | as of 2013 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $223.00M | as of 2014 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $244.00M | as of 2015 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $265.00M | as of 2016 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $441.00M | as of 2017 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $2.23B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $464.00M | as of 2019 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.99B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $85.00M | as of 2021 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $402.00M | as of 2022 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $633.00M | as of 2023 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 14,466 | as of 2021 | [10K-50K](/employees_buckets/10k-50k/) |
+| 15,247 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,198 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $10.67B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $10.55B | as of 2020 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $4.55B | as of 2021-12 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $4.16B | as of 2020-12 | [1B-10B](/total_equity_buckets/1b-10b/) |

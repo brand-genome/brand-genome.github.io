@@ -2,7 +2,7 @@
 title: Frog
 slug: frog
 description: ""
-date: "2026-03-05T22:38:39.586591"
+date: "2026-03-13T08:56:59.528798"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -16,17 +16,28 @@ languages:
 tags:
   - education
 industries:
-  - "experience-design"
-  - "service-design"
   - "business-and-other-management-consultancy-activities"
   - "software-industry"
-  - "industrial-design"
+  - "service-design"
   - "interaction-design"
+  - "industrial-design"
+  - "experience-design"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +59,28 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - "pantone-2768"
-  - "pantone-801"
   - blue
-  - "pantone-300"
-  - purple
   - "pantone-2597"
+  - "pantone-801"
+  - "pantone-300"
+  - "pantone-2768"
+  - purple
 typographies:
-  - impact
-  - raleway
   - verdana
+  - raleway
+  - impact
 imagery_styles:
-  - bold
-  - playful
   - product
   - illustration
+  - playful
+  - bold
 wikidata_description: global creative consultancy
+wikidata_url: "https://www.wikidata.org/wiki/Q289314"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -127,6 +140,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q289314) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Founded By | Hartmut Esslinger |
 | Freebase Id | /m/0c0jwh |
 | Viaf Cluster Id | 150784826 |
@@ -143,7 +162,6 @@ guideline_count: 1
 | Crunchbase Organization Id | frogventures, frog-design |
 | Sfmoma Artist Id | frog_design |
 | Has Works In The Collection | San Francisco Museum of Modern Art |
-| Logo Image | Frog Design logo.svg |
 | Start Time | 1969 |
 | Location | Sunnydale |
 | Museum Of Modern Art Artist Id | 10718 |

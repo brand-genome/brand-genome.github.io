@@ -2,7 +2,7 @@
 title: Paige
 slug: paige
 description: ""
-date: "2026-03-05T22:38:39.341002"
+date: "2026-03-13T08:56:59.296546"
 draft: false
 sectors:
   - networking
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,20 +50,22 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - black
-  - blue
-  - gray
   - navy
+  - blue
+  - black
+  - gray
 typographies:
   - "open-sans"
 imagery_styles:
-  - bold
   - clean
+  - bold
 wikidata_description: "UK pop-rock band formerly signed to Walnut Tree Records"
+wikidata_url: "https://www.wikidata.org/wiki/Q7124703"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +126,11 @@ Open Sans Regular 10pt
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7124703) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Musicbrainz Artist Id | 43e11c30-2851-43ee-b569-b9976118c0e0 |
 | Record Label | Walnut Tree Records |
 | Genre | pop-punk |

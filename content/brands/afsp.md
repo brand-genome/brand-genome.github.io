@@ -2,7 +2,7 @@
 title: AFSP
 slug: afsp
 description: ""
-date: "2026-03-05T22:38:39.509031"
+date: "2026-03-13T08:56:59.433385"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,24 +57,26 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - green
+  - black
+  - gray
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - photography
-  - minimal
   - natural
+  - minimal
+  - bold
 wikidata_description: U.S. nonprofit health organization
+wikidata_url: "https://www.wikidata.org/wiki/Q4743852"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -159,6 +173,12 @@ Taglines:
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4743852) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | United States |
 | Inception | 1987 |
 | Freebase Id | /m/026cxhc |
@@ -181,9 +201,7 @@ Taglines:
 | Donations | 45,618,930 United States dollar (as of 2019), 51,176,095 United States dollar (as of 2022), 33,886,359 United States dollar (as of 2021), 46,539,841 United States dollar (as of 2023), 11,111,013 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | New York City |
-| Logo Image | American Foundation for Suicide Prevention logo.svg |
 | Has Goal | suicide prevention |
-| Total Assets | 71,956,699 United States dollar (as of 2022), 69,758,088 United States dollar (as of 2021), 91,842,190 United States dollar (as of 2023), 5,258,473 United States dollar (as of 2011), 5,876,043 United States dollar (as of 2012) (+8 more) |
 | Tiktok Username | afspnational |
 | Linkedin Company Or Organization Id | afspnational |
 | ‎Yale Lux Id | group/dbadb16c-cd48-4914-bf60-bcb99a831e8c |
@@ -193,16 +211,36 @@ Taglines:
 
 ### Revenue History
 
-- $24.80M (24,795,121 United States dollar (as of 2017-01-01))
-- $42.51M (42,513,785 United States dollar (as of 2020))
-- $42.37M (42,370,512 United States dollar (as of 2019))
-- $36.47M (36,473,016 United States dollar (as of 2018))
-- $48.03M (48,034,966 United States dollar (as of 2022))
-- $33.15M (33,149,569 United States dollar (as of 2021))
-- $47.99M (47,990,598 United States dollar (as of 2023))
-- $9.25M (9,252,409 United States dollar (as of 2011))
-- $9.98M (9,978,240 United States dollar (as of 2012))
-- $12.97M (12,971,717 United States dollar (as of 2013))
-- $13.02M (13,015,753 United States dollar (as of 2014))
-- $19.39M (19,394,815 United States dollar (as of 2015))
-- $21.71M (21,711,096 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $24.80M | as of 2017-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $42.51M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $42.37M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $36.47M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $48.03M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $33.15M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $47.99M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.25M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.98M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $12.97M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $13.02M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.39M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $21.71M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $71.96M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $69.76M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $91.84M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $5.26M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.88M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.99M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.80M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $14.11M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.19M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.12M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.48M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $44.71M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $57.28M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

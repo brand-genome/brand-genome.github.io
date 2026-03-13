@@ -2,7 +2,7 @@
 title: Brewers
 slug: brewers
 description: ""
-date: "2026-03-05T22:38:39.537601"
+date: "2026-03-13T08:56:59.469412"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - milwaukee
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,22 +51,24 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gold
-  - "pantone-18"
-  - "pantone-123"
+  - "pantone-293"
+  - navy
+  - blue
   - "pantone-19"
   - "pantone-2767"
-  - "pantone-293"
-  - blue
-  - navy
+  - gold
   - "pantone-14"
+  - "pantone-18"
+  - "pantone-123"
 typographies: []
 imagery_styles: []
 wikidata_description: "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q848103"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +113,12 @@ HEX: #8A1F03
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q848103) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Milwaukee](/headquarters_locations/milwaukee/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Head Coach | Pat Murphy (from 2023-11-15) |
 | League Or Competition | Major League Baseball (from 1969), National League (from 1998), American League (from 1969, until 1997) |
 | Home Venue | American Family Field |

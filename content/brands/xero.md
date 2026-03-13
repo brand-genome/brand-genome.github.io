@@ -2,7 +2,7 @@
 title: Xero
 slug: xero
 description: ""
-date: "2026-03-05T22:38:39.732460"
+date: "2026-03-13T08:56:59.770871"
 draft: false
 sectors:
   - software
@@ -20,10 +20,23 @@ industries:
 countries:
   - "new-zealand"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced:
+  - "accounting-software"
+products: []
+headquarters_locations:
+  - wellington
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,20 +58,22 @@ logo_elements:
   - badge
 brand_colors:
   - white
+  - black
   - blue
   - 100
-  - black
 typographies:
   - display
 imagery_styles:
+  - photography
   - minimal
   - professional
-  - photography
 wikidata_description: Accounting software company
+wikidata_url: "https://www.wikidata.org/wiki/Q8043794"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,10 +118,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8043794) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Accounting Software](/products_or_materials_produced/accounting-software/) |
+| Headquarters Location | [Wellington](/headquarters_locations/wellington/) |
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Inception | 2006 |
 | Headquarters Location | Wellington |
 | Location Of Formation | New Zealand |
-| Logo Image | Xero-logo-hires-RGB.png |
 | Quora Topic Id | Xero |
 | Has Use | accounting, invoice |
 | Industry | software industry |
@@ -122,7 +143,6 @@ guideline_count: 1
 | Freebase Id | /m/02rsj7z |
 | Crunchbase Organization Id | xero |
 | Country | New Zealand |
-| Market Capitalization | 21,953,624,006 Australian dollar (as of 2021-11-18) |
 | Official Name | XERO LIMITED |
 | Product Or Material Produced | accounting software |
 | Eu Transparency Register Id | 405271944964-57 |
@@ -130,8 +150,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.71B (1,713,000,000 New Zealand dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.71B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $255.00M (255,000,000 New Zealand dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $255.00M | as of 2024 | [100M-500M](/operating_income_buckets/100m-500m/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $21.95B | as of 2021-11-18 | [10B-50B](/market_cap_buckets/10b-50b/) |

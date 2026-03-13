@@ -2,7 +2,7 @@
 title: College of New Caledonia
 slug: "college-of-new-caledonia"
 description: ""
-date: "2026-03-05T22:38:39.559566"
+date: "2026-03-13T08:56:59.482407"
 draft: false
 sectors:
   - education
@@ -18,9 +18,21 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ imagery_styles:
   - photography
   - natural
 wikidata_description: "college in northern British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q5146783"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5146783) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Prince George, Quesnel, Mackenzie, Vanderhoof, Burns Lake (+1 more) |
 | Isni | 0000000089269735 |
@@ -108,31 +127,84 @@ guideline_count: 1
 | Member Of | Colleges and Institutes Canada |
 | Organisation Tax Status | charitable organization in Canada |
 | Donations | 124,122 Canadian dollar (as of 2003), 202,419 Canadian dollar (as of 2004), 308,890 Canadian dollar (as of 2005), 561,180 Canadian dollar (as of 2006), 367,147 Canadian dollar (as of 2007) (+17 more) |
-| Total Assets | 40,121,657 Canadian dollar (as of 2003), 42,218,537 Canadian dollar (as of 2004), 55,216,892 Canadian dollar (as of 2005), 63,090,245 Canadian dollar (as of 2006), 63,872,750 Canadian dollar (as of 2007) (+17 more) |
-| Employees | 640 (as of 2003), 592 (as of 2004), 626 (as of 2005), 603 (as of 2006), 604 (as of 2007) (+16 more) |
 | Cra Program Account Number | 118868041RR0001 |
 
 ### Revenue History
 
-- $43.26M (43,256,834 Canadian dollar (as of 2003))
-- $45.59M (45,585,433 Canadian dollar (as of 2004))
-- $46.21M (46,207,858 Canadian dollar (as of 2005))
-- $49.10M (49,101,154 Canadian dollar (as of 2006))
-- $49.92M (49,917,401 Canadian dollar (as of 2007))
-- $50.88M (50,883,490 Canadian dollar (as of 2008))
-- $56.24M (56,241,625 Canadian dollar (as of 2009))
-- $56.98M (56,977,278 Canadian dollar (as of 2010))
-- $58.94M (58,944,155 Canadian dollar (as of 2011))
-- $62.59M (62,586,411 Canadian dollar (as of 2012))
-- $63.33M (63,332,102 Canadian dollar (as of 2013))
-- $62.59M (62,591,215 Canadian dollar (as of 2014))
-- $59.92M (59,917,681 Canadian dollar (as of 2015))
-- $60.97M (60,973,646 Canadian dollar (as of 2016))
-- $61.32M (61,316,146 Canadian dollar (as of 2017))
-- $64.65M (64,651,939 Canadian dollar (as of 2018))
-- $72.48M (72,484,700 Canadian dollar (as of 2019))
-- $78.93M (78,932,000 Canadian dollar (as of 2020))
-- $78.17M (78,165,177 Canadian dollar (as of 2021))
-- $75.31M (75,305,505 Canadian dollar (as of 2022))
-- $80.01M (80,007,084 Canadian dollar (as of 2023))
-- $95.84M (95,841,085 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $43.26M | as of 2003 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $45.59M | as of 2004 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $46.21M | as of 2005 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.10M | as of 2006 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.92M | as of 2007 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $50.88M | as of 2008 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $56.24M | as of 2009 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $56.98M | as of 2010 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $58.94M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $62.59M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $63.33M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $62.59M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $59.92M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $60.97M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $61.32M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $64.65M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $72.48M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.93M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.17M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $75.31M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $80.01M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $95.84M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 640 | as of 2003 | [100-1K](/employees_buckets/100-1k/) |
+| 592 | as of 2004 | [100-1K](/employees_buckets/100-1k/) |
+| 626 | as of 2005 | [100-1K](/employees_buckets/100-1k/) |
+| 603 | as of 2006 | [100-1K](/employees_buckets/100-1k/) |
+| 604 | as of 2007 | [100-1K](/employees_buckets/100-1k/) |
+| 634 | as of 2008 | [100-1K](/employees_buckets/100-1k/) |
+| 601 | as of 2009 | [100-1K](/employees_buckets/100-1k/) |
+| 662 | as of 2010 | [100-1K](/employees_buckets/100-1k/) |
+| 642 | as of 2011 | [100-1K](/employees_buckets/100-1k/) |
+| 654 | as of 2012 | [100-1K](/employees_buckets/100-1k/) |
+| 657 | as of 2013 | [100-1K](/employees_buckets/100-1k/) |
+| 686 | as of 2014 | [100-1K](/employees_buckets/100-1k/) |
+| 636 | as of 2016 | [100-1K](/employees_buckets/100-1k/) |
+| 618 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |
+| 646 | as of 2018 | [100-1K](/employees_buckets/100-1k/) |
+| 671 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 715 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 700 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 677 | as of 2022 | [100-1K](/employees_buckets/100-1k/) |
+| 667 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |
+| 692 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $40.12M | as of 2003 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $42.22M | as of 2004 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $55.22M | as of 2005 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $63.09M | as of 2006 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $63.87M | as of 2007 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $71.59M | as of 2008 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $73.01M | as of 2009 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $79.17M | as of 2010 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $107.72M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $97.86M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $101.03M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $94.70M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $99.41M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $106.14M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $113.52M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $127.12M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $152.15M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $162.03M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $186.30M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $188.13M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $193.37M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $196.50M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

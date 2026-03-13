@@ -2,7 +2,7 @@
 title: Twitch
 slug: twitch
 description: ""
-date: "2026-03-05T22:38:39.492121"
+date: "2026-03-13T08:56:59.421788"
 draft: false
 sectors:
   - broadcasting
@@ -11,19 +11,28 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - entertainment
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +51,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - mascot
   - icon
   - secondary
+  - primary
+  - mascot
   - wordmark
 brand_colors:
   - purple
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - playful
   - gradient
+  - playful
+  - bold
 wikidata_description: television series focused on video games
+wikidata_url: "https://www.wikidata.org/wiki/Q17042881"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -136,6 +147,10 @@ guideline_count: 2
 - Brand assets referenced should match the Brand Package. Examples in the guidelines are illustrative and not licensed for public facing use.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17042881) |
 
 | Property | Value |
 |----------|-------|

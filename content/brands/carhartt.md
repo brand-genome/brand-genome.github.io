@@ -2,11 +2,11 @@
 title: Carhartt
 slug: carhartt
 description: ""
-date: "2026-03-05T22:38:39.599975"
+date: "2026-03-13T08:56:59.542267"
 draft: false
 sectors:
-  - fashion
   - "consumer-goods"
+  - fashion
 regions:
   - usa
 years:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - textile
+  - clothing
+products: []
+headquarters_locations:
+  - dearborn
+subsidiaries: []
+foundation_dates:
+  - 1889
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,33 +54,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - symbol
-  - secondary
+  - wordmark
   - horizontal
   - signature
-  - wordmark
 brand_colors:
+  - brown
   - white
+  - "pantone-5395"
+  - "pantone-5405"
   - "pantone-381"
+  - "pantone-7511"
   - "pantone-153"
   - black
-  - "pantone-5405"
-  - "pantone-5395"
   - "pantone-1655"
-  - brown
-  - "pantone-7511"
 typographies:
-  - impact
   - helvetica
+  - impact
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: American brand of sturdy work clothing
+wikidata_url: "https://www.wikidata.org/wiki/Q527877"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +134,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q527877) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Textile](/products_or_materials_produced/textile/); [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
+| Foundation Date | [1889](/foundation_dates/1889/) |
 | Freebase Id | /m/08vntw |
 | Headquarters Location | Dearborn |
 | Country | United States |
@@ -133,7 +155,6 @@ guideline_count: 1
 | Facebook Username | Carhartt |
 | Pinterest Username | Carhartt |
 | Linkedin Company Or Organization Id | carhartt |
-| Logo Image | Carhartt logo.svg |
 | Osm Name Suggestion Index Id | carhartt-65f908 |
 | Social Media Followers | 78,949 (as of 2021-01-07), 75,233 (as of 2020-04-15), 91,154 (as of 2022-01-27), 95,190 (as of 2023-02-12), 22,192 (as of 2023-05-23) (+2 more) |
 | Legal Form | joint-stock company |
@@ -141,7 +162,7 @@ guideline_count: 1
 | Crunchbase Organization Id | carhartt |
 | Google Knowledge Graph Id | /g/11bc6xyff4 |
 | Phone Number | +1 1-800-833-3118, +1 800-833-3118, +44 01223 790199 |
-| Email Address | mailto:Just_ask_us@carhartt.com, mailto:customercare@carhartt.com |
+| Email Address | Just_ask_us@carhartt.com, customercare@carhartt.com |
 | Youtube Channel Id | UCdbvAI8n2n5LFYL4Gl9uLbw (as of 2024-06-16, from 2009-03-04) |
 | Tiktok Username | carhartt |
 | Reddit Topic Id | carhartt |

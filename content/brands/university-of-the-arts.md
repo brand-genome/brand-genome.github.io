@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-03-05T22:38:39.350266"
+date: "2026-03-13T08:56:59.301357"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - education
-  - university
   - art
+  - university
 industries:
   - "higher-education"
 countries:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - philadelphia
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +61,16 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - dynamic
   - photography
+  - dynamic
   - vibrant
 wikidata_description: "University in Philadelphia, USA, accredited in 1987. Successor to the Philadelphia Colleges of the Arts."
+wikidata_url: "https://www.wikidata.org/wiki/Q1068615"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1068615) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Philadelphia](/headquarters_locations/philadelphia/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Coordinate Location | 39.94611111111111, -75.16583333333334 |
 | Topic'S Main Category | Category:University of the Arts (Philadelphia) |
 | Freebase Id | /m/02dnrn |
@@ -135,12 +156,9 @@ guideline_count: 1
 | Ror Id | 040w1dr55 |
 | Archinform Project Id | 79520 |
 | Follows | Philadelphia Colleges of the Arts (as of 1987) |
-| Logo Image | University of the Arts logo.svg |
 | Social Media Followers | 7,964 (as of 2021-01-03) |
 | Count Of Students | 1,530 (as of 2020-09) |
-| Total Assets | 191,023,347 United States dollar (as of 2020-06-30) |
 | Endowment | 56,173,508 United States dollar (as of 2020-06-30) |
-| Employees | 544 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Musicbrainz Place Id | e3a2e463-6762-411a-9ae6-5d7dd81ff061 |
@@ -154,3 +172,15 @@ guideline_count: 1
 | Kisti Id | K000208052 |
 | Dissolved, Abolished Or Demolished Date | 2024-06-07 |
 | ‎Yale Lux Id | group/34fc762c-7f65-4162-824d-15285f5af2c9 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 544 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $191.02M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

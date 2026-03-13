@@ -2,11 +2,11 @@
 title: BenQ
 slug: benq
 description: ""
-date: "2026-03-05T22:38:39.774014"
+date: "2026-03-13T08:56:59.825856"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
@@ -22,6 +22,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "computer-hardware"
+  - "video-projector"
+products: []
+headquarters_locations:
+  - taipei
+subsidiaries: []
+foundation_dates:
+  - 1984
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +63,12 @@ typographies:
   - "gill-sans"
 imagery_styles: []
 wikidata_description: Taiwanese electronics company
+wikidata_url: "https://www.wikidata.org/wiki/Q714335"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +110,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q714335) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Video Projector](/products_or_materials_produced/video-projector/) |
+| Headquarters Location | [Taipei](/headquarters_locations/taipei/) |
+| Foundation Date | [1984](/foundation_dates/1984/) |
 | Headquarters Location | Taipei |
 | Freebase Id | /m/02kjxd |
 | Image | Benq joybook.jpg |
@@ -101,13 +124,11 @@ guideline_count: 1
 | Inception | 1984-04-21 |
 | Country | Taiwan |
 | Industry | electrical industry |
-| Logo Image | BenQ wordmark.svg (from 2001), BenQ 2012 logo.svg (from 2012) |
 | Product Or Material Produced | computer hardware, video projector |
 | Quora Topic Id | BenQ |
 | Usb Vendor Id | 04a5 |
 | Mac Address Block Large Id | 8065E9 |
 | Grid Id | grid.471151.7 |
-| Employees | 1,539 (as of 2020) |
 | Gui Number | 70721522 |
 | Microsoft Academic Id (Discontinued) | 173717819 |
 | X (Twitter) Username | benqeurope (as of 2020-04-19, from 2009-12-14), BenQAmerica (as of 2020-04-25, from 2016-03-14) |
@@ -122,3 +143,9 @@ guideline_count: 1
 | Pci Vendor Id | 17ff |
 | T10 Vendor Id String | BENQ |
 | Pnp Vendor Id | BNQ, BEQ, BEN |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,539 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |

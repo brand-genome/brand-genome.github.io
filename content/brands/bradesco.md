@@ -2,7 +2,7 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-03-05T22:38:39.603667"
+date: "2026-03-13T08:56:59.546742"
 draft: false
 sectors:
   - insurance
@@ -16,14 +16,26 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
-  - "economics-of-banking"
   - "financial-sector"
+  - "economics-of-banking"
+  - "financial-services"
 countries:
   - brazil
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "financial-services"
+products: []
+headquarters_locations:
+  - osasco
+subsidiaries: []
+foundation_dates:
+  - 1943
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,21 +54,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - secondary
+  - vertical
+  - symbol
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - red
   - black
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian banking institution
+wikidata_url: "https://www.wikidata.org/wiki/Q806181"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +106,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q806181) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/) |
+| Headquarters Location | [Osasco](/headquarters_locations/osasco/) |
+| Foundation Date | [1943](/foundation_dates/1943/) |
 | Stock Exchange | New York Stock Exchange, São Paulo Stock Exchange (from 2021-08-29) |
 | Freebase Id | /m/03p1l17 |
 | Country | Brazil |
@@ -114,7 +135,6 @@ guideline_count: 1
 | Founded By | Amador Aguiar |
 | Product Or Material Produced | financial services |
 | Osm Name Suggestion Index Id | bradesco-0ed44d, bradesco-a02d2b |
-| Logo Image | Banco Bradesco logo.svg |
 | Social Media Followers | 193,732 (as of 2021-01-05), 184,200 (as of 2020-04-14), 202,873 (as of 2022-02-27), 211,360 (as of 2023-02-07), 4,550,000 (as of 2024-08-17) (+1 more) |
 | Crunchbase Organization Id | banco-bradesco |
 | Linkedin Company Or Organization Id | bradesco |

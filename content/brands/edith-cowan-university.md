@@ -2,7 +2,7 @@
 title: Edith Cowan University
 slug: "edith-cowan-university"
 description: ""
-date: "2026-03-05T22:38:39.810014"
+date: "2026-03-13T08:56:59.874263"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Perth, Western Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1284960"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1284960) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Coordinate Location | -31.7525, 115.7728, -31.91961484626006, 115.86792981963512, -33.36708256954768, 115.65338781321226, -31.987318207081046, 115.78824234920747 (until 2004), -31.976475, 115.81264166666666 (until 1990) (+2 more) |
 | Country | Australia |
 | Located In The Administrative Territorial Entity | City of Joondalup, City of Stirling, City of Bunbury, Town of Claremont (until 2004), City of Perth (until 1990) (+2 more) |
@@ -116,9 +135,7 @@ guideline_count: 1
 | ‎Yale Lux Id | group/f3150ee7-7018-41e8-a143-563ea85f0065 |
 | World Higher Education Database Id | IAU-004384 |
 | Australian Business Number | 54361485361 |
-| Total Assets | 2,214,924,000 Australian dollar (as of 2023), 2,019,435,000 Australian dollar (as of 2022), 1,866,813,000 Australian dollar (as of 2021), 1,314,235,000 Australian dollar (as of 2020), 1,387,440,000 Australian dollar (as of 2019) |
 | Donations | 3,034,000 Australian dollar (as of 2023), 1,937,000 Australian dollar (as of 2022), 1,028,000 Australian dollar (as of 2021), 1,583,000 Australian dollar (as of 2020), 1,426,000 Australian dollar (as of 2019) |
-| Employees | 1,965 (as of 2023), 1,545 (as of 2022), 1,653 (as of 2021), 1,867 (as of 2019) |
 | Number Of Volunteers | 17 (as of 2019) |
 | Romeo Publisher Id | 2501 |
 | Wolfram Language Entity Code | Entity["University", "EdithCowanUniversity::r2dcz"] |
@@ -129,8 +146,29 @@ guideline_count: 1
 
 ### Revenue History
 
-- $675.97M (675,970,000 Australian dollar (as of 2023))
-- $476.23M (476,229,000 Australian dollar (as of 2022))
-- $533.39M (533,394,000 Australian dollar (as of 2021))
-- $479.15M (479,154,000 Australian dollar (as of 2020))
-- $482.09M (482,090,000 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $675.97M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $476.23M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $533.39M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $479.15M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $482.09M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,965 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,545 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,653 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,867 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.21B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.02B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.87B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.31B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.39B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |

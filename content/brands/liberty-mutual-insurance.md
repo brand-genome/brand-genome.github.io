@@ -2,7 +2,7 @@
 title: Liberty Mutual Insurance
 slug: "liberty-mutual-insurance"
 description: ""
-date: "2026-03-05T22:38:39.383576"
+date: "2026-03-13T08:56:59.346968"
 draft: false
 sectors:
   - insurance
@@ -19,9 +19,20 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 1912
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,26 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - white
-  - teal
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
   - gray
+  - teal
 typographies: []
 imagery_styles:
-  - dramatic
   - photography
-  - staged
   - natural
+  - staged
+  - dramatic
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1516450"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,12 @@ Our logo must be easily seen and recognized. Don’t crowd it with other images 
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1516450) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [1912](/foundation_dates/1912/) |
 | Freebase Id | /m/059cfw |
 | Headquarters Location | Boston |
 | Inception | 1912-01-01 |
@@ -128,12 +147,13 @@ Our logo must be easily seen and recognized. Don’t crowd it with other images 
 | Country | United States |
 | Ringgold Id | 14599 |
 | Instagram Username | libertymutual |
-| Logo Image | Liberty Mutual logo.svg |
 | Osm Name Suggestion Index Id | libertymutualinsurance-6b1e37 |
 | Eu Transparency Register Id | 968334040015-84 |
 | Threads Username | libertymutual |
 
 ### Revenue History
 
-- $48.20B (48,200,000,000 United States dollar (as of 2021))
-- $43.80B (43,796,000,000 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $48.20B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.80B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |

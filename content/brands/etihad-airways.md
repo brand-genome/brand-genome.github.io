@@ -2,27 +2,38 @@
 title: Etihad Airways
 slug: "etihad-airways"
 description: ""
-date: "2026-03-05T22:38:39.337449"
+date: "2026-03-13T08:56:59.292023"
 draft: false
 sectors:
   - airline
 regions:
   - "abu-dhabi"
 years:
-  - 2016
   - 2014
+  - 2016
 languages:
   - english
   - arabic
 tags:
-  - airline
   - aeronautic
+  - airline
 industries: []
 countries:
   - "united-arab-emirates"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "abu-dhabi"
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +58,17 @@ brand_colors:
   - gold
   - black
 typographies:
-  - trebuchet
   - din
+  - trebuchet
 imagery_styles:
   - bold
 wikidata_description: "flag-carrier airline of the United Arab Emirates"
+wikidata_url: "https://www.wikidata.org/wiki/Q212304"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -132,6 +145,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q212304) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Abu Dhabi](/headquarters_locations/abu-dhabi/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United Arab Emirates |
 | Item Operated | Airbus A320 family, Airbus A330, Airbus A340, Airbus A350, Airbus A380 (+2 more) |
 | Airline Hub | Zayed International Airport |
@@ -148,7 +167,6 @@ guideline_count: 2
 | Corporate Number (Japan) | 1700150005974 |
 | Quora Topic Id | Etihad-Airways |
 | Isni | 0000000417560821 |
-| Logo Image | Etihad-airways-logo.svg |
 | Chief Executive Officer | Antonoaldo Neves (from 2018-01) |
 | Ipv6 Routing Prefix | 2a03:8180:1501:b7::/64 |
 | Uses | AMOS |

@@ -2,7 +2,7 @@
 title: One World
 slug: "one-world"
 description: ""
-date: "2026-03-05T22:38:39.523169"
+date: "2026-03-13T08:56:59.458226"
 draft: false
 sectors:
   - airline
@@ -13,13 +13,22 @@ years:
 languages:
   - english
 tags:
-  - featured
   - aeronautic
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +59,12 @@ imagery_styles:
   - gradient
   - clean
 wikidata_description: vocal track by Coldplay
+wikidata_url: "https://www.wikidata.org/wiki/Q136002513"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +103,10 @@ guideline_count: 1
 - Guidelines provide detailed airplane branding instructions that emphasize logo proportions, consistent placement next to airline logos, and regulatory compliance precedence. Includes recommendations for signage updates at strategic airports or airline facilities.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136002513) |
 
 | Property | Value |
 |----------|-------|

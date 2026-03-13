@@ -2,7 +2,7 @@
 title: "Coca-Cola"
 slug: "coca-cola"
 description: ""
-date: "2026-03-05T22:38:39.316483"
+date: "2026-03-13T08:56:59.261435"
 draft: false
 sectors:
   - drink
@@ -15,22 +15,44 @@ years:
 languages:
   - english
 tags:
+  - packaging
+  - "student-work"
   - "food-beverage"
   - featured
-  - "student-work"
-  - packaging
 industries:
-  - "food-industry"
   - "beverage-industry"
+  - "food-industry"
   - "fast-moving-consumer-goods"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - sprite
+  - "non-alcoholic-beverage"
+  - "soft-drink"
+  - "alcoholic-beverage"
+  - "fanta-orange"
+  - "coca-cola"
+  - "diet-coke"
+products: []
+headquarters_locations:
+  - atlanta
+subsidiaries: []
+foundation_dates:
+  - 1892
+  - 1886
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,13 +79,15 @@ brand_colors:
 typographies:
   - script
 imagery_styles:
-  - retro
   - dynamic
+  - retro
 wikidata_description: American multinational beverage corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q3295867"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,10 +135,16 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3295867) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sprite](/products_or_materials_produced/sprite/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Alcoholic Beverage](/products_or_materials_produced/alcoholic-beverage/); [Fanta Orange](/products_or_materials_produced/fanta-orange/); [Coca Cola](/products_or_materials_produced/coca-cola/); [Diet Coke](/products_or_materials_produced/diet-coke/) |
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1892](/foundation_dates/1892/); [1886](/foundation_dates/1886/) |
 | Library Of Congress Authority Id | n80020347 |
 | Viaf Cluster Id | 144240631, 1888155191923882440004 |
 | Isni | 0000000405042170 |
-| Logo Image | The Coca-Cola Company (2020).svg (from 2020), The Coca-Cola Company logo.svg (until 2020) |
 | Stock Exchange | New York Stock Exchange (from 1929-02-20) |
 | Founded By | Asa Griggs Candler, John Pemberton |
 | Award Received | Ig Nobel Prize (as of 2004-01-01) |
@@ -131,7 +161,6 @@ guideline_count: 2
 | Motto Text | Enjoy Coca-Cola! |
 | Legal Form | Delaware corporation |
 | Chief Executive Officer | James Quincey (from 2018), Muhtar Kent (from 2008, until 2018), E. Neville Isdell (from 2004, until 2008) |
-| Employees | 82,500 (as of 2022), 90,500 (as of 2007), 80,300 (as of 2020), 79,000 (as of 2021), 79,100 (as of 2023) (+12 more) |
 | Location Of Formation | Atlanta |
 | Product Or Material Produced | Coca-Cola, soft drink, non-alcoholic beverage, alcoholic beverage, Diet Coke (+2 more) |
 | Facebook Username | TheCocaColaCo (from 2013-08-08) |
@@ -172,8 +201,6 @@ guideline_count: 2
 | Nla Trove People Id | 1079424 |
 | Great Norwegian Encyclopedia Id | Coca-Cola_Company |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0018400 |
-| Total Assets | 83,210,000,000 United States dollar (as of 2018), 101,716,000,000 United States dollar (as of 2025-03-28), 100,549,000,000 United States dollar (as of 2024-12-31), 106,266,000,000 United States dollar (as of 2024-09-27), 101,202,000,000 United States dollar (as of 2024-06-28) (+7 more) |
-| Total Equity | 16,980,000,000 United States dollar (as of 2018), 27,754,000,000 United States dollar (as of 2025-03-28), 26,372,000,000 United States dollar (as of 2024-12-31), 28,154,000,000 United States dollar (as of 2024-09-27), 27,411,000,000 United States dollar (as of 2024-06-28) (+7 more) |
 | Iso 9362 Swift/Bic Code | TCCCUS33XXX, TCCCUS35XXX |
 | Cobis Author Id | dnq6ux1h60w3ee1p5mpjub9d5mpjub8 |
 | Archives At | Stuart A. Rose Manuscript, Archives, and Rare Book Library |
@@ -282,80 +309,142 @@ guideline_count: 2
 
 ### Revenue History
 
-- $31.85B (31,850,000,000 United States dollar (as of 2018))
-- $37.27B (37,266,000,000 United States dollar (as of 2019))
-- $33.01B (33,014,000,000 United States dollar (as of 2020))
-- $38.66B (38,655,000,000 United States dollar (as of 2021))
-- $41.86B (41,863,000,000 United States dollar (as of 2016))
-- $36.21B (36,212,000,000 United States dollar (as of 2017))
-- $43.00B (43,004,000,000 United States dollar (as of 2022))
-- $45.75B (45,754,000,000 United States dollar (as of 2023))
-- $47.06B (47,061,000,000 United States dollar (as of 2024))
-- $44.29B (44,294,000,000 United States dollar (as of 2015))
-- $46.00B (45,998,000,000 United States dollar (as of 2014))
-- $46.85B (46,854,000,000 United States dollar (as of 2013))
-- $48.02B (48,017,000,000 United States dollar (as of 2012))
-- $46.54B (46,542,000,000 United States dollar (as of 2011))
-- $35.12B (35,119,000,000 United States dollar (as of 2010))
-- $30.99B (30,990,000,000 United States dollar (as of 2009))
-- $31.94B (31,944,000,000 United States dollar (as of 2008))
-- $28.86B (28,857,000,000 United States dollar (as of 2007))
-- $24.09B (24,088,000,000 United States dollar (as of 2006))
-- $23.10B (23,104,000,000 United States dollar (as of 2005))
-- $21.74B (21,742,000,000 United States dollar (as of 2004))
-- $20.86B (20,857,000,000 United States dollar (as of 2003))
-- $19.39B (19,394,000,000 United States dollar (as of 2002))
-- $17.37B (17,374,000,000 United States dollar (as of 2001))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $31.85B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.27B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $33.01B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.66B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $41.86B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.21B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.00B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $45.75B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $47.06B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $44.29B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $46.00B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $46.85B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $48.02B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $46.54B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.12B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.99B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.94B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.86B | as of 2007 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.09B | as of 2006 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.10B | as of 2005 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.74B | as of 2004 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $20.86B | as of 2003 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.39B | as of 2002 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.37B | as of 2001 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $8.70B (8,700,000,000 United States dollar (as of 2018))
-- $7.25B (7,252,000,000 United States dollar (as of 2007))
-- $8.45B (8,446,000,000 United States dollar (as of 2008))
-- $8.23B (8,231,000,000 United States dollar (as of 2009))
-- $8.41B (8,413,000,000 United States dollar (as of 2010))
-- $10.17B (10,173,000,000 United States dollar (as of 2011))
-- $10.78B (10,779,000,000 United States dollar (as of 2012))
-- $10.23B (10,228,000,000 United States dollar (as of 2013))
-- $9.71B (9,708,000,000 United States dollar (as of 2014))
-- $8.73B (8,728,000,000 United States dollar (as of 2015))
-- $8.66B (8,657,000,000 United States dollar (as of 2016))
-- $7.75B (7,755,000,000 United States dollar (as of 2017))
-- $10.09B (10,086,000,000 United States dollar (as of 2019))
-- $9.00B (8,997,000,000 United States dollar (as of 2020))
-- $10.31B (10,308,000,000 United States dollar (as of 2021))
-- $10.91B (10,909,000,000 United States dollar (as of 2022))
-- $11.31B (11,311,000,000 United States dollar (as of 2023))
-- $9.99B (9,992,000,000 United States dollar (as of 2024))
-- $6.08B (6,085,000,000 United States dollar (as of 2005))
-- $5.70B (5,698,000,000 United States dollar (as of 2004))
-- $5.22B (5,221,000,000 United States dollar (as of 2003))
-- $5.46B (5,458,000,000 United States dollar (as of 2002))
-- $5.35B (5,352,000,000 United States dollar (as of 2001))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $8.70B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.25B | as of 2007 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.45B | as of 2008 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.23B | as of 2009 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.41B | as of 2010 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.17B | as of 2011 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $10.78B | as of 2012 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $10.23B | as of 2013 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.71B | as of 2014 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.73B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.66B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.75B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.09B | as of 2019 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.00B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $10.31B | as of 2021 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $10.91B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $11.31B | as of 2023 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $9.99B | as of 2024 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.08B | as of 2005 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.70B | as of 2004 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.22B | as of 2003 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.46B | as of 2002 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.35B | as of 2001 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $6.43B (6,430,000,000 United States dollar (as of 2018))
-- $5.98B (5,981,000,000 United States dollar (as of 2007))
-- $5.81B (5,807,000,000 United States dollar (as of 2008))
-- $6.82B (6,824,000,000 United States dollar (as of 2009))
-- $11.79B (11,787,000,000 United States dollar (as of 2010))
-- $8.58B (8,584,000,000 United States dollar (as of 2011))
-- $9.02B (9,019,000,000 United States dollar (as of 2012))
-- $7.10B (7,098,000,000 United States dollar (as of 2014))
-- $7.35B (7,351,000,000 United States dollar (as of 2015))
-- $6.53B (6,527,000,000 United States dollar (as of 2016))
-- $1.25B (1,248,000,000 United States dollar (as of 2017))
-- $8.92B (8,920,000,000 United States dollar (as of 2019))
-- $7.75B (7,747,000,000 United States dollar (as of 2020))
-- $9.77B (9,771,000,000 United States dollar (as of 2021))
-- $9.54B (9,542,000,000 United States dollar (as of 2022))
-- $8.58B (8,584,000,000 United States dollar (as of 2013))
-- $10.71B (10,714,000,000 United States dollar (as of 2023))
-- $10.63B (10,631,000,000 United States dollar (as of 2024))
-- $5.08B (5,080,000,000 United States dollar (as of 2006))
-- $4.87B (4,872,000,000 United States dollar (as of 2005))
-- $4.85B (4,847,000,000 United States dollar (as of 2004))
-- $4.35B (4,347,000,000 United States dollar (as of 2003))
-- $3.05B (3,050,000,000 United States dollar (as of 2002))
-- $3.97B (3,969,000,000 United States dollar (as of 2001))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $6.43B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.98B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.81B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.82B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.79B | as of 2010 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $8.58B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.02B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.10B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.35B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.53B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.25B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.92B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.75B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.77B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.54B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.58B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $10.71B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $10.63B | as of 2024 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $5.08B | as of 2006 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.87B | as of 2005 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.85B | as of 2004 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.35B | as of 2003 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.05B | as of 2002 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.97B | as of 2001 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 82,500 | as of 2022 | [50K-100K](/employees_buckets/50k-100k/) |
+| 90,500 | as of 2007 | [50K-100K](/employees_buckets/50k-100k/) |
+| 80,300 | as of 2020 | [50K-100K](/employees_buckets/50k-100k/) |
+| 79,000 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |
+| 79,100 | as of 2023 | [50K-100K](/employees_buckets/50k-100k/) |
+| 69,700 | as of 2024 | [50K-100K](/employees_buckets/50k-100k/) |
+| 86,200 | as of 2019 | [50K-100K](/employees_buckets/50k-100k/) |
+| 62,600 | as of 2018 | [50K-100K](/employees_buckets/50k-100k/) |
+| 61,800 | as of 2017 | [50K-100K](/employees_buckets/50k-100k/) |
+| 100,300 | as of 2016 | [100K-500K](/employees_buckets/100k-500k/) |
+| 123,200 | as of 2015 | [100K-500K](/employees_buckets/100k-500k/) |
+| 129,200 | as of 2014 | [100K-500K](/employees_buckets/100k-500k/) |
+| 130,600 | as of 2013 | [100K-500K](/employees_buckets/100k-500k/) |
+| 150,900 | as of 2012 | [100K-500K](/employees_buckets/100k-500k/) |
+| 146,200 | as of 2011 | [100K-500K](/employees_buckets/100k-500k/) |
+| 139,600 | as of 2010 | [100K-500K](/employees_buckets/100k-500k/) |
+| 92,800 | as of 2009 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $83.21B | as of 2018 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $101.72B | as of 2025-03-28 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $100.55B | as of 2024-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $106.27B | as of 2024-09-27 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $101.20B | as of 2024-06-28 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $99.39B | as of 2024-03-29 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $97.70B | as of 2023-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $97.58B | as of 2023-09-29 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $98.46B | as of 2023-06-30 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $97.40B | as of 2023-03-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $92.76B | as of 2022-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $104.33B | as of 2025-06-27 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $16.98B | as of 2018 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.75B | as of 2025-03-28 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $26.37B | as of 2024-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $28.15B | as of 2024-09-27 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.41B | as of 2024-06-28 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.95B | as of 2024-03-29 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.48B | as of 2023-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.83B | as of 2023-09-29 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $27.55B | as of 2023-06-30 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $26.87B | as of 2023-03-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $25.83B | as of 2022-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $30.18B | as of 2025-06-27 | [10B-50B](/total_equity_buckets/10b-50b/) |

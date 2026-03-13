@@ -2,11 +2,11 @@
 title: UKRI
 slug: ukri
 description: ""
-date: "2026-03-05T22:38:39.553779"
+date: "2026-03-13T08:56:59.475916"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,22 +49,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - horizontal
+  - symbol
 brand_colors:
   - white
   - black
 typographies:
   - impact
 imagery_styles:
-  - macro
-  - staged
   - natural
+  - staged
+  - macro
 wikidata_description: research funding body for the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q38609561"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +113,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q38609561) |
+
+| Property | Value |
+|----------|-------|
 | Country | United Kingdom |
 | Grid Id | grid.496779.2 |
 | Library Of Congress Authority Id | nb2011007310 |
@@ -114,7 +129,6 @@ guideline_count: 1
 | X (Twitter) Username | ukri_news (as of 2020-12-27, from 2016-05-16) |
 | Youtube Channel Id | UCkf0YxotdFTrxDKcfTV5tiA (as of 2020-12-02, from 2016-05-16) |
 | Google Knowledge Graph Id | /g/11gb3w8bbd |
-| Logo Image | UK Research and Innovation logo.svg |
 | Social Media Followers | 56,868 (as of 2021-01-08), 73,685 (as of 2022-03-01), 5,090 (as of 2022-05-25), 88,794 (as of 2023-02-12), 6,580 (as of 2023-02-17) (+4 more) |
 | Open Funder Registry Funder Id | 100014013 |
 | Uk Parliament Thesaurus Id | 427314 |

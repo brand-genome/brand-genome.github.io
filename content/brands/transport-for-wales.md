@@ -2,7 +2,7 @@
 title: Transport for Wales
 slug: "transport-for-wales"
 description: ""
-date: "2026-03-05T22:38:39.188665"
+date: "2026-03-13T08:56:59.121748"
 draft: false
 sectors:
   - "public-sector"
@@ -15,14 +15,25 @@ languages:
   - english
   - welsh
 tags:
-  - featured
   - transport
+  - featured
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - pontypridd
+subsidiaries: []
+foundation_dates:
+  - 2018
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "transportation organisation in Wales, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q48740007"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +83,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48740007) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pontypridd](/headquarters_locations/pontypridd/) |
+| Foundation Date | [2018](/foundation_dates/2018/) |
 | Uk Parliament Thesaurus Id | 436025 |
 | Image | Transport wales logo18.svg |
 | Inception | 2018-10-14 |

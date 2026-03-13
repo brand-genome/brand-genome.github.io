@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-03-05T22:38:39.578293"
+date: "2026-03-13T08:56:59.511976"
 draft: false
 sectors:
   - research
@@ -13,16 +13,29 @@ years:
 languages:
   - german
 tags:
-  - science
   - institution
+  - science
 industries:
-  - "research-and-experimental-development-on-social-sciences-and-humanities"
   - "research-and-development"
+  - "research-and-experimental-development-on-social-sciences-and-humanities"
 countries:
   - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - berlin
+  - "berlin-mitte"
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: research institute
+wikidata_url: "https://www.wikidata.org/wiki/Q155228"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,13 +139,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q155228) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Berlin Mitte](/headquarters_locations/berlin-mitte/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Country | Germany |
 | Gnd Id | 37419-2 |
 | Library Of Congress Authority Id | n79121392 |
 | Viaf Cluster Id | 147168990 |
 | Freebase Id | /m/0gltx2 |
 | Member Of | Leibniz Association, Verein zur Förderung eines Deutschen Forschungsnetzes, Arbeitskreis Steuerschätzung, Informationsdienst Wissenschaft, German National Research Data Infrastructure |
-| Employees | 334 |
 | Inception | 1925 |
 | Founded By | Ernst Wagemann |
 | Director / Manager | Ernst Wagemann (from 1925, until 1945), Ferdinand Friedensburg (from 1945, until 1968), Klaus Dieter Arndt (from 1968, until 1974), Karl König (from 1975, until 1979), Hans-Jürgen Krupp (from 1979, until 1988) (+3 more) |
@@ -189,3 +209,9 @@ guideline_count: 1
 | Nukat Id | n01070154 |
 | National Library Of Poland Mms Id | 9810616895805606 |
 | Rero Id (Legacy) | A000050500 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 334 | - | [100-1K](/employees_buckets/100-1k/) |

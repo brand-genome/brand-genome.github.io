@@ -2,11 +2,11 @@
 title: Dalhousie University
 slug: "dalhousie-university"
 description: ""
-date: "2026-03-05T22:38:39.298593"
+date: "2026-03-13T08:56:59.239024"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - canada
@@ -21,9 +21,22 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - halifax
+subsidiaries: []
+foundation_dates:
+  - 1818
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +56,29 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - white
   - gold
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - photography
+  - natural
   - staged
+  - clean
+  - candid
+  - photography
   - vibrant
   - artificial
-  - candid
-  - clean
-  - natural
+  - bold
 wikidata_description: "public research university in Nova Scotia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q579321"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q579321) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Halifax](/headquarters_locations/halifax/) |
+| Foundation Date | [1818](/foundation_dates/1818/) |
 | Coordinate Location | 44.636944444444, -63.591666666667 |
 | Inception | 1818-01-01 |
 | Country | Canada |
@@ -125,7 +146,6 @@ guideline_count: 1
 | Times Higher Education World University Id | dalhousie-university |
 | Google Maps Customer Id | 8398163671155758083 |
 | U Multirank University Id | dalhousie-university |
-| Logo Image | Dalhousie University Wordmark 2014.svg |
 | Microsoft Academic Id (Discontinued) | 129902397 |
 | Library Of Congress Authority Id | n79038417 |
 | Endowment | 443,687,000 Canadian dollar (as of 2017), 593,797,528 United States dollar (as of 2022-06-30), 644,095,871 United States dollar (as of 2021-06-30) |
@@ -173,33 +193,82 @@ guideline_count: 1
 | Worldcat Entities Id | E39QH7JmqFbrwcbyYWfXKBWwRg |
 | Domain Name | dal.ca |
 | Canadiana Authorities Id (Former Scheme) | 0001J8505 |
-| Total Assets | 523,923,000 Canadian dollar (as of 2003), 546,284,000 Canadian dollar (as of 2004), 644,672,000 Canadian dollar (as of 2006), 699,897,000 Canadian dollar (as of 2007), 802,796,000 Canadian dollar (as of 2008) (+16 more) |
 | Donations | 10,184,839 Canadian dollar (as of 2003), 11,557,899 Canadian dollar (as of 2004), 11,182,785 Canadian dollar (as of 2005), 9,169,110 Canadian dollar (as of 2006), 6,761,959 Canadian dollar (as of 2007) (+17 more) |
-| Employees | 4,000 (as of 2003), 4,500 (as of 2004), 5,000 (as of 2007), 6,500 (as of 2009), 6,800 (as of 2010) (+13 more) |
 | Organisation Tax Status | charitable organization in Canada |
 | Cra Program Account Number | 886806561RR0001 |
 
 ### Revenue History
 
-- $348.51M (348,514,000 Canadian dollar (as of 2003))
-- $377.26M (377,261,000 Canadian dollar (as of 2004))
-- $398.50M (398,497,000 Canadian dollar (as of 2005))
-- $409.77M (409,775,000 Canadian dollar (as of 2006))
-- $438.86M (438,858,054 Canadian dollar (as of 2007))
-- $444.35M (444,346,000 Canadian dollar (as of 2008))
-- $476.35M (476,353,000 Canadian dollar (as of 2009))
-- $524.63M (524,634,000 Canadian dollar (as of 2010))
-- $552.83M (552,834,000 Canadian dollar (as of 2011))
-- $573.60M (573,597,000 Canadian dollar (as of 2012))
-- $622.28M (622,282,000 Canadian dollar (as of 2013))
-- $638.47M (638,470,000 Canadian dollar (as of 2014))
-- $652.70M (652,700,000 Canadian dollar (as of 2015))
-- $659.69M (659,692,000 Canadian dollar (as of 2016))
-- $674.72M (674,716,000 Canadian dollar (as of 2017))
-- $697.35M (697,354,000 Canadian dollar (as of 2018))
-- $760.22M (760,217,000 Canadian dollar (as of 2019))
-- $781.25M (781,246,000 Canadian dollar (as of 2020))
-- $762.44M (762,442,000 Canadian dollar (as of 2021))
-- $819.59M (819,589,000 Canadian dollar (as of 2022))
-- $901.62M (901,619,001 Canadian dollar (as of 2023))
-- $949.01M (949,013,000 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $348.51M | as of 2003 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $377.26M | as of 2004 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $398.50M | as of 2005 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $409.77M | as of 2006 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $438.86M | as of 2007 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $444.35M | as of 2008 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $476.35M | as of 2009 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $524.63M | as of 2010 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $552.83M | as of 2011 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $573.60M | as of 2012 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $622.28M | as of 2013 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $638.47M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $652.70M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $659.69M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $674.72M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $697.35M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $760.22M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $781.25M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $762.44M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $819.59M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $901.62M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $949.01M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,000 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,500 | as of 2004 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,000 | as of 2007 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,500 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,800 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,900 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,500 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,292 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,273 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,096 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,358 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,021 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,550 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,875 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,533 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,196 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,503 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,855 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $523.92M | as of 2003 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $546.28M | as of 2004 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $644.67M | as of 2006 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $699.90M | as of 2007 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $802.80M | as of 2008 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $876.16M | as of 2009 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.04B | as of 2010 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $972.63M | as of 2011 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.07B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.56B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.64B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.69B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.68B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.79B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.89B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.02B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.10B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.35B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.51B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.66B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.85B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: Iran Air
 slug: "iran-air"
 description: ""
-date: "2026-03-05T22:38:39.494066"
+date: "2026-03-13T08:56:59.423281"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tehran
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +49,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
   - secondary
+  - vertical
+  - symbol
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - white
   - grey
-  - orange
-  - black
   - blue
   - silver
   - turquoise
   - green
+  - black
+  - orange
 typographies: []
 imagery_styles:
   - artificial
 wikidata_description: flag carrier airline of the Islamic Republic of Iran
+wikidata_url: "https://www.wikidata.org/wiki/Q461631"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q461631) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tehran](/headquarters_locations/tehran/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Airline Hub | Tehran Imam Khomeini International Airport, Mehrabad International Airport |
 | Item Operated | Airbus A300, Airbus A310, Airbus A320 family, Fokker 100, Fokker F27 Friendship (+13 more) |
 | Iata Airline Designator | IR |
@@ -123,7 +142,6 @@ guideline_count: 1
 | Start Of Work Period | 1962 |
 | Merchant Category Code | 3192 |
 | Owned By | Iran |
-| Logo Image | Iran Air logo.svg |
 | Flight Report.Com Airline Id | 2921 |
 | Legal Form | public company |
 | Airline Accounting Code | 096 |

@@ -2,7 +2,7 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-03-05T22:38:39.347735"
+date: "2026-03-13T08:56:59.299354"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +48,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
-  - blue
-  - red
   - green
+  - red
+  - blue
 typographies: []
 imagery_styles:
   - photography
+  - graphic
   - product
   - clean
-  - graphic
 wikidata_description: "Mutant-hunting robot in Marvel Comics"
+wikidata_url: "https://www.wikidata.org/wiki/Q782181"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +104,10 @@ guideline_count: 1
 - The guide emphasizes flexibility while adhering to core branding rules. Examples are scattered throughout sections for corporate and product-focused collateral, exhibition stands, and website representations.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q782181) |
 
 | Property | Value |
 |----------|-------|

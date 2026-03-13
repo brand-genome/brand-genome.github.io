@@ -2,7 +2,7 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-03-05T22:38:39.580265"
+date: "2026-03-13T08:56:59.515997"
 draft: false
 sectors:
   - education
@@ -21,9 +21,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +62,23 @@ brand_colors:
   - black
   - gray
 typographies:
-  - impact
-  - "sans-serif"
   - gotham
   - arial
   - helvetica
+  - impact
+  - "sans-serif"
 imagery_styles:
-  - bold
+  - vibrant
   - dynamic
   - clean
-  - vibrant
+  - bold
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q54857722"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,28 +132,52 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54857722) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
 | Charity Navigator Id (Obsolete) | 11518 |
 | Country | United States |
 | Irs Employer Identification Number | 95-4239478 |
 | Donations | 3,831,614 United States dollar (as of 2019), 2,614,856 United States dollar (as of 2022), 4,904,595 United States dollar (as of 2021), 3,885,504 United States dollar (as of 2023), 2,565,831 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
 | Headquarters Location | Los Angeles |
-| Total Assets | 16,255,288 United States dollar (as of 2022), 18,610,203 United States dollar (as of 2021), 16,930,750 United States dollar (as of 2023), 17,529,536 United States dollar (as of 2011), 17,505,344 United States dollar (as of 2012) (+8 more) |
 | Facebook Username | innercityartsLA |
 | X (Twitter) Username | innercityarts |
 
 ### Revenue History
 
-- $4.07M (4,070,526 United States dollar (as of 2016-01-01))
-- $4.69M (4,689,288 United States dollar (as of 2019))
-- $4.58M (4,576,161 United States dollar (as of 2018))
-- $4.11M (4,112,646 United States dollar (as of 2017))
-- $3.46M (3,461,422 United States dollar (as of 2022))
-- $5.57M (5,566,146 United States dollar (as of 2021))
-- $4.92M (4,920,651 United States dollar (as of 2023))
-- $2.71M (2,713,062 United States dollar (as of 2011))
-- $2.79M (2,788,171 United States dollar (as of 2012))
-- $3.14M (3,144,141 United States dollar (as of 2013))
-- $4.08M (4,081,461 United States dollar (as of 2014))
-- $3.83M (3,825,215 United States dollar (as of 2015))
-- $1.32M (1,320,391 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $4.07M | as of 2016-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.69M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.58M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.11M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.46M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.57M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.92M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.71M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.79M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.14M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.08M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.83M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.32M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $16.26M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.61M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.93M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.53M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.51M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.68M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.57M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.04M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.37M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.64M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.76M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.99M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.56M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

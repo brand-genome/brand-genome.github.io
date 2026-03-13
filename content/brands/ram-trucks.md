@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-03-05T22:38:39.332300"
+date: "2026-03-13T08:56:59.286294"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - truck
+  - "commercial-vehicle"
+  - "pickup-truck"
+products: []
+headquarters_locations:
+  - "auburn-hills"
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +55,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - vertical
   - horizontal
+  - badge
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles:
-  - bold
   - product
   - graphic
+  - bold
 wikidata_description: "American brand of light to mid-weight commercial vehicles"
+wikidata_url: "https://www.wikidata.org/wiki/Q165708"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +116,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q165708) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/) |
+| Headquarters Location | [Auburn Hills](/headquarters_locations/auburn-hills/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Auburn Hills |
 | Topic'S Main Category | Category:Ram Trucks |
 | Country | United States, Canada |
@@ -118,7 +141,6 @@ guideline_count: 1
 | Replaces | Fargo Trucks |
 | Named After | Dodge Ram |
 | Social Media Followers | 445,150 (as of 2021-01-04), 437,201 (as of 2020-04-23), 109,000 (as of 2021-07-11), 465,779 (as of 2022-03-02), 494,563 (as of 2023-02-09) (+3 more) |
-| Logo Image | Ram Trucks 2009 wordmark.svg |
 | Youtube Channel Id | UCNfZNOb3jq-iWdL0d9OMf9Q (as of 2021-07-07, from 2005-09-21) |
 | App Store App Id | 1565972415 |
 | Namuwiki Id | 램 트럭스 |

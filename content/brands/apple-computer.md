@@ -2,7 +2,7 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-03-05T22:38:39.278485"
+date: "2026-03-13T08:56:59.220348"
 draft: false
 sectors:
   - software
@@ -10,31 +10,67 @@ sectors:
 regions:
   - usa
 years:
-  - 1993
   - 1987
+  - 1993
 languages:
   - english
 tags:
   - technology
+  - software
   - vintage
   - featured
-  - software
 industries:
-  - "software-development"
-  - "consumer-electronics-industry"
-  - "mobile-phone-industry"
-  - "software-industry"
   - "information-technology"
   - electronics
+  - "software-industry"
   - "digital-distribution"
+  - "software-development"
+  - "mobile-phone-industry"
+  - "consumer-electronics-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "50b-100b"
+  - "50B-100B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "100B-500B"
+market_cap_buckets:
+  - "OVER-1T"
+products_or_materials_produced:
+  - imac
+  - "tablet-computer"
+  - "personal-digital-assistant"
+  - "apple-pay"
+  - "ipod-touch"
+  - "networking-hardware"
+  - "apple-watch"
+  - homepod
+  - software
+  - "consumer-electronics"
+  - "personal-computer"
+  - peripheral
+  - smartphone
+  - "apple-tv"
+  - "computer-hardware"
+  - "video-game-console"
+  - ipod
+  - airpods
+  - "wearable-computer"
+  - mac
+products: []
+headquarters_locations:
+  - "apple-park"
+  - cupertino
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,19 +96,21 @@ brand_colors:
   - white
   - red
   - gold
-  - "pantone-186"
   - silver
   - green
+  - "pantone-186"
 typographies:
-  - helvetica
   - garamond
+  - helvetica
 imagery_styles:
   - bold
 wikidata_description: "American multinational technology company based in Cupertino, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q312"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,6 +166,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q312) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Imac](/products_or_materials_produced/imac/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Homepod](/products_or_materials_produced/homepod/); [Software](/products_or_materials_produced/software/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Peripheral](/products_or_materials_produced/peripheral/); +8 more |
+| Headquarters Location | [Apple Park](/headquarters_locations/apple-park/); [Cupertino](/headquarters_locations/cupertino/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |
 | Legal Entity Identifier | HWUPKR0MPOU8FGXBT394 |
 | Topic'S Main Wikimedia Portal | Portal:Apple Inc. |
@@ -151,7 +196,6 @@ guideline_count: 2
 | Isni | 0000000406359049 |
 | Industry | software industry, consumer electronics industry, digital distribution, electronics, information technology (+2 more) |
 | Freebase Id | /m/0k8z, /m/04st9hr |
-| Employees | 115,000 (as of 2015-07), 132,000 (as of 2018), 123,000 (as of 2017-09-30), 147,000 (as of 2020-09-26), 116,000 (as of 2016-09-30) (+2 more) |
 | Described By Source | Lentapedia |
 | Union List Of Artist Names Id | 500335330 |
 | Open Library Id | OL2669746A |
@@ -171,10 +215,7 @@ guideline_count: 2
 | Board Member | Fred D. Anderson (from 2004-06, until 2006-10), Gil Amelio (from 1994, until 1997-07), Larry Ellison (from 1997, until 2002-09-20), Steve Jobs (from 1977-03, until 1985-09), Delano Lewis (from 1994, until 1997-07-25) (+17 more) |
 | Permanent Duplicated Item | ,  |
 | Quora Topic Id | Apple-company |
-| Total Assets | 321,686,000,000 United States dollar (as of 2016-09-30), 290,345,000,000 United States dollar (as of 2015), 231,839,000,000 United States dollar (as of 2014), 207,000,000,000 United States dollar (as of 2013), 176,064,000,000 United States dollar (as of 2012) (+5 more) |
-| Total Equity | 134,047,000,000 United States dollar (as of 2017-09-30), 107,147,000,000 United States dollar (as of 2018-09-29), 90,488,000,000 United States dollar (as of 2019-09-28), 65,339,000,000 United States dollar (as of 2020-09-26), 63,090,000,000 United States dollar (as of 2021) (+1 more) |
 | Total Liabilities | 241,272,000,000 United States dollar (as of 2017-09-30), 258,578,000,000 United States dollar (as of 2018-09-29), 248,028,000,000 United States dollar (as of 2019-09-28), 258,549,000,000 United States dollar (as of 2020-09-26), 287,912,000,000 United States dollar (as of 2021) |
-| Market Capitalization | 1,000,000,000,000 United States dollar (as of 2018-08-02), 1,044,000,000,000 United States dollar (as of 2018-09), 2,030,000,000,000 United States dollar (as of 2020), 2,190,000,000,000 United States dollar (as of 2021-04-09), 2,240,000,000,000 United States dollar (as of 2021-06-23) (+2 more) |
 | British Museum Person Or Institution Id | 204736 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.63 |
 | Ipv4 Routing Prefix | 17.0.0.0/8 |
@@ -198,7 +239,6 @@ guideline_count: 2
 | Uk Parliament Thesaurus Id | 1628, 398288 |
 | Grid Id | grid.455360.1 |
 | Linkedin Company Or Organization Id | apple |
-| Logo Image | Apple logo black.svg (from 1998), Apple logo white.svg |
 | C Span Organization Id | 21353 |
 | Idref Id | 02800261X |
 | National Library Of Israel Id (Old) | 001690054 |
@@ -370,63 +410,119 @@ guideline_count: 2
 
 ### Revenue History
 
-- $233.72B (233,715,000,000 United States dollar (as of 2015))
-- $182.79B (182,795,000,000 United States dollar (as of 2014))
-- $170.91B (170,910,000,000 United States dollar (as of 2013))
-- $156.51B (156,508,000,000 United States dollar (as of 2012))
-- $108.25B (108,249,000,000 United States dollar (as of 2011))
-- $215.64B (215,639,000,000 United States dollar (as of 2016))
-- $229.23B (229,234,000,000 United States dollar (as of 2017))
-- $265.60B (265,595,000,000 United States dollar (as of 2018))
-- $260.17B (260,174,000,000 United States dollar (as of 2019))
-- $274.51B (274,515,000,000 United States dollar (as of 2020))
-- $365.82B (365,817,000,000 United States dollar (as of 2021))
-- $37.49B (37,491,000,000 United States dollar (as of 2008, from 2007-09-30, until 2008-09-27))
-- $42.91B (42,905,000,000 United States dollar (as of 2009, from 2008-09-28, until 2009-09-26))
-- $65.22B (65,225,000,000 United States dollar (as of 2010, from 2009-09-27, until 2010-09-25))
-- $394.33B (394,328,000,000 United States dollar (as of 2022, from 2021-09-26, until 2022-09-24))
-- $383.29B (383,285,000,000 United States dollar (as of 2023, from 2022-09-25, until 2023-09-30))
-- $391.04B (391,035,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-28))
-- $416.16B (416,161,000,000 United States dollar (as of 2025, from 2024-09-29, until 2025-09-27))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $233.72B | as of 2015 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $182.79B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $170.91B | as of 2013 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $156.51B | as of 2012 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $108.25B | as of 2011 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $215.64B | as of 2016 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $229.23B | as of 2017 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $265.60B | as of 2018 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $260.17B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $274.51B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $365.82B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $37.49B | as of 2008, from 2007-09-30, until 2008-09-27 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $42.91B | as of 2009, from 2008-09-28, until 2009-09-26 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $65.22B | as of 2010, from 2009-09-27, until 2010-09-25 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $394.33B | as of 2022, from 2021-09-26, until 2022-09-24 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $383.29B | as of 2023, from 2022-09-25, until 2023-09-30 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $391.04B | as of 2024, from 2023-10-01, until 2024-09-28 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $416.16B | as of 2025, from 2024-09-29, until 2025-09-27 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $60.02B (60,024,000,000 United States dollar (as of 2016))
-- $61.34B (61,344,000,000 United States dollar (as of 2017))
-- $70.90B (70,898,000,000 United States dollar (as of 2018))
-- $63.93B (63,930,000,000 United States dollar (as of 2019))
-- $66.29B (66,288,000,000 United States dollar (as of 2020))
-- $108.95B (108,949,000,000 United States dollar (as of 2021))
-- $8.33B (8,327,000,000 United States dollar (as of 2008, from 2007-09-30, until 2008-09-27))
-- $11.74B (11,740,000,000 United States dollar (as of 2009, from 2008-09-28, until 2009-09-26))
-- $18.39B (18,385,000,000 United States dollar (as of 2010, from 2009-09-27, until 2010-09-25))
-- $33.79B (33,790,000,000 United States dollar (as of 2011, from 2010-09-26, until 2011-09-24))
-- $55.24B (55,241,000,000 United States dollar (as of 2012, from 2011-09-25, until 2012-09-29))
-- $49.00B (48,999,000,000 United States dollar (as of 2013, from 2012-09-30, until 2013-09-28))
-- $52.50B (52,503,000,000 United States dollar (as of 2014, from 2013-09-29, until 2014-09-27))
-- $71.23B (71,230,000,000 United States dollar (as of 2015, from 2014-09-28, until 2015-09-26))
-- $119.44B (119,437,000,000 United States dollar (as of 2022, from 2021-09-26, until 2022-09-24))
-- $114.30B (114,301,000,000 United States dollar (as of 2023, from 2022-09-25, until 2023-09-30))
-- $123.22B (123,216,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-28))
-- $133.05B (133,050,000,000 United States dollar (as of 2025, from 2024-09-29, until 2025-09-27))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $60.02B | as of 2016 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $61.34B | as of 2017 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $70.90B | as of 2018 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $63.93B | as of 2019 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $66.29B | as of 2020 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $108.95B | as of 2021 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $8.33B | as of 2008, from 2007-09-30, until 2008-09-27 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $11.74B | as of 2009, from 2008-09-28, until 2009-09-26 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $18.39B | as of 2010, from 2009-09-27, until 2010-09-25 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $33.79B | as of 2011, from 2010-09-26, until 2011-09-24 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $55.24B | as of 2012, from 2011-09-25, until 2012-09-29 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $49.00B | as of 2013, from 2012-09-30, until 2013-09-28 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $52.50B | as of 2014, from 2013-09-29, until 2014-09-27 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $71.23B | as of 2015, from 2014-09-28, until 2015-09-26 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $119.44B | as of 2022, from 2021-09-26, until 2022-09-24 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $114.30B | as of 2023, from 2022-09-25, until 2023-09-30 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $123.22B | as of 2024, from 2023-10-01, until 2024-09-28 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $133.05B | as of 2025, from 2024-09-29, until 2025-09-27 | [100B-500B](/operating_income_buckets/100b-500b/) |
 
 ### Net Profit History
 
-- $45.69B (45,687,000,000 United States dollar (as of 2016))
-- $53.39B (53,394,000,000 United States dollar (as of 2015))
-- $39.51B (39,510,000,000 United States dollar (as of 2014))
-- $37.04B (37,037,000,000 United States dollar (as of 2013))
-- $41.73B (41,733,000,000 United States dollar (as of 2012))
-- $48.35B (48,351,000,000 United States dollar (as of 2017))
-- $59.53B (59,531,000,000 United States dollar (as of 2018))
-- $55.26B (55,256,000,000 United States dollar (as of 2019))
-- $57.41B (57,411,000,000 United States dollar (as of 2020))
-- $94.68B (94,680,000,000 United States dollar (as of 2021))
-- $6.12B (6,119,000,000 United States dollar (as of 2008, from 2007-09-30, until 2008-09-27))
-- $8.23B (8,235,000,000 United States dollar (as of 2009, from 2008-09-28, until 2009-09-26))
-- $14.01B (14,013,000,000 United States dollar (as of 2010, from 2009-09-27, until 2010-09-25))
-- $25.92B (25,922,000,000 United States dollar (as of 2011, from 2010-09-26, until 2011-09-24))
-- $99.80B (99,803,000,000 United States dollar (as of 2022, from 2021-09-26, until 2022-09-24))
-- $97.00B (96,995,000,000 United States dollar (as of 2023, from 2022-09-25, until 2023-09-30))
-- $93.74B (93,736,000,000 United States dollar (as of 2024, from 2023-10-01, until 2024-09-28))
-- $112.01B (112,010,000,000 United States dollar (as of 2025, from 2024-09-29, until 2025-09-27))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $45.69B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $53.39B | as of 2015 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $39.51B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $37.04B | as of 2013 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $41.73B | as of 2012 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $48.35B | as of 2017 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $59.53B | as of 2018 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $55.26B | as of 2019 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $57.41B | as of 2020 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $94.68B | as of 2021 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $6.12B | as of 2008, from 2007-09-30, until 2008-09-27 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.23B | as of 2009, from 2008-09-28, until 2009-09-26 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $14.01B | as of 2010, from 2009-09-27, until 2010-09-25 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $25.92B | as of 2011, from 2010-09-26, until 2011-09-24 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $99.80B | as of 2022, from 2021-09-26, until 2022-09-24 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $97.00B | as of 2023, from 2022-09-25, until 2023-09-30 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $93.74B | as of 2024, from 2023-10-01, until 2024-09-28 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $112.01B | as of 2025, from 2024-09-29, until 2025-09-27 | [100B-500B](/net_profit_buckets/100b-500b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 115,000 | as of 2015-07 | [100K-500K](/employees_buckets/100k-500k/) |
+| 132,000 | as of 2018 | [100K-500K](/employees_buckets/100k-500k/) |
+| 123,000 | as of 2017-09-30 | [100K-500K](/employees_buckets/100k-500k/) |
+| 147,000 | as of 2020-09-26 | [100K-500K](/employees_buckets/100k-500k/) |
+| 116,000 | as of 2016-09-30 | [100K-500K](/employees_buckets/100k-500k/) |
+| 154,000 | as of 2021 | [100K-500K](/employees_buckets/100k-500k/) |
+| 164,000 | as of 2022 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $321.69B | as of 2016-09-30 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $290.35B | as of 2015 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $231.84B | as of 2014 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $207.00B | as of 2013 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $176.06B | as of 2012 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $375.32B | as of 2017-09-30 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $365.73B | as of 2018-09-29 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $338.52B | as of 2019-09-28 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $323.89B | as of 2020-09-26 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $351.00B | as of 2021-09-25 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $134.05B | as of 2017-09-30 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $107.15B | as of 2018-09-29 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $90.49B | as of 2019-09-28 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $65.34B | as of 2020-09-26 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $63.09B | as of 2021 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $62.15B | as of 2023-09-30 | [50B-100B](/total_equity_buckets/50b-100b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $1.00T | as of 2018-08-02 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $1.04T | as of 2018-09 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $2.03T | as of 2020 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $2.19T | as of 2021-04-09 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $2.24T | as of 2021-06-23 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $2.47T | as of 2021-08-24 | [OVER-1T](/market_cap_buckets/over-1t/) |
+| $3.21T | as of 2025-05-01 | [OVER-1T](/market_cap_buckets/over-1t/) |

@@ -2,7 +2,7 @@
 title: Channel 4
 slug: "channel-4"
 description: ""
-date: "2026-03-05T22:38:39.156026"
+date: "2026-03-13T08:56:59.096289"
 draft: false
 sectors:
   - broadcasting
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +61,12 @@ imagery_styles:
   - bold
   - monochrome
 wikidata_description: "British public-service television broadcaster; TV channel"
+wikidata_url: "https://www.wikidata.org/wiki/Q501070"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +123,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q501070) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Viaf Cluster Id | 124059357 |
 | Topic'S Main Category | Category:Channel 4 |
 | Owned By | Channel Four Television Corporation |
@@ -126,7 +145,6 @@ guideline_count: 2
 | Owner Of | 4mations |
 | Member Of | Digital Preservation Coalition |
 | X (Twitter) Username | Channel4 (as of 2020-04-25, from 2010-08-27) |
-| Logo Image | Channel 4 Logo 2023.svg (from 2023), Channel 4 logo 1982.svg (from 1982-11-02, until 1996-10-11), Channel 4 logo 1996.svg (from 1996-10-11, until 1999-04-11), Channel 4 logo 1999.svg (from 1999-04-11, until 2004-12-31), Channel 4 logo 2004.svg (from 2004-12-31, until 2015-09-29) |
 | Different From | C4 |
 | Social Media Followers | 981,178 (as of 2021-01-07), 978,992 (as of 2020-04-25), 996,516 (as of 2022-02-25), 1,009,367 (as of 2023-02-05) |
 | Muck Rack Media Outlet Id | channel4 |

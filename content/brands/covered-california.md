@@ -2,7 +2,7 @@
 title: Covered California
 slug: "covered-california"
 description: ""
-date: "2026-03-05T22:38:39.805813"
+date: "2026-03-13T08:56:59.862703"
 draft: false
 sectors:
   - healthcare
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - sacramento
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: health insurance exchange for the U.S. state of California
+wikidata_url: "https://www.wikidata.org/wiki/Q5020530"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +96,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5020530) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sacramento](/headquarters_locations/sacramento/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Facebook Username | CoveredCA |
 | X (Twitter) Username | CoveredCA (from 2012-10-30) |
 | Youtube Channel Id | UC0_R-e0XTs307kFUrmxKF8g (as of 2020-12-08, from 2012-10-30) |
@@ -102,6 +121,5 @@ guideline_count: 1
 | Inception | 2010-09 |
 | Date Of Official Opening | 2013-10-01 |
 | Parent Organization Or Unit | State of California |
-| Logo Image | Covered California logo.svg |
 | Headquarters Location | Sacramento |
 | Video | Gavin Newsom and Ann O'Leary in a Covered California PSA.ogv |

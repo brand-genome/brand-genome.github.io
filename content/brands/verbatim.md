@@ -2,12 +2,12 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-03-05T22:38:39.383955"
+date: "2026-03-13T08:56:59.347713"
 draft: false
 sectors:
   - "consumer-goods"
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "data-storage-medium"
+  - "flash-memory"
+products: []
+headquarters_locations:
+  - charlotte
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,32 +55,34 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
-  - "pantone-124"
   - red
+  - "pantone-485"
+  - "pantone-307"
+  - blue
   - "pantone-328"
   - "pantone-1525"
-  - black
-  - cyan
-  - "pantone-485"
-  - blue
   - "pantone-363"
-  - "pantone-072"
+  - "pantone-124"
+  - cyan
+  - black
   - gray
-  - "pantone-307"
+  - "pantone-072"
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q473360"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +133,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q473360) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Data Storage Medium](/products_or_materials_produced/data-storage-medium/); [Flash Memory](/products_or_materials_produced/flash-memory/) |
+| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/0552n6 |
 | Inception | 1969-04-28 |
 | Viaf Cluster Id | 139715905 |
@@ -131,7 +153,6 @@ guideline_count: 1
 | Kisti Id | K000333296 |
 | T10 Vendor Id String | VERBATIM |
 | Opencorporates Id | jp/2010001202740 |
-| Logo Image | Verbatim logo.svg (from 2007), Verbatim Logo.svg (from 1978, until 2007) |
 | Headquarters Location | Charlotte |
 | Location Of Formation | Mountain View |
 | Official Name | Verbatim Corporation (from 1978), Information Terminals Corporation (from 1969, until 1978) |

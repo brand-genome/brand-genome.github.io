@@ -2,7 +2,7 @@
 title: Bravida
 slug: bravida
 description: ""
-date: "2026-03-05T22:38:39.290620"
+date: "2026-03-13T08:56:59.230458"
 draft: false
 sectors:
   - construction
@@ -13,16 +13,27 @@ years:
   - 2018
 languages: []
 tags:
-  - featured
   - industry
+  - featured
 industries: []
 countries:
-  - sweden
-  - denmark
   - norway
+  - denmark
+  - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stockholm
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q10434929"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,11 +81,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q10434929) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stockholm](/headquarters_locations/stockholm/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Country | Sweden, Denmark, Norway |
 | Inception | 2000 |
 | Headquarters Location | Stockholm |
 | Viaf Cluster Id | 3495149296276080670005 |
-| Logo Image | Bravida logo rgb pos.jpg |
 | Legal Form | public company |
 | Google Knowledge Graph Id | /g/121fl1wj |
 | Openstreetmap Node Id | 7973657222 |

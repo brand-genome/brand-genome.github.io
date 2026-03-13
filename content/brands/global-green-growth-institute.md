@@ -2,7 +2,7 @@
 title: Global Green Growth Institute
 slug: "global-green-growth-institute"
 description: ""
-date: "2026-03-05T22:38:39.377048"
+date: "2026-03-13T08:56:59.336739"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - seoul
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - horizontal
-  - abstract
+  - primary
   - vertical
+  - abstract
 brand_colors:
   - white
-  - blue
   - green
+  - blue
 typographies:
   - lato
 imagery_styles:
-  - abstract
-  - clean
-  - bold
   - graphic
+  - clean
+  - abstract
+  - bold
 wikidata_description: "international climate organization, headquartered in South Korea"
+wikidata_url: "https://www.wikidata.org/wiki/Q12586353"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -165,6 +178,12 @@ Table-style highlighted inclusion above miscellaneous reporting-level lists w/o 
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12586353) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-02-16 |
 | Headquarters Location | Seoul |
 | Isni | 0000000460382370 |

@@ -2,21 +2,21 @@
 title: Foursquare
 slug: foursquare
 description: ""
-date: "2026-03-05T22:38:39.748787"
+date: "2026-03-13T08:56:59.788723"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
-  - 2014
   - 2012
+  - 2014
 languages:
   - english
 tags:
-  - media
   - networks
+  - media
 industries:
   - "location-intelligence"
   - "social-networking-service"
@@ -25,6 +25,27 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "foursquare-studio"
+  - marsbot
+  - "foursquare-city-guide"
+  - "foursquare-swarm"
+  - "pinpoint-by-foursquare"
+  - "pilgrim-sdk-by-foursquare"
+  - "attribution-by-foursquare"
+  - "pilgrim-toolkit"
+  - "places-by-foursquare"
+  - foursweep
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +68,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q51709"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,9 +94,15 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q51709) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Foursquare Studio](/products_or_materials_produced/foursquare-studio/); [Marsbot](/products_or_materials_produced/marsbot/); [Foursquare City Guide](/products_or_materials_produced/foursquare-city-guide/); [Foursquare Swarm](/products_or_materials_produced/foursquare-swarm/); [Pinpoint By Foursquare](/products_or_materials_produced/pinpoint-by-foursquare/); [Pilgrim Sdk By Foursquare](/products_or_materials_produced/pilgrim-sdk-by-foursquare/); [Attribution By Foursquare](/products_or_materials_produced/attribution-by-foursquare/); [Pilgrim Toolkit](/products_or_materials_produced/pilgrim-toolkit/); [Places By Foursquare](/products_or_materials_produced/places-by-foursquare/); [Foursweep](/products_or_materials_produced/foursweep/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Freebase Id | /m/06wcbt9 |
 | Headquarters Location | New York City |
-| Logo Image | Foursquare logo.svg (until 2020-12), FOURSQUARE text logo 2021.svg (from 2020-12-08) |
 | Inception | 2009 |
 | X (Twitter) Username | foursquare (as of 2020-03-19, from 2016-12-01), Foursquare |
 | Facebook Username | 80690156072, foursquare |

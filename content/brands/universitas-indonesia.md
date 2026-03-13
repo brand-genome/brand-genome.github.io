@@ -2,11 +2,11 @@
 title: Universitas Indonesia
 slug: "universitas-indonesia"
 description: ""
-date: "2026-03-05T22:38:39.313728"
+date: "2026-03-13T08:56:59.256761"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - indonesia
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1950
+  - 1849
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "national university in Jakarta, Indonesia"
+wikidata_url: "https://www.wikidata.org/wiki/Q534515"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +98,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q534515) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1950](/foundation_dates/1950/); [1849](/foundation_dates/1849/) |
 | Freebase Id | /m/01zlrv |
 | Coordinate Location | -6.3606229, 106.8272343 |
 | Country | Indonesia |
@@ -109,7 +128,6 @@ guideline_count: 1
 | Academic Major | engineering, pharmacy, science, computer science, economics (+3 more) |
 | Language Used | Indonesian, English |
 | Microsoft Academic Id (Discontinued) | 29617571 |
-| Employees | 2,293 |
 | Library Of Congress Authority Id | n79139393 |
 | Child Organization Or Unit | Faculty of Computer Science, University of Indonesia |
 | X (Twitter) Username | univ_indonesia (as of 2020-03-12, from 2009-09-16) |
@@ -125,7 +143,7 @@ guideline_count: 1
 | Named After | Indonesia |
 | Short Name | ID, UI |
 | Accredited By | National Accreditation Board for Higher Education (from 2017-12-27, until 2022-12-27) |
-| Email Address | mailto:humas-ui@ui.ac.id |
+| Email Address | humas-ui@ui.ac.id |
 | Phone Number | +62217270020 |
 | Indonesian College Code | 001002 |
 | Subreddit | universitasindonesia |
@@ -152,3 +170,9 @@ guideline_count: 1
 | Unirank Id | 2227 |
 | Ranking | 273 (as of 2012), 309 (as of 2014), 310 (as of 2015), 358 (as of 2016), 325 (as of 2017) (+8 more) |
 | Legal Form | Perguruan Tinggi Negeri Badan Hukum |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,293 | - | [1K-10K](/employees_buckets/1k-10k/) |

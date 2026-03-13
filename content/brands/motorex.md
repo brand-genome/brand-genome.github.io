@@ -2,7 +2,7 @@
 title: Motorex
 slug: motorex
 description: ""
-date: "2026-03-05T22:38:39.130205"
+date: "2026-03-13T08:56:59.084257"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "motor-oil"
+products: []
+headquarters_locations:
+  - langenthal
+subsidiaries: []
+foundation_dates:
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q676339"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,10 +77,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q676339) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Motor Oil](/products_or_materials_produced/motor-oil/) |
+| Headquarters Location | [Langenthal](/headquarters_locations/langenthal/) |
+| Foundation Date | [1917](/foundation_dates/1917/) |
 | Freebase Id | /m/046355j |
 | Headquarters Location | Langenthal |
 | Inception | 1917-01-01 |
-| Logo Image | Neg Motorex cmyc -Konvertiert-.png |
 | Country | Switzerland |
 | Product Or Material Produced | motor oil |
 | Facebook Username | MOTOREXOil |

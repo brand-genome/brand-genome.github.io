@@ -2,11 +2,11 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-03-05T22:38:39.327545"
+date: "2026-03-13T08:56:59.281791"
 draft: false
 sectors:
-  - software
   - "staffing-recruitment"
+  - software
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
-  - symbol
   - secondary
+  - lockup
+  - symbol
 brand_colors:
   - white
   - grey
-  - black
   - "pantone-4162"
   - green
+  - black
 typographies:
-  - impact
   - serif
+  - impact
   - inter
 imagery_styles:
   - bold
 wikidata_description: Africa Tech company
+wikidata_url: "https://www.wikidata.org/wiki/Q28186691"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +111,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28186691) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | X (Twitter) Username | andela (as of 2020-04-17, from 2013-04-24) |
 | Headquarters Location | New York City |
 | Legal Form | company |

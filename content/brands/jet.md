@@ -2,7 +2,7 @@
 title: Jet
 slug: jet
 description: ""
-date: "2026-03-05T22:38:39.707087"
+date: "2026-03-13T08:56:59.721617"
 draft: false
 sectors:
   - "e-commerce"
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,15 +53,17 @@ brand_colors:
   - purple
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - candid
+  - bold
   - lifestyle
 wikidata_description: Australian rock band
+wikidata_url: "https://www.wikidata.org/wiki/Q750460"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q750460) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Musicbrainz Artist Id | 4efa55ba-93cf-497f-baf3-2ca9da7e193e |
 | Location Of Formation | Melbourne |
 | Genre | alternative rock |

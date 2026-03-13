@@ -2,7 +2,7 @@
 title: London Underground
 slug: "london-underground"
 description: ""
-date: "2026-03-05T22:38:39.273671"
+date: "2026-03-13T08:56:59.215927"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,17 +13,28 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
+  - "rail-transport"
   - "urban-and-suburban-passenger-land-transport"
   - "passenger-transport"
-  - "rail-transport"
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1890
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public rapid transit system in London, UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q20075"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,8 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20075) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1890](/foundation_dates/1890/) |
 | Located In The Administrative Territorial Entity | Greater London, Buckinghamshire, Hertfordshire, Essex |
-| Logo Image | Underground.svg |
 | Operator | London Regional Transport (from 1984-06-29, until 2000-07-02), London Transport Executive (from 1970-01-01, until 1984-06-28), London Transport Board (from 1963-01-01, until 1969-12-31), TfL (from 2000-07-03), London Transport Executive (from 1948-01-01, until 1962-12-31) (+5 more) |
 | Image | Lancaster Gate tube.jpg |
 | Topic'S Main Category | Category:London Underground |

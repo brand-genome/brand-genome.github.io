@@ -2,7 +2,7 @@
 title: Globo
 slug: globo
 description: ""
-date: "2026-03-05T22:38:39.409221"
+date: "2026-03-13T08:56:59.370508"
 draft: false
 sectors:
   - broadcasting
@@ -15,14 +15,25 @@ languages:
   - portuguese
 tags:
   - broadcast
-  - featured
   - media
+  - featured
 industries: []
 countries:
   - brazil
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1965
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,16 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian commercial television network
+wikidata_url: "https://www.wikidata.org/wiki/Q3587"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -181,6 +194,12 @@ Horizontal
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3587) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1965](/foundation_dates/1965/) |
 | Freebase Id | /m/03b8jm |
 | Owned By | Globo |
 | Country | Brazil |
@@ -206,7 +225,6 @@ Horizontal
 | Encyclopedia Of China (Third Edition) Id | 222880 |
 | Topic'S Main Category | Category:TV Globo |
 | Google+ Id | +RedeGlobo |
-| Logo Image | TV Globo 2021.svg |
 | Bluesky Handle | tvglobo.com (from 2024-08-31) |
 | Linktree Id | tvglobo |
 | Tiktok Username | tvglobo |

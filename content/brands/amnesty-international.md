@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-03-05T22:38:39.322915"
+date: "2026-03-13T08:56:59.275136"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,18 +52,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - yellow
   - grey
   - black
-  - yellow
 typographies:
-  - impact
   - frutiger
+  - impact
 imagery_styles: []
 wikidata_description: "non-governmental organization based in the United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q42970"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +105,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q42970) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Viaf Cluster Id | 141290649 |
 | Gnd Id | 2003911-6 |
 | Library Of Congress Authority Id | n79055337 |
@@ -173,7 +193,6 @@ guideline_count: 1
 | Microsoft Academic Id (Discontinued) | 188127544 |
 | Eu Participant Identification Code | 888888803 |
 | Facebook Username | amnesty |
-| Logo Image | Amnesty international Logo.svg |
 | Nobel Laureate Api Id | 537 |
 | Cobis Author Id | 95a5yja38danygu695b5yc1g68tk2cr |
 | Dialnet Author Id | 782559 |
@@ -261,10 +280,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $309.00M (309,000,000 euro (as of 2018))
-- $1.98M (1,977,387 euro (as of 2019))
-- $1.58M (1,582,000 pound sterling (as of 2020))
-- $1.81M (1,811,000 pound sterling (as of 2021))
-- $5.91M (5,907,000 pound sterling (as of 2022))
-- $837.25K (837,254 pound sterling (as of 2023))
-- $1.40M (1,398,704 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $309.00M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $1.98M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.58M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.81M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.91M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $837.25K | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.40M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |

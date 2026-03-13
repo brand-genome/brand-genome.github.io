@@ -2,7 +2,7 @@
 title: Amnesty International Australia
 slug: "amnesty-international-australia"
 description: ""
-date: "2026-03-05T22:38:39.705893"
+date: "2026-03-13T08:56:59.718991"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "1M-10M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - sydney
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: Australian section of Amnesty International
+wikidata_url: "https://www.wikidata.org/wiki/Q4747375"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4747375) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sydney](/headquarters_locations/sydney/) |
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Country | Australia |
 | Part Of | Amnesty International |
 | Headquarters Location | Sydney |
@@ -110,15 +131,35 @@ guideline_count: 1
 | Australian Prints + Printmaking Artist Id | 17229, 16056 |
 | Domain Name | amnesty.org.au |
 | Australian Business Number | 64002806233 |
-| Total Assets | 6,516,688 Australian dollar (as of 2023), 5,431,542 Australian dollar (as of 2022), 7,154,819 Australian dollar (as of 2021), 8,988,493 Australian dollar (as of 2020), 9,280,466 Australian dollar (as of 2019) |
 | Number Of Volunteers | 300 (as of 2023) |
 | Donations | 22,098,653 Australian dollar (as of 2023), 22,220,519 Australian dollar (as of 2022), 24,579,007 Australian dollar (as of 2021), 25,493,686 Australian dollar (as of 2020), 23,665,467 Australian dollar (as of 2019) |
-| Employees | 75 (as of 2023), 82 (as of 2022), 78 (as of 2021), 71 (as of 2020), 67 (as of 2019) |
 
 ### Revenue History
 
-- $22.41M (22,407,562 Australian dollar (as of 2023))
-- $22.38M (22,380,433 Australian dollar (as of 2022))
-- $24.76M (24,755,573 Australian dollar (as of 2021))
-- $25.77M (25,769,408 Australian dollar (as of 2020))
-- $23.83M (23,830,280 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $22.41M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $22.38M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $24.76M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $25.77M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $23.83M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 75 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 82 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 78 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 71 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 67 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $6.52M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.43M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.15M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.99M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $9.28M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |

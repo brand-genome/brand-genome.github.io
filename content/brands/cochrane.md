@@ -2,13 +2,13 @@
 title: Cochrane
 slug: cochrane
 description: ""
-date: "2026-03-05T22:38:39.394830"
+date: "2026-03-13T08:56:59.361526"
 draft: false
 sectors:
-  - research
-  - ngo
-  - healthcare
   - publishing
+  - ngo
+  - research
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -16,16 +16,27 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries:
   - "health-care"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +61,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: British nonprofit for reviews of medical research (formed 1993)
+wikidata_url: "https://www.wikidata.org/wiki/Q1105202"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +110,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1105202) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Named After | Archie Cochrane |
 | Library Of Congress Authority Id | n96800351 |
 | Viaf Cluster Id | 131517739 |
@@ -128,7 +147,6 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007390932505171 |
 | Crunchbase Organization Id | the-cochrane-collaboration |
 | On Focus List Of Wikimedia Project | Wikidata:WikiProject Academic Publisher |
-| Logo Image | Cclogo.svg |
 | Bbc Things Id | fa6a2e4f-e524-437e-afa8-3e0f37a6bdff |
 | Encyclopedia Of China (Third Edition) Id | 50531 |
 | Worldcat Entities Id | E39QH7Jmp9h98tW9cxhdp49DY6 |
@@ -146,4 +164,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $10.00M (10,000,800 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $10.00M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |

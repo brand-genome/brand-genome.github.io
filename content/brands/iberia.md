@@ -2,7 +2,7 @@
 title: Iberia
 slug: iberia
 description: ""
-date: "2026-03-05T22:38:39.511021"
+date: "2026-03-13T08:56:59.435919"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +56,17 @@ brand_colors:
 typographies:
   - optima
 imagery_styles:
-  - bold
   - dynamic
-  - geometric
   - graphic
+  - bold
+  - geometric
 wikidata_description: town in the U.S. state of Missouri
+wikidata_url: "https://www.wikidata.org/wiki/Q961803"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +105,10 @@ guideline_count: 1
 - Protection space is defined by proportions such as 1+3/4X and 1+1/4X, which must remain free of graphical elements to avoid interference with the perception of the brand.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q961803) |
 
 | Property | Value |
 |----------|-------|

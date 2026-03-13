@@ -2,7 +2,7 @@
 title: Stifel
 slug: stifel
 description: ""
-date: "2026-03-05T22:38:39.671034"
+date: "2026-03-13T08:56:59.589918"
 draft: false
 sectors:
   - finance
@@ -16,15 +16,35 @@ tags:
   - financial
 industries:
   - "financial-services"
-  - finance
   - investment
+  - finance
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - "broker-dealer"
+  - "financial-services"
+  - broker
+  - intermediation
+  - "asset-management"
+  - "investment-banking"
+products: []
+headquarters_locations:
+  - "st-louis"
+subsidiaries: []
+foundation_dates:
+  - 1890
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,18 +65,20 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - arial
 imagery_styles:
   - photography
   - staged
 wikidata_description: American investment bank
+wikidata_url: "https://www.wikidata.org/wiki/Q7616390"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +128,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7616390) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Financial Services](/products_or_materials_produced/financial-services/); [Broker](/products_or_materials_produced/broker/); [Intermediation](/products_or_materials_produced/intermediation/); [Asset Management](/products_or_materials_produced/asset-management/); [Investment Banking](/products_or_materials_produced/investment-banking/) |
+| Headquarters Location | [St Louis](/headquarters_locations/st-louis/) |
+| Foundation Date | [1890](/foundation_dates/1890/) |
 | Stock Exchange | New York Stock Exchange (from 1986-11-24) |
 | Inception | 1890-01-01 |
 | Country | United States |
@@ -119,25 +148,46 @@ guideline_count: 1
 | Industry | investment, finance, financial services |
 | Product Or Material Produced | asset management, financial services, intermediation, investment banking, broker (+1 more) |
 | Social Media Followers | 3,993 (as of 2021-01-03) |
-| Total Assets | 26,604,254,000 United States dollar (as of 2020-12-31), 24,610,225,000 United States dollar (as of 2019-12-31) |
-| Total Equity | 4,238,766,000 United States dollar (as of 2020-12-31), 3,614,791,000 United States dollar (as of 2019-12-31) |
 | Assets Under Management | 357,400,000,000 United States dollar (as of 2020-12-31), 329,500,000,000 United States dollar (as of 2019-12-31) |
-| Employees | 8,500 (as of 2020-12-31), 8,300 (as of 2019-12-31) |
 | Crunchbase Organization Id | stifel-financial |
 | Linkedin Company Or Organization Id | stifel-financial-corp- |
 | Legal Entity Identifier | 549300E5F07FE5GHJX84 |
 | Legal Form | Delaware corporation |
 | Wikirate Company Id | 2265412 |
-| Logo Image | Stifel Financial Corp wordmark.svg |
 | Youtube Handle | stifelfinancialcorp (as of 2025-11-26) |
 | Threads Username | stifelfinancial |
 
 ### Revenue History
 
-- $3.82B (3,817,839,000 United States dollar (as of 2020))
-- $3.51B (3,514,961,000 United States dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.82B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.51B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $503.47M (503,472,000 United States dollar (as of 2020))
-- $448.40M (448,396,000 United States dollar (as of 2019))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $503.47M | as of 2020 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $448.40M | as of 2019 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 8,500 | as of 2020-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,300 | as of 2019-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $26.60B | as of 2020-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $24.61B | as of 2019-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $4.24B | as of 2020-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $3.61B | as of 2019-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |

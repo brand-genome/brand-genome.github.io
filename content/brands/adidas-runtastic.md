@@ -2,11 +2,11 @@
 title: Adidas Runtastic
 slug: "adidas-runtastic"
 description: ""
-date: "2026-03-05T22:38:39.192260"
+date: "2026-03-13T08:56:59.126808"
 draft: false
 sectors:
-  - software
   - fitness
+  - software
 regions:
   - austria
 years:
@@ -14,14 +14,27 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - austria
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "adidas-training-by-runtastic"
+  - "adidas-running-by-runtastic"
+products: []
+headquarters_locations:
+  - pasching
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Austrian mobile fitness company
+wikidata_url: "https://www.wikidata.org/wiki/Q7380124"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7380124) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Adidas Training By Runtastic](/products_or_materials_produced/adidas-training-by-runtastic/); [Adidas Running By Runtastic](/products_or_materials_produced/adidas-running-by-runtastic/) |
+| Headquarters Location | [Pasching](/headquarters_locations/pasching/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Headquarters Location | Pasching |
 | Inception | 2009-10-01 |
 | Country | Austria |
@@ -78,6 +100,5 @@ guideline_count: 1
 | Facebook Username | adidasRuntastic |
 | Youtube Channel Id | UCEYCibjudLwppkhlJ8LDO9A (as of 2020-12-20, from 2012-11-22) |
 | Freebase Id | /m/0r4kkw_ |
-| Logo Image | Adidas runtastic logo.png |
 | Social Media Followers | 282,000 (as of 2021-07-01), 322,000 (as of 2023-02-17) |
 | Crunchbase Organization Id | runtastic |

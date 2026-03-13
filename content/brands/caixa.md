@@ -2,7 +2,7 @@
 title: Caixa
 slug: caixa
 description: ""
-date: "2026-03-05T22:38:39.361327"
+date: "2026-03-13T08:56:59.313216"
 draft: false
 sectors:
   - finance
@@ -15,15 +15,29 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
-  - "economics-of-banking"
   - "financial-sector"
+  - "economics-of-banking"
+  - "financial-services"
 countries:
   - brazil
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bank
+products: []
+headquarters_locations:
+  - brasilia
+subsidiaries: []
+foundation_dates:
+  - 1861
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +61,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "Brazilian government-owned financial institution"
+wikidata_url: "https://www.wikidata.org/wiki/Q835283"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -170,11 +186,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q835283) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bank](/products_or_materials_produced/bank/) |
+| Headquarters Location | [Brasilia](/headquarters_locations/brasilia/) |
+| Foundation Date | [1861](/foundation_dates/1861/) |
 | Country | Brazil |
 | Freebase Id | /m/0812_9 |
 | Inception | 1861-01-12 |
 | Image | Senado Federal do Brasil Fotos produzidas pelo Senado (16633140182).jpg |
-| Logo Image | Caixa Econômica Federal logo 1997.svg |
 | Topic'S Main Category | Category:Caixa Econômica Federal |
 | Viaf Cluster Id | 159907880 |
 | Headquarters Location | Brasília |
@@ -200,11 +222,23 @@ guideline_count: 1
 | Social Media Followers | 351,930 (as of 2021-01-10), 372,035 (as of 2022-03-02), 378,273 (as of 2023-02-04) |
 | Crunchbase Organization Id | caixa-econômica-federal |
 | Bbc Things Id | 4c094b2a-95c2-4c14-a8f6-f6a1b14e0603 |
-| Total Assets | 2 Brazilian real (as of 2021) |
-| Employees | 86,000 (as of 2021) |
 | ‎Yale Lux Id | group/cc85412d-93ca-4100-8621-3e8e4ee24664 |
 | Iso 9362 Swift/Bic Code | CEFXBRSPXXX |
 
 ### Net Profit History
 
-- $17.00B (17 Brazilian real (as of 2021))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $17.00B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 86,000 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.00B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |

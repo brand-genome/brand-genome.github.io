@@ -2,7 +2,7 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-03-05T22:38:39.311097"
+date: "2026-03-13T08:56:59.251445"
 draft: false
 sectors:
   - broadcasting
@@ -10,25 +10,42 @@ sectors:
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:
   - entertainment
 industries:
   - "media-industry"
-  - "publishing-industry"
   - "tv-industry"
-  - "internet-industry"
   - telecommunications
+  - "publishing-industry"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "50B-100B"
+products_or_materials_produced:
+  - "television-program"
+products: []
+headquarters_locations:
+  - delaware
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2016
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,28 +64,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - lockup
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
   - white
   - grey
-  - black
   - blue
   - "pantone-299"
+  - black
 typographies: []
 imagery_styles:
-  - bold
-  - modern
   - clean
+  - modern
+  - bold
 wikidata_description: former American multinational media conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q191715"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -330,6 +349,13 @@ the horitontal (1-line) version of the lockup is preferred.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q191715) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Television Program](/products_or_materials_produced/television-program/) |
+| Headquarters Location | [Delaware](/headquarters_locations/delaware/); [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2016](/foundation_dates/2016/); [1990](/foundation_dates/1990/) |
 | Industry | media industry, TV industry, publishing industry, Internet industry, telecommunications (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:WarnerMedia |
 | Follows | Time Inc., Warner Communications |
@@ -339,7 +365,6 @@ the horitontal (1-line) version of the lockup is preferred.
 | Headquarters Location | Delaware, New York City |
 | Inception | 1990-01-01, 2016 |
 | Stock Exchange | New York Stock Exchange (until 2018-06-14) |
-| Employees | 34,000 (as of 2014-12-31), 25,600 (as of 2015-12-31), 87,000 (as of 2005) |
 | Country | United States |
 | Child Organization Or Unit | Warner Bros., HBO, Turner Broadcasting System, CNN, Turner Entertainment (+4 more) |
 | Location Of Formation | New York City |
@@ -348,16 +373,13 @@ the horitontal (1-line) version of the lockup is preferred.
 | Legal Entity Identifier | KNG3XRAA0RHN9H62OK76, 5493004RSX004WU3UT62 |
 | Founded By | Steve Ross |
 | Isni | 0000000121558140 |
-| Market Capitalization | 74,530,000,000 United States dollar (as of 2017) |
 | Quora Topic Id | Time-Warner-company |
 | Encyclopædia Britannica Online Id | topic/Time-Warner-Inc |
 | Permid | 4295903356 |
 | Open Funder Registry Funder Id | 100004379 |
 | Grid Id | grid.467582.a |
-| Total Equity | 28,370,000,000 United States dollar |
 | Great Russian Encyclopedia Online Id (2017) | 4179577 |
 | Parent Organization Or Unit | AT&T |
-| Logo Image | WarnerMedia (2019) logo.svg (from 2019, until 2022) |
 | Image | Hudson Yards from Hudson Commons (95131p) (30 Hudson Yards).jpg |
 | Owner Of | Turner Entertainment, Adult Swim, Hanna-Barbera Studios Europe, Castle Rock Entertainment, TNT (+87 more) |
 | Library Of Congress Authority Id | no99019466 |
@@ -388,8 +410,32 @@ the horitontal (1-line) version of the lockup is preferred.
 
 ### Revenue History
 
-- $44.70B (44,700,000,000 United States dollar (as of 2006))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $44.70B | as of 2006 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $7.96B (7,965,000,000 United States dollar)
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $7.96B | - | [1B-10B](/operating_income_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 34,000 | as of 2014-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 25,600 | as of 2015-12-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 87,000 | as of 2005 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $28.37B | - | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $74.53B | as of 2017 | [50B-100B](/market_cap_buckets/50b-100b/) |

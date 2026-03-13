@@ -2,7 +2,7 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-03-05T22:38:39.745188"
+date: "2026-03-13T08:56:59.784459"
 draft: false
 sectors:
   - education
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lexington
+subsidiaries: []
+foundation_dates:
+  - 1780
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,31 +54,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - secondary
-  - horizontal
+  - primary
   - wordmark
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - "pantone-400"
-  - crimson
-  - black
   - "pantone-201"
+  - "pantone-400"
+  - black
   - gray
+  - crimson
 typographies:
-  - akzidenz
-  - script
-  - arial
   - times
+  - script
+  - akzidenz
+  - arial
 imagery_styles:
   - dynamic
   - professional
 wikidata_description: "private university in Lexington, Kentucky, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q956056"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q956056) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lexington](/headquarters_locations/lexington/) |
+| Foundation Date | [1780](/foundation_dates/1780/) |
 | Coordinate Location | 38.05222222222222, -84.49361111111111 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Lexington |
@@ -135,7 +156,6 @@ guideline_count: 1
 | Grid Id | grid.265139.a |
 | Affiliation | National Association of Independent Colleges and Universities |
 | U Multirank University Id | transylvania-university |
-| Logo Image | Transylvania University Logo.svg |
 | Microsoft Academic Id (Discontinued) | 78641905 |
 | Street Address | 300 N Broadway, Lexington, KY, 40508-1797 |
 | Library Of Congress Authority Id | n80096586 |
@@ -150,9 +170,7 @@ guideline_count: 1
 | Social Media Followers | 6,483 (as of 2021-01-04), 6,351 (as of 2020-04-24) |
 | Crunchbase Organization Id | transylvania-university |
 | Count Of Students | 963 (as of 2020-09) |
-| Total Assets | 324,413,032 United States dollar (as of 2020-06-30) |
 | Endowment | 190,196,979 United States dollar (as of 2020-06-30) |
-| Employees | 312 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Headquarters Location | Lexington |
 | Different From | Transylvania, Transylvania Colony, Transylvania County |
@@ -172,3 +190,15 @@ guideline_count: 1
 | Open Library Id | OL6077489A |
 | Threads Username | transylvaniauniversity |
 | Athletics Program | Transylvania Pioneers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 312 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $324.41M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

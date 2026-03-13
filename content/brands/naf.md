@@ -2,7 +2,7 @@
 title: NAF
 slug: naf
 description: ""
-date: "2026-03-05T22:38:39.583902"
+date: "2026-03-13T08:56:59.524262"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - pamplona
+subsidiaries: []
+foundation_dates:
+  - 1952
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +59,18 @@ brand_colors:
 typographies:
   - din
 imagery_styles:
-  - bold
-  - graphic
   - professional
   - minimal
   - gradient
+  - graphic
+  - bold
 wikidata_description: "Non-profit private pontifical university in Pamplona, Spain"
+wikidata_url: "https://www.wikidata.org/wiki/Q926068"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +126,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q926068) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pamplona](/headquarters_locations/pamplona/) |
+| Foundation Date | [1952](/foundation_dates/1952/) |
 | Freebase Id | /m/067ttn |
 | Topic'S Main Category | Category:University of Navarra |
 | Coordinate Location | 42.8014, -1.65972 |
@@ -138,7 +157,6 @@ guideline_count: 1
 | Commons Institution Page | Universidad de Navarra |
 | Founded By | Josemaría Escrivá |
 | Ringgold Id | 16754 |
-| Logo Image | Logotipo Universidad de Navarra negro sobre blanco-SVG.svg, UNAV.svg, 00. Marca UNAV negro 24.png |
 | Ipv6 Routing Prefix | 2001:720:1d10::/48 |
 | Flickr User Id | 35063235@N04 |
 | Rector | María J. Iraburu (from 2022-01-10), Alfonso Sánchez-Tabernero (from 2012-08-30, until 2022-01-10), Ángel J. Gómez Montoro (from 2005-09-01, until 2012-08-30), José María Bastero de Elizalde (from 1996, until 2005-09-01), Alejandro Llano Cifuentes (from 1991, until 1996) (+4 more) |

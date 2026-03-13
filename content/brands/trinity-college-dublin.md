@@ -2,11 +2,11 @@
 title: Trinity College Dublin
 slug: "trinity-college-dublin"
 description: ""
-date: "2026-03-05T22:38:39.126790"
+date: "2026-03-13T08:56:59.079448"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - ireland
@@ -20,9 +20,22 @@ industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dublin
+subsidiaries: []
+foundation_dates:
+  - 1592
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: constituent college of the University of Dublin in Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q258464"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q258464) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
+| Foundation Date | [1592](/foundation_dates/1592/) |
 | Member Of | Coimbra Group, Digital Preservation Coalition, World Wide Web Consortium, European University Association, League of European Research Universities (+3 more) |
 | Country | Ireland |
 | Coordinate Location | 53.3444, -6.2577 |
@@ -162,8 +183,6 @@ guideline_count: 1
 | Nacsis Cat Author Id | DA08638627 |
 | Cinii Research Id | 1140563741572699776 |
 | ‎Yale Lux Id | group/46044cdf-4fef-427a-af53-87e3b0b3f39d |
-| Total Assets | 1,607,554,000 euro (as of 2021), 1,681,130,000 euro (as of 2022), 1,756,820 euro (as of 2023), 1,805,217,000 euro (as of 2024) |
-| Employees | 3,908 (as of 2021), 3,635 (as of 2022), 3,731 (as of 2023), 3,844 (as of 2024) |
 | Bequest Income | 5,983,000 euro (as of 2021), 244,000 euro (as of 2022), 1,668 euro (as of 2023), 460,000 euro (as of 2024) |
 | Youtube Channel Id | UCVVuAYyOt54zkIT0sezX-4Q (as of 2025-09-21, from 2006-09-07) |
 | Vatican Library Vcba Id | 494/18540 |
@@ -175,13 +194,33 @@ guideline_count: 1
 
 ### Revenue History
 
-- $394.85M (394,854,000 euro (as of 2020))
-- $317.57K (317,574 euro (as of 2015))
-- $338.55M (338,552,000 euro (as of 2016))
-- $359.64M (359,644,000 euro (as of 2017))
-- $390.74M (390,741,000 euro (as of 2018))
-- $395.61M (395,613,000 euro (as of 2019))
-- $412.72M (412,722,000 euro (as of 2021))
-- $454.21M (454,206,000 euro (as of 2022))
-- $508.23K (508,233 euro (as of 2023))
-- $558.14M (558,143,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $394.85M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $317.57K | as of 2015 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $338.55M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $359.64M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $390.74M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $395.61M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $412.72M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $454.21M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $508.23K | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $558.14M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,908 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,635 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,731 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,844 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.61B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.68B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.76M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.81B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

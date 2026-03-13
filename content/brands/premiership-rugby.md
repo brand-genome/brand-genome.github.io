@@ -2,7 +2,7 @@
 title: Premiership Rugby
 slug: "premiership-rugby"
 description: ""
-date: "2026-03-05T22:38:39.280773"
+date: "2026-03-13T08:56:59.222876"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,25 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - badge
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - badge
+  - horizontal
 brand_colors:
+  - purple
   - red
   - gold
   - green
-  - purple
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: top division of the English rugby union system
+wikidata_url: "https://www.wikidata.org/wiki/Q5960"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +136,11 @@ Terminology: Rugby terms like 'Full-back', 'Scrum-half', and standard word usage
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5960) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:Premiership Rugby |
 | Freebase Id | /m/01tq4l |
@@ -147,7 +164,6 @@ Terminology: Rugby terms like 'Full-back', 'Scrum-half', and standard word usage
 | Sports League Level | 1 |
 | Number Of Participants | 11 |
 | Official Name | National Division One (from 1987, until 1997), Premiership Rugby (from 1997) |
-| Logo Image | PREM Rugby logo 2025.png |
 | Sponsor | Courage Brewery (from 1987, until 1997), Allied Dunbar (from 1997, until 2000), Zurich Insurance Group (from 2000, until 2005), Guinness (from 2005, until 2010), Aviva (from 2010, until 2018) (+1 more) |
 | Season Ends | May |
 | Director / Manager | Mark McCafferty (from 2005, until 2019), Darren Childs (from 2019, until 2021) |

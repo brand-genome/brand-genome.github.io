@@ -2,7 +2,7 @@
 title: Waste Free Environment
 slug: "waste-free-environment"
 description: ""
-date: "2026-03-05T22:38:39.710728"
+date: "2026-03-13T08:56:59.726840"
 draft: false
 sectors:
   - ngo
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +49,31 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-376"
-  - orange
-  - "pantone-2915"
-  - "pantone-354"
-  - yellow
-  - "pantone-7540"
-  - black
   - blue
   - "pantone-640"
+  - "pantone-7540"
+  - yellow
+  - "pantone-2915"
   - "pantone-144"
+  - "pantone-354"
   - green
+  - orange
+  - black
   - "pantone-7406"
+  - "pantone-376"
 typographies:
   - arial
   - "sans-serif"
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

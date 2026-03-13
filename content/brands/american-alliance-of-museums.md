@@ -2,7 +2,7 @@
 title: American Alliance of Museums
 slug: "american-alliance-of-museums"
 description: ""
-date: "2026-03-05T22:38:39.303890"
+date: "2026-03-13T08:56:59.245777"
 draft: false
 sectors:
   - ngo
@@ -19,10 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets:
-  - "under-1m"
+  - "UNDER-1M"
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1906
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,28 +56,30 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - black
   - blue
-  - gray
   - green
+  - black
+  - gray
 typographies: []
 imagery_styles:
-  - bold
-  - photography
-  - graphic
   - dynamic
-  - illustration
-  - colorful
+  - clean
   - contemporary
-  - flat
   - dramatic
   - static
-  - clean
+  - illustration
+  - photography
+  - colorful
+  - flat
+  - graphic
+  - bold
 wikidata_description: "non-profit association based in Arlington, Virginia, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q2842849"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +138,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2842849) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1906](/foundation_dates/1906/) |
 | Located In The Administrative Territorial Entity | Washington, D.C., Arlington County |
 | Inception | 1906-01-01 |
 | Field Of Work | museum |
@@ -165,7 +183,6 @@ guideline_count: 1
 | Position Held By Head Of The Organization | president of the American Alliance of Museums |
 | Chief Executive Officer | Laura L. Lott (from 2015-06-01) |
 | Total Liabilities | 5,332,712 United States dollar (as of 2019-12), 4,722,851 United States dollar (as of 2018-12) |
-| Total Assets | 10,810,598 United States dollar (as of 2019-12), 10,370,320 United States dollar (as of 2018-12), 15,937,363 United States dollar (as of 2022), 11,405,115 United States dollar (as of 2021), 4,995,990 United States dollar (as of 2011) (+8 more) |
 | Glassdoor Company Id | 466431 |
 | Bloomberg Company Id | 1217235D:US |
 | Babelnet Id | 17261266n |
@@ -174,7 +191,6 @@ guideline_count: 1
 | Dictionary Of Archives Terminology Id | american-alliance-of-museums, aam |
 | University Of Barcelona Authority Id | 981058610779306706 |
 | Encyclopedia Of China (Third Edition) Id | 393830 |
-| Logo Image | American Alliance of Museums logo.svg |
 | Nl Cr Aut Id | xx0308506, xx0308507 |
 | Donations | 2,091,829 United States dollar (as of 2022), 4,255,228 United States dollar (as of 2021), 2,424,939 United States dollar (as of 2011), 2,720,687 United States dollar (as of 2012), 2,382,498 United States dollar (as of 2013) (+8 more) |
 | Member Of | Independent Sector |
@@ -186,21 +202,43 @@ guideline_count: 1
 
 ### Revenue History
 
-- $9.79M (9,789,665 United States dollar (as of 2019-12))
-- $12.93M (12,931,702 United States dollar (as of 2018-12))
-- $10.15M (10,152,689 United States dollar (as of 2022))
-- $9.67M (9,674,597 United States dollar (as of 2021))
-- $10.42M (10,421,416 United States dollar (as of 2011))
-- $10.51M (10,513,973 United States dollar (as of 2012))
-- $9.76M (9,760,672 United States dollar (as of 2013))
-- $10.39M (10,393,325 United States dollar (as of 2014))
-- $10.90M (10,902,484 United States dollar (as of 2015))
-- $9.91M (9,913,556 United States dollar (as of 2016))
-- $9.89M (9,886,719 United States dollar (as of 2017))
-- $6.71M (6,706,612 United States dollar (as of 2020))
-- $9.86M (9,862,260 United States dollar (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $9.79M | as of 2019-12 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $12.93M | as of 2018-12 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.15M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.67M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.42M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.51M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.76M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $10.39M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.90M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $9.91M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.89M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.71M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.86M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
 
 ### Net Profit History
 
-- $537.69K (-537,688 United States dollar (as of 2019-12))
-- $3.97M (3,968,263 United States dollar (as of 2018-12))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $537.69K | as of 2019-12 | [UNDER-1M](/net_profit_buckets/under-1m/) |
+| $3.97M | as of 2018-12 | [1M-10M](/net_profit_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $10.81M | as of 2019-12 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.37M | as of 2018-12 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.94M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.41M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $5.00M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.46M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.24M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.38M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.47M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.63M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.77M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.35M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.59M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |

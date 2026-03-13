@@ -2,16 +2,16 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-03-05T22:38:39.193662"
+date: "2026-03-13T08:56:59.128557"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
   - russian
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dublin
+subsidiaries: []
+foundation_dates:
+  - 1950
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
-  - symbol
   - secondary
+  - lockup
+  - symbol
 brand_colors:
+  - green
   - "pantone-7686"
   - blue
-  - green
   - "pantone-369"
 typographies: []
 imagery_styles:
   - product
   - monochrome
 wikidata_description: "Irish tax-resident US water treatment company"
+wikidata_url: "https://www.wikidata.org/wiki/Q7165001"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,13 +117,18 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7165001) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
+| Foundation Date | [1950](/foundation_dates/1950/) |
 | Stock Exchange | New York Stock Exchange |
 | Inception | 1950 |
 | Headquarters Location | Dublin |
 | Legal Form | Limited Company |
 | Isin | IE00BLS09M33 |
 | Location Of Formation | Arden Hills |
-| Logo Image | Pentair Schroff Logo.svg |
 | Grid Id | grid.497254.9 |
 | Ror Id | 016qr5362 |
 | X (Twitter) Username | pentair (as of 2020-04-22, from 2015-03-04) |

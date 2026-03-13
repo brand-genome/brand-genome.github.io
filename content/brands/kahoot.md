@@ -2,7 +2,7 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-03-05T22:38:39.342492"
+date: "2026-03-13T08:56:59.297451"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -14,13 +14,22 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,23 +51,25 @@ logo_elements:
   - icon
   - primary
 brand_colors:
+  - purple
   - white
   - grey
-  - purple
   - black
 typographies:
   - montserrat
 imagery_styles:
-  - bold
-  - playful
-  - geometric
   - illustration
+  - playful
   - colorful
+  - bold
+  - geometric
 wikidata_description: "Children's educational software"
+wikidata_url: "https://www.wikidata.org/wiki/Q6347127"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +125,10 @@ guideline_count: 1
 - All Kahoot! materials should include the trademark ownership statement: 'Kahoot! and the K! logo are trademarks of Kahoot! AS.'
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6347127) |
 
 | Property | Value |
 |----------|-------|

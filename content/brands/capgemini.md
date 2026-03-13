@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-03-05T22:38:39.714326"
+date: "2026-03-13T08:56:59.731628"
 draft: false
 sectors:
   - consulting
@@ -22,11 +22,23 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +59,23 @@ body_sections: []
 logo_elements:
   - wordmark
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies:
   - ubuntu
 imagery_styles: []
 wikidata_description: "French multinational corporation headquartered in Paris, France"
+wikidata_url: "https://www.wikidata.org/wiki/Q1034621"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +107,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1034621) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Freebase Id | /m/03vlk0 |
 | Headquarters Location | Paris |
 | Isin | FR0000125338 |
@@ -125,7 +145,6 @@ guideline_count: 1
 | Industry | IT service management, activities of head offices |
 | Golden Id | Capgemini-PB64BY |
 | Image | 11 rue de Tilsitt.jpg |
-| Logo Image | Capgemini 201x logo.svg |
 | Slideshare Username | capgemini |
 | Linkedin Company Or Organization Id | capgemini |
 | Motto Text | Get the future you want |
@@ -139,7 +158,6 @@ guideline_count: 1
 | Great Norwegian Encyclopedia Id | Capgemini |
 | Legal Form | société par actions simplifiée, Societas Europaea |
 | Coordinate Location | 48.8747925, 2.2934816666666666 |
-| Employees | 357,000 (as of 2023-03-31), 336,900 (as of 2024-06-30) |
 | Kisti Id | K000229174 |
 | Siren Number | 652025792 |
 | Official Name | CAPGEMINI SERVICE |
@@ -147,61 +165,74 @@ guideline_count: 1
 
 ### Revenue History
 
-- $6.93B (6,931,000,000 euro (as of 2000))
-- $8.42B (8,416,000,000 euro (as of 2001))
-- $7.05B (7,047,000,000 euro (as of 2002))
-- $5.75B (5,754,000,000 euro (as of 2003))
-- $6.24B (6,235,000,000 euro (as of 2004))
-- $6.95B (6,954,000,000 euro (as of 2005))
-- $7.70B (7,700,000,000 euro (as of 2006))
-- $8.70B (8,703,000,000 euro (as of 2007))
-- $8.71B (8,710,000,000 euro (as of 2008))
-- $8.37B (8,371,000,000 euro (as of 2009))
-- $8.70B (8,697,000,000 euro (as of 2010))
-- $9.69B (9,693,000,000 euro (as of 2011))
-- $10.26B (10,264,000,000 euro (as of 2012))
-- $10.09B (10,092,000,000 euro (as of 2013))
-- $10.57B (10,573,000,000 euro (as of 2014))
-- $11.91B (11,915,000,000 euro (as of 2015))
-- $12.54B (12,539,000,000 euro (as of 2016))
-- $12.79B (12,792,000,000 euro (as of 2017))
-- $13.20B (13,197,000,000 euro (as of 2018))
-- $14.12B (14,125,000,000 euro (as of 2019))
-- $15.85B (15,848,000,000 euro (as of 2020))
-- $18.16B (18,160,000,000 euro (as of 2021))
-- $22.00B (21,995,000,000 euro (as of 2022))
-- $22.52B (22,522,000,000 euro (as of 2023))
-- $22.10B (22,096,000,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $6.93B | as of 2000 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.42B | as of 2001 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.05B | as of 2002 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.75B | as of 2003 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.24B | as of 2004 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.95B | as of 2005 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.70B | as of 2006 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.70B | as of 2007 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.71B | as of 2008 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.37B | as of 2009 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.70B | as of 2010 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.69B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.26B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.09B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.57B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.91B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.54B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.79B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.20B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.12B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.85B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $18.16B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.00B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.52B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.10B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $2.35B (2,346,000,000 euro (as of 2023))
-- $2.36B (2,356,000,000 euro (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $2.35B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.36B | as of 2024 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $431.00M (431,000,000 euro (as of 2000))
-- $152.00M (152,000,000 euro (as of 2001))
-- $514.00M (-514,000,000 euro (as of 2002))
-- $197.00M (-197,000,000 euro (as of 2003))
-- $534.00M (-534,000,000 euro (as of 2004))
-- $141.00M (141,000,000 euro (as of 2005))
-- $293.00M (293,000,000 euro (as of 2006))
-- $440.00M (440,000,000 euro (as of 2007))
-- $451.00M (451,000,000 euro (as of 2008))
-- $178.00M (178,000,000 euro (as of 2009))
-- $280.00M (280,000,000 euro (as of 2010))
-- $404.00M (404,000,000 euro (as of 2011))
-- $370.00M (370,000,000 euro (as of 2012))
-- $442.00M (442,000,000 euro (as of 2013))
-- $580.00M (580,000,000 euro (as of 2014))
-- $1.12B (1,124,000,000 euro (as of 2015))
-- $921.00M (921,000,000 euro (as of 2016))
-- $820.00M (820,000,000 euro (as of 2017))
-- $730.00M (730,000,000 euro (as of 2018))
-- $856.00M (856,000,000 euro (as of 2019))
-- $957.00M (957,000,000 euro (as of 2020))
-- $1.16B (1,157,000,000 euro (as of 2021))
-- $1.55B (1,547,000,000 euro (as of 2022))
-- $1.66B (1,663,000,000 euro (as of 2023))
-- $1.67B (1,671,000,000 euro (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $431.00M | as of 2000 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $152.00M | as of 2001 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $514.00M | as of 2002 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $197.00M | as of 2003 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $534.00M | as of 2004 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $141.00M | as of 2005 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $293.00M | as of 2006 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $440.00M | as of 2007 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $451.00M | as of 2008 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $178.00M | as of 2009 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $280.00M | as of 2010 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $404.00M | as of 2011 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $370.00M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $442.00M | as of 2013 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $580.00M | as of 2014 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.12B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $921.00M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $820.00M | as of 2017 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $730.00M | as of 2018 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $856.00M | as of 2019 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $957.00M | as of 2020 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.16B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.55B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.66B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.67B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 357,000 | as of 2023-03-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 336,900 | as of 2024-06-30 | [100K-500K](/employees_buckets/100k-500k/) |

@@ -2,15 +2,15 @@
 title: GlobalGiving
 slug: globalgiving
 description: ""
-date: "2026-03-05T22:38:39.386814"
+date: "2026-03-13T08:56:59.354394"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - vertical
 brand_colors:
   - red
-  - orange
   - blue
-  - gray
   - green
+  - orange
+  - gray
 typographies:
   - "open-sans"
   - serif
@@ -61,10 +72,12 @@ imagery_styles:
   - photography
   - clean
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q4039485"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +135,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4039485) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
 | Country | United States |
 | Headquarters Location | Washington, D.C. |
 | Quora Topic Id | GlobalGiving |
@@ -139,24 +157,45 @@ guideline_count: 2
 | Crunchbase Organization Id | globalgiving |
 | Donations | 60,186,716 United States dollar (as of 2019), 146,892,477 United States dollar (as of 2022), 93,619,611 United States dollar (as of 2021), 113,675,108 United States dollar (as of 2023), 11,868,183 United States dollar (as of 2010) (+10 more) |
 | Legal Form | 501(c)(3) organization |
-| Total Assets | 100,322,029 United States dollar (as of 2022), 58,310,702 United States dollar (as of 2021), 105,022,196 United States dollar (as of 2023), 5,513,406 United States dollar (as of 2010), 9,222,720 United States dollar (as of 2011) (+10 more) |
 | Iati Organisation Id | US-EIN-300108263 |
 | Domain Name | globalgiving.org |
 
 ### Revenue History
 
-- $40.93M (40,929,233 United States dollar (as of 2016-01-01))
-- $63.35M (63,347,052 United States dollar (as of 2019))
-- $60.85M (60,847,693 United States dollar (as of 2018))
-- $68.08M (68,076,640 United States dollar (as of 2017))
-- $151.64M (151,636,037 United States dollar (as of 2022))
-- $98.06M (98,059,515 United States dollar (as of 2021))
-- $120.85M (120,852,957 United States dollar (as of 2023))
-- $13.37M (13,368,325 United States dollar (as of 2010))
-- $23.03M (23,026,848 United States dollar (as of 2011))
-- $22.13M (22,127,771 United States dollar (as of 2012))
-- $25.54M (25,535,156 United States dollar (as of 2013))
-- $37.53M (37,532,069 United States dollar (as of 2014))
-- $45.14M (45,139,729 United States dollar (as of 2015))
-- $109.37M (109,370,560 United States dollar (as of 2020))
-- $91.10M (91,098,723 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $40.93M | as of 2016-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $63.35M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $60.85M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $68.08M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $151.64M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $98.06M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $120.85M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $13.37M | as of 2010 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $23.03M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $22.13M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $25.54M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $37.53M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $45.14M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $109.37M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $91.10M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $100.32M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $58.31M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $105.02M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $5.51M | as of 2010 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $9.22M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.91M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.14M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.86M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.05M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.60M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $38.46M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $45.66M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $42.45M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $54.05M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $80.27M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |

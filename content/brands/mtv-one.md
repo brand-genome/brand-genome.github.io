@@ -2,7 +2,7 @@
 title: MTV One
 slug: "mtv-one"
 description: ""
-date: "2026-03-05T22:38:39.261436"
+date: "2026-03-13T08:56:59.205176"
 draft: false
 sectors:
   - broadcasting
@@ -14,15 +14,25 @@ years:
 languages:
   - english
 tags:
+  - music
   - broadcast
   - featured
-  - music
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: MTV channel in the UK and Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q3323914"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,13 +77,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3323914) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Freebase Id | /m/090ypc |
 | Inception | 1997-07-01 |
 | Owned By | Paramount Networks UK & Australia |
 | Language Used | English |
 | Country | United Kingdom |
 | Quora Topic Id | MTV-UK |
-| Logo Image | MTV-2021.svg |
 | Facebook Username | mtvuk |
 | X (Twitter) Username | mtvuk (as of 2020-12-25, from 2008-10-16) |
 | Social Media Followers | 2,432,701 (as of 2021-01-03), 2,465,288 (as of 2020-04-22), 2,461,378 (as of 2022-02-21), 2,110,000 (as of 2023-01-11), 2,436,647 (as of 2023-02-12) (+2 more) |

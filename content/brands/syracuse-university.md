@@ -2,7 +2,7 @@
 title: Syracuse University
 slug: "syracuse-university"
 description: ""
-date: "2026-03-05T22:38:39.589873"
+date: "2026-03-13T08:56:59.530478"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,27 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - symbol
-  - secondary
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
   - white
-  - blue
   - orange
+  - blue
 typographies:
-  - impact
   - serif
+  - impact
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "private university in Syracuse, New York, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q617433"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +125,11 @@ Approved color combinations are required for text compliance with web accessibil
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q617433) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Coordinate Location | 43.037638888889, -76.134 |
 | Topic'S Main Category | Category:Syracuse University |
 | Image | Syracuse University Aerial view.jpg (as of 2011), Syracuse University -2, Syracuse, N.Y LCCN2007661167.tif (as of 1909), Syracuse-university 1916 campus.jpg (as of 1916), Syracuse-university view-full.jpg |
@@ -151,7 +170,6 @@ Approved color combinations are required for text compliance with web accessibil
 | Times Higher Education World University Id | syracuse-university |
 | Google Maps Customer Id | 6800586097573300301 |
 | U Multirank University Id | syracuse-university |
-| Logo Image | Syracuse University wordmark.svg |
 | Archinform Keyword Id | 3087 |
 | Owner Of | Carmelo K. Anthony Basketball Center, Tennity Ice Skating Pavilion, WAER, WERW, SU Soccer Stadium |
 | Musicbrainz Place Id | a557d409-7506-4984-a817-6d6f526d38b3 |
@@ -175,9 +193,7 @@ Approved color combinations are required for text compliance with web accessibil
 | Crunchbase Organization Id | syracuse-university |
 | National Library Of Israel J9U Id | 987007511760905171 |
 | Count Of Students | 21,322 (as of 2021), 18,186 (as of 2001), 18,072 (as of 2002), 18,604 (as of 2003), 18,639 (as of 2004) (+18 more) |
-| Total Assets | 1,609,362,000 United States dollar (as of 2000-06-30), 1,561,558,000 United States dollar (as of 2001-06-30), 1,501,313,000 United States dollar (as of 2002-06-30), 1,702,126,000 United States dollar (as of 2003-06-30), 1,778,727,000 United States dollar (as of 2004-06-30) (+18 more) |
 | Endowment | 1,390,552,629 United States dollar (as of 2020-06-30), 1,793,680,303 United States dollar (as of 2022-06-30), 1,814,019,946 United States dollar (as of 2021-06-30) |
-| Employees | 5,578 (as of 2020-09) |
 | Admission Rate | 0 (as of 2013), 0 (as of 2014), 0 (as of 2015), 0 (as of 2016), 0 (as of 2017) (+8 more) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I70983195 |
@@ -256,3 +272,37 @@ Approved color combinations are required for text compliance with web accessibil
 | New York Post Topic Id | syracuse-university |
 | ‎Yale Lux Id | group/f04a149e-cab0-46ef-9ca6-82361de752a4 |
 | Threads Username | syracuseu |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,578 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.61B | as of 2000-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.56B | as of 2001-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.50B | as of 2002-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.70B | as of 2003-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.78B | as of 2004-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.84B | as of 2005-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.05B | as of 2006-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.32B | as of 2007-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.36B | as of 2008-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.03B | as of 2009-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.16B | as of 2010-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.24B | as of 2011-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.28B | as of 2012-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.39B | as of 2013-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.65B | as of 2014-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.67B | as of 2015-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.69B | as of 2016-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.85B | as of 2017-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.03B | as of 2018-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.20B | as of 2019-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.52B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.92B | as of 2021-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.03B | as of 2022-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

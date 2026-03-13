@@ -2,18 +2,18 @@
 title: Suncor
 slug: suncor
 description: ""
-date: "2026-03-05T22:38:39.373419"
+date: "2026-03-13T08:56:59.332154"
 draft: false
 sectors:
   - petroleum
+  - gas
   - "petrol-station"
   - oil
-  - gas
 regions:
   - canada
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -25,6 +25,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - petroleum
+products: []
+headquarters_locations:
+  - calgary
+subsidiaries: []
+foundation_dates:
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,36 +57,38 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
   - red
+  - grey
+  - blue
+  - yellow
   - gold
   - orange
-  - grey
   - black
-  - yellow
-  - blue
   - gray
 typographies:
-  - arial
   - frutiger
+  - arial
 imagery_styles:
-  - bold
-  - photography
+  - natural
   - dynamic
+  - portrait
   - professional
-  - gradient
   - subtle
   - candid
-  - natural
-  - portrait
+  - photography
+  - gradient
+  - bold
 wikidata_description: Canadian energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q1516410"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -167,13 +182,19 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1516410) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/) |
+| Headquarters Location | [Calgary](/headquarters_locations/calgary/) |
+| Foundation Date | [1917](/foundation_dates/1917/) |
 | Stock Exchange | Toronto Stock Exchange, New York Stock Exchange |
 | Freebase Id | /m/05r9nn |
 | Follows | Petro-Canada |
 | Headquarters Location | Calgary |
 | Isin | CA8672241079 |
 | Inception | 1917-01-01 |
-| Logo Image | Suncor Energy.svg |
 | Legal Form | business corporation |
 | Location Of Formation | Montreal |
 | Isni | 0000000104210409 |
@@ -186,7 +207,6 @@ guideline_count: 2
 | Grid Id | grid.213690.f |
 | Microsoft Academic Id (Discontinued) | 136486123 |
 | Ror Id | 02q291e51 |
-| Employees | 12,076 |
 | Viaf Cluster Id | 155900241 |
 | Product Or Material Produced | petroleum |
 | Facebook Username | suncorenergy |
@@ -197,3 +217,9 @@ guideline_count: 2
 | Central Index Key | 0000311337 |
 | D U N S Number | 241804681 |
 | Legal Entity Identifier | 549300W70ZOQDVLCHY06 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 12,076 | - | [10K-50K](/employees_buckets/10k-50k/) |

@@ -2,11 +2,11 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-03-05T22:38:39.599427"
+date: "2026-03-13T08:56:59.541504"
 draft: false
 sectors:
-  - research
   - biotech
+  - research
 regions:
   - belgium
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - ghent
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,24 +50,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
   - secondary
+  - lockup
 brand_colors:
   - white
-  - orange
   - green
+  - orange
   - black
 typographies:
-  - impact
   - "open-sans"
+  - impact
 imagery_styles:
   - bold
 wikidata_description: Flemish research institute
+wikidata_url: "https://www.wikidata.org/wiki/Q2463367"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +109,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2463367) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ghent](/headquarters_locations/ghent/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Legal Form | non-profit organisation |
 | Enterprise Number (Belgium) | 0456343923 |
 | Isni | 0000000104788040 |

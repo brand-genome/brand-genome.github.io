@@ -2,7 +2,7 @@
 title: Haval
 slug: haval
 description: ""
-date: "2026-03-05T22:38:39.143465"
+date: "2026-03-13T08:56:59.090933"
 draft: false
 sectors:
   - automobile
@@ -19,6 +19,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - baoding
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Chinese automotive brand owned by Great Wall Motor
+wikidata_url: "https://www.wikidata.org/wiki/Q28223947"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +75,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28223947) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Baoding](/headquarters_locations/baoding/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Headquarters Location | Baoding |
 | Inception | 2013 |
 | Google Knowledge Graph Id | /g/11cs5kkvb0 |
@@ -72,7 +93,6 @@ guideline_count: 1
 | Product Or Material Produced | car |
 | Weibo User Id | 1888373567 |
 | Youtube Channel Id | UCoSAAm8URyeUNDOAMySL-Ow (as of 2023-01-22, from 2015-07-24) |
-| Logo Image | Haval 2023 logo.svg (from 2023) |
 | Douyin Username | HavalSUV |
 | App Store App Id | 995525992 |
 | Motto Text | Global Intelligent SUV Expert |

@@ -2,12 +2,12 @@
 title: Fujitsu
 slug: fujitsu
 description: ""
-date: "2026-03-05T22:38:39.823500"
+date: "2026-03-13T08:56:59.904185"
 draft: false
 sectors:
+  - hardware
   - consulting
   - software
-  - hardware
 regions:
   - japan
 years:
@@ -22,11 +22,31 @@ industries:
 countries:
   - japan
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "computer-hardware"
+  - "pointing-device"
+  - "vehicle-audio"
+  - supercomputer
+  - server
+  - workstation
+  - smartphone
+  - software
+products: []
+headquarters_locations:
+  - "shiodome-city-center"
+subsidiaries: []
+foundation_dates:
+  - 1935
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,30 +65,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
   - primary
   - secondary
+  - lockup
 brand_colors:
   - white
   - red
   - grey
   - black
 typographies:
+  - helvetica
+  - times
   - impact
   - arial
-  - times
-  - helvetica
 imagery_styles:
-  - photography
   - dynamic
-  - professional
-  - duotone
   - clean
+  - professional
+  - photography
+  - duotone
 wikidata_description: Japanese multinational information technology equipment and services company
+wikidata_url: "https://www.wikidata.org/wiki/Q186394"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +139,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q186394) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Pointing Device](/products_or_materials_produced/pointing-device/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Server](/products_or_materials_produced/server/); [Workstation](/products_or_materials_produced/workstation/); [Smartphone](/products_or_materials_produced/smartphone/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Shiodome City Center](/headquarters_locations/shiodome-city-center/) |
+| Foundation Date | [1935](/foundation_dates/1935/) |
 | Topic'S Main Category | Category:Fujitsu |
 | Headquarters Location | Shiodome City Center |
 | Freebase Id | /m/0fyp9 |
@@ -125,13 +154,11 @@ guideline_count: 1
 | Official Name | 富士通株式会社, Fujitsu Limited |
 | Stock Exchange | Tokyo Stock Exchange (from 1949-05-16), Nagoya Stock Exchange (from 1961-10-25) |
 | Isin | JP3818000006 |
-| Logo Image | Fujitsu-Logo.svg |
 | Child Organization Or Unit | Fujitsu Technology Solutions, Fujitsu Semiconductor, Fujitsu Laboratories, Fujitsu (Germany), Fujitsu (United Kingdom) (+7 more) |
 | Product Or Material Produced | supercomputer, server, workstation, software, smartphone (+3 more) |
 | Ndl Authority Id | 00284052 |
 | Viaf Cluster Id | 154545993 |
 | Location Of Formation | Kawasaki |
-| Employees | 200,000 |
 | Corporate Number (Japan) | 1020001071491 |
 | Quora Topic Id | Fujitsu-1 |
 | Isni | 0000000417894688 |
@@ -186,13 +213,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $50.32B (50,317,000,000 United States dollar (as of 2010))
-- $1.27B (1,270,000,000 United States dollar (as of 2018-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $50.32B | as of 2010 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $1.27B | as of 2018-01-01 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $1.01B (1,015,000,000 United States dollar (as of 2010))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.01B | as of 2010 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $1.00B (1,001,000,000 United States dollar (as of 2010))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.00B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 200,000 | - | [100K-500K](/employees_buckets/100k-500k/) |

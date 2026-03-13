@@ -2,7 +2,7 @@
 title: University of the Highlands and Islands
 slug: "university-of-the-highlands-and-islands"
 description: ""
-date: "2026-03-05T22:38:39.248846"
+date: "2026-03-13T08:56:59.192691"
 draft: false
 sectors:
   - education
@@ -20,9 +20,19 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university in Scotland
+wikidata_url: "https://www.wikidata.org/wiki/Q1470817"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1470817) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:University of the Highlands and Islands |
 | Freebase Id | /m/07spwc |
@@ -115,8 +132,10 @@ guideline_count: 1
 
 ### Revenue History
 
-- $136.88M (136,877,169 pound sterling (as of 2020))
-- $139.05M (139,049,313 pound sterling (as of 2021))
-- $131.78M (131,783,000 pound sterling (as of 2022))
-- $138.22M (138,220,897 pound sterling (as of 2023))
-- $135.33M (135,327,301 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $136.88M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $139.05M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $131.78M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $138.22M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $135.33M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |

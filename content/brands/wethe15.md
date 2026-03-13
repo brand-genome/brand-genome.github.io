@@ -2,7 +2,7 @@
 title: WeThe15
 slug: wethe15
 description: ""
-date: "2026-03-05T22:38:39.361205"
+date: "2026-03-13T08:56:59.313098"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2021
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: human rights movement
+wikidata_url: "https://www.wikidata.org/wiki/Q108417982"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q108417982) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2021](/foundation_dates/2021/) |
 | Hashtag | WeThe15 |
 | Partnership With | International Paralympic Committee |
 | X (Twitter) Username | wethe15 (as of 2021-09-15, from 2020-11-13) |
@@ -71,4 +88,3 @@ guideline_count: 1
 | Field Of Work | disability rights movement |
 | Inception | 2021 |
 | Social Media Followers | 10,234 (as of 2021-10-09), 10,466 (as of 2023-02-03) |
-| Logo Image | WeThe15logo.svg |

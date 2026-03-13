@@ -2,7 +2,7 @@
 title: Revelstoke
 slug: revelstoke
 description: ""
-date: "2026-03-05T22:38:39.743013"
+date: "2026-03-13T08:56:59.780635"
 draft: false
 sectors:
   - tourism
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1880
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +48,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - white
   - red
-  - black
   - yellow
   - green
+  - black
 typographies:
+  - helvetica
+  - times
   - impact
   - arial
-  - times
-  - helvetica
 imagery_styles:
   - photography
   - staged
   - modern
   - natural
 wikidata_description: "city in British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q1893229"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +124,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1893229) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1880](/foundation_dates/1880/) |
 | Country | Canada |
 | Coordinate Location | 50.9981, -118.196 |
 | Located In The Administrative Territorial Entity | Columbia-Shuswap Regional District |

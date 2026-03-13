@@ -2,7 +2,7 @@
 title: Adevinta
 slug: adevinta
 description: ""
-date: "2026-03-05T22:38:39.370401"
+date: "2026-03-13T08:56:59.329014"
 draft: false
 sectors:
   - software
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2018
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "World-leading Norway-based classifieds marketplace specialist"
+wikidata_url: "https://www.wikidata.org/wiki/Q97213243"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +105,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q97213243) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2018](/foundation_dates/2018/) |
 | Country | Norway |
 | Google Knowledge Graph Id | /g/11hzcx_j89 |
 | Isin | NO0010844038 |
@@ -100,7 +117,6 @@ guideline_count: 1
 | Chairperson | Orla Noonan |
 | Inception | 2018-11-09 |
 | Legal Form | aksjeselskap |
-| Logo Image | Adevinta-logo.svg |
 | Norwegian Organisation Number | 921796226 |
 | Crunchbase Organization Id | adevinta |
 | Opencorporates Id | no/921796226 |

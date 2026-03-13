@@ -2,7 +2,7 @@
 title: Odessa
 slug: odessa
 description: ""
-date: "2026-03-05T22:38:39.452761"
+date: "2026-03-13T08:56:59.403662"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,24 @@ years:
 languages:
   - russian
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1881
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,15 +52,17 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - red
   - yellow
+  - red
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Ector and Midland counties in Texas, United States, that is county seat of Ector County"
+wikidata_url: "https://www.wikidata.org/wiki/Q128361"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -78,6 +90,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q128361) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1881](/foundation_dates/1881/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Ector County, Midland County |
 | Coordinate Location | 31.863333333333, -102.36555555556 |

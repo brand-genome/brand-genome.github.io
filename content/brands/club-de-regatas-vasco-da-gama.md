@@ -2,7 +2,7 @@
 title: Club de Regatas Vasco da Gama
 slug: "club-de-regatas-vasco-da-gama"
 description: ""
-date: "2026-03-05T22:38:39.168638"
+date: "2026-03-13T08:56:59.099670"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1898
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,13 +56,15 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "sports club based in Rio de Janeiro, Brazil"
+wikidata_url: "https://www.wikidata.org/wiki/Q5014111"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +110,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5014111) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1898](/foundation_dates/1898/) |
 | Home Venue | Estádio São Januário |
 | League Or Competition | Campeonato Brasileiro Série A |
 | Freebase Id | /m/019mcm |

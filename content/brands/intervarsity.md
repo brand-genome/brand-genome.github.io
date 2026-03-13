@@ -2,7 +2,7 @@
 title: InterVarsity
 slug: intervarsity
 description: ""
-date: "2026-03-05T22:38:39.762634"
+date: "2026-03-13T08:56:59.811659"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - madison
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q54857538"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54857538) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Madison](/headquarters_locations/madison/) |
 | Charity Navigator Id (Obsolete) | 3905 |
 | Country | United States |
 | Irs Employer Identification Number | 36-2171714 |
@@ -73,16 +91,31 @@ guideline_count: 1
 | Tiktok Username | intervarsityusa |
 | Youtube Channel Id | UCxlJLtY85dfhc1lZHyoWZqw (as of 2025-01-19, from 2012-11-29) |
 | Facebook Username | intervarsityusa |
-| Total Assets | 48,192,553 United States dollar (as of 2012), 56,187,599 United States dollar (as of 2013), 59,058,489 United States dollar (as of 2014), 68,349,141 United States dollar (as of 2015), 66,239,982 United States dollar (as of 2016) (+4 more) |
 
 ### Revenue History
 
-- $95.52M (95,515,801 United States dollar (as of 2017-01-01))
-- $110.90M (110,901,167 United States dollar (as of 2019))
-- $100.65M (100,645,438 United States dollar (as of 2018))
-- $78.41M (78,410,126 United States dollar (as of 2012))
-- $93.07M (93,067,580 United States dollar (as of 2013))
-- $87.80M (87,799,208 United States dollar (as of 2014))
-- $98.24M (98,235,153 United States dollar (as of 2015))
-- $100.40M (100,402,443 United States dollar (as of 2016))
-- $104.44M (104,436,067 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $95.52M | as of 2017-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $110.90M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $100.65M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $78.41M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $93.07M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $87.80M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $98.24M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $100.40M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $104.44M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $48.19M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $56.19M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $59.06M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $68.35M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $66.24M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $64.70M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $64.93M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $67.15M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $66.47M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

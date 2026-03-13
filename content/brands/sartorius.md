@@ -2,7 +2,7 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-03-05T22:38:39.552787"
+date: "2026-03-13T08:56:59.474538"
 draft: false
 sectors:
   - biotech
@@ -15,17 +15,28 @@ languages:
   - english
 tags:
   - science
-  - featured
   - corporate
+  - featured
 industries:
-  - "precision-engineering-and-optical-industry"
   - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
   - "pharmaceutical-industry"
+  - "precision-engineering-and-optical-industry"
 countries:
   - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - gottingen
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +55,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
   - vertical
 brand_colors:
   - white
-  - black
   - yellow
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: German technology company specializing in equipment and services for the biopharmaceutical industry
+wikidata_url: "https://www.wikidata.org/wiki/Q175835"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,10 +104,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q175835) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Gottingen](/headquarters_locations/gottingen/) |
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Freebase Id | /m/03d4tx_, /m/0cqdpj8 |
 | Headquarters Location | Göttingen |
 | Inception | 1870-01-01 |
-| Logo Image | Sartorius.svg (until 2020-02-17), Sartorius-Logo-2020.svg (from 2020-02-17) |
 | Legal Form | Aktiengesellschaft |
 | Isin | DE0007165607, DE0007165631 |
 | Isni | 0000000406461043 |

@@ -2,7 +2,7 @@
 title: Boart Longyear
 slug: "boart-longyear"
 description: ""
-date: "2026-03-05T22:38:39.784068"
+date: "2026-03-13T08:56:59.836365"
 draft: false
 sectors:
   - "mining-extraction"
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "500M-1B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "south-jordan"
+  - "salt-lake-city"
+subsidiaries: []
+foundation_dates:
+  - 1888
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "company in South Jordan, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q4931470"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4931470) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [South Jordan](/headquarters_locations/south-jordan/); [Salt Lake City](/headquarters_locations/salt-lake-city/) |
+| Foundation Date | [1888](/foundation_dates/1888/) |
 | Country | United States |
 | Inception | 1888 |
 | Headquarters Location | Salt Lake City, South Jordan |
@@ -71,6 +92,11 @@ guideline_count: 1
 | Ror Id | 01qzakp85 |
 | Described At Url | http://www.fundinguniverse.com/company-histories/boart-longyear-company-history/ |
 | Freebase Id | /m/0bh8hzm |
-| Market Capitalization | 905,516,467 Australian dollar (as of 2021-11-18) |
 | Stock Exchange | Australian Securities Exchange (from 2007-04-05) |
 | Official Name | BOART LONGYEAR GROUP LTD |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $905.52M | as of 2021-11-18 | [500M-1B](/market_cap_buckets/500m-1b/) |

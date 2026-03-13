@@ -2,7 +2,7 @@
 title: Dallas Cowboys
 slug: "dallas-cowboys"
 description: ""
-date: "2026-03-05T22:38:39.489174"
+date: "2026-03-13T08:56:59.420892"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - frisco
+subsidiaries: []
+foundation_dates:
+  - 1960
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,23 +49,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
 brand_colors:
-  - "pantone-19"
   - grey
-  - silver
   - navy
+  - green
+  - silver
   - "pantone-14"
   - "pantone-15"
-  - green
+  - "pantone-19"
 typographies: []
 imagery_styles: []
 wikidata_description: American football team
+wikidata_url: "https://www.wikidata.org/wiki/Q204862"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +104,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q204862) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Frisco](/headquarters_locations/frisco/) |
+| Foundation Date | [1960](/foundation_dates/1960/) |
 | Home Venue | AT&T Stadium (from 2009) |
 | Country | United States |
 | Part Of | NFC East |
@@ -120,7 +139,6 @@ guideline_count: 1
 | Mascot | Rowdy |
 | Topic Has Template | Template:Dallas Cowboys,  |
 | Social Media Followers | 3,963,205 (as of 2021-01-06), 3,936,965 (as of 2020-04-25), 222,000 (as of 2021-07-03), 4,159,020 (as of 2022-03-02), 277,000 (as of 2022-03-17) (+5 more) |
-| Logo Image | Dallas Cowboys.svg |
 | Sportslogos.Net Team Id | 165 |
 | X Topic Id | 689566298049683458 |
 | National Library Of Israel J9U Id | 987007335183505171 |

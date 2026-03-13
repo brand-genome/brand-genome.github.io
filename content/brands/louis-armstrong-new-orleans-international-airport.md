@@ -2,7 +2,7 @@
 title: Louis Armstrong New Orleans International Airport
 slug: "louis-armstrong-new-orleans-international-airport"
 description: ""
-date: "2026-03-05T22:38:39.092164"
+date: "2026-03-13T08:56:59.047783"
 draft: false
 sectors:
   - airline
@@ -13,14 +13,23 @@ years:
 languages:
   - english
 tags:
-  - airport
   - aeronautic
+  - airport
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,32 +49,34 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - "pantone-7728"
-  - "pantone-4205"
-  - "pantone-7625"
-  - "pantone-1225"
-  - pink
-  - "pantone-503"
   - gray
+  - "pantone-7728"
+  - pink
   - "pantone-7452"
+  - "pantone-503"
+  - "pantone-7625"
+  - "pantone-4205"
+  - "pantone-1225"
 typographies:
   - serif
   - trebuchet
   - "sans-serif"
 imagery_styles:
-  - bold
   - dynamic
   - modern
+  - bold
 wikidata_description: "airport near New Orleans, LA, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1461076"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +123,10 @@ guideline_count: 1
 - Partnering with other brands requires equal visual weight to preserve Louis Armstrong Airport’s identity.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1461076) |
 
 | Property | Value |
 |----------|-------|

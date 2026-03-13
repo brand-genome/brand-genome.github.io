@@ -2,7 +2,7 @@
 title: "Climate & Clean Air Coalition"
 slug: "climate-clean-air-coalition"
 description: ""
-date: "2026-03-05T22:38:39.646175"
+date: "2026-03-13T08:56:59.574595"
 draft: false
 sectors:
   - ngo
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - abuja
+subsidiaries: []
+foundation_dates:
+  - 2019
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +51,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - white
   - "pantone-645"
 typographies:
-  - brandon
   - helvetica
+  - brandon
 imagery_styles:
+  - vibrant
   - bold
   - photography
-  - vibrant
 wikidata_description: Air pollution and climate organization
+wikidata_url: "https://www.wikidata.org/wiki/Q130711170"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +132,12 @@ CCAC brand maintains spacing including leading guidelines clearly outlined.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q130711170) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Abuja](/headquarters_locations/abuja/) |
+| Foundation Date | [2019](/foundation_dates/2019/) |
 | Country | Nigeria |
 | Headquarters Location | Abuja |
 | Inception | 2019 |

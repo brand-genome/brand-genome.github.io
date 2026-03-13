@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-03-05T22:38:39.520790"
+date: "2026-03-13T08:56:59.455704"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "colorado-springs"
+subsidiaries: []
+foundation_dates:
+  - 1921
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,34 +49,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - mascot
   - primary
+  - mascot
   - secondary
 brand_colors:
   - white
   - red
-  - "pantone-304"
-  - "pantone-123"
-  - "pantone-367"
-  - black
-  - yellow
   - "pantone-485"
   - blue
-  - "pantone-428"
-  - gray
-  - "pantone-275"
+  - yellow
+  - "pantone-367"
+  - "pantone-304"
   - green
+  - black
+  - gray
+  - "pantone-428"
+  - "pantone-275"
+  - "pantone-123"
 typographies:
-  - gotham
   - montserrat
+  - gotham
 imagery_styles:
-  - bold
   - gradient
+  - bold
 wikidata_description: national governing body for figure skating
+wikidata_url: "https://www.wikidata.org/wiki/Q4071524"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +125,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4071524) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Colorado Springs](/headquarters_locations/colorado-springs/) |
+| Foundation Date | [1921](/foundation_dates/1921/) |
 | Sport | figure skating |
 | Country | United States |
 | Affiliation | International Skating Union (from 1923) |

@@ -2,7 +2,7 @@
 title: "Embry-Riddle Aeronautical University"
 slug: "embry-riddle-aeronautical-university"
 description: ""
-date: "2026-03-05T22:38:39.788572"
+date: "2026-03-13T08:56:59.839027"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - aeronautic
   - education
   - university
-  - aeronautic
 industries:
   - "higher-education"
 countries:
@@ -24,6 +24,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - prescott
+  - "daytona-beach"
+subsidiaries: []
+foundation_dates:
+  - 1926
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "largest, fully accredited university system specializing in aviation and aerospace"
+wikidata_url: "https://www.wikidata.org/wiki/Q3052113"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3052113) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Prescott](/headquarters_locations/prescott/); [Daytona Beach](/headquarters_locations/daytona-beach/) |
+| Foundation Date | [1926](/foundation_dates/1926/) |
 | Country | United States |
 | Member Of | Oak Ridge Associated Universities, LIGO Scientific Collaboration, Scholarly Publishing and Academic Resources Coalition, Council on Governmental Relations |
 | Freebase Id | /m/01x3x1 |
@@ -95,7 +116,6 @@ guideline_count: 1
 | Named After | T. Higbee Embry, John Paul Riddle |
 | Count Of Students | 13,904 (as of 2020-09), 17,764 (as of 2021-09-01) |
 | Endowment | 2,850,000 United States dollar (as of 2020-06-30), 229,076,000 United States dollar (as of 2022-06-30), 240,254,000 United States dollar (as of 2021-06-30) |
-| Employees | 893 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | erau |
@@ -115,7 +135,12 @@ guideline_count: 1
 | Industry | higher education |
 | Tiktok Username | embryriddle |
 | Arwu University Id | embry-riddle-aeronautical-university |
-| Logo Image | ERAU.svg |
 | ‎Yale Lux Id | group/02453137-598a-41aa-91af-ab5ea1bacc2d |
 | Youtube Channel Id | UC-kUm4YcPJhB6Y1CXae98ZA (as of 2025-09-21, from 2009-04-27) |
 | Athletics Program | Embry–Riddle Eagles |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 893 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

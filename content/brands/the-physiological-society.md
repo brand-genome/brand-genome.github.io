@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-03-05T22:38:39.422060"
+date: "2026-03-13T08:56:59.383570"
 draft: false
 sectors:
-  - research
-  - ngo
   - publishing
+  - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,16 +15,27 @@ years:
 languages:
   - english
 tags:
-  - science
-  - community
   - biology
+  - community
+  - science
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1876
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,16 +54,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
-  - wordmark
   - icon
   - primary
+  - abstract
+  - wordmark
 brand_colors:
   - white
-  - cyan
-  - black
   - blue
   - green
+  - cyan
+  - black
 typographies:
   - avenir
   - arial
@@ -60,10 +71,12 @@ imagery_styles:
   - abstract
   - flat
 wikidata_description: learned society for physiologists in the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q7757011"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +124,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7757011) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1876](/foundation_dates/1876/) |
 | Country | United Kingdom |
 | Inception | 1876 |
 | Field Of Work | physiology |
@@ -136,7 +154,6 @@ guideline_count: 1
 | Charity Commission No. | 211585 (from 1962-09-28) |
 | Legal Form | charitable organization, private company limited by guarantee |
 | Donations | 44,000 pound sterling (as of 2018), 11,000 pound sterling (as of 2022), 3,000 pound sterling (as of 2023), 174,000 pound sterling (as of 2024) |
-| Employees | 23 (as of 2016), 24 (as of 2018), 25 (as of 2020), 27 (as of 2019) |
 | Number Of Volunteers | 617 (as of 2019), 571 (as of 2020), 200 (as of 2018), 100 (as of 2016), 700 (as of 2024) |
 | Archives At | Wellcome Library |
 | Topic'S Main Category |  |
@@ -146,12 +163,23 @@ guideline_count: 1
 
 ### Revenue History
 
-- $4.21M (4,205,000 pound sterling (as of 2016))
-- $4.74M (4,742,000 pound sterling (as of 2018))
-- $5.14M (5,136,000 pound sterling (as of 2017))
-- $4.45M (4,452,000 pound sterling (as of 2020))
-- $4.81M (4,810,000 pound sterling (as of 2019))
-- $4.13M (4,130,000 pound sterling (as of 2021))
-- $4.15M (4,153,000 pound sterling (as of 2022))
-- $4.33M (4,330,000 pound sterling (as of 2023))
-- $4.80M (4,800,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $4.21M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.74M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.14M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.45M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.81M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.13M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.15M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.33M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.80M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 23 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 24 | as of 2018 | [UNDER-100](/employees_buckets/under-100/) |
+| 25 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 27 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |

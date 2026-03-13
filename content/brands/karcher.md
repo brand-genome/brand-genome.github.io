@@ -2,7 +2,7 @@
 title: Karcher
 slug: karcher
 description: ""
-date: "2026-03-05T22:38:39.436738"
+date: "2026-03-13T08:56:59.401387"
 draft: false
 sectors:
   - "home-appliances"
@@ -20,9 +20,25 @@ industries:
 countries:
   - germany
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "pressure-washer"
+  - "battery-lawn-mower"
+  - "robotic-vacuum-cleaner"
+  - "vacuum-cleaner"
+products: []
+headquarters_locations:
+  - winnenden
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +63,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: German cleaning equipment manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q696798"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -78,16 +96,21 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q696798) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Pressure Washer](/products_or_materials_produced/pressure-washer/); [Battery Lawn Mower](/products_or_materials_produced/battery-lawn-mower/); [Robotic Vacuum Cleaner](/products_or_materials_produced/robotic-vacuum-cleaner/); [Vacuum Cleaner](/products_or_materials_produced/vacuum-cleaner/) |
+| Headquarters Location | [Winnenden](/headquarters_locations/winnenden/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Freebase Id | /m/085rqy, /m/0r8g08g |
 | Headquarters Location | Winnenden |
 | Inception | 1945-01-02 |
 | Country | Germany |
-| Logo Image | Kärcher Logo 2015.svg |
 | Legal Form | SE & Co. KGaA |
 | Quora Topic Id | Kärcher |
 | Ipv6 Routing Prefix | 2003:5a:a044::/48 |
 | Grid Id | grid.480233.e |
-| Employees | 13,500 |
 | Ror Id | 02a8gj019 |
 | Microsoft Academic Id (Discontinued) | 293732050 |
 | Product Or Material Produced | pressure washer, vacuum cleaner, robotic vacuum cleaner, battery lawn mower |
@@ -111,4 +134,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.58B (2,578,000,000 euro)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.58B | - | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13,500 | - | [10K-50K](/employees_buckets/10k-50k/) |

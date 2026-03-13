@@ -2,7 +2,7 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-03-05T22:38:39.223452"
+date: "2026-03-13T08:56:59.162311"
 draft: false
 sectors:
   - software
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2020
+  - 2021
 languages:
   - english
 tags:
@@ -25,6 +25,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+  - "one-liberty-plaza"
+subsidiaries: []
+foundation_dates:
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +61,20 @@ logo_elements:
   - signature
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies:
   - impact
 imagery_styles:
   - modern
 wikidata_description: American fully electronic stock exchange
+wikidata_url: "https://www.wikidata.org/wiki/Q82059"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q82059) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/) |
+| Foundation Date | [1971](/foundation_dates/1971/) |
 | Currency | United States dollar |
 | Topic'S Main Category | Category:Nasdaq |
 | Freebase Id | /m/05dq_ |
@@ -109,7 +129,6 @@ guideline_count: 2
 | Viaf Cluster Id | 167819206 |
 | Headquarters Location | New York City, One Liberty Plaza |
 | Inception | 1971-02-04 |
-| Logo Image | NASDAQ Logo.svg, NASDAQ Logo 1971.svg (from 1971, until 2014) |
 | Gnd Id | 6128631-X |
 | Eu Transparency Register Id | 76648765687-29 |
 | Facebook Username | NASDAQ |

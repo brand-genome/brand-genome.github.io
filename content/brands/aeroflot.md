@@ -2,7 +2,7 @@
 title: Aeroflot
 slug: aeroflot
 description: ""
-date: "2026-03-05T22:38:39.810200"
+date: "2026-03-13T08:56:59.874524"
 draft: false
 sectors:
   - airline
@@ -13,18 +13,33 @@ years:
 languages:
   - english
 tags:
-  - airline
   - transport
+  - airline
 industries:
-  - "air-cargo"
   - "air-transport"
+  - "air-cargo"
 countries: []
 revenue_buckets:
-  - "500b-1t"
+  - "500B-1T"
 operating_income_buckets:
-  - "50b-100b"
+  - "50B-100B"
 net_profit_buckets:
-  - "50b-100b"
+  - "50B-100B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "500B-1T"
+total_equity_buckets:
+  - "50B-100B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 1923
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: flag carrier of Russia
+wikidata_url: "https://www.wikidata.org/wiki/Q58707"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +84,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q58707) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [1923](/foundation_dates/1923/) |
 | Country | Russia (from 1991-12-25) |
 | Iata Airline Designator | SU |
 | Icao Airline Designator | AFL |
@@ -96,19 +119,14 @@ guideline_count: 1
 | Airline Accounting Code | 555 |
 | De Agostini Id | Aeroflot |
 | Instagram Username | aeroflot |
-| Logo Image | Aeroflot Russian Airlines logo (ru).svg, Aeroflot Russian Airlines logo (en).svg, Logo of Aeroflot Russian Airlines.svg |
 | Proleksis Enciklopedija Id | 7004 |
 | Described At Url | http://www.fundinguniverse.com/company-histories/aeroflot-soviet-airlines-history/ |
 | Image | Aeroflot, VQ-BFY, Airbus A350-941 (51273117500).jpg, Moscow, Arbat 12-10.JPG |
-| Total Assets | 933,318,000,000 Russian ruble (as of 2019), 967,820,000,000 Russian ruble (as of 2018), 1,016,204,000,000 Russian ruble (as of 2020), 1,109,450,000,000 Russian ruble (as of 2021) |
-| Total Equity | -61,621,000,000 Russian ruble (as of 2018), 1,950,000,000 Russian ruble (as of 2019), -115,346,000,000 Russian ruble (as of 2020), -146,438,000,000 Russian ruble (as of 2021) |
 | Legal Form | open joint-stock company, public joint-stock company |
 | Social Media Followers | 183,064 (as of 2021-01-02), 184,576 (as of 2020-04-18), 29,500 (as of 2021-07-04), 178,204 (as of 2022-01-27), 175,752 (as of 2023-02-05) (+3 more) |
 | Airline Hub | Sheremetyevo International Airport, Krasnoyarsk International Airport |
 | Airline Alliance | SkyTeam |
 | Child Organization Or Unit | Pobeda, Rossiya |
-| Market Capitalization | 176,400,000,000 Russian ruble |
-| Employees | 30,328 (as of 2019) |
 | Industry | air cargo, air transport |
 | Location Of Formation | Moscow |
 | Youtube Channel Id | UCMuK5ZOPRLqXIDRF-F2JiLQ (as of 2021-05-17, from 2012-07-17) |
@@ -152,21 +170,57 @@ guideline_count: 1
 
 ### Revenue History
 
-- $611.57B (611,570,000,000 Russian ruble (as of 2018))
-- $677.88B (677,881,000,000 Russian ruble (as of 2019))
-- $302.18B (302,182,000,000 Russian ruble (as of 2020))
-- $491.73B (491,733,000,000 Russian ruble (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $611.57B | as of 2018 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $677.88B | as of 2019 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $302.18B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $491.73B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $60.74B (60,736,000,000 Russian ruble (as of 2018))
-- $60.66B (60,663,000,000 Russian ruble (as of 2019))
-- $92.15B (-92,153,000,000 Russian ruble (as of 2020))
-- $5.01B (-5,015,000,000 Russian ruble (as of 2021))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $60.74B | as of 2018 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $60.66B | as of 2019 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $92.15B | as of 2020 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $5.01B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $54.36B (-54,361,000,000 Russian ruble (as of 2018))
-- $10.65B (10,649,000,000 Russian ruble (as of 2019))
-- $123.21B (-123,208,000,000 Russian ruble (as of 2020))
-- $34.46B (-34,460,000,000 Russian ruble (as of 2021))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $54.36B | as of 2018 | [50B-100B](/net_profit_buckets/50b-100b/) |
+| $10.65B | as of 2019 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $123.21B | as of 2020 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $34.46B | as of 2021 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 30,328 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $933.32B | as of 2019 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $967.82B | as of 2018 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $1.02T | as of 2020 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.11T | as of 2021 | [OVER-1T](/total_assets_buckets/over-1t/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $61.62B | as of 2018 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $1.95B | as of 2019 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $115.35B | as of 2020 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $146.44B | as of 2021 | [100B-500B](/total_equity_buckets/100b-500b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $176.40B | - | [100B-500B](/market_cap_buckets/100b-500b/) |

@@ -2,7 +2,7 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-03-05T22:38:39.213230"
+date: "2026-03-13T08:56:59.151061"
 draft: false
 sectors:
   - software
@@ -14,18 +14,29 @@ years:
 languages:
   - english
 tags:
-  - app
   - music
   - internet
+  - app
   - featured
 industries: []
 countries:
   - france
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,33 +55,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
   - lockup
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
   - red
+  - blue
+  - yellow
+  - green
   - teal
   - magenta
-  - yellow
-  - blue
-  - green
 typographies:
   - gotham
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
+  - bold
   - monochrome
 wikidata_description: "French web-based music and podcast streaming service"
+wikidata_url: "https://www.wikidata.org/wiki/Q602243"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,12 +141,16 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q602243) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Freebase Id | /m/03c2ckd |
 | Founded By | Daniel Marhely |
 | Main Wikidata Property | Deezer artist ID, Deezer album ID, Deezer track ID, Deezer show ID |
 | Inception | 2007-08-22 |
 | Quora Topic Id | Deezer |
-| Logo Image | Deezer logo, 2023.svg (from 2023), Deezer logo 2007.svg (from 2007, until 2019), Deezer logo 2019.svg (from 2019, until 2023) |
 | Alexa Rank | 1,169 (as of 2017-11-29) |
 | Search Formatter Url | https://www.deezer.com/search/$1 |
 | Youtube Channel Id | UCCNfaRhDzSezq7BJ9J40laQ (as of 2020-12-05, from 2009-11-06) |
@@ -163,20 +180,29 @@ guideline_count: 2
 | Operator |  (from 2022),  (from 2009, until 2022) |
 | Domain Name | deezer.com |
 | Distribution Map | Availability of Deezer in the World.svg |
-| Employees | 602 (as of 2023) |
 | Subreddit | deezer |
 | Legal Form | société anonyme |
 
 ### Revenue History
 
-- $400.02M (400,020,000 euro (as of 2021))
-- $379.19M (379,190,000 euro (as of 2020))
-- $381.01M (381,010,000 euro (as of 2019))
-- $541.70M (541,700,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $400.02M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $379.19M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $381.01M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $541.70M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $123.26M (-123,260,000 euro (as of 2021))
-- $95.36M (-95,360,000 euro (as of 2020))
-- $83.10M (-83,100,000 euro (as of 2019))
-- $59.34M (-59,339,000 euro (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $123.26M | as of 2021 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $95.36M | as of 2020 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $83.10M | as of 2019 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $59.34M | as of 2015 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 602 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |

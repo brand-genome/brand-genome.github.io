@@ -2,7 +2,7 @@
 title: Big Brothers Big Sisters
 slug: "big-brothers-big-sisters"
 description: ""
-date: "2026-03-05T22:38:39.356663"
+date: "2026-03-13T08:56:59.308635"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tampa
+subsidiaries: []
+foundation_dates:
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +58,23 @@ brand_colors:
   - green
   - black
 typographies:
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - bold
+  - natural
+  - clean
+  - dramatic
+  - professional
   - photography
   - graphic
-  - professional
-  - dramatic
-  - clean
-  - natural
+  - bold
 wikidata_description: youth mentoring organization
+wikidata_url: "https://www.wikidata.org/wiki/Q858605"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q858605) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tampa](/headquarters_locations/tampa/) |
+| Foundation Date | [1904](/foundation_dates/1904/) |
 | Viaf Cluster Id | 138431556 |
 | Country | United States |
 | Freebase Id | /m/022x76 |
@@ -117,22 +137,41 @@ guideline_count: 1
 | Social Media Followers | 17,156 (as of 2021-01-04), 17,074 (as of 2020-06-16), 17,705 (as of 2022-01-27), 18,081 (as of 2023-02-07) |
 | Donations | 6,685,533 United States dollar (as of 2019), 60,697,426 United States dollar (as of 2022), 17,856,426 United States dollar (as of 2021), 39,408,111 United States dollar (as of 2023), 36,353,625 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
-| Total Assets | 57,197,424 United States dollar (as of 2022), 21,265,631 United States dollar (as of 2021), 58,389,150 United States dollar (as of 2023), 28,549,373 United States dollar (as of 2011), 23,155,070 United States dollar (as of 2012) (+8 more) |
 | Linkedin Company Or Organization Id | 7171 |
 | ‎Yale Lux Id | group/71794d6e-df5d-4736-add2-4b1172e33ed4 |
 
 ### Revenue History
 
-- $23.17M (23,166,256 United States dollar (as of 2017-01-01))
-- $29.57M (29,569,222 United States dollar (as of 2020))
-- $16.83M (16,828,381 United States dollar (as of 2019))
-- $26.85M (26,849,615 United States dollar (as of 2018))
-- $66.65M (66,648,076 United States dollar (as of 2022))
-- $23.31M (23,309,310 United States dollar (as of 2021))
-- $47.21M (47,205,552 United States dollar (as of 2023))
-- $37.49M (37,490,036 United States dollar (as of 2011))
-- $27.57M (27,572,739 United States dollar (as of 2012))
-- $16.79M (16,789,830 United States dollar (as of 2013))
-- $20.68M (20,679,324 United States dollar (as of 2014))
-- $15.01M (15,009,246 United States dollar (as of 2015))
-- $17.09M (17,087,691 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $23.17M | as of 2017-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $29.57M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $16.83M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $26.85M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $66.65M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $23.31M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $47.21M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $37.49M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.57M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $16.79M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $20.68M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $15.01M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $17.09M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $57.20M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $21.27M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $58.39M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $28.55M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.16M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.93M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.83M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.11M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $13.28M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.73M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.88M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.42M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.73M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

@@ -2,7 +2,7 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-03-05T22:38:39.600818"
+date: "2026-03-13T08:56:59.543252"
 draft: false
 sectors:
   - "arts-culture"
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,18 +57,20 @@ brand_colors:
   - white
   - red
   - gold
-  - teal
-  - black
   - purple
+  - black
+  - teal
 typographies:
   - "century-gothic"
   - times
 imagery_styles: []
 wikidata_description: independent charity
+wikidata_url: "https://www.wikidata.org/wiki/Q159661"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q159661) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Topic'S Main Category | Category:British Academy of Film and Television Arts |
 | Freebase Id | /m/012yx2 |
 | Inception | 1947 |
@@ -129,7 +149,6 @@ guideline_count: 1
 | Charity Commission No. | 216726 (from 1963-10-15) |
 | Legal Form | charitable organization |
 | Donations | 368,000 pound sterling (as of 2016), 273,000 pound sterling (as of 2017), 7,130,000 pound sterling (as of 2018), 6,947,000 pound sterling (as of 2020), 5,380,000 pound sterling (as of 2019) (+4 more) |
-| Employees | 142 (as of 2016), 139 (as of 2017), 127 (as of 2020), 140 (as of 2019), 193 (as of 2023) (+1 more) |
 | Crunchbase Organization Id | bafta |
 | Topic Has Template | Template:BAFTA |
 | Treccani Id | bafta |
@@ -150,12 +169,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $13.96M (13,960,000 pound sterling (as of 2016))
-- $14.96M (14,960,000 pound sterling (as of 2017))
-- $22.45M (22,453,000 pound sterling (as of 2018))
-- $17.74M (17,737,000 pound sterling (as of 2020))
-- $20.52M (20,523,000 pound sterling (as of 2019))
-- $17.01M (17,008,000 pound sterling (as of 2021))
-- $24.98M (24,982,000 pound sterling (as of 2022))
-- $25.89M (25,888,000 pound sterling (as of 2023))
-- $29.31M (29,313,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.96M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $14.96M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $22.45M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $17.74M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $20.52M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $17.01M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $24.98M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $25.89M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $29.31M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 142 | as of 2016 | [100-1K](/employees_buckets/100-1k/) |
+| 139 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |
+| 127 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 140 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 193 | as of 2023 | [100-1K](/employees_buckets/100-1k/) |
+| 215 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |

@@ -2,7 +2,7 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-03-05T22:38:39.594487"
+date: "2026-03-13T08:56:59.535266"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -22,9 +22,22 @@ countries:
   - iceland
   - netherlands
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - rotterdam
+  - reykjavik
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +60,19 @@ logo_elements:
   - primary
 brand_colors:
   - white
+  - green
   - blue
   - orange
-  - green
 typographies:
   - helvetica
 imagery_styles: []
 wikidata_description: logistics company from the Netherlands
+wikidata_url: "https://www.wikidata.org/wiki/Q16424911"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,12 +112,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16424911) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rotterdam](/headquarters_locations/rotterdam/); [Reykjavik](/headquarters_locations/reykjavik/) |
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Quora Topic Id | Samskip |
 | Country | Iceland, Netherlands |
 | Headquarters Location | Reykjavík, Rotterdam |
 | Google Knowledge Graph Id | /g/11clsy8f1j |
-| Logo Image | Samskip logo.jpg |
-| Employees | 1,450 (as of 2022) |
 | Inception | 1990 |
 | Eu Vat Number | NL001571734B01 |
 | Kvk Company Id | 24139799 |
@@ -113,4 +132,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $800.00M (800,000,000 euro (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $800.00M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,450 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |

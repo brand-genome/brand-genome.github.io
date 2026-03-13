@@ -2,7 +2,7 @@
 title: ATL
 slug: atl
 description: ""
-date: "2026-03-05T22:38:39.312964"
+date: "2026-03-13T08:56:59.255075"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "megami-tensei"
+products: []
+headquarters_locations:
+  - tokyo
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,26 +52,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - icon
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - violet
   - red
   - blue
+  - violet
   - silver
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese video game company
+wikidata_url: "https://www.wikidata.org/wiki/Q780528"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -98,12 +112,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q780528) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Megami Tensei](/products_or_materials_produced/megami-tensei/) |
+| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Freebase Id | /m/0260p2 |
 | Industry | video game industry |
 | Topic'S Main Category | Category:Atlus |
 | Parent Organization Or Unit | , Sega Sammy Holdings |
 | Headquarters Location | Tokyo, Tokyo |
-| Logo Image | Atlus logo (2014).svg |
 | Inception | 2013 |
 | X (Twitter) Username | Atlus_jp (as of 2020-04-25, from 2009-11-18), Atlus_West (as of 2020-06-16, from 2009-01-26) |
 | Location Of Formation | Shinagawa |

@@ -2,7 +2,7 @@
 title: Ryerson University
 slug: "ryerson-university"
 description: ""
-date: "2026-03-05T22:38:39.518756"
+date: "2026-03-13T08:56:59.447216"
 draft: false
 sectors:
   - education
@@ -20,9 +20,22 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - toronto
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,18 +58,20 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - blue
   - gold
+  - blue
 typographies:
   - impact
 imagery_styles:
   - photography
   - graphic
 wikidata_description: "public research university located in Toronto, Ontario, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q611723"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +124,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q611723) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Toronto](/headquarters_locations/toronto/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Country | Canada |
 | Topic'S Main Category | Category:Toronto Metropolitan University |
 | Freebase Id | /m/0gf14 |
@@ -131,7 +152,6 @@ guideline_count: 1
 | Category For Employees Of The Organization | Category:Academic staff of Toronto Metropolitan University |
 | Qs World University Id | ryerson-university |
 | U Multirank University Id | ryerson-university |
-| Logo Image | TMU logo.svg (from 2022), Ryerson University Logo.svg, Ryerson Polytechnical Institute,Toronto (5609624170).jpg |
 | Owner Of | Maple Leaf Gardens, George Vari Engineering and Computing Centre, Sheldon & Tracy Levy Student Learning Centre, Chrysalis, Kerr Hall (+4 more) |
 | Musicbrainz Place Id | 7498fa09-30a0-4975-92f5-cd1edc85bc1f |
 | Microsoft Academic Id (Discontinued) | 530967 |
@@ -177,33 +197,87 @@ guideline_count: 1
 | Canadiana Name Authority Id | ncf10522802 |
 | Nukat Id | n2019041921 |
 | Rilm Id | 287613 |
-| Employees | 3,200 (as of 2003), 3,231 (as of 2004), 3,309 (as of 2005), 3,652 (as of 2006), 3,965 (as of 2007) (+17 more) |
-| Total Assets | 407,679,000 Canadian dollar (as of 2003), 468,120,000 Canadian dollar (as of 2004), 559,692,000 Canadian dollar (as of 2005), 584,996,000 Canadian dollar (as of 2006), 629,255,000 Canadian dollar (as of 2007) (+17 more) |
 | Donations | 11,719,837 Canadian dollar (as of 2003), 12,773,753 Canadian dollar (as of 2004), 9,091,201 Canadian dollar (as of 2005), 7,593,086 Canadian dollar (as of 2006), 13,200,912 Canadian dollar (as of 2007) (+17 more) |
 | Organisation Tax Status | charitable organization in Canada |
 | Cra Program Account Number | 119130383RR0001 |
 
 ### Revenue History
 
-- $246.88M (246,878,000 Canadian dollar (as of 2003))
-- $292.56M (292,556,000 Canadian dollar (as of 2004))
-- $303.46M (303,464,000 Canadian dollar (as of 2005))
-- $326.64M (326,640,000 Canadian dollar (as of 2006))
-- $371.37M (371,368,630 Canadian dollar (as of 2007))
-- $390.98M (390,981,000 Canadian dollar (as of 2008))
-- $438.54M (438,542,000 Canadian dollar (as of 2009))
-- $448.95M (448,952,000 Canadian dollar (as of 2010))
-- $472.84M (472,844,000 Canadian dollar (as of 2011))
-- $505.79M (505,791,000 Canadian dollar (as of 2012))
-- $540.57M (540,565,000 Canadian dollar (as of 2013))
-- $579.73M (579,727,000 Canadian dollar (as of 2014))
-- $621.33M (621,329,000 Canadian dollar (as of 2015))
-- $660.12M (660,116,000 Canadian dollar (as of 2016))
-- $701.12M (701,125,000 Canadian dollar (as of 2017))
-- $777.60M (777,599,000 Canadian dollar (as of 2018))
-- $792.11M (792,106,000 Canadian dollar (as of 2019))
-- $833.17M (833,170,000 Canadian dollar (as of 2020))
-- $925.03M (925,030,000 Canadian dollar (as of 2021))
-- $1.02B (1,015,185,000 Canadian dollar (as of 2022))
-- $1.02B (1,018,839,000 Canadian dollar (as of 2023))
-- $1.03B (1,027,160,000 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $246.88M | as of 2003 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $292.56M | as of 2004 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $303.46M | as of 2005 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $326.64M | as of 2006 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $371.37M | as of 2007 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $390.98M | as of 2008 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $438.54M | as of 2009 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $448.95M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $472.84M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $505.79M | as of 2012 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $540.57M | as of 2013 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $579.73M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $621.33M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $660.12M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $701.12M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $777.60M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $792.11M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $833.17M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $925.03M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.02B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.02B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.03B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,200 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,231 | as of 2004 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,309 | as of 2005 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,652 | as of 2006 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,965 | as of 2007 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,178 | as of 2008 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,165 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,638 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,906 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,271 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,578 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,822 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,709 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,940 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,200 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,532 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,972 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,955 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,914 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,404 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,907 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,816 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $407.68M | as of 2003 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $468.12M | as of 2004 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $559.69M | as of 2005 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $585.00M | as of 2006 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $629.25M | as of 2007 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $720.90M | as of 2008 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $75.64M | as of 2009 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $808.38M | as of 2010 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $856.74M | as of 2011 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $942.06M | as of 2012 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.39B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.46B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.53B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.52B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.71B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.97B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.00B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.78B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.08B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.24B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.35B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.47B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

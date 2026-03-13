@@ -2,7 +2,7 @@
 title: Room to Read
 slug: "room-to-read"
 description: ""
-date: "2026-03-05T22:38:39.206258"
+date: "2026-03-13T08:56:59.143233"
 draft: false
 sectors:
   - education
@@ -11,22 +11,34 @@ sectors:
 regions:
   - usa
 years:
-  - 2016
   - 2023
+  - 2016
 languages:
   - english
 tags:
   - education
-  - featured
   - ngo
+  - featured
 industries:
   - education
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,34 +57,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - signature
-  - wordmark
+  - secondary
+  - primary
   - vertical
+  - wordmark
 brand_colors:
   - white
-  - orange
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - black
+  - orange
 typographies:
+  - helvetica
   - impact
   - arial
-  - helvetica
 imagery_styles:
-  - bold
+  - natural
   - photography
   - vibrant
   - colorful
-  - natural
+  - bold
 wikidata_description: "American non-profit focused on literacy"
+wikidata_url: "https://www.wikidata.org/wiki/Q13920"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,6 +142,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13920) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/0262gxb |
 | Viaf Cluster Id | 152658222 |
 | Inception | 2000 |
@@ -157,20 +177,39 @@ guideline_count: 2
 | Linkedin Company Or Organization Id | room-to-read |
 | Facebook Username | roomtoread |
 | ‎Yale Lux Id | group/ed64abdd-b508-4def-a128-cb9ccfd0b1e9 |
-| Total Assets | 25,725,235 United States dollar (as of 2011), 19,297,448 United States dollar (as of 2012), 20,699,629 United States dollar (as of 2013), 22,622,753 United States dollar (as of 2014), 23,470,782 United States dollar (as of 2015) (+8 more) |
 
 ### Revenue History
 
-- $59.84M (59,837,695 United States dollar (as of 2019))
-- $54.20M (54,196,876 United States dollar (as of 2018))
-- $53.93M (53,928,945 United States dollar (as of 2017))
-- $59.35M (59,353,421 United States dollar (as of 2022))
-- $87.85M (87,854,551 United States dollar (as of 2021))
-- $64.67M (64,674,142 United States dollar (as of 2023))
-- $44.22M (44,219,233 United States dollar (as of 2011))
-- $39.59M (39,590,230 United States dollar (as of 2012))
-- $42.82M (42,818,802 United States dollar (as of 2013))
-- $42.43M (42,425,251 United States dollar (as of 2014))
-- $44.24M (44,239,922 United States dollar (as of 2015))
-- $44.68M (44,679,630 United States dollar (as of 2016))
-- $61.95M (61,954,261 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $59.84M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $54.20M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $53.93M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $59.35M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $87.85M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $64.67M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $44.22M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $39.59M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $42.82M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $42.43M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $44.24M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $44.68M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $61.95M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $25.73M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $19.30M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.70M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $22.62M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.47M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $21.54M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $24.22M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $29.74M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $36.17M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $51.35M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $79.94M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $72.68M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $74.19M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |

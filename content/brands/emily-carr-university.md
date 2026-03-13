@@ -2,7 +2,7 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-03-05T22:38:39.753522"
+date: "2026-03-13T08:56:59.794587"
 draft: false
 sectors:
   - education
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - university
   - design
+  - university
 industries: []
 countries:
   - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vancouver
+subsidiaries: []
+foundation_dates:
+  - 1925
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
-  - secondary
   - stacked
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - "pantone-4625"
   - white
   - "pantone-7546"
+  - "pantone-8423"
+  - "pantone-422"
+  - silver
+  - black
   - "pantone-305"
   - "pantone-8420"
-  - "pantone-8423"
-  - "pantone-4625"
-  - black
-  - silver
   - "pantone-3955"
-  - "pantone-422"
 typographies:
   - arial
 imagery_styles:
   - bold
 wikidata_description: art school
+wikidata_url: "https://www.wikidata.org/wiki/Q1337587"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1337587) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/) |
+| Foundation Date | [1925](/foundation_dates/1925/) |
 | Coordinate Location | 49.267735, -123.094129 |
 | Topic'S Main Category | Category:Emily Carr University of Art and Design |
 | Freebase Id | /m/051d9w |
@@ -130,7 +149,6 @@ guideline_count: 1
 | Street Address | 520 E 1st Ave, Vancouver, British Columbia V5T 1A7 |
 | Postal Code | V5T 1A7 |
 | Member Of | Universities Canada, Digital Research Alliance of Canada, BC Libraries Cooperative |
-| Logo Image | ECUAD-Logo RGB.svg |
 | Open Funder Registry Funder Id | 100012966 |
 | Official Map Url | https://www.ecuad.ca/about/visit/campus-maps |
 | Snarc Id | Q49466 |

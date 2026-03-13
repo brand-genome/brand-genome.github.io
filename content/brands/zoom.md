@@ -2,7 +2,7 @@
 title: Zoom
 slug: zoom
 description: ""
-date: "2026-03-05T22:38:39.357282"
+date: "2026-03-13T08:56:59.309275"
 draft: false
 sectors:
   - software
@@ -14,18 +14,30 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries:
   - "video-conference"
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets:
-  - "1m-10m"
+  - "1M-10M"
 net_profit_buckets:
-  - "1m-10m"
+  - "1M-10M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-jose"
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company responsible for the Zoom software
+wikidata_url: "https://www.wikidata.org/wiki/Q17460900"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,17 +82,21 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17460900) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Jose](/headquarters_locations/san-jose/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Headquarters Location | San Jose |
 | Country | United States |
 | Inception | 2011-04-21 |
-| Logo Image | Zoom Communications Logo.svg |
 | Quora Topic Id | Zoom-Video-Communications |
 | Stock Exchange | Nasdaq (from 2019-04-18) |
 | Founded By | Eric S. Yuan |
 | Chief Executive Officer | Eric S. Yuan (from 2011) |
 | X (Twitter) Username | zoom_us (from 2012-03-13) |
 | Facebook Username | zoomvideocommunications |
-| Employees | 2,000 (as of 2019) |
 | Omni Topic Id | d56f7238-0e1d-49ad-a1dc-ff2b3652ed33 |
 | Freebase Id | /m/011c8m4f |
 | Isin | US98980L1017 |
@@ -112,27 +130,39 @@ guideline_count: 1
 
 ### Revenue History
 
-- $151.48M (151,478,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $330.52M (330,517,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $622.66M (622,658,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $2.65B (2,651,368,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $4.10B (4,099,864,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $4.39B (4,392,960,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $151.48M | as of 2017, from 2017-02-01, until 2018-01-31 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $330.52M | as of 2018, from 2018-02-01, until 2019-01-31 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $622.66M | as of 2019, from 2019-02-01, until 2020-01-31 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $2.65B | as of 2020, from 2020-02-01, until 2021-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.10B | as of 2021, from 2021-02-01, until 2022-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.39B | as of 2022, from 2022-02-01, until 2023-01-31 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $4.83M (-4,833,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $6.17M (6,167,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $12.70M (12,696,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $659.85M (659,848,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $1.06B (1,063,591,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $245.43M (245,429,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $4.83M | as of 2017, from 2017-02-01, until 2018-01-31 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $6.17M | as of 2018, from 2018-02-01, until 2019-01-31 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $12.70M | as of 2019, from 2019-02-01, until 2020-01-31 | [10M-100M](/operating_income_buckets/10m-100m/) |
+| $659.85M | as of 2020, from 2020-02-01, until 2021-01-31 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.06B | as of 2021, from 2021-02-01, until 2022-01-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $245.43M | as of 2022, from 2022-02-01, until 2023-01-31 | [100M-500M](/operating_income_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $3.82M (-3,822,000 United States dollar (as of 2017, from 2017-02-01, until 2018-01-31))
-- $7.58M (7,584,000 United States dollar (as of 2018, from 2018-02-01, until 2019-01-31))
-- $25.30M (25,305,000 United States dollar (as of 2019, from 2019-02-01, until 2020-01-31))
-- $672.32M (672,316,000 United States dollar (as of 2020, from 2020-02-01, until 2021-01-31))
-- $1.38B (1,375,639,000 United States dollar (as of 2021, from 2021-02-01, until 2022-01-31))
-- $103.71M (103,711,000 United States dollar (as of 2022, from 2022-02-01, until 2023-01-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $3.82M | as of 2017, from 2017-02-01, until 2018-01-31 | [1M-10M](/net_profit_buckets/1m-10m/) |
+| $7.58M | as of 2018, from 2018-02-01, until 2019-01-31 | [1M-10M](/net_profit_buckets/1m-10m/) |
+| $25.30M | as of 2019, from 2019-02-01, until 2020-01-31 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $672.32M | as of 2020, from 2020-02-01, until 2021-01-31 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.38B | as of 2021, from 2021-02-01, until 2022-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $103.71M | as of 2022, from 2022-02-01, until 2023-01-31 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,000 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,11 +2,11 @@
 title: Allegiant
 slug: allegiant
 description: ""
-date: "2026-03-05T22:38:39.752888"
+date: "2026-03-13T08:56:59.792000"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - enterprise
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: United States based low cost airline
+wikidata_url: "https://www.wikidata.org/wiki/Q1319601"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1319601) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Enterprise](/headquarters_locations/enterprise/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Country | United States |
 | Item Operated | Airbus A320 family, Boeing 757, McDonnell Douglas MD-80/MD-90 family |
 | Iata Airline Designator | G4 |
@@ -86,7 +105,6 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | allegiant-air |
 | Legal Entity Identifier | 549300JM9OZXOHWL2K18 |
 | Crunchbase Organization Id | allegiant-travel |
-| Logo Image | Allegiant Air logo.svg |
 | Industry | civil aviation |
 | Parent Organization Or Unit | Allegiant Travel Company |
 | Legal Form |  |

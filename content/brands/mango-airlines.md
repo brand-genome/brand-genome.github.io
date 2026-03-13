@@ -2,7 +2,7 @@
 title: Mango Airlines
 slug: "mango-airlines"
 description: ""
-date: "2026-03-05T22:38:40.029151"
+date: "2026-03-13T08:57:00.040670"
 draft: false
 sectors:
   - airline
@@ -16,246 +16,338 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings:
+  - natural
   - studio
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - "background-as-frame"
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
+  - "background-as-frame"
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - "sunset-colors"
+  - "aquatic-colors"
   - "complementary-colors"
-  - "galaxy-colors"
-  - "analogous-colors"
-  - "pastel-colors"
+  - "two-tone"
   - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - "galaxy-colors"
+  - grayscale
+  - dark
   - light
   - bright
-  - dark
-  - "aquatic-colors"
 photography_genres:
-  - seascape
+  - "event-photography"
+  - product
+  - resort
+  - promotional
+  - "graphic-design"
   - audience
   - selfie
-  - beach
-  - resort
-  - landscape
-  - promotional
-  - nature
-  - food
-  - product
-  - industrial
-  - lifestyle
-  - interior
-  - illustration
-  - street
-  - advertising
-  - architectural
-  - sports
-  - candid
-  - action
-  - "live-stage"
-  - group
-  - urban
-  - fashion
-  - sky
-  - advertisement
-  - event
-  - bridal
   - cityscape
-  - typography
-  - "graphic-design"
-  - portrait
-  - beauty
-  - "event-photography"
-  - "still-life"
+  - seascape
+  - "live-stage"
+  - street
+  - sports
   - adventure
+  - sky
+  - fashion
+  - group
+  - advertising
+  - advertisement
   - travel
+  - typography
+  - beauty
+  - portrait
+  - nature
+  - landscape
+  - interior
+  - bridal
+  - food
+  - illustration
+  - urban
+  - candid
+  - "still-life"
+  - industrial
+  - architectural
+  - event
+  - action
+  - beach
+  - lifestyle
 concepts:
   - advertisement
-  - cartoon
   - "text-heavy"
-  - illustration
   - "travel-promotion"
-  - vintage
-  - typography
-  - "graphic-design"
-  - advertising
   - "incomplete-art"
-  - promotional
+  - illustration
   - photorealism
+  - typography
+  - cartoon
+  - promotional
+  - "graphic-design"
+  - vintage
   - promotion
+  - advertising
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
-image_effects:
-  - "neutral-density-filter"
+  - "partly-focused-subject"
+  - "close-up-shot"
   - "bright-focal-point"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "motion-capture"
-  - asymmetry
-  - "long-exposure"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
+image_effects:
   - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "bright-focal-point"
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
-  - "off-white"
-  - olive
-  - orange
   - cream
-  - black
+  - olive
   - "dark-brown"
-  - "light-blue"
+  - black
+  - orange
   - gray
+  - "light-blue"
+  - "off-white"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - "pulled-back"
-  - neat
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - "tied-back"
-  - varied
   - covered
-facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
-  - focused
-  - contemplative
-clothing_styles:
+  - updo
+  - neat
+  - "pulled-back"
   - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - professional
-  - costume
+  - short
+  - loose
+  - flowing
+  - varied
+  - ponytail
+  - "tied-back"
+  - wavy
+  - curly
+  - braided
+facial_expressions:
+  - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
+  - contemplative
+  - content
+clothing_styles:
   - formal
+  - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - professional
+  - "form-fitting"
   - protective
   - swimwear
-  - traditional
-  - "business-casual"
-clothing_colors:
-  - vibrant
-  - muted
   - business
-  - neutral
-  - beachwear
-  - monochrome
-  - earthy
-  - colorful
+  - costume
+clothing_colors:
   - formal
+  - beachwear
   - pastel
+  - neutral
+  - monochrome
+  - vibrant
+  - colorful
+  - earthy
+  - business
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
   - running
   - stretching
+  - active
+  - leaning
+  - walking
   - confident
-gazes:
   - engaged
-  - away
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
   - "hand-only"
-  - "head-shot"
+  - "lower-half"
   - midsection
   - "full-back"
-  - "lower-half"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q3047750"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 181
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/Em0WGxiXMAUDbEJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmYKDnSXYAAd3MA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiHSfBPWAAAXjg4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhsrHrlXkAA8yJ4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egf-w95UYAAHk4w?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeFBQzEWAAEZfyb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EajXN1-XsAIhUbQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZVyXZuWoAAXhvQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EXP7ryQWkAEuvqz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWRorY1XkAAXdOO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWIN1JfWoAA7_lD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERn_LXhX0AAqZ2J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQuGO_3UwAEm4u_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EO6uaHkW4AYMrjt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EOyNjolX0AA3JqZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EN63GpEXkAEVjlO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EM9LpzHWsAI7OAX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKfeymkWkAApVTy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKdjkI7WkAAQlCN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKcB5EaWkAA9JHD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKYvC28X0AAZp2i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKK4a58WoAgMc3Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJt6e-LX0AABlB1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJYihSYXUAEfZSk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJFL8iXX0AAbzlW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJEnQBMWsAIrs3_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI6TewRW4AA9xvZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EInt9yKXkAEYqv7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIltHv2XUAENDtS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIZKbGfWkAAaR7q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHUjqEEWsAADFzI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHTuVMzXUAAMtmY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHD26gAXkAAxvcr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEFUHR-XoAAaIKN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EB7IIHrWkAA2bNu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EBR7YOzXkAEkC-P?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EBHoM42WkAAPR65?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAI-MQ-WwAAWYRf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D__h8V3WsAE-5RC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_f7atZXsAAt44Z?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_BE5jyXoAA_B60?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D-ngnWIXoAADbeu?format=png&name=large"
+  - "https://pbs.twimg.com/media/D9-Xz_lW4AEuyAJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9kpCFsXYAAxdJZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9Z4JBVXkAArmKk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D83W96bWkAEwKie?format=png&name=large"
+  - "https://pbs.twimg.com/media/D8nPOHxV4AgaQy2?format=png&name=large"
+  - "https://pbs.twimg.com/media/D8eZpG4X4AAlXiz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8c8y0AXkAAKzL0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8Ci2T0XUAUsr22?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7-CeP4W4AAV2Bg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7549FmXYAAf78Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7kSh9AW0AARbsD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7jbpEGWkAY5Lnd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D66O4BSWkAAtKm-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6ge-SfWwAEPrMs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5yImxNXoAA8YIj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1xBISzWwAE043s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzQ-ePjX0AAdnDr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzCZ-a1W0AAr6Hk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dy96O7_WkAAGlDQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyoU_RRWsAAPV3B?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyYWWHsX0AA8JhA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DyFSqTwXQAAyfeG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwnNch4XgAAqzJZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtAXUAaWoAM_1o6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ds6mff9XcAEgB2L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DssiMGvXoAEh3AV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dp3QN7KW4AA74HM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DptmVTxXgAAr6eK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dpep_YdXgAAKe3L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoAg2r4XgAEiGle?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkPygM1X0AAXlvt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjrFvNuW4AIv7GS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhVm5h5XkAA8Eah?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiSxLhAWAAAEug5?format=png&name=large"
+  - "https://pbs.twimg.com/media/DfbZgF1X4AA_uUp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DegRAR8WsAI_9Ru?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdUwrGLX4AEPGyk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdUvbgvWsAEN93C?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdQOZYbX4AADE9R?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 181 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Orange | 43.2% | 29.9% | 15.7% | 74.7% | 92.0% | ±32.7% | 69.1% |
-| Light Blue | 28.9% | 26.6% | 10.4% | 45.4% | 50.2% | ±20.2% | 24.3% |
-| Black | 24.3% | 23.6% | 13.4% | 32.2% | 39.3% | ±14.9% | 53.0% |
-| Dark Brown | 18.3% | 14.7% | 10.3% | 22.4% | 34.8% | ±11.3% | 36.5% |
-| Cream | 18.2% | 9.7% | 7.8% | 33.9% | 42.4% | ±15.2% | 11.0% |
-| Gray | 16.6% | 12.9% | 8.9% | 19.3% | 33.2% | ±10.6% | 37.6% |
-| Off White | 16.6% | 11.5% | 9.0% | 19.3% | 26.9% | ±13.2% | 14.4% |
-| Olive | 14.6% | 13.2% | 8.5% | 15.3% | 20.5% | ±9.3% | 19.3% |
+| Color | Mean |
+|-------|------|
+| Orange | 43.2% |
+| Light Blue | 28.9% |
+| Black | 24.3% |
+| Dark Brown | 18.3% |
+| Cream | 18.2% |
+| Gray | 16.6% |
+| Off White | 16.6% |
+| Olive | 14.6% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 33.0% | 20.3% | 7.7% | 58.1% | ±33.2% |
-| Neutral | 49.1% | 45.7% | 15.1% | 80.5% | ±34.1% |
-| Cool | 17.9% | 0% | 0.0% | 24.3% | ±28.2% |
+| Tone | Mean |
+|------|------|
+| Warm | 33.0% |
+| Neutral | 49.1% |
+| Cool | 17.9% |
 
 ### Sample Images
 

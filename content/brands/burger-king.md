@@ -2,7 +2,7 @@
 title: Burger King
 slug: "burger-king"
 description: ""
-date: "2026-03-05T22:38:39.282642"
+date: "2026-03-13T08:56:59.224406"
 draft: false
 sectors:
   - restaurant
@@ -20,10 +20,43 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "quesadilla-cu-pui-si-branza-cheddar"
+  - cheeseburger
+  - "burger-king-chicken-nuggets"
+  - apple
+  - "salata-greceasca-cu-branza-feta"
+  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
+  - "soft-drink"
+  - "cartofi-dulci-prajiti-cu-sos-picant"
+  - whopper
+  - "supa-crema-de-rosii-cu-busuioc"
+  - fries
+  - hamburger
+  - "hot-dog"
+  - salad
+  - "tacos-cu-creveti-si-salsa-de-avocado"
+  - "milkshake-de-vanilie-cu-sos-de-caramel"
+  - "big-king"
+  - "bk-chicken-fries"
+  - "crispy-chicken-burger-king"
+  - dessert
+  - "whopper-picant-cu-jalapenos"
+products: []
+headquarters_locations:
+  - "miami-dade-county"
+subsidiaries: []
+foundation_dates:
+  - 1956
+  - 1954
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +79,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "global chain of hamburger fast food restaurants headquartered in Florida, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q177054"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +100,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q177054) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Quesadilla Cu Pui Si Branza Cheddar](/products_or_materials_produced/quesadilla-cu-pui-si-branza-cheddar/); [Cheeseburger](/products_or_materials_produced/cheeseburger/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Apple](/products_or_materials_produced/apple/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Desert Mousse De Ciocolata Cu Fructe De Padure](/products_or_materials_produced/desert-mousse-de-ciocolata-cu-fructe-de-padure/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Whopper](/products_or_materials_produced/whopper/); [Supa Crema De Rosii Cu Busuioc](/products_or_materials_produced/supa-crema-de-rosii-cu-busuioc/); [Fries](/products_or_materials_produced/fries/); [Hamburger](/products_or_materials_produced/hamburger/); +9 more |
+| Headquarters Location | [Miami Dade County](/headquarters_locations/miami-dade-county/) |
+| Foundation Date | [1956](/foundation_dates/1956/); [1954](/foundation_dates/1954/) |
 | Viaf Cluster Id | 132616942 |
 | Imdb Id | co0101846 |
 | Topic'S Main Category | Category:Burger King |
@@ -77,7 +119,6 @@ guideline_count: 1
 | Location Of Formation | Miami |
 | Parent Organization Or Unit | Restaurant Brands International, QSRP, Groupe Bertrand |
 | Product Or Material Produced | hamburger, fries, soft drink, hot dog, dessert (+46 more) |
-| Logo Image | Burger King 2020.svg (from 2020-12-21), Burger King logo (1994–1999).svg (from 1994-04-30, until 1999-07-01), Burger King 1969 logo.svg (from 1969-05-01, until 1994-04-30), Burger King logo (1999–2020).svg (from 1999-07-01, until 2020-12-21), Burger King 2020 (circle).svg (from 2020) |
 | Facebook Username | burgerking, BurgerKingSouthAfrica, BK.EGYPT, burgerkingcotedivoire, BurgerKingGh (+104 more) |
 | Legal Entity Identifier | 54930058TQK6DLGVFI77, 549300EA6A3Z2G47TI15 |
 | Quora Topic Id | Burger-King-fast-food-chain |
@@ -158,8 +199,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.97B (1,970,000,000 United States dollar (as of 2012))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.97B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $117.70M (117,700,001 United States dollar (as of 2012))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $117.70M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |

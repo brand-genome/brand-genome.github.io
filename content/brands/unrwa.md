@@ -2,11 +2,11 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-03-05T22:38:39.460822"
+date: "2026-03-13T08:56:59.404994"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -17,11 +17,29 @@ tags:
   - ngo
 industries: []
 countries:
-  - jordan
   - palestine
+  - jordan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - microcredit
+  - "public-works"
+  - "social-services"
+  - "health-care"
+  - education
+  - "emergency-service"
+products: []
+headquarters_locations:
+  - "gaza-city"
+  - amman
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,13 +62,15 @@ brand_colors: []
 typographies:
   - "century-gothic"
 imagery_styles:
-  - colorful
   - photography
+  - colorful
 wikidata_description: "United Nations agency founded in 1949, whose stated purpose is to help and protect Palestinian refugees"
+wikidata_url: "https://www.wikidata.org/wiki/Q846656"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +114,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q846656) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Microcredit](/products_or_materials_produced/microcredit/); [Public Works](/products_or_materials_produced/public-works/); [Social Services](/products_or_materials_produced/social-services/); [Health Care](/products_or_materials_produced/health-care/); [Education](/products_or_materials_produced/education/); [Emergency Service](/products_or_materials_produced/emergency-service/) |
+| Headquarters Location | [Gaza City](/headquarters_locations/gaza-city/); [Amman](/headquarters_locations/amman/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |
 | Viaf Cluster Id | 142614632 |
 | Nl Cr Aut Id | kn20030317001, ko2003167882 |
@@ -109,7 +136,6 @@ guideline_count: 1
 | Cantic Id (Former Scheme) | a10920572 |
 | Part Of | United Nations System |
 | Inception | 1949-12-08 |
-| Logo Image | United Nations Relief and Works Agency for Palestine Refugees in the Near East Logo.svg |
 | National Library Of Greece Id | 125385 |
 | Encyclopædia Britannica Online Id | topic/United-Nations-Relief-and-Works-Agency-for-Palestine-Refugees-in-the-Near-East |
 | Uk Parliament Thesaurus Id | 85208 |

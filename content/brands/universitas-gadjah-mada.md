@@ -2,11 +2,11 @@
 title: Universitas Gadjah Mada
 slug: "universitas-gadjah-mada"
 description: ""
-date: "2026-03-05T22:38:39.209013"
+date: "2026-03-13T08:56:59.145842"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - indonesia
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - yogyakarta
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "national university in Yogyakarta, Indonesia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1145992"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,6 +86,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1145992) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Yogyakarta](/headquarters_locations/yogyakarta/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/044zw0 |
 | Country | Indonesia |
 | Image | Gedung Pusat (Rektorat) UGM.jpg |
@@ -104,7 +123,7 @@ guideline_count: 2
 | Open Funder Registry Funder Id | 501100012521 |
 | Social Media Followers | 1,109,534 (as of 2021-02-05), 1,133,918 (as of 2022-03-01), 1,140,119 (as of 2023-02-09) |
 | Accredited By | National Accreditation Board for Higher Education (from 2017-12-27, until 2022-12-27) |
-| Email Address | mailto:setr@ugm.ac.id |
+| Email Address | setr@ugm.ac.id |
 | Phone Number | +622746492599 |
 | Indonesian College Code | 001001 |
 | Openalex Id | I165230279, P4310314959, P4327876835 |
@@ -125,7 +144,6 @@ guideline_count: 2
 | Npsn Indonesian School Id | 001001 |
 | Street Address | Bulaksumur |
 | Pddikti Higher Education Institution Id | KqOrlR0lM-hh3VbFRahckP3d13xiJnQCcDAthiVbFjnc0PR-aaeIV69Z9AKWPc2V9RAfqg== |
-| Logo Image | Logo FEB UGM.png |
 | Kisti Id | K000200372 |
 | Ranking | 254 (as of 2022), 263 (as of 2024), 231 (as of 2023), 391 (as of 2019), 320 (as of 2020) (+2 more) |
 | Arwu University Id | gadjah-mada-university |

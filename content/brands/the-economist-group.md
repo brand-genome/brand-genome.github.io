@@ -2,7 +2,7 @@
 title: The Economist Group
 slug: "the-economist-group"
 description: ""
-date: "2026-03-05T22:38:39.343893"
+date: "2026-03-13T08:56:59.297753"
 draft: false
 sectors:
   - publishing
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "the-economist"
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1843
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,30 +51,32 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
   - red
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
 typographies:
-  - georgia
-  - serif
-  - "sans-serif"
   - helvetica
+  - serif
+  - georgia
+  - "sans-serif"
 imagery_styles:
+  - illustration
   - bold
   - contemporary
-  - illustration
 wikidata_description: "media company headquartered in London, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q474153"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -115,6 +129,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q474153) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [The Economist](/products_or_materials_produced/the-economist/) |
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1843](/foundation_dates/1843/) |
 | Founded By | James Wilson |
 | Topic'S Main Category | Category:Economist Group |
 | Freebase Id | /m/06bvk_ |
@@ -129,7 +150,6 @@ guideline_count: 1
 | Nl Cr Aut Id | kn2006347984, kn2006347985 |
 | Ringgold Id | 4986 |
 | Crunchbase Organization Id | the-economist-group |
-| Logo Image | TheEconomistLogo.svg |
 | Legal Form | private company limited by shares |
 | Openalex Id | P4310321312 |
 | ‎Yale Lux Id | group/9c49552d-e95d-4439-b5f0-88cf6c1a61be |

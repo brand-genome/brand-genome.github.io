@@ -2,7 +2,7 @@
 title: Teach For America
 slug: "teach-for-america"
 description: ""
-date: "2026-03-05T22:38:39.551360"
+date: "2026-03-13T08:56:59.474201"
 draft: false
 sectors:
   - education
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q1135250"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1135250) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/04cfg3 |
 | Founded By | Wendy Kopp |
 | Headquarters Location | New York City |
@@ -132,25 +152,44 @@ guideline_count: 1
 | Legal Form | 501(c)(3) organization |
 | National Library Of Israel J9U Id | 987007314504805171 |
 | Comparably Company Id | teach-for-america |
-| Logo Image | Teach For America logo.svg |
-| Total Assets | 498,661,213 United States dollar (as of 2022), 580,511,174 United States dollar (as of 2021), 527,184,582 United States dollar (as of 2023), 372,603,252 United States dollar (as of 2011), 447,431,900 United States dollar (as of 2012) (+9 more) |
 | Linkedin Company Or Organization Id | teach-for-america |
 | ‎Yale Lux Id | group/78da8662-1dee-4687-a817-ee64efdf1f4f |
 | Influencewatch Id | non-profit/teach-for-america |
 
 ### Revenue History
 
-- $272.88M (272,880,995 United States dollar (as of 2017-01-01))
-- $273.62M (273,618,155 United States dollar (as of 2020))
-- $324.09M (324,085,991 United States dollar (as of 2019))
-- $264.00M (263,998,916 United States dollar (as of 2018))
-- $220.75M (220,748,251 United States dollar (as of 2022))
-- $252.40M (252,398,781 United States dollar (as of 2021))
-- $275.57M (275,572,075 United States dollar (as of 2023))
-- $270.47M (270,472,850 United States dollar (as of 2011))
-- $306.84M (306,840,786 United States dollar (as of 2012))
-- $196.23M (196,225,340 United States dollar (as of 2013))
-- $331.10M (331,103,489 United States dollar (as of 2014))
-- $300.44M (300,439,805 United States dollar (as of 2015))
-- $303.16M (303,158,649 United States dollar (as of 2016))
-- $221.43M (221,427,136 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $272.88M | as of 2017-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $273.62M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $324.09M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $264.00M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $220.75M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $252.40M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $275.57M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $270.47M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $306.84M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $196.23M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $331.10M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $300.44M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $303.16M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $221.43M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $498.66M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $580.51M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $527.18M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $372.60M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $447.43M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $470.47M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $493.57M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $444.45M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $402.84M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $420.05M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $436.75M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $460.15M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $456.15M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $558.17M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

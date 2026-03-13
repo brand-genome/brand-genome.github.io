@@ -2,21 +2,21 @@
 title: Motorola
 slug: motorola
 description: ""
-date: "2026-03-05T22:38:39.286619"
+date: "2026-03-13T08:56:59.229318"
 draft: false
 sectors:
-  - telecom
   - hardware
+  - telecom
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
@@ -24,6 +24,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "mobile-phone"
+products: []
+headquarters_locations:
+  - schaumburg
+subsidiaries: []
+foundation_dates:
+  - 1928
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American telecommunications company (1928–2011)
+wikidata_url: "https://www.wikidata.org/wiki/Q259011"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +85,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q259011) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Mobile Phone](/products_or_materials_produced/mobile-phone/) |
+| Headquarters Location | [Schaumburg](/headquarters_locations/schaumburg/) |
+| Foundation Date | [1928](/foundation_dates/1928/) |
 | Inception | 1928-09-25 |
 | Dissolved, Abolished Or Demolished Date | 2011-01-04 |
 | Headquarters Location | Schaumburg |
@@ -79,7 +101,6 @@ guideline_count: 2
 | Freebase Id | /m/0537b |
 | Award Received | National Medal of Technology and Innovation (as of 2004) |
 | Replaced By | Motorola Mobility (as of 2011), Motorola Solutions (as of 2011) |
-| Logo Image | Motorola-Logo.svg |
 | Founded By | Joseph Galvin, Paul Galvin |
 | Child Organization Or Unit | General Instrument, Netopia, Good Technology, Codex Corporation, Motorola (United Kingdom) (+4 more) |
 | Museum Of Modern Art Artist Id | 10979 |
@@ -90,7 +111,6 @@ guideline_count: 2
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.161 |
 | Stock Exchange | Tokyo Stock Exchange (until 2005-07-25), New York Stock Exchange |
 | The Times Of India Topic Id | Motorola |
-| Employees | 53,000 (as of 2019) |
 | Encyclopædia Britannica Online Id | topic/Motorola-Inc |
 | Usb Vendor Id | 0534 |
 | Open Funder Registry Funder Id | 100004335 |
@@ -154,3 +174,9 @@ guideline_count: 2
 | Babelnet Id | 01305100n |
 | T10 Vendor Id String | MOTOROLA |
 | ‎Gamesindustry.Biz Tag Id | companies/motorola |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 53,000 | as of 2019 | [50K-100K](/employees_buckets/50k-100k/) |

@@ -2,7 +2,7 @@
 title: Marquette Athletics
 slug: "marquette-athletics"
 description: ""
-date: "2026-03-05T22:38:39.778356"
+date: "2026-03-13T08:56:59.831288"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +47,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
-  - mascot
-  - alternate
   - secondary
+  - monogram
+  - primary
+  - alternate
+  - mascot
   - wordmark
 brand_colors:
   - white
-  - "pantone-124"
-  - gold
-  - "pantone-123"
-  - "pantone-281"
-  - black
   - blue
+  - "pantone-281"
+  - gold
+  - "pantone-124"
+  - black
+  - "pantone-123"
 typographies:
   - display
 imagery_styles:
   - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

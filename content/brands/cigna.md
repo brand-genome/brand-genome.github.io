@@ -2,11 +2,11 @@
 title: Cigna
 slug: cigna
 description: ""
-date: "2026-03-05T22:38:40.032197"
+date: "2026-03-13T08:57:00.050279"
 draft: false
 sectors:
-  - healthcare
   - insurance
+  - healthcare
 regions:
   - unknown
 years: []
@@ -17,232 +17,328 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products:
+  - "health-insurance"
+headquarters_locations:
+  - philadelphia
+  - americas
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings:
+  - natural
+  - "light-glare"
+  - colored
   - studio
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
   - "audience-perspective"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
+  - "low-angle-photo"
 image_backgrounds:
+  - transparent
+  - solid
   - wood
   - textured
-  - blurred
-  - solid
-  - transparent
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
   - "complementary-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
+  - "two-tone"
   - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - monotone
+  - grayscale
+  - light
   - bright
 photography_genres:
+  - corporate
+  - product
+  - promotional
+  - "graphic-design"
   - audience
   - selfie
-  - professional
-  - health
-  - promotional
-  - food
-  - product
-  - interior
-  - "audience-perspective"
-  - street
-  - advertising
-  - architectural
-  - sports
-  - action
-  - infographic
-  - candid
-  - group
-  - documentary
-  - "live-stage"
-  - fashion
-  - event
-  - advertisement
-  - "text-heavy"
-  - corporate
   - family
-  - "health-promotion"
-  - "graphic-design"
-  - portrait
-  - beauty
-  - business
-  - "still-life"
-concepts:
-  - professional
-  - reportage
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
-  - "incomplete-art"
   - "live-stage"
-  - photorealism
+  - sports
+  - street
+  - event
+  - professional
+  - fashion
+  - group
+  - business
+  - advertising
+  - advertisement
   - documentary
+  - health
+  - beauty
+  - portrait
+  - "text-heavy"
+  - interior
+  - food
+  - "audience-perspective"
+  - candid
+  - infographic
+  - "still-life"
+  - architectural
+  - "health-promotion"
+  - action
+concepts:
+  - documentary
+  - "text-heavy"
+  - reportage
+  - "incomplete-art"
+  - illustration
+  - professional
+  - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "live-stage"
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
+  - "short-exposure"
   - "saturated-colors"
   - "high-contrast"
+  - "low-saturation"
   - "long-exposure"
-  - "short-exposure"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - orange
-  - "dark-blue"
-  - black
-  - cyan
-  - "light-blue"
   - turquoise
+  - "dark-blue"
+  - cyan
+  - black
+  - orange
   - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - "pulled-back"
-  - varied
+  - covered
+  - graying
+  - updo
   - neat
-  - wavy
+  - "pulled-back"
+  - casual
+  - varied
   - loose
+  - flowing
+  - short
   - straight
   - ponytail
-  - braided
-  - short
-  - curly
-  - updo
-  - long
-  - graying
   - "tied-back"
-  - covered
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
   - joyful
   - engaged
-  - relaxed
   - neutral
-  - content
   - focused
+  - relaxed
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - costume
-  - protective
   - formal
-  - swimwear
-  - traditional
+  - beachwear
+  - athletic
   - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
+  - business
+  - costume
 clothing_colors:
-  - vibrant
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - active
-  - holding
-  - standing
   - running
   - stretching
+  - leaning
+  - active
+  - walking
   - confident
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
 gazes:
-  - engaged
-  - away
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
   - "hand-only"
-  - "head-shot"
+  - "lower-half"
   - midsection
   - "full-back"
-  - "lower-half"
-  - "upper-body"
+  - "head-shot"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American health services organization
+wikidata_url: "https://www.wikidata.org/wiki/Q642271"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 159
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/DwizYEFX4AAR3nB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHAUW1YW4AIl0Ik?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dy-HVfjW0AAdti1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQgvqppX0AAGyTq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpKmDrrXgAEJRBh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1920F4XQAEov2b?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgzGBO5UwAAP8oQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFPJFvuWsAEnf2b?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EBYLxJ7WsAAPmGy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqIUxA9WwAIxJTa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjxJfL-U0AAYCki?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkIszBsWAAAVH8J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUW1lXfXQAElqLR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8uNlBCXoAA7vGH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZ9zBy5X4AEEGAs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKP7AV0WoAAKOi9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoWA4hRXkAI_qbD?format=png&name=large"
+  - "https://pbs.twimg.com/media/EX-Zeq8X0AA3wWB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EktMLzrWMAY3MdU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwtxMNBVAAABFFj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dwa0ISvXQAE9g4t?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbqKSmCX4AAOUcx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dqc7JiKWkAAqhiI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da_RbEEVAAA_ml-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETZZVR2XQAEACL-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbADFiRVQAAMmIP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgMpeVFXkAE1iRV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDjFuumXoAACGEb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSsnfrNVMAAOU4r?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EgW8rnDWkAEK-xP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSthmMeW0AARdqi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DwjQj9EXcAA0v6r?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EE62eMoXsAM_k8g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDba3AzWEAwyGmO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ElauozvWkAITGEY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFaEKcAW4AAkiO4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5swgewWYAEsvyo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSuQw35VoAAqs2P?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiiLhTIWkAINXMn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzOaknmX4AE3g_7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkdKPttWkAAVybo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1GB-26XgAEjmLI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EG7nlbhWwAEZtOH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSx35GdXUAAu9Fd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYvRDI0UMAACQyD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI23zPSX0AMlREF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EO_VSZCXsAEOfMH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZsi4lMXsAY7CBp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZ8jucEX4AARpfZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8OQ5eFWkAA4VSs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbT4jq4WsAE_gHi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_hYiiSWkAAWCij?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5pnTmwWsAUro-Y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D43iKDUW4AE08Cb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbXw56uWsAEt-ea?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8ySeJoWkAAJOOu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcNLXrxX4AAQGSe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIj4a-LWoAALcj0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaRiSzqUQAADF0A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVSE7E8VQAAfgeH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSyGTZoVAAAUH1f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECA4MyrXkAEGXoH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkLaa08UwAAAqxq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7bna1wWwAAzB5m?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9RMA9uWwAA82Jh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D6tLPFvXYAAAggH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfF9uCsU0AEBLpG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DtlT0-_XQAA_Zqu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaqbuZSUMAAYqv6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHaifgHWwAIBnSD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiZFhQeVQAACJ0X?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8YwRoFXYAEa_pH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EOQtRe1W4AEOa4R?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dm5Yk7WU0AAceuV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUhMkToXkAEZo0j?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dzyor_DWkAYKX7d?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjLhSw7WsAAzY-F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EOWjSNwWkAMV5N3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2gYvE1XgAIlqyX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ee15L8MX0AA-P_j?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 159 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Turquoise | 38.7% | 48.5% | 17.0% | 53.7% | 57.8% | ±18.8% | 17.0% |
-| White | 29.4% | 23.5% | 15.3% | 35.0% | 59.1% | ±19.5% | 53.5% |
-| Black | 28.7% | 23.3% | 14.6% | 36.3% | 51.1% | ±19.1% | 59.7% |
-| Dark Blue | 23.4% | 15.3% | 11.0% | 25.9% | 58.2% | ±20.5% | 40.3% |
-| Cyan | 22.1% | 15.5% | 9.7% | 23.2% | 45.1% | ±18.6% | 10.1% |
-| Light Blue | 21.1% | 12.9% | 9.7% | 27.4% | 43.2% | ±16.4% | 30.2% |
-| Gray | 20.8% | 16.3% | 9.9% | 25.4% | 46.3% | ±14.0% | 33.3% |
-| Orange | 18.5% | 14.0% | 9.7% | 21.1% | 35.4% | ±13.2% | 25.8% |
+| Color | Mean |
+|-------|------|
+| Turquoise | 38.7% |
+| White | 29.4% |
+| Black | 28.7% |
+| Dark Blue | 23.4% |
+| Cyan | 22.1% |
+| Light Blue | 21.1% |
+| Gray | 20.8% |
+| Orange | 18.5% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 7.8% | 0% | 0.0% | 11.7% | ±13.0% |
-| Neutral | 63.8% | 67.9% | 44.0% | 86.4% | ±26.8% |
-| Cool | 28.3% | 20.9% | 0.0% | 50.6% | ±27.7% |
+| Tone | Mean |
+|------|------|
+| Warm | 7.8% |
+| Neutral | 63.8% |
+| Cool | 28.3% |
 
 ### Sample Images
 
@@ -352,11 +448,17 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q642271) |
+
+| Property | Value |
+|----------|-------|
+| Product | [Health Insurance](/products/health-insurance/) |
+| Headquarters Location | [Philadelphia](/headquarters_locations/philadelphia/); [Americas](/headquarters_locations/americas/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Country | United States |
 | Headquarters Location | Philadelphia, Americas |
 | Inception | 1982 |
 | Industry | managed care |
-| Employees | 73,800 (as of 2021) |
 | Part Of | S&P 500 (from 1976-06-30) |
 | Legal Form | S.A. |
 | Stock Exchange | New York Stock Exchange |
@@ -369,11 +471,21 @@ guideline_count: 0
 
 ### Revenue History
 
-- $48.65B (48,650,000,000 United States dollar (as of 2018))
-- $153.57B (153,566,000,000 United States dollar (as of 2019))
-- $160.40B (160,401,000,000 United States dollar (as of 2020))
-- $174.08B (174,078,000,000 United States dollar (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $48.65B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $153.57B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $160.40B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $174.08B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Net Profit History
 
-- $5.40B (5,400,000,000 United States dollar)
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $5.40B | - | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 73,800 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |

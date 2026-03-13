@@ -2,7 +2,7 @@
 title: Austrian Airlines
 slug: "austrian-airlines"
 description: ""
-date: "2026-03-05T22:38:39.286096"
+date: "2026-03-13T08:56:59.228416"
 draft: false
 sectors:
   - airline
@@ -13,18 +13,30 @@ years:
 languages:
   - english
 tags:
-  - airline
-  - vintage
-  - featured
   - aeronautic
+  - vintage
+  - airline
+  - featured
 industries: []
 countries:
   - austria
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - schwechat
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Austrian flag carrier airline
+wikidata_url: "https://www.wikidata.org/wiki/Q781770"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q781770) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Schwechat](/headquarters_locations/schwechat/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Country | Austria |
 | Airline Hub | Wien-Schwechat Airport |
 | Airline Alliance | Star Alliance |
@@ -87,7 +107,6 @@ guideline_count: 1
 | Commons Gallery | Austrian Airlines |
 | Eu Transparency Register Id | 983474516327-48 |
 | Quora Topic Id | Austrian-Airlines |
-| Logo Image | Austrian Airlines Logo 2018.svg |
 | Ipv6 Routing Prefix | 2a01:190:15f8::/48 |
 | Uses | AMOS |
 | Merchant Category Code | 3051 |
@@ -104,7 +123,6 @@ guideline_count: 1
 | Facebook Username | AustrianAirlines |
 | Instagram Username | austrianairlines |
 | X (Twitter) Username | _austrian (as of 2022-06-15, from 2010-03-02) |
-| Employees | 6,989 (as of 2019-12-31) |
 | Has Part(S) Of The Class | destination airport (as of 2020), aircraft fleet (as of 2020) |
 | Social Media Followers | 104,347 (as of 2021-01-06), 98,596 (as of 2020-04-28), 108,820 (as of 2022-02-21), 114,659 (as of 2023-02-04) |
 | Rics Company Code | 3355 (from 2014-08-28) |
@@ -125,8 +143,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.11B (2,108,000,000 euro (as of 2019-12-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.11B | as of 2019-12-31 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $15.00M (15,000,000 euro (as of 2019))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $15.00M | as of 2019 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,989 | as of 2019-12-31 | [1K-10K](/employees_buckets/1k-10k/) |

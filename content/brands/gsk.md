@@ -2,11 +2,11 @@
 title: GSK
 slug: gsk
 description: ""
-date: "2026-03-05T22:38:39.264237"
+date: "2026-03-13T08:56:59.206398"
 draft: false
 sectors:
-  - pharma
   - biotech
+  - pharma
 regions:
   - "united-kingdom"
 years:
@@ -17,13 +17,26 @@ languages:
 tags:
   - health
 industries:
-  - biotechnology
   - "pharmaceutical-industry"
+  - biotechnology
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - medication
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,18 +56,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - orange
   - grey
+  - orange
 typographies:
   - akzidenz
 imagery_styles:
   - photography
   - gradient
 wikidata_description: British multinational pharmaceutical and biotechnology company
+wikidata_url: "https://www.wikidata.org/wiki/Q212322"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,12 +116,18 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q212322) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Medication](/products_or_materials_produced/medication/) |
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Headquarters Location | London |
 | Follows | Glaxo Wellcome, Block Drug, Norcliff Thayer |
 | Topic'S Main Category | Category:GSK plc |
 | Freebase Id | /m/01bbm7 |
 | Stock Exchange | New York Stock Exchange, London Stock Exchange |
-| Employees | 97,921, 99,541 (as of 2013), 99,300 (as of 2016) |
 | Chief Executive Officer | Andrew Witty (from 2008-05-21, until 2017-03-31), Jean-Pierre Garnier (from 2000-12, until 2008-05), Emma Walmsley (from 2017-04) |
 | Inception | 2000-12-27 |
 | Image | GlaxoSmithKline Headquarters on the Great West Road in Brentford - panoramio.jpg |
@@ -191,3 +212,11 @@ guideline_count: 2
 | Wikirate Company Id | 44808 |
 | Bluesky Handle | gsk.bsky.social |
 | The Guardian Topic Id | business/glaxosmithkline |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 97,921 | - | [50K-100K](/employees_buckets/50k-100k/) |
+| 99,541 | as of 2013 | [50K-100K](/employees_buckets/50k-100k/) |
+| 99,300 | as of 2016 | [50K-100K](/employees_buckets/50k-100k/) |

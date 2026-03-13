@@ -2,7 +2,7 @@
 title: Boca Juniors
 slug: "boca-juniors"
 description: ""
-date: "2026-03-05T22:38:39.530153"
+date: "2026-03-13T08:56:59.463421"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "buenos-aires"
+subsidiaries: []
+foundation_dates:
+  - 1905
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: Argentine sports club
+wikidata_url: "https://www.wikidata.org/wiki/Q170703"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +97,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q170703) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Buenos Aires](/headquarters_locations/buenos-aires/) |
+| Foundation Date | [1905](/foundation_dates/1905/) |
 | Country | Argentina |
 | Home Venue | La Bombonera (from 1940-05-25), Estadio Ministro Brin y Senguel (from 1916, until 1924), Estadio Brandsen y Del Crucero (from 1924, until 1938) |
 | League Or Competition | Argentine Primera División (from 1913), Liga Nacional de Básquet, Liga de Voleibol Argentina – Serie A1 |
@@ -108,7 +127,6 @@ guideline_count: 1
 | Inception | 1905-04-03 |
 | Category For Members Of A Team | Category:Boca Juniors footballers |
 | Owner Of | La Bombonera (from 1940-05-25), Luis Conde Stadium, Passion for Boca Juniors Museum, Pedro Pompilio Complex |
-| Logo Image | Boca Juniors logo18.svg |
 | National Football Teams.Com Club Id | 56 |
 | Worldfootball.Net Team Id (Old) | boca-juniors |
 | Transfermarkt Team Id | 189 |

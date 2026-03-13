@@ -2,7 +2,7 @@
 title: Stitch Fix
 slug: "stitch-fix"
 description: ""
-date: "2026-03-05T22:38:39.681407"
+date: "2026-03-13T08:56:59.602522"
 draft: false
 sectors:
   - fashion
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,32 +51,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
+  - logomark
+  - secondary
   - primary
   - symbol
-  - icon
-  - secondary
-  - logomark
 brand_colors:
   - white
   - grey
   - blue
   - turquoise
-  - gray
   - green
+  - gray
 typographies:
   - brandon
-  - trebuchet
   - serif
+  - trebuchet
   - "gill-sans"
 imagery_styles:
-  - bold
-  - modern
   - product
+  - modern
+  - bold
 wikidata_description: online clothing company
+wikidata_url: "https://www.wikidata.org/wiki/Q18385610"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,12 +124,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18385610) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Inception | 2011 |
 | Facebook Username | stitchfix |
 | Instagram Username | stitchfix |
 | X (Twitter) Username | stitchfix (as of 2018-05-10, from 2011-07-19), stitchfix_algo (as of 2020-12-29, from 2015-05-22) |
 | Image | Stack and box fall.jpg |
-| Logo Image | Stitch fix logo.png |
 | Quora Topic Id | Stitch-Fix-company, Stitch-Fix |
 | Headquarters Location | San Francisco |
 | Industry | retail |

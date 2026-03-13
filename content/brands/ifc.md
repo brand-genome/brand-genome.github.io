@@ -2,7 +2,7 @@
 title: IFC
 slug: ifc
 description: ""
-date: "2026-03-05T22:38:39.788753"
+date: "2026-03-13T08:56:59.839272"
 draft: false
 sectors:
   - finance
@@ -15,13 +15,24 @@ languages:
 tags:
   - financial
 industries:
-  - "international-governmental-or-non-governmental-organizations"
   - "private-sector-development"
+  - "international-governmental-or-non-governmental-organizations"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: World Bank Group member financial institution
+wikidata_url: "https://www.wikidata.org/wiki/Q656801"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -94,6 +107,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q656801) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1956](/foundation_dates/1956/) |
 | Freebase Id | /m/095pd |
 | Gnd Id | 1002285-5 |
 | Library Of Congress Authority Id | n50057029, no2019099669 |
@@ -149,7 +168,6 @@ guideline_count: 1
 | Word In Dpej Of Rae Id | corporación-financiera-internacional-cfi |
 | University Of Barcelona Authority Id | 981058510361206706 |
 | Official Observer Status In Organization | World Intellectual Property Organization |
-| Logo Image | International Finance Corporation logo.svg |
 | Uia Open Yearbook Organization Website Id | 1100041215 |
 | Banq Authority Id | 0000765995 |
 | Bibsys Id | 90392984 |

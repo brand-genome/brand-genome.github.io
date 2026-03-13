@@ -2,7 +2,7 @@
 title: University College Cork
 slug: "university-college-cork"
 description: ""
-date: "2026-03-05T22:38:39.389179"
+date: "2026-03-13T08:56:59.356561"
 draft: false
 sectors:
   - university
@@ -19,9 +19,22 @@ industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cork
+subsidiaries: []
+foundation_dates:
+  - 1845
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: constituent university of the National University of Ireland
+wikidata_url: "https://www.wikidata.org/wiki/Q1574185"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1574185) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cork](/headquarters_locations/cork/) |
+| Foundation Date | [1845](/foundation_dates/1845/) |
 | Topic'S Main Category | Category:University College Cork |
 | Member Of | Utrecht Network, European University Association, European Alliance for Social Sciences and Humanities, Coalition for Advancing Research Assessment, UNIC |
 | Freebase Id | /m/0373qg |
@@ -130,20 +151,34 @@ guideline_count: 1
 | Kalliope Verbund (Gnd) Id | 260703-7 |
 | Dialnet Author Id | 2892408 |
 | ‎Yale Lux Id | group/8c5c81ef-38b5-4c2f-b02b-7c2daee28599 |
-| Total Assets | 884,310,000 euro (as of 2021), 960,257,000 euro (as of 2024) |
-| Employees | 503 (as of 2021), 3,500 (as of 2024) |
 | Instagram Username | universitycollegecork |
 | Threads Username | universitycollegecork |
 
 ### Revenue History
 
-- $375.04M (375,039,000 euro (as of 2017))
-- $364.65M (364,652,000 euro (as of 2015))
-- $346.67M (346,668,000 euro (as of 2016))
-- $433.33M (433,333,000 euro (as of 2019))
-- $418.38M (418,384,000 euro (as of 2018))
-- $424.12M (424,125,000 euro (as of 2020))
-- $435.38M (435,384,000 euro (as of 2021))
-- $452.76M (452,762,000 euro (as of 2022))
-- $479.24M (479,238,000 euro (as of 2023))
-- $533.85M (533,853,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $375.04M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $364.65M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $346.67M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $433.33M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $418.38M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $424.12M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $435.38M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $452.76M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $479.24M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $533.85M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 503 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 3,500 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $884.31M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $960.26M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

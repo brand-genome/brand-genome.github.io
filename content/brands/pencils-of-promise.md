@@ -2,7 +2,7 @@
 title: Pencils Of Promise
 slug: "pencils-of-promise"
 description: ""
-date: "2026-03-05T22:38:39.795150"
+date: "2026-03-13T08:56:59.848237"
 draft: false
 sectors:
   - education
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "1M-10M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "united-states"
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "US non-profit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q7162341"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7162341) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [United States](/headquarters_locations/united-states/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Headquarters Location | United States |
 | Inception | 2008 |
 | Founded By | Adam Braun |
@@ -80,23 +100,42 @@ guideline_count: 1
 | Legal Form | 501(c)(3) organization |
 | Uia Open Yearbook Organization Website Id | 1122280859 |
 | Country | United States |
-| Total Assets | 2,347,880 United States dollar (as of 2022), 2,961,527 United States dollar (as of 2021), 1,819,029 United States dollar (as of 2023), 1,837,873 United States dollar (as of 2011), 3,728,732 United States dollar (as of 2012) (+8 more) |
 | Tiktok Username | pencilsofpromise |
 | ‎Yale Lux Id | group/e96f99f2-4a09-46e8-a67e-87e538aec11b |
 
 ### Revenue History
 
-- $6.61M (6,611,589 United States dollar (as of 2019))
-- $6.68M (6,681,995 United States dollar (as of 2018))
-- $11.08M (11,081,303 United States dollar (as of 2017))
-- $11.08M (11,081,303 United States dollar)
-- $5.42M (5,416,234 United States dollar (as of 2022))
-- $5.03M (5,028,626 United States dollar (as of 2021))
-- $3.47M (3,470,681 United States dollar (as of 2023))
-- $2.15M (2,152,212 United States dollar (as of 2011))
-- $5.02M (5,016,495 United States dollar (as of 2012))
-- $5.04M (5,039,888 United States dollar (as of 2013))
-- $7.69M (7,691,304 United States dollar (as of 2014))
-- $7.90M (7,895,345 United States dollar (as of 2015))
-- $8.65M (8,651,759 United States dollar (as of 2016))
-- $5.35M (5,352,983 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $6.61M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.68M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $11.08M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $11.08M | - | [10M-100M](/revenue_buckets/10m-100m/) |
+| $5.42M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.03M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.47M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.15M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.02M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.04M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.69M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.90M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.65M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.35M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.35M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.96M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.82M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.84M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.73M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $3.68M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.37M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.92M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.96M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.42M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.31M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.81M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.63M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |

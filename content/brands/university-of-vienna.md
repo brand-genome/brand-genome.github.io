@@ -2,11 +2,11 @@
 title: University of Vienna
 slug: "university-of-vienna"
 description: ""
-date: "2026-03-05T22:38:39.323327"
+date: "2026-03-13T08:56:59.275610"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - austria
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vienna
+subsidiaries: []
+foundation_dates:
+  - 1365
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Vienna, Austria"
+wikidata_url: "https://www.wikidata.org/wiki/Q165980"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q165980) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vienna](/headquarters_locations/vienna/) |
+| Foundation Date | [1365](/foundation_dates/1365/) |
 | Coordinate Location | 48.213055555555556, 16.35972222222222 |
 | Country | Austria |
 | Gnd Id | 2024703-5 |
@@ -89,7 +108,6 @@ guideline_count: 1
 | Openmlol Author Id | 32814 |
 | Count Of Students | 93,628 (as of 2017-02-28) |
 | Category For Alumni Of Educational Institution | Category:University of Vienna alumni |
-| Logo Image | University of Vienna wordmark.svg, Uni Wien logo.gif |
 | Elevation Above Sea Level | 188 metre |
 | Structurae Structure Id | 20054826 |
 | Category For Employees Of The Organization | Category:Academic staff of the University of Vienna |

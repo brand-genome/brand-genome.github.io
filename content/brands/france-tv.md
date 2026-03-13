@@ -2,7 +2,7 @@
 title: France TV
 slug: "france-tv"
 description: ""
-date: "2026-03-05T22:38:39.771475"
+date: "2026-03-13T08:56:59.822524"
 draft: false
 sectors:
   - broadcasting
@@ -23,6 +23,23 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - radio
+  - television
+  - "audiovisual-production"
+  - advertising
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1992
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French public television group
+wikidata_url: "https://www.wikidata.org/wiki/Q1124861"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,15 +84,20 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1124861) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Radio](/products_or_materials_produced/radio/); [Television](/products_or_materials_produced/television/); [Audiovisual Production](/products_or_materials_produced/audiovisual-production/); [Advertising](/products_or_materials_produced/advertising/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1992](/foundation_dates/1992/); [2000](/foundation_dates/2000/) |
 | Topic'S Main Category | Category:France Télévisions |
 | Freebase Id | /m/02z__m |
 | Headquarters Location | Paris, Paris |
 | Member Of | European Broadcasting Union |
 | Inception | 1992-09-07, 2000-09-06 |
 | Eu Transparency Register Id | 31046456610-43 |
-| Logo Image | France.tv - logo 2022.svg, France.tv - Logo 2018.svg |
 | Founded By | Jack Lang, Catherine Tasca |
-| Employees | 9,050 (as of 2021) |
 | Legal Form | public limited company with a board of directors (n.o.s.) |
 | Owned By | French State |
 | Ark Name Assigning Authority Number | 50276 |
@@ -131,3 +155,9 @@ guideline_count: 1
 | Google Play Store App Id | fr.francetv.pluzz |
 | App Store App Id | 428835098 |
 | L'Humanité Topic Id | france-televisions |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 9,050 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |

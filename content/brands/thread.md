@@ -2,7 +2,7 @@
 title: Thread
 slug: thread
 description: ""
-date: "2026-03-05T22:38:39.388075"
+date: "2026-03-13T08:56:59.355647"
 draft: false
 sectors:
   - networking
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - technology
   - internet
+  - technology
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - clothing
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,32 +50,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
-  - secondary
-  - horizontal
   - logomark
+  - secondary
+  - primary
   - vertical
+  - horizontal
 brand_colors:
   - white
   - red
+  - blue
+  - green
   - orange
   - black
-  - blue
   - gray
-  - green
 typographies:
   - gotham
   - arial
 imagery_styles:
+  - illustration
   - bold
   - organic
-  - illustration
 wikidata_description: clothing website
+wikidata_url: "https://www.wikidata.org/wiki/Q7797176"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7797176) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Country | United States |
 | Product Or Material Produced | clothing |
 | Quora Topic Id | Threadless |

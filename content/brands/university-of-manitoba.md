@@ -2,7 +2,7 @@
 title: University of Manitoba
 slug: "university-of-manitoba"
 description: ""
-date: "2026-03-05T22:38:39.226063"
+date: "2026-03-13T08:56:59.168564"
 draft: false
 sectors:
   - education
@@ -15,15 +15,28 @@ languages:
   - english
 tags:
   - education
-  - featured
   - university
+  - featured
 industries: []
 countries:
   - canada
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - winnipeg
+subsidiaries: []
+foundation_dates:
+  - 1877
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Winnipeg, Manitoba, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q1191833"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +82,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1191833) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Winnipeg](/headquarters_locations/winnipeg/) |
+| Foundation Date | [1877](/foundation_dates/1877/) |
 | Coordinate Location | 49.809444444444, -97.132777777778 |
 | Topic'S Main Category | Category:University of Manitoba |
 | Freebase Id | /m/07wm6 |
@@ -141,33 +162,87 @@ guideline_count: 1
 | Nukat Id | n96015732 |
 | National Library Of Poland Mms Id | 9810599028205606 |
 | Rero Id (Legacy) | A000194662 |
-| Total Assets | 738,513,000 Canadian dollar (as of 2003), 819,178,000 Canadian dollar (as of 2004), 980,790,000 Canadian dollar (as of 2005), 1,051,307,000 Canadian dollar (as of 2006), 1,176,660,000 Canadian dollar (as of 2007) (+17 more) |
 | Donations | 7,420,000 Canadian dollar (as of 2003), 62,186,000 Canadian dollar (as of 2004), 72,463,000 Canadian dollar (as of 2005), 13,982,000 Canadian dollar (as of 2006), 79,080,000 Canadian dollar (as of 2007) (+17 more) |
-| Employees | 6,000 (as of 2003), 4,889 (as of 2004), 6,384 (as of 2005), 6,660 (as of 2006), 6,483 (as of 2007) (+17 more) |
 | Organisation Tax Status | charitable organization in Canada |
 | Cra Program Account Number | 119260669RR0001 |
 
 ### Revenue History
 
-- $497.40M (497,396,000 Canadian dollar (as of 2003))
-- $512.84M (512,839,000 Canadian dollar (as of 2004))
-- $561.65M (561,655,000 Canadian dollar (as of 2005))
-- $583.49M (583,490,000 Canadian dollar (as of 2006))
-- $603.58M (603,576,000 Canadian dollar (as of 2007))
-- $621.89M (621,893,000 Canadian dollar (as of 2008))
-- $600.03M (600,034,000 Canadian dollar (as of 2009))
-- $761.60M (761,604,000 Canadian dollar (as of 2010))
-- $785.53M (785,534,000 Canadian dollar (as of 2011))
-- $794.05M (794,054,000 Canadian dollar (as of 2012))
-- $795.71M (795,709,000 Canadian dollar (as of 2013))
-- $850.78M (850,777,000 Canadian dollar (as of 2014))
-- $864.99M (864,994,000 Canadian dollar (as of 2015))
-- $924.51M (924,506,000 Canadian dollar (as of 2016))
-- $936.35M (936,354,000 Canadian dollar (as of 2017))
-- $1.09B (1,088,444,000 Canadian dollar (as of 2018))
-- $1.04B (1,036,565,018 Canadian dollar (as of 2019))
-- $953.44M (953,437,000 Canadian dollar (as of 2020))
-- $957.10M (957,097,000 Canadian dollar (as of 2021))
-- $969.14M (969,142,000 Canadian dollar (as of 2022))
-- $1.01B (1,005,427,000 Canadian dollar (as of 2023))
-- $1.13B (1,125,644,000 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $497.40M | as of 2003 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $512.84M | as of 2004 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $561.65M | as of 2005 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $583.49M | as of 2006 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $603.58M | as of 2007 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $621.89M | as of 2008 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $600.03M | as of 2009 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $761.60M | as of 2010 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $785.53M | as of 2011 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $794.05M | as of 2012 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $795.71M | as of 2013 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $850.78M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $864.99M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $924.51M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $936.35M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.09B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.04B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $953.44M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $957.10M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $969.14M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.01B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.13B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,000 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,889 | as of 2004 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,384 | as of 2005 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,660 | as of 2006 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,483 | as of 2007 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,993 | as of 2008 | [1K-10K](/employees_buckets/1k-10k/) |
+| 6,957 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,430 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,651 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 18,238 | as of 2012 | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,789 | as of 2013 | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,720 | as of 2014 | [10K-50K](/employees_buckets/10k-50k/) |
+| 9,476 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 10,848 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 12,518 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 9,412 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,530 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,808 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,090 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,374 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,318 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 9,957 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $738.51M | as of 2003 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $819.18M | as of 2004 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $980.79M | as of 2005 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.05B | as of 2006 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.18B | as of 2007 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.30B | as of 2008 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.29B | as of 2009 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.44B | as of 2010 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.59B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.80B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.95B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.11B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.25B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.33B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.54B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.58B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.64B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.57B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.81B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.98B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.12B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.28B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: Cessna
 slug: cessna
 description: ""
-date: "2026-03-05T22:38:39.691621"
+date: "2026-03-13T08:56:59.619402"
 draft: false
 sectors:
   - aerospace
@@ -22,6 +22,24 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "cessna-208-caravan"
+  - "cessna-182-skylane"
+  - "cessna-206"
+  - "cessna-aircraft"
+  - "cessna-citation-mustang"
+  - "cessna-citation-x"
+  - "cessna-172-skyhawk"
+products: []
+headquarters_locations:
+  - wichita
+subsidiaries: []
+foundation_dates:
+  - 1927
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,13 +63,15 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: aircraft manufacturing subsidiary of Textron
+wikidata_url: "https://www.wikidata.org/wiki/Q308889"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -159,6 +179,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q308889) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/) |
+| Headquarters Location | [Wichita](/headquarters_locations/wichita/) |
+| Foundation Date | [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Cessna |
 | Freebase Id | /m/01xl5 |
 | Parent Organization Or Unit | Textron (from 1992, until 2014) |
@@ -167,7 +194,6 @@ guideline_count: 1
 | Chief Executive Officer | Jack J. Pelton (from 2003, until 2011-05-02), Scott Ernest (from 2011-05-31, until 2014) |
 | Headquarters Location | Wichita |
 | Viaf Cluster Id | 141340816 |
-| Logo Image | Cessna Logo.svg |
 | Child Organization Or Unit | Columbia Aircraft Manufacturing Corporation, McCauley Propeller Systems |
 | Industry | aviation, aerospace industry |
 | Location Of Formation | Wichita |

@@ -2,11 +2,11 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-03-05T22:38:39.507699"
+date: "2026-03-13T08:56:59.432106"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1865
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +64,12 @@ typographies:
   - verdana
 imagery_styles: []
 wikidata_description: "university in Worcester, Massachusetts"
+wikidata_url: "https://www.wikidata.org/wiki/Q195046"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +120,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q195046) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1865](/foundation_dates/1865/) |
 | Coordinate Location | 42.273488888889, -71.80735 |
 | Topic'S Main Category | Category:Worcester Polytechnic Institute |
 | Image | Wpi boytonhall.JPG |
@@ -130,7 +149,6 @@ guideline_count: 1
 | Idref Id | 031183573 |
 | Arwu University Id | Worcester-Polytechnic-Institute |
 | Qs World University Id | worcester-polytechnic-institute |
-| Logo Image | WPI wordmark.svg |
 | Microsoft Academic Id (Discontinued) | 107077323 |
 | Street Address | 100 Institute Road, Worcester, MA, 01609-2280 |
 | Library Of Congress Authority Id | n83061680 |
@@ -145,9 +163,7 @@ guideline_count: 1
 | Social Media Followers | 16,673 (as of 2021-01-06), 17,609 (as of 2022-02-26), 18,214 (as of 2023-02-02) |
 | Crunchbase Organization Id | worcester-polytechnic-institute |
 | Count Of Students | 6,920 (as of 2020-09), 6,421 (as of 2021-09-01) |
-| Total Assets | 1,164,377,000 United States dollar (as of 2020-06-30) |
 | Endowment | 505,506,000 United States dollar (as of 2020-06-30), 589,684,000 United States dollar (as of 2022-06-30), 634,544,000 United States dollar (as of 2021-06-30) |
-| Employees | 1,283 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | wpi, WPI |
@@ -173,3 +189,15 @@ guideline_count: 1
 | World Higher Education Database Id | IAU-021333 |
 | Unirank Id | 5766 |
 | Threads Username | wpi |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,283 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.16B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: WIPO
 slug: wipo
 description: ""
-date: "2026-03-05T22:38:39.797318"
+date: "2026-03-13T08:56:59.850271"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - geneva
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - abstract
 wikidata_description: specialized UN agency focused on intellectual property protection
+wikidata_url: "https://www.wikidata.org/wiki/Q177773"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +99,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q177773) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Official Language | English, French |
 | Topic'S Main Category | Category:World Intellectual Property Organization |
 | Gnd Id | 2034701-7 |
@@ -171,7 +190,6 @@ guideline_count: 1
 | National Library Of Iceland Id | 000089327 |
 | Partnership With | International Civil Aviation Organization, Asian–African Legal Consultative Organization |
 | Official Observer Status In Organization | International Organization for Migration, International Union for the Protection of New Varieties of Plants, United Nations General Assembly |
-| Logo Image | WIPO Logo.svg, World Intellectual Property Organization Logo.svg |
 | Image | World Intellectual Property Organization HQ 2004.jpg |
 | Icannwiki Page Id | WIPO |
 | Legal Form | International organisation |

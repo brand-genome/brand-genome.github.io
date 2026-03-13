@@ -2,7 +2,7 @@
 title: Wilmington College
 slug: "wilmington-college"
 description: ""
-date: "2026-03-05T22:38:39.764315"
+date: "2026-03-13T08:56:59.815154"
 draft: false
 sectors:
   - education
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +48,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - icon
   - alternate
+  - primary
   - vertical
+  - seal
 brand_colors:
   - white
   - green
   - black
 typographies: []
 imagery_styles:
-  - clean
-  - modern
   - photography
   - staged
+  - clean
+  - modern
 wikidata_description: "Private college in Wilmington, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q8022753"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +124,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8022753) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Topic'S Main Category | Category:Wilmington College (Ohio) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Wilmington |
@@ -135,7 +152,6 @@ guideline_count: 1
 | Academic Calendar Type | semester |
 | Sevis School Id | 6940 |
 | Kisti Id | K000208419 |
-| Logo Image | Wilmington college of ohio logo.svg |
 | ‎Yale Lux Id | group/9aa361c5-7b48-45c7-906c-bd23488b24cf |
 | Snarc Id | Q159568 |
 | Athletics Program | Wilmington Quakers |

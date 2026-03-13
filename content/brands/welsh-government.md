@@ -2,7 +2,7 @@
 title: Welsh Government
 slug: "welsh-government"
 description: ""
-date: "2026-03-05T22:38:39.493878"
+date: "2026-03-13T08:56:59.423062"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - cardiff
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +53,24 @@ logo_elements:
   - horizontal
 brand_colors:
   - white
-  - "pantone-1797"
   - black
+  - "pantone-1797"
 typographies:
-  - arial
   - frutiger
   - display
+  - arial
 imagery_styles:
-  - flat
-  - landscape
   - photography
   - portrait
+  - flat
+  - landscape
 wikidata_description: the executive of the Senedd
+wikidata_url: "https://www.wikidata.org/wiki/Q3112646"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3112646) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Cardiff](/headquarters_locations/cardiff/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:Welsh Government |
 | Freebase Id | /m/01wtz3 |
 | Applies To Jurisdiction | Wales |
@@ -122,7 +142,6 @@ guideline_count: 1
 | Library Of Congress Authority Id | nb2011025779 |
 | Ror Id | 000wh6t45 |
 | Viaf Cluster Id | 187200302 |
-| Employees | 5,100 |
 | Eu Participant Identification Code | 998043380 |
 | Eu Vat Number | GB888835056 |
 | Official Name | Assembly Cabinet (from 1999-05-12, until 2007-05-25), Welsh Assembly Government (from 2007-05-25, until 2015-02-17), Welsh Government (from 2015-02-17), Llywodraeth Cynulliad Cymru (from 2007-05-25, until 2015-02-17), Llywodraeth Cymru (from 2015-02-17) |
@@ -144,3 +163,9 @@ guideline_count: 1
 | Domain Name | gov.wales |
 | Official Blog Url | https://welshgovernment.blog.gov.wales/, https://llywodraethcymru.blog.llyw.cymru/ |
 | Threads Username | welshgovernment, llywodraeth |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,100 | - | [1K-10K](/employees_buckets/1k-10k/) |

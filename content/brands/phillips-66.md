@@ -2,13 +2,13 @@
 title: Phillips 66
 slug: "phillips-66"
 description: ""
-date: "2026-03-05T22:38:39.721420"
+date: "2026-03-13T08:56:59.740357"
 draft: false
 sectors:
   - petroleum
+  - gas
   - "petrol-station"
   - oil
-  - gas
 regions:
   - usa
 years:
@@ -23,10 +23,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - westchase
+subsidiaries: []
+foundation_dates:
+  - 2012
+  - 1927
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +61,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American energy and logistics company
+wikidata_url: "https://www.wikidata.org/wiki/Q1656230"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1656230) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Westchase](/headquarters_locations/westchase/) |
+| Foundation Date | [2012](/foundation_dates/2012/); [1927](/foundation_dates/1927/) |
 | Follows | Phillips Petroleum Company |
 | Freebase Id | /m/05nvkk |
 | Stock Exchange | New York Stock Exchange (from 2012-04-30) |
@@ -115,7 +135,6 @@ guideline_count: 1
 | Country | United States |
 | Owned By | Berkshire Hathaway (as of 2016-10-07), The Vanguard Group (as of 2015-09-30), State Street Global Advisors (as of 2016-10-07), BlackRock (as of 2016-10-07) |
 | Location Of Formation | Bartlesville |
-| Logo Image | Phillips 66 logo.svg |
 | Legal Entity Identifier | 549300TL5L4IG0H4FX64, RVJMT2IZVVSKIRJJBH76, 5493005JBO5YSIGK1814 |
 | Isni | 0000000121886662 |
 | Industry | petroleum industry, downstream |
@@ -147,32 +166,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $65.49B (65,494,000,000 United States dollar (as of 2020))
-- $109.56B (109,559,000,000 United States dollar (as of 2019))
-- $114.22B (114,217,000,000 United States dollar (as of 2018))
-- $114.85B (114,852,000,000 United States dollar (as of 2021))
-- $146.56B (146,561,000,000 United States dollar (as of 2010))
-- $195.93B (195,931,000,000 United States dollar (as of 2011))
-- $179.29B (179,290,000,000 United States dollar (as of 2012))
-- $171.60B (171,596,000,000 United States dollar (as of 2013))
-- $161.21B (161,212,000,000 United States dollar (as of 2014))
-- $98.97B (98,975,000,000 United States dollar (as of 2015))
-- $84.28B (84,279,000,000 United States dollar (as of 2016))
-- $102.35B (102,354,000,000 United States dollar (as of 2017))
-- $175.70B (175,702,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $65.49B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $109.56B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $114.22B | as of 2018 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $114.85B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $146.56B | as of 2010 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $195.93B | as of 2011 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $179.29B | as of 2012 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $171.60B | as of 2013 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $161.21B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $98.97B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $84.28B | as of 2016 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $102.35B | as of 2017 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $175.70B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Net Profit History
 
-- $735.00M (735,000,000 United States dollar (as of 2010))
-- $4.78B (4,775,000,000 United States dollar (as of 2011))
-- $4.12B (4,124,000,000 United States dollar (as of 2012))
-- $3.73B (3,726,000,000 United States dollar (as of 2013))
-- $4.76B (4,762,000,000 United States dollar (as of 2014))
-- $4.23B (4,227,000,000 United States dollar (as of 2015))
-- $1.55B (1,555,000,000 United States dollar (as of 2016))
-- $5.11B (5,106,000,000 United States dollar (as of 2017))
-- $5.59B (5,595,000,000 United States dollar (as of 2018))
-- $3.08B (3,076,000,000 United States dollar (as of 2019))
-- $3.98B (-3,975,000,000 United States dollar (as of 2020))
-- $1.32B (1,317,000,000 United States dollar (as of 2021))
-- $11.02B (11,024,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $735.00M | as of 2010 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $4.78B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.12B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.73B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.76B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.23B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.55B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.11B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.59B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.08B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.98B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.32B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $11.02B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |

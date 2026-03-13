@@ -2,7 +2,7 @@
 title: The Nippon Foundation
 slug: "the-nippon-foundation"
 description: ""
-date: "2026-03-05T22:38:39.599811"
+date: "2026-03-13T08:56:59.542065"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - minato
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,20 +50,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - green
 typographies: []
 imagery_styles:
-  - landscape
   - portrait
+  - landscape
 wikidata_description: "Japanese non-profit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q911978"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +105,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q911978) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Minato](/headquarters_locations/minato/) |
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Freebase Id | /m/0f2yjz |
 | Viaf Cluster Id | 145602024 |
 | Ndl Authority Id | 001120306 |
@@ -125,6 +144,5 @@ guideline_count: 1
 | Google News Topics Id | CAAqIggKIhxDQkFTRHdvSkwyMHZNR1l5ZVdwNkVnSnFZU2dBUAE |
 | Name In Kana | にっぽんざいだん |
 | Cinii Research Id | 1140282266730728960 |
-| Logo Image | 日本財団ロゴタイプ.svg |
 | Legal Form | public interest incorporated foundation |
 | ‎Yale Lux Id | group/883b4e76-fda3-438a-b355-2c4ddb52ea0e |

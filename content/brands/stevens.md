@@ -2,7 +2,7 @@
 title: Stevens
 slug: stevens
 description: ""
-date: "2026-03-05T22:38:39.410066"
+date: "2026-03-13T08:56:59.371339"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries:
   - "higher-education"
 countries:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +63,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: "higher education institute in Hoboken, New Jersey, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q657222"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q657222) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Country | United States |
 | Coordinate Location | 40.744906, -74.023937 |
 | Located In The Administrative Territorial Entity | Hoboken |
@@ -140,8 +159,6 @@ guideline_count: 1
 | Youtube Channel Id | UC3kksfFuNq74UUW-9sU0FVQ (as of 2021-12-12, from 2008-04-22) |
 | Linkedin Company Or Organization Id | stevens-institute-of-technology |
 | Count Of Students | 7,257 (as of 2020-09), 7,313 (as of 2021-09-01) |
-| Total Assets | 845,104,000 United States dollar (as of 2020-06-30) |
-| Employees | 1,154 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | stevens |
@@ -158,6 +175,17 @@ guideline_count: 1
 | Arwu University Id | stevens-institute-of-technology |
 | On Focus List Of Wikimedia Project | Scheepvaartmuseum Wikidataproject |
 | Has Works In The Collection | Het Scheepvaartmuseum |
-| Logo Image | Stevens inst tech textlogo.png |
 | Athletics Program | Stevens Tech Ducks |
 | ‎Yale Lux Id | group/24bfd55e-7b3f-48d3-bcea-3650ab5feb45 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,154 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $845.10M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

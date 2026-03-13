@@ -2,7 +2,7 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-03-05T22:38:39.506482"
+date: "2026-03-13T08:56:59.430715"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - greensboro
+subsidiaries: []
+foundation_dates:
+  - 1891
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,18 +56,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
   - gold
   - black
+  - blue
   - gray
 typographies:
   - montserrat
 imagery_styles: []
 wikidata_description: university
+wikidata_url: "https://www.wikidata.org/wiki/Q1476484"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +109,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1476484) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Greensboro](/headquarters_locations/greensboro/) |
+| Foundation Date | [1891](/foundation_dates/1891/) |
 | Country | United States |
 | Topic'S Main Category | Category:North Carolina A&T State University |
 | Member Of | Oak Ridge Associated Universities, ORCID, Inc. (as of 2023-10), Association of American Colleges and Universities, American Council on Education, National Humanities Alliance (+4 more) |
@@ -112,7 +132,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:North Carolina A&T State University alumni |
 | Grid Id | grid.261037.1 |
 | Category For Employees Of The Organization | Category:North Carolina A&T State University faculty |
-| Logo Image | North Carolina A&T State University wordmark.svg |
 | Microsoft Academic Id (Discontinued) | 35777872 |
 | Street Address | 1601 E Market  St, Greensboro, NC, 27411 |
 | Ringgold Id | 3616 |
@@ -133,7 +152,6 @@ guideline_count: 1
 | Described By Source | Open GLAM Survey (as of 2021-04-03) |
 | Crunchbase Organization Id | north-carolina-a-t-state-university |
 | Count Of Students | 12,753 (as of 2020-09), 12,387 (as of 2021-09-01) |
-| Employees | 1,993 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Endowment | 164,541,130 United States dollar (as of 2022-06-30), 157,335,511 United States dollar (as of 2021-06-30) |
@@ -148,3 +166,9 @@ guideline_count: 1
 | Athletics Program | North Carolina A&T Aggies |
 | Motto Text | Mens et Manus |
 | Language Used | American English |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,993 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

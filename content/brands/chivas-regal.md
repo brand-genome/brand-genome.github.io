@@ -2,7 +2,7 @@
 title: Chivas Regal
 slug: "chivas-regal"
 description: ""
-date: "2026-03-05T22:38:39.658446"
+date: "2026-03-13T08:56:59.585588"
 draft: false
 sectors:
   - drink
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - aberdeen
+subsidiaries: []
+foundation_dates:
+  - 1801
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Blended Scotch Whisky produced by Chivas Brothers
+wikidata_url: "https://www.wikidata.org/wiki/Q1069502"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1069502) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Aberdeen](/headquarters_locations/aberdeen/) |
+| Foundation Date | [1801](/foundation_dates/1801/) |
 | Coordinate Location | 57.545555555556, -2.9522222222222 |
 | Freebase Id | /m/046hzh |
 | Inception | 1801 |

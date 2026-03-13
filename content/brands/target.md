@@ -2,7 +2,7 @@
 title: Target
 slug: target
 description: ""
-date: "2026-03-05T22:38:39.587148"
+date: "2026-03-13T08:56:59.529589"
 draft: false
 sectors:
   - "consumer-goods"
@@ -15,260 +15,275 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
-  - retail
   - "retail-chain"
+  - retail
   - "big-box-store"
 countries:
   - "united-states"
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - minneapolis
+subsidiaries:
+  - shipt
+  - dermstore
+foundation_dates:
+  - 1902
+  - 1962
 lightings:
+  - natural
   - studio
+  - colored
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
   - vignette
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - light
-  - "galaxy-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - bright
-  - dark
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "galaxy-colors"
+  - monotone
+  - grayscale
+  - dark
+  - light
+  - bright
 photography_genres:
+  - staged
+  - "album-cover"
+  - commercial
+  - "incomplete-art"
+  - logo
+  - product
+  - promotional
+  - "graphic-design"
+  - abstract
+  - "team-logo"
   - audience
   - selfie
-  - commercial
-  - "home-decor"
-  - "team-logo"
-  - landscape
-  - performance
-  - promotional
-  - food
-  - product
-  - text
-  - interior
-  - abstract
-  - "audience-perspective"
-  - illustration
-  - street
-  - advertising
-  - architectural
-  - sports
-  - action
-  - "live-stage"
-  - candid
-  - group
-  - documentary
-  - logo
-  - event
-  - fashion
-  - advertisement
-  - sky
   - cityscape
   - cartoon
+  - "live-stage"
+  - "home-decor"
+  - sports
+  - street
+  - sky
+  - fashion
+  - group
+  - advertising
+  - advertisement
+  - performance
+  - documentary
+  - beauty
+  - portrait
+  - "text-heavy"
+  - interior
+  - landscape
+  - music
+  - food
+  - "audience-perspective"
+  - illustration
+  - candid
+  - text
+  - "still-life"
+  - architectural
+  - event
+  - action
+concepts:
+  - band
+  - "incomplete-art"
+  - "graphic-design"
+  - concert
+  - audience
+  - textured
+  - cartoon
+  - photorealism
+  - "wave-pattern"
+  - typography
+  - advertisement
+  - "text-on-image"
   - "text-heavy"
   - music
-  - "graphic-design"
-  - "incomplete-art"
-  - portrait
-  - beauty
-  - "album-cover"
-  - staged
-  - "still-life"
-concepts:
-  - "logo-design"
-  - audience
-  - concert
-  - "text-on-image"
-  - "wave-pattern"
   - illustration
+  - "logo-design"
+  - "live-performance"
   - vintage
   - action
-  - textured
-  - advertisement
-  - "live-performance"
-  - "text-heavy"
-  - cartoon
-  - music
-  - typography
-  - "graphic-design"
-  - "incomplete-art"
-  - band
-  - photorealism
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
   - "isolated-focal-point"
-image_effects:
-  - "neutral-density-filter"
+  - "partly-focused-subject"
+  - "close-up-shot"
   - "bright-focal-point"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "motion-capture"
-  - symmetrical
-  - asymmetry
-  - "motion-blur"
-  - "long-exposure"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
+image_effects:
   - "short-exposure"
+  - "motion-capture"
+  - "high-saturation"
+  - "high-contrast"
   - "negative-space"
+  - "low-saturation"
+  - "long-exposure"
+  - "motion-blur"
+  - silhouette
+  - symmetrical
+  - "bright-focal-point"
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "off-white"
   - red
   - olive
+  - "dark-brown"
   - "dark-blue"
   - black
-  - "dark-brown"
   - gray
+  - "off-white"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - blonde
-  - flowing
-  - wavy
-  - loose
-  - updo
-  - dark
-  - "tied-back"
-  - straight
+  - varied
   - ponytail
+  - long
+  - neat
+  - blonde
+  - bald
+  - "tied-back"
   - curly
   - braided
-  - short
-  - varied
-  - covered
+  - updo
   - "pulled-back"
-  - neat
-  - bald
-  - long
+  - flowing
+  - straight
+  - dark
+  - covered
+  - casual
+  - loose
+  - short
+  - wavy
 facial_expressions:
   - joyful
-  - smiling
   - engaged
-  - relaxed
   - neutral
-  - content
   - focused
+  - relaxed
   - contemplative
+  - smiling
+  - content
   - happy
 clothing_styles:
-  - casual
-  - sweater
-  - athletic
-  - "form-fitting"
-  - dress
-  - beachwear
-  - business
-  - black
-  - costume
   - formal
-  - protective
-  - swimwear
+  - beachwear
   - pink
-  - traditional
+  - athletic
   - "business-casual"
+  - dress
+  - casual
+  - traditional
+  - swimwear
+  - "form-fitting"
   - uniform
+  - black
+  - protective
+  - sweater
+  - business
+  - costume
 clothing_colors:
   - red
-  - sparkly
-  - vibrant
-  - muted
-  - neutral
-  - monochrome
-  - earthy
-  - colorful
-  - light
   - pink
   - pastel
+  - neutral
+  - sparkly
+  - monochrome
+  - vibrant
   - purple
+  - colorful
+  - light
+  - earthy
+  - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - active
-  - holding
-  - standing
-  - running
-  - shopping
   - stretching
-  - static
   - confident
-gazes:
+  - active
+  - leaning
+  - running
+  - walking
   - engaged
-  - away
+  - relaxed
+  - static
+  - standing
+  - reclined
+  - seated
+  - shopping
+  - holding
+gazes:
   - downward
-  - outward
   - "at-merchandise"
-  - upward
+  - engaged
+  - outward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
-  - engaged
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "lower-half"
+  - "hand-only"
+  - engaged
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements:
-  - wordmark
   - icon
+  - wordmark
   - lockup
   - symbol
 brand_colors:
@@ -280,10 +295,238 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: American retailer and supermarket chain
+wikidata_url: "https://www.wikidata.org/wiki/Q1046951"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 480
 guideline_count: 1
+sample_image_urls:
+  - "https://pbs.twimg.com/media/D9ogvl0XYAA1E6U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEAzkRuWQAYR5Pr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ff7Fp5AXgAM5fi7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsIlGotWoAAVhAI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5lMG5RWsAMjLGW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIiMlMEX0AIszZT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EF-prNxWwAAGkxJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAiQrGIW4AE8_Fm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELsxL7DWoAIrIKt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWmRuQ-XoAAZkm2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DjX7yqGUYAATWZJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRFbv7VXIAUzXyJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbrpjKMWAAAcxQB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D398BnjWkAEbMdE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ0A5HJWQAI95gN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ER4p9iaWsAIPddd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJ2ZnBNXsAAl2Hm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHb2VPjWkAIwxsy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGx1ATbVIAMNTH0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3aU-QiW0AAO5-Q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBloIn9WQAAu6Qw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCpr36OXMAAijIe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJrbeA5X0AcQMSr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVrBxLEWYAAU0JL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRC2NO4WQAAJ8Xj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dz8oGQSX4AApebv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_ggewdXEAIZi5k?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DhhsKILXUAAbDN1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZ1VDYkWYAsOykR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2W2Y46XQAAziIM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPdc3tUXEAERKqy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFi59XvWUAs_CCG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWxrkroXoAE4HbH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FevQZ-mXkAA-gi1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOpFMUlXoAEH9z7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dz_AbmtWwAAIYa6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ5dbOHX0AMcF0A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHsVH5yWkAEYDD0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9mNwuUXUAA_Tmn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENxjcmyWkAAqGrt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIfJcxfWoAUin-5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHsXTy7WwAAMMqy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dt18BVYXcAUVxAS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQZnW25XMBAK2XK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPSAcKMXwAIQrNV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdTxWCXXEAAqLcd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ5ItEZXoAAqvHa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dh342-HU8AACjJQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EtUbxO4XIAA2jhZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBxgQEoUcAQ6PbU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dn4MzLFW0AA_pVv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FAexVl1XIAE1dcL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEDLB7_XoAAhnhP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FECyRAJXEAQZNWh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECbqyXvW4AMnv8c?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOzAYWaWYAY8397?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fl18D_ZWYAEJYsF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIVaBtmWwAAzNhP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FhI-cA5XwAAsnOy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYgZMzOU0AELTcE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVKQdB3XwAEkyDc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FNW-3YWX0AwdabI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfcYDA2X0AQVA2-?format=png&name=large"
+  - "https://pbs.twimg.com/media/DugOum_VsAIf9kT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_itCKwXIAMEguF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI-pRx4WoAEzDAC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESIH5kEWsAA8dpu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fb-9nmnXkA0oq_G?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dh33N1mXcAAItZW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVNOOj1UYAAlr19?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FT9eX_4XwAIAjcD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0B6aN9XcAEFKJo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EGuLXxIWsAAy0-5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DahIXEDVMAAWCXH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FREbIS3WUAgaY7F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E9FsXmbX0AQu9mP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZ0C7joWAAsEnGL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUm-X0gWAAAOh1_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EAiEoyoXkAAxsfL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FO8dgL7XMAMuP9A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmpgRtVW4AEl0Au?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ffef-CpWQAImJCC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EI3RZYnWkAY9AZW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTRceVEUMAA8Hbp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FI12szfXMA4Q5Ft?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DS05Mn5UMAAvs4F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FECEhuqWYAIW6rC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdLD4l7UQAAxNHT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dt8o67jV4AE9qu-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENEIB3-W4AA764h?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_hx8GxWQAESYW2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZmFI3JXEAEAUss?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FD8jhwfXMAURkCk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FMpz6HgXMAMD3zJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEBEdZpWQAUsT4l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPVS9r6WkAEgMvh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZv6yG8XwAE1h28?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQwd768XUAEXcmE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-OZqY6XoAkBFU3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8mnGqhWEAMrHHi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da1TBNYVAAAOTe9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUzkJHaUMAAvQHo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DuTnEIbWoAAMRo8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0sQKQHX4AU7Dsk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQKhqOgXsAEEBms?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQOp6Y1X0AMvHvt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Et9M63ZXIAAkl4y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbRs3o0XkAE9aQg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVLnlb6WUAAS_gK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ff99iZsXEAEo93I?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZ0KA1-XgAM-Oqz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FO2-JuIWQAERq0n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSHDegdXoAApnGd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELlh7XBWkAAybSw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FATlXYaVUAg4ye3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPPUl5fW4AIrvep?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DS1KF0gXUAA-Y41?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQ0wqytXIAAHaRX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELJs2LFXkAAmoO4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEIro46X0AkuqTu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4v_i6QXEAI655n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQzFkUiWYAQoUDH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvKFsFRWQAcqcux?format=png&name=large"
+  - "https://pbs.twimg.com/media/FGsJqJ1WYAo9P-Z?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D35AJOpWwAAdPl8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgYm-i5X4AEA1YI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjBpIjBWAAAIlDu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D_sBtBFXUAAcWG-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E_LrqIKXsAYdV6P?format=png&name=large"
+  - "https://pbs.twimg.com/media/FcjfZFdXEAcIHFo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eg6zhheWkAQjmxS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Djc4DL_WsAA7VRx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzPMcDgXQAYaJeq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBvtazkWYAI7v1G?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlXvJbHXcAEv1H3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ds77eoOXcAACHn4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ek9IqwQWkAEnDGD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEkeLjnXIAEK04y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiXeosPX0AEQ7Mw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DWF8lViXkAEWRK4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECHPHGIXYAE9bzJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDEW0U2W4AE-SCq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYvYa53XUAArYeH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EE1o2NwX4AIntly?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0O0PirXoAMC1iM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FaUFcVuXgAYzeLH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwxI2oMXMAIX9hO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOtCpfpWYAEb3XS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Es6TuPoXMAIalHz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTIgXbOUQAAv48k?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmBGSYAXsAA4mUc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D61QnagW4AACfc0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzYe7rGXcAA97Xd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWWbYY9WYAA8y1N?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbVdLrZX4AIZ5zq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpzgJARXUAAFyuw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FeK7-X4WIAEx-IZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbJqWmPXkAAg5kG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDM4Qe3XIAMlSmZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjabTysWAAcegeW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DaQyqExUwAInmIy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzBtgUPXMAgmmZw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnAHHfwV4AAL8Uh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fe683RzXgAEpKwn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ex-jFnIWUAI0rkE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnXFyUKWEAIk0_x?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dw5xGXNXQAAxltd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DrQZIPmWkAAvI9U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D39gnAAX4AEjAUN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8saHb4WYAALeJP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DrBPxEOXgAES2ma?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dijp6uPX4AA8BEn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dm56feaW0AAd5i3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Es691XFXIAQrDTz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FHOiRsHXsAoa01I?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYQ3ehtVwAA3TPH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dy1dH_uXcAA7Zg-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwSxECiW8AMBAf2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjFn-TkWoAsHX-_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2IhxLOW0AAxumX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5FD63-XwAQIgnr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dqr5moUW4AA-dwB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DYWA5s-W0AYD-8y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfwtMyjXUAAdz2u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D30S-QUWsAIrOHN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DxjVtTSVYAACSBs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZdSxS7WsAAa0te?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8d0Ac-W4AAGvx0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJlis1EWkAQ1-mF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsJL3KMXoAIeYLU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBsjpFYXMAEwig4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DrRXiNBWsAAUMvw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E165AXIX0AYqL3h?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiaUQ8BXUAA4Z3s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ER3i_6pW4AAm5QG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUzZL08X4AALUDz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DUu7-LeVoAAQ_E9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvTLRH8XUAEaF1g?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FK7Nos8XEAUyWUF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY7LPJ9VwAA2Ter?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DutnWd7WkAcQofv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dh7_IEiW0AA7cpE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dc66bGAXkAAyGeD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0l3OvTWsAAGCoz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E6_bzH4WUAETFVO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVDGnnHVQAAj4Lh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EK9DNpZXsAI7Ie8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZaG5gtWIAMpACW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dq8slEfW4AItI_2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERT9LabXUAAAWPy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2e8IXvXwAo87Ml?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnZ0X6LXoAgGEep?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DY-cpauWsAAsAgX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EzqzTsfWQAYH0dH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-7_ZITWUAY1mLo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJrKldPXsAACG54?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqcV59zWoAALzZn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3aHciPXkAEu5zZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqXib8LX4AAu2tt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDcREenXEAAJo1V?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbGThVXXkAAdtju?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DSublEAVMAAGt21?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKNFO8eWYAA1cRa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1Y-gtLWoAQ54DK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FgFl7tdWIAI-R7U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/De9Whf9WkAEjsLs?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -336,24 +579,24 @@ guideline_count: 1
 ### Color Analysis
 *Statistics computed across 480 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Black | 37.7% | 29.5% | 16.4% | 56.7% | 79.9% | ±25.8% | 65.8% |
-| White | 34.0% | 17.1% | 9.3% | 61.8% | 82.5% | ±30.2% | 28.5% |
-| Dark Blue | 28.1% | 23.3% | 14.4% | 37.4% | 52.7% | ±19.2% | 44.0% |
-| Red | 23.5% | 16.9% | 10.1% | 25.4% | 41.7% | ±20.7% | 16.9% |
-| Dark Brown | 20.4% | 16.5% | 9.8% | 27.7% | 35.7% | ±13.5% | 44.8% |
-| Gray | 18.5% | 14.0% | 10.2% | 20.9% | 38.0% | ±13.6% | 26.7% |
-| Olive | 18.5% | 13.7% | 10.2% | 23.3% | 37.0% | ±12.2% | 12.1% |
-| Off White | 17.8% | 12.4% | 9.3% | 19.6% | 33.3% | ±13.4% | 15.8% |
+| Color | Mean |
+|-------|------|
+| Black | 37.7% |
+| White | 34.0% |
+| Dark Blue | 28.1% |
+| Red | 23.5% |
+| Dark Brown | 20.4% |
+| Gray | 18.5% |
+| Olive | 18.5% |
+| Off White | 17.8% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 10.4% | 0.0% | 0.0% | 13.7% | ±19.7% |
-| Neutral | 64.9% | 73.1% | 43.7% | 90.4% | ±29.9% |
-| Cool | 24.7% | 12.6% | 0.0% | 43.3% | ±29.4% |
+| Tone | Mean |
+|------|------|
+| Warm | 10.4% |
+| Neutral | 64.9% |
+| Cool | 24.7% |
 
 ### Sample Images
 
@@ -463,8 +706,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1046951) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Minneapolis](/headquarters_locations/minneapolis/) |
+| Subsidiary | [Shipt](/subsidiaries/shipt/); [Dermstore](/subsidiaries/dermstore/) |
+| Foundation Date | [1902](/foundation_dates/1902/); [1962](/foundation_dates/1962/) |
 | Founded By | George Dayton |
-| Logo Image | Target logo.svg (from 2004-01-01), Target logo (1968).png (from 1962-01-01, until 1968-01-01), Target old logo.svg (from 1968-01-01, until 2004-01-01), Target (2018).svg (from 2018) |
 | Stock Exchange | New York Stock Exchange |
 | Headquarters Location | Minneapolis |
 | Freebase Id | /m/01b39j |
@@ -496,7 +745,6 @@ guideline_count: 1
 | Grid Id | grid.467552.7 |
 | Different From | Target Australia |
 | Microsoft Academic Id (Discontinued) | 1320354487 |
-| Employees | 400,000 (as of 2025) |
 | Member Of | Linux Foundation |
 | Library Of Congress Authority Id | no00073301 |
 | Mascot | Bullseye |
@@ -542,49 +790,61 @@ guideline_count: 1
 
 ### Revenue History
 
-- $75.36B (75,356,000,000 United States dollar (as of 2018))
-- $78.11B (78,112,000,000 United States dollar (as of 2019))
-- $93.56B (93,561,000,000 United States dollar (as of 2020))
-- $106.00B (106,005,000,000 United States dollar (as of 2021))
-- $63.37B (63,367,000,000 United States dollar (as of 2008, from 2007-02-04, until 2008-02-02))
-- $65.36B (65,357,000,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-30))
-- $67.39B (67,390,000,000 United States dollar (as of 2010, from 2010-01-31, until 2011-01-29))
-- $69.86B (69,865,000,000 United States dollar (as of 2011, from 2011-01-30, until 2012-01-28))
-- $73.30B (73,301,000,000 United States dollar (as of 2012, from 2012-01-29, until 2013-02-02))
-- $72.60B (72,596,000,000 United States dollar (as of 2013, from 2013-02-03, until 2014-02-01))
-- $72.62B (72,618,000,000 United States dollar (as of 2014, from 2014-02-02, until 2015-01-31))
-- $73.78B (73,785,000,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-30))
-- $70.27B (70,271,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $72.71B (72,714,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $109.12B (109,120,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $75.36B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $78.11B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $93.56B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $106.00B | as of 2021 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $63.37B | as of 2008, from 2007-02-04, until 2008-02-02 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $65.36B | as of 2009, from 2009-02-01, until 2010-01-30 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $67.39B | as of 2010, from 2010-01-31, until 2011-01-29 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $69.86B | as of 2011, from 2011-01-30, until 2012-01-28 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $73.30B | as of 2012, from 2012-01-29, until 2013-02-02 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $72.60B | as of 2013, from 2013-02-03, until 2014-02-01 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $72.62B | as of 2014, from 2014-02-02, until 2015-01-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $73.78B | as of 2015, from 2015-02-01, until 2016-01-30 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $70.27B | as of 2016, from 2016-01-31, until 2017-01-28 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $72.71B | as of 2017, from 2017-01-29, until 2018-02-03 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $109.12B | as of 2022, from 2022-01-30, until 2023-01-28 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $4.58B (4,576,000,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-30))
-- $5.17B (5,169,000,000 United States dollar (as of 2010, from 2010-01-31, until 2011-01-29))
-- $5.25B (5,250,000,000 United States dollar (as of 2011, from 2011-01-30, until 2012-01-28))
-- $5.21B (5,206,000,000 United States dollar (as of 2012, from 2012-01-29, until 2013-02-02))
-- $4.86B (4,864,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $4.22B (4,224,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $4.11B (4,110,000,000 United States dollar (as of 2018, from 2018-02-04, until 2019-02-02))
-- $4.66B (4,658,000,000 United States dollar (as of 2019, from 2019-02-03, until 2020-02-01))
-- $6.54B (6,539,000,000 United States dollar (as of 2020, from 2020-02-02, until 2021-01-30))
-- $8.95B (8,946,000,000 United States dollar (as of 2021, from 2021-01-31, until 2022-01-29))
-- $3.85B (3,848,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $4.58B | as of 2009, from 2009-02-01, until 2010-01-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.17B | as of 2010, from 2010-01-31, until 2011-01-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.25B | as of 2011, from 2011-01-30, until 2012-01-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.21B | as of 2012, from 2012-01-29, until 2013-02-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.86B | as of 2016, from 2016-01-31, until 2017-01-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.22B | as of 2017, from 2017-01-29, until 2018-02-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.11B | as of 2018, from 2018-02-04, until 2019-02-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.66B | as of 2019, from 2019-02-03, until 2020-02-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.54B | as of 2020, from 2020-02-02, until 2021-01-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.95B | as of 2021, from 2021-01-31, until 2022-01-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.85B | as of 2022, from 2022-01-30, until 2023-01-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $2.49B (2,488,000,000 United States dollar (as of 2009, from 2009-02-01, until 2010-01-30))
-- $2.92B (2,920,000,000 United States dollar (as of 2010, from 2010-01-31, until 2011-01-29))
-- $2.93B (2,929,000,000 United States dollar (as of 2011, from 2011-01-30, until 2012-01-28))
-- $3.00B (2,999,000,000 United States dollar (as of 2012, from 2012-01-29, until 2013-02-02))
-- $1.97B (1,971,000,000 United States dollar (as of 2013, from 2013-02-03, until 2014-02-01))
-- $1.64B (-1,636,000,000 United States dollar (as of 2014, from 2014-02-02, until 2015-01-31))
-- $3.36B (3,363,000,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-30))
-- $2.74B (2,737,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $2.93B (2,934,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $2.94B (2,937,000,000 United States dollar (as of 2018, from 2018-02-04, until 2019-02-02))
-- $3.28B (3,281,000,000 United States dollar (as of 2019, from 2019-02-03, until 2020-02-01))
-- $4.37B (4,368,000,000 United States dollar (as of 2020, from 2020-02-02, until 2021-01-30))
-- $6.95B (6,946,000,000 United States dollar (as of 2021, from 2021-01-31, until 2022-01-29))
-- $2.78B (2,780,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $2.49B | as of 2009, from 2009-02-01, until 2010-01-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.92B | as of 2010, from 2010-01-31, until 2011-01-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.93B | as of 2011, from 2011-01-30, until 2012-01-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.00B | as of 2012, from 2012-01-29, until 2013-02-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.97B | as of 2013, from 2013-02-03, until 2014-02-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.64B | as of 2014, from 2014-02-02, until 2015-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.36B | as of 2015, from 2015-02-01, until 2016-01-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.74B | as of 2016, from 2016-01-31, until 2017-01-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.93B | as of 2017, from 2017-01-29, until 2018-02-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.94B | as of 2018, from 2018-02-04, until 2019-02-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.28B | as of 2019, from 2019-02-03, until 2020-02-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.37B | as of 2020, from 2020-02-02, until 2021-01-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.95B | as of 2021, from 2021-01-31, until 2022-01-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.78B | as of 2022, from 2022-01-30, until 2023-01-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 400,000 | as of 2025 | [100K-500K](/employees_buckets/100k-500k/) |

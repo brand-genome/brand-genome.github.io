@@ -2,7 +2,7 @@
 title: Premier Rugby
 slug: "premier-rugby"
 description: ""
-date: "2026-03-05T22:38:39.711117"
+date: "2026-03-13T08:56:59.727308"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,25 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - badge
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - badge
+  - horizontal
 brand_colors:
+  - purple
   - red
   - gold
   - green
-  - purple
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q61831177"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -123,6 +136,12 @@ Terminology: Rugby terms like 'Full-back', 'Scrum-half', and standard word usage
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q61831177) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | United Kingdom |
 | Sport | rugby union |
 | Headquarters Location | London |

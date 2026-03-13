@@ -2,11 +2,11 @@
 title: Newfoundland and Labrador Health Services
 slug: "newfoundland-and-labrador-health-services"
 description: ""
-date: "2026-03-05T22:38:39.125427"
+date: "2026-03-13T08:56:59.077666"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
+  - healthcare
 regions:
   - canada
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "st-johns"
+subsidiaries: []
+foundation_dates:
+  - 2023
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Integrated authority of Newfoundland and Labrador
+wikidata_url: "https://www.wikidata.org/wiki/Q122766996"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q122766996) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [St Johns](/headquarters_locations/st-johns/) |
+| Foundation Date | [2023](/foundation_dates/2023/) |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Newfoundland and Labrador |
 | Inception | 2023-04-03 |

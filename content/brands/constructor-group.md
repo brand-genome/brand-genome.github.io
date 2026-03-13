@@ -2,13 +2,13 @@
 title: Constructor Group
 slug: "constructor-group"
 description: ""
-date: "2026-03-05T22:38:39.163849"
+date: "2026-03-13T08:56:59.097872"
 draft: false
 sectors:
   - education
   - "e-learning-edtech"
-  - university
   - finance
+  - university
 regions:
   - switzerland
 years:
@@ -22,6 +22,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1856
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,23 +52,25 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - "pantone-282"
-  - "pantone-123"
-  - black
-  - yellow
-  - blue
   - navy
+  - blue
+  - "pantone-282"
+  - yellow
   - green
+  - black
+  - "pantone-123"
 typographies: []
 imagery_styles:
-  - bold
   - professional
+  - bold
   - monochrome
 wikidata_description: "Norwegian-based group specialising in shelving, racking and storage systems"
+wikidata_url: "https://www.wikidata.org/wiki/Q5164512"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,5 +117,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5164512) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1856](/foundation_dates/1856/) |
 | Inception | 1856-01-01 |
 | Freebase Id | /m/0j4603n |

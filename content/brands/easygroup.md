@@ -2,7 +2,7 @@
 title: easyGroup
 slug: easygroup
 description: ""
-date: "2026-03-05T22:38:39.129965"
+date: "2026-03-13T08:56:59.084042"
 draft: false
 sectors:
   - finance
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - airline
+products: []
+headquarters_locations:
+  - kensington
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,23 +55,25 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - orange
   - grey
   - black
+  - orange
   - "pantone-021"
 typographies:
   - futura
 imagery_styles:
-  - bold
+  - clean
+  - contemporary
   - photography
   - graphic
-  - contemporary
-  - clean
+  - bold
 wikidata_description: British multinational branded venture capital conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q1278337"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +130,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1278337) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Airline](/products_or_materials_produced/airline/) |
+| Headquarters Location | [Kensington](/headquarters_locations/kensington/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Owned By | Stelios Haji-Ioannou |
 | Inception | 1998-01-01 |
 | Freebase Id | /m/04c1by |
@@ -131,4 +152,3 @@ guideline_count: 2
 | Facebook Username | theeasygroup |
 | X (Twitter) Username | easydotcom1 (from 2015-10-30) |
 | Product Or Material Produced | airline |
-| Logo Image | EasyGroup Logo.gif |

@@ -2,16 +2,16 @@
 title: Florida Atlantic University
 slug: "florida-atlantic-university"
 description: ""
-date: "2026-03-05T22:38:39.219100"
+date: "2026-03-13T08:56:59.155972"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2014
   - 2024
   - 2020
+  - 2014
 languages:
   - english
 tags:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "boca-raton"
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,39 +53,41 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - monogram
   - secondary
-  - horizontal
-  - wordmark
+  - monogram
+  - primary
   - stacked
+  - wordmark
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - "pantone-295"
   - red
-  - teal
-  - black
   - blue
-  - "pantone-428"
+  - "pantone-200"
+  - "pantone-295"
   - "pantone-320"
   - silver
-  - gray
-  - "pantone-200"
-  - "pantone-7689"
   - "pantone-877"
+  - black
+  - gray
+  - teal
+  - "pantone-428"
+  - "pantone-7689"
 typographies:
-  - serif
   - optima
+  - serif
 imagery_styles:
-  - bold
   - classic
+  - bold
   - monochrome
 wikidata_description: "public university in Boca Raton, Florida"
+wikidata_url: "https://www.wikidata.org/wiki/Q429863"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -161,6 +175,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q429863) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boca Raton](/headquarters_locations/boca-raton/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Coordinate Location | 26.3712, -80.1017 |
 | Country | United States |
 | Topic'S Main Category | Category:Florida Atlantic University |
@@ -204,8 +224,6 @@ guideline_count: 3
 | X (Twitter) Username | FloridaAtlantic (as of 2020-12-29, from 2009-02-03) |
 | Facebook Username | FloridaAtlantic |
 | Social Media Followers | 44,715 (as of 2021-01-04), 45,209 (as of 2022-03-02), 47,045 (as of 2023-02-12) |
-| Logo Image | Florida Atlantic University logo.svg |
-| Employees | 3,492 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I63772739 |
@@ -222,3 +240,9 @@ guideline_count: 3
 | ‎Yale Lux Id | group/83ed26cb-9435-4dd0-9ef2-7f5f6596c71e |
 | Official Color | blue, red, silver, grey |
 | Athletics Program | Florida Atlantic Owls |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,492 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

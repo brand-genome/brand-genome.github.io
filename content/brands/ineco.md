@@ -2,7 +2,7 @@
 title: Ineco
 slug: ineco
 description: ""
-date: "2026-03-05T22:38:39.769127"
+date: "2026-03-13T08:56:59.820298"
 draft: false
 sectors:
   - construction
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +54,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: organism of the female sex
+wikidata_url: "https://www.wikidata.org/wiki/Q43445"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +97,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q43445) |
+
+| Property | Value |
+|----------|-------|
 | Opposite Of | male organism |
 | Freebase Id | /m/02zsn |
 | Unicode Character | ♀ |
@@ -109,7 +124,6 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007529127505171 |
 | Yso Id | 22050 |
 | Openalex Id | C3019212871 |
-| Logo Image | Venus symbol.svg |
 | Image | Sow with piglet.jpg |
 | Wordnet 3.1 Synset Id | 01323363-n |
 | Has Characteristic | female, Y chromosome, egg cell, female reproductive system, female hormone (+3 more) |

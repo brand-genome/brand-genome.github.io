@@ -2,7 +2,7 @@
 title: Cuyahoga Community College
 slug: "cuyahoga-community-college"
 description: ""
-date: "2026-03-05T22:38:39.553064"
+date: "2026-03-13T08:56:59.474921"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "in Cleveland, Ohio"
+wikidata_url: "https://www.wikidata.org/wiki/Q5197072"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5197072) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Coordinate Location | 41.0994, -81.8423 |
 | Country | United States |
 | Integrated Postsecondary Education Data System Id | 202356 |
@@ -114,7 +132,6 @@ guideline_count: 1
 | Inception | 1963 |
 | Parent Organization Or Unit | University System of Ohio |
 | Category For Alumni Of Educational Institution | Category:Cuyahoga Community College alumni |
-| Logo Image | Cuyahoga Community College logo.svg |
 | Grid Id | grid.417698.5 |
 | Topic'S Main Category | Category:Cuyahoga Community College |
 | Musicbrainz Place Id | 2acc04d9-d386-4503-add1-0ebfc19c2182 |
@@ -130,10 +147,15 @@ guideline_count: 1
 | Freebase Id | /m/07dtvp |
 | Image | Cuyahoga Community College, Highland Hills.jpg |
 | Count Of Students | 18,754 (as of 2020-09), 10,324 (as of 2021-09-01) |
-| Employees | 3,253 (as of 2020-09) |
 | Openalex Id | I192106408 |
 | Crunchbase Organization Id | cuyahoga-community-college |
 | Endowment | 87,436,726 United States dollar (as of 2022-06-30), 101,444,672 United States dollar (as of 2021-06-30) |
 | Academic Calendar Type | semester |
 | Snac Ark Id | w60p58nf |
 | ‎Yale Lux Id | group/6f0b4be3-46d0-4607-b519-9912daeffe0a |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,253 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: Colorado College
 slug: "colorado-college"
 description: ""
-date: "2026-03-05T22:38:39.758438"
+date: "2026-03-13T08:56:59.807441"
 draft: false
 sectors:
   - education
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "colorado-springs"
+subsidiaries: []
+foundation_dates:
+  - 1874
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private liberal arts college in Colorado Springs, Colorado, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1111261"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1111261) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Colorado Springs](/headquarters_locations/colorado-springs/) |
+| Foundation Date | [1874](/foundation_dates/1874/) |
 | Topic'S Main Category | Category:Colorado College |
 | Freebase Id | /m/018t8f |
 | Integrated Postsecondary Education Data System Id | 126678 |
@@ -81,7 +102,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Colorado College alumni |
 | Grid Id | grid.254544.6 |
 | Bhl Creator Id | 33148, 39826 |
-| Logo Image | Colorado College logo.svg |
 | Image | Cutler Hall.JPG |
 | Microsoft Academic Id (Discontinued) | 189774192 |
 | Street Address | 14. E Cache La Poudre St., Colorado Springs, CO, 80903 |
@@ -95,9 +115,7 @@ guideline_count: 1
 | Times Higher Education World University Id | colorado-college |
 | Social Media Followers | 10,072 (as of 2021-01-02), 9,774 (as of 2020-04-19), 10,360 (as of 2022-03-02), 10,468 (as of 2023-02-12) |
 | Fast Id | 534893 |
-| Total Assets | 1,232,545,121 United States dollar (as of 2020-06-30) |
 | Endowment | 768,785,461 United States dollar (as of 2020-06-30), 822,930,607 United States dollar (as of 2022-06-30), 908,636,720 United States dollar (as of 2021-06-30) |
-| Employees | 914 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I189774192 |
@@ -124,3 +142,15 @@ guideline_count: 1
 | Youtube Handle | coloradocollegetigers (as of 2025-10-21) |
 | Number Of Viewers/Listeners | 2,003,812 (as of 2025-12-05) |
 | Athletics Program | Colorado College Tigers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 914 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.23B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

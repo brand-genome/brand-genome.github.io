@@ -2,7 +2,7 @@
 title: Air Serbia
 slug: "air-serbia"
 description: ""
-date: "2026-03-05T22:38:39.192539"
+date: "2026-03-13T08:56:59.127121"
 draft: false
 sectors:
   - airline
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - airline
   - aeronautic
+  - airline
 industries: []
 countries:
   - serbia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - belgrade
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "flag-carrier airline of Serbia"
+wikidata_url: "https://www.wikidata.org/wiki/Q460373"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q460373) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Belgrade](/headquarters_locations/belgrade/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Country | Serbia |
 | Item Operated | Airbus A320 family, Airbus A320neo family, ATR 72, Boeing 737 Classic |
 | Airline Hub | Belgrade Nikola Tesla Airport |
@@ -96,7 +115,6 @@ guideline_count: 1
 | Instagram Username | airserbia (as of 2021-05-18) |
 | Linkedin Company Or Organization Id | airserbia |
 | Legal Entity Identifier | 254900ZEAVBXBTBAUD92 |
-| Logo Image | Air Serbia logo.svg |
 | Golden Id | Air_Serbia-RJ53NW |
 | Crunchbase Organization Id | airserbia |
 | Kisti Id | K000361917 |

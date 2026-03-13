@@ -2,7 +2,7 @@
 title: Sociedade Esportiva Palmeiras
 slug: "sociedade-esportiva-palmeiras"
 description: ""
-date: "2026-03-05T22:38:39.120205"
+date: "2026-03-13T08:56:59.069734"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "sao-paulo"
+subsidiaries: []
+foundation_dates:
+  - 1914
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian sports club
+wikidata_url: "https://www.wikidata.org/wiki/Q80964"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q80964) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sao Paulo](/headquarters_locations/sao-paulo/) |
+| Foundation Date | [1914](/foundation_dates/1914/) |
 | Home Venue | Estádio Palestra Itália (from 1917, until 2010-07-10), Allianz Parque (from 2014-11-19) |
 | League Or Competition | Campeonato Brasileiro Série A, Campeonato Paulista de Futebol, Copa do Brasil, Copa Libertadores |
 | Head Coach | Abel Ferreira (from 2020-11-04) |
@@ -82,7 +101,6 @@ guideline_count: 1
 | Category For Members Of A Team | Category:SE Palmeiras players |
 | History Of Topic | History of SE Palmeiras |
 | Sponsor | Crefisa |
-| Logo Image | Palmeiras logo.svg |
 | Transfermarkt Team Id | 1023 |
 | Viaf Cluster Id | 153927120 |
 | Library Of Congress Authority Id | no98131442 |

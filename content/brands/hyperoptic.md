@@ -2,7 +2,7 @@
 title: Hyperoptic
 slug: hyperoptic
 description: ""
-date: "2026-03-05T22:38:39.684731"
+date: "2026-03-13T08:56:59.611986"
 draft: false
 sectors:
   - networking
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,23 +55,25 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - teal
   - grey
-  - black
-  - cyan
   - blue
   - purple
+  - cyan
+  - black
+  - teal
 typographies:
   - impact
 imagery_styles:
+  - portrait
   - bold
   - landscape
-  - portrait
 wikidata_description: "internet service provider (ISP) based in London, England"
+wikidata_url: "https://www.wikidata.org/wiki/Q5958419"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,9 +116,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5958419) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | London |
 | Inception | 2010-04-13 |
-| Logo Image | Hyperoptic Logo.jpg, Hyperoptic Logo Sept 2017.jpg |
 | Companies House Company Id | 07222543 |
 | Chairperson | Boris Ivanovic |
 | Founded By | Boris Ivanovic, Dana Tobak |

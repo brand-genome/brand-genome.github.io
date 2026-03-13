@@ -2,7 +2,7 @@
 title: IOM
 slug: iom
 description: ""
-date: "2026-03-05T22:38:39.514988"
+date: "2026-03-13T08:56:59.441960"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - leipzig
+  - "wissenschaftspark-leipzig"
+subsidiaries: []
+foundation_dates:
+  - 1992
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "facility in Leipzig, Germany"
+wikidata_url: "https://www.wikidata.org/wiki/Q1813759"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +83,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1813759) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Leipzig](/headquarters_locations/leipzig/); [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/) |
+| Foundation Date | [1992](/foundation_dates/1992/); [2002](/foundation_dates/2002/) |
 | Country | Germany |
 | Member Of | Deutsche Gesellschaft für Membrantechnik, Informationsdienst Wissenschaft |
 | Inception | 1992, 2002 |
@@ -85,12 +106,11 @@ guideline_count: 1
 | Researchgate Institute Id | Leibniz_Institute_of_Surface_Engineering_IOM |
 | Youtube Channel Id | UC57r_xd2WV-5-R1_mLlQ3Xw (as of 2023-11-05, from 2018-12-20) |
 | Image | IOM Gebäude.jpg |
-| Logo Image | Logo IOM.jpg |
 | Headquarters Location | Leipzig, Wissenschaftspark Leipzig |
 | Contact Page Url | https://www.iom-leipzig.de/kontakt.html, https://www.iom-leipzig.de/en/contact.html |
 | Phone Number | +49 (0) 341 235 2308 |
 | Fax Number | +49 (0) 341 235 2313 |
-| Email Address | mailto:info@iom-leipzig.de |
+| Email Address | info@iom-leipzig.de |
 | Legal Form | Registered association (eingetragener Verein) |
 | Impressum Url | https://www.iom-leipzig.de/impressum.html, https://www.iom-leipzig.de/en/legal-notice.html |
 | Privacy Policy Url | https://www.iom-leipzig.de/datenschutz.html, https://www.iom-leipzig.de/en/privacy.html |

@@ -2,7 +2,7 @@
 title: Howard University
 slug: "howard-university"
 description: ""
-date: "2026-03-05T22:38:39.576284"
+date: "2026-03-13T08:56:59.508985"
 draft: false
 sectors:
   - education
@@ -21,9 +21,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1867
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +61,12 @@ imagery_styles:
   - photography
   - professional
 wikidata_description: university in Washington D.C.
+wikidata_url: "https://www.wikidata.org/wiki/Q1068752"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1068752) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1867](/foundation_dates/1867/) |
 | Coordinate Location | 38.921666666667, -77.02 |
 | Topic'S Main Category | Category:Howard University |
 | Freebase Id | /m/0217m9 |
@@ -133,7 +154,6 @@ guideline_count: 1
 | Category For Employees Of The Organization | Category:Howard University faculty |
 | Grid Id | grid.257127.4 |
 | Qs World University Id | howard-university |
-| Logo Image | Howard university wordmark.jpg |
 | Idref Id | 026453541 |
 | Bibliothèque Nationale De France Id | 11869892s |
 | Microsoft Academic Id (Discontinued) | 137853757 |
@@ -190,9 +210,7 @@ guideline_count: 1
 | Library Of Congress Classification | LC2851.H77-LC2851.H86 |
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.31325 |
 | Count Of Students | 10,859 (as of 2020-09), 11,392 (as of 2021-09-01) |
-| Total Assets | 1,667,010,000 United States dollar (as of 2020-06-30), 2,607,941,000 United States dollar (as of 2022), 2,110,254,000 United States dollar (as of 2021), 2,635,844,000 United States dollar (as of 2023), 1,438,246,000 United States dollar (as of 2012) (+8 more) |
 | Endowment | 712,449,000 United States dollar (as of 2020-06-30), 862,783,970 United States dollar (as of 2022-06-30), 806,418,780 United States dollar (as of 2021-06-30) |
-| Employees | 2,776 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Cinii Research Id | 1140000791689599104 |
@@ -224,16 +242,42 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.40B (1,401,205,000 United States dollar (as of 2022))
-- $1.29B (1,293,039,199 United States dollar (as of 2021))
-- $1.27B (1,269,450,000 United States dollar (as of 2023))
-- $1.02B (1,015,892,000 United States dollar (as of 2012))
-- $1.01B (1,014,463,000 United States dollar (as of 2013))
-- $970.37M (970,372,000 United States dollar (as of 2014))
-- $970.62M (970,617,000 United States dollar (as of 2015))
-- $915.97M (915,973,000 United States dollar (as of 2016))
-- $980.26M (980,263,000 United States dollar (as of 2017))
-- $976.88M (976,883,000 United States dollar (as of 2018))
-- $1.04B (1,042,285,000 United States dollar (as of 2019))
-- $1.03B (1,025,632,000 United States dollar (as of 2020))
-- $1.36B (1,362,844,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.40B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.29B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.27B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.02B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.01B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $970.37M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $970.62M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $915.97M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $980.26M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $976.88M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $1.04B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.03B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.36B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,776 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.67B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.61B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.11B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.64B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.44B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.49B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.53B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.49B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.57B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.47B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.55B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.60B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.74B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

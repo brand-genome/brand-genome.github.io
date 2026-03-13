@@ -2,7 +2,7 @@
 title: Bertelsman
 slug: bertelsman
 description: ""
-date: "2026-03-05T22:38:39.571346"
+date: "2026-03-13T08:56:59.501721"
 draft: false
 sectors:
   - publishing
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1983
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American record label
+wikidata_url: "https://www.wikidata.org/wiki/Q770103"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q770103) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1983](/foundation_dates/1983/); [1987](/foundation_dates/1987/) |
 | Inception | 1987-01-01, 1983 |
 | Musicbrainz Label Id | 29d7c88f-5200-4418-a683-5c94ea032e38 |
 | Freebase Id | /m/01q940 |
@@ -72,7 +92,6 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 14445569s |
 | National Library Of Spain Spmabn Id (Bne V1.0) | XX5207118 |
 | Parent Organization Or Unit | Bertelsmann |
-| Logo Image | Bertelsmann Music Group Logo.svg |
 | Owned By | Bertelsmann |
 | Quora Topic Id | Bertelsmann-Music-Group |
 | Has Organizational Division | BMG Music Publishing, BMG Records, GmbH, BMG Video, BMG Entertainment |

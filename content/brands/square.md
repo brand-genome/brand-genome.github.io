@@ -2,7 +2,7 @@
 title: Square
 slug: square
 description: ""
-date: "2026-03-05T22:38:39.211777"
+date: "2026-03-13T08:56:59.149116"
 draft: false
 sectors:
   - hospitality
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - institut
+  - financial
 industries:
   - "video-game-industry"
 countries:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "video-game"
+products: []
+headquarters_locations:
+  - meguro
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,30 +53,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
   - symbol
 brand_colors:
   - white
-  - gold
   - grey
-  - black
+  - gold
   - silver
+  - black
 typographies:
+  - helvetica
   - impact
   - arial
-  - helvetica
 imagery_styles:
-  - bold
+  - illustration
   - photography
   - vibrant
   - graphic
-  - illustration
+  - bold
 wikidata_description: Japanese video game company
+wikidata_url: "https://www.wikidata.org/wiki/Q739552"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +132,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q739552) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Video Game](/products_or_materials_produced/video-game/) |
+| Headquarters Location | [Meguro](/headquarters_locations/meguro/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Musicbrainz Label Id | faff5e7a-40c6-4572-8d72-09d21be8c460 |
 | Followed By | Square Enix |
 | Founded By | Masashi Miyamoto |
@@ -127,7 +148,6 @@ guideline_count: 2
 | Dissolved, Abolished Or Demolished Date | 2003 |
 | Headquarters Location | Meguro |
 | Industry | video game industry |
-| Logo Image | Square Logo.svg |
 | Legal Form | kabushiki gaisha |
 | Quora Topic Id | Square-Soft |
 | Mobygames Company Id (Former Scheme) | square-co-ltd |

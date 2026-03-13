@@ -2,7 +2,7 @@
 title: "C-SPAN"
 slug: "c-span"
 description: ""
-date: "2026-03-05T22:38:39.506876"
+date: "2026-03-13T08:56:59.431149"
 draft: false
 sectors:
   - broadcasting
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,27 +55,29 @@ logo_elements:
   - signature
 brand_colors:
   - red
-  - teal
-  - black
-  - maroon
-  - gray
   - navy
   - purple
+  - maroon
+  - black
+  - gray
+  - teal
 typographies:
-  - poppins
-  - georgia
   - serif
+  - georgia
+  - poppins
   - "sans-serif"
 imagery_styles:
-  - bold
   - modern
-  - geometric
   - clean
+  - bold
+  - geometric
 wikidata_description: American television channel
+wikidata_url: "https://www.wikidata.org/wiki/Q1022311"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +133,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1022311) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Topic'S Main Category | Category:C-SPAN |
 | Freebase Id | /m/0kc7r |
 | Award Received | Peabody Awards (as of 1992), Peabody Awards (as of 1999), Peabody Awards (as of 2010) |
@@ -146,7 +165,6 @@ guideline_count: 1
 | C Span Organization Id | 3974 |
 | Topic Has Template | Template:C-SPAN |
 | Ne.Se Id | c-span |
-| Logo Image | C-SPAN Logo (2019).svg |
 | Google Arts & Culture Partner Id | c-span |
 | Littlesis Organization Id | 163126 |
 | The First Amendment Encyclopedia Id | 1245 |

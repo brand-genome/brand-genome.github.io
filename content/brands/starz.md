@@ -2,7 +2,7 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-03-05T22:38:39.811703"
+date: "2026-03-13T08:56:59.879030"
 draft: false
 sectors:
   - broadcasting
@@ -15,14 +15,25 @@ languages:
   - english
 tags:
   - broadcast
-  - featured
   - media
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - colorado
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +58,18 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
+  - clean
   - photography
   - minimal
   - gradient
-  - clean
+  - bold
 wikidata_description: American pay television network
+wikidata_url: "https://www.wikidata.org/wiki/Q2422698"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2422698) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Colorado](/headquarters_locations/colorado/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Freebase Id | /m/042h78 |
 | Inception | 1994-02-01 |
 | Language Used | English |
@@ -111,7 +130,6 @@ guideline_count: 1
 | Country | United States |
 | Headquarters Location | Colorado |
 | Downdetector Id | starz |
-| Logo Image | Starz 2022.svg (from 2022), Starz 2016.svg (until 2022) |
 | Facebook Username | Starz |
 | X (Twitter) Username | STARZ (as of 2020-04-27, from 2009-02-18), STARZPR (as of 2020-04-27, from 2013-01-15), STZTakeTheLead (as of 2021-06-14, from 2020-12-04) |
 | Instagram Username | starz |

@@ -2,7 +2,7 @@
 title: Aspen Institute
 slug: "aspen-institute"
 description: ""
-date: "2026-03-05T22:38:39.419063"
+date: "2026-03-13T08:56:59.378389"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1950
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,20 +57,22 @@ logo_elements:
 brand_colors:
   - white
   - grey
-  - black
   - blue
   - pink
+  - black
 typographies:
   - avenir
   - arial
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: international nonprofit organization founded in 1950
+wikidata_url: "https://www.wikidata.org/wiki/Q457528"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +131,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q457528) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1950](/foundation_dates/1950/) |
 | Sponsor | Carnegie Corporation of New York, Rockefeller Brothers Fund, Gates Foundation, Lumina Foundation, Ford Foundation |
 | Movement | Atlanticism |
 | Freebase Id | /m/059rj2 |
@@ -159,7 +179,6 @@ guideline_count: 1
 | Uia Open Yearbook Organization Website Id | 1100056156 |
 | National Library Of Israel J9U Id | 987007257934505171 |
 | Industry | research |
-| Total Assets | 475,882,871 United States dollar (as of 2022), 465,514,933 United States dollar (as of 2021), 519,114,037 United States dollar (as of 2023), 169,299,444 United States dollar (as of 2011), 198,233,363 United States dollar (as of 2012) (+9 more) |
 | Linkedin Company Or Organization Id | the-aspen-institute |
 | Snac Ark Id | w6b32nxp |
 | Domain Name | aspeninstitute.org |
@@ -170,17 +189,38 @@ guideline_count: 1
 
 ### Revenue History
 
-- $120.30M (120,298,699 United States dollar (as of 2016-01-01))
-- $152.11M (152,108,136 United States dollar (as of 2019))
-- $134.13M (134,132,712 United States dollar (as of 2018))
-- $129.33M (129,329,186 United States dollar (as of 2017))
-- $151.26M (151,262,821 United States dollar (as of 2020))
-- $189.76M (189,761,926 United States dollar (as of 2022))
-- $171.25M (171,246,686 United States dollar (as of 2021))
-- $232.11M (232,109,335 United States dollar (as of 2023))
-- $73.29M (73,292,367 United States dollar (as of 2011))
-- $95.48M (95,477,286 United States dollar (as of 2012))
-- $93.24M (93,242,479 United States dollar (as of 2013))
-- $96.46M (96,464,217 United States dollar (as of 2014))
-- $142.85M (142,854,526 United States dollar (as of 2015))
-- $443.84M (443,841,184 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $120.30M | as of 2016-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $152.11M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $134.13M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $129.33M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $151.26M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $189.76M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $171.25M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $232.11M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $73.29M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $95.48M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $93.24M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $96.46M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $142.85M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $443.84M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $475.88M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $465.51M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $519.11M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $169.30M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $198.23M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $220.84M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $232.21M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $278.24M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $296.19M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $333.21M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $321.12M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $349.62M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $394.23M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $756.62M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

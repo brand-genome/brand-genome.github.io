@@ -2,12 +2,12 @@
 title: Tomra Systems
 slug: "tomra-systems"
 description: ""
-date: "2026-03-05T22:38:39.684430"
+date: "2026-03-13T08:56:59.611675"
 draft: false
 sectors:
   - "renewable-energy"
-  - software
   - hardware
+  - software
 regions:
   - norway
 years:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "reverse-vending-machine"
+products: []
+headquarters_locations:
+  - asker
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,20 +54,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q469732"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +133,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q469732) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Reverse Vending Machine](/products_or_materials_produced/reverse-vending-machine/) |
+| Headquarters Location | [Asker](/headquarters_locations/asker/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Country | Norway |
 | Freebase Id | /m/02vtxm |
 | Headquarters Location | Asker |
@@ -136,7 +157,6 @@ guideline_count: 1
 | Viaf Cluster Id | 1759148997587459870009 |
 | Product Or Material Produced | reverse vending machine |
 | Part Of | Natur-Aktien-Index (from 1997) |
-| Logo Image | TOMRA LOCKUP H 4C PNG.png |
 | Great Norwegian Encyclopedia Id | Tomra_-_bedrift, Tomra_Systems_ASA |
 | Crunchbase Organization Id | tomra |
 | Facebook Username | tomragroup |

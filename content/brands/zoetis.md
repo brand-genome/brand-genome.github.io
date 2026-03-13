@@ -2,11 +2,11 @@
 title: Zoetis
 slug: zoetis
 description: ""
-date: "2026-03-05T22:38:39.181977"
+date: "2026-03-13T08:56:59.109976"
 draft: false
 sectors:
-  - pharma
   - "veterinary-pet-care"
+  - pharma
 regions:
   - usa
 years:
@@ -20,11 +20,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "100m-500m"
+  - "100M-500M"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "florham-park"
+subsidiaries: []
+foundation_dates:
+  - 1952
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American animal health company
+wikidata_url: "https://www.wikidata.org/wiki/Q8073337"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,12 +79,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8073337) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Florham Park](/headquarters_locations/florham-park/) |
+| Foundation Date | [1952](/foundation_dates/1952/) |
 | Freebase Id | /m/0qfv5zv |
 | Stock Exchange | New York Stock Exchange (from 2013-02-01) |
 | Isin | US98978V1035 |
 | Headquarters Location | Florham Park |
 | Inception | 1952-01-01 |
-| Logo Image | Zoetis logo.svg |
 | Industry | pharmaceutical industry |
 | Eu Transparency Register Id | 564451610987-33, 620014252733-40 |
 | Isni | 0000000417902553 |
@@ -101,45 +119,51 @@ guideline_count: 1
 
 ### Revenue History
 
-- $4.23B (4,233,000,000 United States dollar (as of 2011))
-- $4.34B (4,336,000,000 United States dollar (as of 2012))
-- $4.56B (4,561,000,000 United States dollar (as of 2013))
-- $4.79B (4,785,000,000 United States dollar (as of 2014))
-- $4.76B (4,765,000,000 United States dollar (as of 2015))
-- $4.89B (4,888,000,000 United States dollar (as of 2016))
-- $5.31B (5,307,000,000 United States dollar (as of 2017))
-- $5.83B (5,825,000,000 United States dollar (as of 2018))
-- $6.26B (6,260,000,000 United States dollar (as of 2019))
-- $6.67B (6,675,000,000 United States dollar (as of 2020))
-- $7.78B (7,776,000,000 United States dollar (as of 2021))
-- $8.08B (8,080,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $4.23B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.34B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.56B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.79B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.76B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.89B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.31B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.83B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.26B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.67B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.78B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.08B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $394.00M (394,000,000 United States dollar (as of 2011))
-- $710.00M (710,000,000 United States dollar (as of 2012))
-- $690.00M (690,000,000 United States dollar (as of 2013))
-- $820.00M (820,000,000 United States dollar (as of 2014))
-- $545.00M (545,000,000 United States dollar (as of 2015))
-- $1.23B (1,228,000,000 United States dollar (as of 2016))
-- $1.52B (1,525,000,000 United States dollar (as of 2017))
-- $1.69B (1,690,000,000 United States dollar (as of 2018))
-- $1.80B (1,801,000,000 United States dollar (as of 2019))
-- $2.00B (1,996,000,000 United States dollar (as of 2020))
-- $2.49B (2,488,000,000 United States dollar (as of 2021))
-- $2.66B (2,656,000,000 United States dollar (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $394.00M | as of 2011 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $710.00M | as of 2012 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $690.00M | as of 2013 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $820.00M | as of 2014 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $545.00M | as of 2015 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.23B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.52B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.69B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.80B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.00B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.49B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.66B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $245.00M (245,000,000 United States dollar (as of 2011))
-- $436.00M (436,000,000 United States dollar (as of 2012))
-- $504.00M (504,000,000 United States dollar (as of 2013))
-- $583.00M (583,000,000 United States dollar (as of 2014))
-- $339.00M (339,000,000 United States dollar (as of 2015))
-- $821.00M (821,000,000 United States dollar (as of 2016))
-- $864.00M (864,000,000 United States dollar (as of 2017))
-- $1.43B (1,428,000,000 United States dollar (as of 2018))
-- $1.50B (1,500,000,000 United States dollar (as of 2019))
-- $1.64B (1,638,000,000 United States dollar (as of 2020))
-- $2.04B (2,037,000,000 United States dollar (as of 2021))
-- $2.11B (2,114,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $245.00M | as of 2011 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $436.00M | as of 2012 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $504.00M | as of 2013 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $583.00M | as of 2014 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $339.00M | as of 2015 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $821.00M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $864.00M | as of 2017 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.43B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.50B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.64B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.04B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.11B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |

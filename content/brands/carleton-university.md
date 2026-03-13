@@ -2,7 +2,7 @@
 title: Carleton University
 slug: "carleton-university"
 description: ""
-date: "2026-03-05T22:38:39.503181"
+date: "2026-03-13T08:56:59.426222"
 draft: false
 sectors:
   - university
@@ -19,9 +19,23 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "robertson-hall"
+  - ottawa
+subsidiaries: []
+foundation_dates:
+  - 1943
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +61,20 @@ brand_colors:
   - red
   - black
 typographies:
+  - helvetica
   - gotham
   - georgia
   - arial
-  - helvetica
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "university in Ottawa, Ontario, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q1041737"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1041737) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Robertson Hall](/headquarters_locations/robertson-hall/); [Ottawa](/headquarters_locations/ottawa/) |
+| Foundation Date | [1943](/foundation_dates/1943/) |
 | Located In The Administrative Territorial Entity | Capital Ward |
 | Topic'S Main Category | Category:Carleton University |
 | Freebase Id | /m/01dq0z |
@@ -129,7 +151,6 @@ guideline_count: 1
 | Image | CarletonUniversity2022.jpg |
 | Microsoft Academic Id (Discontinued) | 67031392 |
 | Count Of Students | 28,289, 9,109 (as of 2021-09-01) |
-| Employees | 3,742, 3,055 (as of 2003), 3,402 (as of 2004), 4,410 (as of 2005), 5,188 (as of 2006) (+16 more) |
 | Library Of Congress Authority Id | n79007231 |
 | Google Maps Customer Id | 13789333181179682012 |
 | Nacsis Cat Author Id | DA01353833 |
@@ -187,34 +208,86 @@ guideline_count: 1
 | Kisti Id | K000196559 |
 | Kalliope Verbund (Gnd) Id | 25574-9 |
 | Funder | Open Society Foundations (as of 2020) |
-| Logo Image | Carleton University Logo.svg |
 | ‎Yale Lux Id | group/577e6235-bb4a-41c7-ada5-014d05e5e89e |
 | World Higher Education Database Id | IAU-001997 |
 | Organisation Tax Status | charitable organization in Canada |
 | Donations | 10,210,369 Canadian dollar (as of 2003), 5,807,902 Canadian dollar (as of 2004), 6,875,073 Canadian dollar (as of 2005), 5,744,115 Canadian dollar (as of 2006), 3,296,805 Canadian dollar (as of 2007) (+16 more) |
-| Total Assets | 425,244,000 Canadian dollar (as of 2003), 501,402,000 Canadian dollar (as of 2004), 555,881,000 Canadian dollar (as of 2005), 605,750,000 Canadian dollar (as of 2006), 649,950,000 Canadian dollar (as of 2007) (+16 more) |
 | Cra Program Account Number | 118838937RR0001 |
 
 ### Revenue History
 
-- $328.38M (328,383,518 Canadian dollar (as of 2003))
-- $338.12M (338,124,000 Canadian dollar (as of 2004))
-- $362.02M (362,023,000 Canadian dollar (as of 2005))
-- $373.48M (373,483,000 Canadian dollar (as of 2006))
-- $401.77M (401,773,000 Canadian dollar (as of 2007))
-- $418.60M (418,595,000 Canadian dollar (as of 2008))
-- $435.11M (435,105,490 Canadian dollar (as of 2010))
-- $453.65M (453,653,397 Canadian dollar (as of 2011))
-- $483.51M (483,509,000 Canadian dollar (as of 2012))
-- $514.89M (514,892,000 Canadian dollar (as of 2013))
-- $539.81M (539,807,000 Canadian dollar (as of 2014))
-- $571.04M (571,040,000 Canadian dollar (as of 2015))
-- $589.68M (589,680,267 Canadian dollar (as of 2016))
-- $634.90M (634,898,253 Canadian dollar (as of 2017))
-- $679.98M (679,980,688 Canadian dollar (as of 2018))
-- $711.08M (711,076,041 Canadian dollar (as of 2019))
-- $675.97M (675,971,991 Canadian dollar (as of 2020))
-- $680.80M (680,799,751 Canadian dollar (as of 2021))
-- $673.71M (673,705,249 Canadian dollar (as of 2022))
-- $733.11M (733,106,112 Canadian dollar (as of 2023))
-- $751.08M (751,082,816 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $328.38M | as of 2003 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $338.12M | as of 2004 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $362.02M | as of 2005 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $373.48M | as of 2006 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $401.77M | as of 2007 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $418.60M | as of 2008 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $435.11M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $453.65M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $483.51M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $514.89M | as of 2013 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $539.81M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $571.04M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $589.68M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $634.90M | as of 2017 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $679.98M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $711.08M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $675.97M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $680.80M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $673.71M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $733.11M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $751.08M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,742 | - | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,055 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,402 | as of 2004 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,410 | as of 2005 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,188 | as of 2006 | [1K-10K](/employees_buckets/1k-10k/) |
+| 8,301 | as of 2008 | [1K-10K](/employees_buckets/1k-10k/) |
+| 7,795 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,450 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,081 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 3,983 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,248 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,178 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,142 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,852 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,946 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,139 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,341 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,607 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,878 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,791 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,884 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $425.24M | as of 2003 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $501.40M | as of 2004 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $555.88M | as of 2005 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $605.75M | as of 2006 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $649.95M | as of 2007 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $743.61M | as of 2008 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $804.30M | as of 2010 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $931.13M | as of 2011 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $922.95M | as of 2012 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $1.05B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.12B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.21B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.27B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.41B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.53B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.64B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.60B | as of 2020 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.73B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.93B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.94B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.93B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

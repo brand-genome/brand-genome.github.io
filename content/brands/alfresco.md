@@ -2,7 +2,7 @@
 title: Alfresco
 slug: alfresco
 description: ""
-date: "2026-03-05T22:38:39.678784"
+date: "2026-03-13T08:56:59.596304"
 draft: false
 sectors:
   - software
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +51,26 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - gold
-  - orange
   - blue
-  - gray
+  - gold
   - green
+  - orange
+  - gray
 typographies:
   - roboto
   - slab
 imagery_styles:
-  - bold
   - photography
-  - subtle
   - candid
+  - subtle
+  - bold
 wikidata_description: "open-source content-management system"
+wikidata_url: "https://www.wikidata.org/wiki/Q946976"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +122,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q946976) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Freebase Id | /m/07l2hp |
 | Platform | Java virtual machine, Microsoft Windows |
 | Programmed In | Java,  |
@@ -124,7 +141,6 @@ guideline_count: 1
 | Inception | 2005-11-01 |
 | Pro Linux.De Dbapp Id | 13301 |
 | Quora Topic Id | Alfresco-product |
-| Logo Image | Alfresco-logo.svg |
 | Social Media Followers | 15,900 (as of 2021-01-04), 15,472 (as of 2022-02-24), 15,141 (as of 2023-02-10) |
 | Github Account | Alfresco |
 | Crunchbase Organization Id | alfresco |

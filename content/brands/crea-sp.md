@@ -2,7 +2,7 @@
 title: "Crea-SP"
 slug: "crea-sp"
 description: ""
-date: "2026-03-05T22:38:39.584559"
+date: "2026-03-13T08:56:59.525243"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - helsinki
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,30 +49,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - gold
   - silver
+  - gold
   - black
 typographies:
-  - impact
-  - verdana
+  - raleway
   - din
   - garamond
-  - raleway
+  - verdana
+  - impact
 imagery_styles:
-  - bold
   - minimal
+  - bold
 wikidata_description: "Finnish film prduction company (1998-2010)"
+wikidata_url: "https://www.wikidata.org/wiki/Q126078579"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q126078579) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Helsinki](/headquarters_locations/helsinki/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Imdb Id | co0201389 |
 | Exact Match | https://elonet.finna.fi/Search/Results?filter%5B%5D=author2_id_str_mv%3Akavi.elonet_yhtio_905334, https://tietopalvelu.ytj.fi/yritys/1463787-0 |
 | Inception | 1998-04-27 |

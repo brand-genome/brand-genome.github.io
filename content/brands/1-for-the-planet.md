@@ -2,15 +2,15 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-03-05T22:38:39.322728"
+date: "2026-03-13T08:56:59.274855"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2021
   - 2020
+  - 2021
 languages:
   - english
 tags:
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - burlington
+subsidiaries: []
+foundation_dates:
+  - 2002
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,34 +52,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - vertical
 brand_colors:
   - white
-  - teal
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - coral
+  - black
+  - gray
+  - teal
 typographies:
-  - impact
   - montserrat
+  - impact
 imagery_styles:
-  - bold
-  - product
-  - natural
   - vibrant
+  - natural
+  - product
+  - bold
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q2024075"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -158,6 +172,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2024075) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Burlington](/headquarters_locations/burlington/) |
+| Foundation Date | [2002](/foundation_dates/2002/) |
 | Freebase Id | /m/03ylkck |
 | Youtube Channel Id | UCt7Vb_t-ATwvYHTqs4Q2frQ (as of 2020-12-10, from 2008-05-20) |
 | X (Twitter) Username | 1PercentFTP (as of 2020-04-28, from 2009-01-21) |
@@ -182,23 +202,42 @@ guideline_count: 2
 | Terms Of Service Url | https://www.onepercentfortheplanet.org/terms-of-use |
 | Founded By | Yvon Chouinard |
 | Donations | 2,919,157 United States dollar (as of 2022), 1,765,746 United States dollar (as of 2021), 2,904,415 United States dollar (as of 2023), 391,371 United States dollar (as of 2011), 669,885 United States dollar (as of 2012) (+8 more) |
-| Total Assets | 11,811,168 United States dollar (as of 2022), 13,842,882 United States dollar (as of 2021), 10,308,059 United States dollar (as of 2023), 719,265 United States dollar (as of 2011), 792,467 United States dollar (as of 2012) (+8 more) |
 | Field Of Work | environmental protection |
 | Youtube Handle | 1percentfortheplanet (as of 2025-10-21) |
 | Number Of Viewers/Listeners | 1,243,535 (as of 2025-11-24) |
 
 ### Revenue History
 
-- $6.72M (6,719,066 United States dollar (as of 2022))
-- $4.57M (4,568,518 United States dollar (as of 2021))
-- $7.56M (7,558,776 United States dollar (as of 2023))
-- $1.22M (1,217,534 United States dollar (as of 2011))
-- $1.59M (1,587,423 United States dollar (as of 2012))
-- $2.09M (2,088,779 United States dollar (as of 2013))
-- $1.91M (1,910,269 United States dollar (as of 2014))
-- $1.37M (1,369,645 United States dollar (as of 2015))
-- $1.62M (1,621,010 United States dollar (as of 2016))
-- $1.61M (1,614,527 United States dollar (as of 2017))
-- $2.09M (2,085,201 United States dollar (as of 2018))
-- $2.91M (2,913,838 United States dollar (as of 2019))
-- $3.11M (3,109,528 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $6.72M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.57M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.56M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.22M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.59M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.09M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.91M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.37M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.62M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.61M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.09M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.91M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.11M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $11.81M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $13.84M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $10.31M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $719.26K | as of 2011 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $792.47K | as of 2012 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $978.05K | as of 2013 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $963.80K | as of 2014 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $590.38K | as of 2015 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $850.97K | as of 2016 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $1.04M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.57M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.83M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $11.06M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

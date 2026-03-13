@@ -2,11 +2,11 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-03-05T22:38:39.572417"
+date: "2026-03-13T08:56:59.503564"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
   - "e-commerce"
 regions:
   - "united-kingdom"
@@ -16,18 +16,31 @@ languages:
   - english
 tags:
   - shopping
-  - featured
   - corporate
+  - featured
 industries:
   - "retail-chain"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "welwyn-garden-city"
+  - cheshunt
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +62,24 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - blue
-  - turquoise
-  - green
   - purple
+  - green
+  - turquoise
+  - black
 typographies:
   - arial
 imagery_styles:
-  - bold
   - photography
   - product
+  - bold
 wikidata_description: British multinational retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q487494"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -134,6 +149,12 @@ Important: all styles are equally significant and can coexist within the same co
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q487494) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Welwyn Garden City](/headquarters_locations/welwyn-garden-city/); [Cheshunt](/headquarters_locations/cheshunt/) |
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Founded By | Jack Cohen |
 | Headquarters Location | Welwyn Garden City, Cheshunt |
 | Image | Tesco Express, Wavertree.jpg |
@@ -149,7 +170,6 @@ Important: all styles are equally significant and can coexist within the same co
 | The Guardian Topic Id | business/tesco |
 | Country | United Kingdom |
 | Industry | retail chain |
-| Employees | 482,152 (as of 2016), 423,092 (as of 2020) |
 | Owned By | Norges Bank (as of 2016-02-27), Deutsche Bank (as of 2016-02-27), BlackRock (as of 2016-02-27), Schroders (as of 2016-02-27) |
 | Owner Of | Tesco Mobile, Lotus's, Lazada Group |
 | Child Organization Or Unit | Tesco Ireland, Tesco Bank, Stewarts Supermarket Limited, Dunnhumby, Dobbies Garden Centres (+7 more) |
@@ -191,7 +211,6 @@ Important: all styles are equally significant and can coexist within the same co
 | Change.Org Decision Maker Id | tesco |
 | Zhihu Topic Id | 19809178 |
 | Golden Id | Tesco-W9WNV |
-| Logo Image | Tesco logo.png |
 | Musicbrainz Label Id | d37bd816-a071-4eb2-9514-8914a7e399ea |
 | Linkedin Company Or Organization Id | -tesco |
 | Coat Of Arms Image | Tesco CoA.svg |
@@ -205,15 +224,28 @@ Important: all styles are equally significant and can coexist within the same co
 
 ### Revenue History
 
-- $54.43B (54,433,000,000 pound sterling (as of 2016))
-- $56.92B (56,925,000,000 pound sterling (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $54.43B | as of 2016 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $56.92B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $1.05B (1,046,000,000 pound sterling (as of 2016))
-- $5.75B (-5,750,000,000 pound sterling (as of 2015))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.05B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.75B | as of 2015 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $129.00M (129,000,000 pound sterling (as of 2016))
-- $5.77B (-5,766,000,000 pound sterling (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $129.00M | as of 2016 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $5.77B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 482,152 | as of 2016 | [100K-500K](/employees_buckets/100k-500k/) |
+| 423,092 | as of 2020 | [100K-500K](/employees_buckets/100k-500k/) |

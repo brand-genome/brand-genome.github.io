@@ -2,7 +2,7 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-03-05T22:38:39.586288"
+date: "2026-03-13T08:56:59.528274"
 draft: false
 sectors:
   - consulting
@@ -16,14 +16,32 @@ languages:
 tags:
   - financial
 industries:
-  - "professional-services-industry"
   - "accounting-services"
+  - "professional-services-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "risk-management"
+  - consultation
+  - audit
+  - tax
+  - "law-firm"
+products: []
+headquarters_locations:
+  - london
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1845
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +61,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
   - green
   - black
 typographies:
-  - impact
-  - "open-sans"
   - verdana
   - times
+  - impact
+  - "open-sans"
 imagery_styles:
   - bold
 wikidata_description: multinational professional services network founded in 1845
+wikidata_url: "https://www.wikidata.org/wiki/Q491748"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,7 +130,13 @@ Additional complementary colors including blues and grays are listed explicitly 
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Logo of Deloitte.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q491748) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Risk Management](/products_or_materials_produced/risk-management/); [Consultation](/products_or_materials_produced/consultation/); [Audit](/products_or_materials_produced/audit/); [Tax](/products_or_materials_produced/tax/); [Law Firm](/products_or_materials_produced/law-firm/) |
+| Headquarters Location | [London](/headquarters_locations/london/); [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1845](/foundation_dates/1845/) |
 | Founded By | William Welch Deloitte, George Touche |
 | Topic'S Main Category | Category:Deloitte |
 | Headquarters Location | New York City, London |
@@ -122,7 +148,6 @@ Additional complementary colors including blues and grays are listed explicitly 
 | Quora Topic Id | Deloitte-company |
 | Ringgold Id | 377138, 121052 |
 | Country | United Kingdom |
-| Employees | 334,800 (as of 2020), 345,374 (as of 2021) |
 | Open Funder Registry Funder Id | 100002462 |
 | New Georgia Encyclopedia Id | business-economy/deloitte |
 | Location Of Formation | London |
@@ -168,5 +193,14 @@ Additional complementary colors including blues and grays are listed explicitly 
 
 ### Revenue History
 
-- $47.60B (47,600,000,000 United States dollar (as of 2020))
-- $50.20B (50,200,000,000 United States dollar (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $47.60B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $50.20B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 334,800 | as of 2020 | [100K-500K](/employees_buckets/100k-500k/) |
+| 345,374 | as of 2021 | [100K-500K](/employees_buckets/100k-500k/) |

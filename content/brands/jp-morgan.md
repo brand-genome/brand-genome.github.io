@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-03-05T22:38:39.614302"
+date: "2026-03-13T08:56:59.560834"
 draft: false
 sectors:
   - finance
@@ -20,6 +20,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1871
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,17 +52,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
   - brown
+  - blue
   - gray
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: U.S. investment bank
+wikidata_url: "https://www.wikidata.org/wiki/Q2633403"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,13 +109,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2633403) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1871](/foundation_dates/1871/) |
 | Founded By | J. P. Morgan |
 | Followed By | JPMorgan Chase |
 | Inception | 1871-01-01 |
 | Child Organization Or Unit | J.P. Morgan Private Bank, International Mercantile Marine Company |
 | Parent Organization Or Unit | JPMorgan Chase |
 | Headquarters Location | New York City |
-| Logo Image | J P Morgan Logo 2008 1.svg |
 | Industry | financial services |
 | Quora Topic Id | JP-Morgan-company |
 | Uk Parliament Thesaurus Id | 41703 |

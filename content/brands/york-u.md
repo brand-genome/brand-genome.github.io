@@ -2,7 +2,7 @@
 title: York U
 slug: "york-u"
 description: ""
-date: "2026-03-05T22:38:39.216419"
+date: "2026-03-13T08:56:59.154450"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - york
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in York, North Yorkshire, England"
+wikidata_url: "https://www.wikidata.org/wiki/Q967165"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q967165) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [York](/headquarters_locations/york/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Chairperson | Greg Dyke |
 | Motto Text | In limine sapientia, On the threshold of wisdom |
 | Coordinate Location | 53.94659, -1.0525 |
@@ -73,7 +93,6 @@ guideline_count: 1
 | Country | United Kingdom |
 | Freebase Id | /m/014d4v |
 | Inception | 1963 |
-| Employees | 3,091 |
 | Location | York |
 | Affiliation | Russell Group |
 | Viaf Cluster Id | 145108120 |
@@ -167,3 +186,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/f778272f-146d-4f86-aae9-f0c4348aa40a |
 | The Guardian Topic Id | education/universityofyork |
 | Threads Username | uniofyork |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,091 | - | [1K-10K](/employees_buckets/1k-10k/) |

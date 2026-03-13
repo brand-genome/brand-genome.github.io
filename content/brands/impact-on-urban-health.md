@@ -2,11 +2,11 @@
 title: Impact on Urban Health
 slug: "impact-on-urban-health"
 description: ""
-date: "2026-03-05T22:38:39.410840"
+date: "2026-03-13T08:56:59.372095"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - "united-kingdom"
@@ -15,14 +15,23 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,12 +55,12 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - teal
-  - orange
   - grey
-  - black
   - yellow
   - green
+  - black
+  - orange
+  - teal
 typographies:
   - impact
   - arial
@@ -60,10 +69,12 @@ imagery_styles:
   - clean
   - modern
 wikidata_description: organisation focussed on urban health in the UK
+wikidata_url: "https://www.wikidata.org/wiki/Q114846899"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -121,6 +132,10 @@ guideline_count: 1
 - Contact information for Impact on Urban Health includes address, phone, and registered charity details.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q114846899) |
 
 | Property | Value |
 |----------|-------|

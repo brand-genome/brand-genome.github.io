@@ -2,7 +2,7 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-03-05T22:38:39.723043"
+date: "2026-03-13T08:56:59.742345"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +52,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors: []
 typographies:
+  - helvetica
   - georgia
   - arial
-  - helvetica
 imagery_styles:
-  - bold
   - dynamic
   - clean
+  - bold
 wikidata_description: Finnish university
+wikidata_url: "https://www.wikidata.org/wiki/Q300980"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q300980) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Topic'S Main Category | Category:Aalto University |
 | Coordinate Location | 60.186111, 24.828611 |
 | Country | Finland |
@@ -121,7 +139,6 @@ guideline_count: 1
 | Quora Topic Id | Aalto-University |
 | Ringgold Id | 174277 |
 | Ipv4 Routing Prefix | 193.167.39.0/24, 130.233.0.0/16 |
-| Logo Image | Aalto-yliopiston logo.svg, Aalto University logo tri-lingual version.png |
 | Open Funder Registry Funder Id | 501100002666 |
 | Child Organization Or Unit | Helsinki Institute of Physics |
 | Uppslagsverket Finland Id | AaltoUniversitetet |
@@ -140,7 +157,6 @@ guideline_count: 1
 | Owner Of | Aalto University Executive Education |
 | Microsoft Academic Id (Discontinued) | 9927081 |
 | Count Of Students | 12,000 |
-| Employees | 4,000 |
 | Ror Id | 020hwjq30 |
 | Grants | Bachelor of Arts, Master of Arts, Bachelor of Science, Master of Science, joint degree |
 | Described By Source | Open GLAM Survey (as of 2019-10-31) |
@@ -181,3 +197,9 @@ guideline_count: 1
 | Unirank Id | 1305 |
 | Topic Has Template | Template:Aalto University |
 | Err Keyword Id | 1967982 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,000 | - | [1K-10K](/employees_buckets/1k-10k/) |

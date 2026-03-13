@@ -2,12 +2,12 @@
 title: Petroleum Authority of Thailand
 slug: "petroleum-authority-of-thailand"
 description: ""
-date: "2026-03-05T22:38:39.419733"
+date: "2026-03-13T08:56:59.379462"
 draft: false
 sectors:
   - petroleum
-  - oil
   - gas
+  - oil
 regions:
   - thailand
 years:
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - petroleum
+products: []
+headquarters_locations:
+  - chatuchak
+subsidiaries: []
+foundation_dates:
+  - 1977
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +61,12 @@ typographies:
 imagery_styles:
   - subtle
 wikidata_description: petroleum organization in Thailand
+wikidata_url: "https://www.wikidata.org/wiki/Q1810389"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -82,11 +97,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1810389) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/) |
+| Headquarters Location | [Chatuchak](/headquarters_locations/chatuchak/) |
+| Foundation Date | [1977](/foundation_dates/1977/) |
 | Freebase Id | /m/0h0qp9 |
 | Inception | 1977-12-29 |
 | Isin | TH0646010R18 |
 | Headquarters Location | Chatuchak |
-| Employees | 10,630 |
 | Topic'S Main Category | Category:PTT group |
 | Country | Thailand |
 | Child Organization Or Unit | PTT Exploration and Production Public Company Limited, PTT Global Chemical Public Company Limited, PTT Chemical Public Company Limited, PTT Aromatics and Refining Public Company Limited, Thai Oil (+3 more) |
@@ -105,7 +126,12 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 100012915 |
 | Openalex Id | I102065260 |
 | Legal Entity Identifier | 549300QOGMPTKB6W7G56 |
-| Logo Image | PTT-01.svg |
 | Legal Form | public limited company |
 | Kisti Id | K000228715 |
 | Facebook Username | PTTNews |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 10,630 | - | [10K-50K](/employees_buckets/10k-50k/) |

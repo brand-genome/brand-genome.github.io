@@ -2,7 +2,7 @@
 title: UCSF
 slug: ucsf
 description: ""
-date: "2026-03-05T22:38:39.376491"
+date: "2026-03-13T08:56:59.335766"
 draft: false
 sectors:
   - healthcare
@@ -14,15 +14,27 @@ years:
 languages:
   - english
 tags:
+  - signage
   - education
   - university
-  - signage
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1873
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public land-grant research university in San Francisco, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q1061104"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1061104) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1873](/foundation_dates/1873/) |
 | Coordinate Location | 37.76277777777778, -122.45805555555556 |
 | Country | United States |
 | Topic'S Main Category | Category:University of California, San Francisco |
@@ -128,7 +148,6 @@ guideline_count: 1
 | Arwu University Id | University-of-California-San-Francisco |
 | Qs World University Id | university-california-san-francisco |
 | U Multirank University Id | university-of-california-san-francisco |
-| Logo Image | University of California, San Francisco logo.svg |
 | Times Higher Education World University Id | university-california-san-francisco |
 | Founded By | Hugh Toland |
 | Nl Cr Aut Id | xx0086534, xx0086535 |
@@ -152,7 +171,6 @@ guideline_count: 1
 | Crunchbase Organization Id | university-of-california-san-francisco, ucsf-benioff-children-s-hospital |
 | Different From | San Francisco State University |
 | Member Of | Dryad,  (as of 2021), ORCID, Inc. (as of 2023-10), Open Education Network, Higher Education Leadership Initiative for Open Scholarship (from 2022) (+2 more) |
-| Employees | 13,713 (as of 2020-09) |
 | Openalex Id | I180670191, P4310316229 |
 | National Library Of Israel J9U Id | 987007269090905171 |
 | University Of Barcelona Authority Id | 981058518437706706 |
@@ -171,3 +189,9 @@ guideline_count: 1
 | Gnd Id | 2051282-X |
 | Unirank Id | 5152 |
 | Threads Username | ucsf |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13,713 | as of 2020-09 | [10K-50K](/employees_buckets/10k-50k/) |

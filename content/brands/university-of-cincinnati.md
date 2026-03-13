@@ -2,7 +2,7 @@
 title: University of Cincinnati
 slug: "university-of-cincinnati"
 description: ""
-date: "2026-03-05T22:38:39.816515"
+date: "2026-03-13T08:56:59.886010"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1819
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,11 +51,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
   - alternate
-  - horizontal
   - vertical
+  - horizontal
+  - seal
 brand_colors:
   - white
   - red
@@ -55,13 +66,15 @@ typographies:
   - times
   - arial
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "public research university in Cincinnati, Ohio, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q153265"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +129,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q153265) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1819](/foundation_dates/1819/) |
 | Coordinate Location | 39.132777777777775, -84.51527777777778 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Cincinnati |
@@ -160,7 +178,6 @@ guideline_count: 1
 | Nl Cr Aut Id | ko2008248304, ko2008248346 |
 | Microsoft Academic Id (Discontinued) | 63135867 |
 | Count Of Students | 42,421 |
-| Employees | 5,928 |
 | Street Address | 2624 Clifton Avenue, Cincinnati, OH, 45221-0063 |
 | Library Of Congress Authority Id | n79034519 |
 | Hal Structure Id | 107363 |
@@ -197,7 +214,6 @@ guideline_count: 1
 | National Library Of Poland Mms Id | 9812833181405606 |
 | Rero Id (Legacy) | A000188261 |
 | Cinii Research Id | 1140845216622456832 |
-| Logo Image | University of Cincinnati seal.svg |
 | Native Label | University of Cincinnati |
 | Sevis School Id | 7347 |
 | Described By Source | Collier's New Encyclopedia, 1921, The Encyclopedia Americana, New International Encyclopedia |
@@ -213,3 +229,9 @@ guideline_count: 1
 | Threads Username | uofcincy |
 | Athletics Program | Cincinnati Bearcats |
 | Postimees Topic Id | 660511 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,928 | - | [1K-10K](/employees_buckets/1k-10k/) |

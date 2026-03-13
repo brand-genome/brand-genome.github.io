@@ -2,7 +2,7 @@
 title: Wolfspeed
 slug: wolfspeed
 description: ""
-date: "2026-03-05T22:38:39.098224"
+date: "2026-03-13T08:56:59.050496"
 draft: false
 sectors:
   - electronics
@@ -20,8 +20,22 @@ countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets:
-  - "10m-100m"
+  - "10M-100M"
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "1B-10B"
+products_or_materials_produced:
+  - "light-emitting-diode"
+products: []
+headquarters_locations:
+  - durham
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "manufacturer of wide bandgap semiconductors, focused on silicon carbide and gallium nitride materials"
+wikidata_url: "https://www.wikidata.org/wiki/Q5183828"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,12 +79,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5183828) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Light Emitting Diode](/products_or_materials_produced/light-emitting-diode/) |
+| Headquarters Location | [Durham](/headquarters_locations/durham/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Stock Exchange | Nasdaq (from 2021-10-04), New York Stock Exchange |
 | Headquarters Location | Durham |
 | Inception | 1987 |
-| Logo Image | Cree Inc. logo.svg (until 2021-10-04) |
-| Market Capitalization | 7,000,000,000 United States dollar |
-| Employees | 3,200 |
 | Isni | 0000000406347646 |
 | Ringgold Id | 61936 |
 | Child Organization Or Unit | Cree (China), Arkansas Power Electronics International |
@@ -92,4 +112,18 @@ guideline_count: 1
 
 ### Operating Income History
 
-- $56.00M (56,000,000 United States dollar (as of 2009))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $56.00M | as of 2009 | [10M-100M](/operating_income_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,200 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $7.00B | - | [1B-10B](/market_cap_buckets/1b-10b/) |

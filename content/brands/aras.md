@@ -2,7 +2,7 @@
 title: Aras
 slug: aras
 description: ""
-date: "2026-03-05T22:38:39.075587"
+date: "2026-03-13T08:56:59.026810"
 draft: false
 sectors:
   - software
@@ -19,9 +19,24 @@ industries:
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "omnidirectional-camera"
+  - "still-camera"
+  - "action-camera"
+products: []
+headquarters_locations:
+  - shenzhen
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Chinese action camera manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q48147014"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,12 +85,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48147014) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Omnidirectional Camera](/products_or_materials_produced/omnidirectional-camera/); [Still Camera](/products_or_materials_produced/still-camera/); [Action Camera](/products_or_materials_produced/action-camera/) |
+| Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Country | People's Republic of China |
 | Facebook Username | 100064392801722 |
 | Headquarters Location | Shenzhen |
 | Inception | 2015 |
 | Google Knowledge Graph Id | /g/11f2wd2x9n |
-| Logo Image | Insta360 logo (transparent).svg |
 | Crunchbase Organization Id | insta360 |
 | Tiktok Username | insta360_official |
 | X (Twitter) Username | Insta360 (from 2015-07-21) |
@@ -81,7 +104,6 @@ guideline_count: 1
 | Youtube Channel Id | UCMCleHtWKKAnNND0IGHpNGw (as of 2024-10-27, from 2020-04-08), UC3qWcF49rv8VMZO7Vg6kj5w (as of 2024-10-27, from 2015-10-08) |
 | Founded By | JK Liu |
 | Product Or Material Produced | action camera, still camera, omnidirectional camera |
-| Employees | 2,000 (as of 2024) |
 | Motto Text | Think bold, Pensa in modo audace |
 | Social Media Followers | 20,800 (as of 2023-10-11), 23,400 (as of 2024-05-04) |
 | Image | Insta360 GO3.png |
@@ -96,4 +118,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $780.00M (780,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $780.00M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,000 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |

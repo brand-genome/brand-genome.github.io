@@ -2,7 +2,7 @@
 title: Cathay Pacific
 slug: "cathay-pacific"
 description: ""
-date: "2026-03-05T22:38:39.602688"
+date: "2026-03-13T08:56:59.545499"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "hong-kong"
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,27 +50,29 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
   - red
-  - "pantone-295"
-  - "pantone-185"
   - grey
-  - black
-  - "pantone-323"
+  - "pantone-185"
+  - "pantone-295"
   - green
+  - black
   - "pantone-202"
+  - "pantone-323"
 typographies:
   - univers
 imagery_styles:
   - professional
 wikidata_description: flag carrier of Hong Kong
+wikidata_url: "https://www.wikidata.org/wiki/Q32141"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q32141) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hong Kong](/headquarters_locations/hong-kong/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Official Name | 國泰航空公司, Cathay Pacific Airlines Limited |
 | Founded By | Roy Farrell, Sydney de Kantzow |
 | Airline Hub | Hong Kong International Airport |
@@ -149,7 +168,6 @@ guideline_count: 1
 | Significant Event | Cathay Pacific Airways 2018 data breach |
 | Pinterest Username | cathaypacific |
 | Social Media Followers | 561,840 (as of 2021-01-01), 534,712 (as of 2018-05-10), 115,000 (as of 2021-07-04), 555,110 (as of 2022-02-27), 558,770 (as of 2023-02-10) (+3 more) |
-| Logo Image | Cathay Pacific Ltd. logo.svg |
 | Youtube Channel Id | UCDF__e4OyxESzW1snu1i0Bg (as of 2021-05-06, from 2006-04-04) |
 | Linkedin Company Or Organization Id | cathay-pacific-airways (as of 2021-05-06) |
 | Legal Entity Identifier | EQNZNT235RBOJ6LJQZ02 |

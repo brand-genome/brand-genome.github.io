@@ -2,7 +2,7 @@
 title: U.S. Army
 slug: "us-army"
 description: ""
-date: "2026-03-05T22:38:39.274688"
+date: "2026-03-13T08:56:59.216854"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,26 @@ years:
 languages:
   - english
 tags:
-  - featured
   - military
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "main-navy-and-munitions-buildings"
+  - "the-pentagon"
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: aerial warfare branch of the United States Army from 1941 to 1947
+wikidata_url: "https://www.wikidata.org/wiki/Q741723"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q741723) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Main Navy And Munitions Buildings](/headquarters_locations/main-navy-and-munitions-buildings/); [The Pentagon](/headquarters_locations/the-pentagon/) |
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Has Use | aerial warfare |
 | Military Branch | United States Army |
 | Country | United States |

@@ -2,7 +2,7 @@
 title: Austin Peay State University
 slug: "austin-peay-state-university"
 description: ""
-date: "2026-03-05T22:38:39.425246"
+date: "2026-03-13T08:56:59.394289"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1927
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,26 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lettermark
+  - primary
 brand_colors:
+  - gray
   - red
+  - "pantone-200"
+  - silver
   - black
   - "pantone-429"
-  - silver
-  - gray
-  - "pantone-200"
 typographies:
   - gotham
 imagery_styles:
-  - bold
   - photography
   - minimal
+  - bold
 wikidata_description: "public university in Clarksville, Tennessee, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q781153"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +122,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q781153) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1927](/foundation_dates/1927/) |
 | Coordinate Location | 36.5323, -87.3546 |
 | Country | United States |
 | Topic'S Main Category | Category:Austin Peay State University |
@@ -126,7 +144,6 @@ guideline_count: 1
 | Grid Id | grid.252567.1 |
 | X (Twitter) Username | austinpeay (as of 2020-04-19, from 2009-01-05) |
 | Category For Employees Of The Organization | Category:Austin Peay State University faculty |
-| Logo Image | Austin Peay State University (old) logo.svg |
 | Tennessee Encyclopedia Id | austin-peay-state-university |
 | Owner Of | Winfield Dunn Center, Fortera Stadium, Raymond C. Hand Park, WAPX-FM |
 | Microsoft Academic Id (Discontinued) | 184692499 |
@@ -143,7 +160,6 @@ guideline_count: 1
 | Crunchbase Organization Id | austin-peay-state-university |
 | Open Funder Registry Funder Id | 100013083 |
 | Count Of Students | 10,272 (as of 2020-09) |
-| Employees | 1,354 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Academic Calendar Type | semester |
@@ -152,3 +168,9 @@ guideline_count: 1
 | Kisti Id | K000206759 |
 | Threads Username | austinpeay |
 | Athletics Program | Austin Peay Governors |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,354 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: U Sports
 slug: "u-sports"
 description: ""
-date: "2026-03-05T22:38:39.595512"
+date: "2026-03-13T08:56:59.536816"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "richmond-hill"
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,13 +49,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - emblem
   - icon
+  - emblem
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
   - red
@@ -52,17 +63,19 @@ brand_colors:
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - bold
-  - photography
-  - dynamic
-  - lifestyle
-  - candid
   - natural
+  - dynamic
+  - photography
+  - candid
+  - lifestyle
+  - bold
 wikidata_description: governing body of university sport in Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q1032195"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1032195) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Richmond Hill](/headquarters_locations/richmond-hill/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Topic'S Main Category | Category:U Sports |
 | Freebase Id | /m/021wvx |
 | Headquarters Location | Richmond Hill |
@@ -125,7 +144,6 @@ guideline_count: 1
 | Grid Id | grid.448621.d |
 | Sport | curling |
 | Ror Id | 0019cam27 |
-| Logo Image | U Sports Logo.svg |
 | Image | CIS mens basketball trophy 2013.jpg |
 | Sportslogos.Net Team Id | 5392 |
 | Domain Name | usports.ca |

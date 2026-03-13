@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-03-05T22:38:39.235437"
+date: "2026-03-13T08:56:59.179451"
 draft: false
 sectors:
+  - "ride-sharing"
   - software
   - finance
-  - "ride-sharing"
 regions:
   - indonesia
 years:
@@ -24,6 +24,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "computer-program"
+products: []
+headquarters_locations:
+  - indonesia
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Indonesian technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q20426955"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +89,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20426955) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer Program](/products_or_materials_produced/computer-program/) |
+| Headquarters Location | [Indonesia](/headquarters_locations/indonesia/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Google Play Store App Id | com.gojek.app |
 | Quora Topic Id | Go-Jek |
 | Headquarters Location | Indonesia |
@@ -88,7 +109,6 @@ guideline_count: 2
 | Facebook Username | gojekindonesia |
 | Legal Form | Perseroan Terbatas |
 | Chief Executive Officer | Kevin Aluwi (as of 2019-10-22) |
-| Logo Image | Gojek logo 2022.svg |
 | Platform | iOS, Android |
 | Viaf Cluster Id | 64153124354224492716 |
 | Owned By | Nadiem Makarim (as of 2018-09-30), Kevin Aluwi (as of 2018-09-30), Sequoia Capital (as of 2018-09-30), McKinsey & Company (as of 2018-09-30), Kohlberg Kravis Roberts (as of 2020-11-30) (+1 more) |

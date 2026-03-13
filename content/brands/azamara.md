@@ -2,12 +2,12 @@
 title: Azamara
 slug: azamara
 description: ""
-date: "2026-03-05T22:38:39.524030"
+date: "2026-03-13T08:56:59.459528"
 draft: false
 sectors:
-  - hospitality
   - cruise
   - tourism
+  - hospitality
 regions:
   - usa
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "united-states"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,31 +53,33 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - horizontal
   - secondary
+  - symbol
 brand_colors:
   - blue
+  - purple
+  - green
   - turquoise
   - gray
-  - green
-  - purple
 typographies:
-  - impact
   - serif
-  - "sans-serif"
+  - impact
   - display
+  - "sans-serif"
 imagery_styles:
+  - modern
   - vibrant
-  - geometric
   - colorful
   - flat
-  - modern
+  - geometric
 wikidata_description: luxury cruise line
+wikidata_url: "https://www.wikidata.org/wiki/Q2875081"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -183,6 +196,12 @@ Trademark applications for AZAMARA metadata presented across pages on active/pen
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2875081) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [United States](/headquarters_locations/united-states/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Freebase Id | /m/02q__mt |
 | Country | United States |
 | Inception | 2007-01-01 |

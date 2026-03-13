@@ -2,7 +2,7 @@
 title: Swissport
 slug: swissport
 description: ""
-date: "2026-03-05T22:38:39.602849"
+date: "2026-03-13T08:56:59.545742"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - opfikon
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q680965"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -170,13 +184,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q680965) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Opfikon](/headquarters_locations/opfikon/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Freebase Id | /m/0btjn0 |
 | Headquarters Location | Opfikon |
 | Viaf Cluster Id | 306448860 |
 | Inception | 1996-01-01 |
-| Employees | 62,000 |
 | Legal Form | Aktiengesellschaft |
-| Logo Image | Swissport logo.svg |
 | Quora Topic Id | Swissport |
 | Eu Transparency Register Id | 002130110187-09 |
 | Owner Of | Swissport Tanzania |
@@ -189,3 +207,9 @@ guideline_count: 1
 | Bbc Things Id | 1e56e7a8-b0b7-44b7-a053-db52f2e23813 |
 | Bbc News Topic Id | cxv459vl5ezt |
 | Chief Executive Officer | Per Utnegaard (from 2007-06, until 2015-08) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 62,000 | - | [50K-100K](/employees_buckets/50k-100k/) |

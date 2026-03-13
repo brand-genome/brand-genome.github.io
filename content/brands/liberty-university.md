@@ -2,7 +2,7 @@
 title: Liberty University
 slug: "liberty-university"
 description: ""
-date: "2026-03-05T22:38:39.534519"
+date: "2026-03-13T08:56:59.467338"
 draft: false
 sectors:
   - education
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,30 +54,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - monogram
   - secondary
+  - monogram
+  - primary
+  - seal
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
-  - blue
   - red
+  - blue
   - black
   - gray
 typographies:
+  - garamond
   - gotham
   - serif
-  - garamond
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "private Christian university in Lynchburg, Virginia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1468607"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +131,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1468607) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1971](/foundation_dates/1971/) |
 | Coordinate Location | 37.35242, -79.18018 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Lynchburg |
@@ -141,7 +160,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Liberty University alumni |
 | Grid Id | grid.411367.6 |
 | Category For Employees Of The Organization | Category:Liberty University faculty |
-| Logo Image | Liberty University logo.svg |
 | Microsoft Academic Id (Discontinued) | 67789559 |
 | Street Address | 1971 University Blvd, Lynchburg, VA, 24515 |
 | Library Of Congress Authority Id | no2007063831 |
@@ -153,9 +171,7 @@ guideline_count: 1
 | Api Endpoint Url | https://shibboleth.liberty.edu/idp/shibboleth |
 | Social Media Followers | 95,395 (as of 2021-01-06), 93,536 (as of 2020-04-26), 138,000 (as of 2021-07-03), 92,857 (as of 2022-01-08), 152,000 (as of 2022-03-17) (+5 more) |
 | Crunchbase Organization Id | liberty-university |
-| Total Assets | 3,373,881,599 United States dollar (as of 2020-06-30) |
 | Endowment | 1,714,462,564 United States dollar (as of 2020-06-30) |
-| Employees | 735 (as of 2022-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Image | Demoss.JPG |
@@ -182,3 +198,15 @@ guideline_count: 1
 | Rumble Channel | LibertyUniversity |
 | Threads Username | libertyuniversity |
 | Athletics Program | Liberty Flames and Lady Flames |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 735 | as of 2022-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $3.37B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: Alfa Bank
 slug: "alfa-bank"
 description: ""
-date: "2026-03-05T22:38:39.487354"
+date: "2026-03-13T08:56:59.419018"
 draft: false
 sectors:
   - finance
@@ -19,7 +19,22 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets:
+  - "500B-1T"
+market_cap_buckets: []
+products_or_materials_produced:
+  - "retail-banking"
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +58,12 @@ typographies: []
 imagery_styles:
   - illustration
 wikidata_description: European private bank headquartered in Russia
+wikidata_url: "https://www.wikidata.org/wiki/Q1377835"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +109,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1377835) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Retail Banking](/products_or_materials_produced/retail-banking/) |
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Freebase Id | /m/037ppp |
 | Headquarters Location | Moscow |
 | Inception | 1990 |
@@ -99,8 +123,6 @@ guideline_count: 1
 | Owned By | Mikhail Fridman |
 | Isni | 0000000404223316 |
 | Quora Topic Id | Alfa-Bank-company |
-| Logo Image | Alfa-Bank.svg, Alfa Bank RU logo.svg |
-| Employees | 21,036 |
 | X (Twitter) Username | alfabank (as of 2018-05-10, from 2009-08-24) |
 | Image | Альфа-Банк, Москва, проспект Андропова, дом 18 корпус 3 (30.05.2022).jpg |
 | Legal Form | joint-stock company |
@@ -113,8 +135,6 @@ guideline_count: 1
 | Parent Organization Or Unit | Alfa Group |
 | Social Media Followers | 66,345 (as of 2021-01-05), 73,570 (as of 2018-05-10), 19,000 (as of 2022-01-26), 66,121 (as of 2022-02-26), 21,000 (as of 2022-03-18) (+1 more) |
 | Child Organization Or Unit | Alfa-Bank |
-| Total Equity | 556,000,000,000 Russian ruble |
-| Total Assets | 8,473,256,122 Russian ruble (as of 2023) |
 | Youtube Channel Id | UCRKc2vCbyuaOYfo86L7g-sA (as of 2022-01-23, from 2011-05-17) |
 | App Store App Id | 353127685 |
 | App Store Developer Id | 353127688 |
@@ -133,4 +153,24 @@ guideline_count: 1
 
 ### Net Profit History
 
-- $1.30B (1,300,000,000 (as of 2020))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.30B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 21,036 | - | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $8.47B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $556.00B | - | [500B-1T](/total_equity_buckets/500b-1t/) |

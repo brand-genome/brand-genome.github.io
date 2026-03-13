@@ -2,7 +2,7 @@
 title: Oakland University
 slug: "oakland-university"
 description: ""
-date: "2026-03-05T22:38:39.796203"
+date: "2026-03-13T08:56:59.849577"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university located in Michigan, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q782116"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q782116) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Coordinate Location | 42.672659, -83.215776 |
 | Country | United States |
 | Topic'S Main Category | Category:Oakland University |
@@ -79,7 +97,6 @@ guideline_count: 1
 | Ringgold Id | 6918 |
 | Permid | 4296122339 |
 | Subreddit | oaklanduniversity (from 2011-08-04) |
-| Logo Image | Oakland University logo.png |
 | Grid Id | grid.261277.7 |
 | Times Higher Education World University Id | oakland-university |
 | Google Maps Customer Id | 16831341248425050265 |
@@ -98,7 +115,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Oakland University alumni |
 | Social Media Followers | 35,355 (as of 2021-01-02), 35,024 (as of 2022-01-27), 35,466 (as of 2023-02-05) |
 | Crunchbase Organization Id | ou-incubator, macomb-ou-incubator, oakland-university |
-| Employees | 2,434 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Language Used | English |
@@ -118,3 +134,9 @@ guideline_count: 1
 | Threads Username | oaklandu |
 | Athletics Program | Oakland Golden Grizzlies |
 | Post Town | Rochester, MI |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,434 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

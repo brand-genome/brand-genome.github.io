@@ -2,7 +2,7 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-03-05T22:38:39.182473"
+date: "2026-03-13T08:56:59.110572"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mies
+subsidiaries: []
+foundation_dates:
+  - 1932
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +58,16 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
+  - bold
 wikidata_description: "an international body that brings together all national basketball federations, in charge of deciding basketball rules, disseminating basketball and organising international competitions"
+wikidata_url: "https://www.wikidata.org/wiki/Q46199"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -131,6 +144,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q46199) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mies](/headquarters_locations/mies/) |
+| Foundation Date | [1932](/foundation_dates/1932/) |
 | Headquarters Location | Mies |
 | Topic'S Main Category | Category:FIBA |
 | Freebase Id | /m/045v50 |
@@ -168,7 +187,6 @@ guideline_count: 2
 | Founded By | Argentine Basketball Confederation, Czechoslovak  Basketball Federation, Hellenic Basketball Federation, Italian Basketball Federation, Latvia Basketball Association (+3 more) |
 | Zhihu Topic Id | 19672376 |
 | National Library Of Israel J9U Id | 987007604145905171 |
-| Logo Image | FIBA logo.svg |
 | Encyclopedia Of China (Third Edition) Id | 30320 |
 | Country | Switzerland |
 | Coordinate Location | 46.29613888888889, 6.1664 |

@@ -2,7 +2,7 @@
 title: Harmony
 slug: harmony
 description: ""
-date: "2026-03-05T22:38:39.524365"
+date: "2026-03-13T08:56:59.460005"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,21 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
   - gradient
 wikidata_description: process by which individual sounds are joined together or composed into whole units or compositions
+wikidata_url: "https://www.wikidata.org/wiki/Q184421"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,6 +108,10 @@ guideline_count: 1
 - Guidebook created to align visual and verbal brand identity for Harmony's vision.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q184421) |
 
 | Property | Value |
 |----------|-------|

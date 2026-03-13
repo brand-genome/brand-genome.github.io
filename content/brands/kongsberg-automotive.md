@@ -2,7 +2,7 @@
 title: Kongsberg Automotive
 slug: "kongsberg-automotive"
 description: ""
-date: "2026-03-05T22:38:39.790944"
+date: "2026-03-13T08:56:59.842412"
 draft: false
 sectors:
   - automobile
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "automotive-part"
+products: []
+headquarters_locations:
+  - kongsberg
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q182197"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -60,6 +75,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q182197) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Automotive Part](/products_or_materials_produced/automotive-part/) |
+| Headquarters Location | [Kongsberg](/headquarters_locations/kongsberg/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Stock Exchange | Oslo Stock Exchange |
 | Headquarters Location | Kongsberg |
 | Inception | 1987-03-24 |
@@ -76,11 +98,9 @@ guideline_count: 1
 | Norwegian Organisation Number | 942593821 |
 | Viaf Cluster Id | 2973149368793585980002 |
 | Product Or Material Produced | automotive part |
-| Employees | 5,300, 5,270 (as of 2022-12-31), 5,624 (as of 2021-12-31), 11,234 (as of 2020-12-31) |
 | Replaces | Kongsberg Våpenfabrikk |
 | Opencorporates Id | no/942593821 |
 | Great Norwegian Encyclopedia Id | Kongsberg_Automotive |
-| Logo Image | KA logo 150x150.jpg |
 | Crunchbase Organization Id | kongsberg-automotive |
 | Facebook Username | Kongsbergautomotive |
 | Instagram Username | kongsbergautomotive |
@@ -88,3 +108,12 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | 18388 |
 | Legal Entity Identifier | 5967007LIEEXZXJDCG21, 5493008VUW8GJVRSVZ19 |
 | Kisti Id | K000330758 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,300 | - | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,270 | as of 2022-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 5,624 | as of 2021-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 11,234 | as of 2020-12-31 | [10K-50K](/employees_buckets/10k-50k/) |

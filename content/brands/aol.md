@@ -2,11 +2,11 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-03-05T22:38:39.572585"
+date: "2026-03-13T08:56:59.503816"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
 regions:
   - usa
 years:
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries:
-  - "technology-industry"
   - "media-industry"
   - "software-industry"
+  - "technology-industry"
   - "mass-media"
   - "internet-industry"
 countries:
@@ -27,6 +27,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1985
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +63,22 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
   - grey
+  - pink
   - cyan
   - black
-  - pink
+  - orange
 typographies:
-  - arial
   - din
+  - arial
 imagery_styles: []
 wikidata_description: American web portal and online service provider
+wikidata_url: "https://www.wikidata.org/wiki/Q27585"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,11 +120,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q27585) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1985](/foundation_dates/1985/); [1983](/foundation_dates/1983/) |
 | Topic'S Main Category | Category:AOL |
 | Freebase Id | /m/0plw |
 | Headquarters Location | New York City |
-| Employees | 5,600 (as of 2020) |
-| Logo Image | AOL logo (2024).svg (from 2024) |
 | Child Organization Or Unit | Netscape, CompuServe (from 1998-02, until 2017-06-13), Weblogs, Inc., Relegence, Moviefone (until 2018) (+19 more) |
 | Parent Organization Or Unit | WarnerMedia (from 2001-01-11, until 2009-05-28), Verizon Communications (from 2015-06-23, until 2017-06-13), Yahoo Inc. (from 2017-06-13, until 2026-01), Bending Spoons (from 2026-01) |
 | Country | United States |
@@ -168,3 +189,9 @@ guideline_count: 1
 | Threads Username | aol |
 | Described At Url | https://wikirate.org/AOL_Inc |
 | Wikirate Company Id | 2266042 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,600 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |

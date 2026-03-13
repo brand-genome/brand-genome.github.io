@@ -2,7 +2,7 @@
 title: Dow Chemical
 slug: "dow-chemical"
 description: ""
-date: "2026-03-05T22:38:39.403797"
+date: "2026-03-13T08:56:59.366190"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,9 +20,23 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "ethylene-oxide"
+  - plastic
+  - "calcium-chloride"
+products: []
+headquarters_locations:
+  - midland
+subsidiaries: []
+foundation_dates:
+  - 1897
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,33 +55,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - abstract
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
   - red
   - black
   - gray
 typographies:
-  - serif
   - times
+  - serif
   - arial
 imagery_styles:
-  - product
   - dynamic
-  - abstract
-  - gradient
-  - macro
   - clean
+  - macro
+  - product
+  - gradient
+  - abstract
 wikidata_description: American chemical company
+wikidata_url: "https://www.wikidata.org/wiki/Q855639"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -160,6 +176,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q855639) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Plastic](/products_or_materials_produced/plastic/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
+| Headquarters Location | [Midland](/headquarters_locations/midland/) |
+| Foundation Date | [1897](/foundation_dates/1897/) |
 | Stock Exchange | New York Stock Exchange, Tokyo Stock Exchange (until 2016-12-08) |
 | Founded By | Herbert Henry Dow |
 | Topic'S Main Category | Category:Dow Chemical Company |
@@ -181,7 +204,6 @@ guideline_count: 2
 | Facebook Username | The-Dow-Chemical-Company, dow |
 | Youtube Channel Id | UC4xDu6sUFTESPODrjM8WaLA (as of 2020-12-12, from 2008-05-25) |
 | Google+ Id | 103155547656737587215 |
-| Logo Image | Dow Chemical logo.svg |
 | Legal Entity Identifier | ZQUIP1CSZO8LXRBSOU78 |
 | Chief Executive Officer | Jim Fitterling (from 2016) |
 | Chairperson | Jim Fitterling (from 2016) |
@@ -232,6 +254,8 @@ guideline_count: 2
 
 ### Revenue History
 
-- $42.95B (42,951,000,000 United States dollar (as of 2019))
-- $38.54B (38,542,000,000 United States dollar (as of 2020))
-- $54.97B (54,968,000,000 United States dollar (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $42.95B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.54B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $54.97B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |

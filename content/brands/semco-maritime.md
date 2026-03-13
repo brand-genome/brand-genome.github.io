@@ -2,13 +2,13 @@
 title: Semco Maritime
 slug: "semco-maritime"
 description: ""
-date: "2026-03-05T22:38:39.138467"
+date: "2026-03-13T08:56:59.088050"
 draft: false
 sectors:
-  - construction
-  - "renewable-energy"
   - oil
+  - construction
   - gas
+  - "renewable-energy"
 regions:
   - denmark
 years:
@@ -18,14 +18,24 @@ languages:
   - english
 tags:
   - environment
-  - featured
   - corporate
+  - featured
 industries: []
 countries:
   - denmark
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - esbjerg
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +58,22 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - orange
   - grey
-  - black
   - blue
   - green
+  - black
+  - orange
 typographies:
   - montserrat
 imagery_styles:
   - bold
 wikidata_description: Dutch offshore construction company
+wikidata_url: "https://www.wikidata.org/wiki/Q12334990"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +137,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12334990) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Esbjerg](/headquarters_locations/esbjerg/) |
 | Country | Denmark |
 | Cvr Number | 25490762 |
 | Headquarters Location | Esbjerg |

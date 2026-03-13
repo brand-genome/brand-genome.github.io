@@ -2,7 +2,7 @@
 title: Union for the Mediterranean
 slug: "union-for-the-mediterranean"
 description: ""
-date: "2026-03-05T22:38:39.376083"
+date: "2026-03-13T08:56:59.335308"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "palau-reial-de-pedralbes"
+  - barcelona
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,9 +56,9 @@ logo_elements:
 brand_colors:
   - white
   - grey
-  - orange
-  - black
   - blue
+  - black
+  - orange
 typographies:
   - serif
   - display
@@ -54,10 +66,12 @@ imagery_styles:
   - photography
   - gradient
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q192177"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -184,6 +198,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q192177) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Palau Reial De Pedralbes](/headquarters_locations/palau-reial-de-pedralbes/); [Barcelona](/headquarters_locations/barcelona/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Topic'S Main Category | Category:Union for the Mediterranean |
 | Freebase Id | /m/02qn0kn |
 | Gnd Id | 7695990-9 |
@@ -215,6 +235,5 @@ guideline_count: 1
 | France 24 Topic Id (French) | union-pour-la-méditerranée |
 | Award Received | Saint George's Cross (as of 2025) |
 | ‎Yale Lux Id | group/49e61f35-ca3a-4611-b30d-7f6e35e30090 |
-| Logo Image | Union for the Mediterranean logo.svg |
 | Image | Union for the Mediterranean - updatable.svg |
 | Country | Spain |

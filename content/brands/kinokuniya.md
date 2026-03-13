@@ -2,11 +2,11 @@
 title: Kinokuniya
 slug: kinokuniya
 description: ""
-date: "2026-03-05T22:38:39.457431"
+date: "2026-03-13T08:56:59.403900"
 draft: false
 sectors:
-  - retail
   - publishing
+  - retail
 regions:
   - japan
 years:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,17 +53,19 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - blue
-  - grey
   - yellow
+  - grey
+  - blue
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: "High-end Supermarket Chain fully owned by JR East"
+wikidata_url: "https://www.wikidata.org/wiki/Q11604928"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -735,6 +747,11 @@ AMIABLE
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11604928) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Inception | 1948 |
 | Ndl Authority Id | 00631942 |
 | Corporate Number (Japan) | 1010401087320 |

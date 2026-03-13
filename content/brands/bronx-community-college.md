@@ -2,7 +2,7 @@
 title: Bronx Community College
 slug: "bronx-community-college"
 description: ""
-date: "2026-03-05T22:38:39.513134"
+date: "2026-03-13T08:56:59.438458"
 draft: false
 sectors:
   - education
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "the-bronx"
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: community college in New York City
+wikidata_url: "https://www.wikidata.org/wiki/Q4974180"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -59,6 +73,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4974180) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [The Bronx](/headquarters_locations/the-bronx/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Coordinate Location | 40.857777777778, -73.912222222222 |
 | Nrhp Reference Number | 12001013 |
 | Country | United States |
@@ -82,15 +102,19 @@ guideline_count: 1
 | Ringgold Id | 14767 |
 | Freebase Id | /m/04wwsk |
 | Count Of Students | 8,370 (as of 2020-09) |
-| Employees | 1,348 (as of 2020-09) |
 | Openalex Id | I54648344 |
 | Academic Calendar Type | semester |
 | Sevis School Id | 5368 |
 | Member Of | American Council on Education, American Association of Community Colleges |
 | Image | Bronx Community College - Hall of Philosophy IMG 5228a HLG.jpg |
-| Logo Image | Bronx cc black logo.png |
 | Headquarters Location | The Bronx |
 | Fast Id | 705698 |
 | Viaf Cluster Id | 4943170868717622930005, 133988987 |
 | Slovak National Library (Viaf) Id | vtls012878900 |
 | ‎Yale Lux Id | group/6f3fd87d-7ce0-4cdf-a1a8-fd5bcd7b24a2 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,348 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

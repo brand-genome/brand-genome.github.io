@@ -2,33 +2,57 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-03-05T22:38:39.264934"
+date: "2026-03-13T08:56:59.207181"
 draft: false
 sectors:
   - automobile
 regions:
   - japan
 years:
-  - 2009
   - 2021
   - 2013
+  - 2009
 languages:
   - english
   - french
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
   - "industrial-manufacturing"
 countries:
   - japan
 revenue_buckets:
-  - "over-1t"
+  - "OVER-1T"
 operating_income_buckets:
-  - "500b-1t"
+  - "500B-1T"
 net_profit_buckets:
-  - "500b-1t"
+  - "500B-1T"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "OVER-1T"
+total_equity_buckets:
+  - "OVER-1T"
+market_cap_buckets: []
+products_or_materials_produced:
+  - airplane
+  - "et-cetera"
+  - truck
+  - "electrical-generator"
+  - "garden-tool"
+  - car
+  - robot
+  - engine
+  - motorcycle
+products: []
+headquarters_locations:
+  - minato
+subsidiaries: []
+foundation_dates:
+  - 1946
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +76,21 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
   - "pantone-186"
+  - black
 typographies:
+  - helvetica
   - avenir
   - arial
-  - helvetica
 imagery_styles:
   - clean
 wikidata_description: "manufacturer of automobiles, motorcycles, and power equipment"
+wikidata_url: "https://www.wikidata.org/wiki/Q9584"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -131,11 +157,17 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q9584) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Airplane](/products_or_materials_produced/airplane/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Truck](/products_or_materials_produced/truck/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Car](/products_or_materials_produced/car/); [Robot](/products_or_materials_produced/robot/); [Engine](/products_or_materials_produced/engine/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
+| Headquarters Location | [Minato](/headquarters_locations/minato/) |
+| Foundation Date | [1946](/foundation_dates/1946/); [1948](/foundation_dates/1948/) |
 | Country | Japan |
 | Member Of | Open Automotive Alliance, Linux Foundation (from 2016-09-07) |
 | Headquarters Location | Minato |
 | Founded By | Sōichirō Honda, Takeo Fujisawa |
-| Logo Image | Honda logo.svg (until 2026), Honda.svg, Honda Logo.svg, Honda Canada.webp |
 | Stock Exchange | Tokyo Stock Exchange, New York Stock Exchange |
 | Inception | 1948-09-24, 1946 |
 | Industry | automotive industry, industrial manufacturing |
@@ -193,15 +225,12 @@ guideline_count: 3
 | Motto Text | The Power of Dreams |
 | On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31) |
 | Operating Area | worldwide |
-| Employees | 204,035 (as of 2022) |
 | Has Organizational Division | Acura |
 | Bbc Things Id | 55cf2801-b02c-4d8b-b711-2902dfa762e8 |
 | Bbc News Topic Id | cj5pd6v4e9rt |
 | Legal Entity Identifier | 549300P7ZYCQJ36CCS16 |
 | Wikikids Id | Honda |
 | Youtube Handle | HondaJPPR |
-| Total Assets | 23,970,000,000,000 yen (as of 2022) |
-| Total Equity | 10,770,000,000,000 yen (as of 2022) |
 | Youtube Channel Id | UC74rufV9sOK7FbiOuGAUfBA (as of 2024-08-18, from 2010-12-13) |
 | Kisti Id | K000228628 |
 | Japan Search Name Id | 本田技研工業 |
@@ -214,12 +243,36 @@ guideline_count: 3
 
 ### Revenue History
 
-- $14.95T (14,950,000,000,000 yen (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $14.95T | as of 2022 | [OVER-1T](/revenue_buckets/over-1t/) |
 
 ### Operating Income History
 
-- $871.20B (871,200,000,000 yen (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $871.20B | as of 2022 | [500B-1T](/operating_income_buckets/500b-1t/) |
 
 ### Net Profit History
 
-- $707.00B (707,000,000,000 yen (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $707.00B | as of 2022 | [500B-1T](/net_profit_buckets/500b-1t/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 204,035 | as of 2022 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $23.97T | as of 2022 | [OVER-1T](/total_assets_buckets/over-1t/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $10.77T | as of 2022 | [OVER-1T](/total_equity_buckets/over-1t/) |

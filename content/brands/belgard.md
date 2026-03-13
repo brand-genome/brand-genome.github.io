@@ -2,11 +2,11 @@
 title: Belgard
 slug: belgard
 description: ""
-date: "2026-03-05T22:38:39.717711"
+date: "2026-03-13T08:56:59.735713"
 draft: false
 sectors:
-  - construction
   - "consumer-goods"
+  - construction
 regions:
   - serbia
 years:
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,24 +53,26 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - black
   - blue
-  - gray
   - green
+  - black
+  - gray
 typographies:
   - serif
   - arial
 imagery_styles:
-  - bold
-  - geometric
+  - natural
   - contemporary
   - modern
-  - natural
+  - bold
+  - geometric
 wikidata_description: city and urban gmina of Poland
+wikidata_url: "https://www.wikidata.org/wiki/Q161919"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +112,10 @@ guideline_count: 1
 - The guidelines are designed to ensure consistency and premium presentation of the Belgard brand across all media.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q161919) |
 
 | Property | Value |
 |----------|-------|

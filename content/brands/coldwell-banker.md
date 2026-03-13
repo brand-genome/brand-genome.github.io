@@ -2,7 +2,7 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-03-05T22:38:39.352698"
+date: "2026-03-13T08:56:59.303962"
 draft: false
 sectors:
   - "real-estate"
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - madison
+  - cairo
+subsidiaries: []
+foundation_dates:
+  - 2008
+  - 1906
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,40 +53,42 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
   - icon
   - secondary
+  - monogram
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - signature
-  - stacked
-  - vertical
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies:
-  - serif
-  - helvetica
   - garamond
+  - helvetica
+  - serif
 imagery_styles:
-  - bold
-  - photography
-  - professional
-  - lifestyle
-  - realistic
-  - flat
-  - minimal
-  - modern
-  - candid
-  - clean
   - natural
+  - clean
+  - modern
+  - realistic
+  - professional
+  - photography
+  - candid
+  - minimal
+  - flat
+  - bold
+  - lifestyle
 wikidata_description: US international real estate agent franchise company
+wikidata_url: "https://www.wikidata.org/wiki/Q738853"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +139,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q738853) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Madison](/headquarters_locations/madison/); [Cairo](/headquarters_locations/cairo/) |
+| Foundation Date | [2008](/foundation_dates/2008/); [1906](/foundation_dates/1906/) |
 | Freebase Id | /m/0838qg |
 | Headquarters Location | Madison, Cairo |
 | Inception | 1906-08-27, 2008 |
@@ -134,7 +155,6 @@ guideline_count: 2
 | Image | Coldwell Banker Bldg, Encino, Los Angeles.JPG |
 | Industry | real estate industry |
 | Library Of Congress Authority Id | n82045368 |
-| Logo Image | Coldwell Banker logo.svg |
 | Facebook Username | coldwellbanker |
 | Pinterest Username | coldwellbanker |
 | X (Twitter) Username | coldwellbanker (as of 2020-04-19, from 2008-12-18) |

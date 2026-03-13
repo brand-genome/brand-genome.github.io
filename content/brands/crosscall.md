@@ -2,11 +2,11 @@
 title: Crosscall
 slug: crosscall
 description: ""
-date: "2026-03-05T22:38:39.277782"
+date: "2026-03-13T08:56:59.219820"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - france
 years:
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "mobile-phone"
+  - smartphone
+products: []
+headquarters_locations:
+  - "aix-en-provence"
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French mobile phone manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q28872984"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,7 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | Logo Crosscall Horizotal.png |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28872984) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Smartphone](/products_or_materials_produced/smartphone/) |
+| Headquarters Location | [Aix En Provence](/headquarters_locations/aix-en-provence/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Member Of | Wi-Fi Alliance |
 | Inception | 2009-12-08, 2009-11-02 |
 | Headquarters Location | Aix-en-Provence |

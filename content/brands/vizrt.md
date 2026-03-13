@@ -2,12 +2,12 @@
 title: Vizrt
 slug: vizrt
 description: ""
-date: "2026-03-05T22:38:39.202529"
+date: "2026-03-13T08:56:59.139425"
 draft: false
 sectors:
+  - networking
   - broadcasting
   - software
-  - networking
 regions:
   - norway
 years:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bergen
+subsidiaries: []
+foundation_dates:
+  - 1997
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Norwegian digital media software company
+wikidata_url: "https://www.wikidata.org/wiki/Q7938030"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7938030) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bergen](/headquarters_locations/bergen/) |
+| Foundation Date | [1997](/foundation_dates/1997/) |
 | Stock Exchange | Oslo Stock Exchange |
 | Inception | 1997 |
 | Headquarters Location | Bergen |
@@ -73,7 +93,6 @@ guideline_count: 1
 | Grid Id | grid.457515.7 |
 | Ror Id | 03gm8q023 |
 | Industry | broadcasting |
-| Employees | 700 |
 | Legal Form | aksjeselskap |
 | Norwegian Organisation Number | 813914042 |
 | Official Name | Vizrt Group AS |
@@ -83,3 +102,9 @@ guideline_count: 1
 | Crunchbase Organization Id | vizrt |
 | Legal Entity Identifier | 894500M2NH9HO7K3G328 |
 | Instagram Username | vizrtofficial |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 700 | - | [100-1K](/employees_buckets/100-1k/) |

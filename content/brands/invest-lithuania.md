@@ -2,7 +2,7 @@
 title: Invest Lithuania
 slug: "invest-lithuania"
 description: ""
-date: "2026-03-05T22:38:39.379542"
+date: "2026-03-13T08:56:59.339364"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vilnius
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Foreign Direct Investment & Business Development Agency in Lithuania"
+wikidata_url: "https://www.wikidata.org/wiki/Q6060610"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,10 +76,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6060610) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vilnius](/headquarters_locations/vilnius/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010 |
-| Logo Image | InvestLithuania.jpg |
 | Country | Lithuania |
-| Employees | 71 |
 | Quora Topic Id | Invest-Lithuania |
 | Isni | 0000000102147223 |
 | Ringgold Id | 352492, 119011 |
@@ -85,3 +103,9 @@ guideline_count: 1
 | Contact Page Url | https://investlithuania.com/lt/kontaktai/ |
 | Phone Number | +370 691 16006 |
 | ‎Google Ads Transparency Center Advertiser Id | 04968261487605841921 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 71 | - | [UNDER-100](/employees_buckets/under-100/) |

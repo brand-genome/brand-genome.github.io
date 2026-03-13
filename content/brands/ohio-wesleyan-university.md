@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-03-05T22:38:39.389387"
+date: "2026-03-13T08:56:59.356796"
 draft: false
 sectors:
   - university
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - delaware
+subsidiaries: []
+foundation_dates:
+  - 1842
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,27 +52,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
+  - stacked
   - alternate
   - primary
-  - stacked
+  - wordmark
 brand_colors:
-  - "pantone-187"
+  - "pantone-485"
   - white
   - black
-  - "pantone-485"
+  - "pantone-187"
 typographies:
   - slab
 imagery_styles:
-  - bold
-  - dynamic
-  - photography
   - vibrant
+  - dynamic
+  - bold
+  - photography
 wikidata_description: "private liberal arts university in Delaware, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q194266"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +126,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q194266) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Delaware](/headquarters_locations/delaware/) |
+| Foundation Date | [1842](/foundation_dates/1842/) |
 | Coordinate Location | 40.2967, -83.0667 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Delaware |
@@ -136,14 +157,12 @@ guideline_count: 1
 | Owner Of | WSLN |
 | Microsoft Academic Id (Discontinued) | 81461992 |
 | Count Of Students | 1,850, 1,335 (as of 2021-09-01) |
-| Employees | 200 |
 | Street Address | 61 S Sandusky Street |
 | Library Of Congress Authority Id | n80098530 |
 | Ror Id | 02qj9qr34 |
 | X (Twitter) Username | ohiowesleyan (as of 2020-04-22, from 2009-10-26), OhioWesleyan |
 | Social Media Followers | 6,181 (as of 2021-01-02), 5,941 (as of 2020-04-22) |
 | Schoenberg Database Of Manuscripts Name Id | 10798 |
-| Total Assets | 451,093,607 United States dollar (as of 2020-06-30) |
 | Endowment | 236,259,742 United States dollar (as of 2020-06-30), 277,679,315 United States dollar (as of 2022-06-30), 307,932,456 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -159,7 +178,6 @@ guideline_count: 1
 | Gnd Id | 5148376-2 |
 | Headquarters Location | Delaware |
 | Industry | higher education |
-| Logo Image | Owu university logo.png |
 | Kisti Id | K000207668 |
 | Tiktok Username | ohiowesleyan |
 | Facebook Username | OhioWesleyanUniversity |
@@ -170,3 +188,15 @@ guideline_count: 1
 | Youtube Handle | ohiowesleyanu (as of 2025-10-21) |
 | Number Of Viewers/Listeners | 932,741 (as of 2025-11-27) |
 | Athletics Program | Ohio Wesleyan Battling Bishops |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 200 | - | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $451.09M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

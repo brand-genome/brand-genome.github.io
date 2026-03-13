@@ -2,7 +2,7 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-03-05T22:38:39.768258"
+date: "2026-03-13T08:56:59.819769"
 draft: false
 sectors:
   - education
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - brasilia
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,25 +52,27 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - gold
-  - orange
-  - black
   - blue
+  - gold
+  - "pantone-144"
   - silver
   - "pantone-288"
-  - "pantone-144"
+  - black
+  - orange
 typographies:
-  - verdana
   - helvetica
+  - verdana
   - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: brazilian commerce union organization for professional education
+wikidata_url: "https://www.wikidata.org/wiki/Q2274352"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +119,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2274352) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Brasilia](/headquarters_locations/brasilia/) |
 | Country | Brazil |
 | Grid Id | grid.456913.c |
 | Gnd Id | 221161-0 |

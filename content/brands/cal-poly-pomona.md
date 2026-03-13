@@ -2,7 +2,7 @@
 title: Cal Poly Pomona
 slug: "cal-poly-pomona"
 description: ""
-date: "2026-03-05T22:38:39.639969"
+date: "2026-03-13T08:56:59.568149"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,17 +52,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - seal
   - primary
+  - seal
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in Pomona, California, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1026868"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -750,6 +763,11 @@ V 3.0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1026868) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Viaf Cluster Id | 168060938 |
 | Coordinate Location | 34.056388888889, -117.82166666667 |
 | Country | United States |
@@ -776,7 +794,6 @@ V 3.0
 | Category For Alumni Of Educational Institution | Category:California State Polytechnic University, Pomona alumni |
 | Grid Id | grid.155203.0 |
 | Category For Employees Of The Organization | Category:California State Polytechnic University, Pomona faculty |
-| Logo Image | Calpoly pomona univ logo.png |
 | Archinform Keyword Id | 3060 |
 | Microsoft Academic Id (Discontinued) | 98947143 |
 | Street Address | 3801 W Temple Ave, 3801 West Temple Avenue, Pomona, CA, 91768 |
@@ -789,7 +806,6 @@ V 3.0
 | Social Media Followers | 17,843 (as of 2021-01-04), 18,341 (as of 2022-02-28), 18,594 (as of 2023-02-04) |
 | Child Organization Or Unit | Cal Poly Pomona College of Education and Integrative Studies |
 | Count Of Students | 30,014 (as of 2020-09) |
-| Employees | 2,622 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I98947143 |
@@ -804,3 +820,9 @@ V 3.0
 | Kalliope Verbund (Gnd) Id | 10085485-0 |
 | ‎Yale Lux Id | group/4f721b9e-8e68-4813-b0a7-1e5d3472d9f0 |
 | Athletics Program | Cal Poly Pomona Broncos |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,622 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

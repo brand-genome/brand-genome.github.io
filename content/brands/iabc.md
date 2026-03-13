@@ -2,7 +2,7 @@
 title: IABC
 slug: iabc
 description: ""
-date: "2026-03-05T22:38:39.825213"
+date: "2026-03-13T08:56:59.907154"
 draft: false
 sectors:
   - "public-relations"
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,28 +48,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - signature
-  - symbol
   - stacked
+  - signature
+  - wordmark
+  - symbol
 brand_colors:
-  - blue
-  - grey
   - "pantone-285"
+  - grey
+  - blue
 typographies:
   - arial
 imagery_styles:
   - dynamic
-  - professional
   - clean
   - contemporary
   - modern
+  - professional
   - muted
 wikidata_description: Global network of communications professionals
+wikidata_url: "https://www.wikidata.org/wiki/Q6048420"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -362,6 +375,12 @@ and tools to he lp you de liver the IABC B rand are available.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6048420) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1970](/foundation_dates/1970/) |
 | Viaf Cluster Id | 156542483 |
 | Library Of Congress Authority Id | n50057336 |
 | Isni | 0000000104635386 |
@@ -377,6 +396,5 @@ and tools to he lp you de liver the IABC B rand are available.
 | Freebase Id | /m/02qtrj4 |
 | Social Media Followers | 27,696 (as of 2021-01-08), 27,568 (as of 2022-03-02), 26,925 (as of 2023-02-12) |
 | National Library Of Israel J9U Id | 987007448610405171 |
-| Logo Image | International Association of Business Communicators logo.svg |
 | Uia Open Yearbook Organization Website Id | 1100058041 |
 | ‎Yale Lux Id | group/e987931b-da06-49c0-98f1-df974217cce6 |

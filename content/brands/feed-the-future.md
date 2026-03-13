@@ -2,11 +2,11 @@
 title: Feed The Future
 slug: "feed-the-future"
 description: ""
-date: "2026-03-05T22:38:39.799530"
+date: "2026-03-13T08:56:59.853359"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,35 +47,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - horizontal
+  - seal
 brand_colors:
   - white
-  - "pantone-7495"
-  - "pantone-7459"
-  - orange
-  - black
   - blue
   - "pantone-7413"
+  - "pantone-7459"
   - green
+  - black
+  - "pantone-7495"
+  - orange
 typographies:
-  - serif
+  - arial
   - garamond
   - "gill-sans"
   - times
-  - arial
+  - serif
 imagery_styles:
+  - graphic
   - bold
   - muted
-  - graphic
 wikidata_description: program of the United States federal government
+wikidata_url: "https://www.wikidata.org/wiki/Q16838167"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +128,10 @@ guideline_count: 1
 - Guidelines include specific rules for materials such as fact sheets, website banners, social media, and press releases.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16838167) |
 
 | Property | Value |
 |----------|-------|

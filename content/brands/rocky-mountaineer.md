@@ -2,7 +2,7 @@
 title: Rocky Mountaineer
 slug: "rocky-mountaineer"
 description: ""
-date: "2026-03-05T22:38:39.143050"
+date: "2026-03-13T08:56:59.090416"
 draft: false
 sectors:
   - railroad
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - transport
+  - regional
   - tourism
 industries: []
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vancouver
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: train
+wikidata_url: "https://www.wikidata.org/wiki/Q2160819"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2160819) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/) |
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Freebase Id | /m/0654y2 |
 | Page Banner | WV banner Rocky mountaineer.jpg |
 | Headquarters Location | Vancouver |

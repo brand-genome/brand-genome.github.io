@@ -2,7 +2,7 @@
 title: Eastern Illinois University
 slug: "eastern-illinois-university"
 description: ""
-date: "2026-03-05T22:38:39.258746"
+date: "2026-03-13T08:56:59.202496"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1895
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Charleston, Illinois"
+wikidata_url: "https://www.wikidata.org/wiki/Q624985"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q624985) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1895](/foundation_dates/1895/) |
 | Coordinate Location | 39.484444444444, -88.175277777778 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Charleston |
@@ -95,7 +113,6 @@ guideline_count: 1
 | Social Media Followers | 13,355 (as of 2021-01-03), 12,479 (as of 2018-05-10), 13,651 (as of 2022-03-01), 13,968 (as of 2023-02-08) |
 | House Publication | The Eastern Illinois University Political Science Review |
 | Count Of Students | 8,626 (as of 2020-09), 6,637 (as of 2021-09-01) |
-| Employees | 1,235 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I153871386 |
@@ -111,3 +128,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/d1450353-b26a-4d37-9df5-8fe2cd440daf |
 | Threads Username | eiu |
 | Athletics Program | Eastern Illinois Panthers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,235 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

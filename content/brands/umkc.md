@@ -2,7 +2,7 @@
 title: UMKC
 slug: umkc
 description: ""
-date: "2026-03-05T22:38:39.371166"
+date: "2026-03-13T08:56:59.329918"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,19 +55,21 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - blue
   - gold
+  - blue
 typographies:
   - helvetica
 imagery_styles:
-  - professional
-  - clean
   - natural
+  - clean
+  - professional
 wikidata_description: American public university
+wikidata_url: "https://www.wikidata.org/wiki/Q940690"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q940690) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1933](/foundation_dates/1933/) |
 | Coordinate Location | 39.033547, -94.575578 |
 | Topic'S Main Category | Category:University of Missouri–Kansas City |
 | Country | United States |
@@ -141,12 +159,10 @@ guideline_count: 1
 | Alexander Turnbull Library Id | 178632 |
 | Native Label | University of Missouri–Kansas City |
 | Count Of Students | 16,944 |
-| Employees | 3,014 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Musicbrainz Place Id | 093c51b8-5f5e-4092-a541-53cb8ca0db5f |
 | National Library Of Israel J9U Id | 987007604931205171 |
-| Logo Image | University of Missouri–Kansas City (old) logo.svg |
 | Snac Ark Id | w6r263hk |
 | Academic Calendar Type | semester |
 | Member Of | American Council on Education, Association of Public and Land-grant Universities, Scholarly Publishing and Academic Resources Coalition, Coalition of Urban and Metropolitan Universities |
@@ -156,3 +172,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/bc698fde-d8a4-446d-8c63-ccd2a1f94214 |
 | Kisti Id | K000208203 |
 | Athletics Program | Kansas City Roos |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,014 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

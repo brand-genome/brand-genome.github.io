@@ -2,7 +2,7 @@
 title: KX
 slug: kx
 description: ""
-date: "2026-03-05T22:38:39.366433"
+date: "2026-03-13T08:56:59.319223"
 draft: false
 sectors:
   - software
@@ -18,9 +18,21 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1844
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: postgraduate theological college federated with the University of Toronto
+wikidata_url: "https://www.wikidata.org/wiki/Q593199"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,6 +103,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q593199) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1844](/foundation_dates/1844/) |
 | Coordinate Location | 43.6614, -79.3965 |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Toronto |
@@ -118,32 +137,82 @@ guideline_count: 1
 | Openstreetmap Relation Id | 2032 |
 | Organisation Tax Status | charitable organization in Canada |
 | Cra Program Account Number | 107574923RR0001 |
-| Employees | 48 (as of 2003), 40 (as of 2004), 38 (as of 2005), 56 (as of 2006), 61 (as of 2007) (+13 more) |
-| Total Assets | 13,984,274 Canadian dollar (as of 2003), 14,105,763 Canadian dollar (as of 2004), 15,405,668 Canadian dollar (as of 2005), 16,798,875 Canadian dollar (as of 2006), 18,323,201 Canadian dollar (as of 2007) (+17 more) |
 | Donations | 437,233 Canadian dollar (as of 2003), 115,330 Canadian dollar (as of 2004), 335,205 Canadian dollar (as of 2005), 224,149 Canadian dollar (as of 2006), 280,932 Canadian dollar (as of 2007) (+17 more) |
 | Image Of Interior | Knox College chapel DSCF0031.jpg |
 
 ### Revenue History
 
-- $3.53M (3,526,324 Canadian dollar (as of 2003))
-- $1.25M (1,246,905 Canadian dollar (as of 2004))
-- $3.95M (3,946,652 Canadian dollar (as of 2005))
-- $3.90M (3,899,703 Canadian dollar (as of 2006))
-- $4.00M (3,998,338 Canadian dollar (as of 2007))
-- $3.98M (3,983,955 Canadian dollar (as of 2008))
-- $4.45M (4,448,192 Canadian dollar (as of 2009))
-- $4.05M (4,049,786 Canadian dollar (as of 2010))
-- $4.13M (4,133,534 Canadian dollar (as of 2011))
-- $3.86M (3,860,787 Canadian dollar (as of 2012))
-- $4.13M (4,125,226 Canadian dollar (as of 2013))
-- $4.51M (4,514,081 Canadian dollar (as of 2014))
-- $4.94M (4,943,131 Canadian dollar (as of 2015))
-- $4.74M (4,740,228 Canadian dollar (as of 2016))
-- $6.14M (6,140,110 Canadian dollar (as of 2017))
-- $5.49M (5,489,710 Canadian dollar (as of 2018))
-- $5.67M (5,669,547 Canadian dollar (as of 2019))
-- $5.37M (5,369,807 Canadian dollar (as of 2020))
-- $5.28M (5,277,383 Canadian dollar (as of 2021))
-- $6.12M (6,121,159 Canadian dollar (as of 2022))
-- $29.15M (29,146,454 Canadian dollar (as of 2023))
-- $7.04M (7,039,114 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.53M | as of 2003 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.25M | as of 2004 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.95M | as of 2005 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.90M | as of 2006 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.00M | as of 2007 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.98M | as of 2008 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.45M | as of 2009 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.05M | as of 2010 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.13M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.86M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.13M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.51M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.94M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.74M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.14M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.49M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.67M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.37M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.28M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.12M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $29.15M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $7.04M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 48 | as of 2003 | [UNDER-100](/employees_buckets/under-100/) |
+| 40 | as of 2004 | [UNDER-100](/employees_buckets/under-100/) |
+| 38 | as of 2005 | [UNDER-100](/employees_buckets/under-100/) |
+| 56 | as of 2006 | [UNDER-100](/employees_buckets/under-100/) |
+| 61 | as of 2007 | [UNDER-100](/employees_buckets/under-100/) |
+| 37 | as of 2008 | [UNDER-100](/employees_buckets/under-100/) |
+| 42 | as of 2009 | [UNDER-100](/employees_buckets/under-100/) |
+| 47 | as of 2010 | [UNDER-100](/employees_buckets/under-100/) |
+| 50 | as of 2011 | [UNDER-100](/employees_buckets/under-100/) |
+| 49 | as of 2012 | [UNDER-100](/employees_buckets/under-100/) |
+| 52 | as of 2013 | [UNDER-100](/employees_buckets/under-100/) |
+| 51 | as of 2014 | [UNDER-100](/employees_buckets/under-100/) |
+| 60 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |
+| 58 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 53 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 31 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 30 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 46 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $13.98M | as of 2003 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $14.11M | as of 2004 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.41M | as of 2005 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.80M | as of 2006 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.32M | as of 2007 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.30M | as of 2008 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.47M | as of 2009 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.95M | as of 2010 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.11M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.75M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $22.28M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.08M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $28.71M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.81M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $29.95M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $29.48M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $29.97M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $28.03M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.01M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $30.19M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $55.65M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $58.10M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |

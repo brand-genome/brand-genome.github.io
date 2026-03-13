@@ -2,7 +2,7 @@
 title: IMG Academy
 slug: "img-academy"
 description: ""
-date: "2026-03-05T22:38:39.565779"
+date: "2026-03-13T08:56:59.492724"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bradenton
+subsidiaries: []
+foundation_dates:
+  - 1978
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,31 +50,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
+  - blue
+  - green
   - "pantone-2935"
   - black
-  - blue
   - gray
-  - green
 typographies:
-  - arial
   - "sans-serif"
+  - arial
 imagery_styles:
-  - bold
-  - classic
   - contemporary
+  - classic
+  - bold
 wikidata_description: "private athletic school in Bradenton, Florida, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q17128295"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +138,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17128295) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bradenton](/headquarters_locations/bradenton/) |
+| Foundation Date | [1978](/foundation_dates/1978/) |
 | Headquarters Location | Bradenton |
 | Topic'S Main Category | Category:IMG Academy |
 | Inception | 1978 |

@@ -2,11 +2,11 @@
 title: eDreams
 slug: edreams
 description: ""
-date: "2026-03-05T22:38:39.736162"
+date: "2026-03-13T08:56:59.778601"
 draft: false
 sectors:
-  - "e-commerce"
   - tourism
+  - "e-commerce"
 regions:
   - spain
 years:
@@ -20,10 +20,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - barcelona
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,33 +53,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - favicon
+  - secondary
   - primary
+  - vertical
   - symbol
   - "app-icon"
-  - secondary
   - horizontal
-  - favicon
-  - vertical
 brand_colors:
   - white
-  - "pantone-109"
   - grey
-  - black
+  - blue
+  - "pantone-109"
   - yellow
   - cyan
-  - blue
+  - black
   - "pantone-286"
 typographies:
   - "open-sans"
 imagery_styles:
+  - natural
   - graphic
   - clean
-  - natural
 wikidata_description: online travel agency
+wikidata_url: "https://www.wikidata.org/wiki/Q696009"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -168,6 +181,12 @@ Full breakdown of logo elements, variations, and application for consistent bran
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q696009) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Barcelona](/headquarters_locations/barcelona/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Headquarters Location | Barcelona |
 | Inception | 1999-01-01 |
 | Legal Form | private limited company |
@@ -184,8 +203,12 @@ Full breakdown of logo elements, variations, and application for consistent bran
 
 ### Revenue History
 
-- $676.10M (676,100,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $676.10M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $32.30M (32,300,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $32.30M | as of 2023 | [10M-100M](/net_profit_buckets/10m-100m/) |

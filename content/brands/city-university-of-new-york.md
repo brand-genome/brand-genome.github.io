@@ -2,7 +2,7 @@
 title: City University of New York
 slug: "city-university-of-new-york"
 description: ""
-date: "2026-03-05T22:38:39.321842"
+date: "2026-03-13T08:56:59.273555"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1961
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: public university system in New York City
+wikidata_url: "https://www.wikidata.org/wiki/Q762266"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q762266) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1961](/foundation_dates/1961/) |
 | Topic'S Main Category | Category:City University of New York |
 | Freebase Id | /m/023zl |
 | Country | United States |
@@ -85,7 +105,6 @@ guideline_count: 1
 | Bibliothèque Nationale De France Id | 118718984 |
 | Idref Id | 026477807 |
 | Qs World University Id | city-university-new-york |
-| Logo Image | City University of New York wordmark.svg |
 | Gnd Id | 7642-9 |
 | Native Label | City University of New York |
 | Nl Cr Aut Id | ko2006341719, ko2006341720 |
@@ -111,7 +130,6 @@ guideline_count: 1
 | Count Of Students | 275,000 (as of 2019) |
 | Chairperson | Félix V. Matos Rodríguez (from 2019) |
 | Street Address | 205 East 42nd Street, New York, NY 10017 |
-| Employees | 45,408 (as of 2019) |
 | National Library Of Israel J9U Id | 987007259599805171 |
 | Openalex Id | I174216632, P4365331599 |
 | Coordinate Location | 40.75095435534939, -73.9735038 |
@@ -148,3 +166,9 @@ guideline_count: 1
 | On Focus List Of Wikimedia Project | Govdirectory |
 | Maintained By Wikiproject | WikiProject CUNY, WikiProject New York City |
 | Threads Username | cunyedu |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 45,408 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |

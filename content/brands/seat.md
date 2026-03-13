@@ -2,7 +2,7 @@
 title: Seat
 slug: seat
 description: ""
-date: "2026-03-05T22:38:39.666475"
+date: "2026-03-13T08:56:59.587577"
 draft: false
 sectors:
   - automobile
@@ -19,10 +19,23 @@ industries:
 countries:
   - spain
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - martorell
+subsidiaries: []
+foundation_dates:
+  - 1950
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +61,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "Spanish automotive company based in Martorell, subsidiary of Volkswagen Group"
+wikidata_url: "https://www.wikidata.org/wiki/Q188217"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +98,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q188217) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Martorell](/headquarters_locations/martorell/) |
+| Foundation Date | [1950](/foundation_dates/1950/) |
 | Founded By | Instituto Nacional de Industria |
 | Topic'S Main Category | Category:SEAT |
 | Inception | 1950-05-09 |
@@ -112,13 +134,11 @@ guideline_count: 1
 | Cobis Author Id | dnq6ux1h60wkad1t5mpjub9d5mpjub8 |
 | Instagram Username | seatesp |
 | Osm Name Suggestion Index Id | seat-13eeb7, seat-dc8719 |
-| Logo Image | SEAT S.A. logo.svg |
 | Social Media Followers | 23,114 (as of 2021-01-06), 21,413 (as of 2020-04-27), 24,275 (as of 2022-02-26), 24,825 (as of 2023-02-04) |
 | Uk Parliament Thesaurus Id | 69680 |
 | Openalex Id | I1293796582 |
 | Lex Id | Seat |
 | Image | Seat headquarters Martorell Barcelona.jpg |
-| Employees | 14,752 (as of 2020) |
 | Child Organization Or Unit | Cupra |
 | Energy Identification Code | 18XSEATC-12345-9 |
 | Acer Code | A0013514F.ES |
@@ -141,8 +161,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $8.78B (8,784,000,000 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $8.78B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $194.20M (194,200,000 euro (as of 2020))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $194.20M | as of 2020 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 14,752 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |

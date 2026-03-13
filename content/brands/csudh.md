@@ -2,7 +2,7 @@
 title: CSUDH
 slug: csudh
 description: ""
-date: "2026-03-05T22:38:39.404186"
+date: "2026-03-13T08:56:59.366477"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - carson
+subsidiaries: []
+foundation_dates:
+  - 1960
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,37 +55,39 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - "pantone-124"
-  - "pantone-209"
   - "pantone-302"
-  - "pantone-367"
-  - "pantone-7466"
-  - black
-  - yellow
-  - "pantone-526"
-  - turquoise
-  - gray
   - navy
+  - "pantone-7466"
+  - yellow
+  - "pantone-367"
+  - "pantone-124"
+  - turquoise
   - green
   - purple
+  - black
+  - "pantone-209"
+  - gray
+  - "pantone-526"
 typographies:
-  - impact
-  - serif
-  - times
-  - "open-sans"
-  - arial
   - "proxima-nova"
+  - arial
+  - "open-sans"
+  - times
+  - serif
+  - impact
 imagery_styles:
-  - photography
-  - vibrant
-  - professional
   - contemporary
   - clean
+  - professional
+  - photography
+  - vibrant
 wikidata_description: university
+wikidata_url: "https://www.wikidata.org/wiki/Q1026909"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +134,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1026909) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Carson](/headquarters_locations/carson/) |
+| Foundation Date | [1960](/foundation_dates/1960/) |
 | Coordinate Location | 33.864722222222, -118.25611111111 |
 | Country | United States |
 | Topic'S Main Category | Category:California State University, Dominguez Hills |
@@ -140,7 +160,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:California State University, Dominguez Hills alumni |
 | Grid Id | grid.253556.2 |
 | Affiliation | California State University |
-| Logo Image | Csu dh logo.png |
 | Located In The Administrative Territorial Entity | Carson |
 | Nl Cr Aut Id | ko2008471643, ko2008471644 |
 | Microsoft Academic Id (Discontinued) | 290598920 |
@@ -155,7 +174,6 @@ guideline_count: 1
 | Gnd Id | 1029688095 |
 | Social Media Followers | 7,066 (as of 2021-01-07) |
 | Count Of Students | 18,687 (as of 2020-09), 14,758 (as of 2021-09-01) |
-| Employees | 1,739 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I290598920 |
@@ -172,3 +190,9 @@ guideline_count: 1
 | Domain Name | csudh.edu |
 | Threads Username | csudominguezhills |
 | Athletics Program | Cal State Dominguez Hills Toros |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,739 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

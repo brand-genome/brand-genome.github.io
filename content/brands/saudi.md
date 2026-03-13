@@ -2,7 +2,7 @@
 title: Saudi
 slug: saudi
 description: ""
-date: "2026-03-05T22:38:39.461062"
+date: "2026-03-13T08:56:59.405315"
 draft: false
 sectors:
   - "public-sector"
@@ -16,18 +16,37 @@ languages:
 tags:
   - tourism
 industries:
-  - "extraction-of-petroleum"
   - "petroleum-industry"
-  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "extraction-of-petroleum"
   - "oil-refining"
+  - "extraction-of-crude-petroleum-and-natural-gas"
 countries:
   - "saudi-arabia"
 revenue_buckets:
-  - "over-1t"
+  - "OVER-1T"
 operating_income_buckets:
-  - "500b-1t"
+  - "500B-1T"
 net_profit_buckets:
-  - "100b-500b"
+  - "100B-500B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "OVER-1T"
+total_equity_buckets:
+  - "OVER-1T"
+market_cap_buckets:
+  - "OVER-1T"
+products_or_materials_produced:
+  - "natural-gas"
+  - petroleum
+products: []
+headquarters_locations:
+  - dhahran
+subsidiaries: []
+foundation_dates:
+  - 1932
+  - 1988
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +68,20 @@ logo_elements: []
 brand_colors:
   - white
   - red
+  - blue
+  - purple
+  - green
   - orange
   - black
-  - blue
-  - green
-  - purple
 typographies: []
 imagery_styles: []
 wikidata_description: "Saudi Arabian state-owned petroleum company"
+wikidata_url: "https://www.wikidata.org/wiki/Q679322"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +138,13 @@ Version 1.0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q679322) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Natural Gas](/products_or_materials_produced/natural-gas/); [Petroleum](/products_or_materials_produced/petroleum/) |
+| Headquarters Location | [Dhahran](/headquarters_locations/dhahran/) |
+| Foundation Date | [1932](/foundation_dates/1932/); [1988](/foundation_dates/1988/); [1933](/foundation_dates/1933/) |
 | Topic'S Main Category | Category:Saudi Aramco |
 | Freebase Id | /m/01qjg2 |
 | Headquarters Location | Dhahran |
@@ -130,7 +158,6 @@ Version 1.0
 | Ipv4 Routing Prefix | 166.87.0.0/16 |
 | Child Organization Or Unit | Saudi Aramco (United States), Johns Hopkins Aramco Healthcare, Aramco Financial Services Company, Motiva Enterprises, Saudi Petroleum International (+8 more) |
 | Open Funder Registry Funder Id | 501100007809 |
-| Employees | 57,283 (as of 2013), 76,418 (as of 2018-12-31), 79,000 (as of 2019-12-31) |
 | Encyclopædia Britannica Online Id | topic/Aramco |
 | Grid Id | grid.454873.9 |
 | Legal Form | state-owned enterprise, joint-stock company, public company |
@@ -139,8 +166,6 @@ Version 1.0
 | Nl Cr Aut Id | kn20040623020 |
 | Library Of Congress Authority Id | nr94024338 |
 | Legal Entity Identifier | 5586006WD91QHB7J4X50 |
-| Total Assets | 1,346,168,000,000 Saudi riyal (as of 2018-12-31), 1,102,553,000,000 Saudi riyal (as of 2017-12-31), 940,703,000,000 Saudi riyal (as of 2016-12-31), 1,494,126,000,000 Saudi riyal (as of 2019-12-31) |
-| Total Equity | 1,028,435,000,000 Saudi riyal (as of 2018-12-31), 826,314,000,000 Saudi riyal (as of 2017-12-31), 735,346,000,000 Saudi riyal (as of 2016-12-31), 1,046,235,000,000 Saudi riyal (as of 2019-12-31) |
 | Follows | Arabian Standard Oil Company (as of 1988) |
 | Owned By | Public Investment Fund (from 2019), Public Investment Fund (until 2019) |
 | Chief Executive Officer | Khalid A. Al-Falih (from 2009, until 2015), Amin H. Al-Nasser (from 2015) |
@@ -164,8 +189,6 @@ Version 1.0
 | Official Name | شركة الزيت العربية السعودية, Saudi Arabian Oil Group |
 | Facebook Username | Aramco |
 | Linkedin Company Or Organization Id | Aramco |
-| Market Capitalization | 24,580,000,000,000 United States dollar (as of 2020) |
-| Logo Image | Saudi aramco logo.svg |
 | Copyright Status As A Creator | works protected by copyrights |
 | Google News Topics Id | CAAqIggKIhxDQkFTRHdvSkwyMHZNREZ4YW1jeUVnSmxiaWdBUAE |
 | Uk Parliament Thesaurus Id | 1672 |
@@ -194,30 +217,68 @@ Version 1.0
 
 ### Revenue History
 
-- $1.18T (1,182,137,000,000 Saudi riyal (as of 2018))
-- $986.16B (986,159,000,000 Saudi riyal (as of 2017))
-- $504.60B (504,596,000,000 Saudi riyal (as of 2016))
-- $1.11T (1,105,696,000,000 Saudi riyal (as of 2019))
-- $768.11B (768,109,000,000 Saudi riyal (as of 2020))
-- $1.35T (1,346,930,000,000 Saudi riyal (as of 2021))
-- $2.01T (2,006,955,000,000 Saudi riyal (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.18T | as of 2018 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $986.16B | as of 2017 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $504.60B | as of 2016 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $1.11T | as of 2019 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $768.11B | as of 2020 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $1.35T | as of 2021 | [OVER-1T](/revenue_buckets/over-1t/) |
+| $2.01T | as of 2022 | [OVER-1T](/revenue_buckets/over-1t/) |
 
 ### Operating Income History
 
-- $798.40B (798,405,000,000 Saudi riyal (as of 2018))
-- $582.91B (582,915,000,000 Saudi riyal (as of 2017))
-- $305.70B (305,700,000,000 Saudi riyal (as of 2016))
-- $674.87B (674,871,000,000 Saudi riyal (as of 2019))
-- $383.36B (383,360,000,000 Saudi riyal (as of 2020))
-- $771.92B (771,918,000,000 Saudi riyal (as of 2021))
-- $1.14T (1,144,077,000,000 Saudi riyal (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $798.40B | as of 2018 | [500B-1T](/operating_income_buckets/500b-1t/) |
+| $582.91B | as of 2017 | [500B-1T](/operating_income_buckets/500b-1t/) |
+| $305.70B | as of 2016 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $674.87B | as of 2019 | [500B-1T](/operating_income_buckets/500b-1t/) |
+| $383.36B | as of 2020 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $771.92B | as of 2021 | [500B-1T](/operating_income_buckets/500b-1t/) |
+| $1.14T | as of 2022 | [OVER-1T](/operating_income_buckets/over-1t/) |
 
 ### Net Profit History
 
-- $416.52B (416,518,000,000 Saudi riyal (as of 2018))
-- $284.62B (284,619,000,000 Saudi riyal (as of 2017))
-- $49.72B (49,721,000,000 Saudi riyal (as of 2016))
-- $330.69B (330,693,000,000 Saudi riyal (as of 2019))
-- $183.76B (183,763,000,000 Saudi riyal (as of 2020))
-- $412.40B (412,396,000,000 Saudi riyal (as of 2021))
-- $604.00B (604,005,000,000 Saudi riyal (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $416.52B | as of 2018 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $284.62B | as of 2017 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $49.72B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $330.69B | as of 2019 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $183.76B | as of 2020 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $412.40B | as of 2021 | [100B-500B](/net_profit_buckets/100b-500b/) |
+| $604.00B | as of 2022 | [500B-1T](/net_profit_buckets/500b-1t/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 57,283 | as of 2013 | [50K-100K](/employees_buckets/50k-100k/) |
+| 76,418 | as of 2018-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 79,000 | as of 2019-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.35T | as of 2018-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $1.10T | as of 2017-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+| $940.70B | as of 2016-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $1.49T | as of 2019-12-31 | [OVER-1T](/total_assets_buckets/over-1t/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $1.03T | as of 2018-12-31 | [OVER-1T](/total_equity_buckets/over-1t/) |
+| $826.31B | as of 2017-12-31 | [500B-1T](/total_equity_buckets/500b-1t/) |
+| $735.35B | as of 2016-12-31 | [500B-1T](/total_equity_buckets/500b-1t/) |
+| $1.05T | as of 2019-12-31 | [OVER-1T](/total_equity_buckets/over-1t/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $24.58T | as of 2020 | [OVER-1T](/market_cap_buckets/over-1t/) |

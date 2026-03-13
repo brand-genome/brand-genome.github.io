@@ -2,7 +2,7 @@
 title: Prime Video
 slug: "prime-video"
 description: ""
-date: "2026-03-05T22:38:39.714174"
+date: "2026-03-13T08:56:59.731401"
 draft: false
 sectors:
   - broadcasting
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "video-on-demand"
+products: []
+headquarters_locations:
+  - "united-states"
+subsidiaries: []
+foundation_dates:
+  - 2006
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American video streaming service
+wikidata_url: "https://www.wikidata.org/wiki/Q4740856"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +109,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4740856) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Video On Demand](/products_or_materials_produced/video-on-demand/) |
+| Headquarters Location | [United States](/headquarters_locations/united-states/) |
+| Foundation Date | [2006](/foundation_dates/2006/) |
 | Industry | e-commerce |
 | Parent Organization Or Unit | Amazon |
 | The Guardian Topic Id | media/lovefilm, media/amazon-prime-video |
@@ -102,7 +123,6 @@ guideline_count: 1
 | Inception | 2006-09-07 |
 | Quora Topic Id | Amazon-Video |
 | Giphy Username | primevideo |
-| Logo Image | Amazon Prime Video logo.svg, Prime Video logo (2024).svg |
 | Nintendo Of America Game Store Id (Former Scheme) | LfR0HHpFt_1EL-X6oYq-MIcbHaQgl88o |
 | X (Twitter) Username | PrimeVideo (as of 2020-02-28, from 2008-11-06) |
 | Founded By | Amazon |

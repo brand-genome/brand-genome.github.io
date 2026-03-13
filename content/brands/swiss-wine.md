@@ -2,7 +2,7 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-03-05T22:38:39.513591"
+date: "2026-03-13T08:56:59.439458"
 draft: false
 sectors:
   - drink
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +48,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - white
-  - "pantone-1805"
   - red
-  - "pantone-411"
   - grey
+  - "pantone-1805"
+  - "pantone-411"
   - black
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

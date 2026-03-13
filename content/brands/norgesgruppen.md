@@ -2,11 +2,11 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-03-05T22:38:39.561958"
+date: "2026-03-13T08:56:59.485583"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - norway
 years:
@@ -21,9 +21,21 @@ industries:
 countries:
   - norway
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oslo
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,21 +55,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - secondary
+  - symbol
 brand_colors:
   - black
 typographies:
   - arial
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: food retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q2575956"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2575956) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Freebase Id | /m/02w9w_r |
 | Headquarters Location | Oslo |
 | Norwegian Organisation Number | 819731322 |
@@ -115,8 +135,6 @@ guideline_count: 1
 | Grid Id | grid.458624.9 |
 | Opencorporates Id | no/819731322 |
 | Country | Norway |
-| Logo Image | NorgesGruppen logo.jpg |
-| Employees | 28,000 (as of 2015) |
 | Legal Form | allmennaksjeselskap |
 | Ror Id | 0066ttc69 |
 | Industry | retail, food retail sector |
@@ -135,5 +153,13 @@ guideline_count: 1
 
 ### Revenue History
 
-- $80.16B (80,160,000,000 Norwegian krone (as of 2016))
-- $101.56B (101,560,000,000 Norwegian krone (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $80.16B | as of 2016 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $101.56B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 28,000 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |

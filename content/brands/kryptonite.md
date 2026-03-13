@@ -2,7 +2,7 @@
 title: Kryptonite
 slug: kryptonite
 description: ""
-date: "2026-03-05T22:38:39.575979"
+date: "2026-03-13T08:56:59.508667"
 draft: false
 sectors:
   - hardware
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,20 +50,22 @@ logo_elements:
 brand_colors:
   - red
   - "pantone-165"
+  - yellow
   - "pantone-7461"
   - black
-  - yellow
   - gray
 typographies: []
 imagery_styles:
-  - bold
   - product
   - clean
+  - bold
 wikidata_description: brand of bicycle lock
+wikidata_url: "https://www.wikidata.org/wiki/Q6439720"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +113,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6439720) |
+
+| Property | Value |
+|----------|-------|
 | Named After | kryptonite |
 | Manufacturer | Allegion (from 2013-12-01), Ingersoll Rand (from 2001, until 2013-11-30) |
 | Subclass Of | bicycle lock |
@@ -110,4 +125,3 @@ guideline_count: 1
 | Image | 12-07-14-wikimania-wdc-by-RalfR-21.jpg |
 | X (Twitter) Username | kryptonitelock (as of 2023-06-05, from 2009-06-24) |
 | Facebook Username | kryptonitelock |
-| Logo Image | Kryptonite.png |

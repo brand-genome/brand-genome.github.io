@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-03-05T22:38:39.286852"
+date: "2026-03-13T08:56:59.229582"
 draft: false
 sectors:
   - software
@@ -15,19 +15,33 @@ languages:
 tags:
   - technology
 industries:
-  - "software-engineering"
   - "digital-marketing"
+  - "software-engineering"
   - "data-management"
 countries:
-  - singapore
-  - lithuania
   - finland
+  - singapore
   - ireland
+  - lithuania
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets:
-  - "1m-10m"
+  - "1M-10M"
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - analytics
+  - "data-visualization-software"
+products: []
+headquarters_locations:
+  - kluuvi
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Finnish software company
+wikidata_url: "https://www.wikidata.org/wiki/Q114661529"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,6 +89,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q114661529) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/) |
+| Headquarters Location | [Kluuvi](/headquarters_locations/kluuvi/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013 |
 | Headquarters Location | Kluuvi |
 | Country | Finland, Ireland, Singapore, Lithuania |
@@ -81,7 +104,6 @@ guideline_count: 1
 | Industry | software engineering, digital marketing, data management |
 | Crunchbase Organization Id | supermetrics |
 | Has Use | advertising agency, media agency, consumer goods industry, Consumer services industry, e-commerce (+3 more) |
-| Employees | 400 (as of 2025) |
 | Award Received | Internationalisation Award of the President of the Republic of Finland (as of 2020) |
 | Product Or Material Produced | analytics, data visualization software |
 | Facebook Username | Supermetrics |
@@ -106,21 +128,31 @@ guideline_count: 1
 
 ### Revenue History
 
-- $600.00K (600,000 euro (as of 2015))
-- $1.60M (1,600,000 euro (as of 2016))
-- $2.20M (2,200,000 euro (as of 2017))
-- $6.20M (6,200,000 euro (as of 2018))
-- $13.60M (13,600,000 euro (as of 2019))
-- $24.00M (24,000,000 euro (as of 2020))
-- $36.10M (36,100,000 euro (as of 2021))
-- $51.00M (51,000,000 euro (as of 2022))
-- $56.00M (56,000,000 euro (as of 2023))
-- $59.00M (59,000,000 euro (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $600.00K | as of 2015 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.60M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.20M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.20M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $13.60M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $24.00M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $36.10M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $51.00M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $56.00M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $59.00M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
 
 ### Operating Income History
 
-- $8.00M (8,000,000 euro (as of 2020))
-- $7.00M (7,000,000 euro (as of 2021))
-- $2.00M (2,000,000 euro (as of 2022))
-- $3.00M (3,000,000 euro (as of 2023))
-- $317.00K (317,000 euro (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $8.00M | as of 2020 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $7.00M | as of 2021 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $2.00M | as of 2022 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $3.00M | as of 2023 | [1M-10M](/operating_income_buckets/1m-10m/) |
+| $317.00K | as of 2024 | [UNDER-1M](/operating_income_buckets/under-1m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 400 | as of 2025 | [100-1K](/employees_buckets/100-1k/) |

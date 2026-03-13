@@ -2,11 +2,11 @@
 title: ICL
 slug: icl
 description: ""
-date: "2026-03-05T22:38:39.752107"
+date: "2026-03-13T08:56:59.791641"
 draft: false
 sectors:
-  - "manufacturing-industry"
   - "agricultural-heavy-equipment"
+  - "manufacturing-industry"
   - chemicals
 regions:
   - israel
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "south-kensington-campus-imperial-college-london"
+subsidiaries: []
+foundation_dates:
+  - 1907
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public research university located in London, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q189022"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,6 +101,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q189022) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [South Kensington Campus Imperial College London](/headquarters_locations/south-kensington-campus-imperial-college-london/) |
+| Foundation Date | [1907](/foundation_dates/1907/) |
 | Located In The Administrative Territorial Entity | Royal Borough of Kensington and Chelsea |
 | Coordinate Location | 51.498308, -0.176882 |
 | Topic'S Main Category | Category:Imperial College London |
@@ -130,7 +150,6 @@ guideline_count: 1
 | Native Label | Imperial College London |
 | Microsoft Academic Id (Discontinued) | 47508984 |
 | Count Of Students | 17,565 (as of 2016-12) |
-| Employees | 7,705 (as of 2016-12-31) |
 | Ror Id | 041kmwe10 |
 | Dfe Urn | 133887 |
 | Location | South Kensington Campus, Imperial College London, White City Campus, Imperial College London, Hammersmith Campus, Imperial College London, Silwood Park |
@@ -144,7 +163,6 @@ guideline_count: 1
 | Short Name | ICL, Imperial |
 | Eu Participant Identification Code | 999993468 |
 | Eu Vat Number | GB649926678 |
-| Logo Image | Imperial College London new logo.png |
 | Official Name | Imperial College of Science, Technology and Medicine |
 | Great Russian Encyclopedia Online Id (2017) | 4137578 |
 | Historic County | Middlesex |
@@ -193,3 +211,9 @@ guideline_count: 1
 | Nukat Id | n01070272 |
 | National Library Of Poland Mms Id | 9810622609705606 |
 | Threads Username | imperialcollege |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 7,705 | as of 2016-12-31 | [1K-10K](/employees_buckets/1k-10k/) |

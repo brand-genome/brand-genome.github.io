@@ -2,7 +2,7 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-03-05T22:38:39.487495"
+date: "2026-03-13T08:56:59.419236"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2010
   - 2014
+  - 2010
 languages:
   - english
 tags:
@@ -22,9 +22,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1831
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,26 +56,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
   - logomark
+  - seal
   - secondary
 brand_colors:
-  - white
   - purple
+  - white
   - black
 typographies: []
 imagery_styles:
-  - photography
-  - graphic
-  - clean
-  - candid
   - natural
+  - clean
+  - photography
+  - candid
+  - graphic
 wikidata_description: private university in New York City
+wikidata_url: "https://www.wikidata.org/wiki/Q49210"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +133,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49210) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1831](/foundation_dates/1831/) |
 | Country | United States |
 | Viaf Cluster Id | 139712320 |
 | Image | NYU07.JPG |
@@ -171,7 +192,6 @@ guideline_count: 2
 | Nl Cr Aut Id | ko2007393118, ko2007393119 |
 | Musicbrainz Place Id | f5359659-8cc8-4ea5-a83a-0a997ac5785a |
 | Microsoft Academic Id (Discontinued) | 57206974 |
-| Employees | 15,286, 17,000 (as of 2025) |
 | Street Address | 70 Washington Sq South, New York, NY, 10012-1091 |
 | Ror Id | 0190ak572 |
 | Littlesis Organization Id | 15003 |
@@ -186,13 +206,11 @@ guideline_count: 2
 | Zhihu Topic Id | 19692536 |
 | Crunchbase Organization Id | new-york-university, nyu-innovation-venture-fund, nyu-entrepreneurial-institute-2 |
 | National Library Of Israel J9U Id | 987007265937305171 |
-| Total Assets | 17,380,971,000 United States dollar (as of 2020-06-30), 18,909,220,283 United States dollar (as of 2022), 19,789,263,135 United States dollar (as of 2023), 7,730,797,680 United States dollar (as of 2011), 8,038,275,299 United States dollar (as of 2012) (+9 more) |
 | Endowment | 4,578,665,100 United States dollar (as of 2020-06-30), 5,148,740,532 United States dollar (as of 2022-06-30), 5,574,826,697 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I57206974, P4310315946 |
 | Indeed Company Id | New-York-University |
-| Logo Image | Nyu short color.svg |
 | X Topic Id | 1292874781272883200 |
 | Position Held By Head Of The Organization | President of New York University |
 | Idu Foreign Theatre Id | 1801 |
@@ -247,17 +265,45 @@ guideline_count: 2
 
 ### Revenue History
 
-- $9.64B (9,643,849,699 United States dollar (as of 2022))
-- $10.48B (10,482,244,760 United States dollar (as of 2023))
-- $3.64B (3,642,077,700 United States dollar (as of 2011))
-- $4.02B (4,016,974,399 United States dollar (as of 2012))
-- $4.59B (4,593,364,263 United States dollar (as of 2013))
-- $5.13B (5,133,788,413 United States dollar (as of 2014))
-- $5.33B (5,328,246,960 United States dollar (as of 2015))
-- $6.04B (6,043,438,258 United States dollar (as of 2016))
-- $6.61B (6,607,886,919 United States dollar (as of 2017))
-- $7.29B (7,293,618,415 United States dollar (as of 2018))
-- $7.72B (7,717,095,477 United States dollar (as of 2019))
-- $8.01B (8,011,264,159 United States dollar (as of 2020))
-- $8.92B (8,915,280,016 United States dollar (as of 2021))
-- $11.62B (11,618,297,563 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $9.64B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.48B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $3.64B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.02B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.59B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.13B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.33B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.04B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.61B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.29B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.72B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.01B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.92B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $11.62B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 15,286 | - | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,000 | as of 2025 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $17.38B | as of 2020-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $18.91B | as of 2022 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $19.79B | as of 2023 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $7.73B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.04B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $8.62B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $9.30B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $10.27B | as of 2015 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.19B | as of 2016 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $12.45B | as of 2017 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $13.49B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $14.57B | as of 2019 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $19.31B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $21.12B | as of 2024 | [10B-50B](/total_assets_buckets/10b-50b/) |

@@ -2,12 +2,12 @@
 title: Defense Health Agency
 slug: "defense-health-agency"
 description: ""
-date: "2026-03-05T22:38:39.399617"
+date: "2026-03-13T08:56:59.364420"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
   - defense
+  - healthcare
 regions:
   - usa
 years:
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +49,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
+  - seal
 brand_colors:
   - white
   - red
-  - "pantone-2768"
-  - yellow
   - blue
-  - gray
+  - yellow
+  - "pantone-2768"
   - green
+  - gray
   - "pantone-181"
 typographies:
   - serif
 imagery_styles:
-  - product
-  - graphic
-  - classic
   - contemporary
   - clean
+  - product
+  - classic
+  - graphic
 wikidata_description: clinical trial
+wikidata_url: "https://www.wikidata.org/wiki/Q113922817"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +121,10 @@ guideline_count: 1
 - Trademarks must be used in their exact form, with no alterations.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q113922817) |
 
 | Property | Value |
 |----------|-------|

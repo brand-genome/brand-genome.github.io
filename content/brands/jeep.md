@@ -2,7 +2,7 @@
 title: Jeep
 slug: jeep
 description: ""
-date: "2026-03-05T22:38:39.689233"
+date: "2026-03-13T08:56:59.617536"
 draft: false
 sectors:
   - automobile
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "sport-utility-vehicle"
+products: []
+headquarters_locations:
+  - toledo
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,13 +57,15 @@ brand_colors:
 typographies:
   - impact
 imagery_styles:
-  - product
   - graphic
+  - product
 wikidata_description: US automotive company
+wikidata_url: "https://www.wikidata.org/wiki/Q30113"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30113) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/) |
+| Headquarters Location | [Toledo](/headquarters_locations/toledo/) |
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Topic'S Main Category | Category:Jeep |
 | Ndl Authority Id | 00575508 |
 | Freebase Id | /m/03_qm |
@@ -108,7 +129,6 @@ guideline_count: 1
 | Commons Gallery | Jeep |
 | Inception | 1941 |
 | Location Of Formation | Toledo |
-| Logo Image | Jeep wordmark.svg (from 1993), Jeep.svg (from 1970), Jeep 1987 logo.svg (from 1987, until 1993), Jeep 1970 logo.svg (from 1970, until 1987), Jeep kaiser logo.png (from 1963, until 1970) (+2 more) |
 | Industry | automotive industry |
 | Owned By | Stellantis North America |
 | Quora Topic Id | Jeep-company, Jeep |

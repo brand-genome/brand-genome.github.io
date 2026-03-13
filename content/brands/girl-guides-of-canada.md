@@ -2,7 +2,7 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-03-05T22:38:39.689399"
+date: "2026-03-13T08:56:59.617824"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - canada
 years:
-  - 2018
   - 2015
+  - 2018
 languages:
   - english
 tags:
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,26 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
+  - stacked
   - primary
   - secondary
-  - stacked
+  - wordmark
 brand_colors:
   - white
   - gold
-  - black
-  - silver
-  - gray
   - purple
+  - silver
+  - black
+  - gray
 typographies: []
 imagery_styles:
   - photography
   - graphic
 wikidata_description: national Guiding association of Canada
+wikidata_url: "https://www.wikidata.org/wiki/Q3768607"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -133,6 +145,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3768607) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Country | Canada |
 | Freebase Id | /m/0937bb |
 | X (Twitter) Username | girlguidesofcan (as of 2020-06-15, from 2009-04-17) |

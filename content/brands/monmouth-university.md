@@ -2,7 +2,7 @@
 title: Monmouth University
 slug: "monmouth-university"
 description: ""
-date: "2026-03-05T22:38:39.757467"
+date: "2026-03-13T08:56:59.806007"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +53,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
 brand_colors:
   - gray
 typographies:
   - avenir
 imagery_styles: []
 wikidata_description: "private university located in West Long Branch, Monmouth County, New Jersey, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q922647"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +100,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q922647) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1933](/foundation_dates/1933/) |
 | Coordinate Location | 40.28, -74.006 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | New Jersey |
@@ -103,7 +122,6 @@ guideline_count: 1
 | Grid Id | grid.260185.8 |
 | Category For Employees Of The Organization | Category:Monmouth University faculty |
 | Affiliation | Council of Independent Colleges |
-| Logo Image | Monmouth University wordmark.svg, MU taglinelogo PMS287.jpg |
 | Microsoft Academic Id (Discontinued) | 141450709 |
 | Street Address | 400 Cedar Ave, West Long Branch, NJ, 07764-1898 |
 | Times Higher Education World University Id | monmouth-university |
@@ -114,9 +132,7 @@ guideline_count: 1
 | Library Of Congress Authority Id | nr97044717 |
 | Social Media Followers | 25,154 (as of 2021-01-03), 25,099 (as of 2022-01-08), 25,343 (as of 2023-02-10) |
 | Count Of Students | 5,674 (as of 2020-09), 4,897 (as of 2021-09-01) |
-| Total Assets | 406,826,832 United States dollar (as of 2020-06-30) |
 | Endowment | 108,463,000 United States dollar (as of 2020-06-30), 126,790,000 United States dollar (as of 2022-06-30), 136,525,000 United States dollar (as of 2021-06-30) |
-| Employees | 1,422 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I141450709 |
@@ -136,3 +152,15 @@ guideline_count: 1
 | World Higher Education Database Id | IAU-012038 |
 | Threads Username | monmouthuniversity |
 | Athletics Program | Monmouth Hawks |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,422 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $406.83M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

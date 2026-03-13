@@ -2,7 +2,7 @@
 title: County Clare
 slug: "county-clare"
 description: ""
-date: "2026-03-05T22:38:39.421539"
+date: "2026-03-13T08:56:59.381520"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,27 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - horizontal
 brand_colors:
   - white
   - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
   - dynamic
   - monochrome
+  - photography
+  - vibrant
+  - bold
 wikidata_description: "1831 United Kingdom of Great Britain and Ireland Act of Parliament 1 & 2 Will 4 c. 27"
+wikidata_url: "https://www.wikidata.org/wiki/Q106184641"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +120,10 @@ guideline_count: 1
 - Contact information for brand manager provided for additional guidance.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106184641) |
 
 | Property | Value |
 |----------|-------|

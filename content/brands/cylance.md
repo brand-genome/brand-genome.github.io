@@ -2,11 +2,11 @@
 title: Cylance
 slug: cylance
 description: ""
-date: "2026-03-05T22:38:39.513808"
+date: "2026-03-13T08:56:59.439667"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - canada
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - irvine
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,25 +57,27 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-376"
+  - green
   - black
   - gray
-  - green
+  - "pantone-376"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
+  - natural
+  - clean
+  - candid
   - photography
   - graphic
-  - candid
-  - clean
-  - natural
+  - bold
 wikidata_description: American software firm
+wikidata_url: "https://www.wikidata.org/wiki/Q26308599"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -145,6 +158,12 @@ The BlackBerry Cylance logo must not be stretched, rotated, recolored, or modifi
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q26308599) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Irvine](/headquarters_locations/irvine/) |
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Country | United States |
 | Inception | 2012-01-01 |
 | X (Twitter) Username | cylanceinc (as of 2020-06-15, from 2012-06-13) |

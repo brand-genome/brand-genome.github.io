@@ -2,7 +2,7 @@
 title: New York City Transit Authority
 slug: "new-york-city-transit-authority"
 description: ""
-date: "2026-03-05T22:38:39.798631"
+date: "2026-03-13T08:56:59.852171"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - transport
   - vintage
   - featured
-  - transport
 industries:
   - "passenger-transport"
 countries:
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+  - "2-broadway"
+subsidiaries: []
+foundation_dates:
+  - 1953
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: bus and subway service operator
+wikidata_url: "https://www.wikidata.org/wiki/Q1325591"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1325591) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [2 Broadway](/headquarters_locations/2-broadway/) |
+| Foundation Date | [1953](/foundation_dates/1953/) |
 | Freebase Id | /m/01t8pf |
 | Viaf Cluster Id | 148456261 |
 | British Museum Person Or Institution Id | 95712 |
@@ -113,7 +133,6 @@ guideline_count: 1
 | Industry | passenger transport |
 | Rero Id (Legacy) | A027395952 |
 | National Library Of Israel Id (Old) | 002123584 |
-| Logo Image | NYC Transit logo.svg |
 | Montage Image | MTA NYC Transit services mosaic.jpg |
 | Snac Ark Id | w6769n5k |
 | Littlesis Organization Id | 87941 |

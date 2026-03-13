@@ -2,7 +2,7 @@
 title: Unknown Worlds Entertainment
 slug: "unknown-worlds-entertainment"
 description: ""
-date: "2026-03-05T22:38:39.168396"
+date: "2026-03-13T08:56:59.099458"
 draft: false
 sectors:
   - gaming
@@ -22,6 +22,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "natural-selection"
+  - subnautica
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,31 +54,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - favicon
+  - primary
   - alternate
   - lockup
-  - horizontal
-  - favicon
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
   - red
-  - teal
+  - blue
+  - purple
+  - green
   - orange
   - black
-  - blue
-  - green
-  - purple
+  - teal
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: American video game developer
+wikidata_url: "https://www.wikidata.org/wiki/Q3022081"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,12 +133,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3022081) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Natural Selection](/products_or_materials_produced/natural-selection/); [Subnautica](/products_or_materials_produced/subnautica/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Headquarters Location | San Francisco |
 | Freebase Id | /m/064p075 |
 | Industry | video game industry |
 | Country | United States |
 | Inception | 2001 |
-| Employees | 20 |
 | Quora Topic Id | Unknown-Worlds-Entertainment |
 | Product Or Material Produced | Natural Selection, Subnautica |
 | Founded By | Charlie Cleveland |
@@ -142,3 +164,9 @@ guideline_count: 1
 | Gematsu Company Id | 701150 |
 | App Store Developer Id | 1733568374 |
 | Pc Games Database.De Company Id | 833 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 20 | - | [UNDER-100](/employees_buckets/under-100/) |

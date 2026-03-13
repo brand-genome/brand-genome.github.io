@@ -2,7 +2,7 @@
 title: Papernest
 slug: papernest
 description: ""
-date: "2026-03-05T22:38:39.763285"
+date: "2026-03-13T08:56:59.813364"
 draft: false
 sectors:
   - software
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "19th-arrondissement-of-paris"
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q59490854"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,12 +76,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q59490854) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [19Th Arrondissement Of Paris](/headquarters_locations/19th-arrondissement-of-paris/) |
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Google Knowledge Graph Id | /g/11gx_mk_z_ |
 | Country | France |
 | Siren Number | 809710858 |
 | Inception | 2015-02-16 |
 | Headquarters Location | 19th arrondissement of Paris |
-| Logo Image | Logo papernest.jpg |
 | Eu Vat Number | FR95809710858 |
 | Chairperson | Benoît Fabre |
 | Chief Executive Officer | Philippe de la Chevasnerie |

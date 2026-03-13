@@ -2,7 +2,7 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-03-05T22:38:39.669565"
+date: "2026-03-13T08:56:59.588961"
 draft: false
 sectors:
   - cybersecurity
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
-  - stacked
   - logomark
+  - secondary
+  - primary
+  - stacked
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - professional
   - product
+  - professional
   - lifestyle
 wikidata_description: town in the Czech Republic
+wikidata_url: "https://www.wikidata.org/wiki/Q954569"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +135,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q954569) |
+
+| Property | Value |
+|----------|-------|
 | Twinned Administrative Body | Döbeln, Jarosław, Michalovce, Virovitica, Cognac |
 | Dewey Decimal Classification | 2--43724 |
 | Image | Vyškov, Masarykovo náměstí (8).jpg |
@@ -150,7 +165,7 @@ guideline_count: 1
 | Contains The Administrative Territorial Entity | Brňany, Dědice, Hamiltony, Křečkovice, Lhota (+9 more) |
 | Native Label | Vyškov |
 | Time Of Earliest Written Record | 1141-01-17 |
-| Email Address | mailto:posta@meuvyskov.cz |
+| Email Address | posta@meuvyskov.cz |
 | List Of Monuments |  |
 | Openstreetmap Relation Id | 442276 |
 | Archinform Location Id | 6570 |

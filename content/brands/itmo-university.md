@@ -2,7 +2,7 @@
 title: ITMO University
 slug: "itmo-university"
 description: ""
-date: "2026-03-05T22:38:39.105960"
+date: "2026-03-13T08:56:59.055013"
 draft: false
 sectors:
   - education
@@ -21,6 +21,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,16 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - "app-icon"
+  - wordmark
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Thomas Cook
 slug: "thomas-cook"
 description: ""
-date: "2026-03-05T22:38:39.704816"
+date: "2026-03-13T08:56:59.717327"
 draft: false
 sectors:
   - tourism
@@ -15,13 +15,25 @@ languages:
 tags:
   - tourism
 industries:
-  - "hospitality-industry"
   - "tourism-industry"
+  - "hospitality-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - peterborough
+subsidiaries: []
+foundation_dates:
+  - 1841
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,17 +55,19 @@ logo_elements:
   - symbol
 brand_colors:
   - magenta
-  - grey
   - yellow
+  - grey
 typographies:
   - inter
 imagery_styles:
   - graphic
 wikidata_description: defunct British global travel company
+wikidata_url: "https://www.wikidata.org/wiki/Q2141800"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -457,6 +471,12 @@ I l l u s t r ato r to I n d e s i gn .
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2141800) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Peterborough](/headquarters_locations/peterborough/) |
+| Foundation Date | [1841](/foundation_dates/1841/) |
 | Headquarters Location | Peterborough |
 | Freebase Id | /m/0289rn4 |
 | Follows | MyTravel Group |
@@ -488,7 +508,6 @@ I l l u s t r ato r to I n d e s i gn .
 | Legal Entity Identifier | 54930047DBKKLH3SF728, 213800O24R9L3ZG21H70 |
 | Companies House Company Id | 06091951 |
 | Significant Event | liquidation (from 2019-09-23) |
-| Employees | 21,800 (as of 2016) |
 | Crunchbase Organization Id | thomas-cook |
 | Country Of Origin | United Kingdom |
 | Founded By | Thomas Cook |
@@ -507,3 +526,9 @@ I l l u s t r ato r to I n d e s i gn .
 | ‎Yale Lux Id | group/5d4c0c56-d4e5-450f-9cc9-8bf9fc664207 |
 | Wikirate Company Id | 8265349 |
 | A Dictionary Of Sports Studies Entry Id | 1126 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 21,800 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |

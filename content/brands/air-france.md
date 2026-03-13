@@ -2,7 +2,7 @@
 title: Air France
 slug: "air-france"
 description: ""
-date: "2026-03-05T22:38:39.523382"
+date: "2026-03-13T08:56:59.458510"
 draft: false
 sectors:
   - airline
@@ -13,17 +13,31 @@ years:
 languages:
   - french
 tags:
+  - aeronautic
   - airline
   - featured
-  - aeronautic
 industries:
-  - unknown
   - "air-transport"
+  - unknown
 countries:
   - france
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+  - "tremblay-en-france"
+subsidiaries: []
+foundation_dates:
+  - 1932
+  - 1933
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "flag-carrier and largest airline in France"
+wikidata_url: "https://www.wikidata.org/wiki/Q131005"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +82,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131005) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [Tremblay En France](/headquarters_locations/tremblay-en-france/) |
+| Foundation Date | [1932](/foundation_dates/1932/); [1933](/foundation_dates/1933/) |
 | Airline Alliance | SkyTeam |
 | Item Operated | Airbus A380 (until 2022), Airbus A330, Airbus A320 family, Boeing 747-400, Boeing 777 (+11 more) |
 | Icao Airline Designator | AFR |
@@ -74,7 +96,6 @@ guideline_count: 1
 | Country | France |
 | Has Organizational Division | Brit Air, CityJet, Régional, Transavia France, Air France Hop |
 | Headquarters Location | Tremblay-en-France (from 1995), Paris (until 1995) |
-| Logo Image | Air France Logo.svg (from 2008), Air France logo (1970's-2008).svg (from 1970, until 2009), Air France logo (1976-1990).svg (from 1976, until 1990) |
 | Callsign Of Airline | AIRFRANS |
 | Freebase Id | /m/0h7k5 |
 | Parent Organization Or Unit | Air France-KLM |
@@ -146,12 +167,11 @@ guideline_count: 1
 | App Store Developer Id | 391968630 |
 | Privacy Policy Url | https://wwws.airfrance.fr/en/information/legal/edito-psc, https://wwws.airfrance.fr/information/legal/edito-psc |
 | Impressum Url | https://wwws.airfrance.fr/en/information/legal/edito-preambule, https://wwws.airfrance.fr/information/legal/edito-preambule |
-| Email Address | mailto:mail.informations.generales@airfrance.fr |
+| Email Address | mail.informations.generales@airfrance.fr |
 | Gran Enciclopèdia Catalana Id | air-france |
 | Süddeutsche Zeitung Topic Id | Air_France |
 | Museum Digital Id | 78006 |
 | Vikidia Article Id | fr:Air_France |
-| Employees | 71,654 |
 | Eu Vat Number | FR61420495178 |
 | Namuwiki Id | 에어 프랑스 |
 | Courrier International Topic Id | air-france |
@@ -171,3 +191,9 @@ guideline_count: 1
 | Visuotinė Lietuvių Enciklopedija Id | air-france |
 | Wellcome Collection Concept Id | gcmrcdd4 |
 | History Of Topic |  |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 71,654 | - | [50K-100K](/employees_buckets/50k-100k/) |

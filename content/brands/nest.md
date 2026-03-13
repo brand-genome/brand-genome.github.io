@@ -2,12 +2,12 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-03-05T22:38:39.707941"
+date: "2026-03-13T08:56:59.722816"
 draft: false
 sectors:
+  - hardware
   - software
   - electronics
-  - hardware
 regions:
   - usa
 years:
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "nest-thermostat"
+  - "nest-protect"
+  - "nest-cam"
+products: []
+headquarters_locations:
+  - "palo-alto"
+subsidiaries: []
+foundation_dates:
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,24 +55,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - icon
   - secondary
-  - horizontal
+  - badge
   - vertical
+  - horizontal
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies: []
 imagery_styles:
   - product
 wikidata_description: American home automation producer by Google
+wikidata_url: "https://www.wikidata.org/wiki/Q2119882"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +109,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2119882) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Nest Thermostat](/products_or_materials_produced/nest-thermostat/); [Nest Protect](/products_or_materials_produced/nest-protect/); [Nest Cam](/products_or_materials_produced/nest-cam/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
+| Foundation Date | [2010](/foundation_dates/2010/) |
 | Parent Organization Or Unit | Google, Alphabet Inc. |
 | Founded By | Tony Fadell, Matt Rogers |
 | Headquarters Location | Palo Alto |
@@ -106,7 +129,6 @@ guideline_count: 1
 | X (Twitter) Username | googlenest (as of 2020-04-20, from 2010-07-18), googlenesthelp (as of 2022-08-20, from 2011-03-16) |
 | Google+ Id | +Nest |
 | Youtube Channel Id | UCWmlRLAOpx9f1t_cVkBx8-g (as of 2020-12-11, from 2005-11-10) |
-| Logo Image | Google Nest logo.svg (from 2018), Nest Labs logo.svg (from 2010, until 2018) |
 | File Format Wiki Page Id | Nest |
 | Quora Topic Id | Nest-Labs-company |
 | Pinterest Username | nest |

@@ -20,6 +20,17 @@ buildFuture = true
   revenue_bucket = "revenue_buckets"
   operating_income_bucket = "operating_income_buckets"
   net_profit_bucket = "net_profit_buckets"
+  employees_bucket = "employees_buckets"
+  total_assets_bucket = "total_assets_buckets"
+  total_equity_bucket = "total_equity_buckets"
+  market_cap_bucket = "market_cap_buckets"
+
+  # One-degree additional properties
+  product_or_material_produced = "products_or_materials_produced"
+  product = "products"
+  headquarters_location = "headquarters_locations"
+  subsidiary = "subsidiaries"
+  foundation_date = "foundation_dates"
   
   # Color analysis taxonomies (from image color extraction)
   dominant_color = "dominant_colors"

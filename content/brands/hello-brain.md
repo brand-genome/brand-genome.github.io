@@ -2,7 +2,7 @@
 title: Hello Brain
 slug: "hello-brain"
 description: ""
-date: "2026-03-05T22:38:39.722677"
+date: "2026-03-13T08:56:59.741908"
 draft: false
 sectors:
   - education
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,27 +52,29 @@ logo_elements:
 brand_colors:
   - white
   - "pantone-1235"
-  - magenta
+  - grey
+  - pink
   - "pantone-400"
   - "pantone-234"
-  - grey
-  - orange
   - black
-  - pink
+  - orange
+  - magenta
 typographies:
   - avenir
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - vibrant
-  - professional
   - clean
+  - professional
+  - vibrant
+  - photography
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

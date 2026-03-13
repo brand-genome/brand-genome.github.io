@@ -2,7 +2,7 @@
 title: Pushkin Museum
 slug: "pushkin-museum"
 description: ""
-date: "2026-03-05T22:38:39.359445"
+date: "2026-03-13T08:56:59.311350"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,16 +13,26 @@ years:
 languages:
   - russian
 tags:
-  - museum
   - art
+  - museum
 industries: []
 countries:
   - russia
-  - "russian-empire"
   - "soviet-union"
+  - "russian-empire"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1912
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: museum of European art in Moscow
+wikidata_url: "https://www.wikidata.org/wiki/Q4872"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4872) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1912](/foundation_dates/1912/) |
 | Image | Gmii.jpg |
 | Located In The Administrative Territorial Entity | Khamovniki District (from 1995-07-05) |
 | Named After | Alexander Pushkin (from 1937-01-01) |
@@ -114,7 +131,6 @@ guideline_count: 1
 | Vk Username | club23141780 |
 | Youtube Channel Id | UCw-SvnADFRiC87aKAuzZcXQ (as of 2020-12-04, from 2010-11-20) |
 | Visitors Per Year | 1,300,900 (as of 2018), 1,481,300 (as of 2019), 766,325 (as of 2021) |
-| Logo Image | Pushkin Museum logo.svg |
 | State Catalogue Of The Museum Fund Of Russia Museum Id | 2595 |
 | Social Media Followers | 127,639 (as of 2021-01-06), 40,000 (as of 2021-07-02), 125,628 (as of 2022-03-01), 49,600 (as of 2022-03-18), 124,425 (as of 2023-02-06) (+4 more) |
 | Nukat Id | n98069350 |

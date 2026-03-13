@@ -2,7 +2,7 @@
 title: American Forests
 slug: "american-forests"
 description: ""
-date: "2026-03-05T22:38:39.077765"
+date: "2026-03-13T08:56:59.028871"
 draft: false
 sectors:
   - "forestry-timber"
@@ -13,16 +13,28 @@ years:
 languages:
   - english
 tags:
-  - featured
   - environment
+  - featured
 industries:
   - environment
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: conservation organization
+wikidata_url: "https://www.wikidata.org/wiki/Q4743833"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4743833) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Country | United States |
 | Freebase Id | /m/0d90cb |
 | Quora Topic Id | American-Forests |
@@ -86,21 +106,40 @@ guideline_count: 1
 | Described By Source | The Encyclopedia Americana, New International Encyclopedia |
 | National Library Of Israel J9U Id | 987007601987105171 |
 | Industry | environment |
-| Total Assets | 19,022,353 United States dollar (as of 2022), 15,499,643 United States dollar (as of 2021), 17,915,111 United States dollar (as of 2023), 9,195,925 United States dollar (as of 2011), 8,447,671 United States dollar (as of 2012) (+8 more) |
 | ‎Yale Lux Id | group/dcf2bcb9-e9db-4844-bd86-2357e2770dea |
 
 ### Revenue History
 
-- $5.18M (5,176,852 United States dollar (as of 2017-01-01))
-- $11.23M (11,227,734 United States dollar (as of 2020))
-- $10.09M (10,088,062 United States dollar (as of 2019))
-- $5.98M (5,981,694 United States dollar (as of 2018))
-- $21.95M (21,945,499 United States dollar (as of 2022))
-- $16.02M (16,015,859 United States dollar (as of 2021))
-- $24.27M (24,269,126 United States dollar (as of 2023))
-- $4.55M (4,547,004 United States dollar (as of 2011))
-- $2.58M (2,578,925 United States dollar (as of 2012))
-- $3.91M (3,913,595 United States dollar (as of 2013))
-- $4.05M (4,052,783 United States dollar (as of 2014))
-- $4.60M (4,599,204 United States dollar (as of 2015))
-- $5.02M (5,020,803 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.18M | as of 2017-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $11.23M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.09M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $5.98M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $21.95M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $16.02M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $24.27M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $4.55M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.58M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.91M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.05M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.60M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.02M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $19.02M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.50M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.92M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $9.20M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $8.45M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.37M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.38M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.25M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.18M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.36M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $7.44M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.39M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.83M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

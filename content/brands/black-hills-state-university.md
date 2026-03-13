@@ -2,7 +2,7 @@
 title: Black Hills State University
 slug: "black-hills-state-university"
 description: ""
-date: "2026-03-05T22:38:39.367587"
+date: "2026-03-13T08:56:59.325784"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1883
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,9 +51,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
-  - mascot
   - alternate
+  - mascot
+  - symbol
   - horizontal
 brand_colors:
   - green
@@ -50,10 +61,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Spearfish, South Dakota"
+wikidata_url: "https://www.wikidata.org/wiki/Q4920974"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +106,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4920974) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1883](/foundation_dates/1883/) |
 | Coordinate Location | 44.4971, -103.873 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Spearfish |
@@ -119,7 +137,6 @@ guideline_count: 1
 | Freebase Id | /m/074qs3 |
 | Crunchbase Organization Id | black-hills-state-university |
 | Count Of Students | 3,608 (as of 2020-09) |
-| Employees | 464 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I75350188 |
@@ -130,3 +147,9 @@ guideline_count: 1
 | Kisti Id | K000206821 |
 | Threads Username | blackhillsstate |
 | Athletics Program | Black Hills State Yellow Jackets |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 464 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

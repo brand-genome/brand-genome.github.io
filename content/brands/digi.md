@@ -2,12 +2,12 @@
 title: Digi
 slug: digi
 description: ""
-date: "2026-03-05T22:38:39.766043"
+date: "2026-03-13T08:56:59.817011"
 draft: false
 sectors:
-  - software
   - networking
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - computer
+products: []
+headquarters_locations:
+  - maynard
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American manufacturer of minicomputers
+wikidata_url: "https://www.wikidata.org/wiki/Q690079"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q690079) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer](/products_or_materials_produced/computer/) |
+| Headquarters Location | [Maynard](/headquarters_locations/maynard/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Followed By | Hewlett-Packard (from 2002, until 2015-11-01), Compaq (from 1998, until 2002), HP Inc. (from 2015-11-01) |
 | Topic'S Main Category | Category:Digital Equipment Corporation |
 | Freebase Id | /m/026v5 |
@@ -71,7 +92,6 @@ guideline_count: 1
 | Industry | information technology |
 | Inception | 1957-01-01 |
 | Dissolved, Abolished Or Demolished Date | 1998-01-01 |
-| Logo Image | Digital Equipment Corporation 1987 logo.svg (from 1987, until 1996), Digital Equipment Corporation 1993 logo.svg (from 1996) |
 | Image | Assabet Woolen Mill - Maynard, Massachusetts - DSC04913.jpg |
 | Project Gutenberg Author Id | 33924 |
 | Viaf Cluster Id | 144233329 |

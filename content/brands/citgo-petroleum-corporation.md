@@ -2,7 +2,7 @@
 title: Citgo Petroleum Corporation
 slug: "citgo-petroleum-corporation"
 description: ""
-date: "2026-03-05T22:38:39.201535"
+date: "2026-03-13T08:56:59.138433"
 draft: false
 sectors:
   - "petrol-station"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - houston
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: oil company and gasoline retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q2974437"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,12 +77,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2974437) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Houston](/headquarters_locations/houston/) |
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Freebase Id | /m/01xyx9 |
 | Headquarters Location | Houston |
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0017904 |
 | Inception | 1910-01-01 |
 | Country | United States |
-| Logo Image | Citgo logo.svg |
 | Legal Entity Identifier | YX52P86PXMLYDOTUQ225 |
 | Quora Topic Id | CITGO |
 | Encyclopædia Britannica Online Id | topic/CITGO |

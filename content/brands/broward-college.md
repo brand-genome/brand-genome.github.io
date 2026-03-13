@@ -2,7 +2,7 @@
 title: Broward College
 slug: "broward-college"
 description: ""
-date: "2026-03-05T22:38:39.218562"
+date: "2026-03-13T08:56:59.155434"
 draft: false
 sectors:
   - education
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1959
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public college in Fort Lauderdale, Florida, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q556733"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q556733) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1959](/foundation_dates/1959/) |
 | Coordinate Location | 26.0803, -80.2344 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Florida |
@@ -93,7 +110,6 @@ guideline_count: 1
 | Social Media Followers | 16,442 (as of 2021-01-10), 16,612 (as of 2020-04-19), 16,461 (as of 2022-02-26), 16,721 (as of 2023-02-06) |
 | Freebase Id | /m/05dbhy |
 | Subreddit | Broward |
-| Logo Image | Broward-College-jpg.jpg |
 | Academic Calendar Type | semester |
 | Kisti Id | K000206857 |
 | Athletics Program | Broward Seahawks |

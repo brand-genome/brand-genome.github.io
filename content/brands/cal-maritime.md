@@ -2,7 +2,7 @@
 title: Cal Maritime
 slug: "cal-maritime"
 description: ""
-date: "2026-03-05T22:38:39.378660"
+date: "2026-03-13T08:56:59.338421"
 draft: false
 sectors:
   - education
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vallejo
+subsidiaries: []
+foundation_dates:
+  - 1929
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,30 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
-  - vertical
   - stacked
+  - primary
+  - seal
+  - vertical
 brand_colors:
   - white
   - red
+  - navy
+  - blue
   - gold
   - black
-  - blue
   - gray
-  - navy
 typographies:
   - optima
   - helvetica
   - garamond
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "maritime academy in Vallejo, California, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1026832"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +136,12 @@ Navy Blue - (R:0 G:49 B:101), Gold - (R:231 G:215 B:65).
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1026832) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vallejo](/headquarters_locations/vallejo/) |
+| Foundation Date | [1929](/foundation_dates/1929/) |
 | Coordinate Location | 38.069444444444, -122.22972222222 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | California |
@@ -145,7 +165,6 @@ Navy Blue - (R:0 G:49 B:101), Gold - (R:231 G:215 B:65).
 | X (Twitter) Username | cal_maritime (as of 2020-04-19, from 2009-03-17) |
 | Social Media Followers | 2,192 (as of 2021-01-03), 2,149 (as of 2020-04-19) |
 | Count Of Students | 952 (as of 2020-09), 938 (as of 2021-09-01) |
-| Employees | 312 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I230604491 |
@@ -158,3 +177,9 @@ Navy Blue - (R:0 G:49 B:101), Gold - (R:231 G:215 B:65).
 | Member Of | American Council on Education, American Association of State Colleges and Universities |
 | Sevis School Id | 7779 |
 | ‎Yale Lux Id | group/8c21e924-4ab1-4870-b842-c297de45cdd0 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 312 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

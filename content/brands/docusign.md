@@ -2,7 +2,7 @@
 title: Docusign
 slug: docusign
 description: ""
-date: "2026-03-05T22:38:39.218986"
+date: "2026-03-13T08:56:59.155847"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
 industries:
   - "business-software-industry"
 countries:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "digital-signature"
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: United States company
+wikidata_url: "https://www.wikidata.org/wiki/Q5287613"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +83,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5287613) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Digital Signature](/products_or_materials_produced/digital-signature/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United States |
 | Inception | 2003 |
 | Headquarters Location | San Francisco |
@@ -79,7 +100,6 @@ guideline_count: 2
 | Facebook Username | DocuSign |
 | Freebase Id | /m/0cp08cw |
 | Stock Exchange | Nasdaq |
-| Logo Image | Logo-DocuSign.png, DocuSign Logo.svg |
 | Crunchbase Organization Id | docusign |
 | Child Organization Or Unit | Liveoak Technologies (from 2020) |
 | Official Name | Docusign, Inc. |

@@ -2,11 +2,11 @@
 title: "Oh-Tech"
 slug: "oh-tech"
 description: ""
-date: "2026-03-05T22:38:39.641975"
+date: "2026-03-13T08:56:59.570127"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
   - networking
 regions:
   - usa
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - columbus
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +54,27 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-195"
   - white
   - red
-  - "pantone-186"
-  - "pantone-195"
-  - orange
-  - black
   - blue
-  - gray
   - "pantone-284"
+  - "pantone-186"
+  - black
+  - orange
+  - gray
   - "pantone-137"
 typographies:
-  - univers
   - garamond
+  - univers
 imagery_styles: []
 wikidata_description: division of the Ohio Department of Higher Education
+wikidata_url: "https://www.wikidata.org/wiki/Q134290196"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +129,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q134290196) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Columbus](/headquarters_locations/columbus/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Country | United States |
 | Parent Organization Or Unit | Ohio Department of Higher Education |
 | Child Organization Or Unit | OARnet, OhioLINK, Ohio Supercomputer Center |

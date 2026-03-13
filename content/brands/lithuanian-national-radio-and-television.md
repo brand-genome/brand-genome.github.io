@@ -2,7 +2,7 @@
 title: Lithuanian National Radio and Television
 slug: "lithuanian-national-radio-and-television"
 description: ""
-date: "2026-03-05T22:38:39.127389"
+date: "2026-03-13T08:56:59.079923"
 draft: false
 sectors:
   - broadcasting
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - radio
+products: []
+headquarters_locations:
+  - vilnius
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: public broadcasting company of Lithuania
+wikidata_url: "https://www.wikidata.org/wiki/Q1550538"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,11 +79,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1550538) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Radio](/products_or_materials_produced/radio/) |
+| Headquarters Location | [Vilnius](/headquarters_locations/vilnius/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Freebase Id | /m/07wzk5 |
 | Member Of | European Broadcasting Union |
 | Headquarters Location | Vilnius |
 | Inception | 1957-04-30 |
-| Logo Image | LRT Logo 2022.svg |
 | Country | Lithuania |
 | Quora Topic Id | Lithuanian-National-Radio-and-Television |
 | Location Of Formation | Vilnius |
@@ -83,7 +103,7 @@ guideline_count: 1
 | Image | LRT by Augustas Didzgalvis.jpg |
 | Web Feed Url | https://www.lrt.lt/?rss, https://www.lrt.lt/en/news-in-english?rss, https://www.lrt.lt/en/news-in-english?rss, https://www.lrt.lt/pl/wiadomosci?rss, https://www.lrt.lt/ua/novini?rss |
 | Facebook Username | lrt.lt |
-| Email Address | mailto:lrt@lrt.lt |
+| Email Address | lrt@lrt.lt |
 | Youtube Channel Id | UC4KnMZaxcv1KZDAJsgHXcOA (as of 2023-08-29, from 2009-10-22) |
 | Linkedin Company Or Organization Id | lrt |
 | Instagram Username | lrt.lt |

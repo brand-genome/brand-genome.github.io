@@ -2,7 +2,7 @@
 title: Deca
 slug: deca
 description: ""
-date: "2026-03-05T22:38:39.646307"
+date: "2026-03-13T08:56:59.574736"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "la-motte-servolex"
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,25 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - gold
-  - black
   - blue
+  - gold
   - silver
+  - black
 typographies:
-  - gotham
   - "source-sans"
+  - gotham
 imagery_styles:
   - bold
 wikidata_description: French cycling team
+wikidata_url: "https://www.wikidata.org/wiki/Q310482"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +116,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q310482) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [La Motte Servolex](/headquarters_locations/la-motte-servolex/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Freebase Id | /m/08xrvc |
 | Image | Decathlon AG2R team at stage 3 team presentation of Itzulia Basque Country Tour 2024.jpg |
 | Topic'S Main Category | Category:Decathlon–AG2R La Mondiale |

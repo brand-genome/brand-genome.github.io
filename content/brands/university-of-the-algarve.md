@@ -2,7 +2,7 @@
 title: University of the Algarve
 slug: "university-of-the-algarve"
 description: ""
-date: "2026-03-05T22:38:39.105536"
+date: "2026-03-13T08:56:59.054222"
 draft: false
 sectors:
   - university
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university in Faro, Portugal"
+wikidata_url: "https://www.wikidata.org/wiki/Q1972136"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -168,6 +180,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1972136) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Freebase Id | /m/064r_b |
 | Coordinate Location | 37.0224, -7.92764 |
 | Inception | 1976 |
@@ -178,7 +195,6 @@ guideline_count: 1
 | Ringgold Id | 70985 |
 | Quora Topic Id | University-of-the-Algarve |
 | Ipv6 Routing Prefix | 2001:690:810:18::/64, 2001:690:2050::/48 |
-| Logo Image | Uoalogo.png |
 | Grid Id | grid.7157.4 |
 | Times Higher Education World University Id | university-algarve |
 | Google Maps Customer Id | 16890558017686493463 |

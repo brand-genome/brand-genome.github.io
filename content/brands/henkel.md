@@ -2,7 +2,7 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-03-05T22:38:39.312040"
+date: "2026-03-13T08:56:59.252836"
 draft: false
 sectors:
   - "consumer-goods"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - germany
 years:
-  - 2018
   - 2022
+  - 2018
 languages:
   - english
 tags:
@@ -21,9 +21,23 @@ industries:
 countries:
   - germany
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - laundry
+products: []
+headquarters_locations:
+  - aachen
+  - dusseldorf
+subsidiaries: []
+foundation_dates:
+  - 1876
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,16 +56,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: worldwide chemical and consumer goods company headquartered in Germany
+wikidata_url: "https://www.wikidata.org/wiki/Q276507"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,13 +107,19 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q276507) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
+| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |
 | Headquarters Location | Aachen, Düsseldorf |
 | Part Of | DAX (from 1988-07-01), DivDAX (from 1999-09-20, until 2001-09-24), DivDAX (from 2004-09-20, until 2005-09-19), CDAX, DivDAX (from 2020-09-21, until 2021-09-20) |
 | Topic'S Main Category | Category:Henkel |
 | Isin | DE0006048408, DE0006048432 |
-| Logo Image | Henkel-Logo.svg |
 | Legal Form | AG & Co. KGaA |
 | Gnd Id | 10368955-2 |
 | Viaf Cluster Id | 148265230 |
@@ -123,7 +145,6 @@ guideline_count: 2
 | Gran Enciclopèdia Catalana Id (Former Scheme) | 0032405 |
 | Eu Vat Number | DE119429301 |
 | Board Member | Hugo Henkel |
-| Employees | 52,600 (as of 2020), 52,450 (as of 2021), 51,200 (as of 2022), 48,900 (as of 2023) |
 | Eu Participant Identification Code | 998821902 |
 | X (Twitter) Username | henkel (as of 2020-04-21, from 2009-01-26), Henkel |
 | Instagram Username | henkelr (as of 2021-09-09) |
@@ -137,7 +158,7 @@ guideline_count: 2
 | Opencorporates Id | de/R1101_HRB4724 |
 | Different From | Henkel |
 | Phone Number | +49-211-797-0 |
-| Email Address | mailto:corporate.communications@henkel.com |
+| Email Address | corporate.communications@henkel.com |
 | Linkedin Company Or Organization Id | henkel (as of 2021-09-09) |
 | Rics Company Code | 4143 (from 2018-10-12) |
 | Lobby Register Of The German Bundestag Id | R001301 (from 2022-02-24) |
@@ -160,4 +181,15 @@ guideline_count: 2
 
 ### Revenue History
 
-- $19.25B (19,250,000,000 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $19.25B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 52,600 | as of 2020 | [50K-100K](/employees_buckets/50k-100k/) |
+| 52,450 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |
+| 51,200 | as of 2022 | [50K-100K](/employees_buckets/50k-100k/) |
+| 48,900 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |

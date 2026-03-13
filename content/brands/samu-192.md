@@ -2,12 +2,12 @@
 title: Samu 192
 slug: "samu-192"
 description: ""
-date: "2026-03-05T22:38:39.418303"
+date: "2026-03-13T08:56:59.377010"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
   - "emergency-services"
+  - healthcare
 regions:
   - brazil
 years:
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: emergency medical services in Brazil
+wikidata_url: "https://www.wikidata.org/wiki/Q104713679"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,10 +75,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q104713679) |
+
+| Property | Value |
+|----------|-------|
 | Based On | Emergency medical services in France |
 | Subclass Of | emergency medical services |
 | Country | Brazil |
 | Osm Name Suggestion Index Id | samu192-01b57c |
 | Ringgold Id | 200246 |
 | Google Knowledge Graph Id | /g/122r7dtp |
-| Logo Image | Samu192.png |

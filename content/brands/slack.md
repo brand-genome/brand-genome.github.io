@@ -2,7 +2,7 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-03-05T22:38:39.505679"
+date: "2026-03-13T08:56:59.429816"
 draft: false
 sectors:
   - software
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,32 +48,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - icon
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - symbol
+  - stacked
+  - horizontal
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - bold
   - photography
   - product
+  - bold
   - lifestyle
 wikidata_description: "web-based instant messaging service"
+wikidata_url: "https://www.wikidata.org/wiki/Q17130715"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -225,9 +237,13 @@ Use registered mark ® symbol on the most prominent use of Slack trademarks for 
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17130715) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-08 |
 | Motto Text | Be less busy |
-| Logo Image | Slack CMYK.svg (until 2019), Slack Technologies Logo.svg (from 2019) |
 | Has Use | project management, communication |
 | Developer | Slack Technologies |
 | Quora Topic Id | Slack-product |

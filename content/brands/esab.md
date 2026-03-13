@@ -2,7 +2,7 @@
 title: ESAB
 slug: esab
 description: ""
-date: "2026-03-05T22:38:39.691789"
+date: "2026-03-13T08:56:59.619656"
 draft: false
 sectors:
   - hardware
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - gothenburg
+subsidiaries: []
+foundation_dates:
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,19 +51,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - yellow
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - dynamic
   - subtle
   - product
+  - dynamic
 wikidata_description: "American-Swedish industrial company"
+wikidata_url: "https://www.wikidata.org/wiki/Q2494842"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -173,12 +186,17 @@ Description layers fixes - Please diagnosis calibrated established yellow markin
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2494842) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
+| Foundation Date | [1904](/foundation_dates/1904/) |
 | Freebase Id | /m/02dm2g |
 | Country | Sweden |
 | Headquarters Location | Gothenburg |
 | Legal Form | aktiebolag |
 | Inception | 1904 |
-| Logo Image | ESAB.svg |
 | Quora Topic Id | ESAB |
 | Swedish Organization Number | 556005-7738 |
 | Opencorporates Id | se/556005-7738 |

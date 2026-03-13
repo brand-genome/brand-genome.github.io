@@ -2,7 +2,7 @@
 title: TGN
 slug: tgn
 description: ""
-date: "2026-03-05T22:38:39.083067"
+date: "2026-03-13T08:56:59.036295"
 draft: false
 sectors:
   - utilities
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "buenos-aires"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,24 +50,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors: []
 typographies:
-  - impact
   - montserrat
+  - impact
 imagery_styles:
-  - bold
-  - photography
+  - natural
   - dynamic
   - modern
-  - natural
+  - photography
+  - bold
 wikidata_description: Argentine energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q106410457"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +114,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106410457) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Buenos Aires](/headquarters_locations/buenos-aires/) |
 | Country | Argentina |
 | Headquarters Location | Buenos Aires |
 | Official Name | Transportadora de Gas del Norte S.A. |

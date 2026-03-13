@@ -2,11 +2,11 @@
 title: USB
 slug: usb
 description: ""
-date: "2026-03-05T22:38:39.321334"
+date: "2026-03-13T08:56:59.270841"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - international
 years:
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - caracas
+  - "vargas-state"
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,17 +52,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - red
   - black
+  - blue
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Caracas, Venezuela"
+wikidata_url: "https://www.wikidata.org/wiki/Q2093477"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,6 +103,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2093477) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Caracas](/headquarters_locations/caracas/); [Vargas State](/headquarters_locations/vargas-state/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Freebase Id | /m/04fc47 |
 | Image | Biblioteca USB.JPG |
 | Country | Venezuela |
@@ -107,7 +127,6 @@ guideline_count: 1
 | Headquarters Location | Caracas, Vargas state |
 | Has Part(S) | Simón Bolívar University Central Library,  |
 | Open Funder Registry Funder Id | 501100008351 |
-| Logo Image | USB logo.svg |
 | Category For Alumni Of Educational Institution | Category:Simón Bolívar University (Venezuela) alumni |
 | Grid Id | grid.412358.9 |
 | Category For Employees Of The Organization | Category:Academic staff of Simón Bolívar University (Venezuela) |

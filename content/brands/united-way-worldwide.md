@@ -2,7 +2,7 @@
 title: United Way Worldwide
 slug: "united-way-worldwide"
 description: ""
-date: "2026-03-05T22:38:39.671971"
+date: "2026-03-13T08:56:59.592388"
 draft: false
 sectors:
   - ngo
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - alexandria
+subsidiaries: []
+foundation_dates:
+  - 1974
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,27 +53,29 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
 typographies:
   - roboto
-  - arial
   - impact
+  - arial
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: Nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q7893636"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +131,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7893636) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Alexandria](/headquarters_locations/alexandria/) |
+| Foundation Date | [1974](/foundation_dates/1974/) |
 | Country | United States |
 | Quora Topic Id | United-Way-Worldwide |
 | Follows | United Way of America |
@@ -140,22 +160,41 @@ guideline_count: 1
 | Legal Form | 501(c)(3) organization |
 | Board Member | Juliette Tuakli (from 2014, until 2022), Michael K. Hayde (from 2018), Anthony Earley (from 2017), Mariame Robinson (from 2017), David Preschlack (from 2018) (+5 more) |
 | Uia Open Yearbook Organization Website Id | 1100048939 |
-| Total Assets | 85,821,906 United States dollar (as of 2022), 83,810,591 United States dollar (as of 2021), 70,828,290 United States dollar (as of 2023), 103,190,645 United States dollar (as of 2011), 82,287,642 United States dollar (as of 2012) (+8 more) |
 | Tiktok Username | unitedwayworldwide |
 | Member Of | Independent Sector |
 
 ### Revenue History
 
-- $109.28M (109,280,056 United States dollar (as of 2016-01-01))
-- $248.84M (248,844,070 United States dollar (as of 2019))
-- $218.70M (218,704,476 United States dollar (as of 2018))
-- $175.83M (175,832,756 United States dollar (as of 2017))
-- $255.21M (255,214,771 United States dollar (as of 2020))
-- $98.50M (98,499,995 United States dollar (as of 2022))
-- $113.43M (113,428,823 United States dollar (as of 2021))
-- $51.57M (51,568,253 United States dollar (as of 2023))
-- $94.22M (94,222,249 United States dollar (as of 2011))
-- $96.10M (96,098,760 United States dollar (as of 2012))
-- $78.67M (78,671,627 United States dollar (as of 2013))
-- $89.31M (89,307,915 United States dollar (as of 2014))
-- $99.23M (99,225,880 United States dollar (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $109.28M | as of 2016-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $248.84M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $218.70M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $175.83M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $255.21M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $98.50M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $113.43M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $51.57M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $94.22M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $96.10M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.67M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $89.31M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $99.23M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $85.82M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $83.81M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $70.83M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $103.19M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $82.29M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $66.62M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $75.98M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $84.38M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $76.59M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $101.95M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $81.28M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $77.79M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $81.96M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

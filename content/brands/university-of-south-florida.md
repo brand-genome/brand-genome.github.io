@@ -2,7 +2,7 @@
 title: University of South Florida
 slug: "university-of-south-florida"
 description: ""
-date: "2026-03-05T22:38:39.230820"
+date: "2026-03-13T08:56:59.174583"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tampa
+subsidiaries: []
+foundation_dates:
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Tampa, Florida, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q500606"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q500606) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tampa](/headquarters_locations/tampa/) |
+| Foundation Date | [1956](/foundation_dates/1956/) |
 | Topic'S Main Category | Category:University of South Florida |
 | Freebase Id | /m/09s5q8 |
 | Country | United States |
@@ -104,13 +124,11 @@ guideline_count: 1
 | Times Higher Education World University Id | university-south-florida |
 | Google Maps Customer Id | 12823001712777334890 |
 | U Multirank University Id | university-of-south-florida-at-tampa |
-| Logo Image | University of South Florida wordmark.svg |
 | Owner Of | USF Baseball Stadium, USF Track and Field Stadium, WSMR, WUSF, The Oracle (+1 more) |
 | Coordinate Location | 28.06, -82.41 |
 | Nl Cr Aut Id | mzk2004222017 |
 | Official Color | green, gold |
 | Microsoft Academic Id (Discontinued) | 2613432 |
-| Employees | 6,133 |
 | Street Address | 4202 East Fowler Ave, Tampa, FL, 33620-9951 |
 | Library Of Congress Authority Id | n80050158 |
 | Index Herbariorum Code | USF |
@@ -158,3 +176,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/2b52dbef-4321-4265-baf5-0ac2299dce46 |
 | Service Status Information Url | https://systemstatus.usf.edu/ |
 | Athletics Program | South Florida Bulls |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,133 | - | [1K-10K](/employees_buckets/1k-10k/) |

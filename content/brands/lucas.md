@@ -2,7 +2,7 @@
 title: Lucas
 slug: lucas
 description: ""
-date: "2026-03-05T22:38:39.654381"
+date: "2026-03-13T08:56:59.581168"
 draft: false
 sectors:
   - hardware
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+  - "letterman-digital-arts-center"
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,18 +54,20 @@ logo_elements: []
 brand_colors:
   - white
   - red
-  - "pantone-185"
   - grey
+  - "pantone-185"
   - black
 typographies:
   - roboto
 imagery_styles:
   - bold
 wikidata_description: American video game producer and publisher
+wikidata_url: "https://www.wikidata.org/wiki/Q216611"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q216611) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [Letterman Digital Arts Center](/headquarters_locations/letterman-digital-arts-center/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | George Lucas |
 | Inception | 1982-05-01 |
 | Headquarters Location | Letterman Digital Arts Center, San Francisco |
@@ -147,7 +167,6 @@ guideline_count: 1
 | Museum Digital Id | 11803, 12234 |
 | Thelegacy Company Id | 1286, 1288 |
 | Jedipedia.Net Id | Lucasfilm_Games |
-| Logo Image | Lucasfilm Games logo.svg |
 | Pcgamingwiki Id | Company:LucasArts |
 | Reddit Topic Id | lucasarts |
 | My Abandonware Company Id | ck |

@@ -2,7 +2,7 @@
 title: Berlin University of the Arts
 slug: "berlin-university-of-the-arts"
 description: ""
-date: "2026-03-05T22:38:39.416150"
+date: "2026-03-13T08:56:59.376225"
 draft: false
 sectors:
   - education
@@ -15,14 +15,25 @@ languages:
   - german
 tags:
   - education
-  - university
   - art
+  - university
 industries: []
 countries:
   - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1696
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +59,12 @@ typographies:
   - frutiger
 imagery_styles: []
 wikidata_description: "public art school in Berlin, Germany"
+wikidata_url: "https://www.wikidata.org/wiki/Q55038"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +96,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55038) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1696](/foundation_dates/1696/) |
 | Coordinate Location | 52.509166666666665, 13.326944444444445 |
 | Freebase Id | /m/01vt42 |
 | Gnd Id | 10029869-2 |
@@ -105,7 +123,6 @@ guideline_count: 1
 | Count Of Students | 3,447 (as of 2012-01-01), 3,913 (as of 2018), 4,146 (as of 2021), 4,179 (as of 1998), 748 (as of 1998) (+44 more) |
 | Grid Id | grid.449445.c |
 | Category For Employees Of The Organization | Category:Academic staff of the Berlin University of the Arts |
-| Logo Image | UdK Berlin-Logo farbig.svg |
 | Microsoft Academic Id (Discontinued) | 46043019 |
 | Ror Id | 03eznrw16 |
 | Eu Participant Identification Code | 945595577 |
@@ -116,7 +133,6 @@ guideline_count: 1
 | Qs World University Id | universitat-der-kunste-berlin |
 | Researchgate Institute Id | Universitaet_der_Kuenste_Berlin |
 | Budget | 87,969,000 euro (as of 2018), 95,479,000 euro (as of 2020), 99,533,000 euro (as of 2021), 105,292,000 euro (as of 2022) |
-| Employees | 2,084 (as of 2018), 2,190 (as of 2021), 2,178 (as of 2022) |
 | Rector | Norbert Palz (from 2020-04-01) |
 | Native Label | Universität der Künste Berlin |
 | X (Twitter) Username | UdK_Berlin_ (as of 2021-09-14, from 2020-03-12) |
@@ -172,3 +188,11 @@ guideline_count: 1
 | Opencorporates Id | fr/909333429 |
 | Unirank Id | 7525 |
 | Chairperson | Markus Hilgert |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,084 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,190 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,178 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |

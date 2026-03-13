@@ -2,7 +2,7 @@
 title: Politecnico di Milano
 slug: "politecnico-di-milano"
 description: ""
-date: "2026-03-05T22:38:39.165113"
+date: "2026-03-13T08:56:59.099084"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - milan
+subsidiaries: []
+foundation_dates:
+  - 1863
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "technical university in Milan, Italy"
+wikidata_url: "https://www.wikidata.org/wiki/Q392904"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -73,6 +86,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q392904) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Milan](/headquarters_locations/milan/) |
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | Rector | Ferruccio Resta (from 2017, until 2022), Francesco Brioschi (from 1863, until 1897), Giuseppe Colombo (from 1897, until 1921), Cesare Saldini (from 1921, until 1922), Giovanni Azzone (from 2010, until 2016) (+10 more) |
 | Topic'S Main Category | Category:Polytechnic University of Milan |
 | Freebase Id | /m/057bxr |
@@ -127,7 +146,6 @@ guideline_count: 1
 | Gateway To Research Organisation Id | 84803376-D657-41A3-A5DB-E1341282462E |
 | Nacsis Cat Author Id | DA02330254 |
 | National Library Of Israel J9U Id | 987007266507605171 |
-| Logo Image | Politecnicomilano-logo.svg |
 | Described By Source | Open GLAM Survey (as of 2022-03-01) |
 | Musicbrainz Place Id | c33df15c-647a-4c11-a7d1-f092ee975553 |
 | Language Used | Italian |
@@ -141,7 +159,7 @@ guideline_count: 1
 | Cinii Research Id | 1140000791884171264 |
 | Eu Transparency Register Id | 479384532978-69 |
 | Google Scholar Organization Id | 3907090038794971103 |
-| Email Address | mailto:pecateneo@cert.polimi.it |
+| Email Address | pecateneo@cert.polimi.it |
 | Snarc Id | Q49020 |
 | Vatican Library Vcba Id | 494/1779 |
 | National Library Of Spain Spmabn Id (Bne V1.0) | XX143006 |

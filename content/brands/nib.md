@@ -2,7 +2,7 @@
 title: NIB
 slug: nib
 description: ""
-date: "2026-03-05T22:38:39.788954"
+date: "2026-03-13T08:56:59.839525"
 draft: false
 sectors:
   - finance
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - helsinki
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "the joint international financial institution of Denmark, Finland, Iceland, Norway, and Sweden"
+wikidata_url: "https://www.wikidata.org/wiki/Q2020649"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,8 +77,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2020649) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Helsinki](/headquarters_locations/helsinki/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Industry | financial services |
-| Logo Image | Nordic Investment Bank logo.svg |
 | Inception | 1976-01-01 |
 | Country | Finland |
 | Headquarters Location | Helsinki |

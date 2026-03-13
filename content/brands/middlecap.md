@@ -2,12 +2,12 @@
 title: Middlecap
 slug: middlecap
 description: ""
-date: "2026-03-05T22:38:39.745598"
+date: "2026-03-13T08:56:59.785166"
 draft: false
 sectors:
+  - "real-estate"
   - consulting
   - finance
-  - "real-estate"
 regions:
   - slovakia
 years:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - prague
+subsidiaries: []
+foundation_dates:
+  - 2016
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +59,30 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-7625"
-  - orange
-  - cyan
-  - blue
   - gray
-  - "pantone-289"
+  - blue
   - "pantone-299"
+  - "pantone-289"
+  - cyan
+  - orange
+  - "pantone-7625"
 typographies:
   - "sans-serif"
 imagery_styles:
-  - bold
   - serious
-  - geometric
-  - professional
-  - colorful
-  - minimal
   - modern
+  - professional
+  - minimal
+  - colorful
+  - bold
+  - geometric
 wikidata_description: Czech company operating optician chain
+wikidata_url: "https://www.wikidata.org/wiki/Q130557294"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q130557294) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Prague](/headquarters_locations/prague/) |
+| Foundation Date | [2016](/foundation_dates/2016/) |
 | Headquarters Location | Prague |
 | Czech Registration Id (Ičo) | 05313449 |
 | Country | Czech Republic |

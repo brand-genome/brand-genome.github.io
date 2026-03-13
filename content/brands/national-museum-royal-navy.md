@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-03-05T22:38:39.439793"
+date: "2026-03-13T08:56:59.402591"
 draft: false
 sectors:
   - "arts-culture"
@@ -19,9 +19,19 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +54,23 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-186"
-  - black
   - blue
   - "pantone-289"
+  - "pantone-186"
+  - black
 typographies:
-  - arial
   - frutiger
   - display
+  - arial
 imagery_styles:
   - bold
 wikidata_description: "created in early 2009 to act as a single non-departmental public body for the museums of the Royal Navy, United Kingdom"
+wikidata_url: "https://www.wikidata.org/wiki/Q6974518"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +107,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6974518) |
+
+| Property | Value |
+|----------|-------|
 | Coordinate Location | 50.801, -1.109 |
 | Country | United Kingdom |
 | Archon Code | 1070 |
@@ -115,7 +131,6 @@ guideline_count: 1
 | Charity Commission No. | 1126283 (from 2008-10-14) |
 | Legal Form | charitable organization |
 | Donations | 14,979,000 pound sterling (as of 2021), 9,313,000 pound sterling (as of 2020), 8,461,000 pound sterling (as of 2019), 14,402,314 pound sterling (as of 2018), 11,548,532 pound sterling (as of 2017) (+4 more) |
-| Employees | 177 (as of 2021), 412 (as of 2020), 411 (as of 2019), 407 (as of 2018), 315 (as of 2017) (+1 more) |
 | Number Of Volunteers | 380 (as of 2019), 356 (as of 2020), 330 (as of 2017), 300 (as of 2018), 291 (as of 2021) (+1 more) |
 | Located In The Administrative Territorial Entity | Portsmouth |
 | Historic County | Hampshire |
@@ -131,12 +146,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $16.98M (16,985,000 pound sterling (as of 2021))
-- $18.73M (18,730,000 pound sterling (as of 2020))
-- $18.07M (18,067,000 pound sterling (as of 2019))
-- $24.42M (24,421,307 pound sterling (as of 2018))
-- $19.87M (19,873,323 pound sterling (as of 2017))
-- $27.09M (27,089,000 pound sterling (as of 2022))
-- $29.63M (29,633,000 pound sterling (as of 2023))
-- $19.19M (19,187,000 pound sterling (as of 2024))
-- $19.73M (19,733,000 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $16.98M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.73M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.07M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $24.42M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.87M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.09M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $29.63M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.19M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $19.73M | as of 2025 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 177 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 412 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 411 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 407 | as of 2018 | [100-1K](/employees_buckets/100-1k/) |
+| 315 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |
+| 3 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

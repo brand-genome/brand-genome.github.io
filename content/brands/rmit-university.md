@@ -2,7 +2,7 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-03-05T22:38:39.231068"
+date: "2026-03-13T08:56:59.174811"
 draft: false
 sectors:
   - university
@@ -10,21 +10,33 @@ regions:
   - australia
 years:
   - 2022
-  - 2017
   - 2020
+  - 2017
 languages:
   - english
 tags:
-  - education
   - featured
-  - university
+  - education
   - signage
+  - university
 industries: []
 countries:
   - australia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - melbourne
+subsidiaries: []
+foundation_dates:
+  - 1887
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +59,24 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - blue
   - red
   - black
+  - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
   - photography
-  - gradient
   - graphic
+  - gradient
+  - bold
 wikidata_description: public Australian university based in Melbourne
+wikidata_url: "https://www.wikidata.org/wiki/Q1057890"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +139,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1057890) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Melbourne](/headquarters_locations/melbourne/) |
+| Foundation Date | [1887](/foundation_dates/1887/) |
 | Freebase Id | /m/02jx_v |
 | Image | RMIT University Building 01.jpg |
 | Country | Australia |
@@ -150,9 +170,7 @@ guideline_count: 3
 | Qs World University Id | rmit-university |
 | Times Higher Education World University Id | rmit-university |
 | U Multirank University Id | rmit-university |
-| Logo Image | RMIT University Logo.svg |
 | Microsoft Academic Id (Discontinued) | 82951845 |
-| Employees | 3,230 |
 | Has Part(S) | Informit |
 | Library Of Congress Authority Id | n50069414 |
 | Ror Id | 04ttjf776 |
@@ -185,3 +203,9 @@ guideline_count: 3
 | Dialnet Author Id | 2924604 |
 | ‎Yale Lux Id | group/63f28ab9-92e3-4e31-ac1d-6c08232dcecc |
 | Threads Username | rmituwc |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,230 | - | [1K-10K](/employees_buckets/1k-10k/) |

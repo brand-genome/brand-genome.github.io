@@ -2,7 +2,7 @@
 title: PKP Intercity
 slug: "pkp-intercity"
 description: ""
-date: "2026-03-05T22:38:39.155351"
+date: "2026-03-13T08:56:59.095188"
 draft: false
 sectors:
   - railroad
@@ -17,10 +17,23 @@ industries:
 countries:
   - poland
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "passenger-transport"
+products: []
+headquarters_locations:
+  - warsaw
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,20 +53,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - horizontal
+  - symbol
 brand_colors:
   - white
-  - "pantone-424"
   - grey
+  - "pantone-424"
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: railway company in Poland
+wikidata_url: "https://www.wikidata.org/wiki/Q590406"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,13 +114,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q590406) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Passenger Transport](/products_or_materials_produced/passenger-transport/) |
+| Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Headquarters Location | Warsaw |
 | Freebase Id | /m/09zr5r |
 | Country | Poland |
 | Parent Organization Or Unit | Polish State Railways |
 | Viaf Cluster Id | 167880318 |
 | Inception | 2001-09-01 |
-| Logo Image | Logo pkp ic.svg |
 | Legal Form | spółka akcyjna |
 | Image | Kompleks biurowy West Station 2021.jpg |
 | Industry | rail transport |
@@ -116,7 +137,6 @@ guideline_count: 1
 | Instagram Username | pkp_intercity |
 | Social Media Followers | 10,247 (as of 2021-01-03), 9,606 (as of 2020-04-26), 11,915 (as of 2022-02-28), 14,330 (as of 2023-02-09) |
 | Official Name | PKP INTERCITY S.A. |
-| Employees | 8,936 (as of 2018-01-01) |
 | Rics Company Code | 1251 (from 2003-11-17) |
 | Product Or Material Produced | passenger transport |
 | Acer Code | A0012387B.PL |
@@ -126,8 +146,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $658.00M (658,000,000 euro (as of 2018-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $658.00M | as of 2018-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |
 
 ### Net Profit History
 
-- $39.20M (39,200,000 euro (as of 2018-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $39.20M | as of 2018-01-01 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 8,936 | as of 2018-01-01 | [1K-10K](/employees_buckets/1k-10k/) |

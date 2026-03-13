@@ -2,7 +2,7 @@
 title: Quanta
 slug: quanta
 description: ""
-date: "2026-03-05T22:38:39.657760"
+date: "2026-03-13T08:56:59.584750"
 draft: false
 sectors:
   - construction
@@ -20,10 +20,26 @@ industries:
 countries:
   - taiwan
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - laptop
+  - "computer-hardware"
+  - server
+products: []
+headquarters_locations:
+  - "taoyuan-district"
+  - taipei
+subsidiaries: []
+foundation_dates:
+  - 1988
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +62,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Taiwanese electronics manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q696743"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +84,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q696743) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/) |
+| Headquarters Location | [Taoyuan District](/headquarters_locations/taoyuan-district/); [Taipei](/headquarters_locations/taipei/) |
+| Foundation Date | [1988](/foundation_dates/1988/) |
 | Headquarters Location | Taoyuan District, Taipei |
 | Freebase Id | /m/02wz02 |
 | Isin | TW0002382009 |
@@ -82,13 +107,11 @@ guideline_count: 1
 | Parent Organization Or Unit | Quanta Group |
 | Grid Id | grid.471290.9 |
 | Industry | information technology |
-| Employees | 68,720 (as of 2010) |
 | Stock Exchange | Taiwan Stock Exchange |
 | Ror Id | 03d4fzd85 |
 | Member Of | Wi-Fi Alliance |
 | Golden Id | Quanta_Computer-5RWM8 |
 | Ringgold Id | 499990 |
-| Logo Image | Quanta Computer.svg, Quanta Computer logo.svg |
 | Kisti Id | K000229362 |
 | Gui Number | 22822281 |
 | Pci Vendor Id | 152d |
@@ -96,8 +119,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $35.72B (35,721,000,000 United States dollar (as of 2010))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $35.72B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $591.00M (591,000,000 United States dollar (as of 2010))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $591.00M | as of 2010 | [500M-1B](/net_profit_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 68,720 | as of 2010 | [50K-100K](/employees_buckets/50k-100k/) |

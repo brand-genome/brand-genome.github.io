@@ -2,7 +2,7 @@
 title: Moen
 slug: moen
 description: ""
-date: "2026-03-05T22:38:39.673049"
+date: "2026-03-13T08:56:59.593668"
 draft: false
 sectors:
   - construction
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,21 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors: []
 typographies:
   - din
 imagery_styles:
   - photography
 wikidata_description: Mexican musical group; electronica band
+wikidata_url: "https://www.wikidata.org/wiki/Q3318207"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +103,10 @@ guideline_count: 1
 - Full text extracted from introduction and guidelines available for Moen branding standards—a comprehensive guideline for print, marketing materials, photography styles.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3318207) |
 
 | Property | Value |
 |----------|-------|

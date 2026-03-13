@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-03-05T22:38:39.559844"
+date: "2026-03-13T08:56:59.482956"
 draft: false
 sectors:
   - "arts-culture"
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1914
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,18 +52,20 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - black
+  - blue
   - gray
 typographies: []
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: American professional organization for communication design
+wikidata_url: "https://www.wikidata.org/wiki/Q3622004"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +115,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3622004) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1914](/foundation_dates/1914/) |
 | Freebase Id | /m/0ftt1y |
 | Country | United States |
 | Isni | 0000000123372665 |
@@ -113,7 +132,6 @@ guideline_count: 1
 | X (Twitter) Username | aigadesign (as of 2020-07-03, from 2009-01-27), AIGAdesign |
 | Instagram Username | aigadesign |
 | Youtube Channel Id | UC_oEd1TQbuVZzr_Kw73XDEQ (as of 2020-12-06, from 2010-04-20) |
-| Logo Image | AIGA logo blue full 2021.svg |
 | Social Media Followers | 526,481 (as of 2021-01-06), 528,262 (as of 2020-07-03), 513,309 (as of 2022-02-21), 17,500 (as of 2022-08-03), 504,547 (as of 2023-02-05) (+2 more) |
 | Short Name | AIGA |
 | Idref Id | 134212258 |

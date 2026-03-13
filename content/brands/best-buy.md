@@ -2,7 +2,7 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-03-05T22:38:39.753301"
+date: "2026-03-13T08:56:59.792651"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,11 +20,23 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "consumer-electronics"
+products: []
+headquarters_locations:
+  - richfield
+subsidiaries: []
+foundation_dates:
+  - 1966
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +58,20 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - blue
-  - black
   - yellow
+  - black
+  - blue
 typographies:
   - futura
 imagery_styles:
   - bold
 wikidata_description: American multinational consumer electronics retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q533415"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,13 +115,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q533415) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Consumer Electronics](/products_or_materials_produced/consumer-electronics/) |
+| Headquarters Location | [Richfield](/headquarters_locations/richfield/) |
+| Foundation Date | [1966](/foundation_dates/1966/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02) |
 | Founded By | Richard M. Schulze |
 | Freebase Id | /m/01zrdx |
 | Isin | US0865161014 |
 | Headquarters Location | Richfield |
 | Inception | 1966-01-01 |
-| Logo Image | Best Buy logo 2018.svg (from 2018-05-09) |
 | Country | United States |
 | Industry | retail |
 | Part Of | S&P 500 |
@@ -155,51 +175,57 @@ guideline_count: 1
 
 ### Revenue History
 
-- $40.02B (40,023,000,000 United States dollar (as of 2007, from 2007-03-04, until 2008-03-01))
-- $45.02B (45,015,000,000 United States dollar (as of 2008, from 2008-03-02, until 2009-02-28))
-- $49.69B (49,694,000,000 United States dollar (as of 2009, from 2009-03-01, until 2010-02-27))
-- $50.27B (50,272,000,000 United States dollar (as of 2010, from 2010-02-28, until 2011-02-26))
-- $50.70B (50,705,000,000 United States dollar (as of 2013, from 2011-02-27, until 2012-03-03))
-- $40.34B (40,339,000,000 United States dollar (as of 2014, from 2014-02-02, until 2015-01-31))
-- $39.53B (39,528,000,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-30))
-- $39.40B (39,403,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $42.15B (42,151,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $42.88B (42,879,000,000 United States dollar (as of 2018, from 2018-02-04, until 2019-02-02))
-- $43.64B (43,638,000,000 United States dollar (as of 2019, from 2019-02-03, until 2020-02-01))
-- $47.26B (47,262,000,000 United States dollar (as of 2020, from 2020-02-02, until 2021-01-30))
-- $51.76B (51,761,000,000 United States dollar (as of 2021, from 2021-01-31, until 2022-01-29))
-- $46.30B (46,298,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $40.02B | as of 2007, from 2007-03-04, until 2008-03-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $45.02B | as of 2008, from 2008-03-02, until 2009-02-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $49.69B | as of 2009, from 2009-03-01, until 2010-02-27 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $50.27B | as of 2010, from 2010-02-28, until 2011-02-26 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $50.70B | as of 2013, from 2011-02-27, until 2012-03-03 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $40.34B | as of 2014, from 2014-02-02, until 2015-01-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.53B | as of 2015, from 2015-02-01, until 2016-01-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.40B | as of 2016, from 2016-01-31, until 2017-01-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $42.15B | as of 2017, from 2017-01-29, until 2018-02-03 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $42.88B | as of 2018, from 2018-02-04, until 2019-02-02 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.64B | as of 2019, from 2019-02-03, until 2020-02-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $47.26B | as of 2020, from 2020-02-02, until 2021-01-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $51.76B | as of 2021, from 2021-01-31, until 2022-01-29 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $46.30B | as of 2022, from 2022-01-30, until 2023-01-28 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $2.16B (2,161,000,000 United States dollar (as of 2007, from 2007-03-04, until 2008-03-01))
-- $1.87B (1,870,000,000 United States dollar (as of 2008, from 2008-03-02, until 2009-02-28))
-- $2.23B (2,235,000,000 United States dollar (as of 2009, from 2009-03-01, until 2010-02-27))
-- $2.11B (2,114,000,000 United States dollar (as of 2010, from 2010-02-28, until 2011-02-26))
-- $1.08B (1,085,000,000 United States dollar (as of 2013, from 2011-02-27, until 2012-03-03))
-- $1.45B (1,450,000,000 United States dollar (as of 2014, from 2014-02-02, until 2015-01-31))
-- $1.38B (1,375,000,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-30))
-- $1.85B (1,854,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $1.84B (1,843,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $1.90B (1,900,000,000 United States dollar (as of 2018, from 2018-02-04, until 2019-02-02))
-- $2.01B (2,009,000,000 United States dollar (as of 2019, from 2019-02-03, until 2020-02-01))
-- $2.39B (2,391,000,000 United States dollar (as of 2020, from 2020-02-02, until 2021-01-30))
-- $3.04B (3,039,000,000 United States dollar (as of 2021, from 2021-01-31, until 2022-01-29))
-- $1.79B (1,795,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $2.16B | as of 2007, from 2007-03-04, until 2008-03-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.87B | as of 2008, from 2008-03-02, until 2009-02-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.23B | as of 2009, from 2009-03-01, until 2010-02-27 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.11B | as of 2010, from 2010-02-28, until 2011-02-26 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.08B | as of 2013, from 2011-02-27, until 2012-03-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.45B | as of 2014, from 2014-02-02, until 2015-01-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.38B | as of 2015, from 2015-02-01, until 2016-01-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.85B | as of 2016, from 2016-01-31, until 2017-01-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.84B | as of 2017, from 2017-01-29, until 2018-02-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.90B | as of 2018, from 2018-02-04, until 2019-02-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.01B | as of 2019, from 2019-02-03, until 2020-02-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.39B | as of 2020, from 2020-02-02, until 2021-01-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.04B | as of 2021, from 2021-01-31, until 2022-01-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.79B | as of 2022, from 2022-01-30, until 2023-01-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $1.41B (1,407,000,000 United States dollar (as of 2007, from 2007-03-04, until 2008-03-01))
-- $1.00B (1,003,000,000 United States dollar (as of 2008, from 2008-03-02, until 2009-02-28))
-- $1.32B (1,317,000,000 United States dollar (as of 2009, from 2009-03-01, until 2010-02-27))
-- $1.28B (1,277,000,000 United States dollar (as of 2010, from 2010-02-28, until 2011-02-26))
-- $1.23B (-1,231,000,000 United States dollar (as of 2013, from 2011-02-27, until 2012-03-03))
-- $1.23B (1,233,000,000 United States dollar (as of 2014, from 2014-02-02, until 2015-01-31))
-- $897.00M (897,000,000 United States dollar (as of 2015, from 2015-02-01, until 2016-01-30))
-- $1.23B (1,228,000,000 United States dollar (as of 2016, from 2016-01-31, until 2017-01-28))
-- $1.00B (1,000,000,000 United States dollar (as of 2017, from 2017-01-29, until 2018-02-03))
-- $1.46B (1,464,000,000 United States dollar (as of 2018, from 2018-02-04, until 2019-02-02))
-- $1.54B (1,541,000,000 United States dollar (as of 2019, from 2019-02-03, until 2020-02-01))
-- $1.80B (1,798,000,000 United States dollar (as of 2020, from 2020-02-02, until 2021-01-30))
-- $2.45B (2,454,000,000 United States dollar (as of 2021, from 2021-01-31, until 2022-01-29))
-- $1.42B (1,419,000,000 United States dollar (as of 2022, from 2022-01-30, until 2023-01-28))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.41B | as of 2007, from 2007-03-04, until 2008-03-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.00B | as of 2008, from 2008-03-02, until 2009-02-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.32B | as of 2009, from 2009-03-01, until 2010-02-27 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.28B | as of 2010, from 2010-02-28, until 2011-02-26 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.23B | as of 2013, from 2011-02-27, until 2012-03-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.23B | as of 2014, from 2014-02-02, until 2015-01-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $897.00M | as of 2015, from 2015-02-01, until 2016-01-30 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.23B | as of 2016, from 2016-01-31, until 2017-01-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.00B | as of 2017, from 2017-01-29, until 2018-02-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.46B | as of 2018, from 2018-02-04, until 2019-02-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.54B | as of 2019, from 2019-02-03, until 2020-02-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.80B | as of 2020, from 2020-02-02, until 2021-01-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.45B | as of 2021, from 2021-01-31, until 2022-01-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.42B | as of 2022, from 2022-01-30, until 2023-01-28 | [1B-10B](/net_profit_buckets/1b-10b/) |

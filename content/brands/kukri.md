@@ -2,7 +2,7 @@
 title: Kukri
 slug: kukri
 description: ""
-date: "2026-03-05T22:38:39.076439"
+date: "2026-03-13T08:56:59.028144"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - sportswear
+products: []
+headquarters_locations:
+  - preston
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international sportswear brand
+wikidata_url: "https://www.wikidata.org/wiki/Q6442558"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6442558) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Sportswear](/products_or_materials_produced/sportswear/) |
+| Headquarters Location | [Preston](/headquarters_locations/preston/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Headquarters Location | Preston |
 | Inception | 1999 |
 | Quora Topic Id | Kukri-Sports |

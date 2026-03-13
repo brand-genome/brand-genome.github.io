@@ -2,7 +2,7 @@
 title: Tilted Kilt
 slug: "tilted-kilt"
 description: ""
-date: "2026-03-05T22:38:39.528706"
+date: "2026-03-13T08:56:59.461870"
 draft: false
 sectors:
   - drink
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - pub
+products: []
+headquarters_locations:
+  - tempe
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,23 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - beige
+  - yellow
+  - black
 typographies: []
 imagery_styles:
   - photography
   - graphic
 wikidata_description: "Celtic-themed sports bar and restaurant chain in the United States and Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q7803012"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,15 +114,27 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7803012) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Pub](/products_or_materials_produced/pub/) |
+| Headquarters Location | [Tempe](/headquarters_locations/tempe/) |
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Start Time | 2003-01-01 |
 | Country | United States |
 | Headquarters Location | Tempe |
 | Inception | 2003 |
 | Location Of Formation | Las Vegas |
 | Quora Topic Id | Tilted-Kilt-Pub-and-Eatery |
-| Employees | 2,500 |
 | Industry | restaurant |
 | Freebase Id | /m/05h4gr1 |
 | Crunchbase Organization Id | tilted-kilt-pub-eatery |
 | Facebook Username | tiltedkiltpubandeatery |
 | Product Or Material Produced | pub |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,500 | - | [1K-10K](/employees_buckets/1k-10k/) |

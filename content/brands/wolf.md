@@ -2,7 +2,7 @@
 title: Wolf
 slug: wolf
 description: ""
-date: "2026-03-05T22:38:39.341388"
+date: "2026-03-13T08:56:59.296839"
 draft: false
 sectors:
   - "consumer-goods"
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,8 +48,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - white
   - grey
@@ -48,16 +57,18 @@ brand_colors:
 typographies:
   - gotham
 imagery_styles:
-  - bold
+  - clean
   - photography
   - product
   - graphic
-  - clean
+  - bold
 wikidata_description: "food court in Brussels, Belgium"
+wikidata_url: "https://www.wikidata.org/wiki/Q101626987"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +122,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q101626987) |
+
+| Property | Value |
+|----------|-------|
 | Google Knowledge Graph Id | /g/11k1mjz2fh |
 | Country | Belgium |
 | Date Of Official Opening | 1953 |
@@ -118,7 +133,7 @@ guideline_count: 1
 | Coordinate Location | 50.85, 4.3567 |
 | Located On Street | Rue du Fossé aux Loups - Wolvengracht |
 | Named After | Rue du Fossé aux Loups - Wolvengracht |
-| Email Address | mailto:hello@wolf.brussels |
+| Email Address | hello@wolf.brussels |
 | Short Name | Wolf |
 | Instagram Username | wolf.bxl |
 | Tripadvisor Id | 19793584 |

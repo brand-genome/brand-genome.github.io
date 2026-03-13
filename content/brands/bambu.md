@@ -2,7 +2,7 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-03-05T22:38:39.363807"
+date: "2026-03-13T08:56:59.315600"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - technology
+  - financial
 industries:
   - "film-industry"
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "pozuelo-de-alarcon"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish TV production
+wikidata_url: "https://www.wikidata.org/wiki/Q20908857"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20908857) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pozuelo De Alarcon](/headquarters_locations/pozuelo-de-alarcon/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Country | Spain |
 | Inception | 2007 |
 | X (Twitter) Username | bambuprodu (as of 2020-12-25, from 2011-06-16) |

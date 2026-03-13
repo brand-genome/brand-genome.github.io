@@ -2,7 +2,7 @@
 title: Meggitt
 slug: meggitt
 description: ""
-date: "2026-03-05T22:38:39.312856"
+date: "2026-03-13T08:56:59.254598"
 draft: false
 sectors:
   - defense
@@ -14,16 +14,27 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - aeronautic
+  - engineering
 industries:
   - "aerospace-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - christchurch
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Aerospace and defence company
+wikidata_url: "https://www.wikidata.org/wiki/Q3304413"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3304413) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Christchurch](/headquarters_locations/christchurch/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Opencorporates Id | gb/00432989 |
 | Stock Exchange | London Stock Exchange |
 | Isin | GB0005758098 |
@@ -89,4 +108,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $970.00M (970,000,000 United States dollar (as of 2018-01-01))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $970.00M | as of 2018-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |

@@ -2,7 +2,7 @@
 title: Fairtrade Mark
 slug: "fairtrade-mark"
 description: ""
-date: "2026-03-05T22:38:39.390807"
+date: "2026-03-13T08:56:59.358190"
 draft: false
 sectors:
   - ngo
@@ -13,13 +13,24 @@ years:
 languages:
   - english
 tags:
-  - featured
   - trademark
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - dublin
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ typographies:
   - impact
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q5430724"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -97,7 +110,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5430724) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Headquarters Location | Dublin |
 | Inception | 1992 |
 | Freebase Id | /m/0kqrt7 |
-| Logo Image | Fairtrade Certification Mark.svg |

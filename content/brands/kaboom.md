@@ -2,7 +2,7 @@
 title: "Kaboom!"
 slug: kaboom
 description: ""
-date: "2026-03-05T22:38:39.366842"
+date: "2026-03-13T08:56:59.319944"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1996
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +52,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
-  - white
   - violet
   - purple
+  - white
   - black
 typographies:
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - lifestyle
-  - contemporary
-  - candid
   - natural
+  - contemporary
+  - photography
+  - candid
+  - lifestyle
+  - bold
 wikidata_description: "playground-building non-profit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q16998060"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +134,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16998060) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1996](/foundation_dates/1996/) |
 | Inception | 1996 |
 | Headquarters Location | Washington, D.C. |
 | Charity Navigator Id (Obsolete) | 8360 |
@@ -130,23 +150,42 @@ guideline_count: 1
 | Littlesis Organization Id | 344962 |
 | Donations | 10,394,621 United States dollar (as of 2019), 6,087,900 United States dollar (as of 2022), 21,434,549 United States dollar (as of 2021), 11,041,589 United States dollar (as of 2023), 21,707,454 United States dollar (as of 2011) (+8 more) |
 | Legal Form | 501(c)(3) organization |
-| Total Assets | 34,091,503 United States dollar (as of 2022), 33,837,191 United States dollar (as of 2021), 32,769,790 United States dollar (as of 2023), 11,624,357 United States dollar (as of 2011), 18,070,384 United States dollar (as of 2012) (+8 more) |
 | Facebook Username | kaboom |
 | X (Twitter) Username | kaboom |
 | Member Of | Independent Sector |
 
 ### Revenue History
 
-- $26.36M (26,361,100 United States dollar (as of 2016-01-01))
-- $12.49M (12,487,395 United States dollar (as of 2020))
-- $26.59M (26,590,339 United States dollar (as of 2019))
-- $14.78M (14,775,995 United States dollar (as of 2022))
-- $27.50M (27,499,929 United States dollar (as of 2021))
-- $21.46M (21,464,465 United States dollar (as of 2023))
-- $21.81M (21,809,521 United States dollar (as of 2011))
-- $25.03M (25,032,678 United States dollar (as of 2012))
-- $26.24M (26,239,505 United States dollar (as of 2013))
-- $27.48M (27,481,603 United States dollar (as of 2014))
-- $27.40M (27,399,420 United States dollar (as of 2015))
-- $23.41M (23,408,013 United States dollar (as of 2017))
-- $30.13M (30,133,512 United States dollar (as of 2018))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $26.36M | as of 2016-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $12.49M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $26.59M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $14.78M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.50M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $21.46M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $21.81M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $25.03M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $26.24M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.48M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $27.40M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $23.41M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $30.13M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $34.09M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $33.84M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $32.77M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $11.62M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.07M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.50M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.18M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $19.41M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.00M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $22.65M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $22.90M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $21.91M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $19.11M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

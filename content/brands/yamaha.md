@@ -2,7 +2,7 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-03-05T22:38:39.599556"
+date: "2026-03-13T08:56:59.541710"
 draft: false
 sectors:
   - automobile
@@ -17,17 +17,34 @@ languages:
 tags:
   - corporate
 industries:
-  - "manufacture-of-machinery-and-equipment"
   - "music-industry"
   - "automotive-industry"
+  - "manufacture-of-machinery-and-equipment"
 countries:
   - japan
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "musical-instrument"
+  - software
+  - "sports-equipment"
+  - "loudspeaker-enclosure"
+products: []
+headquarters_locations:
+  - "naka-ku"
+  - japan
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,30 +63,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - stacked
   - logomark
+  - wordmark
   - vertical
 brand_colors:
   - white
   - red
-  - magenta
-  - black
   - yellow
   - silver
+  - black
   - gray
+  - magenta
 typographies:
-  - ubuntu
   - verdana
+  - ubuntu
 imagery_styles:
-  - bold
   - dynamic
   - product
+  - bold
 wikidata_description: Japanese music and audio equipment maker
+wikidata_url: "https://www.wikidata.org/wiki/Q188454"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -155,6 +174,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q188454) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Musical Instrument](/products_or_materials_produced/musical-instrument/); [Software](/products_or_materials_produced/software/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/) |
+| Headquarters Location | [Naka Ku](/headquarters_locations/naka-ku/); [Japan](/headquarters_locations/japan/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | Japan |
 | Topic'S Main Category | Category:Yamaha Corporation |
 | Freebase Id | /m/01svrg |
@@ -168,7 +194,6 @@ guideline_count: 2
 | Viaf Cluster Id | 252645878 |
 | Ndl Authority Id | 00386826 |
 | Location Of Formation | Hamamatsu |
-| Logo Image | Yamaha logo.svg |
 | Image | Yamaha Corporation.jpg |
 | Quora Topic Id | Yamaha-Corporation |
 | Isni | 0000000403963953 |
@@ -179,7 +204,6 @@ guideline_count: 2
 | Encyclopædia Britannica Online Id | topic/Yamaha-Corporation |
 | Stock Exchange | Tokyo Stock Exchange (from 1949) |
 | Product Or Material Produced | musical instrument, loudspeaker enclosure, sports equipment, software |
-| Employees | 20,348 (as of 2016-03-31), 19,851 (as of 2014-03-31), 19,895 (as of 2022-03-31) |
 | Award Received | Technical Grammy Award (as of 2007) |
 | Industry | music industry, manufacture of machinery and equipment, automotive industry |
 | Permid | 4295877221 |
@@ -234,17 +258,31 @@ guideline_count: 2
 
 ### Revenue History
 
-- $229.00B (229,000,000,000 yen (as of 2014))
-- $432.97B (432,967,000,000 yen (as of 1018))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $229.00B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $432.97B | as of 1018 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $40.66B (40,663,000,000 yen (as of 2016))
-- $25.99B (25,994,000,000 yen (as of 2014))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $40.66B | as of 2016 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $25.99B | as of 2014 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $22.90B (22,898,000,000 yen (as of 2014))
-- $41.58B (41,578,000,000 yen (as of 2016))
-- $28.53B (28,526,000,000 yen (as of 2015))
-- $25.82B (25,818,000,000 yen (as of 2014))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $22.90B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $41.58B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $28.53B | as of 2015 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $25.82B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 20,348 | as of 2016-03-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,851 | as of 2014-03-31 | [10K-50K](/employees_buckets/10k-50k/) |
+| 19,895 | as of 2022-03-31 | [10K-50K](/employees_buckets/10k-50k/) |

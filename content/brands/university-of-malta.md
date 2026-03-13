@@ -2,7 +2,7 @@
 title: University of Malta
 slug: "university-of-malta"
 description: ""
-date: "2026-03-05T22:38:39.710942"
+date: "2026-03-13T08:56:59.727075"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1769
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - stacked
+  - wordmark
   - crest
 brand_colors:
   - white
@@ -51,10 +62,12 @@ typographies: []
 imagery_styles:
   - modern
 wikidata_description: university in Malta
+wikidata_url: "https://www.wikidata.org/wiki/Q426045"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -92,6 +105,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q426045) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1769](/foundation_dates/1769/) |
 | Topic'S Main Category | Category:University of Malta |
 | Coordinate Location | 35.9025, 14.48333333 |
 | Freebase Id | /m/0602jj |
@@ -120,7 +138,6 @@ guideline_count: 1
 | Owner Of | Old University Building, Valletta |
 | Nl Cr Aut Id | pna2011620611, ko2011485724 |
 | Microsoft Academic Id (Discontinued) | 197854408 |
-| Employees | 3,033 |
 | Library Of Congress Authority Id | no2015057166 |
 | X (Twitter) Username | uniofmalta |
 | Facebook Username | universityofmalta |
@@ -138,7 +155,6 @@ guideline_count: 1
 | Hill Museum & Manuscript Library Id | organization/119679985568 |
 | Coat Of Arms Image | University of Malta Coat of Arms.svg |
 | Openalex Id | I197854408 |
-| Logo Image | University of Malta Coat of Arms.svg |
 | Eu Transparency Register Id | 438875433219-89 |
 | Eu Knowledge Graph Item Id | Q3058502 |
 | National Library Of Israel J9U Id | 987007269386705171 |
@@ -149,3 +165,9 @@ guideline_count: 1
 | Arwu University Id | university-of-malta |
 | ‎Yale Lux Id | group/b6748919-1557-47a4-b32b-70cddcbea215 |
 | Native Label | L-Università ta' Malta |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,033 | - | [1K-10K](/employees_buckets/1k-10k/) |

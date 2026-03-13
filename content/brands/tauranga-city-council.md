@@ -2,7 +2,7 @@
 title: Tauranga City Council
 slug: "tauranga-city-council"
 description: ""
-date: "2026-03-05T22:38:39.086804"
+date: "2026-03-13T08:56:59.042610"
 draft: false
 sectors:
   - "public-sector"
@@ -13,14 +13,23 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "new-zealand"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: territorial authority of New Zealand
+wikidata_url: "https://www.wikidata.org/wiki/Q5456410"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +72,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5456410) |
+
+| Property | Value |
+|----------|-------|
 | Country | New Zealand |
 | Quora Topic Id | Tauranga-City-Council |
 | Applies To Jurisdiction | Tauranga City |
@@ -69,7 +84,7 @@ guideline_count: 1
 | X (Twitter) Username | TgaCouncil |
 | Youtube Channel Id | UCde4c26jlE60fWGoNMEOzDQ (as of 2024-05-12, from 2013-08-06) |
 | Linkedin Company Or Organization Id | tauranga-city-council |
-| Email Address | mailto:info@tauranga.govt.nz |
+| Email Address | info@tauranga.govt.nz |
 | Phone Number | +6475777000 |
 | On Focus List Of Wikimedia Project | Govdirectory |
 | Youtube Handle | tgacouncil (as of 2025-10-20) |

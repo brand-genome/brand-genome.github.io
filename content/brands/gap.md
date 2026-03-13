@@ -2,11 +2,11 @@
 title: Gap
 slug: gap
 description: ""
-date: "2026-03-05T22:38:39.322175"
+date: "2026-03-13T08:56:59.273915"
 draft: false
 sectors:
-  - fashion
   - "consumer-goods"
+  - fashion
   - "e-commerce"
 regions:
   - usa
@@ -17,14 +17,27 @@ languages:
 tags:
   - fashion
 industries:
-  - retail
   - "fast-fashion"
+  - retail
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - clothing
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +66,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: American multinational clothing and accessories retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q420822"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,11 +110,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q420822) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Founded By | Donald Fisher, Doris F. Fisher |
 | Headquarters Location | San Francisco |
 | Freebase Id | /m/01yfp7 |
 | Stock Exchange | New York Stock Exchange |
-| Logo Image | New Gap logo.svg |
 | Country | United States |
 | X (Twitter) Username | Gap_JP (as of 2020-04-25, from 2010-08-09), Gap (as of 2020-04-14, from 2008-12-29) |
 | Inception | 1969 |
@@ -119,7 +140,6 @@ guideline_count: 1
 | Award Received | Public Eye Jury Award (as of 2014) |
 | Owner Of | Banana Republic, Old Navy |
 | Musicbrainz Label Id | 096369eb-8fd0-49d7-933e-7f19078fa878, fd3bb6e6-b895-423f-bd89-7ea8fad3595a |
-| Employees | 152,000 |
 | Child Organization Or Unit | Janie & Jack (from 2019-03), Yeezy Gap (from 2021), Banana Republic (from 1983), Old Navy (from 1993) |
 | Significant Event | Gap Inc. 2007 data breach |
 | Product Or Material Produced | clothing |
@@ -146,4 +166,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $16.58B (16,580,000,000 United States dollar)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $16.58B | - | [10B-50B](/revenue_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 152,000 | - | [100K-500K](/employees_buckets/100k-500k/) |

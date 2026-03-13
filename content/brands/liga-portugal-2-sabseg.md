@@ -2,7 +2,7 @@
 title: Liga Portugal 2 Sabseg
 slug: "liga-portugal-2-sabseg"
 description: ""
-date: "2026-03-05T22:38:39.229051"
+date: "2026-03-13T08:56:59.172814"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: second division in Portuguese football
+wikidata_url: "https://www.wikidata.org/wiki/Q754488"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +73,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q754488) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Topic'S Main Category | Category:Liga Portugal 2 |
 | Freebase Id | /m/03qfcn |
 | Sport | association football |
@@ -75,4 +92,3 @@ guideline_count: 1
 | Organizer | Liga Portuguesa de Futebol Profissional |
 | League Level Below | Terceira Divisão (until 2013), Liga 3 (from 2021) |
 | Part Of | Portuguese football league system |
-| Logo Image | Liga Portugal Meu Super logo.svg |

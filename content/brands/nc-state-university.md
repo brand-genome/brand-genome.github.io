@@ -2,7 +2,7 @@
 title: NC State University
 slug: "nc-state-university"
 description: ""
-date: "2026-03-05T22:38:39.636173"
+date: "2026-03-13T08:56:59.565107"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - raleigh
+subsidiaries: []
+foundation_dates:
+  - 1887
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Raleigh, North Carolina, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1132346"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -78,6 +92,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1132346) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Raleigh](/headquarters_locations/raleigh/) |
+| Foundation Date | [1887](/foundation_dates/1887/) |
 | Country | United States |
 | Topic'S Main Category | Category:North Carolina State University |
 | Image | North Carolina State Bell Tower.jpg |
@@ -97,7 +117,6 @@ guideline_count: 1
 | Ringgold Id | 6798 |
 | Openmlol Author Id | 30910 |
 | Category For Alumni Of Educational Institution | Category:North Carolina State University alumni |
-| Logo Image | North Carolina State University logo.svg, NC State University brick logo.svg |
 | X (Twitter) Username | NCState (as of 2020-04-26, from 2012-02-09) |
 | Child Organization Or Unit | Center for Nuclear Energy Facilities and Structures, North Carolina State University, Water Resources Research Institute, North Carolina State University, North Carolina Sea Grant, North Carolina Space Grant Consortium, James B. Hunt Jr. Library (+5 more) |
 | Encyclopædia Britannica Online Id | place/North-Carolina-State-University |
@@ -131,7 +150,6 @@ guideline_count: 1
 | Different From | University of North Carolina |
 | National Library Of Israel J9U Id | 987007265895905171 |
 | Harvard Index Of Botanists Id | 91509 |
-| Employees | 9,636 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Subreddit | NCSU |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -156,3 +174,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/40d027cb-717a-4c6b-a09c-0f7950135b92 |
 | Athletics Program | NC State Wolfpack |
 | Located In The Administrative Territorial Entity | North Carolina, Raleigh |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 9,636 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

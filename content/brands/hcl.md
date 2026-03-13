@@ -2,7 +2,7 @@
 title: HCL
 slug: hcl
 description: ""
-date: "2026-03-05T22:38:39.654592"
+date: "2026-03-13T08:56:59.581380"
 draft: false
 sectors:
   - consulting
@@ -21,6 +21,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q1418936"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -163,10 +176,15 @@ Room t obr eat he
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1418936) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Freebase Id | /m/02vkj2c |
 | Headquarters Location | Paris |
 | Inception | 1991-11-12 |
-| Logo Image | Hindustan Computers logo.svg |
 | Legal Form | joint-stock company |
 | Child Organization Or Unit | HCL Technologies, Starschema |
 | Founded By | Shiv Nadar, Arjun Malhotra |

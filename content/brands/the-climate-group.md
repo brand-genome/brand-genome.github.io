@@ -2,7 +2,7 @@
 title: The Climate Group
 slug: "the-climate-group"
 description: ""
-date: "2026-03-05T22:38:39.551225"
+date: "2026-03-13T08:56:59.473994"
 draft: false
 sectors:
   - ngo
@@ -18,12 +18,23 @@ tags:
   - environment
 industries: []
 countries:
-  - "united-states"
   - "united-kingdom"
+  - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +58,22 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - green
   - black
+  - green
 typographies:
   - impact
 imagery_styles:
-  - bold
   - photography
-  - professional
   - graphic
+  - professional
+  - bold
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q7723391"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +123,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7723391) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
 | Country | United States, United Kingdom |
 | Headquarters Location | London |
 | Quora Topic Id | The-Climate-Group |
@@ -124,7 +142,6 @@ guideline_count: 1
 | Legal Form | charitable organization |
 | Donations | 1,907,729 euro (as of 2020), 7,303,723 pound sterling (as of 2021), 6,558,722 pound sterling (as of 2022), 6,509,521 pound sterling (as of 2023), 6,225,296 pound sterling (as of 2024) |
 | Uia Open Yearbook Organization Website Id | 1100036523 |
-| Logo Image | Climate Group logo.jpg |
 | Field Of Work | global warming |
 | Significant Event | Climate Week NYC |
 | Image | CG Staff 2022.png |
@@ -133,12 +150,19 @@ guideline_count: 1
 | Significant Person | Jim Walker, Arnold Schwarzenegger |
 | Iati Organisation Id | GB-CHC-1102909 |
 | Charity Commission No. | 1102909 |
-| Employees | 156 (as of 2024) |
 
 ### Revenue History
 
-- $13.29M (13,290,599 euro (as of 2020))
-- $10.53M (10,529,193 pound sterling (as of 2021))
-- $11.24M (11,236,165 pound sterling (as of 2022))
-- $12.87M (12,865,120 pound sterling (as of 2023))
-- $15.12M (15,120,278 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $13.29M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $10.53M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $11.24M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $12.87M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $15.12M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 156 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |

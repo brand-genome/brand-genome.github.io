@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-03-05T22:38:39.754605"
+date: "2026-03-13T08:56:59.798660"
 draft: false
 sectors:
   - telecom
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +58,23 @@ brand_colors:
   - white
   - red
   - grey
-  - black
   - yellow
   - silver
+  - black
   - gray
 typographies:
-  - serif
   - verdana
+  - serif
 imagery_styles:
-  - bold
   - modern
+  - bold
 wikidata_description: telecommunications brand initially introduced in 1993 in Russia
+wikidata_url: "https://www.wikidata.org/wiki/Q402880"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -126,9 +139,14 @@ Guidance mentions metallic silver-gray accents for premium materials.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q402880) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Inception | 1993-08-06 |
 | Country | Russia |
-| Logo Image | BeeLine logo.png |
 | Owned By | VimpelCom |
 | Freebase Id | /m/040tf9 |
 | Headquarters Location | Moscow |

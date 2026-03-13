@@ -2,7 +2,7 @@
 title: ADA
 slug: ada
 description: ""
-date: "2026-03-05T22:38:39.729977"
+date: "2026-03-13T08:56:59.750590"
 draft: false
 sectors:
   - entertainment
@@ -18,9 +18,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - alexandria
+subsidiaries: []
+foundation_dates:
+  - 1940
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "U.S.-based nonprofit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q4743610"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4743610) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Alexandria](/headquarters_locations/alexandria/) |
+| Foundation Date | [1940](/foundation_dates/1940/) |
 | Inception | 1940 |
 | Headquarters Location | Alexandria |
 | Quora Topic Id | American-Diabetes-Association |
@@ -111,7 +131,6 @@ guideline_count: 1
 | Social Media Followers | 144,850 (as of 2021-01-05), 145,994 (as of 2020-04-25), 143,659 (as of 2022-01-08), 143,905 (as of 2023-02-04), 29,800 (as of 2025-09-20) |
 | Svkkl Authority Id | 0204435-American-Diabetes-Association |
 | Share Catalogue Author Id | 319287 |
-| Logo Image | American Diabetes Association logo sans slogan.svg |
 | Donations | 110,356,169 United States dollar (as of 2019), 93,952,438 United States dollar (as of 2022), 113,184,567 United States dollar (as of 2021), 109,713,896 United States dollar (as of 2023), 153,296,538 United States dollar (as of 2011) (+9 more) |
 | Legal Form | 501(c)(3) organization |
 | Sbn Author Id | UFIV063036 |
@@ -124,24 +143,44 @@ guideline_count: 1
 | University Of Barcelona Authority Id | 981058526060306706 |
 | Member Of | CHORUS |
 | Openalex Id | P4310320274 |
-| Total Assets | 213,679,073 United States dollar (as of 2022), 186,412,830 United States dollar (as of 2021), 231,397,688 United States dollar (as of 2023), 113,516,741 United States dollar (as of 2011), 124,462,724 United States dollar (as of 2012) (+9 more) |
 | Linkedin Company Or Organization Id | american-diabetes-association |
 | ‎Yale Lux Id | group/3acb926d-d674-4628-85d5-3ff00d0102dc |
 | Youtube Channel Id | UC-rZbNdZSGa1Uan8aTj_SsQ (as of 2025-09-21, from 2007-11-07) |
 
 ### Revenue History
 
-- $182.14M (182,144,769 United States dollar (as of 2015-01-01))
-- $146.77M (146,766,492 United States dollar (as of 2019))
-- $158.36M (158,363,803 United States dollar (as of 2018))
-- $119.14M (119,142,003 United States dollar (as of 2022))
-- $138.17M (138,165,721 United States dollar (as of 2021))
-- $136.79M (136,787,149 United States dollar (as of 2023))
-- $202.79M (202,794,922 United States dollar (as of 2011))
-- $203.81M (203,808,634 United States dollar (as of 2012))
-- $216.34M (216,343,636 United States dollar (as of 2013))
-- $195.31M (195,312,956 United States dollar (as of 2014))
-- $167.33M (167,334,914 United States dollar (as of 2016))
-- $143.86M (143,857,434 United States dollar (as of 2017))
-- $117.48M (117,484,126 United States dollar (as of 2020))
-- $152.24M (152,241,578 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $182.14M | as of 2015-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $146.77M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $158.36M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $119.14M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $138.17M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $136.79M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $202.79M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $203.81M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $216.34M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $195.31M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $167.33M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $143.86M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $117.48M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $152.24M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $213.68M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $186.41M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $231.40M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $113.52M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $124.46M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $146.65M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $141.66M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $155.51M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $153.30M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $134.33M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $142.47M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $135.49M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $147.14M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $253.87M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

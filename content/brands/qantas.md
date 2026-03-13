@@ -2,7 +2,7 @@
 title: Qantas
 slug: qantas
 description: ""
-date: "2026-03-05T22:38:39.574442"
+date: "2026-03-13T08:56:59.506141"
 draft: false
 sectors:
   - airline
@@ -20,11 +20,25 @@ industries:
 countries:
   - australia
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mascot
+subsidiaries: []
+foundation_dates:
+  - 1920
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +65,12 @@ typographies: []
 imagery_styles:
   - bold
 wikidata_description: the flag carrier airline of Australia
+wikidata_url: "https://www.wikidata.org/wiki/Q32491"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q32491) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mascot](/headquarters_locations/mascot/) |
+| Foundation Date | [1920](/foundation_dates/1920/) |
 | Item Operated | Airbus A300B4-200, Airbus A321neo, Airbus A330-200 (as of 2025), Airbus A330-300 (as of 2025), Airbus A350-1000 (+13 more) |
 | Iata Airline Designator | QF |
 | Icao Airline Designator | QFA |
@@ -133,13 +155,11 @@ guideline_count: 1
 | Isin | AU000000QAN2 |
 | Ipv6 Routing Prefix | 2a03:8180:1201:e6::/64 |
 | Encyclopedia Of Australian Science Id | A000835b |
-| Employees | 28,622 (as of 2015), 29,204 (as of 2016), 29,596 (as of 2017), 30,751 (as of 2014), 33,265 (as of 2013) (+6 more) |
 | Australian Business Number | 16009661901 |
 | Significant Event | Qantas Flight 32, Qantas Flight 1 |
 | Merchant Category Code | 3012 |
 | Encyclopædia Britannica Online Id | topic/Qantas-Airways-Limited |
 | Owner Of | Harvey World Travel, Jetstar Japan, Pacific Airlines |
-| Total Assets | 17,221,000,000 Australian dollar (as of 2017-06-30), 16,705,000,000 Australian dollar (as of 2016-06-30) |
 | Facebook Username | Qantas |
 | Trustpilot Company Id | www.qantas.com.au |
 | Flight Report.Com Airline Id | 4088 |
@@ -155,7 +175,6 @@ guideline_count: 1
 | Visuotinė Lietuvių Enciklopedija Id | qantas-airways |
 | Crunchbase Organization Id | qantas |
 | Ne.Se Id | qantas-airways |
-| Market Capitalization | 10,580,710,756 Australian dollar (as of 2021-11-18) |
 | Official Name | QANTAS AIRWAYS LIMITED |
 | Great Norwegian Encyclopedia Id | Qantas_Airways_Limited |
 | Philadelphia Museum Of Art Entity Id | 60371 |
@@ -198,7 +217,6 @@ guideline_count: 1
 | Niconicopedia Id | カンタス航空 |
 | Reddit Topic Id | qantas |
 | Musicbrainz Artist Id | eeb9a744-1abf-4ff8-b0fc-48ebda05d029 |
-| Logo Image | Qantas wordmark 2016.svg |
 | ‎Yale Lux Id | group/285305fe-cdf7-4059-a605-1bba8006c25f |
 | Wikirate Company Id | 58271 |
 | History Of Topic | history of Qantas |
@@ -206,15 +224,50 @@ guideline_count: 1
 
 ### Revenue History
 
-- $16.06B (16,057,000,000 Australian dollar (as of 2017))
-- $16.20B (16,200,000,000 Australian dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $16.06B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $16.20B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $1.37B (1,370,000,000 Australian dollar (as of 2017))
-- $1.64B (1,643,000,000 Australian dollar (as of 2016))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.37B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.64B | as of 2016 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $853.00M (853,000,000 Australian dollar (as of 2017))
-- $1.03B (1,029,000,000 Australian dollar (as of 2016))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $853.00M | as of 2017 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.03B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 28,622 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 29,204 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 29,596 | as of 2017 | [10K-50K](/employees_buckets/10k-50k/) |
+| 30,751 | as of 2014 | [10K-50K](/employees_buckets/10k-50k/) |
+| 33,265 | as of 2013 | [10K-50K](/employees_buckets/10k-50k/) |
+| 33,584 | as of 2012 | [10K-50K](/employees_buckets/10k-50k/) |
+| 33,169 | as of 2011 | [10K-50K](/employees_buckets/10k-50k/) |
+| 32,489 | as of 2010 | [10K-50K](/employees_buckets/10k-50k/) |
+| 33,966 | as of 2009 | [10K-50K](/employees_buckets/10k-50k/) |
+| 33,670 | as of 2008 | [10K-50K](/employees_buckets/10k-50k/) |
+| 21,000 | as of 2023 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $17.22B | as of 2017-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $16.70B | as of 2016-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $10.58B | as of 2021-11-18 | [10B-50B](/market_cap_buckets/10b-50b/) |

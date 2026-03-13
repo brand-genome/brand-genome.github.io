@@ -2,7 +2,7 @@
 title: Wellesley College
 slug: "wellesley-college"
 description: ""
-date: "2026-03-05T22:38:39.408017"
+date: "2026-03-13T08:56:59.368573"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1870
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,16 +53,18 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
+  - garamond
   - serif
   - "sans-serif"
-  - garamond
 imagery_styles:
   - bold
 wikidata_description: "private women's liberal arts college in Massachusetts"
+wikidata_url: "https://www.wikidata.org/wiki/Q49205"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -76,6 +90,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49205) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1870](/foundation_dates/1870/) |
 | Part Of | Seven Sisters |
 | Coordinate Location | 42.2925, -71.3075 |
 | Topic'S Main Category | Category:Wellesley College |
@@ -126,14 +145,11 @@ guideline_count: 1
 | Schoenberg Database Of Manuscripts Name Id | 10711 |
 | Harvard Index Of Botanists Id | 91975 |
 | National Library Of Israel J9U Id | 987007301704805171 |
-| Total Assets | 2,991,368,000 United States dollar (as of 2020-06-30) |
 | Endowment | 2,285,397,000 United States dollar (as of 2020-06-30), 2,846,865,000 United States dollar (as of 2022-06-30), 3,236,785,000 United States dollar (as of 2021-06-30) |
-| Employees | 1,177 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | wellesleycollege |
 | Google Arts & Culture Partner Id | wellesley-college-library |
-| Logo Image | Formal Logo of Wellesley College, Wellesley, MA, USA.svg |
 | Panoramic View | Wellesley college panorama-red.jpg, Tower Court complex panorama - Wellesley College.jpg |
 | Isil | US-mwelc |
 | Academic Calendar Type | semester |
@@ -153,3 +169,15 @@ guideline_count: 1
 | Sam Id | Z17DSLNJ1DX1 |
 | Unirank Id | 5759 |
 | Athletics Program | Wellesley Blue |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,177 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.99B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

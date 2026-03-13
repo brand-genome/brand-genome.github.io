@@ -2,11 +2,11 @@
 title: Satair
 slug: satair
 description: ""
-date: "2026-03-05T22:38:39.713792"
+date: "2026-03-13T08:56:59.730881"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - aerospace
+  - "logistics-supply-chain"
 regions:
   - denmark
 years:
@@ -20,9 +20,21 @@ industries:
 countries:
   - denmark
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - kastrup
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,23 +57,25 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-7706"
-  - "pantone-7635"
-  - black
-  - "pantone-3282"
   - silver
+  - "pantone-3282"
   - "pantone-2210"
+  - black
+  - "pantone-7635"
+  - "pantone-7706"
 typographies:
   - helvetica
 imagery_styles:
+  - clean
   - aerial
   - professional
-  - clean
 wikidata_description: satair
+wikidata_url: "https://www.wikidata.org/wiki/Q2225843"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,11 +113,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2225843) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Kastrup](/headquarters_locations/kastrup/) |
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Kastrup |
 | Inception | 1957-01-01 |
 | Legal Form | joint-stock company |
 | Industry | aircraft industry |
-| Employees | 412 full-time equivalent (as of 2024) |
 | Google Knowledge Graph Id | /g/122vxkjs |
 | Crunchbase Organization Id | satair |
 | Location Of Formation | Copenhagen |
@@ -116,4 +135,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $703.80M (703,800,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $703.80M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 412 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |

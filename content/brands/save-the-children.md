@@ -2,7 +2,7 @@
 title: Save The Children
 slug: "save-the-children"
 description: ""
-date: "2026-03-05T22:38:39.761250"
+date: "2026-03-13T08:56:59.810681"
 draft: false
 sectors:
   - ngo
@@ -13,14 +13,24 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - charity
+  - ngo
 industries: []
 countries:
   - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +50,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - horizontal
   - favicon
+  - secondary
   - stacked
+  - horizontal
 brand_colors:
   - white
   - grey
   - black
 typographies:
   - "gill-sans"
-  - arial
   - display
+  - arial
 imagery_styles:
-  - bold
-  - product
-  - graphic
-  - gradient
   - static
+  - product
+  - gradient
+  - graphic
+  - bold
 wikidata_description: "London-based international non-profit organization"
+wikidata_url: "https://www.wikidata.org/wiki/Q215934"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -932,6 +944,11 @@ be ranged left.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q215934) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | Topic'S Main Category | Category:Save the Children |
 | Freebase Id | /m/028dr4 |
 | Award Received | Annette Thommessens minnepris (as of 2004), Princess of Asturias Award for Concord (as of 1994) |
@@ -952,7 +969,6 @@ be ranged left.
 | Child Organization Or Unit | Save the Children Germany, Redd Barna |
 | British Museum Person Or Institution Id | 98147 |
 | Osm Name Suggestion Index Id | savethechildren-0ff93d, savethechildren-48c608, savethechildren-b7b967, savethechildreninternational-01cce6 |
-| Logo Image | Logo SavetheChildren.png, Save the Children Logo.svg |
 | Operating Area | Earth |
 | National Library Of Israel J9U Id | 987007267541205171 |
 | Companies House Company Id | 00178159 |

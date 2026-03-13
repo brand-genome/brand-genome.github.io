@@ -2,7 +2,7 @@
 title: Starbucks Coffee Company
 slug: "starbucks-coffee-company"
 description: ""
-date: "2026-03-05T22:38:39.314516"
+date: "2026-03-13T08:56:59.258166"
 draft: false
 sectors:
   - drink
@@ -23,11 +23,28 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "500m-1b"
+  - "500M-1B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced:
+  - frappuccino
+  - coffee
+products: []
+headquarters_locations:
+  - seattle
+subsidiaries: []
+foundation_dates:
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +70,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational coffee company
+wikidata_url: "https://www.wikidata.org/wiki/Q37158"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +109,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q37158) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Frappuccino](/products_or_materials_produced/frappuccino/); [Coffee](/products_or_materials_produced/coffee/) |
+| Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
+| Foundation Date | [1971](/foundation_dates/1971/) |
 | Founded By | Jerry Baldwin, Gordon Bowker, Zev Siegl |
 | Topic'S Main Category | Category:Starbucks |
 | Stock Exchange | Nasdaq (from 1992-06-26), Hong Kong Stock Exchange |
@@ -102,7 +128,6 @@ guideline_count: 1
 | Commons Gallery | Starbucks |
 | Chief Executive Officer | Howard Schultz (from 1982, until 2017-04-03), Kevin Johnson (from 2017-04-03, until 2023-04-01), Laxman Narasimhan (from 2023-04-01, until 2024-08), Brian Niccol (from 2024-09-09) |
 | Chief Operating Officer | Kevin Johnson (until 2017-04-03) |
-| Employees | 191,000 (as of 2014), 245,000 (as of 2016), 383,000 (as of 2021-10-03) |
 | Politifact People And Groups Id | starbucks |
 | Headquarters Location | Seattle |
 | Facebook Username | Starbucks, StarbucksMagyarorszag, StarbucksPhilippines (as of 2022-01-15, from 2009-12-03) |
@@ -138,7 +163,6 @@ guideline_count: 1
 | Ror Id | 03f34pe19 |
 | Wordlift Url | http://data.thenextweb.com/tnw/entity/starbucks |
 | The Top Tens Id | 5928 |
-| Logo Image | Starbucks coffee wordmark.png |
 | Downdetector Id | starbucks |
 | Littlesis Organization Id | 278, 114080 |
 | Glassdoor Company Id | 2202 |
@@ -161,9 +185,6 @@ guideline_count: 1
 | Seek Company Id | 432622 |
 | Comparably Company Id | starbucks |
 | Indeed Company Id | Starbucks |
-| Total Assets | 31,392,600,000 United States dollar (as of 2021-10-03) |
-| Total Equity | -5,321,200,000 United States dollar (as of 2021-10-03) |
-| Market Capitalization | 107,369,000,000 United States dollar (as of 2022-02-18) |
 | Idref Id | 155829904 |
 | Reddit Topic Id | starbucks |
 | Contact Page Url | https://customerservice.starbucks.com/app/contact/ask/ |
@@ -218,66 +239,98 @@ guideline_count: 1
 
 ### Revenue History
 
-- $29.06B (29,060,600,000 United States dollar (as of 2021-10-03))
-- $9.41B (9,411,500,000 United States dollar (as of 2007, from 2006-10-02, until 2007-09-30))
-- $10.38B (10,383,000,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-28))
-- $9.77B (9,774,600,000 United States dollar (as of 2009, from 2008-09-29, until 2009-09-27))
-- $10.71B (10,707,400,000 United States dollar (as of 2010, from 2009-09-28, until 2010-10-03))
-- $11.70B (11,700,400,000 United States dollar (as of 2011, from 2010-10-04, until 2011-10-02))
-- $13.30B (13,299,500,000 United States dollar (as of 2012, from 2011-10-03, until 2012-09-30))
-- $14.89B (14,892,200,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-29))
-- $16.45B (16,447,800,000 United States dollar (as of 2014, from 2013-09-30, until 2014-09-28))
-- $19.16B (19,162,700,000 United States dollar (as of 2015, from 2014-09-29, until 2015-09-27))
-- $13.30B (13,299,500,000 United States dollar (as of 2016, from 2011-10-03, until 2012-09-30))
-- $22.39B (22,386,800,000 United States dollar (as of 2017, from 2016-10-03, until 2017-10-01))
-- $24.72B (24,719,500,000 United States dollar (as of 2018, from 2017-10-02, until 2018-09-30))
-- $26.51B (26,508,600,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-29))
-- $23.52B (23,518,000,000 United States dollar (as of 2020, from 2019-09-30, until 2020-09-27))
-- $32.25B (32,250,300,000 United States dollar (as of 2022, from 2021-10-04, until 2022-10-02))
-- $35.98B (35,975,600,000 United States dollar (as of 2023, from 2022-10-03, until 2023-10-01))
-- $36.18B (36,176,200,000 United States dollar (as of 2024, from 2023-10-02, until 2024-09-29))
-- $37.18B (37,184,400,000 United States dollar (as of 2025, from 2024-09-30, until 2025-09-28))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $29.06B | as of 2021-10-03 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.41B | as of 2007, from 2006-10-02, until 2007-09-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.38B | as of 2008, from 2007-10-01, until 2008-09-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $9.77B | as of 2009, from 2008-09-29, until 2009-09-27 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.71B | as of 2010, from 2009-09-28, until 2010-10-03 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.70B | as of 2011, from 2010-10-04, until 2011-10-02 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.30B | as of 2012, from 2011-10-03, until 2012-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.89B | as of 2013, from 2012-10-01, until 2013-09-29 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $16.45B | as of 2014, from 2013-09-30, until 2014-09-28 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.16B | as of 2015, from 2014-09-29, until 2015-09-27 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.30B | as of 2016, from 2011-10-03, until 2012-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.39B | as of 2017, from 2016-10-03, until 2017-10-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.72B | as of 2018, from 2017-10-02, until 2018-09-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $26.51B | as of 2019, from 2018-10-01, until 2019-09-29 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.52B | as of 2020, from 2019-09-30, until 2020-09-27 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.25B | as of 2022, from 2021-10-04, until 2022-10-02 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.98B | as of 2023, from 2022-10-03, until 2023-10-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.18B | as of 2024, from 2023-10-02, until 2024-09-29 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.18B | as of 2025, from 2024-09-30, until 2025-09-28 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $1.05B (1,053,900,000 United States dollar (as of 2007, from 2006-10-02, until 2007-09-30))
-- $503.90M (503,900,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-28))
-- $562.00M (562,000,000 United States dollar (as of 2009, from 2008-09-29, until 2009-09-27))
-- $1.42B (1,419,400,000 United States dollar (as of 2010, from 2009-09-28, until 2010-10-03))
-- $1.73B (1,728,500,000 United States dollar (as of 2011, from 2010-10-04, until 2011-10-02))
-- $2.00B (1,997,400,000 United States dollar (as of 2012, from 2011-10-03, until 2012-09-30))
-- $325.40M (-325,400,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-29))
-- $3.08B (3,081,100,000 United States dollar (as of 2014, from 2013-09-30, until 2014-09-28))
-- $3.60B (3,601,000,000 United States dollar (as of 2015, from 2014-09-29, until 2015-09-27))
-- $4.17B (4,171,900,000 United States dollar (as of 2016, from 2015-09-28, until 2016-10-02))
-- $4.13B (4,134,700,000 United States dollar (as of 2017, from 2016-10-03, until 2017-10-01))
-- $3.88B (3,883,300,000 United States dollar (as of 2018, from 2017-10-02, until 2018-09-30))
-- $4.08B (4,077,900,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-29))
-- $1.56B (1,561,700,000 United States dollar (as of 2020, from 2019-09-30, until 2020-09-27))
-- $4.87B (4,872,100,000 United States dollar (as of 2021-10-03))
-- $4.62B (4,617,800,000 United States dollar (as of 2022, from 2021-10-04, until 2022-10-02))
-- $5.87B (5,870,800,000 United States dollar (as of 2023, from 2022-10-03, until 2023-10-01))
-- $5.41B (5,408,800,000 United States dollar (as of 2024, from 2023-10-02, until 2024-09-29))
-- $2.94B (2,936,600,000 United States dollar (as of 2025, from 2024-09-30, until 2025-09-28))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.05B | as of 2007, from 2006-10-02, until 2007-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $503.90M | as of 2008, from 2007-10-01, until 2008-09-28 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $562.00M | as of 2009, from 2008-09-29, until 2009-09-27 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.42B | as of 2010, from 2009-09-28, until 2010-10-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.73B | as of 2011, from 2010-10-04, until 2011-10-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.00B | as of 2012, from 2011-10-03, until 2012-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $325.40M | as of 2013, from 2012-10-01, until 2013-09-29 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $3.08B | as of 2014, from 2013-09-30, until 2014-09-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.60B | as of 2015, from 2014-09-29, until 2015-09-27 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.17B | as of 2016, from 2015-09-28, until 2016-10-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.13B | as of 2017, from 2016-10-03, until 2017-10-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.88B | as of 2018, from 2017-10-02, until 2018-09-30 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.08B | as of 2019, from 2018-10-01, until 2019-09-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.56B | as of 2020, from 2019-09-30, until 2020-09-27 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.87B | as of 2021-10-03 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.62B | as of 2022, from 2021-10-04, until 2022-10-02 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.87B | as of 2023, from 2022-10-03, until 2023-10-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $5.41B | as of 2024, from 2023-10-02, until 2024-09-29 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.94B | as of 2025, from 2024-09-30, until 2025-09-28 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $672.60M (672,600,000 United States dollar (as of 2007, from 2006-10-02, until 2007-09-30))
-- $315.50M (315,500,000 United States dollar (as of 2008, from 2007-10-01, until 2008-09-28))
-- $390.80M (390,800,000 United States dollar (as of 2009, from 2008-09-29, until 2009-09-27))
-- $945.60M (945,600,000 United States dollar (as of 2010, from 2009-09-28, until 2010-10-03))
-- $1.25B (1,245,700,000 United States dollar (as of 2011, from 2010-10-04, until 2011-10-02))
-- $1.38B (1,383,800,000 United States dollar (as of 2012, from 2011-10-03, until 2012-09-30))
-- $8.30M (8,300,000 United States dollar (as of 2013, from 2012-10-01, until 2013-09-29))
-- $2.07B (2,068,100,000 United States dollar (as of 2014, from 2013-09-30, until 2014-09-28))
-- $2.76B (2,757,400,000 United States dollar (as of 2015, from 2014-09-29, until 2015-09-27))
-- $2.82B (2,817,700,000 United States dollar (as of 2016, from 2015-09-28, until 2016-10-02))
-- $2.88B (2,884,700,000 United States dollar (as of 2017, from 2016-10-03, until 2017-10-01))
-- $4.52B (4,518,300,000 United States dollar (as of 2018, from 2017-10-02, until 2018-09-30))
-- $3.60B (3,599,200,000 United States dollar (as of 2019, from 2018-10-01, until 2019-09-29))
-- $928.30M (928,300,000 United States dollar (as of 2020, from 2019-09-30, until 2020-09-27))
-- $4.20B (4,199,300,000 United States dollar (as of 2021-10-03))
-- $3.28B (3,281,600,000 United States dollar (as of 2022, from 2021-10-04, until 2022-10-02))
-- $4.12B (4,124,500,000 United States dollar (as of 2023, from 2022-10-03, until 2023-10-01))
-- $3.76B (3,760,900,000 United States dollar (as of 2024, from 2023-10-02, until 2024-09-29))
-- $1.86B (1,856,400,000 United States dollar (as of 2025, from 2024-09-30, until 2025-09-28))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $672.60M | as of 2007, from 2006-10-02, until 2007-09-30 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $315.50M | as of 2008, from 2007-10-01, until 2008-09-28 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $390.80M | as of 2009, from 2008-09-29, until 2009-09-27 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $945.60M | as of 2010, from 2009-09-28, until 2010-10-03 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.25B | as of 2011, from 2010-10-04, until 2011-10-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.38B | as of 2012, from 2011-10-03, until 2012-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $8.30M | as of 2013, from 2012-10-01, until 2013-09-29 | [1M-10M](/net_profit_buckets/1m-10m/) |
+| $2.07B | as of 2014, from 2013-09-30, until 2014-09-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.76B | as of 2015, from 2014-09-29, until 2015-09-27 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.82B | as of 2016, from 2015-09-28, until 2016-10-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.88B | as of 2017, from 2016-10-03, until 2017-10-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.52B | as of 2018, from 2017-10-02, until 2018-09-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.60B | as of 2019, from 2018-10-01, until 2019-09-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $928.30M | as of 2020, from 2019-09-30, until 2020-09-27 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $4.20B | as of 2021-10-03 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.28B | as of 2022, from 2021-10-04, until 2022-10-02 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.12B | as of 2023, from 2022-10-03, until 2023-10-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.76B | as of 2024, from 2023-10-02, until 2024-09-29 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.86B | as of 2025, from 2024-09-30, until 2025-09-28 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 191,000 | as of 2014 | [100K-500K](/employees_buckets/100k-500k/) |
+| 245,000 | as of 2016 | [100K-500K](/employees_buckets/100k-500k/) |
+| 383,000 | as of 2021-10-03 | [100K-500K](/employees_buckets/100k-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $31.39B | as of 2021-10-03 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $5.32B | as of 2021-10-03 | [1B-10B](/total_equity_buckets/1b-10b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $107.37B | as of 2022-02-18 | [100B-500B](/market_cap_buckets/100b-500b/) |

@@ -2,7 +2,7 @@
 title: Valencia C.F.
 slug: "valencia-cf"
 description: ""
-date: "2026-03-05T22:38:39.764841"
+date: "2026-03-13T08:56:59.815748"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - valencia
+subsidiaries: []
+foundation_dates:
+  - 1919
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,28 +50,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
-  - crest
   - horizontal
+  - crest
+  - symbol
 brand_colors:
   - white
   - red
-  - orange
-  - black
-  - yellow
   - blue
+  - yellow
   - silver
+  - black
+  - orange
 typographies:
-  - "gill-sans"
   - futura
+  - "gill-sans"
 imagery_styles:
-  - bold
   - dynamic
+  - bold
 wikidata_description: "association football club in Valencia, Spain"
+wikidata_url: "https://www.wikidata.org/wiki/Q10333"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +123,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q10333) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Valencia](/headquarters_locations/valencia/) |
+| Foundation Date | [1919](/foundation_dates/1919/) |
 | League Or Competition | La Liga (from 1987) |
 | Home Venue | Mestalla Stadium (from 1923-05-20) |
 | Head Coach | Claudio Ranieri (from 2004-07-01, until 2005-02-25), Claudio Ranieri (from 1997-09-20, until 1999-06-30), Ernesto Valverde (from 2012-12-03, until 2013-06-20), Marcelino García Toral (from 2017-07-01, until 2019-09-11), Albert Celades (from 2019-09-11, until 2020-06-29) (+8 more) |

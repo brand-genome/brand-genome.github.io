@@ -2,11 +2,11 @@
 title: University of Delaware
 slug: "university-of-delaware"
 description: ""
-date: "2026-03-05T22:38:39.761053"
+date: "2026-03-13T08:56:59.810412"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - usa
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - newark
+subsidiaries: []
+foundation_dates:
+  - 1743
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Newark, Delaware, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1068072"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +82,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1068072) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Newark](/headquarters_locations/newark/) |
+| Foundation Date | [1743](/foundation_dates/1743/) |
 | Coordinate Location | 39.679111111111, -75.752166666667 |
 | Country | United States |
 | Topic'S Main Category | Category:University of Delaware |
@@ -108,7 +129,6 @@ guideline_count: 1
 | Times Higher Education World University Id | university-delaware |
 | Google Maps Customer Id | 13848285473888854897 |
 | U Multirank University Id | university-of-delaware |
-| Logo Image | University of Delaware wordmark.svg |
 | Located In The Administrative Territorial Entity | Newark |
 | Microsoft Academic Id (Discontinued) | 86501945 |
 | Street Address | 104 Hullihen Hall, Newark, DE, 19716 |
@@ -125,8 +145,6 @@ guideline_count: 1
 | Official Map Url | https://css-rdms1.win.udel.edu/maps/, https://www.udel.edu/content/dam/udelImages/main/pdfs/maps/campus-map.pdf |
 | Schoenberg Database Of Manuscripts Name Id | 49642 |
 | Count Of Students | 23,613 (as of 2020-09), 22,339 (as of 2021-09-01), 24,221 (as of 2023) |
-| Total Assets | 4,006,103,765 United States dollar (as of 2020-06-30) |
-| Employees | 4,909 (as of 2020-09), 4,895 (as of 2023) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | udel |
@@ -160,3 +178,16 @@ guideline_count: 1
 | Threads Username | udelaware |
 | Athletics Program | Delaware Fightin' Blue Hens |
 | Postimees Topic Id | 740839 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,909 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+| 4,895 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $4.01B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: Swedish State Railways
 slug: "swedish-state-railways"
 description: ""
-date: "2026-03-05T22:38:39.136612"
+date: "2026-03-13T08:56:59.086561"
 draft: false
 sectors:
   - railroad
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - stockholm
+subsidiaries: []
+foundation_dates:
+  - 1888
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "state-owned railway in Sweden (1887–2000)"
+wikidata_url: "https://www.wikidata.org/wiki/Q52912"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,13 +78,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q52912) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stockholm](/headquarters_locations/stockholm/) |
+| Foundation Date | [1888](/foundation_dates/1888/) |
 | Country | Sweden |
 | Followed By | , SJ AB (as of 2001-01-01), Green Cargo (as of 2001-01-01), Swedcarrier (as of 2001-01-01), Swedish National Rail Administration (as of 1988-07-01) |
 | Part Of | Ministry of Civil Affairs (from 1887-01-01, until 1920-01-01), Ministry of Communications (from 1921-01-01, until 1997-01-01), Ministry of Climate and Enterprise of Sweden (from 1997-01-01, until 2001-01-01) |
 | Freebase Id | /m/0370c2 |
 | Headquarters Location | Stockholm |
 | Inception | 1888-06-01 |
-| Logo Image | Statens järnvägar logo 2009.jpg |
 | Dissolved, Abolished Or Demolished Date | 2000-12-31 |
 | Topic'S Main Category | Category:Statens Järnvägar |
 | Permanent Duplicated Item |  |

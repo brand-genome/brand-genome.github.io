@@ -2,16 +2,16 @@
 title: Dalkia
 slug: dalkia
 description: ""
-date: "2026-03-05T22:38:39.138160"
+date: "2026-03-13T08:56:59.087635"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - france
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
   - french
@@ -23,11 +23,25 @@ industries:
 countries:
   - "czech-republic"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "1B-10B"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - ostrava
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: company in the Czech Republic
+wikidata_url: "https://www.wikidata.org/wiki/Q19602804"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -74,6 +90,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19602804) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ostrava](/headquarters_locations/ostrava/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Legal Form | akciová společnost |
 | Headquarters Location | Ostrava |
 | Inception | 1992-05-01 |
@@ -85,10 +107,7 @@ guideline_count: 2
 | Country | Czech Republic |
 | Czech Registration Id (Ičo) | 45193410 |
 | Owned By | Veolia Energie International, ČEZ Group, DCR Investment |
-| Total Assets | 15,039,740,000 Czech koruna (as of 2017-12-31), 14,394,487,000 Czech koruna (as of 2016-12-31), 16,843,465,000 Czech koruna (as of 2020-12-31), 17,368,667,000 Czech koruna (as of 2019-12-31), 16,533,488,000 Czech koruna (as of 2018-12-31) |
-| Total Equity | 6,010,051,000 Czech koruna (as of 2017-12-31), 6,159,094,000 Czech koruna (as of 2016-12-31), 5,108,367,000 Czech koruna (as of 2020-12-31), 5,448,768,000 Czech koruna (as of 2019-12-31), 6,148,229,000 Czech koruna (as of 2018-12-31) |
 | Isin | CZ0009105904 |
-| Employees | 1,590 (as of 2017-01-01), 1,582 (as of 2016-01-01), 1,532 (as of 2020-01-01), 1,572 (as of 2019-01-01), 1,599 (as of 2018-01-01) (+2 more) |
 | Owner Of | Třebovice power plant,  |
 | Nl Cr Aut Id | osa2015887966, kn20020808002, osa2009530908 |
 | Viaf Cluster Id | 144721542 |
@@ -105,29 +124,67 @@ guideline_count: 2
 
 ### Revenue History
 
-- $11.55B (11,547,401,000 Czech koruna (as of 2017-01-01))
-- $11.25B (11,250,853,000 Czech koruna (as of 2016-01-01))
-- $12.83B (12,834,607,000 Czech koruna (as of 2020-01-01))
-- $12.52B (12,518,025,000 Czech koruna (as of 2019-01-01))
-- $11.62B (11,619,314,000 Czech koruna (as of 2018-01-01))
-- $3.14B (3,138,000,000 Czech koruna (as of 1994))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $11.55B | as of 2017-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.25B | as of 2016-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.83B | as of 2020-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.52B | as of 2019-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.62B | as of 2018-01-01 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $3.14B | as of 1994 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Operating Income History
 
-- $1.49B (1,494,067,000 Czech koruna (as of 2017-01-01))
-- $120.86M (120,865,000 Czech koruna (as of 2016-01-01))
-- $141.99M (-141,992,000 Czech koruna (as of 2020-01-01))
-- $580.31M (580,313,000 Czech koruna (as of 2019-01-01))
-- $1.51B (1,505,359,000 Czech koruna (as of 2018-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.49B | as of 2017-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $120.86M | as of 2016-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $141.99M | as of 2020-01-01 | [100M-500M](/operating_income_buckets/100m-500m/) |
+| $580.31M | as of 2019-01-01 | [500M-1B](/operating_income_buckets/500m-1b/) |
+| $1.51B | as of 2018-01-01 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $1.15B (1,145,634,000 Czech koruna (as of 2017-01-01))
-- $70.76M (-70,762,000 Czech koruna (as of 2016-01-01))
-- $299.30M (-299,296,000 Czech koruna (as of 2020-01-01))
-- $200.37M (200,372,000 Czech koruna (as of 2019-01-01))
-- $1.11B (1,110,771,000 Czech koruna (as of 2018-01-01))
-- $371.82M (371,817,000 Czech koruna (as of 1995))
-- $1.21B (1,208,241,000 Czech koruna (as of 2005))
-- $5.12B (5,120,631,000 Czech koruna (as of 2010))
-- $309.00M (309,000,000 Czech koruna (as of 1994))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.15B | as of 2017-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $70.76M | as of 2016-01-01 | [10M-100M](/net_profit_buckets/10m-100m/) |
+| $299.30M | as of 2020-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $200.37M | as of 2019-01-01 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.11B | as of 2018-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $371.82M | as of 1995 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.21B | as of 2005 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $5.12B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $309.00M | as of 1994 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,590 | as of 2017-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,582 | as of 2016-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,532 | as of 2020-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,572 | as of 2019-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,599 | as of 2018-01-01 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,499 | as of 1993 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,396 | as of 1994 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $15.04B | as of 2017-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $14.39B | as of 2016-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $16.84B | as of 2020-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $17.37B | as of 2019-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $16.53B | as of 2018-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $6.01B | as of 2017-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $6.16B | as of 2016-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $5.11B | as of 2020-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $5.45B | as of 2019-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |
+| $6.15B | as of 2018-12-31 | [1B-10B](/total_equity_buckets/1b-10b/) |

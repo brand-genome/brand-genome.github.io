@@ -2,7 +2,7 @@
 title: Norske Skog
 slug: "norske-skog"
 description: ""
-date: "2026-03-05T22:38:39.603080"
+date: "2026-03-13T08:56:59.546077"
 draft: false
 sectors:
   - "forestry-timber"
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - cardboard
+  - paper
+products: []
+headquarters_locations:
+  - oslo
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,34 +52,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
-  - symbol
   - secondary
+  - alternate
+  - symbol
 brand_colors:
   - white
-  - black
   - blue
-  - gray
   - green
+  - black
+  - gray
 typographies:
-  - impact
-  - serif
-  - "sans-serif"
-  - times
   - "source-sans"
   - arial
+  - times
+  - serif
+  - impact
+  - "sans-serif"
 imagery_styles:
-  - bold
+  - natural
+  - clean
   - product
   - graphic
-  - clean
-  - natural
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q1225328"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,11 +133,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1225328) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Cardboard](/products_or_materials_produced/cardboard/); [Paper](/products_or_materials_produced/paper/) |
+| Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Topic'S Main Category | Category:Norske Skog |
 | Freebase Id | /m/01rg4f |
 | Stock Exchange | Oslo Stock Exchange (until 2017) |
 | Inception | 1962-03-01 |
-| Logo Image | Norske Skog.svg |
 | Legal Form | allmennaksjeselskap |
 | Norwegian Organisation Number | 911750961, 914483549 |
 | Industry | pulp and paper industry |

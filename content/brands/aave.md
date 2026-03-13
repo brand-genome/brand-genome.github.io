@@ -2,7 +2,7 @@
 title: Aave
 slug: aave
 description: ""
-date: "2026-03-05T22:38:39.334977"
+date: "2026-03-13T08:56:59.289350"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -14,14 +14,24 @@ years:
 languages:
   - english
 tags:
-  - financial
   - internet
+  - financial
 industries: []
 countries:
   - finland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2017
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: decentralized finance protocol
+wikidata_url: "https://www.wikidata.org/wiki/Q125457725"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,15 +82,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q125457725) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2017](/foundation_dates/2017/) |
 | Country | Finland |
-| Logo Image | Aave logo (2024).png |
 | Inception | 2017 |
 | Official Blog Url | https://aave.com/blog |
 | Linkedin Company Or Organization Id | aavelabs |
 | X (Twitter) Username | aave |
 | Faq Url | https://aave.com/faq |
 | Terms Of Service Url | https://aave.com/terms-of-service |
-| Email Address | mailto:wecare@aave.com |
+| Email Address | wecare@aave.com |
 | Tiktok Username | aavelabs |
 | Instagram Username | aave |
 | Official Forum Url | https://governance.aave.com/ |

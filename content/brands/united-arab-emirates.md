@@ -2,7 +2,7 @@
 title: United Arab Emirates
 slug: "united-arab-emirates"
 description: ""
-date: "2026-03-05T22:38:39.503744"
+date: "2026-03-13T08:56:59.427277"
 draft: false
 sectors:
   - "public-sector"
@@ -13,14 +13,26 @@ years:
 languages:
   - arabic
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - "united-arab-emirates"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "emirate-of-abu-dhabi"
+subsidiaries: []
+foundation_dates:
+  - 1951
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,19 +57,21 @@ brand_colors:
   - white
   - red
   - gold
-  - "pantone-348"
-  - black
   - green
+  - black
+  - "pantone-348"
 typographies: []
 imagery_styles:
-  - bold
   - gradient
+  - bold
   - monochrome
 wikidata_description: combined military forces of the United Arab Emirates
+wikidata_url: "https://www.wikidata.org/wiki/Q1077671"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1077671) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Emirate Of Abu Dhabi](/headquarters_locations/emirate-of-abu-dhabi/) |
+| Foundation Date | [1951](/foundation_dates/1951/) |
 | Topic'S Main Category | Category:Military of the United Arab Emirates |
 | Quora Topic Id | Armed-Forces-of-the-UAE, UAE-Armed-Forces |
 | Country | United Arab Emirates |
@@ -112,9 +132,14 @@ guideline_count: 1
 | Great Norwegian Encyclopedia Id | De_forente_arabiske_emiraters_forsvar |
 | Inception | 1951 |
 | Commanded By | Mohammed Bin Zayed Al Nahyan |
-| Employees | 100,000 |
 | Minimum Age | 18 |
 | Coat Of Arms Image | UAE Armed Forces Coat of Arms.svg |
 | Flag Image | Flag of the UAE Armed Forces.svg |
 | Headquarters Location | Emirate of Abu Dhabi |
 | Image | 110407-A-HM954-005 (5617028210).jpg |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 100,000 | - | [100K-500K](/employees_buckets/100k-500k/) |

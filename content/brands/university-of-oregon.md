@@ -2,15 +2,15 @@
 title: University of Oregon
 slug: "university-of-oregon"
 description: ""
-date: "2026-03-05T22:38:39.245048"
+date: "2026-03-13T08:56:59.189473"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2022
   - 2011
+  - 2022
 languages:
   - english
 tags:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - eugene
+subsidiaries: []
+foundation_dates:
+  - 1876
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Eugene, Oregon, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q766145"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,6 +85,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q766145) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Eugene](/headquarters_locations/eugene/) |
+| Foundation Date | [1876](/foundation_dates/1876/) |
 | Coordinate Location | 44.044166666667, -123.07583333333 |
 | Topic'S Main Category | Category:University of Oregon |
 | Freebase Id | /m/01n6r0 |
@@ -115,7 +135,6 @@ guideline_count: 2
 | Times Higher Education World University Id | university-oregon |
 | Google Maps Customer Id | 2497941177432973622 |
 | U Multirank University Id | university-of-oregon |
-| Logo Image | University of Oregon logo.svg |
 | Archinform Keyword Id | 3069 |
 | Significant Event | mixed-sex education (from 1876) |
 | Founded By | Joshua Jones Walton |
@@ -136,7 +155,6 @@ guideline_count: 2
 | Crunchbase Organization Id | university-of-oregon |
 | Different From | Oregon State University |
 | National Library Of Israel J9U Id | 987007269200205171 |
-| Employees | 4,929 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | UofO, ducks |
@@ -169,3 +187,9 @@ guideline_count: 2
 | Scholargps Institution Id | 19198141074739 |
 | Threads Username | uoregon |
 | Postimees Topic Id | 730719 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,929 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

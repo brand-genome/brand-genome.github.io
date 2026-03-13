@@ -2,7 +2,7 @@
 title: Calvin University
 slug: "calvin-university"
 description: ""
-date: "2026-03-05T22:38:39.586440"
+date: "2026-03-13T08:56:59.528550"
 draft: false
 sectors:
   - education
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "east-grand-rapids"
+subsidiaries: []
+foundation_dates:
+  - 1876
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "private Christian university in Grand Rapids, Michigan, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q2698482"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +98,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2698482) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [East Grand Rapids](/headquarters_locations/east-grand-rapids/) |
+| Foundation Date | [1876](/foundation_dates/1876/) |
 | Coordinate Location | 42.930277777778, -85.588055555556 |
 | Country | United States |
 | Topic'S Main Category | Category:Calvin University |
@@ -141,9 +162,7 @@ guideline_count: 1
 | Gnd Id | 5056107-8 |
 | Libraries Australia Id | 36462951 |
 | National Library Of Israel J9U Id | 987007454227505171 |
-| Total Assets | 532,360,000 United States dollar (as of 2020-06-30) |
 | Endowment | 190,876,000 United States dollar (as of 2020-06-30) |
-| Employees | 759 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I163795733 |
@@ -155,8 +174,19 @@ guideline_count: 1
 | Industry | higher education |
 | Kisti Id | K000206902 |
 | Web Feed Url | https://calvin.edu/rss.xml |
-| Logo Image | Calvin univ full logo.png |
 | ‎Yale Lux Id | group/fbd815b3-47cb-41b9-84d3-69b455506e62 |
 | World Higher Education Database Id | IAU-001928 |
 | Threads Username | calvinuniversity |
 | Athletics Program | Calvin Knights |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 759 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $532.36M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

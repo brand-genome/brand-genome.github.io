@@ -2,11 +2,11 @@
 title: AMD EPYC
 slug: "amd-epyc"
 description: ""
-date: "2026-03-05T22:38:39.578837"
+date: "2026-03-13T08:56:59.513720"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2017
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,8 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
 brand_colors:
   - white
   - black
@@ -47,10 +57,12 @@ typographies:
   - impact
 imagery_styles: []
 wikidata_description: server processor line by Advanced Micro Devices
+wikidata_url: "https://www.wikidata.org/wiki/Q33083031"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +107,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q33083031) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2017](/foundation_dates/2017/) |
 | Owned By | AMD |
 | Inception | 2017-06 |
 | Official Name | EPYC |
@@ -102,7 +119,6 @@ guideline_count: 1
 | Subclass Of | AMD microprocessor |
 | Socket Supported | Socket SP3, Socket SP4, Socket SP5 |
 | Different From | explicitly parallel instruction computing |
-| Logo Image | AMD Epyc wordmark.svg |
 | Google Knowledge Graph Id | /g/11dy_kks3x |
 | Has Use | server computer, embedded system |
 | Instruction Set |  |

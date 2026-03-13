@@ -2,11 +2,11 @@
 title: United Kingdom Accreditation Service
 slug: "united-kingdom-accreditation-service"
 description: ""
-date: "2026-03-05T22:38:39.399306"
+date: "2026-03-13T08:56:59.364143"
 draft: false
 sectors:
-  - consulting
   - "public-sector"
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,18 +52,20 @@ logo_elements:
   - primary
   - signature
 brand_colors:
-  - blue
   - grey
+  - blue
 typographies:
   - arial
 imagery_styles:
-  - bold
   - minimal
+  - bold
 wikidata_description: national accreditation body
+wikidata_url: "https://www.wikidata.org/wiki/Q489435"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +111,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q489435) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Freebase Id | /m/06_vj13 |
 | Viaf Cluster Id | 152695100 |
 | Inception | 1995 |

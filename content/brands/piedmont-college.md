@@ -2,7 +2,7 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-03-05T22:38:39.378326"
+date: "2026-03-13T08:56:59.338019"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1897
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,26 +53,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - seal
   - primary
   - secondary
+  - seal
 brand_colors:
   - white
-  - "pantone-3435"
   - gold
+  - "pantone-4515"
+  - green
   - black
   - gray
-  - green
-  - "pantone-4515"
+  - "pantone-3435"
 typographies: []
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: private college in the U.S. state of Georgia
+wikidata_url: "https://www.wikidata.org/wiki/Q7191499"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +122,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7191499) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1897](/foundation_dates/1897/) |
 | Coordinate Location | 34.566, -83.542 |
 | Country | United States |
 | Topic'S Main Category | Category:Piedmont University |
@@ -143,9 +162,7 @@ guideline_count: 1
 | Child Organization Or Unit | Arrendale Library Piedmont College, Lane Library Piedmont College |
 | Social Media Followers | 1,383 (as of 2021-01-06), 1,342 (as of 2020-04-26) |
 | Count Of Students | 2,350 (as of 2020-09) |
-| Total Assets | 155,494,183 United States dollar (as of 2020-06-30) |
 | Endowment | 51,579,957 United States dollar (as of 2020-06-30) |
-| Employees | 533 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I127446714 |
@@ -153,8 +170,19 @@ guideline_count: 1
 | Snarc Id | Q103458 |
 | Industry | higher education |
 | Kisti Id | K000207715 |
-| Logo Image | Piedmont univ textlogo.png |
 | ‎Yale Lux Id | group/43b094ed-303e-4d18-b4ea-732ddd1f2960 |
 | Youtube Handle | piedmontuniversity (as of 2025-11-24) |
 | Number Of Viewers/Listeners | 1,534,732 (as of 2025-11-24) |
 | Athletics Program | Piedmont Lions |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 533 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $155.49M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

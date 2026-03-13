@@ -2,7 +2,7 @@
 title: NJIT
 slug: njit
 description: ""
-date: "2026-03-05T22:38:39.764592"
+date: "2026-03-13T08:56:59.815442"
 draft: false
 sectors:
   - university
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - institut
   - technology
+  - institut
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1881
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Newark, New Jersey, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q3272013"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -83,6 +96,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3272013) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1881](/foundation_dates/1881/) |
 | Coordinate Location | 40.742, -74.179 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | New Jersey |
@@ -103,7 +121,6 @@ guideline_count: 1
 | Qs World University Id | new-jersey-institute-technology-njit |
 | Times Higher Education World University Id | new-jersey-institute-technology |
 | Google Maps Customer Id | 13365602299368005443 |
-| Logo Image | New Jersey IT logo.svg |
 | Microsoft Academic Id (Discontinued) | 118118575 |
 | Street Address | University Heights, Newark, NJ, 07102 |
 | Library Of Congress Authority Id | n50000346 |
@@ -114,7 +131,6 @@ guideline_count: 1
 | Api Endpoint Url | https://webauth.njit.edu/idp/shibboleth |
 | Social Media Followers | 22,126 (as of 2021-01-07), 22,475 (as of 2022-02-26), 22,709 (as of 2023-02-05) |
 | Count Of Students | 11,652 (as of 2020-09), 9,891 (as of 2021-09-01) |
-| Employees | 1,830 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I118118575 |
@@ -130,3 +146,9 @@ guideline_count: 1
 | Kisti Id | K000207597 |
 | ‎Yale Lux Id | group/e6c8f08c-5f0c-4497-9a56-cb472a1d0154 |
 | Athletics Program | NJIT Highlanders |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,830 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

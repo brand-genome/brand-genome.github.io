@@ -2,11 +2,11 @@
 title: Life
 slug: life
 description: ""
-date: "2026-03-05T22:38:39.535722"
+date: "2026-03-13T08:56:59.468001"
 draft: false
 sectors:
-  - "arts-culture"
   - publishing
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -14,17 +14,30 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - media
   - magazine
+  - media
+  - featured
 industries:
   - conglomerate
 countries:
   - "south-korea"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "home-appliance"
+products: []
+headquarters_locations:
+  - seoul
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +63,17 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
-  - minimal
   - photography
+  - minimal
   - clean
+  - bold
 wikidata_description: South Korean multinational conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q136778"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,8 +120,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136778) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/) |
+| Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Topic'S Main Category | Category:LG Corporation |
-| Logo Image | Logo of the LG Corporation (2008-2014).png (from 2008, until 2014-12-30), Logo of the LG Corporation (1995-2014).svg (from 1995, until 2014-12-30), LG logo (2014).svg (from 2014), Logo LG Corporation (2023).png (from 2023) |
 | Child Organization Or Unit | LG Electronics, LG Uplus, LG Chem, LG Household & Health Care, LG CNS (+1 more) |
 | Freebase Id | /m/04k024 |
 | Musicbrainz Label Id | b39a127b-383e-4306-a81d-ee52d03d6ddb |
@@ -130,7 +151,6 @@ guideline_count: 1
 | Owner Of | LG Electronics, Zenith Electronics, LG Display, LG Uplus, G2R (+1 more) |
 | Ror Id | 03ddh2c27 |
 | Ringgold Id | 54676 |
-| Employees | 222,000 (as of 2023) |
 | Manualslib Brand Id | lg |
 | Product Or Material Produced | home appliance |
 | Social Media Followers | 7,882 (as of 2021-01-04), 9,245 (as of 2018-05-10) |
@@ -149,4 +169,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $83.00 (83 won (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $83.00 | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 222,000 | as of 2023 | [100K-500K](/employees_buckets/100k-500k/) |

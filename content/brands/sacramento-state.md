@@ -2,7 +2,7 @@
 title: Sacramento State
 slug: "sacramento-state"
 description: ""
-date: "2026-03-05T22:38:39.798362"
+date: "2026-03-13T08:56:59.851699"
 draft: false
 sectors:
   - education
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - sacramento
+subsidiaries: []
+foundation_dates:
+  - 1947
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,22 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
-  - vertical
   - horizontal
+  - seal
+  - vertical
 brand_colors:
-  - gold
   - green
+  - gold
   - black
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: "public university in Sacramento, California, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1026941"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +114,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1026941) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sacramento](/headquarters_locations/sacramento/) |
+| Foundation Date | [1947](/foundation_dates/1947/) |
 | Country | United States |
 | Topic'S Main Category | Category:California State University, Sacramento |
 | Freebase Id | /m/02zcnq |
@@ -121,7 +140,6 @@ guideline_count: 1
 | Parent Organization Or Unit | California State University |
 | Grid Id | grid.253564.3 |
 | Affiliation | California State University |
-| Logo Image | California State University, Sacramento wordmark.jpg |
 | Located In The Administrative Territorial Entity | Sacramento |
 | Microsoft Academic Id (Discontinued) | 43522216 |
 | Street Address | 6000 J St, Sacramento, CA, 95819-2694 |

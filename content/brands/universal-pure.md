@@ -2,7 +2,7 @@
 title: Universal Pure
 slug: "universal-pure"
 description: ""
-date: "2026-03-05T22:38:39.701277"
+date: "2026-03-13T08:56:59.712964"
 draft: false
 sectors:
   - food
@@ -13,13 +13,22 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - technology
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,34 +47,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
+  - wordmark
 brand_colors:
-  - "pantone-381"
-  - orange
-  - "pantone-7461"
   - blue
-  - gray
+  - "pantone-7461"
   - "pantone-7462"
   - "pantone-152"
+  - "pantone-381"
   - green
+  - orange
+  - gray
 typographies:
   - "open-sans"
   - "sans-serif"
 imagery_styles:
-  - bold
-  - photography
-  - dynamic
-  - flat
-  - gradient
-  - contemporary
   - natural
+  - dynamic
+  - contemporary
+  - photography
+  - gradient
+  - flat
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

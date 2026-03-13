@@ -2,7 +2,7 @@
 title: CenTuri
 slug: centuri
 description: ""
-date: "2026-03-05T22:38:39.782708"
+date: "2026-03-13T08:56:59.835763"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - science
   - biology
+  - science
 industries:
   - "video-game-industry"
 countries:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hialeah
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American arcade game company
+wikidata_url: "https://www.wikidata.org/wiki/Q2946291"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2946291) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hialeah](/headquarters_locations/hialeah/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Industry | video game industry |
 | Country | United States |
 | Inception | 1979-01-01 |

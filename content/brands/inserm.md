@@ -2,7 +2,7 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-03-05T22:38:39.714995"
+date: "2026-03-13T08:56:59.732442"
 draft: false
 sectors:
   - research
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1964
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +58,18 @@ brand_colors:
   - white
   - black
 typographies:
+  - times
   - akzidenz
   - arial
-  - times
 imagery_styles:
   - bold
 wikidata_description: French biomedical research institute
+wikidata_url: "https://www.wikidata.org/wiki/Q1474517"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -100,6 +114,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1474517) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1964](/foundation_dates/1964/) |
 | Freebase Id | /m/0gv88y |
 | Member Of | Couperin Consortium, French National Alliance for Life Sciences and Health, Renater, Global Research Collaboration for Infectious Disease Preparedness, European Network of Research Integrity (+2 more) |
 | Country | France |
@@ -108,7 +128,6 @@ guideline_count: 1
 | Ipv4 Routing Prefix | 193.52.143.0/24 (from 2002-04-16), 193.49.127.0/24 (from 2007-02-19) |
 | D U N S Number | 381614494 |
 | Source Of Income | research funding, subsidy |
-| Employees | 13,115 (as of 2016), 14,292 (as of 2022) |
 | Budget | 957,000,000 euro (as of 2016), 912,560,000 euro (as of 2019), 1,073,000,000 euro (as of 2022) |
 | Encyclopædia Universalis Id | inserm |
 | X (Twitter) Username | Inserm (as of 2020-04-25, from 2010-01-05) |
@@ -135,7 +154,6 @@ guideline_count: 1
 | Youtube Channel Id | UCIqFi2jwZI4TIs1hNZz18Mw (as of 2020-12-09, from 2010-02-10) |
 | Linkedin Company Or Organization Id | inserm |
 | Web Feed Url | https://www.inserm.fr/feed/ |
-| Logo Image | Inserm.svg (from 2021) |
 | French Public Service Directory Id | gouvernement/etablissement-public_171851 |
 | Api Endpoint Url | https://idp.inserm.fr/idp/shibboleth |
 | Social Media Followers | 145,189 (as of 2021-01-03), 133,560 (as of 2020-04-25), 220,000 (as of 2021-07-03), 154,847 (as of 2022-01-08), 287,000 (as of 2022-03-17) (+4 more) |
@@ -167,3 +185,10 @@ guideline_count: 1
 | Siren Number | 180036048 |
 | Official Name | INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE |
 | Grants | Prix International de l’INSERM, Inserm Grand Prix, Inserm honor price, INSERM Innovation Prize,  (+2 more) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 13,115 | as of 2016 | [10K-50K](/employees_buckets/10k-50k/) |
+| 14,292 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

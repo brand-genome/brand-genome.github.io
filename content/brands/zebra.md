@@ -2,7 +2,7 @@
 title: Zebra
 slug: zebra
 description: ""
-date: "2026-03-05T22:38:39.312338"
+date: "2026-03-13T08:56:59.253330"
 draft: false
 sectors:
   - insurance
@@ -12,8 +12,8 @@ regions:
   - usa
 years:
   - 2022
-  - 2017
   - 2020
+  - 2017
 languages:
   - english
 tags:
@@ -24,6 +24,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,34 +51,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
+  - yellow
+  - black
   - gray
 typographies:
-  - arial
   - "proxima-nova"
+  - arial
 imagery_styles:
-  - bold
+  - staged
+  - natural
   - photography
   - product
-  - staged
-  - graphic
   - gradient
-  - natural
+  - graphic
+  - bold
 wikidata_description: town in the Czech Republic
+wikidata_url: "https://www.wikidata.org/wiki/Q393474"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -155,6 +166,10 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q393474) |
+
+| Property | Value |
+|----------|-------|
 | Located In The Administrative Territorial Entity | Beroun District,  |
 | Coat Of Arms Image | Žebrák znak.png |
 | Country | Czech Republic |
@@ -173,7 +188,7 @@ guideline_count: 3
 | Elevation Above Sea Level | 342 metre |
 | Postal Code | 267 53, 267 51 |
 | Time Of Earliest Written Record | 1280-01-01 |
-| Email Address | mailto:starosta@mestozebrak.cz |
+| Email Address | starosta@mestozebrak.cz |
 | Different From | Žebrák Castle |
 | List Of Monuments | cultural monuments in Žebrák |
 | Early Modern Letters Online Location Id | b2595c07-f82b-4132-8821-98b571ef6a68 |

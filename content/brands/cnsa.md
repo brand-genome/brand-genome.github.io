@@ -2,11 +2,11 @@
 title: CNSA
 slug: cnsa
 description: ""
-date: "2026-03-05T22:38:39.822908"
+date: "2026-03-13T08:56:59.900194"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
+  - healthcare
 regions:
   - france
 years:
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - beijing
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - professional
 wikidata_description: "national space agency of the People's Republic of China"
+wikidata_url: "https://www.wikidata.org/wiki/Q320644"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -87,6 +100,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q320644) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Viaf Cluster Id | 129212841 |
 | Country | People's Republic of China |
 | Topic'S Main Category | Category:China National Space Administration |
@@ -115,7 +134,6 @@ guideline_count: 1
 | Namuwiki Id | 국가항천국 |
 | Position Held By Head Of The Organization | Director of China National Space Administration |
 | Gnd Id | 1141413779 |
-| Logo Image | Insignia of CNSA.svg |
 | Award Received | Leif Erikson Lunar Prize (as of 2019) |
 | Babelnet Id | 02804322n |
 | Parent Organization Or Unit | China Aerospace Science and Technology Corporation (from 1993-03, until 1998-03), Commission for Science, Technology and Industry for National Defense (from 1998-03, until 2008-03-15), Ministry of Industry and Information Technology of the People's Republic of China (from 2008-03-15) |

@@ -2,7 +2,7 @@
 title: Moscow Polytechnic University
 slug: "moscow-polytechnic-university"
 description: ""
-date: "2026-03-05T22:38:39.299204"
+date: "2026-03-13T08:56:59.239960"
 draft: false
 sectors:
   - university
@@ -18,11 +18,23 @@ tags:
 industries: []
 countries:
   - russia
-  - "russian-empire"
   - "soviet-union"
+  - "russian-empire"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - moscow
+subsidiaries: []
+foundation_dates:
+  - 1865
+  - 1864
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: "education organization in Moscow, Russia"
+wikidata_url: "https://www.wikidata.org/wiki/Q4304083"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4304083) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
+| Foundation Date | [1865](/foundation_dates/1865/); [1864](/foundation_dates/1864/) |
 | Coordinate Location | 55.7812, 37.7116, 55.781547, 37.711268 |
 | Country | Russia, Russian Empire, Soviet Union |
 | Freebase Id | /m/02vlkkf |
@@ -132,7 +152,6 @@ guideline_count: 1
 | Telegram Username | mospolytech |
 | Vk Username | moscowpolytech |
 | Youtube Channel Id | UCJMY2ilUHti99R6ii2PIIYA (as of 2021-08-29, from 2017-01-09) |
-| Logo Image | LogoMospolytech.jpg |
 | Openalex Id | I9115533 |
 | Idref Id | 113986165 |
 | Social Media Followers | 5,070 (as of 2023-08-30), 5,600 (as of 2024-04-28), 6,480 (as of 2025-02-22) |

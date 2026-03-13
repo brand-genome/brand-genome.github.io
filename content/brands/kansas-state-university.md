@@ -2,7 +2,7 @@
 title: Kansas State University
 slug: "kansas-state-university"
 description: ""
-date: "2026-03-05T22:38:39.825746"
+date: "2026-03-13T08:56:59.910111"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1863
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +51,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
+  - secondary
   - primary
   - alternate
-  - secondary
   - wordmark
+  - seal
 brand_colors:
+  - "pantone-7528"
   - white
   - "pantone-268"
+  - purple
   - black
   - gray
-  - purple
-  - "pantone-7528"
 typographies: []
 imagery_styles:
+  - graphic
+  - clean
   - bold
   - contemporary
-  - clean
-  - graphic
 wikidata_description: public university in the state of Kansas
+wikidata_url: "https://www.wikidata.org/wiki/Q31249"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +114,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q31249) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | Coordinate Location | 39.191666666667, -96.580833333333 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Manhattan |
@@ -133,7 +151,6 @@ guideline_count: 1
 | Times Higher Education World University Id | kansas-state-university |
 | Google Maps Customer Id | 965733759715974005 |
 | U Multirank University Id | kansas-state-university |
-| Logo Image | Kansas State University wordmark.svg |
 | Owner Of | Bill Snyder Family Football Stadium, Bramlage Coliseum, Ahearn Field, KKSU, Konza Prairie (+4 more) |
 | Nl Cr Aut Id | ko2010565154, ko2010565155 |
 | Musicbrainz Place Id | f8d5ab60-bd43-421f-92e4-8627300b9b3a |
@@ -153,7 +170,6 @@ guideline_count: 1
 | Crunchbase Organization Id | kansas-state-university |
 | National Library Of Israel J9U Id | 987007601361405171 |
 | Count Of Students | 20,854 (as of 2020-09), 16,835 (as of 2021-09-01) |
-| Employees | 4,781 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | kstate, KState |
@@ -173,3 +189,9 @@ guideline_count: 1
 | Motto Text | Rule by Obeying Nature's Laws |
 | Threads Username | kansasstateuniversity |
 | Athletics Program | Kansas State Wildcats |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,781 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: FINA
 slug: fina
 description: ""
-date: "2026-03-05T22:38:39.826069"
+date: "2026-03-13T08:56:59.910690"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lausanne
+subsidiaries: []
+foundation_dates:
+  - 1908
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,13 +53,15 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - bold
   - dynamic
+  - bold
 wikidata_description: international sport governing body
+wikidata_url: "https://www.wikidata.org/wiki/Q189289"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +104,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q189289) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/) |
+| Foundation Date | [1908](/foundation_dates/1908/) |
 | Topic'S Main Category | Category:World Aquatics |
 | Freebase Id | /m/01tzpv |
 | Viaf Cluster Id | 130554130 |
@@ -111,7 +130,6 @@ guideline_count: 1
 | X (Twitter) Username | fina1908 (from 2010-04-23), WorldAquatics (as of 2023-01-30, from 2010-04-23) |
 | Instagram Username | fina1908, world_aquatics |
 | Detail Map | World Map FINA.svg |
-| Logo Image | FINA logo cropped.svg (until 2022-12-12), World Aquatics logo horizontal 2.svg (from 2017) |
 | Motto Text | Water is our world, United by water |
 | Social Media Followers | 86,561 (as of 2021-01-07), 85,448 (as of 2020-04-19), 90,700 (as of 2021-07-02), 96,868 (as of 2022-02-28), 127,000 (as of 2022-03-18) (+7 more) |
 | Member Of | Global Association of International Sports Federations, Association of Summer Olympic International Federations |

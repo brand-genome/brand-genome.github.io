@@ -2,7 +2,7 @@
 title: Wichita State University
 slug: "wichita-state-university"
 description: ""
-date: "2026-03-05T22:38:39.310492"
+date: "2026-03-13T08:56:59.250639"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1886
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,23 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
   - symbol
 brand_colors:
-  - black
   - yellow
+  - black
 typographies:
-  - bodoni
   - garamond
+  - bodoni
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: "public university in Wichita, Kansas, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q429561"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +120,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q429561) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1886](/foundation_dates/1886/) |
 | Coordinate Location | 37.719166666667, -97.293055555556 |
 | Country | United States |
 | Topic'S Main Category | Category:Wichita State University |
@@ -126,7 +144,6 @@ guideline_count: 1
 | Grid Id | grid.268246.c |
 | Bibliothèque Nationale De France Id | 12388889b |
 | Idref Id | 032967403 |
-| Logo Image | Wichita State University logo.svg |
 | Owner Of | Cessna Stadium, Charles Koch Arena, Eck Stadium, KMUW |
 | Musicbrainz Place Id | 1a856131-7c2f-4c4f-a424-191a435a845f |
 | Microsoft Academic Id (Discontinued) | 39587148 |
@@ -141,7 +158,6 @@ guideline_count: 1
 | Api Endpoint Url | https://shib.wichita.edu/idp/shibboleth |
 | Social Media Followers | 65,170 (as of 2021-01-04), 61,166 (as of 2022-01-27), 62,313 (as of 2023-02-03) |
 | Count Of Students | 14,999 (as of 2020-09), 11,289 (as of 2021-09-01) |
-| Employees | 2,613 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I39587148 |
@@ -155,3 +171,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/8cfa15e2-3608-49bb-8f1e-6344d48ba8c2 |
 | Unirank Id | 5586 |
 | Athletics Program | Wichita State Shockers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,613 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

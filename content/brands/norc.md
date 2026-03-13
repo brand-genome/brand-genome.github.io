@@ -2,7 +2,7 @@
 title: Norc
 slug: norc
 description: ""
-date: "2026-03-05T22:38:39.400233"
+date: "2026-03-13T08:56:59.364827"
 draft: false
 sectors:
   - research
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - science
   - social
+  - science
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "university-of-chicago"
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - alternate
   - primary
   - secondary
-  - stacked
 brand_colors:
   - white
-  - orange
-  - black
   - grey
+  - black
+  - orange
 typographies:
   - roboto
   - "proxima-nova"
 imagery_styles:
-  - bold
   - photography
-  - geometric
   - organic
+  - bold
+  - geometric
 wikidata_description: research center
+wikidata_url: "https://www.wikidata.org/wiki/Q6974659"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6974659) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [University Of Chicago](/headquarters_locations/university-of-chicago/) |
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Country | United States |
 | Headquarters Location | University of Chicago |
 | Inception | 1941 |
@@ -137,6 +156,5 @@ guideline_count: 1
 | Cinii Research Id | 1140563741736142464 |
 | Nacsis Cat Author Id | DA01043643 |
 | Affiliation | University of Chicago |
-| Logo Image | NORC at the University of Chicago official logo.png |
 | Snac Ark Id | w6ms80dr |
 | ‎Yale Lux Id | group/d8d7c790-1019-4d4e-a77a-244c8d708dc9 |

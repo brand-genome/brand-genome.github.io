@@ -2,7 +2,7 @@
 title: Icertis
 slug: icertis
 description: ""
-date: "2026-03-05T22:38:39.793714"
+date: "2026-03-13T08:56:59.846588"
 draft: false
 sectors:
   - software
@@ -20,6 +20,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "contract-management-software"
+  - software
+products: []
+headquarters_locations:
+  - bellevue
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,34 +51,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
   - primary
+  - abstract
 brand_colors:
   - white
   - red
   - "pantone-1788"
-  - black
   - blue
-  - gray
   - "pantone-285"
+  - black
+  - gray
 typographies:
   - helvetica
 imagery_styles:
-  - bold
-  - photography
+  - natural
+  - dynamic
   - staged
+  - professional
+  - photography
+  - candid
   - vibrant
   - graphic
-  - dynamic
-  - professional
   - abstract
-  - candid
-  - natural
+  - bold
 wikidata_description: software company
+wikidata_url: "https://www.wikidata.org/wiki/Q28406980"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -120,6 +135,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28406980) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Contract Management Software](/products_or_materials_produced/contract-management-software/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Bellevue](/headquarters_locations/bellevue/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Inception | 2009 |
 | Product Or Material Produced | software, Contract management software |
 | Crunchbase Organization Id | icertis |

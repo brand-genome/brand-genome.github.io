@@ -2,7 +2,7 @@
 title: Giti Tire
 slug: "giti-tire"
 description: ""
-date: "2026-03-05T22:38:39.234029"
+date: "2026-03-13T08:56:59.177444"
 draft: false
 sectors:
   - tires
@@ -18,9 +18,21 @@ industries: []
 countries:
   - indonesia
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - tire
+products: []
+headquarters_locations:
+  - singapore
+subsidiaries: []
+foundation_dates:
+  - 1951
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Singapore tire company
+wikidata_url: "https://www.wikidata.org/wiki/Q14915570"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q14915570) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Tire](/products_or_materials_produced/tire/) |
+| Headquarters Location | [Singapore](/headquarters_locations/singapore/) |
+| Foundation Date | [1951](/foundation_dates/1951/) |
 | Headquarters Location | Singapore |
 | Product Or Material Produced | tire |
 | Youtube Channel Id | UCZO5F6Mu_DAAjoIaFXZV__A (as of 2020-12-18, from 2014-07-24) |
@@ -78,4 +99,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $924.00M (924,000,000 United States dollar)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $924.00M | - | [500M-1B](/revenue_buckets/500m-1b/) |

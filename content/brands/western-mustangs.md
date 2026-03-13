@@ -2,7 +2,7 @@
 title: Western Mustangs
 slug: "western-mustangs"
 description: ""
-date: "2026-03-05T22:38:39.702872"
+date: "2026-03-13T08:56:59.714851"
 draft: false
 sectors:
   - sports
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,22 +52,24 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - magenta
-  - black
-  - cyan
-  - yellow
   - blue
+  - yellow
   - green
+  - cyan
+  - black
+  - magenta
 typographies:
   - display
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: athletic program of the University of Western Ontario
+wikidata_url: "https://www.wikidata.org/wiki/Q7988133"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,11 +115,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7988133) |
+
+| Property | Value |
+|----------|-------|
 | Represents | Western University |
 | Topic'S Main Category | Category:Western Mustangs |
 | Country | Canada |
 | Ncaa Statistics Program Id | 506443 |
 | Freebase Id | /m/021s1g |
 | Member Of | Ontario University Athletics |
-| Logo Image | Western mustangs wmark.png |
 | Has Part(S) | Western Mustangs men's ice hockey, Western Mustangs women's ice hockey, Western Mustangs football |

@@ -2,17 +2,17 @@
 title: Oculus
 slug: oculus
 description: ""
-date: "2026-03-05T22:38:39.320059"
+date: "2026-03-13T08:56:59.269523"
 draft: false
 sectors:
   - gaming
-  - entertainment
   - hardware
+  - entertainment
 regions:
   - usa
 years:
-  - 2016
   - 2020
+  - 2016
 languages:
   - english
 tags:
@@ -20,15 +20,39 @@ tags:
   - technology
   - entertainment
 industries:
-  - "software-industry"
-  - "virtual-reality-industry"
   - "electronics-industry"
+  - "virtual-reality-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "meta-quest-pro"
+  - "meta-quest-2"
+  - "ray-ban-stories"
+  - "meta-portal"
+  - "oculus-rift-s"
+  - "oculus-go"
+  - "gear-vr"
+  - "meta-quest"
+  - "horizon-worlds"
+  - "oculus-rift"
+products: []
+headquarters_locations:
+  - "menlo-park"
+  - irvine
+  - california
+subsidiaries: []
+foundation_dates:
+  - 2020
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +72,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - abstract
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
   - red
-  - black
   - blue
   - green
+  - black
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - gradient
   - lifestyle
   - abstract
-  - gradient
+  - bold
 wikidata_description: virtual reality technology subsidiary of Meta Platforms (formerly Oculus VR)
+wikidata_url: "https://www.wikidata.org/wiki/Q16321326"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -148,6 +174,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16321326) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Gear Vr](/products_or_materials_produced/gear-vr/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Oculus Rift](/products_or_materials_produced/oculus-rift/) |
+| Headquarters Location | [Menlo Park](/headquarters_locations/menlo-park/); [Irvine](/headquarters_locations/irvine/); [California](/headquarters_locations/california/) |
+| Foundation Date | [2020](/foundation_dates/2020/) |
 | Headquarters Location | Irvine, Menlo Park, California |
 | Country | United States |
 | Inception | 2020 |
@@ -165,7 +198,6 @@ guideline_count: 2
 | Topic'S Main Category | Category:Oculus VR |
 | Industry | virtual reality industry, electronics industry, software industry |
 | Microsoft Academic Id (Discontinued) | 1297596422 |
-| Employees | 17,000 (as of 2022) |
 | Official Name | Reality Labs |
 | Downdetector Id | oculus |
 | Service Status Information Url | https://support.oculus.com/status/ |
@@ -177,10 +209,17 @@ guideline_count: 2
 | Director / Manager | Andrew Bosworth |
 | Google Knowledge Graph Id | /g/11rqky8xzn |
 | Vgc Company Id | 2762 |
-| Logo Image | Reality Labs logo.svg |
 | Founded By | Palmer Luckey |
 
 ### Revenue History
 
-- $1.90B (1,896,000,000 United States dollar (as of 2023))
-- $2.16B (2,159,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.90B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.16B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 17,000 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

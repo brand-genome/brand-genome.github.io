@@ -2,7 +2,7 @@
 title: Virgin America
 slug: "virgin-america"
 description: ""
-date: "2026-03-05T22:38:39.815555"
+date: "2026-03-13T08:56:59.884793"
 draft: false
 sectors:
   - airline
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - airline
   - transport
+  - airline
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - burlingame
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,26 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
-  - wordmark
   - stacked
+  - wordmark
 brand_colors:
   - white
   - black
 typographies: []
 imagery_styles:
-  - bold
+  - clean
+  - landscape
   - playful
   - colorful
-  - landscape
-  - clean
+  - bold
 wikidata_description: airline in the United States
+wikidata_url: "https://www.wikidata.org/wiki/Q645084"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -361,6 +374,12 @@ BRAND PERSONALITY
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q645084) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Burlingame](/headquarters_locations/burlingame/) |
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Country | United States |
 | Freebase Id | /m/03bwrn |
 | Iata Airline Designator | VX (from 2004) |
@@ -374,7 +393,6 @@ BRAND PERSONALITY
 | Image | Airbus A319-112, Virgin America AN1387818.jpg |
 | Reward Program | Mileage Plan (from 2018) |
 | Parent Organization Or Unit | Virgin Group |
-| Logo Image | Virgin America logo.svg |
 | Founded By | Richard Branson |
 | Headquarters Location | Burlingame |
 | Airline Accounting Code | 984 |

@@ -2,7 +2,7 @@
 title: King Saud University
 slug: "king-saud-university"
 description: ""
-date: "2026-03-05T22:38:39.457684"
+date: "2026-03-13T08:56:59.404103"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "saudi-arabia"
 years:
-  - 2014
   - 2015
+  - 2014
 languages:
   - english
   - arabic
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +58,15 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: University in Saudi Arabia
+wikidata_url: "https://www.wikidata.org/wiki/Q1752043"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -219,6 +232,11 @@ Introduction to our visual identity and logo structure, emphasizing consistency 
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1752043) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Topic'S Main Category | Category:King Saud University |
 | Coordinate Location | 24.722, 46.627 |
 | Freebase Id | /m/02rxqb |
@@ -251,7 +269,6 @@ Introduction to our visual identity and logo structure, emphasizing consistency 
 | Named After | Saud of Saudi Arabia (from 1982) |
 | Motto Text | اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ |
 | Count Of Students | 61,412 (as of 2013) |
-| Employees | 6,322 (as of 2013) |
 | Member Of | list of Members of FUIW |
 | X (Twitter) Username | _ksu (as of 2020-04-28, from 2009-01-12), _KSU |
 | Api Endpoint Url | http://SSO.ksu.edu.sa/adfs/services/trust |
@@ -278,3 +295,9 @@ Introduction to our visual identity and logo structure, emphasizing consistency 
 | Scimago Institutions Rankings Id | 83459 |
 | ‎Yale Lux Id | group/0376969e-79ca-42f5-97c8-e658543c34f8 |
 | Snarc Id | Q159553 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,322 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |

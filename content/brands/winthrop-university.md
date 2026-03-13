@@ -2,7 +2,7 @@
 title: Winthrop University
 slug: "winthrop-university"
 description: ""
-date: "2026-03-05T22:38:39.548119"
+date: "2026-03-13T08:56:59.473536"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1886
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,20 +50,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
-  - stacked
   - logomark
+  - secondary
+  - primary
+  - stacked
+  - horizontal
 brand_colors:
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Rock Hill, South Carolina, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q8026588"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +109,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8026588) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1886](/foundation_dates/1886/) |
 | Coordinate Location | 34.9408, -81.0313 |
 | Country | United States |
 | Topic'S Main Category | Category:Winthrop University |
@@ -122,7 +140,6 @@ guideline_count: 1
 | Freebase Id | /m/05hgkc |
 | Crunchbase Organization Id | winthrop-university |
 | Count Of Students | 5,576 (as of 2020-09), 4,314 (as of 2021-09-01) |
-| Employees | 1,034 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I169086405 |
@@ -137,3 +154,9 @@ guideline_count: 1
 | Unirank Id | 6571 |
 | Threads Username | winthropu |
 | Athletics Program | Winthrop Eagles |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,034 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

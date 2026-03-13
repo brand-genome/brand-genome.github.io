@@ -2,16 +2,16 @@
 title: Egnyte
 slug: egnyte
 description: ""
-date: "2026-03-05T22:38:39.219628"
+date: "2026-03-13T08:56:59.156530"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
-  - 2021
   - 2023
+  - 2021
 languages:
   - english
 tags:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "mountain-view"
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,13 +52,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
+  - vertical
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - vertical
 brand_colors:
   - white
 typographies:
@@ -55,10 +66,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: American software company
+wikidata_url: "https://www.wikidata.org/wiki/Q5348136"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,9 +122,14 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5348136) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/) |
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Headquarters Location | Mountain View |
 | Inception | 2007 |
-| Logo Image | Egnyte-logo-highres.png |
 | Quora Topic Id | Egnyte |
 | Freebase Id | /m/0dgq002 |
 | Crunchbase Organization Id | egnyte |

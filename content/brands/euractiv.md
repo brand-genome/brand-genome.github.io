@@ -2,7 +2,7 @@
 title: Euractiv
 slug: euractiv
 description: ""
-date: "2026-03-05T22:38:39.376844"
+date: "2026-03-13T08:56:59.336544"
 draft: false
 sectors:
   - publishing
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,28 +49,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
   - white
   - grey
-  - black
-  - yellow
-  - blue
   - navy
+  - blue
+  - yellow
+  - black
 typographies:
-  - "open-sans"
-  - gotham
   - verdana
+  - gotham
+  - "open-sans"
   - arial
 imagery_styles:
   - bold
 wikidata_description: European news website
+wikidata_url: "https://www.wikidata.org/wiki/Q1310000"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,13 +123,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1310000) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Inception | 1999 |
 | Coordinate Location | 50.84461212, 4.38241196 |
 | Quora Topic Id | EurActiv |
 | Headquarters Location | City of Brussels |
 | Grid Id | grid.479184.7, grid.424785.8 |
 | Language Of Work Or Name | English, French, German, Spanish, Italian (+7 more) |
-| Logo Image | Euractiv logo.svg |
 | Ror Id | 03m6vhh37, 00wc35a22 |
 | Google News Publication Id | CAAqJggKIiBDQklTRWdnTWFnNEtER1YxY21GamRHbDJMbU52YlNnQVAB |
 | Oclc Number | 1088501716 |

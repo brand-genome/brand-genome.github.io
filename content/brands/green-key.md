@@ -2,7 +2,7 @@
 title: Green Key
 slug: "green-key"
 description: ""
-date: "2026-03-05T22:38:39.701921"
+date: "2026-03-13T08:56:59.713854"
 draft: false
 sectors:
   - ngo
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1921
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "Established in 1921, the Green Key Society is an honorary service organization at Dartmouth College. Green Key helps to run traditional Dartmouth events as First-Year Orientation, the Bonfire, Commencement, Green Key Weekend, and many other events."
+wikidata_url: "https://www.wikidata.org/wiki/Q105716234"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +116,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105716234) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1921](/foundation_dates/1921/) |
 | Country | United States |
 | Inception | 1921 |
 | Located In The Administrative Territorial Entity | Hanover |

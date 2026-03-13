@@ -2,257 +2,442 @@
 title: Facebook
 slug: facebook
 description: ""
-date: "2026-03-05T22:38:39.150658"
+date: "2026-03-13T08:56:59.092324"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:
-  - 2016
   - 2019
+  - 2016
 languages:
   - english
 tags:
-  - app
-  - featured
   - internet
   - software
+  - app
+  - featured
 industries: []
 countries: []
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2004
 lightings:
+  - natural
   - studio
+  - colored
+  - "light-glare"
   - soft
   - moderate
-  - light
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - light
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "galaxy-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - bright
-  - dark
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "galaxy-colors"
+  - monotone
+  - grayscale
+  - dark
+  - light
+  - bright
 photography_genres:
-  - indoor
-  - audience
-  - selfie
-  - conceptual
-  - landscape
-  - botanical
-  - promotional
-  - product
-  - industrial
-  - text
-  - illustration
-  - interior
-  - abstract
-  - advertising
-  - sports
-  - candid
-  - "live-stage"
-  - action
-  - group
-  - event
-  - advertisement
-  - fashion
-  - sky
-  - "text-heavy"
-  - cartoon
+  - "event-photography"
+  - staged
   - corporate
-  - typography
+  - product
+  - promotional
   - "graphic-design"
   - exhibition
-  - portrait
-  - beauty
-  - staged
-  - "event-photography"
-  - branding
-  - "social-media"
-  - "still-life"
-concepts:
+  - abstract
+  - audience
+  - selfie
+  - indoor
   - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
+  - "live-stage"
+  - sports
+  - "social-media"
+  - sky
+  - fashion
+  - group
+  - advertising
+  - advertisement
   - typography
-  - "graphic-design"
-  - "wave-pattern"
+  - beauty
+  - portrait
+  - "text-heavy"
+  - interior
+  - landscape
+  - illustration
+  - conceptual
+  - candid
+  - branding
+  - text
+  - "still-life"
+  - industrial
+  - botanical
+  - event
+  - action
+concepts:
+  - "text-heavy"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
-image_effects:
-  - "low-saturation"
+  - "bokeh-effect"
+  - "partly-focused-subject"
+  - "close-up-shot"
   - "bright-focal-point"
-  - "neutral-density-filter"
-  - silhouette
-  - "dark-focal-point"
-  - "high-contrast"
-  - "high-saturation"
-  - symmetrical
-  - "motion-capture"
-  - asymmetry
-  - "motion-blur"
-  - "long-exposure"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
+image_effects:
   - "short-exposure"
+  - "motion-capture"
+  - "dark-focal-point"
+  - "high-saturation"
   - "vanishing-point"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "motion-blur"
+  - symmetrical
+  - "bright-focal-point"
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "dark-green"
-  - "dark-blue"
-  - black
   - blue
-  - turquoise
-  - gray
   - purple
+  - "dark-blue"
+  - turquoise
+  - black
+  - gray
+  - "dark-green"
 color_tones:
   - cool
 hair_styles:
-  - flowing
-  - casual
-  - wavy
-  - loose
-  - updo
-  - "tied-back"
-  - beard
-  - dyed
-  - straight
-  - ponytail
-  - curly
   - red
-  - braided
-  - short
   - varied
-  - covered
-  - "pulled-back"
-  - neat
+  - ponytail
   - black
   - long
-facial_expressions:
-  - joyful
-  - smiling
-  - engaged
-  - relaxed
-  - neutral
-  - content
-  - focused
-  - contemplative
-clothing_styles:
+  - neat
+  - beard
+  - "tied-back"
+  - curly
+  - braided
+  - updo
+  - "pulled-back"
+  - flowing
+  - straight
+  - covered
+  - dyed
   - casual
-  - athletic
-  - "form-fitting"
+  - loose
+  - short
+  - wavy
+facial_expressions:
+  - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
+  - contemplative
+  - smiling
+  - content
+clothing_styles:
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
   - business
   - costume
-  - protective
-  - formal
-  - swimwear
-  - traditional
-  - "business-casual"
 clothing_colors:
-  - vibrant
-  - neutral
-  - monochrome
-  - earthy
-  - colorful
   - pink
   - pastel
+  - neutral
+  - monochrome
+  - vibrant
+  - colorful
+  - earthy
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
-  - running
   - stretching
-  - static
   - confident
-gazes:
+  - active
+  - leaning
+  - running
+  - static
+  - walking
+  - relaxed
   - engaged
-  - away
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "lower-half"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements:
   - icon
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
-  - roboto
   - helvetica
+  - roboto
 imagery_styles:
   - photography
 wikidata_description: American online social media and social networking service
+wikidata_url: "https://www.wikidata.org/wiki/Q355"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 284
 guideline_count: 3
+sample_image_urls:
+  - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FR74_V2XoAENQbX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJkR9sSXsAguOea?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXaPbBBWQAcLW3W?format=png&name=large"
+  - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FL0gGXQWQAAA_IE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETgCpdVU8AULyMX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUVvOwIXsAE8xWf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJfKIYAWYAc2q1S?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFtIJ_cWYAMJDUd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECep6rBWwAASG4a?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyfN_4eVEAEHz_y?format=png&name=large"
+  - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKsbCPqWUAYdAEt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKnOdgOX0Ao32lp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ek35H5tUYAArTDb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbYBMN-U0AEM87j?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPHSW55XwAQVW7l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FA4wQ8rUYAYoOi0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FE-4cA0XoAUyhNZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKiExZeWUAkjvAZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVzqc_BUcAA7Vj-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1uNl7_X0AEt5ZA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FCfLJX-XsAAI2uE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGrBLAXXMAIC9Di?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
+  - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECQ6NpfXYAA7JUs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM3eY8bX0AACKex?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8SfbAzXEAAsNit?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOErfkoXoAQx7ec?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBnZoanUcAAE0QT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEDxuAEW4AAT4VT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FN6tqvdWUAAHF2U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FN_jp3RXMAA8NTN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM8lGIUWUAUiQ2n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FS-wdvaXEAAiQk4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLqM4CLXEAk2jMa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FS_PAt9XoAc3Rfr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FLvWjX5WQAIyIHr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdIzxLxXoAAyTHY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
+  - "https://pbs.twimg.com/media/EdAzKuOWkAIB4aO?format=png&name=large"
+  - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egr6XDqU8AA0gSP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ednh-GaWAAQCvHE?format=png&name=large"
+  - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Egch4xFWoAUOBr_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+  - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdEL5S0U0AEjV_H?format=png&name=large"
+  - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FA-AZlpVEAcasfT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FZGVwM2XEAoM-5Y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+  - "https://pbs.twimg.com/media/DxNaqG1UwAAAsog?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+  - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EXHJRinXYAc9NoY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FDS0cfLVQAAaW49?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsXpajpUUAE1aNK?format=png&name=large"
+  - "https://pbs.twimg.com/media/FSlsS1gWYAsNT_q?format=png&name=large"
+  - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWDfts7UEAAsX1v?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FU5_uIjWYAIIrNh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D848ttpVsAE8C6Y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EalXrDMUEAAulBb?format=png&name=large"
+  - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjPe__bXYAA03lb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+  - "https://pbs.twimg.com/media/FIhzqwuXIAAykXB?format=png&name=large"
+  - "https://pbs.twimg.com/media/FJfzbQTXsAoy6de?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjQdUelUcAA1VUd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbIlJv4UcAEYOFi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FS6bDPvWQAEA_Mq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FFYaswxWYAI4GF1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EjP_TcPUYAEzi7_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ErpaK7rWMAAuxR6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EpdVqOPUcAAlhEN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsInAXRXIAIA5C_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EP4S1u4VAAMOemU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E8n0sc4VIAEXAZ-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ee0SOzTUYAEzSCv?format=png&name=large"
+  - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUw2C2pXsAAo5KM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+  - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+  - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FTekTR-WUAE2j0a?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXom_EQUsAINBtB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVzK04tUcAIHQPa?format=png&name=large"
+  - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FR32ExHXwAAjPqF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FOY0ksJXEAArbu5?format=png&name=large"
+  - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdDKUGTWoAAfsK4?format=png&name=large"
+  - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FE5Uy4sXMAc_mmi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EERb6xjVUAAOCAa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
+  - "https://pbs.twimg.com/media/E6_Vqv7UUAE7PNt?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eme8sOPUcAEaCbE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D1Hcu0kUYAA_dga?format=png&name=large"
+  - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -333,24 +518,24 @@ guideline_count: 3
 ### Color Analysis
 *Statistics computed across 284 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Blue | 37.2% | 40.5% | 16.2% | 47.0% | 72.6% | ±25.0% | 27.1% |
-| Black | 34.1% | 23.1% | 11.6% | 53.7% | 76.8% | ±27.3% | 47.5% |
-| Dark Blue | 31.5% | 24.1% | 10.0% | 46.4% | 70.3% | ±24.5% | 43.7% |
-| White | 29.1% | 12.7% | 9.6% | 35.0% | 90.1% | ±30.6% | 39.4% |
-| Dark Green | 25.6% | 31.7% | 14.6% | 32.5% | 34.8% | ±11.4% | 13.7% |
-| Turquoise | 19.4% | 7.4% | 6.9% | 25.0% | 46.6% | ±22.7% | 19.0% |
-| Purple | 18.8% | 18.4% | 8.1% | 22.4% | 35.4% | ±10.9% | 27.1% |
-| Gray | 18.8% | 13.9% | 11.4% | 20.4% | 25.4% | ±15.0% | 13.0% |
+| Color | Mean |
+|-------|------|
+| Blue | 37.2% |
+| Black | 34.1% |
+| Dark Blue | 31.5% |
+| White | 29.1% |
+| Dark Green | 25.6% |
+| Turquoise | 19.4% |
+| Purple | 18.8% |
+| Gray | 18.8% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 8.0% | 0.0% | 0.0% | 6.6% | ±21.5% |
-| Neutral | 41.0% | 27.3% | 0.0% | 82.9% | ±38.5% |
-| Cool | 51.0% | 56.1% | 8.1% | 91.5% | ±39.0% |
+| Tone | Mean |
+|------|------|
+| Warm | 8.0% |
+| Neutral | 41.0% |
+| Cool | 51.0% |
 
 ### Sample Images
 
@@ -460,6 +645,11 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q355) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2004](/foundation_dates/2004/) |
 | Owned By | Meta |
 | Named After | face book |
 | Inception | 2004-02-04 |
@@ -572,7 +762,6 @@ guideline_count: 3
 | Itv News Topic Id | facebook |
 | Bing Entity Id | 4bc8f781-7083-d1a0-f781-9466e0eb62e7 |
 | Libération Topic Id | facebook |
-| Logo Image | 2023 Facebook icon.svg (from 2023), 2021 Facebook icon.svg (from 2019, until 2023), F icon.svg (until 2019) |
 | Le Monde Id | facebook |
 | New York Post Topic Id | facebook |
 | Domain Name | facebook.com, thefacebook.com, fb.com, facebook.net, fb.me |
@@ -584,7 +773,6 @@ guideline_count: 3
 | Tf1 Info Topic Id | 10157 |
 | Openstreetmap Key | contact:facebook, facebook |
 | Number Of Volunteers | 9 (as of 2015) |
-| Employees | 0 (as of 2015) |
 | Member Count | 9 (as of 2015) |
 | Know Your Meme Slug | facebook-meta (as of 2025-10-26) |
 | Nla Trove People Id | 1502956 |
@@ -596,4 +784,12 @@ guideline_count: 3
 
 ### Revenue History
 
-- $122.00 (122 euro (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $122.00 | as of 2015 | [UNDER-1M](/revenue_buckets/under-1m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 0 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |

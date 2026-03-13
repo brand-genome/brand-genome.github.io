@@ -2,16 +2,16 @@
 title: Mahindra Rise
 slug: "mahindra-rise"
 description: ""
-date: "2026-03-05T22:38:39.801452"
+date: "2026-03-13T08:56:59.856645"
 draft: false
 sectors:
+  - hospitality
   - automobile
+  - "real-estate"
+  - "renewable-energy"
+  - defense
   - consulting
   - finance
-  - defense
-  - "real-estate"
-  - hospitality
-  - "renewable-energy"
 regions:
   - india
 years:
@@ -27,7 +27,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - mumbai
+subsidiaries: []
+foundation_dates:
+  - 1945
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,25 +59,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - red
-  - orange
   - grey
+  - orange
 typographies:
   - arial
 imagery_styles:
-  - bold
+  - natural
   - modern
   - clean
-  - natural
+  - bold
 wikidata_description: Indian multinational automobile manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q848059"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -1018,6 +1033,13 @@ and has served over 2.5 million customers.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q848059) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Mumbai](/headquarters_locations/mumbai/) |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Freebase Id | /m/027gnm6 |
 | Headquarters Location | Mumbai |
 | Topic'S Main Category | Category:Mahindra and Mahindra |
@@ -1025,7 +1047,6 @@ and has served over 2.5 million customers.
 | Gnd Id | 10182018-5 |
 | Viaf Cluster Id | 155792297 |
 | Inception | 1945-10-02 |
-| Employees | 64,992 (as of 2024) |
 | Facebook Username | MahindraRise |
 | Industry | automotive industry |
 | Owned By | Life Insurance Corporation of India (as of 2024-03-31) |
@@ -1045,7 +1066,6 @@ and has served over 2.5 million customers.
 | Social Media Followers | 1,311,797 (as of 2021-01-06), 1,301,159 (as of 2020-03-31), 1,312,968 (as of 2022-02-27), 1,311,104 (as of 2023-02-07) |
 | Crunchbase Organization Id | mahindra-mahindra |
 | Ringgold Id | 472397 |
-| Logo Image | Mahindra Auto.png |
 | Legal Entity Identifier | 3358003B573EV4KB4Z02 |
 | Location Of Formation | Ludhiana |
 | Part Of | Mahindra Group |
@@ -1055,4 +1075,12 @@ and has served over 2.5 million customers.
 
 ### Net Profit History
 
-- $6.70B (6,700,000,000 United States dollar (as of 2008))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $6.70B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 64,992 | as of 2024 | [50K-100K](/employees_buckets/50k-100k/) |

@@ -2,7 +2,7 @@
 title: Leipzig University of Applied Sciences
 slug: "leipzig-university-of-applied-sciences"
 description: ""
-date: "2026-03-05T22:38:39.284645"
+date: "2026-03-13T08:56:59.226910"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - leipzig
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university of Applied Sciences
+wikidata_url: "https://www.wikidata.org/wiki/Q1622216"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1622216) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Leipzig](/headquarters_locations/leipzig/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Country | Germany |
 | Viaf Cluster Id | 122672614 |
 | Library Of Congress Authority Id | no96004313 |
@@ -72,7 +92,6 @@ guideline_count: 1
 | Gnd Id | 2125894-6 |
 | Member Of | Verein zur Förderung eines Deutschen Forschungsnetzes, German Rectors' Conference, Deutscher Dialogmarketing Verband, German University Sports Federation, European University Association (+1 more) |
 | Grid Id | grid.448945.0 |
-| Employees | 543 (as of 2015-12-31), 179 (as of 2015-12-31), 558 (as of 2016-12-31), 182 (as of 2016-12-31), 552 (as of 2017-12-31) (+4 more) |
 | Official Name | Hochschule für Technik, Wirtschaft und Kultur Leipzig |
 | Motto Text | Technik, Wirtschaft und Kultur – Wissen schafft Verbindung |
 | Rector | Hubertus Milke (from 2006, until 2011), Renate Lieckfeldt (from 2011, until 2013), Gesine Grande (from 2014, until 2019), Mark Mietzner (from 2019, until 2024), Jean-Alexander Müller (from 2024) |
@@ -115,3 +134,17 @@ guideline_count: 1
 | Count Of Students | 4,582 (as of 1998), 4,991 (as of 1999), 4,922 (as of 2000), 5,134 (as of 2001), 5,641 (as of 2002) (+23 more) |
 | Youtube Handle | htwkleipzig (as of 2025-10-20) |
 | Threads Username | htwkleipzig |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 543 | as of 2015-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 179 | as of 2015-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 558 | as of 2016-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 182 | as of 2016-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 552 | as of 2017-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 179 | as of 2017-12-31 | [100-1K](/employees_buckets/100-1k/) |
+| 577 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 603 | as of 2020-03-31 | [100-1K](/employees_buckets/100-1k/) |
+| 178 | as of 2020-03-31 | [100-1K](/employees_buckets/100-1k/) |

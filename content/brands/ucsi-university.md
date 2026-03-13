@@ -2,7 +2,7 @@
 title: UCSI University
 slug: "ucsi-university"
 description: ""
-date: "2026-03-05T22:38:39.503863"
+date: "2026-03-13T08:56:59.427489"
 draft: false
 sectors:
   - university
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,28 +49,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - primary
   - symbol
-  - secondary
   - horizontal
   - signature
 brand_colors:
   - white
   - red
-  - orange
   - black
+  - orange
 typographies:
-  - roboto
   - "open-sans"
+  - roboto
   - arial
 imagery_styles:
-  - bold
   - duotone
+  - bold
 wikidata_description: private university in Malaysia
+wikidata_url: "https://www.wikidata.org/wiki/Q7864125"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -540,13 +552,17 @@ ucsiuniversity.edu.my/ucsi-ci
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7864125) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Inception | 1986 |
 | Quora Topic Id | UCSI-University |
 | Country | Malaysia |
 | Located In The Administrative Territorial Entity | Kuala Lumpur |
 | Grid Id | grid.444472.5 |
 | Qs World University Id | ucsi-university |
-| Logo Image | UCSI University logo.png |
 | Microsoft Academic Id (Discontinued) | 55285296 |
 | Library Of Congress Authority Id | n2016228237 |
 | Ror Id | 019787q29 |

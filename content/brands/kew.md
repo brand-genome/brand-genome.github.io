@@ -2,12 +2,12 @@
 title: Kew
 slug: kew
 description: ""
-date: "2026-03-05T22:38:39.771242"
+date: "2026-03-13T08:56:59.822295"
 draft: false
 sectors:
   - research
-  - "arts-culture"
   - tourism
+  - "arts-culture"
 regions:
   - "united-kingdom"
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - kew
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +64,12 @@ imagery_styles:
   - natural
   - vibrant
 wikidata_description: government botanical research institute in the UK
+wikidata_url: "https://www.wikidata.org/wiki/Q18748726"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18748726) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Kew](/headquarters_locations/kew/) |
 | Country | United Kingdom |
 | Topic'S Main Category | Category:Royal Botanic Gardens, Kew |
 | Chairperson | Marcus Agius (from 2010, until 2019), Amelia Fawcett (from 2019), John Palmer, 4th Earl of Selborne (from 2003, until 2009) |
@@ -142,9 +160,13 @@ guideline_count: 1
 | Encyclopedia Of China (Third Edition) Id | 406304 |
 | Uk Parliament Thesaurus Id | 66951 |
 | Kalliope Verbund (Gnd) Id | 1018641-4 |
-| Logo Image | Kew Royal Botanic Gardens logo.png |
 | ‎Yale Lux Id | group/2a8ed886-afb4-4008-b017-80457b1cee9a |
-| Employees | 1,100 |
 | Heritage Designation | World Heritage Site |
 | World Heritage Criteria | (ii), (iii), (iv) |
 | World Heritage Site Id | 1084 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,100 | - | [1K-10K](/employees_buckets/1k-10k/) |

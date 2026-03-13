@@ -2,17 +2,17 @@
 title: HKUST
 slug: hkust
 description: ""
-date: "2026-03-05T22:38:39.350731"
+date: "2026-03-13T08:56:59.301823"
 draft: false
 sectors:
   - university
 regions:
   - "hong-kong"
 years:
-  - 2018
   - 2019
   - 2022
   - 2020
+  - 2018
 languages:
   - english
   - chinese
@@ -24,6 +24,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,31 +52,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - monogram
+  - primary
   - secondary
 brand_colors:
-  - "pantone-124"
-  - "pantone-295"
-  - gold
-  - yellow
   - blue
+  - "pantone-295"
+  - yellow
+  - gold
   - "pantone-647"
   - "pantone-285"
+  - "pantone-124"
   - "pantone-872"
 typographies:
+  - futura
   - avenir
   - arial
-  - futura
 imagery_styles:
   - photography
-  - staged
   - natural
+  - staged
 wikidata_description: "public research university in Clear Water Bay, Hong Kong"
+wikidata_url: "https://www.wikidata.org/wiki/Q1333303"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -213,6 +225,11 @@ will help strengthen the credibility and overall recognition of HKUST.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1333303) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Coordinate Location | 22.3375, 114.263 |
 | Topic'S Main Category | Category:Hong Kong University of Science and Technology |
 | Freebase Id | /m/01npv3 |

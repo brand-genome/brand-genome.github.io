@@ -2,7 +2,7 @@
 title: Western Sydney University
 slug: "western-sydney-university"
 description: ""
-date: "2026-03-05T22:38:39.763053"
+date: "2026-03-13T08:56:59.812288"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Sydney, Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q1141452"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1141452) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Topic'S Main Category | Category:Western Sydney University |
 | Coordinate Location | -33.609245, 150.754028 |
 | Freebase Id | /m/01s8v2 |
@@ -89,8 +107,6 @@ guideline_count: 1
 | Times Higher Education World University Id | western-sydney-university |
 | Google Maps Customer Id | 15569271498577263606 |
 | U Multirank University Id | western-sydney-university |
-| Logo Image | Western Sydney University logo.png |
-| Employees | 2,500 |
 | Ringgold Id | 6489 |
 | X (Twitter) Username | westernsydneyu (as of 2020-04-24, from 2013-11-18) |
 | Facebook Username | westernsydneyu |
@@ -119,3 +135,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/bb11bf58-bc6a-4766-96f2-06e56f6aeae9 |
 | World Higher Education Database Id | IAU-020636 |
 | Sam Id | XBKXT4MA4MF5 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,500 | - | [1K-10K](/employees_buckets/1k-10k/) |

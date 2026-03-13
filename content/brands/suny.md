@@ -2,7 +2,7 @@
 title: SUNY
 slug: suny
 description: ""
-date: "2026-03-05T22:38:39.797654"
+date: "2026-03-13T08:56:59.850816"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - albany
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "public university system in the state of New York, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1140241"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +88,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1140241) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Albany](/headquarters_locations/albany/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Topic'S Main Category | Category:State University of New York |
 | Image | SUNYAdminBuildingAlbany.jpg |
 | Freebase Id | /m/0p0hd |
@@ -137,7 +156,6 @@ guideline_count: 1
 | Official Blog Url | https://blog.suny.edu/ |
 | Linkedin Company Or Organization Id | state-university-of-new-york |
 | Golden Id | State_University_of_New_York |
-| Logo Image | SUNY brandmark.svg |
 | Uk Parliament Thesaurus Id | 395148 |
 | Cantic Id | 981058514860106706 |
 | Openalex Id | I1327163397, P4310315898 |

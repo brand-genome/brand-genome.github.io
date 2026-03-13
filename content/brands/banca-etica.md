@@ -2,7 +2,7 @@
 title: Banca Etica
 slug: "banca-etica"
 description: ""
-date: "2026-03-05T22:38:39.311600"
+date: "2026-03-13T08:56:59.252297"
 draft: false
 sectors:
   - finance
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - padua
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies:
 imagery_styles:
   - photography
 wikidata_description: cooperative
+wikidata_url: "https://www.wikidata.org/wiki/Q1152702"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -86,13 +99,18 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1152702) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Padua](/headquarters_locations/padua/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Viaf Cluster Id | 145824468 |
 | Inception | 1999-01-01 |
 | Location Of Formation | Padua |
 | Headquarters Location | Padua |
 | Library Of Congress Authority Id | no2010077605 |
 | Country | Italy |
-| Logo Image | Logo-bancaetica.svg |
 | Legal Entity Identifier | 549300DI8RATWW2KQO25 |
 | Member Of | European Federation of Ethical and Alternative Banks |
 | Google Knowledge Graph Id | /g/122np4y7 |
@@ -100,7 +118,7 @@ guideline_count: 1
 | Facebook Username | bancaetica (from 2014-02-24) |
 | Street Address | Via Niccolò Tommaseo, 7, Padova (PD), Italia, 35131 |
 | Phone Number | 800893233, 800 893 233, +39 049 8771111, +39 049 672 0012 |
-| Email Address | mailto:info@bancaetica.com |
+| Email Address | info@bancaetica.com |
 | Linkedin Company Or Organization Id | banca-etica |
 | Youtube Channel Id | UCME7zaj-S4aQelEKgfPXJVw (as of 2024-04-14, from 2011-12-07) |
 | Child Organization Or Unit | Etica Funds, FIARE |

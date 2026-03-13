@@ -2,7 +2,7 @@
 title: Royal British Legion
 slug: "royal-british-legion"
 description: ""
-date: "2026-03-05T22:38:39.408555"
+date: "2026-03-13T08:56:59.369353"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1921
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: veterans support organisation in the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q1621811"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -61,6 +75,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1621811) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1921](/foundation_dates/1921/) |
 | X (Twitter) Username | PoppyLegion (as of 2018-05-10, from 2009-09-14) |
 | Instagram Username | royalbritishlegion |
 | Facebook Username | OfficialPoppyLegion |
@@ -89,7 +109,6 @@ guideline_count: 1
 | Image | The Royal British Legion, Birkenhead.jpg, Kings Norton Royal British Legion Youth Marching Band 2006.jpg |
 | Short Name | RBL |
 | Donations | 94,082,000 pound sterling (as of 2016), 96,569,000 pound sterling (as of 2018), 92,733,000 pound sterling (as of 2017), 101,317,000 pound sterling (as of 2019), 87,117,000 pound sterling (as of 2020) (+4 more) |
-| Employees | 1,414 (as of 2016), 1,586 (as of 2018), 1,514 (as of 2017), 1,708 (as of 2019), 1,675 (as of 2020) (+1 more) |
 | Number Of Volunteers | 120,000 (as of 2016), 55,000 (as of 2020) |
 | Exact Match | https://findthatcharity.uk/orgid/XI-ROR-04edktq70 |
 | Bbc Things Id | 27ef465e-80ce-4a44-b2d6-3c299a550058 |
@@ -102,12 +121,25 @@ guideline_count: 1
 
 ### Revenue History
 
-- $151.26M (151,256,000 pound sterling (as of 2016))
-- $163.18M (163,178,000 pound sterling (as of 2018))
-- $159.17M (159,174,000 pound sterling (as of 2017))
-- $175.88M (175,883,000 pound sterling (as of 2019))
-- $143.11M (143,114,000 pound sterling (as of 2020))
-- $137.36M (137,359,000 pound sterling (as of 2021))
-- $153.53M (153,527,000 pound sterling (as of 2022))
-- $147.06M (147,061,000 pound sterling (as of 2023))
-- $160.71M (160,711,000 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $151.26M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $163.18M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $159.17M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $175.88M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $143.11M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $137.36M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $153.53M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $147.06M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $160.71M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,414 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,586 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,514 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,708 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,675 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,774 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |

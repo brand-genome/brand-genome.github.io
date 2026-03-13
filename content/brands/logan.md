@@ -2,7 +2,7 @@
 title: Logan
 slug: logan
 description: ""
-date: "2026-03-05T22:38:39.765741"
+date: "2026-03-13T08:56:59.816712"
 draft: false
 sectors:
   - education
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +54,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "airport in Boston, Massachusetts, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q671475"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,6 +101,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q671475) |
+
+| Property | Value |
+|----------|-------|
 | Named After | Edward Lawrence Logan, Boston |
 | Iata Airport Code | BOS |
 | Icao Airport Code | KBOS |
@@ -114,7 +129,6 @@ guideline_count: 1
 | Significant Event | aviation accident (as of 1960-10-04), aviation accident (as of 1973-07-31), aviation accident (as of 1982-01-23) |
 | Page Banner | BOS Banner.jpg |
 | Google Maps Customer Id | 906231515794198852 |
-| Logo Image | Boston Logan logo.png |
 | X (Twitter) Username | BostonLogan (as of 2020-04-25, from 2008-10-21) |
 | Patronage | 26,415,593 (as of 1998-01-01), 27,052,078 (as of 1999-01-01), 27,412,926 (as of 2000-01-01), 24,199,930 (as of 2001-01-01), 22,696,141 (as of 2002-01-01) (+22 more) |
 | Social Media Followers | 50,187 (as of 2021-01-10), 50,750 (as of 2020-04-25), 50,952 (as of 2022-02-21), 52,151 (as of 2023-02-09) |

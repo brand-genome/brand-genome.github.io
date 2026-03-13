@@ -2,7 +2,7 @@
 title: Utah Valley University
 slug: "utah-valley-university"
 description: ""
-date: "2026-03-05T22:38:39.117309"
+date: "2026-03-13T08:56:59.065132"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1941
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Orem, Utah, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q940919"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q940919) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1941](/foundation_dates/1941/) |
 | Coordinate Location | 40.277777777778, -111.71388888889 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Orem |
@@ -84,7 +102,6 @@ guideline_count: 1
 | X (Twitter) Username | UVU (as of 2020-04-27, from 2009-06-24) |
 | Grid Id | grid.267677.5 |
 | Category For Employees Of The Organization | Category:Utah Valley University faculty |
-| Logo Image | UVU-Institutional-Square-Mark-2016.svg |
 | Microsoft Academic Id (Discontinued) | 197572798 |
 | Count Of Students | 33,395 |
 | Times Higher Education World University Id | utah-valley-university |
@@ -96,7 +113,6 @@ guideline_count: 1
 | Social Media Followers | 9,108 (as of 2021-01-07), 9,116 (as of 2020-04-27), 9,638 (as of 2023-02-13), 11,300 (as of 2025-10-04) |
 | Gnd Id | 1081429976 |
 | Crunchbase Organization Id | utah-valley-university |
-| Employees | 3,861 (as of 2020-09) |
 | Openalex Id | I197572798 |
 | Subreddit | uvu |
 | Musicbrainz Place Id | c9a60deb-1491-45f0-a296-5aba94810e8b |
@@ -127,3 +143,9 @@ guideline_count: 1
 | Unirank Id | 6739 |
 | Threads Username | utah.valley.university |
 | Athletics Program | Utah Valley Wolverines |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,861 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

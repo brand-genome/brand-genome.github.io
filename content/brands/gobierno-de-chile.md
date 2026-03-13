@@ -2,7 +2,7 @@
 title: Gobierno de Chile
 slug: "gobierno-de-chile"
 description: ""
-date: "2026-03-05T22:38:39.805602"
+date: "2026-03-13T08:56:59.862367"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "palacio-de-la-moneda"
+subsidiaries: []
+foundation_dates:
+  - 1810
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,22 +53,24 @@ logo_elements:
   - symbol
   - vertical
 brand_colors:
-  - "pantone-185"
+  - "pantone-293"
   - white
   - grey
-  - "pantone-293"
+  - "pantone-185"
 typographies:
-  - impact
   - verdana
+  - impact
 imagery_styles:
-  - bold
-  - flat
   - graphic
+  - flat
+  - bold
 wikidata_description: "government organization in Santiago, Chile"
+wikidata_url: "https://www.wikidata.org/wiki/Q17633149"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -96,6 +109,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17633149) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Palacio De La Moneda](/headquarters_locations/palacio-de-la-moneda/) |
+| Foundation Date | [1810](/foundation_dates/1810/) |
 | Country | Chile |
 | Facebook Username | gobiernodechile |
 | X (Twitter) Username | gobiernodechile (as of 2020-04-20, from 2009-05-23), GobiernodeChile |
@@ -108,7 +127,6 @@ guideline_count: 1
 | Child Organization Or Unit | Ministry of Health |
 | Headquarters Location | Palacio de La Moneda |
 | Isni | 000000011234970X |
-| Logo Image | Logotipo oficial del Gobierno de Chile.png |
 | Ror Id | 02sevrz47 |
 | Ringgold Id | 42306 |
 | Viaf Cluster Id | 123734308 |

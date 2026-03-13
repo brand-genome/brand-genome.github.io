@@ -2,7 +2,7 @@
 title: Jacobsen
 slug: jacobsen
 description: ""
-date: "2026-03-05T22:38:39.659815"
+date: "2026-03-13T08:56:59.586244"
 draft: false
 sectors:
   - drink
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,33 +47,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - vertical
   - horizontal
   - signature
-  - vertical
 brand_colors:
+  - brown
   - white
   - red
   - "pantone-185"
-  - "pantone-9064"
-  - black
-  - yellow
   - blue
-  - brown
+  - yellow
   - green
+  - black
+  - "pantone-9064"
 typographies:
   - display
 imagery_styles:
-  - bold
-  - vintage
   - product
   - contemporary
+  - bold
+  - vintage
 wikidata_description: beer brand
+wikidata_url: "https://www.wikidata.org/wiki/Q6119795"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +123,10 @@ guideline_count: 1
 - Guidelines for product presentations in Offtrade and Ontrade settings, including logo rules for glasses. Special attention given to pattern design that reflects beer flavor and aroma.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6119795) |
 
 | Property | Value |
 |----------|-------|

@@ -2,7 +2,7 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-03-05T22:38:39.292772"
+date: "2026-03-13T08:56:59.232508"
 draft: false
 sectors:
   - education
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1824
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +58,25 @@ brand_colors:
   - white
   - red
   - blue
-  - green
   - purple
+  - green
 typographies:
-  - serif
-  - monospace
-  - georgia
   - helvetica
   - display
+  - serif
+  - georgia
+  - monospace
 imagery_styles:
   - photography
-  - duotone
   - graphic
+  - duotone
 wikidata_description: "private liberal arts college in Gambier, Ohio, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1797768"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +130,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1797768) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1824](/foundation_dates/1824/) |
 | Located In The Administrative Territorial Entity | Gambier |
 | Nrhp Reference Number | 75001447 |
 | Coordinate Location | 40.374722, -82.397222 |
@@ -138,7 +157,6 @@ guideline_count: 1
 | Grid Id | grid.258533.a |
 | Count Of Students | 1,628 (as of 2018), 1,871 (as of 2021-09-01) |
 | U Multirank University Id | kenyon-college |
-| Logo Image | Kenyon logotype purple.png |
 | Microsoft Academic Id (Discontinued) | 166972335 |
 | Street Address | Kenyon College, Gambier, OH, 43022 |
 | Library Of Congress Authority Id | n50061301 |
@@ -153,9 +171,7 @@ guideline_count: 1
 | Social Media Followers | 11,431 (as of 2021-01-08), 11,066 (as of 2020-04-21), 11,974 (as of 2022-01-27), 12,266 (as of 2023-02-06) |
 | Share Catalogue Author Id | 735555 |
 | Crunchbase Organization Id | kenyon-college |
-| Total Assets | 931,598,852 United States dollar (as of 2020-06-30) |
 | Endowment | 419,099,295 United States dollar (as of 2020-06-30), 517,006,638 United States dollar (as of 2022-06-30), 545,722,456 United States dollar (as of 2021-06-30) |
-| Employees | 661 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I166972335, P4310316422 |
@@ -171,3 +187,15 @@ guideline_count: 1
 | Youtube Handle | kenyon_college (as of 2025-11-28) |
 | Number Of Viewers/Listeners | 1,684,372 (as of 2025-11-28) |
 | Athletics Program | Kenyon Owls |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 661 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $931.60M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

@@ -2,11 +2,11 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-03-05T22:38:39.584775"
+date: "2026-03-13T08:56:59.525537"
 draft: false
 sectors:
-  - entertainment
   - hardware
+  - entertainment
 regions:
   - france
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "fresnoy-en-thelle"
+subsidiaries: []
+foundation_dates:
+  - 1973
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,28 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - horizontal
   - symbol
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - "pantone-226"
-  - black
-  - yellow
-  - blue
-  - pink
-  - gray
   - "pantone-116"
+  - "pantone-226"
+  - pink
+  - blue
   - "pantone-299"
+  - yellow
+  - black
+  - gray
 typographies:
   - arial
 imagery_styles:
   - graphic
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q131639525"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131639525) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Fresnoy En Thelle](/headquarters_locations/fresnoy-en-thelle/) |
+| Foundation Date | [1973](/foundation_dates/1973/) |
 | Headquarters Location | Fresnoy-en-Thelle |
 | Industry |  |
 | Country | France |

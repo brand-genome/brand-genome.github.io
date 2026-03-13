@@ -2,7 +2,7 @@
 title: Lindenwood University
 slug: "lindenwood-university"
 description: ""
-date: "2026-03-05T22:38:39.387693"
+date: "2026-03-13T08:56:59.355281"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1827
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ typographies:
   - times
 imagery_styles: []
 wikidata_description: "private liberal arts university in Saint Charles, Missouri, founded in 1827"
+wikidata_url: "https://www.wikidata.org/wiki/Q5617088"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +98,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5617088) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1827](/foundation_dates/1827/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Missouri |
 | Coordinate Location | 38.7866, -90.5019 |
@@ -98,7 +117,6 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 100010921 |
 | Category For Alumni Of Educational Institution | Category:Lindenwood University alumni |
 | Grid Id | grid.431378.a |
-| Logo Image | Lindenwood University wordmark.svg |
 | Microsoft Academic Id (Discontinued) | 98865867 |
 | Street Address | 209 S Kingshighway, Saint Charles, MO, 63301-1695 |
 | Library Of Congress Authority Id | n2005174744 |
@@ -112,9 +130,7 @@ guideline_count: 1
 | Ringgold Id | 7498 |
 | Crunchbase Organization Id | lindenwood-university |
 | Count Of Students | 7,382 (as of 2020-09) |
-| Total Assets | 442,236,276 United States dollar (as of 2020-06-30) |
 | Endowment | 165,343,203 United States dollar (as of 2020-06-30) |
-| Employees | 1,316 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Coat Of Arms Image | Lindenwood University crest.svg |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -131,3 +147,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/cbf41d5a-9ccd-45cd-8d74-3b547e80f50b |
 | World Higher Education Database Id | IAU-010988 |
 | Athletics Program | Lindenwood Lions |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,316 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $442.24M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

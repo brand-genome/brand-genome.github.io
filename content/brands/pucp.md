@@ -2,11 +2,11 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-03-05T22:38:39.374675"
+date: "2026-03-13T08:56:59.333913"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - peru
@@ -15,14 +15,25 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - community
+  - education
 industries: []
 countries:
   - peru
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lima
+subsidiaries: []
+foundation_dates:
+  - 1917
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,18 +53,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2239"
-  - "pantone-1495"
   - "pantone-298"
+  - "pantone-1495"
   - "pantone-390"
+  - "pantone-2239"
 typographies: []
 imagery_styles:
   - bold
 wikidata_description: private university in Peru
+wikidata_url: "https://www.wikidata.org/wiki/Q200601"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -104,6 +117,12 @@ C70 M0Y0 K0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q200601) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lima](/headquarters_locations/lima/) |
+| Foundation Date | [1917](/foundation_dates/1917/) |
 | Freebase Id | /m/067p5h |
 | Country | Peru |
 | Topic'S Main Category | Category:Pontifical Catholic University of Peru |

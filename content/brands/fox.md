@@ -2,7 +2,7 @@
 title: Fox
 slug: fox
 description: ""
-date: "2026-03-05T22:38:39.680594"
+date: "2026-03-13T08:56:59.598948"
 draft: false
 sectors:
   - broadcasting
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "1211-avenue-of-the-americas"
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American commercial broadcast television network
+wikidata_url: "https://www.wikidata.org/wiki/Q166419"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +104,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q166419) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [1211 Avenue Of The Americas](/headquarters_locations/1211-avenue-of-the-americas/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Country | United States |
 | Topic'S Main Category | Category:Fox Broadcasting Company |
 | Freebase Id | /m/0cjdk |
@@ -98,7 +117,6 @@ guideline_count: 1
 | Inception | 1986-10-09 |
 | Headquarters Location | 1211 Avenue of the Americas |
 | X (Twitter) Username | FOXTV (as of 2020-04-25, from 2008-09-30) |
-| Logo Image | Fox Broadcasting Company logo (2019).svg |
 | Location Of Formation | United States |
 | Quora Topic Id | FOX-Broadcasting-Company |
 | Founded By | Rupert Murdoch, Barry Diller |

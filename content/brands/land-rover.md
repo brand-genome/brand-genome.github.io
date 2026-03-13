@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-03-05T22:38:39.638535"
+date: "2026-03-13T08:56:59.567133"
 draft: false
 sectors:
   - automobile
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,19 +48,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - badge
   - vertical
-  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - photography
+  - dynamic
 wikidata_description: British car marque used by Jaguar Land Rover
+wikidata_url: "https://www.wikidata.org/wiki/Q26777551"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -129,6 +140,10 @@ Clear space determined proportional adjustment minimum
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q26777551) |
+
+| Property | Value |
+|----------|-------|
 | Owned By | Jaguar Land Rover (from 2013),  (from 1948, until 1978), Land Rover (from 1978, until 2012) |
 | Country | United Kingdom |
 | Different From | Land Rover |
@@ -140,6 +155,5 @@ Clear space determined proportional adjustment minimum
 | Osm Name Suggestion Index Id | landrover-13eeb7, landrover-dc8719 |
 | Social Media Followers | 493,108 (as of 2021-01-07), 484,610 (as of 2020-04-26), 504,199 (as of 2022-02-27), 513,112 (as of 2023-02-06) |
 | Subreddit | LandRover |
-| Logo Image | Land Rover logo ico.gif |
 | Nl Cr Aut Id | ph690901 |
 | Freebase Id | /m/0h5wsby |

@@ -2,7 +2,7 @@
 title: Ville de Paris
 slug: "ville-de-paris"
 description: ""
-date: "2026-03-05T22:38:39.568374"
+date: "2026-03-13T08:56:59.497967"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - city
+  - regional
 industries:
   - "administration-publique-generale"
 countries:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 1789
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,8 +53,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - blue
@@ -51,10 +63,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: "municipal government of Paris, France"
+wikidata_url: "https://www.wikidata.org/wiki/Q3278478"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +117,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3278478) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1789](/foundation_dates/1789/) |
 | Country | France |
 | Coordinate Location | 48.85638889, 2.35222222 |
 | Mapillary Photo Id | 6eBSA5c44F3rT8ML_Kr_Yg |
@@ -118,7 +138,6 @@ guideline_count: 1
 | Applies To Jurisdiction | Paris |
 | Owner Of | Hôtel de Ville, Paris |
 | Google Knowledge Graph Id | /g/1213vdbs, /g/11cftzgkk |
-| Employees | 52,553 (as of 2018-12-31), 45,423 (as of 2008) |
 | Osm Name Suggestion Index Id | mairiedeparis-024698, mairiedeparis-0553d6, mairiedeparis-452f91, mairiedeparis-37370f, mairiedeparis-f6a4bb (+3 more) |
 | Image | Pont d'Arcole and Hôtel de Ville, Paris 15 April 2014.jpg (as of 2014-04-15) |
 | Headquarters Location | Paris |
@@ -147,3 +166,10 @@ guideline_count: 1
 | Number Of Viewers/Listeners | 8,918,603 (as of 2025-11-26) |
 | Social Media Followers | 22,800 (as of 2025-11-26) |
 | Budget | 7,561,800,000 euro (as of 2026) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 52,553 | as of 2018-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 45,423 | as of 2008 | [10K-50K](/employees_buckets/10k-50k/) |

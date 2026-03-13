@@ -2,254 +2,365 @@
 title: Bayer
 slug: bayer
 description: ""
-date: "2026-03-05T22:38:40.029652"
+date: "2026-03-13T08:57:00.042401"
 draft: false
 sectors:
-  - pharma
   - biotech
+  - pharma
 regions:
   - unknown
 years: []
 languages: []
 tags: []
 industries:
-  - plastic
-  - "chemical-industry"
   - phytopharmaceuticals
   - "pharmaceutical-industry"
+  - "chemical-industry"
+  - plastic
 countries:
   - germany
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "50B-100B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - leverkusen
+subsidiaries:
+  - "bayer-schering-pharma"
+  - currenta
+  - "bayer-cropscience"
+  - "bayer-turkiye"
+  - "bayer-japan"
+  - "bayer-new-zealand"
+  - "agfa-gevaert"
+  - "bayer-usa"
+  - jenapharm
+  - "bayer-netherlands"
+  - viverso
+  - "bayer-oy"
+  - "bayer-united-kingdom"
+  - "hispania-bayer-sl"
+  - "bayer-healthcare-pharmaceuticals"
+  - "hc-starck"
+  - "seminis-vegetable-seeds-inc"
+  - "bayer-norway"
+  - "bayer-technology-services"
+  - "bayer-belgium"
+  - covestro
+  - "bayer-canada"
+  - euroservices
+  - "bayer-business-services"
+foundation_dates:
+  - 1863
 lightings:
+  - natural
   - studio
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
   - bright
-  - natural
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - "sunset-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - "autumnal-colors"
-  - bright
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "sunset-colors"
+  - monotone
+  - grayscale
+  - bright
 photography_genres:
-  - selfie
-  - professional
-  - landscape
-  - botanical
-  - promotional
-  - outdoor
-  - food
-  - product
-  - illustration
-  - interior
+  - staged
+  - corporate
   - "food-photography"
-  - advertising
-  - architectural
-  - infographic
+  - product
+  - promotional
+  - "graphic-design"
+  - selfie
+  - family
+  - cartoon
+  - outdoor
   - "live-stage"
-  - candid
-  - group
-  - documentary
-  - action
-  - event
+  - professional
   - sky
   - fashion
-  - cartoon
-  - "text-heavy"
-  - corporate
-  - family
-  - typography
-  - "graphic-design"
-  - portrait
-  - staged
+  - group
   - business
-  - agricultural
-  - "still-life"
-concepts:
-  - "corporate-branding"
-  - cartoon
-  - "text-heavy"
-  - illustration
-  - vintage
   - typography
-  - "graphic-design"
-  - "wave-pattern"
+  - advertising
+  - documentary
+  - "text-heavy"
+  - portrait
+  - landscape
+  - interior
+  - food
+  - illustration
+  - agricultural
+  - candid
+  - infographic
+  - "still-life"
+  - architectural
+  - event
+  - action
+  - botanical
+concepts:
+  - "text-heavy"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "corporate-branding"
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
-  - "isolated-focal-point"
   - "macro-shot"
+  - "fully-focused-subject"
+  - "bokeh-effect"
+  - "isolated-focal-point"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - asymmetry
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
   - white
+  - pink
   - "mud-green"
+  - "royal-blue"
   - "dark-blue"
+  - turquoise
   - black
   - "light-blue"
-  - "royal-blue"
-  - pink
-  - turquoise
 color_tones:
   - neutral
 hair_styles:
+  - covered
+  - updo
+  - neat
+  - "pulled-back"
   - casual
   - flowing
-  - "pulled-back"
-  - neat
-  - wavy
   - loose
-  - ponytail
-  - braided
   - short
-  - curly
-  - updo
+  - varied
+  - ponytail
   - balding
   - gray
   - "tied-back"
-  - varied
   - long
-  - covered
+  - wavy
+  - curly
+  - braided
 facial_expressions:
-  - joyful
-  - engaged
-  - relaxed
-  - neutral
-  - content
   - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - business
-  - beachwear
-  - "form-fitting"
-  - costume
-  - protective
   - formal
-  - swimwear
-  - traditional
+  - beachwear
+  - athletic
   - "business-casual"
+  - casual
+  - traditional
+  - "form-fitting"
+  - protective
+  - swimwear
+  - business
+  - costume
 clothing_colors:
-  - vibrant
-  - muted
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
-  - pastel
+  - earthy
+  - muted
 posings:
-  - seated
-  - walking
-  - engaged
-  - leaning
-  - relaxed
   - dynamic
-  - reclined
-  - holding
-  - active
-  - standing
-  - running
   - stretching
   - confident
-gazes:
+  - leaning
+  - active
   - engaged
-  - away
+  - running
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - "lower-half"
-  - "full-back"
-  - midsection
-  - "upper-body"
-  - "full-body"
   - "close-up"
+  - "upper-body"
+  - "hand-only"
+  - "lower-half"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "German multinational pharmaceutical, chemical, and agricultural biotechnology company"
+wikidata_url: "https://www.wikidata.org/wiki/Q152051"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 144
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/FYrWramX0AAY6Nw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRxPnj8WYAQsTXQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJeTRD1XsAU9b7u?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FJFgS9-WYAgmWdL?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FEaGpqRXEAEqwWz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E5DxOQ6X0AAEplF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4abVayXwAEL8ZO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4K-lELWEAwXBRu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3iGfDJWYAMEpdq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3C_M3PWEAAMRbh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2KqTHbWQAAfEks?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E11hn0KWQAYWVeN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E1rk9XtWQAA3klJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ey77GbzWYAMoS_b?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwS7-VRWUAAg74n?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EvFXiVBXAA0gfrm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EpSQdTvXUAIewHN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EouNVCTXEAE_CV0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoKOx0KUUAAtd6F?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoFHf9hXUAA0cBX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/En1c_MwW4AEYJl-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnmHEsqW8AMKxgI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnhEWz_W4AEjHgd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnCGA3WW8AEpUn_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/El_MUqtWMAEG6o_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkxjxWTXEAMMEmD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkN0URDUcAIInOz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ejz9gfoXsAA3DDo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eju7ARWXYAA6PSb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Efeg3F8XkAIkoTq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EeLlEzfWAAAgOOq?format=png&name=large"
+  - "https://pbs.twimg.com/media/Eb7RsTlU8AEr3Wf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbxMQFqUEAIDjV-?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ea4whSXWkAMClE4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EZHdhhaXgAce2kW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQ_w293XYAIIHxo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EQqw3uTWoAAixDr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPn4zDJW4AIa_6J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EPYi5GoXUAEsArf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EO-y9wLXUAA8nnD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMFFIPoX0AUGc0f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELrcBcJXkAA8MpC?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELhPsyxWoAIc9J9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELIP5saW4AMecqb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKaHQ3oWoAQs8bz?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJMOQ0bXUAAKmLR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJHEqk6X0AAGW6p?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFzSXEyWsAI5kyr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFzEkQuX0AEi96v?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFyJjlIWwAAa37k?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEwzE1aXUAAIYx0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D97_o1hXYAAesEG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5hE2f_WkAAy7j2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5fLF4CWkAAdvKu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5cP2PEX4AAso3t?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3puDG9W4AM8Jdl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dt0oi0JX4AEPQO6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DshCQe2WkAAGhfL?format=png&name=large"
+  - "https://pbs.twimg.com/media/DsC0ZgvXcAITMe4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Drz2Fk9W4AAtTDP?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DrymCeRWoAAqluD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DnRy70jWwAAx7jo?format=png&name=large"
+  - "https://pbs.twimg.com/media/DloHciqW0AYvlu7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlnBiGeWsAIcIbm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlcnqZMWsAAdH8L?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DlIBUHYXsAAoasV?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgMqje_U0AApBwA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfF1dNsW0AEA1eI?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/De1GR8WUcAAqu47?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXsTjIfXkAAs7sp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVLRzxHVwAAxhOv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTBrlh1VQAIkzYJ?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 144 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| White | 28.0% | 17.3% | 11.0% | 36.6% | 62.6% | ±22.9% | 29.9% |
-| Light Blue | 27.3% | 23.5% | 11.8% | 33.5% | 56.5% | ±19.1% | 23.6% |
-| Dark Blue | 24.5% | 14.6% | 9.3% | 47.5% | 57.9% | ±19.9% | 27.1% |
-| Royal Blue | 23.8% | 19.4% | 11.9% | 39.9% | 42.5% | ±14.3% | 11.8% |
-| Pink | 23.0% | 11.7% | 10.6% | 34.1% | 52.8% | ±17.8% | 10.4% |
-| Turquoise | 22.2% | 15.5% | 9.1% | 18.6% | 47.6% | ±22.1% | 12.5% |
-| Mud Green | 20.8% | 16.9% | 11.0% | 28.6% | 36.5% | ±13.5% | 49.3% |
-| Black | 19.4% | 14.9% | 10.1% | 26.6% | 36.7% | ±12.2% | 33.3% |
+| Color | Mean |
+|-------|------|
+| White | 28.0% |
+| Light Blue | 27.3% |
+| Dark Blue | 24.5% |
+| Royal Blue | 23.8% |
+| Pink | 23.0% |
+| Turquoise | 22.2% |
+| Mud Green | 20.8% |
+| Black | 19.4% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 7.9% | 0.0% | 0.0% | 10.3% | ±14.1% |
-| Neutral | 57.8% | 63.9% | 35.2% | 83.1% | ±30.4% |
-| Cool | 34.3% | 24.9% | 0.0% | 57.1% | ±33.7% |
+| Tone | Mean |
+|------|------|
+| Warm | 7.9% |
+| Neutral | 57.8% |
+| Cool | 34.3% |
 
 ### Sample Images
 
@@ -359,14 +470,19 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q152051) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Leverkusen](/headquarters_locations/leverkusen/) |
+| Subsidiary | [Bayer Schering Pharma](/subsidiaries/bayer-schering-pharma/); [Currenta](/subsidiaries/currenta/); [Bayer Cropscience](/subsidiaries/bayer-cropscience/); [Bayer Turkiye](/subsidiaries/bayer-turkiye/); [Bayer Japan](/subsidiaries/bayer-japan/); [Bayer New Zealand](/subsidiaries/bayer-new-zealand/); [Agfa Gevaert](/subsidiaries/agfa-gevaert/); [Bayer Usa](/subsidiaries/bayer-usa/); [Jenapharm](/subsidiaries/jenapharm/); [Bayer Netherlands](/subsidiaries/bayer-netherlands/); [Viverso](/subsidiaries/viverso/); [Bayer Oy](/subsidiaries/bayer-oy/); +12 more |
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | Country | Germany |
 | Headquarters Location | Leverkusen |
-| Logo Image | Logo Bayer.svg (from 2017), Logo der Bayer AG.svg (from 2010, until 2017), Bayer Logo.svg (from 2002, until 2010) |
 | Inception | 1863-01-01 |
 | Founded By | Friedrich Bayer |
 | Chief Executive Officer | Werner Baumann (from 2016, until 2023), Bill Anderson (from 2023) |
 | Industry | pharmaceutical industry, phytopharmaceuticals, plastic, chemical industry |
-| Employees | 99,820 (as of 2017-12-31), 103,824 (as of 2019-12-31), 101,369 (as of 2022-12-31), 99,723 (as of 2023-12-31), 101,198 (as of 2023-12-31) (+25 more) |
 | Subsidiary | Bayer HealthCare Pharmaceuticals, Bayer Schering Pharma, Bayer Technology Services, Bayer Business Services, Bayer CropScience (+19 more) |
 | Owner Of | Bayer 04 Leverkusen, BayArena, Monsanto, Bayer-Hochhaus, Bayer CropScience (+4 more) |
 | Part Of | DAX (from 1988-07-01), EURO STOXX 50, DivDAX (from 1999-09-20, until 2007-09-24), DivDAX (from 2009-03-23, until 2015-09-21), DivDAX (from 2016-09-19) (+1 more) |
@@ -374,7 +490,6 @@ guideline_count: 0
 | Legal Form | Aktiengesellschaft |
 | Stock Exchange | Frankfurt Stock Exchange (from 1953-10-01), Tokyo Stock Exchange (until 2008-12-05), Italian Stock Exchange |
 | Isin | DE000BAY0017 |
-| Total Assets | 85,000,000,000 United States dollar (as of 2015), 116,259,000,000 euro (as of 2023-12-31), 124,877,000,000 euro (as of 2022-12-31), 120,241,000,000 euro (as of 2021-12-31), 117,046,000,000 euro (as of 2020-12-31) (+21 more) |
 | Image | Leverkusen, straatzicht Bayer - Science for a better life foto2 2015-04-18 12.10.jpg |
 | Located In Admin | Bezirk Mitte, Leverkusen |
 | Location | Wedding, Leverkusen |
@@ -387,58 +502,128 @@ guideline_count: 0
 
 ### Revenue History
 
-- $35.09B (35,090,000,000 euro (as of 2010))
-- $36.74B (36,742,000,000 euro (as of 2018))
-- $43.55B (43,545,000,000 euro (as of 2019-12-31))
-- $41.40B (41,400,000,000 euro (as of 2020-12-31))
-- $44.08B (44,081,000,000 euro (as of 2021-12-31))
-- $50.74B (50,739,000,000 euro (as of 2022-12-31))
-- $47.64B (47,637,000,000 euro (as of 2023-12-31))
-- $39.59B (39,586,000,000 euro (as of 2018-12-31))
-- $35.02B (35,015,000,000 euro (as of 2017-12-31))
-- $46.77B (46,769,000,000 euro (as of 2016-12-31))
-- $46.32B (46,324,000,000 euro (as of 2015-12-31))
-- $42.24B (42,239,000,000 euro (as of 2014-12-31))
-- $40.16B (40,157,000,000 euro (as of 2013-12-31))
-- $39.76B (39,760,000,000 euro (as of 2012-12-31))
-- $36.53B (36,528,000,000 euro (as of 2011-12-31))
-- $35.09B (35,088,000,000 euro (as of 2010-12-31))
-- $31.17B (31,168,000,000 euro (as of 2009-12-31))
-- $32.92B (32,918,000,000 euro (as of 2008-12-31))
-- $32.38B (32,385,000,000 euro (as of 2007-12-31))
-- $28.96B (28,956,000,000 euro (as of 2006-12-31))
-- $27.38B (27,383,000,000 euro (as of 2005-12-31))
-- $29.76B (29,758,000,000 euro (as of 2004-12-31))
-- $28.57B (28,567,000,000 euro (as of 2003-12-31))
-- $29.62B (29,624,000,000 euro (as of 2002-12-31))
-- $30.27B (30,275,000,000 euro (as of 2001-12-31))
-- $30.97B (30,971,000,000 euro (as of 2000-12-31))
-- $27.32B (27,320,000,000 euro (as of 1999-12-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $35.09B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.74B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.55B | as of 2019-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $41.40B | as of 2020-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $44.08B | as of 2021-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $50.74B | as of 2022-12-31 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $47.64B | as of 2023-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.59B | as of 2018-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.02B | as of 2017-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $46.77B | as of 2016-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $46.32B | as of 2015-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $42.24B | as of 2014-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.16B | as of 2013-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.76B | as of 2012-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.53B | as of 2011-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.09B | as of 2010-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.17B | as of 2009-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.92B | as of 2008-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.38B | as of 2007-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.96B | as of 2006-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.38B | as of 2005-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.76B | as of 2004-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $28.57B | as of 2003-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.62B | as of 2002-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.27B | as of 2001-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.97B | as of 2000-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.32B | as of 1999-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $1.70B (1,695,000,000 euro (as of 2018-12-31))
-- $4.09B (4,091,000,000 euro (as of 2019-12-31))
-- $10.49B (-10,495,000,000 euro (as of 2020-12-31))
-- $1.00B (1,000,000,000 euro (as of 2021-12-31))
-- $4.15B (4,150,000,000 euro (as of 2022-12-31))
-- $2.94B (-2,941,000,000 euro (as of 2023-12-31))
-- $7.34B (7,336,000,000 euro (as of 2017-12-31))
-- $4.53B (4,531,000,000 euro (as of 2016-12-31))
-- $4.11B (4,110,000,000 euro (as of 2015-12-31))
-- $3.43B (3,426,000,000 euro (as of 2014-12-31))
-- $3.19B (3,189,000,000 euro (as of 2013-12-31))
-- $2.45B (2,446,000,000 euro (as of 2012-12-31))
-- $2.47B (2,470,000,000 euro (as of 2011-12-31))
-- $1.30B (1,301,000,000 euro (as of 2010-12-31))
-- $1.36B (1,359,000,000 euro (as of 2009-12-31))
-- $1.72B (1,719,000,000 euro (as of 2008-12-31))
-- $4.71B (4,711,000,000 euro (as of 2007-12-31))
-- $1.68B (1,683,000,000 euro (as of 2006-12-31))
-- $1.60B (1,597,000,000 euro (as of 2005-12-31))
-- $603.00M (603,000,000 euro (as of 2004-12-31))
-- $1.36B (-1,361,000,000 euro (as of 2003-12-31))
-- $1.06B (1,060,000,000 euro (as of 2002-12-31))
-- $965.00M (965,000,000 euro (as of 2001-12-31))
-- $1.82B (1,816,000,000 euro (as of 2000-12-31))
-- $2.00B (2,002,000,000 euro (as of 1999-12-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.70B | as of 2018-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.09B | as of 2019-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $10.49B | as of 2020-12-31 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $1.00B | as of 2021-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.15B | as of 2022-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.94B | as of 2023-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $7.34B | as of 2017-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.53B | as of 2016-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.11B | as of 2015-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.43B | as of 2014-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.19B | as of 2013-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.45B | as of 2012-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.47B | as of 2011-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.30B | as of 2010-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.36B | as of 2009-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.72B | as of 2008-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.71B | as of 2007-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.68B | as of 2006-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.60B | as of 2005-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $603.00M | as of 2004-12-31 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.36B | as of 2003-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.06B | as of 2002-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $965.00M | as of 2001-12-31 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.82B | as of 2000-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.00B | as of 1999-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 99,820 | as of 2017-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 103,824 | as of 2019-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 101,369 | as of 2022-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 99,723 | as of 2023-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 101,198 | as of 2023-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 101,086 | as of 2022-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 99,572 | as of 2021-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 101,459 | as of 2020-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 106,092 | as of 2019-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 112,661 | as of 2018-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 101,680 | as of 2017-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 117,991 | as of 2016-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 119,663 | as of 2015-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 117,986 | as of 2014-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 114,610 | as of 2013-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 113,830 | as of 2012-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 114,820 | as of 2011-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 113,854 | as of 2010-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 108,595 | as of 2009-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 107,299 | as of 2008-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 105,622 | as of 2007-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 106,000 | as of 2006-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 93,700 | as of 2005-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+| 113,000 | as of 2004-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 115,400 | as of 2003-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 122,600 | as of 2002-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 116,900 | as of 2001-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 122,100 | as of 2000-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 120,400 | as of 1999-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 92,815 | as of 2024-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $85.00B | as of 2015 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $116.26B | as of 2023-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $124.88B | as of 2022-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $120.24B | as of 2021-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $117.05B | as of 2020-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $126.26B | as of 2019-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $126.28B | as of 2018-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $75.09B | as of 2017-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $82.24B | as of 2016-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $73.92B | as of 2015-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $70.23B | as of 2014-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $51.32B | as of 2013-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $51.34B | as of 2012-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $52.77B | as of 2011-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $51.51B | as of 2010-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $51.04B | as of 2009-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $52.51B | as of 2008-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $51.38B | as of 2007-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $55.89B | as of 2006-12-31 | [50B-100B](/total_assets_buckets/50b-100b/) |
+| $36.72B | as of 2005-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $37.80B | as of 2004-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $37.45B | as of 2003-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $41.69B | as of 2002-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $37.04B | as of 2001-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $36.45B | as of 2000-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $31.28B | as of 1999-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |

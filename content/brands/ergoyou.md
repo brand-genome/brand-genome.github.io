@@ -2,7 +2,7 @@
 title: ErgoYou
 slug: ergoyou
 description: ""
-date: "2026-03-05T22:38:39.433311"
+date: "2026-03-13T08:56:59.397392"
 draft: false
 sectors:
   - "consumer-goods"
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,28 +46,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
+  - wordmark
 brand_colors:
   - white
-  - orange
   - grey
-  - black
   - blue
+  - black
+  - orange
 typographies:
   - impact
 imagery_styles:
-  - bold
+  - natural
+  - realistic
   - photography
   - product
-  - realistic
-  - natural
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 

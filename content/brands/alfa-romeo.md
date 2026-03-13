@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-03-05T22:38:39.712174"
+date: "2026-03-13T08:56:59.729151"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "luxury-vehicle"
+  - car
+products: []
+headquarters_locations:
+  - turin
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,21 +57,23 @@ logo_elements:
   - vertical
 brand_colors:
   - white
-  - black
   - red
+  - black
   - "pantone-201"
 typographies: []
 imagery_styles:
-  - photography
-  - graphic
-  - monochrome
-  - gradient
   - modern
+  - monochrome
+  - photography
+  - gradient
+  - graphic
 wikidata_description: Italian automotive company
+wikidata_url: "https://www.wikidata.org/wiki/Q26921"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +132,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q26921) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Turin](/headquarters_locations/turin/) |
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Headquarters Location | Turin |
 | Founded By | Nicola Romeo |
 | Topic'S Main Category | Category:Alfa Romeo |
@@ -169,7 +191,6 @@ guideline_count: 1
 | Subreddit | AlfaRomeo |
 | ‎Yale Lux Id | group/4b5a1d9a-025a-4f37-b6c6-9cce73ed4fbb |
 | Gitlab Topic Id | alfa+romeo |
-| Logo Image | ALFA ROMEO badge on a car (cropped).jpg |
 | Parent Organization Or Unit | Fiat Chrysler Automobiles (from 2014, until 2021), Fiat Group (until 2014), Stellantis (from 2021) |
 | Eu Vat Number | IT09487630015 |
 | Official Name | Alfa Romeo S.p.A. |

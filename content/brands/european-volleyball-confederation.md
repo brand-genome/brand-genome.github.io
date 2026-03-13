@@ -2,7 +2,7 @@
 title: European Volleyball Confederation
 slug: "european-volleyball-confederation"
 description: ""
-date: "2026-03-05T22:38:39.362403"
+date: "2026-03-13T08:56:59.314157"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,17 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - luxembourg
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: continental governing body for the sports of volleyball in Europe
+wikidata_url: "https://www.wikidata.org/wiki/Q6854"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -58,6 +71,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6854) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Freebase Id | /m/057h23 |
 | Sport | volleyball, beach volleyball |
 | Headquarters Location | Luxembourg |
@@ -72,7 +91,6 @@ guideline_count: 1
 | Applies To Jurisdiction | Europe |
 | Main Wikidata Property | CEV coach ID, CEV team ID |
 | Social Media Followers | 132,000 (as of 2021-07-02), 246,000 (as of 2022-03-18), 303,000 (as of 2023-02-17), 335,000 (as of 2023-05-31), 422,000 (as of 2024-01-14) (+2 more) |
-| Logo Image | CEV Stck BlackRGB.png |
 | Item Operated | EuroVolley TV |
 | Member Of | Fédération Internationale de Volleyball |
 | Yle Topic Id | 18-330476 |

@@ -2,7 +2,7 @@
 title: Matosinhos
 slug: matosinhos
 description: ""
-date: "2026-03-05T22:38:39.366621"
+date: "2026-03-13T08:56:59.319695"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,23 @@ years:
 languages:
   - portuguese
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - portugal
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,20 +50,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - blue
 typographies:
   - display
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: municipality in Portugal
+wikidata_url: "https://www.wikidata.org/wiki/Q841299"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +117,10 @@ guideline_count: 1
 - Specific guidelines were provided to avoid incorrect implementations of the logo, including avoiding breaking the signature typography and maintaining its original design.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q841299) |
 
 | Property | Value |
 |----------|-------|
@@ -173,7 +188,7 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | camara-municipal-de-matosinhos |
 | Tiktok Username | cmmatosinhos |
 | Bluesky Handle | cmmatosinhos.bsky.social |
-| Email Address | mailto:mail@cm-matosinhos.pt |
+| Email Address | mail@cm-matosinhos.pt |
 | Phone Number | +351-229-390-900, +351-229-392-400 |
 | Contact Page Url | https://www.cm-matosinhos.pt/contactos/camara-municipal |
 | Montage Image | Matosinhos II (8077975774).jpg |

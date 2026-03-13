@@ -2,7 +2,7 @@
 title: Ouishare
 slug: ouishare
 description: ""
-date: "2026-03-05T22:38:39.684010"
+date: "2026-03-13T08:56:59.611194"
 draft: false
 sectors:
   - ngo
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,10 +49,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - symbol
   - monogram
+  - primary
+  - secondary
+  - symbol
 brand_colors:
   - white
   - green
@@ -50,15 +60,17 @@ brand_colors:
   - indigo
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - professional
+  - bold
   - landscape
 wikidata_description: French association and international community working on the collaborative society
+wikidata_url: "https://www.wikidata.org/wiki/Q23931345"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -178,6 +190,11 @@ The brand uses lowercase for modernity and avoids strong associations with 'shar
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q23931345) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Main Subject | sharing economy |
 | Inception | 2012-01 |
 | Location Of Formation | Paris |

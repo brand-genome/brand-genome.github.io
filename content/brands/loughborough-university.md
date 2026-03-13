@@ -2,7 +2,7 @@
 title: Loughborough University
 slug: "loughborough-university"
 description: ""
-date: "2026-03-05T22:38:39.745003"
+date: "2026-03-13T08:56:59.784119"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1909
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Loughborough, UK"
+wikidata_url: "https://www.wikidata.org/wiki/Q1434547"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1434547) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1909](/foundation_dates/1909/) |
 | Coordinate Location | 52.768333333333, -1.2286111111111 |
 | Topic'S Main Category | Category:Loughborough University |
 | Freebase Id | /m/01xvlc |
@@ -97,7 +115,6 @@ guideline_count: 1
 | Viaf Cluster Id | 137839987 |
 | Nl Cr Aut Id | ko2007402432, ko2007402433 |
 | Microsoft Academic Id (Discontinued) | 143804889 |
-| Employees | 3,567 (as of 2021-12-01) |
 | Library Of Congress Authority Id | no2002113533 |
 | Athenaeum Museum Id | 3554 |
 | Wolfram Language Entity Code | Entity["University", "LoughboroughUniversity::7475q"] |
@@ -118,7 +135,6 @@ guideline_count: 1
 | Crunchbase Organization Id | loughborough-university |
 | National Library Of Israel J9U Id | 987007417944905171 |
 | Subreddit | lufbra |
-| Logo Image | Shield of Loughborough University.svg |
 | Owner Of | Loughborough University Arts Collection |
 | Child Organization Or Unit | Loughborough University Arts Collection |
 | Musicbrainz Place Id | 2745412e-5cb2-4cb5-a05d-699552e01737 |
@@ -149,3 +165,9 @@ guideline_count: 1
 | Wikirate Company Id | 9754716 |
 | Linkedin Company Or Organization Id | loughborough-university |
 | Threads Username | lborouniversity |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,567 | as of 2021-12-01 | [1K-10K](/employees_buckets/1k-10k/) |

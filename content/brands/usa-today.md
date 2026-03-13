@@ -2,11 +2,11 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-03-05T22:38:39.802526"
+date: "2026-03-13T08:56:59.858145"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,15 +14,26 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - media
   - magazine
+  - media
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - tysons
+subsidiaries: []
+foundation_dates:
+  - 1982
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +52,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
 brand_colors:
-  - blue
   - black
+  - blue
 typographies:
-  - arial
   - futura
+  - arial
 imagery_styles:
   - photography
   - contemporary
 wikidata_description: American national daily newspaper
+wikidata_url: "https://www.wikidata.org/wiki/Q39681"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,10 +118,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q39681) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Tysons](/headquarters_locations/tysons/) |
+| Foundation Date | [1982](/foundation_dates/1982/) |
 | Topic'S Main Category | Category:USA Today |
 | Freebase Id | /m/01dl_x |
 | Issn | 2165-1779, 0734-7456 |
-| Logo Image | USA Today 2012logo.svg, Usatodaylogo2019.png, USA Today (2020-01-29).svg |
 | Country | United States |
 | Title | USA Today |
 | New York Times Topic Id | organization/usa-today |

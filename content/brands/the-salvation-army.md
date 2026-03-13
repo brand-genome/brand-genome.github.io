@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-03-05T22:38:39.498598"
+date: "2026-03-13T08:56:59.425429"
 draft: false
 sectors:
   - ngo
@@ -15,15 +15,28 @@ languages:
 tags:
   - charity
 industries:
-  - "other-social-work-activities-without-accommodation-nec"
   - "activities-of-religious-organisations"
   - "voluntary-sector"
+  - "other-social-work-activities-without-accommodation-nec"
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+  - plano
+subsidiaries: []
+foundation_dates:
+  - 1865
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +61,15 @@ brand_colors:
 typographies:
   - times
 imagery_styles:
-  - professional
   - clean
+  - professional
 wikidata_description: Evangelical Christian church and charitable organisation
+wikidata_url: "https://www.wikidata.org/wiki/Q188307"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -91,6 +106,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q188307) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/); [Plano](/headquarters_locations/plano/) |
+| Foundation Date | [1865](/foundation_dates/1865/) |
 | Topic'S Main Category | Category:The Salvation Army |
 | Ndl Authority Id | 00617013 |
 | Gnd Id | 81561-5 |
@@ -108,7 +129,6 @@ guideline_count: 1
 | Ne.Se Id | frälsningsarmen |
 | Headquarters Location | London, Plano |
 | Founded By | William Booth, Catherine Booth |
-| Logo Image | The Salvation Army Logo.svg, Salvation Army Japan shield logo.png, Armée du Salut.jpg, Copy of Scutul---RO-color.png |
 | Great Russian Encyclopedia Online Id (2017) | 1830805 |
 | Legal Entity Identifier | 5493005FGG4Y2YFTNM14, 549300UQ1LCLSQQ6V491, 549300X1SK5BYB8TRH36 |
 | Iconclass Notation | 11P362 |
@@ -156,7 +176,6 @@ guideline_count: 1
 | Oslo Byleksikon Article Id | 1404 |
 | Flickr User Id | salvationarmyihq |
 | Youtube Channel Id | UCaha79PE9PA9HDUbRlzLJAg (as of 2022-02-20, from 2009-05-01) |
-| Employees | 2,826 (as of 2017), 2,770 (as of 2018), 2,854 (as of 2021), 1,793 (as of 2019), 2,239 (as of 2020) (+8 more) |
 | Lex Id | Frelsens_Hær |
 | Hds Id | 011445 |
 | On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31) |
@@ -222,12 +241,32 @@ guideline_count: 1
 
 ### Revenue History
 
-- $56.87M (56,868,000 pound sterling (as of 2021))
-- $69.65M (69,646,000 pound sterling (as of 2019))
-- $53.44M (53,441,000 pound sterling (as of 2020))
-- $65.24M (65,242,000 pound sterling (as of 2018))
-- $56.44M (56,441,000 pound sterling (as of 2017))
-- $49.05M (49,047,000 pound sterling (as of 2022))
-- $76.67M (76,666,000 pound sterling (as of 2023))
-- $85.97M (85,972,000 pound sterling (as of 2024))
-- $81.78M (81,784,000 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $56.87M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $69.65M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $53.44M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $65.24M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $56.44M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.05M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $76.67M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $85.97M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $81.78M | as of 2025 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,826 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,770 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,854 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,793 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,239 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,515 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+| 219 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 186 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 197 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 156 | as of 2018 | [100-1K](/employees_buckets/100-1k/) |
+| 150 | as of 2017 | [100-1K](/employees_buckets/100-1k/) |
+| 270 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |
+| 272 | as of 2025 | [100-1K](/employees_buckets/100-1k/) |

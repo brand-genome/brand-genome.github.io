@@ -2,7 +2,7 @@
 title: Georgetown University
 slug: "georgetown-university"
 description: ""
-date: "2026-03-05T22:38:39.647802"
+date: "2026-03-13T08:56:59.576058"
 draft: false
 sectors:
   - education
@@ -21,9 +21,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1789
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in Washington, D.C., United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q333886"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q333886) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1789](/foundation_dates/1789/) |
 | Coordinate Location | 38.907222222222, -77.072777777778 |
 | Topic'S Main Category | Category:Georgetown University |
 | Freebase Id | /m/0pspl |
@@ -117,13 +138,11 @@ guideline_count: 1
 | Times Higher Education World University Id | georgetown-university |
 | Google Maps Customer Id | 2061924074063800450 |
 | U Multirank University Id | georgetown-university |
-| Logo Image | Georgetown University Logotype.svg |
 | Idref Id | 034759182 |
 | Bibliothèque Nationale De France Id | 11879822t |
 | Owner Of | Villa Le Balze, Lauinger Library, Bishop John Carroll, Georgetown University Astronomical Observatory, Georgetown University Press (+4 more) |
 | Musicbrainz Place Id | 8b1037aa-7f49-4437-883a-ba1a63b74384 |
 | Microsoft Academic Id (Discontinued) | 184565670 |
-| Employees | 3,457 |
 | X (Twitter) Username | georgetown (as of 2020-04-20, from 2007-07-31), Georgetown |
 | Facebook Username | georgetownuniv |
 | Instagram Username | georgetownuniversity |
@@ -148,7 +167,6 @@ guideline_count: 1
 | Has Characteristic | built using slave labor |
 | Online Pwn Encyclopedia Id | 3991412 |
 | National Library Of Israel J9U Id | 987007261504205171 |
-| Total Assets | 3,912,902,000 United States dollar (as of 2020-06-30), 2,464,639,037 United States dollar (as of 2011), 2,452,665,073 United States dollar (as of 2012), 2,571,835,392 United States dollar (as of 2013), 2,918,323,900 United States dollar (as of 2014) (+9 more) |
 | Endowment | 1,863,711,000 United States dollar (as of 2020-06-30), 3,210,032,000 United States dollar (as of 2022-06-30), 2,592,048,000 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -199,17 +217,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.20B (1,203,732,820 United States dollar (as of 2011))
-- $1.31B (1,307,999,316 United States dollar (as of 2012))
-- $1.37B (1,366,913,145 United States dollar (as of 2013))
-- $1.47B (1,468,361,082 United States dollar (as of 2014))
-- $1.49B (1,493,887,396 United States dollar (as of 2015))
-- $1.47B (1,472,397,544 United States dollar (as of 2016))
-- $1.56B (1,558,158,664 United States dollar (as of 2017))
-- $1.60B (1,600,365,529 United States dollar (as of 2018))
-- $1.70B (1,700,586,166 United States dollar (as of 2019))
-- $1.68B (1,684,831,601 United States dollar (as of 2020))
-- $1.71B (1,714,331,586 United States dollar (as of 2021))
-- $1.99B (1,988,566,479 United States dollar (as of 2022))
-- $1.92B (1,922,844,840 United States dollar (as of 2023))
-- $2.09B (2,087,659,878 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.20B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.31B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.37B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.47B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.49B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.47B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.56B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.60B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.70B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.68B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.71B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.99B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $1.92B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $2.09B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,457 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $3.91B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.46B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.45B | as of 2012 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.57B | as of 2013 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.92B | as of 2014 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.05B | as of 2015 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $2.99B | as of 2016 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.15B | as of 2017 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.27B | as of 2018 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.58B | as of 2019 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $4.64B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.35B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $5.66B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $6.05B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |

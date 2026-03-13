@@ -2,7 +2,7 @@
 title: University of Michigan
 slug: "university-of-michigan"
 description: ""
-date: "2026-03-05T22:38:39.247180"
+date: "2026-03-13T08:56:59.191376"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2023
+  - 2021
 languages:
   - english
 tags:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "ann-arbor"
+subsidiaries: []
+foundation_dates:
+  - 1817
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,32 +53,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
   - secondary
+  - seal
 brand_colors:
   - red
-  - "pantone-282"
-  - orange
   - blue
+  - "pantone-282"
   - green
+  - orange
   - "pantone-7406"
 typographies:
+  - oswald
+  - playfair
   - nunito
+  - merriweather
+  - display
+  - montserrat
   - serif
   - "sans-serif"
-  - playfair
-  - merriweather
-  - montserrat
-  - oswald
-  - display
 imagery_styles:
   - photography
 wikidata_description: "public research university in Ann Arbor, Michigan"
+wikidata_url: "https://www.wikidata.org/wiki/Q230492"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,6 +142,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q230492) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Ann Arbor](/headquarters_locations/ann-arbor/) |
+| Foundation Date | [1817](/foundation_dates/1817/) |
 | Located In The Administrative Territorial Entity | Ann Arbor |
 | Country | United States |
 | Inception | 1817-08-26 |
@@ -182,7 +202,6 @@ guideline_count: 2
 | Times Higher Education World University Id | university-michigan, university-michigan-ann-arbor |
 | U Multirank University Id | university-of-michigan |
 | Google Maps Customer Id | 6602644640529749987 |
-| Logo Image | University of Michigan logo.svg |
 | Share Catalogue Author Id | 298071 |
 | Owner Of | Michigan Stadium, Crisler Center, Angell Hall, Bursley Hall, Ferry Field (+12 more) |
 | Musicbrainz Place Id | 59bd0d1e-a16d-487b-92ba-6d26884659cf |
@@ -210,7 +229,6 @@ guideline_count: 2
 | Snac Ark Id | w6f803v2 |
 | Armeniapedia Id | 4954 |
 | National Library Of Israel J9U Id | 987007302970805171, 987007342022905171 |
-| Employees | 24,605 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I27837315, P4310316579 |
@@ -275,3 +293,9 @@ guideline_count: 2
 | Oxford Reference Overview Id | 20111209130158365 |
 | Postimees Topic Id | 747125 |
 | ‎15Min.Lt Theme Id | 24917 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 24,605 | as of 2020-09 | [10K-50K](/employees_buckets/10k-50k/) |

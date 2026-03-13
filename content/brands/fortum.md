@@ -2,11 +2,11 @@
 title: Fortum
 slug: fortum
 description: ""
-date: "2026-03-05T22:38:39.269809"
+date: "2026-03-13T08:56:59.212340"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - finland
 years:
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "electric-power"
+products: []
+headquarters_locations:
+  - "finago-tower"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Finnish energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q1439075"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +80,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1439075) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electric Power](/products_or_materials_produced/electric-power/) |
+| Headquarters Location | [Finago Tower](/headquarters_locations/finago-tower/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Freebase Id | /m/05bz9g |
 | Topic'S Main Category | Category:Fortum |
 | Headquarters Location | Finago Tower |
@@ -83,7 +104,6 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 501100006276 |
 | Uppslagsverket Finland Id | FortumAbp |
 | Grid Id | grid.424557.5 |
-| Logo Image | Fortum logo.svg |
 | Image | Fortum HQ Keilaniemi.jpg |
 | Microsoft Academic Id (Discontinued) | 2801249761 |
 | Owner Of | Energikundservice Sverige, Fortum Sverige, Uniper |

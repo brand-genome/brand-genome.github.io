@@ -2,7 +2,7 @@
 title: ERA
 slug: era
 description: ""
-date: "2026-03-05T22:38:39.811380"
+date: "2026-03-13T08:56:59.878581"
 draft: false
 sectors:
   - "real-estate"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - rotterdam
+subsidiaries: []
+foundation_dates:
+  - 1913
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +54,26 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
-  - blue
-  - gray
   - navy
+  - blue
+  - black
+  - gray
 typographies:
+  - helvetica
   - gotham
   - arial
-  - helvetica
 imagery_styles:
-  - bold
   - dynamic
   - modern
+  - bold
   - monochrome
 wikidata_description: public research university in the Netherlands
+wikidata_url: "https://www.wikidata.org/wiki/Q633529"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -105,6 +118,12 @@ Secondary colors include White (CMYK: C0 M0 Y0 K0, RGB: R255 G255 B255, HEX: #FF
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q633529) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rotterdam](/headquarters_locations/rotterdam/) |
+| Foundation Date | [1913](/foundation_dates/1913/) |
 | Named After | Erasmus |
 | Topic'S Main Category | Category:Erasmus University Rotterdam |
 | Freebase Id | /m/05c1q2 |
@@ -121,7 +140,6 @@ Secondary colors include White (CMYK: C0 M0 Y0 K0, RGB: R255 G255 B255, HEX: #FF
 | Inception | 1913-11-08 |
 | Official Name | Nederlandsche Handels-Hoogeschool (from 1913, until 1938), Nederlandsche Economische Hoogeschool (from 1939, until 1972), Erasmus Universiteit Rotterdam (from 1973) |
 | Headquarters Location | Rotterdam |
-| Logo Image | Logo Erasmus Universiteit Rotterdam.svg |
 | Motto Text | Make it Happen |
 | Facebook Username | ErasmusUniversity |
 | Youtube Channel Id | UCVu_gFmKMDsZmHU8IYp9H1A (as of 2020-12-10, from 2008-04-09) |

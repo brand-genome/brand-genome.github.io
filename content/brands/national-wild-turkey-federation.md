@@ -2,7 +2,7 @@
 title: National Wild Turkey Federation
 slug: "national-wild-turkey-federation"
 description: ""
-date: "2026-03-05T22:38:39.240666"
+date: "2026-03-13T08:56:59.184687"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,20 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - edgefield
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q6979415"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6979415) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Edgefield](/headquarters_locations/edgefield/) |
 | Country | United States |
 | Grid Id | grid.427118.9 |
 | Located In The Administrative Territorial Entity | Edgefield |
@@ -83,21 +101,40 @@ guideline_count: 1
 | Legal Form | 501(c)(3) organization |
 | Linkedin Company Or Organization Id | the-national-wild-turkey-federation |
 | Youtube Channel Id | UCKoBJwlUlW2wES-imtQy4RQ (as of 2023-05-21, from 2011-02-14) |
-| Total Assets | 33,243,731 United States dollar (as of 2022), 31,755,758 United States dollar (as of 2021), 41,139,846 United States dollar (as of 2023), 27,811,502 United States dollar (as of 2011), 27,829,582 United States dollar (as of 2012) (+8 more) |
 | ‎Yale Lux Id | group/e5032924-3ecd-44d8-9d16-75f1034884c3 |
 
 ### Revenue History
 
-- $37.46M (37,460,447 United States dollar (as of 2017-01-01))
-- $33.96M (33,963,969 United States dollar (as of 2020))
-- $40.04M (40,035,671 United States dollar (as of 2019))
-- $40.09M (40,089,940 United States dollar (as of 2018))
-- $46.26M (46,257,756 United States dollar (as of 2022))
-- $37.60M (37,600,735 United States dollar (as of 2021))
-- $54.13M (54,130,461 United States dollar (as of 2023))
-- $34.93M (34,931,545 United States dollar (as of 2011))
-- $35.39M (35,391,581 United States dollar (as of 2012))
-- $37.17M (37,167,685 United States dollar (as of 2013))
-- $36.09M (36,086,405 United States dollar (as of 2014))
-- $41.13M (41,125,889 United States dollar (as of 2015))
-- $40.30M (40,299,843 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $37.46M | as of 2017-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $33.96M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $40.04M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $40.09M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $46.26M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $37.60M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $54.13M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $34.93M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $35.39M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $37.17M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $36.09M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $41.13M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $40.30M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $33.24M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.76M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $41.14M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.81M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.83M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $30.27M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $30.21M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $35.20M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $34.36M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.52M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $31.38M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $28.29M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $27.38M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |

@@ -2,7 +2,7 @@
 title: Philips
 slug: philips
 description: ""
-date: "2026-03-05T22:38:39.800926"
+date: "2026-03-13T08:56:59.855711"
 draft: false
 sectors:
   - healthcare
@@ -16,17 +16,34 @@ languages:
 tags:
   - corporate
 industries:
-  - "consumer-electronics-industry"
-  - "electrical-industry"
   - "electronics-industry"
+  - "electrical-industry"
+  - "consumer-electronics-industry"
 countries:
   - netherlands
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets:
+  - "10B-50B"
+market_cap_buckets:
+  - "10B-50B"
+products_or_materials_produced:
+  - software
+products: []
+headquarters_locations:
+  - eindhoven
+  - amsterdam
+subsidiaries: []
+foundation_dates:
+  - 1891
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +66,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Dutch multinational conglomerate corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q170416"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -70,6 +89,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q170416) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Eindhoven](/headquarters_locations/eindhoven/); [Amsterdam](/headquarters_locations/amsterdam/) |
+| Foundation Date | [1891](/foundation_dates/1891/) |
 | Stock Exchange | Amsterdam Stock Exchange, New York Stock Exchange (from 1990-01-02) |
 | Headquarters Location | Amsterdam (from 2001), Eindhoven (until 2001) |
 | Industry | electronics industry, electrical industry, consumer electronics industry |
@@ -78,7 +104,6 @@ guideline_count: 1
 | Viaf Cluster Id | 156603850, 128063329 |
 | Isin | NL0000009538 |
 | Inception | 1891-05-15 |
-| Logo Image | Philips shield (2013).svg |
 | Has Organizational Division | Philips Consumer Lifestyle, Philips Healthcare, Signify, Philips Interactive Media Systems |
 | Founded By | Frederik Philips, Gerard Philips |
 | Researchgate Institute Id | Philips |
@@ -121,7 +146,6 @@ guideline_count: 1
 | Encyclopædia Britannica Online Id | topic/Philips-Electronics-NV |
 | Ror Id | 02p2bgp27 |
 | Member Of | Wi-Fi Alliance |
-| Total Equity | 12,088,000,000 euro, 14,438,000,000 euro (as of 2021-12-31) |
 | Who'S On First Id | 85841485 |
 | Has Part(S) |  |
 | Board Member | Anton Philips (from 1895-01-01, until 1939-01-01) |
@@ -134,9 +158,6 @@ guideline_count: 1
 | Floruit | 1930-01-01 |
 | Collectiegelderland Creator Id | 0b0cdb49-c897-38da-2d3f-1ff9d3baed98, b9b92a2e-153c-f210-b5fa-4a3f9de7d740, bcad9dbe-a8a1-5526-6594-956c8cba46e7, ce68bcc3-d83c-5ea0-b756-3a5f89dcda66, 2775fbe2-aab4-5fb4-8d79-8b947692d32e (+5 more) |
 | Gnd Id | 20044-X |
-| Total Assets | 26,019,000,000 euro (as of 2018), 30,961,000,000 euro (as of 2021-12-31) |
-| Market Capitalization | 35,600,000,000 euro (as of 2019-06-24), 25,730,000,000 United States dollar (as of 2022-02-02) |
-| Employees | 77,400 (as of 2018), 81,592 (as of 2020-12-31) |
 | Sfmoma Artist Id | Royal_Philips_Electronics |
 | Opencorporates Id | nl/17001910 |
 | Kvk Company Id | 17001910 |
@@ -178,15 +199,49 @@ guideline_count: 1
 
 ### Revenue History
 
-- $18.12B (18,121,000,000 euro (as of 2018))
-- $17.16B (17,156,000,000 euro (as of 2021-12-31))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $18.12B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.16B | as of 2021-12-31 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $1.72B (1,719,000,000 euro (as of 2018))
-- $1.54B (1,542,000,000 euro (as of 2020-12-31))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $1.72B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.54B | as of 2020-12-31 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $1.10B (1,097,000,000 (as of 2018))
-- $3.32B (3,323,000,000 euro (as of 2021-12-31))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.10B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.32B | as of 2021-12-31 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 77,400 | as of 2018 | [50K-100K](/employees_buckets/50k-100k/) |
+| 81,592 | as of 2020-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $26.02B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $30.96B | as of 2021-12-31 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $12.09B | - | [10B-50B](/total_equity_buckets/10b-50b/) |
+| $14.44B | as of 2021-12-31 | [10B-50B](/total_equity_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $35.60B | as of 2019-06-24 | [10B-50B](/market_cap_buckets/10b-50b/) |
+| $25.73B | as of 2022-02-02 | [10B-50B](/market_cap_buckets/10b-50b/) |

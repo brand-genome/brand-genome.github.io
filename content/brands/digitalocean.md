@@ -2,11 +2,11 @@
 title: DigitalOcean
 slug: digitalocean
 description: ""
-date: "2026-03-05T22:38:39.736320"
+date: "2026-03-13T08:56:59.778884"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2011
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,23 +53,25 @@ body_sections: []
 logo_elements:
   - icon
   - lockup
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - impact
 imagery_styles:
-  - minimal
   - vibrant
+  - minimal
 wikidata_description: American cloud infrastructure provider
+wikidata_url: "https://www.wikidata.org/wiki/Q17052116"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -453,9 +466,14 @@ X Do not change the color.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17052116) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2011](/foundation_dates/2011/) |
 | Inception | 2011-08-01 |
 | Quora Topic Id | DigitalOcean |
-| Logo Image | DigitalOcean logo.svg |
 | Language Of Work Or Name | English |
 | Image | DigitalOcean screenshot.png |
 | X (Twitter) Username | digitalocean (as of 2020-04-19, from 2012-01-06) |

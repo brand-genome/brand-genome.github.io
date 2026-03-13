@@ -2,7 +2,7 @@
 title: Conmebol
 slug: conmebol
 description: ""
-date: "2026-03-05T22:38:39.528829"
+date: "2026-03-13T08:56:59.461998"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - luque
+subsidiaries: []
+foundation_dates:
+  - 1916
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,32 +49,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - blue
   - "pantone-2935"
   - black
+  - blue
 typographies:
-  - ubuntu
-  - arial
   - "sans-serif"
+  - arial
+  - ubuntu
 imagery_styles:
-  - bold
-  - landscape
-  - flat
-  - gradient
-  - modern
   - portrait
+  - landscape
+  - modern
+  - gradient
+  - flat
+  - bold
 wikidata_description: governing body of association football in South America
+wikidata_url: "https://www.wikidata.org/wiki/Q58733"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q58733) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Luque](/headquarters_locations/luque/) |
+| Foundation Date | [1916](/foundation_dates/1916/) |
 | Topic'S Main Category | Category:CONMEBOL |
 | Freebase Id | /m/02k1ql |
 | Gnd Id | 16180722-7 |
@@ -142,7 +161,6 @@ guideline_count: 1
 | Child Organization Or Unit | Argentine Football Association, Bolivian Football Federation, Brazilian Football Confederation, Football Federation of Chile, Colombian Football Federation (+5 more) |
 | Omegawiki Defined Meaning | 1646701 |
 | Official Name | Confederación Sudamericana de Fútbol, Confederação Sul-Americana de Futebol |
-| Logo Image | Conmebol text logo 2021.svg |
 | Social Media Followers | 1,347,327 (as of 2021-01-10), 1,198,886 (as of 2020-02-06), 1,650,381 (as of 2022-01-08), 1,899,207 (as of 2023-02-03) |
 | Fandom Article Id | football:CONMEBOL |
 | Locator Map Image | CONMEBOL member associations map.svg |

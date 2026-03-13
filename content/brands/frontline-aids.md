@@ -2,7 +2,7 @@
 title: Frontline Aids
 slug: "frontline-aids"
 description: ""
-date: "2026-03-05T22:38:39.493700"
+date: "2026-03-13T08:56:59.422861"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
@@ -20,9 +20,19 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +57,15 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: international NGO from the United Kingdom
+wikidata_url: "https://www.wikidata.org/wiki/Q132471948"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,17 +128,29 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q132471948) |
+
+| Property | Value |
+|----------|-------|
 | Iati Organisation Id | GB-CHC-1038860 |
 | Country | United Kingdom |
 | Charity Commission No. | 1038860 |
-| Employees | 77 (as of 2023), 82 (as of 2024) |
 | Donations | 16,450 pound sterling (as of 2019), 8,569 pound sterling (as of 2020), 4,255 pound sterling (as of 2021), 52,116 pound sterling (as of 2022), 16,740 pound sterling (as of 2023) (+1 more) |
 
 ### Revenue History
 
-- $19.84M (19,838,634 pound sterling (as of 2019))
-- $18.88M (18,882,138 pound sterling (as of 2020))
-- $15.19M (15,192,452 pound sterling (as of 2021))
-- $13.28M (13,277,350 pound sterling (as of 2022))
-- $13.79M (13,786,239 pound sterling (as of 2023))
-- $15.99M (15,993,453 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $19.84M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $18.88M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $15.19M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $13.28M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $13.79M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $15.99M | as of 2024 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 77 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 82 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

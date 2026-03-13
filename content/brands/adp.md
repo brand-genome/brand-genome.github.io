@@ -2,7 +2,7 @@
 title: ADP
 slug: adp
 description: ""
-date: "2026-03-05T22:38:39.680147"
+date: "2026-03-13T08:56:59.598090"
 draft: false
 sectors:
   - software
@@ -17,16 +17,33 @@ tags:
   - corporate
 industries:
   - "software-industry"
-  - "accounting-services"
   - "human-resource-management"
+  - "accounting-services"
   - "data-processing"
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "database-management-system"
+  - "enterprise-resource-planning"
+  - "software-as-a-service"
+  - "accounting-software"
+  - "relational-database-management-system"
+  - software
+products: []
+headquarters_locations:
+  - roseland
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +63,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-7620"
   - red
-  - black
+  - "pantone-7620"
   - navy
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American human resources management software company
+wikidata_url: "https://www.wikidata.org/wiki/Q489080"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +120,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q489080) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Database Management System](/products_or_materials_produced/database-management-system/); [Enterprise Resource Planning](/products_or_materials_produced/enterprise-resource-planning/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Accounting Software](/products_or_materials_produced/accounting-software/); [Relational Database Management System](/products_or_materials_produced/relational-database-management-system/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Roseland](/headquarters_locations/roseland/) |
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Stock Exchange | Nasdaq (from 1990-01-02) |
 | Freebase Id | /m/04hshv |
 | Topic'S Main Category | Category:ADP (company) |
@@ -110,7 +136,6 @@ guideline_count: 1
 | Headquarters Location | Roseland |
 | Isin | US0530151036 |
 | Location Of Formation | Roseland |
-| Logo Image | Automatic-Data-Processing-Logo.svg, Automatic Data Processing (logo).svg |
 | Industry | human resource management, software industry, accounting services, data processing |
 | Quora Topic Id | Automatic-Data-Processing |
 | Permid | 4295903514 |
@@ -151,36 +176,40 @@ guideline_count: 1
 
 ### Revenue History
 
-- $8.73B (8,733,700,000 United States dollar (as of 2008, from 2007-07-01, until 2008-06-30))
-- $8.84B (8,838,400,000 United States dollar (as of 2009, from 2008-07-01, until 2009-06-30))
-- $8.93B (8,927,700,000 United States dollar (as of 2010, from 2009-07-01, until 2010-06-30))
-- $9.88B (9,879,500,000 United States dollar (as of 2011, from 2010-07-01, until 2011-06-30))
-- $10.67B (10,665,200,000 United States dollar (as of 2012, from 2011-07-01, until 2012-06-30))
-- $11.31B (11,310,100,000 United States dollar (as of 2013, from 2012-07-01, until 2013-06-30))
-- $12.21B (12,206,500,000 United States dollar (as of 2014, from 2013-07-01, until 2014-06-30))
-- $10.94B (10,938,500,000 United States dollar (as of 2015, from 2014-07-01, until 2015-06-30))
-- $11.67B (11,667,800,000 United States dollar (as of 2016, from 2015-07-01, until 2016-06-30))
-- $12.38B (12,379,800,000 United States dollar (as of 2017, from 2016-07-01, until 2017-06-30))
-- $13.33B (13,325,800,000 United States dollar (as of 2018, from 2017-07-01, until 2018-06-30))
-- $14.18B (14,175,200,000 United States dollar (as of 2019, from 2018-07-01, until 2019-06-30))
-- $14.59B (14,589,800,000 United States dollar (as of 2020, from 2019-07-01, until 2020-06-30))
-- $15.01B (15,005,400,000 United States dollar (as of 2021, from 2020-07-01, until 2021-06-30))
-- $16.50B (16,498,300,000 United States dollar (as of 2022, from 2021-07-01, until 2022-06-30))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $8.73B | as of 2008, from 2007-07-01, until 2008-06-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.84B | as of 2009, from 2008-07-01, until 2009-06-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $8.93B | as of 2010, from 2009-07-01, until 2010-06-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $9.88B | as of 2011, from 2010-07-01, until 2011-06-30 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.67B | as of 2012, from 2011-07-01, until 2012-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.31B | as of 2013, from 2012-07-01, until 2013-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.21B | as of 2014, from 2013-07-01, until 2014-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $10.94B | as of 2015, from 2014-07-01, until 2015-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.67B | as of 2016, from 2015-07-01, until 2016-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $12.38B | as of 2017, from 2016-07-01, until 2017-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.33B | as of 2018, from 2017-07-01, until 2018-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.18B | as of 2019, from 2018-07-01, until 2019-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $14.59B | as of 2020, from 2019-07-01, until 2020-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $15.01B | as of 2021, from 2020-07-01, until 2021-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $16.50B | as of 2022, from 2021-07-01, until 2022-06-30 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $1.24B (1,235,700,000 United States dollar (as of 2008, from 2007-07-01, until 2008-06-30))
-- $1.33B (1,332,600,000 United States dollar (as of 2009, from 2008-07-01, until 2009-06-30))
-- $1.21B (1,211,400,000 United States dollar (as of 2010, from 2009-07-01, until 2010-06-30))
-- $1.25B (1,254,200,000 United States dollar (as of 2011, from 2010-07-01, until 2011-06-30))
-- $1.39B (1,388,500,000 United States dollar (as of 2012, from 2011-07-01, until 2012-06-30))
-- $1.41B (1,405,800,000 United States dollar (as of 2013, from 2012-07-01, until 2013-06-30))
-- $1.52B (1,515,900,000 United States dollar (as of 2014, from 2013-07-01, until 2014-06-30))
-- $1.45B (1,452,500,000 United States dollar (as of 2015, from 2014-07-01, until 2015-06-30))
-- $1.49B (1,492,500,000 United States dollar (as of 2016, from 2015-07-01, until 2016-06-30))
-- $1.73B (1,733,400,000 United States dollar (as of 2017, from 2016-07-01, until 2017-06-30))
-- $1.62B (1,620,800,000 United States dollar (as of 2018, from 2017-07-01, until 2018-06-30))
-- $2.29B (2,292,800,000 United States dollar (as of 2019, from 2018-07-01, until 2019-06-30))
-- $2.47B (2,466,500,000 United States dollar (as of 2020, from 2019-07-01, until 2020-06-30))
-- $2.60B (2,598,500,000 United States dollar (as of 2021, from 2020-07-01, until 2021-06-30))
-- $2.95B (2,948,900,000 United States dollar (as of 2022, from 2021-07-01, until 2022-06-30))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.24B | as of 2008, from 2007-07-01, until 2008-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.33B | as of 2009, from 2008-07-01, until 2009-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.21B | as of 2010, from 2009-07-01, until 2010-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.25B | as of 2011, from 2010-07-01, until 2011-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.39B | as of 2012, from 2011-07-01, until 2012-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.41B | as of 2013, from 2012-07-01, until 2013-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.52B | as of 2014, from 2013-07-01, until 2014-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.45B | as of 2015, from 2014-07-01, until 2015-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.49B | as of 2016, from 2015-07-01, until 2016-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.73B | as of 2017, from 2016-07-01, until 2017-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.62B | as of 2018, from 2017-07-01, until 2018-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.29B | as of 2019, from 2018-07-01, until 2019-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.47B | as of 2020, from 2019-07-01, until 2020-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.60B | as of 2021, from 2020-07-01, until 2021-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.95B | as of 2022, from 2021-07-01, until 2022-06-30 | [1B-10B](/net_profit_buckets/1b-10b/) |

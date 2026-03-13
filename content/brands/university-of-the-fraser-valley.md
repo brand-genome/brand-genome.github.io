@@ -2,7 +2,7 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-03-05T22:38:39.719259"
+date: "2026-03-13T08:56:59.737994"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "UNDER-1M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1974
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,29 +53,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - secondary
-  - crest
-  - wordmark
+  - primary
   - vertical
+  - crest
+  - seal
+  - wordmark
 brand_colors:
   - black
 typographies:
-  - serif
-  - "sans-serif"
   - playfair
   - "open-sans"
-  - roboto
   - display
+  - roboto
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "public university in British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q2495961"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +131,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2495961) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1974](/foundation_dates/1974/) |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Abbotsford, Mission, Chilliwack, Hope |
 | Topic'S Main Category | Category:University of the Fraser Valley |
@@ -143,36 +162,83 @@ guideline_count: 1
 | Short Name | UFV |
 | Athletics Program | UFV Cascades |
 | Kisti Id | K000196635 |
-| Logo Image | Fraser valley univ logo.svg |
 | ‎Yale Lux Id | group/e405b573-3a2e-48e9-bc9e-4218e991be3b |
 | World Higher Education Database Id | IAU-020555 |
 | Organisation Tax Status | charitable organization in Canada |
 | Donations | 527,632 Canadian dollar (as of 2003), 853,343 Canadian dollar (as of 2004), 786,732 Canadian dollar (as of 2005), 1,029,798 Canadian dollar (as of 2006), 1,093,693 Canadian dollar (as of 2007) (+17 more) |
-| Total Assets | 465,123 Canadian dollar (as of 2003), 957,645 Canadian dollar (as of 2004), 1,547,988 Canadian dollar (as of 2005), 1,868,054 Canadian dollar (as of 2006), 1,050,648 Canadian dollar (as of 2007) (+17 more) |
-| Employees | 1 (as of 2009), 4 (as of 2010), 7 (as of 2011), 5 (as of 2012), 1,034 (as of 2013) (+11 more) |
 | Cra Program Account Number | 107403701RR0001 |
 
 ### Revenue History
 
-- $743.34K (743,342 Canadian dollar (as of 2003))
-- $1.01M (1,009,886 Canadian dollar (as of 2004))
-- $1.29M (1,286,991 Canadian dollar (as of 2005))
-- $1.38M (1,378,419 Canadian dollar (as of 2006))
-- $1.27M (1,271,826 Canadian dollar (as of 2007))
-- $1.79M (1,792,127 Canadian dollar (as of 2008))
-- $1.80M (1,795,694 Canadian dollar (as of 2009))
-- $2.01M (2,013,093 Canadian dollar (as of 2010))
-- $9.80M (9,804,315 Canadian dollar (as of 2011))
-- $2.59M (2,592,607 Canadian dollar (as of 2012))
-- $115.18M (115,179,483 Canadian dollar (as of 2013))
-- $115.53M (115,534,503 Canadian dollar (as of 2014))
-- $117.81M (117,813,551 Canadian dollar (as of 2015))
-- $122.31M (122,314,915 Canadian dollar (as of 2016))
-- $128.97M (128,972,292 Canadian dollar (as of 2017))
-- $136.68M (136,678,859 Canadian dollar (as of 2018))
-- $157.69M (157,694,324 Canadian dollar (as of 2019))
-- $159.44M (159,442,777 Canadian dollar (as of 2020))
-- $152.86M (152,856,413 Canadian dollar (as of 2021))
-- $151.92M (151,919,002 Canadian dollar (as of 2022))
-- $164.84M (164,844,271 Canadian dollar (as of 2023))
-- $190.17M (190,172,994 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $743.34K | as of 2003 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.01M | as of 2004 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.29M | as of 2005 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.38M | as of 2006 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.27M | as of 2007 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.79M | as of 2008 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.80M | as of 2009 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.01M | as of 2010 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.80M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.59M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $115.18M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $115.53M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $117.81M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $122.31M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $128.97M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $136.68M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $157.69M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $159.44M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $152.86M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $151.92M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $164.84M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $190.17M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1 | as of 2009 | [UNDER-100](/employees_buckets/under-100/) |
+| 4 | as of 2010 | [UNDER-100](/employees_buckets/under-100/) |
+| 7 | as of 2011 | [UNDER-100](/employees_buckets/under-100/) |
+| 5 | as of 2012 | [UNDER-100](/employees_buckets/under-100/) |
+| 1,034 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,814 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,841 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,849 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,780 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,833 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,933 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,065 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,895 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,958 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,038 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,343 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $465.12K | as of 2003 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $957.64K | as of 2004 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $1.55M | as of 2005 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.87M | as of 2006 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.05M | as of 2007 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.33M | as of 2008 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $1.76M | as of 2009 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $2.49M | as of 2010 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $10.86M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $12.02M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $203.52M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $207.40M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $222.97M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $223.72M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $233.71M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $246.44M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $272.12M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $281.89M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $293.28M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $301.34M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $317.96M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $351.93M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

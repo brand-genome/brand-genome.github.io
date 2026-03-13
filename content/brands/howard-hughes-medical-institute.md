@@ -2,12 +2,12 @@
 title: Howard Hughes Medical Institute
 slug: "howard-hughes-medical-institute"
 description: ""
-date: "2026-03-05T22:38:39.269932"
+date: "2026-03-13T08:56:59.212473"
 draft: false
 sectors:
+  - ngo
   - research
   - healthcare
-  - ngo
 regions:
   - usa
 years:
@@ -20,9 +20,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "chevy-chase"
+subsidiaries: []
+foundation_dates:
+  - 1953
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: foundation
+wikidata_url: "https://www.wikidata.org/wiki/Q1512226"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1512226) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Chevy Chase](/headquarters_locations/chevy-chase/) |
+| Foundation Date | [1953](/foundation_dates/1953/) |
 | Freebase Id | /m/023kst |
 | Country | United States |
 | Headquarters Location | Chevy Chase |
@@ -74,7 +94,6 @@ guideline_count: 1
 | Isni | 0000000121671581 |
 | Ringgold Id | 2405 |
 | Quora Topic Id | Howard-Hughes-Medical-Institute |
-| Logo Image | Howard Hughes Medical Institute logo.svg |
 | Permid | 4296570797 |
 | Open Funder Registry Funder Id | 100000011 |
 | Child Organization Or Unit | Health Research Alliance |
@@ -102,7 +121,6 @@ guideline_count: 1
 | Gnd Id | 5093006-0 |
 | Total Expenditure | 853,573,000 United States dollar (as of 2022) |
 | Chairperson | Erin K. O'Shea |
-| Employees | 2,300 (as of 2022) |
 | Has Goal | biological research, medical research, science education |
 | Kisti Id | K000215690 |
 | Snac Ark Id | w61g5qb1 |
@@ -112,4 +130,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $2.30B (-2,303,036,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $2.30B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,300 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |

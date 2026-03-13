@@ -2,11 +2,11 @@
 title: Novo Nordisk Foundation
 slug: "novo-nordisk-foundation"
 description: ""
-date: "2026-03-05T22:38:39.141339"
+date: "2026-03-13T08:56:59.090139"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - denmark
 years:
@@ -14,16 +14,29 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries:
   - foundation
 countries:
   - denmark
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "500B-1T"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - hellerup
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Enterprise foundation
+wikidata_url: "https://www.wikidata.org/wiki/Q22723716"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22723716) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Hellerup](/headquarters_locations/hellerup/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Country | Denmark |
 | Cvr Number | 10582989 |
 | Inception | 1989-01-12 |
@@ -78,7 +99,6 @@ guideline_count: 1
 | Board Member | Karsten Dybvad (from 2011-05-06, until 2017-03-16), Steen Riisgaard, Sten Scheibye (from 2013, until 2018), Liselotte Højgaard (from 2018-03), Lars Rebien Sørensen (+1 more) |
 | Isni | 0000000099227627 |
 | Ringgold Id | 375536 |
-| Logo Image | Novo Nordisk Foundation logo.svg |
 | Legal Form | erhvervsdrivende fond |
 | Grid Id | grid.487026.f |
 | Microsoft Academic Id (Discontinued) | 2801134892 |
@@ -101,9 +121,21 @@ guideline_count: 1
 | Industry | foundation |
 | Image | 20171005 Novo Nordisk Fonden kontor Hellerup 0035 (37067541564).jpg |
 | Child Organization Or Unit | Novo Holdings |
-| Employees | 95,741 full-time equivalent (as of 2024) |
-| Total Assets | 883,419,000,000 Danish krone (as of 2024) |
 
 ### Revenue History
 
-- $342.80B (342,798,000,000 Danish krone (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $342.80B | as of 2024 | [100B-500B](/revenue_buckets/100b-500b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 95,741 | as of 2024 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $883.42B | as of 2024 | [500B-1T](/total_assets_buckets/500b-1t/) |

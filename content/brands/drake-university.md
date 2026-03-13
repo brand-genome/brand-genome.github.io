@@ -2,7 +2,7 @@
 title: Drake University
 slug: "drake-university"
 description: ""
-date: "2026-03-05T22:38:39.613382"
+date: "2026-03-13T08:56:59.559593"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1881
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: "private university in Des Moines, Iowa"
+wikidata_url: "https://www.wikidata.org/wiki/Q5305629"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +98,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5305629) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1881](/foundation_dates/1881/) |
 | Coordinate Location | 41.601111111111, -93.652222222222 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Des Moines |
@@ -104,7 +123,6 @@ guideline_count: 1
 | Encyclopædia Britannica Online Id | topic/Drake-University |
 | Grid Id | grid.255228.a |
 | Category For Employees Of The Organization | Category:Drake University faculty |
-| Logo Image | Drake University logo.svg |
 | Microsoft Academic Id (Discontinued) | 87213936 |
 | Street Address | 2507 University Avenue, Des Moines, IA, 50311-4505 |
 | Gnd Id | 5245846-5 |
@@ -120,9 +138,7 @@ guideline_count: 1
 | Social Media Followers | 50,405 (as of 2021-01-05), 48,452 (as of 2020-04-25), 51,718 (as of 2022-02-27), 52,033 (as of 2023-02-04) |
 | Crunchbase Organization Id | drake-university |
 | Count Of Students | 4,774 (as of 2020-09), 4,090 (as of 2021-09-01) |
-| Total Assets | 506,477,281 United States dollar (as of 2020-06-30) |
 | Endowment | 219,800,168 United States dollar (as of 2020-06-30), 245,420,135 United States dollar (as of 2022-06-30), 279,782,245 United States dollar (as of 2021-06-30) |
-| Employees | 1,178 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I87213936 |
@@ -141,3 +157,15 @@ guideline_count: 1
 | ‎Yale Lux Id | group/e157bdd7-5f10-428c-8060-7495952e66cd |
 | Threads Username | drakeuniversity |
 | Athletics Program | Drake Bulldogs |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,178 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $506.48M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

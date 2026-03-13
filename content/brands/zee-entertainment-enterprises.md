@@ -2,7 +2,7 @@
 title: Zee Entertainment Enterprises
 slug: "zee-entertainment-enterprises"
 description: ""
-date: "2026-03-05T22:38:39.118010"
+date: "2026-03-13T08:56:59.065642"
 draft: false
 sectors:
   - broadcasting
@@ -10,22 +10,34 @@ sectors:
 regions:
   - india
 years:
-  - 2017
   - 2025
+  - 2017
 languages:
   - english
 tags:
   - broadcast
-  - featured
   - media
+  - featured
 industries:
   - "mass-media"
 countries:
-  - "united-kingdom"
   - india
+  - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - broadcasting
+products: []
+headquarters_locations:
+  - mumbai
+subsidiaries: []
+foundation_dates:
+  - 1992
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Indian media and entertainment company
+wikidata_url: "https://www.wikidata.org/wiki/Q12428554"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -69,6 +83,13 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12428554) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Broadcasting](/products_or_materials_produced/broadcasting/) |
+| Headquarters Location | [Mumbai](/headquarters_locations/mumbai/) |
+| Foundation Date | [1992](/foundation_dates/1992/) |
 | Freebase Id | /m/03x5yv |
 | Founded By | Subhash Chandra |
 | Headquarters Location | Mumbai |
@@ -83,4 +104,3 @@ guideline_count: 2
 | Operating Area | worldwide |
 | Corporate Identification Number (Cin) In India | L92132MH1982PLC028767 |
 | Opencorporates Id | in/L92132MH1982PLC028767 |
-| Logo Image | Zee Entertainment 2025.svg |

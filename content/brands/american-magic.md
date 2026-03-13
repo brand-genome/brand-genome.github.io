@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-03-05T22:38:39.519854"
+date: "2026-03-13T08:56:59.452885"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,33 +48,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
-  - white
-  - red
-  - gold
-  - "pantone-420"
-  - "pantone-282"
-  - black
-  - "pantone-464"
-  - blue
-  - gray
   - "pantone-193"
+  - red
+  - white
+  - blue
+  - "pantone-282"
+  - "pantone-464"
+  - gold
+  - black
+  - gray
+  - "pantone-420"
 typographies:
   - helvetica
 imagery_styles:
-  - bold
   - staged
+  - bold
 wikidata_description: US sailing team
+wikidata_url: "https://www.wikidata.org/wiki/Q104887673"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +131,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q104887673) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Country | United States |
 | Owned By | New York Yacht Club |
 | Represents | New York Yacht Club |

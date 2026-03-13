@@ -2,7 +2,7 @@
 title: NYIT
 slug: nyit
 description: ""
-date: "2026-03-05T22:38:39.565287"
+date: "2026-03-13T08:56:59.491723"
 draft: false
 sectors:
   - education
@@ -10,14 +10,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2017
   - 2020
+  - 2017
 languages:
   - english
 tags:
+  - technology
   - education
   - featured
-  - technology
 industries:
   - "higher-education"
 countries:
@@ -25,6 +25,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1955
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +61,20 @@ brand_colors:
   - white
   - black
 typographies:
-  - arial
-  - times
   - helvetica
+  - times
+  - arial
 imagery_styles:
-  - bold
   - photography
   - abstract
+  - bold
 wikidata_description: "private university in New York, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1709596"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +125,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1709596) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1955](/foundation_dates/1955/) |
 | Coordinate Location | 40.8080625, -73.6033125 |
 | Country | United States |
 | Topic'S Main Category | Category:New York Institute of Technology |
@@ -134,7 +153,6 @@ guideline_count: 2
 | Grid Id | grid.260914.8 |
 | Imdb Id | co0061366 |
 | Affiliation | National Association of Independent Colleges and Universities |
-| Logo Image | New York Institute of Technology logo.svg |
 | Street Address | Northern Blvd, Old Westbury, NY, 11568-8000 |
 | Nla Trove People Id | 933155 |
 | Facebook Username | mynyit |
@@ -146,9 +164,7 @@ guideline_count: 2
 | Researchgate Institute Id | New_York_Institute_of_Technology |
 | Open Funder Registry Funder Id | 100018554 |
 | Count Of Students | 6,851 (as of 2020-09) |
-| Total Assets | 278,903,089 United States dollar (as of 2020-06-30) |
 | Endowment | 84,815,425 United States dollar (as of 2020-06-30) |
-| Employees | 1,558 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Child Organization Or Unit | New York Institute of Technology School of Management, New York Institute of Technology College of Osteopathic Medicine, New York Institute of Technology - Manhattan Campus, NYIT School of Architecture & Design, New York Institute of Technology - Long Island Campus (+3 more) |
@@ -173,3 +189,15 @@ guideline_count: 2
 | Youtube Handle | nyitview (as of 2025-10-20) |
 | Number Of Viewers/Listeners | 7,534,874 (as of 2025-11-24) |
 | Threads Username | mynyit |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,558 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $278.90M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

@@ -2,7 +2,7 @@
 title: Transport for London
 slug: "transport-for-london"
 description: ""
-date: "2026-03-05T22:38:39.805922"
+date: "2026-03-13T08:56:59.862908"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "stratford-cross"
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ typographies:
 imagery_styles:
   - bold
 wikidata_description: local government body responsible for the transport system in Greater London
+wikidata_url: "https://www.wikidata.org/wiki/Q682520"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -731,6 +745,12 @@ NOTE
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q682520) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Stratford Cross](/headquarters_locations/stratford-cross/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Headquarters Location | Stratford Cross |
 | Country | United Kingdom |
 | Inception | 2000-07-03 |
@@ -738,7 +758,6 @@ NOTE
 | Topic'S Main Category | Category:Transport for London |
 | Viaf Cluster Id | 153411703 |
 | Operating Area | Greater London |
-| Logo Image | TfL mark.svg |
 | Location Of Formation | London |
 | Industry | public transport |
 | Legal Form | public authority |
@@ -758,7 +777,6 @@ NOTE
 | Microsoft Academic Id (Discontinued) | 2799890334 |
 | Library Of Congress Authority Id | n2003123082 |
 | Ror Id | 03vnshb93 |
-| Employees | 28,000 |
 | Littlesis Organization Id | 36972 |
 | Replaces | London Regional Transport |
 | Image | 5 Endeavour Square (39155613402).jpg |
@@ -791,3 +809,9 @@ NOTE
 | Gitlab Topic Id | TfL |
 | The Guardian Topic Id | uk/tfl |
 | Coordinate Location | 51.497878, -0.135164 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 28,000 | - | [10K-50K](/employees_buckets/10k-50k/) |

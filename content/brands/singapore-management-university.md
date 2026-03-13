@@ -2,7 +2,7 @@
 title: Singapore Management University
 slug: "singapore-management-university"
 description: ""
-date: "2026-03-05T22:38:39.744455"
+date: "2026-03-13T08:56:59.783038"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - singapore
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: autonomous university in Singapore founded in 2000
+wikidata_url: "https://www.wikidata.org/wiki/Q950609"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q950609) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Coordinate Location | 1.2966666666667, 103.84972222222 |
 | Topic'S Main Category | Category:Singapore Management University |
 | Freebase Id | /m/03j609 |
@@ -114,12 +133,28 @@ guideline_count: 1
 | ‎Yale Lux Id | group/39f841e0-d7b4-4aab-9852-124118630eed |
 | Singapore Unique Entity Number | 200000267Z |
 | Donations | 41,444,000 Singapore dollar (as of 2023), 21,539,000 Singapore dollar (as of 2024), 36,769,000 Singapore dollar (as of 2025) |
-| Total Assets | 2,953,922,000 Singapore dollar (as of 2023), 3,011,602,000 Singapore dollar (as of 2024), 3,105,107,000 Singapore dollar (as of 2025) |
-| Employees | 1,697 (as of 2023), 1,752 (as of 2024), 1,855 (as of 2025) |
 | Threads Username | sgsmu |
 
 ### Revenue History
 
-- $424.16M (424,161,000 Singapore dollar (as of 2023))
-- $724.73M (724,726,000 Singapore dollar (as of 2024))
-- $660.40M (660,403,000 Singapore dollar (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $424.16M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $724.73M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $660.40M | as of 2025 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,697 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,752 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,855 | as of 2025 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $2.95B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.01B | as of 2024 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $3.11B | as of 2025 | [1B-10B](/total_assets_buckets/1b-10b/) |

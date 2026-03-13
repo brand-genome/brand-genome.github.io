@@ -2,7 +2,7 @@
 title: Believe
 slug: believe
 description: ""
-date: "2026-03-05T22:38:39.119958"
+date: "2026-03-13T08:56:59.069400"
 draft: false
 sectors:
   - entertainment
@@ -19,9 +19,25 @@ industries:
 countries:
   - france
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "music-publishing"
+  - "digital-distribution"
+  - marketing
+  - "rights-management"
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French music company
+wikidata_url: "https://www.wikidata.org/wiki/Q30594847"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,12 +86,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30594847) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Music Publishing](/products_or_materials_produced/music-publishing/); [Digital Distribution](/products_or_materials_produced/digital-distribution/); [Marketing](/products_or_materials_produced/marketing/); [Rights Management](/products_or_materials_produced/rights-management/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Musicbrainz Label Id | 3fc17205-3a0e-4a2c-8f00-cdfb899427e3, b13d3ac5-dbb5-4ea7-9f4a-2eedc601c671 |
 | Inception | 2005-04-07 |
-| Logo Image | Believe Black.png |
 | Freebase Id | /m/0fr3nkx |
 | Headquarters Location | Paris |
-| Employees | 1,650 greater than (as of 2022), 1,500 greater than (as of 2021), 1,270 greater than (as of 2020) |
 | Country | France |
 | Crunchbase Organization Id | believedigital |
 | Industry |  |
@@ -93,5 +116,15 @@ guideline_count: 1
 
 ### Revenue History
 
-- $440.00M (440,000,000 (as of 2020))
-- $760.00M (760,000,000 (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $440.00M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $760.00M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,650 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,500 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,270 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |

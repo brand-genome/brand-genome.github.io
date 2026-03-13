@@ -2,7 +2,7 @@
 title: Sierra College
 slug: "sierra-college"
 description: ""
-date: "2026-03-05T22:38:39.666172"
+date: "2026-03-13T08:56:59.586868"
 draft: false
 sectors:
   - education
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1936
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,29 +52,31 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-7490"
   - white
-  - "pantone-1805"
   - red
-  - black
   - blue
   - "pantone-7469"
-  - gray
   - "pantone-484"
-  - "pantone-7490"
+  - "pantone-1805"
   - green
+  - black
+  - gray
 typographies:
-  - serif
   - din
+  - serif
 imagery_styles:
-  - classic
-  - modern
   - natural
   - graphic
+  - modern
+  - classic
 wikidata_description: "community college located in Rocklin, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q7511366"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -155,6 +168,11 @@ When arranging logos together in a shared sponsorship line, logos should match h
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7511366) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1936](/foundation_dates/1936/) |
 | Coordinate Location | 38.7886, -121.209 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | California |
@@ -178,10 +196,15 @@ When arranging logos together in a shared sponsorship line, logos should match h
 | Different From | La Sierra University |
 | Social Media Followers | 3,708 (as of 2021-01-02) |
 | Count Of Students | 17,503 (as of 2020-09) |
-| Employees | 1,139 (as of 2020-09) |
 | Subreddit | SierraCollege |
 | Academic Calendar Type | semester |
 | Member Of | American Association of Community Colleges |
 | Parent Organization Or Unit | California Community Colleges |
 | ‎Yale Lux Id | group/69ac01d1-185f-4162-929a-db25adc486fa |
 | Openalex Id | I2799846239 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,139 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

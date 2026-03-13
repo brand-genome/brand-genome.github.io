@@ -2,12 +2,12 @@
 title: Dun and Bradstreet
 slug: "dun-and-bradstreet"
 description: ""
-date: "2026-03-05T22:38:39.580636"
+date: "2026-03-13T08:56:59.520499"
 draft: false
 sectors:
   - consulting
-  - finance
   - software
+  - finance
 regions:
   - usa
 years:
@@ -18,11 +18,25 @@ tags:
   - financial
 industries: []
 countries:
-  - "united-states"
   - israel
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "d-u-n-s"
+  - "db-business-directory-id"
+  - "company-information-system"
+products: []
+headquarters_locations:
+  - jacksonville
+subsidiaries: []
+foundation_dates:
+  - 1841
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +55,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
+  - primary
   - stacked
+  - horizontal
 brand_colors:
   - "pantone-3025"
 typographies: []
 imagery_styles:
-  - bold
   - photography
   - staged
+  - bold
 wikidata_description: commercial data and analytics service provider
+wikidata_url: "https://www.wikidata.org/wiki/Q1265181"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +130,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1265181) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [D U N S](/products_or_materials_produced/d-u-n-s/); [Db Business Directory Id](/products_or_materials_produced/db-business-directory-id/); [Company Information System](/products_or_materials_produced/company-information-system/) |
+| Headquarters Location | [Jacksonville](/headquarters_locations/jacksonville/) |
+| Foundation Date | [1841](/foundation_dates/1841/) |
 | Stock Exchange | New York Stock Exchange |
 | Topic'S Main Category | Category:Dun & Bradstreet |
 | Viaf Cluster Id | 125549076 |
@@ -164,7 +187,6 @@ guideline_count: 1
 | Product Or Material Produced | D-U-N-S, D&B Business Directory ID, company information system |
 | Child Organization Or Unit | Bisnode D&B Česká a Slovenská republika, Dun & Bradstreet Czech Republic, D&B Deutschland GmbH |
 | ‎Yale Lux Id | group/7ab3c9b2-8654-4c72-8780-9be5977e22cb |
-| Logo Image | Dun and Bradstreet wordmark.svg |
 | Trustpilot Company Id | dnb.com |
 | Review Score | 1.2/5 |
 | Replaces | R. G. Dun & Co (as of 1933) |

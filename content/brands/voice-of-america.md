@@ -2,11 +2,11 @@
 title: Voice of America
 slug: "voice-of-america"
 description: ""
-date: "2026-03-05T22:38:39.164415"
+date: "2026-03-13T08:56:59.098337"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - ambigram
+  - broadcast
   - media
 industries: []
 countries:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1942
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,16 +56,18 @@ logo_elements: []
 brand_colors:
   - white
   - red
-  - black
   - blue
+  - black
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: United States international broadcaster
+wikidata_url: "https://www.wikidata.org/wiki/Q228389"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -88,7 +102,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
-| Logo Image | VOA logo.svg |
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q228389) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1942](/foundation_dates/1942/) |
 | Freebase Id | /m/0q0r9 |
 | Award Received | Peabody Awards |
 | Viaf Cluster Id | 129621415 |
@@ -153,7 +172,6 @@ guideline_count: 1
 | Mastodon Address | VOANews@mastodon.social (from 2022-12-15) |
 | Yso Id | 18153 |
 | Wikikids Id | Voice_of_America |
-| Employees | 961 |
 | Littlesis Organization Id | 79940 |
 | Nla Trove People Id | 1103868 |
 | Openstreetmap Node Id | 367144383 |
@@ -170,3 +188,9 @@ guideline_count: 1
 | Bbc Things Id | 69e1fd22-6ab5-42ae-a780-0e9fae28fbee |
 | Different From | VOA |
 | Visuotinė Lietuvių Enciklopedija Id | amerikos-balsas |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 961 | - | [100-1K](/employees_buckets/100-1k/) |

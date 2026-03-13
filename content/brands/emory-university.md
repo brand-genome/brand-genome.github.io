@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-03-05T22:38:39.181065"
+date: "2026-03-13T08:56:59.108745"
 draft: false
 sectors:
   - university
@@ -20,9 +20,22 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - atlanta
+subsidiaries: []
+foundation_dates:
+  - 1836
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,29 +54,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
-  - "pantone-294"
-  - gold
-  - crimson
-  - black
-  - yellow
   - blue
+  - "pantone-294"
+  - yellow
+  - gold
   - "pantone-130"
+  - black
+  - crimson
 typographies:
   - "open-sans"
 imagery_styles:
-  - bold
   - photography
   - natural
+  - bold
 wikidata_description: "private research university in Atlanta, Georgia, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q621043"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,6 +125,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q621043) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1836](/foundation_dates/1836/) |
 | Coordinate Location | 33.791111111111, -84.323333333333 |
 | Topic'S Main Category | Category:Emory University |
 | Freebase Id | /m/0bqxw |
@@ -168,8 +189,6 @@ guideline_count: 1
 | Crunchbase Organization Id | emory-university |
 | Politifact People And Groups Id | emory-university |
 | National Library Of Israel J9U Id | 987007260864805171 |
-| Total Assets | 17,172,361,000 United States dollar (as of 2020-06-30), 9,779,880,221 United States dollar (as of 2011), 10,376,925,738 United States dollar (as of 2012), 11,036,367,740 United States dollar (as of 2013), 12,191,767,156 United States dollar (as of 2014) (+9 more) |
-| Employees | 12,953 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | emory (as of 2023-05-23, from 2010-05-24) |
@@ -223,17 +242,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $3.08B (3,084,868,216 United States dollar (as of 2011))
-- $3.15B (3,145,500,356 United States dollar (as of 2012))
-- $3.28B (3,275,702,848 United States dollar (as of 2013))
-- $3.50B (3,504,618,972 United States dollar (as of 2014))
-- $3.53B (3,525,925,969 United States dollar (as of 2015))
-- $3.59B (3,589,561,177 United States dollar (as of 2016))
-- $4.07B (4,065,819,568 United States dollar (as of 2017))
-- $4.53B (4,531,249,482 United States dollar (as of 2018))
-- $4.75B (4,745,388,583 United States dollar (as of 2019))
-- $4.76B (4,755,859,486 United States dollar (as of 2020))
-- $5.53B (5,533,550,104 United States dollar (as of 2021))
-- $6.37B (6,366,155,640 United States dollar (as of 2022))
-- $6.31B (6,307,404,920 United States dollar (as of 2023))
-- $7.31B (7,310,968,615 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.08B | as of 2011 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.15B | as of 2012 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.28B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.50B | as of 2014 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.53B | as of 2015 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $3.59B | as of 2016 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.07B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.53B | as of 2018 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.75B | as of 2019 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $4.76B | as of 2020 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $5.53B | as of 2021 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.37B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $6.31B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.31B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 12,953 | as of 2020-09 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $17.17B | as of 2020-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $9.78B | as of 2011 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $10.38B | as of 2012 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.04B | as of 2013 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $12.19B | as of 2014 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $11.89B | as of 2015 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $12.27B | as of 2016 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $13.21B | as of 2017 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $14.17B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $14.82B | as of 2019 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $20.34B | as of 2021 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $20.14B | as of 2022 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $20.86B | as of 2023 | [10B-50B](/total_assets_buckets/10b-50b/) |
+| $22.21B | as of 2024 | [10B-50B](/total_assets_buckets/10b-50b/) |

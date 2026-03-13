@@ -2,7 +2,7 @@
 title: Texas Department of Transportation
 slug: "texas-department-of-transportation"
 description: ""
-date: "2026-03-05T22:38:39.558472"
+date: "2026-03-13T08:56:59.480793"
 draft: false
 sectors:
   - "public-sector"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "dewitt-c-greer-state-highway-building"
+subsidiaries: []
+foundation_dates:
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,15 +55,17 @@ brand_colors: []
 typographies:
   - arial
 imagery_styles:
-  - dynamic
   - candid
   - natural
   - staged
+  - dynamic
 wikidata_description: "governmental agency in Texas, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q568743"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +122,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q568743) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Dewitt C Greer State Highway Building](/headquarters_locations/dewitt-c-greer-state-highway-building/) |
+| Foundation Date | [1991](/foundation_dates/1991/) |
 | Freebase Id | /m/0bddlt |
 | Viaf Cluster Id | 144732400 |
 | Headquarters Location | Dewitt C. Greer State Highway Building |
@@ -127,7 +147,6 @@ guideline_count: 1
 | X (Twitter) Username | TxDOT (as of 2020-07-06, from 2008-10) |
 | Facebook Username | TxDOT |
 | Youtube Channel Id | UC0qQbqlsy_oGNuEKoz5NpXA (as of 2020-07-06, from 2008-11-19) |
-| Employees | 14,000 |
 | Coordinate Location | 30.272179, -97.740221 |
 | Image | GreerStateOfficeBldgEntrance.JPG |
 | Social Media Followers | 95,901 (as of 2021-01-04), 94,452 (as of 2020-07-06), 7,610 (as of 2021-09-24), 103,788 (as of 2022-02-26), 114,964 (as of 2023-02-09) (+5 more) |
@@ -139,3 +158,9 @@ guideline_count: 1
 | Official Map Url | https://its.txdot.gov/its |
 | Domain Name | txdot.gov |
 | ‎Yale Lux Id | group/8f978e0a-4630-4d21-9a62-1dfc85ff2e2b |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 14,000 | - | [10K-50K](/employees_buckets/10k-50k/) |

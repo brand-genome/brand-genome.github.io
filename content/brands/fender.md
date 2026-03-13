@@ -2,11 +2,11 @@
 title: Fender
 slug: fender
 description: ""
-date: "2026-03-05T22:38:39.729305"
+date: "2026-03-13T08:56:59.749201"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - "consumer-goods"
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -21,6 +21,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "bass-guitar"
+  - "string-instrument"
+  - "electronic-amplifier"
+products: []
+headquarters_locations:
+  - "nabari-station"
+subsidiaries: []
+foundation_dates:
+  - 1946
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American manufacturer of stringed instruments and amplifiers
+wikidata_url: "https://www.wikidata.org/wiki/Q175391"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -130,6 +146,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q175391) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [String Instrument](/products_or_materials_produced/string-instrument/); [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/) |
+| Headquarters Location | [Nabari Station](/headquarters_locations/nabari-station/) |
+| Foundation Date | [1946](/foundation_dates/1946/) |
 | Founded By | Leo Fender |
 | Topic'S Main Category | Category:Fender Musical Instruments Corporation |
 | Freebase Id | /m/032xp2 |
@@ -138,7 +161,6 @@ guideline_count: 1
 | Commons Gallery | Fender |
 | Location Of Formation | Japan (as of 1946) |
 | Inception | 1946 |
-| Logo Image | Fender guitars logo.svg |
 | Legal Entity Identifier | 549300G8G1R16J8L5Q60 |
 | Chief Executive Officer | Andy Mooney |
 | X (Twitter) Username | Fender (from 2007-01-26) |

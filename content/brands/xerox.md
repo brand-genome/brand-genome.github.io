@@ -2,11 +2,11 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-03-05T22:38:39.375756"
+date: "2026-03-13T08:56:59.334922"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -20,10 +20,30 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - projector
+  - "wide-format-printer"
+  - photocopier
+  - "office-supply"
+  - "multifunction-printer"
+  - printer
+  - "image-scanner"
+  - software
+products: []
+headquarters_locations:
+  - norwalk
+subsidiaries: []
+foundation_dates:
+  - 1906
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +66,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American document management corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q152433"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +87,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q152433) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Projector](/products_or_materials_produced/projector/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Photocopier](/products_or_materials_produced/photocopier/); [Office Supply](/products_or_materials_produced/office-supply/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Printer](/products_or_materials_produced/printer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Norwalk](/headquarters_locations/norwalk/) |
+| Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Xerox |
 | Headquarters Location | Norwalk |
 | Freebase Id | /m/087c7 |
@@ -101,7 +130,6 @@ guideline_count: 1
 | Nacsis Cat Author Id | DA05780676 |
 | Bibliothèque Nationale De France Id | 13545334m |
 | Microsoft Academic Id (Discontinued) | 33976269 |
-| Logo Image | Xerox logo.svg (from 2008), Xerox logo 1994.svg (from 1994, until 2008), Xerox logo (1968-2008).svg (from 1968, until 1994) |
 | Ror Id | 03jwzwq24 |
 | Pm20 Folder Id | co/025190 |
 | Member Of | Wi-Fi Alliance |
@@ -122,7 +150,6 @@ guideline_count: 1
 | Ne.Se Id | xerox-corporation |
 | Fandom Article Id | logos:Xerox, apple:Xerox |
 | National Library Of Israel J9U Id | 987007269912005171 |
-| Employees | 136,500 (as of 2010) |
 | Comparably Company Id | xerox-corporation |
 | Great Norwegian Encyclopedia Id | Xerox, Xerox_Corporation |
 | Golden Id | Xerox-W4G3Z |
@@ -158,8 +185,18 @@ guideline_count: 1
 
 ### Revenue History
 
-- $18.05B (18,045,000,000 United States dollar (as of 2015))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $18.05B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $488.00M (488,000,000 United States dollar (as of 2015))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $488.00M | as of 2015 | [100M-500M](/net_profit_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 136,500 | as of 2010 | [100K-500K](/employees_buckets/100k-500k/) |

@@ -2,11 +2,11 @@
 title: Curt
 slug: curt
 description: ""
-date: "2026-03-05T22:38:39.584261"
+date: "2026-03-13T08:56:59.524851"
 draft: false
 sectors:
-  - automobile
   - hardware
+  - automobile
 regions:
   - usa
 years:
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,28 +47,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - alternate
   - secondary
+  - primary
+  - alternate
+  - vertical
+  - symbol
   - horizontal
   - signature
-  - vertical
 brand_colors:
   - white
+  - black
   - blue
   - orange
-  - black
 typographies:
   - din
   - helvetica
 imagery_styles:
   - product
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

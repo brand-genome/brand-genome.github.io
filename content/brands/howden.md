@@ -2,7 +2,7 @@
 title: Howden
 slug: howden
 description: ""
-date: "2026-03-05T22:38:39.246535"
+date: "2026-03-13T08:56:59.190772"
 draft: false
 sectors:
   - insurance
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1994
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Howden are the world’s largest employee-owned insurance intermediary, operating across the full insurance value chain of retail, specialty, wholesale, underwriting, reinsurance, and capital markets"
+wikidata_url: "https://www.wikidata.org/wiki/Q87070013"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +80,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q87070013) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1994](/foundation_dates/1994/) |
 | Companies House Company Id | 06249799, 00750484 |
 | Inception | 1994 |
 | Headquarters Location | London |
@@ -74,4 +94,9 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | howden-insurance |
 | Osm Name Suggestion Index Id | howden-23333b |
 | Country | worldwide |
-| Employees | 23,000 (as of 2026-01-09) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 23,000 | as of 2026-01-09 | [10K-50K](/employees_buckets/10k-50k/) |

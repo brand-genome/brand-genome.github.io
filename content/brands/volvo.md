@@ -2,35 +2,51 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-03-05T22:38:39.178410"
+date: "2026-03-13T08:56:59.104662"
 draft: false
 sectors:
   - construction
-  - automobile
   - hardware
+  - automobile
 regions:
   - sweden
 years:
-  - 2016
-  - 2021
   - 2022
+  - 2021
+  - 2016
 languages:
   - english
   - chinese
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
   - "car-manufacturing"
 countries:
   - sweden
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "10b-50b"
+  - "10B-50B"
 net_profit_buckets:
-  - "10b-50b"
+  - "10B-50B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "100B-500B"
+market_cap_buckets: []
+products_or_materials_produced:
+  - car
+products: []
+headquarters_locations:
+  - gothenburg
+subsidiaries: []
+foundation_dates:
+  - 1927
+  - 2010
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,31 +70,33 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
-  - yellow
   - blue
+  - yellow
   - silver
   - green
+  - black
 typographies:
-  - impact
-  - serif
   - times
+  - serif
+  - impact
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - product
+  - natural
   - dynamic
-  - professional
   - clean
   - modern
+  - professional
+  - photography
+  - product
+  - bold
   - muted
-  - natural
 wikidata_description: automotive brand manufacturing subsidiary of Geely
+wikidata_url: "https://www.wikidata.org/wiki/Q215293"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 6
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -237,6 +255,13 @@ guideline_count: 6
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q215293) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
+| Foundation Date | [1927](/foundation_dates/1927/); [2010](/foundation_dates/2010/) |
 | Topic'S Main Category | Category:Volvo Cars |
 | Freebase Id | /m/022hnr |
 | Headquarters Location | Gothenburg |
@@ -251,10 +276,8 @@ guideline_count: 6
 | Itu/Iso/Iec Object Id | 1.3.6.1.4.1.37916 |
 | Eu Transparency Register Id | 74574295642-60 |
 | Ipv6 Routing Prefix | 2001:2040:6d::/49 |
-| Employees | 28,485 (as of 2015), 43,000 |
 | Chairperson | Li Shufu (from 2010) |
 | Production Rate | 705,452 unit per year (as of 2019) |
-| Logo Image | Volvo Trucks Logo.png (until 2021), Volvo-Iron-Mark-Black.svg (from 2021) |
 | Dagens Nyheter Topic Id | volvo-cars |
 | Open Funder Registry Funder Id | 100004741 |
 | Founded By | Assar Gabrielsson, Gustaf Larson |
@@ -287,7 +310,7 @@ guideline_count: 6
 | Youtube Channel Id | UCm5fiZ57ufkcZJE9tkUDvHA (as of 2021-08-22, from 2010-02-25), UCaY-4ndPCRKp60qXF7zBJ0w (as of 2021-08-22, from 2008-08-11), UCONrEV7wy79fMgEuCaToDIA (as of 2021-08-22, from 2013-12-27) |
 | Instagram Username | volvocarusa (as of 2021-08-22), volvocars (as of 2021-08-22), volvocarde (as of 2021-08-22) |
 | Pinterest Username | volvocarusa (as of 2021-08-22), volvocarde (as of 2021-08-22) |
-| Email Address | mailto:international@volvocars.com |
+| Email Address | international@volvocars.com |
 | Linkedin Company Or Organization Id | volvocars (as of 2021-08-22) |
 | Nl Cr Aut Id | ph250804 |
 | Great Norwegian Encyclopedia Id | Volvo |
@@ -295,8 +318,6 @@ guideline_count: 6
 | Weibo User Id | volvocarschina |
 | Legal Entity Identifier | 5299000EAMGGBEYP7J33 |
 | Stock Exchange | Nasdaq Stockholm AB (from 2021), Nasdaq Stockholm AB (from 2021-10-29) |
-| Total Assets | 330,924,000,000 Swedish krona (as of 2022-12-31) |
-| Total Equity | 117,278,000,000 Swedish krona (as of 2022-12-31) |
 | Owned By | Geely, AMF (as of 2022-12-31) |
 | Child Organization Or Unit | Volvo Car Czech Republic, Zenseact |
 | App Store App Id | 1587570076 |
@@ -318,12 +339,37 @@ guideline_count: 6
 
 ### Revenue History
 
-- $330.14B (330,145,000,000 Swedish krona (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $330.14B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $22.33B (22,332,000,000 Swedish krona (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $22.33B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $17.00B (17,003,000,000 Swedish krona (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $17.00B | as of 2022 | [10B-50B](/net_profit_buckets/10b-50b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 28,485 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 43,000 | - | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $330.92B | as of 2022-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $117.28B | as of 2022-12-31 | [100B-500B](/total_equity_buckets/100b-500b/) |

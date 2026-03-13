@@ -2,7 +2,7 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-03-05T22:38:39.396844"
+date: "2026-03-13T08:56:59.362790"
 draft: false
 sectors:
   - education
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,31 +47,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
   - white
   - red
-  - black
-  - yellow
-  - blue
   - navy
+  - blue
+  - yellow
   - green
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - bold
-  - photography
-  - professional
-  - static
-  - clean
   - natural
+  - clean
+  - static
+  - professional
+  - photography
+  - bold
 wikidata_description: early stage in software design
+wikidata_url: "https://www.wikidata.org/wiki/Q2122918"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +125,10 @@ Sage Green (C60 M41 Y65 K32 | R96 G105 B81 | HEX #606951).
 - Alpha resources are adapted for contexts such as prisons, youth, and professional environments, with distinct branding assets provided for each.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2122918) |
 
 | Property | Value |
 |----------|-------|

@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-03-05T22:38:39.779062"
+date: "2026-03-13T08:56:59.832861"
 draft: false
 sectors:
-  - research
-  - ngo
   - publishing
+  - ngo
+  - research
 regions:
   - usa
 years:
@@ -21,9 +21,23 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "technical-standard"
+products: []
+headquarters_locations:
+  - manhattan
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +56,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
   - secondary
+  - alternate
 brand_colors:
-  - blue
-  - "pantone-300"
   - black
+  - "pantone-300"
+  - blue
   - gray
 typographies:
   - verdana
 imagery_styles:
-  - bold
   - dynamic
+  - bold
 wikidata_description: American professional association for electronic engineering and electrical engineering
+wikidata_url: "https://www.wikidata.org/wiki/Q131566"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +133,13 @@ Incorrect usages include stretching, using unauthorized colors, and applying glo
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131566) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Technical Standard](/products_or_materials_produced/technical-standard/) |
+| Headquarters Location | [Manhattan](/headquarters_locations/manhattan/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Doi Prefix | 10.1109 |
 | Topic'S Main Category | Category:Institute of Electrical and Electronics Engineers |
 | Freebase Id | /m/0fpjj |
@@ -161,12 +184,10 @@ Incorrect usages include stretching, using unauthorized colors, and applying glo
 | Short Name | IEEE |
 | Spoken Text Audio | Es-IEEE-article-1.ogg |
 | Publons Publisher Id | 63 |
-| Logo Image | IEEE logo.svg |
 | X (Twitter) Username | ieeeorg (as of 2020-04-21, from 2009-07-06) |
 | Facebook Username | IEEE.org (as of 2022-01-26) |
 | Youtube Channel Id | UCeyBtBFEsycQNxCpvC5lzPA (as of 2020-12-06, from 2011-12-08) |
 | Nszl Name Authority Id | 384277 |
-| Employees | 1,000 (as of 2020) |
 | Motto Text | Advancing Technology for Humanity |
 | Field Of Work | electronics, engineering, computer science, computer engineering, power engineering (+1 more) |
 | Member Count | 395,000 (as of 2010), 423,000 |
@@ -209,7 +230,7 @@ Incorrect usages include stretching, using unauthorized colors, and applying glo
 | Media Bias/Fact Check Id | institute-of-electrical-and-electronics-engineers-ieee (as of 2024-02-02) |
 | Cantic Id | 981058512755706706 |
 | National Library Of Israel J9U Id | 987007299450405171 |
-| Email Address | mailto:contactcenter@ieee.org, mailto:society-info@ieee.org, mailto:mga@ieee.org, mailto:sec-chap-support@ieee.org |
+| Email Address | contactcenter@ieee.org, society-info@ieee.org, mga@ieee.org, sec-chap-support@ieee.org |
 | Phone Number | +1-800-678-4333, +1-732-562-5501, +1-732-562-5518 |
 | Privacy Policy Url | https://www.ieee.org/security-privacy.html |
 | Terms Of Service Url | https://www.ieee.org/about/help/site-terms-conditions.html |
@@ -236,7 +257,6 @@ Incorrect usages include stretching, using unauthorized colors, and applying glo
 | Openalex Id | P4310319808, P4322697011 |
 | Industry | higher education |
 | Donations | 2,830,002 United States dollar (as of 2022), 1,747,229 United States dollar (as of 2021), 3,547,665 United States dollar (as of 2023), 2,014,836 United States dollar (as of 2011), 1,424,280 United States dollar (as of 2012) (+8 more) |
-| Total Assets | 1,142,179,318 United States dollar (as of 2022), 1,163,553,159 United States dollar (as of 2021), 1,331,862,893 United States dollar (as of 2023), 420,177,076 United States dollar (as of 2011), 453,811,259 United States dollar (as of 2012) (+8 more) |
 | Kalliope Verbund (Gnd) Id | 1692-5 |
 | Instagram Username | ieeeorg |
 | Domain Name | ieee.org |
@@ -247,16 +267,42 @@ Incorrect usages include stretching, using unauthorized colors, and applying glo
 
 ### Revenue History
 
-- $566.43M (566,430,458 United States dollar (as of 2022))
-- $524.80M (524,795,853 United States dollar (as of 2021))
-- $650.21M (650,214,983 United States dollar (as of 2023))
-- $395.88M (395,881,225 United States dollar (as of 2011))
-- $406.83M (406,832,670 United States dollar (as of 2012))
-- $430.02M (430,019,066 United States dollar (as of 2013))
-- $454.44M (454,437,554 United States dollar (as of 2014))
-- $461.61M (461,606,827 United States dollar (as of 2015))
-- $482.65M (482,650,316 United States dollar (as of 2016))
-- $494.39M (494,392,958 United States dollar (as of 2017))
-- $547.02M (547,022,569 United States dollar (as of 2018))
-- $563.25M (563,250,052 United States dollar (as of 2019))
-- $478.34M (478,339,401 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $566.43M | as of 2022 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $524.80M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $650.21M | as of 2023 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $395.88M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $406.83M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $430.02M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $454.44M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $461.61M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $482.65M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $494.39M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $547.02M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $563.25M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
+| $478.34M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,000 | as of 2020 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.14B | as of 2022 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.16B | as of 2021 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $1.33B | as of 2023 | [1B-10B](/total_assets_buckets/1b-10b/) |
+| $420.18M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $453.81M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $539.92M | as of 2013 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $566.35M | as of 2014 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $563.68M | as of 2015 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $587.95M | as of 2016 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $660.50M | as of 2017 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $683.24M | as of 2018 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $819.63M | as of 2019 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $961.11M | as of 2020 | [500M-1B](/total_assets_buckets/500m-1b/) |

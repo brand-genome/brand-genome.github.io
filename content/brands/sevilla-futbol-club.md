@@ -2,7 +2,7 @@
 title: Sevilla Fútbol Club
 slug: "sevilla-futbol-club"
 description: ""
-date: "2026-03-05T22:38:39.532055"
+date: "2026-03-13T08:56:59.465381"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,18 +52,20 @@ logo_elements:
   - crest
 brand_colors:
   - white
-  - blue
   - red
+  - blue
 typographies:
   - "century-gothic"
   - gillsans
 imagery_styles:
   - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

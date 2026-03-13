@@ -2,11 +2,11 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-03-05T22:38:39.291554"
+date: "2026-03-13T08:56:59.231206"
 draft: false
 sectors:
-  - healthcare
   - "public-sector"
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,23 +54,25 @@ logo_elements:
 brand_colors:
   - white
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - black
 typographies:
-  - arial
   - frutiger
+  - arial
 imagery_styles:
-  - bold
   - photography
   - natural
   - illustration
+  - bold
 wikidata_description: UK NHS foundation trust
+wikidata_url: "https://www.wikidata.org/wiki/Q16989274"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +120,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16989274) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Isni | 0000000404267183 |
 | Ringgold Id | 4955 |
 | Country | United Kingdom |
@@ -116,7 +133,6 @@ guideline_count: 1
 | Grid Id | grid.450709.f |
 | Microsoft Academic Id (Discontinued) | 2801153603 |
 | Ror Id | 01q0vs094 |
-| Logo Image | East London NHS Foundation Trust logo.svg |
 | X (Twitter) Username | NHS_ELFT (as of 2020-04-26, from 2013-04-16) |
 | Facebook Username | EastLondonNHSFoundationTrust |
 | Part Of | National Health Service |

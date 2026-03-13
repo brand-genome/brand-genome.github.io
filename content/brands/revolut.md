@@ -2,7 +2,7 @@
 title: Revolut
 slug: revolut
 description: ""
-date: "2026-03-05T22:38:39.193786"
+date: "2026-03-13T08:56:59.128753"
 draft: false
 sectors:
   - finance
@@ -21,6 +21,22 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "debit-card"
+  - insurance
+  - "bureau-de-change"
+  - "foreign-exchange-market"
+  - "transactional-account"
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,31 +58,33 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - red
-  - "pantone-382"
-  - orange
   - "pantone-293"
-  - "pantone-310"
-  - black
-  - blue
-  - "pantone-7604"
-  - pink
+  - red
   - "pantone-1495"
-  - green
+  - blue
+  - pink
+  - "pantone-310"
   - "pantone-699"
+  - "pantone-382"
+  - green
+  - "pantone-7604"
+  - black
+  - orange
 typographies:
-  - impact
   - serif
+  - impact
 imagery_styles:
-  - bold
   - photography
   - natural
   - graphic
+  - bold
 wikidata_description: financial technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q22908307"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,10 +135,16 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22908307) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Debit Card](/products_or_materials_produced/debit-card/); [Insurance](/products_or_materials_produced/insurance/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Transactional Account](/products_or_materials_produced/transactional-account/) |
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Motto Text | Simply Revolutionary, Change the way you money. |
 | Industry | financial services |
 | Quora Topic Id | Revolut |
-| Logo Image | Revolut logo.svg |
 | Inception | 2015 |
 | Founded By | Nikolay Storonsky, Vlad Yatsenko |
 | Alexa Rank | 17,654 (as of 2019-02-19) |

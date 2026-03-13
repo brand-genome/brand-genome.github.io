@@ -2,11 +2,11 @@
 title: US Robotics
 slug: "us-robotics"
 description: ""
-date: "2026-03-05T22:38:39.522570"
+date: "2026-03-13T08:56:59.457572"
 draft: false
 sectors:
-  - networking
   - hardware
+  - networking
 regions:
   - usa
 years:
@@ -23,6 +23,21 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "voice-over-ip"
+  - "computer-network"
+  - modem
+  - software
+products: []
+headquarters_locations:
+  - schaumburg
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,26 +59,28 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - orange
   - "pantone-485"
+  - red
+  - white
   - "pantone-1505"
+  - orange
   - gray
 typographies:
-  - serif
   - garamond
+  - serif
 imagery_styles:
   - photography
   - product
-  - artificial
-  - classic
   - minimal
+  - classic
+  - artificial
 wikidata_description: business enterprise
+wikidata_url: "https://www.wikidata.org/wiki/Q1700277"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,13 +133,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1700277) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Schaumburg](/headquarters_locations/schaumburg/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Freebase Id | /m/01c18s |
 | Named After | U.S. Robots and Mechanical Men |
 | Inception | 1976 |
 | Headquarters Location | Schaumburg |
 | Legal Form | joint-stock company |
 | Parent Organization Or Unit | UNICOM Global (from 2013) |
-| Logo Image | USRobotics-Logo.svg |
 | Quora Topic Id | USRobotics |
 | Product Or Material Produced | modem, computer network, Voice over IP, software |
 | Owned By | UNICOM Global (from 2013) |

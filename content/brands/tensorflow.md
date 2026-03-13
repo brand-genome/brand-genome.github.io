@@ -2,7 +2,7 @@
 title: TensorFlow
 slug: tensorflow
 description: ""
-date: "2026-03-05T22:38:39.718799"
+date: "2026-03-13T08:56:59.737272"
 draft: false
 sectors:
   - software
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -37,26 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - logomark
+  - primary
   - lockup
+  - stacked
   - horizontal
   - wordmark
-  - stacked
-  - logomark
 brand_colors:
   - white
-  - orange
-  - black
   - blue
+  - black
+  - orange
   - gray
 typographies: []
 imagery_styles: []
 wikidata_description: machine learning software framework
+wikidata_url: "https://www.wikidata.org/wiki/Q21447895"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -95,6 +107,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21447895) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Developer | Google Brain |
 | Has Use | machine learning |
 | Source Code Repository Url | https://github.com/tensorflow/tensorflow |
@@ -107,7 +124,6 @@ guideline_count: 1
 | Discoverer Or Inventor | Jeff Dean, Rajat Monga |
 | X (Twitter) Username | tensorflow (from 2011-02-18), TensorFlow |
 | Github Account | tensorflow |
-| Logo Image | TensorFlow logo.svg |
 | Quora Topic Id | TensorFlow-Open-Source-Software-Library |
 | Described By Source | TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems, TensorFlow: A system for large-scale machine learning |
 | Stack Exchange Tag | https://stackoverflow.com/tags/tensorflow |

@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-03-05T22:38:39.582039"
+date: "2026-03-13T08:56:59.522476"
 draft: false
 sectors:
   - finance
@@ -15,16 +15,30 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
-  - "economics-of-banking"
   - "financial-sector"
+  - "economics-of-banking"
+  - "financial-services"
 countries:
   - spain
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "100m-500m"
+  - "100M-500M"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "financial-services"
+products: []
+headquarters_locations:
+  - sabadell
+  - alicante
+subsidiaries: []
+foundation_dates:
+  - 1881
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,26 +57,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - alternate
   - secondary
+  - primary
+  - alternate
+  - vertical
+  - symbol
   - horizontal
   - wordmark
-  - vertical
 brand_colors:
   - white
 typographies:
   - "source-sans"
   - arial
 imagery_styles:
-  - bold
   - dynamic
+  - bold
 wikidata_description: Spanish banking group
+wikidata_url: "https://www.wikidata.org/wiki/Q762330"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +123,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q762330) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/) |
+| Headquarters Location | [Sabadell](/headquarters_locations/sabadell/); [Alicante](/headquarters_locations/alicante/) |
+| Foundation Date | [1881](/foundation_dates/1881/) |
 | Topic'S Main Category | Category:Banco Sabadell |
 | Freebase Id | /m/032l4w |
 | Viaf Cluster Id | 125544906 |
@@ -114,8 +137,6 @@ guideline_count: 1
 | Inception | 1881-12-31 |
 | Headquarters Location | Alicante (from 2017, until 2025), Sabadell (until 2017), Sabadell |
 | Stock Exchange | Barcelona Stock Exchange, Madrid Stock Exchange (from 2004), Indexcat (from 2007) |
-| Employees | 26,090 (as of 2015), 9,466 (as of 2009-12-31), 24,454 (as of 2019), 18,895 (as of 2022) |
-| Logo Image | BSabadell Logo.svg |
 | Ringgold Id | 274929 |
 | Quora Topic Id | Banco-Sabadell |
 | Isin | ES0113860A34 |
@@ -157,11 +178,24 @@ guideline_count: 1
 
 ### Revenue History
 
-- $35.16B (35,165,000,000 euro (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $35.16B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $207.40M (207,400,000 euro (as of 2011))
-- $768.00M (768,000,000 euro (as of 2019))
-- $619.99M (619,989,000 euro (as of 2021))
-- $1.24B (1,242,646,000 euro (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $207.40M | as of 2011 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $768.00M | as of 2019 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $619.99M | as of 2021 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.24B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 26,090 | as of 2015 | [10K-50K](/employees_buckets/10k-50k/) |
+| 9,466 | as of 2009-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
+| 24,454 | as of 2019 | [10K-50K](/employees_buckets/10k-50k/) |
+| 18,895 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

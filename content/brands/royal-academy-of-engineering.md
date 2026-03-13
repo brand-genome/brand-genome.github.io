@@ -2,11 +2,11 @@
 title: Royal Academy of Engineering
 slug: "royal-academy-of-engineering"
 description: ""
-date: "2026-03-05T22:38:39.640754"
+date: "2026-03-13T08:56:59.569053"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1976
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: UK national association of engineers
+wikidata_url: "https://www.wikidata.org/wiki/Q1478095"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1478095) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1976](/foundation_dates/1976/) |
 | Topic'S Main Category | Category:Royal Academy of Engineering |
 | Freebase Id | /m/034q2x |
 | Inception | 1976 |
@@ -136,7 +156,6 @@ guideline_count: 1
 | Openalex Id | I90731587 |
 | Charity Commission No. | 293074 (from 1985-11-22) |
 | Donations | 1,941,084 pound sterling (as of 2017), 1,457,192 pound sterling (as of 2018), 1,625,222 pound sterling (as of 2019), 1,684,964 pound sterling (as of 2020), 532,569 pound sterling (as of 2021) (+4 more) |
-| Employees | 83 (as of 2017), 92 (as of 2018), 100 (as of 2019), 118 (as of 2020), 130 (as of 2021) (+2 more) |
 | National Library Of Israel J9U Id | 987007450494105171 |
 | Exact Match | https://findthatcharity.uk/orgid/XI-ROR-0526snb40 |
 | Linkedin Company Or Organization Id | the-royal-academy-of-engineering |
@@ -146,12 +165,26 @@ guideline_count: 1
 
 ### Revenue History
 
-- $27.41M (27,410,424 pound sterling (as of 2017))
-- $31.52M (31,524,989 pound sterling (as of 2018))
-- $36.75M (36,748,864 pound sterling (as of 2019))
-- $52.88M (52,882,117 pound sterling (as of 2020))
-- $51.21M (51,211,833 pound sterling (as of 2021))
-- $48.27M (48,274,103 pound sterling (as of 2022))
-- $57.12M (57,124,235 pound sterling (as of 2023))
-- $208.16M (208,155,000 pound sterling (as of 2024))
-- $71.81M (71,805,000 pound sterling (as of 2025))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $27.41M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $31.52M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $36.75M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $52.88M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $51.21M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $48.27M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $57.12M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $208.16M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $71.81M | as of 2025 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 83 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 92 | as of 2018 | [UNDER-100](/employees_buckets/under-100/) |
+| 100 | as of 2019 | [100-1K](/employees_buckets/100-1k/) |
+| 118 | as of 2020 | [100-1K](/employees_buckets/100-1k/) |
+| 130 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |
+| 212 | as of 2024 | [100-1K](/employees_buckets/100-1k/) |
+| 247 | as of 2025 | [100-1K](/employees_buckets/100-1k/) |

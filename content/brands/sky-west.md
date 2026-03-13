@@ -2,7 +2,7 @@
 title: Sky West
 slug: "sky-west"
 description: ""
-date: "2026-03-05T22:38:39.809757"
+date: "2026-03-13T08:56:59.873866"
 draft: false
 sectors:
   - ngo
@@ -14,14 +14,25 @@ years:
 languages:
   - english
 tags:
-  - airline
   - transport
+  - airline
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "st-george"
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,20 +55,22 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - "pantone-287"
-  - black
   - blue
+  - "pantone-287"
   - green
+  - black
 typographies:
   - impact
   - inter
 imagery_styles:
   - graphic
 wikidata_description: American regional airline
+wikidata_url: "https://www.wikidata.org/wiki/Q773662"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -267,12 +280,17 @@ Pantone 287
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q773662) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [St George](/headquarters_locations/st-george/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Freebase Id | /m/01nhdy |
 | Parent Organization Or Unit | SkyWest, Inc. |
 | Iata Airline Designator | OO |
 | Icao Airline Designator | SKW |
 | Callsign Of Airline | SKYWEST |
-| Logo Image | SkyWest Airlines (United States) logo.svg |
 | Inception | 1972 |
 | Located In Time Zone | Mountain Time Zone |
 | Headquarters Location | St. George |

@@ -2,7 +2,7 @@
 title: Evne
 slug: evne
 description: ""
-date: "2026-03-05T22:38:39.518087"
+date: "2026-03-13T08:56:59.445993"
 draft: false
 sectors:
   - construction
@@ -17,11 +17,23 @@ tags:
   - corporate
 industries: []
 countries:
-  - "new-zealand"
   - australia
+  - "new-zealand"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "charging-station"
+products: []
+headquarters_locations:
+  - "new-zealand"
+subsidiaries: []
+foundation_dates:
+  - 2014
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +62,12 @@ typographies: []
 imagery_styles:
   - graphic
 wikidata_description: "New Zealand-based manufacturer and distributor of EV charging points for homes and businesses"
+wikidata_url: "https://www.wikidata.org/wiki/Q136538057"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +113,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136538057) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Charging Station](/products_or_materials_produced/charging-station/) |
+| Headquarters Location | [New Zealand](/headquarters_locations/new-zealand/) |
+| Foundation Date | [2014](/foundation_dates/2014/) |
 | Country | New Zealand, Australia |
 | Headquarters Location | New Zealand |
 | Field Of Work | EV charging company |

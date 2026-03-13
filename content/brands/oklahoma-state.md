@@ -2,7 +2,7 @@
 title: Oklahoma State
 slug: "oklahoma-state"
 description: ""
-date: "2026-03-05T22:38:39.271360"
+date: "2026-03-13T08:56:59.213924"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1890
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Oklahoma, United States of America"
+wikidata_url: "https://www.wikidata.org/wiki/Q749718"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q749718) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1890](/foundation_dates/1890/) |
 | Coordinate Location | 36.132222222222, -97.080833333333 |
 | Country | United States |
 | Freebase Id | /m/01vs64 |
@@ -105,7 +123,6 @@ guideline_count: 1
 | Child Organization Or Unit | Edmon Low Library |
 | Social Media Followers | 76,250 (as of 2021-01-03), 74,847 (as of 2020-04-22), 79,614 (as of 2022-01-08), 85,848 (as of 2023-02-03) |
 | Different From | University of Oklahoma |
-| Employees | 5,502 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I115475287, P4376882473 |
@@ -122,3 +139,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/3733a96a-b618-44b9-9059-c9253946852e |
 | Position Held By Head Of The Organization | President of Oklahoma State University |
 | Athletics Program | Oklahoma State Cowboys and Cowgirls |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 5,502 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

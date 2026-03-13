@@ -2,7 +2,7 @@
 title: Handelens Miljofond
 slug: "handelens-miljofond"
 description: ""
-date: "2026-03-05T22:38:39.584470"
+date: "2026-03-13T08:56:59.525132"
 draft: false
 sectors:
   - ngo
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oslo
+subsidiaries: []
+foundation_dates:
+  - 2017
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q65231368"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -59,6 +72,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q65231368) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
+| Foundation Date | [2017](/foundation_dates/2017/) |
 | Google Knowledge Graph Id | /g/11h7fnvdg1 |
 | Inception | 2017-11-24 |
 | Norwegian Organisation Number | 920006507 |

@@ -2,7 +2,7 @@
 title: Nasa
 slug: nasa
 description: ""
-date: "2026-03-05T22:38:39.106630"
+date: "2026-03-13T08:56:59.055579"
 draft: false
 sectors:
   - "public-sector"
@@ -11,15 +11,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2009
-  - 1976
   - 2006
+  - 1976
+  - 2009
 languages:
   - english
 tags:
+  - aeronautic
   - vintage
   - featured
-  - aeronautic
 industries:
   - "public-sector"
   - "space-exploration"
@@ -28,6 +28,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1958
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +59,24 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - red
+  - blue
 typographies:
   - helvetica
 imagery_styles:
-  - bold
-  - photography
-  - graphic
-  - professional
-  - gradient
   - clean
+  - professional
+  - photography
+  - gradient
+  - graphic
+  - bold
 wikidata_description: American space and aeronautics agency
+wikidata_url: "https://www.wikidata.org/wiki/Q23548"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -226,18 +240,22 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q23548) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1958](/foundation_dates/1958/) |
 | Topic'S Main Wikimedia Portal | Portal:NASA |
 | Country | United States |
 | Topic'S Main Category | Category:NASA |
 | Website Account On | Foursquare Labs, Inc., Kahoot! |
-| Logo Image | NASA logo.svg (from 1959), NASA Worm logo.svg (from 1975, until 2020) |
 | Seal Image | NASA seal.svg |
 | Inception | 1958-07-29 |
 | Web Feed Url | https://www.nasa.gov/rss/dyn/breaking_news.rss, https://www.nasa.gov/rss/dyn/educationnews.rss, https://www.nasa.gov/rss/dyn/image_of_the_day.rss, https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss |
 | Freebase Id | /m/05f4p |
 | Gnd Id | 2294-9 |
 | Viaf Cluster Id | 146202023 |
-| Employees | 17,336 (as of 2018), 17,300 (as of 2018), 18,000 (as of 2021) |
 | Bibliothèque Nationale De France Id | 11868484t |
 | X (Twitter) Username | NASA (as of 2022-08-08, from 2007-12-19), WomenNASA (as of 2020-04-27, from 2012-02-14), NASASTEM (as of 2020-04-26, from 2011-01-14), NASA_Astronauts (as of 2020-04-26, from 2009-05-28), NASASocial (as of 2020-04-26, from 2009-07-01) (+3 more) |
 | Instagram Username | nasa |
@@ -465,3 +483,11 @@ guideline_count: 4
 | Maintained By Wikiproject | WikiProject Spaceflight, WikiProject Aviation, WikiProject Technology, WikiProject United States, WikiProject United States Government (+4 more) |
 | Teen Vogue Tag Id | nasa |
 | The Advocate Tag Id | nasa |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 17,336 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 17,300 | as of 2018 | [10K-50K](/employees_buckets/10k-50k/) |
+| 18,000 | as of 2021 | [10K-50K](/employees_buckets/10k-50k/) |

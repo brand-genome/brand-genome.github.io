@@ -2,12 +2,12 @@
 title: Ogilvy
 slug: ogilvy
 description: ""
-date: "2026-03-05T22:38:39.282415"
+date: "2026-03-13T08:56:59.224189"
 draft: false
 sectors:
-  - "public-relations"
-  - consulting
   - "marketing-advertising"
+  - consulting
+  - "public-relations"
 regions:
   - usa
 years:
@@ -18,14 +18,26 @@ tags:
   - marketing
   - featured
 industries:
-  - advertising
   - marketing
   - "public-relations"
+  - advertising
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: advertising agency
+wikidata_url: "https://www.wikidata.org/wiki/Q1937850"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,10 +85,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1937850) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Headquarters Location | New York City |
 | Inception | 1948-01-01 |
-| Logo Image | Ogilvy new logo.png |
-| Employees | 17,500 (as of 2022) |
 | Founded By | David Ogilvy |
 | Parent Organization Or Unit | WPP plc (from 1989-05-16) |
 | Location Of Formation | New York City |
@@ -102,3 +120,9 @@ guideline_count: 1
 | On Focus List Of Wikimedia Project | NADD Wikidata project |
 | Desmog Id | ogilvy |
 | ‎Yale Lux Id | group/21c3696b-1cfc-4e06-bbd5-72ecc189b4e7 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 17,500 | as of 2022 | [10K-50K](/employees_buckets/10k-50k/) |

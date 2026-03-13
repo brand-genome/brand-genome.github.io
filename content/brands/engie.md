@@ -2,35 +2,48 @@
 title: Engie
 slug: engie
 description: ""
-date: "2026-03-05T22:38:39.118485"
+date: "2026-03-13T08:56:59.067849"
 draft: false
 sectors:
+  - utilities
   - gas
   - "renewable-energy"
-  - utilities
 regions:
   - france
 years:
-  - 2021
   - 2015
+  - 2021
 languages:
-  - english
   - french
+  - english
 tags:
   - industry
 industries:
-  - "energy-industry"
   - "facility-management"
-  - unknown
   - "waste-management"
+  - "energy-industry"
+  - unknown
 countries:
   - france
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "natural-gas"
+products: []
+headquarters_locations:
+  - paris
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,10 +70,12 @@ typographies:
 imagery_styles:
   - dynamic
 wikidata_description: French multinational energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q13416787"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +127,13 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13416787) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Natural Gas](/products_or_materials_produced/natural-gas/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Topic'S Main Category | Category:Engie |
 | Industry | energy industry, facility management, waste management,  |
 | Legal Form | public limited company with a board of directors (n.o.s.) |
@@ -158,11 +180,9 @@ guideline_count: 3
 | Motto Text | L'énergie est notre avenir, économisons-la. |
 | Osm Name Suggestion Index Id | engie-03e08c, engie-1c8782, engie-143312, engie-116894, engie-060465 (+8 more) |
 | Owned By | Criteria Caixa (as of 2021) |
-| Logo Image | Logo-engie.svg |
 | Acer Code | A0001468A.FR |
 | Opensanctions Id | NK-CjqVAUQXRFbco8FvJ4uhUy |
 | Ringgold Id | 3775 |
-| Employees | 171,474 (as of 2021) |
 | Position Held By Head Of The Organization |  |
 | Eu Transparency Register Id | 90947457424-20 |
 | Radio France Person Id | engie |
@@ -175,42 +195,54 @@ guideline_count: 3
 
 ### Revenue History
 
-- $67.92B (67,924,000,000 euro (as of 2008))
-- $79.91B (79,908,000,000 euro (as of 2009))
-- $84.48B (84,478,000,000 euro (as of 2010))
-- $90.67B (90,673,000,000 euro (as of 2011))
-- $97.04B (97,038,000,000 euro (as of 2012))
-- $89.30B (89,300,000,000 euro (as of 2013))
-- $74.69B (74,686,000,000 euro (as of 2014))
-- $69.88B (69,883,000,000 euro (as of 2015))
-- $66.64B (66,639,000,000 euro (as of 2016))
-- $65.03B (65,029,000,000 euro (as of 2017))
-- $56.39B (56,388,000,000 euro (as of 2018))
-- $60.06B (60,058,000,000 euro (as of 2019))
-- $55.75B (55,751,000,000 euro (as of 2020))
-- $57.87B (57,866,000,000 euro (as of 2021))
-- $93.86B (93,865,000,000 euro (as of 2022))
-- $82.56B (82,565,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $67.92B | as of 2008 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $79.91B | as of 2009 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $84.48B | as of 2010 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $90.67B | as of 2011 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $97.04B | as of 2012 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $89.30B | as of 2013 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $74.69B | as of 2014 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $69.88B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $66.64B | as of 2016 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $65.03B | as of 2017 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $56.39B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $60.06B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $55.75B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $57.87B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $93.86B | as of 2022 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $82.56B | as of 2023 | [50B-100B](/revenue_buckets/50b-100b/) |
 
 ### Operating Income History
 
-- $6.10B (6,098,000,000 euro (as of 2023))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $6.10B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $4.86B (4,857,000,000 euro (as of 2008))
-- $4.48B (4,477,000,000 euro (as of 2009))
-- $4.62B (4,616,000,000 euro (as of 2010))
-- $4.00B (4,003,000,000 euro (as of 2011))
-- $1.55B (1,550,000,000 euro (as of 2012))
-- $9.29B (-9,289,000,000 euro (as of 2013))
-- $2.44B (2,440,000,000 euro (as of 2014))
-- $4.62B (-4,617,000,000 euro (as of 2015))
-- $415.00M (-415,000,000 euro (as of 2016))
-- $1.42B (1,423,000,000 euro (as of 2017))
-- $1.03B (1,033,000,000 euro (as of 2018))
-- $984.00M (984,000,000 euro (as of 2019))
-- $1.54B (-1,536,000,000 euro (as of 2020))
-- $3.66B (3,661,000,000 euro (as of 2021))
-- $216.00M (216,000,000 euro (as of 2022))
-- $2.21B (2,208,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.86B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.48B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.62B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.00B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.55B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.29B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.44B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.62B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $415.00M | as of 2016 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.42B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.03B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $984.00M | as of 2019 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.54B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.66B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $216.00M | as of 2022 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $2.21B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 171,474 | as of 2021 | [100K-500K](/employees_buckets/100k-500k/) |

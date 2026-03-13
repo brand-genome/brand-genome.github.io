@@ -2,7 +2,7 @@
 title: DFW
 slug: dfw
 description: ""
-date: "2026-03-05T22:38:39.718310"
+date: "2026-03-13T08:56:59.736473"
 draft: false
 sectors:
   - "public-transportation"
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +52,27 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - orange
-  - black
-  - yellow
   - blue
-  - gray
+  - yellow
   - purple
+  - black
+  - orange
+  - gray
 typographies:
-  - arial
   - times
+  - arial
 imagery_styles:
-  - bold
   - photography
-  - monochrome
   - graphic
+  - bold
+  - monochrome
 wikidata_description: "airport in Irving serving the Dallas-Fort Worth metro area in Texas, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q459096"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,6 +120,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q459096) |
+
+| Property | Value |
+|----------|-------|
 | Page Banner | WV banner DFW terminal D.jpg |
 | Iata Airport Code | DFW |
 | Icao Airport Code | KDFW |
@@ -141,7 +156,6 @@ guideline_count: 1
 | Instagram Username | dfwairport |
 | Pinterest Username | dfwairport |
 | Different From | Washington Dulles International Airport |
-| Logo Image | DFW airport logo.svg |
 | Social Media Followers | 69,491 (as of 2021-01-09), 68,125 (as of 2020-04-19), 79,080 (as of 2022-02-21), 92,216 (as of 2023-02-07) |
 | State Of Use | in use |
 | Dpla Subject Term | DFW Airport, Dallas Fort Worth International Airport |

@@ -2,7 +2,7 @@
 title: International Potato Center
 slug: "international-potato-center"
 description: ""
-date: "2026-03-05T22:38:39.733590"
+date: "2026-03-13T08:56:59.775450"
 draft: false
 sectors:
   - research
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lima
+subsidiaries: []
+foundation_dates:
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: research institute on potato and other tuber crops
+wikidata_url: "https://www.wikidata.org/wiki/Q1054322"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1054322) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lima](/headquarters_locations/lima/) |
+| Foundation Date | [1971](/foundation_dates/1971/) |
 | Coordinate Location | -12.076944444444, -76.946111111111 |
 | Freebase Id | /m/047gcw |
 | Inception | 1971 |

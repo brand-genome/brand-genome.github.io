@@ -2,7 +2,7 @@
 title: GOL
 slug: gol
 description: ""
-date: "2026-03-05T22:38:39.666815"
+date: "2026-03-13T08:56:59.588052"
 draft: false
 sectors:
   - airline
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "sao-paulo"
+subsidiaries: []
+foundation_dates:
+  - 2001
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian airline
+wikidata_url: "https://www.wikidata.org/wiki/Q691637"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -287,6 +300,12 @@ referências cromáticas apresentadas nas tabelas ao lado.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q691637) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sao Paulo](/headquarters_locations/sao-paulo/) |
+| Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | Brazil |
 | Item Operated | Boeing 737 Next Generation, Boeing 737 MAX |
 | Airline Hub | Congonhas-São Paulo Airport, Rio de Janeiro/Galeão – Antonio Carlos Jobim International Airport, Brasilia President Juscelino Kubitschek International Airport |
@@ -300,7 +319,6 @@ referências cromáticas apresentadas nas tabelas ao lado.
 | Stock Exchange | New York Stock Exchange, São Paulo Stock Exchange |
 | Viaf Cluster Id | 145110736 |
 | Child Organization Or Unit | WebJet Linhas Aéreas, Varig |
-| Logo Image | Gol Linhas Aéreas Inteligentes logo (2015, with slogan).svg (from 2015, until 2018), Gol Linhas Aéreas Inteligentes logo (2015, without the slogan).svg (from 2018), Gol Linhas Aéreas Inteligentes logo (2001-2015).svg (until 2015) |
 | Inception | 2001-01-15 |
 | Commons Gallery | Gol Transportes Aéreos |
 | Quora Topic Id | Gol-Transportes-Aéreos-airline, Gol-Transportes-Aéreos |

@@ -2,7 +2,7 @@
 title: St John Ambulance
 slug: "st-john-ambulance"
 description: ""
-date: "2026-03-05T22:38:39.349744"
+date: "2026-03-13T08:56:59.301184"
 draft: false
 sectors:
   - education
@@ -15,15 +15,25 @@ years:
 languages:
   - english
 tags:
-  - education
-  - featured
   - health
+  - education
   - ngo
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1877
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,26 +53,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - black
   - yellow
-  - gray
   - green
+  - black
+  - gray
 typographies:
   - impact
   - display
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: humanitarian organization
+wikidata_url: "https://www.wikidata.org/wiki/Q699370"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -110,13 +122,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q699370) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1877](/foundation_dates/1877/) |
 | Topic'S Main Category | Category:St John Ambulance |
 | Freebase Id | /m/09lcc8 |
 | Isni | 0000000115444868 |
 | Inception | 1877 |
 | Library Of Congress Authority Id | n50067442 |
 | Viaf Cluster Id | 305456461 |
-| Logo Image | St John Ambulance UK Logo 2019 (no wordmark).svg |
 | Motto Text | Pro Fide, Pro Utilitate Hominum |
 | Snarc Id | Q138357 |
 | National Library Of Wales Authority Id | st-john-ambulance-association-and-brigade |

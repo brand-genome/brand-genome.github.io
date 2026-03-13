@@ -2,7 +2,7 @@
 title: Instructure
 slug: instructure
 description: ""
-date: "2026-03-05T22:38:39.418411"
+date: "2026-03-13T08:56:59.377112"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
   - corporate
 industries:
   - "software-industry"
@@ -25,6 +25,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "salt-lake-city"
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,27 +55,29 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - white
   - red
-  - orange
-  - black
   - blue
+  - black
+  - orange
 typographies:
   - serif
   - "proxima-nova"
   - arial
 imagery_styles:
-  - bold
   - photography
   - gradient
+  - bold
 wikidata_description: American technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q3019900"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +119,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3019900) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Salt Lake City](/headquarters_locations/salt-lake-city/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Country | United States |
 | Headquarters Location | Salt Lake City |
 | Inception | 2008 |

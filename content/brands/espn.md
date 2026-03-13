@@ -2,7 +2,7 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-03-05T22:38:39.192888"
+date: "2026-03-13T08:56:59.127635"
 draft: false
 sectors:
   - broadcasting
@@ -10,20 +10,31 @@ sectors:
 regions:
   - usa
 years:
-  - 2008
   - 2024
+  - 2008
 languages:
   - english
 tags:
+  - sport
   - broadcast
   - featured
-  - sport
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bristol
+subsidiaries: []
+foundation_dates:
+  - 1979
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +60,12 @@ imagery_styles:
   - photography
   - clean
 wikidata_description: American broadcast sports network
+wikidata_url: "https://www.wikidata.org/wiki/Q217776"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -128,9 +141,14 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q217776) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bristol](/headquarters_locations/bristol/) |
+| Foundation Date | [1979](/foundation_dates/1979/) |
 | Headquarters Location | Bristol |
 | Topic'S Main Category | Category:ESPN |
-| Logo Image | ESPN wordmark.svg |
 | Freebase Id | /m/0kc6x |
 | X (Twitter) Username | espn (as of 2018-05-10, from 2007-03-27), espnW (as of 2020-02-29, from 2009-07-16), ESPNNFL (as of 2020-04-25, from 2010-03-15), espnmma (as of 2020-04-19, from 2018-11-14), ESPNStatsInfo (as of 2021-01-14, from 2009-07-02) |
 | Viaf Cluster Id | 160106267 |

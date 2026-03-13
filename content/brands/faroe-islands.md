@@ -2,7 +2,7 @@
 title: Faroe Islands
 slug: "faroe-islands"
 description: ""
-date: "2026-03-05T22:38:39.387131"
+date: "2026-03-13T08:56:59.354828"
 draft: false
 sectors:
   - tourism
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,29 +48,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
   - primary
+  - abstract
   - secondary
 brand_colors:
   - grey
-  - black
-  - cyan
   - blue
   - silver
   - "pantone-877"
+  - cyan
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - abstract
-  - classic
   - photography
+  - classic
+  - abstract
   - monochrome
 wikidata_description: "men's national association football team representing the Faroe Islands"
+wikidata_url: "https://www.wikidata.org/wiki/Q200688"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -114,6 +125,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q200688) |
+
+| Property | Value |
+|----------|-------|
 | Topic'S Main Category | Category:Faroe Islands national football team |
 | Freebase Id | /m/03z0x2 |
 | Part Of | Faroe Islands Football Association |
@@ -130,7 +145,6 @@ guideline_count: 1
 | Category For Members Of A Team | Category:Faroe Islands men's international footballers |
 | Team Captain | Fróði Benjaminsen |
 | Head Coach | Håkan Ericson (from 2019-12-16, until 2024-10-16), Lars Olsen (from 2011-12-01, until 2019-11-18), Eyðun Klakstein (from 2024-10-16) |
-| Logo Image | Faroe Islands FA.png |
 | Transfermarkt Team Id | 9173 |
 | Native Label | Føroyska fótbóltsmanslandsliðið |
 | Fandom Article Id | football:Faroe_Islands_national_football_team |

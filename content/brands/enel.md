@@ -2,11 +2,11 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-03-05T22:38:39.794956"
+date: "2026-03-13T08:56:59.847851"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - italy
 years:
@@ -20,11 +20,26 @@ industries:
 countries:
   - italy
 revenue_buckets:
-  - "50b-100b"
+  - "50B-100B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "electrical-energy"
+  - "natural-gas"
+products: []
+headquarters_locations:
+  - rome
+subsidiaries: []
+foundation_dates:
+  - 1962
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +65,15 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - photography
   - vibrant
+  - photography
 wikidata_description: Italian multinational energy company
+wikidata_url: "https://www.wikidata.org/wiki/Q651222"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -90,14 +107,19 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q651222) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Electrical Energy](/products_or_materials_produced/electrical-energy/); [Natural Gas](/products_or_materials_produced/natural-gas/) |
+| Headquarters Location | [Rome](/headquarters_locations/rome/) |
+| Foundation Date | [1962](/foundation_dates/1962/) |
 | Freebase Id | /m/03p21qs |
 | Topic'S Main Category | Category:Enel |
 | Headquarters Location | Rome |
 | Inception | 1962-11-27 |
 | Legal Form | public company |
-| Logo Image | Enel Group logo.svg |
 | Stock Exchange | Italian Stock Exchange, OTC Markets Group |
-| Employees | 66,279 (as of 2021), 61,055 (as of 2023-12-31) |
 | Facebook Username | enelgroup |
 | X (Twitter) Username | enelgroup (as of 2020-04-19, from 2011-08-30) |
 | Location Of Formation | Rome |
@@ -143,7 +165,6 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | enelgroup |
 | Follows | Società Adriatica di Elettricità, Società Piemonte Centrale di Elettricità, Societá Emiliana di Esercizi Elettrici |
 | Great Russian Encyclopedia Portal Id | enel-84c605 |
-| Total Assets | 201,600,000,000 United States dollar (as of 2015), 219,618,000,000 euro (as of 2022-12-31) |
 | Kisti Id | K000228642 |
 | Global Energy Monitor Wiki Id | Enel |
 | Google+ Id | 113107648575741334770 |
@@ -157,24 +178,44 @@ guideline_count: 1
 
 ### Revenue History
 
-- $75.67B (75,672,000,000 euro (as of 2018))
-- $80.33B (80,327,000,000 euro (as of 2019))
-- $64.98B (64,985,000,000 euro (as of 2020))
-- $88.01B (88,006,000,000 euro (as of 2021))
-- $140.52B (140,517,000,000 euro (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $75.67B | as of 2018 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $80.33B | as of 2019 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $64.98B | as of 2020 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $88.01B | as of 2021 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $140.52B | as of 2022 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $9.90B (9,900,000,000 euro (as of 2018))
-- $6.88B (6,878,000,000 euro (as of 2019))
-- $8.37B (8,368,000,000 euro (as of 2020))
-- $7.68B (7,680,000,000 euro (as of 2021))
-- $11.19B (11,193,000,000 euro (as of 2022))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $9.90B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $6.88B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.37B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $7.68B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $11.19B | as of 2022 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $6.35B (6,350,000,000 euro (as of 2018))
-- $2.17B (2,174,000,000 euro (as of 2019))
-- $2.61B (2,610,000,000 euro (as of 2020))
-- $3.19B (3,189,000,000 euro (as of 2021))
-- $1.68B (1,682,000,000 euro (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $6.35B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.17B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.61B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.19B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.68B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 66,279 | as of 2021 | [50K-100K](/employees_buckets/50k-100k/) |
+| 61,055 | as of 2023-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $201.60B | as of 2015 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $219.62B | as of 2022-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |

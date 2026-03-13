@@ -2,7 +2,7 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-03-05T22:38:39.635280"
+date: "2026-03-13T08:56:59.564441"
 draft: false
 sectors:
   - ngo
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "free-software"
+products: []
+headquarters_locations:
+  - "wakefield-township"
+  - "forest-hill"
+subsidiaries: []
+foundation_dates:
+  - 1999
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,27 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - logomark
   - horizontal
+  - logomark
+  - lockup
   - vertical
 brand_colors:
   - white
-  - violet
   - red
+  - violet
+  - black
+  - orange
+  - gray
   - magenta
   - crimson
-  - orange
-  - black
-  - gray
 typographies:
   - montserrat
 imagery_styles: []
 wikidata_description: "American nonprofit open-source software community"
+wikidata_url: "https://www.wikidata.org/wiki/Q489709"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -270,9 +285,15 @@ Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q489709) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Free Software](/products_or_materials_produced/free-software/) |
+| Headquarters Location | [Wakefield Township](/headquarters_locations/wakefield-township/); [Forest Hill](/headquarters_locations/forest-hill/) |
+| Foundation Date | [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:Apache Software Foundation |
 | Freebase Id | /m/0nzm |
-| Logo Image | The ASF Logo (2025).svg (from 2025), ASF-logo.png (until 2016), Apache Software Foundation Logo (2016).svg (from 2016, until 2025-09-10) |
 | Chairperson | Roy Fielding (from 1999-03, until 2002-08), Greg Stein (from 2002-08-21, until 2007-06-20), Jim Jagielski (from 2007-06-20, until 2010) |
 | Library Of Congress Authority Id | no2011157268 |
 | Ipa Transcription | əˈpætʃiː |

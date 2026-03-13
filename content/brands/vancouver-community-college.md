@@ -2,7 +2,7 @@
 title: Vancouver Community College
 slug: "vancouver-community-college"
 description: ""
-date: "2026-03-05T22:38:39.223679"
+date: "2026-03-13T08:56:59.162543"
 draft: false
 sectors:
   - education
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1965
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "vocational training institute in Vancouver, British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q1955962"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +74,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1955962) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1965](/foundation_dates/1965/) |
 | Country | Canada |
 | Isni | 0000000106210808 |
 | Ringgold Id | 8157 |
@@ -78,5 +95,4 @@ guideline_count: 1
 | Facebook Username | vcc |
 | X (Twitter) Username | myvcc (as of 2021-05-31, from 2008-12-24) |
 | Member Of | Colleges and Institutes Canada, BC Libraries Cooperative |
-| Logo Image | Vancouver Community College logo.png |
 | Ark Name Assigning Authority Number | 11291 |

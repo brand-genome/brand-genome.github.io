@@ -2,7 +2,7 @@
 title: Denver
 slug: denver
 description: ""
-date: "2026-03-05T22:38:39.737144"
+date: "2026-03-13T08:56:59.779932"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - denver
+subsidiaries: []
+foundation_dates:
+  - 1858
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
-  - horizontal
+  - primary
   - stacked
+  - horizontal
 brand_colors:
-  - "pantone-1805"
-  - red
-  - gold
   - "pantone-268"
-  - orange
-  - black
-  - "pantone-296"
-  - blue
+  - red
   - "pantone-384"
   - navy
-  - "pantone-130"
-  - green
-  - purple
+  - blue
   - "pantone-180"
+  - gold
+  - "pantone-296"
+  - "pantone-1805"
+  - "pantone-130"
+  - purple
+  - green
+  - black
+  - orange
   - "pantone-2925"
 typographies:
   - avenir
@@ -65,10 +76,12 @@ imagery_styles:
   - photography
   - graphic
 wikidata_description: "consolidated city-county and capital of Colorado, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q16554"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -149,6 +162,12 @@ Allied organizations like the Denver Zoo and Denver Botanic Gardens may co-brand
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16554) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Denver](/headquarters_locations/denver/) |
+| Foundation Date | [1858](/foundation_dates/1858/) |
 | Topic'S Main Wikimedia Portal | Portal:Denver |
 | Inception | 1858-11-22 |
 | Country | United States |

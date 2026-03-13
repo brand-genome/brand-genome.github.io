@@ -2,7 +2,7 @@
 title: Yembo.ai
 slug: yemboai
 description: ""
-date: "2026-03-05T22:38:39.303585"
+date: "2026-03-13T08:56:59.245490"
 draft: false
 sectors:
   - software
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,45 +50,47 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - orange
-  - "pantone-7463"
-  - gray
   - "pantone-3405"
-  - "pantone-170"
-  - "pantone-7541"
-  - "pantone-539"
-  - coral
-  - "pantone-291"
-  - grey
+  - blue
+  - "pantone-642"
+  - purple
+  - black
   - "pantone-1225"
   - pink
   - "pantone-2583"
+  - "pantone-7541"
   - "pantone-184"
-  - "pantone-2927"
+  - orange
+  - coral
+  - gray
   - "pantone-2013"
-  - "pantone-2176"
-  - black
-  - yellow
-  - blue
-  - "pantone-642"
+  - "pantone-170"
+  - "pantone-539"
   - "pantone-656"
   - green
-  - purple
+  - "pantone-291"
+  - grey
+  - yellow
+  - "pantone-7463"
+  - "pantone-2927"
+  - "pantone-2176"
 typographies:
   - montserrat
 imagery_styles:
-  - bold
-  - photography
-  - product
+  - natural
+  - modern
   - illustration
   - realistic
-  - modern
-  - natural
+  - photography
+  - product
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

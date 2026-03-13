@@ -2,11 +2,11 @@
 title: "F-Secure"
 slug: "f-secure"
 description: ""
-date: "2026-03-05T22:38:39.320605"
+date: "2026-03-13T08:56:59.270199"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - finland
 years:
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "computer-security-software"
+  - software
+products: []
+headquarters_locations:
+  - helsinki
+subsidiaries: []
+foundation_dates:
+  - 1988
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,23 +54,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
-  - blue
   - purple
+  - blue
   - gray
 typographies:
   - arial
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "Finnish cybersecurity enterprise founded in 1988 (as \"Data Fellows\")"
+wikidata_url: "https://www.wikidata.org/wiki/Q522016"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -109,11 +124,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q522016) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Computer Security Software](/products_or_materials_produced/computer-security-software/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Helsinki](/headquarters_locations/helsinki/) |
+| Foundation Date | [1988](/foundation_dates/1988/) |
 | Freebase Id | /m/046nqp |
 | Isin | FI0009801310 |
 | Headquarters Location | Helsinki |
 | Inception | 1988-01-01 |
-| Logo Image | F-Secure-logo-250x70.png |
 | Legal Form | julkinen osakeyhtiö |
 | X (Twitter) Username | FSecure (as of 2020-04-15, from 2009-08-06) |
 | Quora Topic Id | F-Secure |

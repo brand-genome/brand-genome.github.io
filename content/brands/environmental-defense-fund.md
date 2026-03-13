@@ -2,7 +2,7 @@
 title: Environmental Defense Fund
 slug: "environmental-defense-fund"
 description: ""
-date: "2026-03-05T22:38:39.372828"
+date: "2026-03-13T08:56:59.331560"
 draft: false
 sectors:
   - ngo
@@ -20,9 +20,21 @@ industries:
 countries:
   - "united-states"
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,35 +53,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - secondary
   - horizontal
+  - secondary
+  - wordmark
 brand_colors:
   - white
-  - teal
-  - "pantone-381"
-  - cyan
-  - yellow
   - blue
   - "pantone-7469"
-  - gray
-  - "pantone-563"
+  - yellow
+  - "pantone-381"
   - green
+  - "pantone-563"
+  - cyan
+  - gray
+  - teal
 typographies:
   - impact
 imagery_styles:
-  - bold
-  - photography
-  - graphic
-  - gradient
-  - clean
   - natural
+  - clean
+  - photography
+  - gradient
+  - graphic
+  - bold
 wikidata_description: "United States environmental advocacy organization, headquartered in New York City"
+wikidata_url: "https://www.wikidata.org/wiki/Q1345899"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +132,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1345899) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Freebase Id | /m/05btjs |
 | Inception | 1967 |
 | Founded By | Dennis Puleston, George M. Woodwell, Victor Yannacone |
@@ -153,7 +173,6 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | environmental-defense |
 | Media Bias/Fact Check Id | environmental-defense-fund-bias (as of 2024-02-02) |
 | Industry | environment |
-| Total Assets | 452,168,552 United States dollar (as of 2022), 437,217,657 United States dollar (as of 2021), 477,638,635 United States dollar (as of 2023), 153,964,992 United States dollar (as of 2011), 173,139,307 United States dollar (as of 2012) (+9 more) |
 | Facebook Username | EnvDefenseFund |
 | Snac Ark Id | w6t19m9h |
 | Domain Name | edf.org |
@@ -164,17 +183,38 @@ guideline_count: 1
 
 ### Revenue History
 
-- $157.30M (157,295,165 United States dollar (as of 2016-01-01))
-- $185.64M (185,639,721 United States dollar (as of 2019))
-- $210.60M (210,596,240 United States dollar (as of 2018))
-- $146.65M (146,650,894 United States dollar (as of 2017))
-- $284.76M (284,762,302 United States dollar (as of 2022))
-- $365.12M (365,118,097 United States dollar (as of 2021))
-- $247.06M (247,057,586 United States dollar (as of 2023))
-- $96.36M (96,358,261 United States dollar (as of 2011))
-- $111.92M (111,915,138 United States dollar (as of 2012))
-- $149.72M (149,720,163 United States dollar (as of 2013))
-- $147.16M (147,163,910 United States dollar (as of 2014))
-- $138.53M (138,533,291 United States dollar (as of 2015))
-- $200.63M (200,629,015 United States dollar (as of 2020))
-- $298.69M (298,689,286 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $157.30M | as of 2016-01-01 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $185.64M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $210.60M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $146.65M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $284.76M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $365.12M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $247.06M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $96.36M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $111.92M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $149.72M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $147.16M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $138.53M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $200.63M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $298.69M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $452.17M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $437.22M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $477.64M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $153.96M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $173.14M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $208.75M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $224.85M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $225.20M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $242.27M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $221.12M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $245.36M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $280.91M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $267.86M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $391.66M | as of 2024 | [100M-500M](/total_assets_buckets/100m-500m/) |

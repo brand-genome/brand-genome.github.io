@@ -2,11 +2,11 @@
 title: Chiesi
 slug: chiesi
 description: ""
-date: "2026-03-05T22:38:39.334397"
+date: "2026-03-13T08:56:59.288331"
 draft: false
 sectors:
-  - pharma
   - biotech
+  - pharma
 regions:
   - italy
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1650
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,20 +54,22 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - pink
   - black
+  - pink
 typographies:
-  - gotham
   - verdana
+  - gotham
   - montserrat
 imagery_styles:
-  - professional
   - clean
+  - professional
 wikidata_description: Hospital or nursing home in Meldola (FC)
+wikidata_url: "https://www.wikidata.org/wiki/Q106082657"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -113,6 +125,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106082657) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1650](/foundation_dates/1650/) |
 | Country | Italy |
 | Tourer.It Id | 17952 |
 | Located In The Administrative Territorial Entity | Meldola |

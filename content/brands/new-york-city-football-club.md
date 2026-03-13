@@ -2,7 +2,7 @@
 title: New York City Football Club
 slug: "new-york-city-football-club"
 description: ""
-date: "2026-03-05T22:38:39.260728"
+date: "2026-03-13T08:56:59.204511"
 draft: false
 sectors:
   - sports
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American soccer club based in New York City, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q13361030"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13361030) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Topic'S Main Category | Category:New York City FC |
 | Freebase Id | /m/0t_f17t |
 | Sport | association football |
@@ -78,7 +97,6 @@ guideline_count: 1
 | Facebook Username | newyorkcityfc |
 | Instagram Username | newyorkcityfc |
 | Category For Members Of A Team | Category:New York City FC players |
-| Logo Image | New York City FC badge.svg (from 2024) |
 | Library Of Congress Authority Id | n2018004773 |
 | Viaf Cluster Id | 140146462587627770181 |
 | Youtube Channel Id | UCmZQ-7cZhtXz8eH6UJza4JA (as of 2020-12-05, from 2014-01-31) |

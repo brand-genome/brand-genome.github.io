@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-03-05T22:38:39.824990"
+date: "2026-03-13T08:56:59.906397"
 draft: false
 sectors:
   - university
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - troy
+subsidiaries: []
+foundation_dates:
+  - 1824
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,33 +53,35 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - seal
   - primary
   - secondary
+  - seal
 brand_colors:
-  - "pantone-7711"
-  - "pantone-390"
-  - black
   - "pantone-485"
-  - "pantone-424"
   - "pantone-5425"
+  - "pantone-424"
+  - "pantone-7711"
+  - black
+  - "pantone-390"
   - "pantone-158"
 typographies:
-  - impact
-  - serif
-  - "sans-serif"
-  - times
-  - gotham
   - "source-sans"
+  - gotham
+  - times
+  - serif
+  - impact
+  - "sans-serif"
 imagery_styles:
-  - bold
   - modern
   - professional
+  - bold
 wikidata_description: "private research university in Troy, New York"
+wikidata_url: "https://www.wikidata.org/wiki/Q49211"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +134,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49211) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Troy](/headquarters_locations/troy/) |
+| Foundation Date | [1824](/foundation_dates/1824/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | New York, Troy |
 | Topic'S Main Category | Category:Rensselaer Polytechnic Institute |
@@ -164,9 +185,7 @@ guideline_count: 1
 | Social Media Followers | 7,527 (as of 2021-01-04), 5,240 (as of 2025-10-18) |
 | Crunchbase Organization Id | rensselaer-polytechnic-institute, rpi-incubator-program |
 | Count Of Students | 7,501 (as of 2020-09), 7,064 (as of 2023-03-29), 6,912 (as of 2022-10-06), 6,761 (as of 2021-09-01) |
-| Total Assets | 1,598,361,000 United States dollar (as of 2020-06-30) |
 | Endowment | 740,260,000 United States dollar (as of 2020-06-30), 864,140,951 United States dollar (as of 2022-06-30), 1,069,740,000 United States dollar (as of 2021-06-30) |
-| Employees | 1,673 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I165799507 |
@@ -186,10 +205,21 @@ guideline_count: 1
 | Facebook Username | RPI.EDU |
 | Ranking | 431 (as of 2022), 494 (as of 2024), 461 (as of 2023), 296 (as of 2012), 353 (as of 2014) (+7 more) |
 | Seal Image | Rensselear poly inst seal.png |
-| Logo Image | Rensselaer Polytechnic Institute Logo.svg |
 | Image | Ricketts Building.jpg |
 | Domain Name | rpi.edu |
 | ‎Yale Lux Id | group/7cd0c75c-eb72-4164-ac25-6d4de209c046 |
 | Usb Vendor Id | 181c |
 | Youtube Channel Id | UCdH4jKoTt9Lr18RxrRqv4gQ (as of 2025-09-21, from 2007-09-11) |
 | Athletics Program | RPI Engineers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,673 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.60B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

@@ -2,7 +2,7 @@
 title: Girlguiding
 slug: girlguiding
 description: ""
-date: "2026-03-05T22:38:39.203111"
+date: "2026-03-13T08:56:59.140085"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - "new-zealand"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - christchurch
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,28 +54,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
-  - "pantone-2382"
   - "pantone-102"
+  - "pantone-2382"
   - black
   - "pantone-151"
   - gray
 typographies:
   - arial
 imagery_styles:
-  - bold
-  - photography
-  - staged
-  - candid
   - natural
+  - staged
+  - photography
+  - candid
+  - bold
 wikidata_description: charity from New Zealand
+wikidata_url: "https://www.wikidata.org/wiki/Q136754376"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -165,30 +179,72 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136754376) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Christchurch](/headquarters_locations/christchurch/) |
 | Country | New Zealand |
 | Nz Charities Register Number | CC22069 |
 | Headquarters Location | Christchurch |
-| Total Assets | 14,626,591 New Zealand dollar (as of 2024), 15,677,122 New Zealand dollar (as of 2023), 16,042,153 New Zealand dollar (as of 2022), 18,374,541 New Zealand dollar (as of 2021), 18,876,485 New Zealand dollar (as of 2020) (+12 more) |
-| Employees | 24 (as of 2024), 28 (as of 2023), 37 (as of 2022), 43 (as of 2021), 41 (as of 2019) (+5 more) |
 | Bequest Income | 3,500 New Zealand dollar (as of 2015), 63,709 New Zealand dollar (as of 2010) |
 | Donations | 216,094 New Zealand dollar (as of 2024), 751,875 New Zealand dollar (as of 2023), 551,062 New Zealand dollar (as of 2021), 450,256 New Zealand dollar (as of 2020), 478,623 New Zealand dollar (as of 2019) (+5 more) |
 
 ### Revenue History
 
-- $3.17M (3,171,507 New Zealand dollar (as of 2024))
-- $4.04M (4,039,996 New Zealand dollar (as of 2023))
-- $4.71M (4,708,129 New Zealand dollar (as of 2022))
-- $3.65M (3,651,246 New Zealand dollar (as of 2021))
-- $3.33M (3,330,297 New Zealand dollar (as of 2020))
-- $5.04M (5,040,874 New Zealand dollar (as of 2019))
-- $5.92M (5,918,612 New Zealand dollar (as of 2018))
-- $7.68M (7,679,749 New Zealand dollar (as of 2017))
-- $5.56M (5,559,572 New Zealand dollar (as of 2016))
-- $7.35M (7,345,220 New Zealand dollar (as of 2015))
-- $9.47M (9,469,266 New Zealand dollar (as of 2014))
-- $6.24M (6,243,600 New Zealand dollar (as of 2013))
-- $7.81M (7,809,477 New Zealand dollar (as of 2012))
-- $5.95M (5,949,425 New Zealand dollar (as of 2011))
-- $6.34M (6,338,739 New Zealand dollar (as of 2010))
-- $6.09M (6,086,456 New Zealand dollar (as of 2009))
-- $8.05M (8,047,000 New Zealand dollar (as of 2008))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.17M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.04M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.71M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.65M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.33M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.04M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.92M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.68M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.56M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.35M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $9.47M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.24M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $7.81M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.95M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.34M | as of 2010 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.09M | as of 2009 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.05M | as of 2008 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 24 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |
+| 28 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 37 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 43 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 41 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+| 44 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 47 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 40 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |
+| 42 | as of 2014 | [UNDER-100](/employees_buckets/under-100/) |
+| 39 | as of 2008 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $14.63M | as of 2024 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $15.68M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $16.04M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.37M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.88M | as of 2020 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $21.51M | as of 2019 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $23.15M | as of 2018 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $24.85M | as of 2017 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $25.41M | as of 2016 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $28.46M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $26.45M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.10M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $19.69M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $20.99M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.77M | as of 2010 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.69M | as of 2009 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.52M | as of 2008 | [10M-100M](/total_assets_buckets/10m-100m/) |

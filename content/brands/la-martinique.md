@@ -2,7 +2,7 @@
 title: La Martinique
 slug: "la-martinique"
 description: ""
-date: "2026-03-05T22:38:39.385138"
+date: "2026-03-13T08:56:59.350344"
 draft: false
 sectors:
   - "public-sector"
@@ -22,6 +22,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,29 +49,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - alternate
   - signature
+  - alternate
+  - wordmark
 brand_colors:
   - white
-  - violet
   - red
-  - orange
-  - black
-  - yellow
   - blue
+  - yellow
+  - violet
   - turquoise
+  - black
+  - orange
   - gray
   - "pantone-137"
 typographies: []
 imagery_styles:
-  - flat
   - gradient
+  - flat
 wikidata_description: 1940s nightclub in Manhattan
+wikidata_url: "https://www.wikidata.org/wiki/Q6463759"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +130,10 @@ guideline_count: 1
 - Goodies examples include caps, T-shirts, and keychains. These align with pre-defined branding standards.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6463759) |
 
 | Property | Value |
 |----------|-------|

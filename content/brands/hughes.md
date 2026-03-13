@@ -2,7 +2,7 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-03-05T22:38:39.708215"
+date: "2026-03-13T08:56:59.723357"
 draft: false
 sectors:
   - networking
@@ -23,6 +23,23 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - helicopter
+  - spacecraft
+  - aircraft
+  - "spacecraft-bus"
+  - missile
+products: []
+headquarters_locations:
+  - "los-angeles"
+  - "culver-city"
+subsidiaries: []
+foundation_dates:
+  - 1932
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,23 +62,25 @@ logo_elements:
   - symbol
 brand_colors:
   - white
-  - magenta
+  - "pantone-286"
+  - blue
+  - yellow
   - cyan
   - black
-  - yellow
-  - blue
-  - "pantone-3145"
   - gray
-  - "pantone-286"
+  - "pantone-3145"
+  - magenta
 typographies: []
 imagery_styles:
   - gradient
   - clean
 wikidata_description: defunct American aerospace and defense contractor
+wikidata_url: "https://www.wikidata.org/wiki/Q196253"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +130,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q196253) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Helicopter](/products_or_materials_produced/helicopter/); [Spacecraft](/products_or_materials_produced/spacecraft/); [Aircraft](/products_or_materials_produced/aircraft/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/); [Missile](/products_or_materials_produced/missile/) |
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/); [Culver City](/headquarters_locations/culver-city/) |
+| Foundation Date | [1932](/foundation_dates/1932/) |
 | Founded By | Howard Hughes |
 | Topic'S Main Category | Category:Hughes Aircraft Company |
 | Industry | aerospace industry, weapons industry |
@@ -122,7 +148,6 @@ guideline_count: 1
 | Dissolved, Abolished Or Demolished Date | 1997 |
 | Owned By | Raytheon |
 | Gnd Id | 250278-1 |
-| Logo Image | HughesAircraftCo.png |
 | Quora Topic Id | Hughes-Aircraft-Company-1 |
 | Encyclopædia Britannica Online Id | topic/Hughes-Aircraft-Company |
 | Product Or Material Produced | helicopter, aircraft, missile, spacecraft bus, spacecraft |

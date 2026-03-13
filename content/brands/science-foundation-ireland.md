@@ -2,11 +2,11 @@
 title: Science Foundation Ireland
 slug: "science-foundation-ireland"
 description: ""
-date: "2026-03-05T22:38:39.750262"
+date: "2026-03-13T08:56:59.789945"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - ireland
 years:
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: statutory research funding body
+wikidata_url: "https://www.wikidata.org/wiki/Q3475731"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +78,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3475731) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Inception | 2003-07-25 |
 | Country | Ireland |
 | Member Of | ORCID, Inc. (as of 2023-10), Science Europe, Coalition for Advancing Research Assessment |
@@ -89,8 +106,7 @@ guideline_count: 1
 | Linkedin Company Or Organization Id | science-foundation-ireland |
 | Instagram Username | scienceireland |
 | Youtube Channel Id | UCrKr8jP0YSIcSX5kIfmjEXA (as of 2023-11-26, from 2010-03-23) |
-| Email Address | mailto:info@sfi.ie |
+| Email Address | info@sfi.ie |
 | Phone Number | +353-16073200 |
 | Dissolved, Abolished Or Demolished Date | 2024 |
 | Youtube Handle | researchireland (as of 2025-10-21) |
-| Logo Image | SFI-Discover logo.jpg |

@@ -2,7 +2,7 @@
 title: Special Olympics Australia
 slug: "special-olympics-australia"
 description: ""
-date: "2026-03-05T22:38:39.360882"
+date: "2026-03-13T08:56:59.312758"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,22 @@ industries: []
 countries:
   - australia
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "1M-10M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "sydney-olympic-park"
+subsidiaries: []
+foundation_dates:
+  - 1990
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +63,12 @@ imagery_styles:
   - realistic
   - professional
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q117075611"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +118,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q117075611) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Sydney Olympic Park](/headquarters_locations/sydney-olympic-park/) |
+| Foundation Date | [1990](/foundation_dates/1990/) |
 | Parent Organization Or Unit | Special Olympics |
 | Part Of | Special Olympics |
 | Country | Australia |
@@ -110,15 +131,35 @@ guideline_count: 1
 | Australian Business Number | 28050738728 |
 | Inception | 1990-01-01 |
 | Headquarters Location | Sydney Olympic Park |
-| Total Assets | 4,288,554 Australian dollar (as of 2023), 5,466,489 Australian dollar (as of 2022), 6,949,150 Australian dollar (as of 2021), 5,526,491 Australian dollar (as of 2020), 4,355,570 Australian dollar (as of 2019) |
 | Number Of Volunteers | 1,363 (as of 2023), 1,126 (as of 2022), 762 (as of 2021), 1,150 (as of 2020), 1,135 (as of 2019) |
 | Donations | 1,264,667 Australian dollar (as of 2023), 2,042,662 Australian dollar (as of 2022), 1,216,342 Australian dollar (as of 2021), 1,161,411 Australian dollar (as of 2020), 954,727 Australian dollar (as of 2019) |
-| Employees | 25 (as of 2023), 28 (as of 2022), 30 (as of 2021), 26 (as of 2020), 15 (as of 2019) |
 
 ### Revenue History
 
-- $5.42M (5,422,576 Australian dollar (as of 2023))
-- $8.46M (8,458,585 Australian dollar (as of 2022))
-- $4.36M (4,357,328 Australian dollar (as of 2021))
-- $3.49M (3,489,383 Australian dollar (as of 2020))
-- $5.70M (5,702,151 Australian dollar (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.42M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $8.46M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.36M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.49M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.70M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 25 | as of 2023 | [UNDER-100](/employees_buckets/under-100/) |
+| 28 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 30 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+| 26 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 15 | as of 2019 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $4.29M | as of 2023 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.47M | as of 2022 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $6.95M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.53M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.36M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |

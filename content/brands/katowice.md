@@ -2,7 +2,7 @@
 title: Katowice
 slug: katowice
 description: ""
-date: "2026-03-05T22:38:39.112098"
+date: "2026-03-13T08:56:59.058336"
 draft: false
 sectors:
   - "public-sector"
@@ -13,13 +13,23 @@ years:
 languages:
   - polish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1598
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +52,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Silesian Voivodeship, Poland"
+wikidata_url: "https://www.wikidata.org/wiki/Q588"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +74,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q588) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1598](/foundation_dates/1598/) |
 | Licence Plate Code | SK, IK |
 | Dewey Decimal Classification | 2--43858 |
 | Country | Weimar Republic (from 1918-11-09, until 1922-06-20), Second Polish Republic (from 1922-06-20, until 1939-09), Polish People's Republic (from 1952-07-22, until 1989-12-31), Poland (from 1990-01-01), German Empire (until 1918-11-08) |
@@ -128,7 +145,6 @@ guideline_count: 1
 | Bhcl Uuid | 7de6081f-78ad-490b-a5ea-35df1ed4dcfc, bc761f5f-b290-407a-bce3-026ea1bb067e |
 | Github Topic | katowice |
 | Wordnet 3.1 Synset Id | 09006380-n |
-| Logo Image | Logo Katowice.svg |
 | Factgrid Item Id | Q80810 |
 | Yivo Encyclopedia Of Jews In Eastern Europe Id | Katowice |
 | Inaturalist Place Id | 18149 |

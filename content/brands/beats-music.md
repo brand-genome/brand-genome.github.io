@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-03-05T22:38:39.585229"
+date: "2026-03-13T08:56:59.525955"
 draft: false
 sectors:
   - entertainment
@@ -13,14 +13,25 @@ years:
 languages:
   - english
 tags:
-  - featured
   - music
+  - featured
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "internet-radio"
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2014
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,24 +50,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - logomark
   - secondary
   - alternate
+  - primary
   - wordmark
-  - logomark
 brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - bold
   - dynamic
   - gradient
+  - bold
 wikidata_description: online music streaming service
+wikidata_url: "https://www.wikidata.org/wiki/Q16155126"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Brand Guidelines
 
@@ -88,6 +101,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16155126) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Internet Radio](/products_or_materials_produced/internet-radio/) |
+| Foundation Date | [2014](/foundation_dates/2014/) |
 | Musicbrainz Label Id | e83b5665-656e-44f8-a7dd-7d91a6d1bf8d |
 | Country | United States |
 | Quora Topic Id | Beats-Music-1 |
@@ -95,7 +114,6 @@ guideline_count: 1
 | Product Or Material Produced | internet radio |
 | Language Of Work Or Name | English |
 | Inception | 2014-01-01 |
-| Logo Image | Beats Music logo.svg |
 | Downdetector Id | beats-music |
 | Freebase Id | /m/0_82t88 |
 | Zhihu Topic Id | 19939026 |

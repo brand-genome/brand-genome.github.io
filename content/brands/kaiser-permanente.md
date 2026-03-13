@@ -2,11 +2,11 @@
 title: Kaiser Permanente
 slug: "kaiser-permanente"
 description: ""
-date: "2026-03-05T22:38:40.031000"
+date: "2026-03-13T08:57:00.048763"
 draft: false
 sectors:
-  - healthcare
   - insurance
+  - healthcare
 regions:
   - unknown
 years: []
@@ -19,253 +19,391 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - oakland
+subsidiaries:
+  - "kaiser-permanente-hayward-medical-center"
+  - "kaiser-permanente-center-for-health-research"
+  - "kaiser-permanente-vallejo-medical-center"
+  - "kaiser-permanente-anaheim-medical-center"
+  - "kaiser-permanente-san-francisco-medical-center"
+  - "kaiser-permanente-redwood-city-medical-center"
+  - "oakland-medical-center"
+  - "kaiser-permanente-san-diego-medical-center"
+  - "bess-kaiser-hospital"
+  - "kaiser-permanente-medical-center"
+  - "kaiser-foundation-hospital-fontana"
+  - "hawaii-permanente-medical-group"
+  - "kaiser-permanente-riverside-medical-center"
+  - "kaiser-permanente-south-san-francisco-medical-center"
+  - "permanente-medical-groups"
+  - "kaiser-permanente-moanalua-medical-center"
+  - "kaiser-foundation-hospital"
+  - "los-angeles-medical-center"
+  - "kaiser-permanente-sacramento-medical-center"
+  - "kaiser-permanente-santa-clara-medical-center"
+  - "kaiser-permanente-walnut-creek-medical-center"
+foundation_dates:
+  - 1945
 lightings:
+  - natural
   - studio
   - soft
   - moderate
   - "light-on-subject"
-  - bright
   - dark
-  - natural
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
+  - solid
+  - transparent
   - wood
   - textured
-  - blurred
-  - transparent
-  - solid
-  - light
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
   - "text-heavy"
   - "complementary-colors"
-  - light
-  - "analogous-colors"
-  - "pastel-colors"
+  - "two-tone"
   - "autumnal-colors"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - monotone
+  - grayscale
+  - light
   - bright
 photography_genres:
-  - selfie
-  - professional
-  - "social-awareness"
-  - informational
-  - landscape
-  - botanical
-  - promotional
-  - product
-  - environmental
-  - text
-  - interior
-  - illustration
-  - street
-  - advertising
-  - architectural
-  - candid
-  - "live-stage"
-  - action
-  - group
-  - documentary
-  - headshot
-  - logo
-  - fashion
-  - sky
-  - advertisement
-  - event
-  - healthcare
-  - cityscape
-  - "text-heavy"
+  - staged
   - corporate
-  - family
-  - typography
-  - "graphic-design"
-  - "professional-headshot"
   - "incomplete-art"
+  - logo
+  - product
+  - promotional
+  - "graphic-design"
+  - selfie
+  - cityscape
+  - family
+  - "live-stage"
+  - street
+  - healthcare
+  - "social-awareness"
+  - professional
+  - sky
+  - fashion
+  - medical
+  - group
+  - business
+  - "professional-headshot"
+  - advertising
+  - advertisement
+  - documentary
+  - typography
+  - "text-heavy"
   - portrait
   - beauty
-  - staged
-  - business
   - political
-  - medical
+  - landscape
+  - interior
   - information
-  - "still-life"
-concepts:
-  - "social-message"
-  - advertisement
-  - "text-heavy"
+  - informational
   - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "incomplete-art"
-  - photorealism
+  - candid
+  - text
+  - "still-life"
+  - architectural
+  - event
+  - environmental
+  - action
+  - headshot
+  - botanical
+concepts:
+  - advertisement
   - documentary
+  - "text-heavy"
+  - vintage
+  - "incomplete-art"
+  - illustration
+  - photorealism
+  - "graphic-design"
+  - "social-message"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "multiple-focal-points"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "bokeh-effect"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "multiple-focal-points"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - "off-white"
-  - black
+  - "royal-blue"
   - "dark-blue"
   - cyan
-  - "light-blue"
-  - "royal-blue"
+  - black
   - gray
+  - "light-blue"
+  - "off-white"
 color_tones:
   - neutral
 hair_styles:
-  - casual
-  - flowing
-  - wavy
-  - loose
-  - updo
-  - dark
-  - "tied-back"
-  - straight
-  - ponytail
-  - curly
-  - braided
-  - short
   - graying
   - varied
-  - covered
-  - "pulled-back"
+  - ponytail
+  - long
   - neat
   - bald
-  - long
-facial_expressions:
-  - joyful
-  - smiling
-  - engaged
-  - relaxed
-  - neutral
-  - friendly
-  - content
-  - focused
-  - contemplative
-clothing_styles:
+  - "tied-back"
+  - curly
+  - braided
+  - updo
+  - "pulled-back"
+  - flowing
+  - straight
+  - dark
+  - covered
   - casual
-  - "smart-casual"
-  - athletic
-  - business
+  - loose
+  - short
+  - wavy
+facial_expressions:
+  - focused
+  - engaged
+  - neutral
+  - joyful
+  - relaxed
+  - friendly
+  - contemplative
+  - smiling
+  - content
+clothing_styles:
+  - formal
   - beachwear
+  - athletic
+  - "business-casual"
+  - casual
+  - traditional
+  - "smart-casual"
   - professional
   - "form-fitting"
-  - costume
-  - formal
+  - uniform
   - protective
   - swimwear
-  - traditional
-  - "business-casual"
-  - uniform
+  - business
+  - costume
 clothing_colors:
   - white
-  - vibrant
+  - pastel
   - neutral
   - monochrome
+  - vibrant
+  - colorful
   - black
   - earthy
-  - colorful
-  - pastel
   - muted
 posings:
-  - seated
-  - walking
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - engaged
-  - holding
-  - active
-  - standing
   - formal
-  - running
   - stretching
-  - static
   - confident
-gazes:
+  - active
+  - leaning
+  - running
+  - static
+  - walking
+  - relaxed
   - engaged
-  - away
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
-  - "at-camera"
   - sideways
   - forward
+  - upward
+  - "at-camera"
+  - away
 body_sections:
-  - "hand-only"
-  - "head-shot"
-  - midsection
-  - "full-back"
-  - "lower-half"
-  - "upper-body"
-  - "full-body"
-  - "shoulders-up"
   - "close-up"
+  - "upper-body"
+  - "lower-half"
+  - "shoulders-up"
+  - "hand-only"
+  - midsection
+  - "head-shot"
+  - "full-back"
+  - "full-body"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American integrated managed care company
+wikidata_url: "https://www.wikidata.org/wiki/Q1721601"
 has_twitter: true
 has_guidelines: false
 promotion_image_count: 137
 guideline_count: 0
+sample_image_urls:
+  - "https://pbs.twimg.com/media/EUct3J2UMAEANkv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FH9mqFRVkAMlAcO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEX3SnnX4AEK8g1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EsB0EIfXEAg_g9A?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJsRbrOXUAAb41l?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EY390OpUwAEIric?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DzZ_jNCU8AAXctN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FM9tjxZVcAAkjMA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dde1wUbV4AA64OQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ec-cXpyXgAIPKq6?format=png&name=large"
+  - "https://pbs.twimg.com/media/DaXHWRoX0AAgSdm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ej1FPoJWsAMV6m_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJsJBHBWsAMnF3N?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ew31RzvVkAUDfmB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EGcLtRHU8AAQ8em?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EidHXPyXgAIq9Rr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EddJCRoU0AUj7Ll?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FT7xudxVEAAkvkf?format=png&name=large"
+  - "https://pbs.twimg.com/media/DZi498EWkAAdZpp?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EnwwfWyUcAACFQv?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dzyb9RZWoAACtfk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDU-ctFVUAA71hT?format=png&name=large"
+  - "https://pbs.twimg.com/media/EordI5qWMAI4VCZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVkrPH4XgAMkGSe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDTsINMU4AA6rUq?format=png&name=large"
+  - "https://pbs.twimg.com/media/FY3J6ICUcAAeiJy?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETQ46IOWkAEfrZO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dw_UaKFW0AI-3wo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ErOz-TWVcAA8bZx?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EU7kFeBX0AEL0_Y?format=png&name=large"
+  - "https://pbs.twimg.com/media/EdYjwvNXgAExSm4?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESwewn_XkAAZsDo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcX8NAGWkAAHwD7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4-9idwVIAMAHs1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhgPh11X0AIdT2i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E3XY9usXIBARBs2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmGW2sJVoAEYXzm?format=png&name=large"
+  - "https://pbs.twimg.com/media/DmvxYN7VAAIPS0z?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EiiUlyOVkAAEhAk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E4GqXbhXwAUM2R9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EFVBxiVX4AAFQEY?format=png&name=large"
+  - "https://pbs.twimg.com/media/D0WW_SuWsAcqM9s?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EbT-suXWsAUL-zw?format=png&name=large"
+  - "https://pbs.twimg.com/media/EDd_Tm0U0AEhDaq?format=png&name=large"
+  - "https://pbs.twimg.com/media/ELhKPZPWoAARVEk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENIbzMXWkAAuzwJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ednf5T2VoAAOEeB?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EhUeTxoVgAESqI8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmASnTZXgAA0jWK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eov2I7eXIAEY4Hi?format=png&name=large"
+  - "https://pbs.twimg.com/media/EJXY-vCVUAEySfq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DW_svfkWkAoaC0E?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EXWOlTcVcAAnRPf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Efp8mELWoAUGtJb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUXddBGX0AElXpJ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJmFrkiUUAARkLk?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EOfrH6WUwAAJD0i?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FBG1B5lVEAMTtRu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELdLnoMWkAAG6PR?format=png&name=large"
+  - "https://pbs.twimg.com/media/DWvIorEX0AAkL56?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EpYfJVeVQAAIHvN?format=png&name=large"
+  - "https://pbs.twimg.com/media/EbcbWYEUcAAqiBl?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E0FCbgvUUAEuLfs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJwnU2aVUAIX7jf?format=png&name=large"
+  - "https://pbs.twimg.com/media/Eh-QRnUU8AUEdDr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EkT01aSVgAA6KBU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EA5a6wdWkAArPVi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EB9zVcHUIAEwNG5?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ET_HyowUcAA--kU?format=png&name=large"
+  - "https://pbs.twimg.com/media/EkT1spYVcAIXHsu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FnaYfjYaYAESqKa?format=png&name=large"
+  - "https://pbs.twimg.com/media/FQU17B-VQA8ywla?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EoZyOJnUYAMs2EZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FcAb1KcaMAUJKMZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FWhIicPVEAA4Hkf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ed8-gXFWsAAqQIN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EyA0KMmUYAQ4Ydh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FUL4YRPVsAEsoDh?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVG7JxtUwAAxCve?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FTIZ1drVIAADfeZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eu7GE85UYAA3eYr?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eal9K99XkAcVbC0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESsBaeuXQAAkjHc?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETPdsgwWkAAb3Hi?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Ea4tu83U8AADLaA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ES1tXidUcAEo_f7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EclKouCXgAErlqG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDFWxe0VAAAU7Ga?format=png&name=large"
+  - "https://pbs.twimg.com/media/E1HWSt4UcAAi5EO?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Feys6d3UoAAyMFe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FdGeQLHakAAuPOE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Erty4k1VkAAIRRf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DsE87GZUwAEvQDS?format=png&name=large"
+  - "https://pbs.twimg.com/media/EaQQLEMWkAIo1HF?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D0_s6BqX4AM6tuu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESH74iaXYAY2Djs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dw_XEhZXQAETqSf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EmkNSeGXYAIOqz9?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIi9ISPXsAAYyyK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FVYsE5CVIAA9fGR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfdFYMOUUAE4odd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EJsgyLnU4AAdJsX?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EfFZdJdXkAAGso6?format=png&name=large"
+  - "https://pbs.twimg.com/media/EX6OP3gVcAELAT1?format=jpg&name=large"
 ---
 ## Promotion Insights
 
 ### Color Analysis
 *Statistics computed across 137 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| Royal Blue | 39.9% | 36.6% | 9.3% | 60.5% | 91.5% | ±31.5% | 27.7% |
-| Dark Blue | 32.6% | 21.8% | 11.4% | 32.6% | 84.2% | ±29.3% | 43.8% |
-| Light Blue | 31.8% | 20.9% | 10.3% | 39.6% | 100.0% | ±30.0% | 32.8% |
-| White | 30.6% | 16.5% | 11.6% | 56.0% | 72.3% | ±26.3% | 38.7% |
-| Black | 23.8% | 17.2% | 11.5% | 34.9% | 44.6% | ±16.1% | 45.3% |
-| Gray | 19.9% | 16.8% | 10.7% | 25.4% | 33.4% | ±11.6% | 33.6% |
-| Off White | 17.2% | 14.9% | 9.9% | 20.4% | 27.0% | ±8.5% | 13.9% |
-| Cyan | 16.1% | 7.9% | 7.1% | 21.2% | 30.4% | ±12.3% | 10.9% |
+| Color | Mean |
+|-------|------|
+| Royal Blue | 39.9% |
+| Dark Blue | 32.6% |
+| Light Blue | 31.8% |
+| White | 30.6% |
+| Black | 23.8% |
+| Gray | 19.9% |
+| Off White | 17.2% |
+| Cyan | 16.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 4.2% | 0% | 0.0% | 0.0% | ±13.4% |
-| Neutral | 50.1% | 50.7% | 13.1% | 81.3% | ±35.3% |
-| Cool | 45.8% | 45.7% | 14.2% | 83.2% | ±35.8% |
+| Tone | Mean |
+|------|------|
+| Warm | 4.2% |
+| Neutral | 50.1% |
+| Cool | 45.8% |
 
 ### Sample Images
 
@@ -375,9 +513,15 @@ guideline_count: 0
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1721601) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oakland](/headquarters_locations/oakland/) |
+| Subsidiary | [Kaiser Permanente Hayward Medical Center](/subsidiaries/kaiser-permanente-hayward-medical-center/); [Kaiser Permanente Center For Health Research](/subsidiaries/kaiser-permanente-center-for-health-research/); [Kaiser Permanente Vallejo Medical Center](/subsidiaries/kaiser-permanente-vallejo-medical-center/); [Kaiser Permanente Anaheim Medical Center](/subsidiaries/kaiser-permanente-anaheim-medical-center/); [Kaiser Permanente San Francisco Medical Center](/subsidiaries/kaiser-permanente-san-francisco-medical-center/); [Kaiser Permanente Redwood City Medical Center](/subsidiaries/kaiser-permanente-redwood-city-medical-center/); [Oakland Medical Center](/subsidiaries/oakland-medical-center/); [Kaiser Permanente San Diego Medical Center](/subsidiaries/kaiser-permanente-san-diego-medical-center/); [Bess Kaiser Hospital](/subsidiaries/bess-kaiser-hospital/); [Kaiser Permanente Medical Center](/subsidiaries/kaiser-permanente-medical-center/); [Kaiser Foundation Hospital Fontana](/subsidiaries/kaiser-foundation-hospital-fontana/); [Hawaii Permanente Medical Group](/subsidiaries/hawaii-permanente-medical-group/); +9 more |
+| Foundation Date | [1945](/foundation_dates/1945/) |
 | Country | United States |
 | Headquarters Location | Oakland |
-| Logo Image | KP logo.svg |
 | Inception | 1945-01-01 |
 | Founded By | Henry J. Kaiser, Sidney Garfield |
 | Chief Executive Officer | Greg A. Adams (from 2019) |

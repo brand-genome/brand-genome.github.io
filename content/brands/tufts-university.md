@@ -2,7 +2,7 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-03-05T22:38:39.826238"
+date: "2026-03-13T08:56:59.910931"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1852
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,26 +53,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - primary
-  - symbol
   - alternate
+  - seal
+  - symbol
 brand_colors:
-  - blue
   - brown
+  - blue
 typographies:
-  - gotham
   - serif
+  - gotham
 imagery_styles:
-  - bold
+  - graphic
   - classic
   - professional
-  - graphic
+  - bold
 wikidata_description: "private research university in Medford/Somerville, Massachusetts"
+wikidata_url: "https://www.wikidata.org/wiki/Q49120"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -208,6 +222,11 @@ official Tufts logo.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49120) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1852](/foundation_dates/1852/) |
 | Coordinate Location | 42.406949, -71.11982 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Massachusetts |
@@ -239,11 +258,9 @@ official Tufts logo.
 | Times Higher Education World University Id | tufts-university |
 | Google Maps Customer Id | 12570449954696543461 |
 | U Multirank University Id | tufts-university |
-| Logo Image | Tufts University wordmark.svg |
 | Owner Of | WMFO |
 | Microsoft Academic Id (Discontinued) | 121934306 |
 | Count Of Students | 9,517, 12,432 (as of 2021-09-01) |
-| Employees | 1,233 |
 | X (Twitter) Username | TuftsUniversity (as of 2020-04-27, from 2008-06-19) |
 | Facebook Username | tuftsu |
 | Instagram Username | tuftsuniversity |
@@ -264,7 +281,6 @@ official Tufts logo.
 | Child Organization Or Unit | Tufts Graduate School of Biomedical Sciences |
 | Armeniapedia Id | 4938 |
 | National Library Of Israel J9U Id | 987007594884705171 |
-| Total Assets | 3,775,926,242 United States dollar (as of 2020-06-30) |
 | Endowment | 1,889,477,000 United States dollar (as of 2020-06-30), 2,350,755,000 United States dollar (as of 2022-06-30), 2,646,506,000 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
@@ -310,3 +326,15 @@ official Tufts logo.
 | Athletics Program | Tufts Jumbos |
 | Delfi.Ee Topic Id | 87610549 |
 | Err Keyword Id | 31971030 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,233 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $3.78B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

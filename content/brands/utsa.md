@@ -2,7 +2,7 @@
 title: UTSA
 slug: utsa
 description: ""
-date: "2026-03-05T22:38:39.760434"
+date: "2026-03-13T08:56:59.809614"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1969
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,35 +51,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - symbol
-  - horizontal
-  - signature
-  - wordmark
   - stacked
+  - horizontal
+  - wordmark
 brand_colors:
   - white
+  - black
   - blue
   - orange
-  - black
 typographies:
-  - serif
   - futura
-  - "sans-serif"
-  - times
   - inter
   - arial
   - helvetica
+  - times
+  - serif
+  - "sans-serif"
 imagery_styles:
-  - bold
-  - classic
-  - clean
   - graphic
+  - clean
+  - classic
+  - bold
 wikidata_description: "public research university in San Antonio, Texas, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q183170"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -148,6 +161,11 @@ This section outlines rules for proper alignment, grid usage, and design of visu
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q183170) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1969](/foundation_dates/1969/) |
 | Coordinate Location | 29.584, -98.619 |
 | Country | United States |
 | Topic'S Main Category | Category:University of Texas at San Antonio |
@@ -172,7 +190,6 @@ This section outlines rules for proper alignment, grid usage, and design of visu
 | Times Higher Education World University Id | university-texas-san-antonio |
 | Google Maps Customer Id | 2658632929587635980 |
 | U Multirank University Id | university-of-texas-san-antonio |
-| Logo Image | UTSA Logo.svg |
 | Owner Of | Roadrunner Field |
 | Openstreetmap Relation Id | 934974 |
 | Microsoft Academic Id (Discontinued) | 45438204 |
@@ -190,7 +207,6 @@ This section outlines rules for proper alignment, grid usage, and design of visu
 | Crunchbase Organization Id | the-university-of-texas-at-san-antonio |
 | Inaturalist Place Id | 147475 |
 | Count Of Students | 34,742 (as of 2020-09) |
-| Employees | 3,654 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | UTSA |
@@ -205,3 +221,9 @@ This section outlines rules for proper alignment, grid usage, and design of visu
 | Threads Username | utsa |
 | Athletics Program | UTSA Roadrunners |
 | Google Scholar Organization Id | 16354518557369028298 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,654 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,11 +2,11 @@
 title: The Kavli Foundation
 slug: "the-kavli-foundation"
 description: ""
-date: "2026-03-05T22:38:39.388581"
+date: "2026-03-13T08:56:59.356105"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "los-angeles"
+subsidiaries: []
+foundation_dates:
+  - 2000
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +51,32 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - logomark
+  - lockup
   - secondary
 brand_colors:
   - white
   - red
-  - black
   - blue
-  - gray
   - "pantone-288"
+  - black
+  - gray
 typographies:
   - avenir
   - serif
 imagery_styles:
-  - bold
-  - photography
   - modern
-  - classic
   - subtle
+  - photography
+  - classic
+  - bold
 wikidata_description: foundation that supports the advancement of science
+wikidata_url: "https://www.wikidata.org/wiki/Q3441043"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +125,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3441043) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
+| Foundation Date | [2000](/foundation_dates/2000/) |
 | Country | United States |
 | Inception | 2000 |
 | Freebase Id | /m/03cy27c |

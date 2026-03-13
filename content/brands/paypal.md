@@ -2,7 +2,7 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-03-05T22:38:39.100172"
+date: "2026-03-13T08:56:59.051790"
 draft: false
 sectors:
   - software
@@ -11,20 +11,31 @@ regions:
   - usa
 years:
   - 2022
-  - 2013
   - 2020
+  - 2013
 languages:
   - english
 tags:
+  - internet
   - financial
   - featured
-  - internet
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "credit-card"
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +57,20 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies:
   - helvetica
 imagery_styles:
   - photography
   - professional
 wikidata_description: American worldwide online payments system
+wikidata_url: "https://www.wikidata.org/wiki/Q483959"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -176,6 +189,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q483959) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Credit Card](/products_or_materials_produced/credit-card/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Inception | 1998-12, 1998 |
 | Founded By | Ken Howery, Max Levchin, Luke Nosek, Peter Thiel, Yu Pan (+1 more) |
 | Country | United States |
@@ -210,7 +229,6 @@ guideline_count: 3
 | Bbc News Topic Id | c50znx8v8j4t |
 | Alternativeto Software Id | paypal |
 | France 24 Topic Id (French) | paypal |
-| Logo Image | Paypal.svg (from 2000, until 2007), PayPal logo pre-2014.svg (from 2007, until 2014), Pp fc hl.svg (from 2014, until 2022), PayPal.svg (from 2022, until 2024), PayPal 2024 (Alt).svg (from 2024) (+1 more) |
 | Small Logo Or Icon | PayPal 2024 (Icon).svg (from 2024) |
 | Pixiv Encyclopedia Id | PayPal |
 | Domain Name | paypal.com |

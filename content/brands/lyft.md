@@ -2,12 +2,12 @@
 title: Lyft
 slug: lyft
 description: ""
-date: "2026-03-05T22:38:39.656014"
+date: "2026-03-13T08:56:59.582768"
 draft: false
 sectors:
-  - software
-  - "car-rental"
   - "ride-sharing"
+  - "car-rental"
+  - software
 regions:
   - usa
 years:
@@ -17,218 +17,309 @@ languages:
 tags:
   - transport
 industries:
-  - "taxi-service"
   - transport
+  - "taxi-service"
 countries:
   - "united-states"
 revenue_buckets:
-  - "500m-1b"
+  - "500M-1B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries:
+  - "lyft-urban-solutions"
+foundation_dates:
+  - 2013
 lightings:
+  - natural
   - studio
+  - colored
+  - "light-glare"
   - soft
   - moderate
-  - "light-glare"
   - "light-on-subject"
-  - bright
   - dark
-  - natural
-  - colored
+  - bright
 perspectives:
-  - "point-of-view-shot"
   - "high-angle-photo"
-  - "panorama-view"
   - "audience-perspective"
+  - "panorama-view"
+  - "point-of-view-shot"
   - "centered-composition"
-  - "low-angle-photo"
   - "rule-of-third"
   - "bird-eye-view"
+  - "low-angle-photo"
 image_backgrounds:
-  - "background-as-frame"
-  - wood
-  - textured
-  - blurred
   - solid
   - transparent
-  - light
+  - wood
+  - textured
+  - "background-as-frame"
   - gradient
+  - blurred
+  - dark
+  - light
   - pattern
   - bright
-  - dark
 color_schemes:
-  - "two-tone"
-  - "bright-colors"
-  - grayscale
-  - monotone
-  - "complementary-colors"
-  - light
-  - "galaxy-colors"
-  - "analogous-colors"
-  - "pastel-colors"
-  - bright
   - "aquatic-colors"
+  - "complementary-colors"
+  - "two-tone"
+  - "analogous-colors"
+  - "bright-colors"
+  - "pastel-colors"
+  - "galaxy-colors"
+  - monotone
+  - grayscale
+  - light
+  - bright
 photography_genres:
-  - selfie
-  - landscape
-  - botanical
-  - food
-  - product
-  - text
-  - illustration
-  - interior
-  - abstract
-  - "audience-perspective"
-  - street
-  - advertising
-  - architectural
-  - candid
-  - action
-  - "live-stage"
-  - group
-  - documentary
-  - logo
-  - fashion
-  - advertisement
-  - "text-heavy"
-  - cartoon
-  - family
-  - typography
-  - "graphic-design"
-  - portrait
-  - beauty
   - staged
+  - logo
+  - product
+  - "graphic-design"
+  - abstract
+  - selfie
+  - family
+  - cartoon
+  - "live-stage"
+  - street
+  - fashion
+  - group
+  - typography
+  - advertisement
+  - documentary
+  - advertising
+  - beauty
+  - portrait
+  - "text-heavy"
+  - interior
+  - landscape
+  - food
+  - illustration
+  - "audience-perspective"
+  - candid
+  - text
   - "still-life"
+  - architectural
+  - action
+  - botanical
 concepts:
   - "text-heavy"
-  - cartoon
-  - illustration
-  - vintage
-  - typography
-  - "graphic-design"
-  - "wave-pattern"
   - "incomplete-art"
+  - illustration
   - photorealism
+  - cartoon
+  - "graphic-design"
+  - vintage
+  - "wave-pattern"
+  - typography
 depths:
-  - "bokeh-effect"
-  - "bright-focal-point"
   - "mid-shot"
-  - "shallow-depth-of-field"
-  - "partly-focused-subject"
-  - "fully-focused-subject"
-  - "close-up-shot"
   - "wide-angle-shot"
+  - "fully-focused-subject"
   - "isolated-focal-point"
+  - "bokeh-effect"
+  - "partly-focused-subject"
+  - "close-up-shot"
+  - "bright-focal-point"
+  - "shallow-depth-of-field"
 image_effects:
-  - "neutral-density-filter"
-  - "low-saturation"
-  - silhouette
-  - "high-contrast"
-  - "high-saturation"
-  - asymmetry
-  - "motion-blur"
-  - "long-exposure"
   - "short-exposure"
+  - "high-saturation"
+  - "high-contrast"
+  - "low-saturation"
+  - "long-exposure"
+  - silhouette
+  - "motion-blur"
+  - asymmetry
+  - "neutral-density-filter"
 dominant_colors:
   - white
-  - cyan
-  - black
+  - pink
   - "dark-brown"
   - "dark-blue"
-  - "light-blue"
-  - pink
+  - cyan
+  - black
   - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - flowing
-  - casual
-  - "pulled-back"
-  - varied
-  - neat
-  - wavy
-  - loose
-  - ponytail
-  - braided
-  - long
-  - curly
-  - updo
-  - short
-  - dark
-  - "tied-back"
   - covered
+  - updo
+  - neat
+  - "pulled-back"
+  - flowing
+  - loose
+  - casual
+  - varied
+  - short
+  - "tied-back"
+  - ponytail
+  - dark
+  - long
+  - wavy
+  - curly
+  - braided
 facial_expressions:
   - joyful
   - engaged
-  - relaxed
   - neutral
-  - content
   - focused
+  - relaxed
   - contemplative
+  - content
 clothing_styles:
-  - casual
-  - athletic
-  - "form-fitting"
-  - business
-  - professional
-  - beachwear
-  - costume
-  - protective
   - formal
-  - swimwear
-  - traditional
+  - beachwear
+  - athletic
   - "business-casual"
+  - casual
+  - traditional
+  - professional
+  - "form-fitting"
+  - protective
+  - swimwear
+  - business
+  - costume
 clothing_colors:
-  - vibrant
-  - muted
+  - pastel
   - neutral
   - monochrome
-  - earthy
+  - vibrant
   - colorful
   - dark
-  - pastel
+  - earthy
+  - muted
 posings:
-  - seated
-  - engaged
-  - reclined
-  - leaning
-  - relaxed
   - dynamic
-  - walking
-  - active
-  - holding
-  - standing
-  - running
   - stretching
   - confident
-gazes:
+  - active
+  - leaning
+  - running
   - engaged
-  - away
+  - walking
+  - relaxed
+  - standing
+  - reclined
+  - seated
+  - holding
+gazes:
   - downward
+  - engaged
   - outward
-  - upward
   - sideways
   - forward
+  - upward
+  - away
 body_sections:
+  - "upper-body"
+  - "close-up"
+  - "lower-half"
   - "hand-only"
-  - "head-shot"
   - engaged
   - midsection
+  - "head-shot"
   - "full-back"
-  - "lower-half"
-  - "upper-body"
   - "full-body"
-  - "close-up"
 logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
   - photography
 wikidata_description: machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface
+wikidata_url: "https://www.wikidata.org/wiki/Q11436"
 has_twitter: true
 has_guidelines: true
 promotion_image_count: 143
 guideline_count: 1
+sample_image_urls:
+  - "https://pbs.twimg.com/media/Du0ph5AVAAATqZK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DpvKUaYWwAg8ktZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EunJLRKU4AArufm?format=png&name=large"
+  - "https://pbs.twimg.com/media/D77g9zqV4AATq65?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FRjYJsxVkAAXjg7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ETlp_WQXYAAuyh8?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DkCMvA9XsAAZQbR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EdD6RwrWAAAmJnu?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVsLKJAXsAEIywK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FfsUsb-XoAEpREW?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcY8FqiVAAAe20V?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqOYTytVAAIL2CQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DiQMip7X4AE9mit?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DfBlke1UYAIulSj?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgT_kYbVQAAXYOH?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DbPiuxjVQAU9GrZ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D8PcUGoUwAAzBrr?format=png&name=large"
+  - "https://pbs.twimg.com/media/EPoXrGMXsAEANpe?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FPdUMz5VkAEpzib?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DquCc2hVsAAICbT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EO2xJa1UYAA6wCK?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7NU33SUYAA_ieR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EqVsgAgXIAMD-Mg?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ElHGiD9XgAAIZkf?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EMkg9B8XkAIhWg1?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ELxQjDEU0AE792s?format=png&name=large"
+  - "https://pbs.twimg.com/media/ENYbK5LWwAEQEvq?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EKUKInZXkAEP7W6?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DacPiCLXkAA9PDE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ESNwToIW4AIK7KR?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmhPptcXsAEsqVT?format=png&name=large"
+  - "https://pbs.twimg.com/media/DSfmsDOX0AE0dRQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DVT1QFUXcAA650Z?format=png&name=large"
+  - "https://pbs.twimg.com/media/D7Hi1iVUcAAsH32?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ERphgKjWAAYkJ9f?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DgqAjGbU8AA2jHN?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DS_zOcOXkAAKFO_?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EYLMzapX0AE12Qd?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUyVcnfXYAMeKbw?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EUs-iUVUYAM-qFS?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EEHREkSU0AICBtY?format=png&name=large"
+  - "https://pbs.twimg.com/media/DlTEi68XcAAu5g1?format=png&name=large"
+  - "https://pbs.twimg.com/media/De9F6UPVQAAHPFQ?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DZjTNCDXcAAMu2V?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DT1krBAX4AEGj8C?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dm6fzdQXcAE0Tec?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DdVok9eU8AEefkE?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/ENIbCAsUYAEqIHA?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D5AEQoFX4AAA7QY?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EDO6qUgUYAIpmhT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dr1mNsZWoAAPLGs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E1H09kiVEAoXzq3?format=png&name=large"
+  - "https://pbs.twimg.com/media/DbGrXJdUMAAsXop?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DqWy6fFWoAAKwTs?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FIyGYGGXoAAaWPm?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Eau0L8rWsAAL1tD?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D7MjqoRV4AA4NG0?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EIDEaj9XUAYcN1J?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Dnab7dNW4AAORWU?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DoBoTjuW0AIBowo?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EVvgeBnWkAIjalF?format=png&name=large"
+  - "https://pbs.twimg.com/media/D-ASWEcWsAEtWoa?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/E2KwhD-X0AUyPQh?format=png&name=large"
+  - "https://pbs.twimg.com/media/DsEDlakWkAA9TT8?format=png&name=large"
+  - "https://pbs.twimg.com/media/DXPP3aYWAAEEgza?format=png&name=large"
+  - "https://pbs.twimg.com/media/Dq7qtWgXQAAawBb?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DmgecE-W0AUMHr3?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/El6N_KIX0AkbjwM?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EA4xNgcWwAARz9y?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DTnDAXfUMAAslI7?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/Da6o2k4XcAkYKOT?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/FXq4aPPVQAIu516?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/EwJsR7JXMAAJkDx?format=png&name=large"
+  - "https://pbs.twimg.com/media/DbZo_flWsAIFq7e?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DcxVqCzU0AAKzLG?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/DXzZhe8W4AA3cQ2?format=jpg&name=large"
+  - "https://pbs.twimg.com/media/D3PbBzsUgAAF_gg?format=jpg&name=large"
 ---
 ## Official Websites
 
@@ -270,24 +361,24 @@ guideline_count: 1
 ### Color Analysis
 *Statistics computed across 143 images*
 
-| Color | Mean | Median | P25 | P75 | P90 | Std Dev | Appears In |
-|-------|------|--------|-----|-----|-----|---------|------------|
-| White | 50.8% | 34.1% | 15.7% | 91.6% | 100.0% | ±36.8% | 31.5% |
-| Black | 31.3% | 23.1% | 14.1% | 43.8% | 62.5% | ±22.9% | 54.5% |
-| Cyan | 30.5% | 15.0% | 9.5% | 46.0% | 75.2% | ±28.0% | 11.9% |
-| Light Blue | 25.1% | 18.8% | 11.7% | 22.7% | 61.6% | ±23.6% | 14.0% |
-| Pink | 23.6% | 12.1% | 9.4% | 23.8% | 76.2% | ±25.1% | 21.0% |
-| Dark Brown | 20.3% | 20.4% | 12.0% | 25.8% | 33.2% | ±10.1% | 32.2% |
-| Gray | 19.7% | 15.3% | 12.5% | 27.6% | 31.3% | ±11.3% | 23.1% |
-| Dark Blue | 18.1% | 12.3% | 8.5% | 15.4% | 34.4% | ±18.3% | 28.0% |
+| Color | Mean |
+|-------|------|
+| White | 50.8% |
+| Black | 31.3% |
+| Cyan | 30.5% |
+| Light Blue | 25.1% |
+| Pink | 23.6% |
+| Dark Brown | 20.3% |
+| Gray | 19.7% |
+| Dark Blue | 18.1% |
 
 ### Tone Distribution
 
-| Tone | Mean | Median | P25 | P75 | Std Dev |
-|------|------|--------|-----|-----|---------|
-| Warm | 11.9% | 0% | 0.0% | 13.9% | ±22.2% |
-| Neutral | 60.0% | 74.1% | 21.4% | 100.0% | ±37.9% |
-| Cool | 28.0% | 11.1% | 0.0% | 52.1% | ±34.4% |
+| Tone | Mean |
+|------|------|
+| Warm | 11.9% |
+| Neutral | 60.0% |
+| Cool | 28.0% |
 
 ### Sample Images
 
@@ -397,6 +488,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11436) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Subsidiary | [Lyft Urban Solutions](/subsidiaries/lyft-urban-solutions/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Subclass Of | flying machine, vehicle |
 | Bncf Thesaurus Id | 622 |
 | Gnd Id | 4168246-4 |
@@ -466,7 +564,6 @@ guideline_count: 1
 | Imdb Keyword | aircraft |
 | Country | United States |
 | Headquarters Location | San Francisco |
-| Logo Image | Lyft logo 2025.svg |
 | Inception | 2013 |
 | Founded By | Logan Green, John Zimmer |
 | Chief Executive Officer | Logan Green |
@@ -485,4 +582,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $700.00M (700,000,000 United States dollar)
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $700.00M | - | [500M-1B](/revenue_buckets/500m-1b/) |

@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-03-05T22:38:39.516700"
+date: "2026-03-13T08:56:59.444055"
 draft: false
 sectors:
   - university
@@ -21,6 +21,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1241
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +55,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: university in Spain
+wikidata_url: "https://www.wikidata.org/wiki/Q768224"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +114,11 @@ difference Bottom Century Spectrums denommed retinue number Memorial compact ext
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q768224) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1241](/foundation_dates/1241/) |
 | Coordinate Location | 41.652225, -4.721396 |
 | Freebase Id | /m/06qrf7 |
 | Country | Spain |
@@ -126,7 +143,6 @@ difference Bottom Century Spectrums denommed retinue number Memorial compact ext
 | Has Part(S) | Biblioteca de Santa Cruz |
 | Openmlol Author Id | 34292 |
 | Coat Of Arms Image | Escudo de la Universidad de Valladolid.svg |
-| Logo Image | Logotipo de la Universidad de Valladolid.svg |
 | Category For Alumni Of Educational Institution | Category:University of Valladolid alumni |
 | Ipv4 Routing Prefix | 157.88.0.0/16 |
 | Bdcyl Authority Id | 1529 |

@@ -2,7 +2,7 @@
 title: FISU
 slug: fisu
 description: ""
-date: "2026-03-05T22:38:39.355884"
+date: "2026-03-13T08:56:59.307586"
 draft: false
 sectors:
   - sports
@@ -19,6 +19,18 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lausanne
+  - "city-of-brussels"
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +59,12 @@ typographies:
 imagery_styles:
   - dynamic
 wikidata_description: international student sports governing body
+wikidata_url: "https://www.wikidata.org/wiki/Q1189918"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -89,6 +103,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1189918) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/07f0mk |
 | Inception | 1948 |
 | Isni | 0000000121861975 |
@@ -108,7 +128,6 @@ guideline_count: 1
 | Vk Username | fisu |
 | X (Twitter) Username | FISU (as of 2020-04-14, from 2009-06-18) |
 | Facebook Username | FISU |
-| Logo Image | FISU-logo.svg |
 | Bibsys Id | 14606 |
 | Social Media Followers | 29,395 (as of 2021-01-04), 28,489 (as of 2020-04-14), 30,773 (as of 2022-02-26), 27,800 (as of 2022-08-03), 32,932 (as of 2023-02-06) (+4 more) |
 | Member Of | Global Association of International Sports Federations, Association of IOC Recognised International Sports Federations |

@@ -2,7 +2,7 @@
 title: Cleveland State University
 slug: "cleveland-state-university"
 description: ""
-date: "2026-03-05T22:38:39.815849"
+date: "2026-03-13T08:56:59.885392"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1964
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Cleveland, Ohio"
+wikidata_url: "https://www.wikidata.org/wiki/Q1100801"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1100801) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1964](/foundation_dates/1964/) |
 | Coordinate Location | 41.5017, -81.6751 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Cleveland |
@@ -94,7 +112,6 @@ guideline_count: 1
 | Category For Employees Of The Organization | Category:Cleveland State University faculty |
 | Bibliothèque Nationale De France Id | 12330658j |
 | Idref Id | 03223628X |
-| Logo Image | Cleveland State logo.png |
 | Different From | Cleveland University |
 | Street Address | 2121 Euclid Avenue, Cleveland, OH, 44115-2214 |
 | Microsoft Academic Id (Discontinued) | 102607778 |
@@ -110,7 +127,6 @@ guideline_count: 1
 | Image | Cleveland State University, Cleveland, OH (27420355137).jpg |
 | National Library Of Israel J9U Id | 987007437991505171 |
 | Count Of Students | 15,247 (as of 2020-09) |
-| Employees | 2,353 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I102607778, P4310315618 |
@@ -130,3 +146,9 @@ guideline_count: 1
 | Youtube Handle | clevelandstateu (as of 2025-10-20) |
 | Number Of Viewers/Listeners | 4,051,815 (as of 2025-11-24), 4,459,286 (as of 2025-12-07) |
 | Threads Username | cle_state |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 2,353 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

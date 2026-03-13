@@ -2,7 +2,7 @@
 title: Erasmus Student Network
 slug: "erasmus-student-network"
 description: ""
-date: "2026-03-05T22:38:39.725268"
+date: "2026-03-13T08:56:59.744448"
 draft: false
 sectors:
   - education
@@ -19,9 +19,20 @@ industries: []
 countries:
   - belgium
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "city-of-brussels"
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +53,26 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - magenta
   - grey
-  - orange
-  - black
-  - cyan
   - blue
+  - pink
   - "pantone-166"
   - "pantone-368"
-  - pink
   - green
+  - cyan
+  - black
+  - orange
+  - magenta
 typographies: []
 imagery_styles:
   - monochrome
 wikidata_description: international student society
+wikidata_url: "https://www.wikidata.org/wiki/Q655757"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +125,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q655757) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/06ttx8 |
 | Member Of | European Movement International, Joint German Studies Initiative, European Youth Forum, European Students' Union |
 | Viaf Cluster Id | 306455483 |
@@ -132,7 +151,6 @@ guideline_count: 1
 | Official Name | Erasmus Student Network |
 | Official Blog Url | https://blog.erasmusgeneration.org/ |
 | Motto Text | Students helping students |
-| Logo Image | Logo ESN AISBL.png |
 | Official Wiki Url | https://wiki.esn.org/ |
 | Linkedin Company Or Organization Id | erasmus-student-network |
 | X (Twitter) Username | ESN_Int |
@@ -141,4 +159,6 @@ guideline_count: 1
 
 ### Revenue History
 
-- $1.19M (1,193,000 euro (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.19M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |

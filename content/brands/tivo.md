@@ -2,7 +2,7 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-03-05T22:38:39.604909"
+date: "2026-03-13T08:56:59.548930"
 draft: false
 sectors:
   - software
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-jose"
+  - "santa-clara"
+subsidiaries: []
+foundation_dates:
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +60,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: American technology company
+wikidata_url: "https://www.wikidata.org/wiki/Q917002"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -180,6 +194,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q917002) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Santa Clara](/headquarters_locations/santa-clara/) |
+| Foundation Date | [1983](/foundation_dates/1983/) |
 | Stock Exchange | Nasdaq (from 1999-09-30) |
 | Headquarters Location | Santa Clara, San Jose |
 | Inception | 1983-01-01 |
@@ -191,7 +211,6 @@ guideline_count: 2
 | Nl Cr Aut Id | ko2015877856 |
 | Viaf Cluster Id | 316805678 |
 | Topic'S Main Category | Category:TiVo |
-| Logo Image | Rovi Corporation logo.svg (from 2009-07-16, until 2016-04-29) |
 | Central Index Key | 0001675820 |
 | Said To Be The Same As | TiVo, Inc. |
 | Grid Id | grid.480326.b |

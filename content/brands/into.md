@@ -2,7 +2,7 @@
 title: INTO
 slug: into
 description: ""
-date: "2026-03-05T22:38:39.707645"
+date: "2026-03-13T08:56:59.722373"
 draft: false
 sectors:
   - education
@@ -19,9 +19,19 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2007
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,20 +54,22 @@ logo_elements:
   - secondary
 brand_colors:
   - red
-  - "pantone-1795"
   - "pantone-7466"
-  - black
   - turquoise
+  - black
+  - "pantone-1795"
 typographies:
   - arial
 imagery_styles:
-  - bold
   - photography
+  - bold
 wikidata_description: network of heritage organisations from across the globe
+wikidata_url: "https://www.wikidata.org/wiki/Q19605549"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +114,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19605549) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2007](/foundation_dates/2007/) |
 | Grid Id | grid.500444.1 |
 | Ror Id | 00kn2t107 |
 | Chairperson | Simon Molesworth |
@@ -109,7 +126,7 @@ guideline_count: 1
 | Freebase Id | /m/012vy3ly |
 | Charity Commission No. | 1175994 (from 2017-11-29) |
 | Country | United Kingdom |
-| Email Address | mailto:info@into.org (as of 2023-04-17) |
+| Email Address | info@into.org (as of 2023-04-17) |
 | Uia Open Yearbook Organization Website Id | 1100068122 |
 | Inception | 2007 |
 | Member Of | Europa Nostra |
@@ -118,9 +135,11 @@ guideline_count: 1
 
 ### Revenue History
 
-- $210.84K (210,842 pound sterling (as of 2019))
-- $292.07K (292,068 pound sterling (as of 2020))
-- $379.56K (379,557 pound sterling (as of 2021))
-- $420.96K (420,958 pound sterling (as of 2022))
-- $1.18M (1,182,849 pound sterling (as of 2023))
-- $1.12M (1,121,599 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $210.84K | as of 2019 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $292.07K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $379.56K | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $420.96K | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
+| $1.18M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.12M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |

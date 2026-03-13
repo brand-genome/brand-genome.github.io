@@ -2,7 +2,7 @@
 title: "U.S. Fish & Wildlife Service"
 slug: "us-fish-wildlife-service"
 description: ""
-date: "2026-03-05T22:38:39.380441"
+date: "2026-03-13T08:56:59.344888"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1940
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: United States federal government agency
+wikidata_url: "https://www.wikidata.org/wiki/Q674113"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q674113) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1940](/foundation_dates/1940/) |
 | Topic'S Main Category | Category:United States Fish and Wildlife Service |
 | Freebase Id | /m/0j__m |
 | Applies To Jurisdiction | United States |

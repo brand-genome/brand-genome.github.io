@@ -2,11 +2,11 @@
 title: Nederlandse Spoorwegen
 slug: "nederlandse-spoorwegen"
 description: ""
-date: "2026-03-05T22:38:39.313942"
+date: "2026-03-13T08:56:59.257115"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - netherlands
 years:
@@ -14,18 +14,32 @@ years:
 languages:
   - dutch
 tags:
+  - transport
   - vintage
   - featured
-  - transport
 industries:
-  - "passenger-transport"
   - "rail-transport"
+  - "passenger-transport"
 countries:
   - netherlands
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - rails
+products: []
+headquarters_locations:
+  - utrecht
+subsidiaries: []
+foundation_dates:
+  - 1937
+  - 1938
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,16 +59,18 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - yellow
+  - blue
 typographies:
   - univers
 imagery_styles: []
 wikidata_description: principal Dutch passenger railway operator
+wikidata_url: "https://www.wikidata.org/wiki/Q23076"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -144,6 +160,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q23076) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Rails](/products_or_materials_produced/rails/) |
+| Headquarters Location | [Utrecht](/headquarters_locations/utrecht/) |
+| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
 | Topic'S Main Category | Category:Nederlandse Spoorwegen |
 | Member Of | Railteam, International Union of Railways (from 1922), International Rail Transport Committee, Community of European Railway and Infrastructure Companies, International Mainline Rail Benchmarking Group |
 | Freebase Id | /m/016mtj |
@@ -155,14 +178,12 @@ guideline_count: 1
 | Isin | US6289161084 |
 | Headquarters Location | Utrecht, Utrecht |
 | Child Organization Or Unit | Merseyrail, Abellio, Serco-Abellio, Qbuzz, Van Gend & Loos (from 1928, until 1986) (+2 more) |
-| Logo Image | Nederlandse Spoorwegen logo.svg |
 | Actorenregister Id | b5513d8c-a5ab-406e-ae64-156142c62c42, 4d4a1cc8-e904-4c75-a174-77bc2adb6210 |
 | Archives At | Het Utrechts Archief |
 | Quora Topic Id | Nederlandse-Spoorwegen |
 | Isni | 0000000106609130 |
 | Rkdartists Id | 335011 |
 | Owned By | Kingdom of the Netherlands |
-| Employees | 27,380 (as of 2006), 20,800 (as of 2024) |
 | Permid | 4296648830 |
 | Location Of Formation | Utrecht |
 | Grid Id | grid.426023.1 |
@@ -219,4 +240,13 @@ guideline_count: 1
 
 ### Revenue History
 
-- $3.50B (3,500,000,000 euro (as of 2010))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.50B | as of 2010 | [1B-10B](/revenue_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 27,380 | as of 2006 | [10K-50K](/employees_buckets/10k-50k/) |
+| 20,800 | as of 2024 | [10K-50K](/employees_buckets/10k-50k/) |

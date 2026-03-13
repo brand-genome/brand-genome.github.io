@@ -1,0 +1,13 @@
+{{ define "title" }}About | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="about-page">
+    <header class="about-page-header">
+        <h1>About</h1>
+    </header>
+
+    <div class="about-page-content">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}

@@ -2,11 +2,11 @@
 title: Arthritis Foundation
 slug: "arthritis-foundation"
 description: ""
-date: "2026-03-05T22:38:39.760759"
+date: "2026-03-13T08:56:59.810016"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - usa
@@ -20,9 +20,21 @@ industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - atlanta
+subsidiaries: []
+foundation_dates:
+  - 1948
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,33 +53,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
+  - logomark
   - secondary
+  - primary
+  - vertical
   - horizontal
   - wordmark
-  - logomark
-  - vertical
 brand_colors:
-  - "pantone-7725"
-  - black
   - blue
   - "pantone-3005"
-  - gray
   - green
+  - black
+  - gray
+  - "pantone-7725"
 typographies:
   - roboto
 imagery_styles:
-  - bold
-  - photography
   - staged
+  - photography
+  - candid
   - vibrant
   - graphic
-  - candid
+  - bold
 wikidata_description: "non-profit organization in the USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q4797637"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -118,6 +132,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4797637) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1948](/foundation_dates/1948/) |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Georgia |
 | Inception | 1948 |
@@ -143,7 +163,6 @@ guideline_count: 1
 | Idref Id | 11913604X |
 | Cinii Research Id | 1140000791847626368 |
 | Nacsis Cat Author Id | DA04998562 |
-| Total Assets | 219,924,122 United States dollar (as of 2021), 200,280,337 United States dollar (as of 2022), 228,528,581 United States dollar (as of 2023), 64,613,117 United States dollar (as of 2011), 56,015,948 United States dollar (as of 2012) (+8 more) |
 | Linkedin Company Or Organization Id | arthritis-foundation |
 | Facebook Username | Arthritis.org |
 | X (Twitter) Username | ArthritisFdn |
@@ -151,16 +170,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $77.76M (77,764,107 United States dollar (as of 2016-01-01))
-- $73.08M (73,079,590 United States dollar (as of 2019))
-- $80.98M (80,975,301 United States dollar (as of 2018))
-- $86.76M (86,761,758 United States dollar (as of 2017))
-- $65.22M (65,224,961 United States dollar (as of 2021))
-- $59.47M (59,471,904 United States dollar (as of 2022))
-- $68.32M (68,319,013 United States dollar (as of 2023))
-- $53.13M (53,133,403 United States dollar (as of 2011))
-- $46.20M (46,196,400 United States dollar (as of 2012))
-- $49.09M (49,085,324 United States dollar (as of 2013))
-- $54.48M (54,483,431 United States dollar (as of 2014))
-- $63.77M (63,769,471 United States dollar (as of 2015))
-- $63.78M (63,783,937 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $77.76M | as of 2016-01-01 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $73.08M | as of 2019 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $80.98M | as of 2018 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $86.76M | as of 2017 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $65.22M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $59.47M | as of 2022 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $68.32M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $53.13M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $46.20M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $49.09M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $54.48M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $63.77M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $63.78M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $219.92M | as of 2021 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $200.28M | as of 2022 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $228.53M | as of 2023 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $64.61M | as of 2011 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $56.02M | as of 2012 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $58.38M | as of 2013 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $67.00M | as of 2014 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $96.19M | as of 2015 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $174.52M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $187.45M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $175.80M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $182.37M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $192.85M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |

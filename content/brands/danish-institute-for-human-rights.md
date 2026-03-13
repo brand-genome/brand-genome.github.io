@@ -2,7 +2,7 @@
 title: Danish Institute for Human Rights
 slug: "danish-institute-for-human-rights"
 description: ""
-date: "2026-03-05T22:38:39.078066"
+date: "2026-03-13T08:56:59.029314"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "wilders-plads"
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: independent organisation funded by the Danish Government
+wikidata_url: "https://www.wikidata.org/wiki/Q5219737"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5219737) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Wilders Plads](/headquarters_locations/wilders-plads/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | Denmark |
 | Participant In | The People's Meeting 2016 |
 | Legal Form | governmental administrative unit in Denmark |
@@ -72,7 +92,6 @@ guideline_count: 1
 | Located In The Administrative Territorial Entity | Copenhagen Municipality |
 | Director / Manager | Jonas Christoffersen (until 2020), Louise Holck (from 2020-10) |
 | Image | Jonas Christoffersen, Institut for Menneskerettigheder, Folkemødet 2016 (cropped to logo).jpg |
-| Employees | 150 |
 | X (Twitter) Username | menneskeret (as of 2020-04-22, from 2014-02-12) |
 | Isni | 0000000108471614 |
 | Ringgold Id | 4306 |
@@ -98,3 +117,9 @@ guideline_count: 1
 | Gateway To Research Organisation Id | 40FC0256-222E-4CC1-A456-1FF50FAFAC33 |
 | Bluesky Handle | menneskeretdk.bsky.social (from 2024-12-11) |
 | ‎Yale Lux Id | group/4a0b8a6a-8ced-4a16-9924-a0ef2ba2f509 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 150 | - | [100-1K](/employees_buckets/100-1k/) |

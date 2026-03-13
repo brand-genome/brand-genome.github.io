@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-03-05T22:38:39.666650"
+date: "2026-03-13T08:56:59.587832"
 draft: false
 sectors:
   - software
@@ -19,6 +19,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,24 +52,26 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - orange
   - grey
-  - black
-  - yellow
   - blue
+  - yellow
   - green
+  - orange
+  - black
 typographies:
-  - times
-  - "source-sans"
   - din
+  - "source-sans"
+  - times
 imagery_styles:
-  - bold
   - gradient
+  - bold
 wikidata_description: web content management framework
+wikidata_url: "https://www.wikidata.org/wiki/Q618512"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,13 +124,17 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q618512) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Copyright License | GNU General Public License |
 | Topic'S Main Category | Category:TYPO3 |
 | Freebase Id | /m/02z6xz |
 | Programmed In | PHP,  |
 | Programmer | Kasper Skårhøj |
 | Image | TYPO3 Backend.png |
-| Logo Image | Logo TYPO3.svg |
 | Software Version Identifier | 8.4.0, 8.6.0, 8.7.1, 8.7.8, 8.7.19 (+62 more) |
 | Source Code Repository Url | https://git.typo3.org/Packages/TYPO3.CMS.git, https://github.com/TYPO3/TYPO3.CMS, https://review.typo3.org/ |
 | Free Software Directory Entry | TYPO3 |

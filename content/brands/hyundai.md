@@ -2,17 +2,17 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-03-05T22:38:39.546989"
+date: "2026-03-13T08:56:59.472605"
 draft: false
 sectors:
   - automobile
 regions:
-  - "south-korea"
   - usa
+  - "south-korea"
 years:
-  - 2016
-  - 2002
   - 2011
+  - 2002
+  - 2016
 languages:
   - english
 tags:
@@ -24,10 +24,23 @@ countries:
   - germany
   - "south-korea"
 revenue_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 operating_income_buckets:
-  - "under-1m"
+  - "UNDER-1M"
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - truck
+  - car
+products: []
+headquarters_locations:
+  - seoul
+subsidiaries: []
+foundation_dates:
+  - 1967
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +59,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - logomark
   - primary
-  - symbol
-  - badge
   - lockup
+  - vertical
+  - badge
+  - symbol
   - horizontal
   - wordmark
-  - logomark
-  - vertical
 brand_colors:
-  - gold
   - grey
-  - black
   - blue
+  - gold
   - silver
+  - black
 typographies: []
 imagery_styles:
   - graphic
 wikidata_description: South Korean multinational automaker
+wikidata_url: "https://www.wikidata.org/wiki/Q55931"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -138,6 +153,13 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55931) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/) |
+| Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
+| Foundation Date | [1967](/foundation_dates/1967/) |
 | Member Of | Open Automotive Alliance, Linux Foundation |
 | Founded By | Jeong Ju-yung |
 | Freebase Id | /m/0blws |
@@ -167,7 +189,6 @@ guideline_count: 3
 | Different From | Hyundai |
 | Corporate Number (Japan) | 9700150082809 |
 | Grid Id | grid.473140.5 |
-| Logo Image | Hyundai Motor Company logo.svg |
 | Idref Id | 067094414 |
 | Parent Organization Or Unit | Hyundai, Hyundai Motor Group |
 | Nl Cr Aut Id | olak2010523211 |
@@ -225,8 +246,12 @@ guideline_count: 3
 
 ### Revenue History
 
-- $117.00 (117 won (as of 2021))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $117.00 | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
 
 ### Operating Income History
 
-- $6.00 (6 won (as of 2021))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $6.00 | as of 2021 | [UNDER-1M](/operating_income_buckets/under-1m/) |

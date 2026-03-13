@@ -2,7 +2,7 @@
 title: Skidmore College
 slug: "skidmore-college"
 description: ""
-date: "2026-03-05T22:38:39.124593"
+date: "2026-03-13T08:56:59.076971"
 draft: false
 sectors:
   - university
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1903
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "liberal arts college in Saratoga Springs, New York, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q7535073"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +78,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7535073) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1903](/foundation_dates/1903/) |
 | Coordinate Location | 43.097777777778, -73.785277777778 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Saratoga Springs |
@@ -93,9 +112,7 @@ guideline_count: 1
 | Image | Zankel Music center.jpg |
 | Count Of Students | 2,684 (as of 2017), 2,665 (as of 2021-09-01) |
 | Social Media Followers | 8,031 (as of 2021-01-03), 7,879 (as of 2020-04-24) |
-| Total Assets | 826,456,000 United States dollar (as of 2020-06-30) |
 | Endowment | 357,075,000 United States dollar (as of 2020-06-30), 426,878,739 United States dollar (as of 2022-06-30), 506,190,631 United States dollar (as of 2021-06-30) |
-| Employees | 1,014 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | skidmore |
@@ -109,6 +126,17 @@ guideline_count: 1
 | Tiktok Username | skidmorecollege |
 | Facebook Username | SkidmoreCollege |
 | Arwu University Id | skidmore-college |
-| Logo Image | Skidmore college logo.png |
 | Athletics Program | Skidmore Thoroughbreds |
 | ‎Yale Lux Id | group/bcc0f162-9596-4620-a943-3995c654b719 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,014 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $826.46M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

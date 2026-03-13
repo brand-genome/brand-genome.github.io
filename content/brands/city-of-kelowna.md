@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-03-05T22:38:39.758013"
+date: "2026-03-13T08:56:59.806905"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1859
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,29 +48,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
+  - stacked
   - horizontal
   - wordmark
-  - stacked
 brand_colors:
-  - "pantone-390"
-  - "pantone-7408"
-  - "pantone-166"
   - "pantone-200"
+  - "pantone-166"
   - "pantone-284"
-  - "pantone-138"
   - "pantone-285"
+  - "pantone-390"
+  - "pantone-138"
+  - "pantone-7408"
 typographies: []
 imagery_styles:
   - dynamic
-  - landscape
   - graphic
+  - landscape
 wikidata_description: "city in British Columbia, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q232226"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -176,6 +188,11 @@ For third-party permissions, or Communications support, contact the City directl
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q232226) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1859](/foundation_dates/1859/) |
 | Twinned Administrative Body | Veendam, Senanga, Kasugai (from 1981-02-05) |
 | Country | Canada |
 | Coordinate Location | 49.8801, -119.4436 |

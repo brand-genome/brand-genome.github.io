@@ -2,7 +2,7 @@
 title: Ball State University
 slug: "ball-state-university"
 description: ""
-date: "2026-03-05T22:38:39.730315"
+date: "2026-03-13T08:56:59.752708"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1918
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,18 +56,20 @@ brand_colors:
   - white
   - red
 typographies:
+  - helvetica
   - roboto
   - "open-sans"
-  - helvetica
 imagery_styles:
-  - bold
   - photography
+  - bold
   - vibrant
 wikidata_description: "university in Indiana, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q805122"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q805122) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1918](/foundation_dates/1918/) |
 | Coordinate Location | 40.1983, -85.4089 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Muncie |
@@ -151,7 +169,6 @@ guideline_count: 1
 | Littlesis Organization Id | 69887 |
 | Gateway To Research Organisation Id | FCE3BC87-AADA-410A-A617-16FD75F6F73D |
 | Count Of Students | 21,597 (as of 2020-09) |
-| Employees | 3,611 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I198089087, P4310315761 |
@@ -181,3 +198,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/62b9f243-e466-47e9-8e9b-c8cea2b5844b |
 | Threads Username | ballstateuniversity |
 | Athletics Program | Ball State Cardinals |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,611 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

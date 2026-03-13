@@ -2,7 +2,7 @@
 title: Idaho State University
 slug: "idaho-state-university"
 description: ""
-date: "2026-03-05T22:38:39.355052"
+date: "2026-03-13T08:56:59.306418"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1901
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,30 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
-  - horizontal
-  - stacked
+  - primary
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - white
-  - orange
-  - black
   - gray
+  - black
+  - orange
 typographies:
   - slab
   - serif
-  - "sans-serif"
   - display
+  - "sans-serif"
 imagery_styles:
-  - bold
   - photography
   - clean
+  - bold
 wikidata_description: "research university in eastern Idaho, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q1656608"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -117,6 +130,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1656608) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1901](/foundation_dates/1901/) |
 | Coordinate Location | 42.861261, -112.434286 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Pocatello, Meridian, Idaho Falls, Twin Falls |
@@ -140,7 +158,6 @@ guideline_count: 1
 | Category For Alumni Of Educational Institution | Category:Idaho State University alumni |
 | Grid Id | grid.257296.d |
 | Bhl Creator Id | 214419 |
-| Logo Image | Idaho State University logo.svg |
 | Archinform Keyword Id | 3077 |
 | Microsoft Academic Id (Discontinued) | 106969075 |
 | Street Address | 921 S 8th Ave, Pocatello, ID, 83209 |
@@ -152,7 +169,6 @@ guideline_count: 1
 | Official Map Url | https://www.isu.edu/maps/ |
 | Crunchbase Organization Id | idaho-state-university |
 | Count Of Students | 11,766 (as of 2020-09) |
-| Employees | 1,879 (as of 2020-09) |
 | Openalex Id | I106969075 |
 | Subreddit | idahostate |
 | Athletics Program | Idaho State Bengals |
@@ -167,3 +183,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/21e3a2fc-f1e6-4f31-afc8-6d8ab209b7b2 |
 | Youtube Handle | idahostateu (as of 2025-11-26) |
 | Number Of Viewers/Listeners | 1,280,755 (as of 2025-11-26) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,879 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

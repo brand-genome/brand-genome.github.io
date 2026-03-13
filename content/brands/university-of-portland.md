@@ -2,7 +2,7 @@
 title: University of Portland
 slug: "university-of-portland"
 description: ""
-date: "2026-03-05T22:38:39.169887"
+date: "2026-03-13T08:56:59.100008"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1901
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "private Catholic university in Portland, Oregon, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q513658"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q513658) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1901](/foundation_dates/1901/) |
 | Coordinate Location | 45.5725, -122.72722222222 |
 | Topic'S Main Category | Category:University of Portland |
 | Library Of Congress Authority Id | n50057890 |
@@ -99,9 +118,7 @@ guideline_count: 1
 | Flags Of The World Id | us_u_por |
 | Schoenberg Database Of Manuscripts Name Id | 48364 |
 | Crunchbase Organization Id | university-of-portland |
-| Total Assets | 637,956,000 United States dollar (as of 2020-06-30) |
 | Endowment | 217,584,000 United States dollar (as of 2020-06-30), 297,254,639 United States dollar (as of 2022-06-30), 320,618,283 United States dollar (as of 2021-06-30) |
-| Employees | 1,028 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Member Of | Orbis Cascade Alliance, American Council on Education |
@@ -116,3 +133,15 @@ guideline_count: 1
 | Youtube Channel Id | UCJoq2xY3PHJr2pC6cr60E5A (as of 2025-09-21, from 2009-05-18) |
 | Youtube Handle | uportland (as of 2025-10-21) |
 | Number Of Viewers/Listeners | 2,417,621 (as of 2025-11-28) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,028 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $637.96M | as of 2020-06-30 | [500M-1B](/total_assets_buckets/500m-1b/) |

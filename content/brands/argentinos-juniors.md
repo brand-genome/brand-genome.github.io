@@ -2,7 +2,7 @@
 title: Argentinos Juniors
 slug: "argentinos-juniors"
 description: ""
-date: "2026-03-05T22:38:39.419982"
+date: "2026-03-13T08:56:59.379703"
 draft: false
 sectors:
   - sports
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "buenos-aires"
+subsidiaries: []
+foundation_dates:
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Argentine sports club
+wikidata_url: "https://www.wikidata.org/wiki/Q220621"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -108,6 +121,12 @@ d e l l o g o.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q220621) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Buenos Aires](/headquarters_locations/buenos-aires/) |
+| Foundation Date | [1904](/foundation_dates/1904/) |
 | Home Venue | Diego Armando Maradona Stadium |
 | League Or Competition | Argentine Primera División |
 | Head Coach | Gabriel Milito |
@@ -125,7 +144,6 @@ d e l l o g o.
 | Instagram Username | aaajoficial |
 | Category For Members Of A Team | Category:Argentinos Juniors footballers |
 | Owner Of | Diego Armando Maradona Stadium, Estadio Cubierto Malvinas Argentinas |
-| Logo Image | Escudo de la Asociación Atlética Argentinos Juniors.svg |
 | Social Media Followers | 179,163 (as of 2021-01-06), 169,824 (as of 2018-05-10), 187,153 (as of 2022-03-01), 5,080 (as of 2022-08-03), 199,289 (as of 2023-02-07) (+8 more) |
 | Topic Has Template |  |
 | Footballdatabase.Eu Team Id | 645 |

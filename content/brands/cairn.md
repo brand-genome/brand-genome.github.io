@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-03-05T22:38:39.801331"
+date: "2026-03-13T08:56:59.856415"
 draft: false
 sectors:
   - petroleum
-  - oil
   - gas
+  - oil
 regions:
   - india
 years:
@@ -21,6 +21,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +57,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: Web portal for scientific publications in French
+wikidata_url: "https://www.wikidata.org/wiki/Q2933237"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -84,6 +96,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2933237) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2005](/foundation_dates/2005/) |
 | Main Wikidata Property | Cairn author ID, Cairn publication ID |
 | Language Of Work Or Name | French, Spanish, English |
 | X (Twitter) Username | Cairninfo (as of 2020-02-27, from 2010-03-05) |

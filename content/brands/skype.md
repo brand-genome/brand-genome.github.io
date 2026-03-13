@@ -2,7 +2,7 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-03-05T22:38:39.772347"
+date: "2026-03-13T08:56:59.823654"
 draft: false
 sectors:
   - software
@@ -14,13 +14,23 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2003
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,31 +53,33 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - "pantone-376"
-  - orange
-  - cyan
-  - yellow
+  - "pantone-116"
   - blue
+  - yellow
+  - purple
+  - green
+  - cyan
+  - orange
   - "pantone-151"
   - gray
-  - "pantone-116"
-  - green
-  - purple
+  - "pantone-376"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
+  - natural
   - photography
+  - subtle
   - vibrant
   - graphic
-  - subtle
-  - natural
+  - bold
 wikidata_description: former telecommunications software service
+wikidata_url: "https://www.wikidata.org/wiki/Q40984"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -126,11 +138,15 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q40984) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2003](/foundation_dates/2003/) |
 | Gui Toolkit Or Framework | Qt |
 | Developer | Skype Technologies |
 | Operating System | Microsoft Windows, macOS, Android, iOS, Symbian (+4 more) |
 | Programmed In | Delphi, Objective-C, , Object Pascal |
-| Logo Image | Skype logo (2019–present).svg (from 2019) |
 | Topic'S Main Category | Category:Skype |
 | Freebase Id | /m/026wfg |
 | Facebook Username | skype |

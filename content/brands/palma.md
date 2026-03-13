@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-03-05T22:38:39.545205"
+date: "2026-03-13T08:56:59.471661"
 draft: false
 sectors:
   - "public-sector"
@@ -13,14 +13,23 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - spain
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,39 +49,41 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
-  - white
-  - "pantone-477"
-  - "pantone-500"
-  - "pantone-258"
-  - "pantone-383"
-  - "pantone-287"
-  - "pantone-444"
-  - black
   - "pantone-485"
-  - "pantone-3125"
+  - "pantone-116"
+  - white
   - "pantone-200"
+  - "pantone-477"
+  - "pantone-287"
+  - "pantone-383"
   - "pantone-647"
   - "pantone-457"
-  - "pantone-116"
   - "pantone-130"
+  - "pantone-500"
+  - "pantone-258"
+  - black
+  - "pantone-444"
+  - "pantone-3125"
 typographies:
   - display
 imagery_styles:
-  - bold
-  - photography
-  - modern
-  - landscape
-  - clean
   - natural
+  - clean
+  - landscape
+  - modern
+  - photography
+  - bold
 wikidata_description: "city in Mallorca and capital of the Balearic Islands, Spain"
+wikidata_url: "https://www.wikidata.org/wiki/Q8826"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -130,6 +141,10 @@ guideline_count: 1
 - The brand applies eco-conscious factors to its printing materials, encouraging the use of 100% recycled paper and FSC-certified stock. Plastification is to be avoided.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8826) |
 
 | Property | Value |
 |----------|-------|

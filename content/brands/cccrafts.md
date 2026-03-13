@@ -2,7 +2,7 @@
 title: CCCrafts
 slug: cccrafts
 description: ""
-date: "2026-03-05T22:38:39.123370"
+date: "2026-03-13T08:56:59.075709"
 draft: false
 sectors:
   - software
@@ -21,6 +21,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - coactor
+products: []
+headquarters_locations:
+  - claymont
+subsidiaries: []
+foundation_dates:
+  - 2024
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American B2B SaaS company developing content platforms that enable enterprise teams to build professional relationships through strategic content creation
+wikidata_url: "https://www.wikidata.org/wiki/Q137625544"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,13 +77,25 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q137625544) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Coactor](/products_or_materials_produced/coactor/) |
+| Headquarters Location | [Claymont](/headquarters_locations/claymont/) |
+| Foundation Date | [2024](/foundation_dates/2024/) |
 | Crunchbase Organization Id | co-actor |
 | Inception | 2024 |
 | Country | United States |
 | Headquarters Location | Claymont |
 | Industry | artificial intelligence |
-| Employees | 7 (as of 2025-12) |
 | Founded By | Sergey Bulaev |
 | Chief Executive Officer | Sergey Bulaev (from 2024-03) |
 | Product Or Material Produced | Co.Actor |
 | Board Member | Ruslan Fazlyev |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 7 | as of 2025-12 | [UNDER-100](/employees_buckets/under-100/) |

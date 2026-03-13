@@ -2,29 +2,40 @@
 title: Semrush
 slug: semrush
 description: ""
-date: "2026-03-05T22:38:39.418882"
+date: "2026-03-13T08:56:59.377783"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
-  - 2018
   - 2020
+  - 2018
 languages:
   - english
 tags:
   - internet
 industries:
+  - "software-industry"
   - "search-engine-optimization"
   - marketing
-  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - boston
+subsidiaries: []
+foundation_dates:
+  - 2008
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,43 +54,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - wordmark
+  - primary
   - vertical
+  - symbol
+  - wordmark
 brand_colors:
   - white
   - red
-  - "pantone-1675"
-  - orange
   - grey
-  - black
-  - yellow
-  - indigo
-  - "pantone-7540"
   - blue
-  - "pantone-429"
+  - "pantone-7540"
+  - yellow
   - green
+  - black
+  - orange
+  - "pantone-429"
+  - "pantone-1675"
+  - indigo
 typographies:
-  - "sans-serif"
-  - ubuntu
   - inter
-  - roboto
+  - ubuntu
   - display
+  - roboto
+  - "sans-serif"
 imagery_styles:
-  - bold
+  - natural
+  - clean
+  - modern
   - photography
   - product
+  - bold
   - geometric
-  - modern
-  - clean
-  - natural
 wikidata_description: American software as a service company
+wikidata_url: "https://www.wikidata.org/wiki/Q48818116"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -157,6 +170,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48818116) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Boston](/headquarters_locations/boston/) |
+| Foundation Date | [2008](/foundation_dates/2008/) |
 | Inception | 2008-08-03 |
 | Industry | software industry, search engine optimization, marketing |
 | Facebook Username | 157307754299282 |

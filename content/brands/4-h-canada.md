@@ -2,7 +2,7 @@
 title: "4-H Canada"
 slug: "4-h-canada"
 description: ""
-date: "2026-03-05T22:38:39.765234"
+date: "2026-03-13T08:56:59.816317"
 draft: false
 sectors:
   - education
@@ -20,6 +20,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,24 +49,26 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - "pantone-360"
-  - "pantone-297"
-  - "pantone-285"
-  - cyan
   - blue
+  - "pantone-285"
   - green
+  - "pantone-360"
+  - cyan
+  - "pantone-297"
 typographies:
-  - impact
   - display
+  - impact
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: "Marks & Spencer"
 slug: "marks-spencer"
 description: ""
-date: "2026-03-05T22:38:39.790742"
+date: "2026-03-13T08:56:59.842172"
 draft: false
 sectors:
   - "consumer-goods"
@@ -23,6 +23,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - clothing
+products: []
+headquarters_locations:
+  - leeds
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1884
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +60,12 @@ brand_colors:
 typographies: []
 imagery_styles: []
 wikidata_description: British retailer
+wikidata_url: "https://www.wikidata.org/wiki/Q714491"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -119,6 +135,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q714491) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [Leeds](/headquarters_locations/leeds/); [London](/headquarters_locations/london/) |
+| Foundation Date | [1884](/foundation_dates/1884/) |
 | Founded By | Michael Marks, Thomas Spencer |
 | Topic'S Main Category | Category:Marks & Spencer |
 | Headquarters Location | Leeds, London |
@@ -128,8 +151,6 @@ guideline_count: 1
 | Viaf Cluster Id | 158248557 |
 | Isin | US57069PAD42, GB0031274896 |
 | Inception | 1884-05 |
-| Logo Image | M&S logo.svg |
-| Employees | 85,813 |
 | Legal Form | public limited company |
 | Country | United Kingdom |
 | Location Of Formation | Leeds |
@@ -185,3 +206,9 @@ guideline_count: 1
 | Archives At | M&S Archive |
 | The Guardian Topic Id | business/marksspencer |
 | Described At Url | https://news.sky.com/story/quite-expensive-supermarket-crowned-nations-favourite-for-fifth-time-13506634 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 85,813 | - | [50K-100K](/employees_buckets/50k-100k/) |

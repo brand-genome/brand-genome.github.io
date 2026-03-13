@@ -2,7 +2,7 @@
 title: British Land
 slug: "british-land"
 description: ""
-date: "2026-03-05T22:38:39.825569"
+date: "2026-03-13T08:56:59.909832"
 draft: false
 sectors:
   - "real-estate"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
+  - wordmark
 brand_colors:
-  - blue
   - red
+  - blue
   - black
 typographies:
+  - din
   - georgia
   - arial
-  - din
 imagery_styles:
-  - bold
   - photography
   - natural
   - contemporary
+  - bold
 wikidata_description: company
+wikidata_url: "https://www.wikidata.org/wiki/Q919646"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -111,6 +124,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q919646) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Freebase Id | /m/05vq6n |
 | Headquarters Location | London |
 | Stock Exchange | London Stock Exchange |

@@ -2,7 +2,7 @@
 title: Auburn University
 slug: "auburn-university"
 description: ""
-date: "2026-03-05T22:38:39.775178"
+date: "2026-03-13T08:56:59.827606"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1856
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,22 +56,24 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - magenta
-  - orange
+  - blue
+  - yellow
+  - green
   - cyan
   - black
-  - yellow
-  - blue
-  - green
+  - orange
+  - magenta
 typographies: []
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: "public university in Auburn, Alabama, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q540672"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,6 +115,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q540672) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1856](/foundation_dates/1856/) |
 | Country | United States |
 | Coordinate Location | 32.603374, -85.486078 |
 | Topic'S Main Category | Category:Auburn University |
@@ -135,7 +153,6 @@ guideline_count: 1
 | Qs World University Id | auburn-university |
 | Times Higher Education World University Id | auburn-university |
 | U Multirank University Id | auburn-university |
-| Logo Image | Auburn University primary logo.svg |
 | Significant Event | mixed-sex education (from 1892) |
 | Idref Id | 029877709 |
 | Owner Of | Jordan–Hare Stadium, Neville Arena, Auburn Sports Arena, Beard–Eaves–Memorial Coliseum, Drake Field (+2 more) |
@@ -154,7 +171,6 @@ guideline_count: 1
 | Osm Name Suggestion Index Id | auburnuniversity-b53a22 |
 | Has Part(S) Of The Class | art museum, academic library, faculty |
 | National Library Of Israel J9U Id | 987007299374205171 |
-| Employees | 6,522 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | auburn |
@@ -172,3 +188,9 @@ guideline_count: 1
 | Sam Id | YAD8LKRP1CL8 |
 | Threads Username | auburnu |
 | Athletics Program | Auburn Tigers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 6,522 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

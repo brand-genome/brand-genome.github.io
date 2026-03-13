@@ -2,11 +2,11 @@
 title: UN Environment Programme
 slug: "un-environment-programme"
 description: ""
-date: "2026-03-05T22:38:39.723568"
+date: "2026-03-13T08:56:59.743171"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - nairobi
+subsidiaries: []
+foundation_dates:
+  - 1972
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,19 +54,21 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - white
-  - black
-  - cyan
   - brown
+  - white
+  - cyan
+  - black
 typographies:
   - roboto
 imagery_styles:
   - bold
 wikidata_description: United Nations organisation
+wikidata_url: "https://www.wikidata.org/wiki/Q182016"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -99,6 +112,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q182016) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Nairobi](/headquarters_locations/nairobi/) |
+| Foundation Date | [1972](/foundation_dates/1972/) |
 | Topic'S Main Category | Category:United Nations Environment Programme |
 | Freebase Id | /m/07x5b |
 | Viaf Cluster Id | 154177537 |
@@ -135,7 +154,6 @@ guideline_count: 1
 | Microsoft Academic Id (Discontinued) | 202262619 |
 | Child Organization Or Unit | Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, OzonAction, The Forum of Ministers of Environment of Latin America and the Caribbean |
 | Ror Id | 015z29x25, 04yadhf25 |
-| Logo Image | United Nations Environment Programme Logo.svg |
 | National Library Of Israel Id (Old) | 001882927 |
 | Egaxa Id | vtls000770785 |
 | Eurovoc Id | 2432 |

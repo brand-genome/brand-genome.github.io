@@ -2,7 +2,7 @@
 title: City of Edmonton
 slug: "city-of-edmonton"
 description: ""
-date: "2026-03-05T22:38:39.267594"
+date: "2026-03-13T08:56:59.209847"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,26 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1795
+  - 1892
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "capital city of the province of Alberta, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q2096"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +80,11 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2096) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1795](/foundation_dates/1795/); [1892](/foundation_dates/1892/); [1904](/foundation_dates/1904/) |
 | Twinned Administrative Body | Harbin (from 1985-12-05), Nashville (from 1990), Wonju (from 1998), Bergen op Zoom (from 2013), Gatineau (from 1967) (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:Edmonton |
 | Country | Canada |
@@ -127,7 +146,6 @@ guideline_count: 2
 | Demonym | Edmontonian, edmontoniani |
 | History Of Topic | history of Edmonton, timeline of Edmonton history |
 | Subreddit | Edmonton (from 2009-10-21) |
-| Logo Image | Edmonton Square Logo.svg (from 2019, until 2022-09), Edmonton Square Logo (2022).svg (from 2022-09), City of Edmonton Logo.svg (until 2019) |
 | Babelnet Id | 00029783n |
 | Cgndb Unique Id | IACMP |
 | Köppen Climate Classification | humid continental climate |
@@ -140,7 +158,7 @@ guideline_count: 2
 | Instagram Username | cityofedmonton |
 | Instagram Location Id | 215396551 |
 | Un/Locode | CAEDM |
-| Email Address | mailto:311@edmonton.ca |
+| Email Address | 311@edmonton.ca |
 | Woeid | 8676 |
 | Youtube Channel Id | UCzK7H1hHGf5mC84mSVfMhGw (as of 2020-12-02, from 2009-02-13) |
 | Ringgold Id | 113509 |

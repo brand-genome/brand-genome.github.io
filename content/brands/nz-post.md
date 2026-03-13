@@ -2,7 +2,7 @@
 title: NZ Post
 slug: "nz-post"
 description: ""
-date: "2026-03-05T22:38:39.115900"
+date: "2026-03-13T08:56:59.062923"
 draft: false
 sectors:
   - "parcel-service"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "postal-sector"
 countries:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - wellington
+subsidiaries: []
+foundation_dates:
+  - 1987
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: postal service in New Zealand
+wikidata_url: "https://www.wikidata.org/wiki/Q1144511"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1144511) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Wellington](/headquarters_locations/wellington/) |
+| Foundation Date | [1987](/foundation_dates/1987/) |
 | Freebase Id | /m/01k3nc |
 | Follows | New Zealand Post Office |
 | Viaf Cluster Id | 240526138 |
@@ -82,7 +101,6 @@ guideline_count: 1
 | Library Of Congress Authority Id | no95021804 |
 | Country | New Zealand |
 | Linkedin Company Or Organization Id | nzpost |
-| Logo Image | NZ Post logo.png |
 | Crunchbase Organization Id | new-zealand-post |
 | On Focus List Of Wikimedia Project | Govdirectory |
 | ‎Yale Lux Id | group/eb871ef1-b058-4484-9706-e9dd425179d9 |

@@ -2,7 +2,7 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-03-05T22:38:39.411323"
+date: "2026-03-13T08:56:59.372606"
 draft: false
 sectors:
   - insurance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - insurance
+  - financial
 industries:
   - insurance
   - "financial-services"
@@ -24,6 +24,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - london
+subsidiaries: []
+foundation_dates:
+  - 1836
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,8 +54,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
   - primary
+  - abstract
   - secondary
 brand_colors:
   - white
@@ -51,21 +63,23 @@ brand_colors:
   - gray
 typographies:
   - roboto
-  - arial
   - display
+  - arial
 imagery_styles:
-  - bold
-  - photography
+  - natural
   - staged
   - illustration
-  - abstract
+  - photography
   - candid
-  - natural
+  - abstract
+  - bold
 wikidata_description: British multinational financial services company
+wikidata_url: "https://www.wikidata.org/wiki/Q1470848"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -122,6 +136,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1470848) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [London](/headquarters_locations/london/) |
+| Foundation Date | [1836](/foundation_dates/1836/) |
 | Gnd Id | 271807-8 |
 | Headquarters Location | London |
 | Opencorporates Id | gb/01417162 |
@@ -135,10 +155,8 @@ guideline_count: 1
 | Ipv6 Routing Prefix | 2a03:8180:1001:273::/64, 2a03:8180:1101:286::/64, 2a03:8180:1401:3c::/64 |
 | Permid | 4295895043 |
 | X (Twitter) Username | landg_uk (as of 2020-04-15, from 2012-01-23) |
-| Logo Image | Legal & General wordmark.svg |
 | Library Of Congress Authority Id | no2011045658 |
 | Youtube Channel Id | UCLd9G-vBQWomGCQ4_Bm2v2A (as of 2020-12-11, from 2008-08-26) |
-| Employees | 9,324 |
 | Viaf Cluster Id | 154219139 |
 | Part Of | FTSE 100 Index |
 | Chief Executive Officer | Antonio Simoes (from 2024) |
@@ -160,3 +178,9 @@ guideline_count: 1
 | Bbc Things Id | d6a171d1-cc44-44cd-8d16-415f96cbd519 |
 | Postal Code | EC2R 5AA |
 | Coordinate Location | 51.517202, -0.089779 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 9,324 | - | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,20 +2,20 @@
 title: Herman Miller
 slug: "herman-miller"
 description: ""
-date: "2026-03-05T22:38:39.225592"
+date: "2026-03-13T08:56:59.168092"
 draft: false
 sectors:
   - "consumer-goods"
 regions:
   - usa
 years:
-  - 2010
   - 2015
+  - 2010
 languages:
   - english
 tags:
-  - featured
   - furnitures
+  - featured
 industries:
   - "industrial-manufacturing"
 countries:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - furniture
+products: []
+headquarters_locations:
+  - zeeland
+subsidiaries: []
+foundation_dates:
+  - 1923
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - logomark
+  - secondary
   - primary
   - symbol
-  - secondary
   - wordmark
-  - logomark
 brand_colors:
   - white
   - red
@@ -54,14 +66,16 @@ typographies:
   - times
   - display
 imagery_styles:
-  - bold
   - photography
   - graphic
+  - bold
 wikidata_description: "manufacturer of high-end office furniture"
+wikidata_url: "https://www.wikidata.org/wiki/Q489469"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -154,6 +168,13 @@ guideline_count: 4
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q489469) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Furniture](/products_or_materials_produced/furniture/) |
+| Headquarters Location | [Zeeland](/headquarters_locations/zeeland/) |
+| Foundation Date | [1923](/foundation_dates/1923/) |
 | Founded By | D. J. De Pree |
 | Stock Exchange | Nasdaq |
 | Freebase Id | /m/052345 |
@@ -178,7 +199,6 @@ guideline_count: 4
 | Grove Art Online Id | T2073107 |
 | Artsy Artist Id | herman-miller-furniture-company |
 | Nelson Atkins Museum Of Art Person Id | 13222 |
-| Logo Image | HermanMiller logo.svg, Herman Miller logo.jpg |
 | Subreddit | hermanmiller |
 | Social Media Followers | 554,365 (as of 2021-01-10), 544,484 (as of 2020-04-25), 561,937 (as of 2022-03-01), 553,654 (as of 2023-02-02) |
 | Zhihu Topic Id | 19578554 |

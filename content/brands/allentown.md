@@ -2,7 +2,7 @@
 title: Allentown
 slug: allentown
 description: ""
-date: "2026-03-05T22:38:39.281193"
+date: "2026-03-13T08:56:59.223143"
 draft: false
 sectors:
   - "public-sector"
@@ -13,15 +13,25 @@ years:
 languages:
   - english
 tags:
+  - city
   - regional
   - featured
-  - city
 industries: []
 countries:
   - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1762
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "county seat city in Lehigh County, Pennsylvania, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q142811"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +76,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q142811) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1762](/foundation_dates/1762/) |
 | Page Banner | Allentown WV Banner.jpg |
 | Twinned Administrative Body | Tiberias |
 | Country | United States |
@@ -134,7 +151,6 @@ guideline_count: 1
 | Worldcat Entities Id | E39PBJcr8YtTDpxjxW38yCgtKd |
 | Territory Overlaps | Allentown–Bethlehem urban area |
 | Snarc Id | Q76289 |
-| Logo Image | Allentown logo.svg |
 | Osm Name Suggestion Index Id | cityofallentown-dc67ca, cityofallentown-bec98d |
 | Reddit Topic Id | allentown |
 | Subreddit | allentown |

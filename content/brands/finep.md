@@ -2,7 +2,7 @@
 title: Finep
 slug: finep
 description: ""
-date: "2026-03-05T22:38:39.691910"
+date: "2026-03-13T08:56:59.619851"
 draft: false
 sectors:
   - "public-sector"
@@ -14,14 +14,25 @@ years:
 languages:
   - portuguese
 tags:
-  - science
   - technology
+  - science
 industries: []
 countries:
   - brazil
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1998
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -40,32 +51,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - secondary
-  - horizontal
+  - primary
   - vertical
+  - symbol
+  - horizontal
 brand_colors:
   - white
-  - orange
-  - black
-  - yellow
   - blue
-  - gray
-  - green
+  - yellow
   - purple
+  - green
+  - black
+  - orange
+  - gray
 typographies: []
 imagery_styles:
-  - bold
-  - photography
   - staged
-  - graphic
   - clean
+  - photography
+  - graphic
+  - bold
 wikidata_description: government agency of Brazil
+wikidata_url: "https://www.wikidata.org/wiki/Q5449568"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -125,6 +138,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5449568) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1998](/foundation_dates/1998/) |
 | Headquarters Location | Rio de Janeiro |
 | Isni | 0000000403732047 |
 | Ringgold Id | 130270 |
@@ -141,5 +160,4 @@ guideline_count: 1
 | National Library Of Israel J9U Id | 987007326020405171 |
 | Idref Id | 143190210 |
 | Inception | 1998 |
-| Logo Image | Finep logo.webp |
 | ‎Yale Lux Id | group/2c4e5f13-fb95-41f8-a5c1-9a8cf1f39830 |

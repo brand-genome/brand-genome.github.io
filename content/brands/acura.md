@@ -2,7 +2,7 @@
 title: Acura
 slug: acura
 description: ""
-date: "2026-03-05T22:38:39.243127"
+date: "2026-03-13T08:56:59.187668"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - transport
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -22,6 +22,20 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "luxury-vehicle"
+products: []
+headquarters_locations:
+  - tokyo
+  - torrance
+  - minato
+subsidiaries: []
+foundation_dates:
+  - 1986
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: car brand and luxury vehicle division of Japanese automaker Honda Motor Company
+wikidata_url: "https://www.wikidata.org/wiki/Q53097"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +80,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q53097) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
+| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/); [Torrance](/headquarters_locations/torrance/); [Minato](/headquarters_locations/minato/) |
+| Foundation Date | [1986](/foundation_dates/1986/) |
 | Topic'S Main Category | Category:Acura |
 | Freebase Id | /m/011xz6, /m/0h5wtp0 |
 | Headquarters Location | Tokyo, Minato, Torrance |
@@ -71,7 +94,6 @@ guideline_count: 1
 | Parent Organization Or Unit | American Honda Motor Company |
 | Founded By | Sōichirō Honda |
 | Commons Gallery | Acura |
-| Logo Image | Acura logo.svg |
 | Owned By | Honda |
 | Quora Topic Id | Acura-car-company |
 | Library Of Congress Authority Id | sh89004789 |

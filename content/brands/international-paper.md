@@ -2,31 +2,45 @@
 title: International Paper
 slug: "international-paper"
 description: ""
-date: "2026-03-05T22:38:39.301737"
+date: "2026-03-13T08:56:59.243335"
 draft: false
 sectors:
   - "printing-reprographics"
 regions:
   - usa
 years:
-  - 1997
   - 2012
+  - 1997
 languages:
   - english
 tags:
+  - signage
   - vintage
   - industry
-  - signage
   - featured
 industries:
   - "pulp-and-paper-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "50K-100K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - paper
+products: []
+headquarters_locations:
+  - boston
+  - memphis
+subsidiaries: []
+foundation_dates:
+  - 1898
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +60,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - symbol
   - vertical
-  - horizontal
 brand_colors:
   - white
   - black
 typographies:
-  - arial
   - times
   - display
+  - arial
 imagery_styles:
   - clean
 wikidata_description: American pulp and paper company
+wikidata_url: "https://www.wikidata.org/wiki/Q202972"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -163,6 +179,13 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q202972) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Paper](/products_or_materials_produced/paper/) |
+| Headquarters Location | [Boston](/headquarters_locations/boston/); [Memphis](/headquarters_locations/memphis/) |
+| Foundation Date | [1898](/foundation_dates/1898/) |
 | Topic'S Main Category | Category:International Paper |
 | Freebase Id | /m/01qxj3 |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02) |
@@ -170,8 +193,6 @@ guideline_count: 3
 | Viaf Cluster Id | 142963729 |
 | Isin | US4601461035 |
 | Inception | 1898-01-01 |
-| Logo Image | InternationalPaper logo 2023.svg |
-| Employees | 58,000 |
 | Country | United States |
 | Founded By | Hugh J. Chisholm |
 | Industry | pulp and paper industry |
@@ -215,38 +236,48 @@ guideline_count: 3
 
 ### Revenue History
 
-- $21.89B (21,890,000,000 United States dollar (as of 2007))
-- $24.83B (24,829,000,000 United States dollar (as of 2008))
-- $23.37B (23,366,000,000 United States dollar (as of 2009))
-- $25.18B (25,179,000,000 United States dollar (as of 2010))
-- $26.03B (26,034,000,000 United States dollar (as of 2011))
-- $27.83B (27,833,000,000 United States dollar (as of 2012))
-- $29.08B (29,080,000,000 United States dollar (as of 2013))
-- $23.62B (23,617,000,000 United States dollar (as of 2014))
-- $22.36B (22,365,000,000 United States dollar (as of 2015))
-- $21.08B (21,079,000,000 United States dollar (as of 2016))
-- $21.74B (21,743,000,000 United States dollar (as of 2017))
-- $23.31B (23,306,000,000 United States dollar (as of 2018))
-- $22.38B (22,376,000,000 United States dollar (as of 2019))
-- $20.58B (20,580,000,000 United States dollar (as of 2020))
-- $19.36B (19,363,000,000 United States dollar (as of 2021))
-- $21.16B (21,161,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $21.89B | as of 2007 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $24.83B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.37B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $25.18B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $26.03B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $27.83B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $29.08B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.62B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.36B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.08B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.74B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $23.31B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $22.38B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $20.58B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $19.36B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $21.16B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $1.17B (1,168,000,000 United States dollar (as of 2007))
-- $1.28B (-1,282,000,000 United States dollar (as of 2008))
-- $663.00M (663,000,000 United States dollar (as of 2009))
-- $644.00M (644,000,000 United States dollar (as of 2010))
-- $1.34B (1,341,000,000 United States dollar (as of 2011))
-- $794.00M (794,000,000 United States dollar (as of 2012))
-- $1.40B (1,395,000,000 United States dollar (as of 2013))
-- $555.00M (555,000,000 United States dollar (as of 2014))
-- $938.00M (938,000,000 United States dollar (as of 2015))
-- $904.00M (904,000,000 United States dollar (as of 2016))
-- $2.14B (2,144,000,000 United States dollar (as of 2017))
-- $2.01B (2,012,000,000 United States dollar (as of 2018))
-- $1.23B (1,225,000,000 United States dollar (as of 2019))
-- $482.00M (482,000,000 United States dollar (as of 2020))
-- $1.75B (1,752,000,000 United States dollar (as of 2021))
-- $1.50B (1,504,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $1.17B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.28B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $663.00M | as of 2009 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $644.00M | as of 2010 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.34B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $794.00M | as of 2012 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $1.40B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $555.00M | as of 2014 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $938.00M | as of 2015 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $904.00M | as of 2016 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $2.14B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.01B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.23B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $482.00M | as of 2020 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $1.75B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.50B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 58,000 | - | [50K-100K](/employees_buckets/50k-100k/) |

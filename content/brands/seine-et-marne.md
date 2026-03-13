@@ -2,7 +2,7 @@
 title: "Seine-et-Marne"
 slug: "seine-et-marne"
 description: ""
-date: "2026-03-05T22:38:39.349162"
+date: "2026-03-13T08:56:59.300731"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1790
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,18 +49,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - signature
   - horizontal
+  - signature
 brand_colors: []
 typographies: []
 imagery_styles:
   - dynamic
   - modern
 wikidata_description: French department
+wikidata_url: "https://www.wikidata.org/wiki/Q12753"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,6 +83,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12753) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1790](/foundation_dates/1790/) |
 | Named After | Seine, Marne |
 | Dewey Decimal Classification | 2--4437 |
 | Country | France |
@@ -128,7 +145,6 @@ guideline_count: 1
 | Kbpedia Id | SeineEtMarne |
 | Rkd Thesaurus Id | 25204 |
 | Hasc | FR.IF.SE |
-| Logo Image | Logo Seine-et-Marne (2012).svg |
 | Economy Of Topic | economy of Seine-et-Marne |
 | Gadm Id | FRA.8.4_1 |
 | Category For The View Of The Item | Category:Views of Seine-et-Marne |

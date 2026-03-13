@@ -2,7 +2,7 @@
 title: Elron
 slug: elron
 description: ""
-date: "2026-03-05T22:38:39.079015"
+date: "2026-03-13T08:56:59.031079"
 draft: false
 sectors:
   - "public-transportation"
@@ -21,6 +21,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "rail-transport"
+products: []
+headquarters_locations:
+  - tallinn
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: transport company based in Estonia
+wikidata_url: "https://www.wikidata.org/wiki/Q1326458"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -62,6 +76,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1326458) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Rail Transport](/products_or_materials_produced/rail-transport/) |
+| Headquarters Location | [Tallinn](/headquarters_locations/tallinn/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Freebase Id | /m/05cn4n |
 | Headquarters Location | Tallinn |
 | Inception | 2013-10 |

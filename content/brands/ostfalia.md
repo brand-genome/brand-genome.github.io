@@ -2,7 +2,7 @@
 title: Ostfalia
 slug: ostfalia
 description: ""
-date: "2026-03-05T22:38:39.172324"
+date: "2026-03-13T08:56:59.101696"
 draft: false
 sectors:
   - education
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1928
+  - 1971
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ typographies: []
 imagery_styles:
   - photography
 wikidata_description: "University of Applied Sciences in eastern Lower Saxony, Germany"
+wikidata_url: "https://www.wikidata.org/wiki/Q2035460"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -146,6 +159,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2035460) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1928](/foundation_dates/1928/); [1971](/foundation_dates/1971/) |
 | Coordinate Location | 52.17666667, 10.54861111 |
 | Country | Germany |
 | Viaf Cluster Id | 143821129 |
@@ -160,7 +178,6 @@ guideline_count: 1
 | Open Funder Registry Funder Id | 100008724 |
 | Located In The Administrative Territorial Entity | Wolfenbüttel, Lower Saxony |
 | Grid Id | grid.461772.1 |
-| Logo Image | Ostfalia.svg |
 | Microsoft Academic Id (Discontinued) | 2799859273 |
 | Hal Structure Id | 478491 |
 | Ror Id | 01bk10867 |

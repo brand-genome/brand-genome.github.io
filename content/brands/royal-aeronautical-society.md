@@ -2,7 +2,7 @@
 title: Royal Aeronautical Society
 slug: "royal-aeronautical-society"
 description: ""
-date: "2026-03-05T22:38:39.472809"
+date: "2026-03-13T08:56:59.408537"
 draft: false
 sectors:
   - education
@@ -19,9 +19,21 @@ industries: []
 countries:
   - "united-kingdom"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "4-hamilton-place"
+subsidiaries: []
+foundation_dates:
+  - 1866
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "British-founded multidisciplinary professional institution dedicated to the global aerospace community"
+wikidata_url: "https://www.wikidata.org/wiki/Q2170942"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +89,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2170942) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [4 Hamilton Place](/headquarters_locations/4-hamilton-place/) |
+| Foundation Date | [1866](/foundation_dates/1866/) |
 | Topic'S Main Category | Category:Royal Aeronautical Society |
 | Gnd Id | 55008-5 |
 | Viaf Cluster Id | 143667557 |
@@ -101,7 +121,6 @@ guideline_count: 1
 | Country | United Kingdom |
 | Charity Commission No. | 313708 (from 1963-06-13) |
 | Donations | 405,023 pound sterling (as of 2016), 251,972 pound sterling (as of 2017), 252,048 pound sterling (as of 2018), 269,897 pound sterling (as of 2019), 130,950 pound sterling (as of 2020) (+4 more) |
-| Employees | 43 (as of 2016), 42 (as of 2017), 48 (as of 2020), 57 (as of 2024) |
 | Number Of Volunteers | 1,000 (as of 2016) |
 | National Library Of Israel J9U Id | 987007592577505171 |
 | Cinii Research Id | 1140563741556820608 |
@@ -121,12 +140,23 @@ guideline_count: 1
 
 ### Revenue History
 
-- $5.04M (5,036,898 pound sterling (as of 2016))
-- $4.78M (4,780,407 pound sterling (as of 2017))
-- $5.00M (4,995,221 pound sterling (as of 2018))
-- $5.19M (5,189,112 pound sterling (as of 2019))
-- $4.24M (4,237,299 pound sterling (as of 2020))
-- $4.38M (4,383,664 pound sterling (as of 2021))
-- $5.79M (5,785,319 pound sterling (as of 2022))
-- $5.94M (5,944,376 pound sterling (as of 2023))
-- $6.19M (6,189,878 pound sterling (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $5.04M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.78M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.00M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.19M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.24M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.38M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.79M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $5.94M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $6.19M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 43 | as of 2016 | [UNDER-100](/employees_buckets/under-100/) |
+| 42 | as of 2017 | [UNDER-100](/employees_buckets/under-100/) |
+| 48 | as of 2020 | [UNDER-100](/employees_buckets/under-100/) |
+| 57 | as of 2024 | [UNDER-100](/employees_buckets/under-100/) |

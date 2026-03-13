@@ -2,7 +2,7 @@
 title: BYD
 slug: byd
 description: ""
-date: "2026-03-05T22:38:39.099842"
+date: "2026-03-13T08:56:59.051322"
 draft: false
 sectors:
   - automobile
@@ -13,21 +13,35 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - engineering
   - transport
+  - engineering
+  - featured
 industries:
-  - "battery-industry"
   - "automotive-industry"
   - "consumer-electronics-industry"
+  - "battery-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
-  - "100b-500b"
+  - "100B-500B"
 operating_income_buckets:
-  - "100b-500b"
+  - "100B-500B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets:
+  - "100B-500B"
+total_equity_buckets:
+  - "100B-500B"
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - shenzhen
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +64,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Chinese battery and electric vehicles manufacturer
+wikidata_url: "https://www.wikidata.org/wiki/Q2608329"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -71,6 +87,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2608329) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Topic'S Main Category | Category:BYD Company |
 | Freebase Id | /m/0462pmj |
 | Inception | 1995-02-10 |
@@ -78,13 +100,10 @@ guideline_count: 1
 | Isin | CNE100000296 |
 | Industry | automotive industry, consumer electronics industry, battery industry |
 | Legal Form | joint-stock company |
-| Logo Image | BYD Company, Ltd. - Logo.svg |
 | Country | People's Republic of China |
 | Stock Exchange | Shenzhen Stock Exchange, Hong Kong Stock Exchange (from 2002-07-31), Hong Kong Exchanges and Clearing Limited |
-| Total Assets | 145,070,778,000 renminbi (as of 2016-12-31), 115,485,755,000 renminbi (as of 2015-12-31), 679,547,670,000 renminbi (as of 2023-12-31), 493,860,464,000 renminbi (as of 2022-12-31), 295,780,147,000 renminbi (as of 2021-12-31) (+2 more) |
 | Owned By | Wang Chuanfu, Berkshire Hathaway Energy, Lu Xiang-yang, Himalaya Capital, Morgan Stanley (+5 more) |
 | Child Organization Or Unit | BYD Auto, BYD Electronic, SkyRail Bahia, BYD Turkey Otomotiv Limited Şirketi |
-| Employees | 194,000 (as of 2016-12-31), 703,500 (as of 2023-12-31) |
 | Mac Address Block Large Id | 001EDE |
 | Director / Manager | Wang Chuanfu |
 | Owner Of | SkyRail Bahia, Chengxin Lithium Group |
@@ -104,7 +123,6 @@ guideline_count: 1
 | Youtube Channel Id | UCrbvBVwHTPuqFr_01d-LK_w (as of 2023-07-30, from 2006-12-21) |
 | Instagram Username | byd_global |
 | Image | BYD Company Limited headquarters 01.png |
-| Total Equity | 138,810,065,000 renminbi (as of 2023-12-31), 111,029,299,000 renminbi (as of 2022-12-31), 95,069,671,000 renminbi (as of 2021-12-31), 56,874,274,000 renminbi (as of 2020-12-31), 56,762,289,000 renminbi (as of 2019-12-31) |
 | Official Name | 比亞迪股份有限公司 |
 | Legal Entity Identifier | 5299005557VL7ULJ7A69 |
 | Viaf Cluster Id | 77170924035290150219 |
@@ -123,29 +141,64 @@ guideline_count: 1
 
 ### Revenue History
 
-- $100.21B (100,207,703,000 renminbi (as of 2016))
-- $77.61B (77,611,985,000 renminbi (as of 2015))
-- $130.05B (130,054,710,000 renminbi (as of 2018-01-01))
-- $602.32B (602,315,354,000 renminbi (as of 2023-01-01))
-- $424.06B (424,060,635,000 renminbi (as of 2022-01-01))
-- $216.14B (216,142,395,000 renminbi (as of 2021-01-01))
-- $156.60B (156,597,691,000 renminbi (as of 2020))
-- $127.74B (127,738,523,000 renminbi (as of 2019))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $100.21B | as of 2016 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $77.61B | as of 2015 | [50B-100B](/revenue_buckets/50b-100b/) |
+| $130.05B | as of 2018-01-01 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $602.32B | as of 2023-01-01 | [500B-1T](/revenue_buckets/500b-1t/) |
+| $424.06B | as of 2022-01-01 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $216.14B | as of 2021-01-01 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $156.60B | as of 2020 | [100B-500B](/revenue_buckets/100b-500b/) |
+| $127.74B | as of 2019 | [100B-500B](/revenue_buckets/100b-500b/) |
 
 ### Operating Income History
 
-- $121.76B (121,757,004,000 renminbi (as of 2023-01-01))
-- $72.24B (72,244,955,000 renminbi (as of 2022-01-01))
-- $28.14B (28,144,706,000 renminbi (as of 2021-01-01))
-- $30.35B (30,346,311,000 renminbi (as of 2020-01-01))
-- $20.81B (20,814,235,000 renminbi (as of 2019-01-01))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $121.76B | as of 2023-01-01 | [100B-500B](/operating_income_buckets/100b-500b/) |
+| $72.24B | as of 2022-01-01 | [50B-100B](/operating_income_buckets/50b-100b/) |
+| $28.14B | as of 2021-01-01 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $30.35B | as of 2020-01-01 | [10B-50B](/operating_income_buckets/10b-50b/) |
+| $20.81B | as of 2019-01-01 | [10B-50B](/operating_income_buckets/10b-50b/) |
 
 ### Net Profit History
 
-- $5.48B (5,480,012,000 renminbi (as of 2016))
-- $3.14B (3,138,196,000 renminbi (as of 2015))
-- $31.34B (31,344,070,000 renminbi (as of 2023))
-- $17.71B (17,713,104,000 renminbi (as of 2022-01-01))
-- $3.05B (3,045,188,000 renminbi (as of 2021-01-01))
-- $4.23B (4,234,267,000 renminbi (as of 2020-01-01))
-- $1.61B (1,614,450,000 renminbi (as of 2019-01-01))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $5.48B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.14B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $31.34B | as of 2023 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $17.71B | as of 2022-01-01 | [10B-50B](/net_profit_buckets/10b-50b/) |
+| $3.05B | as of 2021-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.23B | as of 2020-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.61B | as of 2019-01-01 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 194,000 | as of 2016-12-31 | [100K-500K](/employees_buckets/100k-500k/) |
+| 703,500 | as of 2023-12-31 | [OVER-500K](/employees_buckets/over-500k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $145.07B | as of 2016-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $115.49B | as of 2015-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $679.55B | as of 2023-12-31 | [500B-1T](/total_assets_buckets/500b-1t/) |
+| $493.86B | as of 2022-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $295.78B | as of 2021-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $201.02B | as of 2020-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+| $195.64B | as of 2019-12-31 | [100B-500B](/total_assets_buckets/100b-500b/) |
+
+### Total Equity History
+
+| Total Equity ($) | Year information | Bucket |
+|---|---|---|
+| $138.81B | as of 2023-12-31 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $111.03B | as of 2022-12-31 | [100B-500B](/total_equity_buckets/100b-500b/) |
+| $95.07B | as of 2021-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $56.87B | as of 2020-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |
+| $56.76B | as of 2019-12-31 | [50B-100B](/total_equity_buckets/50b-100b/) |

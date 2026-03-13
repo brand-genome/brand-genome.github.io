@@ -2,7 +2,7 @@
 title: UNSW Sydney
 slug: "unsw-sydney"
 description: ""
-date: "2026-03-05T22:38:39.746176"
+date: "2026-03-13T08:56:59.786199"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1949
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Kensington, Sydney, Australia"
+wikidata_url: "https://www.wikidata.org/wiki/Q734764"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q734764) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1949](/foundation_dates/1949/) |
 | Member Of | Group of Eight, ORCID, Inc. (as of 2023-10), Dryad,  (as of 2021), Australian Research Data Commons (+1 more) |
 | Has Part(S) | UNSW Art & Design, University of New South Wales Law School, National Institute of Dramatic Art, UNSW Business School, UNSW Canberra (+1 more) |
 | Coordinate Location | -33.916921, 151.232514 |
@@ -98,9 +116,7 @@ guideline_count: 1
 | Times Higher Education World University Id | university-new-south-wales, unsw-sydney |
 | Google Maps Customer Id | 2090089592059987872 |
 | U Multirank University Id | university-of-new-south-wales |
-| Logo Image | UNSW Canberra Logo - Lanscape.jpg |
 | Microsoft Academic Id (Discontinued) | 31746571 |
-| Employees | 3,251 |
 | Geographical Names Board Of Nsw Id | SXKqlMKmuj |
 | Ringgold Id | 7800 |
 | X (Twitter) Username | UNSW (as of 2020-04-24, from 2008-05-13) |
@@ -170,3 +186,9 @@ guideline_count: 1
 | World Higher Education Database Id | IAU-020335 |
 | Scholargps Institution Id | 96424306049011 |
 | The Independent Topic Id | university-of-new-south-wales |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,251 | - | [1K-10K](/employees_buckets/1k-10k/) |

@@ -2,7 +2,7 @@
 title: Agristo
 slug: agristo
 description: ""
-date: "2026-03-05T22:38:39.215183"
+date: "2026-03-13T08:56:59.153486"
 draft: false
 sectors:
   - food
@@ -19,10 +19,21 @@ industries:
 countries:
   - belgium
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - wielsbeke
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q15781867"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,6 +79,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15781867) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Wielsbeke](/headquarters_locations/wielsbeke/) |
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Headquarters Location | Wielsbeke |
 | Inception | 1985-01-01 |
 | Legal Form | Public limited company (Belgium) |
@@ -76,8 +95,12 @@ guideline_count: 1
 
 ### Revenue History
 
-- $459.12M (459,124,739 euro (as of 2018))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $459.12M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
 
 ### Net Profit History
 
-- $14.12M (14,119,827 euro (as of 2018))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $14.12M | as of 2018 | [10M-100M](/net_profit_buckets/10m-100m/) |

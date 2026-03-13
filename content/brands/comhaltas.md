@@ -2,7 +2,7 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-03-05T22:38:39.086179"
+date: "2026-03-13T08:56:59.041996"
 draft: false
 sectors:
   - ngo
@@ -19,9 +19,21 @@ industries: []
 countries:
   - ireland
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "UNDER-100"
+total_assets_buckets:
+  - "10M-100M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1951
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +59,19 @@ logo_elements:
 brand_colors:
   - crimson
 typographies:
-  - impact
   - display
+  - impact
 imagery_styles:
   - photography
-  - vibrant
   - graphic
+  - vibrant
 wikidata_description: organization
+wikidata_url: "https://www.wikidata.org/wiki/Q2342901"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -242,6 +256,11 @@ Guidelines encapsulate Comhaltas values, essence, and visual identity. Pre-exist
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2342901) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1951](/foundation_dates/1951/) |
 | Coordinate Location | 53.29541667, -6.16222222 |
 | Freebase Id | /m/05wc2d |
 | Inception | 1951 |
@@ -253,21 +272,36 @@ Guidelines encapsulate Comhaltas values, essence, and visual identity. Pre-exist
 | Chy Number | 8762 |
 | Described By Source | The Companion to Irish Traditional Music |
 | On Focus List Of Wikimedia Project | WikiProject Irish Traditional Music |
-| Total Assets | 18,333,182 euro (as of 2022), 18,210,175 euro (as of 2021), 17,142,876 euro (as of 2023) |
-| Employees | 33 (as of 2022), 30 (as of 2021) |
 | Instagram Username | comhaltas |
 | Country | Ireland |
 | Uk Parliament Thesaurus Id | 567932 |
 
 ### Revenue History
 
-- $3.48M (3,481,843 euro (as of 2018))
-- $1.92M (1,922,371 euro (as of 2019))
-- $2.36M (2,356,713 euro (as of 2014))
-- $2.32M (2,321,412 euro (as of 2015))
-- $2.46M (2,458,143 euro (as of 2016))
-- $3.42M (3,416,166 euro (as of 2017))
-- $2.80M (2,802,745 euro (as of 2020))
-- $4.38M (4,381,444 euro (as of 2022))
-- $2.82M (2,817,830 euro (as of 2021))
-- $3.48M (3,481,582 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $3.48M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.92M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.36M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.32M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.46M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.42M | as of 2017 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.80M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $4.38M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.82M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $3.48M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 33 | as of 2022 | [UNDER-100](/employees_buckets/under-100/) |
+| 30 | as of 2021 | [UNDER-100](/employees_buckets/under-100/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $18.33M | as of 2022 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $18.21M | as of 2021 | [10M-100M](/total_assets_buckets/10m-100m/) |
+| $17.14M | as of 2023 | [10M-100M](/total_assets_buckets/10m-100m/) |

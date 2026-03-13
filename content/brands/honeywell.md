@@ -2,12 +2,12 @@
 title: Honeywell
 slug: honeywell
 description: ""
-date: "2026-03-05T22:38:39.364632"
+date: "2026-03-13T08:56:59.317026"
 draft: false
 sectors:
-  - software
   - aerospace
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -19,21 +19,34 @@ languages:
 tags:
   - corporate
 industries:
-  - retail
   - "manufacturing-industry"
-  - "supply-chain"
+  - retail
   - "industrial-safety"
+  - "aerospace-industry"
+  - "supply-chain"
   - "chemical-industry"
   - "health-care-industry"
-  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets:
-  - "10b-50b"
+  - "10B-50B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "100K-500K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets:
+  - "100B-500B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - charlotte
+subsidiaries: []
+foundation_dates:
+  - 1885
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,23 +72,25 @@ brand_colors:
   - white
   - red
   - grey
-  - black
-  - indigo
   - blue
-  - gray
   - green
+  - black
+  - gray
+  - indigo
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
-  - contemporary
   - graphic
+  - contemporary
+  - bold
 wikidata_description: American multinational conglomerate
+wikidata_url: "https://www.wikidata.org/wiki/Q898208"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -182,6 +197,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q898208) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/) |
+| Foundation Date | [1885](/foundation_dates/1885/) |
 | Follows | AlliedSignal, Allied Corporation, Bendix Corporation, Measurex |
 | Founded By | Albert Butz, Mark C. Honeywell |
 | Topic'S Main Category | Category:Honeywell |
@@ -191,7 +212,6 @@ guideline_count: 3
 | Isin | US4385161066 |
 | Headquarters Location | Charlotte |
 | Inception | 1885-04-23 |
-| Logo Image | Logo honeywell.svg |
 | Country | United States |
 | Industry | chemical industry, health care industry, manufacturing industry, retail, supply chain (+2 more) |
 | Legal Form | public company, Delaware corporation |
@@ -219,7 +239,6 @@ guideline_count: 3
 | Ror Id | 02t71h845 |
 | Downdetector Id | honeywell |
 | Manualslib Brand Id | honeywell |
-| Employees | 128,000, 99,000 (as of 2021-12-31) |
 | Iso 9362 Swift/Bic Code | HOINUS33XXX |
 | Replaces | Computer Control Company, Inc. (as of 1966) |
 | Golden Id | Honeywell-AA9A3 |
@@ -232,7 +251,6 @@ guideline_count: 3
 | National Library Of Israel J9U Id | 987007335243505171 |
 | Comparably Company Id | honeywell |
 | Openalex Id | I82514191 |
-| Market Capitalization | 143,789,555,758 United States dollar (as of 2022-12-24) |
 | Instagram Username | honeywell |
 | Autonomous System Number | 125 |
 | Has Works In The Collection | Design Museum Den Bosch, Het Scheepvaartmuseum |
@@ -247,42 +265,61 @@ guideline_count: 3
 
 ### Revenue History
 
-- $34.39B (34,392,000,000 United States dollar (as of 2021))
-- $34.59B (34,589,000,000 United States dollar (as of 2007))
-- $36.56B (36,556,000,000 United States dollar (as of 2008))
-- $30.91B (30,908,000,000 United States dollar (as of 2009))
-- $33.37B (33,370,000,000 United States dollar (as of 2010))
-- $36.53B (36,529,000,000 United States dollar (as of 2011))
-- $37.66B (37,665,000,000 United States dollar (as of 2012))
-- $39.05B (39,055,000,000 United States dollar (as of 2013))
-- $40.31B (40,306,000,000 United States dollar (as of 2014))
-- $38.58B (38,581,000,000 United States dollar (as of 2015))
-- $39.30B (39,302,000,000 United States dollar (as of 2016))
-- $40.53B (40,534,000,000 United States dollar (as of 2017))
-- $41.80B (41,802,000,000 United States dollar (as of 2018))
-- $36.71B (36,709,000,000 United States dollar (as of 2019))
-- $32.64B (32,637,000,000 United States dollar (as of 2020))
-- $35.47B (35,466,000,000 United States dollar (as of 2022))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $34.39B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $34.59B | as of 2007 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.56B | as of 2008 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $30.91B | as of 2009 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $33.37B | as of 2010 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.53B | as of 2011 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.66B | as of 2012 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.05B | as of 2013 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.31B | as of 2014 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $38.58B | as of 2015 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $39.30B | as of 2016 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $40.53B | as of 2017 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $41.80B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $36.71B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $32.64B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $35.47B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $5.54B (5,542,000,000 United States dollar (as of 2021))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $5.54B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $5.61B (5,610,000,000 United States dollar (as of 2021))
-- $2.44B (2,444,000,000 United States dollar (as of 2007))
-- $2.79B (2,792,000,000 United States dollar (as of 2008))
-- $2.15B (2,153,000,000 United States dollar (as of 2009))
-- $2.02B (2,022,000,000 United States dollar (as of 2010))
-- $2.07B (2,067,000,000 United States dollar (as of 2011))
-- $2.93B (2,926,000,000 United States dollar (as of 2012))
-- $3.92B (3,924,000,000 United States dollar (as of 2013))
-- $4.24B (4,239,000,000 United States dollar (as of 2014))
-- $4.77B (4,768,000,000 United States dollar (as of 2015))
-- $4.81B (4,809,000,000 United States dollar (as of 2016))
-- $1.66B (1,655,000,000 United States dollar (as of 2017))
-- $6.76B (6,765,000,000 United States dollar (as of 2018))
-- $6.14B (6,143,000,000 United States dollar (as of 2019))
-- $4.78B (4,779,000,000 United States dollar (as of 2020))
-- $4.97B (4,966,000,000 United States dollar (as of 2022))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $5.61B | as of 2021 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.44B | as of 2007 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.79B | as of 2008 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.15B | as of 2009 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.02B | as of 2010 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.07B | as of 2011 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $2.93B | as of 2012 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $3.92B | as of 2013 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.24B | as of 2014 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.77B | as of 2015 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.81B | as of 2016 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.66B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.76B | as of 2018 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.14B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.78B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $4.97B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 128,000 | - | [100K-500K](/employees_buckets/100k-500k/) |
+| 99,000 | as of 2021-12-31 | [50K-100K](/employees_buckets/50k-100k/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $143.79B | as of 2022-12-24 | [100B-500B](/market_cap_buckets/100b-500b/) |

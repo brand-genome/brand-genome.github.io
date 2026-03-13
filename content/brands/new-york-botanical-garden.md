@@ -2,13 +2,13 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-03-05T22:38:39.322385"
+date: "2026-03-13T08:56:59.274126"
 draft: false
 sectors:
   - education
-  - "arts-culture"
   - research
   - tourism
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -16,15 +16,28 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - botanic
+  - vintage
 industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "500M-1B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "the-bronx"
+  - "new-york-city"
+subsidiaries: []
+foundation_dates:
+  - 1891
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,25 +56,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
-  - primary
   - symbol
+  - primary
+  - seal
   - vertical
 brand_colors:
+  - brown
   - white
   - green
-  - brown
 typographies:
-  - impact
   - times
+  - impact
 imagery_styles:
-  - bold
   - graphic
+  - bold
 wikidata_description: "botanical garden in the Bronx, New York City"
+wikidata_url: "https://www.wikidata.org/wiki/Q636275"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -112,6 +127,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q636275) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [The Bronx](/headquarters_locations/the-bronx/); [New York City](/headquarters_locations/new-york-city/) |
+| Foundation Date | [1891](/foundation_dates/1891/) |
 | Nrhp Reference Number | 67000009 |
 | Coordinate Location | 40.863611, -73.878333 |
 | Country | United States |
@@ -149,7 +170,6 @@ guideline_count: 1
 | Libraries Australia Id | 36072400 |
 | Gnd Id | 1003331-2 |
 | Sotheby'S Museum Network Id | new-york-botanical-garden |
-| Logo Image | New York Botanical Garden logo.svg |
 | Located On Street | Southern Boulevard |
 | Nl Cr Aut Id | kn20020321717 |
 | Bgci Garden Id | 201 |
@@ -183,7 +203,6 @@ guideline_count: 1
 | Nla Trove People Id | 1206877 |
 | Legal Form | 501(c)(3) organization |
 | Total Expenditure | 85,186,570 United States dollar (as of 2017-06), 88,220,009 United States dollar (as of 2018-06), 86,944,364 United States dollar (as of 2019-06) |
-| Total Assets | 575,616,030 United States dollar (as of 2017-06), 606,884,169 United States dollar (as of 2018-06), 614,893,011 United States dollar (as of 2019-06), 637,364,505 United States dollar (as of 2022), 698,551,173 United States dollar (as of 2021) (+8 more) |
 | Goodreads Author Id | 787643 |
 | Librarything Author Id | gardennewyorkbotanic |
 | Online Books Page Author Id | New York Botanical Garden |
@@ -231,16 +250,36 @@ guideline_count: 1
 
 ### Revenue History
 
-- $89.05M (89,051,238 United States dollar (as of 2017-06))
-- $109.01M (109,006,062 United States dollar (as of 2018-06))
-- $87.54M (87,537,312 United States dollar (as of 2019-06))
-- $87.62M (87,624,994 United States dollar (as of 2020))
-- $101.63M (101,626,803 United States dollar (as of 2022))
-- $97.99M (97,993,949 United States dollar (as of 2021))
-- $87.15M (87,150,788 United States dollar (as of 2023))
-- $96.58M (96,576,121 United States dollar (as of 2011))
-- $78.34M (78,341,288 United States dollar (as of 2012))
-- $83.12M (83,116,672 United States dollar (as of 2013))
-- $89.05M (89,052,892 United States dollar (as of 2014))
-- $67.90M (67,897,914 United States dollar (as of 2015))
-- $81.56M (81,561,783 United States dollar (as of 2016))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $89.05M | as of 2017-06 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $109.01M | as of 2018-06 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $87.54M | as of 2019-06 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $87.62M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $101.63M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $97.99M | as of 2021 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $87.15M | as of 2023 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $96.58M | as of 2011 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $78.34M | as of 2012 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $83.12M | as of 2013 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $89.05M | as of 2014 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $67.90M | as of 2015 | [10M-100M](/revenue_buckets/10m-100m/) |
+| $81.56M | as of 2016 | [10M-100M](/revenue_buckets/10m-100m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $575.62M | as of 2017-06 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $606.88M | as of 2018-06 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $614.89M | as of 2019-06 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $637.36M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $698.55M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $635.19M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $566.51M | as of 2011 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $554.52M | as of 2012 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $580.75M | as of 2013 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $619.37M | as of 2014 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $580.49M | as of 2015 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $547.42M | as of 2016 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $605.57M | as of 2020 | [500M-1B](/total_assets_buckets/500m-1b/) |

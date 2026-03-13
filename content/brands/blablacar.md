@@ -2,11 +2,11 @@
 title: BlaBlaCar
 slug: blablacar
 description: ""
-date: "2026-03-05T22:38:39.106350"
+date: "2026-03-13T08:56:59.055304"
 draft: false
 sectors:
-  - software
   - "ride-sharing"
+  - software
 regions:
   - france
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - transport
   - app
   - featured
-  - transport
 industries:
   - unknown
 countries:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "bus-journey"
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: French intercity bus company
+wikidata_url: "https://www.wikidata.org/wiki/Q1653380"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +81,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1653380) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bus Journey](/products_or_materials_produced/bus-journey/) |
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Freebase Id | /m/0qsc5kj |
 | Image | BlablaBus Saint-Denis.jpg |
 | Inception | 2012-01-01 |
@@ -79,7 +98,6 @@ guideline_count: 1
 | Facebook Username | blablacar.fr |
 | Srgb Color Hex Triplet | E5006D |
 | Data.Gouv.Fr Organisation Id | 5cdef0e38b4c4161910cbd8d |
-| Logo Image | Logo BlaBlaBus - 2019.svg |
 | Product Or Material Produced | bus journey |
 | Uses | coach |
 | Parent Organization Or Unit | Société nationale des chemins de fer français, Comuto |

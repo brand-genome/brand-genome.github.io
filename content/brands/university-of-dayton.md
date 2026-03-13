@@ -2,7 +2,7 @@
 title: University of Dayton
 slug: "university-of-dayton"
 description: ""
-date: "2026-03-05T22:38:39.773136"
+date: "2026-03-13T08:56:59.824802"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1850
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +58,12 @@ typographies: []
 imagery_styles:
   - graphic
 wikidata_description: "university in Dayton, Ohio, USA"
+wikidata_url: "https://www.wikidata.org/wiki/Q2092392"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,6 +120,11 @@ Champion Heavyweight Headlines.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2092392) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1850](/foundation_dates/1850/) |
 | Coordinate Location | 39.740555555556, -84.18 |
 | Country | United States |
 | Topic'S Main Category | Category:University of Dayton |
@@ -144,9 +163,7 @@ Champion Heavyweight Headlines.
 | Crunchbase Organization Id | university-of-dayton |
 | Image | UniversityofDayton.jpg |
 | Count Of Students | 11,650 (as of 2020-09), 11,246 (as of 2021-09-01) |
-| Total Assets | 1,791,075,000 United States dollar (as of 2020-06-30) |
 | Endowment | 608,637,000 United States dollar (as of 2020-06-30), 771,109,000 United States dollar (as of 2022-06-30), 805,677,000 United States dollar (as of 2021-06-30) |
-| Employees | 3,073 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | uofdayton |
@@ -166,3 +183,15 @@ Champion Heavyweight Headlines.
 | ‎Yale Lux Id | group/fcd67bae-b359-4fc9-8334-966f3f584a00 |
 | Threads Username | universityofdayton |
 | Athletics Program | Dayton Flyers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 3,073 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.79B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

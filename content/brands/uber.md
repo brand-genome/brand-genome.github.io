@@ -2,35 +2,49 @@
 title: Uber
 slug: uber
 description: ""
-date: "2026-03-05T22:38:39.154289"
+date: "2026-03-13T08:56:59.094044"
 draft: false
 sectors:
+  - "ride-sharing"
   - software
   - "logistics-supply-chain"
-  - "ride-sharing"
 regions:
   - usa
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
-  - app
   - internet
   - transport
+  - app
 industries:
-  - "peer-to-peer-ridesharing"
   - "information-technology"
+  - "peer-to-peer-ridesharing"
 countries:
   - "united-states"
   - netherlands
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets:
-  - "1b-10b"
+  - "1B-10B"
 net_profit_buckets:
-  - "1b-10b"
+  - "1B-10B"
+employees_buckets:
+  - "10K-50K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets:
+  - "50B-100B"
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "san-francisco"
+subsidiaries: []
+foundation_dates:
+  - 2009
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,34 +63,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
   - lockup
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
+  - brown
   - white
   - red
-  - orange
   - grey
-  - black
-  - yellow
   - blue
-  - brown
-  - green
+  - yellow
   - purple
+  - green
+  - black
+  - orange
 typographies:
   - display
 imagery_styles:
-  - bold
   - photography
   - product
   - artificial
+  - bold
 wikidata_description: "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California"
+wikidata_url: "https://www.wikidata.org/wiki/Q780442"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -165,6 +181,12 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q780442) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
+| Foundation Date | [2009](/foundation_dates/2009/) |
 | Founded By | Garrett Camp, Travis Kalanick |
 | Inception | 2009-03 |
 | Headquarters Location | San Francisco, San Francisco |
@@ -179,19 +201,16 @@ guideline_count: 3
 | Facebook Username | uber |
 | Lib.Reviews Id | uber-technology |
 | Eu Transparency Register Id | 002278013515-26 |
-| Employees | 12,000 (as of 2017-12) |
 | Quora Topic Id | Uber-company |
 | Weibo User Id | uberchina |
 | Gnd Id | 1077226640 |
 | The Guardian Topic Id | technology/uber |
 | Legal Form | privately held company, public company |
-| Market Capitalization | 62,500,000,000 United States dollar (as of 2015-12-03), 189,063,000,000 United States dollar (as of 2025-05-15) |
 | Crunchbase Organization Id | uber |
 | Linkedin Company Or Organization Id | uber-com |
 | Youtube Channel Id | UCgnxoUwDmmyzeigmmcf0hZA (as of 2020-12-06, from 2012-02-15) |
 | Uk Parliament Thesaurus Id | 406284 |
 | Uniform Resource Identifier Scheme | uber |
-| Logo Image | Uber logo 2018.svg (from 2018) |
 | Complies With | Uber privacy policy |
 | Uses | geopositioning, IP address, accelerometer, battery level, user account (+4 more) |
 | Described At Url | https://developer.uber.com/ |
@@ -255,7 +274,6 @@ guideline_count: 3
 | Google News Topics Id | CAAqKAgKIiJDQkFTRXdvS0wyMHZNR2Q0TUhkc2NoSUZaVzR0UjBJb0FBUAE |
 | Namuwiki Id | 우버 |
 | Fandom Article Id | logo:Uber |
-| Total Assets | 23,388,000,000 United States dollar (as of 2018) |
 | Domain Name | uber.com |
 | ‎Yale Lux Id | group/5c5db41c-ca68-436e-88a1-58693e4c115a |
 | Wikirate Company Id | 5675297 |
@@ -281,34 +299,59 @@ guideline_count: 3
 
 ### Revenue History
 
-- $6.80B (6,800,000,000 United States dollar (as of 2013))
-- $7.93B (7,932,000,000 United States dollar (as of 2017))
-- $10.43B (10,433,000,000 United States dollar (as of 2018))
-- $13.00B (13,000,000,000 United States dollar (as of 2019))
-- $11.14B (11,139,000,000 United States dollar (as of 2020))
-- $17.45B (17,455,000,000 United States dollar (as of 2021))
-- $31.88B (31,877,000,000 United States dollar (as of 2022))
-- $37.28B (37,281,000,000 United States dollar (as of 2023))
-- $43.98B (43,978,000,000 United States dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $6.80B | as of 2013 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $7.93B | as of 2017 | [1B-10B](/revenue_buckets/1b-10b/) |
+| $10.43B | as of 2018 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $13.00B | as of 2019 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $11.14B | as of 2020 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $17.45B | as of 2021 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $31.88B | as of 2022 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $37.28B | as of 2023 | [10B-50B](/revenue_buckets/10b-50b/) |
+| $43.98B | as of 2024 | [10B-50B](/revenue_buckets/10b-50b/) |
 
 ### Operating Income History
 
-- $4.08B (-4,080,000,000 United States dollar (as of 2017))
-- $3.03B (-3,033,000,000 United States dollar (as of 2018))
-- $8.60B (-8,596,000,000 United States dollar (as of 2019))
-- $4.86B (-4,863,000,000 United States dollar (as of 2020))
-- $3.83B (-3,834,000,000 United States dollar (as of 2021))
-- $1.83B (-1,832,000,000 United States dollar (as of 2022))
-- $1.11B (1,110,000,000 United States dollar (as of 2023))
-- $2.80B (2,799,000,000 United States dollar (as of 2024))
+| Operating Income ($) | Year information | Bucket |
+|---|---|---|
+| $4.08B | as of 2017 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.03B | as of 2018 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $8.60B | as of 2019 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $4.86B | as of 2020 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $3.83B | as of 2021 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.83B | as of 2022 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $1.11B | as of 2023 | [1B-10B](/operating_income_buckets/1b-10b/) |
+| $2.80B | as of 2024 | [1B-10B](/operating_income_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $4.03B (-4,033,000,000 United States dollar (as of 2017))
-- $997.00M (997,000,000 United States dollar (as of 2018))
-- $8.51B (-8,506,000,000 United States dollar (as of 2019))
-- $6.77B (-6,768,000,000 United States dollar (as of 2020))
-- $496.00M (-496,000,000 United States dollar (as of 2021))
-- $9.14B (-9,141,000,000 United States dollar (as of 2022))
-- $1.89B (1,887,000,000 United States dollar (as of 2023))
-- $9.86B (9,856,000,000 United States dollar (as of 2024))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $4.03B | as of 2017 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $997.00M | as of 2018 | [500M-1B](/net_profit_buckets/500m-1b/) |
+| $8.51B | as of 2019 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $6.77B | as of 2020 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $496.00M | as of 2021 | [100M-500M](/net_profit_buckets/100m-500m/) |
+| $9.14B | as of 2022 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $1.89B | as of 2023 | [1B-10B](/net_profit_buckets/1b-10b/) |
+| $9.86B | as of 2024 | [1B-10B](/net_profit_buckets/1b-10b/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 12,000 | as of 2017-12 | [10K-50K](/employees_buckets/10k-50k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $23.39B | as of 2018 | [10B-50B](/total_assets_buckets/10b-50b/) |
+
+### Market Capitalization History
+
+| Market Capitalization ($) | Year information | Bucket |
+|---|---|---|
+| $62.50B | as of 2015-12-03 | [50B-100B](/market_cap_buckets/50b-100b/) |
+| $189.06B | as of 2025-05-15 | [100B-500B](/market_cap_buckets/100b-500b/) |

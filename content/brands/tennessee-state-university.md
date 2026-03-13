@@ -2,7 +2,7 @@
 title: Tennessee State University
 slug: "tennessee-state-university"
 description: ""
-date: "2026-03-05T22:38:39.766930"
+date: "2026-03-13T08:56:59.818186"
 draft: false
 sectors:
   - university
@@ -21,6 +21,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1912
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public land-grant university in Nashville, Tennessee, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q1782948"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -64,6 +77,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1782948) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1912](/foundation_dates/1912/) |
 | Coordinate Location | 36.165874, -86.830337 |
 | Country | United States |
 | Located In The Administrative Territorial Entity | Nashville |
@@ -96,7 +114,6 @@ guideline_count: 1
 | Uk Parliament Thesaurus Id | 83234 |
 | Chairperson | Frederick S. Humphries (from 1974, until 1985), Glenda Glover (from 2013), William J. Hale (from 1912, until 1943), Andrew P. Torrence (from 1968, until 1974), Frederick S. Humphries (from 1975, until 1985) (+5 more) |
 | Crunchbase Organization Id | tennessee-state-university |
-| Employees | 1,363 (as of 2020-09) |
 | Subreddit | tsu (as of 2023-05-23, from 2011-08-30) |
 | National Library Of Israel J9U Id | 987007461569205171 |
 | Academic Calendar Type | semester |
@@ -105,3 +122,9 @@ guideline_count: 1
 | ‎Yale Lux Id | group/27218677-fd18-4d31-bc96-5d09958d9403 |
 | Encyclopedia Of African American History 1896 To The Present Entry Id | 1164 |
 | Athletics Program | Tennessee State Tigers and Lady Tigers |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,363 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |

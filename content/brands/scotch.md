@@ -2,7 +2,7 @@
 title: Scotch
 slug: scotch
 description: ""
-date: "2026-03-05T22:38:39.120855"
+date: "2026-03-13T08:56:59.070466"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "clothing-industry"
 countries:
@@ -22,6 +22,21 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - "fashion-accessory"
+  - footwear
+  - jeans
+  - clothing
+products: []
+headquarters_locations:
+  - amsterdam
+subsidiaries: []
+foundation_dates:
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +59,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Dutch fashion retail company
+wikidata_url: "https://www.wikidata.org/wiki/Q17141914"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,9 +82,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17141914) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Footwear](/products_or_materials_produced/footwear/); [Jeans](/products_or_materials_produced/jeans/); [Clothing](/products_or_materials_produced/clothing/) |
+| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
+| Foundation Date | [1985](/foundation_dates/1985/) |
 | Inception | 1985 |
 | Headquarters Location | Amsterdam |
-| Logo Image | Scotch and Soda logo.gif (from 2021) |
 | Osm Name Suggestion Index Id | scotchandsoda-3937bd |
 | Parent Organization Or Unit | Sun Capital Partners |
 | Freebase Id | /m/0y65pf5 |

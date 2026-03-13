@@ -2,7 +2,7 @@
 title: Pohjois Pohjanmaan
 slug: "pohjois-pohjanmaan"
 description: ""
-date: "2026-03-05T22:38:39.362507"
+date: "2026-03-13T08:56:59.314281"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "oulu-central-library-saari"
+subsidiaries: []
+foundation_dates:
+  - 1877
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -42,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public library in Oulu, Finland"
+wikidata_url: "https://www.wikidata.org/wiki/Q620916"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q620916) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Oulu Central Library Saari](/headquarters_locations/oulu-central-library-saari/) |
+| Foundation Date | [1877](/foundation_dates/1877/) |
 | Located In The Administrative Territorial Entity | Oulu |
 | Coordinate Location | 65.015277777778, 25.463333333333 (from 1982) |
 | Freebase Id | /m/0h62xq2 |

@@ -2,7 +2,7 @@
 title: Point Park University
 slug: "point-park-university"
 description: ""
-date: "2026-03-05T22:38:39.797534"
+date: "2026-03-13T08:56:59.850545"
 draft: false
 sectors:
   - education
@@ -23,6 +23,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "100-1K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - pittsburgh
+subsidiaries: []
+foundation_dates:
+  - 1960
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +58,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Pittsburgh, Pennsylvania"
+wikidata_url: "https://www.wikidata.org/wiki/Q7208107"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -66,9 +81,14 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7208107) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Pittsburgh](/headquarters_locations/pittsburgh/) |
+| Foundation Date | [1960](/foundation_dates/1960/) |
 | Coordinate Location | 40.438611111111, -80.001944444444 |
 | Topic'S Main Category | Category:Point Park University |
-| Logo Image | Point park univ logo.png |
 | Image | Lawrence Hall.jpg |
 | Country | United States |
 | Integrated Postsecondary Education Data System Id | 215442 |
@@ -92,9 +112,7 @@ guideline_count: 1
 | Ror Id | 017mfww27 |
 | Social Media Followers | 10,189 (as of 2021-01-02), 10,156 (as of 2022-03-01), 10,087 (as of 2023-02-07) |
 | Count Of Students | 3,591 (as of 2020-09) |
-| Total Assets | 208,533,496 United States dollar (as of 2020-06-30) |
 | Endowment | 50,165,261 United States dollar (as of 2020-06-30) |
-| Employees | 832 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Openalex Id | I23745121 |
@@ -107,3 +125,15 @@ guideline_count: 1
 | Kisti Id | K000207723 |
 | Sam Id | ZMPHH84J4NN4 |
 | Threads Username | pointparku |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 832 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $208.53M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

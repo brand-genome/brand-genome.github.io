@@ -2,7 +2,7 @@
 title: International Paralympic Committee
 slug: "international-paralympic-committee"
 description: ""
-date: "2026-03-05T22:38:39.339999"
+date: "2026-03-13T08:56:59.295394"
 draft: false
 sectors:
   - ngo
@@ -20,9 +20,20 @@ industries: []
 countries:
   - germany
 revenue_buckets:
-  - "10m-100m"
+  - "10M-100M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - bonn
+subsidiaries: []
+foundation_dates:
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,22 +52,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
+  - wordmark
   - symbol
 brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - bold
-  - dynamic
   - photography
+  - dynamic
+  - bold
   - monochrome
 wikidata_description: Global governing body for the Paralympic Movement
+wikidata_url: "https://www.wikidata.org/wiki/Q175386"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -147,6 +160,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q175386) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Bonn](/headquarters_locations/bonn/) |
+| Foundation Date | [1989](/foundation_dates/1989/) |
 | Chairperson | Philip Craven (from 2001-01-01, until 2017-01-01), Robert Steadward (from 1989-01-01, until 2001-01-01), Andrew Parsons (from 2017) |
 | Founded By | Robert Steadward |
 | Inception | 1989-09-22 |
@@ -162,7 +181,6 @@ guideline_count: 2
 | Topic Has Template | Template:IPC athlete |
 | Headquarters Location | Bonn |
 | Ror Id | 05mknav37 |
-| Logo Image | IPC Logo with text.svg (from 2004, until 2019), IPC logo (2019).svg (from 2019), Paralympics logo 1988-94.svg (from 1988, until 1994), IPC logo (1994-2004).svg (from 1994, until 2004) |
 | Member Of | Global Association of International Sports Federations |
 | Operating Area | worldwide |
 | Freebase Id | /m/0hs6h |
@@ -199,4 +217,6 @@ guideline_count: 2
 
 ### Revenue History
 
-- $19.28M (19,276,939 euro (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $19.28M | as of 2020 | [10M-100M](/revenue_buckets/10m-100m/) |

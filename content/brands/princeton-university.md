@@ -2,7 +2,7 @@
 title: Princeton University
 slug: "princeton-university"
 description: ""
-date: "2026-03-05T22:38:39.607516"
+date: "2026-03-13T08:56:59.552119"
 draft: false
 sectors:
   - university
@@ -22,6 +22,19 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "10B-50B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - princeton
+subsidiaries: []
+foundation_dates:
+  - 1746
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,16 +56,18 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - orange
   - black
+  - orange
 typographies:
   - display
 imagery_styles: []
 wikidata_description: "private Ivy League research university in Princeton, New Jersey, United States"
+wikidata_url: "https://www.wikidata.org/wiki/Q21578"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -93,6 +108,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21578) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Princeton](/headquarters_locations/princeton/) |
+| Foundation Date | [1746](/foundation_dates/1746/) |
 | Inception | 1746-01-01 |
 | Topic'S Main Category | Category:Princeton University |
 | Gnd Id | 30381-1 |
@@ -102,7 +123,6 @@ guideline_count: 1
 | Member Of | Ivy League, ORCID, Inc. (as of 2023-10), Consortium of Social Science Associations,  (as of 2021), Northeast University Semiconductor Network (from 2023) (+12 more) |
 | Viaf Cluster Id | 141200041, 142470589 |
 | Integrated Postsecondary Education Data System Id | 186131 |
-| Logo Image | Princeton text logo.svg |
 | Postal Code | 08544-0070 |
 | Library Of Congress Authority Id | n79055384 |
 | Carnegie Classification Of Institutions Of Higher Education | doctoral universities: very high research activity, majority undergraduate, research doctoral: comprehensive programs, no medical/veterinary school, four-year, medium, highly residential, arts & sciences plus professions, high graduate coexistence (+1 more) |
@@ -147,7 +167,6 @@ guideline_count: 1
 | Musicbrainz Place Id | 6bf4e8f5-7f86-46b3-82fc-3216db867905 |
 | Microsoft Academic Id (Discontinued) | 20089843 |
 | Count Of Students | 8,799 (as of 2021-09-01) |
-| Employees | 1,140 |
 | Street Address | 1 Nassau Hall, Princeton, NJ, 08544-0070 |
 | Official Color | Princeton orange |
 | Ringgold Id | 6740 |
@@ -173,7 +192,6 @@ guideline_count: 1
 | Online Pwn Encyclopedia Id | 3991442 |
 | Kallías Id | KS00018622 |
 | Official Name | Princeton University |
-| Total Assets | 33,030,216,000 United States dollar (as of 2020-06-30) |
 | Endowment | 25,944,283,000 United States dollar (as of 2020-06-30), 35,794,185,665 United States dollar (as of 2022-06-30), 37,697,508,821 United States dollar (as of 2021-06-30) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2019), 0 (as of 2020) |
@@ -262,3 +280,15 @@ guideline_count: 1
 | Brockhaus Enzyklopädie Online Id | princeton-university |
 | Delfi.Ee Topic Id | 65212428 |
 | Err Keyword Id | 735101 |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,140 | - | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $33.03B | as of 2020-06-30 | [10B-50B](/total_assets_buckets/10b-50b/) |

@@ -2,11 +2,11 @@
 title: PubMatic
 slug: pubmatic
 description: ""
-date: "2026-03-05T22:38:39.513488"
+date: "2026-03-13T08:56:59.438796"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -21,6 +21,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +53,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: online advertising company
+wikidata_url: "https://www.wikidata.org/wiki/Q28172343"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -75,6 +86,10 @@ of the brand s y st em. It represents the company
 and everything that it s t ands for.
 
 ## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28172343) |
 
 | Property | Value |
 |----------|-------|

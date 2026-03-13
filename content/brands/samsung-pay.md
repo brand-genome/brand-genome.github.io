@@ -2,7 +2,7 @@
 title: Samsung Pay
 slug: "samsung-pay"
 description: ""
-date: "2026-03-05T22:38:39.771101"
+date: "2026-03-13T08:56:59.822112"
 draft: false
 sectors:
   - software
@@ -20,6 +20,16 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2015
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,29 +49,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
+  - horizontal
   - secondary
   - vertical
-  - horizontal
 brand_colors:
   - white
-  - red
-  - teal
-  - "pantone-306"
-  - "pantone-3265"
-  - black
-  - blue
-  - "pantone-3005"
-  - coral
   - "pantone-1365"
+  - red
+  - blue
   - "pantone-2285"
+  - "pantone-3005"
+  - "pantone-3265"
+  - "pantone-306"
+  - black
+  - coral
+  - teal
   - "pantone-286"
 typographies: []
 imagery_styles: []
 wikidata_description: mobile payment and digital wallet service
+wikidata_url: "https://www.wikidata.org/wiki/Q22328294"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -102,11 +114,15 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22328294) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2015](/foundation_dates/2015/) |
 | Developer | Samsung Electronics |
 | Operating System | Android |
 | Inception | 2015-08-20 |
 | Operator | Samsung Electronics |
-| Logo Image | Samsung Pay Logo.svg |
 | X (Twitter) Username | SamsungPay (as of 2020-12-29, from 2020-10-16) |
 | Google Knowledge Graph Id | /g/11bx55s_s5 |
 | Locator Map Image | Samsung Pay Availability Ukraine Fix.jpg |

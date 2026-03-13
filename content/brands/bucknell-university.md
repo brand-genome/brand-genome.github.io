@@ -2,7 +2,7 @@
 title: Bucknell University
 slug: "bucknell-university"
 description: ""
-date: "2026-03-05T22:38:39.669987"
+date: "2026-03-13T08:56:59.589471"
 draft: false
 sectors:
   - education
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "1B-10B"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1846
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,25 +53,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
+  - black
   - blue
   - orange
-  - black
 typographies: []
 imagery_styles:
   - photography
+  - graphic
   - clean
   - vibrant
-  - graphic
 wikidata_description: "private liberal arts college in the Lewisburg, Pennsylvania area"
+wikidata_url: "https://www.wikidata.org/wiki/Q3444679"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -124,6 +138,11 @@ the brand and o˚ers guidance for making it work.
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3444679) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1846](/foundation_dates/1846/) |
 | Coordinate Location | 40.9546, -76.8836 |
 | Topic'S Main Category | Category:Bucknell University |
 | Freebase Id | /m/0qlnr |
@@ -147,7 +166,6 @@ the brand and o˚ers guidance for making it work.
 | Archon Code | 1289 |
 | Grid Id | grid.253363.2 |
 | Category For Employees Of The Organization | Category:Bucknell University faculty |
-| Logo Image | Bucknell University logo.svg |
 | Named After | William Bucknell (from 1886) |
 | Musicbrainz Place Id | 3b5a185b-0b01-4ee0-8103-060d400e9336 |
 | Microsoft Academic Id (Discontinued) | 131221577 |
@@ -166,9 +184,7 @@ the brand and o˚ers guidance for making it work.
 | Social Media Followers | 21,097 (as of 2021-01-05), 20,824 (as of 2020-04-19), 21,693 (as of 2022-02-25), 22,132 (as of 2023-02-06) |
 | Crunchbase Organization Id | bucknell-university |
 | Count Of Students | 3,726 (as of 2020-09), 3,740 (as of 2021-09-01) |
-| Total Assets | 1,430,783,000 United States dollar (as of 2020-06-30) |
 | Endowment | 844,765,000 United States dollar (as of 2020-06-30), 1,070,375,000 United States dollar (as of 2022-06-30), 1,105,616,000 United States dollar (as of 2021-06-30) |
-| Employees | 1,320 (as of 2020-09) |
 | Admission Rate | 0 (as of 2020) |
 | Admission Yield Rate | 0 (as of 2020) |
 | Subreddit | bucknell |
@@ -190,3 +206,15 @@ the brand and o˚ers guidance for making it work.
 | Post Town | Lewisburg, PA |
 | Threads Username | bucknellu |
 | Athletics Program | Bucknell Bison |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,320 | as of 2020-09 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $1.43B | as of 2020-06-30 | [1B-10B](/total_assets_buckets/1b-10b/) |

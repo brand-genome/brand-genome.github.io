@@ -2,16 +2,16 @@
 title: AmeriCorps
 slug: americorps
 description: ""
-date: "2026-03-05T22:38:39.207198"
+date: "2026-03-13T08:56:59.144167"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
 tags:
@@ -24,6 +24,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "washington-dc"
+subsidiaries: []
+foundation_dates:
+  - 1993
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: independent agency of the United States federal government
+wikidata_url: "https://www.wikidata.org/wiki/Q4234215"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -72,6 +85,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4234215) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
+| Foundation Date | [1993](/foundation_dates/1993/) |
 | Inception | 1993 |
 | Isni | 0000000404383301 |
 | Ringgold Id | 116536 |
@@ -95,7 +114,6 @@ guideline_count: 2
 | Viaf Cluster Id | 136332035 |
 | Littlesis Organization Id | 14697 |
 | Described At Url | https://www.federalregister.gov/agencies/corporation-for-national-and-community-service |
-| Logo Image | Corporation for National and Community Service (CNCS) Logo.svg (from 2002-10, until 2020-09), Corporation for National and Community Service (CNCS) Logo White.svg (from 2002-10, until 2020-09), AmeriCorps Logo 2020 Stacked Navy.svg (from 2020-09) |
 | Freebase Id | /m/0d68_n |
 | Social Media Followers | 34,238 (as of 2021-01-05), 7,810 (as of 2021-10-12), 33,055 (as of 2022-03-01), 32,011 (as of 2023-02-09), 8,940 (as of 2023-02-17) (+2 more) |
 | Influencewatch Id | government-agency/corporation-for-national-and-community-service |

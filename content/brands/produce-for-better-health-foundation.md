@@ -2,12 +2,12 @@
 title: Produce For Better Health Foundation
 slug: "produce-for-better-health-foundation"
 description: ""
-date: "2026-03-05T22:38:39.465152"
+date: "2026-03-13T08:56:59.405730"
 draft: false
 sectors:
   - ngo
-  - food
   - healthcare
+  - food
 regions:
   - usa
 years:
@@ -15,15 +15,25 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - health
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"
 revenue_buckets:
-  - "1m-10m"
+  - "1M-10M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets:
+  - "UNDER-1M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,22 +55,24 @@ logo_elements:
   - primary
   - lockup
 brand_colors:
-  - white
   - purple
   - green
   - black
+  - white
 typographies:
-  - arial
   - din
+  - arial
 imagery_styles:
-  - bold
   - photography
   - modern
+  - bold
 wikidata_description: American nonprofit organization
+wikidata_url: "https://www.wikidata.org/wiki/Q54831982"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,24 +119,46 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q54831982) |
+
+| Property | Value |
+|----------|-------|
 | Charity Navigator Id (Obsolete) | 13532 |
 | Country | United States |
 | Irs Employer Identification Number | 51-0334897 |
 | Donations | 1,634,531 United States dollar (as of 2019), 1,573,251 United States dollar (as of 2022), 1,734,917 United States dollar (as of 2021), 1,696,286 United States dollar (as of 2011), 1,913,969 United States dollar (as of 2012) (+7 more) |
 | Legal Form | 501(c)(3) organization |
-| Total Assets | 0 United States dollar (as of 2022), 4,913,115 United States dollar (as of 2021), 4,595,447 United States dollar (as of 2011), 4,773,437 United States dollar (as of 2012), 5,102,865 United States dollar (as of 2013) (+7 more) |
 
 ### Revenue History
 
-- $1.83M (1,826,694 United States dollar (as of 2017-01-01))
-- $1.83M (1,834,481 United States dollar (as of 2019))
-- $1.81M (1,805,683 United States dollar (as of 2018))
-- $1.65M (1,651,817 United States dollar (as of 2022))
-- $2.25M (2,245,758 United States dollar (as of 2021))
-- $2.30M (2,298,149 United States dollar (as of 2011))
-- $2.88M (2,883,168 United States dollar (as of 2012))
-- $2.82M (2,815,719 United States dollar (as of 2013))
-- $2.13M (2,134,982 United States dollar (as of 2014))
-- $2.01M (2,007,013 United States dollar (as of 2015))
-- $1.84M (1,839,886 United States dollar (as of 2016))
-- $2.04M (2,038,358 United States dollar (as of 2020))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.83M | as of 2017-01-01 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.83M | as of 2019 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.81M | as of 2018 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.65M | as of 2022 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.25M | as of 2021 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.30M | as of 2011 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.88M | as of 2012 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.82M | as of 2013 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.13M | as of 2014 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.01M | as of 2015 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $1.84M | as of 2016 | [1M-10M](/revenue_buckets/1m-10m/) |
+| $2.04M | as of 2020 | [1M-10M](/revenue_buckets/1m-10m/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $0.00 | as of 2022 | [UNDER-1M](/total_assets_buckets/under-1m/) |
+| $4.91M | as of 2021 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.60M | as of 2011 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.77M | as of 2012 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.10M | as of 2013 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $5.01M | as of 2014 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.63M | as of 2015 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.56M | as of 2016 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.38M | as of 2017 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.59M | as of 2018 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.65M | as of 2019 | [1M-10M](/total_assets_buckets/1m-10m/) |
+| $4.86M | as of 2020 | [1M-10M](/total_assets_buckets/1m-10m/) |

@@ -2,7 +2,7 @@
 title: CHP
 slug: chp
 description: ""
-date: "2026-03-05T22:38:39.293984"
+date: "2026-03-13T08:56:59.235815"
 draft: false
 sectors:
   - "public-sector"
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 2012
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -39,24 +49,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - vertical
   - horizontal
+  - vertical
 brand_colors:
   - white
   - red
 typographies:
-  - gotham
   - futura
+  - gotham
 imagery_styles:
   - photography
-  - geometric
   - clean
   - modern
+  - geometric
 wikidata_description: ""
+wikidata_url: "https://www.wikidata.org/wiki/Q52637368"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -103,6 +115,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q52637368) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [2012](/foundation_dates/2012/) |
 | Inception | 2012 |
 | Part Of | Association du corps préfectoral et des hauts fonctionnaires du ministère de l'Intérieur |
 | Described At Url | http://signal.sciencespo-lyon.fr/article/364677/Le_comite_pour_l-histoire_prefectorale_a_ete_installe, https://www.franceculture.fr/emissions/la-fabrique-de-l-histoire/la-fabrique-de-l-histoire-vendredi-13-mai-2016, https://afhe.hypotheses.org/9910, https://www.ladepeche.fr/article-amp/2017/03/17/2537629-prefets-aveyron-jean-moulin-charles-marion.html |

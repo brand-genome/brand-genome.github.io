@@ -2,7 +2,7 @@
 title: Baloise Group
 slug: "baloise-group"
 description: ""
-date: "2026-03-05T22:38:39.326590"
+date: "2026-03-13T08:56:59.281070"
 draft: false
 sectors:
   - insurance
@@ -22,6 +22,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - insurance
+products: []
+headquarters_locations:
+  - basel
+subsidiaries: []
+foundation_dates:
+  - 1863
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Swiss insurance company
+wikidata_url: "https://www.wikidata.org/wiki/Q457912"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -67,6 +81,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q457912) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Insurance](/products_or_materials_produced/insurance/) |
+| Headquarters Location | [Basel](/headquarters_locations/basel/) |
+| Foundation Date | [1863](/foundation_dates/1863/) |
 | Freebase Id | /m/047f784 |
 | Headquarters Location | Basel |
 | Viaf Cluster Id | 141026164 |
@@ -74,7 +95,6 @@ guideline_count: 1
 | Inception | 1863-01-01 |
 | Stock Exchange | Swiss Stock Exchange |
 | Legal Form | Aktiengesellschaft |
-| Logo Image | Baloise Holding Logo.svg |
 | Bibliothèque Nationale De France Id | 145528218 |
 | Country | Switzerland |
 | Facebook Username | BaloiseGroup, baloisech |

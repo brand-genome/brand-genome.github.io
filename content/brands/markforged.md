@@ -2,11 +2,11 @@
 title: Markforged
 slug: markforged
 description: ""
-date: "2026-03-05T22:38:39.264481"
+date: "2026-03-13T08:56:59.206668"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "3d-printing"
 countries:
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - watertown
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +56,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: U.S. industrial company
+wikidata_url: "https://www.wikidata.org/wiki/Q96392042"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -65,6 +78,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q96392042) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Watertown](/headquarters_locations/watertown/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Headquarters Location | Watertown |
 | Inception | 2013 |
 | Country | United States |

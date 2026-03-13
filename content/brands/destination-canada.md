@@ -2,7 +2,7 @@
 title: Destination Canada
 slug: "destination-canada"
 description: ""
-date: "2026-03-05T22:38:39.562753"
+date: "2026-03-13T08:56:59.486545"
 draft: false
 sectors:
   - "public-sector"
@@ -23,6 +23,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - vancouver
+subsidiaries: []
+foundation_dates:
+  - 1995
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,41 +52,43 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - favicon
   - primary
+  - favicon
   - secondary
+  - wordmark
 brand_colors:
   - white
   - red
-  - magenta
-  - "pantone-1795"
   - grey
-  - black
-  - yellow
-  - cyan
   - blue
   - pink
-  - green
+  - yellow
   - purple
+  - green
+  - cyan
+  - black
+  - magenta
+  - "pantone-1795"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - bold
-  - photography
-  - landscape
-  - colorful
-  - minimal
-  - modern
-  - candid
   - natural
   - portrait
+  - landscape
+  - modern
+  - photography
+  - candid
+  - minimal
+  - colorful
+  - bold
 wikidata_description: Canadian Crown corporation
+wikidata_url: "https://www.wikidata.org/wiki/Q16851438"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -162,6 +175,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16851438) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/) |
+| Foundation Date | [1995](/foundation_dates/1995/) |
 | Viaf Cluster Id | 131057491 |
 | Inception | 1995 |
 | Country | Canada |

@@ -2,7 +2,7 @@
 title: Pôle Métropolitain
 slug: "pole-metropolitain"
 description: ""
-date: "2026-03-05T22:38:39.806955"
+date: "2026-03-13T08:56:59.864109"
 draft: false
 sectors:
   - "public-sector"
@@ -19,6 +19,15 @@ countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,19 +50,21 @@ logo_elements:
   - secondary
 brand_colors:
   - white
-  - violet
-  - magenta
-  - black
-  - cyan
   - "pantone-254"
+  - violet
+  - cyan
+  - black
+  - magenta
 typographies: []
 imagery_styles:
   - dynamic
 wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 

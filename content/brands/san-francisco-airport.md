@@ -2,7 +2,7 @@
 title: San Francisco Airport
 slug: "san-francisco-airport"
 description: ""
-date: "2026-03-05T22:38:39.448454"
+date: "2026-03-13T08:56:59.403328"
 draft: false
 sectors:
   - "public-transportation"
@@ -20,6 +20,15 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +47,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - secondary
+  - primary
+  - vertical
   - horizontal
   - signature
-  - vertical
 brand_colors:
+  - brown
+  - black
   - blue
   - gray
-  - black
-  - brown
 typographies:
   - arial
 imagery_styles:
+  - vibrant
   - bold
   - photography
-  - vibrant
 wikidata_description: "international airport near San Francisco, California, U.S."
+wikidata_url: "https://www.wikidata.org/wiki/Q8688"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -116,6 +127,10 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8688) |
+
+| Property | Value |
+|----------|-------|
 | Page Banner | San Francisco International Airport WV banner.jpg |
 | Iata Airport Code | SFO |
 | Icao Airport Code | KSFO |
@@ -123,7 +138,6 @@ guideline_count: 1
 | Image | Aerial view of San Francisco International Airport 2010.jpg |
 | Country | United States |
 | Located In The Administrative Territorial Entity | San Mateo County, California |
-| Logo Image | SFO Airport logo mark.svg (from 2024), SFO Logo.svg (until 2024) |
 | Coordinate Location | 37.618888888889, -122.375 |
 | Freebase Id | /m/01l4xk |
 | Commons Gallery | San Francisco International Airport |

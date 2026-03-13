@@ -2,15 +2,15 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-03-05T22:38:39.504002"
+date: "2026-03-13T08:56:59.427708"
 draft: false
 sectors:
   - broadcasting
 regions:
   - germany
 years:
-  - 2010
   - 2002
+  - 2010
 languages:
   - german
 tags:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - mainz
+subsidiaries: []
+foundation_dates:
+  - 1963
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -43,24 +54,26 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - "pantone-421"
-  - orange
-  - black
   - "pantone-425"
-  - "pantone-151"
   - silver
-  - gray
   - "pantone-877"
+  - black
+  - "pantone-151"
+  - gray
+  - orange
+  - "pantone-421"
 typographies:
   - impact
 imagery_styles:
   - bold
   - landscape
 wikidata_description: "main program of the German public-service television broadcaster Zweites Deutsches Fernsehen"
+wikidata_url: "https://www.wikidata.org/wiki/Q48989"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +120,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48989) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Mainz](/headquarters_locations/mainz/) |
+| Foundation Date | [1963](/foundation_dates/1963/) |
 | Commons Gallery | ZDF |
 | Freebase Id | /m/01mxgq |
 | Country | Germany |
@@ -121,7 +140,6 @@ guideline_count: 2
 | Has Part(S) | Mainzelmännchen |
 | Quora Topic Id | ZDF |
 | Mavise Tv Channel Id | 46 |
-| Logo Image | ZDF logo.svg (from 2001), ZDF logo 1992-2001.png (from 1992, until 2001), ZDF 1989 logo.svg (from 1987, until 1992), ZDF 1992 logo.svg, ZDF 1962 logo.svg |
 | Language Used | German |
 | Pm20 Folder Id | co/025265 |
 | Official Name | Zweites Deutsches Fernsehen |

@@ -2,7 +2,7 @@
 title: Botafogo de Futebol e Regatas
 slug: "botafogo-de-futebol-e-regatas"
 description: ""
-date: "2026-03-05T22:38:39.108310"
+date: "2026-03-13T08:56:59.057015"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - featured
   - sport
+  - featured
 industries:
   - "sporting-activities"
 countries:
@@ -22,6 +22,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - "rio-de-janeiro"
+subsidiaries: []
+foundation_dates:
+  - 1904
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +55,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: association football team from Rio de Janeiro
+wikidata_url: "https://www.wikidata.org/wiki/Q80958"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +76,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q80958) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
+| Foundation Date | [1904](/foundation_dates/1904/) |
 | Home Venue | Estádio Nilton Santos, Estádio Nilton Santos |
 | League Or Competition | Campeonato Brasileiro Série A |
 | Head Coach | Eduardo Barroca (from 2020-12-11, until 2021-02-06), Lúcio Flávio (from 2023-10-05, until 2023-11-15), Tiago Nunes (from 2023-11-15, until 2024-02-22), Fábio Matias (from 2024-02-23, until 2024-04-10), Artur Jorge (from 2024-04-03, until 2025-01-04) (+2 more) |
@@ -74,7 +93,6 @@ guideline_count: 1
 | X (Twitter) Username | BotafogoOficial (as of 2020-05-01, from 2007-11-11), Botafogo (as of 2020-04-25, from 2009-08-28) |
 | Instagram Username | botafogo |
 | Facebook Username | Botafogo |
-| Logo Image | Botafogo de Futebol e Regatas logo.svg |
 | Named After | Botafogo |
 | Headquarters Location | Rio de Janeiro |
 | Native Label | Botafogo de Futebol e Regatas |

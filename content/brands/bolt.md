@@ -2,7 +2,7 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-03-05T22:38:39.123880"
+date: "2026-03-13T08:56:59.076242"
 draft: false
 sectors:
   - software
@@ -16,20 +16,34 @@ years:
 languages:
   - english
 tags:
+  - internet
   - financial
   - featured
-  - internet
 industries:
-  - "peer-to-peer-ridesharing"
-  - "information-technology"
   - "food-delivery-service"
+  - "information-technology"
+  - "peer-to-peer-ridesharing"
 countries:
   - estonia
 revenue_buckets:
-  - "1b-10b"
+  - "1B-10B"
 operating_income_buckets: []
 net_profit_buckets:
-  - "10m-100m"
+  - "10M-100M"
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - bolt
+  - "bolt-food"
+products: []
+headquarters_locations:
+  - tallinn
+subsidiaries: []
+foundation_dates:
+  - 2013
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +64,17 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - white
-  - blue
   - black
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: "Estonian company in field of peer-to-peer ridesharing and food delivery"
+wikidata_url: "https://www.wikidata.org/wiki/Q20529164"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -106,10 +122,16 @@ guideline_count: 3
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20529164) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Bolt](/products_or_materials_produced/bolt/); [Bolt Food](/products_or_materials_produced/bolt-food/) |
+| Headquarters Location | [Tallinn](/headquarters_locations/tallinn/) |
+| Foundation Date | [2013](/foundation_dates/2013/) |
 | Industry | peer-to-peer ridesharing, food delivery service, information technology |
 | Inception | 2013-08-03 |
 | Headquarters Location | Tallinn |
-| Logo Image | Bolt Technology logo.svg |
 | Business Registry Code (Estonia) | 12417834 |
 | Legal Form | private limited company |
 | Country | Estonia |
@@ -133,14 +155,23 @@ guideline_count: 3
 | Trading Name | Bolt |
 | Tiktok Username | Bolt |
 | Linkedin Company Or Organization Id | bolt-eu |
-| Employees | 4,104 (as of 2023) |
 | Location Of Formation | Tallinn |
 | Uk Parliament Thesaurus Id | 569725 |
 
 ### Revenue History
 
-- $1.70B (1,704,000,000 euro (as of 2023))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $1.70B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
 
 ### Net Profit History
 
-- $92.00M (-92,000,000 euro (as of 2023))
+| Net Profit ($) | Year information | Bucket |
+|---|---|---|
+| $92.00M | as of 2023 | [10M-100M](/net_profit_buckets/10m-100m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 4,104 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |

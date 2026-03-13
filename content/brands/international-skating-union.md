@@ -2,7 +2,7 @@
 title: International Skating Union
 slug: "international-skating-union"
 description: ""
-date: "2026-03-05T22:38:39.705333"
+date: "2026-03-13T08:56:59.718290"
 draft: false
 sectors:
   - sports
@@ -20,6 +20,17 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - lausanne
+subsidiaries: []
+foundation_dates:
+  - 1892
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,27 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - icon
   - primary
   - secondary
+  - wordmark
 brand_colors:
   - white
   - blue
 typographies:
-  - arial
-  - display
   - montserrat
+  - display
+  - arial
 imagery_styles:
-  - bold
-  - landscape
   - gradient
   - portrait
+  - bold
+  - landscape
 wikidata_description: international governing body for competitive ice skating
+wikidata_url: "https://www.wikidata.org/wiki/Q543115"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +114,12 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q543115) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/) |
+| Foundation Date | [1892](/foundation_dates/1892/) |
 | Sport | figure skating, speed skating, short-track speed skating, synchronized skating |
 | Topic'S Main Category | Category:International Skating Union |
 | Freebase Id | /m/05hn0f |
@@ -119,7 +138,6 @@ guideline_count: 1
 | Founded By | Stockholms Allmänna Skridskoklubb, British Ice Skating, Koninklijke Nederlandsche Schaatsenrijders Bond |
 | Great Norwegian Encyclopedia Id | ISU |
 | Library Of Congress Authority Id | n50037236 |
-| Logo Image | International Skating Union logo.svg |
 | Facebook Username | ISUDevProjects |
 | X (Twitter) Username | isu_figure (as of 2020-04-21, from 2012-03-20), ISU_Speed (as of 2020-04-25, from 2014-10-28) |
 | Instagram Username | isufigureskating, isuspeedskating |

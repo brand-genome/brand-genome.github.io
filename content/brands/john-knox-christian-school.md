@@ -2,7 +2,7 @@
 title: John Knox Christian School
 slug: "john-knox-christian-school"
 description: ""
-date: "2026-03-05T22:38:39.170314"
+date: "2026-03-13T08:56:59.100455"
 draft: false
 sectors:
   - education
@@ -20,6 +20,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1959
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -38,24 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - badge
-  - logomark
   - stacked
+  - primary
+  - logomark
+  - badge
 brand_colors:
-  - white
-  - black
-  - red
   - teal
+  - white
+  - red
+  - black
 typographies:
   - poppins
 imagery_styles:
   - professional
 wikidata_description: "school in Oakville, Ontario, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q6243356"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -101,6 +113,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6243356) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1959](/foundation_dates/1959/) |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Oakville |
 | Inception | 1959 |

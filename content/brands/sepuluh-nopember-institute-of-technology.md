@@ -2,11 +2,11 @@
 title: Sepuluh Nopember Institute of Technology
 slug: "sepuluh-nopember-institute-of-technology"
 description: ""
-date: "2026-03-05T22:38:39.277914"
+date: "2026-03-13T08:56:59.219945"
 draft: false
 sectors:
-  - research
   - education
+  - research
   - university
 regions:
   - indonesia
@@ -22,6 +22,16 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -44,10 +54,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "national university in East Java, Indonesia"
+wikidata_url: "https://www.wikidata.org/wiki/Q7452397"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -63,6 +75,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7452397) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1957](/foundation_dates/1957/) |
 | Coordinate Location | -7.282356, 112.7949253 |
 | Country | Indonesia |
 | Inception | 1957-11-10 |
@@ -88,7 +105,7 @@ guideline_count: 1
 | Social Media Followers | 146,198 (as of 2021-01-02), 151,716 (as of 2023-02-09) |
 | Freebase Id | /m/04gvx9 |
 | Accredited By | National Accreditation Board for Higher Education (from 2018-11-21, until 2023-11-21) |
-| Email Address | mailto:dptsi@its.ac.id |
+| Email Address | dptsi@its.ac.id |
 | Indonesian College Code | 002002 |
 | Openalex Id | I166843116, P4310314936 |
 | Open Funder Registry Funder Id | 501100013355 |

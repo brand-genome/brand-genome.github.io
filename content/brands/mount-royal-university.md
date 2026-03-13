@@ -2,7 +2,7 @@
 title: Mount Royal University
 slug: "mount-royal-university"
 description: ""
-date: "2026-03-05T22:38:39.334607"
+date: "2026-03-13T08:56:59.288626"
 draft: false
 sectors:
   - education
@@ -20,9 +20,21 @@ industries: []
 countries:
   - canada
 revenue_buckets:
-  - "100m-500m"
+  - "100M-500M"
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets:
+  - "1K-10K"
+total_assets_buckets:
+  - "100M-500M"
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations: []
+subsidiaries: []
+foundation_dates:
+  - 1910
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -41,35 +53,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - secondary
+  - primary
   - lockup
-  - wordmark
   - vertical
+  - wordmark
 brand_colors:
   - white
   - red
-  - gold
-  - black
-  - cyan
-  - blue
-  - silver
-  - "pantone-429"
-  - "pantone-540"
   - "pantone-307"
+  - blue
+  - "pantone-540"
+  - gold
+  - silver
   - green
+  - cyan
+  - black
+  - "pantone-429"
 typographies:
   - display
 imagery_styles:
-  - bold
   - photography
+  - bold
   - geometric
 wikidata_description: "public university in Calgary, Alberta, Canada"
+wikidata_url: "https://www.wikidata.org/wiki/Q13650869"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -129,6 +143,11 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q13650869) |
+
+| Property | Value |
+|----------|-------|
+| Foundation Date | [1910](/foundation_dates/1910/) |
 | Coordinate Location | 51.0136, -114.133 |
 | Country | Canada |
 | Located In The Administrative Territorial Entity | Alberta |
@@ -137,7 +156,6 @@ guideline_count: 1
 | Quora Topic Id | Mount-Royal-University |
 | Ringgold Id | 2123 |
 | Image | Mount-Royal-College-Szmurlo.jpg |
-| Logo Image | Mount Royal University Logo.svg |
 | Inception | 1910-01-01 |
 | Category For Alumni Of Educational Institution | Category:Mount Royal University alumni |
 | Grid Id | grid.411852.b |
@@ -168,31 +186,83 @@ guideline_count: 1
 | Nukat Id | n2013033021 |
 | Organisation Tax Status | charitable organization in Canada |
 | Donations | 4,718,422 Canadian dollar (as of 2003), 5,048,858 Canadian dollar (as of 2004), 2,756,124 Canadian dollar (as of 2005), 11,122,673 Canadian dollar (as of 2006), 4,217,008 Canadian dollar (as of 2007) (+14 more) |
-| Total Assets | 259,216,610 Canadian dollar (as of 2003), 250,401,498 Canadian dollar (as of 2004), 248,814,262 Canadian dollar (as of 2005), 259,998,020 Canadian dollar (as of 2006), 292,465,249 Canadian dollar (as of 2007) (+17 more) |
-| Employees | 1,329 (as of 2003), 1,331 (as of 2005), 1,420 (as of 2006), 1,492 (as of 2007), 1,656 (as of 2008) (+15 more) |
 | Cra Program Account Number | 119047959RR0001 |
 
 ### Revenue History
 
-- $116.39M (116,385,875 Canadian dollar (as of 2003))
-- $124.81M (124,810,915 Canadian dollar (as of 2004))
-- $130.61M (130,608,102 Canadian dollar (as of 2005))
-- $149.11M (149,113,124 Canadian dollar (as of 2006))
-- $152.23M (152,232,214 Canadian dollar (as of 2007))
-- $173.54M (173,537,428 Canadian dollar (as of 2008))
-- $175.08M (175,076,010 Canadian dollar (as of 2009))
-- $207.21M (207,212,553 Canadian dollar (as of 2010))
-- $216.43M (216,428,822 Canadian dollar (as of 2011))
-- $214.46M (214,459,373 Canadian dollar (as of 2012))
-- $230.22M (230,218,290 Canadian dollar (as of 2013))
-- $221.51M (221,508,551 Canadian dollar (as of 2014))
-- $222.74M (222,737,688 Canadian dollar (as of 2015))
-- $240.22M (240,221,618 Canadian dollar (as of 2016))
-- $232.31M (232,314,714 Canadian dollar (as of 2017))
-- $236.94M (236,935,564 Canadian dollar (as of 2018))
-- $238.39M (238,390,538 Canadian dollar (as of 2019))
-- $233.61M (233,609,759 Canadian dollar (as of 2020))
-- $219.22M (219,224,724 Canadian dollar (as of 2021))
-- $182.17M (182,172,868 Canadian dollar (as of 2022))
-- $255.83M (255,826,770 Canadian dollar (as of 2023))
-- $266.14M (266,141,302 Canadian dollar (as of 2024))
+| Revenue ($) | Year information | Bucket |
+|---|---|---|
+| $116.39M | as of 2003 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $124.81M | as of 2004 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $130.61M | as of 2005 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $149.11M | as of 2006 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $152.23M | as of 2007 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $173.54M | as of 2008 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $175.08M | as of 2009 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $207.21M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $216.43M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $214.46M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $230.22M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $221.51M | as of 2014 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $222.74M | as of 2015 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $240.22M | as of 2016 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $232.31M | as of 2017 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $236.94M | as of 2018 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $238.39M | as of 2019 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $233.61M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $219.22M | as of 2021 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $182.17M | as of 2022 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $255.83M | as of 2023 | [100M-500M](/revenue_buckets/100m-500m/) |
+| $266.14M | as of 2024 | [100M-500M](/revenue_buckets/100m-500m/) |
+
+### Employees History
+
+| Employees | Year information | Bucket |
+|---|---|---|
+| 1,329 | as of 2003 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,331 | as of 2005 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,420 | as of 2006 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,492 | as of 2007 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,656 | as of 2008 | [1K-10K](/employees_buckets/1k-10k/) |
+| 2,141 | as of 2009 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,810 | as of 2010 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,842 | as of 2011 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,862 | as of 2012 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,769 | as of 2013 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,699 | as of 2014 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,606 | as of 2015 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,849 | as of 2016 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,807 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,820 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,751 | as of 2019 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,535 | as of 2021 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,230 | as of 2022 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,708 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
+| 1,722 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |
+
+### Total Assets History
+
+| Total Assets ($) | Year information | Bucket |
+|---|---|---|
+| $259.22M | as of 2003 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $250.40M | as of 2004 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $248.81M | as of 2005 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $260.00M | as of 2006 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $292.47M | as of 2007 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $310.01M | as of 2008 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $321.32M | as of 2009 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $355.75M | as of 2010 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $387.96M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $372.42M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $391.76M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $458.50M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
+| $501.05M | as of 2015 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $513.56M | as of 2016 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $532.87M | as of 2017 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $518.90M | as of 2018 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $508.95M | as of 2019 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $500.41M | as of 2020 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $519.78M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $536.29M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $565.31M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
+| $608.69M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

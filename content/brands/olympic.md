@@ -2,20 +2,20 @@
 title: Olympic
 slug: olympic
 description: ""
-date: "2026-03-05T22:38:39.218756"
+date: "2026-03-13T08:56:59.155632"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2022
   - 2023
+  - 2022
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries:
   - "sports-club-activities"
 countries:
@@ -23,6 +23,18 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced: []
+products: []
+headquarters_locations:
+  - marseille
+  - "centre-dentrainement-robert-louis-dreyfus"
+subsidiaries: []
+foundation_dates:
+  - 1899
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,10 +57,12 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "association football club in Marseille, France"
+wikidata_url: "https://www.wikidata.org/wiki/Q132885"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -68,6 +82,12 @@ guideline_count: 2
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q132885) |
+
+| Property | Value |
+|----------|-------|
+| Headquarters Location | [Marseille](/headquarters_locations/marseille/); [Centre Dentrainement Robert Louis Dreyfus](/headquarters_locations/centre-dentrainement-robert-louis-dreyfus/) |
+| Foundation Date | [1899](/foundation_dates/1899/) |
 | League Or Competition | Ligue 1 (from 1996) |
 | Home Venue | Stade Vélodrome |
 | Head Coach | Rudi Garcia (from 2016-10-20, until 2019-06-30), Didier Deschamps (from 2009-07-01, until 2012-07-02), André Villas-Boas (from 2019-07-01, until 2021-02-02), Franck Passi (from 2016-04-19, until 2016-10-19), Marcelo Bielsa (from 2014-07-01, until 2015-08-10) (+12 more) |
@@ -123,7 +143,6 @@ guideline_count: 2
 | Participant In | 2020–21 Ligue 1 |
 | X Topic Id | 731226169194897408 |
 | Tiktok Username | om |
-| Logo Image | Olympique Marseille logo.svg |
 | Image | Stade Vélodrome (20150405).jpg |
 | Egapro Gender Equality Index | 51 (as of 2019-01-01) |
 | Social Media Followers | 396,000 (as of 2021-07-03), 470,000 (as of 2022-03-18), 553,000 (as of 2023-02-17), 643,000 (as of 2024-01-15), 709,000 (as of 2024-09-07) (+2 more) |

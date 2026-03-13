@@ -2,11 +2,11 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-03-05T22:38:39.790248"
+date: "2026-03-13T08:56:59.841665"
 draft: false
 sectors:
-  - "consumer-goods"
   - watches
+  - "consumer-goods"
   - hardware
 regions:
   - switzerland
@@ -24,6 +24,21 @@ countries:
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
+employees_buckets: []
+total_assets_buckets: []
+total_equity_buckets: []
+market_cap_buckets: []
+products_or_materials_produced:
+  - baggage
+  - cutlery
+  - "swiss-army-knife"
+  - watch
+products: []
+headquarters_locations:
+  - ibach
+subsidiaries: []
+foundation_dates:
+  - 1884
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +62,22 @@ logo_elements:
 brand_colors:
   - white
   - red
-  - black
   - silver
-  - "pantone-201"
   - "pantone-877"
+  - black
+  - "pantone-201"
 typographies: []
 imagery_styles:
   - photography
   - product
   - graphic
 wikidata_description: "Swiss manufacturer of Swiss Army Knives, cutlery, watches, travel gear, and fragrances"
+wikidata_url: "https://www.wikidata.org/wiki/Q503405"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
+sample_image_urls: []
 ---
 ## Official Websites
 
@@ -107,6 +124,13 @@ guideline_count: 1
 
 | Property | Value |
 |----------|-------|
+| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q503405) |
+
+| Property | Value |
+|----------|-------|
+| Product Or Material Produced | [Baggage](/products_or_materials_produced/baggage/); [Cutlery](/products_or_materials_produced/cutlery/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Watch](/products_or_materials_produced/watch/) |
+| Headquarters Location | [Ibach](/headquarters_locations/ibach/) |
+| Foundation Date | [1884](/foundation_dates/1884/) |
 | Headquarters Location | Ibach |
 | Country | Switzerland |
 | Topic'S Main Category | Category:Victorinox |
@@ -115,7 +139,6 @@ guideline_count: 1
 | Viaf Cluster Id | 312817165 |
 | Inception | 1884 |
 | Location Of Formation | Ibach |
-| Logo Image | Victorinox Logo.svg |
 | Legal Form | Aktiengesellschaft |
 | Legal Entity Identifier | 549300GAROZIHUL8QM24 |
 | Founded By | Karl Elsener (as of 1884) |
