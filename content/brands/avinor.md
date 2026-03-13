@@ -2,11 +2,11 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-03-13T08:56:59.744124"
+date: "2026-03-13T09:22:54.778743"
 draft: false
 sectors:
-  - utilities
   - "public-transportation"
+  - utilities
 regions:
   - norway
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "air-navigation-service-provider"
   - "airport-authority"
+  - "air-navigation-service-provider"
 countries:
   - norway
 revenue_buckets: []
@@ -59,8 +59,8 @@ logo_elements:
 brand_colors:
   - black
 typographies:
-  - georgia
   - arial
+  - georgia
 imagery_styles:
   - clean
 wikidata_description: Norwegian airport operator
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

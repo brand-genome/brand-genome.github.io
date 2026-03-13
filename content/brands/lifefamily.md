@@ -2,7 +2,7 @@
 title: LifeFamily
 slug: lifefamily
 description: ""
-date: "2026-03-13T08:56:59.371907"
+date: "2026-03-13T09:22:53.437566"
 draft: false
 sectors:
   - "childcare-family-services"
@@ -49,25 +49,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
   - primary
   - alternate
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
   - helvetica
   - montserrat
   - impact
 imagery_styles:
   - photography
-  - graphic
   - candid
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

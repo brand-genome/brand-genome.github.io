@@ -2,7 +2,7 @@
 title: Mount Royal University
 slug: "mount-royal-university"
 description: ""
-date: "2026-03-13T08:56:59.288626"
+date: "2026-03-13T09:22:53.273481"
 draft: false
 sectors:
   - education
@@ -54,23 +54,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - lockup
-  - vertical
   - wordmark
+  - primary
+  - vertical
+  - lockup
+  - secondary
 brand_colors:
-  - white
-  - red
   - "pantone-307"
-  - blue
-  - "pantone-540"
-  - gold
-  - silver
-  - green
   - cyan
+  - silver
+  - gold
+  - "pantone-540"
   - black
   - "pantone-429"
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - display
 imagery_styles:
@@ -84,6 +84,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

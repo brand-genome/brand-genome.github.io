@@ -63,12 +63,29 @@
         <div class="visual-definition-right">
             <h3>Top Terms</h3>
             <div class="mini-term-collage">
+                {{ $taxonomy := $.Section }}
                 {{ range first 12 .Pages.ByTitle }}
                 {{ $term := . }}
-                {{ $firstBrand := index $term.Pages.ByTitle 0 }}
+                {{ $termSlug := $term.Title | urlize }}
+                {{ $thumbURL := "" }}
+                {{ range $term.Pages.ByTitle }}
+                    {{ if eq $thumbURL "" }}
+                        {{ $termImageURLs := slice }}
+                        {{ with .Params.visual_term_image_urls }}
+                            {{ with index . $taxonomy }}
+                                {{ with index . $termSlug }}
+                                    {{ $termImageURLs = . }}
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        {{ if gt (len $termImageURLs) 0 }}
+                            {{ $thumbURL = index $termImageURLs 0 }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
                 <a href="{{ $term.Permalink }}" class="mini-thumb-link" title="{{ $term.Title | humanize }}">
-                    {{ if and $firstBrand $firstBrand.Params.sample_image_urls (gt (len $firstBrand.Params.sample_image_urls) 0) }}
-                    <img src="{{ index $firstBrand.Params.sample_image_urls 0 }}" alt="{{ $term.Title | humanize }} sample" class="mini-thumb-img" loading="lazy" />
+                    {{ if ne $thumbURL "" }}
+                    <img src="{{ $thumbURL }}" alt="{{ $term.Title | humanize }} sample" class="mini-thumb-img" loading="lazy" />
                     {{ else }}
                     <span class="mini-thumb-fallback">{{ $term.Title | humanize }}</span>
                     {{ end }}

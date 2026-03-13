@@ -2,11 +2,11 @@
 title: RSK
 slug: rsk
 description: ""
-date: "2026-03-13T08:56:59.549943"
+date: "2026-03-13T09:22:54.226207"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
+  - "blockchain-crypto"
 regions:
   - "united-kingdom"
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - engineering
 industries:
-  - "defense-industry"
   - "aerospace-industry"
   - "weapons-industry"
+  - "defense-industry"
 countries: []
 revenue_buckets:
   - "10B-50B"
@@ -34,8 +34,8 @@ total_equity_buckets:
   - "10B-50B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "fighter-aircraft"
   - "military-aircraft"
+  - "fighter-aircraft"
 products: []
 headquarters_locations:
   - moscow
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -171,7 +172,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Fighter Aircraft](/products_or_materials_produced/fighter-aircraft/); [Military Aircraft](/products_or_materials_produced/military-aircraft/) |
+| Product Or Material Produced | [Military Aircraft](/products_or_materials_produced/military-aircraft/); [Fighter Aircraft](/products_or_materials_produced/fighter-aircraft/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [1939](/foundation_dates/1939/) |
 | Founded By | Mikhail Gurevich, Artem Mikoyan |

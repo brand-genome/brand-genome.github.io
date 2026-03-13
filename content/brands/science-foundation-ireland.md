@@ -2,11 +2,11 @@
 title: Science Foundation Ireland
 slug: "science-foundation-ireland"
 description: ""
-date: "2026-03-13T08:56:59.789945"
+date: "2026-03-13T09:22:54.821442"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -59,6 +59,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

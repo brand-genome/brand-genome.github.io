@@ -2,11 +2,11 @@
 title: Régions académiques et Académies
 slug: "regions-academiques-et-academies"
 description: ""
-date: "2026-03-13T08:56:59.418492"
+date: "2026-03-13T09:22:53.600404"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - icon
-  - secondary
+  - emblem
   - vertical
+  - secondary
   - horizontal
 brand_colors:
   - black
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,12 +2,12 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-03-13T08:56:59.895838"
+date: "2026-03-13T09:22:55.161749"
 draft: false
 sectors:
-  - hardware
   - electronics
   - software
+  - hardware
 regions:
   - japan
 years:
@@ -58,16 +58,16 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
+  - black
+  - silver
   - white
   - red
-  - silver
-  - black
 typographies:
   - helvetica
   - times
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: Japanese multinational engineering and electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q53238"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

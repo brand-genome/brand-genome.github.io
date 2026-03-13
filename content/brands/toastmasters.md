@@ -2,7 +2,7 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-03-13T08:56:59.375026"
+date: "2026-03-13T09:22:53.440875"
 draft: false
 sectors:
   - education
@@ -52,20 +52,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
-  - secondary
   - alternate
+  - secondary
+  - primary
 brand_colors:
-  - white
-  - "pantone-302"
   - "pantone-127"
-  - black
   - "pantone-442"
   - "pantone-188"
+  - "pantone-302"
   - "pantone-1795"
+  - black
+  - white
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
   - modern
   - geometric
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

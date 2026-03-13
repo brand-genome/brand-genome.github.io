@@ -2,7 +2,7 @@
 title: De Dietrich
 slug: "de-dietrich"
 description: ""
-date: "2026-03-13T08:56:59.553429"
+date: "2026-03-13T09:22:54.231236"
 draft: false
 sectors:
   - utilities
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "automotive-industry"
   - "vehicle-construction"
+  - "automotive-industry"
 countries:
   - france
 revenue_buckets: []
@@ -56,21 +56,21 @@ logo_elements:
   - primary
   - alternate
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - "pantone-281"
   - "pantone-300"
-  - "pantone-130"
-  - green
-  - black
-  - orange
+  - blue
+  - "pantone-281"
   - gray
-  - "pantone-377"
+  - yellow
+  - "pantone-130"
+  - orange
+  - black
   - "pantone-123"
+  - "pantone-377"
+  - green
+  - white
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
   - dynamic
   - bold
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

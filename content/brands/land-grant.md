@@ -2,7 +2,7 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-03-13T08:56:59.585145"
+date: "2026-03-13T09:22:54.418317"
 draft: false
 sectors:
   - brewery
@@ -50,18 +50,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
+  - gray
+  - black
   - red
   - gold
-  - black
-  - gray
+  - white
 typographies:
-  - roboto
   - impact
+  - roboto
 imagery_styles:
-  - graphic
   - minimal
   - bold
+  - graphic
 wikidata_description: "1849 United Kingdom of Great Britain and Ireland Act of Parliament 12 & 13 Vic c. 22"
 wikidata_url: "https://www.wikidata.org/wiki/Q106327489"
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

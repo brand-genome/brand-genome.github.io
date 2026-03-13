@@ -2,7 +2,7 @@
 title: Fédération Française de Rugby
 slug: "federation-francaise-de-rugby"
 description: ""
-date: "2026-03-13T08:56:59.365555"
+date: "2026-03-13T09:22:53.431297"
 draft: false
 sectors:
   - sports
@@ -46,15 +46,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - vertical
   - horizontal
   - wordmark
-  - symbol
 brand_colors:
-  - "pantone-485"
+  - "pantone-281"
   - red
   - blue
-  - "pantone-281"
+  - "pantone-485"
   - "pantone-1805"
 typographies: []
 imagery_styles:
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

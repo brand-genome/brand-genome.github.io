@@ -2,7 +2,7 @@
 title: Thread
 slug: thread
 description: ""
-date: "2026-03-13T08:56:59.355647"
+date: "2026-03-13T09:22:53.403795"
 draft: false
 sectors:
   - networking
@@ -50,27 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - logomark
-  - secondary
   - primary
+  - emblem
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
+  - gray
+  - orange
+  - black
   - red
   - blue
   - green
-  - orange
-  - black
-  - gray
+  - white
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
+  - organic
   - illustration
   - bold
-  - organic
 wikidata_description: clothing website
 wikidata_url: "https://www.wikidata.org/wiki/Q7797176"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

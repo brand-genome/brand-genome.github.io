@@ -2,7 +2,7 @@
 title: Nationale Naturlandschaften
 slug: "nationale-naturlandschaften"
 description: ""
-date: "2026-03-13T08:56:59.293787"
+date: "2026-03-13T09:22:53.279435"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - ngo
   - environment
+  - ngo
 industries:
   - environment
 countries:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

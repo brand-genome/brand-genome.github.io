@@ -2,11 +2,11 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-03-13T08:56:59.211156"
+date: "2026-03-13T09:22:53.019596"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - technology
   - vintage
   - featured
+  - technology
 industries:
   - "software-industry"
   - "computer-hardware-industry"
@@ -30,15 +30,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "next-computer"
-  - nextstation
   - nextstep
-  - "nextcube-turbo"
   - nextcube
+  - nextstation
+  - "nextcube-turbo"
+  - "next-computer"
 products: []
 headquarters_locations:
-  - "palo-alto"
   - "redwood-city"
+  - "palo-alto"
 subsidiaries: []
 foundation_dates:
   - 1985
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 
@@ -85,8 +86,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Next Computer](/products_or_materials_produced/next-computer/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Nextcube](/products_or_materials_produced/nextcube/) |
-| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Redwood City](/headquarters_locations/redwood-city/) |
+| Product Or Material Produced | [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Next Computer](/products_or_materials_produced/next-computer/) |
+| Headquarters Location | [Redwood City](/headquarters_locations/redwood-city/); [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Founded By | Steve Jobs |
 | Chief Executive Officer | Steve Jobs |

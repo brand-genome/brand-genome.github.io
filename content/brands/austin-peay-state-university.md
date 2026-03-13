@@ -2,7 +2,7 @@
 title: Austin Peay State University
 slug: "austin-peay-state-university"
 description: ""
-date: "2026-03-13T08:56:59.394289"
+date: "2026-03-13T09:22:53.490051"
 draft: false
 sectors:
   - education
@@ -51,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lettermark
   - primary
+  - lettermark
 brand_colors:
-  - gray
-  - red
-  - "pantone-200"
   - silver
+  - "pantone-200"
+  - gray
   - black
   - "pantone-429"
+  - red
 typographies:
   - gotham
 imagery_styles:
-  - photography
   - minimal
+  - photography
   - bold
 wikidata_description: "public university in Clarksville, Tennessee, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q781153"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

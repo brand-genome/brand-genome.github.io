@@ -2,11 +2,11 @@
 title: INRA
 slug: inra
 description: ""
-date: "2026-03-13T08:56:59.725148"
+date: "2026-03-13T09:22:54.738458"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - france
 years:
@@ -51,11 +51,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - "pantone-300"
   - "pantone-254"
+  - "pantone-222"
   - blue
   - "pantone-166"
-  - "pantone-300"
-  - "pantone-222"
 typographies:
   - arial
 imagery_styles:
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

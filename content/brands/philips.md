@@ -2,11 +2,11 @@
 title: Philips
 slug: philips
 description: ""
-date: "2026-03-13T08:56:59.855711"
+date: "2026-03-13T09:22:55.089878"
 draft: false
 sectors:
-  - healthcare
   - electronics
+  - healthcare
 regions:
   - netherlands
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "electronics-industry"
   - "electrical-industry"
+  - "electronics-industry"
   - "consumer-electronics-industry"
 countries:
   - netherlands
@@ -39,8 +39,8 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - eindhoven
   - amsterdam
+  - eindhoven
 subsidiaries: []
 foundation_dates:
   - 1891
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -94,7 +95,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Eindhoven](/headquarters_locations/eindhoven/); [Amsterdam](/headquarters_locations/amsterdam/) |
+| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/); [Eindhoven](/headquarters_locations/eindhoven/) |
 | Foundation Date | [1891](/foundation_dates/1891/) |
 | Stock Exchange | Amsterdam Stock Exchange, New York Stock Exchange (from 1990-01-02) |
 | Headquarters Location | Amsterdam (from 2001), Eindhoven (until 2001) |

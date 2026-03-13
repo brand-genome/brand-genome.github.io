@@ -2,7 +2,7 @@
 title: PGA
 slug: pga
 description: ""
-date: "2026-03-13T08:56:59.504065"
+date: "2026-03-13T09:22:53.962321"
 draft: false
 sectors:
   - sports
@@ -50,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
   - alternate
+  - seal
+  - primary
 brand_colors:
-  - "pantone-533"
-  - blue
-  - gold
   - black
   - "pantone-872"
+  - blue
+  - gold
+  - "pantone-533"
 typographies:
-  - gotham
   - arial
-  - times
+  - gotham
   - serif
+  - times
   - impact
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: trade association in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q253075"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

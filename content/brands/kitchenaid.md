@@ -2,7 +2,7 @@
 title: KitchenAid
 slug: kitchenaid
 description: ""
-date: "2026-03-13T08:56:59.215378"
+date: "2026-03-13T09:22:53.024836"
 draft: false
 sectors:
   - "consumer-goods"
@@ -25,13 +25,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "meat-grinder"
   - "coffee-grinder"
-  - dishwasher
+  - "food-processor"
   - "convection-oven"
+  - "meat-grinder"
+  - dishwasher
   - "water-pump"
   - "gas-stove"
-  - "food-processor"
   - "ice-cream-maker"
 products: []
 headquarters_locations: []
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -89,7 +90,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Meat Grinder](/products_or_materials_produced/meat-grinder/); [Coffee Grinder](/products_or_materials_produced/coffee-grinder/); [Dishwasher](/products_or_materials_produced/dishwasher/); [Convection Oven](/products_or_materials_produced/convection-oven/); [Water Pump](/products_or_materials_produced/water-pump/); [Gas Stove](/products_or_materials_produced/gas-stove/); [Food Processor](/products_or_materials_produced/food-processor/); [Ice Cream Maker](/products_or_materials_produced/ice-cream-maker/) |
+| Product Or Material Produced | [Coffee Grinder](/products_or_materials_produced/coffee-grinder/); [Food Processor](/products_or_materials_produced/food-processor/); [Convection Oven](/products_or_materials_produced/convection-oven/); [Meat Grinder](/products_or_materials_produced/meat-grinder/); [Dishwasher](/products_or_materials_produced/dishwasher/); [Water Pump](/products_or_materials_produced/water-pump/); [Gas Stove](/products_or_materials_produced/gas-stove/); [Ice Cream Maker](/products_or_materials_produced/ice-cream-maker/) |
 | Foundation Date | [1919](/foundation_dates/1919/) |
 | Inception | 1919-01-01 |
 | Manufacturer | Whirlpool |

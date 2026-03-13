@@ -2,11 +2,11 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-03-13T08:56:59.885766"
+date: "2026-03-13T09:22:55.156417"
 draft: false
 sectors:
-  - insurance
   - automobile
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - insurance
 industries:
-  - "activities-of-other-membership-organisations-nec"
-  - "insurance-industry"
-  - "voluntary-sector"
-  - "drivers-education"
   - "road-transport"
+  - "drivers-education"
   - "roadside-assistance"
+  - "activities-of-other-membership-organisations-nec"
+  - "voluntary-sector"
+  - "insurance-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -57,9 +57,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
   - "pantone-116"
   - yellow
-  - black
 typographies: []
 imagery_styles:
   - photography
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

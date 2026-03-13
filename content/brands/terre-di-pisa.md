@@ -2,7 +2,7 @@
 title: Terre di Pisa
 slug: "terre-di-pisa"
 description: ""
-date: "2026-03-13T08:56:59.421530"
+date: "2026-03-13T09:22:53.604523"
 draft: false
 sectors:
   - tourism
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

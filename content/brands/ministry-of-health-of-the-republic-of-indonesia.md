@@ -2,7 +2,7 @@
 title: Ministry of Health of the Republic of Indonesia
 slug: "ministry-of-health-of-the-republic-of-indonesia"
 description: ""
-date: "2026-03-13T08:56:59.098668"
+date: "2026-03-13T09:22:52.171718"
 draft: false
 sectors:
   - "public-sector"
@@ -48,14 +48,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - green
-  - yellow
   - grey
+  - green
   - turquoise
+  - yellow
 typographies: []
 imagery_styles:
   - clean
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

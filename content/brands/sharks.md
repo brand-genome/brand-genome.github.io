@@ -2,11 +2,11 @@
 title: Sharks
 slug: sharks
 description: ""
-date: "2026-03-13T08:56:59.834650"
+date: "2026-03-13T09:22:55.036810"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -52,9 +52,9 @@ logo_elements:
   - primary
   - mascot
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies:
   - gotham
 imagery_styles:
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

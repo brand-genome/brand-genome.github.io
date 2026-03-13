@@ -2,11 +2,11 @@
 title: "CMLO&CO"
 slug: cmloco
 description: ""
-date: "2026-03-13T08:56:59.223791"
+date: "2026-03-13T09:22:53.068883"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - brazil
 years:
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

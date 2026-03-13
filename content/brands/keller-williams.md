@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-03-13T08:56:59.373350"
+date: "2026-03-13T09:22:53.439533"
 draft: false
 sectors:
   - "real-estate"
@@ -48,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
-  - "pantone-200"
   - silver
-  - black
+  - "pantone-200"
   - gray
+  - black
+  - red
+  - white
 typographies:
   - helvetica
 imagery_styles:
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

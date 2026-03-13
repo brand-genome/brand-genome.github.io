@@ -2,11 +2,11 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-03-13T08:56:59.372606"
+date: "2026-03-13T09:22:53.438401"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - financial
+  - insurance
 industries:
   - insurance
   - "financial-services"
@@ -55,22 +55,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - abstract
   - secondary
+  - abstract
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies:
-  - roboto
-  - display
   - arial
+  - display
+  - roboto
 imagery_styles:
   - natural
-  - staged
   - illustration
-  - photography
   - candid
+  - staged
+  - photography
   - abstract
   - bold
 wikidata_description: British multinational financial services company
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

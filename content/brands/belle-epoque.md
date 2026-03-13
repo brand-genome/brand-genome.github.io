@@ -2,11 +2,11 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-03-13T08:56:59.573348"
+date: "2026-03-13T09:22:54.354169"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - "united-kingdom"
 years:
@@ -47,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
-  - secondary
   - alternate
+  - secondary
+  - monogram
 brand_colors:
-  - white
-  - gold
   - black
+  - gold
   - "pantone-872"
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

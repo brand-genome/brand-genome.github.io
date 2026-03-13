@@ -2,7 +2,7 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-03-13T08:56:59.528274"
+date: "2026-03-13T09:22:54.131999"
 draft: false
 sectors:
   - consulting
@@ -30,11 +30,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "risk-management"
   - consultation
-  - audit
   - tax
   - "law-firm"
+  - "risk-management"
+  - audit
 products: []
 headquarters_locations:
   - london
@@ -60,18 +60,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - signature
-  - symbol
 brand_colors:
-  - white
-  - green
   - black
+  - green
+  - white
 typographies:
-  - verdana
-  - times
-  - impact
   - "open-sans"
+  - times
+  - verdana
+  - impact
 imagery_styles:
   - bold
 wikidata_description: multinational professional services network founded in 1845
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -134,7 +135,7 @@ Additional complementary colors including blues and grays are listed explicitly 
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Risk Management](/products_or_materials_produced/risk-management/); [Consultation](/products_or_materials_produced/consultation/); [Audit](/products_or_materials_produced/audit/); [Tax](/products_or_materials_produced/tax/); [Law Firm](/products_or_materials_produced/law-firm/) |
+| Product Or Material Produced | [Consultation](/products_or_materials_produced/consultation/); [Tax](/products_or_materials_produced/tax/); [Law Firm](/products_or_materials_produced/law-firm/); [Risk Management](/products_or_materials_produced/risk-management/); [Audit](/products_or_materials_produced/audit/) |
 | Headquarters Location | [London](/headquarters_locations/london/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1845](/foundation_dates/1845/) |
 | Founded By | William Welch Deloitte, George Touche |

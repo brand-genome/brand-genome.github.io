@@ -2,7 +2,7 @@
 title: Rocky Mountaineer
 slug: "rocky-mountaineer"
 description: ""
-date: "2026-03-13T08:56:59.090416"
+date: "2026-03-13T09:22:52.118531"
 draft: false
 sectors:
   - railroad
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - regional
+  - transport
   - tourism
 industries: []
 countries:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

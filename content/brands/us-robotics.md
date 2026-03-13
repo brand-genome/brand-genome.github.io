@@ -2,7 +2,7 @@
 title: US Robotics
 slug: "us-robotics"
 description: ""
-date: "2026-03-13T08:56:59.457572"
+date: "2026-03-13T09:22:53.697970"
 draft: false
 sectors:
   - hardware
@@ -29,9 +29,9 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "voice-over-ip"
+  - software
   - "computer-network"
   - modem
-  - software
 products: []
 headquarters_locations:
   - schaumburg
@@ -59,21 +59,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-485"
-  - red
-  - white
   - "pantone-1505"
-  - orange
   - gray
+  - orange
+  - red
+  - "pantone-485"
+  - white
 typographies:
-  - garamond
   - serif
+  - garamond
 imagery_styles:
-  - photography
-  - product
-  - minimal
   - classic
   - artificial
+  - minimal
+  - photography
+  - product
 wikidata_description: business enterprise
 wikidata_url: "https://www.wikidata.org/wiki/Q1700277"
 has_twitter: false
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -137,7 +138,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Software](/products_or_materials_produced/software/); [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/) |
 | Headquarters Location | [Schaumburg](/headquarters_locations/schaumburg/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Freebase Id | /m/01c18s |

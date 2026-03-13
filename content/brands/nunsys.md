@@ -2,12 +2,12 @@
 title: Nunsys
 slug: nunsys
 description: ""
-date: "2026-03-13T08:56:59.613227"
+date: "2026-03-13T09:22:54.576465"
 draft: false
 sectors:
+  - software
   - cybersecurity
   - networking
-  - software
 regions:
   - spain
 years:
@@ -48,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - symbol
+  - secondary
 brand_colors:
-  - white
-  - pink
-  - black
   - gray
+  - black
   - magenta
+  - pink
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

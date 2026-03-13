@@ -2,7 +2,7 @@
 title: Norske Skog
 slug: "norske-skog"
 description: ""
-date: "2026-03-13T08:56:59.546077"
+date: "2026-03-13T09:22:54.222134"
 draft: false
 sectors:
   - "forestry-timber"
@@ -53,28 +53,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
   - symbol
 brand_colors:
-  - white
+  - gray
+  - black
   - blue
   - green
-  - black
-  - gray
+  - white
 typographies:
-  - "source-sans"
+  - serif
+  - "sans-serif"
   - arial
   - times
-  - serif
+  - "source-sans"
   - impact
-  - "sans-serif"
 imagery_styles:
   - natural
   - clean
   - product
-  - graphic
   - bold
+  - graphic
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1225328"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

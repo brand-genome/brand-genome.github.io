@@ -2,11 +2,11 @@
 title: Sport 2000
 slug: "sport-2000"
 description: ""
-date: "2026-03-13T08:56:59.834969"
+date: "2026-03-13T09:22:55.037348"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - france
 years:
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - mainhausen
   - egly
+  - mainhausen
 subsidiaries: []
 foundation_dates:
   - 1966
@@ -53,16 +53,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - horizontal
+  - wordmark
   - signature
 brand_colors:
-  - white
-  - red
-  - grey
-  - black
   - "pantone-187"
+  - grey
   - gray
+  - black
+  - red
+  - white
 typographies:
   - display
   - arial
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -113,7 +114,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Mainhausen](/headquarters_locations/mainhausen/); [Egly](/headquarters_locations/egly/) |
+| Headquarters Location | [Egly](/headquarters_locations/egly/); [Mainhausen](/headquarters_locations/mainhausen/) |
 | Foundation Date | [1966](/foundation_dates/1966/); [1999](/foundation_dates/1999/) |
 | Headquarters Location | Mainhausen, Égly |
 | Inception | 1966-01-01, 1999-01-02 |

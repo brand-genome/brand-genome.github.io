@@ -2,7 +2,7 @@
 title: Survitec
 slug: survitec
 description: ""
-date: "2026-03-13T08:56:59.330729"
+date: "2026-03-13T09:22:53.332236"
 draft: false
 sectors:
   - defense
@@ -52,8 +52,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - grey
+  - white
   - orange
 typographies:
   - din
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

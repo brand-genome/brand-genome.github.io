@@ -2,11 +2,11 @@
 title: ByteBao
 slug: bytebao
 description: ""
-date: "2026-03-13T08:56:59.201260"
+date: "2026-03-13T09:22:52.978443"
 draft: false
 sectors:
-  - cybersecurity
   - consulting
+  - cybersecurity
 regions:
   - dubai
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - technology
   - financial
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,24 +51,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
   - primary
-  - abstract
   - horizontal
+  - secondary
+  - abstract
 brand_colors:
-  - purple
-  - red
   - black
+  - purple
   - white
+  - red
 typographies:
   - serif
   - bodoni
 imagery_styles:
+  - modern
   - natural
   - staged
-  - modern
-  - photography
   - gradient
+  - photography
   - abstract
   - bold
 wikidata_description: ""
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

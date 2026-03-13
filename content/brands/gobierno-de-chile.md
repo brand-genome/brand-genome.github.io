@@ -2,7 +2,7 @@
 title: Gobierno de Chile
 slug: "gobierno-de-chile"
 description: ""
-date: "2026-03-13T08:56:59.862367"
+date: "2026-03-13T09:22:55.095844"
 draft: false
 sectors:
   - "public-sector"
@@ -49,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
   - vertical
+  - primary
 brand_colors:
-  - "pantone-293"
-  - white
-  - grey
   - "pantone-185"
+  - grey
+  - white
+  - "pantone-293"
 typographies:
   - verdana
   - impact
 imagery_styles:
-  - graphic
   - flat
   - bold
+  - graphic
 wikidata_description: "government organization in Santiago, Chile"
 wikidata_url: "https://www.wikidata.org/wiki/Q17633149"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

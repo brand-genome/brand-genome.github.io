@@ -2,12 +2,12 @@
 title: ClassPass
 slug: classpass
 description: ""
-date: "2026-03-13T08:56:59.312962"
+date: "2026-03-13T09:22:53.314570"
 draft: false
 sectors:
-  - "wellness-spa"
-  - fitness
   - software
+  - fitness
+  - "wellness-spa"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - corporate
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -52,12 +52,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - display
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

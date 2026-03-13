@@ -2,7 +2,7 @@
 title: OneBlood
 slug: oneblood
 description: ""
-date: "2026-03-13T08:56:59.484103"
+date: "2026-03-13T09:22:53.761758"
 draft: false
 sectors:
   - healthcare
@@ -49,22 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - lockup
 brand_colors:
-  - white
-  - red
   - grey
+  - orange
+  - black
+  - red
   - blue
   - gold
-  - black
-  - orange
+  - white
 typographies:
   - garamond
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "nonprofit organization in Saint Petersburg, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q30270469"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

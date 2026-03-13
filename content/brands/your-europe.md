@@ -2,7 +2,7 @@
 title: Your Europe
 slug: "your-europe"
 description: ""
-date: "2026-03-13T08:56:59.111560"
+date: "2026-03-13T09:22:52.199336"
 draft: false
 sectors:
   - "public-sector"
@@ -50,41 +50,41 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
-  - secondary
-  - primary
-  - vertical
-  - horizontal
   - wordmark
+  - primary
+  - emblem
+  - vertical
+  - secondary
+  - horizontal
 brand_colors:
-  - "pantone-7523"
-  - white
+  - turquoise
   - "pantone-170"
-  - grey
   - blue
   - "pantone-487"
-  - yellow
-  - "pantone-2915"
-  - "pantone-7506"
   - "pantone-290"
-  - turquoise
-  - green
-  - black
-  - coral
+  - yellow
+  - grey
+  - "pantone-2915"
   - gray
+  - "pantone-7506"
+  - black
+  - "pantone-7523"
+  - coral
+  - green
+  - white
 typographies:
   - impact
 imagery_styles:
+  - artificial
   - natural
-  - staged
-  - dynamic
+  - organic
   - realistic
   - monochrome
-  - organic
+  - staged
+  - dynamic
   - gradient
-  - graphic
-  - artificial
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q132034944"
 has_twitter: false
@@ -92,6 +92,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

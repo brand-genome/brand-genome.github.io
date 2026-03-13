@@ -2,7 +2,7 @@
 title: Concurrent
 slug: concurrent
 description: ""
-date: "2026-03-13T08:56:59.034986"
+date: "2026-03-13T09:22:51.900870"
 draft: false
 sectors:
   - hardware
@@ -50,16 +50,16 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - natural
-  - dynamic
+  - artificial
   - serious
   - modern
-  - static
+  - flat
+  - natural
+  - dynamic
   - photography
   - product
-  - flat
-  - artificial
   - bold
+  - static
 wikidata_description: historical centralized version control system
 wikidata_url: "https://www.wikidata.org/wiki/Q467252"
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

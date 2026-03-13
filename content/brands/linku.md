@@ -2,12 +2,12 @@
 title: Linku
 slug: linku
 description: ""
-date: "2026-03-13T08:56:59.595097"
+date: "2026-03-13T09:22:54.556837"
 draft: false
 sectors:
-  - consulting
   - "design-creative"
   - software
+  - consulting
 regions:
   - netherlands
 years:
@@ -48,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - abstract
   - secondary
 brand_colors:
-  - white
   - silver
+  - white
 typographies:
   - nunito
 imagery_styles:
   - realistic
-  - abstract
   - professional
+  - abstract
 wikidata_description: graph visualization software
 wikidata_url: "https://www.wikidata.org/wiki/Q108810443"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

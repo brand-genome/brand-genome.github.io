@@ -2,7 +2,7 @@
 title: Asociácia rádií Slovenska
 slug: "asociacia-radii-slovenska"
 description: ""
-date: "2026-03-13T08:56:59.108194"
+date: "2026-03-13T09:22:52.195478"
 draft: false
 sectors:
   - broadcasting
@@ -49,15 +49,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - blue
-  - "pantone-1785"
   - gray
   - "pantone-2738"
+  - blue
+  - "pantone-1785"
+  - white
 typographies:
   - "open-sans"
-  - avenir
   - nunito
+  - avenir
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

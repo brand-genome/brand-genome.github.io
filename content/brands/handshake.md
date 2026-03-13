@@ -2,11 +2,11 @@
 title: Handshake
 slug: handshake
 description: ""
-date: "2026-03-13T08:56:59.420485"
+date: "2026-03-13T09:22:53.602912"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -50,35 +50,35 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - lockup
-  - wordmark
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - red
-  - "pantone-177"
-  - blue
-  - pink
-  - "pantone-114"
   - cyan
-  - coral
-  - black
-  - gray
   - indigo
+  - gray
+  - "pantone-114"
   - "pantone-7443"
+  - black
+  - "pantone-177"
+  - pink
+  - red
+  - blue
+  - coral
+  - white
 typographies:
-  - impact
   - display
+  - impact
 imagery_styles:
-  - clean
   - modern
+  - clean
   - vibrant
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: American employment company
 wikidata_url: "https://www.wikidata.org/wiki/Q133465050"
 has_twitter: false
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

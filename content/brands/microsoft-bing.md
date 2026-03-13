@@ -2,7 +2,7 @@
 title: Microsoft Bing
 slug: "microsoft-bing"
 description: ""
-date: "2026-03-13T08:56:59.350884"
+date: "2026-03-13T09:22:53.398103"
 draft: false
 sectors:
   - software
@@ -52,8 +52,8 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - white
   - gray
+  - white
 typographies: []
 imagery_styles:
   - product
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

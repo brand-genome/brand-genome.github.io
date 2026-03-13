@@ -2,7 +2,7 @@
 title: Sentinels of Freedom
 slug: "sentinels-of-freedom"
 description: ""
-date: "2026-03-13T08:56:59.525442"
+date: "2026-03-13T09:22:54.079196"
 draft: false
 sectors:
   - education
@@ -49,8 +49,8 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - georgia
 imagery_styles:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Mobilads
 slug: mobilads
 description: ""
-date: "2026-03-13T08:56:59.784873"
+date: "2026-03-13T09:22:54.810486"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -46,21 +46,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
-  - lockup
   - symbol
   - stacked
-  - wordmark
+  - lockup
+  - secondary
 brand_colors:
-  - red
   - black
+  - red
 typographies:
-  - montserrat
   - display
+  - montserrat
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

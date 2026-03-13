@@ -2,7 +2,7 @@
 title: Nutrien
 slug: nutrien
 description: ""
-date: "2026-03-13T08:56:59.593283"
+date: "2026-03-13T09:22:54.554245"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -59,8 +59,8 @@ typographies: []
 imagery_styles:
   - photography
   - gradient
-  - clean
   - bold
+  - clean
 wikidata_description: fertilizer company
 wikidata_url: "https://www.wikidata.org/wiki/Q48742870"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

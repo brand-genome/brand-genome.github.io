@@ -2,7 +2,7 @@
 title: Iran Air
 slug: "iran-air"
 description: ""
-date: "2026-03-13T08:56:59.423281"
+date: "2026-03-13T09:22:53.607349"
 draft: false
 sectors:
   - airline
@@ -50,20 +50,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - vertical
   - symbol
-  - horizontal
+  - vertical
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - grey
-  - blue
   - silver
-  - turquoise
-  - green
-  - black
+  - grey
   - orange
+  - black
+  - white
+  - blue
+  - green
+  - turquoise
 typographies: []
 imagery_styles:
   - artificial
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

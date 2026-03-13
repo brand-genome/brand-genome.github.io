@@ -2,7 +2,7 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-03-13T08:56:59.819769"
+date: "2026-03-13T09:22:54.985248"
 draft: false
 sectors:
   - education
@@ -51,21 +51,21 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - white
-  - blue
-  - gold
   - "pantone-144"
   - silver
-  - "pantone-288"
-  - black
   - orange
+  - black
+  - blue
+  - gold
+  - white
+  - "pantone-288"
 typographies:
+  - arial
   - helvetica
   - verdana
-  - arial
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: brazilian commerce union organization for professional education
 wikidata_url: "https://www.wikidata.org/wiki/Q2274352"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

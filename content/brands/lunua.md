@@ -2,11 +2,11 @@
 title: Lun.ua
 slug: lunua
 description: ""
-date: "2026-03-13T08:56:59.104419"
+date: "2026-03-13T09:22:52.187538"
 draft: false
 sectors:
-  - "real-estate"
   - software
+  - "real-estate"
 regions:
   - ukraine
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - "real-estate"
   - technology
+  - "real-estate"
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,8 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-5255"
   - "pantone-1495"
+  - "pantone-5255"
   - "pantone-7548"
 typographies:
   - roboto
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

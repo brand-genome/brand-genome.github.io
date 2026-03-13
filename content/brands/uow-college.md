@@ -2,7 +2,7 @@
 title: UOW College
 slug: "uow-college"
 description: ""
-date: "2026-03-13T08:56:59.481013"
+date: "2026-03-13T09:22:53.757461"
 draft: false
 sectors:
   - education
@@ -52,13 +52,13 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
+  - grey
+  - "pantone-412"
+  - black
+  - "pantone-2347"
+  - red
   - "pantone-485"
   - white
-  - red
-  - grey
-  - "pantone-2347"
-  - black
-  - "pantone-412"
 typographies:
   - impact
 imagery_styles:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

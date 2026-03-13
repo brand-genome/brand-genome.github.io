@@ -2,7 +2,7 @@
 title: Skills for Life
 slug: "skills-for-life"
 description: ""
-date: "2026-03-13T08:56:59.230687"
+date: "2026-03-13T09:22:53.076832"
 draft: false
 sectors:
   - education
@@ -49,34 +49,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
+  - stacked
   - horizontal
 brand_colors:
-  - white
-  - red
+  - "pantone-108"
+  - purple
   - "pantone-183"
+  - "pantone-285"
   - navy
+  - violet
+  - "pantone-347"
+  - yellow
+  - black
+  - "pantone-294"
+  - teal
   - pink
   - "pantone-3275"
-  - "pantone-294"
   - blue
-  - yellow
-  - "pantone-108"
-  - violet
-  - purple
-  - "pantone-285"
+  - red
   - green
-  - "pantone-347"
-  - black
-  - teal
+  - white
 typographies:
   - nunito
 imagery_styles:
   - photography
-  - clean
   - modern
   - bold
+  - clean
 wikidata_description: UK multi academy trust
 wikidata_url: "https://www.wikidata.org/wiki/Q122683686"
 has_twitter: false
@@ -84,6 +84,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

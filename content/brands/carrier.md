@@ -2,7 +2,7 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-03-13T08:56:59.737047"
+date: "2026-03-13T09:22:54.765209"
 draft: false
 sectors:
   - construction
@@ -31,12 +31,12 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - charlotte
-  - indianapolis
   - farmington
+  - indianapolis
 subsidiaries: []
 foundation_dates:
-  - 1978
   - 1915
+  - 1978
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,16 +55,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
+  - stacked
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
+  - arial
   - helvetica
   - times
-  - arial
 imagery_styles:
   - bold
 wikidata_description: American air conditioning company
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -126,8 +127,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/); [Indianapolis](/headquarters_locations/indianapolis/); [Farmington](/headquarters_locations/farmington/) |
-| Foundation Date | [1978](/foundation_dates/1978/); [1915](/foundation_dates/1915/) |
+| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/); [Farmington](/headquarters_locations/farmington/); [Indianapolis](/headquarters_locations/indianapolis/) |
+| Foundation Date | [1915](/foundation_dates/1915/); [1978](/foundation_dates/1978/) |
 | Freebase Id | /m/07_dc0 |
 | Headquarters Location | Charlotte, Indianapolis, Farmington |
 | Founded By | Willis Carrier |

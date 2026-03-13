@@ -2,7 +2,7 @@
 title: ICAN
 slug: ican
 description: ""
-date: "2026-03-13T08:56:59.900652"
+date: "2026-03-13T09:22:55.165032"
 draft: false
 sectors:
   - education
@@ -51,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
+  - "pantone-1375"
   - "pantone-268"
   - violet
-  - green
-  - black
-  - orange
   - "pantone-376"
-  - "pantone-1375"
+  - orange
+  - black
+  - green
+  - white
 typographies: []
 imagery_styles:
   - dynamic
-  - graphic
   - bold
+  - graphic
 wikidata_description: organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces of the Internet
 wikidata_url: "https://www.wikidata.org/wiki/Q485750"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

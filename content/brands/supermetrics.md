@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-03-13T08:56:59.229582"
+date: "2026-03-13T09:22:53.075422"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ languages:
 tags:
   - technology
 industries:
-  - "digital-marketing"
   - "software-engineering"
   - "data-management"
+  - "digital-marketing"
 countries:
   - finland
   - singapore
@@ -34,8 +34,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - analytics
   - "data-visualization-software"
+  - analytics
 products: []
 headquarters_locations:
   - kluuvi
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -93,7 +94,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/) |
+| Product Or Material Produced | [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Analytics](/products_or_materials_produced/analytics/) |
 | Headquarters Location | [Kluuvi](/headquarters_locations/kluuvi/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013 |

@@ -2,7 +2,7 @@
 title: CSUDH
 slug: csudh
 description: ""
-date: "2026-03-13T08:56:59.366477"
+date: "2026-03-13T09:22:53.432591"
 draft: false
 sectors:
   - education
@@ -54,33 +54,33 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
+  - purple
   - "pantone-302"
   - navy
-  - "pantone-7466"
-  - yellow
-  - "pantone-367"
-  - "pantone-124"
-  - turquoise
-  - green
-  - purple
-  - black
-  - "pantone-209"
   - gray
+  - yellow
+  - "pantone-7466"
+  - black
+  - "pantone-124"
+  - green
+  - "pantone-209"
   - "pantone-526"
+  - white
+  - "pantone-367"
+  - turquoise
 typographies:
-  - "proxima-nova"
-  - arial
   - "open-sans"
-  - times
+  - arial
+  - "proxima-nova"
   - serif
+  - times
   - impact
 imagery_styles:
+  - photography
   - contemporary
+  - vibrant
   - clean
   - professional
-  - photography
-  - vibrant
 wikidata_description: university
 wikidata_url: "https://www.wikidata.org/wiki/Q1026909"
 has_twitter: false
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

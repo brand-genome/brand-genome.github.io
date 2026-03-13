@@ -2,7 +2,7 @@
 title: Ohio
 slug: ohio
 description: ""
-date: "2026-03-13T08:56:59.140668"
+date: "2026-03-13T09:22:52.311351"
 draft: false
 sectors:
   - "public-sector"
@@ -54,25 +54,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - lockup
   - vertical
+  - lockup
+  - secondary
   - horizontal
 brand_colors:
-  - white
+  - orange
+  - black
+  - green
   - red
   - blue
   - gold
-  - green
-  - orange
-  - black
+  - white
 typographies:
   - avenir
 imagery_styles:
   - vibrant
-  - contemporary
   - clean
+  - contemporary
 wikidata_description: "public research university in Columbus, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q309331"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

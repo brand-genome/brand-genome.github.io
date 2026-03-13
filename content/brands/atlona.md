@@ -2,11 +2,11 @@
 title: Atlona
 slug: atlona
 description: ""
-date: "2026-03-13T08:56:59.734711"
+date: "2026-03-13T09:22:54.756816"
 draft: false
 sectors:
-  - networking
   - hardware
+  - networking
 regions:
   - usa
 years:
@@ -50,9 +50,9 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - black
   - white
   - "pantone-165"
-  - black
   - orange
 typographies:
   - arial
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

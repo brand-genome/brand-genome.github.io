@@ -2,11 +2,11 @@
 title: Strava
 slug: strava
 description: ""
-date: "2026-03-13T08:56:59.266826"
+date: "2026-03-13T09:22:53.252526"
 draft: false
 sectors:
-  - sports
   - software
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - app
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,28 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - badge
-  - vertical
-  - symbol
-  - horizontal
   - wordmark
+  - primary
+  - symbol
+  - vertical
+  - secondary
+  - badge
+  - horizontal
 brand_colors:
-  - white
-  - red
-  - purple
   - cyan
-  - black
-  - orange
+  - purple
   - gray
+  - orange
+  - black
+  - red
+  - white
 typographies:
   - display
 imagery_styles:
   - photography
-  - natural
   - flat
   - bold
+  - natural
 wikidata_description: fitness tracking app for iOS and Android
 wikidata_url: "https://www.wikidata.org/wiki/Q13884156"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

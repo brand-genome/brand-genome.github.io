@@ -2,7 +2,7 @@
 title: Garmin
 slug: garmin
 description: ""
-date: "2026-03-13T08:56:59.246244"
+date: "2026-03-13T09:22:53.118890"
 draft: false
 sectors:
   - electronics
@@ -51,17 +51,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - secondary
   - symbol
+  - secondary
+  - horizontal
 brand_colors:
-  - white
-  - red
-  - blue
-  - green
   - cyan
   - black
   - magenta
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - impact
 imagery_styles:
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

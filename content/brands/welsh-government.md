@@ -2,7 +2,7 @@
 title: Welsh Government
 slug: "welsh-government"
 description: ""
-date: "2026-03-13T08:56:59.423062"
+date: "2026-03-13T09:22:53.606960"
 draft: false
 sectors:
   - "public-sector"
@@ -52,18 +52,18 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
-  - white
   - black
+  - white
   - "pantone-1797"
 typographies:
-  - frutiger
   - display
+  - frutiger
   - arial
 imagery_styles:
-  - photography
   - portrait
-  - flat
+  - photography
   - landscape
+  - flat
 wikidata_description: the executive of the Senedd
 wikidata_url: "https://www.wikidata.org/wiki/Q3112646"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

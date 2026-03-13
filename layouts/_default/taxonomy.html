@@ -38,10 +38,20 @@
         <div class="visual-definition-right">
             <h3>Brand Collage</h3>
             <div class="mini-brand-collage">
+                {{ $taxonomy := .Data.Plural }}
+                {{ $termSlug := .Title | urlize }}
                 {{ range first 12 .Pages.ByTitle }}
                 <a href="{{ .Permalink }}" class="mini-thumb-link" title="{{ .Title }}">
-                    {{ if and .Params.sample_image_urls (gt (len .Params.sample_image_urls) 0) }}
-                    <img src="{{ index .Params.sample_image_urls 0 }}" alt="{{ .Title }} sample image" class="mini-thumb-img" loading="lazy" />
+                    {{ $termImageURLs := slice }}
+                    {{ with .Params.visual_term_image_urls }}
+                        {{ with index . $taxonomy }}
+                            {{ with index . $termSlug }}
+                                {{ $termImageURLs = . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if gt (len $termImageURLs) 0 }}
+                    <img src="{{ index $termImageURLs 0 }}" alt="{{ .Title }} sample image" class="mini-thumb-img" loading="lazy" />
                     {{ else }}
                     <span class="mini-thumb-fallback">{{ .Title }}</span>
                     {{ end }}

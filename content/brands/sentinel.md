@@ -2,11 +2,11 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-03-13T08:56:59.299354"
+date: "2026-03-13T09:22:53.289848"
 draft: false
 sectors:
-  - "consumer-goods"
   - utilities
+  - "consumer-goods"
 regions:
   - "united-kingdom"
 years:
@@ -57,8 +57,8 @@ brand_colors:
 typographies: []
 imagery_styles:
   - photography
-  - graphic
   - product
+  - graphic
   - clean
 wikidata_description: "Mutant-hunting robot in Marvel Comics"
 wikidata_url: "https://www.wikidata.org/wiki/Q782181"
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

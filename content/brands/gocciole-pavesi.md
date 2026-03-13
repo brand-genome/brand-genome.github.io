@@ -2,7 +2,7 @@
 title: Gocciole Pavesi
 slug: "gocciole-pavesi"
 description: ""
-date: "2026-03-13T08:56:59.197622"
+date: "2026-03-13T09:22:52.896055"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

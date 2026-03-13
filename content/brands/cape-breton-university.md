@@ -2,7 +2,7 @@
 title: Cape Breton University
 slug: "cape-breton-university"
 description: ""
-date: "2026-03-13T08:56:59.299494"
+date: "2026-03-13T09:22:53.290040"
 draft: false
 sectors:
   - education
@@ -53,18 +53,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - crest
   - logomark
+  - primary
   - symbol
+  - crest
 brand_colors:
   - "pantone-166"
 typographies: []
 imagery_styles:
   - natural
-  - landscape
-  - photography
   - vibrant
+  - photography
+  - landscape
   - bold
 wikidata_description: "university in Nova Scotia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q3551748"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

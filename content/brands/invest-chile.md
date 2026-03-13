@@ -2,11 +2,11 @@
 title: Invest Chile
 slug: "invest-chile"
 description: ""
-date: "2026-03-13T08:56:59.407126"
+date: "2026-03-13T09:22:53.517346"
 draft: false
 sectors:
-  - "public-sector"
   - consulting
+  - "public-sector"
 regions:
   - chile
 years:
@@ -48,24 +48,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
   - gray
+  - white
 typographies:
-  - lato
   - display
+  - lato
 imagery_styles:
-  - dynamic
-  - clean
   - static
-  - professional
   - monochrome
+  - clean
+  - dynamic
   - photography
-  - graphic
+  - professional
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

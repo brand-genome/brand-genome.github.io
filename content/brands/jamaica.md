@@ -2,7 +2,7 @@
 title: Jamaica
 slug: jamaica
 description: ""
-date: "2026-03-13T08:56:59.605791"
+date: "2026-03-13T09:22:54.568378"
 draft: false
 sectors:
   - "public-sector"
@@ -49,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - white
-  - grey
-  - blue
-  - pink
-  - yellow
   - purple
-  - green
+  - grey
+  - yellow
   - black
   - magenta
+  - pink
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
   - vibrant
-  - bold
   - photography
+  - bold
 wikidata_description: "town in Vermont, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q3450853"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

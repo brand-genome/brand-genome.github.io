@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-03-13T08:56:59.286294"
+date: "2026-03-13T09:22:53.270767"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
   - "commercial-vehicle"
   - "pickup-truck"
+  - truck
 products: []
 headquarters_locations:
   - "auburn-hills"
@@ -55,17 +55,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
-  - horizontal
   - badge
+  - horizontal
+  - vertical
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - product
-  - graphic
   - bold
+  - graphic
 wikidata_description: "American brand of light to mid-weight commercial vehicles"
 wikidata_url: "https://www.wikidata.org/wiki/Q165708"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -120,7 +121,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Auburn Hills](/headquarters_locations/auburn-hills/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Auburn Hills |

@@ -2,12 +2,12 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-03-13T08:56:59.431477"
+date: "2026-03-13T09:22:53.647465"
 draft: false
 sectors:
-  - hardware
   - electronics
   - software
+  - hardware
 regions:
   - china
 years:
@@ -35,10 +35,10 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - software
+  - "networking-hardware"
   - "computer-hardware"
   - "building-automation"
-  - "networking-hardware"
-  - software
 products: []
 headquarters_locations:
   - beijing
@@ -63,21 +63,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
   - orange
 typographies:
   - impact
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: Chinese electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q1636958"
 has_twitter: false
@@ -85,6 +85,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -145,7 +146,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Building Automation](/products_or_materials_produced/building-automation/) |
 | Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |

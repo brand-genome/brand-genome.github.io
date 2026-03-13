@@ -2,11 +2,11 @@
 title: Bakery Hours
 slug: "bakery-hours"
 description: ""
-date: "2026-03-13T08:56:59.547679"
+date: "2026-03-13T09:22:54.223812"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "student-work"
   - "food-beverage"
+  - "student-work"
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - brown
-  - white
-  - grey
-  - blue
-  - "pantone-7702"
   - "pantone-154"
+  - grey
+  - "pantone-7702"
   - black
+  - blue
+  - white
+  - brown
 typographies:
   - roboto
 imagery_styles:
   - photography
-  - product
   - modern
+  - product
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Auckland Council
 slug: "auckland-council"
 description: ""
-date: "2026-03-13T08:56:59.192343"
+date: "2026-03-13T09:22:52.883259"
 draft: false
 sectors:
-  - "public-sector"
   - utilities
+  - "public-sector"
 regions:
   - "new-zealand"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - featured
+  - regional
 industries: []
 countries:
   - "new-zealand"
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

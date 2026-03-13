@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-03-13T08:56:59.504552"
+date: "2026-03-13T09:22:53.963346"
 draft: false
 sectors:
   - automobile
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "sport-utility-vehicle"
   - "commercial-vehicle"
   - car
+  - "sport-utility-vehicle"
 products: []
 headquarters_locations:
   - minato
@@ -55,16 +55,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - red
-  - yellow
   - silver
-  - black
   - gray
+  - yellow
+  - black
   - magenta
+  - red
 typographies: []
 imagery_styles:
   - dynamic
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -114,7 +115,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:Mitsubishi Motors |

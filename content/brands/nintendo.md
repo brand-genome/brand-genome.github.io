@@ -2,7 +2,7 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-03-13T08:56:59.585699"
+date: "2026-03-13T09:22:54.418966"
 draft: false
 sectors:
   - gaming
@@ -31,14 +31,14 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - software
   - "video-game"
   - "video-game-console"
-  - software
 products: []
 headquarters_locations:
+  - "higashiyama-ku"
   - kyoto
   - "shimogyo-ku"
-  - "higashiyama-ku"
 subsidiaries: []
 foundation_dates:
   - 1889
@@ -64,15 +64,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
   - black
   - gray
+  - white
+  - red
 typographies: []
 imagery_styles:
-  - graphic
   - product
   - bold
+  - graphic
 wikidata_description: Japanese multinational video game and consumer electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q8093"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -126,8 +127,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Video Game](/products_or_materials_produced/video-game/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Kyoto](/headquarters_locations/kyoto/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/); [Higashiyama Ku](/headquarters_locations/higashiyama-ku/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Video Game](/products_or_materials_produced/video-game/); [Video Game Console](/products_or_materials_produced/video-game-console/) |
+| Headquarters Location | [Higashiyama Ku](/headquarters_locations/higashiyama-ku/); [Kyoto](/headquarters_locations/kyoto/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/) |
 | Foundation Date | [1889](/foundation_dates/1889/); [1947](/foundation_dates/1947/) |
 | Headquarters Location | Kyoto, Shimogyō-ku (from 1889, until 1959), Higashiyama-ku (from 1959, until 2000) |
 | Founded By | Fusajirō Yamauchi |

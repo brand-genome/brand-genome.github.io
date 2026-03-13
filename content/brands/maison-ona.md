@@ -2,7 +2,7 @@
 title: Maison ONA
 slug: "maison-ona"
 description: ""
-date: "2026-03-13T08:56:59.831730"
+date: "2026-03-13T09:22:55.033660"
 draft: false
 sectors:
   - publishing
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - edition
   - music
   - art
-  - edition
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,11 +54,11 @@ brand_colors:
   - white
   - blue
 typographies:
-  - futura
   - garamond
+  - futura
 imagery_styles:
-  - natural
   - contemporary
+  - natural
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

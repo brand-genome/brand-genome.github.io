@@ -2,7 +2,7 @@
 title: Hello Kitty
 slug: "hello-kitty"
 description: ""
-date: "2026-03-13T08:56:59.558435"
+date: "2026-03-13T09:22:54.329117"
 draft: false
 sectors:
   - "consumer-goods"
@@ -47,9 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - seal
   - symbol
+  - seal
+  - horizontal
 brand_colors: []
 typographies:
   - helvetica
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

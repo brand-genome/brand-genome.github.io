@@ -2,7 +2,7 @@
 title: SSB
 slug: ssb
 description: ""
-date: "2026-03-13T08:56:59.829372"
+date: "2026-03-13T09:22:55.029643"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - business
   - financial
+  - business
 industries:
   - "rail-transport"
 countries:
@@ -57,23 +57,23 @@ logo_elements:
   - alternate
   - secondary
 brand_colors:
-  - white
+  - silver
+  - gray
+  - black
+  - "pantone-541"
   - red
   - blue
-  - "pantone-541"
-  - silver
-  - black
-  - gray
+  - white
 typographies:
-  - arial
-  - helvetica
-  - akzidenz
   - times
+  - akzidenz
+  - helvetica
   - serif
+  - arial
 imagery_styles:
-  - graphic
   - clean
   - bold
+  - graphic
 wikidata_description: public transport operator in Germany
 wikidata_url: "https://www.wikidata.org/wiki/Q2359602"
 has_twitter: false
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

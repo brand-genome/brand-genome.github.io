@@ -2,13 +2,13 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-03-13T08:56:59.582169"
+date: "2026-03-13T09:22:54.412377"
 draft: false
 sectors:
-  - aerospace
-  - hardware
   - "space-technology"
   - automobile
+  - hardware
+  - aerospace
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - industry
+  - engineering
 industries:
   - "automotive-industry"
   - "aerospace-industry"
@@ -58,23 +58,23 @@ body_sections: []
 logo_elements:
   - icon
   - primary
-  - vertical
   - stacked
+  - vertical
   - horizontal
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - gold
   - silver
+  - yellow
   - black
+  - blue
+  - gold
+  - white
 typographies:
   - univers
 imagery_styles:
   - photography
-  - natural
   - professional
   - bold
+  - natural
 wikidata_description: British multinational automotive and aerospace company
 wikidata_url: "https://www.wikidata.org/wiki/Q597047"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

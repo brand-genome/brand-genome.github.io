@@ -2,7 +2,7 @@
 title: CitésLab
 slug: citeslab
 description: ""
-date: "2026-03-13T08:56:59.408423"
+date: "2026-03-13T09:22:53.518853"
 draft: false
 sectors:
   - "public-sector"
@@ -50,19 +50,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - "pantone-7433"
-  - "pantone-716"
   - "pantone-130"
   - black
   - "pantone-7635"
+  - white
+  - "pantone-716"
+  - "pantone-7433"
 typographies:
+  - arial
   - helvetica
   - impact
-  - arial
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

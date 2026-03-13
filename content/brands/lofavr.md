@@ -2,11 +2,11 @@
 title: LOfavør
 slug: lofavr
 description: ""
-date: "2026-03-13T08:56:59.515861"
+date: "2026-03-13T09:22:54.045275"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - norway
 years:
@@ -50,17 +50,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - grey
-  - blue
-  - yellow
-  - green
-  - orange
   - gray
+  - yellow
+  - grey
+  - orange
+  - red
+  - blue
+  - green
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - professional
   - bold
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

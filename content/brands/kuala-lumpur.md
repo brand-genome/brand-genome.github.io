@@ -2,7 +2,7 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-03-13T08:56:59.715297"
+date: "2026-03-13T09:22:54.723249"
 draft: false
 sectors:
   - "public-sector"
@@ -54,8 +54,8 @@ brand_colors:
   - black
   - pink
 typographies:
-  - roboto
   - script
+  - roboto
 imagery_styles:
   - bold
 wikidata_description: Federal territory and capital city of Malaysia
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-03-13T08:56:59.589194"
+date: "2026-03-13T09:22:54.423295"
 draft: false
 sectors:
   - automobile
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced:
   - bus
   - truck
-  - "passenger-car"
   - "commercial-vehicle"
+  - "passenger-car"
   - engine
 products: []
 headquarters_locations:
@@ -56,27 +56,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
-  - secondary
-  - primary
-  - vertical
-  - horizontal
   - wordmark
+  - primary
+  - emblem
+  - vertical
+  - secondary
+  - horizontal
 brand_colors:
-  - white
   - "pantone-877"
   - black
   - "pantone-282"
+  - white
 typographies:
   - arial
 imagery_styles:
+  - modern
   - natural
   - clean
   - portrait
-  - landscape
-  - modern
-  - photography
   - minimal
+  - photography
+  - landscape
   - gradient
   - graphic
 wikidata_description: "German automobile brand owned by Mercedes-Benz AG"
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -194,7 +195,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/) |
+| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Engine](/products_or_materials_produced/engine/) |
 | Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |

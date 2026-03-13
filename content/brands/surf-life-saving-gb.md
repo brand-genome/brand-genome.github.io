@@ -2,11 +2,11 @@
 title: Surf Life Saving GB
 slug: "surf-life-saving-gb"
 description: ""
-date: "2026-03-13T08:56:59.718523"
+date: "2026-03-13T09:22:54.728768"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -50,15 +50,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - blue
   - yellow
   - black
+  - red
+  - blue
+  - white
 typographies:
-  - impact
-  - display
   - arial
+  - display
+  - impact
 imagery_styles:
   - professional
 wikidata_description: ""
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Mopar
 slug: mopar
 description: ""
-date: "2026-03-13T08:56:59.583269"
+date: "2026-03-13T09:22:54.415730"
 draft: false
 sectors:
   - "e-commerce"
@@ -58,8 +58,8 @@ brand_colors:
   - white
   - blue
 typographies:
-  - script
   - arial
+  - script
 imagery_styles:
   - flat
   - bold
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

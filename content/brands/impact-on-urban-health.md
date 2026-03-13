@@ -2,12 +2,12 @@
 title: Impact on Urban Health
 slug: "impact-on-urban-health"
 description: ""
-date: "2026-03-13T08:56:59.372095"
+date: "2026-03-13T09:22:53.437795"
 draft: false
 sectors:
-  - ngo
   - research
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -54,20 +54,20 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - white
   - grey
   - yellow
-  - green
-  - black
   - orange
+  - black
   - teal
+  - green
+  - white
 typographies:
-  - impact
   - arial
+  - impact
 imagery_styles:
   - photography
-  - clean
   - modern
+  - clean
 wikidata_description: organisation focussed on urban health in the UK
 wikidata_url: "https://www.wikidata.org/wiki/Q114846899"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

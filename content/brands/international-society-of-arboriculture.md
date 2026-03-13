@@ -2,7 +2,7 @@
 title: International Society of Arboriculture
 slug: "international-society-of-arboriculture"
 description: ""
-date: "2026-03-13T08:56:59.887046"
+date: "2026-03-13T09:22:55.157618"
 draft: false
 sectors:
   - education
@@ -49,12 +49,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - garamond
-  - helvetica
   - "gill-sans"
+  - helvetica
 imagery_styles: []
 wikidata_description: "non-profit botanical organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q6053460"
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

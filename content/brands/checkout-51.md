@@ -2,11 +2,11 @@
 title: Checkout 51
 slug: "checkout-51"
 description: ""
-date: "2026-03-13T08:56:59.537319"
+date: "2026-03-13T09:22:54.192573"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "e-commerce"
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -48,25 +48,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
-  - lockup
-  - badge
   - vertical
+  - lockup
+  - secondary
+  - badge
 brand_colors:
-  - white
   - grey
+  - black
   - blue
   - green
-  - black
+  - white
 typographies:
   - avenir
   - impact
 imagery_styles:
+  - playful
   - photography
   - natural
   - clean
-  - playful
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

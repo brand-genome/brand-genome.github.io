@@ -2,7 +2,7 @@
 title: Shazam
 slug: shazam
 description: ""
-date: "2026-03-13T08:56:59.588580"
+date: "2026-03-13T09:22:54.422454"
 draft: false
 sectors:
   - software
@@ -51,19 +51,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies: []
 imagery_styles:
-  - graphic
   - product
   - bold
+  - graphic
 wikidata_description: music application
 wikidata_url: "https://www.wikidata.org/wiki/Q1195495"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

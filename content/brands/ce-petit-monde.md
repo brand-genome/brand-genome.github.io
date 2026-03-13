@@ -2,7 +2,7 @@
 title: Ce Petit Monde
 slug: "ce-petit-monde"
 description: ""
-date: "2026-03-13T08:56:59.834830"
+date: "2026-03-13T09:22:55.037096"
 draft: false
 sectors:
   - education
@@ -48,21 +48,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
   - yellow
-  - blue
+  - white
   - pink
+  - blue
 typographies:
-  - futura
   - helvetica
+  - futura
 imagery_styles:
-  - graphic
   - playful
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

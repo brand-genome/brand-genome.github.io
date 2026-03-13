@@ -2,7 +2,7 @@
 title: Symphonic
 slug: symphonic
 description: ""
-date: "2026-03-13T08:56:59.752063"
+date: "2026-03-13T09:22:54.794962"
 draft: false
 sectors:
   - software
@@ -51,21 +51,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
-  - "open-sans"
   - raleway
+  - "open-sans"
   - "sans-serif"
 imagery_styles:
-  - natural
-  - clean
+  - muted
   - contemporary
   - modern
-  - photography
-  - bold
+  - natural
   - lifestyle
-  - muted
+  - photography
+  - clean
+  - bold
 wikidata_description: "Russia's oldest symphony orchestra (est. 1882)"
 wikidata_url: "https://www.wikidata.org/wiki/Q1373970"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: UNIFEM
 slug: unifem
 description: ""
-date: "2026-03-13T08:56:59.294886"
+date: "2026-03-13T09:22:53.280597"
 draft: false
 sectors:
   - "public-sector"
@@ -50,16 +50,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
 brand_colors:
-  - "pantone-285"
-  - white
   - black
+  - white
+  - "pantone-285"
   - blue
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles: []
 wikidata_description: university in Sete Lagoas Brazil
 wikidata_url: "https://www.wikidata.org/wiki/Q29183581"
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,13 +2,13 @@
 title: Suncor
 slug: suncor
 description: ""
-date: "2026-03-13T08:56:59.332154"
+date: "2026-03-13T09:22:53.334351"
 draft: false
 sectors:
-  - petroleum
   - gas
-  - "petrol-station"
   - oil
+  - petroleum
+  - "petrol-station"
 regions:
   - canada
 years:
@@ -56,31 +56,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - gold
+  - gray
   - orange
   - black
-  - gray
+  - red
+  - blue
+  - gold
+  - white
 typographies:
-  - frutiger
   - arial
+  - frutiger
 imagery_styles:
   - natural
-  - dynamic
-  - portrait
-  - professional
-  - subtle
   - candid
-  - photography
   - gradient
+  - subtle
+  - portrait
+  - dynamic
+  - photography
+  - professional
   - bold
 wikidata_description: Canadian energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q1516410"
@@ -89,6 +89,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

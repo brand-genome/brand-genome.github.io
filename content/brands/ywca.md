@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-03-13T08:56:59.260949"
+date: "2026-03-13T09:22:53.248999"
 draft: false
 sectors:
   - ngo
@@ -51,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - alternate
-  - lockup
   - stacked
+  - lockup
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - "pantone-172"
   - black
   - gray
+  - "pantone-172"
+  - white
 typographies:
-  - "source-sans"
-  - avenir
   - display
   - arial
+  - "source-sans"
+  - avenir
 imagery_styles:
   - photography
   - candid
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

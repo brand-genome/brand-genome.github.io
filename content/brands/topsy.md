@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-03-13T08:56:59.249152"
+date: "2026-03-13T09:22:53.156867"
 draft: false
 sectors:
   - food
@@ -47,15 +47,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
   - blue
 typographies:
   - slab
 imagery_styles:
-  - product
   - dynamic
+  - product
 wikidata_description: song
 wikidata_url: "https://www.wikidata.org/wiki/Q7825177"
 has_twitter: false
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

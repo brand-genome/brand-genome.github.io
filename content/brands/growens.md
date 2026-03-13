@@ -2,11 +2,11 @@
 title: Growens
 slug: growens
 description: ""
-date: "2026-03-13T08:56:59.367110"
+date: "2026-03-13T09:22:53.433315"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - italy
 years:
@@ -48,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
   - logomark
+  - primary
   - secondary
+  - horizontal
 brand_colors:
-  - white
+  - gray
+  - black
   - red
   - blue
-  - black
-  - gray
+  - white
 typographies:
   - lato
   - montserrat
   - roboto
 imagery_styles:
-  - graphic
-  - modern
   - portrait
+  - modern
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: American Advertising Federation
 slug: "american-advertising-federation"
 description: ""
-date: "2026-03-13T08:56:59.381106"
+date: "2026-03-13T09:22:53.466400"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -52,23 +52,23 @@ body_sections: []
 logo_elements:
   - lettermark
   - primary
-  - wordmark
   - vertical
+  - wordmark
 brand_colors:
-  - white
-  - red
-  - pink
-  - blue
+  - gray
   - yellow
   - black
-  - gray
+  - pink
+  - red
+  - blue
+  - white
 typographies:
   - display
 imagery_styles:
   - minimal
-  - gradient
   - professional
   - bold
+  - gradient
 wikidata_description: U.S. trade association
 wikidata_url: "https://www.wikidata.org/wiki/Q4742924"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

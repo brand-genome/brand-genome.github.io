@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-03-13T08:56:59.194223"
+date: "2026-03-13T09:22:52.887171"
 draft: false
 sectors:
   - defense
-  - aerospace
   - satellite
+  - aerospace
 regions:
   - europe
 years:
@@ -34,23 +34,23 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "airbus-a220"
-  - aircraft
   - airplane
+  - "airbus-a310"
+  - aircraft
+  - "airbus-a340"
   - "airbus-a380"
+  - "airbus-a220"
+  - "airbus-a300"
+  - "airbus-a330"
   - "airbus-a320-family"
   - "airbus-a350"
-  - "airbus-a340"
-  - "airbus-a330"
-  - "airbus-a310"
-  - "airbus-a300"
 products: []
 headquarters_locations:
   - blagnac
 subsidiaries: []
 foundation_dates:
-  - 1970
   - 1969
+  - 1970
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +71,9 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
   - blue
 typographies:
   - arial
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -145,9 +146,9 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Airbus A220](/products_or_materials_produced/airbus-a220/); [Aircraft](/products_or_materials_produced/aircraft/); [Airplane](/products_or_materials_produced/airplane/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A300](/products_or_materials_produced/airbus-a300/) |
+| Product Or Material Produced | [Airplane](/products_or_materials_produced/airplane/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Aircraft](/products_or_materials_produced/aircraft/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Airbus A350](/products_or_materials_produced/airbus-a350/) |
 | Headquarters Location | [Blagnac](/headquarters_locations/blagnac/) |
-| Foundation Date | [1970](/foundation_dates/1970/); [1969](/foundation_dates/1969/) |
+| Foundation Date | [1969](/foundation_dates/1969/); [1970](/foundation_dates/1970/) |
 | Headquarters Location | Blagnac |
 | Chief Executive Officer | Tom Enders (from 2012, until 2019), Guillaume Faury (from 2019-04-10) |
 | Child Organization Or Unit | Airbus Transport International, Airbus Operations S.A.S., Airbus ProSky, Metron Aviation, Tarmac Aerosave (+5 more) |

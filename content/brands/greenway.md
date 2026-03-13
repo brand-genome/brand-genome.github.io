@@ -2,7 +2,7 @@
 title: Greenway
 slug: greenway
 description: ""
-date: "2026-03-13T08:56:59.548137"
+date: "2026-03-13T09:22:54.224462"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - signage
   - regional
+  - signage
 industries: []
 countries:
   - "united-states"
@@ -51,11 +51,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - grey
   - "pantone-430"
-  - green
+  - grey
   - "pantone-355"
+  - green
+  - white
 typographies:
   - arial
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

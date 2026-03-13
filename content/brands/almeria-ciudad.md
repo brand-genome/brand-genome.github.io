@@ -2,7 +2,7 @@
 title: Almería ciudad
 slug: "almeria-ciudad"
 description: ""
-date: "2026-03-13T08:56:59.035494"
+date: "2026-03-13T09:22:51.901426"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - spanish
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,16 +50,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-485"
-  - red
-  - white
   - yellow
-  - black
   - "pantone-123"
+  - black
+  - red
+  - "pantone-485"
+  - white
 typographies: []
 imagery_styles:
-  - contemporary
   - modern
+  - contemporary
   - monochrome
   - duotone
   - graphic
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

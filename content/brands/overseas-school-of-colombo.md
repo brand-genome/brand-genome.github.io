@@ -2,7 +2,7 @@
 title: Overseas School of Colombo
 slug: "overseas-school-of-colombo"
 description: ""
-date: "2026-03-13T08:56:59.269184"
+date: "2026-03-13T09:22:53.254176"
 draft: false
 sectors:
   - education
@@ -48,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
-  - din
-  - montserrat
-  - nunito
   - "open-sans"
+  - nunito
+  - montserrat
+  - din
 imagery_styles:
-  - graphic
   - clean
   - professional
   - bold
+  - graphic
 wikidata_description: "multinational English medium international school located in Colombo, Sri Lanka"
 wikidata_url: "https://www.wikidata.org/wiki/Q7113928"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

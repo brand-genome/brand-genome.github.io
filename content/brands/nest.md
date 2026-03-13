@@ -2,12 +2,12 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-03-13T08:56:59.722816"
+date: "2026-03-13T09:22:54.734519"
 draft: false
 sectors:
-  - hardware
-  - software
   - electronics
+  - software
+  - hardware
 regions:
   - usa
 years:
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "nest-thermostat"
-  - "nest-protect"
   - "nest-cam"
+  - "nest-protect"
+  - "nest-thermostat"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -56,15 +56,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
+  - vertical
   - secondary
   - badge
-  - vertical
   - horizontal
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies: []
 imagery_styles:
   - product
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -113,7 +114,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Nest Thermostat](/products_or_materials_produced/nest-thermostat/); [Nest Protect](/products_or_materials_produced/nest-protect/); [Nest Cam](/products_or_materials_produced/nest-cam/) |
+| Product Or Material Produced | [Nest Cam](/products_or_materials_produced/nest-cam/); [Nest Protect](/products_or_materials_produced/nest-protect/); [Nest Thermostat](/products_or_materials_produced/nest-thermostat/) |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Parent Organization Or Unit | Google, Alphabet Inc. |

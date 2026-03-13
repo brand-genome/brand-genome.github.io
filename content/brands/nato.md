@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-03-13T08:56:59.849937"
+date: "2026-03-13T09:22:55.085043"
 draft: false
 sectors:
   - entertainment
@@ -27,10 +27,10 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "city-of-brussels"
-  - "16th-arrondissement-of-paris"
-  - london
   - "chaillot-palace"
+  - "city-of-brussels"
+  - london
+  - "16th-arrondissement-of-paris"
 subsidiaries: []
 foundation_dates:
   - 1949
@@ -52,27 +52,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - secondary
+  - stacked
 brand_colors:
-  - "pantone-195"
-  - white
-  - red
-  - brown
-  - black
   - "pantone-201"
+  - "pantone-195"
   - "pantone-199"
+  - black
+  - red
+  - white
+  - brown
 typographies:
-  - gotham
-  - serif
   - display
+  - serif
+  - gotham
 imagery_styles:
   - contemporary
-  - static
   - photography
   - gradient
   - bold
+  - static
 wikidata_description: intergovernmental military alliance between 32 member states
 wikidata_url: "https://www.wikidata.org/wiki/Q7184"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -147,7 +148,7 @@ Ensure optimal font size in relation to chosen imagery for harmony.
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/); [London](/headquarters_locations/london/); [Chaillot Palace](/headquarters_locations/chaillot-palace/) |
+| Headquarters Location | [Chaillot Palace](/headquarters_locations/chaillot-palace/); [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Motto Text | Animus in consulendo liber |
 | Official Language | English, French |

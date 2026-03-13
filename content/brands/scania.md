@@ -2,11 +2,11 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-03-13T08:56:59.286612"
+date: "2026-03-13T09:22:53.271154"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
 regions:
   - sweden
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -34,10 +34,10 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
+  - "diesel-engine"
+  - "commercial-vehicle"
   - truck
   - coach
-  - "commercial-vehicle"
-  - "diesel-engine"
 products: []
 headquarters_locations:
   - sodertalje
@@ -62,17 +62,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
+  - wordmark
 brand_colors: []
 typographies:
   - arial
 imagery_styles:
+  - artificial
   - natural
   - realistic
   - monochrome
   - photography
-  - artificial
   - bold
 wikidata_description: Swedish truck and bus manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q219960"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -136,7 +137,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/) |
+| Product Or Material Produced | [Diesel Engine](/products_or_materials_produced/diesel-engine/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/) |
 | Headquarters Location | [Sodertalje](/headquarters_locations/sodertalje/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Topic'S Main Category | Category:Scania AB |

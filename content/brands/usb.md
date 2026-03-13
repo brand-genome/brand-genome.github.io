@@ -2,11 +2,11 @@
 title: USB
 slug: usb
 description: ""
-date: "2026-03-13T08:56:59.270841"
+date: "2026-03-13T09:22:53.256364"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - international
 years:
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - caracas
   - "vargas-state"
+  - caracas
 subsidiaries: []
 foundation_dates:
   - 1967
@@ -52,10 +52,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - red
   - black
-  - blue
   - gray
+  - red
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Caracas, Venezuela"
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -107,7 +108,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Caracas](/headquarters_locations/caracas/); [Vargas State](/headquarters_locations/vargas-state/) |
+| Headquarters Location | [Vargas State](/headquarters_locations/vargas-state/); [Caracas](/headquarters_locations/caracas/) |
 | Foundation Date | [1967](/foundation_dates/1967/) |
 | Freebase Id | /m/04fc47 |
 | Image | Biblioteca USB.JPG |

@@ -2,11 +2,11 @@
 title: EEP Africa
 slug: "eep-africa"
 description: ""
-date: "2026-03-13T08:56:59.129654"
+date: "2026-03-13T09:22:52.239357"
 draft: false
 sectors:
-  - "renewable-energy"
   - finance
+  - "renewable-energy"
 regions:
   - austria
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - environment
+  - financial
 industries: []
 countries: []
 revenue_buckets: []
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

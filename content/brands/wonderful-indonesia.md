@@ -2,7 +2,7 @@
 title: Wonderful Indonesia
 slug: "wonderful-indonesia"
 description: ""
-date: "2026-03-13T08:56:59.841555"
+date: "2026-03-13T09:22:55.047075"
 draft: false
 sectors:
   - "public-sector"
@@ -48,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
-  - pink
   - purple
-  - green
-  - orange
   - gray
+  - orange
+  - pink
+  - blue
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

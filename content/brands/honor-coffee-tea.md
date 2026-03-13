@@ -2,7 +2,7 @@
 title: "Honor Coffee & Tea"
 slug: "honor-coffee-tea"
 description: ""
-date: "2026-03-13T08:56:59.547951"
+date: "2026-03-13T09:22:54.224063"
 draft: false
 sectors:
   - drink
@@ -48,31 +48,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - lockup
-  - vertical
-  - crest
   - wordmark
-  - horizontal
+  - primary
+  - crest
+  - vertical
+  - lockup
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
+  - gray
+  - "pantone-289"
+  - black
+  - "pantone-872"
+  - "pantone-7626"
   - red
   - blue
-  - "pantone-289"
   - gold
-  - black
-  - gray
-  - "pantone-7626"
-  - "pantone-872"
+  - white
 typographies:
   - univers
 imagery_styles:
-  - subtle
-  - graphic
   - modern
+  - subtle
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

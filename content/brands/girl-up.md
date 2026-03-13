@@ -2,7 +2,7 @@
 title: Girl Up
 slug: "girl-up"
 description: ""
-date: "2026-03-13T08:56:59.566940"
+date: "2026-03-13T09:22:54.339544"
 draft: false
 sectors:
   - education
@@ -50,25 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - lockup
   - symbol
+  - lockup
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - blue
-  - pink
-  - yellow
   - purple
-  - green
+  - yellow
   - black
   - teal
+  - pink
+  - blue
+  - green
+  - white
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - photography
   - dynamic
+  - photography
   - bold
 wikidata_description: NGO
 wikidata_url: "https://www.wikidata.org/wiki/Q87103917"
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

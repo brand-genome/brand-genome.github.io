@@ -2,7 +2,7 @@
 title: Optile GmbH
 slug: "optile-gmbh"
 description: ""
-date: "2026-03-13T08:56:59.339212"
+date: "2026-03-13T09:22:53.343658"
 draft: false
 sectors:
   - software
@@ -57,8 +57,8 @@ brand_colors:
 typographies: []
 imagery_styles:
   - minimal
-  - gradient
   - colorful
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-03-13T08:56:59.808908"
+date: "2026-03-13T09:22:54.971747"
 draft: false
 sectors:
   - publishing
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - qatar
@@ -54,13 +54,13 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - din
   - display
+  - din
 imagery_styles:
-  - dynamic
   - contemporary
   - subtle
   - minimal
+  - dynamic
   - bold
 wikidata_description: Qatari international television channel
 wikidata_url: "https://www.wikidata.org/wiki/Q13477"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

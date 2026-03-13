@@ -2,11 +2,11 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-03-13T08:56:59.140997"
+date: "2026-03-13T09:22:52.311723"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - usa
@@ -56,26 +56,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
-  - wordmark
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
   - indigo
   - "pantone-7542"
-  - black
   - gray
   - crimson
+  - black
 typographies:
+  - arial
   - georgia
   - script
-  - arial
 imagery_styles:
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: "private university in Cambridge, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q13371"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

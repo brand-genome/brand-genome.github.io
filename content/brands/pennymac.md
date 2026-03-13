@@ -2,11 +2,11 @@
 title: PennyMac
 slug: pennymac
 description: ""
-date: "2026-03-13T08:56:59.270503"
+date: "2026-03-13T09:22:53.255833"
 draft: false
 sectors:
-  - "real-estate"
   - finance
+  - "real-estate"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "real-estate"
   - financial
+  - "real-estate"
 industries:
   - "mortgage-loan"
 countries: []
@@ -55,11 +55,11 @@ logo_elements:
   - primary
   - lockup
 brand_colors:
-  - white
-  - blue
-  - yellow
   - cyan
+  - yellow
   - black
+  - blue
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: American residential mortgage company
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

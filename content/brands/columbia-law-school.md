@@ -2,7 +2,7 @@
 title: Columbia Law School
 slug: "columbia-law-school"
 description: ""
-date: "2026-03-13T08:56:59.740137"
+date: "2026-03-13T09:22:54.767094"
 draft: false
 sectors:
   - university
@@ -49,28 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - secondary
+  - stacked
 brand_colors:
-  - white
-  - blue
-  - gold
-  - black
   - gray
   - crimson
+  - black
+  - blue
+  - gold
+  - white
 typographies:
   - arial
-  - "century-gothic"
   - nunito
-  - times
   - serif
+  - times
+  - "century-gothic"
   - impact
 imagery_styles:
   - natural
-  - staged
-  - photography
   - candid
+  - staged
   - vibrant
+  - photography
 wikidata_description: law school of Columbia University
 wikidata_url: "https://www.wikidata.org/wiki/Q1149089"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

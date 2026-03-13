@@ -2,11 +2,11 @@
 title: Paab
 slug: paab
 description: ""
-date: "2026-03-13T08:56:59.371143"
+date: "2026-03-13T09:22:53.436601"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - canada
 years:
@@ -51,18 +51,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - "pantone-185"
+  - "pantone-325"
+  - "pantone-1815"
   - navy
+  - "pantone-185"
+  - "pantone-7621"
+  - black
+  - "pantone-380"
+  - "pantone-7683"
   - blue
   - "pantone-2755"
-  - "pantone-7683"
-  - "pantone-380"
   - green
-  - "pantone-325"
-  - black
-  - "pantone-7621"
-  - "pantone-1815"
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

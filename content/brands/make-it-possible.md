@@ -2,11 +2,11 @@
 title: Make it Possible
 slug: "make-it-possible"
 description: ""
-date: "2026-03-13T08:56:59.562835"
+date: "2026-03-13T09:22:54.334325"
 draft: false
 sectors:
-  - "marketing-advertising"
   - electronics
+  - "marketing-advertising"
 regions:
   - china
 years:
@@ -49,9 +49,9 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - frutiger
 imagery_styles: []
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

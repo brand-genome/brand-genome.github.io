@@ -2,7 +2,7 @@
 title: ATNS
 slug: atns
 description: ""
-date: "2026-03-13T08:56:59.807789"
+date: "2026-03-13T09:22:54.970455"
 draft: false
 sectors:
   - "public-sector"
@@ -49,30 +49,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
-  - horizontal
   - secondary
+  - stacked
+  - horizontal
 brand_colors:
-  - grey
   - "pantone-307"
-  - blue
-  - "pantone-200"
-  - "pantone-7546"
-  - "pantone-294"
-  - "pantone-2945"
   - "pantone-430"
   - "pantone-136"
-  - black
+  - "pantone-200"
+  - grey
   - gray
+  - "pantone-7546"
+  - black
+  - "pantone-294"
+  - blue
+  - "pantone-2945"
 typographies:
+  - arial
   - din
   - impact
-  - arial
 imagery_styles:
-  - product
   - portrait
   - landscape
+  - product
 wikidata_description: college affiliated to the Sri Venkateswara University
 wikidata_url: "https://www.wikidata.org/wiki/Q92184228"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

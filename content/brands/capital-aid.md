@@ -2,7 +2,7 @@
 title: Capital Aid
 slug: "capital-aid"
 description: ""
-date: "2026-03-13T08:56:59.277669"
+date: "2026-03-13T09:22:53.260374"
 draft: false
 sectors:
   - finance
@@ -50,21 +50,21 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - purple
   - black
+  - purple
+  - white
   - blue
 typographies:
   - "sans-serif"
 imagery_styles:
-  - staged
-  - clean
   - modern
-  - professional
-  - photography
-  - gradient
-  - bold
   - geometric
+  - staged
+  - gradient
+  - clean
+  - photography
+  - professional
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

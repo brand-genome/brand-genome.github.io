@@ -2,7 +2,7 @@
 title: "Al-Hilal Saudi Football Club"
 slug: "al-hilal-saudi-football-club"
 description: ""
-date: "2026-03-13T08:56:59.104174"
+date: "2026-03-13T09:22:52.187259"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,8 +50,8 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - blue
   - gray
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

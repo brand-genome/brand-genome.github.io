@@ -2,7 +2,7 @@
 title: The Weather Channel
 slug: "the-weather-channel"
 description: ""
-date: "2026-03-13T08:56:59.500371"
+date: "2026-03-13T09:22:53.938739"
 draft: false
 sectors:
   - broadcasting
@@ -51,21 +51,21 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - white
-  - yellow
   - black
+  - yellow
+  - white
   - blue
 typographies:
+  - arial
   - helvetica
   - verdana
   - impact
-  - arial
 imagery_styles:
   - natural
   - staged
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: TV channel
 wikidata_url: "https://www.wikidata.org/wiki/Q782293"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

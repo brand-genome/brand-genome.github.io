@@ -2,7 +2,7 @@
 title: Salesiana
 slug: salesiana
 description: ""
-date: "2026-03-13T08:56:59.411844"
+date: "2026-03-13T09:22:53.540466"
 draft: false
 sectors:
   - education
@@ -49,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - seal
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - "pantone-281"
-  - gold
-  - "pantone-8402"
-  - "pantone-130"
   - silver
-  - black
+  - "pantone-281"
   - gray
+  - "pantone-8402"
+  - yellow
+  - "pantone-130"
+  - black
+  - blue
+  - gold
+  - white
 typographies:
   - "gill-sans"
 imagery_styles:
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

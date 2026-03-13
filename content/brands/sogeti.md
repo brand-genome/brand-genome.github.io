@@ -2,7 +2,7 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-03-13T08:56:59.830980"
+date: "2026-03-13T09:22:55.032685"
 draft: false
 sectors:
   - consulting
@@ -17,8 +17,8 @@ tags:
   - technology
 industries: []
 countries:
-  - france
   - sweden
+  - france
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,9 +52,9 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies: []
 imagery_styles: []
 wikidata_description: reestablishment of the brand by Capgemini in 2002
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

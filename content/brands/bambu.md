@@ -2,7 +2,7 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-03-13T08:56:59.315600"
+date: "2026-03-13T09:22:53.320275"
 draft: false
 sectors:
   - software
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

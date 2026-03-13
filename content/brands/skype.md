@@ -2,20 +2,20 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-03-13T08:56:59.823654"
+date: "2026-03-13T09:22:55.008361"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2005
   - 2007
+  - 2005
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,27 +52,27 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - cyan
+  - purple
+  - gray
+  - yellow
+  - "pantone-151"
+  - "pantone-376"
+  - orange
+  - blue
+  - green
   - white
   - "pantone-116"
-  - blue
-  - yellow
-  - purple
-  - green
-  - cyan
-  - orange
-  - "pantone-151"
-  - gray
-  - "pantone-376"
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - natural
-  - photography
   - subtle
   - vibrant
-  - graphic
+  - photography
   - bold
+  - graphic
 wikidata_description: former telecommunications software service
 wikidata_url: "https://www.wikidata.org/wiki/Q40984"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

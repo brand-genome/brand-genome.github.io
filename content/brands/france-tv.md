@@ -2,7 +2,7 @@
 title: France TV
 slug: "france-tv"
 description: ""
-date: "2026-03-13T08:56:59.822524"
+date: "2026-03-13T09:22:55.004402"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries:
   - "public-broadcasting"
   - unknown
@@ -29,10 +29,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - radio
-  - television
   - "audiovisual-production"
+  - radio
   - advertising
+  - television
 products: []
 headquarters_locations:
   - paris
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -88,7 +89,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Radio](/products_or_materials_produced/radio/); [Television](/products_or_materials_produced/television/); [Audiovisual Production](/products_or_materials_produced/audiovisual-production/); [Advertising](/products_or_materials_produced/advertising/) |
+| Product Or Material Produced | [Audiovisual Production](/products_or_materials_produced/audiovisual-production/); [Radio](/products_or_materials_produced/radio/); [Advertising](/products_or_materials_produced/advertising/); [Television](/products_or_materials_produced/television/) |
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [1992](/foundation_dates/1992/); [2000](/foundation_dates/2000/) |
 | Topic'S Main Category | Category:France Télévisions |

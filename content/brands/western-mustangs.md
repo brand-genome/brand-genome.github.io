@@ -2,11 +2,11 @@
 title: Western Mustangs
 slug: "western-mustangs"
 description: ""
-date: "2026-03-13T08:56:59.714851"
+date: "2026-03-13T09:22:54.722359"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries:
   - canada
@@ -51,18 +51,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
-  - blue
-  - yellow
-  - green
   - cyan
+  - yellow
   - black
   - magenta
+  - red
+  - blue
+  - green
 typographies:
   - display
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: athletic program of the University of Western Ontario
 wikidata_url: "https://www.wikidata.org/wiki/Q7988133"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

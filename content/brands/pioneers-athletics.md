@@ -2,7 +2,7 @@
 title: Pioneers Athletics
 slug: "pioneers-athletics"
 description: ""
-date: "2026-03-13T08:56:59.441687"
+date: "2026-03-13T09:22:53.664141"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - red
-  - "pantone-2728"
-  - blue
-  - "pantone-2347"
   - "pantone-655"
   - silver
-  - orange
+  - "pantone-2728"
   - gray
+  - orange
+  - "pantone-2347"
+  - red
+  - blue
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

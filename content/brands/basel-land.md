@@ -2,7 +2,7 @@
 title: Basel Land
 slug: "basel-land"
 description: ""
-date: "2026-03-13T08:56:59.231091"
+date: "2026-03-13T09:22:53.077271"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,14 +47,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
-  - red
-  - black
-  - gray
   - "pantone-1795"
+  - gray
+  - black
+  - red
+  - white
 typographies:
   - univers
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

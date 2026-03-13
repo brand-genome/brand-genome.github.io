@@ -2,7 +2,7 @@
 title: NAF
 slug: naf
 description: ""
-date: "2026-03-13T08:56:59.524262"
+date: "2026-03-13T09:22:54.077271"
 draft: false
 sectors:
   - education
@@ -50,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
 brand_colors:
-  - white
-  - green
   - black
+  - green
+  - white
 typographies:
   - din
 imagery_styles:
-  - professional
-  - minimal
   - gradient
-  - graphic
+  - minimal
+  - professional
   - bold
+  - graphic
 wikidata_description: "Non-profit private pontifical university in Pamplona, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q926068"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

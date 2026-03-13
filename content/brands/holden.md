@@ -2,7 +2,7 @@
 title: Holden
 slug: holden
 description: ""
-date: "2026-03-13T08:56:59.604214"
+date: "2026-03-13T09:22:54.567525"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

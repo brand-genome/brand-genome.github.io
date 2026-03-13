@@ -2,7 +2,7 @@
 title: Public Broadcasting Service
 slug: "public-broadcasting-service"
 description: ""
-date: "2026-03-13T08:56:59.543641"
+date: "2026-03-13T09:22:54.218709"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -56,14 +56,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - arial
 imagery_styles:
-  - staged
   - clean
+  - staged
 wikidata_description: American public broadcaster and television network
 wikidata_url: "https://www.wikidata.org/wiki/Q215616"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

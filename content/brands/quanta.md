@@ -2,7 +2,7 @@
 title: Quanta
 slug: quanta
 description: ""
-date: "2026-03-13T08:56:59.584750"
+date: "2026-03-13T09:22:54.417821"
 draft: false
 sectors:
   - construction
@@ -30,13 +30,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - laptop
-  - "computer-hardware"
   - server
+  - "computer-hardware"
+  - laptop
 products: []
 headquarters_locations:
-  - "taoyuan-district"
   - taipei
+  - "taoyuan-district"
 subsidiaries: []
 foundation_dates:
   - 1988
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -88,8 +89,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/) |
-| Headquarters Location | [Taoyuan District](/headquarters_locations/taoyuan-district/); [Taipei](/headquarters_locations/taipei/) |
+| Product Or Material Produced | [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Laptop](/products_or_materials_produced/laptop/) |
+| Headquarters Location | [Taipei](/headquarters_locations/taipei/); [Taoyuan District](/headquarters_locations/taoyuan-district/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Headquarters Location | Taoyuan District, Taipei |
 | Freebase Id | /m/02wz02 |

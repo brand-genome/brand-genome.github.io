@@ -2,7 +2,7 @@
 title: AppOnBoard
 slug: apponboard
 description: ""
-date: "2026-03-13T08:56:59.718632"
+date: "2026-03-13T09:22:54.729395"
 draft: false
 sectors:
   - software
@@ -46,29 +46,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - "pantone-427"
-  - white
-  - grey
-  - "pantone-915"
-  - blue
-  - pink
   - purple
-  - green
+  - grey
+  - "pantone-427"
   - "pantone-3245"
+  - pink
+  - blue
+  - "pantone-915"
+  - green
+  - white
 typographies:
   - "source-sans"
 imagery_styles:
   - natural
+  - candid
   - staged
   - clean
   - photography
-  - candid
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

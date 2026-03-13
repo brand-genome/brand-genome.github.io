@@ -2,11 +2,11 @@
 title: London Bridge Revealed
 slug: "london-bridge-revealed"
 description: ""
-date: "2026-03-13T08:56:59.482182"
+date: "2026-03-13T09:22:53.758984"
 draft: false
 sectors:
-  - tourism
   - "public-relations"
+  - tourism
 regions:
   - "united-kingdom"
 years:
@@ -50,11 +50,11 @@ logo_elements:
   - primary
   - abstract
 brand_colors:
-  - white
   - grey
+  - orange
   - blue
   - green
-  - orange
+  - white
 typographies: []
 imagery_styles:
   - modern
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

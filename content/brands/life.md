@@ -2,7 +2,7 @@
 title: Life
 slug: life
 description: ""
-date: "2026-03-13T08:56:59.468001"
+date: "2026-03-13T09:22:53.711653"
 draft: false
 sectors:
   - publishing
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - magazine
-  - media
   - featured
+  - media
+  - magazine
 industries:
   - conglomerate
 countries:
@@ -58,15 +58,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies: []
 imagery_styles:
-  - photography
   - minimal
-  - clean
+  - photography
   - bold
+  - clean
 wikidata_description: South Korean multinational conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q136778"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

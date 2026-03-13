@@ -2,7 +2,7 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-03-13T08:56:59.213614"
+date: "2026-03-13T09:22:53.022954"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2017
   - 2008
+  - 2017
 languages:
   - english
 tags:
@@ -53,14 +53,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - serif
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "multi-campus public research university in New Jersey, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q499451"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

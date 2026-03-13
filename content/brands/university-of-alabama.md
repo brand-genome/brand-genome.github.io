@@ -2,7 +2,7 @@
 title: University of Alabama
 slug: "university-of-alabama"
 description: ""
-date: "2026-03-13T08:56:59.429538"
+date: "2026-03-13T09:22:53.644695"
 draft: false
 sectors:
   - university
@@ -54,17 +54,17 @@ logo_elements:
   - primary
   - wordmark
 brand_colors:
-  - white
-  - gray
+  - "pantone-201"
   - "pantone-430"
   - silver
-  - black
-  - "pantone-201"
+  - gray
   - crimson
+  - black
+  - white
 typographies:
   - serif
-  - script
   - "sans-serif"
+  - script
 imagery_styles: []
 wikidata_description: "public university located in Tuscaloosa, Alabama, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q492318"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

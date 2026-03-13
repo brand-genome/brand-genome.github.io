@@ -2,7 +2,7 @@
 title: Sofigate
 slug: sofigate
 description: ""
-date: "2026-03-13T08:56:59.506709"
+date: "2026-03-13T09:22:53.965928"
 draft: false
 sectors:
   - consulting
@@ -50,19 +50,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - black
+  - red
+  - blue
+  - white
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
-  - natural
-  - graphic
-  - bold
   - landscape
+  - natural
+  - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11893964"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

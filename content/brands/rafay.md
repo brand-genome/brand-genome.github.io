@@ -2,7 +2,7 @@
 title: Rafay
 slug: rafay
 description: ""
-date: "2026-03-13T08:56:59.333192"
+date: "2026-03-13T09:22:53.335653"
 draft: false
 sectors:
   - software
@@ -46,23 +46,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
   - signature
 brand_colors:
-  - "pantone-2348"
-  - white
-  - red
-  - blue
-  - "pantone-3275"
-  - "pantone-289"
-  - "pantone-296"
-  - green
-  - "pantone-2217"
-  - black
   - "pantone-2182"
+  - "pantone-2217"
+  - "pantone-289"
+  - black
+  - white
   - "pantone-2244"
+  - "pantone-3275"
+  - blue
+  - "pantone-2348"
+  - red
+  - green
+  - "pantone-296"
 typographies:
   - helvetica
 imagery_styles:
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

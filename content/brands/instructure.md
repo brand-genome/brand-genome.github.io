@@ -2,11 +2,11 @@
 title: Instructure
 slug: instructure
 description: ""
-date: "2026-03-13T08:56:59.377112"
+date: "2026-03-13T09:22:53.443425"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - education
   - corporate
 industries:
-  - "software-industry"
   - "educational-technology"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -55,17 +55,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
-  - white
+  - orange
+  - black
   - red
   - blue
-  - black
-  - orange
+  - white
 typographies:
-  - serif
   - "proxima-nova"
+  - serif
   - arial
 imagery_styles:
   - photography
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

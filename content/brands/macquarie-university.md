@@ -2,7 +2,7 @@
 title: Macquarie University
 slug: "macquarie-university"
 description: ""
-date: "2026-03-13T08:56:59.460753"
+date: "2026-03-13T09:22:53.702336"
 draft: false
 sectors:
   - education
@@ -50,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
   - primary
   - horizontal
+  - vertical
   - symbol
 brand_colors:
-  - "pantone-1807"
-  - red
   - black
+  - red
+  - "pantone-1807"
 typographies:
   - serif
 imagery_styles:
   - photography
-  - gradient
   - modern
+  - gradient
   - bold
 wikidata_description: "university in Sydney, New South Wales"
 wikidata_url: "https://www.wikidata.org/wiki/Q741082"
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

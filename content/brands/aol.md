@@ -2,11 +2,11 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-03-13T08:56:59.503816"
+date: "2026-03-13T09:22:53.961882"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - internet
   - featured
+  - internet
 industries:
-  - "media-industry"
-  - "software-industry"
-  - "technology-industry"
   - "mass-media"
+  - "technology-industry"
+  - "media-industry"
   - "internet-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -39,8 +39,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1985
   - 1983
+  - 1985
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,16 +61,16 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - white
-  - red
-  - grey
-  - pink
   - cyan
-  - black
+  - grey
   - orange
+  - black
+  - pink
+  - red
+  - white
 typographies:
-  - din
   - arial
+  - din
 imagery_styles: []
 wikidata_description: American web portal and online service provider
 wikidata_url: "https://www.wikidata.org/wiki/Q27585"
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -126,7 +127,7 @@ sample_image_urls: []
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1985](/foundation_dates/1985/); [1983](/foundation_dates/1983/) |
+| Foundation Date | [1983](/foundation_dates/1983/); [1985](/foundation_dates/1985/) |
 | Topic'S Main Category | Category:AOL |
 | Freebase Id | /m/0plw |
 | Headquarters Location | New York City |

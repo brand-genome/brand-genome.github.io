@@ -2,7 +2,7 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-03-13T08:56:59.585355"
+date: "2026-03-13T09:22:54.418519"
 draft: false
 sectors:
   - publishing
@@ -37,8 +37,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1873
   - 1917
+  - 1873
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,16 +60,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
   - black
   - green
+  - white
+  - red
 typographies:
   - serif
   - display
 imagery_styles:
-  - photography
   - minimal
+  - photography
   - bold
 wikidata_description: American book retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q795454"
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -133,7 +134,7 @@ sample_image_urls: []
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1873](/foundation_dates/1873/); [1917](/foundation_dates/1917/) |
+| Foundation Date | [1917](/foundation_dates/1917/); [1873](/foundation_dates/1873/) |
 | Stock Exchange | New York Stock Exchange |
 | Topic'S Main Category | Category:Barnes & Noble |
 | Headquarters Location | New York City |

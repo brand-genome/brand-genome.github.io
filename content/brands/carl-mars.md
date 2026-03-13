@@ -2,7 +2,7 @@
 title: Carl Mars
 slug: "carl-mars"
 description: ""
-date: "2026-03-13T08:56:59.171071"
+date: "2026-03-13T09:22:52.814965"
 draft: false
 sectors:
   - "arts-culture"
@@ -51,15 +51,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - blue
-  - "pantone-1785"
   - gray
   - "pantone-2738"
+  - blue
+  - "pantone-1785"
+  - white
 typographies:
   - "open-sans"
-  - avenir
   - nunito
+  - avenir
 imagery_styles:
   - bold
 wikidata_description: "organization in Columbus, United States"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Ikan
 slug: ikan
 description: ""
-date: "2026-03-13T08:56:59.150955"
+date: "2026-03-13T09:22:52.324179"
 draft: false
 sectors:
   - "staffing-recruitment"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "human-ressources"
   - featured
+  - "human-ressources"
 industries:
   - "food-industry"
   - "consumer-goods-industry"
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

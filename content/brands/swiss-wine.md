@@ -2,7 +2,7 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-03-13T08:56:59.439458"
+date: "2026-03-13T09:22:53.662182"
 draft: false
 sectors:
   - drink
@@ -51,12 +51,12 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
+  - "pantone-411"
+  - grey
+  - black
   - white
   - red
-  - grey
   - "pantone-1805"
-  - "pantone-411"
-  - black
 typographies: []
 imagery_styles:
   - bold
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

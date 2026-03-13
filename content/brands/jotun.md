@@ -2,11 +2,11 @@
 title: Jotun
 slug: jotun
 description: ""
-date: "2026-03-13T08:56:59.292327"
+date: "2026-03-13T09:22:53.278136"
 draft: false
 sectors:
-  - "consumer-goods"
   - construction
+  - "consumer-goods"
 regions:
   - norway
 years:
@@ -56,8 +56,8 @@ logo_elements: []
 brand_colors: []
 typographies:
   - frutiger
-  - verdana
   - times
+  - verdana
 imagery_styles:
   - product
 wikidata_description: Norwegian chemicals company
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

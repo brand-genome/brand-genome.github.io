@@ -2,15 +2,15 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-03-13T08:56:59.429816"
+date: "2026-03-13T09:22:53.645035"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2019
   - 2020
+  - 2019
 languages:
   - english
 tags:
@@ -49,19 +49,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - vertical
   - symbol
+  - primary
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
+  - yellow
+  - black
   - red
   - blue
-  - yellow
   - green
-  - black
+  - white
 typographies:
   - "proxima-nova"
 imagery_styles:
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

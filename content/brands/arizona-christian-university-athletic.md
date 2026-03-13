@@ -2,11 +2,11 @@
 title: Arizona Christian University Athletic
 slug: "arizona-christian-university-athletic"
 description: ""
-date: "2026-03-13T08:56:59.314404"
+date: "2026-03-13T09:22:53.318487"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -52,10 +52,10 @@ logo_elements:
   - primary
   - wordmark
 brand_colors:
-  - red
+  - black
   - grey
   - yellow
-  - black
+  - red
 typographies:
   - "proxima-nova"
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

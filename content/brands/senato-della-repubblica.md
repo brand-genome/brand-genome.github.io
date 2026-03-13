@@ -2,7 +2,7 @@
 title: Senato della Repubblica
 slug: "senato-della-repubblica"
 description: ""
-date: "2026-03-13T08:56:59.036115"
+date: "2026-03-13T09:22:51.902148"
 draft: false
 sectors:
   - "public-sector"
@@ -49,11 +49,11 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - "pantone-193"
-  - red
   - "pantone-647"
-  - "pantone-644"
   - "pantone-1955"
+  - red
+  - "pantone-193"
+  - "pantone-644"
 typographies: []
 imagery_styles:
   - bold
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

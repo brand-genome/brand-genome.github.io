@@ -2,7 +2,7 @@
 title: Feed The Future
 slug: "feed-the-future"
 description: ""
-date: "2026-03-13T08:56:59.853359"
+date: "2026-03-13T09:22:55.088316"
 draft: false
 sectors:
   - "public-sector"
@@ -47,30 +47,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - vertical
-  - horizontal
+  - secondary
   - seal
+  - horizontal
 brand_colors:
-  - white
-  - blue
-  - "pantone-7413"
-  - "pantone-7459"
-  - green
-  - black
   - "pantone-7495"
+  - "pantone-7459"
   - orange
+  - "pantone-7413"
+  - black
+  - blue
+  - green
+  - white
 typographies:
-  - arial
+  - times
   - garamond
   - "gill-sans"
-  - times
   - serif
+  - arial
 imagery_styles:
-  - graphic
-  - bold
   - muted
+  - bold
+  - graphic
 wikidata_description: program of the United States federal government
 wikidata_url: "https://www.wikidata.org/wiki/Q16838167"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

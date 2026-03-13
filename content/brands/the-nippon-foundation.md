@@ -2,7 +2,7 @@
 title: The Nippon Foundation
 slug: "the-nippon-foundation"
 description: ""
-date: "2026-03-13T08:56:59.542065"
+date: "2026-03-13T09:22:54.216889"
 draft: false
 sectors:
   - ngo
@@ -53,8 +53,8 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
   - green
+  - white
 typographies: []
 imagery_styles:
   - portrait
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

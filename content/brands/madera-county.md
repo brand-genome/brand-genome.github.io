@@ -2,7 +2,7 @@
 title: Madera County
 slug: "madera-county"
 description: ""
-date: "2026-03-13T08:56:59.593400"
+date: "2026-03-13T09:22:54.554412"
 draft: false
 sectors:
   - "public-sector"
@@ -48,20 +48,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
-  - white
-  - "pantone-1235"
-  - "pantone-165"
-  - "pantone-2965"
   - "pantone-299"
-  - "pantone-2945"
+  - "pantone-165"
+  - "pantone-1235"
+  - "pantone-2965"
   - "pantone-354"
+  - "pantone-2945"
+  - white
   - "pantone-428"
 typographies:
-  - impact
   - arial
+  - impact
 imagery_styles:
   - professional
   - bold
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

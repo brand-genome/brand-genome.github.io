@@ -2,7 +2,7 @@
 title: Havis
 slug: havis
 description: ""
-date: "2026-03-13T08:56:59.384801"
+date: "2026-03-13T09:22:53.468505"
 draft: false
 sectors:
   - hardware
@@ -50,16 +50,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
+  - gray
+  - orange
+  - black
   - red
   - blue
-  - black
-  - orange
-  - gray
+  - white
 typographies:
   - serif
-  - display
   - arial
+  - display
 imagery_styles:
   - dynamic
   - product
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

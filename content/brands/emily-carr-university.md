@@ -2,7 +2,7 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-03-13T08:56:59.794587"
+date: "2026-03-13T09:22:54.825709"
 draft: false
 sectors:
   - education
@@ -53,19 +53,19 @@ body_sections: []
 logo_elements:
   - stacked
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
-  - "pantone-4625"
-  - white
-  - "pantone-7546"
-  - "pantone-8423"
-  - "pantone-422"
   - silver
-  - black
-  - "pantone-305"
-  - "pantone-8420"
   - "pantone-3955"
+  - "pantone-7546"
+  - "pantone-4625"
+  - "pantone-422"
+  - black
+  - "pantone-8423"
+  - "pantone-8420"
+  - white
+  - "pantone-305"
 typographies:
   - arial
 imagery_styles:
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

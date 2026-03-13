@@ -2,11 +2,11 @@
 title: Frog
 slug: frog
 description: ""
-date: "2026-03-13T08:56:59.528798"
+date: "2026-03-13T09:22:54.132805"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - "united-kingdom"
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - education
 industries:
+  - "experience-design"
   - "business-and-other-management-consultancy-activities"
-  - "software-industry"
-  - "service-design"
   - "interaction-design"
   - "industrial-design"
-  - "experience-design"
+  - "software-industry"
+  - "service-design"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -58,21 +58,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - blue
-  - "pantone-2597"
-  - "pantone-801"
   - "pantone-300"
-  - "pantone-2768"
   - purple
+  - "pantone-2768"
+  - "pantone-801"
+  - blue
+  - white
+  - "pantone-2597"
 typographies:
-  - verdana
   - raleway
+  - verdana
   - impact
 imagery_styles:
-  - product
-  - illustration
   - playful
+  - illustration
+  - product
   - bold
 wikidata_description: global creative consultancy
 wikidata_url: "https://www.wikidata.org/wiki/Q289314"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

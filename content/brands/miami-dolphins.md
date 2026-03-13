@@ -2,7 +2,7 @@
 title: Miami Dolphins
 slug: "miami-dolphins"
 description: ""
-date: "2026-03-13T08:56:59.305393"
+date: "2026-03-13T09:22:53.299961"
 draft: false
 sectors:
   - sports
@@ -50,20 +50,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
 brand_colors:
-  - white
   - "pantone-321"
-  - black
-  - "pantone-1655"
   - orange
+  - "pantone-1655"
+  - black
+  - white
 typographies:
   - avenir
 imagery_styles:
-  - graphic
   - clean
   - bold
+  - graphic
 wikidata_description: "National Football League franchise in Miami, Florida"
 wikidata_url: "https://www.wikidata.org/wiki/Q223243"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

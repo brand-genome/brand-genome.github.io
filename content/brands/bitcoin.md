@@ -2,7 +2,7 @@
 title: Bitcoin
 slug: bitcoin
 description: ""
-date: "2026-03-13T08:56:59.884436"
+date: "2026-03-13T09:22:55.154993"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
+  - featured
+  - corporate
   - internet
   - financial
-  - corporate
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -53,17 +53,17 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - white
+  - gray
   - yellow
-  - gold
   - orange
   - black
-  - gray
+  - gold
+  - white
 typographies: []
 imagery_styles:
+  - classic
   - photography
   - gradient
-  - classic
   - bold
 wikidata_description: digital cash system and associated currency
 wikidata_url: "https://www.wikidata.org/wiki/Q131723"
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

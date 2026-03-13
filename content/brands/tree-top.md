@@ -2,7 +2,7 @@
 title: Tree Top
 slug: "tree-top"
 description: ""
-date: "2026-03-13T08:56:59.472489"
+date: "2026-03-13T09:22:53.717527"
 draft: false
 sectors:
   - food
@@ -46,23 +46,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
-  - primary
-  - secondary
   - alternate
+  - secondary
+  - primary
+  - signature
 brand_colors:
+  - "pantone-186"
+  - orange
   - red
   - "pantone-362"
   - green
-  - "pantone-186"
-  - orange
 typographies:
   - serif
 imagery_styles:
-  - natural
-  - clean
   - contemporary
   - modern
+  - natural
+  - clean
   - photography
   - bold
 wikidata_description: group of the Piru gang alliance
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

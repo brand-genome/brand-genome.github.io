@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-03-13T08:56:59.402591"
+date: "2026-03-13T09:22:53.508710"
 draft: false
 sectors:
   - "arts-culture"
@@ -52,16 +52,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
+  - "pantone-186"
+  - "pantone-289"
+  - black
   - red
   - blue
-  - "pantone-289"
-  - "pantone-186"
-  - black
+  - white
 typographies:
+  - arial
   - frutiger
   - display
-  - arial
 imagery_styles:
   - bold
 wikidata_description: "created in early 2009 to act as a single non-departmental public body for the museums of the Royal Navy, United Kingdom"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

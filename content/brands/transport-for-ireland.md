@@ -2,11 +2,11 @@
 title: Transport for Ireland
 slug: "transport-for-ireland"
 description: ""
-date: "2026-03-13T08:56:59.885283"
+date: "2026-03-13T09:22:55.155991"
 draft: false
 sectors:
-  - "public-sector"
   - "public-transportation"
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

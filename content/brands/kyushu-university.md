@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-03-13T08:56:59.244686"
+date: "2026-03-13T09:22:53.116856"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - japanese
 tags:
+  - featured
   - education
   - university
-  - featured
 industries: []
 countries:
   - japan
@@ -52,10 +52,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
+  - symbol
   - alternate
   - horizontal
-  - symbol
+  - vertical
 brand_colors:
   - black
 typographies:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

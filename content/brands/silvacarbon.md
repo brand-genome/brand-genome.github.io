@@ -2,12 +2,12 @@
 title: SilvaCarbon
 slug: silvacarbon
 description: ""
-date: "2026-03-13T08:56:59.371685"
+date: "2026-03-13T09:22:53.437293"
 draft: false
 sectors:
+  - research
   - "public-sector"
   - ngo
-  - research
 regions:
   - usa
 years:
@@ -48,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - primary
   - vertical
-  - symbol
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies:
   - times
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

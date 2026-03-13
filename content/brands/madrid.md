@@ -2,15 +2,15 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-03-13T08:56:59.285488"
+date: "2026-03-13T09:22:53.269393"
 draft: false
 sectors:
   - tourism
 regions:
   - spain
 years:
-  - 2019
   - 2012
+  - 2019
   - 2016
 languages:
   - spanish
@@ -52,19 +52,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - abstract
+  - horizontal
   - crest
   - vertical
-  - horizontal
+  - abstract
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
   - serif
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
   - abstract
   - bold
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

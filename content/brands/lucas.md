@@ -2,7 +2,7 @@
 title: Lucas
 slug: lucas
 description: ""
-date: "2026-03-13T08:56:59.581168"
+date: "2026-03-13T09:22:54.409092"
 draft: false
 sectors:
   - hardware
@@ -52,11 +52,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
   - grey
-  - "pantone-185"
   - black
+  - red
+  - "pantone-185"
+  - white
 typographies:
   - roboto
 imagery_styles:
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

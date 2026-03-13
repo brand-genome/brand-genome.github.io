@@ -2,7 +2,7 @@
 title: ParentChild+
 slug: parentchild
 description: ""
-date: "2026-03-13T08:56:59.545149"
+date: "2026-03-13T09:22:54.220832"
 draft: false
 sectors:
   - education
@@ -51,20 +51,20 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - blue
-  - pink
+  - gray
   - yellow
   - black
-  - gray
   - teal
+  - pink
+  - blue
+  - white
 typographies:
-  - montserrat
   - arial
+  - montserrat
 imagery_styles:
-  - photography
   - vibrant
   - playful
+  - photography
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

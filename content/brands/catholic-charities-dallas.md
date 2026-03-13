@@ -2,7 +2,7 @@
 title: Catholic Charities Dallas
 slug: "catholic-charities-dallas"
 description: ""
-date: "2026-03-13T08:56:59.427069"
+date: "2026-03-13T09:22:53.641502"
 draft: false
 sectors:
   - ngo
@@ -46,25 +46,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
   - signature
 brand_colors:
-  - white
-  - blue
-  - "pantone-2597"
+  - "pantone-569"
   - "pantone-1797"
+  - gray
   - "pantone-130"
   - orange
   - black
-  - gray
-  - "pantone-569"
+  - blue
+  - white
+  - "pantone-2597"
 typographies:
-  - futura
-  - times
-  - garamond
   - arial
+  - garamond
+  - times
+  - futura
 imagery_styles:
   - photography
   - bold
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

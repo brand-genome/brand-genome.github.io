@@ -2,7 +2,7 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-03-13T08:56:59.857233"
+date: "2026-03-13T09:22:55.091250"
 draft: false
 sectors:
   - "parcel-service"
@@ -55,21 +55,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - green
   - orange
   - black
+  - red
+  - blue
+  - green
+  - white
 typographies:
-  - times
   - arial
+  - times
 imagery_styles:
   - photography
-  - natural
   - staged
+  - natural
   - bold
 wikidata_description: International trademark owned by FedEx
 wikidata_url: "https://www.wikidata.org/wiki/Q1105744"
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

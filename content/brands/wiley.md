@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-03-13T08:56:59.529022"
+date: "2026-03-13T09:22:54.133107"
 draft: false
 sectors:
   - education
@@ -14,18 +14,18 @@ years:
 languages:
   - english
 tags:
-  - science
   - edition
+  - science
 industries: []
 countries:
-  - germany
-  - netherlands
-  - "peoples-republic-of-china"
   - "united-kingdom"
   - australia
-  - "united-states"
+  - germany
   - italy
   - japan
+  - "peoples-republic-of-china"
+  - "united-states"
+  - netherlands
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -67,8 +67,8 @@ typographies:
   - helvetica
 imagery_styles:
   - vibrant
-  - bold
   - photography
+  - bold
 wikidata_description: American multinational publishing company
 wikidata_url: "https://www.wikidata.org/wiki/Q1479654"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

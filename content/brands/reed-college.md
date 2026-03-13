@@ -2,7 +2,7 @@
 title: Reed College
 slug: "reed-college"
 description: ""
-date: "2026-03-13T08:56:59.120430"
+date: "2026-03-13T09:22:52.229143"
 draft: false
 sectors:
   - university
@@ -52,15 +52,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
   - primary
-  - lockup
   - stacked
-  - horizontal
+  - lockup
+  - secondary
   - seal
+  - horizontal
 brand_colors:
-  - red
   - black
+  - red
   - blue
 typographies:
   - serif
@@ -68,8 +68,8 @@ typographies:
 imagery_styles:
   - natural
   - illustration
-  - photography
   - candid
+  - photography
   - graphic
 wikidata_description: "private liberal arts college in Portland, Oregon"
 wikidata_url: "https://www.wikidata.org/wiki/Q1140775"
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

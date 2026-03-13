@@ -2,7 +2,7 @@
 title: Chihuahua
 slug: chihuahua
 description: ""
-date: "2026-03-13T08:56:59.330845"
+date: "2026-03-13T09:22:53.332419"
 draft: false
 sectors:
   - "public-sector"
@@ -50,15 +50,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
   - grey
   - "pantone-541"
-  - black
   - blue
 typographies:
   - gotham
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: "capital of the State of Chihuahua, Mexico"
 wikidata_url: "https://www.wikidata.org/wiki/Q61302"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

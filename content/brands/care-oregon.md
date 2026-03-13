@@ -2,7 +2,7 @@
 title: Care Oregon
 slug: "care-oregon"
 description: ""
-date: "2026-03-13T08:56:59.459733"
+date: "2026-03-13T09:22:53.700672"
 draft: false
 sectors:
   - insurance
@@ -48,17 +48,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
   - black
 typographies:
-  - serif
   - "proxima-nova"
+  - serif
 imagery_styles:
-  - photography
   - minimal
+  - photography
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

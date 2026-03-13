@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-03-13T08:56:59.584639"
+date: "2026-03-13T09:22:54.417669"
 draft: false
 sectors:
   - insurance
@@ -46,14 +46,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - lockup
-  - symbol
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: "American trade association representing the wholesale, speciality & \"surplus lines\" insurance industry"
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

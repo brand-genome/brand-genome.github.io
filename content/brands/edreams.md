@@ -2,11 +2,11 @@
 title: eDreams
 slug: edreams
 description: ""
-date: "2026-03-13T08:56:59.778601"
+date: "2026-03-13T09:22:54.801253"
 draft: false
 sectors:
-  - tourism
   - "e-commerce"
+  - tourism
 regions:
   - spain
 years:
@@ -53,28 +53,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
+  - primary
+  - "app-icon"
+  - vertical
   - favicon
   - secondary
-  - primary
-  - vertical
-  - symbol
-  - "app-icon"
   - horizontal
 brand_colors:
-  - white
-  - grey
-  - blue
-  - "pantone-109"
-  - yellow
-  - cyan
-  - black
   - "pantone-286"
+  - cyan
+  - grey
+  - yellow
+  - black
+  - "pantone-109"
+  - blue
+  - white
 typographies:
   - "open-sans"
 imagery_styles:
+  - clean
   - natural
   - graphic
-  - clean
 wikidata_description: online travel agency
 wikidata_url: "https://www.wikidata.org/wiki/Q696009"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

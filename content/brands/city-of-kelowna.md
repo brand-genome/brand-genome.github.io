@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-03-13T08:56:59.806905"
+date: "2026-03-13T09:22:54.969093"
 draft: false
 sectors:
   - "public-sector"
@@ -49,23 +49,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
+  - wordmark
   - primary
   - stacked
   - horizontal
-  - wordmark
 brand_colors:
-  - "pantone-200"
-  - "pantone-166"
-  - "pantone-284"
-  - "pantone-285"
-  - "pantone-390"
   - "pantone-138"
+  - "pantone-285"
+  - "pantone-200"
+  - "pantone-390"
+  - "pantone-284"
   - "pantone-7408"
+  - "pantone-166"
 typographies: []
 imagery_styles:
   - dynamic
-  - graphic
   - landscape
+  - graphic
 wikidata_description: "city in British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q232226"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

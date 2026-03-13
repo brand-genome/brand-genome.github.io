@@ -2,15 +2,15 @@
 title: Florida Atlantic University
 slug: "florida-atlantic-university"
 description: ""
-date: "2026-03-13T08:56:59.155972"
+date: "2026-03-13T09:22:52.331379"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2024
   - 2020
+  - 2024
   - 2014
 languages:
   - english
@@ -53,34 +53,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - monogram
+  - wordmark
   - primary
   - stacked
-  - wordmark
-  - horizontal
+  - secondary
   - seal
+  - horizontal
 brand_colors:
-  - white
-  - red
+  - "pantone-877"
+  - silver
+  - "pantone-320"
   - blue
   - "pantone-200"
-  - "pantone-295"
-  - "pantone-320"
-  - silver
-  - "pantone-877"
-  - black
   - gray
+  - "pantone-295"
+  - black
   - teal
-  - "pantone-428"
+  - red
   - "pantone-7689"
+  - white
+  - "pantone-428"
 typographies:
-  - optima
   - serif
+  - optima
 imagery_styles:
   - classic
-  - bold
   - monochrome
+  - bold
 wikidata_description: "public university in Boca Raton, Florida"
 wikidata_url: "https://www.wikidata.org/wiki/Q429863"
 has_twitter: false
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

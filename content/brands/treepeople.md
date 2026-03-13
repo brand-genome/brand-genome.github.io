@@ -2,15 +2,15 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-03-13T08:56:59.144402"
+date: "2026-03-13T09:22:52.316270"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
   - english
 tags:
@@ -56,8 +56,8 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - green
   - black
+  - green
 typographies: []
 imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

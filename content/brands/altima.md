@@ -2,7 +2,7 @@
 title: Altima
 slug: altima
 description: ""
-date: "2026-03-13T08:56:59.337169"
+date: "2026-03-13T09:22:53.340569"
 draft: false
 sectors:
   - insurance
@@ -47,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - white
-  - blue
+  - gray
   - yellow
   - black
-  - gray
+  - blue
+  - white
 typographies:
   - roboto
 imagery_styles:
-  - natural
   - dynamic
+  - natural
   - bold
 wikidata_description: Japanese musical group
 wikidata_url: "https://www.wikidata.org/wiki/Q3613201"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

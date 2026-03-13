@@ -2,7 +2,7 @@
 title: Travel and Transport
 slug: "travel-and-transport"
 description: ""
-date: "2026-03-13T08:56:59.565979"
+date: "2026-03-13T09:22:54.338244"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -47,17 +47,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
+  - cyan
+  - gray
+  - orange
+  - black
   - blue
   - green
-  - cyan
-  - black
-  - orange
-  - gray
+  - white
 typographies:
   - serif
   - georgia
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

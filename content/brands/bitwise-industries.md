@@ -2,12 +2,12 @@
 title: Bitwise Industries
 slug: "bitwise-industries"
 description: ""
-date: "2026-03-13T08:56:59.310942"
+date: "2026-03-13T09:22:53.309889"
 draft: false
 sectors:
-  - "real-estate"
-  - education
   - software
+  - education
+  - "real-estate"
   - "coworking-flexible-office"
 regions:
   - usa
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - software
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,13 +51,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
+  - wordmark
   - primary
   - vertical
   - horizontal
-  - wordmark
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - avenir
 imagery_styles:
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

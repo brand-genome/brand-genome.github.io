@@ -2,11 +2,11 @@
 title: SmartFi
 slug: smartfi
 description: ""
-date: "2026-03-13T08:56:59.235922"
+date: "2026-03-13T09:22:53.080881"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - finance
+  - "blockchain-crypto"
 regions:
   - usa
 years:
@@ -50,28 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - favicon
+  - primary
   - secondary
 brand_colors:
-  - white
   - black
-  - "pantone-296"
   - "pantone-807"
+  - white
+  - "pantone-296"
 typographies:
   - serif
   - poppins
 imagery_styles:
-  - clean
+  - flat
   - illustration
+  - geometric
   - monochrome
   - vibrant
+  - clean
   - product
   - gradient
-  - flat
-  - graphic
   - bold
-  - geometric
+  - graphic
 wikidata_description: "company in Oslo, Norway"
 wikidata_url: "https://www.wikidata.org/wiki/Q30259962"
 has_twitter: false
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

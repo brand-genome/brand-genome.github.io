@@ -2,11 +2,11 @@
 title: UTHealth Houston
 slug: "uthealth-houston"
 description: ""
-date: "2026-03-13T08:56:59.242675"
+date: "2026-03-13T09:22:53.113953"
 draft: false
 sectors:
-  - healthcare
   - university
+  - healthcare
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - university
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,20 +51,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - gray
+  - orange
+  - green
+  - teal
   - blue
   - gold
-  - green
-  - orange
-  - gray
-  - teal
 typographies:
-  - univers
-  - arial
-  - avenir
-  - helvetica
-  - garamond
-  - times
   - serif
+  - univers
+  - garamond
+  - helvetica
+  - arial
+  - times
+  - avenir
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

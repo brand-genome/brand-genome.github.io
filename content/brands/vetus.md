@@ -2,7 +2,7 @@
 title: Vetus
 slug: vetus
 description: ""
-date: "2026-03-13T08:56:59.470906"
+date: "2026-03-13T09:22:53.715471"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -31,8 +31,8 @@ headquarters_locations:
   - oviedo
 subsidiaries: []
 foundation_dates:
-  - 2005
   - 1930
+  - 2005
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,13 +53,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - "pantone-121"
-  - blue
-  - "pantone-295"
   - yellow
+  - "pantone-121"
+  - "pantone-295"
   - black
   - "pantone-123"
+  - blue
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish association football team
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -104,7 +105,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Oviedo](/headquarters_locations/oviedo/) |
-| Foundation Date | [2005](/foundation_dates/2005/); [1930](/foundation_dates/1930/) |
+| Foundation Date | [1930](/foundation_dates/1930/); [2005](/foundation_dates/2005/) |
 | Home Venue | Carlos Tartiere Stadium |
 | League Or Competition | Tercera División, Primera Federación |
 | Sport | association football |

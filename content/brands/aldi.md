@@ -2,7 +2,7 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-03-13T08:56:59.604377"
+date: "2026-03-13T09:22:54.567705"
 draft: false
 sectors:
   - supermarket
@@ -14,15 +14,15 @@ years:
 languages:
   - english
 tags:
-  - packaging
   - featured
+  - packaging
 industries:
   - "discount-store"
   - retail
 countries:
-  - germany
   - "united-states"
   - netherlands
+  - germany
   - belgium
 revenue_buckets: []
 operating_income_buckets: []
@@ -34,9 +34,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "mulheim-an-der-ruhr"
-  - essen
   - batavia
+  - essen
+  - "mulheim-an-der-ruhr"
 subsidiaries: []
 foundation_dates:
   - 1946
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -96,7 +97,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/); [Essen](/headquarters_locations/essen/); [Batavia](/headquarters_locations/batavia/) |
+| Headquarters Location | [Batavia](/headquarters_locations/batavia/); [Essen](/headquarters_locations/essen/); [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Freebase Id | /m/0246n2 |
 | Topic'S Main Category | Category:Aldi |

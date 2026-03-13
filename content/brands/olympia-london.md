@@ -2,7 +2,7 @@
 title: Olympia London
 slug: "olympia-london"
 description: ""
-date: "2026-03-13T08:56:59.592265"
+date: "2026-03-13T09:22:54.552060"
 draft: false
 sectors:
   - entertainment
@@ -50,18 +50,18 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - brown
-  - white
-  - grey
-  - blue
-  - pink
   - purple
+  - grey
+  - pink
+  - blue
   - green
+  - white
+  - brown
 typographies: []
 imagery_styles:
+  - classic
   - dynamic
   - modern
-  - classic
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

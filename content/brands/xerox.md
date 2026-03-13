@@ -2,11 +2,11 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-03-13T08:56:59.334922"
+date: "2026-03-13T09:22:53.337981"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -30,14 +30,14 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - printer
   - projector
   - "wide-format-printer"
+  - "multifunction-printer"
+  - software
   - photocopier
   - "office-supply"
-  - "multifunction-printer"
-  - printer
   - "image-scanner"
-  - software
 products: []
 headquarters_locations:
   - norwalk
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -91,7 +92,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Projector](/products_or_materials_produced/projector/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Photocopier](/products_or_materials_produced/photocopier/); [Office Supply](/products_or_materials_produced/office-supply/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Printer](/products_or_materials_produced/printer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Printer](/products_or_materials_produced/printer/); [Projector](/products_or_materials_produced/projector/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Software](/products_or_materials_produced/software/); [Photocopier](/products_or_materials_produced/photocopier/); [Office Supply](/products_or_materials_produced/office-supply/); [Image Scanner](/products_or_materials_produced/image-scanner/) |
 | Headquarters Location | [Norwalk](/headquarters_locations/norwalk/) |
 | Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Xerox |

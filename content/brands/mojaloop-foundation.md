@@ -2,11 +2,11 @@
 title: Mojaloop Foundation
 slug: "mojaloop-foundation"
 description: ""
-date: "2026-03-13T08:56:59.372827"
+date: "2026-03-13T09:22:53.438687"
 draft: false
 sectors:
-  - ngo
   - software
+  - ngo
 regions:
   - usa
 years:
@@ -50,20 +50,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
-  - "open-sans"
   - display
+  - "open-sans"
   - "sans-serif"
 imagery_styles:
+  - artificial
+  - modern
   - staged
   - clean
-  - modern
   - photography
-  - artificial
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

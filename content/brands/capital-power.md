@@ -2,11 +2,11 @@
 title: Capital Power
 slug: "capital-power"
 description: ""
-date: "2026-03-13T08:56:59.566732"
+date: "2026-03-13T09:22:54.339267"
 draft: false
 sectors:
-  - utilities
   - gas
+  - utilities
   - "renewable-energy"
 regions:
   - canada
@@ -54,25 +54,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - stacked
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - green
   - gray
+  - yellow
+  - blue
+  - green
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - photography
-  - clean
   - professional
   - bold
+  - clean
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1034651"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

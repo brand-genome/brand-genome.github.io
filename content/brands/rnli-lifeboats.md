@@ -2,11 +2,11 @@
 title: RNLI Lifeboats
 slug: "rnli-lifeboats"
 description: ""
-date: "2026-03-13T08:56:59.186479"
+date: "2026-03-13T09:22:52.867125"
 draft: false
 sectors:
-  - ngo
   - "emergency-services"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -52,15 +52,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
-  - "pantone-109"
-  - yellow
-  - "pantone-281"
   - "pantone-144"
+  - "pantone-281"
+  - yellow
   - orange
+  - "pantone-109"
+  - blue
 typographies:
-  - din
   - display
+  - din
   - impact
 imagery_styles:
   - photography
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

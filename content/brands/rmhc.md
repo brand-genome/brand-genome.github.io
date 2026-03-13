@@ -2,11 +2,11 @@
 title: RMHC
 slug: rmhc
 description: ""
-date: "2026-03-13T08:56:59.205836"
+date: "2026-03-13T09:22:53.013215"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - featured
+  - charity
 industries: []
 countries:
   - "united-states"
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

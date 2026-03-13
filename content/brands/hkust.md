@@ -2,16 +2,16 @@
 title: HKUST
 slug: hkust
 description: ""
-date: "2026-03-13T08:56:59.301823"
+date: "2026-03-13T09:22:53.294742"
 draft: false
 sectors:
   - university
 regions:
   - "hong-kong"
 years:
+  - 2020
   - 2019
   - 2022
-  - 2020
   - 2018
 languages:
   - english
@@ -52,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
-  - blue
-  - "pantone-295"
-  - yellow
-  - gold
   - "pantone-647"
   - "pantone-285"
+  - yellow
+  - "pantone-295"
   - "pantone-124"
   - "pantone-872"
+  - blue
+  - gold
 typographies:
+  - arial
   - futura
   - avenir
-  - arial
 imagery_styles:
   - photography
-  - natural
   - staged
+  - natural
 wikidata_description: "public research university in Clear Water Bay, Hong Kong"
 wikidata_url: "https://www.wikidata.org/wiki/Q1333303"
 has_twitter: false
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: La Martinique
 slug: "la-martinique"
 description: ""
-date: "2026-03-13T08:56:59.350344"
+date: "2026-03-13T09:22:53.397580"
 draft: false
 sectors:
   - "public-sector"
@@ -49,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - alternate
   - wordmark
+  - signature
 brand_colors:
+  - violet
+  - gray
+  - yellow
+  - orange
+  - black
   - white
   - red
   - blue
-  - yellow
-  - violet
-  - turquoise
-  - black
-  - orange
-  - gray
   - "pantone-137"
+  - turquoise
 typographies: []
 imagery_styles:
   - gradient
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

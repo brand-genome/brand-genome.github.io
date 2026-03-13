@@ -2,11 +2,11 @@
 title: Coalfire
 slug: coalfire
 description: ""
-date: "2026-03-13T08:56:59.365455"
+date: "2026-03-13T09:22:53.431168"
 draft: false
 sectors:
-  - cybersecurity
   - consulting
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,11 +54,11 @@ brand_colors:
   - green
   - blue
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
-  - photography
   - gradient
+  - photography
   - professional
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

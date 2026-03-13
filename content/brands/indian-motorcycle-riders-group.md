@@ -2,11 +2,11 @@
 title: Indian Motorcycle Riders Group
 slug: "indian-motorcycle-riders-group"
 description: ""
-date: "2026-03-13T08:56:59.374781"
+date: "2026-03-13T09:22:53.440676"
 draft: false
 sectors:
-  - sports
   - automobile
+  - sports
 regions:
   - usa
 years:
@@ -51,11 +51,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - brown
-  - red
-  - gold
   - gray
   - crimson
+  - red
+  - gold
+  - brown
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-03-13T08:56:59.298502"
+date: "2026-03-13T09:22:53.287406"
 draft: false
 sectors:
   - "consumer-goods"
@@ -49,8 +49,8 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - montserrat
   - gotham
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

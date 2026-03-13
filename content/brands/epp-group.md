@@ -2,7 +2,7 @@
 title: epp Group
 slug: "epp-group"
 description: ""
-date: "2026-03-13T08:56:59.737780"
+date: "2026-03-13T09:22:54.766046"
 draft: false
 sectors:
   - "public-sector"
@@ -47,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - favicon
+  - primary
+  - icon
   - secondary
 brand_colors:
-  - white
-  - "pantone-1365"
   - grey
-  - "pantone-3015"
-  - blue
   - yellow
   - orange
+  - "pantone-1365"
   - teal
+  - blue
+  - white
+  - "pantone-3015"
 typographies:
-  - garamond
   - "open-sans"
+  - garamond
   - trebuchet
 imagery_styles:
+  - monochrome
+  - professional
   - graphic
   - gradient
-  - professional
-  - monochrome
 wikidata_description: "centre-right political group of the European Parliament"
 wikidata_url: "https://www.wikidata.org/wiki/Q635616"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Scotch
 slug: scotch
 description: ""
-date: "2026-03-13T08:56:59.070466"
+date: "2026-03-13T09:22:52.060667"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
   - "clothing-industry"
 countries:
@@ -27,10 +27,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "fashion-accessory"
-  - footwear
-  - jeans
   - clothing
+  - "fashion-accessory"
+  - jeans
+  - footwear
 products: []
 headquarters_locations:
   - amsterdam
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -86,7 +87,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Footwear](/products_or_materials_produced/footwear/); [Jeans](/products_or_materials_produced/jeans/); [Clothing](/products_or_materials_produced/clothing/) |
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Jeans](/products_or_materials_produced/jeans/); [Footwear](/products_or_materials_produced/footwear/) |
 | Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Inception | 1985 |

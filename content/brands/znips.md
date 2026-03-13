@@ -2,7 +2,7 @@
 title: Znips
 slug: znips
 description: ""
-date: "2026-03-13T08:56:59.830881"
+date: "2026-03-13T09:22:55.032560"
 draft: false
 sectors:
   - beauty
@@ -49,10 +49,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-144"
   - "pantone-445"
   - grey
   - black
-  - "pantone-144"
 typographies:
   - helvetica
 imagery_styles:
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

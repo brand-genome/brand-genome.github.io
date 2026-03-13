@@ -2,7 +2,7 @@
 title: "Metro by T-Mobile"
 slug: "metro-by-t-mobile"
 description: ""
-date: "2026-03-13T08:56:59.226164"
+date: "2026-03-13T09:22:53.071442"
 draft: false
 sectors:
   - telecom
@@ -16,8 +16,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "mobile-phone-industry"
   - telecommunications
+  - "mobile-phone-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

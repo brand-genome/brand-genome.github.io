@@ -2,24 +2,24 @@
 title: Nasa
 slug: nasa
 description: ""
-date: "2026-03-13T08:56:59.055579"
+date: "2026-03-13T09:22:51.985605"
 draft: false
 sectors:
+  - "space-technology"
   - "public-sector"
   - aerospace
-  - "space-technology"
 regions:
   - usa
 years:
+  - 2009
   - 2006
   - 1976
-  - 2009
 languages:
   - english
 tags:
-  - aeronautic
   - vintage
   - featured
+  - aeronautic
 industries:
   - "public-sector"
   - "space-exploration"
@@ -64,12 +64,12 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
+  - gradient
+  - photography
   - clean
   - professional
-  - photography
-  - gradient
-  - graphic
   - bold
+  - graphic
 wikidata_description: American space and aeronautics agency
 wikidata_url: "https://www.wikidata.org/wiki/Q23548"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

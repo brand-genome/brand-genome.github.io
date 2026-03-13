@@ -2,11 +2,11 @@
 title: RSA Security
 slug: "rsa-security"
 description: ""
-date: "2026-03-13T08:56:59.401167"
+date: "2026-03-13T09:22:53.506283"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -53,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - symbol
-  - abstract
+  - secondary
   - signature
+  - abstract
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies: []
 imagery_styles:
+  - duotone
   - photography
   - product
-  - duotone
-  - graphic
   - abstract
   - bold
+  - graphic
 wikidata_description: American computer and network security company
 wikidata_url: "https://www.wikidata.org/wiki/Q2061730"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

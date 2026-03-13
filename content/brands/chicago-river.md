@@ -2,7 +2,7 @@
 title: Chicago River
 slug: "chicago-river"
 description: ""
-date: "2026-03-13T08:56:59.714130"
+date: "2026-03-13T09:22:54.720629"
 draft: false
 sectors:
   - "public-sector"
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

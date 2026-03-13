@@ -2,11 +2,11 @@
 title: "F-Secure"
 slug: "f-secure"
 description: ""
-date: "2026-03-13T08:56:59.270199"
+date: "2026-03-13T09:22:53.255448"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - finland
 years:
@@ -54,18 +54,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
+  - gray
   - purple
   - blue
-  - gray
 typographies:
   - arial
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "Finnish cybersecurity enterprise founded in 1988 (as \"Data Fellows\")"
 wikidata_url: "https://www.wikidata.org/wiki/Q522016"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

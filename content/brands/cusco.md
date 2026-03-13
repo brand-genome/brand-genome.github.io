@@ -2,7 +2,7 @@
 title: Cusco
 slug: cusco
 description: ""
-date: "2026-03-13T08:56:59.526070"
+date: "2026-03-13T09:22:54.080013"
 draft: false
 sectors:
   - "public-sector"
@@ -29,8 +29,8 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1300
   - 1534
+  - 1300
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -105,7 +106,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1300](/foundation_dates/1300/); [1534](/foundation_dates/1534/) |
+| Foundation Date | [1534](/foundation_dates/1534/); [1300](/foundation_dates/1300/) |
 | Gnd Id | 4090652-8 |
 | Country | Peru |
 | Twinned Administrative Body | La Paz (from 1984-01-03), Samarkand (from 1986-08-04), Athens (from 1991-09-18), Mexico City (from 1987-06-17), Bethlehem (from 1993-10-22) (+16 more) |

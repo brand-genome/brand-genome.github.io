@@ -2,11 +2,11 @@
 title: WeThe15
 slug: wethe15
 description: ""
-date: "2026-03-13T08:56:59.313098"
+date: "2026-03-13T09:22:53.315278"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - international
 years:
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

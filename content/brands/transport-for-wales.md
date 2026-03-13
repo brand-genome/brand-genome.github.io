@@ -2,11 +2,11 @@
 title: Transport for Wales
 slug: "transport-for-wales"
 description: ""
-date: "2026-03-13T08:56:59.121748"
+date: "2026-03-13T09:22:52.232289"
 draft: false
 sectors:
-  - "public-sector"
   - "public-transportation"
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ languages:
   - english
   - welsh
 tags:
-  - transport
   - featured
+  - transport
 industries: []
 countries:
   - "united-kingdom"
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

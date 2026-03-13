@@ -2,28 +2,28 @@
 title: General Electric
 slug: "general-electric"
 description: ""
-date: "2026-03-13T08:56:59.596789"
+date: "2026-03-13T09:22:54.559978"
 draft: false
 sectors:
   - aerospace
 regions:
   - usa
 years:
-  - 2004
   - 2008
+  - 2004
 languages:
   - english
 tags:
-  - industry
   - featured
+  - industry
 industries:
+  - "weapons-industry"
+  - "aircraft-industry"
+  - "mechanical-engineering"
   - "automotive-industry"
   - "power-engineering"
   - "finance-lease"
-  - "weapons-industry"
-  - "aircraft-industry"
   - conglomerate
-  - "mechanical-engineering"
 countries:
   - "united-states"
 revenue_buckets:
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-03-13T08:56:59.511976"
+date: "2026-03-13T09:22:53.970898"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - institution
   - science
+  - institution
 industries:
   - "research-and-development"
   - "research-and-experimental-development-on-social-sciences-and-humanities"
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,12 +2,12 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-03-13T08:56:59.395182"
+date: "2026-03-13T09:22:53.490969"
 draft: false
 sectors:
+  - telecom
   - cybersecurity
   - networking
-  - telecom
 regions:
   - "united-kingdom"
 years:
@@ -50,10 +50,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - lockup
   - vertical
+  - secondary
   - horizontal
 brand_colors: []
 typographies:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

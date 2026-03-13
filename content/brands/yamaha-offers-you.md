@@ -2,12 +2,12 @@
 title: Yamaha Offers You
 slug: "yamaha-offers-you"
 description: ""
-date: "2026-03-13T08:56:59.816908"
+date: "2026-03-13T09:22:54.980647"
 draft: false
 sectors:
-  - insurance
   - finance
   - automobile
+  - insurance
 regions:
   - japan
 years:
@@ -49,10 +49,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
+  - grey
   - white
   - red
-  - grey
-  - black
 typographies:
   - ubuntu
 imagery_styles:
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

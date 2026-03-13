@@ -2,7 +2,7 @@
 title: YNCU
 slug: yncu
 description: ""
-date: "2026-03-13T08:56:59.434148"
+date: "2026-03-13T09:22:53.651628"
 draft: false
 sectors:
   - finance
@@ -47,25 +47,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
+  - alternate
+  - primary
+  - stacked
   - emblem
   - secondary
-  - primary
-  - alternate
-  - symbol
-  - stacked
 brand_colors:
-  - white
-  - grey
-  - green
-  - "pantone-339"
-  - black
   - "pantone-7480"
+  - grey
+  - black
+  - "pantone-339"
+  - green
+  - white
 typographies:
   - montserrat
 imagery_styles:
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q12607306"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

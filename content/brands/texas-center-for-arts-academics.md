@@ -2,7 +2,7 @@
 title: Texas Center for Arts + Academics
 slug: "texas-center-for-arts-academics"
 description: ""
-date: "2026-03-13T08:56:59.236180"
+date: "2026-03-13T09:22:53.081212"
 draft: false
 sectors:
   - education
@@ -52,17 +52,17 @@ body_sections: []
 logo_elements:
   - primary
   - secondary
-  - lockup
   - symbol
+  - lockup
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
+  - geometric
   - playful
   - vibrant
-  - graphic
+  - dynamic
   - bold
-  - geometric
+  - graphic
 wikidata_description: "Non-profit arts and education organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q110122511"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

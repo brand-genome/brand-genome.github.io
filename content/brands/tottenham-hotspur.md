@@ -2,7 +2,7 @@
 title: Tottenham Hotspur
 slug: "tottenham-hotspur"
 description: ""
-date: "2026-03-13T08:56:59.434544"
+date: "2026-03-13T09:22:53.652153"
 draft: false
 sectors:
   - sports
@@ -50,18 +50,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
-  - secondary
   - badge
+  - primary
+  - secondary
+  - horizontal
 brand_colors:
-  - white
-  - blue
+  - "pantone-877"
+  - silver
   - "pantone-298"
   - "pantone-2768"
-  - silver
-  - "pantone-877"
   - black
+  - blue
+  - white
 typographies:
   - arial
 imagery_styles: []
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

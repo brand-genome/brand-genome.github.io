@@ -2,7 +2,7 @@
 title: CRUP
 slug: crup
 description: ""
-date: "2026-03-13T08:56:59.485788"
+date: "2026-03-13T09:22:53.764051"
 draft: false
 sectors:
   - education
@@ -52,14 +52,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - green
-  - blue
   - black
+  - green
+  - white
+  - blue
 typographies:
-  - optima
   - helvetica
   - "sans-serif"
+  - optima
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q16482287"
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: SmartAgriHubs
 slug: smartagrihubs
 description: ""
-date: "2026-03-13T08:56:59.337600"
+date: "2026-03-13T09:22:53.341226"
 draft: false
 sectors:
-  - ngo
   - software
+  - ngo
 regions:
   - europe
 years:
@@ -48,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - white
-  - red
-  - pink
-  - "pantone-3272"
-  - yellow
   - "pantone-375"
-  - green
   - "pantone-136"
-  - black
+  - yellow
+  - "pantone-3272"
   - orange
+  - black
+  - pink
+  - red
+  - green
+  - white
 typographies:
   - verdana
 imagery_styles:
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

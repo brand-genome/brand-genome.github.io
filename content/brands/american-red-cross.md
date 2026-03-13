@@ -2,12 +2,12 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-03-13T08:56:59.309054"
+date: "2026-03-13T09:22:53.307177"
 draft: false
 sectors:
-  - ngo
-  - healthcare
   - "emergency-services"
+  - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -55,19 +55,19 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
+  - gray
   - white
   - red
   - blue
-  - gray
 typographies:
+  - arial
   - times
   - akzidenz
-  - arial
 imagery_styles:
-  - classic
+  - vintage
   - flat
   - bold
-  - vintage
+  - classic
 wikidata_description: body of American red cross
 wikidata_url: "https://www.wikidata.org/wiki/Q18390208"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

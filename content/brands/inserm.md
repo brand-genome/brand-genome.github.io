@@ -2,7 +2,7 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-03-13T08:56:59.732442"
+date: "2026-03-13T09:22:54.752274"
 draft: false
 sectors:
   - research
@@ -55,12 +55,12 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - white
   - black
+  - white
 typographies:
+  - arial
   - times
   - akzidenz
-  - arial
 imagery_styles:
   - bold
 wikidata_description: French biomedical research institute
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

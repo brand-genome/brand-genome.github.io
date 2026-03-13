@@ -2,7 +2,7 @@
 title: Jana Small Finance Bank
 slug: "jana-small-finance-bank"
 description: ""
-date: "2026-03-13T08:56:59.145452"
+date: "2026-03-13T09:22:52.317622"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - featured
+  - financial
 industries:
   - "small-finance-bank"
 countries:
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

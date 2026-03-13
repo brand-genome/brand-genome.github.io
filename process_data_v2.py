@@ -729,6 +729,60 @@ def aggregate_visual_attributes(posts, llava_img, llava_human):
     
     return attributes
 
+def build_visual_term_image_urls(posts, llava_img, llava_human):
+    """Build taxonomy-term specific image URL mapping for strict collage filtering."""
+    source_mapping = {
+        'lightings': ('img', 'image_lighting'),
+        'perspectives': ('img', 'perspective'),
+        'image_backgrounds': ('img', 'image_background'),
+        'color_schemes': ('img', 'colors'),
+        'photography_genres': ('img', 'photography_genre'),
+        'concepts': ('img', 'concept'),
+        'depths': ('img', 'depth'),
+        'image_effects': ('img', 'image_effects'),
+        'hair_styles': ('human', 'hair_style'),
+        'facial_expressions': ('human', 'facial_expression'),
+        'clothing_styles': ('human', 'clothing_style'),
+        'clothing_colors': ('human', 'clothing_color_palette'),
+        'posings': ('human', 'posing'),
+        'gazes': ('human', 'gaze'),
+        'body_sections': ('human', 'visible_body_section'),
+    }
+
+    term_image_urls = {}
+
+    for post in posts:
+        media_key = post.get('media_keys', '')
+        media_url = extract_media_url(post.get('media', ''))
+        if not media_key or not media_url:
+            continue
+
+        img_data = llava_img.get(media_key, {})
+        human_data = llava_human.get(media_key, {})
+
+        for taxonomy, (source, field_name) in source_mapping.items():
+            source_data = img_data if source == 'img' else human_data
+            values = clean_list_values(source_data.get(field_name, []))
+            if not values:
+                continue
+
+            taxonomy_map = term_image_urls.setdefault(taxonomy, {})
+            for value in values:
+                urls = taxonomy_map.setdefault(value, [])
+                urls.append(media_url)
+
+    cleaned_mapping = {}
+    for taxonomy, taxonomy_map in term_image_urls.items():
+        cleaned_taxonomy_map = {}
+        for term, urls in taxonomy_map.items():
+            deduped = list(dict.fromkeys(url for url in urls if url))
+            if deduped:
+                cleaned_taxonomy_map[term] = deduped
+        if cleaned_taxonomy_map:
+            cleaned_mapping[taxonomy] = cleaned_taxonomy_map
+
+    return cleaned_mapping
+
 def process_wikidata_properties(wikidata):
     """Process Wikidata properties, filtering out excluded ones."""
     if not wikidata or 'properties' not in wikidata:
@@ -911,26 +965,44 @@ def generate_brand_markdown(brand_info):
         'promotion_image_count': brand_info.get('twitter_post_count', 0),
         'guideline_count': brand_info.get('guideline_count', 0),
         'sample_image_urls': brand_info.get('sample_image_urls', []),
+        'visual_term_image_urls': brand_info.get('visual_term_image_urls', {}),
     }
+
+    def write_yaml_field(lines, key, value, indent=0):
+        """Write a YAML key-value field with support for nested dict/list structures."""
+        prefix = '  ' * indent
+
+        if isinstance(value, dict):
+            if value:
+                lines.append(f'{prefix}{key}:')
+                for child_key, child_value in value.items():
+                    write_yaml_field(lines, child_key, child_value, indent + 1)
+            else:
+                lines.append(f'{prefix}{key}: {{}}')
+            return
+
+        if isinstance(value, list):
+            filtered = [item for item in value if item is not None and item != '']
+            if filtered:
+                lines.append(f'{prefix}{key}:')
+                for item in filtered:
+                    lines.append(f'{prefix}  - {escape_yaml_string(item)}')
+            else:
+                lines.append(f'{prefix}{key}: []')
+            return
+
+        if isinstance(value, bool):
+            lines.append(f'{prefix}{key}: {str(value).lower()}')
+        elif isinstance(value, (int, float)):
+            lines.append(f'{prefix}{key}: {value}')
+        else:
+            lines.append(f'{prefix}{key}: {escape_yaml_string(value)}')
     
     # Build YAML frontmatter
     lines = ['---']
     
     for key, value in frontmatter.items():
-        if isinstance(value, list):
-            if value:
-                lines.append(f'{key}:')
-                for item in value:
-                    if item:  # Skip None/empty items
-                        lines.append(f'  - {escape_yaml_string(item)}')
-            else:
-                lines.append(f'{key}: []')
-        elif isinstance(value, bool):
-            lines.append(f'{key}: {str(value).lower()}')
-        elif isinstance(value, (int, float)):
-            lines.append(f'{key}: {value}')
-        else:
-            lines.append(f'{key}: {escape_yaml_string(value)}')
+        write_yaml_field(lines, key, value)
     
     lines.append('---')
     lines.append('')
@@ -1226,6 +1298,7 @@ def main():
                 # Websites (union of all sources)
                 'websites': [],
                 'sample_image_urls': [],
+                'visual_term_image_urls': {},
             }
         
         brand = all_brands[normalized]
@@ -1415,6 +1488,7 @@ def main():
                 'imagery_styles': [],
                 'websites': [],
                 'sample_image_urls': [],
+                'visual_term_image_urls': {},
             }
             matched_brand = company_norm
         
@@ -1435,6 +1509,13 @@ def main():
         visual_attrs = aggregate_visual_attributes(posts, llava_img, llava_human)
         for key, values in visual_attrs.items():
             brand[key].extend(values)
+
+        term_image_urls = build_visual_term_image_urls(posts, llava_img, llava_human)
+        for taxonomy, taxonomy_map in term_image_urls.items():
+            brand_taxonomy_map = brand['visual_term_image_urls'].setdefault(taxonomy, {})
+            for term, urls in taxonomy_map.items():
+                brand_term_urls = brand_taxonomy_map.setdefault(term, [])
+                brand_term_urls.extend(urls)
         
         # Process color data
         color_data = process_color_data(posts)
@@ -1503,6 +1584,17 @@ def main():
             brand[key] = [v for v in brand[key] if v]
 
         brand['sample_image_urls'] = list(dict.fromkeys(brand.get('sample_image_urls', [])))
+
+        deduped_visual_map = {}
+        for taxonomy, taxonomy_map in brand.get('visual_term_image_urls', {}).items():
+            cleaned_term_map = {}
+            for term, urls in taxonomy_map.items():
+                deduped_urls = list(dict.fromkeys(url for url in urls if url))
+                if deduped_urls:
+                    cleaned_term_map[term] = deduped_urls
+            if cleaned_term_map:
+                deduped_visual_map[taxonomy] = cleaned_term_map
+        brand['visual_term_image_urls'] = deduped_visual_map
 
         for history_key in [
             'revenue_history', 'operating_income_history', 'net_profit_history',

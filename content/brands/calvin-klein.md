@@ -2,13 +2,13 @@
 title: Calvin Klein
 slug: "calvin-klein"
 description: ""
-date: "2026-03-13T08:56:59.304429"
+date: "2026-03-13T09:22:53.298153"
 draft: false
 sectors:
-  - beauty
-  - fashion
   - cosmetics
+  - fashion
   - "home-appliances"
+  - beauty
 regions:
   - usa
 years:
@@ -16,11 +16,11 @@ years:
 languages:
   - english
 tags:
-  - fashion
   - featured
-industries:
-  - "clothing-industry"
   - fashion
+industries:
+  - fashion
+  - "clothing-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -31,8 +31,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - perfume
   - clothing
+  - perfume
 products: []
 headquarters_locations:
   - "new-york-city"
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -87,7 +88,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Perfume](/products_or_materials_produced/perfume/); [Clothing](/products_or_materials_produced/clothing/) |
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Perfume](/products_or_materials_produced/perfume/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Calvin Klein, Barry K. Schwartz |

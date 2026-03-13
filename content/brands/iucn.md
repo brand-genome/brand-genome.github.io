@@ -2,11 +2,11 @@
 title: IUCN
 slug: iucn
 description: ""
-date: "2026-03-13T08:56:59.565352"
+date: "2026-03-13T09:22:54.337695"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - environment
+  - ngo
 industries:
   - "animal-protection"
 countries:
@@ -34,8 +34,8 @@ total_equity_buckets:
   - "10M-100M"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "iucn-red-list"
   - "iucn-red-list-of-ecosystems"
+  - "iucn-red-list"
 products: []
 headquarters_locations:
   - gland
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -97,7 +98,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Iucn Red List](/products_or_materials_produced/iucn-red-list/); [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/) |
+| Product Or Material Produced | [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/); [Iucn Red List](/products_or_materials_produced/iucn-red-list/) |
 | Headquarters Location | [Gland](/headquarters_locations/gland/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Image | IUCN-Headquarters.jpg |

@@ -2,7 +2,7 @@
 title: Vale
 slug: vale
 description: ""
-date: "2026-03-13T08:56:59.595304"
+date: "2026-03-13T09:22:54.557115"
 draft: false
 sectors:
   - "mining-extraction"
@@ -51,27 +51,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
   - vertical
+  - primary
 brand_colors:
-  - white
+  - "pantone-7406"
+  - "pantone-328"
+  - gray
+  - yellow
+  - "pantone-124"
   - red
   - blue
-  - yellow
-  - "pantone-328"
-  - "pantone-124"
   - green
-  - gray
-  - "pantone-7406"
+  - white
 typographies:
   - arial
 imagery_styles:
+  - artificial
+  - minimal
+  - vibrant
   - dynamic
   - landscape
-  - vibrant
-  - minimal
-  - artificial
   - bold
 wikidata_description: multinational diversified metals and mining corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q583268"
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

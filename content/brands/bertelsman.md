@@ -2,7 +2,7 @@
 title: Bertelsman
 slug: bertelsman
 description: ""
-date: "2026-03-13T08:56:59.501721"
+date: "2026-03-13T09:22:53.940477"
 draft: false
 sectors:
   - publishing
@@ -32,8 +32,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1983
   - 1987
+  - 1983
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -82,7 +83,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1983](/foundation_dates/1983/); [1987](/foundation_dates/1987/) |
+| Foundation Date | [1987](/foundation_dates/1987/); [1983](/foundation_dates/1983/) |
 | Inception | 1987-01-01, 1983 |
 | Musicbrainz Label Id | 29d7c88f-5200-4418-a683-5c94ea032e38 |
 | Freebase Id | /m/01q940 |

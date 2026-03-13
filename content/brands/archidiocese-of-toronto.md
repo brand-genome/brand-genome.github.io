@@ -2,7 +2,7 @@
 title: Archidiocese of Toronto
 slug: "archidiocese-of-toronto"
 description: ""
-date: "2026-03-13T08:56:59.469926"
+date: "2026-03-13T09:22:53.714059"
 draft: false
 sectors:
   - "public-sector"
@@ -48,15 +48,15 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - "pantone-7411"
-  - red
-  - "pantone-1788"
-  - blue
   - "pantone-660"
   - yellow
-  - green
   - black
   - "pantone-355"
+  - red
+  - blue
+  - green
+  - "pantone-1788"
+  - "pantone-7411"
 typographies:
   - georgia
 imagery_styles: []
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

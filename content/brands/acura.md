@@ -2,7 +2,7 @@
 title: Acura
 slug: acura
 description: ""
-date: "2026-03-13T08:56:59.187668"
+date: "2026-03-13T09:22:52.868231"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -30,8 +30,8 @@ products_or_materials_produced:
   - "luxury-vehicle"
 products: []
 headquarters_locations:
-  - tokyo
   - torrance
+  - tokyo
   - minato
 subsidiaries: []
 foundation_dates:
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -85,7 +86,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
-| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/); [Torrance](/headquarters_locations/torrance/); [Minato](/headquarters_locations/minato/) |
+| Headquarters Location | [Torrance](/headquarters_locations/torrance/); [Tokyo](/headquarters_locations/tokyo/); [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1986](/foundation_dates/1986/) |
 | Topic'S Main Category | Category:Acura |
 | Freebase Id | /m/011xz6, /m/0h5wtp0 |

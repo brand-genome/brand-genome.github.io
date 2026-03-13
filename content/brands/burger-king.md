@@ -2,7 +2,7 @@
 title: Burger King
 slug: "burger-king"
 description: ""
-date: "2026-03-13T08:56:59.224406"
+date: "2026-03-13T09:22:53.069552"
 draft: false
 sectors:
   - restaurant
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries:
   - "fast-food-restaurant-chain"
 countries:
@@ -29,34 +29,34 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "quesadilla-cu-pui-si-branza-cheddar"
-  - cheeseburger
-  - "burger-king-chicken-nuggets"
-  - apple
-  - "salata-greceasca-cu-branza-feta"
-  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
-  - "soft-drink"
-  - "cartofi-dulci-prajiti-cu-sos-picant"
-  - whopper
-  - "supa-crema-de-rosii-cu-busuioc"
-  - fries
-  - hamburger
-  - "hot-dog"
-  - salad
-  - "tacos-cu-creveti-si-salsa-de-avocado"
-  - "milkshake-de-vanilie-cu-sos-de-caramel"
-  - "big-king"
-  - "bk-chicken-fries"
   - "crispy-chicken-burger-king"
-  - dessert
+  - "tacos-cu-creveti-si-salsa-de-avocado"
+  - "cartofi-dulci-prajiti-cu-sos-picant"
+  - cheeseburger
   - "whopper-picant-cu-jalapenos"
+  - "supa-crema-de-rosii-cu-busuioc"
+  - "hot-dog"
+  - "big-king"
+  - "salata-greceasca-cu-branza-feta"
+  - apple
+  - "burger-king-chicken-nuggets"
+  - fries
+  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
+  - "quesadilla-cu-pui-si-branza-cheddar"
+  - dessert
+  - "bk-chicken-fries"
+  - "milkshake-de-vanilie-cu-sos-de-caramel"
+  - hamburger
+  - salad
+  - "soft-drink"
+  - whopper
 products: []
 headquarters_locations:
   - "miami-dade-county"
 subsidiaries: []
 foundation_dates:
-  - 1956
   - 1954
+  - 1956
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -85,6 +85,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -104,9 +105,9 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Quesadilla Cu Pui Si Branza Cheddar](/products_or_materials_produced/quesadilla-cu-pui-si-branza-cheddar/); [Cheeseburger](/products_or_materials_produced/cheeseburger/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Apple](/products_or_materials_produced/apple/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Desert Mousse De Ciocolata Cu Fructe De Padure](/products_or_materials_produced/desert-mousse-de-ciocolata-cu-fructe-de-padure/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Whopper](/products_or_materials_produced/whopper/); [Supa Crema De Rosii Cu Busuioc](/products_or_materials_produced/supa-crema-de-rosii-cu-busuioc/); [Fries](/products_or_materials_produced/fries/); [Hamburger](/products_or_materials_produced/hamburger/); +9 more |
+| Product Or Material Produced | [Crispy Chicken Burger King](/products_or_materials_produced/crispy-chicken-burger-king/); [Tacos Cu Creveti Si Salsa De Avocado](/products_or_materials_produced/tacos-cu-creveti-si-salsa-de-avocado/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Cheeseburger](/products_or_materials_produced/cheeseburger/); [Whopper Picant Cu Jalapenos](/products_or_materials_produced/whopper-picant-cu-jalapenos/); [Supa Crema De Rosii Cu Busuioc](/products_or_materials_produced/supa-crema-de-rosii-cu-busuioc/); [Hot Dog](/products_or_materials_produced/hot-dog/); [Big King](/products_or_materials_produced/big-king/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Apple](/products_or_materials_produced/apple/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Fries](/products_or_materials_produced/fries/); +9 more |
 | Headquarters Location | [Miami Dade County](/headquarters_locations/miami-dade-county/) |
-| Foundation Date | [1956](/foundation_dates/1956/); [1954](/foundation_dates/1954/) |
+| Foundation Date | [1954](/foundation_dates/1954/); [1956](/foundation_dates/1956/) |
 | Viaf Cluster Id | 132616942 |
 | Imdb Id | co0101846 |
 | Topic'S Main Category | Category:Burger King |

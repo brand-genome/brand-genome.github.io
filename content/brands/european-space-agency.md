@@ -2,11 +2,11 @@
 title: European Space Agency
 slug: "european-space-agency"
 description: ""
-date: "2026-03-13T08:56:59.514013"
+date: "2026-03-13T09:22:53.971971"
 draft: false
 sectors:
-  - satellite
   - "space-technology"
+  - satellite
 regions:
   - europe
 years:
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - featured
+  - aeronautic
 industries:
-  - "activities-of-extraterritorial-organizations-and-bodies"
   - "research-and-development"
+  - "activities-of-extraterritorial-organizations-and-bodies"
 countries:
   - france
 revenue_buckets: []
@@ -55,9 +55,9 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - white
-  - silver
   - black
+  - silver
+  - white
 typographies:
   - verdana
   - impact
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,16 +2,16 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-03-13T08:56:59.541710"
+date: "2026-03-13T09:22:54.216541"
 draft: false
 sectors:
   - automobile
 regions:
-  - usa
   - japan
+  - usa
 years:
-  - 2016
   - 2008
+  - 2016
 languages:
   - english
 tags:
@@ -35,13 +35,13 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "musical-instrument"
+  - "loudspeaker-enclosure"
   - software
   - "sports-equipment"
-  - "loudspeaker-enclosure"
 products: []
 headquarters_locations:
-  - "naka-ku"
   - japan
+  - "naka-ku"
 subsidiaries: []
 foundation_dates:
   - 1987
@@ -63,21 +63,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - logomark
   - wordmark
+  - stacked
   - vertical
 brand_colors:
-  - white
-  - red
-  - yellow
   - silver
-  - black
   - gray
+  - yellow
+  - black
   - magenta
+  - red
+  - white
 typographies:
-  - verdana
   - ubuntu
+  - verdana
 imagery_styles:
   - dynamic
   - product
@@ -89,6 +89,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -178,8 +179,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Musical Instrument](/products_or_materials_produced/musical-instrument/); [Software](/products_or_materials_produced/software/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/) |
-| Headquarters Location | [Naka Ku](/headquarters_locations/naka-ku/); [Japan](/headquarters_locations/japan/) |
+| Product Or Material Produced | [Musical Instrument](/products_or_materials_produced/musical-instrument/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/); [Software](/products_or_materials_produced/software/); [Sports Equipment](/products_or_materials_produced/sports-equipment/) |
+| Headquarters Location | [Japan](/headquarters_locations/japan/); [Naka Ku](/headquarters_locations/naka-ku/) |
 | Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | Japan |
 | Topic'S Main Category | Category:Yamaha Corporation |

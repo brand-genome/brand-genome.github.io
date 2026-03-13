@@ -2,11 +2,11 @@
 title: König Pilsener
 slug: "konig-pilsener"
 description: ""
-date: "2026-03-13T08:56:59.222128"
+date: "2026-03-13T09:22:53.066582"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

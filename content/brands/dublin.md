@@ -2,7 +2,7 @@
 title: Dublin
 slug: dublin
 description: ""
-date: "2026-03-13T08:56:59.787273"
+date: "2026-03-13T09:22:54.819356"
 draft: false
 sectors:
   - tourism
@@ -50,22 +50,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-1365"
-  - grey
-  - blue
-  - "pantone-322"
-  - yellow
-  - "pantone-4545"
-  - turquoise
   - "pantone-325"
-  - coral
-  - black
+  - "pantone-322"
+  - "pantone-4545"
   - "pantone-5513"
+  - grey
+  - yellow
   - "pantone-426"
+  - black
+  - "pantone-1365"
+  - blue
+  - coral
+  - turquoise
 typographies:
-  - "source-sans"
-  - gotham
   - arial
+  - gotham
+  - "source-sans"
 imagery_styles:
   - vibrant
   - illustration
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

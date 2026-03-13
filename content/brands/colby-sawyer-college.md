@@ -2,7 +2,7 @@
 title: "Colby-Sawyer College"
 slug: "colby-sawyer-college"
 description: ""
-date: "2026-03-13T08:56:59.402266"
+date: "2026-03-13T09:22:53.508293"
 draft: false
 sectors:
   - university
@@ -54,8 +54,8 @@ logo_elements:
   - vertical
 brand_colors: []
 typographies:
-  - lato
   - merriweather
+  - lato
 imagery_styles: []
 wikidata_description: "Private college in New Hampshire, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q5142055"
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

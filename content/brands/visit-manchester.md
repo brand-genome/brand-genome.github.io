@@ -2,7 +2,7 @@
 title: Visit Manchester
 slug: "visit-manchester"
 description: ""
-date: "2026-03-13T08:56:59.281396"
+date: "2026-03-13T09:22:53.264313"
 draft: false
 sectors:
   - tourism
@@ -49,11 +49,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - "pantone-569"
   - "pantone-1905"
   - purple
-  - green
   - "pantone-227"
-  - "pantone-569"
+  - green
 typographies: []
 imagery_styles:
   - vibrant
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

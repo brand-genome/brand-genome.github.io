@@ -2,7 +2,7 @@
 title: Yembo.ai
 slug: yemboai
 description: ""
-date: "2026-03-13T08:56:59.245490"
+date: "2026-03-13T09:22:53.117872"
 draft: false
 sectors:
   - software
@@ -49,36 +49,36 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - gray
+  - black
+  - "pantone-2583"
+  - pink
+  - "pantone-539"
+  - green
   - white
   - "pantone-3405"
-  - blue
-  - "pantone-642"
-  - purple
-  - black
-  - "pantone-1225"
-  - pink
-  - "pantone-2583"
-  - "pantone-7541"
-  - "pantone-184"
-  - orange
-  - coral
-  - gray
-  - "pantone-2013"
   - "pantone-170"
-  - "pantone-539"
-  - "pantone-656"
-  - green
-  - "pantone-291"
   - grey
-  - yellow
-  - "pantone-7463"
+  - "pantone-291"
+  - "pantone-656"
   - "pantone-2927"
+  - "pantone-642"
+  - "pantone-184"
+  - "pantone-1225"
   - "pantone-2176"
+  - purple
+  - "pantone-7541"
+  - "pantone-7463"
+  - yellow
+  - orange
+  - blue
+  - coral
+  - "pantone-2013"
 typographies:
   - montserrat
 imagery_styles:
-  - natural
   - modern
+  - natural
   - illustration
   - realistic
   - photography
@@ -91,6 +91,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

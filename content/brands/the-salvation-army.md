@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-03-13T08:56:59.425429"
+date: "2026-03-13T09:22:53.639705"
 draft: false
 sectors:
   - ngo
@@ -15,9 +15,9 @@ languages:
 tags:
   - charity
 industries:
+  - "other-social-work-activities-without-accommodation-nec"
   - "activities-of-religious-organisations"
   - "voluntary-sector"
-  - "other-social-work-activities-without-accommodation-nec"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - london
   - plano
+  - london
 subsidiaries: []
 foundation_dates:
   - 1865
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -110,7 +111,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [London](/headquarters_locations/london/); [Plano](/headquarters_locations/plano/) |
+| Headquarters Location | [Plano](/headquarters_locations/plano/); [London](/headquarters_locations/london/) |
 | Foundation Date | [1865](/foundation_dates/1865/) |
 | Topic'S Main Category | Category:The Salvation Army |
 | Ndl Authority Id | 00617013 |

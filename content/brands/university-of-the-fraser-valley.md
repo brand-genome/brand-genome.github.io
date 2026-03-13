@@ -2,7 +2,7 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-03-13T08:56:59.737994"
+date: "2026-03-13T09:22:54.766305"
 draft: false
 sectors:
   - education
@@ -53,24 +53,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - vertical
-  - crest
-  - seal
   - wordmark
+  - primary
+  - crest
+  - vertical
+  - secondary
+  - seal
 brand_colors:
   - black
 typographies:
-  - playfair
-  - "open-sans"
   - display
-  - roboto
-  - serif
+  - "open-sans"
   - "sans-serif"
+  - serif
+  - playfair
+  - roboto
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "public university in British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q2495961"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

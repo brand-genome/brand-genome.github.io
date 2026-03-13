@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-03-13T08:56:59.567133"
+date: "2026-03-13T09:22:54.339792"
 draft: false
 sectors:
   - automobile
@@ -47,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - badge
   - primary
   - horizontal
-  - badge
   - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - dynamic
+  - photography
 wikidata_description: British car marque used by Jaguar Land Rover
 wikidata_url: "https://www.wikidata.org/wiki/Q26777551"
 has_twitter: false
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

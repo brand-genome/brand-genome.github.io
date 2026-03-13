@@ -2,11 +2,11 @@
 title: Irish Red Cross
 slug: "irish-red-cross"
 description: ""
-date: "2026-03-13T08:56:59.435265"
+date: "2026-03-13T09:22:53.652947"
 draft: false
 sectors:
-  - ngo
   - "emergency-services"
+  - ngo
 regions:
   - ireland
 years:
@@ -50,18 +50,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-485"
-  - red
   - black
+  - "pantone-485"
   - white
+  - red
 typographies:
+  - arial
   - helvetica
   - times
-  - arial
 imagery_styles:
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

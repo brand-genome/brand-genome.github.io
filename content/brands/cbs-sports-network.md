@@ -2,7 +2,7 @@
 title: CBS Sports Network
 slug: "cbs-sports-network"
 description: ""
-date: "2026-03-13T08:56:59.728656"
+date: "2026-03-13T09:22:54.743643"
 draft: false
 sectors:
   - sports
@@ -51,16 +51,16 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
-  - din
   - "sans-serif"
+  - din
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

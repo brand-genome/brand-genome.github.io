@@ -2,16 +2,16 @@
 title: Special Olympics
 slug: "special-olympics"
 description: ""
-date: "2026-03-13T08:56:59.443063"
+date: "2026-03-13T09:22:53.665943"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - international
 years:
-  - 2002
   - 2012
+  - 2002
   - 2016
 languages:
   - english
@@ -51,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - alternate
+  - secondary
+  - primary
 brand_colors:
-  - red
-  - blue
   - yellow
   - black
   - teal
+  - red
+  - blue
 typographies:
+  - arial
   - helvetica
   - times
   - impact
-  - arial
 imagery_styles: []
 wikidata_description: sporting competition for people with intellectual disabilities
 wikidata_url: "https://www.wikidata.org/wiki/Q15056133"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

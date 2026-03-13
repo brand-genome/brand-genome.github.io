@@ -2,12 +2,12 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-03-13T08:56:59.269958"
+date: "2026-03-13T09:22:53.255145"
 draft: false
 sectors:
-  - ngo
   - research
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - charity
+  - health
 industries: []
 countries:
   - "united-states"
@@ -55,17 +55,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
-  - vertical
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - photography
   - portrait
+  - photography
   - bold
 wikidata_description: United States nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q751572"
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

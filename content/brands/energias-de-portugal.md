@@ -2,7 +2,7 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-03-13T08:56:59.238270"
+date: "2026-03-13T09:22:53.084070"
 draft: false
 sectors:
   - utilities
@@ -10,16 +10,16 @@ sectors:
 regions:
   - portugal
 years:
-  - 2022
   - 2015
-  - 2018
   - 2013
+  - 2022
+  - 2018
 languages:
   - english
   - portuguese
 tags:
-  - corporate
   - featured
+  - corporate
 industries:
   - "electricity-supply-company"
 countries:
@@ -35,8 +35,8 @@ products_or_materials_produced:
   - "electric-power"
 products: []
 headquarters_locations:
-  - "edp-headquarters"
   - lisbon
+  - "edp-headquarters"
 subsidiaries: []
 foundation_dates:
   - 1976
@@ -58,28 +58,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - logomark
   - monogram
+  - wordmark
   - primary
   - vertical
+  - secondary
   - abstract
-  - wordmark
 brand_colors:
+  - "pantone-2985"
+  - black
   - white
   - blue
-  - "pantone-7462"
   - green
-  - black
-  - "pantone-2985"
+  - "pantone-7462"
 typographies: []
 imagery_styles:
-  - dynamic
   - illustration
   - playful
+  - dynamic
   - photography
-  - graphic
   - abstract
+  - graphic
 wikidata_description: Portuguese energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q1341222"
 has_twitter: false
@@ -87,6 +87,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -657,7 +658,7 @@ y visual de la marca
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Electric Power](/products_or_materials_produced/electric-power/) |
-| Headquarters Location | [Edp Headquarters](/headquarters_locations/edp-headquarters/); [Lisbon](/headquarters_locations/lisbon/) |
+| Headquarters Location | [Lisbon](/headquarters_locations/lisbon/); [Edp Headquarters](/headquarters_locations/edp-headquarters/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Stock Exchange | Euronext Lisbon |
 | Freebase Id | /m/06j3rw |

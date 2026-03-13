@@ -2,11 +2,11 @@
 title: UCLA Athletics
 slug: "ucla-athletics"
 description: ""
-date: "2026-03-13T08:56:59.139211"
+date: "2026-03-13T09:22:52.310027"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - education
   - sport
-  - featured
 industries: []
 countries:
   - "united-states"
@@ -52,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - lockup
-  - mascot
   - wordmark
+  - primary
+  - mascot
+  - lockup
+  - secondary
 brand_colors:
-  - white
   - "pantone-2383"
-  - blue
-  - pink
   - "pantone-3553"
-  - gold
-  - "pantone-130"
   - "pantone-227"
+  - "pantone-130"
   - black
+  - pink
+  - blue
+  - gold
+  - white
 typographies:
   - gotham
 imagery_styles:
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

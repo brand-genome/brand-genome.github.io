@@ -2,7 +2,7 @@
 title: Dun and Bradstreet
 slug: "dun-and-bradstreet"
 description: ""
-date: "2026-03-13T08:56:59.520499"
+date: "2026-03-13T09:22:54.046505"
 draft: false
 sectors:
   - consulting
@@ -18,8 +18,8 @@ tags:
   - financial
 industries: []
 countries:
-  - israel
   - "united-states"
+  - israel
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "company-information-system"
   - "d-u-n-s"
   - "db-business-directory-id"
-  - "company-information-system"
 products: []
 headquarters_locations:
   - jacksonville
@@ -56,9 +56,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
   - "pantone-3025"
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -134,7 +135,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [D U N S](/products_or_materials_produced/d-u-n-s/); [Db Business Directory Id](/products_or_materials_produced/db-business-directory-id/); [Company Information System](/products_or_materials_produced/company-information-system/) |
+| Product Or Material Produced | [Company Information System](/products_or_materials_produced/company-information-system/); [D U N S](/products_or_materials_produced/d-u-n-s/); [Db Business Directory Id](/products_or_materials_produced/db-business-directory-id/) |
 | Headquarters Location | [Jacksonville](/headquarters_locations/jacksonville/) |
 | Foundation Date | [1841](/foundation_dates/1841/) |
 | Stock Exchange | New York Stock Exchange |

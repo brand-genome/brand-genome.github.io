@@ -2,7 +2,7 @@
 title: Mobile Pay
 slug: "mobile-pay"
 description: ""
-date: "2026-03-13T08:56:59.843019"
+date: "2026-03-13T09:22:55.048659"
 draft: false
 sectors:
   - software
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - software
-  - financial
   - featured
+  - financial
+  - software
 industries: []
 countries:
   - "united-kingdom"
@@ -59,8 +59,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - natural
   - playful
+  - natural
   - bold
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11989716"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: A. Smith Bowman Distillery
 slug: "a-smith-bowman-distillery"
 description: ""
-date: "2026-03-13T08:56:59.465804"
+date: "2026-03-13T09:22:53.709133"
 draft: false
 sectors:
   - drink
@@ -53,8 +53,8 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - brown
   - yellow
+  - brown
 typographies:
   - impact
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

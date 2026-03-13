@@ -2,7 +2,7 @@
 title: Freepik
 slug: freepik
 description: ""
-date: "2026-03-13T08:56:59.138314"
+date: "2026-03-13T09:22:52.308868"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - featured
+  - internet
 industries:
   - "stock-photography"
 countries:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

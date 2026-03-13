@@ -2,7 +2,7 @@
 title: Rain City
 slug: "rain-city"
 description: ""
-date: "2026-03-13T08:56:59.718148"
+date: "2026-03-13T09:22:54.727467"
 draft: false
 sectors:
   - sports
@@ -51,17 +51,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - black
   - purple
   - white
-  - black
 typographies:
   - "proxima-nova"
-  - impact
   - display
+  - impact
 imagery_styles:
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q16931474"
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

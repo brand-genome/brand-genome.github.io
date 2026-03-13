@@ -2,11 +2,11 @@
 title: The Kavli Foundation
 slug: "the-kavli-foundation"
 description: ""
-date: "2026-03-13T08:56:59.356105"
+date: "2026-03-13T09:22:53.404881"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - usa
 years:
@@ -50,25 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
-  - lockup
+  - primary
   - secondary
+  - lockup
 brand_colors:
-  - white
+  - gray
+  - black
   - red
   - blue
+  - white
   - "pantone-288"
-  - black
-  - gray
 typographies:
-  - avenir
   - serif
+  - avenir
 imagery_styles:
+  - classic
   - modern
   - subtle
   - photography
-  - classic
   - bold
 wikidata_description: foundation that supports the advancement of science
 wikidata_url: "https://www.wikidata.org/wiki/Q3441043"
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

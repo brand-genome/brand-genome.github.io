@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-03-13T08:56:59.562112"
+date: "2026-03-13T09:22:54.333615"
 draft: false
 sectors:
-  - "public-sector"
-  - "arts-culture"
   - education
-  - ngo
+  - "arts-culture"
   - research
+  - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -53,13 +53,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
-  - secondary
   - symbol
+  - secondary
+  - emblem
   - vertical
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies: []
 imagery_styles: []
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

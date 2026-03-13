@@ -2,7 +2,7 @@
 title: University of North Carolina at Chapel Hill
 slug: "university-of-north-carolina-at-chapel-hill"
 description: ""
-date: "2026-03-13T08:56:59.127853"
+date: "2026-03-13T09:22:52.237459"
 draft: false
 sectors:
   - education
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

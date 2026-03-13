@@ -2,11 +2,11 @@
 title: Arts Midwest
 slug: "arts-midwest"
 description: ""
-date: "2026-03-13T08:56:59.109809"
+date: "2026-03-13T09:22:52.197549"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - art
   - featured
+  - art
 industries: []
 countries:
   - "united-states"
@@ -50,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
-  - horizontal
   - secondary
+  - stacked
+  - horizontal
 brand_colors:
   - "pantone-170"
-  - white
   - purple
-  - green
-  - coral
+  - "pantone-2297"
+  - "pantone-5275"
   - "pantone-2366"
   - black
-  - "pantone-5275"
-  - "pantone-2297"
+  - coral
+  - green
+  - white
 typographies: []
 imagery_styles:
   - bold
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

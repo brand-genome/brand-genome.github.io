@@ -2,7 +2,7 @@
 title: Delta.com
 slug: deltacom
 description: ""
-date: "2026-03-13T08:56:59.273204"
+date: "2026-03-13T09:22:53.256596"
 draft: false
 sectors:
   - airline
@@ -51,16 +51,16 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - white
+  - yellow
+  - orange
   - red
   - blue
-  - yellow
   - green
-  - orange
+  - white
 typographies:
   - verdana
-  - impact
   - "sans-serif"
+  - impact
 imagery_styles:
   - product
   - bold
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-03-13T08:56:59.362790"
+date: "2026-03-13T09:22:53.427773"
 draft: false
 sectors:
   - education
@@ -48,25 +48,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
 brand_colors:
-  - white
-  - red
   - navy
-  - blue
   - yellow
-  - green
   - black
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - helvetica
 imagery_styles:
   - natural
   - clean
-  - static
-  - professional
   - photography
+  - professional
   - bold
+  - static
 wikidata_description: early stage in software design
 wikidata_url: "https://www.wikidata.org/wiki/Q2122918"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Polytech
 slug: polytech
 description: ""
-date: "2026-03-13T08:56:59.461377"
+date: "2026-03-13T09:22:53.703089"
 draft: false
 sectors:
   - education
@@ -28,9 +28,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "7th-arrondissement-of-paris"
-  - palaiseau
   - "5th-arrondissement-of-paris"
+  - palaiseau
+  - "7th-arrondissement-of-paris"
 subsidiaries: []
 foundation_dates:
   - 1794
@@ -54,18 +54,18 @@ body_sections: []
 logo_elements:
   - monogram
   - abstract
-  - signature
   - vertical
+  - signature
 brand_colors:
   - blue
 typographies:
   - "sans-serif"
 imagery_styles:
   - modern
-  - professional
   - candid
-  - photography
   - abstract
+  - photography
+  - professional
 wikidata_description: French engineering grande école (selective higher education institution)
 wikidata_url: "https://www.wikidata.org/wiki/Q273626"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -125,7 +126,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [7Th Arrondissement Of Paris](/headquarters_locations/7th-arrondissement-of-paris/); [Palaiseau](/headquarters_locations/palaiseau/); [5Th Arrondissement Of Paris](/headquarters_locations/5th-arrondissement-of-paris/) |
+| Headquarters Location | [5Th Arrondissement Of Paris](/headquarters_locations/5th-arrondissement-of-paris/); [Palaiseau](/headquarters_locations/palaiseau/); [7Th Arrondissement Of Paris](/headquarters_locations/7th-arrondissement-of-paris/) |
 | Foundation Date | [1794](/foundation_dates/1794/) |
 | Freebase Id | /m/01v0b8 |
 | Country | France |

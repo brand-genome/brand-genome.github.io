@@ -2,11 +2,11 @@
 title: Transport Scotland
 slug: "transport-scotland"
 description: ""
-date: "2026-03-13T08:56:59.592745"
+date: "2026-03-13T09:22:54.553456"
 draft: false
 sectors:
-  - "public-sector"
   - "public-transportation"
+  - "public-sector"
 regions:
   - scotland
 years:
@@ -50,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - secondary
+  - stacked
 brand_colors:
-  - white
-  - blue
+  - "pantone-2717"
   - "pantone-2736"
   - black
-  - "pantone-2717"
+  - blue
+  - white
 typographies:
-  - "gill-sans"
   - arial
+  - "gill-sans"
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: national transport agency of Scotland
 wikidata_url: "https://www.wikidata.org/wiki/Q7834896"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

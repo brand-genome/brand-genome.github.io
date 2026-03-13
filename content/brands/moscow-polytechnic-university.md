@@ -2,7 +2,7 @@
 title: Moscow Polytechnic University
 slug: "moscow-polytechnic-university"
 description: ""
-date: "2026-03-13T08:56:59.239960"
+date: "2026-03-13T09:22:53.085895"
 draft: false
 sectors:
   - university
@@ -17,8 +17,8 @@ tags:
   - university
 industries: []
 countries:
-  - russia
   - "soviet-union"
+  - russia
   - "russian-empire"
 revenue_buckets: []
 operating_income_buckets: []
@@ -33,8 +33,8 @@ headquarters_locations:
   - moscow
 subsidiaries: []
 foundation_dates:
-  - 1865
   - 1864
+  - 1865
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -122,7 +123,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
-| Foundation Date | [1865](/foundation_dates/1865/); [1864](/foundation_dates/1864/) |
+| Foundation Date | [1864](/foundation_dates/1864/); [1865](/foundation_dates/1865/) |
 | Coordinate Location | 55.7812, 37.7116, 55.781547, 37.711268 |
 | Country | Russia, Russian Empire, Soviet Union |
 | Freebase Id | /m/02vlkkf |

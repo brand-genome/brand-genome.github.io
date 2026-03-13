@@ -2,7 +2,7 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-03-13T08:56:59.826930"
+date: "2026-03-13T09:22:55.020821"
 draft: false
 sectors:
   - biotech
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
+  - featured
   - biology
   - science
-  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -55,12 +55,12 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - "open-sans"
   - display
+  - "open-sans"
   - arial
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: research institute at University of Edinburgh
 wikidata_url: "https://www.wikidata.org/wiki/Q132530755"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

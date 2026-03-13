@@ -2,7 +2,7 @@
 title: ECD Architects
 slug: "ecd-architects"
 description: ""
-date: "2026-03-13T08:56:59.296671"
+date: "2026-03-13T09:22:53.282841"
 draft: false
 sectors:
   - architecture
@@ -49,13 +49,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
-  - white
   - green
   - grey
+  - white
 typographies:
   - arial
 imagery_styles:
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

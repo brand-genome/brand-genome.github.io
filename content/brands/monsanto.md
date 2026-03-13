@@ -2,7 +2,7 @@
 title: Monsanto
 slug: monsanto
 description: ""
-date: "2026-03-13T08:56:59.840583"
+date: "2026-03-13T09:22:55.046171"
 draft: false
 sectors:
   - biotech
@@ -30,9 +30,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - herbicide
-  - seed
   - fertilizer
+  - seed
+  - herbicide
 products: []
 headquarters_locations:
   - "st-louis"
@@ -59,15 +59,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies:
-  - arial
-  - helvetica
-  - garamond
   - verdana
+  - garamond
+  - helvetica
+  - arial
   - times
 imagery_styles:
   - photography
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -125,7 +126,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Herbicide](/products_or_materials_produced/herbicide/); [Seed](/products_or_materials_produced/seed/); [Fertilizer](/products_or_materials_produced/fertilizer/) |
+| Product Or Material Produced | [Fertilizer](/products_or_materials_produced/fertilizer/); [Seed](/products_or_materials_produced/seed/); [Herbicide](/products_or_materials_produced/herbicide/) |
 | Headquarters Location | [St Louis](/headquarters_locations/st-louis/); [Creve Coeur](/headquarters_locations/creve-coeur/) |
 | Foundation Date | [1901](/foundation_dates/1901/) |
 | Founded By | John Francis Queeny |

@@ -2,7 +2,7 @@
 title: Blue Prism
 slug: "blue-prism"
 description: ""
-date: "2026-03-13T08:56:59.378685"
+date: "2026-03-13T09:22:53.445173"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries:
   - "robotic-process-automation"
 countries:
@@ -56,11 +56,11 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - staged
-  - macro
-  - illustration
-  - photography
   - flat
+  - illustration
+  - macro
+  - staged
+  - photography
   - abstract
 wikidata_description: British software company
 wikidata_url: "https://www.wikidata.org/wiki/Q30324186"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

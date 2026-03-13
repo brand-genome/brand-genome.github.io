@@ -2,7 +2,7 @@
 title: Conservation International
 slug: "conservation-international"
 description: ""
-date: "2026-03-13T08:56:59.544681"
+date: "2026-03-13T09:22:54.220334"
 draft: false
 sectors:
   - ngo
@@ -54,19 +54,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
   - alternate
+  - primary
 brand_colors:
-  - white
-  - green
-  - blue
   - gray
+  - green
+  - white
+  - blue
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: nonprofit environmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1127365"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Atlantic Technological University
 slug: "atlantic-technological-university"
 description: ""
-date: "2026-03-13T08:56:59.289821"
+date: "2026-03-13T09:22:53.274952"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - education
   - university
-  - featured
 industries: []
 countries:
   - ireland
@@ -58,16 +58,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - navy
-  - yellow
   - purple
-  - green
+  - navy
+  - grey
+  - yellow
   - orange
   - teal
+  - green
 typographies:
-  - georgia
   - display
+  - georgia
   - arial
 imagery_styles: []
 wikidata_description: Technological university in the north west of Ireland
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

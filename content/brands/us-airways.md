@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-03-13T08:56:59.505192"
+date: "2026-03-13T09:22:53.964157"
 draft: false
 sectors:
   - airline
@@ -27,8 +27,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - tempe
   - "arlington-county"
+  - tempe
   - "crystal-city"
 subsidiaries: []
 foundation_dates:
@@ -56,15 +56,15 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
+  - arial
   - frutiger
   - verdana
   - display
-  - arial
 imagery_styles:
   - photography
   - gradient
-  - clean
   - bold
+  - clean
 wikidata_description: former airline in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q208046"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -132,7 +133,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Arlington County](/headquarters_locations/arlington-county/); [Crystal City](/headquarters_locations/crystal-city/) |
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Tempe](/headquarters_locations/tempe/); [Crystal City](/headquarters_locations/crystal-city/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Airline Hub | Charlotte Douglas International Airport, Philadelphia International Airport, Phoenix Sky Harbor International Airport, Ronald Reagan Washington National Airport |
 | Item Operated | Airbus A320 family, Airbus A330, Boeing 767, Boeing 757, E-Jet (+3 more) |

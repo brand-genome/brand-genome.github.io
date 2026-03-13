@@ -2,7 +2,7 @@
 title: Alpha Omicron Pi
 slug: "alpha-omicron-pi"
 description: ""
-date: "2026-03-13T08:56:59.587342"
+date: "2026-03-13T09:22:54.420319"
 draft: false
 sectors:
   - ngo
@@ -48,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
-  - wordmark
+  - primary
   - secondary
+  - wordmark
 brand_colors:
-  - gray
   - coral
   - black
+  - gray
   - pink
 typographies:
-  - script
   - "sans-serif"
+  - script
 imagery_styles:
   - bold
 wikidata_description: "nonprofit organization in Brentwood, United States"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

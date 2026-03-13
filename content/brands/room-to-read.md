@@ -2,12 +2,12 @@
 title: Room to Read
 slug: "room-to-read"
 description: ""
-date: "2026-03-13T08:56:59.143233"
+date: "2026-03-13T09:22:52.314887"
 draft: false
 sectors:
   - education
-  - ngo
   - publishing
+  - ngo
 regions:
   - usa
 years:
@@ -16,9 +16,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - education
   - ngo
-  - featured
 industries:
   - education
 countries:
@@ -57,27 +57,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
-  - secondary
+  - wordmark
   - primary
   - vertical
-  - wordmark
+  - secondary
+  - signature
 brand_colors:
-  - white
   - grey
-  - blue
   - yellow
-  - green
-  - black
   - orange
+  - black
+  - blue
+  - green
+  - white
 typographies:
+  - arial
   - helvetica
   - impact
-  - arial
 imagery_styles:
   - natural
-  - photography
   - vibrant
+  - photography
   - colorful
   - bold
 wikidata_description: "American non-profit focused on literacy"
@@ -87,6 +87,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

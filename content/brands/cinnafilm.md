@@ -2,11 +2,11 @@
 title: Cinnafilm
 slug: cinnafilm
 description: ""
-date: "2026-03-13T08:56:59.379165"
+date: "2026-03-13T09:22:53.445756"
 draft: false
 sectors:
-  - broadcasting
   - software
+  - broadcasting
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
+  - symbol
   - alternate
   - primary
-  - symbol
-  - wordmark
+  - secondary
 brand_colors:
-  - white
+  - purple
+  - gray
+  - orange
+  - black
   - blue
   - gold
-  - purple
-  - black
-  - orange
-  - gray
+  - white
 typographies:
+  - display
   - monospace
   - helvetica
   - roboto
-  - display
 imagery_styles:
   - product
   - professional
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

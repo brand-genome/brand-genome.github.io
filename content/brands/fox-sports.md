@@ -2,7 +2,7 @@
 title: FOX Sports
 slug: "fox-sports"
 description: ""
-date: "2026-03-13T08:56:59.293994"
+date: "2026-03-13T09:22:53.279617"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - sport
-  - broadcast
   - media
+  - broadcast
+  - sport
 industries: []
 countries:
   - australia
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Predator
 slug: predator
 description: ""
-date: "2026-03-13T08:56:59.413410"
+date: "2026-03-13T09:22:53.543896"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -47,22 +47,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
+  - black
+  - "pantone-185"
   - white
   - red
-  - "pantone-185"
-  - black
 typographies:
   - arial
 imagery_styles:
   - photography
-  - product
   - modern
+  - product
   - bold
 wikidata_description: organism that preys upon and consumes other organisms through various methods of predation
 wikidata_url: "https://www.wikidata.org/wiki/Q29017578"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

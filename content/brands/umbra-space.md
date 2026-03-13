@@ -2,11 +2,11 @@
 title: Umbra Space
 slug: "umbra-space"
 description: ""
-date: "2026-03-13T08:56:59.116346"
+date: "2026-03-13T09:22:52.228317"
 draft: false
 sectors:
-  - satellite
   - "space-technology"
+  - satellite
 regions:
   - usa
 years:
@@ -51,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - logomark
+  - emblem
   - wordmark
 brand_colors:
-  - white
   - navy
-  - blue
-  - black
   - orange
+  - black
+  - blue
+  - white
 typographies: []
 imagery_styles:
   - clean
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

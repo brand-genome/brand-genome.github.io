@@ -2,7 +2,7 @@
 title: "Araujo & Sobrinho"
 slug: "araujo-sobrinho"
 description: ""
-date: "2026-03-13T08:56:59.157521"
+date: "2026-03-13T09:22:52.333325"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - "arts-and-crafts"
   - featured
+  - "arts-and-crafts"
 industries: []
 countries: []
 revenue_buckets: []
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

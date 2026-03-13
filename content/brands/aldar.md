@@ -2,7 +2,7 @@
 title: Aldar
 slug: aldar
 description: ""
-date: "2026-03-13T08:56:59.037574"
+date: "2026-03-13T09:22:51.910755"
 draft: false
 sectors:
   - "real-estate"
@@ -49,16 +49,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - black
   - beige
   - white
-  - black
 typographies:
   - times
   - poppins
 imagery_styles:
-  - natural
-  - clean
   - dynamic
+  - clean
+  - natural
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Deutsche Bank
 slug: "deutsche-bank"
 description: ""
-date: "2026-03-13T08:56:59.193232"
+date: "2026-03-13T09:22:52.885850"
 draft: false
 sectors:
   - finance
@@ -10,20 +10,20 @@ regions:
   - germany
 years:
   - 2011
-  - 1978
   - 2022
+  - 1978
 languages:
   - english
   - german
 tags:
-  - financial
   - vintage
   - featured
+  - financial
 industries:
-  - "financial-sector"
   - "financial-service-activities-except-insurance-and-pension-funding"
-  - "financial-services"
   - "other-monetary-intermediation"
+  - "financial-services"
+  - "financial-sector"
 countries:
   - germany
 revenue_buckets:
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

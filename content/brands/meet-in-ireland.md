@@ -2,7 +2,7 @@
 title: Meet in Ireland
 slug: "meet-in-ireland"
 description: ""
-date: "2026-03-13T08:56:59.613342"
+date: "2026-03-13T09:22:54.576595"
 draft: false
 sectors:
   - tourism
@@ -47,20 +47,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - grey
-  - "pantone-369"
-  - green
-  - "pantone-347"
   - "pantone-417"
+  - "pantone-347"
+  - "pantone-369"
+  - grey
+  - green
+  - white
 typographies:
-  - impact
   - arial
+  - impact
 imagery_styles:
   - photography
   - bold
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

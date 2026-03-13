@@ -2,11 +2,11 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-03-13T08:56:59.911523"
+date: "2026-03-13T09:22:55.169237"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - usa
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - university
+  - institution
 industries: []
 countries:
   - "united-states"
@@ -52,23 +52,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
-  - secondary
   - seal
+  - secondary
+  - icon
 brand_colors:
-  - white
-  - blue
   - yellow
   - gold
+  - blue
   - green
+  - white
 typographies:
-  - arial
-  - helvetica
   - "open-sans"
   - display
-  - serif
+  - helvetica
   - "sans-serif"
+  - serif
+  - arial
 imagery_styles: []
 wikidata_description: "state university in Greeley, Colorado, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1783608"
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

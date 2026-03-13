@@ -2,11 +2,11 @@
 title: NIG Hotel
 slug: "nig-hotel"
 description: ""
-date: "2026-03-13T08:56:59.225578"
+date: "2026-03-13T09:22:53.070713"
 draft: false
 sectors:
-  - tourism
   - hospitality
+  - tourism
 regions:
   - china
 years:
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

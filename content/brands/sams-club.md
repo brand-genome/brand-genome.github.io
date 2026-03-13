@@ -2,11 +2,11 @@
 title: Sam’s Club
 slug: "sams-club"
 description: ""
-date: "2026-03-13T08:56:59.283353"
+date: "2026-03-13T09:22:53.266795"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -48,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - symbol
+  - secondary
 brand_colors:
+  - "pantone-430"
   - "pantone-427"
   - "pantone-638"
-  - "pantone-430"
   - blue
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Vision
 slug: vision
 description: ""
-date: "2026-03-13T08:56:59.719975"
+date: "2026-03-13T09:22:54.731303"
 draft: false
 sectors:
   - tourism
@@ -30,8 +30,8 @@ headquarters_locations:
   - warsaw
 subsidiaries: []
 foundation_dates:
-  - 1991
   - 1992
+  - 1991
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,31 +50,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - wordmark
 brand_colors:
+  - grey
+  - black
   - white
   - red
-  - "pantone-485"
-  - grey
   - blue
-  - black
+  - "pantone-485"
   - "pantone-3252"
 typographies:
   - "proxima-nova"
   - arial
 imagery_styles:
-  - natural
-  - dynamic
-  - clean
   - modern
-  - professional
+  - natural
   - candid
   - vibrant
+  - dynamic
+  - clean
   - colorful
-  - graphic
+  - professional
   - bold
+  - graphic
 wikidata_description: Polish film production company
 wikidata_url: "https://www.wikidata.org/wiki/Q9368919"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -146,7 +147,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
-| Foundation Date | [1991](/foundation_dates/1991/); [1992](/foundation_dates/1992/) |
+| Foundation Date | [1992](/foundation_dates/1992/); [1991](/foundation_dates/1991/) |
 | Inception | 1991, 1992-09-07 |
 | Legal Form | Sp. z o.o. |
 | Headquarters Location | Warsaw |

@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-03-13T08:56:59.059694"
+date: "2026-03-13T09:22:52.025146"
 draft: false
 sectors:
   - airline
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "nadi-international-airport"
   - nadi
+  - "nadi-international-airport"
 subsidiaries: []
 foundation_dates:
   - 1947
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -80,7 +81,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Nadi International Airport](/headquarters_locations/nadi-international-airport/); [Nadi](/headquarters_locations/nadi/) |
+| Headquarters Location | [Nadi](/headquarters_locations/nadi/); [Nadi International Airport](/headquarters_locations/nadi-international-airport/) |
 | Foundation Date | [1947](/foundation_dates/1947/) |
 | Country | Fiji |
 | Item Operated | Airbus A330, Boeing 737 Next Generation, Boeing 747-400, de Havilland DH.114 Heron |

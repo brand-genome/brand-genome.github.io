@@ -2,7 +2,7 @@
 title: Canada Council For the Arts
 slug: "canada-council-for-the-arts"
 description: ""
-date: "2026-03-13T08:56:59.892059"
+date: "2026-03-13T09:22:55.159848"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - cultural
+  - institution
 industries: []
 countries:
   - canada
@@ -54,13 +54,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - horizontal
-  - wordmark
   - vertical
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - gotham
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

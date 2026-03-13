@@ -2,11 +2,11 @@
 title: De.C.O. di Cuneo
 slug: "deco-di-cuneo"
 description: ""
-date: "2026-03-13T08:56:59.381311"
+date: "2026-03-13T09:22:53.466643"
 draft: false
 sectors:
-  - "public-sector"
   - food
+  - "public-sector"
 regions:
   - italy
 years:
@@ -51,8 +51,8 @@ brand_colors:
   - orange
 typographies: []
 imagery_styles:
-  - natural
   - flat
+  - natural
   - geometric
 wikidata_description: ""
 wikidata_url: ""
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

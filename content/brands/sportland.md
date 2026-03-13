@@ -2,7 +2,7 @@
 title: Sportland
 slug: sportland
 description: ""
-date: "2026-03-13T08:56:59.410015"
+date: "2026-03-13T09:22:53.533078"
 draft: false
 sectors:
   - sports
@@ -53,8 +53,8 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
   - black
+  - white
   - "pantone-108"
 typographies: []
 imagery_styles: []
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

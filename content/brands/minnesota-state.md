@@ -2,7 +2,7 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-03-13T08:56:59.506444"
+date: "2026-03-13T09:22:53.965651"
 draft: false
 sectors:
   - education
@@ -52,37 +52,37 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
-  - lockup
   - vertical
-  - horizontal
+  - lockup
+  - secondary
   - seal
+  - horizontal
 brand_colors:
-  - white
-  - grey
-  - "pantone-7482"
-  - blue
-  - gold
-  - "pantone-2757"
   - purple
-  - green
-  - black
-  - orange
+  - "pantone-7482"
+  - "pantone-2757"
+  - grey
   - gray
+  - gold
+  - orange
+  - black
   - teal
+  - blue
+  - green
+  - white
 typographies:
-  - brandon
   - display
-  - times
-  - serif
+  - brandon
   - georgia
   - "sans-serif"
+  - serif
+  - times
 imagery_styles:
   - subtle
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: "public comprehensive university in Mankato, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q1937387"
 has_twitter: false
@@ -90,6 +90,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

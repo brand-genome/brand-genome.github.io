@@ -2,11 +2,11 @@
 title: Cathay Pacific
 slug: "cathay-pacific"
 description: ""
-date: "2026-03-13T08:56:59.545499"
+date: "2026-03-13T09:22:54.221234"
 draft: false
 sectors:
-  - airline
   - "logistics-supply-chain"
+  - airline
 regions:
   - "hong-kong"
 years:
@@ -49,19 +49,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - signature
-  - symbol
 brand_colors:
-  - white
-  - red
-  - grey
-  - "pantone-185"
-  - "pantone-295"
-  - green
-  - black
-  - "pantone-202"
   - "pantone-323"
+  - grey
+  - "pantone-295"
+  - black
+  - green
+  - "pantone-202"
+  - red
+  - "pantone-185"
+  - white
 typographies:
   - univers
 imagery_styles:
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

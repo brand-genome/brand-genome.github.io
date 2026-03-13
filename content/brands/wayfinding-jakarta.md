@@ -2,11 +2,11 @@
 title: Wayfinding Jakarta
 slug: "wayfinding-jakarta"
 description: ""
-date: "2026-03-13T08:56:59.215709"
+date: "2026-03-13T09:22:53.025214"
 draft: false
 sectors:
-  - "public-sector"
   - "public-transportation"
+  - "public-sector"
   - "design-creative"
 regions:
   - indonesia
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - signage
   - transport
+  - signage
 industries: []
 countries: []
 revenue_buckets: []
@@ -59,6 +59,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

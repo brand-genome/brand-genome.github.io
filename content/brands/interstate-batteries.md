@@ -2,7 +2,7 @@
 title: Interstate Batteries
 slug: "interstate-batteries"
 description: ""
-date: "2026-03-13T08:56:59.473348"
+date: "2026-03-13T09:22:53.718610"
 draft: false
 sectors:
   - "consumer-goods"
@@ -52,17 +52,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
+  - black
+  - green
   - red
   - gold
-  - green
-  - black
+  - white
 typographies: []
 imagery_styles:
   - photography
+  - serious
   - gradient
   - bold
-  - serious
 wikidata_description: "privately owned company, based in Dallas, Texas, that markets automotive batteries"
 wikidata_url: "https://www.wikidata.org/wiki/Q12060773"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

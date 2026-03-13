@@ -2,15 +2,15 @@
 title: The New School
 slug: "the-new-school"
 description: ""
-date: "2026-03-13T08:56:59.189912"
+date: "2026-03-13T09:22:52.875619"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2005
   - 2015
+  - 2005
 languages:
   - english
 tags:
@@ -54,12 +54,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
-  - yellow
   - silver
+  - yellow
   - orange
   - black
+  - red
+  - white
 typographies:
   - garamond
 imagery_styles:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

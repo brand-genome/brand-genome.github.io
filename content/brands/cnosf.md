@@ -2,11 +2,11 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-03-13T08:56:59.724457"
+date: "2026-03-13T09:22:54.737205"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - france
 years:
@@ -52,12 +52,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - cyan
+  - yellow
+  - black
   - red
   - blue
-  - yellow
   - green
-  - cyan
-  - black
 typographies: []
 imagery_styles:
   - bold
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

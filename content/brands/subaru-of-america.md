@@ -2,21 +2,21 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-03-13T08:56:59.252444"
+date: "2026-03-13T09:22:53.242239"
 draft: false
 sectors:
   - automobile
 regions:
   - usa
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - english
 tags:
+  - featured
   - transport
   - corporate
-  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -61,8 +61,8 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
-  - natural
   - product
+  - natural
 wikidata_description: American distributor of Subaru vehicles
 wikidata_url: "https://www.wikidata.org/wiki/Q7630825"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

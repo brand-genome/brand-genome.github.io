@@ -2,7 +2,7 @@
 title: WorldSkills Belgium
 slug: "worldskills-belgium"
 description: ""
-date: "2026-03-13T08:56:59.436111"
+date: "2026-03-13T09:22:53.654039"
 draft: false
 sectors:
   - education
@@ -47,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - stacked
   - wordmark
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
   - blue
 typographies:
-  - frutiger
   - serif
+  - frutiger
   - arial
 imagery_styles:
-  - graphic
+  - monochrome
   - professional
   - bold
-  - monochrome
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Lago di Como
 slug: "lago-di-como"
 description: ""
-date: "2026-03-13T08:56:59.418708"
+date: "2026-03-13T09:22:53.600700"
 draft: false
 sectors:
   - tourism
@@ -46,16 +46,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - symbol
+  - emblem
 brand_colors:
-  - white
-  - green
   - "pantone-659"
+  - "pantone-376"
   - "pantone-2955"
   - black
+  - green
+  - white
   - "pantone-283"
-  - "pantone-376"
 typographies: []
 imagery_styles:
   - graphic
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

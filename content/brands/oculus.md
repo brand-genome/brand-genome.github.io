@@ -2,7 +2,7 @@
 title: Oculus
 slug: oculus
 description: ""
-date: "2026-03-13T08:56:59.269523"
+date: "2026-03-13T09:22:53.254621"
 draft: false
 sectors:
   - gaming
@@ -20,9 +20,9 @@ tags:
   - technology
   - entertainment
 industries:
-  - "electronics-industry"
   - "virtual-reality-industry"
   - "software-industry"
+  - "electronics-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -35,21 +35,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "meta-quest-pro"
+  - "gear-vr"
+  - "oculus-rift"
+  - "meta-quest"
   - "meta-quest-2"
   - "ray-ban-stories"
+  - "oculus-go"
   - "meta-portal"
   - "oculus-rift-s"
-  - "oculus-go"
-  - "gear-vr"
-  - "meta-quest"
   - "horizon-worlds"
-  - "oculus-rift"
+  - "meta-quest-pro"
 products: []
 headquarters_locations:
-  - "menlo-park"
   - irvine
   - california
+  - "menlo-park"
 subsidiaries: []
 foundation_dates:
   - 2020
@@ -72,21 +72,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - abstract
-  - vertical
   - stacked
+  - vertical
+  - abstract
   - horizontal
 brand_colors:
-  - white
+  - black
   - red
   - blue
   - green
-  - black
+  - white
 typographies: []
 imagery_styles:
-  - photography
-  - gradient
   - lifestyle
+  - gradient
+  - photography
   - abstract
   - bold
 wikidata_description: virtual reality technology subsidiary of Meta Platforms (formerly Oculus VR)
@@ -96,6 +96,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -178,8 +179,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Gear Vr](/products_or_materials_produced/gear-vr/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Oculus Rift](/products_or_materials_produced/oculus-rift/) |
-| Headquarters Location | [Menlo Park](/headquarters_locations/menlo-park/); [Irvine](/headquarters_locations/irvine/); [California](/headquarters_locations/california/) |
+| Product Or Material Produced | [Gear Vr](/products_or_materials_produced/gear-vr/); [Oculus Rift](/products_or_materials_produced/oculus-rift/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/) |
+| Headquarters Location | [Irvine](/headquarters_locations/irvine/); [California](/headquarters_locations/california/); [Menlo Park](/headquarters_locations/menlo-park/) |
 | Foundation Date | [2020](/foundation_dates/2020/) |
 | Headquarters Location | Irvine, Menlo Park, California |
 | Country | United States |

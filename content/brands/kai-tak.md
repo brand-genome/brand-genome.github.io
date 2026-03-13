@@ -2,11 +2,11 @@
 title: Kai Tak
 slug: "kai-tak"
 description: ""
-date: "2026-03-13T08:56:59.838710"
+date: "2026-03-13T09:22:55.042718"
 draft: false
 sectors:
-  - "public-sector"
   - "real-estate"
+  - "public-sector"
 regions:
   - "hong-kong"
 years:
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

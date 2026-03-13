@@ -2,7 +2,7 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-03-13T08:56:59.521539"
+date: "2026-03-13T09:22:54.049808"
 draft: false
 sectors:
   - "legal-services"
@@ -56,23 +56,23 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - gray
+  - orange
+  - black
   - white
+  - green
   - blue
   - gold
-  - green
   - turquoise
-  - black
-  - orange
-  - gray
 typographies:
   - "source-sans"
   - roboto
 imagery_styles:
-  - professional
-  - photography
-  - vibrant
-  - graphic
   - geometric
+  - vibrant
+  - photography
+  - professional
+  - graphic
 wikidata_description: "non-profit-organization creating copyright licenses for the public release of creative works"
 wikidata_url: "https://www.wikidata.org/wiki/Q43449"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

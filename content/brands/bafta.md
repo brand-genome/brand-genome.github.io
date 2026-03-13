@@ -2,7 +2,7 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-03-13T08:56:59.543252"
+date: "2026-03-13T09:22:54.217999"
 draft: false
 sectors:
   - "arts-culture"
@@ -54,15 +54,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - gold
   - purple
   - black
   - teal
+  - red
+  - gold
+  - white
 typographies:
-  - "century-gothic"
   - times
+  - "century-gothic"
 imagery_styles: []
 wikidata_description: independent charity
 wikidata_url: "https://www.wikidata.org/wiki/Q159661"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

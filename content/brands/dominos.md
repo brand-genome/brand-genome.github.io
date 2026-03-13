@@ -2,11 +2,11 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-03-13T08:56:59.530984"
+date: "2026-03-13T09:22:54.142320"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -48,13 +48,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
+  - black
   - white
   - red
-  - black
   - blue
 typographies: []
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

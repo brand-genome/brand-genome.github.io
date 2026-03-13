@@ -2,7 +2,7 @@
 title: Environmental Defense Fund
 slug: "environmental-defense-fund"
 description: ""
-date: "2026-03-13T08:56:59.331560"
+date: "2026-03-13T09:22:53.333526"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - environment
+  - ngo
 industries:
   - environment
 countries:
@@ -54,20 +54,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - wordmark
 brand_colors:
-  - white
-  - blue
-  - "pantone-7469"
-  - yellow
-  - "pantone-381"
-  - green
-  - "pantone-563"
   - cyan
   - gray
+  - yellow
+  - "pantone-563"
+  - "pantone-381"
+  - "pantone-7469"
   - teal
+  - blue
+  - green
+  - white
 typographies:
   - impact
 imagery_styles:
@@ -75,8 +75,8 @@ imagery_styles:
   - clean
   - photography
   - gradient
-  - graphic
   - bold
+  - graphic
 wikidata_description: "United States environmental advocacy organization, headquartered in New York City"
 wikidata_url: "https://www.wikidata.org/wiki/Q1345899"
 has_twitter: false
@@ -84,6 +84,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

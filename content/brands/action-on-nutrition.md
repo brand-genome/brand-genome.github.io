@@ -2,7 +2,7 @@
 title: Action on Nutrition
 slug: "action-on-nutrition"
 description: ""
-date: "2026-03-13T08:56:59.363053"
+date: "2026-03-13T09:22:53.427990"
 draft: false
 sectors:
   - "public-sector"
@@ -50,19 +50,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - grey
-  - blue
-  - black
   - gray
+  - grey
+  - black
+  - red
+  - blue
+  - white
 typographies:
   - "open-sans"
 imagery_styles:
   - photography
-  - graphic
   - gradient
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

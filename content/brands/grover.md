@@ -2,15 +2,15 @@
 title: Grover
 slug: grover
 description: ""
-date: "2026-03-13T08:56:59.268945"
+date: "2026-03-13T09:22:53.254033"
 draft: false
 sectors:
   - "e-commerce"
 regions:
   - germany
 years:
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
 tags:
@@ -48,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

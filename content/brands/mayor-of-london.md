@@ -2,7 +2,7 @@
 title: Mayor of London
 slug: "mayor-of-london"
 description: ""
-date: "2026-03-13T08:56:59.399621"
+date: "2026-03-13T09:22:53.497153"
 draft: false
 sectors:
   - "public-sector"
@@ -54,9 +54,9 @@ brand_colors: []
 typographies: []
 imagery_styles:
   - photography
+  - monochrome
   - illustration
   - bold
-  - monochrome
 wikidata_description: head of the government of Greater London
 wikidata_url: "https://www.wikidata.org/wiki/Q38931"
 has_twitter: false
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

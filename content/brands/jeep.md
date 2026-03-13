@@ -2,7 +2,7 @@
 title: Jeep
 slug: jeep
 description: ""
-date: "2026-03-13T08:56:59.617536"
+date: "2026-03-13T09:22:54.706080"
 draft: false
 sectors:
   - automobile
@@ -57,8 +57,8 @@ brand_colors:
 typographies:
   - impact
 imagery_styles:
-  - graphic
   - product
+  - graphic
 wikidata_description: US automotive company
 wikidata_url: "https://www.wikidata.org/wiki/Q30113"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-03-13T08:56:59.211953"
+date: "2026-03-13T09:22:53.020581"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - international
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - sport
   - vintage
   - featured
+  - sport
 industries: []
 countries:
   - switzerland
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - lausanne
   - "chateau-de-vidy"
+  - lausanne
 subsidiaries: []
 foundation_dates:
   - 1894
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -82,7 +83,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/); [Chateau De Vidy](/headquarters_locations/chateau-de-vidy/) |
+| Headquarters Location | [Chateau De Vidy](/headquarters_locations/chateau-de-vidy/); [Lausanne](/headquarters_locations/lausanne/) |
 | Foundation Date | [1894](/foundation_dates/1894/) |
 | Topic'S Main Category | Category:International Olympic Committee |
 | Freebase Id | /m/03xcc |

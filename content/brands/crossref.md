@@ -2,11 +2,11 @@
 title: Crossref
 slug: crossref
 description: ""
-date: "2026-03-13T08:56:59.735306"
+date: "2026-03-13T09:22:54.757520"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - usa
 years:
@@ -50,19 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - stacked
   - wordmark
 brand_colors:
   - "pantone-631"
-  - white
-  - grey
-  - red
   - "pantone-7527"
   - "pantone-445"
+  - grey
   - black
   - "pantone-123"
+  - red
+  - white
 typographies: []
 imagery_styles:
   - contemporary
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

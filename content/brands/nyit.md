@@ -2,7 +2,7 @@
 title: NYIT
 slug: nyit
 description: ""
-date: "2026-03-13T08:56:59.491723"
+date: "2026-03-13T09:22:53.931720"
 draft: false
 sectors:
   - education
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - technology
   - education
-  - featured
 industries:
   - "higher-education"
 countries:
@@ -58,12 +58,12 @@ logo_elements:
   - abstract
   - signature
 brand_colors:
-  - white
   - black
+  - white
 typographies:
+  - arial
   - helvetica
   - times
-  - arial
 imagery_styles:
   - photography
   - abstract
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

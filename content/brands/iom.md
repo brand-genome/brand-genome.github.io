@@ -2,7 +2,7 @@
 title: IOM
 slug: iom
 description: ""
-date: "2026-03-13T08:56:59.441960"
+date: "2026-03-13T09:22:53.664581"
 draft: false
 sectors:
   - ngo
@@ -27,8 +27,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - leipzig
   - "wissenschaftspark-leipzig"
+  - leipzig
 subsidiaries: []
 foundation_dates:
   - 1992
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -87,7 +88,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Leipzig](/headquarters_locations/leipzig/); [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/) |
+| Headquarters Location | [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/); [Leipzig](/headquarters_locations/leipzig/) |
 | Foundation Date | [1992](/foundation_dates/1992/); [2002](/foundation_dates/2002/) |
 | Country | Germany |
 | Member Of | Deutsche Gesellschaft für Membrantechnik, Informationsdienst Wissenschaft |

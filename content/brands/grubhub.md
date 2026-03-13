@@ -2,11 +2,11 @@
 title: Grubhub
 slug: grubhub
 description: ""
-date: "2026-03-13T08:56:59.048475"
+date: "2026-03-13T09:22:51.919371"
 draft: false
 sectors:
-  - ecommerce
   - food
+  - ecommerce
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - app
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

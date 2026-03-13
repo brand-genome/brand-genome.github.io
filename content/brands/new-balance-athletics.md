@@ -2,11 +2,11 @@
 title: New Balance Athletics
 slug: "new-balance-athletics"
 description: ""
-date: "2026-03-13T08:56:59.470810"
+date: "2026-03-13T09:22:53.715333"
 draft: false
 sectors:
-  - "consumer-goods"
   - footwear
+  - "consumer-goods"
   - fashion
   - "e-commerce"
 regions:
@@ -53,9 +53,9 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies: []
 imagery_styles:
   - photography
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

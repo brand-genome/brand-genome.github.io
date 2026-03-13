@@ -2,7 +2,7 @@
 title: Starbucks Coffee
 slug: "starbucks-coffee"
 description: ""
-date: "2026-03-13T08:56:59.847203"
+date: "2026-03-13T09:22:55.082355"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - japan
@@ -51,18 +51,18 @@ body_sections: []
 logo_elements:
   - primary
   - secondary
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - white
+  - black
   - green
   - "pantone-3425"
-  - black
+  - white
 typographies:
   - avenir
 imagery_styles:
-  - graphic
   - product
+  - graphic
 wikidata_description: "Starbucks location in Shibuya, Japan"
 wikidata_url: "https://www.wikidata.org/wiki/Q130301482"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

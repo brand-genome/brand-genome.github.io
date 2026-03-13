@@ -2,7 +2,7 @@
 title: Tres Cantos
 slug: "tres-cantos"
 description: ""
-date: "2026-03-13T08:56:59.264920"
+date: "2026-03-13T09:22:53.250604"
 draft: false
 sectors:
   - "public-sector"
@@ -52,13 +52,13 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
+  - "pantone-314"
   - white
   - red
   - blue
-  - "pantone-314"
 typographies:
-  - montserrat
   - "open-sans"
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: "capital of Tres Cantos Municipality, Spain"
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

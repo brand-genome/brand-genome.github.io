@@ -2,11 +2,11 @@
 title: Subway
 slug: subway
 description: ""
-date: "2026-03-13T08:56:59.281957"
+date: "2026-03-13T09:22:53.265046"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries:
   - "fast-food"
 countries:
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - sandwich
   - salad
+  - sandwich
 products: []
 headquarters_locations:
   - milford
@@ -54,20 +54,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
   - alternate
   - vertical
+  - horizontal
+  - primary
 brand_colors:
-  - purple
   - green
   - yellow
+  - purple
   - orange
 typographies: []
 imagery_styles:
-  - natural
   - aerial
   - bold
+  - natural
 wikidata_description: American sandwich restaurant chain
 wikidata_url: "https://www.wikidata.org/wiki/Q244457"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -129,7 +130,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Sandwich](/products_or_materials_produced/sandwich/); [Salad](/products_or_materials_produced/salad/) |
+| Product Or Material Produced | [Salad](/products_or_materials_produced/salad/); [Sandwich](/products_or_materials_produced/sandwich/) |
 | Headquarters Location | [Milford](/headquarters_locations/milford/) |
 | Foundation Date | [1965](/foundation_dates/1965/) |
 | Founded By | Fred DeLuca, Peter Buck |

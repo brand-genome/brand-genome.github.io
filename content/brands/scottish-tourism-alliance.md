@@ -2,7 +2,7 @@
 title: Scottish Tourism Alliance
 slug: "scottish-tourism-alliance"
 description: ""
-date: "2026-03-13T08:56:59.404769"
+date: "2026-03-13T09:22:53.513900"
 draft: false
 sectors:
   - tourism
@@ -46,8 +46,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
   - purple
   - white
@@ -55,8 +55,8 @@ brand_colors:
 typographies:
   - futura
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-03-13T08:56:59.220348"
+date: "2026-03-13T09:22:53.064373"
 draft: false
 sectors:
-  - software
   - electronics
+  - software
 regions:
   - usa
 years:
@@ -15,18 +15,18 @@ years:
 languages:
   - english
 tags:
-  - technology
-  - software
   - vintage
   - featured
+  - technology
+  - software
 industries:
-  - "information-technology"
-  - electronics
-  - "software-industry"
   - "digital-distribution"
-  - "software-development"
-  - "mobile-phone-industry"
+  - "information-technology"
   - "consumer-electronics-industry"
+  - "software-development"
+  - electronics
+  - "mobile-phone-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,30 +44,30 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
-  - imac
-  - "tablet-computer"
-  - "personal-digital-assistant"
-  - "apple-pay"
-  - "ipod-touch"
   - "networking-hardware"
-  - "apple-watch"
-  - homepod
   - software
-  - "consumer-electronics"
-  - "personal-computer"
-  - peripheral
-  - smartphone
+  - "personal-digital-assistant"
+  - mac
+  - "video-game-console"
+  - airpods
+  - ipod
+  - "ipod-touch"
+  - imac
   - "apple-tv"
   - "computer-hardware"
-  - "video-game-console"
-  - ipod
-  - airpods
+  - "personal-computer"
+  - homepod
+  - smartphone
+  - "tablet-computer"
+  - "consumer-electronics"
+  - "apple-pay"
+  - "apple-watch"
+  - peripheral
   - "wearable-computer"
-  - mac
 products: []
 headquarters_locations:
-  - "apple-park"
   - cupertino
+  - "apple-park"
 subsidiaries: []
 foundation_dates:
   - 1976
@@ -93,12 +93,12 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - white
-  - red
-  - gold
   - silver
-  - green
   - "pantone-186"
+  - gold
+  - red
+  - green
+  - white
 typographies:
   - garamond
   - helvetica
@@ -111,6 +111,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -170,8 +171,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Imac](/products_or_materials_produced/imac/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Homepod](/products_or_materials_produced/homepod/); [Software](/products_or_materials_produced/software/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Peripheral](/products_or_materials_produced/peripheral/); +8 more |
-| Headquarters Location | [Apple Park](/headquarters_locations/apple-park/); [Cupertino](/headquarters_locations/cupertino/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Mac](/products_or_materials_produced/mac/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Airpods](/products_or_materials_produced/airpods/); [Ipod](/products_or_materials_produced/ipod/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Imac](/products_or_materials_produced/imac/); [Apple Tv](/products_or_materials_produced/apple-tv/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Personal Computer](/products_or_materials_produced/personal-computer/); +8 more |
+| Headquarters Location | [Cupertino](/headquarters_locations/cupertino/); [Apple Park](/headquarters_locations/apple-park/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |
 | Legal Entity Identifier | HWUPKR0MPOU8FGXBT394 |

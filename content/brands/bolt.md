@@ -2,7 +2,7 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-03-13T08:56:59.076242"
+date: "2026-03-13T09:22:52.064707"
 draft: false
 sectors:
   - software
@@ -16,13 +16,13 @@ years:
 languages:
   - english
 tags:
-  - internet
-  - financial
   - featured
+  - financial
+  - internet
 industries:
-  - "food-delivery-service"
-  - "information-technology"
   - "peer-to-peer-ridesharing"
+  - "information-technology"
+  - "food-delivery-service"
 countries:
   - estonia
 revenue_buckets:
@@ -36,8 +36,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - bolt
   - "bolt-food"
+  - bolt
 products: []
 headquarters_locations:
   - tallinn
@@ -63,8 +63,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies: []
 imagery_styles: []
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -126,7 +127,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bolt](/products_or_materials_produced/bolt/); [Bolt Food](/products_or_materials_produced/bolt-food/) |
+| Product Or Material Produced | [Bolt Food](/products_or_materials_produced/bolt-food/); [Bolt](/products_or_materials_produced/bolt/) |
 | Headquarters Location | [Tallinn](/headquarters_locations/tallinn/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Industry | peer-to-peer ridesharing, food delivery service, information technology |

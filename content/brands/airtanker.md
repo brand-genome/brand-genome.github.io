@@ -2,7 +2,7 @@
 title: AirTanker
 slug: airtanker
 description: ""
-date: "2026-03-13T08:56:59.720328"
+date: "2026-03-13T09:22:54.731642"
 draft: false
 sectors:
   - defense
@@ -16,8 +16,8 @@ languages:
 tags:
   - airline
 industries:
-  - aviation
   - military
+  - aviation
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -34,8 +34,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "airtanker-hub"
   - "raf-brize-norton"
+  - "airtanker-hub"
 subsidiaries: []
 foundation_dates:
   - 2007
@@ -57,27 +57,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
-  - secondary
   - primary
-  - vertical
+  - emblem
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - blue
-  - "pantone-287"
-  - "pantone-278"
-  - black
-  - gray
   - "pantone-7406"
+  - gray
+  - black
+  - "pantone-287"
+  - blue
+  - "pantone-278"
+  - white
 typographies:
+  - arial
   - din
   - impact
-  - arial
 imagery_styles:
-  - bold
   - landscape
+  - bold
 wikidata_description: "British aircraft leasing company, operating the RAF Voyager military multi-role tanker transport"
 wikidata_url: "https://www.wikidata.org/wiki/Q4697690"
 has_twitter: false
@@ -85,6 +85,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -149,7 +150,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Airtanker Hub](/headquarters_locations/airtanker-hub/); [Raf Brize Norton](/headquarters_locations/raf-brize-norton/) |
+| Headquarters Location | [Raf Brize Norton](/headquarters_locations/raf-brize-norton/); [Airtanker Hub](/headquarters_locations/airtanker-hub/) |
 | Foundation Date | [2007](/foundation_dates/2007/) |
 | Parent Organization Or Unit | Cobham Limited, Airbus SE, Rolls-Royce, Babcock International, Thales Group (+1 more) |
 | Icao Airline Designator | TOW |

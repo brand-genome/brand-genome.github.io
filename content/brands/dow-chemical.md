@@ -2,7 +2,7 @@
 title: Dow Chemical
 slug: "dow-chemical"
 description: ""
-date: "2026-03-13T08:56:59.366190"
+date: "2026-03-13T09:22:53.432242"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "ethylene-oxide"
   - plastic
+  - "ethylene-oxide"
   - "calcium-chloride"
 products: []
 headquarters_locations:
@@ -55,28 +55,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - abstract
-  - vertical
   - symbol
+  - primary
+  - vertical
+  - secondary
+  - abstract
   - horizontal
 brand_colors:
-  - white
-  - red
   - black
   - gray
+  - white
+  - red
 typographies:
-  - times
   - serif
   - arial
+  - times
 imagery_styles:
+  - macro
+  - abstract
   - dynamic
   - clean
-  - macro
   - product
   - gradient
-  - abstract
 wikidata_description: American chemical company
 wikidata_url: "https://www.wikidata.org/wiki/Q855639"
 has_twitter: false
@@ -84,6 +84,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -180,7 +181,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Plastic](/products_or_materials_produced/plastic/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
+| Product Or Material Produced | [Plastic](/products_or_materials_produced/plastic/); [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
 | Headquarters Location | [Midland](/headquarters_locations/midland/) |
 | Foundation Date | [1897](/foundation_dates/1897/) |
 | Stock Exchange | New York Stock Exchange, Tokyo Stock Exchange (until 2016-12-08) |

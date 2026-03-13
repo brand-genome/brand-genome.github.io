@@ -2,7 +2,7 @@
 title: Fonepay
 slug: fonepay
 description: ""
-date: "2026-03-13T08:56:59.096135"
+date: "2026-03-13T09:22:52.134378"
 draft: false
 sectors:
   - finance
@@ -48,28 +48,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
-  - "century-gothic"
   - garamond
-  - serif
   - poppins
   - "sans-serif"
+  - serif
+  - "century-gothic"
 imagery_styles:
-  - clean
   - modern
-  - illustration
-  - professional
-  - product
-  - minimal
-  - bold
   - lifestyle
+  - illustration
+  - minimal
+  - clean
+  - product
+  - professional
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

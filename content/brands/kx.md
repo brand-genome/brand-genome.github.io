@@ -2,7 +2,7 @@
 title: KX
 slug: kx
 description: ""
-date: "2026-03-13T08:56:59.319223"
+date: "2026-03-13T09:22:53.324405"
 draft: false
 sectors:
   - software
@@ -54,8 +54,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: postgraduate theological college federated with the University of Toronto
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

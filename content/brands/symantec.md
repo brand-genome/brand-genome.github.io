@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-03-13T08:56:59.792162"
+date: "2026-03-13T09:22:54.824368"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -37,8 +37,8 @@ products_or_materials_produced:
   - norton
 products: []
 headquarters_locations:
-  - tempe
   - "mountain-view"
+  - tempe
 subsidiaries: []
 foundation_dates:
   - 1982
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -118,7 +119,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Norton](/products_or_materials_produced/norton/) |
-| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Mountain View](/headquarters_locations/mountain-view/) |
+| Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/); [Tempe](/headquarters_locations/tempe/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | Gary Hendrix |
 | Stock Exchange | Nasdaq (from 2019, until 2022), Nasdaq (until 2019), Nasdaq (from 2022) |

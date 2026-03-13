@@ -2,7 +2,7 @@
 title: Stifel
 slug: stifel
 description: ""
-date: "2026-03-13T08:56:59.589918"
+date: "2026-03-13T09:22:54.424011"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
-  - investment
   - finance
+  - investment
+  - "financial-services"
 countries:
   - "united-states"
 revenue_buckets:
@@ -33,12 +33,12 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
+  - "asset-management"
+  - intermediation
+  - "investment-banking"
+  - broker
   - "broker-dealer"
   - "financial-services"
-  - broker
-  - intermediation
-  - "asset-management"
-  - "investment-banking"
 products: []
 headquarters_locations:
   - "st-louis"
@@ -64,8 +64,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - arial
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -132,7 +133,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Financial Services](/products_or_materials_produced/financial-services/); [Broker](/products_or_materials_produced/broker/); [Intermediation](/products_or_materials_produced/intermediation/); [Asset Management](/products_or_materials_produced/asset-management/); [Investment Banking](/products_or_materials_produced/investment-banking/) |
+| Product Or Material Produced | [Asset Management](/products_or_materials_produced/asset-management/); [Intermediation](/products_or_materials_produced/intermediation/); [Investment Banking](/products_or_materials_produced/investment-banking/); [Broker](/products_or_materials_produced/broker/); [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Financial Services](/products_or_materials_produced/financial-services/) |
 | Headquarters Location | [St Louis](/headquarters_locations/st-louis/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Stock Exchange | New York Stock Exchange (from 1986-11-24) |

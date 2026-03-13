@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-03-13T08:56:59.456056"
+date: "2026-03-13T09:22:53.694897"
 draft: false
 sectors:
   - sports
@@ -49,20 +49,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - seal
+  - horizontal
   - vertical
 brand_colors:
   - white
 typographies:
-  - impact
   - arial
+  - impact
 imagery_styles:
+  - lifestyle
   - monochrome
   - subtle
-  - graphic
   - bold
-  - lifestyle
+  - graphic
 wikidata_description: "men's top professional football division of the Spanish football league system"
 wikidata_url: "https://www.wikidata.org/wiki/Q324867"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

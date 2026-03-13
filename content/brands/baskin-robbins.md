@@ -2,11 +2,11 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-03-13T08:56:59.292905"
+date: "2026-03-13T09:22:53.278864"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -55,13 +55,13 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - white
-  - magenta
   - black
+  - magenta
+  - white
   - blue
 typographies:
-  - helvetica
   - display
+  - helvetica
 imagery_styles:
   - photography
   - natural
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

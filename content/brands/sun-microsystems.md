@@ -2,11 +2,11 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-03-13T08:56:59.556284"
+date: "2026-03-13T09:22:54.307034"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - technology
   - ambigram
   - software
+  - technology
 industries:
-  - "software-development"
   - computing
+  - "software-development"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -33,9 +33,9 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - workstation
+  - server
   - "computer-hardware"
   - software
-  - server
 products: []
 headquarters_locations:
   - "santa-clara"
@@ -62,9 +62,9 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - white
-  - yellow
   - black
+  - yellow
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: defunct American computer hardware and software company
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -115,7 +116,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/); [Server](/products_or_materials_produced/server/) |
+| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |

@@ -2,11 +2,11 @@
 title: Universitas Sumatera Utara
 slug: "universitas-sumatera-utara"
 description: ""
-date: "2026-03-13T08:56:59.225452"
+date: "2026-03-13T09:22:53.070423"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - indonesia
@@ -32,8 +32,8 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1957
   - 1952
+  - 1957
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -83,7 +84,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1957](/foundation_dates/1957/); [1952](/foundation_dates/1952/) |
+| Foundation Date | [1952](/foundation_dates/1952/); [1957](/foundation_dates/1957/) |
 | Freebase Id | /m/0bhb9h9 |
 | Country | Indonesia |
 | Located In Time Zone | UTC+07:00 |

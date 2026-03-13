@@ -2,11 +2,11 @@
 title: SanDisk
 slug: sandisk
 description: ""
-date: "2026-03-13T08:56:59.875205"
+date: "2026-03-13T09:22:55.143335"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -27,13 +27,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "solid-state-drive"
   - "computer-memory"
-  - "dynamic-random-access-memory"
-  - "memory-card"
+  - "solid-state-drive"
   - "usb-flash-drive"
-  - "sim-card"
   - "portable-media-player"
+  - "dynamic-random-access-memory"
+  - "sim-card"
+  - "memory-card"
 products: []
 headquarters_locations:
   - milpitas
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -89,7 +90,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Computer Memory](/products_or_materials_produced/computer-memory/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Memory Card](/products_or_materials_produced/memory-card/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/); [Sim Card](/products_or_materials_produced/sim-card/); [Portable Media Player](/products_or_materials_produced/portable-media-player/) |
+| Product Or Material Produced | [Computer Memory](/products_or_materials_produced/computer-memory/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/); [Portable Media Player](/products_or_materials_produced/portable-media-player/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Sim Card](/products_or_materials_produced/sim-card/); [Memory Card](/products_or_materials_produced/memory-card/) |
 | Headquarters Location | [Milpitas](/headquarters_locations/milpitas/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Stock Exchange | Nasdaq (from 2025-02-24) |

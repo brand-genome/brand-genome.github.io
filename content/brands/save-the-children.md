@@ -2,7 +2,7 @@
 title: Save The Children
 slug: "save-the-children"
 description: ""
-date: "2026-03-13T08:56:59.810681"
+date: "2026-03-13T09:22:54.973920"
 draft: false
 sectors:
   - ngo
@@ -50,24 +50,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
+  - stacked
   - favicon
   - secondary
-  - stacked
   - horizontal
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
 typographies:
-  - "gill-sans"
   - display
   - arial
+  - "gill-sans"
 imagery_styles:
-  - static
+  - graphic
   - product
   - gradient
-  - graphic
   - bold
+  - static
 wikidata_description: "London-based international non-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q215934"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-03-13T08:56:59.484395"
+date: "2026-03-13T09:22:53.762137"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2019
   - 2015
+  - 2019
 languages:
   - english
 tags:
@@ -54,27 +54,27 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-207"
+  - cyan
   - "pantone-282"
-  - "pantone-143"
+  - "pantone-2292"
+  - "pantone-204"
+  - gray
+  - "pantone-207"
+  - "pantone-306"
   - "pantone-3560"
+  - "pantone-7658"
+  - black
+  - "pantone-143"
+  - "pantone-871"
   - "pantone-166"
   - "pantone-2756"
-  - "pantone-204"
-  - "pantone-7658"
-  - "pantone-306"
-  - cyan
-  - "pantone-871"
-  - gray
-  - black
-  - "pantone-2292"
 typographies:
   - futura
 imagery_styles:
   - natural
+  - lifestyle
   - staged
   - photography
-  - lifestyle
   - bold
 wikidata_description: "multi-campus university located in Northern Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q2096524"
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

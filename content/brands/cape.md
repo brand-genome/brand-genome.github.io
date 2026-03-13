@@ -2,7 +2,7 @@
 title: Cape
 slug: cape
 description: ""
-date: "2026-03-13T08:56:59.412820"
+date: "2026-03-13T09:22:53.542981"
 draft: false
 sectors:
   - software
@@ -52,14 +52,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - abstract
   - secondary
+  - abstract
 brand_colors:
+  - yellow
+  - black
   - red
   - blue
-  - yellow
   - green
-  - black
 typographies:
   - brandon
   - impact
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

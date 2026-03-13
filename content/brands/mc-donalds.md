@@ -2,26 +2,26 @@
 title: Mc Donald’s
 slug: "mc-donalds"
 description: ""
-date: "2026-03-13T08:56:59.096472"
+date: "2026-03-13T09:22:52.134751"
 draft: false
 sectors:
   - restaurant
 regions:
-  - usa
   - vietnam
+  - usa
 years:
   - 2019
-  - 2009
-  - 2012
-  - 1999
   - 2024
+  - 2012
+  - 2009
+  - 1999
 languages:
   - english
   - vietnamese
 tags:
+  - featured
   - corporate
   - "food-beverage"
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -55,37 +55,37 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - lettermark
+  - wordmark
   - primary
   - symbol
-  - wordmark
+  - lettermark
 brand_colors:
-  - white
-  - red
-  - "pantone-485"
-  - blue
-  - yellow
-  - gold
-  - green
-  - black
   - gray
+  - yellow
+  - black
   - "pantone-123"
+  - green
+  - red
+  - blue
+  - gold
+  - "pantone-485"
+  - white
 typographies:
-  - arial
-  - helvetica
   - script
-  - "century-gothic"
   - akzidenz
+  - helvetica
+  - arial
+  - "century-gothic"
 imagery_styles:
-  - natural
-  - clean
   - modern
+  - natural
   - illustration
   - playful
+  - clean
   - photography
   - product
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -93,6 +93,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 5
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

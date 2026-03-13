@@ -2,7 +2,7 @@
 title: Herman Miller
 slug: "herman-miller"
 description: ""
-date: "2026-03-13T08:56:59.168092"
+date: "2026-03-13T09:22:52.782463"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - furnitures
   - featured
+  - furnitures
 industries:
   - "industrial-manufacturing"
 countries:
@@ -54,21 +54,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
+  - wordmark
   - primary
   - symbol
-  - wordmark
+  - secondary
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
-  - times
   - display
+  - times
 imagery_styles:
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: "manufacturer of high-end office furniture"
 wikidata_url: "https://www.wikidata.org/wiki/Q489469"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 4
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

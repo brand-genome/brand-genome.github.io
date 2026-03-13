@@ -2,11 +2,11 @@
 title: NewTek
 slug: newtek
 description: ""
-date: "2026-03-13T08:56:59.438051"
+date: "2026-03-13T09:22:53.661055"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -52,15 +52,15 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - white
-  - blue
-  - black
   - gray
-  - magenta
   - "pantone-426"
+  - black
+  - magenta
+  - blue
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - photography
   - product
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

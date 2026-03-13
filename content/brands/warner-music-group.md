@@ -2,7 +2,7 @@
 title: Warner Music Group
 slug: "warner-music-group"
 description: ""
-date: "2026-03-13T08:56:59.187163"
+date: "2026-03-13T09:22:52.867616"
 draft: false
 sectors:
   - entertainment
@@ -34,8 +34,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "new-york-city"
   - "paramount-plaza"
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1958
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -87,7 +88,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [Paramount Plaza](/headquarters_locations/paramount-plaza/) |
+| Headquarters Location | [Paramount Plaza](/headquarters_locations/paramount-plaza/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1958](/foundation_dates/1958/) |
 | Child Organization Or Unit | EMI Music Poland Sp. z o.o., Roadrunner Records, Sire Records Co. (from 1980), Atco Records, Fueled by Ramen (+52 more) |
 | Country | United States |

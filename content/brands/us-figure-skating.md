@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-03-13T08:56:59.455704"
+date: "2026-03-13T09:22:53.694415"
 draft: false
 sectors:
   - sports
@@ -50,25 +50,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - mascot
   - secondary
+  - mascot
 brand_colors:
-  - white
-  - red
-  - "pantone-485"
-  - blue
-  - yellow
-  - "pantone-367"
-  - "pantone-304"
-  - green
-  - black
-  - gray
-  - "pantone-428"
   - "pantone-275"
+  - gray
+  - yellow
+  - "pantone-304"
+  - black
   - "pantone-123"
+  - green
+  - red
+  - blue
+  - "pantone-367"
+  - "pantone-485"
+  - white
+  - "pantone-428"
 typographies:
-  - montserrat
   - gotham
+  - montserrat
 imagery_styles:
   - gradient
   - bold
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

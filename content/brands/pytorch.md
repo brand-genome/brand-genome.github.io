@@ -2,7 +2,7 @@
 title: PyTorch
 slug: pytorch
 description: ""
-date: "2026-03-13T08:56:59.475601"
+date: "2026-03-13T09:22:53.721498"
 draft: false
 sectors:
   - software
@@ -46,21 +46,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - lockup
-  - symbol
-  - stacked
   - wordmark
+  - symbol
+  - primary
+  - stacked
+  - lockup
+  - secondary
 brand_colors:
-  - white
-  - crimson
-  - violet
   - purple
+  - indigo
+  - violet
+  - gray
+  - crimson
   - orange
   - black
-  - gray
-  - indigo
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "open source machine learning library for Python, based on Torch"
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,17 +2,17 @@
 title: Verifone
 slug: verifone
 description: ""
-date: "2026-03-13T08:56:59.136578"
+date: "2026-03-13T09:22:52.303602"
 draft: false
 sectors:
   - software
-  - hardware
   - finance
+  - hardware
 regions:
   - usa
 years:
-  - 2023
   - 2018
+  - 2023
 languages:
   - english
 tags:
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - "payment-terminal"
 products: []
 headquarters_locations:
-  - "coral-springs"
   - "san-jose"
+  - "coral-springs"
 subsidiaries: []
 foundation_dates:
   - 1981
@@ -56,13 +56,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - secondary
   - symbol
+  - primary
+  - icon
+  - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: business enterprise
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -119,7 +120,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Payment Terminal](/products_or_materials_produced/payment-terminal/) |
-| Headquarters Location | [Coral Springs](/headquarters_locations/coral-springs/); [San Jose](/headquarters_locations/san-jose/) |
+| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Coral Springs](/headquarters_locations/coral-springs/) |
 | Foundation Date | [1981](/foundation_dates/1981/) |
 | Stock Exchange | New York Stock Exchange (until 2018), Nasdaq |
 | Headquarters Location | San Jose, Coral Springs |

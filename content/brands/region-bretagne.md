@@ -2,7 +2,7 @@
 title: Région Bretagne
 slug: "region-bretagne"
 description: ""
-date: "2026-03-13T08:56:59.830294"
+date: "2026-03-13T09:22:55.031687"
 draft: false
 sectors:
   - "public-sector"
@@ -47,19 +47,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - emblem
-  - secondary
   - primary
   - alternate
+  - emblem
+  - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - serif
 imagery_styles:
   - dynamic
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

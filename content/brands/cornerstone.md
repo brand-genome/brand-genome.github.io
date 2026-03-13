@@ -2,11 +2,11 @@
 title: Cornerstone
 slug: cornerstone
 description: ""
-date: "2026-03-13T08:56:59.188400"
+date: "2026-03-13T09:22:52.871430"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "human-ressources"
   - featured
+  - "human-ressources"
 industries:
   - "social-work"
 countries:
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

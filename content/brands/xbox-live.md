@@ -2,7 +2,7 @@
 title: Xbox Live
 slug: "xbox-live"
 description: ""
-date: "2026-03-13T08:56:59.747975"
+date: "2026-03-13T09:22:54.791209"
 draft: false
 sectors:
   - gaming
@@ -50,12 +50,12 @@ logo_elements:
   - primary
   - alternate
 brand_colors:
-  - white
+  - gray
   - gold
+  - black
   - "pantone-362"
   - green
-  - black
-  - gray
+  - white
 typographies: []
 imagery_styles:
   - clean
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

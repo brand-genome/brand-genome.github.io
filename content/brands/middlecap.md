@@ -2,12 +2,12 @@
 title: Middlecap
 slug: middlecap
 description: ""
-date: "2026-03-13T08:56:59.785166"
+date: "2026-03-13T09:22:54.810760"
 draft: false
 sectors:
-  - "real-estate"
   - consulting
   - finance
+  - "real-estate"
 regions:
   - slovakia
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - financial
 industries:
-  - retail
   - "health-care-industry"
+  - retail
 countries:
   - "czech-republic"
 revenue_buckets: []
@@ -53,29 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - favicon
+  - primary
+  - icon
   - secondary
 brand_colors:
-  - white
-  - gray
-  - blue
-  - "pantone-299"
-  - "pantone-289"
   - cyan
+  - "pantone-299"
+  - gray
   - orange
+  - "pantone-289"
   - "pantone-7625"
+  - blue
+  - white
 typographies:
   - "sans-serif"
 imagery_styles:
-  - serious
   - modern
-  - professional
+  - serious
+  - geometric
   - minimal
   - colorful
+  - professional
   - bold
-  - geometric
 wikidata_description: Czech company operating optician chain
 wikidata_url: "https://www.wikidata.org/wiki/Q130557294"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

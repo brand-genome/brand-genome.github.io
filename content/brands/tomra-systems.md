@@ -2,12 +2,12 @@
 title: Tomra Systems
 slug: "tomra-systems"
 description: ""
-date: "2026-03-13T08:56:59.611675"
+date: "2026-03-13T09:22:54.573391"
 draft: false
 sectors:
-  - "renewable-energy"
-  - hardware
   - software
+  - hardware
+  - "renewable-energy"
 regions:
   - norway
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - environment
+  - technology
 industries:
   - "reverse-vending-machine"
 countries:
@@ -54,10 +54,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - vertical
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors: []
 typographies: []
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Bombay Sapphire
 slug: "bombay-sapphire"
 description: ""
-date: "2026-03-13T08:56:59.278462"
+date: "2026-03-13T09:22:53.261896"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,30 +49,30 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - lockup
-  - stacked
   - wordmark
-  - horizontal
+  - primary
+  - stacked
+  - lockup
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - navy
-  - blue
-  - "pantone-282"
-  - "pantone-635"
   - "pantone-2995"
   - cyan
+  - "pantone-282"
+  - navy
+  - "pantone-635"
+  - white
+  - blue
   - "pantone-8022"
 typographies:
-  - serif
   - display
+  - serif
 imagery_styles:
-  - subtle
-  - gradient
-  - colorful
   - monochrome
+  - colorful
+  - gradient
+  - subtle
 wikidata_description: trademark
 wikidata_url: "https://www.wikidata.org/wiki/Q891834"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

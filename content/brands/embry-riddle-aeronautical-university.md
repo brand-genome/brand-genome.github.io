@@ -2,7 +2,7 @@
 title: "Embry-Riddle Aeronautical University"
 slug: "embry-riddle-aeronautical-university"
 description: ""
-date: "2026-03-13T08:56:59.839027"
+date: "2026-03-13T09:22:55.043017"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - education
   - university
+  - aeronautic
 industries:
   - "higher-education"
 countries:
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - prescott
   - "daytona-beach"
+  - prescott
 subsidiaries: []
 foundation_dates:
   - 1926
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -83,7 +84,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Prescott](/headquarters_locations/prescott/); [Daytona Beach](/headquarters_locations/daytona-beach/) |
+| Headquarters Location | [Daytona Beach](/headquarters_locations/daytona-beach/); [Prescott](/headquarters_locations/prescott/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Country | United States |
 | Member Of | Oak Ridge Associated Universities, LIGO Scientific Collaboration, Scholarly Publishing and Academic Resources Coalition, Council on Governmental Relations |

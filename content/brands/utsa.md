@@ -2,7 +2,7 @@
 title: UTSA
 slug: utsa
 description: ""
-date: "2026-03-13T08:56:59.809614"
+date: "2026-03-13T09:22:54.972601"
 draft: false
 sectors:
   - education
@@ -51,30 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
+  - wordmark
   - primary
   - symbol
   - stacked
+  - signature
   - horizontal
-  - wordmark
 brand_colors:
-  - white
   - black
   - blue
+  - white
   - orange
 typographies:
-  - futura
-  - inter
-  - arial
-  - helvetica
-  - times
   - serif
+  - futura
+  - helvetica
+  - inter
   - "sans-serif"
+  - arial
+  - times
 imagery_styles:
-  - graphic
-  - clean
   - classic
+  - clean
   - bold
+  - graphic
 wikidata_description: "public research university in San Antonio, Texas, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q183170"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

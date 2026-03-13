@@ -2,11 +2,11 @@
 title: Porto Holidays
 slug: "porto-holidays"
 description: ""
-date: "2026-03-13T08:56:59.808512"
+date: "2026-03-13T09:22:54.971508"
 draft: false
 sectors:
-  - tourism
   - hospitality
+  - tourism
 regions:
   - egypt
 years:
@@ -49,13 +49,13 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-361"
-  - "pantone-485"
+  - "pantone-144"
   - "pantone-2728"
   - "pantone-299"
-  - "pantone-2756"
-  - "pantone-144"
   - "pantone-2395"
   - "pantone-393"
+  - "pantone-485"
+  - "pantone-2756"
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

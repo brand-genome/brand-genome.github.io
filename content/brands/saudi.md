@@ -2,7 +2,7 @@
 title: Saudi
 slug: saudi
 description: ""
-date: "2026-03-13T08:56:59.405315"
+date: "2026-03-13T09:22:53.514717"
 draft: false
 sectors:
   - "public-sector"
@@ -17,9 +17,9 @@ tags:
   - tourism
 industries:
   - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
   - "extraction-of-petroleum"
   - "oil-refining"
-  - "extraction-of-crude-petroleum-and-natural-gas"
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -37,16 +37,16 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
-  - "natural-gas"
   - petroleum
+  - "natural-gas"
 products: []
 headquarters_locations:
   - dhahran
 subsidiaries: []
 foundation_dates:
-  - 1932
   - 1988
   - 1933
+  - 1932
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,13 +66,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
-  - blue
   - purple
-  - green
   - orange
   - black
+  - red
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "Saudi Arabian state-owned petroleum company"
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -142,9 +143,9 @@ Version 1.0
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Natural Gas](/products_or_materials_produced/natural-gas/); [Petroleum](/products_or_materials_produced/petroleum/) |
+| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/); [Natural Gas](/products_or_materials_produced/natural-gas/) |
 | Headquarters Location | [Dhahran](/headquarters_locations/dhahran/) |
-| Foundation Date | [1932](/foundation_dates/1932/); [1988](/foundation_dates/1988/); [1933](/foundation_dates/1933/) |
+| Foundation Date | [1988](/foundation_dates/1988/); [1933](/foundation_dates/1933/); [1932](/foundation_dates/1932/) |
 | Topic'S Main Category | Category:Saudi Aramco |
 | Freebase Id | /m/01qjg2 |
 | Headquarters Location | Dhahran |

@@ -2,11 +2,11 @@
 title: US Foods
 slug: "us-foods"
 description: ""
-date: "2026-03-13T08:56:59.290498"
+date: "2026-03-13T09:22:53.275790"
 draft: false
 sectors:
-  - food
   - "logistics-supply-chain"
+  - food
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - agriculture
 industries:
-  - "foodservice-distributor"
   - "food-industry"
+  - "foodservice-distributor"
   - "food-distribution"
 countries:
   - "united-states"
@@ -29,9 +29,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - meat
   - "frozen-meal"
   - produce
+  - meat
 products: []
 headquarters_locations:
   - rosemont
@@ -58,19 +58,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - "pantone-173"
+  - gray
   - "pantone-576"
   - black
-  - gray
+  - "pantone-173"
+  - white
 typographies:
   - serif
   - "sans-serif"
 imagery_styles:
   - photography
+  - modern
   - natural
   - clean
-  - modern
 wikidata_description: American foodservice distributor
 wikidata_url: "https://www.wikidata.org/wiki/Q1668265"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -130,7 +131,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Meat](/products_or_materials_produced/meat/); [Frozen Meal](/products_or_materials_produced/frozen-meal/); [Produce](/products_or_materials_produced/produce/) |
+| Product Or Material Produced | [Frozen Meal](/products_or_materials_produced/frozen-meal/); [Produce](/products_or_materials_produced/produce/); [Meat](/products_or_materials_produced/meat/) |
 | Headquarters Location | [Rosemont](/headquarters_locations/rosemont/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/09d6jk |

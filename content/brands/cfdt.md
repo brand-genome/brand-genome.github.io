@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-03-13T08:56:59.034661"
+date: "2026-03-13T09:22:51.900417"
 draft: false
 sectors:
   - ngo
@@ -31,8 +31,8 @@ headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates:
-  - 1964
   - 1919
+  - 1964
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +52,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - signature
   - symbol
+  - signature
 brand_colors:
   - orange
 typographies: []
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -105,7 +106,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
-| Foundation Date | [1964](/foundation_dates/1964/); [1919](/foundation_dates/1919/) |
+| Foundation Date | [1919](/foundation_dates/1919/); [1964](/foundation_dates/1964/) |
 | Freebase Id | /m/01v_bk |
 | Topic'S Main Category | Category:Confédération française démocratique du travail |
 | Viaf Cluster Id | 159011716 |

@@ -2,7 +2,7 @@
 title: Elisava
 slug: elisava
 description: ""
-date: "2026-03-13T08:56:59.356377"
+date: "2026-03-13T09:22:53.405342"
 draft: false
 sectors:
   - education
@@ -48,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - wordmark
+  - horizontal
   - vertical
 brand_colors:
-  - white
   - black
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
-  - graphic
   - clean
   - professional
+  - graphic
 wikidata_description: academic institution in Barcelona
 wikidata_url: "https://www.wikidata.org/wiki/Q15089062"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

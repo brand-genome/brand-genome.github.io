@@ -2,7 +2,7 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-03-13T08:56:59.472605"
+date: "2026-03-13T09:22:53.717676"
 draft: false
 sectors:
   - automobile
@@ -33,8 +33,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
   - car
+  - truck
 products: []
 headquarters_locations:
   - seoul
@@ -60,19 +60,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - wordmark
+  - symbol
   - primary
   - lockup
   - vertical
   - badge
-  - symbol
   - horizontal
-  - wordmark
 brand_colors:
+  - silver
   - grey
+  - black
   - blue
   - gold
-  - silver
-  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -157,7 +158,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
 | Foundation Date | [1967](/foundation_dates/1967/) |
 | Member Of | Open Automotive Alliance, Linux Foundation |

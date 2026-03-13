@@ -2,7 +2,7 @@
 title: American Airlines
 slug: "american-airlines"
 description: ""
-date: "2026-03-13T08:56:59.790971"
+date: "2026-03-13T09:22:54.823250"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - airline
   - featured
+  - airline
 industries: []
 countries:
   - "united-states"
@@ -33,8 +33,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1936
   - 1926
+  - 1936
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -117,7 +118,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Grand Prairie](/headquarters_locations/grand-prairie/); [Fort Worth](/headquarters_locations/fort-worth/); [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1936](/foundation_dates/1936/); [1926](/foundation_dates/1926/) |
+| Foundation Date | [1926](/foundation_dates/1926/); [1936](/foundation_dates/1936/) |
 | Airline Alliance | Oneworld |
 | Airline Hub | Dallas/Fort Worth International Airport, O'Hare International Airport, Miami International Airport, John F. Kennedy International Airport, Los Angeles International Airport (+5 more) |
 | Item Operated | Airbus A300-600, Airbus A319 (as of 2025), Airbus A320 (as of 2025), Airbus A321-200 (as of 2025), Airbus A321neo (as of 2025) (+36 more) |

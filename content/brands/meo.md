@@ -2,7 +2,7 @@
 title: MEO
 slug: meo
 description: "Designed by MYBRAND, Lisbon."
-date: "2026-03-13T08:56:59.049982"
+date: "2026-03-13T09:22:51.924676"
 draft: false
 sectors:
   - telecom
@@ -49,10 +49,10 @@ logo_elements:
   - emblem
   - vertical
 brand_colors:
+  - "pantone-201"
+  - black
   - white
   - red
-  - black
-  - "pantone-201"
 typographies: []
 imagery_styles:
   - modern
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

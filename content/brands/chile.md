@@ -2,7 +2,7 @@
 title: Chile
 slug: chile
 description: ""
-date: "2026-03-13T08:56:59.403025"
+date: "2026-03-13T09:22:53.511179"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - featured
+  - institution
 industries: []
 countries:
   - chile
@@ -54,8 +54,8 @@ typographies: []
 imagery_styles:
   - natural
   - organic
-  - photography
   - vibrant
+  - photography
   - graphic
 wikidata_description: "men's national association football team representing Chile"
 wikidata_url: "https://www.wikidata.org/wiki/Q172025"
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

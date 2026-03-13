@@ -2,27 +2,27 @@
 title: American Express
 slug: "american-express"
 description: ""
-date: "2026-03-13T08:56:59.197097"
+date: "2026-03-13T09:22:52.895221"
 draft: false
 sectors:
   - finance
 regions:
   - usa
 years:
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
 tags:
-  - financial
   - featured
+  - financial
 industries:
   - "financial-service-activities-except-insurance-and-pension-funding"
   - "payment-card-industry"
   - "financial-services"
 countries:
-  - "united-kingdom"
   - "united-states"
+  - "united-kingdom"
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:
@@ -45,78 +45,78 @@ subsidiaries: []
 foundation_dates:
   - 1850
 lightings:
+  - bright
+  - dark
+  - moderate
   - natural
   - studio
   - colored
   - soft
-  - moderate
-  - dark
-  - bright
 perspectives:
-  - "high-angle-photo"
+  - "point-of-view-shot"
   - "centered-composition"
   - "rule-of-third"
-  - "point-of-view-shot"
+  - "high-angle-photo"
 image_backgrounds:
-  - solid
-  - textured
-  - blurred
-  - dark
   - bright
+  - dark
+  - blurred
+  - textured
+  - solid
 color_schemes:
+  - "analogous-colors"
+  - grayscale
+  - "bright-colors"
   - "aquatic-colors"
   - "complementary-colors"
   - "two-tone"
-  - "bright-colors"
   - "pastel-colors"
   - monotone
-  - grayscale
-  - "analogous-colors"
 photography_genres:
-  - action
-  - portrait
-  - interior
-  - landscape
-  - product
-  - "still-life"
   - "live-stage"
   - architectural
+  - interior
+  - action
+  - "still-life"
   - street
+  - portrait
+  - landscape
+  - product
 concepts:
-  - "text-heavy"
-  - illustration
-  - photorealism
-  - "graphic-design"
-  - vintage
-  - "wave-pattern"
   - typography
+  - vintage
+  - illustration
+  - "graphic-design"
+  - photorealism
+  - "wave-pattern"
+  - "text-heavy"
 depths:
-  - "mid-shot"
   - "wide-angle-shot"
-  - "fully-focused-subject"
   - "isolated-focal-point"
   - "partly-focused-subject"
+  - "fully-focused-subject"
+  - "mid-shot"
   - "close-up-shot"
   - "bright-focal-point"
 image_effects:
-  - "short-exposure"
   - "high-contrast"
-  - "long-exposure"
+  - "short-exposure"
   - "neutral-density-filter"
+  - "long-exposure"
 dominant_colors:
-  - blue
-  - "mud-green"
-  - purple
-  - "dark-blue"
   - cyan
-  - black
-  - orange
+  - purple
+  - "mud-green"
   - gray
+  - orange
+  - black
+  - "dark-blue"
+  - blue
 color_tones:
   - neutral
 hair_styles:
-  - ponytail
   - braided
+  - ponytail
 facial_expressions:
   - focused
   - engaged
@@ -146,6 +146,195 @@ sample_image_urls:
   - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
   - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
   - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+visual_term_image_urls:
+  lightings:
+    bright:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    natural:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    soft:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    studio:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    dark:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    moderate:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    colored:
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+  perspectives:
+    centered-composition:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    rule-of-third:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    high-angle-photo:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    point-of-view-shot:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+  image_backgrounds:
+    textured:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    bright:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    solid:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    blurred:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    dark:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  color_schemes:
+    complementary-colors:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    bright-colors:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    pastel-colors:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+    analogous-colors:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    monotone:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    two-tone:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    grayscale:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    aquatic-colors:
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+  photography_genres:
+    architectural:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    landscape:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    street:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+    still-life:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    portrait:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    action:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    live-stage:
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    interior:
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    product:
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+  concepts:
+    vintage:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    photorealism:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    graphic-design:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    illustration:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    typography:
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    text-heavy:
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    wave-pattern:
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+  depths:
+    close-up-shot:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    mid-shot:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    wide-angle-shot:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    isolated-focal-point:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    fully-focused-subject:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+    partly-focused-subject:
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+    bright-focal-point:
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+  image_effects:
+    short-exposure:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    neutral-density-filter:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    long-exposure:
+      - "https://pbs.twimg.com/media/FgflOgYXoAErAk9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DpGgHOnXUAE3DS1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DjITmZ1U4AA6Zb3?format=jpg&name=large"
+    high-contrast:
+      - "https://pbs.twimg.com/media/EF9mh1aXkAAXigy?format=jpg&name=large"
+  hair_styles:
+    braided:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    ponytail:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  facial_expressions:
+    focused:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+    engaged:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  clothing_styles:
+    traditional:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  gazes:
+    forward:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
+  body_sections:
+    head-shot:
+      - "https://pbs.twimg.com/media/FGmC-z8XMAAA0Y6?format=jpg&name=large"
 ---
 ## Official Websites
 

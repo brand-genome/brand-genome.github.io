@@ -2,7 +2,7 @@
 title: Mankato
 slug: mankato
 description: ""
-date: "2026-03-13T08:56:59.729883"
+date: "2026-03-13T09:22:54.745324"
 draft: false
 sectors:
   - "public-sector"
@@ -50,23 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - white
-  - blue
-  - pink
-  - green
   - orange
   - black
+  - pink
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
-  - professional
-  - vibrant
-  - gradient
-  - graphic
-  - bold
   - lifestyle
+  - gradient
+  - vibrant
+  - professional
+  - bold
+  - graphic
 wikidata_description: "city in Blue Earth County, Minnesota, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q913243"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

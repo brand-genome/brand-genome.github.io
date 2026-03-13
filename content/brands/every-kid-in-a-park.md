@@ -2,7 +2,7 @@
 title: Every Kid in a Park
 slug: "every-kid-in-a-park"
 description: ""
-date: "2026-03-13T08:56:59.330625"
+date: "2026-03-13T09:22:53.331873"
 draft: false
 sectors:
   - "public-sector"
@@ -48,17 +48,17 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - "pantone-350"
   - "pantone-7459"
+  - "pantone-134"
+  - "pantone-350"
   - black
   - "pantone-478"
-  - "pantone-134"
+  - white
 typographies:
   - display
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q19880427"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

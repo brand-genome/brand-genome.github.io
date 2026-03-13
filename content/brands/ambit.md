@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-03-13T08:56:59.473232"
+date: "2026-03-13T09:22:53.718447"
 draft: false
 sectors:
   - software
@@ -13,12 +13,12 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries: []
 countries:
-  - "czech-republic"
   - czechoslovakia
+  - "czech-republic"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -49,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - wordmark
 brand_colors:
-  - white
   - grey
-  - black
-  - orange
   - "pantone-021"
+  - orange
+  - black
+  - white
 typographies:
   - montserrat
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: former Czech company
 wikidata_url: "https://www.wikidata.org/wiki/Q134894427"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

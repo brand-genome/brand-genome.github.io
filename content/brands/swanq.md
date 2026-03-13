@@ -2,12 +2,12 @@
 title: Swanq
 slug: swanq
 description: ""
-date: "2026-03-13T08:56:59.089044"
+date: "2026-03-13T09:22:52.104365"
 draft: false
 sectors:
+  - "interior-design-decor"
   - "consumer-goods"
   - "home-appliances"
-  - "interior-design-decor"
 regions:
   - india
 years:
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

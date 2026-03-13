@@ -2,7 +2,7 @@
 title: Wichita State University
 slug: "wichita-state-university"
 description: ""
-date: "2026-03-13T08:56:59.250639"
+date: "2026-03-13T09:22:53.239316"
 draft: false
 sectors:
   - university
@@ -54,8 +54,8 @@ logo_elements:
   - alternate
   - symbol
 brand_colors:
-  - yellow
   - black
+  - yellow
 typographies:
   - garamond
   - bodoni
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Renata
 slug: renata
 description: ""
-date: "2026-03-13T08:56:59.533304"
+date: "2026-03-13T09:22:54.185434"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
   - networking
 regions:
   - colombia
@@ -57,9 +57,9 @@ brand_colors:
   - blue
 typographies:
   - "open-sans"
-  - roboto
-  - arial
   - ubuntu
+  - arial
+  - roboto
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

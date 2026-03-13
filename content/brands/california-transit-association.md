@@ -2,11 +2,11 @@
 title: California Transit Association
 slug: "california-transit-association"
 description: ""
-date: "2026-03-13T08:56:59.312034"
+date: "2026-03-13T09:22:53.311888"
 draft: false
 sectors:
-  - ngo
   - "public-transportation"
+  - ngo
 regions:
   - usa
 years:
@@ -47,33 +47,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
-  - secondary
+  - icon
   - vertical
+  - secondary
 brand_colors:
-  - white
+  - "pantone-2925"
+  - gray
+  - black
+  - "pantone-124"
   - "pantone-292"
   - blue
-  - "pantone-124"
-  - black
-  - gray
-  - "pantone-2925"
+  - white
 typographies:
+  - display
+  - univers
   - gotham
   - "proxima-nova"
   - arial
-  - display
-  - univers
 imagery_styles:
+  - flat
   - natural
+  - candid
+  - geometric
+  - photography
   - dynamic
   - clean
   - professional
-  - candid
-  - photography
-  - flat
-  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

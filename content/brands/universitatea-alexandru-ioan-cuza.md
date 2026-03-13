@@ -2,7 +2,7 @@
 title: Universitatea Alexandru Ioan Cuza
 slug: "universitatea-alexandru-ioan-cuza"
 description: ""
-date: "2026-03-13T08:56:59.236866"
+date: "2026-03-13T09:22:53.082045"
 draft: false
 sectors:
   - education
@@ -51,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - horizontal
+  - stacked
   - vertical
 brand_colors: []
 typographies: []
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

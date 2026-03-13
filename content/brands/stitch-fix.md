@@ -2,11 +2,11 @@
 title: Stitch Fix
 slug: "stitch-fix"
 description: ""
-date: "2026-03-13T08:56:59.602522"
+date: "2026-03-13T09:22:54.564640"
 draft: false
 sectors:
-  - fashion
   - "e-commerce"
+  - fashion
 regions:
   - usa
 years:
@@ -51,26 +51,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - logomark
-  - secondary
+  - icon
   - primary
   - symbol
+  - secondary
 brand_colors:
-  - white
+  - turquoise
+  - gray
   - grey
   - blue
-  - turquoise
   - green
-  - gray
+  - white
 typographies:
-  - brandon
   - serif
-  - trebuchet
+  - brandon
   - "gill-sans"
+  - trebuchet
 imagery_styles:
-  - product
   - modern
+  - product
   - bold
 wikidata_description: online clothing company
 wikidata_url: "https://www.wikidata.org/wiki/Q18385610"
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

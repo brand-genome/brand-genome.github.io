@@ -2,11 +2,11 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-03-13T08:56:59.143618"
+date: "2026-03-13T09:22:52.315332"
 draft: false
 sectors:
-  - insurance
   - software
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - software
 industries:
-  - "artificial-intelligence"
   - "information-technology-industry"
+  - "artificial-intelligence"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -53,18 +53,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
   - wordmark
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
-  - modern
   - clean
-  - bold
   - serious
+  - modern
+  - bold
 wikidata_description: American artificial intelligence corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q131362989"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

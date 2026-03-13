@@ -2,7 +2,7 @@
 title: Botafogo de Futebol e Regatas
 slug: "botafogo-de-futebol-e-regatas"
 description: ""
-date: "2026-03-13T08:56:59.057015"
+date: "2026-03-13T09:22:51.996842"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - sport
   - featured
+  - sport
 industries:
   - "sporting-activities"
 countries:
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

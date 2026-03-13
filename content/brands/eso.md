@@ -2,7 +2,7 @@
 title: ESO
 slug: eso
 description: ""
-date: "2026-03-13T08:56:59.361139"
+date: "2026-03-13T09:22:53.425198"
 draft: false
 sectors:
   - research
@@ -50,21 +50,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - horizontal
 brand_colors:
-  - white
-  - blue
   - "pantone-3005"
-  - black
   - gray
+  - black
+  - blue
+  - white
 typographies:
   - helvetica
 imagery_styles:
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: intergovernmental organization and observatory in Chile
 wikidata_url: "https://www.wikidata.org/wiki/Q151991"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

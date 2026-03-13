@@ -2,11 +2,11 @@
 title: Canadian Tire
 slug: "canadian-tire"
 description: ""
-date: "2026-03-13T08:56:59.175773"
+date: "2026-03-13T09:22:52.824807"
 draft: false
 sectors:
-  - "consumer-goods"
   - finance
+  - "consumer-goods"
 regions:
   - canada
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - retail
   - finance
+  - retail
 countries:
   - canada
 revenue_buckets:
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Massif des Vosges
 slug: "massif-des-vosges"
 description: ""
-date: "2026-03-13T08:56:59.396030"
+date: "2026-03-13T09:22:53.492680"
 draft: false
 sectors:
   - tourism
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - environment
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,22 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
-  - vertical
   - stacked
-  - horizontal
+  - vertical
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - natural
-  - monochrome
-  - photography
   - candid
+  - monochrome
   - vibrant
+  - photography
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-03-13T08:56:59.108745"
+date: "2026-03-13T09:22:52.196096"
 draft: false
 sectors:
   - university
@@ -58,14 +58,14 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - blue
-  - "pantone-294"
   - yellow
-  - gold
+  - crimson
   - "pantone-130"
   - black
-  - crimson
+  - "pantone-294"
+  - blue
+  - gold
+  - white
 typographies:
   - "open-sans"
 imagery_styles:
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

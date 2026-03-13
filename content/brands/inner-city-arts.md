@@ -2,12 +2,12 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-03-13T08:56:59.515997"
+date: "2026-03-13T09:22:54.045440"
 draft: false
 sectors:
   - education
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - usa
 years:
@@ -56,17 +56,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
+  - gray
   - orange
   - black
-  - gray
+  - red
+  - white
 typographies:
-  - gotham
-  - arial
   - helvetica
-  - impact
+  - gotham
   - "sans-serif"
+  - arial
+  - impact
 imagery_styles:
   - vibrant
   - dynamic
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: United Technologies
 slug: "united-technologies"
 description: ""
-date: "2026-03-13T08:56:59.714232"
+date: "2026-03-13T09:22:54.720784"
 draft: false
 sectors:
   - defense
@@ -53,28 +53,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
   - signature
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - green
-  - black
   - gray
+  - yellow
+  - black
+  - blue
+  - green
+  - white
 typographies:
-  - impact
   - "sans-serif"
+  - impact
 imagery_styles:
-  - natural
-  - clean
-  - macro
-  - candid
-  - product
-  - photography
   - flat
+  - natural
+  - candid
+  - clean
+  - photography
+  - macro
+  - product
   - bold
 wikidata_description: defunct American multinational conglomerate (1929–2020)
 wikidata_url: "https://www.wikidata.org/wiki/Q1045758"
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-03-13T08:56:59.227994"
+date: "2026-03-13T09:22:53.073483"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - france
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - french
 tags:
-  - institution
   - science
+  - institution
 industries: []
 countries:
   - lebanon
@@ -53,15 +53,15 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - white
-  - "pantone-7458"
   - "pantone-5405"
+  - "pantone-7458"
   - "pantone-2965"
-  - blue
   - black
+  - blue
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - graphic
 wikidata_description: "government organization in Beirut, Lebanon"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

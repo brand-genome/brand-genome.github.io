@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-03-13T08:56:59.587832"
+date: "2026-03-13T09:22:54.421036"
 draft: false
 sectors:
   - software
@@ -47,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - green
   - orange
   - black
+  - red
+  - blue
+  - green
+  - white
 typographies:
-  - din
-  - "source-sans"
   - times
+  - "source-sans"
+  - din
 imagery_styles:
   - gradient
   - bold
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

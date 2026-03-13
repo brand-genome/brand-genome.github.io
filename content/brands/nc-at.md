@@ -2,7 +2,7 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-03-13T08:56:59.430715"
+date: "2026-03-13T09:22:53.646194"
 draft: false
 sectors:
   - education
@@ -52,14 +52,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - gold
   - black
-  - blue
   - gray
+  - gold
+  - blue
 typographies:
   - montserrat
 imagery_styles: []
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

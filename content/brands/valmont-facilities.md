@@ -2,12 +2,12 @@
 title: Valmont facilities
 slug: "valmont-facilities"
 description: ""
-date: "2026-03-13T08:56:59.376490"
+date: "2026-03-13T09:22:53.442660"
 draft: false
 sectors:
   - construction
-  - "agricultural-heavy-equipment"
   - hardware
+  - "agricultural-heavy-equipment"
 regions:
   - usa
 years:
@@ -48,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
   - signature
 brand_colors:
-  - "pantone-427"
-  - white
-  - blue
-  - "pantone-7527"
   - "pantone-411"
+  - "pantone-7527"
+  - "pantone-431"
   - black
   - "pantone-634"
-  - "pantone-431"
+  - white
+  - blue
+  - "pantone-427"
 typographies:
-  - roboto
-  - display
   - arial
+  - display
+  - roboto
 imagery_styles:
   - photography
   - product
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

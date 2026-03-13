@@ -2,11 +2,11 @@
 title: Ajman Free Zone
 slug: "ajman-free-zone"
 description: ""
-date: "2026-03-13T08:56:59.268548"
+date: "2026-03-13T09:22:53.253464"
 draft: false
 sectors:
-  - "public-sector"
   - "real-estate"
+  - "public-sector"
 regions:
   - "united-arab-emirates"
 years:
@@ -52,25 +52,25 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
+  - "pantone-877"
+  - "pantone-265"
+  - silver
+  - "pantone-360"
+  - "pantone-426"
+  - black
   - white
+  - "pantone-137"
   - "pantone-115"
   - "pantone-310"
-  - "pantone-265"
   - "pantone-2727"
-  - silver
-  - "pantone-877"
-  - "pantone-360"
-  - black
-  - "pantone-137"
-  - "pantone-426"
 typographies:
-  - frutiger
   - arial
+  - frutiger
 imagery_styles:
   - clean
+  - contemporary
   - modern
   - bold
-  - contemporary
 wikidata_description: registration authority
 wikidata_url: "https://www.wikidata.org/wiki/Q107179272"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

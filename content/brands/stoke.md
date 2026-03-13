@@ -2,11 +2,11 @@
 title: Stoke
 slug: stoke
 description: ""
-date: "2026-03-13T08:56:59.486759"
+date: "2026-03-13T09:22:53.770160"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - "new-zealand"
 years:
@@ -50,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - horizontal
-  - wordmark
   - vertical
 brand_colors:
-  - white
-  - gold
   - black
+  - gold
   - "pantone-872"
+  - white
 typographies: []
 imagery_styles:
   - natural
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

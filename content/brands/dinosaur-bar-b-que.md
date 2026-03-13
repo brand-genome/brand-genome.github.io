@@ -2,11 +2,11 @@
 title: "Dinosaur Bar-B-Que"
 slug: "dinosaur-bar-b-que"
 description: ""
-date: "2026-03-13T08:56:59.430427"
+date: "2026-03-13T09:22:53.645877"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -49,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - badge
   - primary
   - secondary
   - signature
-  - badge
 brand_colors:
-  - white
-  - yellow
-  - red
   - black
+  - yellow
+  - white
+  - red
 typographies:
-  - avenir
   - display
+  - avenir
 imagery_styles: []
 wikidata_description: "restaurant, blues venue, and biker bar chain"
 wikidata_url: "https://www.wikidata.org/wiki/Q5278624"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: SoundID
 slug: soundid
 description: ""
-date: "2026-03-13T08:56:59.297011"
+date: "2026-03-13T09:22:53.283291"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - software
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,13 +47,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - lockup
   - symbol
+  - lockup
+  - primary
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
 typographies:
   - serif
   - inter
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

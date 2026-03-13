@@ -2,7 +2,7 @@
 title: Aston Villa Football Club
 slug: "aston-villa-football-club"
 description: ""
-date: "2026-03-13T08:56:59.789313"
+date: "2026-03-13T09:22:54.820671"
 draft: false
 sectors:
   - sports
@@ -49,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - crest
-  - vertical
+  - primary
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - blue
-  - "pantone-229"
-  - "pantone-278"
-  - yellow
-  - gold
-  - green
-  - "pantone-360"
-  - "pantone-871"
-  - silver
   - "pantone-877"
+  - silver
+  - "pantone-229"
+  - "pantone-360"
+  - yellow
+  - green
+  - "pantone-871"
+  - blue
+  - "pantone-278"
+  - gold
+  - white
 typographies: []
 imagery_styles:
   - clean
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: NordPlus
 slug: nordplus
 description: ""
-date: "2026-03-13T08:56:59.569941"
+date: "2026-03-13T09:22:54.343446"
 draft: false
 sectors:
   - education
@@ -47,34 +47,34 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - brown
-  - white
-  - grey
-  - "pantone-165"
-  - blue
+  - cyan
+  - "pantone-320"
+  - violet
   - "pantone-299"
-  - "pantone-226"
   - "pantone-369"
   - yellow
-  - "pantone-320"
-  - "pantone-7405"
-  - violet
+  - "pantone-165"
   - "pantone-469"
-  - green
-  - cyan
+  - grey
   - black
   - magenta
+  - "pantone-7405"
   - "pantone-526"
+  - blue
+  - "pantone-226"
+  - green
+  - white
+  - brown
 typographies: []
 imagery_styles:
   - photography
-  - graphic
   - modern
   - bold
+  - graphic
 wikidata_description: financing programme of the Nordic Council
 wikidata_url: "https://www.wikidata.org/wiki/Q11046517"
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

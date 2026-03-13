@@ -2,7 +2,7 @@
 title: Colombia
 slug: colombia
 description: ""
-date: "2026-03-13T08:56:59.407698"
+date: "2026-03-13T09:22:53.518051"
 draft: false
 sectors:
   - "public-sector"
@@ -52,19 +52,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - blue
   - yellow
   - black
+  - red
+  - blue
+  - white
 typographies:
-  - futura
   - verdana
+  - futura
 imagery_styles:
   - vibrant
-  - graphic
-  - bold
   - photography
+  - bold
+  - graphic
 wikidata_description: Colombian municipality of the department of Valle del Cauca
 wikidata_url: "https://www.wikidata.org/wiki/Q1093490"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

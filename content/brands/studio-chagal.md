@@ -2,7 +2,7 @@
 title: Studio ChaGal
 slug: "studio-chagal"
 description: ""
-date: "2026-03-13T08:56:59.811544"
+date: "2026-03-13T09:22:54.974924"
 draft: false
 sectors:
   - construction
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - engineering
   - environment
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

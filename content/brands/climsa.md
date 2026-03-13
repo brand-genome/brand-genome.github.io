@@ -2,11 +2,11 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-03-13T08:56:59.375666"
+date: "2026-03-13T09:22:53.441711"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - international
 years:
@@ -48,24 +48,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - brown
-  - red
-  - grey
-  - blue
-  - yellow
   - purple
-  - green
   - silver
+  - grey
+  - yellow
+  - red
+  - blue
+  - green
+  - brown
 typographies:
-  - "work-sans"
   - arial
+  - "work-sans"
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

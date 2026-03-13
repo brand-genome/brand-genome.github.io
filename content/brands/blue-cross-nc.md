@@ -2,7 +2,7 @@
 title: Blue Cross NC
 slug: "blue-cross-nc"
 description: ""
-date: "2026-03-13T08:56:59.360552"
+date: "2026-03-13T09:22:53.424689"
 draft: false
 sectors:
   - insurance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - social
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
+  - stacked
 brand_colors:
   - cyan
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - professional
-  - photography
+  - lifestyle
   - candid
   - minimal
-  - lifestyle
+  - photography
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

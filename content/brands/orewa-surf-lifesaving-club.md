@@ -2,7 +2,7 @@
 title: Orewa Surf Lifesaving Club
 slug: "orewa-surf-lifesaving-club"
 description: ""
-date: "2026-03-13T08:56:59.506030"
+date: "2026-03-13T09:22:53.965194"
 draft: false
 sectors:
   - "emergency-services"
@@ -51,13 +51,13 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
+  - black
   - white
   - red
-  - black
   - blue
 typographies:
-  - display
   - arial
+  - display
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,12 +2,12 @@
 title: Energy Star
 slug: "energy-star"
 description: ""
-date: "2026-03-13T08:56:59.505675"
+date: "2026-03-13T09:22:53.964741"
 draft: false
 sectors:
-  - "public-sector"
   - "renewable-energy"
   - utilities
+  - "public-sector"
 regions:
   - usa
 years:
@@ -48,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - alternate
   - seal
-  - symbol
 brand_colors:
-  - white
-  - cyan
   - black
+  - cyan
+  - white
   - blue
 typographies: []
 imagery_styles:
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

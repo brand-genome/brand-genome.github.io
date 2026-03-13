@@ -2,11 +2,11 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-03-13T08:56:59.499421"
+date: "2026-03-13T09:22:53.937725"
 draft: false
 sectors:
-  - tourism
   - hospitality
+  - tourism
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "activities-of-head-offices"
   - "hospitality-industry"
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:
@@ -61,28 +61,28 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
+  - "pantone-5513"
   - grey
-  - blue
+  - "pantone-703"
   - "pantone-7546"
   - "pantone-7550"
-  - green
   - black
   - "pantone-5763"
-  - "pantone-5513"
-  - "pantone-703"
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - gotham
-  - trebuchet
   - georgia
+  - trebuchet
 imagery_styles:
-  - natural
-  - staged
-  - contemporary
-  - monochrome
-  - graphic
   - artificial
+  - contemporary
+  - natural
+  - monochrome
+  - staged
+  - graphic
 wikidata_description: French hotel group
 wikidata_url: "https://www.wikidata.org/wiki/Q212599"
 has_twitter: false
@@ -90,6 +90,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

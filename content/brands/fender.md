@@ -2,7 +2,7 @@
 title: Fender
 slug: fender
 description: ""
-date: "2026-03-13T08:56:59.749201"
+date: "2026-03-13T09:22:54.793458"
 draft: false
 sectors:
   - "consumer-goods"
@@ -26,9 +26,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "electronic-amplifier"
   - "bass-guitar"
   - "string-instrument"
-  - "electronic-amplifier"
 products: []
 headquarters_locations:
   - "nabari-station"
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -150,7 +151,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [String Instrument](/products_or_materials_produced/string-instrument/); [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/) |
+| Product Or Material Produced | [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/); [Bass Guitar](/products_or_materials_produced/bass-guitar/); [String Instrument](/products_or_materials_produced/string-instrument/) |
 | Headquarters Location | [Nabari Station](/headquarters_locations/nabari-station/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Founded By | Leo Fender |

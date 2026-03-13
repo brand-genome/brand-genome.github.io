@@ -2,7 +2,7 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-03-13T08:56:59.820730"
+date: "2026-03-13T09:22:54.986414"
 draft: false
 sectors:
   - construction
@@ -52,9 +52,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - impact
 imagery_styles: []
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

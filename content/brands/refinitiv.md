@@ -2,7 +2,7 @@
 title: Refinitiv
 slug: refinitiv
 description: ""
-date: "2026-03-13T08:56:59.260235"
+date: "2026-03-13T09:22:53.248296"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - featured
+  - financial
 industries: []
 countries:
   - ireland
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

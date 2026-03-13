@@ -2,7 +2,7 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-03-13T08:56:59.280251"
+date: "2026-03-13T09:22:53.262750"
 draft: false
 sectors:
   - ngo
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

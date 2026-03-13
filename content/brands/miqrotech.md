@@ -2,7 +2,7 @@
 title: mIQrotech
 slug: miqrotech
 description: ""
-date: "2026-03-13T08:56:59.277821"
+date: "2026-03-13T09:22:53.260573"
 draft: false
 sectors:
   - oil
@@ -47,10 +47,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
-  - signature
+  - primary
   - secondary
+  - signature
 brand_colors:
   - black
   - orange
@@ -58,10 +58,10 @@ typographies:
   - helvetica
   - roboto
 imagery_styles:
-  - dynamic
   - clean
-  - professional
+  - dynamic
   - photography
+  - professional
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

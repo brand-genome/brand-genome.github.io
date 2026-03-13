@@ -2,11 +2,11 @@
 title: EL PAcCTO
 slug: "el-paccto"
 description: ""
-date: "2026-03-13T08:56:59.346753"
+date: "2026-03-13T09:22:53.394321"
 draft: false
 sectors:
-  - "public-sector"
   - "emergency-services"
+  - "public-sector"
 regions:
   - international
 years:
@@ -51,12 +51,12 @@ logo_elements:
   - vertical
 brand_colors:
   - "pantone-115"
-  - "pantone-7739"
-  - "pantone-1797"
   - "pantone-534"
+  - "pantone-1797"
+  - "pantone-7739"
 typographies:
-  - din
   - arial
+  - din
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

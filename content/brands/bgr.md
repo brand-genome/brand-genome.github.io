@@ -2,7 +2,7 @@
 title: BGR
 slug: bgr
 description: ""
-date: "2026-03-13T08:56:59.315397"
+date: "2026-03-13T09:22:53.319929"
 draft: false
 sectors:
   - publishing
@@ -48,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
-  - serif
   - display
+  - serif
 imagery_styles:
-  - graphic
   - gradient
   - bold
+  - graphic
 wikidata_description: "railway station in Khyber Pakhtunkhwa, Pakistan"
 wikidata_url: "https://www.wikidata.org/wiki/Q18356109"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

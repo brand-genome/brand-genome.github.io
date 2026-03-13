@@ -2,17 +2,17 @@
 title: Crucial
 slug: crucial
 description: ""
-date: "2026-03-13T08:56:59.071487"
+date: "2026-03-13T09:22:52.062708"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
+  - 2020
   - 2019
   - 2024
-  - 2020
 languages:
   - english
 tags:
@@ -51,14 +51,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - red
-  - blue
+  - gray
   - yellow
-  - green
   - orange
   - black
-  - gray
+  - red
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
   - subtle
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

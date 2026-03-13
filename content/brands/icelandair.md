@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-03-13T08:56:59.148379"
+date: "2026-03-13T09:22:52.320957"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - transport
+  - aeronautic
   - airline
 industries: []
 countries:
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - reykjavik
   - hafnarfjorur
+  - reykjavik
 subsidiaries: []
 foundation_dates:
   - 1937
@@ -52,9 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - horizontal
   - wordmark
-  - vertical
 brand_colors: []
 typographies:
   - impact
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -125,7 +126,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Reykjavik](/headquarters_locations/reykjavik/); [Hafnarfjorur](/headquarters_locations/hafnarfjorur/) |
+| Headquarters Location | [Hafnarfjorur](/headquarters_locations/hafnarfjorur/); [Reykjavik](/headquarters_locations/reykjavik/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Topic'S Main Category | Category:Icelandair |
 | Freebase Id | /m/014jcv |

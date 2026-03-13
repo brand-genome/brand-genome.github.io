@@ -2,11 +2,11 @@
 title: Commonwealth Games Federation
 slug: "commonwealth-games-federation"
 description: ""
-date: "2026-03-13T08:56:59.408780"
+date: "2026-03-13T09:22:53.519389"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - london
   - "pall-mall"
+  - london
 subsidiaries: []
 foundation_dates:
   - 1932
@@ -55,19 +55,19 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - red
-  - blue
   - yellow
   - black
+  - red
+  - blue
+  - white
 typographies:
-  - helvetica
   - display
-  - impact
+  - helvetica
   - arial
+  - impact
 imagery_styles:
-  - photography
   - portrait
+  - photography
   - bold
 wikidata_description: international organization responsible for the Commonwealth Games and Commonwealth Youth Games
 wikidata_url: "https://www.wikidata.org/wiki/Q3684877"
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -135,7 +136,7 @@ Additional black (#231f20)/white (#ffffff) for contrast.
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [London](/headquarters_locations/london/); [Pall Mall](/headquarters_locations/pall-mall/) |
+| Headquarters Location | [Pall Mall](/headquarters_locations/pall-mall/); [London](/headquarters_locations/london/) |
 | Foundation Date | [1932](/foundation_dates/1932/) |
 | Inception | 1932 |
 | Main Wikidata Property | Commonwealth Games Federation athlete ID (archived) |

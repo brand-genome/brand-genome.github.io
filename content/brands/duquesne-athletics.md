@@ -2,11 +2,11 @@
 title: Duquesne Athletics
 slug: "duquesne-athletics"
 description: ""
-date: "2026-03-13T08:56:59.563114"
+date: "2026-03-13T09:22:54.334660"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,8 +50,8 @@ body_sections: []
 logo_elements:
   - monogram
   - primary
-  - vertical
   - stacked
+  - vertical
   - horizontal
 brand_colors:
   - red
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

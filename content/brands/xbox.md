@@ -2,7 +2,7 @@
 title: Xbox
 slug: xbox
 description: ""
-date: "2026-03-13T08:56:59.441370"
+date: "2026-03-13T09:22:53.663542"
 draft: false
 sectors:
   - gaming
@@ -48,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - horizontal
+  - stacked
   - vertical
 brand_colors:
-  - white
-  - green
   - gray
+  - green
+  - white
 typographies:
   - script
 imagery_styles:
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

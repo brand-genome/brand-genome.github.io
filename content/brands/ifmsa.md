@@ -2,11 +2,11 @@
 title: IFMSA
 slug: ifmsa
 description: ""
-date: "2026-03-13T08:56:59.326097"
+date: "2026-03-13T09:22:53.326604"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - denmark
 years:
@@ -51,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
+  - symbol
   - primary
   - lockup
-  - symbol
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
-  - "sans-serif"
-  - montserrat
   - arial
+  - montserrat
+  - "sans-serif"
 imagery_styles:
-  - graphic
   - minimal
+  - graphic
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1537047"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

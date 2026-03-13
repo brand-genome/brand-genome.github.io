@@ -2,7 +2,7 @@
 title: Polvijärvi
 slug: polvijarvi
 description: ""
-date: "2026-03-13T08:56:59.332589"
+date: "2026-03-13T09:22:53.335084"
 draft: false
 sectors:
   - "public-sector"
@@ -50,15 +50,15 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
-  - blue
-  - pink
   - yellow
   - black
+  - pink
+  - blue
+  - white
 typographies:
-  - montserrat
   - serif
   - georgia
+  - montserrat
   - "sans-serif"
 imagery_styles:
   - modern
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

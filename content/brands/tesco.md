@@ -2,12 +2,12 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-03-13T08:56:59.503564"
+date: "2026-03-13T09:22:53.961504"
 draft: false
 sectors:
+  - "e-commerce"
   - supermarket
   - "consumer-goods"
-  - "e-commerce"
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - shopping
-  - corporate
   - featured
+  - corporate
+  - shopping
 industries:
   - "retail-chain"
 countries:
@@ -62,11 +62,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
   - purple
+  - black
+  - blue
   - green
   - turquoise
-  - black
 typographies:
   - arial
 imagery_styles:
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

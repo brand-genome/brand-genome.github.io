@@ -2,11 +2,11 @@
 title: Marine Life 2030
 slug: "marine-life-2030"
 description: ""
-date: "2026-03-13T08:56:59.273339"
+date: "2026-03-13T09:22:53.256738"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - environment
+  - marine
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,14 +50,14 @@ body_sections: []
 logo_elements:
   - stacked
 brand_colors:
-  - "pantone-631"
-  - "pantone-7555"
   - "pantone-3035"
+  - "pantone-7555"
+  - "pantone-631"
 typographies:
   - montserrat
 imagery_styles:
-  - professional
   - vintage
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

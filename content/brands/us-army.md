@@ -2,11 +2,11 @@
 title: U.S. Army
 slug: "us-army"
 description: ""
-date: "2026-03-13T08:56:59.216854"
+date: "2026-03-13T09:22:53.026545"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - military
   - featured
+  - military
 industries: []
 countries:
   - "united-states"
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Auburn University
 slug: "auburn-university"
 description: ""
-date: "2026-03-13T08:56:59.827606"
+date: "2026-03-13T09:22:55.021489"
 draft: false
 sectors:
   - university
@@ -50,23 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - mascot
   - wordmark
-  - symbol
 brand_colors:
-  - white
+  - cyan
+  - yellow
+  - orange
+  - black
+  - magenta
   - red
   - blue
-  - yellow
   - green
-  - cyan
-  - black
-  - orange
-  - magenta
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - monochrome
+  - graphic
 wikidata_description: "public university in Auburn, Alabama, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q540672"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

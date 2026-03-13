@@ -2,11 +2,11 @@
 title: Cree
 slug: cree
 description: ""
-date: "2026-03-13T08:56:59.712425"
+date: "2026-03-13T09:22:54.718094"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -51,12 +51,12 @@ body_sections: []
 logo_elements:
   - primary
   - secondary
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
+  - black
   - "pantone-294"
   - white
-  - black
   - blue
 typographies: []
 imagery_styles:
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

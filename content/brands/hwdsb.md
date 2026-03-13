@@ -2,11 +2,11 @@
 title: HWDSB
 slug: hwdsb
 description: ""
-date: "2026-03-13T08:56:59.314516"
+date: "2026-03-13T09:22:53.318667"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - canada
 years:
@@ -50,15 +50,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - "sans-serif"
 imagery_styles:
   - photography
-  - clean
   - professional
   - bold
+  - clean
 wikidata_description: "school board in Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q5644811"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

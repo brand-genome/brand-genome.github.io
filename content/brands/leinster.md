@@ -2,7 +2,7 @@
 title: Leinster
 slug: leinster
 description: ""
-date: "2026-03-13T08:56:59.439965"
+date: "2026-03-13T09:22:53.662930"
 draft: false
 sectors:
   - sports
@@ -57,8 +57,8 @@ typographies:
   - futura
   - impact
 imagery_styles:
-  - bold
   - dramatic
+  - bold
 wikidata_description: Irish provincial cricket team
 wikidata_url: "https://www.wikidata.org/wiki/Q28233034"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

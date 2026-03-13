@@ -2,7 +2,7 @@
 title: Visa
 slug: visa
 description: ""
-date: "2026-03-13T08:56:59.316518"
+date: "2026-03-13T09:22:53.321492"
 draft: false
 sectors:
   - software
@@ -38,10 +38,10 @@ products_or_materials_produced:
   - "credit-card"
 products: []
 headquarters_locations:
-  - "foster-city"
+  - "san-francisco"
   - "san-mateo"
   - "mission-rock"
-  - "san-francisco"
+  - "foster-city"
 subsidiaries: []
 foundation_dates:
   - 1958
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -96,7 +97,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Credit Card](/products_or_materials_produced/credit-card/) |
-| Headquarters Location | [Foster City](/headquarters_locations/foster-city/); [San Mateo](/headquarters_locations/san-mateo/); [Mission Rock](/headquarters_locations/mission-rock/); [San Francisco](/headquarters_locations/san-francisco/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [San Mateo](/headquarters_locations/san-mateo/); [Mission Rock](/headquarters_locations/mission-rock/); [Foster City](/headquarters_locations/foster-city/) |
 | Foundation Date | [1958](/foundation_dates/1958/) |
 | Stock Exchange | New York Stock Exchange (from 2008) |
 | Inception | 1958 |

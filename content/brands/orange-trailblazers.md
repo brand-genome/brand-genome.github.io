@@ -2,7 +2,7 @@
 title: Orange Trailblazers
 slug: "orange-trailblazers"
 description: ""
-date: "2026-03-13T08:56:59.260830"
+date: "2026-03-13T09:22:53.248853"
 draft: false
 sectors:
   - education
@@ -47,18 +47,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - mascot
-  - secondary
   - alternate
+  - secondary
+  - mascot
 brand_colors:
+  - orange
   - "pantone-287"
   - "pantone-021"
-  - orange
   - blue
 typographies:
+  - "proxima-nova"
   - din
   - script
-  - "proxima-nova"
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

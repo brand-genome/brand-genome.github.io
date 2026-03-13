@@ -2,12 +2,12 @@
 title: Fortinet
 slug: fortinet
 description: ""
-date: "2026-03-13T08:56:59.401594"
+date: "2026-03-13T09:22:53.506839"
 draft: false
 sectors:
+  - software
   - cybersecurity
   - networking
-  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries:
   - "computer-security"
 countries:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

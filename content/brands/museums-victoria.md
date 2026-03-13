@@ -2,7 +2,7 @@
 title: Museums Victoria
 slug: "museums-victoria"
 description: ""
-date: "2026-03-13T08:56:59.100945"
+date: "2026-03-13T09:22:52.174753"
 draft: false
 sectors:
   - "arts-culture"
@@ -52,11 +52,11 @@ logo_elements:
 brand_colors:
   - black
 typographies:
-  - "source-sans"
   - arial
+  - "source-sans"
 imagery_styles:
-  - photography
   - minimal
+  - photography
   - bold
 wikidata_description: "museum operator in Victoria, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q500890"
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

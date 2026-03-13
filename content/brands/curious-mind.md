@@ -2,11 +2,11 @@
 title: Curious Mind
 slug: "curious-mind"
 description: ""
-date: "2026-03-13T08:56:59.718806"
+date: "2026-03-13T09:22:54.729771"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - "new-zealand"
 years:
@@ -49,18 +49,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
-  - white
-  - red
-  - "pantone-1788"
-  - blue
-  - "pantone-7547"
-  - gold
   - purple
-  - green
   - "pantone-1245"
+  - gold
+  - red
+  - blue
+  - green
+  - "pantone-1788"
+  - white
+  - "pantone-7547"
 typographies: []
 imagery_styles:
   - graphic
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

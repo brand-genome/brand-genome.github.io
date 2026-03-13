@@ -2,11 +2,11 @@
 title: Quantum
 slug: quantum
 description: ""
-date: "2026-03-13T08:56:59.470707"
+date: "2026-03-13T09:22:53.715078"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -51,15 +51,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - blue
-  - pink
-  - green
   - orange
   - black
+  - pink
+  - blue
+  - green
 typographies:
-  - din
   - serif
   - arial
+  - din
 imagery_styles:
   - photography
   - bold
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

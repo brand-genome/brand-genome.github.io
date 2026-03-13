@@ -2,7 +2,7 @@
 title: Goat
 slug: goat
 description: ""
-date: "2026-03-13T08:56:59.719217"
+date: "2026-03-13T09:22:54.730432"
 draft: false
 sectors:
   - food
@@ -50,24 +50,24 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
-  - white
-  - red
+  - gray
   - grey
+  - orange
+  - black
+  - red
   - blue
   - green
-  - black
-  - orange
-  - gray
+  - white
 typographies:
-  - montserrat
   - serif
+  - montserrat
 imagery_styles:
   - modern
+  - geometric
   - photography
   - gradient
-  - graphic
   - bold
-  - geometric
+  - graphic
 wikidata_description: Swedish band
 wikidata_url: "https://www.wikidata.org/wiki/Q25778"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

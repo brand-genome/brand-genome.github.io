@@ -2,7 +2,7 @@
 title: The Verge
 slug: "the-verge"
 description: ""
-date: "2026-03-13T08:56:59.317806"
+date: "2026-03-13T09:22:53.322956"
 draft: false
 sectors:
   - publishing
@@ -50,22 +50,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - grey
   - purple
-  - "pantone-172"
+  - grey
   - "pantone-2736"
-  - black
   - orange
+  - black
+  - "pantone-172"
+  - white
 typographies:
   - helvetica
   - georgia
 imagery_styles:
-  - clean
   - minimal
+  - clean
   - gradient
-  - graphic
   - bold
+  - graphic
 wikidata_description: Canadian satellite radio station
 wikidata_url: "https://www.wikidata.org/wiki/Q7772206"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

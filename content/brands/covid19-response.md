@@ -2,7 +2,7 @@
 title: Covid19 Response
 slug: "covid19-response"
 description: ""
-date: "2026-03-13T08:56:59.383333"
+date: "2026-03-13T09:22:53.467554"
 draft: false
 sectors:
   - "public-sector"
@@ -48,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - brown
+  - purple
+  - orange
   - red
   - blue
-  - purple
   - green
-  - orange
+  - brown
 typographies:
   - oswald
 imagery_styles: []
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Volkswagen
 slug: volkswagen
 description: ""
-date: "2026-03-13T08:56:59.843644"
+date: "2026-03-13T09:22:55.049487"
 draft: false
 sectors:
   - automobile
@@ -29,28 +29,28 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "volkswagen-up"
+  - "volkswagen-beetle"
+  - "volkswagen-vento"
   - "volkswagen-golf"
-  - "volkswagen-jetta"
-  - "volkswagen-fox"
-  - "volkswagen-t-roc"
-  - "volkswagen-id-series"
-  - "volkswagen-bora"
-  - "volkswagen-tiguan"
+  - "volkswagen-eos"
+  - "volkswagen-crafter"
   - "volkswagen-transporter"
+  - "volkswagen-phaeton"
+  - "volkswagen-up"
+  - "volkswagen-jetta"
+  - "volkswagen-t-cross"
+  - "volkswagen-id-series"
+  - "volkswagen-lupo"
+  - "volkswagen-t-roc"
+  - "volkswagen-passat"
+  - "volkswagen-tiguan"
   - "volkswagen-amarok"
   - "volkswagen-scirocco"
+  - "volkswagen-bora"
+  - "volkswagen-fox"
   - "volkswagen-polo"
-  - "volkswagen-vento"
-  - "volkswagen-beetle"
-  - "volkswagen-derby"
-  - "volkswagen-crafter"
-  - "volkswagen-eos"
   - "volkswagen-arteon"
-  - "volkswagen-t-cross"
-  - "volkswagen-lupo"
-  - "volkswagen-passat"
-  - "volkswagen-phaeton"
+  - "volkswagen-derby"
 products: []
 headquarters_locations:
   - wolfsburg
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -149,7 +150,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Volkswagen Up](/products_or_materials_produced/volkswagen-up/); [Volkswagen Golf](/products_or_materials_produced/volkswagen-golf/); [Volkswagen Jetta](/products_or_materials_produced/volkswagen-jetta/); [Volkswagen Fox](/products_or_materials_produced/volkswagen-fox/); [Volkswagen T Roc](/products_or_materials_produced/volkswagen-t-roc/); [Volkswagen Id Series](/products_or_materials_produced/volkswagen-id-series/); [Volkswagen Bora](/products_or_materials_produced/volkswagen-bora/); [Volkswagen Tiguan](/products_or_materials_produced/volkswagen-tiguan/); [Volkswagen Transporter](/products_or_materials_produced/volkswagen-transporter/); [Volkswagen Amarok](/products_or_materials_produced/volkswagen-amarok/); [Volkswagen Scirocco](/products_or_materials_produced/volkswagen-scirocco/); [Volkswagen Polo](/products_or_materials_produced/volkswagen-polo/); +10 more |
+| Product Or Material Produced | [Volkswagen Beetle](/products_or_materials_produced/volkswagen-beetle/); [Volkswagen Vento](/products_or_materials_produced/volkswagen-vento/); [Volkswagen Golf](/products_or_materials_produced/volkswagen-golf/); [Volkswagen Eos](/products_or_materials_produced/volkswagen-eos/); [Volkswagen Crafter](/products_or_materials_produced/volkswagen-crafter/); [Volkswagen Transporter](/products_or_materials_produced/volkswagen-transporter/); [Volkswagen Phaeton](/products_or_materials_produced/volkswagen-phaeton/); [Volkswagen Up](/products_or_materials_produced/volkswagen-up/); [Volkswagen Jetta](/products_or_materials_produced/volkswagen-jetta/); [Volkswagen T Cross](/products_or_materials_produced/volkswagen-t-cross/); [Volkswagen Id Series](/products_or_materials_produced/volkswagen-id-series/); [Volkswagen Lupo](/products_or_materials_produced/volkswagen-lupo/); +10 more |
 | Headquarters Location | [Wolfsburg](/headquarters_locations/wolfsburg/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Named After | KdF Wagen |

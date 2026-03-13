@@ -2,11 +2,11 @@
 title: North Texas Food Bank
 slug: "north-texas-food-bank"
 description: ""
-date: "2026-03-13T08:56:59.375282"
+date: "2026-03-13T09:22:53.441312"
 draft: false
 sectors:
-  - ngo
   - food
+  - ngo
 regions:
   - usa
 years:
@@ -53,26 +53,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
+  - symbol
   - primary
   - lockup
   - vertical
-  - symbol
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
   - grey
-  - green
   - orange
   - black
+  - green
+  - white
 typographies:
-  - gotham
-  - serif
   - arial
+  - serif
+  - gotham
 imagery_styles:
-  - subtle
   - bold
+  - subtle
 wikidata_description: "non-profit organization in the USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q17072086"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

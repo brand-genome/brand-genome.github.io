@@ -2,11 +2,11 @@
 title: Reddit
 slug: reddit
 description: ""
-date: "2026-03-13T08:56:59.152277"
+date: "2026-03-13T09:22:52.325799"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - community
   - internet
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,24 +51,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - vertical
-  - mascot
-  - horizontal
   - wordmark
+  - primary
+  - mascot
+  - vertical
+  - secondary
+  - horizontal
 brand_colors:
-  - white
-  - blue
   - yellow
-  - black
   - orange
+  - black
   - teal
+  - blue
+  - white
 typographies: []
 imagery_styles:
-  - photography
   - classic
   - playful
+  - photography
 wikidata_description: official mobile app of Reddit
 wikidata_url: "https://www.wikidata.org/wiki/Q137597935"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

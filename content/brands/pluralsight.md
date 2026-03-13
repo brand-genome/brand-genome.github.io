@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-03-13T08:56:59.849160"
+date: "2026-03-13T09:22:55.084070"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -52,27 +52,27 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - alternate
   - primary
-  - lockup
   - vertical
+  - lockup
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - black
-  - orange
   - gray
+  - orange
+  - black
   - magenta
+  - white
 typographies:
-  - montserrat
   - gotham
+  - montserrat
   - impact
 imagery_styles:
   - modern
-  - professional
-  - photography
   - gradient
+  - photography
+  - professional
   - bold
 wikidata_description: online education company
 wikidata_url: "https://www.wikidata.org/wiki/Q19757566"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

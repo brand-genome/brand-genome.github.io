@@ -2,11 +2,11 @@
 title: Minn Kota
 slug: "minn-kota"
 description: ""
-date: "2026-03-13T08:56:59.477293"
+date: "2026-03-13T09:22:53.723513"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ tags:
   - electronics
 industries:
   - "outdoor-recreation"
-  - "fishing-industry"
   - "online-shop"
+  - "fishing-industry"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "trolling-motor"
   - "marine-battery-charging-system-for-a-marine-vessel"
+  - "trolling-motor"
 products: []
 headquarters_locations:
   - racine
@@ -55,16 +55,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - stacked
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
   - black
-  - "pantone-123"
   - gray
+  - "pantone-123"
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: Manufacturer of marine accessories for fishing boats
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -114,7 +115,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Trolling Motor](/products_or_materials_produced/trolling-motor/); [Marine Battery Charging System For A Marine Vessel](/products_or_materials_produced/marine-battery-charging-system-for-a-marine-vessel/) |
+| Product Or Material Produced | [Marine Battery Charging System For A Marine Vessel](/products_or_materials_produced/marine-battery-charging-system-for-a-marine-vessel/); [Trolling Motor](/products_or_materials_produced/trolling-motor/) |
 | Headquarters Location | [Racine](/headquarters_locations/racine/) |
 | Foundation Date | [1934](/foundation_dates/1934/) |
 | Industry | online shop, fishing industry, outdoor recreation |

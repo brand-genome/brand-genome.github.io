@@ -2,7 +2,7 @@
 title: San Francisco Airport
 slug: "san-francisco-airport"
 description: ""
-date: "2026-03-13T08:56:59.403328"
+date: "2026-03-13T09:22:53.512361"
 draft: false
 sectors:
   - "public-transportation"
@@ -47,22 +47,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - vertical
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - brown
   - black
-  - blue
   - gray
+  - blue
+  - brown
 typographies:
   - arial
 imagery_styles:
   - vibrant
-  - bold
   - photography
+  - bold
 wikidata_description: "international airport near San Francisco, California, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q8688"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

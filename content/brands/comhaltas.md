@@ -2,11 +2,11 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-03-13T08:56:59.041996"
+date: "2026-03-13T09:22:51.915973"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - ireland
 years:
@@ -52,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - secondary
   - alternate
+  - icon
+  - primary
 brand_colors:
   - crimson
 typographies:
   - display
   - impact
 imagery_styles:
+  - vibrant
   - photography
   - graphic
-  - vibrant
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q2342901"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

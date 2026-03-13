@@ -2,7 +2,7 @@
 title: Toyota USA
 slug: "toyota-usa"
 description: ""
-date: "2026-03-13T08:56:59.905786"
+date: "2026-03-13T09:22:55.166668"
 draft: false
 sectors:
   - automobile
@@ -50,14 +50,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - stacked
-  - horizontal
+  - lockup
   - signature
+  - horizontal
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

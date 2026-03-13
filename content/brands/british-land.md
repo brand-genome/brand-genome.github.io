@@ -2,7 +2,7 @@
 title: British Land
 slug: "british-land"
 description: ""
-date: "2026-03-13T08:56:59.909832"
+date: "2026-03-13T09:22:55.167688"
 draft: false
 sectors:
   - "real-estate"
@@ -49,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - wordmark
 brand_colors:
+  - black
   - red
   - blue
-  - black
 typographies:
-  - din
-  - georgia
   - arial
+  - georgia
+  - din
 imagery_styles:
   - photography
-  - natural
   - contemporary
+  - natural
   - bold
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q919646"
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

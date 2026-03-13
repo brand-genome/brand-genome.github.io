@@ -2,7 +2,7 @@
 title: FAMU
 slug: famu
 description: ""
-date: "2026-03-13T08:56:59.460979"
+date: "2026-03-13T09:22:53.702656"
 draft: false
 sectors:
   - education
@@ -58,15 +58,15 @@ brand_colors:
   - green
   - orange
 typographies:
-  - "century-gothic"
-  - times
   - serif
+  - times
   - "gill-sans"
+  - "century-gothic"
 imagery_styles:
+  - dynamic
   - photography
   - product
   - clean
-  - dynamic
 wikidata_description: "public, historically black university in Tallahassee, Florida (U.S.)"
 wikidata_url: "https://www.wikidata.org/wiki/Q1430048"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

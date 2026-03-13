@@ -2,7 +2,7 @@
 title: Alpha Phi Alpha
 slug: "alpha-phi-alpha"
 description: ""
-date: "2026-03-13T08:56:59.732096"
+date: "2026-03-13T09:22:54.751177"
 draft: false
 sectors:
   - ngo
@@ -52,17 +52,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - gotham
 imagery_styles:
   - natural
+  - candid
   - staged
   - photography
-  - candid
-  - graphic
   - bold
+  - graphic
 wikidata_description: "African-American Greek-lettered fraternity"
 wikidata_url: "https://www.wikidata.org/wiki/Q2839513"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

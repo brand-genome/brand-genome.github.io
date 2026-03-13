@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-03-13T08:56:59.563952"
+date: "2026-03-13T09:22:54.336015"
 draft: false
 sectors:
   - electronics
@@ -27,10 +27,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - calculator
-  - "electronic-dictionary"
   - "electronic-musical-instrument"
+  - "electronic-dictionary"
   - watch
+  - calculator
 products: []
 headquarters_locations:
   - shibuya
@@ -56,10 +56,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
   - white
   - red
   - blue
-  - black
 typographies: []
 imagery_styles: []
 wikidata_description: multinational electronics manufacturing company
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -112,7 +113,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Calculator](/products_or_materials_produced/calculator/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/); [Watch](/products_or_materials_produced/watch/) |
+| Product Or Material Produced | [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Watch](/products_or_materials_produced/watch/); [Calculator](/products_or_materials_produced/calculator/) |
 | Headquarters Location | [Shibuya](/headquarters_locations/shibuya/) |
 | Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Shibuya |

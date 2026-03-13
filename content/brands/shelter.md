@@ -2,7 +2,7 @@
 title: Shelter
 slug: shelter
 description: ""
-date: "2026-03-13T08:56:59.507658"
+date: "2026-03-13T09:22:53.966669"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - social
+  - charity
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,11 +49,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-485"
-  - "pantone-3242"
-  - "pantone-2"
   - "pantone-136"
   - "pantone-482"
+  - "pantone-2"
+  - "pantone-3242"
+  - "pantone-485"
   - "pantone-305"
 typographies: []
 imagery_styles: []
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: CMS
 slug: cms
 description: ""
-date: "2026-03-13T08:56:59.097018"
+date: "2026-03-13T09:22:52.135311"
 draft: false
 sectors:
   - "public-sector"
@@ -52,17 +52,17 @@ logo_elements:
   - secondary
   - lockup
 brand_colors:
-  - white
-  - gold
   - black
+  - gold
+  - white
   - blue
 typographies:
-  - frutiger
   - serif
+  - frutiger
   - arial
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: treaty
 wikidata_url: "https://www.wikidata.org/wiki/Q125371"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

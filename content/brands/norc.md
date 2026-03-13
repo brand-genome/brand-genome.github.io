@@ -2,11 +2,11 @@
 title: Norc
 slug: norc
 description: ""
-date: "2026-03-13T08:56:59.364827"
+date: "2026-03-13T09:22:53.430372"
 draft: false
 sectors:
-  - research
   - consulting
+  - research
 regions:
   - usa
 years:
@@ -51,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - alternate
-  - primary
   - secondary
+  - stacked
+  - primary
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
   - orange
 typographies:
-  - roboto
   - "proxima-nova"
+  - roboto
 imagery_styles:
+  - bold
   - photography
   - organic
-  - bold
   - geometric
 wikidata_description: research center
 wikidata_url: "https://www.wikidata.org/wiki/Q6974659"
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

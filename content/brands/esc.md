@@ -2,11 +2,11 @@
 title: ESC
 slug: esc
 description: ""
-date: "2026-03-13T08:56:59.549368"
+date: "2026-03-13T09:22:54.225916"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - europe
 years:
@@ -48,8 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

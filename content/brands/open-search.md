@@ -2,7 +2,7 @@
 title: Open Search
 slug: "open-search"
 description: ""
-date: "2026-03-13T08:56:59.385171"
+date: "2026-03-13T09:22:53.468707"
 draft: false
 sectors:
   - software
@@ -51,17 +51,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - purple
-  - blue
   - black
+  - purple
+  - white
+  - blue
 typographies:
   - "open-sans"
   - serif
 imagery_styles:
-  - geometric
-  - bold
   - monochrome
+  - bold
+  - geometric
 wikidata_description: nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q118977905"
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

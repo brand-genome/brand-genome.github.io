@@ -2,7 +2,7 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-03-13T08:56:59.127635"
+date: "2026-03-13T09:22:52.237215"
 draft: false
 sectors:
   - broadcasting
@@ -10,14 +10,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2008
+  - 2024
 languages:
   - english
 tags:
-  - sport
-  - broadcast
   - featured
+  - broadcast
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

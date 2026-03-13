@@ -2,7 +2,7 @@
 title: StarTimes
 slug: startimes
 description: ""
-date: "2026-03-13T08:56:59.399498"
+date: "2026-03-13T09:22:53.496957"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - media
+  - broadcast
 industries:
   - "information-and-communications-technology"
 countries: []
@@ -51,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - symbol
+  - icon
 brand_colors: []
 typographies:
-  - din
   - times
+  - din
 imagery_styles:
   - photography
   - bold
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

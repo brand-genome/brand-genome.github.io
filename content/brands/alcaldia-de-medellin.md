@@ -2,7 +2,7 @@
 title: Alcaldía de Medellín
 slug: "alcaldia-de-medellin"
 description: ""
-date: "2026-03-13T08:56:59.142093"
+date: "2026-03-13T09:22:52.313364"
 draft: false
 sectors:
   - "public-sector"
@@ -50,22 +50,22 @@ logo_elements:
   - badge
   - vertical
 brand_colors:
-  - white
+  - yellow
+  - orange
+  - black
   - red
   - blue
-  - yellow
-  - black
-  - orange
+  - white
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
+  - lifestyle
   - dramatic
   - realistic
+  - candid
   - photography
   - product
-  - candid
-  - lifestyle
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

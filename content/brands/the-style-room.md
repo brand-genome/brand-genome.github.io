@@ -2,11 +2,11 @@
 title: The Style Room
 slug: "the-style-room"
 description: ""
-date: "2026-03-13T08:56:59.309618"
+date: "2026-03-13T09:22:53.307923"
 draft: false
 sectors:
-  - fashion
   - "e-commerce"
+  - fashion
 regions:
   - usa
 years:
@@ -48,26 +48,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - green
   - orange
+  - red
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
-  - playful
   - organic
+  - geometric
+  - playful
+  - subtle
   - photography
   - product
-  - subtle
-  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

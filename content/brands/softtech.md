@@ -2,11 +2,11 @@
 title: Softtech
 slug: softtech
 description: ""
-date: "2026-03-13T08:56:59.552959"
+date: "2026-03-13T09:22:54.230315"
 draft: false
 sectors:
-  - "consumer-goods"
   - "textile-apparel-manufacturing"
+  - "consumer-goods"
 regions:
   - turkiye
 years:
@@ -59,6 +59,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

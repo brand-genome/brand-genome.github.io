@@ -2,7 +2,7 @@
 title: Do Space
 slug: "do-space"
 description: ""
-date: "2026-03-13T08:56:59.748279"
+date: "2026-03-13T09:22:54.791395"
 draft: false
 sectors:
   - education
@@ -49,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
-  - horizontal
   - secondary
+  - stacked
+  - horizontal
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - vibrant
-  - natural
   - clean
+  - natural
   - bold
 wikidata_description: "organization in Nebraska, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q22907884"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

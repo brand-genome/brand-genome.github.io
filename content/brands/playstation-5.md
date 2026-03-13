@@ -2,11 +2,11 @@
 title: PlayStation 5
 slug: "playstation-5"
 description: ""
-date: "2026-03-13T08:56:59.291432"
+date: "2026-03-13T09:22:53.276866"
 draft: false
 sectors:
-  - gaming
   - electronics
+  - gaming
   - entertainment
 regions:
   - japan
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

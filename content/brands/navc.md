@@ -2,11 +2,11 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-03-13T08:56:59.547017"
+date: "2026-03-13T09:22:54.223615"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - education
+  - "veterinary-pet-care"
 regions:
   - usa
 years:
@@ -50,22 +50,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - blue
-  - pink
-  - yellow
-  - black
-  - orange
   - gray
+  - yellow
+  - orange
+  - black
+  - pink
+  - blue
+  - white
 typographies:
-  - avenir
   - raleway
+  - avenir
 imagery_styles:
+  - modern
   - natural
   - dramatic
-  - modern
-  - professional
   - photography
+  - professional
   - bold
 wikidata_description: client program for CompuServe Information Service
 wikidata_url: "https://www.wikidata.org/wiki/Q6981562"
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-03-13T08:56:59.444055"
+date: "2026-03-13T09:22:53.667351"
 draft: false
 sectors:
   - university
@@ -50,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-654"
   - coral
+  - "pantone-654"
 typographies: []
 imagery_styles: []
 wikidata_description: university in Spain
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

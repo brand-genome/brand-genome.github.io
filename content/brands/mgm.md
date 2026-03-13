@@ -2,7 +2,7 @@
 title: MGM+
 slug: mgm
 description: ""
-date: "2026-03-13T08:56:59.108459"
+date: "2026-03-13T09:22:52.195762"
 draft: false
 sectors:
   - broadcasting
@@ -52,10 +52,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - silver
-  - gold
   - black
+  - gold
+  - silver
+  - white
 typographies: []
 imagery_styles:
   - gradient
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

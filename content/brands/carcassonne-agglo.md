@@ -2,7 +2,7 @@
 title: Carcassonne Agglo
 slug: "carcassonne-agglo"
 description: ""
-date: "2026-03-13T08:56:59.443860"
+date: "2026-03-13T09:22:53.667091"
 draft: false
 sectors:
   - "public-sector"
@@ -54,18 +54,18 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - "pantone-632"
+  - "pantone-235"
+  - "pantone-722"
+  - black
+  - "pantone-377"
   - red
   - blue
-  - "pantone-722"
-  - "pantone-377"
+  - "pantone-632"
   - green
-  - black
-  - "pantone-235"
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: agglomeration community
 wikidata_url: "https://www.wikidata.org/wiki/Q1035596"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

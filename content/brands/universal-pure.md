@@ -2,7 +2,7 @@
 title: Universal Pure
 slug: "universal-pure"
 description: ""
-date: "2026-03-13T08:56:59.712964"
+date: "2026-03-13T09:22:54.718750"
 draft: false
 sectors:
   - food
@@ -47,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - wordmark
 brand_colors:
-  - blue
-  - "pantone-7461"
-  - "pantone-7462"
   - "pantone-152"
-  - "pantone-381"
-  - green
-  - orange
+  - "pantone-7461"
   - gray
+  - orange
+  - "pantone-381"
+  - blue
+  - green
+  - "pantone-7462"
 typographies:
   - "open-sans"
   - "sans-serif"
 imagery_styles:
+  - contemporary
+  - flat
   - natural
   - dynamic
-  - contemporary
   - photography
   - gradient
-  - flat
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

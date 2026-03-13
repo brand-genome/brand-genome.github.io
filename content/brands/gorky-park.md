@@ -2,7 +2,7 @@
 title: Gorky Park
 slug: "gorky-park"
 description: ""
-date: "2026-03-13T08:56:59.541152"
+date: "2026-03-13T09:22:54.215977"
 draft: false
 sectors:
   - "arts-culture"
@@ -17,8 +17,8 @@ tags:
   - entertainment
 industries: []
 countries:
-  - russia
   - "soviet-union"
+  - russia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,17 +53,17 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - white
-  - yellow
   - cyan
+  - yellow
   - black
   - magenta
+  - white
 typographies:
   - inter
 imagery_styles:
   - vibrant
-  - natural
   - playful
+  - natural
   - bold
 wikidata_description: "amusement park in Moscow, Russia"
 wikidata_url: "https://www.wikidata.org/wiki/Q126877"
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

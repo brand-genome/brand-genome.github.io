@@ -2,11 +2,11 @@
 title: UKRI
 slug: ukri
 description: ""
-date: "2026-03-13T08:56:59.475916"
+date: "2026-03-13T09:22:53.721921"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -48,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
   - symbol
+  - horizontal
+  - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - impact
 imagery_styles:
-  - natural
-  - staged
   - macro
+  - staged
+  - natural
 wikidata_description: research funding body for the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q38609561"
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

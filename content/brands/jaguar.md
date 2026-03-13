@@ -2,7 +2,7 @@
 title: Jaguar
 slug: jaguar
 description: ""
-date: "2026-03-13T08:56:59.499805"
+date: "2026-03-13T09:22:53.938021"
 draft: false
 sectors:
   - automobile
@@ -26,8 +26,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "passenger-car"
   - car
+  - "passenger-car"
 products: []
 headquarters_locations:
   - coventry
@@ -56,16 +56,16 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
+  - black
+  - silver
   - white
   - red
-  - silver
-  - black
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: former British car company
 wikidata_url: "https://www.wikidata.org/wiki/Q30055"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -134,7 +135,7 @@ HTML: #A7A9AC. Black is used for text and monochrome applications. Tints of blac
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Passenger Car](/products_or_materials_produced/passenger-car/) |
 | Headquarters Location | [Coventry](/headquarters_locations/coventry/) |
 | Foundation Date | [1934](/foundation_dates/1934/) |
 | Founded By | William Lyons |

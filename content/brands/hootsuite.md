@@ -2,11 +2,11 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-03-13T08:56:59.281588"
+date: "2026-03-13T09:22:53.264574"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - canada
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - featured
+  - internet
 industries:
   - "social-media"
 countries:
@@ -53,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - logomark
-  - secondary
+  - icon
   - primary
   - symbol
+  - secondary
 brand_colors:
   - black
 typographies:
@@ -67,9 +67,9 @@ typographies:
   - slab
 imagery_styles:
   - photography
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: social media management platform
 wikidata_url: "https://www.wikidata.org/wiki/Q2749075"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

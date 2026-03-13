@@ -2,7 +2,7 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-03-13T08:56:59.186271"
+date: "2026-03-13T09:22:52.866883"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - sweden
@@ -53,8 +53,8 @@ logo_elements:
   - primary
   - wordmark
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies: []
 imagery_styles:
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

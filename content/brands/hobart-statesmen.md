@@ -2,11 +2,11 @@
 title: Hobart Statesmen
 slug: "hobart-statesmen"
 description: ""
-date: "2026-03-13T08:56:59.593788"
+date: "2026-03-13T09:22:54.554937"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -52,12 +52,12 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
-  - "pantone-2607"
-  - "pantone-165"
   - purple
-  - black
+  - "pantone-165"
   - orange
+  - black
+  - "pantone-2607"
+  - white
 typographies: []
 imagery_styles:
   - bold
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

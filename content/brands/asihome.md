@@ -2,11 +2,11 @@
 title: AsiHome
 slug: asihome
 description: ""
-date: "2026-03-13T08:56:59.170982"
+date: "2026-03-13T09:22:52.814846"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - romania
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - design
   - featured
+  - design
 industries: []
 countries: []
 revenue_buckets: []
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

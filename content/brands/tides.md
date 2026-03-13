@@ -2,7 +2,7 @@
 title: Tides
 slug: tides
 description: ""
-date: "2026-03-13T08:56:59.576739"
+date: "2026-03-13T09:22:54.357447"
 draft: false
 sectors:
   - ngo
@@ -51,30 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
-  - "pantone-583"
-  - "pantone-2200"
-  - "pantone-603"
   - "pantone-368"
-  - "pantone-7723"
+  - "pantone-603"
   - cyan
-  - black
+  - "pantone-2200"
   - gray
   - "pantone-7706"
+  - black
+  - "pantone-7723"
+  - "pantone-583"
   - "pantone-342"
 typographies:
+  - arial
+  - georgia
   - lato
   - avenir
-  - georgia
-  - arial
 imagery_styles:
-  - photography
-  - candid
-  - gradient
   - artificial
+  - candid
+  - photography
+  - gradient
   - bold
 wikidata_description: public charity and fiscal sponsor working to advance progressive policy
 wikidata_url: "https://www.wikidata.org/wiki/Q7800861"
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

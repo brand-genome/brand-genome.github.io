@@ -2,11 +2,11 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-03-13T08:56:59.808182"
+date: "2026-03-13T09:22:54.971074"
 draft: false
 sectors:
-  - petroleum
   - "petrol-station"
+  - petroleum
 regions:
   - usa
 years:
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - lubricant
   - gasoline
+  - lubricant
 products: []
 headquarters_locations:
   - irving
@@ -54,20 +54,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - "pantone-293"
-  - white
-  - red
-  - "pantone-485"
-  - blue
-  - yellow
   - cyan
+  - yellow
   - magenta
+  - "pantone-293"
+  - red
+  - blue
+  - "pantone-485"
+  - white
 typographies:
-  - univers
   - serif
+  - univers
 imagery_styles:
   - graphic
 wikidata_description: American oil and gas station brand
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -119,7 +120,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Lubricant](/products_or_materials_produced/lubricant/); [Gasoline](/products_or_materials_produced/gasoline/) |
+| Product Or Material Produced | [Gasoline](/products_or_materials_produced/gasoline/); [Lubricant](/products_or_materials_produced/lubricant/) |
 | Headquarters Location | [Irving](/headquarters_locations/irving/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Freebase Id | /m/01dw30 |

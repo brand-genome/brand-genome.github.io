@@ -2,11 +2,11 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-03-13T08:56:59.588961"
+date: "2026-03-13T09:22:54.422978"
 draft: false
 sectors:
-  - cybersecurity
   - hardware
+  - cybersecurity
 regions:
   - usa
 years:
@@ -49,9 +49,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
   - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors: []
 typographies: []
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

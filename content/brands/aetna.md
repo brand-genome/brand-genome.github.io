@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-03-13T08:56:59.477601"
+date: "2026-03-13T09:22:53.723952"
 draft: false
 sectors:
   - insurance
@@ -55,9 +55,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - violet
-  - white
   - black
+  - white
+  - violet
 typographies: []
 imagery_styles: []
 wikidata_description: American managed health care company
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

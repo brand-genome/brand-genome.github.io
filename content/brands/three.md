@@ -2,7 +2,7 @@
 title: Three
 slug: three
 description: ""
-date: "2026-03-13T08:56:59.075545"
+date: "2026-03-13T09:22:52.063939"
 draft: false
 sectors:
   - telecom
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
+  - featured
   - technology
   - telecommunications
-  - featured
 industries:
   - telecommunications
 countries:
-  - luxembourg
   - "hong-kong"
+  - luxembourg
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,12 +30,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "mobile-telephony"
   - "landline-telephone"
+  - "mobile-telephony"
 products: []
 headquarters_locations:
-  - luxembourg
   - "hong-kong"
+  - luxembourg
 subsidiaries: []
 foundation_dates:
   - 2003
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -92,8 +93,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Landline Telephone](/products_or_materials_produced/landline-telephone/) |
-| Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/); [Hong Kong](/headquarters_locations/hong-kong/) |
+| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/) |
+| Headquarters Location | [Hong Kong](/headquarters_locations/hong-kong/); [Luxembourg](/headquarters_locations/luxembourg/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Freebase Id | /m/02kdls |
 | Headquarters Location | Hong Kong, Luxembourg |

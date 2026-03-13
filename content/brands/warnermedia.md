@@ -2,7 +2,7 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-03-13T08:56:59.251445"
+date: "2026-03-13T09:22:53.240583"
 draft: false
 sectors:
   - broadcasting
@@ -17,11 +17,11 @@ languages:
 tags:
   - entertainment
 industries:
-  - "media-industry"
   - "tv-industry"
+  - "media-industry"
+  - "internet-industry"
   - telecommunications
   - "publishing-industry"
-  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -64,18 +64,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
-  - lockup
-  - stacked
-  - horizontal
   - wordmark
+  - primary
+  - alternate
+  - stacked
+  - lockup
+  - horizontal
 brand_colors:
-  - white
-  - grey
-  - blue
   - "pantone-299"
+  - grey
   - black
+  - blue
+  - white
 typographies: []
 imagery_styles:
   - clean
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

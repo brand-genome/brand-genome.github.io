@@ -2,7 +2,7 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-03-13T08:56:59.525537"
+date: "2026-03-13T09:22:54.079319"
 draft: false
 sectors:
   - hardware
@@ -51,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
+  - horizontal
   - vertical
 brand_colors:
-  - white
-  - "pantone-116"
-  - "pantone-226"
-  - pink
-  - blue
   - "pantone-299"
+  - gray
   - yellow
   - black
-  - gray
+  - pink
+  - blue
+  - "pantone-226"
+  - "pantone-116"
+  - white
 typographies:
   - arial
 imagery_styles:
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

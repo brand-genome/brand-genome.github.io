@@ -2,12 +2,12 @@
 title: National Parkinson Foundation
 slug: "national-parkinson-foundation"
 description: ""
-date: "2026-03-13T08:56:59.566466"
+date: "2026-03-13T09:22:54.338872"
 draft: false
 sectors:
-  - ngo
   - research
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -56,12 +56,12 @@ logo_elements:
   - vertical
 brand_colors:
   - cyan
+  - gray
   - orange
   - blue
-  - gray
 typographies:
-  - trebuchet
   - georgia
+  - trebuchet
 imagery_styles:
   - gradient
   - bold
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

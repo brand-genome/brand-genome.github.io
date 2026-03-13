@@ -2,7 +2,7 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-03-13T08:56:59.102805"
+date: "2026-03-13T09:22:52.177069"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - environment
+  - ngo
 industries: []
 countries:
   - switzerland
@@ -57,10 +57,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - green
-  - "pantone-347"
   - black
+  - green
+  - white
+  - "pantone-347"
 typographies: []
 imagery_styles:
   - product
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

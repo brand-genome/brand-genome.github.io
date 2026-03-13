@@ -2,12 +2,12 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-03-13T08:56:59.274126"
+date: "2026-03-13T09:22:53.257677"
 draft: false
 sectors:
-  - education
-  - research
   - tourism
+  - research
+  - education
   - "arts-culture"
 regions:
   - usa
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - botanic
   - vintage
+  - botanic
 industries: []
 countries:
   - "united-states"
@@ -56,20 +56,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - primary
   - seal
+  - symbol
   - vertical
 brand_colors:
-  - brown
-  - white
   - green
+  - white
+  - brown
 typographies:
   - times
   - impact
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "botanical garden in the Bronx, New York City"
 wikidata_url: "https://www.wikidata.org/wiki/Q636275"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

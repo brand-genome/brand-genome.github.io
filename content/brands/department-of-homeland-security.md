@@ -2,12 +2,12 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-03-13T08:56:59.500568"
+date: "2026-03-13T09:22:53.939006"
 draft: false
 sectors:
-  - "public-sector"
-  - cybersecurity
   - "emergency-services"
+  - cybersecurity
+  - "public-sector"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - security
+  - institution
 industries: []
 countries:
   - "united-states"
@@ -31,8 +31,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "nebraska-avenue-complex"
   - "washington-dc"
+  - "nebraska-avenue-complex"
 subsidiaries: []
 foundation_dates:
   - 2002
@@ -54,13 +54,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
-  - secondary
+  - wordmark
   - primary
   - vertical
-  - wordmark
-  - horizontal
+  - secondary
+  - signature
   - seal
+  - horizontal
 brand_colors:
   - white
   - red
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -126,7 +127,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Nebraska Avenue Complex](/headquarters_locations/nebraska-avenue-complex/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/); [Nebraska Avenue Complex](/headquarters_locations/nebraska-avenue-complex/) |
 | Foundation Date | [2002](/foundation_dates/2002/) |
 | Viaf Cluster Id | 121741457 |
 | Gnd Id | 10062583-6 |

@@ -2,7 +2,7 @@
 title: One World
 slug: "one-world"
 description: ""
-date: "2026-03-13T08:56:59.458226"
+date: "2026-03-13T09:22:53.698982"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - featured
+  - aeronautic
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,14 +50,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-298"
   - "pantone-2735"
   - blue
-  - "pantone-298"
 typographies:
   - helvetica
 imagery_styles:
-  - gradient
   - clean
+  - gradient
 wikidata_description: vocal track by Coldplay
 wikidata_url: "https://www.wikidata.org/wiki/Q136002513"
 has_twitter: false
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

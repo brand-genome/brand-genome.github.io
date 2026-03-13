@@ -2,7 +2,7 @@
 title: Zarbee’s Naturals
 slug: "zarbees-naturals"
 description: ""
-date: "2026-03-13T08:56:59.497641"
+date: "2026-03-13T09:22:53.935629"
 draft: false
 sectors:
   - healthcare
@@ -51,8 +51,8 @@ logo_elements:
   - signature
 brand_colors: []
 typographies:
-  - futura
   - "proxima-nova"
+  - futura
 imagery_styles:
   - photography
   - natural
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

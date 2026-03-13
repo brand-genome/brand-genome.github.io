@@ -2,7 +2,7 @@
 title: Simatec
 slug: simatec
 description: ""
-date: "2026-03-13T08:56:59.329732"
+date: "2026-03-13T09:22:53.330757"
 draft: false
 sectors:
   - hardware
@@ -50,10 +50,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
+  - grey
   - magenta
   - white
-  - grey
-  - black
 typographies:
   - futura
   - din
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-03-13T08:56:59.596501"
+date: "2026-03-13T09:22:54.559039"
 draft: false
 sectors:
   - education
@@ -49,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - horizontal
-  - symbol
   - vertical
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies:
-  - lato
   - times
+  - lato
 imagery_styles:
   - bold
 wikidata_description: Education organization in Bogotá Colombia
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

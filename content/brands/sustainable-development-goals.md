@@ -2,7 +2,7 @@
 title: Sustainable Development Goals
 slug: "sustainable-development-goals"
 description: ""
-date: "2026-03-13T08:56:59.213286"
+date: "2026-03-13T09:22:53.022660"
 draft: false
 sectors:
   - "public-sector"
@@ -48,8 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - horizontal
   - vertical
 brand_colors: []
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

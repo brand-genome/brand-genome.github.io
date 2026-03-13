@@ -2,11 +2,11 @@
 title: Ikea
 slug: ikea
 description: ""
-date: "2026-03-13T08:56:59.136990"
+date: "2026-03-13T09:22:52.303957"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - sweden
 years:
@@ -28,14 +28,14 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "interior-decoration"
-  - mattress
-  - kitchenware
   - "home-appliance"
-  - "ready-to-assemble-furniture"
+  - "interior-decoration"
+  - kitchenware
   - couch
   - furniture
+  - "ready-to-assemble-furniture"
   - linens
+  - mattress
 products: []
 headquarters_locations: []
 subsidiaries: []
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -91,7 +92,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Mattress](/products_or_materials_produced/mattress/); [Kitchenware](/products_or_materials_produced/kitchenware/); [Home Appliance](/products_or_materials_produced/home-appliance/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Couch](/products_or_materials_produced/couch/); [Furniture](/products_or_materials_produced/furniture/); [Linens](/products_or_materials_produced/linens/) |
+| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/); [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Kitchenware](/products_or_materials_produced/kitchenware/); [Couch](/products_or_materials_produced/couch/); [Furniture](/products_or_materials_produced/furniture/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Linens](/products_or_materials_produced/linens/); [Mattress](/products_or_materials_produced/mattress/) |
 | Foundation Date | [1943](/foundation_dates/1943/) |
 | Inception | 1943-07-28 |
 | Founded By | Ingvar Kamprad |

@@ -2,11 +2,11 @@
 title: Curt
 slug: curt
 description: ""
-date: "2026-03-13T08:56:59.524851"
+date: "2026-03-13T09:22:54.078248"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:
@@ -47,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - alternate
-  - vertical
   - symbol
-  - horizontal
+  - vertical
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
   - black
   - blue
+  - white
   - orange
 typographies:
-  - din
   - helvetica
+  - din
 imagery_styles:
   - product
 wikidata_description: ""
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

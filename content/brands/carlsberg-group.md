@@ -2,11 +2,11 @@
 title: Carlsberg Group
 slug: "carlsberg-group"
 description: ""
-date: "2026-03-13T08:56:59.102340"
+date: "2026-03-13T09:22:52.176470"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - denmark
 years:
@@ -31,9 +31,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "non-alcoholic-beverage"
   - beer
   - water
-  - "non-alcoholic-beverage"
 products: []
 headquarters_locations:
   - copenhagen
@@ -62,8 +62,8 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
   - green
+  - white
 typographies: []
 imagery_styles:
   - dynamic
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -112,7 +113,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Beer](/products_or_materials_produced/beer/); [Water](/products_or_materials_produced/water/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/) |
+| Product Or Material Produced | [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Beer](/products_or_materials_produced/beer/); [Water](/products_or_materials_produced/water/) |
 | Headquarters Location | [Copenhagen](/headquarters_locations/copenhagen/) |
 | Foundation Date | [1847](/foundation_dates/1847/) |
 | Named After | Carl Jacobsen |

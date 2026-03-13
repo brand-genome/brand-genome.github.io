@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-03-13T08:56:59.482956"
+date: "2026-03-13T09:22:53.759773"
 draft: false
 sectors:
   - "arts-culture"
@@ -51,14 +51,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: American professional organization for communication design
 wikidata_url: "https://www.wikidata.org/wiki/Q3622004"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

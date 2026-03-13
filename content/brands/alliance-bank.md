@@ -2,7 +2,7 @@
 title: Alliance Bank
 slug: "alliance-bank"
 description: ""
-date: "2026-03-13T08:56:59.129308"
+date: "2026-03-13T09:22:52.238980"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - financial
   - featured
+  - financial
 industries:
   - finance
 countries:
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - astana
   - almaty
+  - astana
 subsidiaries: []
 foundation_dates:
   - 1993
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -83,7 +84,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Astana](/headquarters_locations/astana/); [Almaty](/headquarters_locations/almaty/) |
+| Headquarters Location | [Almaty](/headquarters_locations/almaty/); [Astana](/headquarters_locations/astana/) |
 | Foundation Date | [1993](/foundation_dates/1993/) |
 | Headquarters Location | Almaty, Astana |
 | Legal Form | joint-stock company |

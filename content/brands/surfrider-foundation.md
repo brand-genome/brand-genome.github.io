@@ -2,7 +2,7 @@
 title: Surfrider Foundation
 slug: "surfrider-foundation"
 description: ""
-date: "2026-03-13T08:56:59.040850"
+date: "2026-03-13T09:22:51.913057"
 draft: false
 sectors:
   - ngo
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - ngo
-  - environment
   - featured
+  - environment
+  - ngo
 industries: []
 countries:
   - "united-states"
@@ -53,26 +53,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - red
-  - blue
-  - "pantone-7464"
-  - "pantone-552"
-  - "pantone-629"
-  - black
   - "pantone-5275"
   - gray
-  - "pantone-7418"
   - "pantone-426"
+  - "pantone-7464"
+  - black
+  - "pantone-552"
+  - "pantone-7418"
+  - blue
+  - red
+  - "pantone-629"
 typographies:
   - roboto
 imagery_styles:
   - candid
-  - graphic
   - natural
   - bold
+  - graphic
 wikidata_description: foundation
 wikidata_url: "https://www.wikidata.org/wiki/Q1128567"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

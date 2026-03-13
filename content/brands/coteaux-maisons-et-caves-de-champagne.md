@@ -2,7 +2,7 @@
 title: "Coteaux, Maisons et Caves de Champagne"
 slug: "coteaux-maisons-et-caves-de-champagne"
 description: ""
-date: "2026-03-13T08:56:59.318508"
+date: "2026-03-13T09:22:53.323767"
 draft: false
 sectors:
   - tourism
@@ -49,8 +49,8 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - magenta
   - cyan
+  - magenta
 typographies: []
 imagery_styles:
   - monochrome
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

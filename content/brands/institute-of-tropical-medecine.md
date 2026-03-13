@@ -2,12 +2,12 @@
 title: Institute of Tropical Medecine
 slug: "institute-of-tropical-medecine"
 description: ""
-date: "2026-03-13T08:56:59.535164"
+date: "2026-03-13T09:22:54.188283"
 draft: false
 sectors:
   - research
-  - healthcare
   - university
+  - healthcare
 regions:
   - belgium
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - science
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,9 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
   - blue
 typographies:
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: TEDx
 slug: tedx
 description: ""
-date: "2026-03-13T08:56:59.597469"
+date: "2026-03-13T09:22:54.560745"
 draft: false
 sectors:
   - "arts-culture"
@@ -49,14 +49,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - black
+  - "pantone-485"
   - white
   - red
-  - "pantone-485"
-  - black
 typographies:
+  - arial
   - helvetica
   - times
-  - arial
 imagery_styles:
   - professional
 wikidata_description: "TEDx event series, in Santa Cruz"
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

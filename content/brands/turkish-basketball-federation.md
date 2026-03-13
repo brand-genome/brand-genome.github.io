@@ -2,7 +2,7 @@
 title: Turkish Basketball Federation
 slug: "turkish-basketball-federation"
 description: ""
-date: "2026-03-13T08:56:59.786691"
+date: "2026-03-13T09:22:54.812222"
 draft: false
 sectors:
   - sports
@@ -52,17 +52,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
-  - grey
-  - blue
-  - pink
-  - yellow
-  - green
-  - maroon
   - "pantone-186"
-  - black
+  - grey
+  - yellow
   - orange
+  - black
+  - maroon
+  - pink
+  - red
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
   - graphic
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

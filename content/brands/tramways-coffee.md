@@ -2,7 +2,7 @@
 title: Tramways Coffee
 slug: "tramways-coffee"
 description: ""
-date: "2026-03-13T08:56:59.251176"
+date: "2026-03-13T09:22:53.240122"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
   - symbol
+  - primary
 brand_colors:
+  - "pantone-115"
+  - black
   - "pantone-298"
   - white
-  - black
-  - "pantone-115"
 typographies:
   - serif
 imagery_styles:
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

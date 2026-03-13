@@ -2,7 +2,7 @@
 title: Ottawa International Airport Authority
 slug: "ottawa-international-airport-authority"
 description: ""
-date: "2026-03-13T08:56:59.377418"
+date: "2026-03-13T09:22:53.443776"
 draft: false
 sectors:
   - "public-transportation"
@@ -48,24 +48,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
   - symbol
+  - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - "pantone-268"
-  - navy
-  - blue
   - purple
+  - navy
   - orange
   - black
+  - blue
+  - white
 typographies:
   - arial
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

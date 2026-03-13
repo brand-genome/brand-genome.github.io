@@ -2,7 +2,7 @@
 title: IMG Academy
 slug: "img-academy"
 description: ""
-date: "2026-03-13T08:56:59.492724"
+date: "2026-03-13T09:22:53.932654"
 draft: false
 sectors:
   - education
@@ -50,25 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - lockup
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
+  - gray
+  - black
+  - "pantone-2935"
   - blue
   - green
-  - "pantone-2935"
-  - black
-  - gray
+  - white
 typographies:
-  - "sans-serif"
   - arial
+  - "sans-serif"
 imagery_styles:
-  - contemporary
   - classic
+  - contemporary
   - bold
 wikidata_description: "private athletic school in Bradenton, Florida, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q17128295"
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

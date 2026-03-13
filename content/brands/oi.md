@@ -2,7 +2,7 @@
 title: Oi
 slug: oi
 description: ""
-date: "2026-03-13T08:56:59.880470"
+date: "2026-03-13T09:22:55.148380"
 draft: false
 sectors:
   - networking
@@ -16,8 +16,8 @@ languages:
 tags:
   - networks
 industries:
-  - "mobile-phone-industry"
   - telecommunications
+  - "mobile-phone-industry"
 countries:
   - brazil
 revenue_buckets: []
@@ -54,17 +54,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - vertical
+  - secondary
   - horizontal
 brand_colors: []
 typographies:
   - display
   - "sans-serif"
 imagery_styles:
-  - natural
   - modern
+  - natural
   - bold
 wikidata_description: Defunct Brazilian telecommunications company
 wikidata_url: "https://www.wikidata.org/wiki/Q1538731"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-03-13T08:56:59.879030"
+date: "2026-03-13T09:22:55.145142"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - broadcast
-  - media
   - featured
+  - media
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -54,13 +54,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - clean
-  - photography
   - minimal
+  - photography
   - gradient
   - bold
 wikidata_description: American pay television network
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

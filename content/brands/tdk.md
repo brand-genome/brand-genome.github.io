@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-03-13T08:56:59.748539"
+date: "2026-03-13T09:22:54.792749"
 draft: false
 sectors:
   - electronics
@@ -55,10 +55,10 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
   - black
-  - "pantone-876"
   - gray
+  - white
+  - "pantone-876"
 typographies: []
 imagery_styles:
   - photography
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

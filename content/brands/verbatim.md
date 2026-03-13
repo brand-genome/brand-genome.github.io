@@ -2,12 +2,12 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-03-13T08:56:59.347713"
+date: "2026-03-13T09:22:53.395950"
 draft: false
 sectors:
+  - electronics
   - "consumer-goods"
   - hardware
-  - electronics
 regions:
   - taiwan
 years:
@@ -54,28 +54,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
-  - white
-  - red
-  - "pantone-485"
   - "pantone-307"
-  - blue
-  - "pantone-328"
-  - "pantone-1525"
-  - "pantone-363"
-  - "pantone-124"
   - cyan
-  - black
   - gray
+  - "pantone-1525"
+  - black
+  - "pantone-124"
+  - red
+  - blue
   - "pantone-072"
+  - "pantone-328"
+  - "pantone-485"
+  - white
+  - "pantone-363"
 typographies:
   - helvetica
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q473360"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

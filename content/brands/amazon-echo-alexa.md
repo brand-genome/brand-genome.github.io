@@ -2,11 +2,11 @@
 title: Amazon Echo / Alexa
 slug: "amazon-echo-alexa"
 description: ""
-date: "2026-03-13T08:56:59.736726"
+date: "2026-03-13T09:22:54.763369"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - internet
-  - technology
   - featured
+  - technology
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - badge
+  - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - natural
-  - portrait
   - realistic
   - monochrome
+  - portrait
   - photography
 wikidata_description: ""
 wikidata_url: ""
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

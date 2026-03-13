@@ -2,7 +2,7 @@
 title: Trapeze Group
 slug: "trapeze-group"
 description: ""
-date: "2026-03-13T08:56:59.836267"
+date: "2026-03-13T09:22:55.039506"
 draft: false
 sectors:
   - "public-transportation"
@@ -50,12 +50,12 @@ logo_elements:
   - primary
   - wordmark
 brand_colors:
-  - white
-  - red
-  - "pantone-432"
+  - gray
   - "pantone-1955"
   - black
-  - gray
+  - "pantone-432"
+  - red
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

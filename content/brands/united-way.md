@@ -2,7 +2,7 @@
 title: United Way
 slug: "united-way"
 description: ""
-date: "2026-03-13T08:56:59.409789"
+date: "2026-03-13T09:22:53.532007"
 draft: false
 sectors:
   - ngo
@@ -51,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - vertical
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
   - blue
+  - white
   - orange
 typographies:
   - brandon
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

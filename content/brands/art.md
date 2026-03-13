@@ -2,7 +2,7 @@
 title: .art
 slug: art
 description: ""
-date: "2026-03-13T08:56:59.295246"
+date: "2026-03-13T09:22:53.281063"
 draft: false
 sectors:
   - software
@@ -47,21 +47,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - green
-  - black
   - orange
+  - black
   - magenta
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - avenir
 imagery_styles:
   - minimal
-  - bold
   - landscape
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

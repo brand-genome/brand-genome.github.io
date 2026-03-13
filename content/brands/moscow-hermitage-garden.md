@@ -2,7 +2,7 @@
 title: Moscow Hermitage Garden
 slug: "moscow-hermitage-garden"
 description: ""
-date: "2026-03-13T08:56:59.420172"
+date: "2026-03-13T09:22:53.602493"
 draft: false
 sectors:
   - tourism
@@ -17,8 +17,8 @@ tags:
   - architecture
 industries: []
 countries:
-  - russia
   - "soviet-union"
+  - russia
   - "russian-empire"
 revenue_buckets: []
 operating_income_buckets: []
@@ -53,14 +53,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - red
-  - "pantone-150"
   - "pantone-290"
   - "pantone-7489"
+  - red
+  - "pantone-150"
   - "pantone-270"
 typographies:
-  - times
   - arial
+  - times
 imagery_styles: []
 wikidata_description: "park in Moscow, Russia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3889320"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

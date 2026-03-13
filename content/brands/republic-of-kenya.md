@@ -2,7 +2,7 @@
 title: Republic of Kenya
 slug: "republic-of-kenya"
 description: ""
-date: "2026-03-13T08:56:59.277387"
+date: "2026-03-13T09:22:53.259995"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,10 +48,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-17"
-  - white
   - "pantone-48"
   - "pantone-54"
+  - "pantone-17"
+  - white
 typographies:
   - helvetica
 imagery_styles:
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

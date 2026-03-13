@@ -2,7 +2,7 @@
 title: Denver
 slug: denver
 description: ""
-date: "2026-03-13T08:56:59.779932"
+date: "2026-03-13T09:22:54.802054"
 draft: false
 sectors:
   - "public-sector"
@@ -50,26 +50,26 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
   - "pantone-268"
-  - red
-  - "pantone-384"
-  - navy
-  - blue
-  - "pantone-180"
-  - gold
-  - "pantone-296"
-  - "pantone-1805"
-  - "pantone-130"
   - purple
-  - green
-  - black
-  - orange
+  - "pantone-180"
+  - "pantone-1805"
+  - navy
   - "pantone-2925"
+  - "pantone-384"
+  - gold
+  - "pantone-130"
+  - orange
+  - black
+  - red
+  - blue
+  - green
+  - "pantone-296"
 typographies:
   - avenir
 imagery_styles:
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

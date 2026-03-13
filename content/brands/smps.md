@@ -2,7 +2,7 @@
 title: SMPS
 slug: smps
 description: ""
-date: "2026-03-13T08:56:59.458333"
+date: "2026-03-13T09:22:53.699119"
 draft: false
 sectors:
   - education
@@ -50,23 +50,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - symbol
 brand_colors:
-  - white
-  - blue
   - "pantone-3262"
-  - green
-  - black
-  - orange
   - gray
+  - orange
+  - black
+  - blue
+  - green
+  - white
 typographies:
-  - gotham
   - georgia
+  - gotham
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q1518565"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

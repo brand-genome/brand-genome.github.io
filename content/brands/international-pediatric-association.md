@@ -2,11 +2,11 @@
 title: International Pediatric Association
 slug: "international-pediatric-association"
 description: ""
-date: "2026-03-13T08:56:59.559241"
+date: "2026-03-13T09:22:54.331103"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - international
 years:
@@ -48,9 +48,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - black
   - white
   - turquoise
-  - black
 typographies:
   - verdana
   - avenir
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

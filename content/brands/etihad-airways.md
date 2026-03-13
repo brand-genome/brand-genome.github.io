@@ -2,7 +2,7 @@
 title: Etihad Airways
 slug: "etihad-airways"
 description: ""
-date: "2026-03-13T08:56:59.292023"
+date: "2026-03-13T09:22:53.277704"
 draft: false
 sectors:
   - airline
@@ -54,12 +54,12 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - white
-  - gold
   - black
+  - gold
+  - white
 typographies:
-  - din
   - trebuchet
+  - din
 imagery_styles:
   - bold
 wikidata_description: "flag-carrier airline of the United Arab Emirates"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

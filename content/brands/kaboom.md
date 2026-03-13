@@ -2,7 +2,7 @@
 title: "Kaboom!"
 slug: kaboom
 description: ""
-date: "2026-03-13T08:56:59.319944"
+date: "2026-03-13T09:22:53.325049"
 draft: false
 sectors:
   - ngo
@@ -56,18 +56,18 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - violet
+  - black
   - purple
   - white
-  - black
+  - violet
 typographies:
   - arial
 imagery_styles:
-  - natural
   - contemporary
-  - photography
-  - candid
+  - natural
   - lifestyle
+  - candid
+  - photography
   - bold
 wikidata_description: "playground-building non-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q16998060"
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

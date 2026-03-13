@@ -2,11 +2,11 @@
 title: Hire Vue
 slug: "hire-vue"
 description: ""
-date: "2026-03-13T08:56:59.780922"
+date: "2026-03-13T09:22:54.804986"
 draft: false
 sectors:
-  - "staffing-recruitment"
   - software
+  - "staffing-recruitment"
 regions:
   - "united-kingdom"
 years:
@@ -47,35 +47,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - lockup
-  - symbol
 brand_colors:
   - "pantone-170"
-  - white
-  - red
-  - "pantone-185"
-  - "pantone-109"
-  - yellow
-  - "pantone-3248"
-  - green
-  - "pantone-573"
-  - black
   - "pantone-187"
-  - gray
+  - "pantone-3248"
   - "pantone-7406"
+  - "pantone-573"
+  - gray
+  - yellow
+  - "pantone-185"
+  - black
+  - "pantone-109"
+  - red
   - coral
+  - green
+  - white
   - "pantone-7719"
 typographies:
-  - roboto
   - slab
+  - roboto
 imagery_styles:
   - natural
-  - professional
   - monochrome
   - minimal
-  - graphic
+  - professional
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

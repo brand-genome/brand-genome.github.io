@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-03-13T08:56:59.731628"
+date: "2026-03-13T09:22:54.749983"
 draft: false
 sectors:
   - consulting
@@ -58,14 +58,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
+  - symbol
   - primary
   - signature
-  - symbol
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
   - ubuntu
 imagery_styles: []
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

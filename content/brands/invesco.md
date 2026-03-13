@@ -2,7 +2,7 @@
 title: Invesco
 slug: invesco
 description: ""
-date: "2026-03-13T08:56:59.260053"
+date: "2026-03-13T09:22:53.247908"
 draft: false
 sectors:
   - finance
@@ -48,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
-  - abstract
   - secondary
-brand_colors:
-  - white
-  - silver
-  - blue
-  - gray
-typographies:
-  - "gill-sans"
-  - arial
-imagery_styles:
-  - natural
-  - modern
-  - professional
-  - photography
-  - minimal
+  - stacked
   - abstract
+brand_colors:
+  - gray
+  - silver
+  - white
+  - blue
+typographies:
+  - arial
+  - "gill-sans"
+imagery_styles:
+  - modern
+  - natural
+  - abstract
+  - minimal
+  - photography
+  - professional
   - bold
 wikidata_description: Trading platform for mutual funds
 wikidata_url: "https://www.wikidata.org/wiki/Q93360231"
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

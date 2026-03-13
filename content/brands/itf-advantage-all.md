@@ -2,7 +2,7 @@
 title: ITF Advantage All
 slug: "itf-advantage-all"
 description: ""
-date: "2026-03-13T08:56:59.305024"
+date: "2026-03-13T09:22:53.299057"
 draft: false
 sectors:
   - sports
@@ -47,12 +47,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
   - grey
+  - white
   - orange
 typographies:
   - "open-sans"
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

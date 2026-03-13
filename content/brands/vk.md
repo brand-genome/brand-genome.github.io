@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-03-13T08:56:59.602935"
+date: "2026-03-13T09:22:54.566102"
 draft: false
 sectors:
   - "social-media"
@@ -13,15 +13,15 @@ years:
 languages:
   - russian
 tags:
+  - featured
   - internet
   - networks
-  - featured
 industries:
-  - investment
   - "technology-company"
+  - investment
 countries:
-  - russia
   - cyprus
+  - russia
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:
@@ -36,11 +36,11 @@ total_equity_buckets:
   - "100B-500B"
 market_cap_buckets: []
 products_or_materials_produced:
+  - mailru
   - vk
+  - odnoklassniki
   - mycom
   - "web-service"
-  - odnoklassniki
-  - mailru
 products: []
 headquarters_locations:
   - moscow
@@ -66,20 +66,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - primary
-  - vertical
-  - stacked
-  - horizontal
   - wordmark
+  - primary
+  - stacked
+  - vertical
+  - horizontal
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - dynamic
-  - professional
   - vibrant
+  - dynamic
   - photography
+  - professional
   - bold
 wikidata_description: Russian internet company
 wikidata_url: "https://www.wikidata.org/wiki/Q1885456"
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -138,7 +139,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Vk](/products_or_materials_produced/vk/); [Mycom](/products_or_materials_produced/mycom/); [Web Service](/products_or_materials_produced/web-service/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Mailru](/products_or_materials_produced/mailru/) |
+| Product Or Material Produced | [Mailru](/products_or_materials_produced/mailru/); [Vk](/products_or_materials_produced/vk/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Mycom](/products_or_materials_produced/mycom/); [Web Service](/products_or_materials_produced/web-service/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Described By Source | Lentapedia |

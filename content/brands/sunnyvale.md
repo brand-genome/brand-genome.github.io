@@ -2,7 +2,7 @@
 title: Sunnyvale
 slug: sunnyvale
 description: ""
-date: "2026-03-13T08:56:59.496398"
+date: "2026-03-13T09:22:53.934468"
 draft: false
 sectors:
   - "public-sector"
@@ -48,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
   - symbol
+  - primary
 brand_colors:
-  - white
-  - blue
-  - "pantone-386"
   - "pantone-285"
+  - "pantone-386"
+  - blue
   - green
+  - white
 typographies:
-  - gotham
   - arial
+  - gotham
 imagery_styles:
   - candid
 wikidata_description: "city in Santa Clara County, California, United States"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

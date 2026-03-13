@@ -2,7 +2,7 @@
 title: Fédération Française de Volley
 slug: "federation-francaise-de-volley"
 description: ""
-date: "2026-03-13T08:56:59.365365"
+date: "2026-03-13T09:22:53.431049"
 draft: false
 sectors:
   - sports
@@ -56,6 +56,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

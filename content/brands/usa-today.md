@@ -2,7 +2,7 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-03-13T08:56:59.858145"
+date: "2026-03-13T09:22:55.092029"
 draft: false
 sectors:
   - publishing
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - magazine
-  - media
   - featured
+  - media
+  - magazine
 industries: []
 countries:
   - "united-states"
@@ -52,14 +52,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
   - black
   - blue
 typographies:
-  - futura
   - arial
+  - futura
 imagery_styles:
   - photography
   - contemporary
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

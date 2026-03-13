@@ -2,7 +2,7 @@
 title: Malouf
 slug: malouf
 description: ""
-date: "2026-03-13T08:56:59.550969"
+date: "2026-03-13T09:22:54.227476"
 draft: false
 sectors:
   - "consumer-goods"
@@ -47,22 +47,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - white
   - "pantone-8001"
-  - "pantone-876"
   - silver
-  - "pantone-871"
-  - black
   - gray
   - "pantone-10274"
+  - black
+  - "pantone-871"
+  - "pantone-876"
+  - white
 typographies:
   - display
 imagery_styles:
-  - subtle
   - modern
+  - subtle
 wikidata_description: music genre
 wikidata_url: "https://www.wikidata.org/wiki/Q97368934"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

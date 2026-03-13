@@ -2,7 +2,7 @@
 title: Emaar Properties
 slug: "emaar-properties"
 description: ""
-date: "2026-03-13T08:56:59.033910"
+date: "2026-03-13T09:22:51.899414"
 draft: false
 sectors:
   - "real-estate"
@@ -58,16 +58,16 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies:
-  - optima
-  - georgia
   - arial
+  - georgia
+  - optima
 imagery_styles:
-  - graphic
   - lifestyle
+  - graphic
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1153463"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

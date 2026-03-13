@@ -2,11 +2,11 @@
 title: Dalhousie University
 slug: "dalhousie-university"
 description: ""
-date: "2026-03-13T08:56:59.239024"
+date: "2026-03-13T09:22:53.084914"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - canada
@@ -56,21 +56,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
 brand_colors:
-  - white
-  - gold
   - black
+  - gold
+  - white
 typographies: []
 imagery_styles:
-  - natural
-  - staged
-  - clean
-  - candid
-  - photography
-  - vibrant
   - artificial
+  - photography
+  - natural
+  - candid
+  - staged
+  - vibrant
+  - clean
   - bold
 wikidata_description: "public research university in Nova Scotia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q579321"
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

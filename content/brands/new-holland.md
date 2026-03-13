@@ -2,7 +2,7 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-03-13T08:56:59.611081"
+date: "2026-03-13T09:22:54.572289"
 draft: false
 sectors:
   - construction
@@ -50,8 +50,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Alpha Chi Omega
 slug: "alpha-chi-omega"
 description: ""
-date: "2026-03-13T08:56:59.548746"
+date: "2026-03-13T09:22:54.225095"
 draft: false
 sectors:
   - education
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

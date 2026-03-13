@@ -2,7 +2,7 @@
 title: Blue Ribbon Classics
 slug: "blue-ribbon-classics"
 description: ""
-date: "2026-03-13T08:56:59.610797"
+date: "2026-03-13T09:22:54.571992"
 draft: false
 sectors:
   - food
@@ -47,14 +47,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
   - "pantone-7462"
   - blue
 typographies: []
 imagery_styles:
-  - graphic
   - gradient
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

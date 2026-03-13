@@ -2,7 +2,7 @@
 title: Targetti
 slug: targetti
 description: ""
-date: "2026-03-13T08:56:59.509743"
+date: "2026-03-13T09:22:53.969153"
 draft: false
 sectors:
   - hardware
@@ -49,15 +49,15 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
 typographies:
   - times
 imagery_styles:
   - photography
-  - graphic
   - professional
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

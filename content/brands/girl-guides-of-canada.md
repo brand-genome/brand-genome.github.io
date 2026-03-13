@@ -2,7 +2,7 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-03-13T08:56:59.617824"
+date: "2026-03-13T09:22:54.707016"
 draft: false
 sectors:
   - education
@@ -50,17 +50,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - secondary
+  - stacked
   - wordmark
 brand_colors:
-  - white
-  - gold
   - purple
   - silver
-  - black
   - gray
+  - black
+  - gold
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

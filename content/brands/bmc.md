@@ -2,7 +2,7 @@
 title: BMC
 slug: bmc
 description: ""
-date: "2026-03-13T08:56:59.252622"
+date: "2026-03-13T09:22:53.242470"
 draft: false
 sectors:
   - software
@@ -52,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors: []
 typographies:
   - "open-sans"
 imagery_styles:
   - photography
+  - dramatic
   - modern
   - bold
-  - dramatic
 wikidata_description: commercial vehicle manufacturer in Turkey
 wikidata_url: "https://www.wikidata.org/wiki/Q796295"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

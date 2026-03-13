@@ -2,7 +2,7 @@
 title: Cessna
 slug: cessna
 description: ""
-date: "2026-03-13T08:56:59.619402"
+date: "2026-03-13T09:22:54.712935"
 draft: false
 sectors:
   - aerospace
@@ -15,8 +15,8 @@ languages:
 tags:
   - transport
 industries:
-  - aviation
   - "aerospace-industry"
+  - aviation
 countries:
   - "united-states"
 revenue_buckets: []
@@ -27,12 +27,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "cessna-208-caravan"
-  - "cessna-182-skylane"
   - "cessna-206"
-  - "cessna-aircraft"
   - "cessna-citation-mustang"
+  - "cessna-208-caravan"
   - "cessna-citation-x"
+  - "cessna-182-skylane"
+  - "cessna-aircraft"
   - "cessna-172-skyhawk"
 products: []
 headquarters_locations:
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -183,7 +184,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/) |
+| Product Or Material Produced | [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/) |
 | Headquarters Location | [Wichita](/headquarters_locations/wichita/) |
 | Foundation Date | [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Cessna |

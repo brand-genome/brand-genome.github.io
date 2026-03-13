@@ -2,7 +2,7 @@
 title: ErgoYou
 slug: ergoyou
 description: ""
-date: "2026-03-13T08:56:59.397392"
+date: "2026-03-13T09:22:53.494876"
 draft: false
 sectors:
   - "consumer-goods"
@@ -46,15 +46,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - wordmark
 brand_colors:
-  - white
   - grey
-  - blue
-  - black
   - orange
+  - black
+  - blue
+  - white
 typographies:
   - impact
 imagery_styles:
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

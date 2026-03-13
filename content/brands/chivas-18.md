@@ -2,7 +2,7 @@
 title: Chivas 18
 slug: "chivas-18"
 description: ""
-date: "2026-03-13T08:56:59.525722"
+date: "2026-03-13T09:22:54.079571"
 draft: false
 sectors:
   - drink
@@ -48,21 +48,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-873"
-  - white
+  - cyan
+  - "pantone-2736"
+  - black
   - blue
   - "pantone-2755"
   - gold
-  - "pantone-2736"
-  - cyan
-  - black
+  - white
+  - "pantone-873"
 typographies:
   - verdana
 imagery_styles:
-  - graphic
   - contemporary
   - modern
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

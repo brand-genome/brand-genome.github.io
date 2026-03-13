@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-03-13T08:56:59.498194"
+date: "2026-03-13T09:22:53.936315"
 draft: false
 sectors:
-  - "renewable-energy"
   - hardware
+  - "renewable-energy"
 regions:
   - norway
 years:
@@ -17,8 +17,8 @@ tags:
   - industry
 industries: []
 countries:
-  - "european-union"
   - germany
+  - "european-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "works-copyrighted-by-authors"
   - "printed-matter"
+  - "works-copyrighted-by-authors"
 products: []
 headquarters_locations: []
 subsidiaries: []
@@ -52,23 +52,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
   - "pantone-300"
   - blue
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
+  - muted
   - natural
   - clean
   - product
   - bold
-  - muted
 wikidata_description: peer reviewed open access scientific journal
 wikidata_url: "https://www.wikidata.org/wiki/Q15755050"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -125,7 +126,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Works Copyrighted By Authors](/products_or_materials_produced/works-copyrighted-by-authors/); [Printed Matter](/products_or_materials_produced/printed-matter/) |
+| Product Or Material Produced | [Printed Matter](/products_or_materials_produced/printed-matter/); [Works Copyrighted By Authors](/products_or_materials_produced/works-copyrighted-by-authors/) |
 | Foundation Date | [1997](/foundation_dates/1997/) |
 | Era Journal Id | 22194 |
 | Issn | 1027-5606, 1607-7938 |

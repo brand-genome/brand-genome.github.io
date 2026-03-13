@@ -2,7 +2,7 @@
 title: Red de Parques Nacionales
 slug: "red-de-parques-nacionales"
 description: ""
-date: "2026-03-13T08:56:59.099877"
+date: "2026-03-13T09:22:52.173215"
 draft: false
 sectors:
   - "public-sector"
@@ -46,24 +46,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - primary
   - vertical
-  - symbol
+  - secondary
   - horizontal
 brand_colors:
-  - white
+  - "pantone-201"
+  - black
   - red
   - "pantone-385"
-  - black
-  - "pantone-201"
+  - white
 typographies:
-  - verdana
   - georgia
+  - verdana
 imagery_styles:
-  - graphic
-  - clean
   - dynamic
+  - clean
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

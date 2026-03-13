@@ -2,7 +2,7 @@
 title: Área Metropolitana del Valle de Aburrá
 slug: "area-metropolitana-del-valle-de-aburra"
 description: ""
-date: "2026-03-13T08:56:59.397507"
+date: "2026-03-13T09:22:53.495107"
 draft: false
 sectors:
   - "public-sector"
@@ -48,9 +48,9 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-375"
+  - "pantone-300"
   - "pantone-179"
   - "pantone-136"
-  - "pantone-300"
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

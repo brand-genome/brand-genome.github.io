@@ -2,7 +2,7 @@
 title: New York State
 slug: "new-york-state"
 description: ""
-date: "2026-03-13T08:56:59.726240"
+date: "2026-03-13T09:22:54.739868"
 draft: false
 sectors:
   - "public-sector"
@@ -54,12 +54,12 @@ logo_elements:
   - secondary
 brand_colors: []
 typographies:
-  - oswald
   - "proxima-nova"
+  - oswald
 imagery_styles:
+  - monochrome
   - photography
   - bold
-  - monochrome
 wikidata_description: "state university in Albany, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q1780816"
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

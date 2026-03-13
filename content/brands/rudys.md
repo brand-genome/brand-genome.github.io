@@ -2,11 +2,11 @@
 title: Rudy’s
 slug: rudys
 description: ""
-date: "2026-03-13T08:56:59.597660"
+date: "2026-03-13T09:22:54.561466"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -51,12 +51,12 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - white
-  - red
-  - yellow
   - "pantone-108"
-  - black
   - "pantone-1795"
+  - yellow
+  - black
+  - red
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

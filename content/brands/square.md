@@ -2,7 +2,7 @@
 title: Square
 slug: square
 description: ""
-date: "2026-03-13T08:56:59.149116"
+date: "2026-03-13T09:22:52.322249"
 draft: false
 sectors:
   - hospitality
@@ -53,25 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
   - symbol
+  - primary
 brand_colors:
-  - white
-  - grey
-  - gold
   - silver
+  - grey
   - black
+  - gold
+  - white
 typographies:
+  - arial
   - helvetica
   - impact
-  - arial
 imagery_styles:
   - illustration
-  - photography
   - vibrant
-  - graphic
+  - photography
   - bold
+  - graphic
 wikidata_description: Japanese video game company
 wikidata_url: "https://www.wikidata.org/wiki/Q739552"
 has_twitter: false
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

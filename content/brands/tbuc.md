@@ -2,7 +2,7 @@
 title: TBUC
 slug: tbuc
 description: ""
-date: "2026-03-13T08:56:59.812106"
+date: "2026-03-13T09:22:54.975634"
 draft: false
 sectors:
   - "public-sector"
@@ -53,8 +53,8 @@ brand_colors:
   - cyan
   - orange
 typographies:
-  - verdana
   - gotham
+  - verdana
 imagery_styles:
   - vibrant
   - photography
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

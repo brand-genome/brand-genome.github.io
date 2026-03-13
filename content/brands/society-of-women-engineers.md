@@ -2,7 +2,7 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-03-13T08:56:59.251958"
+date: "2026-03-13T09:22:53.241608"
 draft: false
 sectors:
   - education
@@ -54,23 +54,23 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - pink
-  - blue
+  - purple
+  - gray
   - yellow
   - gold
-  - purple
-  - green
-  - black
   - orange
-  - gray
+  - black
   - teal
+  - pink
+  - blue
+  - green
+  - white
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - graphic
   - professional
+  - graphic
 wikidata_description: "American non-profit"
 wikidata_url: "https://www.wikidata.org/wiki/Q51768"
 has_twitter: false
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

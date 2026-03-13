@@ -2,7 +2,7 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-03-13T08:56:59.723357"
+date: "2026-03-13T09:22:54.735438"
 draft: false
 sectors:
   - networking
@@ -28,15 +28,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - helicopter
-  - spacecraft
-  - aircraft
-  - "spacecraft-bus"
   - missile
+  - "spacecraft-bus"
+  - spacecraft
+  - helicopter
+  - aircraft
 products: []
 headquarters_locations:
-  - "los-angeles"
   - "culver-city"
+  - "los-angeles"
 subsidiaries: []
 foundation_dates:
   - 1932
@@ -58,22 +58,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
   - "pantone-286"
-  - blue
-  - yellow
   - cyan
-  - black
   - gray
+  - yellow
+  - black
   - "pantone-3145"
   - magenta
+  - blue
+  - white
 typographies: []
 imagery_styles:
-  - gradient
   - clean
+  - gradient
 wikidata_description: defunct American aerospace and defense contractor
 wikidata_url: "https://www.wikidata.org/wiki/Q196253"
 has_twitter: false
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -134,8 +135,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Helicopter](/products_or_materials_produced/helicopter/); [Spacecraft](/products_or_materials_produced/spacecraft/); [Aircraft](/products_or_materials_produced/aircraft/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/); [Missile](/products_or_materials_produced/missile/) |
-| Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/); [Culver City](/headquarters_locations/culver-city/) |
+| Product Or Material Produced | [Missile](/products_or_materials_produced/missile/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/); [Spacecraft](/products_or_materials_produced/spacecraft/); [Helicopter](/products_or_materials_produced/helicopter/); [Aircraft](/products_or_materials_produced/aircraft/) |
+| Headquarters Location | [Culver City](/headquarters_locations/culver-city/); [Los Angeles](/headquarters_locations/los-angeles/) |
 | Foundation Date | [1932](/foundation_dates/1932/) |
 | Founded By | Howard Hughes |
 | Topic'S Main Category | Category:Hughes Aircraft Company |

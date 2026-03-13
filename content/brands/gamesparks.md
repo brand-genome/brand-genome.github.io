@@ -2,11 +2,11 @@
 title: GameSparks
 slug: gamesparks
 description: ""
-date: "2026-03-13T08:56:59.618033"
+date: "2026-03-13T09:22:54.707349"
 draft: false
 sectors:
-  - gaming
   - software
+  - gaming
 regions:
   - ireland
 years:
@@ -47,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - alternate
-  - primary
+  - icon
   - secondary
+  - primary
 brand_colors:
-  - grey
-  - blue
   - purple
-  - green
-  - black
+  - grey
   - orange
+  - black
+  - blue
+  - green
 typographies:
-  - roboto
   - display
+  - roboto
 imagery_styles:
   - flat
 wikidata_description: ""
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Conferma
 slug: conferma
 description: ""
-date: "2026-03-13T08:56:59.109472"
+date: "2026-03-13T09:22:52.197169"
 draft: false
 sectors:
   - software
@@ -47,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - favicon
+  - primary
   - secondary
 brand_colors:
   - white
@@ -56,10 +56,10 @@ brand_colors:
 typographies: []
 imagery_styles:
   - natural
-  - professional
   - vibrant
-  - product
   - photography
+  - product
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

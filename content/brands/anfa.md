@@ -2,11 +2,11 @@
 title: ANFA
 slug: anfa
 description: ""
-date: "2026-03-13T08:56:59.755091"
+date: "2026-03-13T09:22:54.797554"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - france
 years:
@@ -51,8 +51,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-2766"
   - "pantone-299"
+  - "pantone-2766"
 typographies: []
 imagery_styles: []
 wikidata_description: governing body of association football in Nepal
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

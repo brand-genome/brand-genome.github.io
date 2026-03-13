@@ -2,11 +2,11 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-03-13T08:56:59.297451"
+date: "2026-03-13T09:22:53.283854"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - norway
 years:
@@ -48,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
 brand_colors:
-  - purple
-  - white
-  - grey
   - black
+  - purple
+  - grey
+  - white
 typographies:
   - montserrat
 imagery_styles:
   - illustration
+  - geometric
   - playful
   - colorful
   - bold
-  - geometric
 wikidata_description: "Children's educational software"
 wikidata_url: "https://www.wikidata.org/wiki/Q6347127"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

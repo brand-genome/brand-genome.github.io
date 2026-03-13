@@ -2,11 +2,11 @@
 title: The North Face
 slug: "the-north-face"
 description: ""
-date: "2026-03-13T08:56:59.582377"
+date: "2026-03-13T09:22:54.412926"
 draft: false
 sectors:
-  - "consumer-goods"
   - footwear
+  - "consumer-goods"
   - fashion
   - "e-commerce"
 regions:
@@ -17,11 +17,11 @@ years:
 languages:
   - english
 tags:
-  - sport
   - corporate
+  - sport
 industries:
-  - "clothing-industry"
   - retail
+  - "clothing-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -33,14 +33,14 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "travel-gear"
-  - outerwear
   - backpack
-  - "sleeping-bag"
-  - "sports-equipment"
-  - "outdoor-gear"
-  - "fashion-accessory"
   - tent
   - clothing
+  - "outdoor-gear"
+  - outerwear
+  - "sleeping-bag"
+  - "fashion-accessory"
+  - "sports-equipment"
 products: []
 headquarters_locations:
   - denver
@@ -65,17 +65,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - symbol
+  - signature
 brand_colors:
   - red
 typographies:
   - helvetica
 imagery_styles:
   - illustration
-  - clean
-  - bold
   - landscape
+  - bold
+  - clean
 wikidata_description: American company featuring outdoor apparel and sportswear
 wikidata_url: "https://www.wikidata.org/wiki/Q152784"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -554,7 +555,7 @@ Versatility 20%
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Travel Gear](/products_or_materials_produced/travel-gear/); [Outerwear](/products_or_materials_produced/outerwear/); [Backpack](/products_or_materials_produced/backpack/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Tent](/products_or_materials_produced/tent/); [Clothing](/products_or_materials_produced/clothing/) |
+| Product Or Material Produced | [Travel Gear](/products_or_materials_produced/travel-gear/); [Backpack](/products_or_materials_produced/backpack/); [Tent](/products_or_materials_produced/tent/); [Clothing](/products_or_materials_produced/clothing/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Outerwear](/products_or_materials_produced/outerwear/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Sports Equipment](/products_or_materials_produced/sports-equipment/) |
 | Headquarters Location | [Denver](/headquarters_locations/denver/) |
 | Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Douglas Tompkins, Susie Tompkins Buell |

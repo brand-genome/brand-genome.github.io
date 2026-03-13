@@ -2,7 +2,7 @@
 title: Guru
 slug: guru
 description: ""
-date: "2026-03-13T08:56:59.588259"
+date: "2026-03-13T09:22:54.421844"
 draft: false
 sectors:
   - software
@@ -47,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - horizontal
   - secondary
 brand_colors:
-  - white
   - navy
+  - gray
+  - black
   - pink
   - green
-  - black
-  - gray
+  - white
 typographies:
   - montserrat
 imagery_styles:
-  - clean
-  - dramatic
   - serious
+  - dramatic
+  - clean
   - gradient
   - bold
 wikidata_description: ethnic group in Tanzania
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

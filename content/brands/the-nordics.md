@@ -2,7 +2,7 @@
 title: The Nordics
 slug: "the-nordics"
 description: ""
-date: "2026-03-13T08:56:59.807981"
+date: "2026-03-13T09:22:54.970765"
 draft: false
 sectors:
   - "public-sector"
@@ -47,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
   - lockup
 brand_colors:
-  - white
-  - red
-  - grey
-  - "pantone-653"
-  - "pantone-183"
-  - "pantone-107"
-  - yellow
-  - green
-  - black
-  - gray
   - "pantone-286"
   - "pantone-3435"
+  - "pantone-183"
+  - grey
+  - gray
+  - yellow
+  - "pantone-107"
+  - black
+  - red
+  - "pantone-653"
+  - green
+  - white
 typographies:
   - helvetica
   - times
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

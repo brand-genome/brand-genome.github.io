@@ -2,16 +2,16 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-03-13T08:56:59.128557"
+date: "2026-03-13T09:22:52.238345"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
   - english
   - russian
@@ -52,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
+  - symbol
   - secondary
   - lockup
-  - symbol
+  - primary
 brand_colors:
+  - "pantone-369"
   - green
   - "pantone-7686"
   - blue
-  - "pantone-369"
 typographies: []
 imagery_styles:
-  - product
   - monochrome
+  - product
 wikidata_description: "Irish tax-resident US water treatment company"
 wikidata_url: "https://www.wikidata.org/wiki/Q7165001"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

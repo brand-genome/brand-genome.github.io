@@ -2,11 +2,11 @@
 title: Ashrae
 slug: ashrae
 description: ""
-date: "2026-03-13T08:56:59.733831"
+date: "2026-03-13T09:22:54.755365"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - usa
 years:
@@ -50,29 +50,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
   - alternate
   - vertical
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - blue
-  - "pantone-287"
-  - "pantone-312"
   - "pantone-300"
-  - black
   - gray
   - "pantone-376"
+  - black
+  - "pantone-287"
+  - blue
+  - "pantone-312"
+  - white
 typographies:
   - display
   - akzidenz
 imagery_styles:
   - vibrant
   - clean
-  - bold
   - gradient
+  - bold
 wikidata_description: "global society advancing human well-being through sustainable technology for the built environment"
 wikidata_url: "https://www.wikidata.org/wiki/Q466899"
 has_twitter: false
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

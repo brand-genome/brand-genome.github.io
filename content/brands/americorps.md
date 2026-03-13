@@ -2,7 +2,7 @@
 title: AmeriCorps
 slug: americorps
 description: ""
-date: "2026-03-13T08:56:59.144167"
+date: "2026-03-13T09:22:52.315993"
 draft: false
 sectors:
   - "public-sector"
@@ -10,14 +10,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
   - english
 tags:
   - community
-  - social
   - environment
+  - social
 industries: []
 countries:
   - "united-states"
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

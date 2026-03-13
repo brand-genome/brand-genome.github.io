@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-03-13T08:56:59.464872"
+date: "2026-03-13T09:22:53.707810"
 draft: false
 sectors:
   - software
@@ -46,13 +46,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - horizontal
+  - stacked
 brand_colors:
-  - white
   - black
-  - blue
   - orange
+  - white
+  - blue
 typographies:
   - arial
 imagery_styles:
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

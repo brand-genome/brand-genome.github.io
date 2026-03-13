@@ -2,7 +2,7 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-03-13T08:56:59.290260"
+date: "2026-03-13T09:22:53.275471"
 draft: false
 sectors:
   - cruise
@@ -18,8 +18,8 @@ tags:
 industries:
   - tourism
 countries:
-  - switzerland
   - italy
+  - switzerland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -31,9 +31,9 @@ products_or_materials_produced:
   - cruising
 products: []
 headquarters_locations:
-  - genoa
-  - geneva
   - naples
+  - geneva
+  - genoa
 subsidiaries: []
 foundation_dates:
   - 1970
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -87,7 +88,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Cruising](/products_or_materials_produced/cruising/) |
-| Headquarters Location | [Genoa](/headquarters_locations/genoa/); [Geneva](/headquarters_locations/geneva/); [Naples](/headquarters_locations/naples/) |
+| Headquarters Location | [Naples](/headquarters_locations/naples/); [Geneva](/headquarters_locations/geneva/); [Genoa](/headquarters_locations/genoa/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:MSC Cruises |
 | Freebase Id | /m/04q7d8 |

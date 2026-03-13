@@ -2,7 +2,7 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-03-13T08:56:59.051790"
+date: "2026-03-13T09:22:51.969288"
 draft: false
 sectors:
   - software
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2020
   - 2013
+  - 2022
 languages:
   - english
 tags:
+  - featured
   - internet
   - financial
-  - featured
 industries: []
 countries:
   - "united-states"
@@ -56,8 +56,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - helvetica
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

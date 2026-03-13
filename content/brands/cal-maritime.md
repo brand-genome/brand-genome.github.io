@@ -2,7 +2,7 @@
 title: Cal Maritime
 slug: "cal-maritime"
 description: ""
-date: "2026-03-13T08:56:59.338421"
+date: "2026-03-13T09:22:53.342663"
 draft: false
 sectors:
   - education
@@ -51,25 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - seal
+  - stacked
   - vertical
 brand_colors:
-  - white
-  - red
   - navy
+  - gray
+  - black
+  - red
   - blue
   - gold
-  - black
-  - gray
+  - white
 typographies:
-  - optima
-  - helvetica
   - garamond
+  - helvetica
+  - optima
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "maritime academy in Vallejo, California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1026832"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

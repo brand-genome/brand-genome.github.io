@@ -2,11 +2,11 @@
 title: Toys “R” Us
 slug: "toys-r-us"
 description: ""
-date: "2026-03-13T08:56:59.500245"
+date: "2026-03-13T09:22:53.938576"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -48,30 +48,30 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - brown
-  - "pantone-2728"
-  - red
-  - "pantone-141"
-  - "pantone-116"
-  - blue
-  - "pantone-168"
-  - "pantone-143"
-  - yellow
-  - gold
   - "pantone-368"
   - "pantone-1505"
-  - green
+  - "pantone-206"
+  - "pantone-158"
+  - "pantone-141"
+  - "pantone-2728"
+  - yellow
   - orange
   - black
-  - "pantone-158"
-  - "pantone-206"
+  - green
+  - "pantone-143"
+  - red
+  - blue
+  - "pantone-168"
+  - gold
+  - "pantone-116"
+  - brown
 typographies:
-  - futura
   - helvetica
   - avenir
+  - futura
 imagery_styles:
-  - contemporary
   - classic
+  - contemporary
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

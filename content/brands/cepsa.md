@@ -2,11 +2,11 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-03-13T08:56:59.109603"
+date: "2026-03-13T09:22:52.197313"
 draft: false
 sectors:
-  - "renewable-energy"
   - "petrol-station"
+  - "renewable-energy"
 regions:
   - spain
 years:
@@ -56,12 +56,12 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - "pantone-485"
-  - red
-  - "pantone-424"
-  - silver
   - "pantone-877"
+  - silver
   - gray
+  - red
+  - "pantone-485"
+  - "pantone-424"
 typographies:
   - script
 imagery_styles:
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

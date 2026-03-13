@@ -2,7 +2,7 @@
 title: Brewers
 slug: brewers
 description: ""
-date: "2026-03-13T08:56:59.469412"
+date: "2026-03-13T09:22:53.713359"
 draft: false
 sectors:
   - sports
@@ -51,15 +51,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-293"
   - navy
+  - "pantone-14"
+  - gold
+  - "pantone-123"
+  - "pantone-293"
   - blue
   - "pantone-19"
-  - "pantone-2767"
-  - gold
-  - "pantone-14"
   - "pantone-18"
-  - "pantone-123"
+  - "pantone-2767"
 typographies: []
 imagery_styles: []
 wikidata_description: "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Vytautas Magnus University
 slug: "vytautas-magnus-university"
 description: ""
-date: "2026-03-13T08:56:59.222464"
+date: "2026-03-13T09:22:53.067087"
 draft: false
 sectors:
   - education
@@ -32,8 +32,8 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1989
   - 1922
+  - 1989
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -85,7 +86,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1989](/foundation_dates/1989/); [1922](/foundation_dates/1922/) |
+| Foundation Date | [1922](/foundation_dates/1922/); [1989](/foundation_dates/1989/) |
 | Official Name | Vytauto Didžiojo universitetas, Каўнаскі ўніверсітэт (until 1950-10-31), Ковенскі ўнівэрсытэт (until 1950-10-31) |
 | Coordinate Location | 54.898333333333, 23.913888888889 |
 | Topic'S Main Category | Category:Vytautas Magnus University |

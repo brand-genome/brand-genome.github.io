@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-03-13T08:56:59.729151"
+date: "2026-03-13T09:22:54.744302"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -56,10 +56,10 @@ logo_elements:
   - emblem
   - vertical
 brand_colors:
+  - "pantone-201"
+  - black
   - white
   - red
-  - black
-  - "pantone-201"
 typographies: []
 imagery_styles:
   - modern
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

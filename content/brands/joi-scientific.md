@@ -2,11 +2,11 @@
 title: Joi Scientific
 slug: "joi-scientific"
 description: ""
-date: "2026-03-13T08:56:59.327701"
+date: "2026-03-13T09:22:53.328731"
 draft: false
 sectors:
-  - "renewable-energy"
   - hardware
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - science
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,24 +49,24 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
+  - "pantone-423"
+  - "pantone-419"
   - "pantone-2728"
   - grey
-  - "pantone-1788"
-  - blue
-  - "pantone-2727"
+  - gray
   - "pantone-311"
   - black
-  - gray
-  - "pantone-419"
-  - "pantone-423"
+  - white
+  - blue
+  - "pantone-1788"
+  - "pantone-2727"
 typographies:
   - gotham
 imagery_styles:
-  - natural
-  - dynamic
-  - clean
   - modern
+  - natural
+  - clean
+  - dynamic
   - photography
 wikidata_description: ""
 wikidata_url: ""
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

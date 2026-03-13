@@ -2,7 +2,7 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-03-13T08:56:59.404994"
+date: "2026-03-13T09:22:53.514205"
 draft: false
 sectors:
   - "public-sector"
@@ -17,8 +17,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - palestine
   - jordan
+  - palestine
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,16 +27,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - microcredit
-  - "public-works"
-  - "social-services"
-  - "health-care"
   - education
   - "emergency-service"
+  - "public-works"
+  - "health-care"
+  - microcredit
+  - "social-services"
 products: []
 headquarters_locations:
-  - "gaza-city"
   - amman
+  - "gaza-city"
 subsidiaries: []
 foundation_dates:
   - 1949
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -118,8 +119,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Microcredit](/products_or_materials_produced/microcredit/); [Public Works](/products_or_materials_produced/public-works/); [Social Services](/products_or_materials_produced/social-services/); [Health Care](/products_or_materials_produced/health-care/); [Education](/products_or_materials_produced/education/); [Emergency Service](/products_or_materials_produced/emergency-service/) |
-| Headquarters Location | [Gaza City](/headquarters_locations/gaza-city/); [Amman](/headquarters_locations/amman/) |
+| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Public Works](/products_or_materials_produced/public-works/); [Health Care](/products_or_materials_produced/health-care/); [Microcredit](/products_or_materials_produced/microcredit/); [Social Services](/products_or_materials_produced/social-services/) |
+| Headquarters Location | [Amman](/headquarters_locations/amman/); [Gaza City](/headquarters_locations/gaza-city/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |
 | Viaf Cluster Id | 142614632 |

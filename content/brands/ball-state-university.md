@@ -2,7 +2,7 @@
 title: Ball State University
 slug: "ball-state-university"
 description: ""
-date: "2026-03-13T08:56:59.752708"
+date: "2026-03-13T09:22:54.795629"
 draft: false
 sectors:
   - education
@@ -56,13 +56,13 @@ brand_colors:
   - white
   - red
 typographies:
+  - "open-sans"
   - helvetica
   - roboto
-  - "open-sans"
 imagery_styles:
+  - vibrant
   - photography
   - bold
-  - vibrant
 wikidata_description: "university in Indiana, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q805122"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

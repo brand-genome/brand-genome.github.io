@@ -2,7 +2,7 @@
 title: Northern Arizona University
 slug: "northern-arizona-university"
 description: ""
-date: "2026-03-13T08:56:59.459193"
+date: "2026-03-13T09:22:53.700065"
 draft: false
 sectors:
   - education
@@ -51,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - alternate
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
-  - blue
-  - gold
   - "pantone-281"
   - black
+  - blue
+  - gold
+  - white
 typographies:
   - roboto
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "public university in Flagstaff, Arizona, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q139901"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

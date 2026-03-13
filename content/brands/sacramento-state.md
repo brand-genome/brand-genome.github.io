@@ -2,7 +2,7 @@
 title: Sacramento State
 slug: "sacramento-state"
 description: ""
-date: "2026-03-13T08:56:59.851699"
+date: "2026-03-13T09:22:55.086632"
 draft: false
 sectors:
   - education
@@ -51,13 +51,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - seal
+  - horizontal
   - vertical
 brand_colors:
+  - black
   - green
   - gold
-  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-03-13T08:56:59.856415"
+date: "2026-03-13T09:22:55.090618"
 draft: false
 sectors:
-  - petroleum
   - gas
   - oil
+  - petroleum
 regions:
   - india
 years:
@@ -52,8 +52,8 @@ logo_elements:
   - primary
 brand_colors:
   - white
-  - blue
   - "pantone-7687"
+  - blue
 typographies: []
 imagery_styles: []
 wikidata_description: Web portal for scientific publications in French
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Schneider Electric
 slug: "schneider-electric"
 description: ""
-date: "2026-03-13T08:56:59.086693"
+date: "2026-03-13T09:22:52.102404"
 draft: false
 sectors:
-  - utilities
   - software
+  - utilities
 regions:
   - france
 years:
@@ -36,12 +36,12 @@ total_equity_buckets:
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - "electrical-device"
   - software
+  - "electrical-device"
 products: []
 headquarters_locations:
-  - macon
   - "rueil-malmaison"
+  - macon
 subsidiaries: []
 foundation_dates:
   - 2009
@@ -64,18 +64,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - abstract
   - crest
+  - abstract
+  - primary
 brand_colors:
+  - gray
   - white
   - "pantone-186"
-  - gray
 typographies: []
 imagery_styles:
-  - clean
-  - contemporary
   - modern
+  - contemporary
+  - clean
   - photography
   - abstract
   - bold
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -163,8 +164,8 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Electrical Device](/products_or_materials_produced/electrical-device/); [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Macon](/headquarters_locations/macon/); [Rueil Malmaison](/headquarters_locations/rueil-malmaison/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Electrical Device](/products_or_materials_produced/electrical-device/) |
+| Headquarters Location | [Rueil Malmaison](/headquarters_locations/rueil-malmaison/); [Macon](/headquarters_locations/macon/) |
 | Foundation Date | [2009](/foundation_dates/2009/); [1836](/foundation_dates/1836/) |
 | Topic'S Main Category | Category:Schneider Electric |
 | Member Of | MEDEE power electronics cluster, CVE Numbering Authority, Zigbee Alliance, Wireless Power Consortium |

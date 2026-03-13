@@ -2,11 +2,11 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-03-13T08:56:59.819971"
+date: "2026-03-13T09:22:54.985548"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -51,16 +51,16 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
-  - white
-  - grey
-  - blue
-  - pink
   - purple
+  - grey
   - black
+  - pink
+  - blue
+  - white
 typographies: []
 imagery_styles:
-  - natural
   - clean
+  - natural
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

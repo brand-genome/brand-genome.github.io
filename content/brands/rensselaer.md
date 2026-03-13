@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-03-13T08:56:59.906397"
+date: "2026-03-13T09:22:55.167069"
 draft: false
 sectors:
   - university
@@ -52,25 +52,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - secondary
   - seal
+  - secondary
+  - wordmark
 brand_colors:
-  - "pantone-485"
-  - "pantone-5425"
-  - "pantone-424"
-  - "pantone-7711"
-  - black
-  - "pantone-390"
   - "pantone-158"
+  - "pantone-7711"
+  - "pantone-390"
+  - black
+  - "pantone-5425"
+  - "pantone-485"
+  - "pantone-424"
 typographies:
-  - "source-sans"
   - gotham
-  - times
-  - serif
-  - impact
   - "sans-serif"
+  - serif
+  - times
+  - "source-sans"
+  - impact
 imagery_styles:
   - modern
   - professional
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,12 +2,12 @@
 title: Glance
 slug: glance
 description: ""
-date: "2026-03-13T08:56:59.269359"
+date: "2026-03-13T09:22:53.254405"
 draft: false
 sectors:
+  - software
   - "marketing-advertising"
   - "social-media"
-  - software
 regions:
   - india
 years:
@@ -48,27 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
+  - primary
   - secondary
 brand_colors:
-  - red
+  - violet
   - grey
   - yellow
-  - violet
-  - green
   - orange
   - black
+  - red
+  - green
 typographies: []
 imagery_styles:
-  - natural
-  - clean
   - modern
+  - natural
+  - organic
   - illustration
+  - candid
   - monochrome
   - vibrant
-  - candid
-  - organic
+  - clean
   - gradient
   - bold
 wikidata_description: free software
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

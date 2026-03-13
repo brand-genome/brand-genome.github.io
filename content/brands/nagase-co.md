@@ -2,7 +2,7 @@
 title: "Nagase & Co."
 slug: "nagase-co"
 description: ""
-date: "2026-03-13T08:56:59.179065"
+date: "2026-03-13T09:22:52.829503"
 draft: false
 sectors:
   - consulting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - featured
+  - industry
 industries: []
 countries:
   - japan
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - osaka
   - chuo
+  - osaka
 subsidiaries: []
 foundation_dates:
   - 1917
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -83,7 +84,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Osaka](/headquarters_locations/osaka/); [Chuo](/headquarters_locations/chuo/) |
+| Headquarters Location | [Chuo](/headquarters_locations/chuo/); [Osaka](/headquarters_locations/osaka/) |
 | Foundation Date | [1917](/foundation_dates/1917/) |
 | Ndl Authority Id | 00641601 |
 | Viaf Cluster Id | 124723667 |

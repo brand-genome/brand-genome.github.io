@@ -2,7 +2,7 @@
 title: Massachusetts College
 slug: "massachusetts-college"
 description: ""
-date: "2026-03-13T08:56:59.442413"
+date: "2026-03-13T09:22:53.665227"
 draft: false
 sectors:
   - education
@@ -50,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - alternate
+  - horizontal
   - vertical
 brand_colors:
   - gray
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

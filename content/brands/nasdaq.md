@@ -2,7 +2,7 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-03-13T08:56:59.162311"
+date: "2026-03-13T09:22:52.462759"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - featured
+  - financial
 industries:
   - "financial-services"
 countries:
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "new-york-city"
   - "one-liberty-plaza"
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1971
@@ -55,15 +55,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
   - secondary
+  - wordmark
   - signature
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
   - impact
 imagery_styles:
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -120,7 +121,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/) |
+| Headquarters Location | [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1971](/foundation_dates/1971/) |
 | Currency | United States dollar |
 | Topic'S Main Category | Category:Nasdaq |

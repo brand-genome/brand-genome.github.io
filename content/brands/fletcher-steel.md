@@ -2,7 +2,7 @@
 title: Fletcher Steel
 slug: "fletcher-steel"
 description: ""
-date: "2026-03-13T08:56:59.491965"
+date: "2026-03-13T09:22:53.932102"
 draft: false
 sectors:
   - construction
@@ -51,17 +51,17 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - green
   - grey
+  - green
   - blue
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
-  - product
-  - graphic
   - dynamic
+  - product
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

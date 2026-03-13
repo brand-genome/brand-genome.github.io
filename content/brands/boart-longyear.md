@@ -2,7 +2,7 @@
 title: Boart Longyear
 slug: "boart-longyear"
 description: ""
-date: "2026-03-13T08:56:59.836365"
+date: "2026-03-13T09:22:55.039671"
 draft: false
 sectors:
   - "mining-extraction"
@@ -30,8 +30,8 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "south-jordan"
   - "salt-lake-city"
+  - "south-jordan"
 subsidiaries: []
 foundation_dates:
   - 1888
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -81,7 +82,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [South Jordan](/headquarters_locations/south-jordan/); [Salt Lake City](/headquarters_locations/salt-lake-city/) |
+| Headquarters Location | [Salt Lake City](/headquarters_locations/salt-lake-city/); [South Jordan](/headquarters_locations/south-jordan/) |
 | Foundation Date | [1888](/foundation_dates/1888/) |
 | Country | United States |
 | Inception | 1888 |

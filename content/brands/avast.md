@@ -2,11 +2,11 @@
 title: Avast
 slug: avast
 description: ""
-date: "2026-03-13T08:56:59.492090"
+date: "2026-03-13T09:22:53.932277"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "czech-republic"
 years:
@@ -62,19 +62,19 @@ body_sections: []
 logo_elements:
   - primary
   - secondary
-  - wordmark
   - symbol
+  - wordmark
 brand_colors:
-  - white
-  - red
-  - blue
+  - purple
+  - "pantone-158"
   - yellow
   - "pantone-267"
-  - purple
-  - green
   - orange
   - black
-  - "pantone-158"
+  - red
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: Czech security software company
@@ -84,6 +84,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

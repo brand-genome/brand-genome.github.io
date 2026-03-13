@@ -2,11 +2,11 @@
 title: The Shyft Group
 slug: "the-shyft-group"
 description: ""
-date: "2026-03-13T08:56:59.280965"
+date: "2026-03-13T09:22:53.263710"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:
@@ -50,13 +50,13 @@ logo_elements:
   - primary
   - symbol
 brand_colors:
-  - white
-  - green
   - black
+  - green
+  - white
 typographies: []
 imagery_styles:
-  - photography
   - classic
+  - photography
   - professional
   - bold
 wikidata_description: ""
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

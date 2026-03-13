@@ -2,12 +2,12 @@
 title: Temerty Medical
 slug: "temerty-medical"
 description: ""
-date: "2026-03-13T08:56:59.352082"
+date: "2026-03-13T09:22:53.399328"
 draft: false
 sectors:
   - research
-  - healthcare
   - university
+  - healthcare
 regions:
   - canada
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - education
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,19 +49,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
-  - secondary
-  - primary
-  - crest
   - wordmark
+  - crest
+  - primary
+  - secondary
+  - signature
 brand_colors:
+  - "pantone-655"
   - white
   - "pantone-633"
   - blue
-  - "pantone-655"
 typographies:
-  - times
   - arial
+  - times
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

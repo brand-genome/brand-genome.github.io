@@ -2,12 +2,12 @@
 title: Ogilvy
 slug: ogilvy
 description: ""
-date: "2026-03-13T08:56:59.224189"
+date: "2026-03-13T09:22:53.069286"
 draft: false
 sectors:
-  - "marketing-advertising"
   - consulting
   - "public-relations"
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - marketing
   - featured
 industries:
-  - marketing
   - "public-relations"
+  - marketing
   - advertising
 countries:
   - "united-states"
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

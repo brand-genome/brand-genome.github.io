@@ -2,7 +2,7 @@
 title: Hags
 slug: hags
 description: ""
-date: "2026-03-13T08:56:59.435599"
+date: "2026-03-13T09:22:53.653332"
 draft: false
 sectors:
   - construction
@@ -49,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
-  - beige
   - yellow
-  - green
-  - black
   - orange
+  - black
+  - beige
+  - red
+  - blue
+  - green
+  - white
 typographies:
   - arial
 imagery_styles:
-  - product
-  - contemporary
   - clean
+  - contemporary
+  - product
   - dramatic
 wikidata_description: metro station in southern Stockholm
 wikidata_url: "https://www.wikidata.org/wiki/Q1568756"
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

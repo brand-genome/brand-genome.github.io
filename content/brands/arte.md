@@ -2,7 +2,7 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-03-13T08:56:59.456594"
+date: "2026-03-13T09:22:53.695674"
 draft: false
 sectors:
   - broadcasting
@@ -11,18 +11,18 @@ regions:
   - france
 years:
   - 2017
-  - 2013
-  - 2011
   - 2016
   - 2008
+  - 2011
+  - 2013
 languages:
-  - french
   - english
+  - french
 tags:
   - broadcast
-  - "social-networks"
-  - media
   - featured
+  - media
+  - "social-networks"
   - mobile
 industries: []
 countries:
@@ -60,15 +60,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - orange
+  - white
   - blue
 typographies: []
 imagery_styles:
-  - dynamic
-  - illustration
-  - bold
   - monochrome
+  - illustration
+  - dynamic
+  - bold
 wikidata_description: "Franco-German television channel and network"
 wikidata_url: "https://www.wikidata.org/wiki/Q8073"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 5
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

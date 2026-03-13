@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-03-13T08:56:59.798660"
+date: "2026-03-13T09:22:54.826610"
 draft: false
 sectors:
   - telecom
@@ -15,8 +15,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "mobile-phone-industry"
   - telecommunications
+  - "mobile-phone-industry"
 countries:
   - russia
 revenue_buckets: []
@@ -55,16 +55,16 @@ logo_elements:
   - secondary
   - signature
 brand_colors:
-  - white
-  - red
+  - silver
+  - gray
   - grey
   - yellow
-  - silver
   - black
-  - gray
+  - red
+  - white
 typographies:
-  - verdana
   - serif
+  - verdana
 imagery_styles:
   - modern
   - bold
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

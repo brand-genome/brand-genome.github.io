@@ -2,11 +2,11 @@
 title: Netclan
 slug: netclan
 description: ""
-date: "2026-03-13T08:56:59.412634"
+date: "2026-03-13T09:22:53.542602"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - usa
 years:
@@ -47,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
+  - primary
   - alternate
   - secondary
 brand_colors:
-  - white
   - navy
-  - blue
-  - beige
+  - gray
   - yellow
   - black
-  - gray
+  - beige
+  - blue
+  - white
 typographies:
-  - "open-sans"
   - raleway
+  - "open-sans"
 imagery_styles:
   - photography
 wikidata_description: ""
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

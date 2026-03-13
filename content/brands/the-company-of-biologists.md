@@ -2,12 +2,12 @@
 title: The Company of Biologists
 slug: "the-company-of-biologists"
 description: ""
-date: "2026-03-13T08:56:59.514584"
+date: "2026-03-13T09:22:54.043936"
 draft: false
 sectors:
-  - ngo
-  - publishing
   - research
+  - publishing
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -54,20 +54,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - favicon
+  - primary
   - secondary
 brand_colors:
-  - white
+  - "pantone-1795"
+  - "pantone-3272"
+  - "pantone-306"
+  - "pantone-130"
+  - "pantone-382"
+  - black
+  - "pantone-355"
   - blue
   - "pantone-166"
-  - "pantone-3272"
-  - "pantone-382"
-  - "pantone-130"
-  - "pantone-306"
-  - black
-  - "pantone-1795"
-  - "pantone-355"
+  - white
 typographies:
   - trebuchet
 imagery_styles:
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

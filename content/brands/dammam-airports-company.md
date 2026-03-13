@@ -2,7 +2,7 @@
 title: Dammam Airports Company
 slug: "dammam-airports-company"
 description: ""
-date: "2026-03-13T08:56:59.101257"
+date: "2026-03-13T09:22:52.175000"
 draft: false
 sectors:
   - "public-transportation"
@@ -47,27 +47,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - secondary
+  - primary
 brand_colors:
-  - "pantone-2765"
-  - "pantone-215"
-  - "pantone-299"
-  - "pantone-267"
-  - "pantone-2024"
-  - "pantone-3278"
   - purple
-  - black
-  - orange
+  - "pantone-299"
   - gray
+  - "pantone-267"
+  - orange
+  - black
+  - "pantone-2765"
+  - "pantone-2024"
+  - "pantone-215"
+  - "pantone-3278"
 typographies:
+  - arial
   - "sans-serif"
   - impact
-  - arial
 imagery_styles:
-  - photography
   - dynamic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

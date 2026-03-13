@@ -2,7 +2,7 @@
 title: Which Vocation
 slug: "which-vocation"
 description: ""
-date: "2026-03-13T08:56:59.407901"
+date: "2026-03-13T09:22:53.518300"
 draft: false
 sectors:
   - education
@@ -45,31 +45,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - favicon
   - logomark
-  - secondary
-  - lettermark
   - monogram
+  - icon
   - primary
   - "app-icon"
+  - favicon
+  - secondary
+  - lettermark
 brand_colors:
-  - white
   - grey
+  - black
   - blue
   - green
-  - black
+  - white
 typographies:
   - "sans-serif"
 imagery_styles:
-  - clean
-  - contemporary
   - modern
-  - professional
+  - contemporary
+  - geometric
   - vibrant
   - minimal
+  - clean
+  - professional
   - bold
-  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

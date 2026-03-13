@@ -15,8 +15,6 @@ By mapping the DNA of thousands of brands through their visual language, guideli
 
 ## Development
 
-BrandGenome originated at Adobe MDSR Labs, IIITD MIDAS Labs.
-
 ## Authors
 
 - Varun Khurana (Adobe Research, India)

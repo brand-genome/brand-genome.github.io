@@ -2,7 +2,7 @@
 title: Valencia C.F.
 slug: "valencia-cf"
 description: ""
-date: "2026-03-13T08:56:59.815748"
+date: "2026-03-13T09:22:54.979069"
 draft: false
 sectors:
   - sports
@@ -49,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - horizontal
   - crest
   - symbol
+  - primary
 brand_colors:
-  - white
+  - silver
+  - yellow
+  - orange
+  - black
   - red
   - blue
-  - yellow
-  - silver
-  - black
-  - orange
+  - white
 typographies:
-  - futura
   - "gill-sans"
+  - futura
 imagery_styles:
   - dynamic
   - bold
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

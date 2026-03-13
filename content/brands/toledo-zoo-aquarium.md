@@ -2,7 +2,7 @@
 title: "Toledo Zoo & Aquarium"
 slug: "toledo-zoo-aquarium"
 description: ""
-date: "2026-03-13T08:56:59.314780"
+date: "2026-03-13T09:22:53.319090"
 draft: false
 sectors:
   - "arts-culture"
@@ -50,15 +50,15 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - teal
   - turquoise
+  - teal
   - orange
 typographies: []
 imagery_styles:
-  - natural
-  - clean
   - modern
+  - natural
   - playful
+  - clean
   - colorful
 wikidata_description: ""
 wikidata_url: ""
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

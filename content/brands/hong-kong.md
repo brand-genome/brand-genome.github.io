@@ -2,17 +2,17 @@
 title: Hong Kong
 slug: "hong-kong"
 description: ""
-date: "2026-03-13T08:56:59.149503"
+date: "2026-03-13T09:22:52.322847"
 draft: false
 sectors:
   - "public-sector"
   - tourism
 regions:
-  - china
   - "hong-kong"
+  - china
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - chinese
 tags:
@@ -52,24 +52,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - signature
-  - symbol
 brand_colors:
-  - white
+  - cyan
+  - purple
+  - yellow
+  - orange
+  - black
   - red
   - blue
-  - yellow
-  - purple
   - green
-  - cyan
-  - black
-  - orange
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - gradient
   - bold
+  - graphic
 wikidata_description: city and special administrative region of China
 wikidata_url: "https://www.wikidata.org/wiki/Q8646"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

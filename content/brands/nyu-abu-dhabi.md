@@ -2,7 +2,7 @@
 title: NYU Abu Dhabi
 slug: "nyu-abu-dhabi"
 description: ""
-date: "2026-03-13T08:56:59.355043"
+date: "2026-03-13T09:22:53.402664"
 draft: false
 sectors:
   - university
@@ -50,30 +50,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - logomark
-  - secondary
   - primary
+  - emblem
   - lockup
   - vertical
+  - secondary
 brand_colors:
-  - white
-  - violet
   - purple
-  - turquoise
+  - violet
   - black
+  - white
+  - turquoise
 typographies:
+  - script
+  - georgia
   - gotham
   - arial
-  - script
   - times
-  - georgia
 imagery_styles:
   - natural
   - dynamic
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: liberal arts and research university in the United Arab Emirates
 wikidata_url: "https://www.wikidata.org/wiki/Q566189"
 has_twitter: false
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Gautrain
 slug: gautrain
 description: ""
-date: "2026-03-13T08:56:59.300426"
+date: "2026-03-13T09:22:53.291516"
 draft: false
 sectors:
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - "south-africa"
 years:
@@ -49,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - emblem
   - wordmark
-  - symbol
 brand_colors:
   - gold
   - blue
 typographies: []
 imagery_styles:
-  - graphic
   - portrait
   - landscape
+  - graphic
 wikidata_description: "rapid rail express commuter transport system in Gauteng, South Africa"
 wikidata_url: "https://www.wikidata.org/wiki/Q1476881"
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

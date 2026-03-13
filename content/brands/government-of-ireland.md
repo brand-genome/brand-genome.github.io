@@ -2,7 +2,7 @@
 title: Government of Ireland
 slug: "government-of-ireland"
 description: ""
-date: "2026-03-13T08:56:59.790183"
+date: "2026-03-13T09:22:54.821793"
 draft: false
 sectors:
   - "public-sector"
@@ -49,20 +49,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - black
   - green
   - grey
   - gold
-  - black
 typographies:
+  - arial
+  - georgia
   - lato
   - "sans-serif"
-  - georgia
-  - arial
 imagery_styles:
   - photography
-  - clean
   - professional
   - bold
+  - clean
 wikidata_description: cabinet that exercises executive authority in Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q1672817"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

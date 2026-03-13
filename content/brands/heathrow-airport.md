@@ -2,7 +2,7 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-03-13T08:56:59.583899"
+date: "2026-03-13T09:22:54.416413"
 draft: false
 sectors:
   - "public-transportation"
@@ -57,9 +57,9 @@ logo_elements:
 brand_colors:
   - black
 typographies:
+  - arial
   - frutiger
   - impact
-  - arial
 imagery_styles:
   - photography
   - staged
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

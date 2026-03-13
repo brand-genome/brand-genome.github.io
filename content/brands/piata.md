@@ -2,7 +2,7 @@
 title: PIATA
 slug: piata
 description: ""
-date: "2026-03-13T08:56:59.785818"
+date: "2026-03-13T09:22:54.811365"
 draft: false
 sectors:
   - ngo
@@ -56,6 +56,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

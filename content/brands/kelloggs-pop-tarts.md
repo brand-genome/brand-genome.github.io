@@ -2,7 +2,7 @@
 title: "Kellogg’s Pop-Tarts"
 slug: "kelloggs-pop-tarts"
 description: ""
-date: "2026-03-13T08:56:59.335547"
+date: "2026-03-13T09:22:53.338707"
 draft: false
 sectors:
   - food
@@ -52,8 +52,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - product
   - playful
+  - product
   - retro
 wikidata_description: ""
 wikidata_url: ""
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

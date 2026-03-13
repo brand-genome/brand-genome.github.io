@@ -2,11 +2,11 @@
 title: Census
 slug: census
 description: ""
-date: "2026-03-13T08:56:59.618849"
+date: "2026-03-13T09:22:54.712275"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - usa
 years:
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - suitland
   - maryland
+  - suitland
   - "washington-dc"
 subsidiaries: []
 foundation_dates:
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -122,7 +123,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Suitland](/headquarters_locations/suitland/); [Maryland](/headquarters_locations/maryland/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Headquarters Location | [Maryland](/headquarters_locations/maryland/); [Suitland](/headquarters_locations/suitland/); [Washington Dc](/headquarters_locations/washington-dc/) |
 | Foundation Date | [1902](/foundation_dates/1902/) |
 | Topic'S Main Category | Category:United States Census Bureau |
 | Gnd Id | 43130-8 (from 1903-07-01), 1086264584 |

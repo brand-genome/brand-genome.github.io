@@ -2,11 +2,11 @@
 title: Micro Focus
 slug: "micro-focus"
 description: ""
-date: "2026-03-13T08:56:59.311588"
+date: "2026-03-13T09:22:53.310906"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - software
 industries:
-  - "information-technology"
   - "software-development"
+  - "information-technology"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

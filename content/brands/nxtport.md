@@ -2,7 +2,7 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-03-13T08:56:59.612335"
+date: "2026-03-13T09:22:54.575143"
 draft: false
 sectors:
   - software
@@ -52,8 +52,8 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - raleway
   - display
+  - raleway
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

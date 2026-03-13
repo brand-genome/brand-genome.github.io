@@ -2,11 +2,11 @@
 title: Access Care of Coastal Texas
 slug: "access-care-of-coastal-texas"
 description: ""
-date: "2026-03-13T08:56:59.310728"
+date: "2026-03-13T09:22:53.309579"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -53,8 +53,8 @@ brand_colors:
   - green
   - blue
 typographies:
-  - montserrat
   - display
+  - montserrat
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

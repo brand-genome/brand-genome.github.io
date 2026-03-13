@@ -2,7 +2,7 @@
 title: Sentinels
 slug: sentinels
 description: ""
-date: "2026-03-13T08:56:59.455501"
+date: "2026-03-13T09:22:53.694154"
 draft: false
 sectors:
   - gaming
@@ -51,20 +51,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - primary
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - grey
+  - black
   - pink
   - blue
-  - black
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: American professional esports organization
 wikidata_url: "https://www.wikidata.org/wiki/Q24884615"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

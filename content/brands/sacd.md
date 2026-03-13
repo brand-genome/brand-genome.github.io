@@ -2,11 +2,11 @@
 title: SACD
 slug: sacd
 description: ""
-date: "2026-03-13T08:56:59.724230"
+date: "2026-03-13T09:22:54.736701"
 draft: false
 sectors:
-  - "legal-services"
   - "arts-culture"
+  - "legal-services"
 regions:
   - france
 years:
@@ -51,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
+  - monogram
   - secondary
 brand_colors:
-  - "pantone-485"
-  - red
-  - white
-  - black
   - gray
+  - black
+  - red
+  - "pantone-485"
+  - white
 typographies: []
 imagery_styles:
   - graphic
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

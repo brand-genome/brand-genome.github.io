@@ -2,7 +2,7 @@
 title: Mennonite World Conference
 slug: "mennonite-world-conference"
 description: ""
-date: "2026-03-13T08:56:59.515224"
+date: "2026-03-13T09:22:54.044883"
 draft: false
 sectors:
   - ngo
@@ -46,8 +46,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - symbol
+  - signature
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -59,6 +59,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

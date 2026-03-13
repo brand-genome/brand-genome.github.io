@@ -2,7 +2,7 @@
 title: Gateway Rehab
 slug: "gateway-rehab"
 description: ""
-date: "2026-03-13T08:56:59.562934"
+date: "2026-03-13T09:22:54.334445"
 draft: false
 sectors:
   - healthcare
@@ -46,23 +46,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - green
   - black
+  - green
 typographies:
-  - roboto
   - slab
   - "proxima-nova"
   - arial
   - avenir
+  - roboto
 imagery_styles:
-  - natural
   - modern
+  - natural
   - vibrant
   - photography
   - colorful
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

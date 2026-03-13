@@ -2,7 +2,7 @@
 title: Stella Maris
 slug: "stella-maris"
 description: ""
-date: "2026-03-13T08:56:59.444665"
+date: "2026-03-13T09:22:53.668195"
 draft: false
 sectors:
   - ngo
@@ -47,24 +47,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - green
-  - black
   - orange
+  - black
+  - red
+  - blue
+  - green
+  - white
 typographies:
-  - verdana
   - nunito
+  - verdana
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

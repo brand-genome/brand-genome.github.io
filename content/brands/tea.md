@@ -2,7 +2,7 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-03-13T08:56:59.837386"
+date: "2026-03-13T09:22:55.041412"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - italy
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

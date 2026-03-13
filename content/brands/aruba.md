@@ -2,12 +2,12 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-03-13T08:56:59.779218"
+date: "2026-03-13T09:22:54.801739"
 draft: false
 sectors:
+  - hardware
   - cybersecurity
   - networking
-  - hardware
 regions:
   - usa
 years:
@@ -19,9 +19,9 @@ tags:
   - technology
   - networks
 industries:
+  - "computer-science"
   - telecommunications
   - "online-service"
-  - "computer-science"
 countries:
   - italy
 revenue_buckets:
@@ -34,21 +34,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "digital-preservation"
-  - "colocation-centre"
-  - "internet-service-provider"
-  - email
-  - "fiber-optic-communication"
-  - "sistema-pubblico-di-identita-digitale"
-  - "internet-hosting-service"
-  - "certified-email"
-  - "digital-signature"
-  - "online-service-provider"
-  - "public-key-certificate"
   - "domain-name-server"
+  - "digital-preservation"
   - "cloud-computing"
+  - "sistema-pubblico-di-identita-digitale"
+  - "fiber-optic-communication"
+  - "public-key-certificate"
+  - "colocation-centre"
+  - "internet-hosting-service"
+  - "digital-signature"
   - "electronic-billing"
+  - "internet-service-provider"
   - "server-computer"
+  - "online-service-provider"
+  - email
+  - "certified-email"
 products: []
 headquarters_locations:
   - "ponte-san-pietro"
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -149,7 +150,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Email](/products_or_materials_produced/email/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Sistema Pubblico Di Identita Digitale](/products_or_materials_produced/sistema-pubblico-di-identita-digitale/); [Internet Hosting Service](/products_or_materials_produced/internet-hosting-service/); [Certified Email](/products_or_materials_produced/certified-email/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Online Service Provider](/products_or_materials_produced/online-service-provider/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); [Domain Name Server](/products_or_materials_produced/domain-name-server/); +3 more |
+| Product Or Material Produced | [Domain Name Server](/products_or_materials_produced/domain-name-server/); [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Sistema Pubblico Di Identita Digitale](/products_or_materials_produced/sistema-pubblico-di-identita-digitale/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Internet Hosting Service](/products_or_materials_produced/internet-hosting-service/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Electronic Billing](/products_or_materials_produced/electronic-billing/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Server Computer](/products_or_materials_produced/server-computer/); +3 more |
 | Headquarters Location | [Ponte San Pietro](/headquarters_locations/ponte-san-pietro/) |
 | Foundation Date | [1994](/foundation_dates/1994/) |
 | Location Of Formation | Florence |

@@ -2,7 +2,7 @@
 title: GreenPower
 slug: greenpower
 description: ""
-date: "2026-03-13T08:56:59.358359"
+date: "2026-03-13T09:22:53.409110"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - environment
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - badge
   - primary
   - secondary
-  - badge
 brand_colors:
-  - white
-  - blue
-  - "pantone-2965"
   - "pantone-7482"
-  - green
+  - "pantone-2965"
   - black
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

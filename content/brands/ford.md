@@ -2,7 +2,7 @@
 title: Ford
 slug: ford
 description: ""
-date: "2026-03-13T08:56:59.214326"
+date: "2026-03-13T09:22:53.023713"
 draft: false
 sectors:
   - finance
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2006
+  - 2021
 languages:
   - english
 tags:
-  - transport
   - featured
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -36,8 +36,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - truck
   - "passenger-car"
+  - truck
 products: []
 headquarters_locations:
   - dearborn
@@ -63,15 +63,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - emblem
-  - secondary
   - primary
-  - vertical
+  - emblem
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - "pantone-3262"
   - black
+  - "pantone-3262"
 typographies:
   - avenir
   - impact
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -144,7 +145,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/) |
+| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1903](/foundation_dates/1903/) |
 | Isin | US3453708600 |

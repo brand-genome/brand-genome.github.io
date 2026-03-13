@@ -2,7 +2,7 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-03-13T08:56:59.542482"
+date: "2026-03-13T09:22:54.217290"
 draft: false
 sectors:
   - "petrol-station"
@@ -51,13 +51,13 @@ logo_elements:
   - symbol
 brand_colors:
   - "pantone-293"
-  - "pantone-485"
-  - white
   - red
   - blue
+  - "pantone-485"
+  - white
 typographies:
-  - impact
   - display
+  - impact
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

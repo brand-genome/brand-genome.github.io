@@ -2,11 +2,11 @@
 title: Savsani
 slug: savsani
 description: ""
-date: "2026-03-13T08:56:59.334470"
+date: "2026-03-13T09:22:53.337376"
 draft: false
 sectors:
-  - "wellness-spa"
   - fitness
+  - "wellness-spa"
   - healthcare
 regions:
   - usa
@@ -48,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - symbol
-  - abstract
   - wordmark
+  - symbol
+  - primary
+  - secondary
+  - abstract
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - clean
   - playful
+  - clean
+  - duotone
   - photography
   - product
-  - duotone
   - abstract
 wikidata_description: ""
 wikidata_url: ""
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

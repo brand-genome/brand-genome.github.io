@@ -2,7 +2,7 @@
 title: HELMo
 slug: helmo
 description: ""
-date: "2026-03-13T08:56:59.413208"
+date: "2026-03-13T09:22:53.543490"
 draft: false
 sectors:
   - education
@@ -50,15 +50,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - gray
+  - white
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
+  - monochrome
   - colorful
   - bold
-  - monochrome
 wikidata_description: association football club
 wikidata_url: "https://www.wikidata.org/wiki/Q636315"
 has_twitter: false
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

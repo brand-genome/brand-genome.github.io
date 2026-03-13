@@ -2,11 +2,11 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-03-13T08:56:59.304618"
+date: "2026-03-13T09:22:53.298431"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - usa
 years:
@@ -50,19 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - "combination-mark"
   - primary
+  - "combination-mark"
+  - icon
   - secondary
 brand_colors: []
 typographies:
   - gotham
   - impact
 imagery_styles:
-  - clean
   - modern
-  - professional
   - monochrome
+  - clean
+  - professional
   - bold
 wikidata_description: California state department
 wikidata_url: "https://www.wikidata.org/wiki/Q16850544"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

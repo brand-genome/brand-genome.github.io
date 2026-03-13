@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-03-13T08:56:59.412323"
+date: "2026-03-13T09:22:53.541805"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,8 +15,8 @@ languages:
 tags:
   - aeronautic
 industries:
-  - "fixed-base-operator"
   - unknown
+  - "fixed-base-operator"
 countries:
   - france
 revenue_buckets:
@@ -55,10 +55,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
-  - vertical
   - symbol
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
   - black
@@ -66,8 +66,8 @@ brand_colors:
 typographies:
   - gotham
 imagery_styles:
-  - graphic
   - monochrome
+  - graphic
 wikidata_description: French airport authority
 wikidata_url: "https://www.wikidata.org/wiki/Q794563"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

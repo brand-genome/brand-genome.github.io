@@ -2,7 +2,7 @@
 title: Hyperoptic
 slug: hyperoptic
 description: ""
-date: "2026-03-13T08:56:59.611986"
+date: "2026-03-13T09:22:54.574083"
 draft: false
 sectors:
   - networking
@@ -54,19 +54,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - grey
-  - blue
-  - purple
   - cyan
+  - purple
+  - grey
   - black
   - teal
+  - blue
+  - white
 typographies:
   - impact
 imagery_styles:
   - portrait
-  - bold
   - landscape
+  - bold
 wikidata_description: "internet service provider (ISP) based in London, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q5958419"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,25 +2,25 @@
 title: Wipro
 slug: wipro
 description: ""
-date: "2026-03-13T08:56:59.063319"
+date: "2026-03-13T09:22:52.050084"
 draft: false
 sectors:
-  - cybersecurity
   - consulting
   - software
+  - cybersecurity
 regions:
   - india
 years:
-  - 2024
   - 2022
+  - 2024
   - 2017
 languages:
   - english
 tags:
   - technology
 industries:
-  - "it-service-management"
   - "information-technology-consulting"
+  - "it-service-management"
 countries:
   - india
 revenue_buckets: []
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

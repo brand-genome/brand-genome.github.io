@@ -2,7 +2,7 @@
 title: Sylius
 slug: sylius
 description: ""
-date: "2026-03-13T08:56:59.497530"
+date: "2026-03-13T09:22:53.935489"
 draft: false
 sectors:
   - software
@@ -50,10 +50,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - green
-  - blue
   - gray
+  - green
+  - white
+  - blue
 typographies:
   - "proxima-nova"
 imagery_styles: []
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

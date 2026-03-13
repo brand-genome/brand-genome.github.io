@@ -2,11 +2,11 @@
 title: UEA
 slug: uea
 description: ""
-date: "2026-03-13T08:56:59.851203"
+date: "2026-03-13T09:22:55.086144"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - "united-kingdom"
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - education
   - university
-  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -54,12 +54,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - green
   - cyan
-  - black
   - orange
+  - black
   - magenta
+  - green
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Norwich, England, United Kingdom"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

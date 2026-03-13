@@ -2,7 +2,7 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-03-13T08:56:59.753072"
+date: "2026-03-13T09:22:54.795965"
 draft: false
 sectors:
   - broadcasting
@@ -52,8 +52,8 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies: []
 imagery_styles:
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

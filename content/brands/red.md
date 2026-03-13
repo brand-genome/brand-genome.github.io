@@ -2,7 +2,7 @@
 title: (RED)
 slug: red
 description: ""
-date: "2026-03-13T08:56:59.558935"
+date: "2026-03-13T09:22:54.330866"
 draft: false
 sectors:
   - ngo
@@ -53,16 +53,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - red
   - black
   - gray
+  - white
+  - red
 typographies:
   - impact
 imagery_styles:
   - product
-  - graphic
   - bold
+  - graphic
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q624601"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Preferred by Nature
 slug: "preferred-by-nature"
 description: ""
-date: "2026-03-13T08:56:59.204810"
+date: "2026-03-13T09:22:53.011716"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - environment
+  - ngo
 industries: []
 countries:
   - denmark
@@ -58,6 +58,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

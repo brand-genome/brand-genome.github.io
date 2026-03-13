@@ -2,7 +2,7 @@
 title: Grohe
 slug: grohe
 description: ""
-date: "2026-03-13T08:56:59.592952"
+date: "2026-03-13T09:22:54.553814"
 draft: false
 sectors:
   - hardware
@@ -29,8 +29,8 @@ products_or_materials_produced:
   - "plumbing-fixture"
 products: []
 headquarters_locations:
-  - hemer
   - dusseldorf
+  - hemer
 subsidiaries: []
 foundation_dates:
   - 1948
@@ -53,20 +53,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - blue
   - "pantone-11"
-  - green
   - black
+  - blue
+  - green
+  - white
 typographies:
-  - din
-  - times
   - univers
+  - times
+  - din
 imagery_styles:
   - portrait
+  - photography
   - landscape
   - professional
-  - photography
   - graphic
 wikidata_description: manufacturer of sanitary fittings
 wikidata_url: "https://www.wikidata.org/wiki/Q316477"
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -318,7 +319,7 @@ Brands are always on a journey. They are faithful to themselves and creating a p
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Plumbing Fixture](/products_or_materials_produced/plumbing-fixture/) |
-| Headquarters Location | [Hemer](/headquarters_locations/hemer/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Hemer](/headquarters_locations/hemer/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/03d3fs_ |
 | Headquarters Location | Düsseldorf, Hemer, Düsseldorf |

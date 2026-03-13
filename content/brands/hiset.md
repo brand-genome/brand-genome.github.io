@@ -2,7 +2,7 @@
 title: HiSET
 slug: hiset
 description: ""
-date: "2026-03-13T08:56:59.033737"
+date: "2026-03-13T09:22:51.899063"
 draft: false
 sectors:
   - education
@@ -50,22 +50,22 @@ logo_elements:
   - secondary
   - symbol
 brand_colors:
-  - white
-  - red
   - yellow
-  - coral
   - black
+  - red
+  - coral
+  - white
 typographies:
-  - lato
-  - verdana
-  - poppins
   - arial
+  - poppins
+  - verdana
+  - lato
 imagery_styles:
-  - natural
   - modern
-  - professional
+  - natural
   - photography
   - product
+  - professional
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

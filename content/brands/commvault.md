@@ -2,11 +2,11 @@
 title: Commvault
 slug: commvault
 description: ""
-date: "2026-03-13T08:56:59.735930"
+date: "2026-03-13T09:22:54.762230"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -53,23 +53,23 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - red
-  - "pantone-185"
-  - "pantone-2965"
-  - blue
-  - "pantone-8400"
   - "pantone-2995"
   - gray
+  - "pantone-8400"
+  - "pantone-2965"
+  - red
+  - blue
+  - "pantone-185"
+  - white
   - "pantone-428"
 typographies:
-  - din
-  - times
   - display
+  - times
+  - din
 imagery_styles:
   - photography
-  - graphic
   - modern
+  - graphic
   - clean
 wikidata_description: data management and information management software company
 wikidata_url: "https://www.wikidata.org/wiki/Q5152058"
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

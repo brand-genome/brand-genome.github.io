@@ -2,7 +2,7 @@
 title: University of Chicago Laboratory Schools
 slug: "university-of-chicago-laboratory-schools"
 description: ""
-date: "2026-03-13T08:56:59.352199"
+date: "2026-03-13T09:22:53.399502"
 draft: false
 sectors:
   - education
@@ -46,35 +46,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
-  - blue
-  - "pantone-143"
-  - "pantone-576"
-  - maroon
-  - green
   - "pantone-645"
-  - black
-  - orange
   - gray
+  - orange
+  - "pantone-576"
+  - black
+  - maroon
   - "pantone-202"
+  - "pantone-143"
+  - blue
+  - green
+  - white
 typographies:
   - garamond
-  - helvetica
   - times
+  - helvetica
   - akzidenz
 imagery_styles:
-  - dynamic
   - modern
   - vibrant
+  - dynamic
   - photography
-  - graphic
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

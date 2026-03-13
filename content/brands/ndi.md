@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-03-13T08:56:59.292704"
+date: "2026-03-13T09:22:53.278611"
 draft: false
 sectors:
-  - networking
-  - broadcasting
   - software
+  - broadcasting
+  - networking
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - software
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -52,14 +52,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
-  - helvetica
   - arial
+  - helvetica
 imagery_styles:
   - product
   - professional
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Australian Athletics
 slug: "australian-athletics"
 description: ""
-date: "2026-03-13T08:56:59.043513"
+date: "2026-03-13T09:22:51.918018"
 draft: false
 sectors:
   - sports
@@ -51,25 +51,25 @@ logo_elements:
   - horizontal
   - wordmark
 brand_colors:
-  - white
   - grey
-  - blue
   - yellow
-  - green
   - orange
   - black
+  - blue
+  - green
+  - white
 typographies:
   - montserrat
 imagery_styles:
-  - dynamic
-  - staged
   - portrait
-  - landscape
+  - staged
   - vibrant
+  - dynamic
   - photography
+  - landscape
   - gradient
-  - graphic
   - bold
+  - graphic
 wikidata_description: "database from the Australian athletics association, Athletics Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q115794139"
 has_twitter: false
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

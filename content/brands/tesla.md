@@ -2,11 +2,11 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-03-13T08:56:59.859430"
+date: "2026-03-13T09:22:55.093795"
 draft: false
 sectors:
-  - "renewable-energy"
   - automobile
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - corporate
   - featured
+  - corporate
+  - transport
 industries:
+  - "battery-industry"
   - "automotive-industry"
   - "solar-industry"
-  - "battery-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -40,8 +40,8 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "palo-alto"
   - austin
+  - "palo-alto"
 subsidiaries: []
 foundation_dates:
   - 2003
@@ -63,14 +63,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
-  - primary
   - wordmark
   - symbol
+  - vertical
+  - primary
 brand_colors:
-  - red
   - black
   - gray
+  - red
 typographies: []
 imagery_styles: []
 wikidata_description: "American automotive, energy storage and solar power company"
@@ -80,6 +80,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -110,7 +111,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Austin](/headquarters_locations/austin/) |
+| Headquarters Location | [Austin](/headquarters_locations/austin/); [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Industry | automotive industry, solar industry, battery industry |
 | Founded By | Martin Eberhard, Marc Tarpenning |

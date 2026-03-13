@@ -2,11 +2,11 @@
 title: Clever
 slug: clever
 description: ""
-date: "2026-03-13T08:56:59.109221"
+date: "2026-03-13T09:22:52.196876"
 draft: false
 sectors:
-  - education
   - software
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - software
+  - education
 industries: []
 countries:
   - denmark
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

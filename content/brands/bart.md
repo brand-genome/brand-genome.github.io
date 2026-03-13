@@ -2,11 +2,11 @@
 title: BART
 slug: bart
 description: ""
-date: "2026-03-13T08:56:59.217434"
+date: "2026-03-13T09:22:53.027268"
 draft: false
 sectors:
-  - "public-sector"
   - "public-transportation"
+  - "public-sector"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - vintage
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -61,6 +61,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

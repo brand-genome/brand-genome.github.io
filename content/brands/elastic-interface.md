@@ -2,7 +2,7 @@
 title: Elastic Interface
 slug: "elastic-interface"
 description: ""
-date: "2026-03-13T08:56:59.068454"
+date: "2026-03-13T09:22:52.058431"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - featured
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

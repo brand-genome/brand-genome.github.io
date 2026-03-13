@@ -2,7 +2,7 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-03-13T08:56:59.493313"
+date: "2026-03-13T09:22:53.933464"
 draft: false
 sectors:
   - education
@@ -51,17 +51,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - secondary
+  - lockup
   - wordmark
 brand_colors:
-  - blue
   - "pantone-282"
-  - gold
   - "pantone-7461"
   - "pantone-1925"
-  - "pantone-124"
   - gray
+  - "pantone-124"
+  - blue
+  - gold
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Alameda County, California, United States"
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

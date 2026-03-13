@@ -2,7 +2,7 @@
 title: Future
 slug: future
 description: ""
-date: "2026-03-13T08:56:59.715684"
+date: "2026-03-13T09:22:54.724311"
 draft: false
 sectors:
   - publishing
@@ -51,16 +51,16 @@ logo_elements:
   - secondary
   - lockup
 brand_colors:
-  - white
   - black
   - "pantone-187"
+  - white
 typographies:
   - montserrat
 imagery_styles:
   - dynamic
+  - dramatic
   - contemporary
   - static
-  - dramatic
 wikidata_description: deprecated multimedia platform used to add animation and interactivity to web pages
 wikidata_url: "https://www.wikidata.org/wiki/Q165658"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

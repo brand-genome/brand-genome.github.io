@@ -2,7 +2,7 @@
 title: Action/2015
 slug: action2015
 description: ""
-date: "2026-03-13T08:56:59.460397"
+date: "2026-03-13T09:22:53.701825"
 draft: false
 sectors:
   - ngo
@@ -51,8 +51,8 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
-  - times
   - serif
+  - times
   - slab
 imagery_styles:
   - photography
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Lamar Athletics
 slug: "lamar-athletics"
 description: ""
-date: "2026-03-13T08:56:59.299103"
+date: "2026-03-13T09:22:53.289342"
 draft: false
 sectors:
   - education
@@ -47,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
   - primary
-  - horizontal
+  - monogram
   - secondary
+  - horizontal
 brand_colors:
+  - "pantone-199"
+  - gold
+  - black
   - white
   - red
-  - gold
+  - "pantone-137"
   - green
   - "pantone-374"
-  - black
-  - "pantone-137"
-  - "pantone-199"
 typographies: []
 imagery_styles:
-  - graphic
   - clean
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

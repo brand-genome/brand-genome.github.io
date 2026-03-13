@@ -2,7 +2,7 @@
 title: Università degli Studi di Trieste
 slug: "universita-degli-studi-di-trieste"
 description: ""
-date: "2026-03-13T08:56:59.255918"
+date: "2026-03-13T09:22:53.244556"
 draft: false
 sectors:
   - education
@@ -49,16 +49,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - seal
+  - secondary
   - vertical
 brand_colors:
   - black
   - blue
 typographies:
+  - arial
   - brandon
   - avenir
-  - arial
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

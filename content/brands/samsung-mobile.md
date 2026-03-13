@@ -2,11 +2,11 @@
 title: Samsung Mobile
 slug: "samsung-mobile"
 description: ""
-date: "2026-03-13T08:56:59.257834"
+date: "2026-03-13T09:22:53.246381"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - "south-korea"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - telecommunications
   - electronics
+  - telecommunications
 industries: []
 countries:
   - "south-korea"
@@ -54,13 +54,13 @@ logo_elements:
   - secondary
   - wordmark
 brand_colors:
+  - "pantone-286"
+  - "pantone-2995"
+  - gray
+  - black
+  - blue
   - "pantone-539"
   - white
-  - blue
-  - "pantone-2995"
-  - black
-  - gray
-  - "pantone-286"
 typographies:
   - helvetica
 imagery_styles:
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

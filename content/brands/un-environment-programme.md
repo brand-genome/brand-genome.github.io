@@ -2,7 +2,7 @@
 title: UN Environment Programme
 slug: "un-environment-programme"
 description: ""
-date: "2026-03-13T08:56:59.743171"
+date: "2026-03-13T09:22:54.776961"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,8 @@ languages:
 tags:
   - environment
 industries:
-  - "international-governmental-or-non-governmental-organizations"
   - environment
+  - "international-governmental-or-non-governmental-organizations"
 countries:
   - kenya
 revenue_buckets: []
@@ -54,10 +54,10 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - brown
-  - white
-  - cyan
   - black
+  - cyan
+  - white
+  - brown
 typographies:
   - roboto
 imagery_styles:
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-03-13T08:56:59.467576"
+date: "2026-03-13T09:22:53.711025"
 draft: false
 sectors:
   - utilities
@@ -54,25 +54,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - primary
+  - symbol
   - lockup
   - vertical
-  - symbol
+  - secondary
   - horizontal
 brand_colors:
+  - gray
   - white
   - red
-  - gray
 typographies:
-  - impact
   - arial
+  - impact
 imagery_styles:
+  - flat
   - staged
+  - vibrant
   - dynamic
   - clean
-  - vibrant
-  - flat
   - bold
 wikidata_description: US electricity corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q2304693"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

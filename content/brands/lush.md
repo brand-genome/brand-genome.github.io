@@ -2,7 +2,7 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-03-13T08:56:59.326732"
+date: "2026-03-13T09:22:53.327510"
 draft: false
 sectors:
   - cosmetics
@@ -10,8 +10,8 @@ regions:
   - "united-kingdom"
   - singapore
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - english
 tags:
@@ -50,36 +50,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - symbol
   - primary
   - vertical
-  - symbol
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - grey
-  - blue
   - navy
-  - green
-  - maroon
-  - black
+  - grey
   - orange
+  - black
+  - maroon
+  - blue
+  - green
+  - white
 typographies:
-  - din
-  - display
   - arial
+  - display
+  - din
 imagery_styles:
-  - clean
-  - contemporary
-  - modern
-  - professional
-  - organic
-  - vibrant
-  - product
   - photography
-  - bold
+  - modern
+  - contemporary
+  - organic
   - geometric
+  - vibrant
+  - clean
+  - product
+  - professional
+  - bold
 wikidata_description: band
 wikidata_url: "https://www.wikidata.org/wiki/Q1668512"
 has_twitter: false
@@ -87,6 +87,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

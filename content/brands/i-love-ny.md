@@ -2,7 +2,7 @@
 title: I Love NY
 slug: "i-love-ny"
 description: ""
-date: "2026-03-13T08:56:59.896233"
+date: "2026-03-13T09:22:55.162085"
 draft: false
 sectors:
   - "public-sector"
@@ -50,15 +50,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - vertical
-  - horizontal
   - icon
+  - horizontal
+  - vertical
 brand_colors:
-  - white
-  - red
   - yellow
   - black
   - magenta
+  - red
+  - white
 typographies:
   - impact
 imagery_styles: []
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

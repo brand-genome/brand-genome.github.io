@@ -2,7 +2,7 @@
 title: "Coca-Cola"
 slug: "coca-cola"
 description: ""
-date: "2026-03-13T08:56:59.261435"
+date: "2026-03-13T09:22:53.249543"
 draft: false
 sectors:
   - drink
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - english
 tags:
-  - packaging
-  - "student-work"
-  - "food-beverage"
   - featured
+  - packaging
+  - "food-beverage"
+  - "student-work"
 industries:
   - "beverage-industry"
   - "food-industry"
@@ -39,12 +39,12 @@ total_equity_buckets:
   - "10B-50B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - sprite
   - "non-alcoholic-beverage"
-  - "soft-drink"
   - "alcoholic-beverage"
-  - "fanta-orange"
   - "coca-cola"
+  - "soft-drink"
+  - sprite
+  - "fanta-orange"
   - "diet-coke"
 products: []
 headquarters_locations:
@@ -73,9 +73,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - script
 imagery_styles:
@@ -88,6 +88,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -139,7 +140,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Sprite](/products_or_materials_produced/sprite/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Alcoholic Beverage](/products_or_materials_produced/alcoholic-beverage/); [Fanta Orange](/products_or_materials_produced/fanta-orange/); [Coca Cola](/products_or_materials_produced/coca-cola/); [Diet Coke](/products_or_materials_produced/diet-coke/) |
+| Product Or Material Produced | [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Alcoholic Beverage](/products_or_materials_produced/alcoholic-beverage/); [Coca Cola](/products_or_materials_produced/coca-cola/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Sprite](/products_or_materials_produced/sprite/); [Fanta Orange](/products_or_materials_produced/fanta-orange/); [Diet Coke](/products_or_materials_produced/diet-coke/) |
 | Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
 | Foundation Date | [1892](/foundation_dates/1892/); [1886](/foundation_dates/1886/) |
 | Library Of Congress Authority Id | n80020347 |

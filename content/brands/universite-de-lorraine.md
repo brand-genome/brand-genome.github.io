@@ -2,7 +2,7 @@
 title: Université de Lorraine
 slug: "universite-de-lorraine"
 description: ""
-date: "2026-03-13T08:56:59.882869"
+date: "2026-03-13T09:22:55.150358"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
+  - featured
   - education
   - university
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,16 +52,16 @@ logo_elements:
   - primary
   - signature
 brand_colors:
-  - white
-  - yellow
   - black
   - gray
+  - yellow
+  - white
 typographies:
   - arial
 imagery_styles:
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

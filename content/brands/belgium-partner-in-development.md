@@ -2,7 +2,7 @@
 title: Belgium partner in development
 slug: "belgium-partner-in-development"
 description: ""
-date: "2026-03-13T08:56:59.433893"
+date: "2026-03-13T09:22:53.651285"
 draft: false
 sectors:
   - "public-sector"
@@ -47,8 +47,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

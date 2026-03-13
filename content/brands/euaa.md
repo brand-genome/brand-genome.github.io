@@ -2,7 +2,7 @@
 title: EUAA
 slug: euaa
 description: ""
-date: "2026-03-13T08:56:59.240433"
+date: "2026-03-13T09:22:53.086262"
 draft: false
 sectors:
   - "public-sector"
@@ -50,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - signature
-  - symbol
 brand_colors:
-  - white
-  - yellow
-  - blue
   - black
+  - yellow
+  - white
+  - blue
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - graphic
   - professional
   - bold
+  - graphic
 wikidata_description: agency of the European Union
 wikidata_url: "https://www.wikidata.org/wiki/Q4002697"
 has_twitter: false
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

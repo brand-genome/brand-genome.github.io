@@ -2,7 +2,7 @@
 title: Channel 4
 slug: "channel-4"
 description: ""
-date: "2026-03-13T08:56:59.096289"
+date: "2026-03-13T09:22:52.134530"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - media
+  - broadcast
 industries:
   - television
 countries:
@@ -54,12 +54,12 @@ logo_elements:
   - primary
   - signature
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - bold
   - monochrome
+  - bold
 wikidata_description: "British public-service television broadcaster; TV channel"
 wikidata_url: "https://www.wikidata.org/wiki/Q501070"
 has_twitter: false
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

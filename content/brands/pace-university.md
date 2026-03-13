@@ -2,7 +2,7 @@
 title: Pace University
 slug: "pace-university"
 description: ""
-date: "2026-03-13T08:56:59.436902"
+date: "2026-03-13T09:22:53.655044"
 draft: false
 sectors:
   - university
@@ -58,14 +58,14 @@ logo_elements:
 brand_colors:
   - black
 typographies:
-  - verdana
   - serif
   - georgia
+  - verdana
 imagery_styles:
-  - photography
-  - dynamic
-  - dramatic
   - bold
+  - dynamic
+  - photography
+  - dramatic
 wikidata_description: private university in the New York metropolitan area
 wikidata_url: "https://www.wikidata.org/wiki/Q556098"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

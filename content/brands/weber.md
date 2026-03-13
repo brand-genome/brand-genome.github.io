@@ -2,7 +2,7 @@
 title: Weber
 slug: weber
 description: ""
-date: "2026-03-13T08:56:59.396933"
+date: "2026-03-13T09:22:53.493984"
 draft: false
 sectors:
   - construction
@@ -46,18 +46,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
-  - primary
   - favicon
+  - primary
   - symbol
+  - vertical
 brand_colors:
-  - white
-  - grey
-  - blue
-  - yellow
   - purple
-  - green
+  - grey
+  - yellow
   - orange
+  - blue
+  - green
+  - white
 typographies:
   - display
 imagery_styles:
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

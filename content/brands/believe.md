@@ -2,7 +2,7 @@
 title: Believe
 slug: believe
 description: ""
-date: "2026-03-13T08:56:59.069400"
+date: "2026-03-13T09:22:52.059526"
 draft: false
 sectors:
   - entertainment
@@ -28,10 +28,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "music-publishing"
-  - "digital-distribution"
   - marketing
+  - "music-publishing"
   - "rights-management"
+  - "digital-distribution"
 products: []
 headquarters_locations:
   - paris
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -90,7 +91,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Music Publishing](/products_or_materials_produced/music-publishing/); [Digital Distribution](/products_or_materials_produced/digital-distribution/); [Marketing](/products_or_materials_produced/marketing/); [Rights Management](/products_or_materials_produced/rights-management/) |
+| Product Or Material Produced | [Marketing](/products_or_materials_produced/marketing/); [Music Publishing](/products_or_materials_produced/music-publishing/); [Rights Management](/products_or_materials_produced/rights-management/); [Digital Distribution](/products_or_materials_produced/digital-distribution/) |
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Musicbrainz Label Id | 3fc17205-3a0e-4a2c-8f00-cdfb899427e3, b13d3ac5-dbb5-4ea7-9f4a-2eedc601c671 |

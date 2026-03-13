@@ -2,11 +2,11 @@
 title: F’INE Pasifika Aotearoa Trust
 slug: "fine-pasifika-aotearoa-trust"
 description: ""
-date: "2026-03-13T08:56:59.277989"
+date: "2026-03-13T09:22:53.260915"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - "new-zealand"
 years:
@@ -48,33 +48,33 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - secondary
   - monogram
-  - primary
   - crest
+  - primary
+  - secondary
   - badge
 brand_colors:
-  - white
-  - purple
-  - green
   - cyan
+  - purple
+  - gray
   - orange
   - black
-  - gray
+  - green
+  - white
 typographies:
-  - avenir
   - serif
   - "sans-serif"
+  - avenir
 imagery_styles:
-  - dynamic
-  - staged
-  - clean
   - modern
-  - professional
-  - monochrome
-  - photography
-  - bold
   - geometric
+  - monochrome
+  - staged
+  - photography
+  - dynamic
+  - clean
+  - professional
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

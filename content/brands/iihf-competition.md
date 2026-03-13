@@ -2,7 +2,7 @@
 title: IIHF Competition
 slug: "iihf-competition"
 description: ""
-date: "2026-03-13T08:56:59.441858"
+date: "2026-03-13T09:22:53.664426"
 draft: false
 sectors:
   - sports
@@ -46,12 +46,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - vertical
-  - horizontal
   - symbol
+  - horizontal
+  - vertical
 brand_colors:
-  - grey
   - black
+  - grey
 typographies: []
 imagery_styles:
   - graphic
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: US. Civil Rights Trail
 slug: "us-civil-rights-trail"
 description: ""
-date: "2026-03-13T08:56:59.481204"
+date: "2026-03-13T09:22:53.757874"
 draft: false
 sectors:
-  - tourism
   - "arts-culture"
+  - tourism
 regions:
   - usa
 years:
@@ -52,11 +52,11 @@ logo_elements:
   - vertical
 brand_colors: []
 typographies:
-  - gotham
   - bodoni
+  - gotham
   - montserrat
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
   - photography
   - modern
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

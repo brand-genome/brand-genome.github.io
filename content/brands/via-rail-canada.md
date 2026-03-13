@@ -2,7 +2,7 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-03-13T08:56:59.095388"
+date: "2026-03-13T09:22:52.133926"
 draft: false
 sectors:
   - railroad
@@ -16,11 +16,11 @@ languages:
   - english
 tags:
   - ambigram
-  - transport
   - featured
+  - transport
 industries:
-  - "passenger-rail-transport"
   - "rail-transport"
+  - "passenger-rail-transport"
 countries:
   - canada
 revenue_buckets:
@@ -58,27 +58,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - vertical
-  - symbol
-  - horizontal
   - signature
+  - horizontal
 brand_colors:
-  - white
-  - red
   - grey
-  - blue
   - yellow
-  - "pantone-032"
   - black
   - "pantone-123"
+  - "pantone-032"
+  - blue
+  - red
+  - white
 typographies:
   - arial
 imagery_styles:
+  - monochrome
   - photography
   - modern
   - clean
-  - monochrome
 wikidata_description: "national inter-city passenger rail operator in Canada owned by the Canadian government"
 wikidata_url: "https://www.wikidata.org/wiki/Q876720"
 has_twitter: false
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

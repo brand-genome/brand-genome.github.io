@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-03-13T08:56:59.522476"
+date: "2026-03-13T09:22:54.052724"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-sector"
   - "economics-of-banking"
   - "financial-services"
+  - "financial-sector"
 countries:
   - spain
 revenue_buckets:
@@ -34,8 +34,8 @@ products_or_materials_produced:
   - "financial-services"
 products: []
 headquarters_locations:
-  - sabadell
   - alicante
+  - sabadell
 subsidiaries: []
 foundation_dates:
   - 1881
@@ -57,18 +57,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - alternate
-  - vertical
   - symbol
+  - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
   - white
 typographies:
-  - "source-sans"
   - arial
+  - "source-sans"
 imagery_styles:
   - dynamic
   - bold
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -128,7 +129,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/) |
-| Headquarters Location | [Sabadell](/headquarters_locations/sabadell/); [Alicante](/headquarters_locations/alicante/) |
+| Headquarters Location | [Alicante](/headquarters_locations/alicante/); [Sabadell](/headquarters_locations/sabadell/) |
 | Foundation Date | [1881](/foundation_dates/1881/) |
 | Topic'S Main Category | Category:Banco Sabadell |
 | Freebase Id | /m/032l4w |

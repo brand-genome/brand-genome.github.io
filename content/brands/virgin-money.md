@@ -2,11 +2,11 @@
 title: Virgin Money
 slug: "virgin-money"
 description: ""
-date: "2026-03-13T08:56:59.497746"
+date: "2026-03-13T09:22:53.935756"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -51,13 +51,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - horizontal
+  - stacked
   - vertical
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies: []
 imagery_styles:
   - photography
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Kansas State University
 slug: "kansas-state-university"
 description: ""
-date: "2026-03-13T08:56:59.910111"
+date: "2026-03-13T09:22:55.167875"
 draft: false
 sectors:
   - education
@@ -51,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - alternate
   - wordmark
+  - alternate
+  - primary
+  - secondary
   - seal
 brand_colors:
-  - "pantone-7528"
-  - white
   - "pantone-268"
   - purple
-  - black
   - gray
+  - black
+  - "pantone-7528"
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - clean
-  - bold
   - contemporary
+  - bold
+  - graphic
 wikidata_description: public university in the state of Kansas
 wikidata_url: "https://www.wikidata.org/wiki/Q31249"
 has_twitter: false
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

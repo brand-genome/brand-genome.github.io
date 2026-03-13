@@ -2,7 +2,7 @@
 title: Federazione Italiana Rugby
 slug: "federazione-italiana-rugby"
 description: ""
-date: "2026-03-13T08:56:59.411254"
+date: "2026-03-13T09:22:53.537006"
 draft: false
 sectors:
   - sports
@@ -52,12 +52,12 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - "pantone-873"
-  - white
   - "pantone-341"
   - "pantone-186"
-  - "pantone-871"
   - "pantone-7621"
+  - "pantone-871"
+  - white
+  - "pantone-873"
 typographies:
   - din
 imagery_styles:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

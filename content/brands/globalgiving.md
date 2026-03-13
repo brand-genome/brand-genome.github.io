@@ -2,7 +2,7 @@
 title: GlobalGiving
 slug: globalgiving
 description: ""
-date: "2026-03-13T08:56:59.354394"
+date: "2026-03-13T09:22:53.399871"
 draft: false
 sectors:
   - ngo
@@ -52,21 +52,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - vertical
-  - stacked
-  - horizontal
   - wordmark
+  - primary
+  - stacked
+  - vertical
+  - secondary
+  - horizontal
 brand_colors:
+  - gray
+  - orange
   - red
   - blue
   - green
-  - orange
-  - gray
 typographies:
-  - "open-sans"
   - serif
+  - "open-sans"
   - "sans-serif"
 imagery_styles:
   - photography
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

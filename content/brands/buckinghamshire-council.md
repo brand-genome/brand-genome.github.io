@@ -2,7 +2,7 @@
 title: Buckinghamshire Council
 slug: "buckinghamshire-council"
 description: ""
-date: "2026-03-13T08:56:59.465489"
+date: "2026-03-13T09:22:53.708495"
 draft: false
 sectors:
   - "public-sector"
@@ -51,12 +51,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - blue
-  - green
+  - indigo
   - orange
   - teal
-  - indigo
+  - blue
+  - green
+  - white
 typographies: []
 imagery_styles:
   - professional
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

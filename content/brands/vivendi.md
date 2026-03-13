@@ -2,7 +2,7 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-03-13T08:56:59.881003"
+date: "2026-03-13T09:22:55.148559"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -38,8 +38,8 @@ headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates:
-  - 1981
   - 1987
+  - 1981
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +60,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - violet
-  - white
-  - "pantone-249"
   - black
+  - "pantone-249"
+  - white
+  - violet
 typographies:
   - univers
 imagery_styles:
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -127,7 +128,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
-| Foundation Date | [1981](/foundation_dates/1981/); [1987](/foundation_dates/1987/) |
+| Foundation Date | [1987](/foundation_dates/1987/); [1981](/foundation_dates/1981/) |
 | Topic'S Main Category | Category:Vivendi |
 | Freebase Id | /m/049ql1 |
 | Headquarters Location | Paris |

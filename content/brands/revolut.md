@@ -2,7 +2,7 @@
 title: Revolut
 slug: revolut
 description: ""
-date: "2026-03-13T08:56:59.128753"
+date: "2026-03-13T09:22:52.238554"
 draft: false
 sectors:
   - finance
@@ -26,11 +26,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "debit-card"
   - insurance
-  - "bureau-de-change"
-  - "foreign-exchange-market"
   - "transactional-account"
+  - "foreign-exchange-market"
+  - "bureau-de-change"
+  - "debit-card"
 products: []
 headquarters_locations:
   - london
@@ -58,26 +58,26 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-293"
-  - red
-  - "pantone-1495"
-  - blue
-  - pink
-  - "pantone-310"
-  - "pantone-699"
-  - "pantone-382"
-  - green
   - "pantone-7604"
-  - black
+  - "pantone-310"
   - orange
+  - "pantone-382"
+  - black
+  - "pantone-1495"
+  - green
+  - pink
+  - "pantone-293"
+  - blue
+  - red
+  - "pantone-699"
 typographies:
   - serif
   - impact
 imagery_styles:
   - photography
   - natural
-  - graphic
   - bold
+  - graphic
 wikidata_description: financial technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q22908307"
 has_twitter: false
@@ -85,6 +85,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -139,7 +140,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Debit Card](/products_or_materials_produced/debit-card/); [Insurance](/products_or_materials_produced/insurance/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Transactional Account](/products_or_materials_produced/transactional-account/) |
+| Product Or Material Produced | [Insurance](/products_or_materials_produced/insurance/); [Transactional Account](/products_or_materials_produced/transactional-account/); [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Debit Card](/products_or_materials_produced/debit-card/) |
 | Headquarters Location | [London](/headquarters_locations/london/) |
 | Foundation Date | [2015](/foundation_dates/2015/) |
 | Motto Text | Simply Revolutionary, Change the way you money. |

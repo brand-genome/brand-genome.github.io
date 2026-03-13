@@ -2,20 +2,20 @@
 title: Olympic
 slug: olympic
 description: ""
-date: "2026-03-13T08:56:59.155632"
+date: "2026-03-13T09:22:52.330962"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2023
   - 2022
+  - 2023
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries:
   - "sports-club-activities"
 countries:
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - marseille
   - "centre-dentrainement-robert-louis-dreyfus"
+  - marseille
 subsidiaries: []
 foundation_dates:
   - 1899
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -86,7 +87,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Marseille](/headquarters_locations/marseille/); [Centre Dentrainement Robert Louis Dreyfus](/headquarters_locations/centre-dentrainement-robert-louis-dreyfus/) |
+| Headquarters Location | [Centre Dentrainement Robert Louis Dreyfus](/headquarters_locations/centre-dentrainement-robert-louis-dreyfus/); [Marseille](/headquarters_locations/marseille/) |
 | Foundation Date | [1899](/foundation_dates/1899/) |
 | League Or Competition | Ligue 1 (from 1996) |
 | Home Venue | Stade Vélodrome |

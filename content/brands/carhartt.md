@@ -2,7 +2,7 @@
 title: Carhartt
 slug: carhartt
 description: ""
-date: "2026-03-13T08:56:59.542267"
+date: "2026-03-13T09:22:54.217085"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - textile
   - clothing
+  - textile
 products: []
 headquarters_locations:
   - dearborn
@@ -54,28 +54,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
   - primary
   - symbol
-  - wordmark
-  - horizontal
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - brown
-  - white
-  - "pantone-5395"
+  - "pantone-153"
   - "pantone-5405"
+  - "pantone-1655"
+  - black
   - "pantone-381"
   - "pantone-7511"
-  - "pantone-153"
-  - black
-  - "pantone-1655"
+  - white
+  - "pantone-5395"
+  - brown
 typographies:
   - helvetica
   - impact
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: American brand of sturdy work clothing
 wikidata_url: "https://www.wikidata.org/wiki/Q527877"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -138,7 +139,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Textile](/products_or_materials_produced/textile/); [Clothing](/products_or_materials_produced/clothing/) |
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Textile](/products_or_materials_produced/textile/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1889](/foundation_dates/1889/) |
 | Freebase Id | /m/08vntw |

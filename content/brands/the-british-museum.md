@@ -2,7 +2,7 @@
 title: The British Museum
 slug: "the-british-museum"
 description: ""
-date: "2026-03-13T08:56:59.896568"
+date: "2026-03-13T09:22:55.162384"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - art
   - cultural
   - museum
+  - art
 industries: []
 countries:
   - "united-kingdom"
@@ -53,12 +53,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - black
+  - white
 typographies:
   - serif
-  - akzidenz
   - "sans-serif"
+  - akzidenz
 imagery_styles: []
 wikidata_description: "national museum in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q6373"
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

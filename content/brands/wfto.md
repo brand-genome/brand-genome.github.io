@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-03-13T08:56:59.397100"
+date: "2026-03-13T09:22:53.494293"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - trademark
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,13 +50,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - red
   - crimson
+  - red
 typographies:
   - akzidenz
 imagery_styles:
-  - photography
   - duotone
+  - photography
 wikidata_description: "global association of fair trade producer cooperatives, exporters, importers, retailers, national and regional fair trade networks and Fair Trade Support Organizations"
 wikidata_url: "https://www.wikidata.org/wiki/Q1711776"
 has_twitter: false
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

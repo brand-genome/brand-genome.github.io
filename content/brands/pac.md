@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-03-13T08:56:59.814839"
+date: "2026-03-13T09:22:54.977565"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -47,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
 brand_colors:
-  - white
-  - grey
   - black
+  - grey
+  - white
 typographies:
-  - din
-  - gotham
   - display
+  - gotham
+  - din
 imagery_styles:
-  - clean
   - modern
-  - professional
   - minimal
+  - clean
+  - professional
   - graphic
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q746111"
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

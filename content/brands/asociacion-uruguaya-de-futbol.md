@@ -2,7 +2,7 @@
 title: Asociación Uruguaya de Fútbol
 slug: "asociacion-uruguaya-de-futbol"
 description: ""
-date: "2026-03-13T08:56:59.572170"
+date: "2026-03-13T09:22:54.345694"
 draft: false
 sectors:
   - sports
@@ -50,16 +50,16 @@ logo_elements:
   - horizontal
   - vertical
 brand_colors:
-  - "pantone-7528"
-  - white
   - "pantone-298"
-  - "pantone-559"
-  - "pantone-1797"
-  - "pantone-432"
-  - black
   - "pantone-110"
+  - "pantone-1797"
+  - "pantone-559"
+  - black
+  - "pantone-432"
+  - "pantone-7528"
   - "pantone-4525"
   - "pantone-441"
+  - white
 typographies:
   - "open-sans"
 imagery_styles:
@@ -71,6 +71,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

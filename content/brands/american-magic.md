@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-03-13T08:56:59.452885"
+date: "2026-03-13T09:22:53.692321"
 draft: false
 sectors:
   - sports
@@ -48,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - lockup
-  - vertical
-  - horizontal
   - wordmark
+  - primary
+  - vertical
+  - lockup
+  - secondary
+  - horizontal
 brand_colors:
-  - "pantone-193"
-  - red
-  - white
-  - blue
-  - "pantone-282"
   - "pantone-464"
-  - gold
-  - black
+  - "pantone-282"
+  - "pantone-193"
   - gray
+  - black
+  - red
+  - blue
   - "pantone-420"
+  - gold
+  - white
 typographies:
   - helvetica
 imagery_styles:
@@ -77,6 +77,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

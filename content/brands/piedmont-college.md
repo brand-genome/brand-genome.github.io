@@ -2,7 +2,7 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-03-13T08:56:59.338019"
+date: "2026-03-13T09:22:53.342167"
 draft: false
 sectors:
   - education
@@ -52,22 +52,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - primary
-  - secondary
   - seal
+  - secondary
+  - wordmark
 brand_colors:
-  - white
-  - gold
-  - "pantone-4515"
-  - green
-  - black
-  - gray
   - "pantone-3435"
+  - "pantone-4515"
+  - gray
+  - black
+  - green
+  - gold
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: private college in the U.S. state of Georgia
 wikidata_url: "https://www.wikidata.org/wiki/Q7191499"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

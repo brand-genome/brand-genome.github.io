@@ -2,7 +2,7 @@
 title: Institut Polytechnique de Paris
 slug: "institut-polytechnique-de-paris"
 description: ""
-date: "2026-03-13T08:56:59.049268"
+date: "2026-03-13T09:22:51.922078"
 draft: false
 sectors:
   - education
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
+  - featured
   - education
   - university
-  - featured
 industries:
   - "higher-education"
 countries:
@@ -62,6 +62,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

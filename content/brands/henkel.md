@@ -2,11 +2,11 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-03-13T08:56:59.252836"
+date: "2026-03-13T09:22:53.242971"
 draft: false
 sectors:
-  - "consumer-goods"
   - chemicals
+  - "consumer-goods"
 regions:
   - germany
 years:
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - laundry
 products: []
 headquarters_locations:
-  - aachen
   - dusseldorf
+  - aachen
 subsidiaries: []
 foundation_dates:
   - 1876
@@ -56,8 +56,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - favicon
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -112,7 +113,7 @@ sample_image_urls: []
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
-| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Aachen](/headquarters_locations/aachen/) |
 | Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |

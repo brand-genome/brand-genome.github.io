@@ -2,7 +2,7 @@
 title: FSSA
 slug: fssa
 description: ""
-date: "2026-03-13T08:56:59.711772"
+date: "2026-03-13T09:22:54.717621"
 draft: false
 sectors:
   - "public-sector"
@@ -47,26 +47,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - primary
+  - alternate
   - secondary
   - signature
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - green
-  - black
   - gray
+  - yellow
+  - black
+  - blue
+  - green
+  - white
 typographies:
+  - arial
   - times
   - trebuchet
-  - arial
 imagery_styles:
   - photography
+  - professional
   - graphic
   - clean
-  - professional
 wikidata_description: "government organization in Indianapolis, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q30253461"
 has_twitter: false
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: "Oh-Tech"
 slug: "oh-tech"
 description: ""
-date: "2026-03-13T08:56:59.570127"
+date: "2026-03-13T09:22:54.343682"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
   - networking
 regions:
   - usa
@@ -54,16 +54,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-186"
   - "pantone-195"
-  - white
+  - gray
+  - orange
+  - black
+  - "pantone-284"
   - red
   - blue
-  - "pantone-284"
-  - "pantone-186"
-  - black
-  - orange
-  - gray
   - "pantone-137"
+  - white
 typographies:
   - garamond
   - univers
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

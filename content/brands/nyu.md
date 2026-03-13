@@ -2,7 +2,7 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-03-13T08:56:59.419236"
+date: "2026-03-13T09:22:53.601318"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2014
   - 2010
+  - 2014
 languages:
   - english
 tags:
@@ -56,20 +56,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - logomark
+  - primary
   - seal
   - secondary
 brand_colors:
+  - black
   - purple
   - white
-  - black
 typographies: []
 imagery_styles:
   - natural
+  - candid
   - clean
   - photography
-  - candid
   - graphic
 wikidata_description: private university in New York City
 wikidata_url: "https://www.wikidata.org/wiki/Q49210"
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

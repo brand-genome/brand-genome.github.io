@@ -2,12 +2,12 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-03-13T08:56:59.841665"
+date: "2026-03-13T09:22:55.047194"
 draft: false
 sectors:
-  - watches
   - "consumer-goods"
   - hardware
+  - watches
 regions:
   - switzerland
 years:
@@ -30,9 +30,9 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - baggage
+  - watch
   - cutlery
   - "swiss-army-knife"
-  - watch
 products: []
 headquarters_locations:
   - ibach
@@ -60,12 +60,12 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - white
-  - red
-  - silver
-  - "pantone-877"
-  - black
   - "pantone-201"
+  - "pantone-877"
+  - silver
+  - black
+  - red
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -128,7 +129,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Baggage](/products_or_materials_produced/baggage/); [Cutlery](/products_or_materials_produced/cutlery/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Watch](/products_or_materials_produced/watch/) |
+| Product Or Material Produced | [Baggage](/products_or_materials_produced/baggage/); [Watch](/products_or_materials_produced/watch/); [Cutlery](/products_or_materials_produced/cutlery/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/) |
 | Headquarters Location | [Ibach](/headquarters_locations/ibach/) |
 | Foundation Date | [1884](/foundation_dates/1884/) |
 | Headquarters Location | Ibach |

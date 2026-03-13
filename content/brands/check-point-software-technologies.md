@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-03-13T08:56:59.365027"
+date: "2026-03-13T09:22:53.430611"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - israel
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries:
   - "computer-security-software"
 countries:
@@ -55,24 +55,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
   - alternate
   - primary
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
-  - pink
   - gray
+  - white
+  - pink
 typographies:
-  - din
   - display
   - arial
+  - din
 imagery_styles:
-  - dynamic
   - contemporary
-  - professional
+  - dynamic
   - photography
+  - professional
   - bold
 wikidata_description: Israeli security company
 wikidata_url: "https://www.wikidata.org/wiki/Q176587"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

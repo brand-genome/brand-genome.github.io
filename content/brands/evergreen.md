@@ -2,11 +2,11 @@
 title: Evergreen
 slug: evergreen
 description: ""
-date: "2026-03-13T08:56:59.150125"
+date: "2026-03-13T09:22:52.323540"
 draft: false
 sectors:
-  - ngo
   - "renewable-energy"
+  - ngo
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - featured
+  - ngo
 industries: []
 countries:
   - "united-states"
@@ -54,18 +54,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - green
   - black
+  - green
+  - white
 typographies:
-  - avenir
-  - georgia
   - arial
+  - georgia
+  - avenir
 imagery_styles:
   - photography
   - natural
-  - graphic
   - bold
+  - graphic
 wikidata_description: public liberal arts college in Washington State
 wikidata_url: "https://www.wikidata.org/wiki/Q941731"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

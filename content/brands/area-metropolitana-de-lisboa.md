@@ -2,7 +2,7 @@
 title: Area Metropolitana de Lisboa
 slug: "area-metropolitana-de-lisboa"
 description: ""
-date: "2026-03-13T08:56:59.328742"
+date: "2026-03-13T09:22:53.329825"
 draft: false
 sectors:
   - "public-sector"
@@ -50,13 +50,13 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
-  - yellow
   - black
+  - yellow
+  - white
 typographies:
+  - arial
   - helvetica
   - georgia
-  - arial
 imagery_styles:
   - bold
 wikidata_description: intermunicipal community of Portugal
@@ -66,6 +66,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

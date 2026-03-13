@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-03-13T08:56:59.067629"
+date: "2026-03-13T09:22:52.057710"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
+  - software
   - technology
   - security
-  - software
 industries:
-  - "software-industry"
   - "computer-storage-media"
-  - "computer-security"
+  - "software-industry"
   - "computer-hardware-industry"
+  - "computer-security"
 countries:
   - "united-states"
 revenue_buckets:
@@ -34,11 +34,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "zero-trust-architecture"
   - "data-security"
-  - "data-security-and-protection"
-  - "remote-backup-service"
+  - "zero-trust-architecture"
   - "computer-security"
+  - "remote-backup-service"
+  - "data-security-and-protection"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -92,7 +93,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security](/products_or_materials_produced/data-security/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Computer Security](/products_or_materials_produced/computer-security/) |
+| Product Or Material Produced | [Data Security](/products_or_materials_produced/data-security/); [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Computer Security](/products_or_materials_produced/computer-security/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/) |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-12 |

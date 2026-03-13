@@ -2,7 +2,7 @@
 title: Mohawk College
 slug: "mohawk-college"
 description: ""
-date: "2026-03-13T08:56:59.830472"
+date: "2026-03-13T09:22:55.031978"
 draft: false
 sectors:
   - education
@@ -52,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - alternate
   - symbol
   - stacked
-  - wordmark
 brand_colors:
-  - white
-  - red
   - grey
+  - crimson
   - orange
   - black
-  - crimson
+  - red
+  - white
 typographies:
   - frutiger
   - avenir
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,11 +2,11 @@
 title: Lion
 slug: lion
 description: ""
-date: "2026-03-13T08:56:59.460215"
+date: "2026-03-13T09:22:53.701354"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - australia
 years:
@@ -57,6 +57,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

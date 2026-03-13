@@ -2,11 +2,11 @@
 title: Bowling Green State University
 slug: "bowling-green-state-university"
 description: ""
-date: "2026-03-13T08:56:59.287570"
+date: "2026-03-13T09:22:53.272346"
 draft: false
 sectors:
-  - education
   - research
+  - education
   - university
 regions:
   - usa
@@ -53,25 +53,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
 brand_colors:
-  - brown
-  - white
-  - gold
   - orange
-  - coral
   - teal
+  - coral
+  - gold
+  - white
+  - brown
 typographies:
-  - arial
-  - helvetica
   - univers
-  - serif
+  - helvetica
   - "sans-serif"
+  - serif
+  - arial
 imagery_styles:
   - natural
-  - photography
   - candid
+  - photography
   - gradient
   - graphic
 wikidata_description: "public university in Bowling Green, Ohio, United States"
@@ -81,6 +81,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

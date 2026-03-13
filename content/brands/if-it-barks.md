@@ -2,11 +2,11 @@
 title: if it barks
 slug: "if-it-barks"
 description: ""
-date: "2026-03-13T08:56:59.333308"
+date: "2026-03-13T09:22:53.335841"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - "consumer-goods"
+  - "veterinary-pet-care"
 regions:
   - usa
 years:
@@ -48,28 +48,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - alternate
-  - wordmark
+  - secondary
 brand_colors:
-  - "pantone-5415"
-  - white
-  - grey
-  - blue
-  - "pantone-2965"
-  - "pantone-296"
-  - black
   - "pantone-7645"
+  - grey
+  - "pantone-5415"
+  - "pantone-2965"
+  - black
+  - "pantone-296"
+  - blue
+  - white
 typographies:
-  - times
   - serif
+  - times
 imagery_styles:
-  - natural
   - modern
+  - natural
   - playful
-  - photography
   - minimal
+  - photography
   - bold
 wikidata_description: ""
 wikidata_url: ""
@@ -78,6 +78,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

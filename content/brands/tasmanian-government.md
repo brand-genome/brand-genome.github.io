@@ -2,15 +2,15 @@
 title: Tasmanian Government
 slug: "tasmanian-government"
 description: ""
-date: "2026-03-13T08:56:59.606020"
+date: "2026-03-13T09:22:54.569106"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - australia
 years:
-  - 2011
   - 2015
+  - 2011
 languages:
   - english
 tags:
@@ -48,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - alternate
+  - primary
   - vertical
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - black
+  - white
   - blue
 typographies:
   - "gill-sans"
 imagery_styles:
-  - graphic
-  - bold
   - landscape
+  - bold
+  - graphic
 wikidata_description: "state government of Tasmania, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3112571"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

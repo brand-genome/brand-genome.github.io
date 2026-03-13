@@ -2,7 +2,7 @@
 title: Swimming Canada
 slug: "swimming-canada"
 description: ""
-date: "2026-03-13T08:56:59.239512"
+date: "2026-03-13T09:22:53.085369"
 draft: false
 sectors:
   - sports
@@ -48,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - primary
+  - emblem
   - wordmark
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
-  - helvetica
   - display
+  - helvetica
   - arial
 imagery_styles:
+  - candid
   - staged
   - clean
   - photography
-  - candid
-  - graphic
   - bold
+  - graphic
 wikidata_description: national governing body for competitive swimming in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q29561312"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

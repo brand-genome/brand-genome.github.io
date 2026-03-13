@@ -2,7 +2,7 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-03-13T08:56:59.363458"
+date: "2026-03-13T09:22:53.428503"
 draft: false
 sectors:
   - research
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - featured
   - biology
   - health
-  - featured
 industries: []
 countries:
   - "united-states"
@@ -53,16 +53,16 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - grey
   - purple
   - white
   - silver
-  - grey
 typographies:
-  - times
   - display
+  - times
 imagery_styles:
-  - natural
   - product
+  - natural
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q7163465"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

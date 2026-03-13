@@ -2,11 +2,11 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-03-13T08:56:59.860557"
+date: "2026-03-13T09:22:55.094981"
 draft: false
 sectors:
-  - "public-sector"
   - "space-technology"
+  - "public-sector"
 regions:
   - france
 years:
@@ -56,8 +56,8 @@ logo_elements:
 brand_colors:
   - "pantone-294"
 typographies:
-  - univers
   - arial
+  - univers
 imagery_styles:
   - bold
 wikidata_description: French space agency
@@ -67,6 +67,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

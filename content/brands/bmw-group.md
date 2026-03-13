@@ -2,7 +2,7 @@
 title: BMW Group
 slug: "bmw-group"
 description: ""
-date: "2026-03-13T08:56:59.372277"
+date: "2026-03-13T09:22:53.438009"
 draft: false
 sectors:
   - finance
@@ -17,9 +17,9 @@ tags:
   - transport
   - sport
 industries:
-  - "automotive-industry"
-  - "manufacture-of-motor-vehicles"
   - "activities-of-holding-companies"
+  - "manufacture-of-motor-vehicles"
+  - "automotive-industry"
   - "aeronautical-engineering"
 countries:
   - germany
@@ -37,9 +37,9 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - "electric-car"
   - car
   - motorcycle
+  - "electric-car"
 products: []
 headquarters_locations:
   - munich
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -115,7 +116,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Electric Car](/products_or_materials_produced/electric-car/); [Car](/products_or_materials_produced/car/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Electric Car](/products_or_materials_produced/electric-car/) |
 | Headquarters Location | [Munich](/headquarters_locations/munich/) |
 | Foundation Date | [1916](/foundation_dates/1916/) |
 | Headquarters Location | Munich |

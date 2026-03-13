@@ -2,7 +2,7 @@
 title: Kia
 slug: kia
 description: ""
-date: "2026-03-13T08:56:59.291207"
+date: "2026-03-13T09:22:53.276573"
 draft: false
 sectors:
   - automobile
@@ -54,14 +54,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - signature
   - vertical
+  - signature
 brand_colors:
   - gray
 typographies: []
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: South Korean automobile manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q35349"
 has_twitter: false
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

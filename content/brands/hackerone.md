@@ -2,11 +2,11 @@
 title: HackerOne
 slug: hackerone
 description: ""
-date: "2026-03-13T08:56:59.551487"
+date: "2026-03-13T09:22:54.228031"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -59,8 +59,8 @@ brand_colors:
   - pink
 typographies: []
 imagery_styles:
-  - photography
   - dynamic
+  - photography
   - modern
 wikidata_description: cybersecurity company
 wikidata_url: "https://www.wikidata.org/wiki/Q22022648"
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

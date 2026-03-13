@@ -2,11 +2,11 @@
 title: NAHB
 slug: nahb
 description: ""
-date: "2026-03-13T08:56:59.581646"
+date: "2026-03-13T09:22:54.411650"
 draft: false
 sectors:
-  - "real-estate"
   - construction
+  - "real-estate"
 regions:
   - usa
 years:
@@ -50,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - alternate
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -63,6 +63,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

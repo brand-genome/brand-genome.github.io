@@ -2,11 +2,11 @@
 title: ACTVET
 slug: actvet
 description: ""
-date: "2026-03-13T08:56:59.372992"
+date: "2026-03-13T09:22:53.439080"
 draft: false
 sectors:
-  - "public-sector"
   - education
+  - "public-sector"
 regions:
   - "abu-dhabi"
 years:
@@ -47,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies: []
 imagery_styles:
   - vibrant
-  - graphic
   - monochrome
+  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

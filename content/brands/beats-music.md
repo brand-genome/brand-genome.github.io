@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-03-13T08:56:59.525955"
+date: "2026-03-13T09:22:54.079867"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - featured
+  - music
 industries: []
 countries:
   - "united-states"
@@ -50,12 +50,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - logomark
-  - secondary
-  - alternate
-  - primary
+  - icon
   - wordmark
+  - primary
+  - alternate
+  - secondary
 brand_colors:
   - black
 typographies: []
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Brand Guidelines
 

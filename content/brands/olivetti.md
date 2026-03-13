@@ -2,11 +2,11 @@
 title: Olivetti
 slug: olivetti
 description: ""
-date: "2026-03-13T08:56:59.188638"
+date: "2026-03-13T09:22:52.871762"
 draft: false
 sectors:
-  - software
   - electronics
+  - software
 regions:
   - italy
 years:
@@ -17,8 +17,8 @@ languages:
   - italian
 tags:
   - vintage
-  - corporate
   - featured
+  - corporate
 industries:
   - "information-technology-industry"
 countries:
@@ -31,9 +31,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - typewriter
   - "information-technology"
   - "computer-hardware"
-  - typewriter
 products: []
 headquarters_locations:
   - ivrea
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -95,7 +96,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Information Technology](/products_or_materials_produced/information-technology/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Typewriter](/products_or_materials_produced/typewriter/) |
+| Product Or Material Produced | [Typewriter](/products_or_materials_produced/typewriter/); [Information Technology](/products_or_materials_produced/information-technology/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
 | Headquarters Location | [Ivrea](/headquarters_locations/ivrea/) |
 | Foundation Date | [1908](/foundation_dates/1908/) |
 | Founded By | Camillo Olivetti |

@@ -2,7 +2,7 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-03-13T08:56:59.274855"
+date: "2026-03-13T09:22:53.258378"
 draft: false
 sectors:
   - ngo
@@ -53,27 +53,27 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
-  - primary
-  - vertical
-  - stacked
-  - horizontal
   - wordmark
+  - primary
+  - stacked
+  - vertical
+  - secondary
+  - horizontal
 brand_colors:
-  - white
-  - blue
-  - yellow
-  - coral
-  - black
   - gray
+  - yellow
+  - black
   - teal
+  - blue
+  - coral
+  - white
 typographies:
   - montserrat
   - impact
 imagery_styles:
   - vibrant
-  - natural
   - product
+  - natural
   - bold
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q2024075"
@@ -82,6 +82,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

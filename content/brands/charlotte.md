@@ -2,7 +2,7 @@
 title: Charlotte
 slug: charlotte
 description: ""
-date: "2026-03-13T08:56:59.742604"
+date: "2026-03-13T09:22:54.776628"
 draft: false
 sectors:
   - "public-sector"
@@ -51,23 +51,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors: []
 typographies:
-  - futura
+  - script
   - brandon
+  - futura
+  - helvetica
   - gotham
   - slab
-  - helvetica
-  - script
   - serif
 imagery_styles:
+  - modern
   - natural
   - staged
   - clean
-  - modern
   - photography
 wikidata_description: "city in and county seat of Mecklenburg County, North Carolina, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q16565"
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

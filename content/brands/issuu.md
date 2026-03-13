@@ -2,11 +2,11 @@
 title: issuu
 slug: issuu
 description: ""
-date: "2026-03-13T08:56:59.421102"
+date: "2026-03-13T09:22:53.603899"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - denmark
 years:
@@ -50,17 +50,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
   - symbol
+  - primary
   - stacked
+  - secondary
   - horizontal
 brand_colors:
-  - white
   - yellow
-  - green
   - orange
   - black
+  - green
+  - white
 typographies:
   - times
 imagery_styles:
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

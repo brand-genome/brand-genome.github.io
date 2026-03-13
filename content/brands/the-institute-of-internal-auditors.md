@@ -2,12 +2,12 @@
 title: The Institute of Internal Auditors
 slug: "the-institute-of-internal-auditors"
 description: ""
-date: "2026-03-13T08:56:59.816491"
+date: "2026-03-13T09:22:54.980003"
 draft: false
 sectors:
+  - consulting
   - education
   - ngo
-  - consulting
 regions:
   - international
 years:
@@ -58,9 +58,9 @@ brand_colors: []
 typographies:
   - serif
 imagery_styles:
+  - muted
   - modern
   - bold
-  - muted
 wikidata_description: professional association
 wikidata_url: "https://www.wikidata.org/wiki/Q1056306"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,25 +2,25 @@
 title: "AT&T"
 slug: att
 description: ""
-date: "2026-03-13T08:56:59.573995"
+date: "2026-03-13T09:22:54.354491"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2005
   - 2001
+  - 2005
   - 1999
 languages:
   - english
 tags:
-  - telecommunications
   - vintage
-industries:
   - telecommunications
+industries:
   - "mass-media"
   - "postal-and-telecommunications-services"
+  - telecommunications
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,13 +38,13 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - "satellite-television"
   - "landline-telephone"
-  - "broadband-internet-access"
-  - "digital-television"
   - software
-  - "mobile-phone"
+  - "broadband-internet-access"
+  - "satellite-television"
   - broadband
+  - "mobile-phone"
+  - "digital-television"
 products: []
 headquarters_locations:
   - dallas
@@ -73,8 +73,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 3
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -178,7 +179,7 @@ PMS 2655
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Satellite Television](/products_or_materials_produced/satellite-television/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Digital Television](/products_or_materials_produced/digital-television/); [Software](/products_or_materials_produced/software/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Broadband](/products_or_materials_produced/broadband/) |
+| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Software](/products_or_materials_produced/software/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Broadband](/products_or_materials_produced/broadband/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Digital Television](/products_or_materials_produced/digital-television/) |
 | Headquarters Location | [Dallas](/headquarters_locations/dallas/); [San Antonio](/headquarters_locations/san-antonio/) |
 | Foundation Date | [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/); [1983](/foundation_dates/1983/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02), Tokyo Stock Exchange (until 1997-12-29) |

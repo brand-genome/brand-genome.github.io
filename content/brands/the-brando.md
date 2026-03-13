@@ -2,11 +2,11 @@
 title: The Brando
 slug: "the-brando"
 description: ""
-date: "2026-03-13T08:56:59.711064"
+date: "2026-03-13T09:22:54.717279"
 draft: false
 sectors:
-  - tourism
   - hospitality
+  - tourism
 regions:
   - france
 years:
@@ -48,34 +48,34 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - white
-  - red
-  - "pantone-165"
-  - blue
-  - "pantone-576"
   - "pantone-647"
-  - green
-  - "pantone-7473"
-  - "pantone-467"
+  - "pantone-165"
   - orange
+  - "pantone-576"
+  - "pantone-467"
+  - "pantone-7473"
+  - red
+  - blue
   - "pantone-1675"
+  - green
+  - white
 typographies:
-  - serif
   - display
+  - serif
   - "sans-serif"
 imagery_styles:
   - natural
+  - geometric
   - macro
   - subtle
   - photography
   - bold
-  - geometric
 wikidata_description: online News TV show
 wikidata_url: "https://www.wikidata.org/wiki/Q105753222"
 has_twitter: false
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

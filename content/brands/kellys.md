@@ -2,7 +2,7 @@
 title: Kellys
 slug: kellys
 description: ""
-date: "2026-03-13T08:56:59.559361"
+date: "2026-03-13T09:22:54.331237"
 draft: false
 sectors:
   - "consumer-goods"
@@ -48,15 +48,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - symbol
+  - horizontal
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - graphic
   - geometric
+  - graphic
 wikidata_description: dance band from Sweden
 wikidata_url: "https://www.wikidata.org/wiki/Q10544743"
 has_twitter: false
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

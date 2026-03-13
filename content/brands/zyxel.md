@@ -2,12 +2,12 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-03-13T08:56:59.603563"
+date: "2026-03-13T09:22:54.566713"
 draft: false
 sectors:
+  - telecom
   - cybersecurity
   - networking
-  - telecom
 regions:
   - taiwan
 years:
@@ -30,8 +30,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "network-switch"
   - router
+  - "network-switch"
 products: []
 headquarters_locations:
   - "hsinchu-city"
@@ -57,21 +57,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - white
-  - blue
-  - "pantone-287"
-  - "pantone-2915"
   - "pantone-194"
+  - "pantone-2915"
   - black
+  - "pantone-287"
+  - blue
+  - white
 typographies: []
 imagery_styles:
+  - classic
   - natural
   - staged
   - clean
-  - professional
   - photography
   - product
-  - classic
+  - professional
 wikidata_description: Taiwanese manufacturer of networking hardware
 wikidata_url: "https://www.wikidata.org/wiki/Q245283"
 has_twitter: false
@@ -79,6 +79,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -118,7 +119,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Network Switch](/products_or_materials_produced/network-switch/); [Router](/products_or_materials_produced/router/) |
+| Product Or Material Produced | [Router](/products_or_materials_produced/router/); [Network Switch](/products_or_materials_produced/network-switch/) |
 | Headquarters Location | [Hsinchu City](/headquarters_locations/hsinchu-city/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/0c6x00 |

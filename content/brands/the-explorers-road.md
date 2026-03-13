@@ -2,7 +2,7 @@
 title: The Explorer’s Road
 slug: "the-explorers-road"
 description: ""
-date: "2026-03-13T08:56:59.402920"
+date: "2026-03-13T09:22:53.511044"
 draft: false
 sectors:
   - tourism
@@ -48,14 +48,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - grey
   - "pantone-7555"
+  - grey
   - black
   - "pantone-446"
+  - white
 typographies:
-  - lato
   - arial
+  - lato
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

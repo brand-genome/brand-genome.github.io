@@ -2,7 +2,7 @@
 title: Hortonworks
 slug: hortonworks
 description: ""
-date: "2026-03-13T08:56:59.739333"
+date: "2026-03-13T09:22:54.766745"
 draft: false
 sectors:
   - software
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "palo-alto"
   - sunnyvale
+  - "palo-alto"
 subsidiaries: []
 foundation_dates:
   - 2011
@@ -51,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - primary
-  - symbol
-  - abstract
   - wordmark
+  - symbol
+  - primary
+  - secondary
+  - abstract
 brand_colors:
   - black
 typographies:
   - roboto
 imagery_styles:
   - natural
+  - lifestyle
   - dramatic
   - photography
-  - lifestyle
   - abstract
   - bold
 wikidata_description: American software company
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
@@ -129,7 +130,7 @@ sample_image_urls: []
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Sunnyvale](/headquarters_locations/sunnyvale/) |
+| Headquarters Location | [Sunnyvale](/headquarters_locations/sunnyvale/); [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2011](/foundation_dates/2011/) |
 | Headquarters Location | Sunnyvale, Palo Alto |
 | Inception | 2011-01-01 |

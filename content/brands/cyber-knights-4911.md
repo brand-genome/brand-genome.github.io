@@ -2,7 +2,7 @@
 title: Cyber Knights 4911
 slug: "cyber-knights-4911"
 description: ""
-date: "2026-03-13T08:56:59.351099"
+date: "2026-03-13T09:22:53.398352"
 draft: false
 sectors:
   - education
@@ -49,20 +49,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
-  - red
   - black
   - gray
+  - white
+  - red
 typographies:
-  - verdana
-  - helvetica
   - "open-sans"
+  - helvetica
+  - verdana
   - arial
 imagery_styles:
   - photography
-  - clean
   - modern
   - bold
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Seton Hall University
 slug: "seton-hall-university"
 description: ""
-date: "2026-03-13T08:56:59.852652"
+date: "2026-03-13T09:22:55.087480"
 draft: false
 sectors:
   - university
@@ -56,11 +56,11 @@ logo_elements:
   - secondary
   - crest
 brand_colors:
-  - white
-  - blue
+  - "pantone-286"
   - silver
   - gray
-  - "pantone-286"
+  - blue
+  - white
 typographies:
   - garamond
 imagery_styles:
@@ -74,6 +74,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

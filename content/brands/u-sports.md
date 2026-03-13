@@ -2,7 +2,7 @@
 title: U Sports
 slug: "u-sports"
 description: ""
-date: "2026-03-13T08:56:59.536816"
+date: "2026-03-13T09:22:54.192198"
 draft: false
 sectors:
   - sports
@@ -50,24 +50,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - emblem
-  - secondary
   - primary
-  - vertical
+  - emblem
   - stacked
+  - vertical
+  - secondary
   - horizontal
 brand_colors:
+  - black
   - white
   - red
-  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
   - natural
+  - lifestyle
+  - candid
   - dynamic
   - photography
-  - candid
-  - lifestyle
   - bold
 wikidata_description: governing body of university sport in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q1032195"
@@ -76,6 +76,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

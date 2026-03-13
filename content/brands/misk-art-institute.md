@@ -2,7 +2,7 @@
 title: Misk Art Institute
 slug: "misk-art-institute"
 description: ""
-date: "2026-03-13T08:56:59.042414"
+date: "2026-03-13T09:22:51.916666"
 draft: false
 sectors:
   - education
@@ -50,22 +50,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - horizontal
   - secondary
+  - horizontal
   - vertical
 brand_colors:
-  - white
-  - purple
-  - blue
   - black
+  - purple
+  - white
+  - blue
 typographies:
   - display
   - impact
 imagery_styles:
+  - dynamic
   - photography
   - graphic
   - clean
-  - dynamic
 wikidata_description: "non-profit cultural organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q107140628"
 has_twitter: false
@@ -73,6 +73,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

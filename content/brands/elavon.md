@@ -2,7 +2,7 @@
 title: Elavon
 slug: elavon
 description: ""
-date: "2026-03-13T08:56:59.736271"
+date: "2026-03-13T09:22:54.762808"
 draft: false
 sectors:
   - finance
@@ -53,14 +53,14 @@ logo_elements:
   - secondary
   - vertical
 brand_colors:
-  - white
   - black
   - gray
+  - white
 typographies: []
 imagery_styles:
   - photography
-  - static
   - bold
+  - static
 wikidata_description: credit card processing
 wikidata_url: "https://www.wikidata.org/wiki/Q5353627"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

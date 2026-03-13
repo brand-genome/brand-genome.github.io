@@ -2,15 +2,15 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-03-13T08:56:59.303962"
+date: "2026-03-13T09:22:53.297331"
 draft: false
 sectors:
   - "real-estate"
 regions:
   - usa
 years:
-  - 2019
   - 2020
+  - 2019
 languages:
   - english
 tags:
@@ -53,35 +53,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - secondary
   - monogram
+  - icon
   - primary
-  - vertical
   - stacked
-  - horizontal
+  - vertical
+  - secondary
   - signature
+  - horizontal
 brand_colors:
-  - white
   - black
-  - blue
   - gray
+  - white
+  - blue
 typographies:
+  - serif
   - garamond
   - helvetica
-  - serif
 imagery_styles:
-  - natural
-  - clean
   - modern
-  - realistic
-  - professional
-  - photography
-  - candid
-  - minimal
   - flat
-  - bold
   - lifestyle
+  - natural
+  - realistic
+  - candid
+  - clean
+  - minimal
+  - photography
+  - professional
+  - bold
 wikidata_description: US international real estate agent franchise company
 wikidata_url: "https://www.wikidata.org/wiki/Q738853"
 has_twitter: false
@@ -89,6 +89,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-03-13T08:56:59.110572"
+date: "2026-03-13T09:22:52.198259"
 draft: false
 sectors:
   - sports
@@ -54,12 +54,12 @@ logo_elements:
   - symbol
   - vertical
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
-  - photography
   - dynamic
+  - photography
   - bold
 wikidata_description: "an international body that brings together all national basketball federations, in charge of deciding basketball rules, disseminating basketball and organising international competitions"
 wikidata_url: "https://www.wikidata.org/wiki/Q46199"
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 2
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

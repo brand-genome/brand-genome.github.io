@@ -2,11 +2,11 @@
 title: West Virginia University Athletics
 slug: "west-virginia-university-athletics"
 description: ""
-date: "2026-03-13T08:56:59.286001"
+date: "2026-03-13T09:22:53.270393"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -48,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - stacked
   - primary
   - secondary
+  - stacked
   - wordmark
 brand_colors:
-  - grey
   - gold
+  - grey
 typographies:
-  - script
   - display
+  - script
 imagery_styles:
-  - dynamic
   - minimal
+  - dynamic
 wikidata_description: athletic program of West Virginia University
 wikidata_url: "https://www.wikidata.org/wiki/Q3326071"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Wipeout
 slug: wipeout
 description: ""
-date: "2026-03-13T08:56:59.713197"
+date: "2026-03-13T09:22:54.719061"
 draft: false
 sectors:
   - entertainment
@@ -47,24 +47,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - primary
-  - secondary
   - alternate
+  - secondary
+  - primary
 brand_colors:
-  - brown
-  - white
-  - red
-  - blue
   - navy
+  - gray
   - yellow
   - black
-  - gray
+  - red
+  - blue
+  - white
+  - brown
 typographies:
   - univers
 imagery_styles:
-  - graphic
-  - product
   - dynamic
+  - product
+  - graphic
 wikidata_description: American reality game show
 wikidata_url: "https://www.wikidata.org/wiki/Q52497"
 has_twitter: false
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

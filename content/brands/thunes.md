@@ -2,7 +2,7 @@
 title: Thunes
 slug: thunes
 description: ""
-date: "2026-03-13T08:56:59.036800"
+date: "2026-03-13T09:22:51.906951"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - software
+  - financial
 industries:
   - "financial-services"
 countries:
@@ -53,17 +53,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - green
   - grey
+  - white
 typographies:
   - serif
 imagery_styles:
-  - dynamic
-  - professional
-  - vibrant
-  - photography
   - minimal
+  - vibrant
+  - dynamic
+  - photography
+  - professional
   - gradient
 wikidata_description: "Singapore-based financial technology company"
 wikidata_url: "https://www.wikidata.org/wiki/Q137124054"
@@ -72,6 +72,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

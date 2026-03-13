@@ -2,7 +2,7 @@
 title: Forman
 slug: forman
 description: ""
-date: "2026-03-13T08:56:59.373098"
+date: "2026-03-13T09:22:53.439230"
 draft: false
 sectors:
   - construction
@@ -49,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - symbol
+  - icon
 brand_colors:
-  - "pantone-305"
-  - white
   - "pantone-172"
+  - white
+  - "pantone-305"
 typographies: []
 imagery_styles:
-  - minimal
-  - modern
   - classic
+  - minimal
   - clean
+  - modern
 wikidata_description: "private university in Lahore, Pakistan"
 wikidata_url: "https://www.wikidata.org/wiki/Q3695416"
 has_twitter: false
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

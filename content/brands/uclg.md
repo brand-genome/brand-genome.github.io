@@ -2,7 +2,7 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-03-13T08:56:59.746440"
+date: "2026-03-13T09:22:54.786941"
 draft: false
 sectors:
   - "public-sector"
@@ -52,17 +52,17 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-485"
-  - red
   - "pantone-369"
   - "pantone-1959"
-  - green
   - "pantone-431"
+  - red
+  - green
+  - "pantone-485"
 typographies:
   - verdana
 imagery_styles:
-  - graphic
   - bold
+  - graphic
 wikidata_description: "umbrella organization for cities, local and regional governments, and municipal associations throughout the world"
 wikidata_url: "https://www.wikidata.org/wiki/Q2974854"
 has_twitter: false
@@ -70,6 +70,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Austrian Airlines
 slug: "austrian-airlines"
 description: ""
-date: "2026-03-13T08:56:59.228416"
+date: "2026-03-13T09:22:53.074059"
 draft: false
 sectors:
   - airline
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - vintage
-  - airline
   - featured
+  - aeronautic
+  - airline
 industries: []
 countries:
   - austria
@@ -65,6 +65,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

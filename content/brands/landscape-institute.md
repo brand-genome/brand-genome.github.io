@@ -2,7 +2,7 @@
 title: Landscape Institute
 slug: "landscape-institute"
 description: ""
-date: "2026-03-13T08:56:59.049517"
+date: "2026-03-13T09:22:51.923284"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - architecture
   - charity
+  - architecture
 industries: []
 countries:
   - "united-kingdom"
@@ -60,6 +60,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

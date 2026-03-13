@@ -2,7 +2,7 @@
 title: Right to Information
 slug: "right-to-information"
 description: ""
-date: "2026-03-13T08:56:59.780501"
+date: "2026-03-13T09:22:54.802417"
 draft: false
 sectors:
   - "public-sector"
@@ -56,6 +56,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Independent Lens
 slug: "independent-lens"
 description: ""
-date: "2026-03-13T08:56:59.493113"
+date: "2026-03-13T09:22:53.933196"
 draft: false
 sectors:
   - broadcasting
@@ -48,16 +48,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - secondary
+  - wordmark
   - primary
   - alternate
-  - vertical
   - stacked
+  - vertical
+  - secondary
   - horizontal
-  - wordmark
 brand_colors:
-  - turquoise
   - gray
+  - turquoise
 typographies: []
 imagery_styles:
   - graphic
@@ -68,6 +68,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

@@ -2,7 +2,7 @@
 title: Saladmaster
 slug: saladmaster
 description: ""
-date: "2026-03-13T08:56:59.433191"
+date: "2026-03-13T09:22:53.650170"
 draft: false
 sectors:
   - mlm
@@ -50,35 +50,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
+  - wordmark
+  - symbol
   - primary
   - lockup
+  - secondary
   - badge
-  - symbol
   - horizontal
-  - wordmark
 brand_colors:
-  - gray
-  - "pantone-715"
-  - navy
-  - blue
-  - "pantone-303"
-  - green
-  - "pantone-7694"
   - "pantone-113"
+  - navy
+  - gray
+  - "pantone-303"
+  - "pantone-7694"
+  - blue
+  - green
+  - "pantone-715"
 typographies:
+  - display
   - playfair
   - raleway
-  - display
 imagery_styles:
   - natural
+  - lifestyle
   - organic
+  - geometric
+  - minimal
   - photography
   - product
-  - minimal
   - bold
-  - lifestyle
-  - geometric
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q122832031"
 has_twitter: false
@@ -86,6 +86,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

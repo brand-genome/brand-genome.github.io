@@ -2,7 +2,7 @@
 title: Alli Sports
 slug: "alli-sports"
 description: ""
-date: "2026-03-13T08:56:59.289458"
+date: "2026-03-13T09:22:53.274294"
 draft: false
 sectors:
   - sports
@@ -51,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - primary
+  - icon
   - secondary
 brand_colors:
   - "pantone-102"
-  - white
-  - yellow
   - black
+  - yellow
+  - white
 typographies:
+  - arial
   - helvetica
   - avenir
-  - arial
 imagery_styles:
-  - photography
-  - graphic
   - minimal
+  - photography
   - bold
+  - graphic
 wikidata_description: American organizer of extreme sports events
 wikidata_url: "https://www.wikidata.org/wiki/Q4732259"
 has_twitter: false
@@ -75,6 +75,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

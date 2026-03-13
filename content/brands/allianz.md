@@ -2,11 +2,11 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-03-13T08:56:59.843225"
+date: "2026-03-13T09:22:55.048900"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - featured
+  - insurance
 industries:
   - insurance
   - "insurance-industry"
@@ -65,16 +65,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - gray
   - "pantone-287"
   - red
   - blue
-  - gray
 typographies:
-  - din
   - serif
+  - din
 imagery_styles:
-  - natural
   - product
+  - natural
   - bold
 wikidata_description: European multinational insurance and financial services corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q487292"
@@ -83,6 +83,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

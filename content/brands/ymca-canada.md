@@ -2,11 +2,11 @@
 title: YMCA Canada
 slug: "ymca-canada"
 description: ""
-date: "2026-03-13T08:56:59.723898"
+date: "2026-03-13T09:22:54.736243"
 draft: false
 sectors:
-  - "wellness-spa"
   - education
+  - "wellness-spa"
   - ngo
 regions:
   - canada
@@ -51,8 +51,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - black
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

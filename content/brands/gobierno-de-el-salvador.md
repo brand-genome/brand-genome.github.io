@@ -2,7 +2,7 @@
 title: Gobierno de El Salvador
 slug: "gobierno-de-el-salvador"
 description: ""
-date: "2026-03-13T08:56:59.406271"
+date: "2026-03-13T09:22:53.516295"
 draft: false
 sectors:
   - "public-sector"
@@ -46,15 +46,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - horizontal
+  - emblem
   - vertical
 brand_colors:
-  - white
   - "pantone-281"
-  - "pantone-432"
-  - "pantone-7604"
   - gray
+  - "pantone-7604"
+  - "pantone-432"
+  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -64,6 +64,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 

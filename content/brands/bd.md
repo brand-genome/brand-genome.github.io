@@ -2,7 +2,7 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-03-13T08:56:59.445243"
+date: "2026-03-13T09:22:53.668826"
 draft: false
 sectors:
   - construction
@@ -51,14 +51,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - lockup
   - secondary
+  - lockup
   - wordmark
 brand_colors:
-  - white
-  - red
   - black
   - gray
+  - white
+  - red
 typographies:
   - "century-gothic"
 imagery_styles: []
@@ -69,6 +69,7 @@ has_guidelines: true
 promotion_image_count: 0
 guideline_count: 1
 sample_image_urls: []
+visual_term_image_urls: {}
 ---
 ## Official Websites
 
