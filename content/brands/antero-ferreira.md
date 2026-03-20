@@ -2,7 +2,7 @@
 title: Antero Ferreira
 slug: "antero-ferreira"
 description: ""
-date: "2026-03-13T09:22:52.103935"
+date: "2026-03-20T08:22:03.162207"
 draft: false
 sectors:
   - "design-creative"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

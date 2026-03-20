@@ -2,11 +2,11 @@
 title: "Nutri-score"
 slug: "nutri-score"
 description: ""
-date: "2026-03-13T09:22:53.262984"
+date: "2026-03-20T08:22:04.189035"
 draft: false
 sectors:
-  - food
   - "public-sector"
+  - food
 regions:
   - france
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +50,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure](https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure)
-- [https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france](https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france)
 - [https://www.santepubliquefrance.fr/en/nutri-score](https://www.santepubliquefrance.fr/en/nutri-score)
+- [https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france](https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france)
+- [https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure](https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure)
+- [https://www.santepubliquefrance.fr/Sante-publique-France/Nutri-Score](https://www.santepubliquefrance.fr/Sante-publique-France/Nutri-Score)
 
 ## Brand Guidelines
 

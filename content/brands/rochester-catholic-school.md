@@ -2,7 +2,7 @@
 title: Rochester Catholic School
 slug: "rochester-catholic-school"
 description: ""
-date: "2026-03-13T09:22:53.527553"
+date: "2026-03-20T08:22:04.414561"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rcsmn.org/](https://www.rcsmn.org/)
+- [https://www.rcsmn.org](https://www.rcsmn.org)
 - [https://www.rcsmn.org/schools/lourdes-high-school](https://www.rcsmn.org/schools/lourdes-high-school)
 
 ## Brand Guidelines

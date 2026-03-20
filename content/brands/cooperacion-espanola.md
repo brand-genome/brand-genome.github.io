@@ -2,7 +2,7 @@
 title: Cooperación Española
 slug: "cooperacion-espanola"
 description: ""
-date: "2026-03-13T09:22:53.666955"
+date: "2026-03-20T08:22:04.524455"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - institution
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aecid.es/](https://www.aecid.es/)
-- [https://www.cooperacionespanola.es/](https://www.cooperacionespanola.es/)
+- [https://www.cooperacionespanola.es](https://www.cooperacionespanola.es)
+- [https://www.aecid.es](https://www.aecid.es)
 
 ## Brand Guidelines
 

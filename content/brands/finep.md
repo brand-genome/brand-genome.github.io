@@ -2,11 +2,11 @@
 title: Finep
 slug: finep
 description: ""
-date: "2026-03-13T09:22:54.713456"
+date: "2026-03-20T08:22:05.511721"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - brazil
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - technology
   - science
+  - technology
 industries: []
 countries:
   - brazil
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,27 +53,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - purple
-  - gray
-  - yellow
-  - orange
-  - black
-  - blue
   - green
   - white
+  - purple
+  - blue
+  - yellow
+  - gray
+  - orange
+  - black
 typographies: []
 imagery_styles:
   - staged
-  - clean
-  - photography
-  - bold
   - graphic
+  - bold
+  - photography
+  - clean
 wikidata_description: government agency of Brazil
 wikidata_url: "https://www.wikidata.org/wiki/Q5449568"
 has_twitter: false

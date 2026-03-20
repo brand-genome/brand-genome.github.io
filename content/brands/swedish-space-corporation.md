@@ -2,11 +2,11 @@
 title: Swedish Space Corporation
 slug: "swedish-space-corporation"
 description: ""
-date: "2026-03-13T09:22:53.666315"
+date: "2026-03-20T08:22:04.523686"
 draft: false
 sectors:
-  - "space-technology"
   - satellite
+  - "space-technology"
 regions:
   - sweden
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sscspace.com/](https://sscspace.com/)
+- [https://sscspace.com](https://sscspace.com)
 
 ## Brand Guidelines
 

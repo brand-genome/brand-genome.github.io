@@ -2,7 +2,7 @@
 title: County Clare
 slug: "county-clare"
 description: ""
-date: "2026-03-13T09:22:53.466941"
+date: "2026-03-20T08:22:04.368359"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-kingdom-of-great-britain-and-ireland"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +50,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - dynamic
+  - bold
+  - photography
   - monochrome
   - vibrant
-  - dynamic
-  - photography
-  - bold
 wikidata_description: "1831 United Kingdom of Great Britain and Ireland Act of Parliament 1 & 2 Will 4 c. 27"
 wikidata_url: "https://www.wikidata.org/wiki/Q106184641"
 has_twitter: false
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visitclare.ie/](https://visitclare.ie/)
+- [https://visitclare.ie](https://visitclare.ie)
 
 ## Brand Guidelines
 

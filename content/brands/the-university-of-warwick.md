@@ -2,7 +2,7 @@
 title: The University of Warwick
 slug: "the-university-of-warwick"
 description: ""
-date: "2026-03-13T09:22:52.312920"
+date: "2026-03-20T08:22:03.379170"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://warwick.ac.uk/](https://warwick.ac.uk/)
+- [https://warwick.ac.uk](https://warwick.ac.uk)
+- [http://www.warwick.ac.uk](http://www.warwick.ac.uk)
 
 ## Brand Guidelines
 

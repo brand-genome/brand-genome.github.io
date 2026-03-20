@@ -2,7 +2,7 @@
 title: Altera
 slug: altera
 description: ""
-date: "2026-03-13T09:22:51.896288"
+date: "2026-03-20T08:22:03.062750"
 draft: false
 sectors:
   - electronics
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []

@@ -2,11 +2,11 @@
 title: Canadien National
 slug: "canadien-national"
 description: ""
-date: "2026-03-13T09:22:55.147721"
+date: "2026-03-20T08:22:05.846804"
 draft: false
 sectors:
-  - railroad
   - "logistics-supply-chain"
+  - railroad
 regions:
   - canada
 years:
@@ -18,8 +18,8 @@ tags:
 industries:
   - "rail-freight-transport"
 countries:
-  - "united-states"
   - canada
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,10 +56,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
+  - red
   - "pantone-485"
   - white
-  - red
+  - black
 typographies:
   - frutiger
 imagery_styles:

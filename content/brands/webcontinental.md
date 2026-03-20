@@ -2,7 +2,7 @@
 title: Webcontinental
 slug: webcontinental
 description: ""
-date: "2026-03-13T09:22:52.866771"
+date: "2026-03-20T08:22:03.867215"
 draft: false
 sectors:
   - "e-commerce"
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - internet
   - business
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.webcontinental.com.br/](https://www.webcontinental.com.br/)
+- [https://www.webcontinental.com.br](https://www.webcontinental.com.br)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Public Broadcasting Service
 slug: "public-broadcasting-service"
 description: ""
-date: "2026-03-13T09:22:54.218709"
+date: "2026-03-20T08:22:05.046261"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,10 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pbsdistribution.org/](https://pbsdistribution.org/)
-- [https://pbskids.org/](https://pbskids.org/)
-- [https://www.pbs.org/](https://www.pbs.org/)
-- [https://www.pbs.org/pbs-app/](https://www.pbs.org/pbs-app/)
+- [https://www.pbs.org](https://www.pbs.org)
+- [https://www.pbs.org/pbs-app](https://www.pbs.org/pbs-app)
+- [https://pbskids.org](https://pbskids.org)
+- [https://pbsdistribution.org](https://pbsdistribution.org)
 
 ## Brand Guidelines
 

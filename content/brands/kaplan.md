@@ -2,7 +2,7 @@
 title: Kaplan
 slug: kaplan
 description: ""
-date: "2026-03-13T09:22:53.404719"
+date: "2026-03-20T08:22:04.306434"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kaplaninternational.com/](https://www.kaplaninternational.com/)
-- [https://www.kaplanpathways.com/](https://www.kaplanpathways.com/)
+- [https://www.kaplaninternational.com](https://www.kaplaninternational.com)
+- [https://www.kaplanpathways.com](https://www.kaplanpathways.com)
 
 ## Brand Guidelines
 

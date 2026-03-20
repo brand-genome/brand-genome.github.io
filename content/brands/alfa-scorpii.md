@@ -2,11 +2,11 @@
 title: Alfa Scorpii
 slug: "alfa-scorpii"
 description: ""
-date: "2026-03-13T09:22:54.560352"
+date: "2026-03-20T08:22:05.406773"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - brazil
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - white
 typographies:
-  - lato
   - "comic-sans"
+  - lato
 imagery_styles:
   - bold
 wikidata_description: ""

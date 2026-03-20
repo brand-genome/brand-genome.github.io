@@ -2,7 +2,7 @@
 title: Adare
 slug: adare
 description: ""
-date: "2026-03-13T09:22:52.868099"
+date: "2026-03-20T08:22:03.868923"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - ireland
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.limerick.ie](http://www.limerick.ie)
-- [https://www.adare.ie/](https://www.adare.ie/)
+- [https://www.adare.ie](https://www.adare.ie)
 - [https://www.limerick.ie/discover/explore/areas-in-limerick/adare/brand](https://www.limerick.ie/discover/explore/areas-in-limerick/adare/brand)
+- [http://www.limerick.ie](http://www.limerick.ie)
 
 ## Brand Guidelines
 

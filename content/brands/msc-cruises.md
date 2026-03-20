@@ -2,11 +2,11 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-03-13T09:22:53.275471"
+date: "2026-03-20T08:22:04.203026"
 draft: false
 sectors:
-  - cruise
   - hospitality
+  - cruise
 regions:
   - italy
 years:
@@ -31,12 +31,14 @@ products_or_materials_produced:
   - cruising
 products: []
 headquarters_locations:
-  - naples
   - geneva
   - genoa
+  - naples
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +71,23 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.msccruises.com/](https://www.msccruises.com/)
-- [https://www.msccruises.com/manage-booking/msc-voyagers-club](https://www.msccruises.com/manage-booking/msc-voyagers-club)
+- [https://www.msccruises.com](https://www.msccruises.com)
 - [https://www.msccruises.com/select-your-country](https://www.msccruises.com/select-your-country)
+- [https://www.msccruises.com/manage-booking/msc-voyagers-club](https://www.msccruises.com/manage-booking/msc-voyagers-club)
+- [http://www.msc-kreuzfahrten.de](http://www.msc-kreuzfahrten.de)
+- [https://www.mscpressarea.com](https://www.mscpressarea.com)
+- [https://www.msccruisesusa.com](https://www.msccruisesusa.com)
+- [https://www.msccruises.de](https://www.msccruises.de)
+- [http://www.msccroisieres.ch](http://www.msccroisieres.ch)
+- [https://www.msccruceros.es](https://www.msccruceros.es)
+- [http://www.msccruises.jp](http://www.msccruises.jp)
+- [https://crucerosmsc-arg.com](https://crucerosmsc-arg.com)
+- [http://www.msccrociere.it](http://www.msccrociere.it)
+- [http://www.msccruisesasia.com](http://www.msccruisesasia.com)
+- [http://www.msccrociere.com](http://www.msccrociere.com)
+- [http://www.msccruises.ch](http://www.msccruises.ch)
+- [http://www.mscgva.ch/mscruises/index.htm](http://www.mscgva.ch/mscruises/index.htm)
+- [http://www.msc.com.au/cruises](http://www.msc.com.au/cruises)
 
 ## Brand Guidelines
 
@@ -88,7 +104,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Cruising](/products_or_materials_produced/cruising/) |
-| Headquarters Location | [Naples](/headquarters_locations/naples/); [Geneva](/headquarters_locations/geneva/); [Genoa](/headquarters_locations/genoa/) |
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/); [Genoa](/headquarters_locations/genoa/); [Naples](/headquarters_locations/naples/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:MSC Cruises |
 | Freebase Id | /m/04q7d8 |

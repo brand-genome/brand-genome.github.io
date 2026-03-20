@@ -2,12 +2,12 @@
 title: Indian Institute of Technology Hyderabad
 slug: "indian-institute-of-technology-hyderabad"
 description: ""
-date: "2026-03-13T09:22:53.247332"
+date: "2026-03-20T08:22:04.168760"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - india
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
+  - technology
 industries: []
 countries:
   - india
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,12 +56,12 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
+  - white
   - cyan
   - grey
   - yellow
-  - black
   - magenta
-  - white
+  - black
 typographies:
   - frutiger
 imagery_styles:
@@ -75,9 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iith.ac.in/](https://iith.ac.in/)
-- [https://ir.iith.ac.in/](https://ir.iith.ac.in/)
-- [https://www.iith.ac.in/](https://www.iith.ac.in/)
+- [https://iith.ac.in](https://iith.ac.in)
+- [https://www.iith.ac.in](https://www.iith.ac.in)
+- [https://ir.iith.ac.in](https://ir.iith.ac.in)
+- [http://www.iith.ac.in](http://www.iith.ac.in)
+- [http://iith.ac.in](http://iith.ac.in)
 
 ## Brand Guidelines
 

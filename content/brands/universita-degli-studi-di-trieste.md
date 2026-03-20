@@ -2,7 +2,7 @@
 title: Università degli Studi di Trieste
 slug: "universita-degli-studi-di-trieste"
 description: ""
-date: "2026-03-13T09:22:53.244556"
+date: "2026-03-20T08:22:04.162804"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +49,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
-  - secondary
   - vertical
+  - seal
+  - primary
+  - secondary
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
-  - arial
   - brandon
+  - arial
   - avenir
 imagery_styles:
   - bold
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corsi.units.it/](https://corsi.units.it/)
-- [https://www.cus.units.it/](https://www.cus.units.it/)
-- [https://www.units.it/](https://www.units.it/)
+- [https://www.units.it](https://www.units.it)
+- [https://corsi.units.it](https://corsi.units.it)
+- [https://www.cus.units.it](https://www.cus.units.it)
 
 ## Brand Guidelines
 

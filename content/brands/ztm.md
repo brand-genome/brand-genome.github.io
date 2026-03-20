@@ -2,11 +2,11 @@
 title: ZTM
 slug: ztm
 description: ""
-date: "2026-03-13T09:22:53.435060"
+date: "2026-03-20T08:22:04.338596"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - poland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - polish
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries:
   - poland
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.metropoliaztm.pl/](https://www.metropoliaztm.pl/)
-- [https://www.metropoliaztm.pl/en/](https://www.metropoliaztm.pl/en/)
+- [https://www.metropoliaztm.pl](https://www.metropoliaztm.pl)
+- [https://www.metropoliaztm.pl/en](https://www.metropoliaztm.pl/en)
+- [https://www.ztm.poznan.pl](https://www.ztm.poznan.pl)
 
 ## Brand Guidelines
 

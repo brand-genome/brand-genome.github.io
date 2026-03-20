@@ -2,11 +2,11 @@
 title: El Paso Electric
 slug: "el-paso-electric"
 description: ""
-date: "2026-03-13T09:22:51.967544"
+date: "2026-03-20T08:22:03.080096"
 draft: false
 sectors:
-  - utilities
   - energy
+  - utilities
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [http://www.epelectric.com](http://www.epelectric.com)
+- [https://epelectric.com](https://epelectric.com)
 
 ## Brand Guidelines
 

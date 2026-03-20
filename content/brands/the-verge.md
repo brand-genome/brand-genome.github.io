@@ -2,7 +2,7 @@
 title: The Verge
 slug: "the-verge"
 description: ""
-date: "2026-03-13T09:22:53.322956"
+date: "2026-03-20T08:22:04.234135"
 draft: false
 sectors:
   - publishing
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,22 +52,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
   - purple
   - grey
   - "pantone-2736"
+  - "pantone-172"
   - orange
   - black
-  - "pantone-172"
-  - white
 typographies:
   - helvetica
   - georgia
 imagery_styles:
   - minimal
+  - graphic
+  - bold
   - clean
   - gradient
-  - bold
-  - graphic
 wikidata_description: Canadian satellite radio station
 wikidata_url: "https://www.wikidata.org/wiki/Q7772206"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.theverge.com/](https://www.theverge.com/)
-- [https://www.theverge.space/](https://www.theverge.space/)
+- [https://www.theverge.com](https://www.theverge.com)
+- [https://www.theverge.space](https://www.theverge.space)
+- [http://www.siriusxm.com/theverge](http://www.siriusxm.com/theverge)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-03-13T09:22:53.427773"
+date: "2026-03-20T08:22:04.330875"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
+  - red
+  - green
   - navy
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - natural
-  - clean
-  - photography
   - professional
   - bold
+  - natural
   - static
+  - photography
+  - clean
 wikidata_description: early stage in software design
 wikidata_url: "https://www.wikidata.org/wiki/Q2122918"
 has_twitter: false
@@ -78,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://alpha.org/](https://alpha.org/)
-- [https://www.parcoursalpha.fr/](https://www.parcoursalpha.fr/)
+- [https://www.parcoursalpha.fr](https://www.parcoursalpha.fr)
+- [https://alpha.org](https://alpha.org)
 
 ## Brand Guidelines
 

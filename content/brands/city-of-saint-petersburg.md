@@ -2,7 +2,7 @@
 title: City of Saint Petersburg
 slug: "city-of-saint-petersburg"
 description: ""
-date: "2026-03-13T09:22:55.095576"
+date: "2026-03-20T08:22:05.801395"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://visit-petersburg.ru/en](https://visit-petersburg.ru/en)
 - [https://touristinfo.spb.ru/en](https://touristinfo.spb.ru/en)
-- [https://visit-petersburg.ru/en/](https://visit-petersburg.ru/en/)
 
 ## Brand Guidelines
 

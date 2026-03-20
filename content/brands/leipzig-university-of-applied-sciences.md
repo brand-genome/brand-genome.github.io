@@ -2,7 +2,7 @@
 title: Leipzig University of Applied Sciences
 slug: "leipzig-university-of-applied-sciences"
 description: ""
-date: "2026-03-13T09:22:53.072111"
+date: "2026-03-20T08:22:04.066872"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.leipzig.de](http://www.leipzig.de)
-- [https://www.htwk-leipzig.de/](https://www.htwk-leipzig.de/)
+- [https://www.htwk-leipzig.de](https://www.htwk-leipzig.de)
 - [https://www.htwk-leipzig.de/en/htwk-leipzig](https://www.htwk-leipzig.de/en/htwk-leipzig)
+- [http://www.leipzig.de](http://www.leipzig.de)
+- [https://www.htwk-leipzig.de/startseite](https://www.htwk-leipzig.de/startseite)
 
 ## Brand Guidelines
 

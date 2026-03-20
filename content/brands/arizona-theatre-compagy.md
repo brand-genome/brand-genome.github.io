@@ -2,7 +2,7 @@
 title: Arizona Theatre Compagy
 slug: "arizona-theatre-compagy"
 description: ""
-date: "2026-03-13T09:22:55.160551"
+date: "2026-03-20T08:22:05.861655"
 draft: false
 sectors:
   - "arts-culture"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +53,9 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - bold
   - modern
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://atc.org/](https://atc.org/)
+- [https://atc.org](https://atc.org)
 
 ## Brand Guidelines
 

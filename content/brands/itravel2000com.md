@@ -2,7 +2,7 @@
 title: iTravel2000.com
 slug: itravel2000com
 description: ""
-date: "2026-03-13T09:22:55.037852"
+date: "2026-03-20T08:22:05.739935"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +51,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - "pantone-137"
+  - white
+  - blue
   - "pantone-298"
+  - "pantone-172"
   - "pantone-422"
   - orange
-  - blue
-  - "pantone-137"
-  - "pantone-172"
-  - white
   - "pantone-7545"
 typographies:
-  - arial
   - slab
+  - arial
   - script
 imagery_styles: []
 wikidata_description: ""
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itravel2000.com/](https://www.itravel2000.com/)
 - [https://www.itravel2000.com/en](https://www.itravel2000.com/en)
+- [https://www.itravel2000.com](https://www.itravel2000.com)
 
 ## Brand Guidelines
 

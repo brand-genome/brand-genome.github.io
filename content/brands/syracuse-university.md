@@ -2,7 +2,7 @@
 title: Syracuse University
 slug: "syracuse-university"
 description: ""
-date: "2026-03-13T09:22:54.141784"
+date: "2026-03-20T08:22:04.979182"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,22 +55,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - symbol
   - stacked
   - secondary
+  - symbol
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - orange
   - white
+  - orange
   - blue
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "private university in Syracuse, New York, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q617433"
 has_twitter: false
@@ -80,8 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.syracuse.edu/](https://www.syracuse.edu/)
-- [https://www.syracuse.edu/brand/](https://www.syracuse.edu/brand/)
+- [https://www.syracuse.edu](https://www.syracuse.edu)
+- [https://www.syracuse.edu/brand](https://www.syracuse.edu/brand)
 
 ## Brand Guidelines
 

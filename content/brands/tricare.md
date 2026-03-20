@@ -2,7 +2,7 @@
 title: Tricare
 slug: tricare
 description: ""
-date: "2026-03-13T09:22:54.769379"
+date: "2026-03-20T08:22:05.559826"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,33 +51,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - alternate
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
+  - red
   - "pantone-280"
-  - "pantone-186"
-  - gray
+  - white
+  - blue
   - yellow
+  - gray
+  - "pantone-186"
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
-  - display
   - futura
-  - garamond
-  - "sans-serif"
+  - display
   - serif
+  - garamond
   - arial
+  - "sans-serif"
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: health care program of the United States Department of Defense Military Health System
 wikidata_url: "https://www.wikidata.org/wiki/Q4591458"
 has_twitter: false
@@ -87,14 +89,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.tricare.mil/brand](http://www.tricare.mil/brand)
-- [https://tricare.triwest.com/](https://tricare.triwest.com/)
-- [https://www.humanamilitary.com/](https://www.humanamilitary.com/)
-- [https://www.tricare-overseas.com/](https://www.tricare-overseas.com/)
-- [https://www.tricare.mil/](https://www.tricare.mil/)
+- [https://www.tricare.mil](https://www.tricare.mil)
 - [https://www.tricare.mil/brand](https://www.tricare.mil/brand)
 - [https://www.tricare.mil/east](https://www.tricare.mil/east)
 - [https://www.tricare.mil/west](https://www.tricare.mil/west)
+- [https://www.humanamilitary.com](https://www.humanamilitary.com)
+- [https://tricare.triwest.com](https://tricare.triwest.com)
+- [https://www.tricare-overseas.com](https://www.tricare-overseas.com)
+- [http://www.tricare.mil/brand](http://www.tricare.mil/brand)
+- [https://tricarewest.net](https://tricarewest.net)
+- [https://tricare.mil](https://tricare.mil)
 
 ## Brand Guidelines
 

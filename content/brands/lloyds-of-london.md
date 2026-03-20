@@ -2,11 +2,11 @@
 title: Lloyd’s of London
 slug: "lloyds-of-london"
 description: ""
-date: "2026-03-13T09:22:55.097802"
+date: "2026-03-20T08:22:05.803880"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lloyds.com/](https://www.lloyds.com/)
-- [https://www.lloyds.com/en-us/](https://www.lloyds.com/en-us/)
+- [https://www.lloyds.com](https://www.lloyds.com)
+- [https://www.lloyds.com/en-us](https://www.lloyds.com/en-us)
 
 ## Brand Guidelines
 

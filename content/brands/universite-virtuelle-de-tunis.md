@@ -2,11 +2,11 @@
 title: Université Virtuelle de Tunis
 slug: "universite-virtuelle-de-tunis"
 description: ""
-date: "2026-03-13T09:22:55.163543"
+date: "2026-03-20T08:22:05.864697"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - tunisia
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - red
   - gray
   - white
-  - red
   - blue
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
-  - minimal
   - monochrome
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uvt.rnu.tn/](https://www.uvt.rnu.tn/)
+- [https://www.uvt.rnu.tn](https://www.uvt.rnu.tn)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: "Dooney & Bourke"
 slug: "dooney-bourke"
 description: ""
-date: "2026-03-13T09:22:54.567275"
+date: "2026-03-20T08:22:05.413900"
 draft: false
 sectors:
+  - fashion
   - "e-commerce"
   - "consumer-goods"
-  - fashion
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dooney.com](https://www.dooney.com)
 - [http://www.dooney.com](http://www.dooney.com)
-- [https://www.dooney.com/](https://www.dooney.com/)
 
 ## Brand Guidelines
 

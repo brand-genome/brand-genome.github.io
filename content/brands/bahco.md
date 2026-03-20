@@ -2,7 +2,7 @@
 title: Bahco
 slug: bahco
 description: ""
-date: "2026-03-13T09:22:52.310746"
+date: "2026-03-20T08:22:03.376437"
 draft: false
 sectors:
   - hardware
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1886
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bahco.com/](https://www.bahco.com/)
+- [https://www.bahco.com](https://www.bahco.com)
+- [http://www.bahco.com](http://www.bahco.com)
+- [https://www.bahco.com/fr_fr](https://www.bahco.com/fr_fr)
+- [https://www.bahco.com/be_fr](https://www.bahco.com/be_fr)
+- [https://www.bahco.com/afr_fr](https://www.bahco.com/afr_fr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sol Sports
 slug: "sol-sports"
 description: ""
-date: "2026-03-13T09:22:54.714217"
+date: "2026-03-20T08:22:05.512244"
 draft: false
 sectors:
   - fashion
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +51,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://loja.solparagliders.com.br/](https://loja.solparagliders.com.br/)
-- [https://solparagliders.com.br/es/](https://solparagliders.com.br/es/)
-- [https://solsportswear.com.br/](https://solsportswear.com.br/)
+- [https://solsportswear.com.br](https://solsportswear.com.br)
+- [https://loja.solparagliders.com.br](https://loja.solparagliders.com.br)
+- [https://solparagliders.com.br/es](https://solparagliders.com.br/es)
+- [http://www.sskamo.co.jp/sol](http://www.sskamo.co.jp/sol)
 
 ## Brand Guidelines
 

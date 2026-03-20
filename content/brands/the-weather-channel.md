@@ -2,7 +2,7 @@
 title: The Weather Channel
 slug: "the-weather-channel"
 description: ""
-date: "2026-03-13T09:22:53.938739"
+date: "2026-03-20T08:22:04.863354"
 draft: false
 sectors:
   - broadcasting
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - black
+  - blue
   - yellow
   - white
-  - blue
+  - black
 typographies:
-  - arial
-  - helvetica
-  - verdana
   - impact
+  - helvetica
+  - arial
+  - verdana
 imagery_styles:
-  - natural
   - staged
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
 wikidata_description: TV channel
 wikidata_url: "https://www.wikidata.org/wiki/Q782293"
 has_twitter: false
@@ -77,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://weather.com](https://weather.com)
+- [https://streamtwc.com](https://streamtwc.com)
 - [http://www.weather.com](http://www.weather.com)
-- [https://streamtwc.com/](https://streamtwc.com/)
-- [https://weather.com/](https://weather.com/)
 
 ## Brand Guidelines
 

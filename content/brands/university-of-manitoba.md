@@ -2,7 +2,7 @@
 title: University of Manitoba
 slug: "university-of-manitoba"
 description: ""
-date: "2026-03-13T09:22:52.783494"
+date: "2026-03-20T08:22:03.794533"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries:
   - canada
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1877
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.UMANITOBA.CA](http://www.UMANITOBA.CA)
-- [https://accessibilitymb.ca/](https://accessibilitymb.ca/)
-- [https://www.umanitoba.ca/](https://www.umanitoba.ca/)
+- [https://www.umanitoba.ca](https://www.umanitoba.ca)
+- [http://www.umanitoba.ca](http://www.umanitoba.ca)
+- [https://accessibilitymb.ca](https://accessibilitymb.ca)
+- [https://umanitoba.ca](https://umanitoba.ca)
 
 ## Brand Guidelines
 

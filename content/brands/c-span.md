@@ -2,7 +2,7 @@
 title: "C-SPAN"
 slug: "c-span"
 description: ""
-date: "2026-03-13T09:22:53.646822"
+date: "2026-03-20T08:22:04.504956"
 draft: false
 sectors:
   - broadcasting
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,27 +51,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - purple
+  - red
+  - teal
   - navy
+  - purple
+  - maroon
   - gray
   - black
-  - maroon
-  - teal
-  - red
 typographies:
-  - serif
-  - georgia
   - "sans-serif"
   - poppins
+  - georgia
+  - serif
 imagery_styles:
-  - clean
-  - modern
   - bold
+  - modern
+  - clean
   - geometric
 wikidata_description: American television channel
 wikidata_url: "https://www.wikidata.org/wiki/Q1022311"
@@ -82,7 +84,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.c-span.org/](https://www.c-span.org/)
+- [https://www.c-span.org](https://www.c-span.org)
 
 ## Brand Guidelines
 

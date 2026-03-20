@@ -2,7 +2,7 @@
 title: Znips
 slug: znips
 description: ""
-date: "2026-03-13T09:22:55.032560"
+date: "2026-03-20T08:22:05.735017"
 draft: false
 sectors:
   - beauty
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

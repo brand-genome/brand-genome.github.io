@@ -2,7 +2,7 @@
 title: Club de Regatas Vasco da Gama
 slug: "club-de-regatas-vasco-da-gama"
 description: ""
-date: "2026-03-13T09:22:52.172920"
+date: "2026-03-20T08:22:03.239262"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1898
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sociogigante.com/](https://sociogigante.com/)
-- [https://vasco.com.br/](https://vasco.com.br/)
-- [https://www.vascostore.com.br/](https://www.vascostore.com.br/)
+- [https://vasco.com.br](https://vasco.com.br)
+- [https://sociogigante.com](https://sociogigante.com)
+- [https://www.vascostore.com.br](https://www.vascostore.com.br)
+- [http://www.vasco.com.br](http://www.vasco.com.br)
 
 ## Brand Guidelines
 

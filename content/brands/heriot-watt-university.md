@@ -2,7 +2,7 @@
 title: "Heriot-Watt University"
 slug: "heriot-watt-university"
 description: ""
-date: "2026-03-13T09:22:51.883721"
+date: "2026-03-20T08:22:03.053807"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1821
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hw.ac.uk/](https://www.hw.ac.uk/)
-- [https://www.hw.ac.uk/dubai/](https://www.hw.ac.uk/dubai/)
+- [https://www.hw.ac.uk](https://www.hw.ac.uk)
 - [https://www.hw.ac.uk/ebs](https://www.hw.ac.uk/ebs)
-- [https://www.hw.ac.uk/malaysia/](https://www.hw.ac.uk/malaysia/)
+- [https://www.hw.ac.uk/dubai](https://www.hw.ac.uk/dubai)
+- [https://www.hw.ac.uk/malaysia](https://www.hw.ac.uk/malaysia)
 - [https://www.hw.ac.uk/students/manage-your-studies/enrolment/heriot-watt-online](https://www.hw.ac.uk/students/manage-your-studies/enrolment/heriot-watt-online)
 
 ## Brand Guidelines

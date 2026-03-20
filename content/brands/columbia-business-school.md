@@ -2,7 +2,7 @@
 title: Columbia Business School
 slug: "columbia-business-school"
 description: ""
-date: "2026-03-13T09:22:53.255997"
+date: "2026-03-20T08:22:04.181638"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - business
+  - education
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1916
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ logo_elements:
   - secondary
 brand_colors: []
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
   - photography
 wikidata_description: business school
@@ -71,6 +73,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://business.columbia.edu/home](https://business.columbia.edu/home)
+- [http://www.gsb.columbia.edu](http://www.gsb.columbia.edu)
+- [https://business.columbia.edu](https://business.columbia.edu)
 
 ## Brand Guidelines
 

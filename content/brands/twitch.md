@@ -2,11 +2,11 @@
 title: Twitch
 slug: twitch
 description: ""
-date: "2026-03-13T09:22:53.604996"
+date: "2026-03-20T08:22:04.470459"
 draft: false
 sectors:
-  - "social-media"
   - broadcasting
+  - "social-media"
   - entertainment
 regions:
   - usa
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
   - entertainment
 industries: []
 countries: []
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - secondary
   - wordmark
   - primary
+  - icon
   - mascot
-  - secondary
 brand_colors:
-  - black
   - purple
+  - black
 typographies: []
 imagery_styles:
-  - playful
-  - gradient
   - bold
+  - gradient
+  - playful
 wikidata_description: television series focused on video games
 wikidata_url: "https://www.wikidata.org/wiki/Q17042881"
 has_twitter: false
@@ -75,9 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.twitch.com/](https://brand.twitch.com/)
-- [https://www.twitch.tv/](https://www.twitch.tv/)
-- [https://www.twitch.tv/p/es-mx/legal/trademark/](https://www.twitch.tv/p/es-mx/legal/trademark/)
+- [https://www.twitch.tv](https://www.twitch.tv)
+- [https://brand.twitch.com](https://brand.twitch.com)
+- [https://www.twitch.tv/p/es-mx/legal/trademark](https://www.twitch.tv/p/es-mx/legal/trademark)
 
 ## Brand Guidelines
 

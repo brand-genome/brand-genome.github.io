@@ -2,7 +2,7 @@
 title: Musicnotes
 slug: musicnotes
 description: ""
-date: "2026-03-13T09:22:53.271023"
+date: "2026-03-20T08:22:04.198286"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - music
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apps.musicnotes.com/](https://apps.musicnotes.com/)
-- [https://help.musicnotes.com/](https://help.musicnotes.com/)
-- [https://www.musicnotes.com/](https://www.musicnotes.com/)
-- [https://www.musicnotes.com/apps/](https://www.musicnotes.com/apps/)
+- [https://www.musicnotes.com](https://www.musicnotes.com)
+- [https://www.musicnotes.com/apps](https://www.musicnotes.com/apps)
+- [https://apps.musicnotes.com](https://apps.musicnotes.com)
+- [https://help.musicnotes.com](https://help.musicnotes.com)
 - [https://www.musicnotes.com/pro](https://www.musicnotes.com/pro)
 
 ## Brand Guidelines

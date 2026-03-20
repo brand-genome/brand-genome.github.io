@@ -2,7 +2,7 @@
 title: Vital Clothing
 slug: "vital-clothing"
 description: ""
-date: "2026-03-13T09:22:53.666586"
+date: "2026-03-20T08:22:04.524077"
 draft: false
 sectors:
   - fashion
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
   - lockup
+  - symbol
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - black
-  - pink
-  - blue
   - white
+  - grey
+  - blue
+  - pink
+  - black
 typographies: []
 imagery_styles:
   - bold
-  - subtle
   - graphic
+  - subtle
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

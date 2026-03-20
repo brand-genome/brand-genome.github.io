@@ -2,7 +2,7 @@
 title: Fonepay
 slug: fonepay
 description: ""
-date: "2026-03-13T09:22:52.134378"
+date: "2026-03-20T08:22:03.197505"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - app
+  - financial
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
-  - garamond
-  - poppins
-  - "sans-serif"
   - serif
   - "century-gothic"
+  - garamond
+  - "sans-serif"
+  - poppins
 imagery_styles:
-  - modern
-  - lifestyle
-  - illustration
-  - minimal
-  - clean
   - product
+  - minimal
   - professional
   - bold
+  - modern
+  - illustration
+  - clean
+  - lifestyle
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,8 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://complain.fonepay.com/](https://complain.fonepay.com/)
-- [https://fonepay.com/](https://fonepay.com/)
+- [https://fonepay.com](https://fonepay.com)
+- [https://complain.fonepay.com](https://complain.fonepay.com)
 
 ## Brand Guidelines
 

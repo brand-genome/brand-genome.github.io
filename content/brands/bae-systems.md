@@ -2,7 +2,7 @@
 title: BAE Systems
 slug: "bae-systems"
 description: ""
-date: "2026-03-13T09:22:52.462454"
+date: "2026-03-20T08:22:03.506653"
 draft: false
 sectors:
   - defense
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - aeronautic
+  - technology
 industries:
   - "weapons-industry"
 countries:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://jobs.baesystems.com/](https://jobs.baesystems.com/)
-- [https://www.baesystems.com/](https://www.baesystems.com/)
+- [https://www.baesystems.com](https://www.baesystems.com)
 - [https://www.baesystems.com/en-us/home](https://www.baesystems.com/en-us/home)
+- [https://jobs.baesystems.com](https://jobs.baesystems.com)
+- [http://www.baesystems.com](http://www.baesystems.com)
 
 ## Brand Guidelines
 

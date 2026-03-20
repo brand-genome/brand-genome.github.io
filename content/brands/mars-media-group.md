@@ -2,7 +2,7 @@
 title: Mars Media Group
 slug: "mars-media-group"
 description: ""
-date: "2026-03-13T09:22:52.061309"
+date: "2026-03-20T08:22:03.127256"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mars.media/](https://mars.media/)
+- [https://mars.media](https://mars.media)
 
 ## Brand Guidelines
 

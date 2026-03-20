@@ -2,7 +2,7 @@
 title: TBUC
 slug: tbuc
 description: ""
-date: "2026-03-13T09:22:54.975634"
+date: "2026-03-20T08:22:05.706801"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eani.org.uk/tbuc](https://www.eani.org.uk/tbuc)
 - [https://www.executiveoffice-ni.gov.uk/topics/together-building-united-community-tbuc](https://www.executiveoffice-ni.gov.uk/topics/together-building-united-community-tbuc)
+- [https://www.eani.org.uk/tbuc](https://www.eani.org.uk/tbuc)
 
 ## Brand Guidelines
 

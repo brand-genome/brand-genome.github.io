@@ -2,11 +2,11 @@
 title: Brooklyn Community Pride Center
 slug: "brooklyn-community-pride-center"
 description: ""
-date: "2026-03-13T09:22:53.083748"
+date: "2026-03-20T08:22:04.084448"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,12 +48,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
 brand_colors:
-  - black
-  - white
   - brown
+  - white
+  - black
 typographies: []
 imagery_styles:
   - gradient
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lgbtbrooklyn.org/](https://lgbtbrooklyn.org/)
-- [https://www.lgbtbrooklyn.org/](https://www.lgbtbrooklyn.org/)
+- [https://www.lgbtbrooklyn.org](https://www.lgbtbrooklyn.org)
+- [https://lgbtbrooklyn.org](https://lgbtbrooklyn.org)
 
 ## Brand Guidelines
 

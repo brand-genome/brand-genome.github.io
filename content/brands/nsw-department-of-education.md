@@ -2,11 +2,11 @@
 title: NSW Department of Education
 slug: "nsw-department-of-education"
 description: ""
-date: "2026-03-13T09:22:52.896550"
+date: "2026-03-20T08:22:03.889389"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - australia
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://education.nsw.gov.au](https://education.nsw.gov.au)
 - [http://www.instagram.com/nsweducation](http://www.instagram.com/nsweducation)
 - [http://www.youtube.com/NSWDepartmentofEducation](http://www.youtube.com/NSWDepartmentofEducation)
 - [http://www.zendesk.com](http://www.zendesk.com)
-- [https://education.nsw.gov.au/](https://education.nsw.gov.au/)
 
 ## Brand Guidelines
 

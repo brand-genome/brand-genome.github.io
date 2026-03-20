@@ -2,7 +2,7 @@
 title: World Avocado Organization
 slug: "world-avocado-organization"
 description: ""
-date: "2026-03-13T09:22:54.573264"
+date: "2026-03-20T08:22:05.418261"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.youtube.com/watch?v=3lCMi58iRHQ](http://www.youtube.com/watch?v=3lCMi58iRHQ)
-- [https://avocadofruitoflife.com/](https://avocadofruitoflife.com/)
-- [https://avocadofruitoflife.com/about-us/](https://avocadofruitoflife.com/about-us/)
+- [https://avocadofruitoflife.com](https://avocadofruitoflife.com)
+- [https://avocadofruitoflife.com/about-us](https://avocadofruitoflife.com/about-us)
 - [https://www.avocadofruitoflife.com/es](https://www.avocadofruitoflife.com/es)
+- [http://www.youtube.com/watch?v=3lCMi58iRHQ](http://www.youtube.com/watch?v=3lCMi58iRHQ)
 
 ## Brand Guidelines
 

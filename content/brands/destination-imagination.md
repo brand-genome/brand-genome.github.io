@@ -2,11 +2,11 @@
 title: Destination Imagination
 slug: "destination-imagination"
 description: ""
-date: "2026-03-13T09:22:55.096521"
+date: "2026-03-20T08:22:05.802640"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - "cherry-hill"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.destinationimagination.org/](https://www.destinationimagination.org/)
+- [https://www.destinationimagination.org](https://www.destinationimagination.org)
+- [http://www.destinationimagination.org](http://www.destinationimagination.org)
 
 ## Brand Guidelines
 

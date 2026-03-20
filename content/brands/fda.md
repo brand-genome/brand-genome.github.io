@@ -2,7 +2,7 @@
 title: FDA
 slug: fda
 description: ""
-date: "2026-03-13T09:22:54.967380"
+date: "2026-03-20T08:22:05.699137"
 draft: false
 sectors:
   - "public-sector"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1906
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.amazon.com](http://www.amazon.com)
 - [https://www.fda.gov](https://www.fda.gov)
+- [http://www.amazon.com](http://www.amazon.com)
+- [https://fda.gov](https://fda.gov)
 
 ## Brand Guidelines
 

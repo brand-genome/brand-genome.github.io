@@ -2,7 +2,7 @@
 title: Koç
 slug: koc
 description: ""
-date: "2026-03-13T09:22:54.360265"
+date: "2026-03-20T08:22:05.190339"
 draft: false
 sectors:
   - conglomerate
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,8 +48,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - red
+  - grey
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.koc.com.tr/](https://www.koc.com.tr/)
+- [https://www.koc.com.tr](https://www.koc.com.tr)
 - [https://www.koc.com.tr/en](https://www.koc.com.tr/en)
 
 ## Brand Guidelines

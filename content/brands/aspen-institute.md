@@ -2,7 +2,7 @@
 title: Aspen Institute
 slug: "aspen-institute"
 description: ""
-date: "2026-03-13T09:22:53.444834"
+date: "2026-03-20T08:22:04.348299"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1950
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,17 +57,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - black
-  - pink
-  - blue
   - white
+  - grey
+  - blue
+  - pink
+  - black
 typographies:
   - arial
   - avenir
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: international nonprofit organization founded in 1950
 wikidata_url: "https://www.wikidata.org/wiki/Q457528"
 has_twitter: false
@@ -77,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aspeninstitute.org/](https://www.aspeninstitute.org/)
-- [https://www.aspeninstitute.org/branding/](https://www.aspeninstitute.org/branding/)
+- [https://www.aspeninstitute.org](https://www.aspeninstitute.org)
+- [https://www.aspeninstitute.org/branding](https://www.aspeninstitute.org/branding)
 
 ## Brand Guidelines
 

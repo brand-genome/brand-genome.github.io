@@ -2,7 +2,7 @@
 title: SESAR
 slug: sesar
 description: ""
-date: "2026-03-13T09:22:53.397053"
+date: "2026-03-20T08:22:04.300530"
 draft: false
 sectors:
   - aerospace
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.sesar.eu](http://www.sesar.eu)
-- [https://sesar.eu/masterplan](https://sesar.eu/masterplan)
-- [https://www.sesarju.eu/](https://www.sesarju.eu/)
+- [https://www.sesarju.eu](https://www.sesarju.eu)
 - [https://www.sesarju.eu/projects/portal](https://www.sesarju.eu/projects/portal)
+- [https://sesar.eu/masterplan](https://sesar.eu/masterplan)
+- [http://www.sesar.eu](http://www.sesar.eu)
 
 ## Brand Guidelines
 

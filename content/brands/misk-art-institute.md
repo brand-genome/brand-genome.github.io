@@ -2,7 +2,7 @@
 title: Misk Art Institute
 slug: "misk-art-institute"
 description: ""
-date: "2026-03-13T09:22:51.916666"
+date: "2026-03-20T08:22:03.073536"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - purple
-  - white
   - blue
+  - white
+  - purple
+  - black
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
-  - dynamic
-  - photography
-  - graphic
   - clean
+  - dynamic
+  - graphic
+  - photography
 wikidata_description: "non-profit cultural organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q107140628"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://misk.org.sa/en/](https://misk.org.sa/en/)
 - [https://miskartinstitute.org/en](https://miskartinstitute.org/en)
+- [https://misk.org.sa/en](https://misk.org.sa/en)
+- [https://miskartinstitute.org](https://miskartinstitute.org)
 
 ## Brand Guidelines
 

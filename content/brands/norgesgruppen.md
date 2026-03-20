@@ -2,11 +2,11 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-03-13T09:22:53.763745"
+date: "2026-03-20T08:22:04.720946"
 draft: false
 sectors:
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - norway
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "food-retail-sector"
   - retail
+  - "food-retail-sector"
 countries:
   - norway
 revenue_buckets:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,16 +57,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: food retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q2575956"
 has_twitter: false
@@ -76,14 +78,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.norgesgruppen.no](https://www.norgesgruppen.no)
+- [https://www.norgesgruppen.no/en](https://www.norgesgruppen.no/en)
+- [https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram](https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram)
+- [https://unil.no](https://unil.no)
 - [http://www.frutimian.no](http://www.frutimian.no)
 - [http://www.kiwi.no](http://www.kiwi.no)
 - [http://www.meny.no/oppskrifter](http://www.meny.no/oppskrifter)
 - [http://www.norgesgruppen.no](http://www.norgesgruppen.no)
-- [https://unil.no/](https://unil.no/)
-- [https://www.norgesgruppen.no/](https://www.norgesgruppen.no/)
-- [https://www.norgesgruppen.no/en/](https://www.norgesgruppen.no/en/)
-- [https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram/](https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram/)
+- [https://norgesgruppen.no](https://norgesgruppen.no)
+- [https://norgesgruppen.no/norgesgruppen-in-english/this-is-norgesgruppen](https://norgesgruppen.no/norgesgruppen-in-english/this-is-norgesgruppen)
 
 ## Brand Guidelines
 

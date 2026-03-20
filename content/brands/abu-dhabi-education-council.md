@@ -2,11 +2,11 @@
 title: Abu Dhabi Education Council
 slug: "abu-dhabi-education-council"
 description: ""
-date: "2026-03-13T09:22:55.164713"
+date: "2026-03-20T08:22:05.865934"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "abu-dhabi"
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - signature
+  - wordmark
 brand_colors:
-  - turquoise
   - red
+  - turquoise
 typographies: []
 imagery_styles:
   - illustration
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://educationawards.ae/](https://educationawards.ae/)
-- [https://www.adek.gov.ae/](https://www.adek.gov.ae/)
+- [https://www.adek.gov.ae](https://www.adek.gov.ae)
+- [https://educationawards.ae](https://educationawards.ae)
+- [https://www.adec.ac.ae/en](https://www.adec.ac.ae/en)
 
 ## Brand Guidelines
 

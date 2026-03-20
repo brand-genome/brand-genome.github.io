@@ -2,16 +2,16 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-03-13T09:22:53.440875"
+date: "2026-03-20T08:22:04.344622"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
-  - 2015
   - 2021
+  - 2015
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +53,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - alternate
-  - secondary
+  - wordmark
   - primary
+  - secondary
 brand_colors:
   - "pantone-127"
-  - "pantone-442"
-  - "pantone-188"
-  - "pantone-302"
   - "pantone-1795"
-  - black
   - white
+  - "pantone-442"
+  - "pantone-302"
+  - "pantone-188"
+  - black
 typographies:
   - arial
   - gotham
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.toastmasters.org/](https://www.toastmasters.org/)
+- [https://www.toastmasters.org](https://www.toastmasters.org)
 - [https://www.toastmasters.org/Logos](https://www.toastmasters.org/Logos)
+- [http://www.toastmasters.org](http://www.toastmasters.org)
 
 ## Brand Guidelines
 

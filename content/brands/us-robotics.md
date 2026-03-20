@@ -2,11 +2,11 @@
 title: US Robotics
 slug: "us-robotics"
 description: ""
-date: "2026-03-13T09:22:53.697970"
+date: "2026-03-20T08:22:04.552849"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - engineering
+  - technology
 industries:
   - "computer-industry"
 countries:
@@ -28,16 +28,18 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "voice-over-ip"
-  - software
   - "computer-network"
   - modem
+  - "voice-over-ip"
+  - software
 products: []
 headquarters_locations:
   - schaumburg
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,21 +61,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-1505"
-  - gray
-  - orange
   - red
   - "pantone-485"
+  - "pantone-1505"
   - white
+  - gray
+  - orange
 typographies:
-  - serif
   - garamond
+  - serif
 imagery_styles:
-  - classic
+  - product
   - artificial
   - minimal
+  - classic
   - photography
-  - product
 wikidata_description: business enterprise
 wikidata_url: "https://www.wikidata.org/wiki/Q1700277"
 has_twitter: false
@@ -85,8 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.usr.com/](https://www.usr.com/)
-- [https://www.usrobotics.com/](https://www.usrobotics.com/)
+- [https://www.usrobotics.com](https://www.usrobotics.com)
+- [https://www.usr.com](https://www.usr.com)
+- [http://www.usr.com](http://www.usr.com)
 
 ## Brand Guidelines
 
@@ -138,7 +141,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Software](/products_or_materials_produced/software/); [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/) |
+| Product Or Material Produced | [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/); [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Schaumburg](/headquarters_locations/schaumburg/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Freebase Id | /m/01c18s |

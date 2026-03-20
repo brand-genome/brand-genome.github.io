@@ -2,11 +2,11 @@
 title: Benediktiner Weissbier
 slug: "benediktiner-weissbier"
 description: ""
-date: "2026-03-13T09:22:52.814296"
+date: "2026-03-20T08:22:03.827267"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - germany
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.benediktiner-weissbier.de/](https://www.benediktiner-weissbier.de/)
-- [https://www.benediktiner-weissbier.de/de/](https://www.benediktiner-weissbier.de/de/)
-- [https://www.benediktiner-weissbier.de/en/](https://www.benediktiner-weissbier.de/en/)
+- [https://www.benediktiner-weissbier.de](https://www.benediktiner-weissbier.de)
+- [https://www.benediktiner-weissbier.de/en](https://www.benediktiner-weissbier.de/en)
+- [https://www.benediktiner-weissbier.de/de](https://www.benediktiner-weissbier.de/de)
 
 ## Brand Guidelines
 

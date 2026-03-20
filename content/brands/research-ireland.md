@@ -2,11 +2,11 @@
 title: Research Ireland
 slug: "research-ireland"
 description: ""
-date: "2026-03-13T09:22:52.228051"
+date: "2026-03-20T08:22:03.292826"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - ireland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
   - science
 industries: []
 countries:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2024
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,25 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - alternate
   - logomark
   - primary
-  - alternate
   - secondary
 brand_colors:
-  - yellow
-  - black
   - green
   - white
+  - yellow
   - brown
+  - black
 typographies:
-  - inter
   - "sans-serif"
+  - inter
 imagery_styles:
+  - bold
   - natural
-  - geometric
   - photography
   - gradient
-  - bold
+  - geometric
 wikidata_description: "government organization in Dublin, Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q131294864"
 has_twitter: false
@@ -81,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.researchireland.ie/](https://www.researchireland.ie/)
+- [https://www.researchireland.ie](https://www.researchireland.ie)
 
 ## Brand Guidelines
 

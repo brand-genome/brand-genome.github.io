@@ -2,7 +2,7 @@
 title: Viber
 slug: viber
 description: ""
-date: "2026-03-13T09:22:54.716658"
+date: "2026-03-20T08:22:05.515779"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Viber.com/ibizarocks](http://www.Viber.com/ibizarocks)
-- [https://www.forbusiness.viber.com/en/](https://www.forbusiness.viber.com/en/)
-- [https://www.viber.com/](https://www.viber.com/)
-- [https://www.viber.com/blog/](https://www.viber.com/blog/)
-- [https://www.viber.com/en/terms/](https://www.viber.com/en/terms/)
-- [https://www.viber.com/ja/](https://www.viber.com/ja/)
+- [https://www.viber.com](https://www.viber.com)
+- [https://www.viber.com/ja](https://www.viber.com/ja)
+- [https://www.viber.com/blog](https://www.viber.com/blog)
+- [https://www.viber.com/en/terms](https://www.viber.com/en/terms)
+- [https://www.forbusiness.viber.com/en](https://www.forbusiness.viber.com/en)
+- [http://www.viber.com/ibizarocks](http://www.viber.com/ibizarocks)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Abita Beer
 slug: "abita-beer"
 description: ""
-date: "2026-03-13T09:22:53.932937"
+date: "2026-03-20T08:22:04.852293"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +55,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
+  - white
   - purple
   - grey
-  - white
+  - black
 typographies:
   - helvetica
   - akzidenz
@@ -72,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://abita.com/](https://abita.com/)
+- [https://abita.com](https://abita.com)
 
 ## Brand Guidelines
 

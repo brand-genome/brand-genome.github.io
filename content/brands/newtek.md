@@ -2,7 +2,7 @@
 title: NewTek
 slug: newtek
 description: ""
-date: "2026-03-13T09:22:53.661055"
+date: "2026-03-20T08:22:04.519008"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +50,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - gray
-  - "pantone-426"
-  - black
-  - magenta
-  - blue
   - white
+  - "pantone-426"
+  - blue
+  - gray
+  - magenta
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: 3D graphics software
 wikidata_url: "https://www.wikidata.org/wiki/Q857341"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.newtek.com/](https://www.newtek.com/)
-- [https://www.vizrt.com/](https://www.vizrt.com/)
+- [https://www.newtek.com](https://www.newtek.com)
+- [https://www.vizrt.com](https://www.vizrt.com)
+- [http://www.newtek.com/lightwave](http://www.newtek.com/lightwave)
 
 ## Brand Guidelines
 

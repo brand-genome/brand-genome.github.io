@@ -2,7 +2,7 @@
 title: Unión Deportiva Las Palmas
 slug: "union-deportiva-las-palmas"
 description: ""
-date: "2026-03-13T09:22:53.437149"
+date: "2026-03-20T08:22:04.341043"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - white
+  - "pantone-109"
+  - blue
+  - "pantone-293"
   - yellow
   - black
-  - "pantone-109"
-  - "pantone-293"
-  - blue
-  - white
 typographies:
-  - display
-  - arial
   - "sans-serif"
+  - arial
+  - display
   - din
 imagery_styles:
-  - monochrome
-  - clean
   - minimal
-  - photography
   - bold
+  - photography
+  - clean
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.udlaspalmas.es](https://www.udlaspalmas.es)
 - [http://www.udlaspalmas.es](http://www.udlaspalmas.es)
-- [https://www.udlaspalmas.es/](https://www.udlaspalmas.es/)
 
 ## Brand Guidelines
 

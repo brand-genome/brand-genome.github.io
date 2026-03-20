@@ -2,7 +2,7 @@
 title: Wisconsin Union
 slug: "wisconsin-union"
 description: ""
-date: "2026-03-13T09:22:53.239683"
+date: "2026-03-20T08:22:04.157789"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
-  - wordmark
   - signature
+  - wordmark
+  - symbol
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
   - display
 imagery_styles: []
@@ -69,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://union.wisc.edu](https://union.wisc.edu)
+- [https://union.wisc.edu/visit/memorial-union](https://union.wisc.edu/visit/memorial-union)
+- [https://union.wisc.edu/visit/union-south](https://union.wisc.edu/visit/union-south)
 - [http://www.wisc.edu](http://www.wisc.edu)
-- [https://union.wisc.edu/](https://union.wisc.edu/)
-- [https://union.wisc.edu/visit/memorial-union/](https://union.wisc.edu/visit/memorial-union/)
-- [https://union.wisc.edu/visit/union-south/](https://union.wisc.edu/visit/union-south/)
 
 ## Brand Guidelines
 

@@ -2,21 +2,21 @@
 title: Universidad de Murcia
 slug: "universidad-de-murcia"
 description: ""
-date: "2026-03-13T09:22:52.239943"
+date: "2026-03-20T08:22:03.303616"
 draft: false
 sectors:
   - university
 regions:
   - spain
 years:
-  - 2009
   - 2023
+  - 2009
 languages:
   - spanish
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries:
   - spain
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1915
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,22 +56,22 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-187"
   - silver
-  - grey
-  - black
   - red
   - gold
   - white
+  - grey
+  - "pantone-187"
+  - black
 typographies:
-  - arial
   - helvetica
-  - verdana
+  - arial
   - din
+  - verdana
 imagery_styles:
-  - gradient
   - bold
   - graphic
+  - gradient
 wikidata_description: public university in Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q1236345"
 has_twitter: false
@@ -81,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://datos.um.es/](https://datos.um.es/)
-- [https://www.um.es/](https://www.um.es/)
+- [https://www.um.es](https://www.um.es)
+- [https://datos.um.es](https://datos.um.es)
 
 ## Brand Guidelines
 

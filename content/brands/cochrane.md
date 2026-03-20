@@ -2,13 +2,13 @@
 title: Cochrane
 slug: cochrane
 description: ""
-date: "2026-03-13T09:22:53.425663"
+date: "2026-03-20T08:22:04.328932"
 draft: false
 sectors:
   - research
   - publishing
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - ngo
+  - health
 industries:
   - "health-care"
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://community.cochrane.org/](https://community.cochrane.org/)
-- [https://www.cochrane.org/](https://www.cochrane.org/)
-- [https://www.cochranelibrary.com/](https://www.cochranelibrary.com/)
+- [https://www.cochrane.org](https://www.cochrane.org)
+- [https://community.cochrane.org](https://community.cochrane.org)
+- [https://www.cochranelibrary.com](https://www.cochranelibrary.com)
+- [http://www.cochrane.org](http://www.cochrane.org)
 
 ## Brand Guidelines
 

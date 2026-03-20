@@ -2,7 +2,7 @@
 title: Audi
 slug: audi
 description: ""
-date: "2026-03-13T09:22:52.231956"
+date: "2026-03-20T08:22:03.295340"
 draft: false
 sectors:
   - automobile
@@ -16,11 +16,11 @@ tags:
   - transport
   - corporate
 industries:
-  - "vehicle-construction"
   - "automotive-industry"
+  - "vehicle-construction"
 countries:
-  - germany
   - "german-reich"
+  - germany
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1909
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,12 +62,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-186"
-  - grey
-  - black
   - red
   - "pantone-485"
   - white
+  - grey
+  - "pantone-186"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: German automotive manufacturing subsidiary of Volkswagen Group
@@ -79,10 +81,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://my.audi.com/](https://my.audi.com/)
-- [https://www.audi.com/](https://www.audi.com/)
-- [https://www.audi.com/de/](https://www.audi.com/de/)
-- [https://www.audi.com/en/company/](https://www.audi.com/en/company/)
+- [https://www.audi.com](https://www.audi.com)
+- [https://www.audi.com/en/company](https://www.audi.com/en/company)
+- [https://www.audi.com/de](https://www.audi.com/de)
+- [https://my.audi.com](https://my.audi.com)
+- [https://www.audi.co.za](https://www.audi.co.za)
+- [https://www.audi.de](https://www.audi.de)
+- [https://www.audi.fr](https://www.audi.fr)
 
 ## Brand Guidelines
 

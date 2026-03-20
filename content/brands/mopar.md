@@ -2,12 +2,12 @@
 title: Mopar
 slug: mopar
 description: ""
-date: "2026-03-13T09:22:54.415730"
+date: "2026-03-20T08:22:05.295575"
 draft: false
 sectors:
+  - automobile
   - "e-commerce"
   - "consumer-goods"
-  - automobile
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1933
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +63,8 @@ typographies:
   - arial
   - script
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: "American car parts, service, and customer care company"
 wikidata_url: "https://www.wikidata.org/wiki/Q304444"
 has_twitter: false
@@ -74,12 +76,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mopar.com/en-us/store.html](https://www.mopar.com/en-us/store.html)
+- [https://www.mopar.com](https://www.mopar.com)
+- [https://store.mopar.com](https://store.mopar.com)
 - [http://www.chrysler.com](http://www.chrysler.com)
 - [http://www.pinterest.com/mopar](http://www.pinterest.com/mopar)
 - [http://www.youtube.com/mopar](http://www.youtube.com/mopar)
-- [https://store.mopar.com/](https://store.mopar.com/)
-- [https://www.mopar.com/](https://www.mopar.com/)
-- [https://www.mopar.com/en-us/store.html](https://www.mopar.com/en-us/store.html)
 
 ## Brand Guidelines
 

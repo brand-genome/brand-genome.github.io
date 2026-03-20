@@ -2,7 +2,7 @@
 title: Berlin University of the Arts
 slug: "berlin-university-of-the-arts"
 description: ""
-date: "2026-03-13T09:22:53.442358"
+date: "2026-03-20T08:22:04.346217"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
   - art
 industries: []
 countries:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1696
+foundation_year_buckets:
+  - "17TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.udk-berlin.de/](https://www.udk-berlin.de/)
-- [https://www.udk-berlin.de/en/](https://www.udk-berlin.de/en/)
+- [https://www.udk-berlin.de](https://www.udk-berlin.de)
+- [https://www.udk-berlin.de/en](https://www.udk-berlin.de/en)
 
 ## Brand Guidelines
 

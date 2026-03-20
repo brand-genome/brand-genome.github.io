@@ -2,7 +2,7 @@
 title: RGB do Brasil
 slug: "rgb-do-brasil"
 description: ""
-date: "2026-03-13T09:22:53.665642"
+date: "2026-03-20T08:22:04.523059"
 draft: false
 sectors:
   - automobile
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

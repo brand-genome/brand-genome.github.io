@@ -2,7 +2,7 @@
 title: Polish History Museum
 slug: "polish-history-museum"
 description: ""
-date: "2026-03-13T09:22:51.911383"
+date: "2026-03-20T08:22:03.070369"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - polish
 tags:
-  - museum
   - culture
+  - museum
 industries: []
 countries:
   - poland
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://muzhp.pl/](https://muzhp.pl/)
+- [https://muzhp.pl](https://muzhp.pl)
+- [http://www.muzhp.pl](http://www.muzhp.pl)
 
 ## Brand Guidelines
 

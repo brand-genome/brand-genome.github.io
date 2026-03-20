@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-03-13T09:22:53.692321"
+date: "2026-03-20T08:22:04.548851"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,7 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
+  - red
+  - gold
+  - "pantone-420"
   - "pantone-464"
   - "pantone-282"
-  - "pantone-193"
-  - gray
-  - black
-  - red
-  - blue
-  - "pantone-420"
-  - gold
   - white
+  - blue
+  - gray
+  - "pantone-193"
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - staged
   - bold
+  - staged
 wikidata_description: US sailing team
 wikidata_url: "https://www.wikidata.org/wiki/Q104887673"
 has_twitter: false
@@ -81,9 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://americanmagic.americascup.com/](https://americanmagic.americascup.com/)
+- [https://www.americanmagic.com](https://www.americanmagic.com)
+- [https://americanmagic.americascup.com](https://americanmagic.americascup.com)
 - [https://americanmagic.americascup.com/en/store](https://americanmagic.americascup.com/en/store)
-- [https://www.americanmagic.com/](https://www.americanmagic.com/)
 
 ## Brand Guidelines
 

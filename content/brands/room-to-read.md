@@ -2,22 +2,22 @@
 title: Room to Read
 slug: "room-to-read"
 description: ""
-date: "2026-03-13T09:22:52.314887"
+date: "2026-03-20T08:22:03.381533"
 draft: false
 sectors:
-  - education
   - publishing
   - ngo
+  - education
 regions:
   - usa
 years:
-  - 2023
   - 2016
+  - 2023
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
   - ngo
 industries:
   - education
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,29 +59,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - signature
+  - wordmark
+  - primary
 brand_colors:
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
-  - arial
-  - helvetica
   - impact
+  - helvetica
+  - arial
 imagery_styles:
-  - natural
-  - vibrant
-  - photography
   - colorful
   - bold
+  - natural
+  - photography
+  - vibrant
 wikidata_description: "American non-profit focused on literacy"
 wikidata_url: "https://www.wikidata.org/wiki/Q13920"
 has_twitter: false
@@ -91,8 +93,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.roomtoread.org/](https://www.roomtoread.org/)
-- [https://www.roomtoread.org/about-us/media/](https://www.roomtoread.org/about-us/media/)
+- [https://www.roomtoread.org](https://www.roomtoread.org)
+- [https://www.roomtoread.org/about-us/media](https://www.roomtoread.org/about-us/media)
+- [http://www.roomtoread.org](http://www.roomtoread.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Environex
 slug: environex
 description: ""
-date: "2026-03-13T09:22:52.867277"
+date: "2026-03-20T08:22:03.867873"
 draft: false
 sectors:
   - research
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://environex.com/](https://environex.com/)
+- [https://environex.com](https://environex.com)
 
 ## Brand Guidelines
 

@@ -2,15 +2,15 @@
 title: Government of Alberta
 slug: "government-of-alberta"
 description: ""
-date: "2026-03-13T09:22:52.886870"
+date: "2026-03-20T08:22:03.878531"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - canada
 years:
-  - 2018
   - 2023
+  - 2018
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.alberta.ca](https://www.alberta.ca)
 - [http://www.canadapost.ca/tools/pg/3_Designing/PSmachineable-e.pdf](http://www.canadapost.ca/tools/pg/3_Designing/PSmachineable-e.pdf)
 - [http://www.fpac.ca](http://www.fpac.ca)
-- [https://www.alberta.ca/](https://www.alberta.ca/)
 
 ## Brand Guidelines
 

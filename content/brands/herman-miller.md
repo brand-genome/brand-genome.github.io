@@ -2,15 +2,15 @@
 title: Herman Miller
 slug: "herman-miller"
 description: ""
-date: "2026-03-13T09:22:52.782463"
+date: "2026-03-20T08:22:03.793607"
 draft: false
 sectors:
   - "consumer-goods"
 regions:
   - usa
 years:
-  - 2015
   - 2010
+  - 2015
 languages:
   - english
 tags:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1923
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,22 +55,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - logomark
+  - symbol
   - wordmark
   - primary
-  - symbol
-  - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
-  - display
   - times
+  - display
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: "manufacturer of high-end office furniture"
 wikidata_url: "https://www.wikidata.org/wiki/Q489469"
 has_twitter: false
@@ -80,8 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hermanmiller.com/](https://www.hermanmiller.com/)
-- [https://www.hermanmiller.com/en_us/](https://www.hermanmiller.com/en_us/)
+- [https://www.hermanmiller.com/en_us](https://www.hermanmiller.com/en_us)
+- [https://www.hermanmiller.com](https://www.hermanmiller.com)
 
 ## Brand Guidelines
 

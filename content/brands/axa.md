@@ -2,11 +2,11 @@
 title: Axa
 slug: axa
 description: ""
-date: "2026-03-13T09:22:53.492044"
+date: "2026-03-20T08:22:04.387721"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - france
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
+  - insurance
   - featured
-  - insurance
 industries:
-  - "insurance-industry"
   - insurance
-  - "investment-funds-and-similar-financial-entities"
   - "financial-services"
+  - "insurance-industry"
+  - "investment-funds-and-similar-financial-entities"
 countries:
   - france
 revenue_buckets:
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1816
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,7 +76,19 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.axa.com/](https://www.axa.com/)
+- [https://www.axa.com](https://www.axa.com)
+- [https://agence.axa.fr](https://agence.axa.fr)
+- [https://www.axa-betreuer.de](https://www.axa-betreuer.de)
+- [https://www.axa.es](https://www.axa.es)
+- [https://www.axa.fr](https://www.axa.fr)
+- [https://www.axa.de](https://www.axa.de)
+- [https://www.axa.be](https://www.axa.be)
+- [https://agenzie.axa.it](https://agenzie.axa.it)
+- [https://axa.mx](https://axa.mx)
+- [https://www.axa.it](https://www.axa.it)
+- [https://www.axasigorta.com.tr](https://www.axasigorta.com.tr)
+- [https://www.axa.ch](https://www.axa.ch)
+- [https://passion.axa.fr](https://passion.axa.fr)
 
 ## Brand Guidelines
 

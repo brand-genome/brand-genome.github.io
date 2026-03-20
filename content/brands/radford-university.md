@@ -2,7 +2,7 @@
 title: Radford University
 slug: "radford-university"
 description: ""
-date: "2026-03-13T09:22:55.040011"
+date: "2026-03-20T08:22:05.742569"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,9 +55,9 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - graphic
   - static
+  - photography
 wikidata_description: "university in Virginia, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q632465"
 has_twitter: false
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.radford.edu/](https://www.radford.edu/)
+- [https://www.radford.edu](https://www.radford.edu)
 - [https://www.radford.edu/marketing-communication/graphic-identity.html](https://www.radford.edu/marketing-communication/graphic-identity.html)
+- [http://www.radford.edu](http://www.radford.edu)
 
 ## Brand Guidelines
 

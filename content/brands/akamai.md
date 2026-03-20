@@ -2,12 +2,12 @@
 title: Akamai
 slug: akamai
 description: ""
-date: "2026-03-13T09:22:51.915644"
+date: "2026-03-20T08:22:03.072119"
 draft: false
 sectors:
-  - software
-  - cybersecurity
   - networking
+  - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - software
   - technology
 industries:
-  - "internet-industry"
   - "web-hosting-service"
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -39,11 +39,13 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - cambridge
   - massachusetts
+  - cambridge
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "American content delivery network, cybersecurity, and cloud service company"
 wikidata_url: "https://www.wikidata.org/wiki/Q415598"
 has_twitter: false
@@ -78,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.akamai.com/](https://www.akamai.com/)
+- [https://www.akamai.com](https://www.akamai.com)
 
 ## Brand Guidelines
 
@@ -96,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Cambridge](/headquarters_locations/cambridge/); [Massachusetts](/headquarters_locations/massachusetts/) |
+| Headquarters Location | [Massachusetts](/headquarters_locations/massachusetts/); [Cambridge](/headquarters_locations/cambridge/) |
 | Foundation Date | [1998](/foundation_dates/1998/) |
 | Founded By | F. Thomson Leighton, Daniel Lewin, Randall Kaplan |
 | Stock Exchange | Nasdaq (from 1999-10-29) |

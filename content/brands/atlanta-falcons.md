@@ -2,7 +2,7 @@
 title: Atlanta Falcons
 slug: "atlanta-falcons"
 description: ""
-date: "2026-03-13T09:22:53.299580"
+date: "2026-03-20T08:22:04.220496"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.AtlantaFalcons.com](http://www.AtlantaFalcons.com)
+- [https://www.atlantafalcons.com](https://www.atlantafalcons.com)
+- [http://www.atlantafalcons.com](http://www.atlantafalcons.com)
 - [http://www.nfl.com](http://www.nfl.com)
-- [https://www.atlantafalcons.com/](https://www.atlantafalcons.com/)
 
 ## Brand Guidelines
 

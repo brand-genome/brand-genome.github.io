@@ -2,7 +2,7 @@
 title: Labour Party
 slug: "labour-party"
 description: ""
-date: "2026-03-13T09:22:53.087095"
+date: "2026-03-20T08:22:04.088116"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,16 +51,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies:
   - "century-gothic"
   - impact
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: Polish political party
 wikidata_url: "https://www.wikidata.org/wiki/Q11813077"
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.flickr.com/photos/uk_parliament/](http://www.flickr.com/photos/uk_parliament/)
-- [https://labour.org.uk/](https://labour.org.uk/)
-- [https://www.gettyimages.co.uk/](https://www.gettyimages.co.uk/)
-- [https://www.paimages.co.uk/](https://www.paimages.co.uk/)
+- [https://labour.org.uk](https://labour.org.uk)
+- [http://www.flickr.com/photos/uk_parliament](http://www.flickr.com/photos/uk_parliament)
+- [https://www.gettyimages.co.uk](https://www.gettyimages.co.uk)
+- [https://www.paimages.co.uk](https://www.paimages.co.uk)
 
 ## Brand Guidelines
 

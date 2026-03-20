@@ -2,7 +2,7 @@
 title: Chihuahua
 slug: chihuahua
 description: ""
-date: "2026-03-13T09:22:53.332419"
+date: "2026-03-20T08:22:04.242654"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1709
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - "pantone-541"
   - black
   - grey
-  - "pantone-541"
   - blue
 typographies:
   - gotham
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "capital of the State of Chihuahua, Mexico"
 wikidata_url: "https://www.wikidata.org/wiki/Q61302"
 has_twitter: false
@@ -70,15 +72,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.chihuahua.gob.mx](https://www.chihuahua.gob.mx)
+- [https://app.chihuahua.gob.mx](https://app.chihuahua.gob.mx)
+- [https://app.chihuahua.gob.mx/directorio](https://app.chihuahua.gob.mx/directorio)
+- [https://tramites.chihuahua.gob.mx](https://tramites.chihuahua.gob.mx)
+- [https://citas.chihuahua.gob.mx](https://citas.chihuahua.gob.mx)
+- [https://participa.chihuahua.gob.mx](https://participa.chihuahua.gob.mx)
+- [https://cecoci.chihuahua.gob.mx](https://cecoci.chihuahua.gob.mx)
+- [https://turismo.chihuahua.gob.mx](https://turismo.chihuahua.gob.mx)
 - [http://www.gob.mx](http://www.gob.mx)
-- [https://app.chihuahua.gob.mx/](https://app.chihuahua.gob.mx/)
-- [https://app.chihuahua.gob.mx/directorio/](https://app.chihuahua.gob.mx/directorio/)
-- [https://cecoci.chihuahua.gob.mx/](https://cecoci.chihuahua.gob.mx/)
-- [https://citas.chihuahua.gob.mx/](https://citas.chihuahua.gob.mx/)
-- [https://participa.chihuahua.gob.mx/](https://participa.chihuahua.gob.mx/)
-- [https://tramites.chihuahua.gob.mx/](https://tramites.chihuahua.gob.mx/)
-- [https://turismo.chihuahua.gob.mx/](https://turismo.chihuahua.gob.mx/)
-- [https://www.chihuahua.gob.mx/](https://www.chihuahua.gob.mx/)
+- [http://www.municipiochihuahua.gob.mx](http://www.municipiochihuahua.gob.mx)
 
 ## Brand Guidelines
 

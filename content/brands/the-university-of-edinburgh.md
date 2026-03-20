@@ -2,12 +2,12 @@
 title: The University of Edinburgh
 slug: "the-university-of-edinburgh"
 description: ""
-date: "2026-03-13T09:22:55.082025"
+date: "2026-03-20T08:22:05.784829"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1583
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,15 +55,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
   - "pantone-282"
   - white
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Edinburgh, Scotland, United Kingdom"
@@ -75,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ed.ac.uk/](https://www.ed.ac.uk/)
+- [https://www.ed.ac.uk](https://www.ed.ac.uk)
 - [https://www.ed.ac.uk/brand](https://www.ed.ac.uk/brand)
 
 ## Brand Guidelines

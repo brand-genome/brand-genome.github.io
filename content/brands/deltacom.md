@@ -2,7 +2,7 @@
 title: Delta.com
 slug: deltacom
 description: ""
-date: "2026-03-13T09:22:53.256596"
+date: "2026-03-20T08:22:04.182173"
 draft: false
 sectors:
   - airline
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - yellow
-  - orange
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - orange
 typographies:
-  - verdana
   - "sans-serif"
+  - verdana
   - impact
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,10 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DELTA.COM](http://www.DELTA.COM)
-- [https://ir.delta.com/](https://ir.delta.com/)
-- [https://news.delta.com/](https://news.delta.com/)
-- [https://www.delta.com/](https://www.delta.com/)
+- [https://www.delta.com](https://www.delta.com)
+- [https://ir.delta.com](https://ir.delta.com)
+- [https://news.delta.com](https://news.delta.com)
+- [http://www.delta.com](http://www.delta.com)
 
 ## Brand Guidelines
 

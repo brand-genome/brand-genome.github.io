@@ -2,7 +2,7 @@
 title: Skidmore College
 slug: "skidmore-college"
 description: ""
-date: "2026-03-13T09:22:52.065549"
+date: "2026-03-20T08:22:03.131282"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1903
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.skidmore.edu](https://www.skidmore.edu)
+- [https://skidmoreathletics.com](https://skidmoreathletics.com)
 - [http://www.instagram.com/lifeatskidmore](http://www.instagram.com/lifeatskidmore)
-- [https://skidmoreathletics.com/](https://skidmoreathletics.com/)
-- [https://www.skidmore.edu/](https://www.skidmore.edu/)
 
 ## Brand Guidelines
 

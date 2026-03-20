@@ -2,11 +2,11 @@
 title: Sentinels of Freedom
 slug: "sentinels-of-freedom"
 description: ""
-date: "2026-03-13T09:22:54.079196"
+date: "2026-03-20T08:22:04.925194"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - georgia
 imagery_styles:
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sentinelsoffreedom.org/](https://sentinelsoffreedom.org/)
+- [https://sentinelsoffreedom.org](https://sentinelsoffreedom.org)
 
 ## Brand Guidelines
 

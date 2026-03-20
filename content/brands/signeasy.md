@@ -2,7 +2,7 @@
 title: Signeasy
 slug: signeasy
 description: ""
-date: "2026-03-13T09:22:52.024158"
+date: "2026-03-20T08:22:03.103105"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://signeasy.com](https://signeasy.com)
+- [http://getsigneasy.com](http://getsigneasy.com)
 
 ## Brand Guidelines
 

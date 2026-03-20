@@ -2,7 +2,7 @@
 title: EELISA
 slug: eelisa
 description: ""
-date: "2026-03-13T09:22:51.890655"
+date: "2026-03-20T08:22:03.061786"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2020
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eelisa.eu/](https://eelisa.eu/)
-- [https://eelisa.upb.ro/](https://eelisa.upb.ro/)
-- [https://www.eelisa.fau.de/](https://www.eelisa.fau.de/)
+- [https://eelisa.eu](https://eelisa.eu)
+- [https://www.eelisa.fau.de](https://www.eelisa.fau.de)
+- [https://eelisa.upb.ro](https://eelisa.upb.ro)
 
 ## Brand Guidelines
 

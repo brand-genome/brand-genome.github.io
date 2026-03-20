@@ -2,7 +2,7 @@
 title: Comsol
 slug: comsol
 description: ""
-date: "2026-03-13T09:22:52.329222"
+date: "2026-03-20T08:22:03.397038"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,11 +61,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.comsol.com](https://www.comsol.com)
+- [https://www.comsol.se](https://www.comsol.se)
+- [https://www.comsol.de](https://www.comsol.de)
+- [https://www.comsol.fr](https://www.comsol.fr)
 - [http://www.comsol.com](http://www.comsol.com)
-- [https://www.comsol.com/](https://www.comsol.com/)
-- [https://www.comsol.de/](https://www.comsol.de/)
-- [https://www.comsol.fr/](https://www.comsol.fr/)
-- [https://www.comsol.se/](https://www.comsol.se/)
 
 ## Brand Guidelines
 

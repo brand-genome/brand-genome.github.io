@@ -2,7 +2,7 @@
 title: The Explorer’s Road
 slug: "the-explorers-road"
 description: ""
-date: "2026-03-13T09:22:53.511044"
+date: "2026-03-20T08:22:04.404740"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-7555"
-  - grey
-  - black
-  - "pantone-446"
   - white
+  - grey
+  - "pantone-446"
+  - "pantone-7555"
+  - black
 typographies:
   - arial
   - lato
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.explorersroad.com/](https://www.explorersroad.com/)
+- [https://www.explorersroad.com](https://www.explorersroad.com)
 
 ## Brand Guidelines
 

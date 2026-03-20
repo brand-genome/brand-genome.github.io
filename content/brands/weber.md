@@ -2,7 +2,7 @@
 title: Weber
 slug: weber
 description: ""
-date: "2026-03-13T09:22:53.493984"
+date: "2026-03-20T08:22:04.390205"
 draft: false
 sectors:
   - construction
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
-  - primary
-  - symbol
   - vertical
+  - symbol
+  - primary
+  - favicon
 brand_colors:
-  - purple
-  - grey
-  - yellow
-  - orange
-  - blue
   - green
   - white
+  - purple
+  - grey
+  - blue
+  - yellow
+  - orange
 typographies:
   - display
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://distributeurs.fr.weber/](https://distributeurs.fr.weber/)
-- [https://nic.weber/](https://nic.weber/)
 - [https://www.weber.fr](https://www.weber.fr)
+- [https://distributeurs.fr.weber](https://distributeurs.fr.weber)
+- [https://nic.weber](https://nic.weber)
 
 ## Brand Guidelines
 

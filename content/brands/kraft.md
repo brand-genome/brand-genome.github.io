@@ -2,7 +2,7 @@
 title: Kraft
 slug: kraft
 description: ""
-date: "2026-03-13T09:22:54.048903"
+date: "2026-03-20T08:22:04.901810"
 draft: false
 sectors:
   - "design-creative"
@@ -13,11 +13,11 @@ years:
 languages:
   - spanish
 tags:
-  - marketing
   - "student-work"
+  - marketing
 industries:
-  - "food-industry"
   - "fast-moving-consumer-goods"
+  - "food-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,6 +74,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kraftcreative.com](https://www.kraftcreative.com)
+- [https://www.kraftheinzcompany.com](https://www.kraftheinzcompany.com)
 
 ## Brand Guidelines
 

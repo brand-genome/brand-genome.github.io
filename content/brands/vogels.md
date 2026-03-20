@@ -2,7 +2,7 @@
 title: Vogel’s
 slug: vogels
 description: ""
-date: "2026-03-13T09:22:52.315879"
+date: "2026-03-20T08:22:03.382856"
 draft: false
 sectors:
   - electronics
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.vogels.com](http://www.vogels.com)
-- [https://www.vogels.com/](https://www.vogels.com/)
+- [https://www.vogels.com](https://www.vogels.com)
 - [https://www.vogels.com/en-us/p](https://www.vogels.com/en-us/p)
+- [http://www.vogels.com](http://www.vogels.com)
 
 ## Brand Guidelines
 

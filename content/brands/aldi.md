@@ -2,11 +2,11 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-03-13T09:22:54.567705"
+date: "2026-03-20T08:22:05.414177"
 draft: false
 sectors:
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - germany
 years:
@@ -14,16 +14,16 @@ years:
 languages:
   - english
 tags:
-  - featured
   - packaging
+  - featured
 industries:
   - "discount-store"
   - retail
 countries:
+  - belgium
   - "united-states"
   - netherlands
   - germany
-  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,18 +74,24 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.aldi.de](https://www.aldi.de)
+- [https://www.aldi-nord.de](https://www.aldi-nord.de)
+- [https://www.aldi-sued.de/de/homepage.html](https://www.aldi-sued.de/de/homepage.html)
+- [https://www.aldi.com](https://www.aldi.com)
+- [https://www.aldi.com.au](https://www.aldi.com.au)
 - [http://www.aldi.com](http://www.aldi.com)
 - [http://www.asc-aqua.org](http://www.asc-aqua.org)
 - [http://www.fairtrade.net](http://www.fairtrade.net)
 - [http://www.msc.org](http://www.msc.org)
 - [http://www.pefc.org](http://www.pefc.org)
 - [http://www.rainforest-alliance.org](http://www.rainforest-alliance.org)
-- [https://www.aldi-nord.de/](https://www.aldi-nord.de/)
-- [https://www.aldi-sued.de/de/homepage.html](https://www.aldi-sued.de/de/homepage.html)
-- [https://www.aldi.com.au/](https://www.aldi.com.au/)
-- [https://www.aldi.com.au/en/about-aldi/product-registration/](https://www.aldi.com.au/en/about-aldi/product-registration/)
-- [https://www.aldi.com/](https://www.aldi.com/)
-- [https://www.aldi.de/](https://www.aldi.de/)
+- [https://www.aldi.com.au/en/about-aldi/product-registration](https://www.aldi.com.au/en/about-aldi/product-registration)
+- [https://www.aldi.dk](https://www.aldi.dk)
+- [https://www.aldi.es](https://www.aldi.es)
+- [https://store.aldi.com.au](https://store.aldi.com.au)
+- [https://www.aldi.it](https://www.aldi.it)
+- [https://www.aldirecruitment.co.uk](https://www.aldirecruitment.co.uk)
+- [https://aldi.de](https://aldi.de)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-03-13T09:22:52.324600"
+date: "2026-03-20T08:22:03.392647"
 draft: false
 sectors:
   - gas
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1875
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,19 +63,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - yellow
-  - orange
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - gray
+  - orange
+  - black
 typographies:
   - impact
 imagery_styles:
-  - professional
   - gradient
+  - professional
 wikidata_description: American oil and gas company
 wikidata_url: "https://www.wikidata.org/wiki/Q214763"
 has_twitter: false
@@ -85,23 +87,23 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.conocophillips.com](https://www.conocophillips.com)
+- [https://alaska.conocophillips.com](https://alaska.conocophillips.com)
+- [https://www.conocophillips.com.au](https://www.conocophillips.com.au)
+- [https://www.conocophillips.ca](https://www.conocophillips.ca)
+- [https://www.conocophillips.com.cn](https://www.conocophillips.com.cn)
+- [https://www.conocophillips.com.my](https://www.conocophillips.com.my)
+- [https://www.conocophillips.no](https://www.conocophillips.no)
+- [https://www.conocophillips.qa](https://www.conocophillips.qa)
+- [https://www.conocophillips.co.uk](https://www.conocophillips.co.uk)
+- [https://careers.conocophillips.com](https://careers.conocophillips.com)
+- [https://globallng.conocophillips.com](https://globallng.conocophillips.com)
+- [https://lnglicensing.conocophillips.com](https://lnglicensing.conocophillips.com)
+- [https://www.copbrandcenter.com](https://www.copbrandcenter.com)
+- [https://www.powerincooperation.com](https://www.powerincooperation.com)
 - [http://www.conocophillips.com](http://www.conocophillips.com)
-- [http://www.conocophillips.com/news-media/brand](http://www.conocophillips.com/news-media/brand)
 - [http://www.photoshelter.com](http://www.photoshelter.com)
-- [https://alaska.conocophillips.com/](https://alaska.conocophillips.com/)
-- [https://careers.conocophillips.com/](https://careers.conocophillips.com/)
-- [https://globallng.conocophillips.com/](https://globallng.conocophillips.com/)
-- [https://lnglicensing.conocophillips.com/](https://lnglicensing.conocophillips.com/)
-- [https://www.conocophillips.ca/](https://www.conocophillips.ca/)
-- [https://www.conocophillips.co.uk/](https://www.conocophillips.co.uk/)
-- [https://www.conocophillips.com.au/](https://www.conocophillips.com.au/)
-- [https://www.conocophillips.com.cn/](https://www.conocophillips.com.cn/)
-- [https://www.conocophillips.com.my/](https://www.conocophillips.com.my/)
-- [https://www.conocophillips.com/](https://www.conocophillips.com/)
-- [https://www.conocophillips.no/](https://www.conocophillips.no/)
-- [https://www.conocophillips.qa/](https://www.conocophillips.qa/)
-- [https://www.copbrandcenter.com/](https://www.copbrandcenter.com/)
-- [https://www.powerincooperation.com/](https://www.powerincooperation.com/)
+- [http://www.conocophillips.com/news-media/brand](http://www.conocophillips.com/news-media/brand)
 
 ## Brand Guidelines
 

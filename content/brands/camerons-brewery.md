@@ -2,11 +2,11 @@
 title: Camerons Brewery
 slug: "camerons-brewery"
 description: ""
-date: "2026-03-13T09:22:53.723040"
+date: "2026-03-20T08:22:04.686930"
 draft: false
 sectors:
-  - brewery
   - restaurant
+  - brewery
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1865
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +56,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "brewery in Hartlepool, County Durham, England"
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cameronsbrewery.com/](https://cameronsbrewery.com/)
+- [https://cameronsbrewery.com](https://cameronsbrewery.com)
+- [http://www.cameronsbrewery.com](http://www.cameronsbrewery.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Acano
 slug: acano
 description: ""
-date: "2026-03-13T09:22:54.822624"
+date: "2026-03-20T08:22:05.585112"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
+  - wordmark
   - primary
   - secondary
-  - wordmark
+  - badge
 brand_colors:
+  - red
+  - green
   - purple
+  - blue
   - gray
   - yellow
-  - red
-  - blue
-  - green
 typographies:
   - helvetica
 imagery_styles:
-  - classic
-  - modern
-  - candid
-  - monochrome
-  - minimal
-  - photography
   - product
-  - bold
+  - minimal
   - graphic
+  - classic
+  - bold
+  - modern
+  - photography
+  - monochrome
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

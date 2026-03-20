@@ -2,12 +2,12 @@
 title: Energir
 slug: energir
 description: ""
-date: "2026-03-13T09:22:53.329329"
+date: "2026-03-20T08:22:04.239888"
 draft: false
 sectors:
-  - gas
   - utilities
   - "renewable-energy"
+  - gas
 regions:
   - canada
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,22 +56,22 @@ logo_elements:
   - primary
   - abstract
 brand_colors:
-  - cyan
   - white
   - "pantone-295"
   - blue
+  - cyan
 typographies: []
 imagery_styles:
+  - dynamic
   - artificial
+  - abstract
+  - organic
+  - bold
   - modern
   - natural
-  - organic
   - illustration
-  - geometric
-  - dynamic
   - photography
-  - abstract
-  - bold
+  - geometric
 wikidata_description: distributor of natural gas in Quebec
 wikidata_url: "https://www.wikidata.org/wiki/Q3099685"
 has_twitter: false
@@ -81,10 +83,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://energir.com/fr](https://energir.com/fr)
+- [https://energir.com/en](https://energir.com/en)
 - [http://www.energir.com](http://www.energir.com)
 - [http://www.youtube.com/energir](http://www.youtube.com/energir)
-- [https://energir.com/en](https://energir.com/en)
-- [https://energir.com/fr](https://energir.com/fr)
+- [https://www.energir.com](https://www.energir.com)
 
 ## Brand Guidelines
 

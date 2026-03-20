@@ -2,11 +2,11 @@
 title: Invest Chile
 slug: "invest-chile"
 description: ""
-date: "2026-03-13T09:22:53.517346"
+date: "2026-03-20T08:22:04.411377"
 draft: false
 sectors:
-  - consulting
   - "public-sector"
+  - consulting
 regions:
   - chile
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - gray
   - white
@@ -58,14 +59,14 @@ typographies:
   - display
   - lato
 imagery_styles:
-  - static
-  - monochrome
-  - clean
   - dynamic
-  - photography
+  - graphic
   - professional
   - bold
-  - graphic
+  - static
+  - photography
+  - clean
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.investchile.gob.cl/](https://www.investchile.gob.cl/)
-- [https://www.investchile.gob.cl/es/](https://www.investchile.gob.cl/es/)
+- [https://www.investchile.gob.cl](https://www.investchile.gob.cl)
+- [https://www.investchile.gob.cl/es](https://www.investchile.gob.cl/es)
 
 ## Brand Guidelines
 

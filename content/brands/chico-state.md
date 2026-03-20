@@ -2,7 +2,7 @@
 title: Chico State
 slug: "chico-state"
 description: ""
-date: "2026-03-13T09:22:53.247582"
+date: "2026-03-20T08:22:04.169042"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,18 +56,18 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - verdana
-  - georgia
   - gotham
-  - "sans-serif"
+  - verdana
   - serif
   - impact
+  - "sans-serif"
+  - georgia
 imagery_styles:
-  - geometric
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - geometric
 wikidata_description: "university in California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1026912"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.csuchico.edu](https://www.csuchico.edu)
 - [http://www.csuchico.edu/style-guide](http://www.csuchico.edu/style-guide)
-- [https://www.csuchico.edu/](https://www.csuchico.edu/)
+- [http://www.csuchico.edu](http://www.csuchico.edu)
 
 ## Brand Guidelines
 

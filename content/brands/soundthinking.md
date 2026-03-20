@@ -2,11 +2,11 @@
 title: SoundThinking
 slug: soundthinking
 description: ""
-date: "2026-03-13T09:22:52.132129"
+date: "2026-03-20T08:22:03.194749"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ headquarters_locations:
   - fremont
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.soundthinking.com/](https://www.soundthinking.com/)
+- [https://www.soundthinking.com](https://www.soundthinking.com)
+- [http://soundthinking.com](http://soundthinking.com)
 
 ## Brand Guidelines
 

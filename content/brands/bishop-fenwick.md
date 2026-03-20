@@ -2,7 +2,7 @@
 title: Bishop Fenwick
 slug: "bishop-fenwick"
 description: ""
-date: "2026-03-13T09:22:54.419605"
+date: "2026-03-20T08:22:05.315818"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fenwick.org/](https://fenwick.org/)
-- [https://fenwickfalcons.org/](https://fenwickfalcons.org/)
+- [https://fenwickfalcons.org](https://fenwickfalcons.org)
+- [https://fenwick.org](https://fenwick.org)
 
 ## Brand Guidelines
 

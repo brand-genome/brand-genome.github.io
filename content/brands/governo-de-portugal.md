@@ -2,7 +2,7 @@
 title: Governo de Portugal
 slug: "governo-de-portugal"
 description: ""
-date: "2026-03-13T09:22:52.320812"
+date: "2026-03-20T08:22:03.388734"
 draft: false
 sectors:
   - "public-sector"
@@ -30,8 +30,10 @@ headquarters_locations:
   - "sao-bento-palace"
 subsidiaries: []
 foundation_dates:
-  - 1976
   - 1974
+  - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eportugal.gov.pt/](https://eportugal.gov.pt/)
-- [https://www.portugal.gov.pt/](https://www.portugal.gov.pt/)
+- [https://www.portugal.gov.pt](https://www.portugal.gov.pt)
 - [https://www2.gov.pt/inicio](https://www2.gov.pt/inicio)
+- [https://eportugal.gov.pt](https://eportugal.gov.pt)
+- [http://www.portugal.gov.pt/en.aspx](http://www.portugal.gov.pt/en.aspx)
 
 ## Brand Guidelines
 
@@ -83,7 +86,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Sao Bento Palace](/headquarters_locations/sao-bento-palace/) |
-| Foundation Date | [1976](/foundation_dates/1976/); [1974](/foundation_dates/1974/) |
+| Foundation Date | [1974](/foundation_dates/1974/); [1976](/foundation_dates/1976/) |
 | Topic'S Main Category | Category:Government of Portugal |
 | Freebase Id | /m/0bxb7c |
 | Grid Id | grid.454864.f |

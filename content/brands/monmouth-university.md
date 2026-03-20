@@ -2,7 +2,7 @@
 title: Monmouth University
 slug: "monmouth-university"
 description: ""
-date: "2026-03-13T09:22:54.966236"
+date: "2026-03-20T08:22:05.697626"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1933
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
   - gray
 typographies:
@@ -71,10 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.monmouthhawks.com](http://www.monmouthhawks.com)
-- [https://monmouthhawks.com](https://monmouthhawks.com)
 - [https://www.monmouth.edu](https://www.monmouth.edu)
-- [https://www.monmouth.edu/brand/visual-identity-guidelines/](https://www.monmouth.edu/brand/visual-identity-guidelines/)
+- [https://www.monmouth.edu/brand/visual-identity-guidelines](https://www.monmouth.edu/brand/visual-identity-guidelines)
+- [https://monmouthhawks.com](https://monmouthhawks.com)
+- [http://www.monmouthhawks.com](http://www.monmouthhawks.com)
+- [http://www.monmouth.edu](http://www.monmouth.edu)
 
 ## Brand Guidelines
 

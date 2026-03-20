@@ -2,7 +2,7 @@
 title: Simatec
 slug: simatec
 description: ""
-date: "2026-03-13T09:22:53.330757"
+date: "2026-03-20T08:22:04.241239"
 draft: false
 sectors:
   - hardware
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2024
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - black
+  - white
   - grey
   - magenta
-  - white
 typographies:
   - futura
   - din
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q134679056"
 has_twitter: false
@@ -71,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://simatec.com/](https://simatec.com/)
-- [https://simatec.com/ch/de/](https://simatec.com/ch/de/)
-- [https://simatec.com/ch/en/](https://simatec.com/ch/en/)
-- [https://simatec.com/ch/fr/](https://simatec.com/ch/fr/)
-- [https://simatec.com/us/en/](https://simatec.com/us/en/)
+- [https://simatec.com](https://simatec.com)
+- [https://simatec.com/us/en](https://simatec.com/us/en)
+- [https://simatec.com/ch/de](https://simatec.com/ch/de)
+- [https://simatec.com/ch/fr](https://simatec.com/ch/fr)
+- [https://simatec.com/ch/en](https://simatec.com/ch/en)
 
 ## Brand Guidelines
 

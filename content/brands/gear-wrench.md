@@ -2,7 +2,7 @@
 title: Gear Wrench
 slug: "gear-wrench"
 description: ""
-date: "2026-03-13T09:22:53.008982"
+date: "2026-03-20T08:22:04.000496"
 draft: false
 sectors:
   - hardware
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GEARWRENCH.com](http://www.GEARWRENCH.com)
-- [http://www.apextoolgroup.com](http://www.apextoolgroup.com)
-- [https://www.apextoolgroup.com/brands/gearwrench](https://www.apextoolgroup.com/brands/gearwrench)
 - [https://www.gearwrench.com](https://www.gearwrench.com)
+- [https://www.apextoolgroup.com/brands/gearwrench](https://www.apextoolgroup.com/brands/gearwrench)
+- [http://www.gearwrench.com](http://www.gearwrench.com)
+- [http://www.apextoolgroup.com](http://www.apextoolgroup.com)
 
 ## Brand Guidelines
 

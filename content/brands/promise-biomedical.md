@@ -2,7 +2,7 @@
 title: Promise Biomedical
 slug: "promise-biomedical"
 description: ""
-date: "2026-03-13T09:22:52.103062"
+date: "2026-03-20T08:22:03.160858"
 draft: false
 sectors:
   - healthcare
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.promisebiomed.com.tw/](https://www.promisebiomed.com.tw/)
-- [https://www.promisebiomed.com/](https://www.promisebiomed.com/)
+- [https://www.promisebiomed.com](https://www.promisebiomed.com)
+- [https://www.promisebiomed.com.tw](https://www.promisebiomed.com.tw)
 
 ## Brand Guidelines
 

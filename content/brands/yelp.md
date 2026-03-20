@@ -2,7 +2,7 @@
 title: Yelp
 slug: yelp
 description: ""
-date: "2026-03-13T09:22:55.091859"
+date: "2026-03-20T08:22:05.797071"
 draft: false
 sectors:
   - "e-commerce"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +49,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - lockup
-  - "app-icon"
   - horizontal
+  - "app-icon"
+  - lockup
+  - primary
 brand_colors:
-  - black
-  - grey
   - red
+  - grey
+  - black
 typographies:
   - avenir
 imagery_styles:
@@ -72,8 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.yelp.com/](https://www.yelp.com/)
+- [https://www.yelp.com](https://www.yelp.com)
 - [https://www.yelp.com/brand](https://www.yelp.com/brand)
+- [https://wiki.gnome.org/Apps/Yelp](https://wiki.gnome.org/Apps/Yelp)
+- [http://yelp.io](http://yelp.io)
 
 ## Brand Guidelines
 

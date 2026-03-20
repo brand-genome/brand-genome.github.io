@@ -2,12 +2,12 @@
 title: Azamara
 slug: azamara
 description: ""
-date: "2026-03-13T09:22:53.700359"
+date: "2026-03-20T08:22:04.555672"
 draft: false
 sectors:
-  - cruise
   - hospitality
   - tourism
+  - cruise
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,27 +54,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - symbol
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - purple
-  - gray
-  - blue
   - green
+  - purple
+  - blue
+  - gray
   - turquoise
 typographies:
-  - serif
+  - impact
   - "sans-serif"
   - display
-  - impact
+  - serif
 imagery_styles:
-  - modern
   - flat
+  - colorful
+  - modern
   - geometric
   - vibrant
-  - colorful
 wikidata_description: luxury cruise line
 wikidata_url: "https://www.wikidata.org/wiki/Q2875081"
 has_twitter: false
@@ -84,7 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.azamara.com/](https://www.azamara.com/)
+- [https://www.azamara.com](https://www.azamara.com)
+- [http://www.azamaraclubcruises.com](http://www.azamaraclubcruises.com)
 
 ## Brand Guidelines
 

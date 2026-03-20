@@ -2,7 +2,7 @@
 title: Dayton Area Chamber of Commerce
 slug: "dayton-area-chamber-of-commerce"
 description: ""
-date: "2026-03-13T09:22:55.094368"
+date: "2026-03-20T08:22:05.799442"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
   - black
   - white
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://daytonchamber.org/](https://daytonchamber.org/)
+- [https://daytonchamber.org](https://daytonchamber.org)
 
 ## Brand Guidelines
 

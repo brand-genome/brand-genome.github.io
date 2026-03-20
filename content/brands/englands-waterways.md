@@ -2,7 +2,7 @@
 title: England’s Waterways
 slug: "englands-waterways"
 description: ""
-date: "2026-03-13T09:22:54.359222"
+date: "2026-03-20T08:22:05.189564"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
   - serif

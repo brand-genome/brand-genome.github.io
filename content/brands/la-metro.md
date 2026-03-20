@@ -2,11 +2,11 @@
 title: L.A. Metro
 slug: "la-metro"
 description: ""
-date: "2026-03-13T09:22:53.968469"
+date: "2026-03-20T08:22:04.894136"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.metro.net/](https://www.metro.net/)
+- [https://www.metro.net](https://www.metro.net)
 
 ## Brand Guidelines
 

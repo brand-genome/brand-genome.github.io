@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-03-13T09:22:53.970898"
+date: "2026-03-20T08:22:04.896923"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - science
   - institution
+  - science
 industries:
   - "research-and-development"
   - "research-and-experimental-development-on-social-sciences-and-humanities"
@@ -31,11 +31,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - berlin
   - "berlin-mitte"
+  - berlin
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.diw.de/](https://www.diw.de/)
+- [https://www.diw.de](https://www.diw.de)
 - [https://www.diw.de/en](https://www.diw.de/en)
 
 ## Brand Guidelines
@@ -144,7 +146,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Berlin Mitte](/headquarters_locations/berlin-mitte/) |
+| Headquarters Location | [Berlin Mitte](/headquarters_locations/berlin-mitte/); [Berlin](/headquarters_locations/berlin/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Country | Germany |
 | Gnd Id | 37419-2 |

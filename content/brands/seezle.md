@@ -2,7 +2,7 @@
 title: Seezle
 slug: seezle
 description: ""
-date: "2026-03-13T09:22:53.659923"
+date: "2026-03-20T08:22:04.518430"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lockup
+  - primary
 brand_colors:
   - white
 typographies:
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sezzle.com](https://www.sezzle.com)
 - [https://sezzle.com/brand-assets](https://sezzle.com/brand-assets)
-- [https://www.sezzle.com/](https://www.sezzle.com/)
 
 ## Brand Guidelines
 

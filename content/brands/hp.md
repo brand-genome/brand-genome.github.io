@@ -2,11 +2,11 @@
 title: HP
 slug: hp
 description: ""
-date: "2026-03-13T09:22:52.234462"
+date: "2026-03-20T08:22:03.297073"
 draft: false
 sectors:
-  - electronics
   - "home-appliances"
+  - electronics
   - hardware
 regions:
   - usa
@@ -20,9 +20,9 @@ tags:
   - corporate
 industries:
   - "information-technology-industry"
-  - "software-industry"
   - "computer-hardware-industry"
   - "information-and-communications-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,28 +38,30 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - printer
-  - "personal-computer"
   - "networking-hardware"
-  - software
-  - smartphone
-  - "systems-integrator"
+  - "computer-hardware"
   - "digital-camera"
+  - smartphone
+  - computer
+  - "image-scanner"
+  - "pocket-computer"
+  - "personal-computer"
+  - "systems-integrator"
   - server
   - "computer-storage-media"
-  - "computer-hardware"
+  - software
   - "tablet-computer"
-  - "pocket-computer"
+  - printer
   - "mobile-phone"
-  - "image-scanner"
   - laptop
-  - computer
 products: []
 headquarters_locations:
   - "palo-alto"
 subsidiaries: []
 foundation_dates:
   - 1939
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -78,20 +80,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
+  - impact
   - arial
   - futura
-  - impact
 imagery_styles:
-  - photography
   - product
   - lifestyle
+  - photography
 wikidata_description: American information technology company (1939–2015)
 wikidata_url: "https://www.wikidata.org/wiki/Q80978"
 has_twitter: false
@@ -103,10 +105,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.hp.com/country/w1/en/termsofuse.html](http://www.hp.com/country/w1/en/termsofuse.html)
+- [https://www.hp.com](https://www.hp.com)
+- [https://support.hp.com](https://support.hp.com)
 - [https://brand-stage.hp.com/content/hp-brand-central/us/en.html](https://brand-stage.hp.com/content/hp-brand-central/us/en.html)
-- [https://support.hp.com/](https://support.hp.com/)
-- [https://www.hp.com/](https://www.hp.com/)
+- [http://www.hp.com/country/w1/en/termsofuse.html](http://www.hp.com/country/w1/en/termsofuse.html)
 
 ## Brand Guidelines
 
@@ -223,7 +225,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Printer](/products_or_materials_produced/printer/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/); [Smartphone](/products_or_materials_produced/smartphone/); [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Digital Camera](/products_or_materials_produced/digital-camera/); [Server](/products_or_materials_produced/server/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Pocket Computer](/products_or_materials_produced/pocket-computer/); +4 more |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Digital Camera](/products_or_materials_produced/digital-camera/); [Smartphone](/products_or_materials_produced/smartphone/); [Computer](/products_or_materials_produced/computer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Pocket Computer](/products_or_materials_produced/pocket-computer/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Server](/products_or_materials_produced/server/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Software](/products_or_materials_produced/software/); +4 more |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1939](/foundation_dates/1939/) |
 | Topic'S Main Category | Category:Hewlett-Packard |

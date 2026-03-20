@@ -2,7 +2,7 @@
 title: Edge
 slug: edge
 description: ""
-date: "2026-03-13T09:22:54.229666"
+date: "2026-03-20T08:22:05.067307"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://edgebuildings.com](https://edgebuildings.com)
 - [http://www.edgebuildings.com](http://www.edgebuildings.com)
 - [http://www.ifc.org](http://www.ifc.org)
 - [http://www.linkedin.com/company/edgebuildings](http://www.linkedin.com/company/edgebuildings)
-- [https://edgebuildings.com/](https://edgebuildings.com/)
 
 ## Brand Guidelines
 

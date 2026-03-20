@@ -2,7 +2,7 @@
 title: Danish Institute for Human Rights
 slug: "danish-institute-for-human-rights"
 description: ""
-date: "2026-03-13T09:22:51.889548"
+date: "2026-03-20T08:22:03.061381"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.humanrights.dk](https://www.humanrights.dk)
 - [http://www.humanrights.dk](http://www.humanrights.dk)
 - [http://www.menneskeret.dk](http://www.menneskeret.dk)
-- [https://www.humanrights.dk/](https://www.humanrights.dk/)
+- [https://menneskeret.dk](https://menneskeret.dk)
+- [https://menneskeret.dk/kalaallit-nunaat](https://menneskeret.dk/kalaallit-nunaat)
 
 ## Brand Guidelines
 

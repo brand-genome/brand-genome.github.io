@@ -2,7 +2,7 @@
 title: Yakima Chief Hops
 slug: "yakima-chief-hops"
 description: ""
-date: "2026-03-13T09:22:53.933730"
+date: "2026-03-20T08:22:04.853850"
 draft: false
 sectors:
   - food
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2021
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,16 +54,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-1795"
-  - "pantone-7463"
-  - white
-  - red
-  - blue
   - "pantone-9202"
+  - red
+  - "pantone-1795"
+  - white
+  - blue
+  - "pantone-7463"
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q131995947"
 has_twitter: false
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.yakimachief.com](https://www.yakimachief.com)
 - [http://www.yakimachiefranches.com](http://www.yakimachiefranches.com)
-- [https://www.yakimachief.com/](https://www.yakimachief.com/)
 
 ## Brand Guidelines
 

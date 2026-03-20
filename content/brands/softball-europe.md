@@ -2,7 +2,7 @@
 title: Softball Europe
 slug: "softball-europe"
 description: ""
-date: "2026-03-13T09:22:53.756965"
+date: "2026-03-20T08:22:04.714862"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
-  - yellow
-  - black
   - red
-  - blue
   - white
+  - blue
+  - yellow
+  - gray
+  - black
 typographies:
   - futura
 imagery_styles: []
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.europeansoftball.org/](http://www.europeansoftball.org/)
+- [http://www.europeansoftball.org](http://www.europeansoftball.org)
 - [http://www.europeansoftball.org/media/corporate-identity](http://www.europeansoftball.org/media/corporate-identity)
 - [https://www.wbsceurope.org/en](https://www.wbsceurope.org/en)
 

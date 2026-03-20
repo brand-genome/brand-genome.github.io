@@ -2,7 +2,7 @@
 title: Altice
 slug: altice
 description: ""
-date: "2026-03-13T09:22:52.894940"
+date: "2026-03-20T08:22:03.885041"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://altice.net/](https://altice.net/)
-- [https://www.alticefrance.com/](https://www.alticefrance.com/)
+- [https://altice.net](https://altice.net)
+- [https://www.alticefrance.com](https://www.alticefrance.com)
+- [http://www.altice.net](http://www.altice.net)
 
 ## Brand Guidelines
 

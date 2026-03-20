@@ -2,7 +2,7 @@
 title: MilkMarket Limerick
 slug: "milkmarket-limerick"
 description: ""
-date: "2026-03-13T09:22:54.194598"
+date: "2026-03-20T08:22:05.025934"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
   - black
   - "pantone-2748"
-  - white
 typographies: []
 imagery_styles:
   - professional
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.milkmarketlimerick.ie/](https://www.milkmarketlimerick.ie/)
+- [https://www.milkmarketlimerick.ie](https://www.milkmarketlimerick.ie)
 
 ## Brand Guidelines
 

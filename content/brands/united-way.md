@@ -2,15 +2,15 @@
 title: United Way
 slug: "united-way"
 description: ""
-date: "2026-03-13T09:22:53.532007"
+date: "2026-03-20T08:22:04.414782"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2014
   - 2017
+  - 2014
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors:
-  - black
-  - blue
   - white
+  - blue
   - orange
+  - black
 typographies:
   - brandon
   - impact
 imagery_styles:
   - photography
-  - product
   - bold
+  - product
 wikidata_description: nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q3050859"
 has_twitter: false
@@ -79,8 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unitedway.org/](https://www.unitedway.org/)
-- [https://www.unitedwaystore.com/](https://www.unitedwaystore.com/)
+- [https://www.unitedway.org](https://www.unitedway.org)
+- [https://www.unitedwaystore.com](https://www.unitedwaystore.com)
+- [http://www.unitedway.org](http://www.unitedway.org)
 
 ## Brand Guidelines
 

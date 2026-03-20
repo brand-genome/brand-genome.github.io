@@ -2,11 +2,11 @@
 title: The Royal Parks
 slug: "the-royal-parks"
 description: ""
-date: "2026-03-13T09:22:54.044291"
+date: "2026-03-20T08:22:04.899276"
 draft: false
 sectors:
-  - tourism
   - ngo
+  - tourism
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - "hyde-park"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.royalparks.org.uk/](https://www.royalparks.org.uk/)
+- [https://www.royalparks.org.uk](https://www.royalparks.org.uk)
 
 ## Brand Guidelines
 

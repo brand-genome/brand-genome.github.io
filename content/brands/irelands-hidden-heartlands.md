@@ -2,7 +2,7 @@
 title: Ireland’s Hidden Heartlands
 slug: "irelands-hidden-heartlands"
 description: ""
-date: "2026-03-13T09:22:52.873026"
+date: "2026-03-20T08:22:03.870454"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.failteireland.ie/IrelandsHiddenHeartlands.aspx](https://www.failteireland.ie/IrelandsHiddenHeartlands.aspx)
-- [https://www.ireland.com/en-us/destinations/experiences/irelands-hidden-heartlands/](https://www.ireland.com/en-us/destinations/experiences/irelands-hidden-heartlands/)
+- [https://www.ireland.com/en-us/destinations/experiences/irelands-hidden-heartlands](https://www.ireland.com/en-us/destinations/experiences/irelands-hidden-heartlands)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Varsity Spirit
 slug: "varsity-spirit"
 description: ""
-date: "2026-03-13T09:22:53.669724"
+date: "2026-03-20T08:22:04.527283"
 draft: false
 sectors:
-  - fashion
   - sports
+  - fashion
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1974
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.varsity.com/](https://www.varsity.com/)
-- [https://www.varsity.com/nca/](https://www.varsity.com/nca/)
+- [https://www.varsity.com](https://www.varsity.com)
+- [https://www.varsity.com/nca](https://www.varsity.com/nca)
+- [http://varsity.com](http://varsity.com)
 
 ## Brand Guidelines
 

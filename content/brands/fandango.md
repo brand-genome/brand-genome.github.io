@@ -2,7 +2,7 @@
 title: Fandango
 slug: fandango
 description: ""
-date: "2026-03-13T09:22:54.417991"
+date: "2026-03-20T08:22:05.311022"
 draft: false
 sectors:
   - "e-commerce"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Fandango.com](http://www.Fandango.com)
-- [https://athome.fandango.com/](https://athome.fandango.com/)
-- [https://www.fandango.com/](https://www.fandango.com/)
+- [https://www.fandango.com](https://www.fandango.com)
+- [https://athome.fandango.com](https://athome.fandango.com)
+- [http://www.fandango.com](http://www.fandango.com)
+- [http://www.fandango.it](http://www.fandango.it)
 
 ## Brand Guidelines
 

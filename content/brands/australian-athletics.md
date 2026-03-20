@@ -2,7 +2,7 @@
 title: Australian Athletics
 slug: "australian-athletics"
 description: ""
-date: "2026-03-13T09:22:51.918018"
+date: "2026-03-20T08:22:03.075410"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - horizontal
-  - wordmark
 brand_colors:
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
   - montserrat
 imagery_styles:
-  - portrait
-  - staged
-  - vibrant
   - dynamic
-  - photography
-  - landscape
-  - gradient
-  - bold
+  - staged
   - graphic
+  - bold
+  - portrait
+  - photography
+  - gradient
+  - landscape
+  - vibrant
 wikidata_description: "database from the Australian athletics association, Athletics Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q115794139"
 has_twitter: false
@@ -81,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.athletics.com.au](https://www.athletics.com.au)
 - [http://www.athletics.com](http://www.athletics.com)
-- [https://www.athletics.com.au/](https://www.athletics.com.au/)
+- [https://athletics.possumbility.com/index.htm](https://athletics.possumbility.com/index.htm)
 
 ## Brand Guidelines
 

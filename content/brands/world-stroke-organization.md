@@ -2,11 +2,11 @@
 title: World Stroke Organization
 slug: "world-stroke-organization"
 description: ""
-date: "2026-03-13T09:22:53.721257"
+date: "2026-03-20T08:22:04.684948"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - switzerland
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +58,8 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "a non-profit medical association that works to raise awareness of prevention and treatment of stroke"
 wikidata_url: "https://www.wikidata.org/wiki/Q8036267"
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.world-stroke.org/](https://www.world-stroke.org/)
+- [https://www.world-stroke.org](https://www.world-stroke.org)
 
 ## Brand Guidelines
 

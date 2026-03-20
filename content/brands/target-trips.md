@@ -2,7 +2,7 @@
 title: Target Trips
 slug: "target-trips"
 description: ""
-date: "2026-03-13T09:22:52.882780"
+date: "2026-03-20T08:22:03.875000"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +47,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
   - icon
   - lockup
+  - wordmark
+  - symbol
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - helvetica
 imagery_styles:

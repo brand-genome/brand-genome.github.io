@@ -2,7 +2,7 @@
 title: ESAB
 slug: esab
 description: ""
-date: "2026-03-13T09:22:54.713183"
+date: "2026-03-20T08:22:05.511541"
 draft: false
 sectors:
   - hardware
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1904
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - yellow
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - dynamic
   - product
+  - dynamic
   - subtle
 wikidata_description: "American-Swedish industrial company"
 wikidata_url: "https://www.wikidata.org/wiki/Q2494842"
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://esabcorporation.com/company/esab/](https://esabcorporation.com/company/esab/)
 - [https://www.esab.com](https://www.esab.com)
+- [https://esabcorporation.com/company/esab](https://esabcorporation.com/company/esab)
+- [http://www.esab.com](http://www.esab.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Oregon Premier FC
 slug: "oregon-premier-fc"
 description: ""
-date: "2026-03-13T09:22:54.820344"
+date: "2026-03-20T08:22:05.582952"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - crest
-  - secondary
   - horizontal
+  - secondary
+  - badge
 brand_colors:
-  - navy
-  - gray
-  - blue
   - gold
+  - navy
   - white
+  - blue
+  - gray
 typographies: []
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://willametteunitedfc.com/opfc/](https://willametteunitedfc.com/opfc/)
-- [https://www.oregonpremierfc.com/](https://www.oregonpremierfc.com/)
+- [https://www.oregonpremierfc.com](https://www.oregonpremierfc.com)
+- [https://willametteunitedfc.com/opfc](https://willametteunitedfc.com/opfc)
 
 ## Brand Guidelines
 

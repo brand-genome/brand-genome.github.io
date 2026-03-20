@@ -2,11 +2,11 @@
 title: Chiesi
 slug: chiesi
 description: ""
-date: "2026-03-13T09:22:53.273230"
+date: "2026-03-20T08:22:04.200967"
 draft: false
 sectors:
-  - biotech
   - pharma
+  - biotech
 regions:
   - italy
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1650
+foundation_year_buckets:
+  - "17TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +51,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
   - white
   - pink
+  - black
 typographies:
   - gotham
   - verdana
@@ -74,12 +76,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cws.chiesi.com/](https://cws.chiesi.com/)
-- [https://www.chiesi.com/en/](https://www.chiesi.com/en/)
-- [https://www.chiesi.com/it/](https://www.chiesi.com/it/)
-- [https://www.chiesi.fr/en/](https://www.chiesi.fr/en/)
-- [https://www.chiesi.it/](https://www.chiesi.it/)
-- [https://www.chiesiusa.com/](https://www.chiesiusa.com/)
+- [https://www.chiesi.com/en](https://www.chiesi.com/en)
+- [https://www.chiesi.com/it](https://www.chiesi.com/it)
+- [https://www.chiesi.it](https://www.chiesi.it)
+- [https://www.chiesiusa.com](https://www.chiesiusa.com)
+- [https://www.chiesi.fr/en](https://www.chiesi.fr/en)
+- [https://cws.chiesi.com](https://cws.chiesi.com)
 
 ## Brand Guidelines
 

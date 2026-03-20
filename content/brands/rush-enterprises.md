@@ -2,7 +2,7 @@
 title: Rush Enterprises
 slug: "rush-enterprises"
 description: ""
-date: "2026-03-13T09:22:53.699824"
+date: "2026-03-20T08:22:04.555067"
 draft: false
 sectors:
   - automobile
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rushenterprises.com/](https://www.rushenterprises.com/)
+- [https://www.rushenterprises.com](https://www.rushenterprises.com)
+- [http://www.rushenterprises.com](http://www.rushenterprises.com)
 
 ## Brand Guidelines
 

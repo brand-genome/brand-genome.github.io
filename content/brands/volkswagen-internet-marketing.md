@@ -2,7 +2,7 @@
 title: Volkswagen Internet Marketing
 slug: "volkswagen-internet-marketing"
 description: ""
-date: "2026-03-13T09:22:53.650913"
+date: "2026-03-20T08:22:04.510198"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +49,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles: []
@@ -64,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.volkswagen.com/](https://www.volkswagen.com/)
-- [https://www.volkswagen.de/](https://www.volkswagen.de/)
+- [https://www.volkswagen.com](https://www.volkswagen.com)
+- [https://www.volkswagen.de](https://www.volkswagen.de)
 
 ## Brand Guidelines
 

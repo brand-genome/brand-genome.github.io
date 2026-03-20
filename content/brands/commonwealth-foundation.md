@@ -2,7 +2,7 @@
 title: Commonwealth foundation
 slug: "commonwealth-foundation"
 description: ""
-date: "2026-03-13T09:22:52.318592"
+date: "2026-03-20T08:22:03.386757"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.commonwealthfoundation.com](http://www.commonwealthfoundation.com)
-- [https://commonwealthfoundation.com/](https://commonwealthfoundation.com/)
+- [https://commonwealthfoundation.com](https://commonwealthfoundation.com)
 - [https://thecommonwealth.org/about/commonwealth-foundation](https://thecommonwealth.org/about/commonwealth-foundation)
+- [http://www.commonwealthfoundation.com](http://www.commonwealthfoundation.com)
 
 ## Brand Guidelines
 

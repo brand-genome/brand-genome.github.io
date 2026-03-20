@@ -2,7 +2,7 @@
 title: Matco Tools
 slug: "matco-tools"
 description: ""
-date: "2026-03-13T09:22:53.966962"
+date: "2026-03-20T08:22:04.892628"
 draft: false
 sectors:
   - automobile
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MATCOTOOLS.COM](http://www.MATCOTOOLS.COM)
-- [https://www.matcotools.com/](https://www.matcotools.com/)
-- [https://www.matcotools.com/franchise/](https://www.matcotools.com/franchise/)
+- [https://www.matcotools.com](https://www.matcotools.com)
+- [https://www.matcotools.com/franchise](https://www.matcotools.com/franchise)
 - [https://www.matcotools.com/logos](https://www.matcotools.com/logos)
+- [http://www.matcotools.com](http://www.matcotools.com)
 
 ## Brand Guidelines
 

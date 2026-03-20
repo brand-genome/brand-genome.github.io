@@ -2,11 +2,11 @@
 title: ACTVET
 slug: actvet
 description: ""
-date: "2026-03-13T09:22:53.439080"
+date: "2026-03-20T08:22:04.342707"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "abu-dhabi"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,14 +51,14 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
-  - monochrome
   - graphic
+  - monochrome
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.actvet.gov.ae/](https://www.actvet.gov.ae/)
+- [https://www.actvet.gov.ae](https://www.actvet.gov.ae)
 
 ## Brand Guidelines
 

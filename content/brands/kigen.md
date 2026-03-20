@@ -2,12 +2,12 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-03-13T09:22:53.490969"
+date: "2026-03-20T08:22:04.387489"
 draft: false
 sectors:
-  - telecom
-  - cybersecurity
   - networking
+  - cybersecurity
+  - telecom
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - security
+  - networks
 industries: []
 countries:
   - "empire-of-japan"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,11 +51,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - lockup
   - vertical
   - secondary
   - horizontal
+  - lockup
+  - primary
 brand_colors: []
 typographies:
   - montserrat
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kigen.com/](https://kigen.com/)
+- [https://kigen.com](https://kigen.com)
 
 ## Brand Guidelines
 

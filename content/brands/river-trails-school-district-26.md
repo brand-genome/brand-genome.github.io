@@ -2,11 +2,11 @@
 title: River Trails School District 26
 slug: "river-trails-school-district-26"
 description: ""
-date: "2026-03-13T09:22:53.076680"
+date: "2026-03-20T08:22:04.073225"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +48,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors:
   - black
   - green
@@ -61,10 +62,10 @@ typographies:
   - roboto
 imagery_styles:
   - artificial
-  - natural
-  - candid
   - professional
   - bold
+  - natural
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rtsd26.org/](https://www.rtsd26.org/)
+- [https://www.rtsd26.org](https://www.rtsd26.org)
 
 ## Brand Guidelines
 

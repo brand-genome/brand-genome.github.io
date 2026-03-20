@@ -2,7 +2,7 @@
 title: Almería ciudad
 slug: "almeria-ciudad"
 description: ""
-date: "2026-03-13T09:22:51.901426"
+date: "2026-03-20T08:22:03.067236"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - spanish
 tags:
-  - city
-  - featured
   - regional
+  - featured
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +51,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - yellow
-  - "pantone-123"
-  - black
   - red
+  - "pantone-123"
   - "pantone-485"
   - white
+  - yellow
+  - black
 typographies: []
 imagery_styles:
+  - duotone
+  - graphic
   - modern
   - contemporary
   - monochrome
-  - duotone
-  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com](http://www.google.com)
 - [https://www.almeriaciudad.es](https://www.almeriaciudad.es)
+- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

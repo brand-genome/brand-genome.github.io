@@ -2,12 +2,12 @@
 title: Renata
 slug: renata
 description: ""
-date: "2026-03-13T09:22:54.185434"
+date: "2026-03-20T08:22:05.012913"
 draft: false
 sectors:
-  - research
   - "public-sector"
   - networking
+  - research
 regions:
   - colombia
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
   - green
   - navy
   - blue
 typographies:
   - "open-sans"
-  - ubuntu
   - arial
+  - ubuntu
   - roboto
 imagery_styles:
   - bold
@@ -73,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.renata.edu.co/](http://www.renata.edu.co/)
-- [https://paginarenata.renata.edu.co/](https://paginarenata.renata.edu.co/)
+- [https://paginarenata.renata.edu.co](https://paginarenata.renata.edu.co)
+- [https://www.renata.edu.co](https://www.renata.edu.co)
+- [http://www.renata.edu.co](http://www.renata.edu.co)
 - [https://typekit.com/fonts/program](https://typekit.com/fonts/program)
-- [https://www.renata.edu.co/](https://www.renata.edu.co/)
 
 ## Brand Guidelines
 

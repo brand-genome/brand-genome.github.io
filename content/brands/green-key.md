@@ -2,11 +2,11 @@
 title: Green Key
 slug: "green-key"
 description: ""
-date: "2026-03-13T09:22:54.720228"
+date: "2026-03-20T08:22:05.518714"
 draft: false
 sectors:
-  - tourism
   - ngo
+  - tourism
 regions:
   - denmark
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.greenkey.global](https://www.greenkey.global)
+- [https://www.green-key.dk/en](https://www.green-key.dk/en)
 - [http://www.fee.global](http://www.fee.global)
 - [http://www.greenkey.global](http://www.greenkey.global)
-- [https://www.green-key.dk/en/](https://www.green-key.dk/en/)
-- [https://www.greenkey.global/](https://www.greenkey.global/)
 
 ## Brand Guidelines
 

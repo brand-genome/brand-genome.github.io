@@ -2,12 +2,12 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-03-13T09:22:53.255145"
+date: "2026-03-20T08:22:04.180899"
 draft: false
 sectors:
   - research
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1938
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,19 +56,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - bold
   - portrait
   - photography
-  - bold
 wikidata_description: United States nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q751572"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MARCHFORBABIES.ORG](http://www.MARCHFORBABIES.ORG)
-- [https://www.marchofdimes.org/](https://www.marchofdimes.org/)
+- [https://www.marchofdimes.org](https://www.marchofdimes.org)
+- [http://www.marchforbabies.org](http://www.marchforbabies.org)
+- [http://www.marchofdimes.org](http://www.marchofdimes.org)
 
 ## Brand Guidelines
 

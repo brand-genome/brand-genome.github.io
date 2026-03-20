@@ -2,7 +2,7 @@
 title: Cusco
 slug: cusco
 description: ""
-date: "2026-03-13T09:22:54.080013"
+date: "2026-03-20T08:22:04.926117"
 draft: false
 sectors:
   - "public-sector"
@@ -29,8 +29,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1534
   - 1300
+  - 1534
+foundation_year_buckets:
+  - "16TH-CENTURY"
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gob.pe](http://www.gob.pe)
-- [https://pide.regioncusco.gob.pe/](https://pide.regioncusco.gob.pe/)
-- [https://transparencia.regioncusco.gob.pe/](https://transparencia.regioncusco.gob.pe/)
 - [https://www.gob.pe/regioncusco](https://www.gob.pe/regioncusco)
+- [https://transparencia.regioncusco.gob.pe](https://transparencia.regioncusco.gob.pe)
+- [https://pide.regioncusco.gob.pe](https://pide.regioncusco.gob.pe)
+- [http://www.gob.pe](http://www.gob.pe)
 
 ## Brand Guidelines
 
@@ -106,7 +109,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1534](/foundation_dates/1534/); [1300](/foundation_dates/1300/) |
+| Foundation Date | [1300](/foundation_dates/1300/); [1534](/foundation_dates/1534/) |
 | Gnd Id | 4090652-8 |
 | Country | Peru |
 | Twinned Administrative Body | La Paz (from 1984-01-03), Samarkand (from 1986-08-04), Athens (from 1991-09-18), Mexico City (from 1987-06-17), Bethlehem (from 1993-10-22) (+16 more) |

@@ -2,11 +2,11 @@
 title: Delta Q
 slug: "delta-q"
 description: ""
-date: "2026-03-13T09:22:52.309890"
+date: "2026-03-20T08:22:03.375268"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - portugal
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - asaba
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mydeltaq.com](https://www.mydeltaq.com)
+- [https://pt.mydeltaq.com/pt/pt](https://pt.mydeltaq.com/pt/pt)
+- [https://gl.mydeltaq.com/en/en](https://gl.mydeltaq.com/en/en)
+- [https://risebydeltaq.com](https://risebydeltaq.com)
 - [http://www.mydeltaq.com](http://www.mydeltaq.com)
-- [https://gl.mydeltaq.com/en/en/](https://gl.mydeltaq.com/en/en/)
-- [https://pt.mydeltaq.com/pt/pt/](https://pt.mydeltaq.com/pt/pt/)
-- [https://risebydeltaq.com/](https://risebydeltaq.com/)
-- [https://www.mydeltaq.com/](https://www.mydeltaq.com/)
 
 ## Brand Guidelines
 

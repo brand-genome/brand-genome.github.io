@@ -2,7 +2,7 @@
 title: AirFreight.com
 slug: airfreightcom
 description: ""
-date: "2026-03-13T09:22:52.233946"
+date: "2026-03-20T08:22:03.296674"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,9 +61,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.AirFreight.com](http://www.AirFreight.com)
-- [https://www.airfreight.com/](https://www.airfreight.com/)
-- [https://www.expeditedfreight.com/](https://www.expeditedfreight.com/)
+- [https://www.airfreight.com](https://www.airfreight.com)
+- [https://www.expeditedfreight.com](https://www.expeditedfreight.com)
+- [http://www.airfreight.com](http://www.airfreight.com)
 
 ## Brand Guidelines
 

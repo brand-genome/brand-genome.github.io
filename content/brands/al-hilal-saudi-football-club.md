@@ -2,7 +2,7 @@
 title: "Al-Hilal Saudi Football Club"
 slug: "al-hilal-saudi-football-club"
 description: ""
-date: "2026-03-13T09:22:52.187259"
+date: "2026-03-20T08:22:03.254438"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Alhilal.com](http://www.Alhilal.com)
-- [https://alhilal.com/en/](https://alhilal.com/en/)
+- [https://alhilal.com/en](https://alhilal.com/en)
+- [http://www.alhilal.com](http://www.alhilal.com)
 
 ## Brand Guidelines
 

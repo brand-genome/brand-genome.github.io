@@ -2,7 +2,7 @@
 title: Carcassonne Agglo
 slug: "carcassonne-agglo"
 description: ""
-date: "2026-03-13T09:22:53.667091"
+date: "2026-03-20T08:22:04.524592"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-235"
-  - "pantone-722"
-  - black
-  - "pantone-377"
   - red
-  - blue
-  - "pantone-632"
   - green
+  - "pantone-632"
+  - "pantone-235"
+  - blue
+  - "pantone-722"
+  - "pantone-377"
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.carcassonne-agglo.fr/](https://www.carcassonne-agglo.fr/)
+- [https://www.carcassonne-agglo.fr](https://www.carcassonne-agglo.fr)
+- [http://www.carcassonne-agglo.fr](http://www.carcassonne-agglo.fr)
 
 ## Brand Guidelines
 

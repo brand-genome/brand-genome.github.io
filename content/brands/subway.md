@@ -2,7 +2,7 @@
 title: Subway
 slug: subway
 description: ""
-date: "2026-03-13T09:22:53.265046"
+date: "2026-03-20T08:22:04.191002"
 draft: false
 sectors:
   - restaurant
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries:
   - "fast-food"
 countries:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,13 +58,13 @@ body_sections: []
 logo_elements:
   - alternate
   - vertical
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
   - green
   - yellow
-  - purple
   - orange
+  - purple
 typographies: []
 imagery_styles:
   - aerial
@@ -79,8 +81,27 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.subway.com/](https://www.subway.com/)
+- [https://www.subway.com](https://www.subway.com)
 - [https://www.subwayfranchise.com/en-us](https://www.subwayfranchise.com/en-us)
+- [https://subway.com](https://subway.com)
+- [https://order.subway.com](https://order.subway.com)
+- [https://www.subway.com/en-GB](https://www.subway.com/en-GB)
+- [https://www.subway-sandwiches.de](https://www.subway-sandwiches.de)
+- [https://www.subway.com/de-DE](https://www.subway.com/de-DE)
+- [https://www.subway.com/fr-fr](https://www.subway.com/fr-fr)
+- [https://subway.com.pr](https://subway.com.pr)
+- [https://subway.ru](https://subway.ru)
+- [https://subway.com.br](https://subway.com.br)
+- [http://subwaymexico.com.mx](http://subwaymexico.com.mx)
+- [https://subway.in](https://subway.in)
+- [https://www.subway.co.jp](https://www.subway.co.jp)
+- [http://www.subwayarabia.com](http://www.subwayarabia.com)
+- [https://www.subway.fi](https://www.subway.fi)
+- [http://subway.co.kr](http://subway.co.kr)
+- [https://mysubway.ge](https://mysubway.ge)
+- [https://www.subway.co.uk](https://www.subway.co.uk)
+- [https://www.subway.com.au](https://www.subway.com.au)
+- [https://www.dein-subway.de](https://www.dein-subway.de)
 
 ## Brand Guidelines
 

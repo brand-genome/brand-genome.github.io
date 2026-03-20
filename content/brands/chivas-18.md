@@ -2,7 +2,7 @@
 title: Chivas 18
 slug: "chivas-18"
 description: ""
-date: "2026-03-13T09:22:54.079571"
+date: "2026-03-20T08:22:04.925646"
 draft: false
 sectors:
   - drink
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - cyan
-  - "pantone-2736"
-  - black
-  - blue
-  - "pantone-2755"
   - gold
+  - "pantone-2755"
   - white
+  - cyan
+  - blue
+  - "pantone-2736"
   - "pantone-873"
+  - black
 typographies:
   - verdana
 imagery_styles:
-  - contemporary
-  - modern
   - bold
+  - modern
   - graphic
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.chivas.com/en-US](https://www.chivas.com/en-US)
-- [https://www.chivas.com/en-us/collection/chivas-18/](https://www.chivas.com/en-us/collection/chivas-18/)
+- [https://www.chivas.com/en-us/collection/chivas-18](https://www.chivas.com/en-us/collection/chivas-18)
 
 ## Brand Guidelines
 

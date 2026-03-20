@@ -2,7 +2,7 @@
 title: Tree Top
 slug: "tree-top"
 description: ""
-date: "2026-03-13T09:22:53.717527"
+date: "2026-03-20T08:22:04.680959"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - secondary
-  - primary
   - signature
+  - primary
+  - secondary
 brand_colors:
+  - red
+  - green
+  - "pantone-362"
   - "pantone-186"
   - orange
-  - red
-  - "pantone-362"
-  - green
 typographies:
   - serif
 imagery_styles:
-  - contemporary
+  - bold
   - modern
   - natural
-  - clean
   - photography
-  - bold
+  - contemporary
+  - clean
 wikidata_description: group of the Piru gang alliance
 wikidata_url: "https://www.wikidata.org/wiki/Q117743059"
 has_twitter: false
@@ -76,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://treetop.com](https://treetop.com)
+- [https://visittreetop.com](https://visittreetop.com)
 - [http://www.treetop.com](http://www.treetop.com)
-- [https://treetop.com/](https://treetop.com/)
-- [https://visittreetop.com/](https://visittreetop.com/)
 
 ## Brand Guidelines
 

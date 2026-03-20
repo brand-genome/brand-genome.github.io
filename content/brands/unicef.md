@@ -2,7 +2,7 @@
 title: Unicef
 slug: unicef
 description: ""
-date: "2026-03-13T09:22:54.768274"
+date: "2026-03-20T08:22:05.559377"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ regions:
   - international
 years:
   - 2012
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
   - spanish
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1951
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,24 +55,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - vertical
   - signature
+  - horizontal
+  - secondary
 brand_colors:
+  - "pantone-7685"
+  - white
   - cyan
   - grey
-  - black
-  - "pantone-7685"
   - blue
-  - white
+  - black
 typographies:
-  - arial
   - univers
+  - arial
 imagery_styles:
+  - bold
   - photography
   - contemporary
-  - bold
 wikidata_description: "non-profit organisation from Turkey"
 wikidata_url: "https://www.wikidata.org/wiki/Q131429930"
 has_twitter: false
@@ -82,7 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unicef.org/](https://www.unicef.org/)
+- [https://www.unicef.org](https://www.unicef.org)
+- [https://www.unicefturk.org](https://www.unicefturk.org)
 
 ## Brand Guidelines
 

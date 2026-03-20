@@ -2,7 +2,7 @@
 title: Southeastern Railway
 slug: "southeastern-railway"
 description: ""
-date: "2026-03-13T09:22:52.060152"
+date: "2026-03-20T08:22:03.126612"
 draft: false
 sectors:
   - railroad
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors:
   - white
 typographies: []
 imagery_styles:
-  - photography
   - abstract
+  - photography
 wikidata_description: "railway museum in Duluth, Georgia, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q7569499"
 has_twitter: false
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.southeasternrailway.co.uk/](https://www.southeasternrailway.co.uk/)
+- [https://www.southeasternrailway.co.uk](https://www.southeasternrailway.co.uk)
+- [https://www.train-museum.org](https://www.train-museum.org)
 
 ## Brand Guidelines
 

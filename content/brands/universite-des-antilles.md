@@ -2,7 +2,7 @@
 title: Université des Antilles
 slug: "universite-des-antilles"
 description: ""
-date: "2026-03-13T09:22:55.015010"
+date: "2026-03-20T08:22:05.723861"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.univ-antilles.fr/](https://www.univ-antilles.fr/)
+- [https://www.univ-antilles.fr](https://www.univ-antilles.fr)
 
 ## Brand Guidelines
 

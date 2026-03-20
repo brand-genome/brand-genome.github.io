@@ -2,7 +2,7 @@
 title: Rezult
 slug: rezult
 description: ""
-date: "2026-03-13T09:22:52.176153"
+date: "2026-03-20T08:22:03.243298"
 draft: false
 sectors:
   - "forestry-timber"
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +64,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://rezult.pro](https://rezult.pro)
+- [https://rezult.pro/en/contacts](https://rezult.pro/en/contacts)
+- [https://rezult-timber.com](https://rezult-timber.com)
+- [https://rezult-timber.com/en/contacts](https://rezult-timber.com/en/contacts)
 - [http://www.rezult.pro](http://www.rezult.pro)
-- [https://rezult-timber.com/](https://rezult-timber.com/)
-- [https://rezult-timber.com/en/contacts/](https://rezult-timber.com/en/contacts/)
-- [https://rezult.pro/](https://rezult.pro/)
-- [https://rezult.pro/en/contacts/](https://rezult.pro/en/contacts/)
+- [https://www.flashscore.com](https://www.flashscore.com)
 
 ## Brand Guidelines
 

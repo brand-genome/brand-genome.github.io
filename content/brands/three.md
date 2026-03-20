@@ -2,21 +2,21 @@
 title: Three
 slug: three
 description: ""
-date: "2026-03-13T09:22:52.063939"
+date: "2026-03-20T08:22:03.129706"
 draft: false
 sectors:
   - telecom
 regions:
   - "hong-kong"
 years:
-  - 2022
   - 2025
+  - 2022
 languages:
   - english
 tags:
+  - telecommunications
   - featured
   - technology
-  - telecommunications
 industries:
   - telecommunications
 countries:
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.three.com.hk](https://www.three.com.hk)
+- [https://www.three.com.hk/prepaid](https://www.three.com.hk/prepaid)
 - [http://www.whambrands.com](http://www.whambrands.com)
-- [https://www.three.com.hk/](https://www.three.com.hk/)
-- [https://www.three.com.hk/prepaid/](https://www.three.com.hk/prepaid/)
+- [https://www.three.com](https://www.three.com)
 
 ## Brand Guidelines
 

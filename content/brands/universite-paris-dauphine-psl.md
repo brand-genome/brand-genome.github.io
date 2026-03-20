@@ -2,12 +2,12 @@
 title: Université Paris Dauphine PSL
 slug: "universite-paris-dauphine-psl"
 description: ""
-date: "2026-03-13T09:22:52.233544"
+date: "2026-03-20T08:22:03.296429"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - france
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dauphine.psl.eu/](https://dauphine.psl.eu/)
+- [https://dauphine.psl.eu](https://dauphine.psl.eu)
+- [https://london.dauphine.psl.eu](https://london.dauphine.psl.eu)
 - [https://dauphine.psl.eu/alumni](https://dauphine.psl.eu/alumni)
-- [https://london.dauphine.psl.eu/](https://london.dauphine.psl.eu/)
-- [https://www.dauphine-alumni.org/fr/](https://www.dauphine-alumni.org/fr/)
-- [https://www.dauphinefoundation.com/](https://www.dauphinefoundation.com/)
+- [https://www.dauphine-alumni.org/fr](https://www.dauphine-alumni.org/fr)
+- [https://www.dauphinefoundation.com](https://www.dauphinefoundation.com)
 
 ## Brand Guidelines
 

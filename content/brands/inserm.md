@@ -2,7 +2,7 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-03-13T09:22:54.752274"
+date: "2026-03-20T08:22:05.550842"
 draft: false
 sectors:
   - research
@@ -16,8 +16,8 @@ languages:
 tags:
   - science
 industries:
-  - research
   - "research-and-development-in-other-physical-and-natural-sciences"
+  - research
 countries:
   - france
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
   - times
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.inserm.fr](https://www.inserm.fr)
 - [http://www.inserm.fr](http://www.inserm.fr)
-- [https://www.inserm.fr/](https://www.inserm.fr/)
+- [https://www.inserm.fr/en/home](https://www.inserm.fr/en/home)
 
 ## Brand Guidelines
 

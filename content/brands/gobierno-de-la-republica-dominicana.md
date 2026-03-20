@@ -2,7 +2,7 @@
 title: Gobierno de la República Dominicana
 slug: "gobierno-de-la-republica-dominicana"
 description: ""
-date: "2026-03-13T09:22:52.887041"
+date: "2026-03-20T08:22:03.878688"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,12 +61,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.pinterest.com/GobEspaillatRD/](http://www.pinterest.com/GobEspaillatRD/)
+- [https://www.dominicana.gob.do](https://www.dominicana.gob.do)
+- [https://www.gob.do](https://www.gob.do)
+- [https://www.presidencia.gob.do](https://www.presidencia.gob.do)
+- [http://www.pinterest.com/GobEspaillatRD](http://www.pinterest.com/GobEspaillatRD)
 - [http://www.tiktok.com/@gobespaillatrd](http://www.tiktok.com/@gobespaillatrd)
 - [http://www.twitter.com/GobEspaillatRD](http://www.twitter.com/GobEspaillatRD)
-- [https://www.dominicana.gob.do/](https://www.dominicana.gob.do/)
-- [https://www.gob.do/](https://www.gob.do/)
-- [https://www.presidencia.gob.do/](https://www.presidencia.gob.do/)
 
 ## Brand Guidelines
 

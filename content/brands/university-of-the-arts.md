@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-03-13T09:22:53.293358"
+date: "2026-03-20T08:22:04.217896"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
   - art
 industries:
   - "higher-education"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,16 +56,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
-  - dynamic
   - photography
+  - dynamic
+  - vibrant
 wikidata_description: "University in Philadelphia, USA, accredited in 1987. Successor to the Philadelphia Colleges of the Arts."
 wikidata_url: "https://www.wikidata.org/wiki/Q1068615"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uarts.edu/](https://www.uarts.edu/)
+- [https://www.uarts.edu](https://www.uarts.edu)
+- [https://uarts.edu](https://uarts.edu)
 
 ## Brand Guidelines
 

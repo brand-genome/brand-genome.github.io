@@ -2,12 +2,12 @@
 title: Royal Caribbean International
 slug: "royal-caribbean-international"
 description: ""
-date: "2026-03-13T09:22:52.061808"
+date: "2026-03-20T08:22:03.127545"
 draft: false
 sectors:
-  - cruise
   - hospitality
   - tourism
+  - cruise
 regions:
   - norway
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,13 +63,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.AAA.com/Travel](http://www.AAA.com/Travel)
-- [http://www.LoyalToYouAlways.com](http://www.LoyalToYouAlways.com)
-- [http://www.RoyalCaribbean.com](http://www.RoyalCaribbean.com)
-- [http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra/](http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra/)
+- [https://www.royalcaribbean.com](https://www.royalcaribbean.com)
 - [https://secure.royalcaribbean.com.br/chooseCountry.do](https://secure.royalcaribbean.com.br/chooseCountry.do)
-- [https://www.royalcaribbean.com/](https://www.royalcaribbean.com/)
 - [https://www.royalcaribbean.com/nor/no](https://www.royalcaribbean.com/nor/no)
+- [http://www.aaa.com/Travel](http://www.aaa.com/Travel)
+- [http://www.loyaltoyoualways.com](http://www.loyaltoyoualways.com)
+- [http://www.royalcaribbean.com](http://www.royalcaribbean.com)
+- [http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra](http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra)
 
 ## Brand Guidelines
 

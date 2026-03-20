@@ -2,11 +2,11 @@
 title: Wikimedia Foundation
 slug: "wikimedia-foundation"
 description: ""
-date: "2026-03-13T09:22:53.704905"
+date: "2026-03-20T08:22:04.560246"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -30,24 +30,26 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - wikifunctions
-  - "wikimedia-commons"
-  - wikibooks
-  - wikispecies
   - wikipedia
-  - wikidata
-  - wikiversity
-  - wiktionary
-  - wikinews
-  - wikisource
-  - wikivoyage
   - wikiquote
+  - wikiversity
+  - wikifunctions
+  - wikinews
+  - wikivoyage
+  - wiktionary
+  - wikidata
+  - "wikimedia-commons"
+  - wikispecies
+  - wikisource
+  - wikibooks
 products: []
 headquarters_locations:
   - "san-francisco"
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,8 +72,8 @@ logo_elements:
 brand_colors:
   - blue
 typographies:
-  - serif
   - montserrat
+  - serif
 imagery_styles:
   - colorful
   - graphic
@@ -86,11 +88,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.wikimedia.org/wiki/](http://www.wikimedia.org/wiki/)
-- [https://foundation.wikimedia.org/](https://foundation.wikimedia.org/)
+- [https://wikimediafoundation.org](https://wikimediafoundation.org)
+- [https://foundation.wikimedia.org](https://foundation.wikimedia.org)
+- [https://www.wikimedia.org](https://www.wikimedia.org)
 - [https://meta.wikimedia.org/wiki/Brand](https://meta.wikimedia.org/wiki/Brand)
-- [https://wikimediafoundation.org/](https://wikimediafoundation.org/)
-- [https://www.wikimedia.org/](https://www.wikimedia.org/)
+- [http://www.wikimedia.org/wiki](http://www.wikimedia.org/wiki)
 
 ## Brand Guidelines
 
@@ -329,7 +331,7 @@ RIGHT NOW
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikibooks](/products_or_materials_produced/wikibooks/); [Wikispecies](/products_or_materials_produced/wikispecies/); [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikisource](/products_or_materials_produced/wikisource/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wikiquote](/products_or_materials_produced/wikiquote/) |
+| Product Or Material Produced | [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikispecies](/products_or_materials_produced/wikispecies/); [Wikisource](/products_or_materials_produced/wikisource/); [Wikibooks](/products_or_materials_produced/wikibooks/) |
 | Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United States |

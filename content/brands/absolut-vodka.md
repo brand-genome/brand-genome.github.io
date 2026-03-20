@@ -2,20 +2,20 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-03-13T09:22:52.866883"
+date: "2026-03-20T08:22:03.867333"
 draft: false
 sectors:
   - drink
 regions:
   - sweden
 years:
-  - 2013
   - 2009
+  - 2013
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - sweden
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1879
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +52,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
   - black
   - white
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.absolut.com/](https://www.absolut.com/)
-- [https://www.absolut.com/en-us/products/absolut-vodka/](https://www.absolut.com/en-us/products/absolut-vodka/)
-- [https://www.absolutdrinks.com/](https://www.absolutdrinks.com/)
+- [https://www.absolut.com](https://www.absolut.com)
+- [https://www.absolut.com/en-us/products/absolut-vodka](https://www.absolut.com/en-us/products/absolut-vodka)
+- [https://www.absolutdrinks.com](https://www.absolutdrinks.com)
 
 ## Brand Guidelines
 

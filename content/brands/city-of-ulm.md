@@ -2,7 +2,7 @@
 title: City of Ulm
 slug: "city-of-ulm"
 description: ""
-date: "2026-03-13T09:22:52.195625"
+date: "2026-03-20T08:22:03.261989"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +49,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-877"
-  - black
   - silver
   - white
+  - black
+  - "pantone-877"
 typographies:
   - frutiger
 imagery_styles:
-  - artificial
-  - natural
-  - staged
   - dynamic
+  - staged
+  - artificial
   - professional
   - bold
+  - natural
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,10 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ulm.de](https://www.ulm.de)
+- [https://www.ulm.de/de-de](https://www.ulm.de/de-de)
 - [http://www.ulm.de](http://www.ulm.de)
 - [http://www.youtube.com/ulmfilme](http://www.youtube.com/ulmfilme)
-- [https://www.ulm.de/](https://www.ulm.de/)
-- [https://www.ulm.de/de-de](https://www.ulm.de/de-de)
 
 ## Brand Guidelines
 

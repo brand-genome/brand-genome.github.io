@@ -2,7 +2,7 @@
 title: TXI
 slug: txi
 description: ""
-date: "2026-03-13T09:22:53.026709"
+date: "2026-03-20T08:22:04.020186"
 draft: false
 sectors:
   - consulting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://txidigital.com/](https://txidigital.com/)
+- [https://txidigital.com](https://txidigital.com)
+- [http://www.txintxua.com](http://www.txintxua.com)
 
 ## Brand Guidelines
 

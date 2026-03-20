@@ -2,7 +2,7 @@
 title: Ecobee
 slug: ecobee
 description: ""
-date: "2026-03-13T09:22:55.033356"
+date: "2026-03-20T08:22:05.735872"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +53,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - blue
-  - grey
-  - "pantone-2190"
-  - black
-  - "pantone-2256"
   - green
   - white
+  - grey
+  - blue
+  - "pantone-2190"
+  - "pantone-2256"
+  - black
 typographies:
-  - display
   - gotham
+  - display
 imagery_styles:
   - clean
   - modern
@@ -81,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ecobee.com/](https://www.ecobee.com/)
+- [https://www.ecobee.com](https://www.ecobee.com)
 
 ## Brand Guidelines
 

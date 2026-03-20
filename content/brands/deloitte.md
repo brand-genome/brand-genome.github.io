@@ -2,11 +2,11 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-03-13T09:22:54.131999"
+date: "2026-03-20T08:22:04.968982"
 draft: false
 sectors:
-  - consulting
   - finance
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - financial
 industries:
-  - "accounting-services"
   - "professional-services-industry"
+  - "accounting-services"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -30,11 +30,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - consultation
   - tax
-  - "law-firm"
-  - "risk-management"
   - audit
+  - "law-firm"
+  - consultation
+  - "risk-management"
 products: []
 headquarters_locations:
   - london
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1845
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,18 +62,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
+  - impact
   - "open-sans"
   - times
   - verdana
-  - impact
 imagery_styles:
   - bold
 wikidata_description: multinational professional services network founded in 1845
@@ -85,9 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.deloitte.com/about](http://www.deloitte.com/about)
-- [https://www.deloitte.com/](https://www.deloitte.com/)
+- [https://www.deloitte.com](https://www.deloitte.com)
 - [https://www.deloitte.com/et/en/services/financial-advisory.html](https://www.deloitte.com/et/en/services/financial-advisory.html)
+- [http://www.deloitte.com/about](http://www.deloitte.com/about)
+- [https://www2.deloitte.com/in/en.html](https://www2.deloitte.com/in/en.html)
 
 ## Brand Guidelines
 
@@ -135,7 +138,7 @@ Additional complementary colors including blues and grays are listed explicitly 
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Consultation](/products_or_materials_produced/consultation/); [Tax](/products_or_materials_produced/tax/); [Law Firm](/products_or_materials_produced/law-firm/); [Risk Management](/products_or_materials_produced/risk-management/); [Audit](/products_or_materials_produced/audit/) |
+| Product Or Material Produced | [Tax](/products_or_materials_produced/tax/); [Audit](/products_or_materials_produced/audit/); [Law Firm](/products_or_materials_produced/law-firm/); [Consultation](/products_or_materials_produced/consultation/); [Risk Management](/products_or_materials_produced/risk-management/) |
 | Headquarters Location | [London](/headquarters_locations/london/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1845](/foundation_dates/1845/) |
 | Founded By | William Welch Deloitte, George Touche |

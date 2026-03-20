@@ -2,7 +2,7 @@
 title: UK Aid
 slug: "uk-aid"
 description: ""
-date: "2026-03-13T09:22:55.078058"
+date: "2026-03-20T08:22:05.780850"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
   - "pantone-280"
+  - white
+  - blue
   - "pantone-186"
   - black
-  - red
-  - blue
-  - white
 typographies: []
 imagery_styles:
   - monochrome
@@ -69,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.uk/government/publications/official-development-assistance-oda-funded-programmes-branding-guidance/branding-guidance-for-oda-funded-programmes--2](https://www.gov.uk/government/publications/official-development-assistance-oda-funded-programmes-branding-guidance/branding-guidance-for-oda-funded-programmes--2)
 - [https://www.gov.uk/guidance/uk-aid](https://www.gov.uk/guidance/uk-aid)
+- [https://www.gov.uk/government/publications/official-development-assistance-oda-funded-programmes-branding-guidance/branding-guidance-for-oda-funded-programmes--2](https://www.gov.uk/government/publications/official-development-assistance-oda-funded-programmes-branding-guidance/branding-guidance-for-oda-funded-programmes--2)
+- [https://www.gov.uk/international-development-funding/uk-aid-direct](https://www.gov.uk/international-development-funding/uk-aid-direct)
 
 ## Brand Guidelines
 

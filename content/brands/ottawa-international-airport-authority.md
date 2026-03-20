@@ -2,7 +2,7 @@
 title: Ottawa International Airport Authority
 slug: "ottawa-international-airport-authority"
 description: ""
-date: "2026-03-13T09:22:53.443776"
+date: "2026-03-20T08:22:04.347627"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - stacked
   - secondary
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - "pantone-268"
-  - purple
   - navy
+  - white
+  - purple
+  - blue
+  - "pantone-268"
   - orange
   - black
-  - blue
-  - white
 typographies:
   - arial
 imagery_styles:
@@ -77,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lms.yow.ca/](https://lms.yow.ca/)
-- [https://www.yow.ca/](https://www.yow.ca/)
-- [https://yow-fr.rapidlms.com/](https://yow-fr.rapidlms.com/)
+- [https://www.yow.ca](https://www.yow.ca)
+- [https://lms.yow.ca](https://lms.yow.ca)
+- [https://yow-fr.rapidlms.com](https://yow-fr.rapidlms.com)
 
 ## Brand Guidelines
 

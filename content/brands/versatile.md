@@ -2,7 +2,7 @@
 title: Versatile
 slug: versatile
 description: ""
-date: "2026-03-13T09:22:53.342442"
+date: "2026-03-20T08:22:04.251876"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - wordmark
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
+  - red
   - yellow
   - white
-  - red
+  - black
 typographies: []
 imagery_styles:
   - product
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.versatile-ag.com/NA/pages](https://www.versatile-ag.com/NA/pages)
 - [http://www.versatile-ag.com](http://www.versatile-ag.com)
-- [https://www.versatile-ag.com/NA/pages/](https://www.versatile-ag.com/NA/pages/)
+- [https://www.versatile-ag.com](https://www.versatile-ag.com)
 
 ## Brand Guidelines
 

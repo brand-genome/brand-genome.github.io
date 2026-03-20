@@ -2,7 +2,7 @@
 title: World Sailing
 slug: "world-sailing"
 description: ""
-date: "2026-03-13T09:22:54.716058"
+date: "2026-03-20T08:22:05.515560"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - sport
+  - marine
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1907
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,28 +51,28 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - navy
-  - "pantone-3955"
-  - "pantone-324"
-  - "pantone-281"
-  - "pantone-7702"
-  - magenta
   - "pantone-7687"
   - "pantone-233"
-  - white
+  - navy
   - "pantone-270"
+  - white
+  - "pantone-281"
+  - "pantone-7702"
+  - "pantone-324"
+  - "pantone-3955"
+  - magenta
 typographies:
   - arial
   - futura
 imagery_styles:
+  - graphic
   - dramatic
-  - photography
   - professional
   - bold
-  - graphic
+  - photography
 wikidata_description: international sailing sports body
 wikidata_url: "https://www.wikidata.org/wiki/Q381929"
 has_twitter: false
@@ -82,10 +84,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sailing.org](https://www.sailing.org)
+- [https://www.sailing.org/world-sailing-academy](https://www.sailing.org/world-sailing-academy)
+- [https://worldsailing.smapply.io](https://worldsailing.smapply.io)
 - [http://www.sailing.org](http://www.sailing.org)
-- [https://worldsailing.smapply.io/](https://worldsailing.smapply.io/)
-- [https://www.sailing.org/](https://www.sailing.org/)
-- [https://www.sailing.org/world-sailing-academy/](https://www.sailing.org/world-sailing-academy/)
 
 ## Brand Guidelines
 

@@ -2,15 +2,15 @@
 title: Vidyo
 slug: vidyo
 description: ""
-date: "2026-03-13T09:22:54.983315"
+date: "2026-03-20T08:22:05.713904"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +53,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
   - signature
+  - horizontal
 brand_colors:
   - black
-  - cyan
   - white
   - blue
+  - cyan
 typographies:
-  - lato
   - impact
+  - lato
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: company producing visual communication solutions
 wikidata_url: "https://www.wikidata.org/wiki/Q4052686"
 has_twitter: false
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://vidyo.github.io/vidyoplatform.github.io](https://vidyo.github.io/vidyoplatform.github.io)
-- [https://www.vidyo.com/](https://www.vidyo.com/)
+- [https://www.vidyo.com](https://www.vidyo.com)
 - [https://www.vidyo.com/help/VidyoPlatform/1_Intro/VidyoPlatform-Home.htm](https://www.vidyo.com/help/VidyoPlatform/1_Intro/VidyoPlatform-Home.htm)
+- [https://vidyo.github.io/vidyoplatform.github.io](https://vidyo.github.io/vidyoplatform.github.io)
+- [http://www.vidyo.com](http://www.vidyo.com)
 
 ## Brand Guidelines
 

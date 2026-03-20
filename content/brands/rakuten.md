@@ -2,11 +2,11 @@
 title: Rakuten
 slug: rakuten
 description: ""
-date: "2026-03-13T09:22:51.887077"
+date: "2026-03-20T08:22:03.060104"
 draft: false
 sectors:
-  - "e-commerce"
   - retail
+  - "e-commerce"
 regions:
   - france
 years:
@@ -34,12 +34,14 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "futako-tamagawa-rise"
   - tokyo
+  - "futako-tamagawa-rise"
   - "shinagawa-seaside"
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,9 +74,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://fr.shopping.rakuten.com](https://fr.shopping.rakuten.com)
 - [http://www.rakuten.com](http://www.rakuten.com)
 - [https://corp.rakuten.co.jp](https://corp.rakuten.co.jp)
-- [https://fr.shopping.rakuten.com/](https://fr.shopping.rakuten.com/)
+- [https://global.rakuten.com/corp](https://global.rakuten.com/corp)
+- [https://www.rakuten.co.jp](https://www.rakuten.co.jp)
+- [https://www.rakuten.ne.jp](https://www.rakuten.ne.jp)
+- [https://plaza.rakuten.co.jp](https://plaza.rakuten.co.jp)
+- [https://www.rakuten.com.tw](https://www.rakuten.com.tw)
 
 ## Brand Guidelines
 
@@ -90,7 +97,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Futako Tamagawa Rise](/headquarters_locations/futako-tamagawa-rise/); [Tokyo](/headquarters_locations/tokyo/); [Shinagawa Seaside](/headquarters_locations/shinagawa-seaside/) |
+| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/); [Futako Tamagawa Rise](/headquarters_locations/futako-tamagawa-rise/); [Shinagawa Seaside](/headquarters_locations/shinagawa-seaside/) |
 | Foundation Date | [1997](/foundation_dates/1997/) |
 | Inception | 1997-02-07 |
 | Country | Japan |

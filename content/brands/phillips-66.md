@@ -2,13 +2,13 @@
 title: Phillips 66
 slug: "phillips-66"
 description: ""
-date: "2026-03-13T09:22:54.767348"
+date: "2026-03-20T08:22:05.559138"
 draft: false
 sectors:
-  - gas
-  - oil
   - petroleum
+  - gas
   - "petrol-station"
+  - oil
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "petroleum-industry"
   - downstream
+  - "petroleum-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -37,8 +37,11 @@ headquarters_locations:
   - westchase
 subsidiaries: []
 foundation_dates:
-  - 1927
   - 2012
+  - 1927
+foundation_year_buckets:
+  - 1920S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://investor.phillips66.com/](https://investor.phillips66.com/)
-- [https://www.phillips66.com/](https://www.phillips66.com/)
-- [https://www.phillips66gas.com/](https://www.phillips66gas.com/)
+- [https://www.phillips66.com](https://www.phillips66.com)
+- [https://investor.phillips66.com](https://investor.phillips66.com)
+- [https://www.phillips66gas.com](https://www.phillips66gas.com)
 
 ## Brand Guidelines
 
@@ -125,7 +128,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Westchase](/headquarters_locations/westchase/) |
-| Foundation Date | [1927](/foundation_dates/1927/); [2012](/foundation_dates/2012/) |
+| Foundation Date | [2012](/foundation_dates/2012/); [1927](/foundation_dates/1927/) |
 | Follows | Phillips Petroleum Company |
 | Freebase Id | /m/05nvkk |
 | Stock Exchange | New York Stock Exchange (from 2012-04-30) |

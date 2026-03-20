@@ -2,7 +2,7 @@
 title: University of Jeddah
 slug: "university-of-jeddah"
 description: ""
-date: "2026-03-13T09:22:53.661479"
+date: "2026-03-20T08:22:04.519375"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
+  - "pantone-5425"
   - "pantone-3025"
   - black
-  - "pantone-5425"
   - "pantone-636"
 typographies: []
 imagery_styles:
@@ -70,8 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uj.edu.sa/](https://www.uj.edu.sa/)
+- [https://www.uj.edu.sa](https://www.uj.edu.sa)
 - [https://www.uj.edu.sa/en](https://www.uj.edu.sa/en)
+- [http://uj.edu.sa](http://uj.edu.sa)
+- [http://www.uj.edu.sa/Home.aspx?Lng=EN](http://www.uj.edu.sa/Home.aspx?Lng=EN)
 
 ## Brand Guidelines
 

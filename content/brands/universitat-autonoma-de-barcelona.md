@@ -2,7 +2,7 @@
 title: Universitat Autònoma de Barcelona
 slug: "universitat-autonoma-de-barcelona"
 description: ""
-date: "2026-03-13T09:22:53.329696"
+date: "2026-03-20T08:22:04.240239"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +52,10 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
-  - white
   - brown
+  - white
   - "pantone-1605"
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -70,12 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.uab.cat/en](https://www.uab.cat/en)
+- [https://www.uab.cat/es](https://www.uab.cat/es)
+- [https://www.uab.cat](https://www.uab.cat)
+- [https://www.uabcampus.cat/en](https://www.uabcampus.cat/en)
+- [https://www.uabcampus.cat](https://www.uabcampus.cat)
 - [http://www.uab.cat](http://www.uab.cat)
-- [https://www.uab.cat/](https://www.uab.cat/)
-- [https://www.uab.cat/en/](https://www.uab.cat/en/)
-- [https://www.uab.cat/es/](https://www.uab.cat/es/)
-- [https://www.uabcampus.cat/](https://www.uabcampus.cat/)
-- [https://www.uabcampus.cat/en/](https://www.uabcampus.cat/en/)
 
 ## Brand Guidelines
 

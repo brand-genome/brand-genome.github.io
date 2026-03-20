@@ -2,7 +2,7 @@
 title: Southampton
 slug: southampton
 description: ""
-date: "2026-03-13T09:22:51.914147"
+date: "2026-03-20T08:22:03.071623"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +55,8 @@ brand_colors:
 typographies:
   - "work-sans"
 imagery_styles:
-  - vibrant
   - clean
+  - vibrant
 wikidata_description: "city and major port in Hampshire, South-East England, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q79848"
 has_twitter: false
@@ -68,6 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://southampton.gov.uk](https://southampton.gov.uk)
+- [https://www.southampton.gov.uk](https://www.southampton.gov.uk)
 
 ## Brand Guidelines
 

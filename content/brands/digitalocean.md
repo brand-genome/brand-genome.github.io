@@ -2,11 +2,11 @@
 title: DigitalOcean
 slug: digitalocean
 description: ""
-date: "2026-03-13T09:22:54.801527"
+date: "2026-03-20T08:22:05.574647"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - lockup
   - vertical
   - horizontal
+  - lockup
+  - wordmark
+  - icon
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
   - impact
 imagery_styles:
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.digitalocean.com/](https://docs.digitalocean.com/)
-- [https://www.digitalocean.com/](https://www.digitalocean.com/)
+- [https://www.digitalocean.com](https://www.digitalocean.com)
+- [https://docs.digitalocean.com](https://docs.digitalocean.com)
 
 ## Brand Guidelines
 

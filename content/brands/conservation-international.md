@@ -2,7 +2,7 @@
 title: Conservation International
 slug: "conservation-international"
 description: ""
-date: "2026-03-13T09:22:54.220334"
+date: "2026-03-20T08:22:05.048320"
 draft: false
 sectors:
   - ngo
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,17 +55,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - alternate
+  - wordmark
   - primary
 brand_colors:
-  - gray
   - green
+  - gray
   - white
   - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
   - graphic
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.conservation.org](https://www.conservation.org)
 - [http://www.conservation.org](http://www.conservation.org)
-- [https://www.conservation.org/](https://www.conservation.org/)
 
 ## Brand Guidelines
 

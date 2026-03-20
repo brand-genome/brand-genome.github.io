@@ -2,7 +2,7 @@
 title: "Johnson & Wales University"
 slug: "johnson-wales-university"
 description: ""
-date: "2026-03-13T09:22:54.983689"
+date: "2026-03-20T08:22:05.714132"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,16 +52,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - stacked
   - wordmark
+  - crest
 brand_colors: []
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "private university based in Providence, Rhode Island"
 wikidata_url: "https://www.wikidata.org/wiki/Q1798494"
 has_twitter: false
@@ -71,10 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.jwu.edu](https://www.jwu.edu)
+- [https://wildcats.jwu.edu](https://wildcats.jwu.edu)
+- [https://jwuconnect.com](https://jwuconnect.com)
 - [http://www.jwu.edu](http://www.jwu.edu)
-- [https://jwuconnect.com/](https://jwuconnect.com/)
-- [https://wildcats.jwu.edu/](https://wildcats.jwu.edu/)
-- [https://www.jwu.edu/](https://www.jwu.edu/)
 
 ## Brand Guidelines
 

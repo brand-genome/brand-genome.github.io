@@ -2,11 +2,11 @@
 title: Citgo Petroleum Corporation
 slug: "citgo-petroleum-corporation"
 description: ""
-date: "2026-03-13T09:22:52.309041"
+date: "2026-03-20T08:22:03.374315"
 draft: false
 sectors:
-  - oil
   - "petrol-station"
+  - oil
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.citgo.com/](https://www.citgo.com/)
-- [https://www.clubcitgo.com/](https://www.clubcitgo.com/)
-- [https://www.mystiklubes.com/](https://www.mystiklubes.com/)
+- [https://www.citgo.com](https://www.citgo.com)
+- [https://www.clubcitgo.com](https://www.clubcitgo.com)
+- [https://www.mystiklubes.com](https://www.mystiklubes.com)
+- [https://www.citgo.com/motorists](https://www.citgo.com/motorists)
 
 ## Brand Guidelines
 

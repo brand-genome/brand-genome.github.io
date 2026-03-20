@@ -2,7 +2,7 @@
 title: CSUDH
 slug: csudh
 description: ""
-date: "2026-03-13T09:22:53.432591"
+date: "2026-03-20T08:22:04.336084"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1960
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,33 +56,33 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - purple
-  - "pantone-302"
+  - green
   - navy
+  - "pantone-209"
+  - "pantone-367"
+  - white
+  - purple
+  - "pantone-7466"
+  - "pantone-124"
   - gray
   - yellow
-  - "pantone-7466"
-  - black
-  - "pantone-124"
-  - green
-  - "pantone-209"
   - "pantone-526"
-  - white
-  - "pantone-367"
+  - "pantone-302"
   - turquoise
+  - black
 typographies:
+  - serif
+  - impact
   - "open-sans"
   - arial
   - "proxima-nova"
-  - serif
   - times
-  - impact
 imagery_styles:
+  - professional
   - photography
   - contemporary
-  - vibrant
   - clean
-  - professional
+  - vibrant
 wikidata_description: university
 wikidata_url: "https://www.wikidata.org/wiki/Q1026909"
 has_twitter: false
@@ -92,7 +94,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.csudh.edu/](https://www.csudh.edu/)
+- [https://www.csudh.edu](https://www.csudh.edu)
 
 ## Brand Guidelines
 

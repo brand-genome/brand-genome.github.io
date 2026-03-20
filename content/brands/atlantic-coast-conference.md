@@ -2,11 +2,11 @@
 title: Atlantic Coast Conference
 slug: "atlantic-coast-conference"
 description: ""
-date: "2026-03-13T09:22:54.358510"
+date: "2026-03-20T08:22:05.189063"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,12 +52,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - gold
   - purple
-  - orange
-  - black
   - maroon
   - blue
-  - gold
+  - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "men's collegiate basketball league"
@@ -70,11 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://theacc.com](https://theacc.com)
+- [https://www.theacc.com/media](https://www.theacc.com/media)
 - [http://theacc.co/ACCBrandStandards](http://theacc.co/ACCBrandStandards)
 - [http://www.clemsontigers.com/styleguide](http://www.clemsontigers.com/styleguide)
-- [http://www.theACC.com](http://www.theACC.com)
-- [https://theacc.com/](https://theacc.com/)
-- [https://www.theacc.com/media](https://www.theacc.com/media)
+- [http://www.theacc.com](http://www.theacc.com)
 
 ## Brand Guidelines
 

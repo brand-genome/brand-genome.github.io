@@ -2,26 +2,26 @@
 title: Engie
 slug: engie
 description: ""
-date: "2026-03-13T09:22:52.057943"
+date: "2026-03-20T08:22:03.124132"
 draft: false
 sectors:
-  - gas
   - utilities
   - "renewable-energy"
+  - gas
 regions:
   - france
 years:
-  - 2015
   - 2021
+  - 2015
 languages:
-  - english
   - french
+  - english
 tags:
   - industry
 industries:
+  - unknown
   - "energy-industry"
   - "facility-management"
-  - unknown
   - "waste-management"
 countries:
   - france
@@ -44,6 +44,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -80,10 +82,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.engie.com/en](https://www.engie.com/en)
+- [https://www.engie.com](https://www.engie.com)
 - [http://www.engie.com](http://www.engie.com)
 - [http://www.engie.fr](http://www.engie.fr)
-- [https://www.engie.com/](https://www.engie.com/)
-- [https://www.engie.com/en](https://www.engie.com/en)
+- [https://agence.engie-homeservices.fr](https://agence.engie-homeservices.fr)
 
 ## Brand Guidelines
 

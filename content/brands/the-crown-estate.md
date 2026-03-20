@@ -2,11 +2,11 @@
 title: The Crown Estate
 slug: "the-crown-estate"
 description: ""
-date: "2026-03-13T09:22:55.035814"
+date: "2026-03-20T08:22:05.738048"
 draft: false
 sectors:
-  - finance
   - "real-estate"
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.thecrownestate.co.uk/](https://www.thecrownestate.co.uk/)
+- [https://www.thecrownestate.co.uk](https://www.thecrownestate.co.uk)
+- [http://www.thecrownestate.co.uk](http://www.thecrownestate.co.uk)
 
 ## Brand Guidelines
 

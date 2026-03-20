@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-03-13T09:22:54.824368"
+date: "2026-03-20T08:22:05.586960"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - "computer-security"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,8 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - magenta
   - yellow
+  - magenta
 typographies: []
 imagery_styles:
   - clean
@@ -79,9 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.broadcom.com](https://www.broadcom.com)
+- [https://www.gendigital.com](https://www.gendigital.com)
 - [http://www.symantec.com](http://www.symantec.com)
-- [https://www.broadcom.com/](https://www.broadcom.com/)
-- [https://www.gendigital.com/](https://www.gendigital.com/)
+- [https://www.nortonlifelock.com](https://www.nortonlifelock.com)
+- [https://www.symantec.com](https://www.symantec.com)
 
 ## Brand Guidelines
 

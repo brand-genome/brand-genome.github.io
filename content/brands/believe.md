@@ -2,7 +2,7 @@
 title: Believe
 slug: believe
 description: ""
-date: "2026-03-13T09:22:52.059526"
+date: "2026-03-20T08:22:03.125809"
 draft: false
 sectors:
   - entertainment
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,12 +72,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.believe.com/](https://www.believe.com/)
-- [https://www.believe.com/artist-services](https://www.believe.com/artist-services)
+- [https://www.believe.com](https://www.believe.com)
 - [https://www.believe.com/fr](https://www.believe.com/fr)
-- [https://www.believe.com/label/allpoints/](https://www.believe.com/label/allpoints/)
-- [https://www.nuclearblast.com/](https://www.nuclearblast.com/)
-- [https://www.tunecore.com/](https://www.tunecore.com/)
+- [https://www.believe.com/artist-services](https://www.believe.com/artist-services)
+- [https://www.believe.com/label/allpoints](https://www.believe.com/label/allpoints)
+- [https://www.tunecore.com](https://www.tunecore.com)
+- [https://www.nuclearblast.com](https://www.nuclearblast.com)
+- [http://www.believe.com](http://www.believe.com)
 
 ## Brand Guidelines
 

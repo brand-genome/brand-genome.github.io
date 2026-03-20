@@ -2,7 +2,7 @@
 title: Daniels
 slug: daniels
 description: ""
-date: "2026-03-13T09:22:54.724674"
+date: "2026-03-20T08:22:05.522332"
 draft: false
 sectors:
   - utilities
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ logo_elements:
 brand_colors:
   - green
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
   - clean
 wikidata_description: ""
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.danielshealth.com/](https://www.danielshealth.com/)
+- [https://www.danielshealth.com](https://www.danielshealth.com)
 
 ## Brand Guidelines
 

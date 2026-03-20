@@ -2,12 +2,12 @@
 title: Digischool
 slug: digischool
 description: ""
-date: "2026-03-13T09:22:53.764185"
+date: "2026-03-20T08:22:04.721471"
 draft: false
 sectors:
-  - education
-  - "e-learning-edtech"
   - "public-sector"
+  - "e-learning-edtech"
+  - education
 regions:
   - kenya
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
   - vertical
   - secondary
   - horizontal
+  - primary
 brand_colors:
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - black
 typographies:
   - trebuchet
   - montserrat
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: Private educational institution.
 wikidata_url: "https://www.wikidata.org/wiki/Q137467732"
 has_twitter: false
@@ -77,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://digischool.icta.go.ke/](https://digischool.icta.go.ke/)
-- [https://icta.go.ke/](https://icta.go.ke/)
-- [https://www.digischool.go.ke/](https://www.digischool.go.ke/)
+- [https://digischool.icta.go.ke](https://digischool.icta.go.ke)
+- [https://www.digischool.go.ke](https://www.digischool.go.ke)
+- [https://icta.go.ke](https://icta.go.ke)
 
 ## Brand Guidelines
 

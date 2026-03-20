@@ -2,7 +2,7 @@
 title: Cultural and Natural Heritage of Lithuania
 slug: "cultural-and-natural-heritage-of-lithuania"
 description: ""
-date: "2026-03-13T09:22:53.319435"
+date: "2026-03-20T08:22:04.230983"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - wordmark
+  - secondary
 brand_colors:
+  - green
+  - white
   - grey
   - gray
   - black
-  - green
-  - white
 typographies:
   - arial
   - roboto
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://lithuania.travel](https://lithuania.travel)
 - [http://www.lithuania.travel](http://www.lithuania.travel)
-- [https://lithuania.travel/](https://lithuania.travel/)
 
 ## Brand Guidelines
 

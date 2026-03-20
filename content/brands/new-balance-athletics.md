@@ -2,13 +2,13 @@
 title: New Balance Athletics
 slug: "new-balance-athletics"
 description: ""
-date: "2026-03-13T09:22:53.715333"
+date: "2026-03-20T08:22:04.676351"
 draft: false
 sectors:
+  - "e-commerce"
+  - fashion
   - footwear
   - "consumer-goods"
-  - fashion
-  - "e-commerce"
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +51,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
-  - product
   - bold
+  - product
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.newbalance.com](https://www.newbalance.com)
 - [http://www.com.hk](http://www.com.hk)
-- [https://www.newbalance.com/](https://www.newbalance.com/)
 
 ## Brand Guidelines
 

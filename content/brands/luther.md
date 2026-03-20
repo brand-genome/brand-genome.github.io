@@ -2,7 +2,7 @@
 title: Luther
 slug: luther
 description: ""
-date: "2026-03-13T09:22:52.830330"
+date: "2026-03-20T08:22:03.840319"
 draft: false
 sectors:
   - automobile
@@ -30,6 +30,8 @@ subsidiaries: []
 foundation_dates:
   - 1521
   - 1517
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lutherauto.com/](https://www.lutherauto.com/)
+- [https://www.lutherauto.com](https://www.lutherauto.com)
 
 ## Brand Guidelines
 

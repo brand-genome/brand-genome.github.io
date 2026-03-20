@@ -2,23 +2,23 @@
 title: Avast
 slug: avast
 description: ""
-date: "2026-03-13T09:22:53.932277"
+date: "2026-03-20T08:22:04.851493"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - "czech-republic"
 years:
-  - 2019
   - 2016
+  - 2019
 languages:
   - english
 tags:
   - software
 industries:
-  - "software-industry"
   - "computer-security"
+  - "software-industry"
 countries:
   - "czech-republic"
 revenue_buckets:
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,21 +62,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
   - symbol
-  - wordmark
 brand_colors:
-  - purple
-  - "pantone-158"
-  - yellow
-  - "pantone-267"
-  - orange
-  - black
   - red
-  - blue
   - green
   - white
+  - purple
+  - blue
+  - "pantone-158"
+  - yellow
+  - orange
+  - "pantone-267"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: Czech security software company
@@ -88,9 +90,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.avast.com/en-us/](https://support.avast.com/en-us/)
-- [https://www.avast.com/](https://www.avast.com/)
+- [https://www.avast.com](https://www.avast.com)
 - [https://www.avast.com/en-us/business](https://www.avast.com/en-us/business)
+- [https://support.avast.com/en-us](https://support.avast.com/en-us)
+- [https://www.avast.com/about](https://www.avast.com/about)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: UKRI
 slug: ukri
 description: ""
-date: "2026-03-13T09:22:53.721921"
+date: "2026-03-20T08:22:04.685790"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles:
+  - natural
   - macro
   - staged
-  - natural
 wikidata_description: research funding body for the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q38609561"
 has_twitter: false
@@ -71,11 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ukri.org](https://www.ukri.org)
+- [https://gtr.ukri.org](https://gtr.ukri.org)
+- [https://www.ukro.ac.uk](https://www.ukro.ac.uk)
+- [https://brand.ukri.org](https://brand.ukri.org)
 - [http://www.ukri.org/brand](http://www.ukri.org/brand)
-- [https://brand.ukri.org/](https://brand.ukri.org/)
-- [https://gtr.ukri.org/](https://gtr.ukri.org/)
-- [https://www.ukri.org/](https://www.ukri.org/)
-- [https://www.ukro.ac.uk/](https://www.ukro.ac.uk/)
 
 ## Brand Guidelines
 

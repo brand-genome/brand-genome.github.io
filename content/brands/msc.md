@@ -2,11 +2,11 @@
 title: MSC
 slug: msc
 description: ""
-date: "2026-03-13T09:22:54.356614"
+date: "2026-03-20T08:22:05.187184"
 draft: false
 sectors:
-  - cruise
   - tourism
+  - cruise
 regions:
   - italy
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,25 +52,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - gray
   - white
   - orange
+  - black
 typographies:
   - "open-sans"
-  - georgia
-  - verdana
   - times
+  - verdana
+  - georgia
 imagery_styles:
-  - clean
-  - photography
-  - landscape
   - product
   - bold
+  - photography
+  - clean
+  - landscape
 wikidata_description: Egyptian airline
 wikidata_url: "https://www.wikidata.org/wiki/Q1147012"
 has_twitter: false
@@ -80,10 +82,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.msccruises.com/](https://www.msccruises.com/)
+- [https://www.msccruises.com](https://www.msccruises.com)
 - [https://www.msccruises.com/select-your-country](https://www.msccruises.com/select-your-country)
-- [https://www.msccruises.it/](https://www.msccruises.it/)
-- [https://www.msccruisesusa.com/](https://www.msccruisesusa.com/)
+- [https://www.msccruises.it](https://www.msccruises.it)
+- [https://www.msccruisesusa.com](https://www.msccruisesusa.com)
+- [https://aircairo.com](https://aircairo.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Bucknell University
 slug: "bucknell-university"
 description: ""
-date: "2026-03-13T09:22:54.423594"
+date: "2026-03-20T08:22:05.319530"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1846
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,20 +55,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
   - black
-  - blue
   - white
   - orange
+  - blue
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
-  - graphic
   - clean
+  - graphic
+  - vibrant
 wikidata_description: "private liberal arts college in the Lewisburg, Pennsylvania area"
 wikidata_url: "https://www.wikidata.org/wiki/Q3444679"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bucknell.edu](https://www.bucknell.edu)
 - [http://www.google.com](http://www.google.com)
-- [https://www.bucknell.edu/](https://www.bucknell.edu/)
+- [http://www.bucknell.edu](http://www.bucknell.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Rugby Canada
 slug: "rugby-canada"
 description: ""
-date: "2026-03-13T09:22:53.760820"
+date: "2026-03-20T08:22:04.718783"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +52,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - "pantone-186"
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
 wikidata_description: rugby union competition in Canada
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rugby.ca/](https://rugby.ca/)
 - [https://rugby.ca/en](https://rugby.ca/en)
-- [https://rugbycanada.sportlomo.com/](https://rugbycanada.sportlomo.com/)
+- [https://rugby.ca](https://rugby.ca)
+- [https://rugbycanada.sportlomo.com](https://rugbycanada.sportlomo.com)
 
 ## Brand Guidelines
 

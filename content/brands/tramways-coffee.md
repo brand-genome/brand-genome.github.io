@@ -2,11 +2,11 @@
 title: Tramways Coffee
 slug: "tramways-coffee"
 description: ""
-date: "2026-03-13T09:22:53.240122"
+date: "2026-03-20T08:22:04.157939"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - india
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +50,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - symbol
   - primary
+  - symbol
 brand_colors:
-  - "pantone-115"
-  - black
   - "pantone-298"
   - white
+  - "pantone-115"
+  - black
 typographies:
   - serif
 imagery_styles:
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brewtramwayscoffee.com/](https://brewtramwayscoffee.com/)
+- [https://brewtramwayscoffee.com](https://brewtramwayscoffee.com)
 
 ## Brand Guidelines
 

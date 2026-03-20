@@ -2,7 +2,7 @@
 title: Kryptonite
 slug: kryptonite
 description: ""
-date: "2026-03-13T09:22:53.967853"
+date: "2026-03-20T08:22:04.893852"
 draft: false
 sectors:
   - hardware
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
   - "pantone-7461"
   - gray
   - yellow
   - "pantone-165"
   - black
-  - red
 typographies: []
 imagery_styles:
+  - bold
   - clean
   - product
-  - bold
 wikidata_description: brand of bicycle lock
 wikidata_url: "https://www.wikidata.org/wiki/Q6439720"
 has_twitter: false
@@ -70,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kryptonitelock.com](https://www.kryptonitelock.com)
+- [https://diamond.kryptonitelock.com](https://diamond.kryptonitelock.com)
 - [http://www.grofa.com](http://www.grofa.com)
-- [https://diamond.kryptonitelock.com/](https://diamond.kryptonitelock.com/)
-- [https://www.kryptonitelock.com/](https://www.kryptonitelock.com/)
+- [http://www.kryptonitelock.com](http://www.kryptonitelock.com)
 
 ## Brand Guidelines
 

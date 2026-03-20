@@ -2,11 +2,11 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-03-13T09:22:54.971747"
+date: "2026-03-20T08:22:05.702300"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - qatar
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - qatar
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,11 +59,11 @@ typographies:
   - display
   - din
 imagery_styles:
-  - contemporary
-  - subtle
-  - minimal
   - dynamic
+  - minimal
   - bold
+  - subtle
+  - contemporary
 wikidata_description: Qatari international television channel
 wikidata_url: "https://www.wikidata.org/wiki/Q13477"
 has_twitter: false
@@ -73,9 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://network.aljazeera.net/](https://network.aljazeera.net/)
-- [https://www.aljazeera.com/](https://www.aljazeera.com/)
-- [https://www.aljazeera.net/](https://www.aljazeera.net/)
+- [https://www.aljazeera.com](https://www.aljazeera.com)
+- [https://www.aljazeera.net](https://www.aljazeera.net)
+- [https://network.aljazeera.net](https://network.aljazeera.net)
+- [https://chinese.aljazeera.net](https://chinese.aljazeera.net)
+- [http://aljazeera.com.tr](http://aljazeera.com.tr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: SusChem
 slug: suschem
 description: ""
-date: "2026-03-13T09:22:54.576997"
+date: "2026-03-20T08:22:05.421544"
 draft: false
 sectors:
   - research
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://suschem.org](https://suschem.org)
+- [https://www.suschem.at](https://www.suschem.at)
 - [http://www.suschem-es.org](http://www.suschem-es.org)
 - [http://www.suschem.org](http://www.suschem.org)
-- [https://suschem.org/](https://suschem.org/)
-- [https://www.suschem.at/](https://www.suschem.at/)
+- [https://www.suschem.cz](https://www.suschem.cz)
 
 ## Brand Guidelines
 

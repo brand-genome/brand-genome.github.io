@@ -2,7 +2,7 @@
 title: Cyber Knights 4911
 slug: "cyber-knights-4911"
 description: ""
-date: "2026-03-13T09:22:53.398352"
+date: "2026-03-20T08:22:04.302102"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - engineering
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +50,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - "open-sans"
+  - arial
   - helvetica
   - verdana
-  - arial
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
   - clean
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cyberknights4911.com/](https://cyberknights4911.com/)
+- [https://cyberknights4911.com](https://cyberknights4911.com)
 
 ## Brand Guidelines
 

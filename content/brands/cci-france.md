@@ -2,7 +2,7 @@
 title: CCI France
 slug: "cci-france"
 description: ""
-date: "2026-03-13T09:22:55.165779"
+date: "2026-03-20T08:22:05.867362"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cci.fr/](https://www.cci.fr/)
+- [https://www.cci.fr](https://www.cci.fr)
 - [https://www.cci.fr/reseau-cci/cci-france](https://www.cci.fr/reseau-cci/cci-france)
 
 ## Brand Guidelines

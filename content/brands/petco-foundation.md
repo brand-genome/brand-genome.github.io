@@ -2,11 +2,11 @@
 title: Petco Foundation
 slug: "petco-foundation"
 description: ""
-date: "2026-03-13T09:22:55.009046"
+date: "2026-03-20T08:22:05.721178"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - ngo
+  - "veterinary-pet-care"
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.petcofoundation.org](https://www.petcofoundation.org)
 - [https://petcofoundation.careasy.org/home](https://petcofoundation.careasy.org/home)
-- [https://www.petcofoundation.org/](https://www.petcofoundation.org/)
 
 ## Brand Guidelines
 

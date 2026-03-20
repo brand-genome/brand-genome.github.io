@@ -2,7 +2,7 @@
 title: "Gaia-X"
 slug: "gaia-x"
 description: ""
-date: "2026-03-13T09:22:53.086926"
+date: "2026-03-20T08:22:04.087980"
 draft: false
 sectors:
   - software
@@ -30,6 +30,7 @@ headquarters_locations:
   - "city-of-brussels"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
   - turquoise
+  - purple
   - blue
 typographies: []
 imagery_styles:
@@ -68,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://gaia-x.eu](https://gaia-x.eu)
 - [http://www.gaia-x.eu](http://www.gaia-x.eu)
 - [https://ec.europa.eu/digital-single-market/en/news/towards-next-generation-cloud-europe](https://ec.europa.eu/digital-single-market/en/news/towards-next-generation-cloud-europe)
-- [https://gaia-x.eu/](https://gaia-x.eu/)
+- [https://www.gaia-x.eu](https://www.gaia-x.eu)
 
 ## Brand Guidelines
 

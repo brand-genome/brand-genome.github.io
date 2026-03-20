@@ -2,7 +2,7 @@
 title: "New Zealand Foreign Affairs & Trade"
 slug: "new-zealand-foreign-affairs-trade"
 description: ""
-date: "2026-03-13T09:22:54.821309"
+date: "2026-03-20T08:22:05.584142"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ brand_colors:
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mfat.govt.nz](https://www.mfat.govt.nz)
 - [http://www.govt.nz](http://www.govt.nz)
-- [https://www.mfat.govt.nz/](https://www.mfat.govt.nz/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Cal Poly Pomona
 slug: "cal-poly-pomona"
 description: ""
-date: "2026-03-13T09:22:54.341146"
+date: "2026-03-20T08:22:05.168216"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
   - wordmark
 brand_colors: []
 typographies: []
@@ -69,12 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.cpp.edu](https://www.cpp.edu)
+- [https://www.cpp.edu/admissions](https://www.cpp.edu/admissions)
+- [https://broncoathletics.com](https://broncoathletics.com)
+- [https://www.cpp.edu/housing](https://www.cpp.edu/housing)
+- [https://cpge.cpp.edu](https://cpge.cpp.edu)
 - [http://www.cpp.edu](http://www.cpp.edu)
-- [https://broncoathletics.com/](https://broncoathletics.com/)
-- [https://cpge.cpp.edu/](https://cpge.cpp.edu/)
-- [https://www.cpp.edu/](https://www.cpp.edu/)
-- [https://www.cpp.edu/admissions/](https://www.cpp.edu/admissions/)
-- [https://www.cpp.edu/housing/](https://www.cpp.edu/housing/)
 
 ## Brand Guidelines
 

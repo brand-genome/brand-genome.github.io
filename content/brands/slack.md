@@ -2,7 +2,7 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-03-13T09:22:53.645035"
+date: "2026-03-20T08:22:04.502122"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,27 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - stacked
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - yellow
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - photography
   - product
   - bold
   - lifestyle
+  - photography
 wikidata_description: "web-based instant messaging service"
 wikidata_url: "https://www.wikidata.org/wiki/Q17130715"
 has_twitter: false
@@ -80,15 +82,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://api.slack.com/](https://api.slack.com/)
-- [https://app.slack.com/](https://app.slack.com/)
-- [https://docs.slack.dev/](https://docs.slack.dev/)
-- [https://slack-status.com/](https://slack-status.com/)
-- [https://slack.com/](https://slack.com/)
-- [https://slack.com/downloads](https://slack.com/downloads)
+- [https://slack.com](https://slack.com)
+- [https://app.slack.com](https://app.slack.com)
 - [https://slack.com/help](https://slack.com/help)
+- [https://slack.com/downloads](https://slack.com/downloads)
 - [https://slack.com/integrations](https://slack.com/integrations)
-- [https://tools.slack.dev/](https://tools.slack.dev/)
+- [https://api.slack.com](https://api.slack.com)
+- [https://docs.slack.dev](https://docs.slack.dev)
+- [https://tools.slack.dev](https://tools.slack.dev)
+- [https://slack-status.com](https://slack-status.com)
+- [https://www.salesforce.com/slack](https://www.salesforce.com/slack)
 
 ## Brand Guidelines
 

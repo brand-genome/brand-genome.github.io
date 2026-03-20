@@ -2,7 +2,7 @@
 title: Google for Work
 slug: "google-for-work"
 description: ""
-date: "2026-03-13T09:22:54.559828"
+date: "2026-03-20T08:22:05.405244"
 draft: false
 sectors:
   - software
@@ -27,6 +27,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,25 +46,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - primary
   - alternate
-  - icon
 brand_colors:
+  - red
+  - green
+  - blue
   - gray
   - yellow
   - black
-  - red
-  - blue
-  - green
 typographies:
   - arial
   - roboto
 imagery_styles:
-  - geometric
-  - monochrome
-  - macro
   - product
+  - macro
   - bold
+  - monochrome
+  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://workspace.google.com/](https://workspace.google.com/)
+- [https://workspace.google.com](https://workspace.google.com)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-03-13T09:22:53.648754"
+date: "2026-03-20T08:22:04.506292"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1865
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,10 +58,10 @@ body_sections: []
 logo_elements:
   - seal
 brand_colors:
-  - black
+  - crimson
   - gray
   - white
-  - crimson
+  - black
 typographies:
   - verdana
 imagery_styles: []
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://w.wpi.edu/](https://w.wpi.edu/)
-- [https://www.wpi.edu/](https://www.wpi.edu/)
+- [https://www.wpi.edu](https://www.wpi.edu)
+- [https://w.wpi.edu](https://w.wpi.edu)
+- [http://www.wpi.edu](http://www.wpi.edu)
 
 ## Brand Guidelines
 

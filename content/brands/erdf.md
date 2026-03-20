@@ -2,7 +2,7 @@
 title: ERDF
 slug: erdf
 description: ""
-date: "2026-03-13T09:22:55.159258"
+date: "2026-03-20T08:22:05.860224"
 draft: false
 sectors:
   - utilities
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,12 +56,12 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
   - brown
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.enedis.fr/](https://www.enedis.fr/)
+- [https://www.enedis.fr](https://www.enedis.fr)
 
 ## Brand Guidelines
 

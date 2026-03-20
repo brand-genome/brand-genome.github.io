@@ -2,7 +2,7 @@
 title: Bluetooth
 slug: bluetooth
 description: ""
-date: "2026-03-13T09:22:52.198034"
+date: "2026-03-20T08:22:03.264751"
 draft: false
 sectors:
   - networking
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bluetooth.com/](https://www.bluetooth.com/)
+- [https://www.bluetooth.com](https://www.bluetooth.com)
 
 ## Brand Guidelines
 

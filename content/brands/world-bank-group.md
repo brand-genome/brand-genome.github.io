@@ -2,11 +2,11 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-03-13T09:22:55.092241"
+date: "2026-03-20T08:22:05.797575"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - international
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +53,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - black
   - white
@@ -62,8 +64,8 @@ brand_colors:
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: international financial institution
 wikidata_url: "https://www.wikidata.org/wiki/Q7164"
 has_twitter: false
@@ -75,12 +77,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://icsid.worldbank.org/](https://icsid.worldbank.org/)
-- [https://ida.worldbank.org/](https://ida.worldbank.org/)
-- [https://www.ifc.org/](https://www.ifc.org/)
-- [https://www.miga.org/](https://www.miga.org/)
-- [https://www.worldbank.org/](https://www.worldbank.org/)
+- [https://www.worldbank.org](https://www.worldbank.org)
 - [https://www.worldbank.org/en/who-we-are/ibrd](https://www.worldbank.org/en/who-we-are/ibrd)
+- [https://ida.worldbank.org](https://ida.worldbank.org)
+- [https://www.ifc.org](https://www.ifc.org)
+- [https://www.miga.org](https://www.miga.org)
+- [https://icsid.worldbank.org](https://icsid.worldbank.org)
+- [https://www.banquemondiale.org](https://www.banquemondiale.org)
+- [https://www.albankaldawli.org](https://www.albankaldawli.org)
+- [https://www.vsemirnyjbank.org](https://www.vsemirnyjbank.org)
 
 ## Brand Guidelines
 

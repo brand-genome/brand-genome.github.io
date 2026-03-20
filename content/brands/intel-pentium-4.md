@@ -2,7 +2,7 @@
 title: Intel Pentium 4
 slug: "intel-pentium-4"
 description: ""
-date: "2026-03-13T09:22:52.865990"
+date: "2026-03-20T08:22:03.866191"
 draft: false
 sectors:
   - electronics
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

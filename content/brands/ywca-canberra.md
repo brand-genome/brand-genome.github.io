@@ -2,7 +2,7 @@
 title: YWCA Canberra
 slug: "ywca-canberra"
 description: ""
-date: "2026-03-13T09:22:53.296758"
+date: "2026-03-20T08:22:04.219055"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1935
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,28 +54,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - stacked
   - symbol
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-433"
-  - black
-  - grey
   - white
+  - "pantone-433"
+  - grey
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - natural
-  - geometric
-  - staged
-  - clean
-  - vibrant
   - dynamic
-  - photography
-  - bold
+  - staged
   - graphic
+  - bold
+  - natural
+  - photography
+  - clean
+  - geometric
+  - vibrant
 wikidata_description: nonprofit organisation from Australia
 wikidata_url: "https://www.wikidata.org/wiki/Q136717649"
 has_twitter: false
@@ -85,7 +87,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ywca-canberra.org.au/](https://ywca-canberra.org.au/)
+- [https://ywca-canberra.org.au](https://ywca-canberra.org.au)
+- [https://www.ywca-canberra.org.au](https://www.ywca-canberra.org.au)
 
 ## Brand Guidelines
 

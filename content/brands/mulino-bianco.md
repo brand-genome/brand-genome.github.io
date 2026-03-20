@@ -2,7 +2,7 @@
 title: Mulino bianco
 slug: "mulino-bianco"
 description: ""
-date: "2026-03-13T09:22:53.014909"
+date: "2026-03-20T08:22:04.005506"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries:
   - "food-industry"
 countries:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1974
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mulinobianco.it/](https://www.mulinobianco.it/)
+- [https://www.mulinobianco.it](https://www.mulinobianco.it)
 
 ## Brand Guidelines
 

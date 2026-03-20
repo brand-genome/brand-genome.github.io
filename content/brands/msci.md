@@ -2,7 +2,7 @@
 title: MSCI
 slug: msci
 description: ""
-date: "2026-03-13T09:22:53.297044"
+date: "2026-03-20T08:22:04.219240"
 draft: false
 sectors:
   - finance
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,27 +51,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - "pantone-144"
-  - blue
-  - "pantone-2123"
-  - "pantone-340"
-  - "pantone-3265"
-  - "pantone-2736"
-  - "pantone-2124"
-  - black
-  - white
-  - "pantone-123"
   - "pantone-296"
+  - "pantone-123"
+  - "pantone-2123"
+  - "pantone-3265"
+  - white
   - "pantone-198"
+  - "pantone-2736"
+  - blue
   - "pantone-656"
+  - "pantone-340"
+  - "pantone-144"
   - turquoise
+  - black
+  - "pantone-2124"
 typographies:
-  - arial
   - merriweather
+  - arial
   - din
   - roboto
 imagery_styles:
@@ -85,9 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MSCI.com](http://www.MSCI.com)
-- [https://www.msci.com/](https://www.msci.com/)
+- [https://www.msci.com](https://www.msci.com)
 - [https://www.msci.com/support](https://www.msci.com/support)
+- [http://www.msci.com](http://www.msci.com)
 
 ## Brand Guidelines
 

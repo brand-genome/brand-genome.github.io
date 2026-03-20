@@ -2,11 +2,11 @@
 title: "Bang & Olufsen"
 slug: "bang-olufsen"
 description: ""
-date: "2026-03-13T09:22:52.319930"
+date: "2026-03-20T08:22:03.387538"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
   - "home-appliances"
 regions:
   - denmark
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - music
   - featured
   - technology
-  - music
 industries:
   - electronics
 countries:
@@ -34,14 +34,16 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "video-technology"
   - "sound-engineering"
+  - "video-technology"
 products: []
 headquarters_locations:
   - struer
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,10 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bang-olufsen.com](https://www.bang-olufsen.com)
+- [https://stores.bang-olufsen.com](https://stores.bang-olufsen.com)
 - [http://www.bang-olufsen.com](http://www.bang-olufsen.com)
 - [http://www.bang-olufsen.dk](http://www.bang-olufsen.dk)
-- [https://stores.bang-olufsen.com/](https://stores.bang-olufsen.com/)
-- [https://www.bang-olufsen.com/](https://www.bang-olufsen.com/)
+- [https://www.bang-olufsen.com/da/dk](https://www.bang-olufsen.com/da/dk)
 
 ## Brand Guidelines
 
@@ -93,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Video Technology](/products_or_materials_produced/video-technology/); [Sound Engineering](/products_or_materials_produced/sound-engineering/) |
+| Product Or Material Produced | [Sound Engineering](/products_or_materials_produced/sound-engineering/); [Video Technology](/products_or_materials_produced/video-technology/) |
 | Headquarters Location | [Struer](/headquarters_locations/struer/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Topic'S Main Category | Category:Bang & Olufsen |

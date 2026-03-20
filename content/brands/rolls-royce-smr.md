@@ -2,11 +2,11 @@
 title: "Rolls-Royce SMR"
 slug: "rolls-royce-smr"
 description: ""
-date: "2026-03-13T09:22:51.911179"
+date: "2026-03-20T08:22:03.070253"
 draft: false
 sectors:
-  - energy
   - "nuclear-energy"
+  - energy
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rolls-royce-smr.com/](https://www.rolls-royce-smr.com/)
+- [https://www.rolls-royce-smr.com](https://www.rolls-royce-smr.com)
 
 ## Brand Guidelines
 

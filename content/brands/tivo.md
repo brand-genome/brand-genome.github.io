@@ -2,7 +2,7 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-03-13T09:22:54.225336"
+date: "2026-03-20T08:22:05.062390"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - corporate
+  - technology
 industries: []
 countries:
   - "united-states"
@@ -30,11 +30,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "san-jose"
   - "santa-clara"
+  - "san-jose"
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,11 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Amazon.com](http://www.Amazon.com)
-- [http://www.tivo.com](http://www.tivo.com)
-- [https://online.tivo.com/](https://online.tivo.com/)
-- [https://www.tivo.com/](https://www.tivo.com/)
+- [https://www.tivo.com](https://www.tivo.com)
 - [https://www.tivo.com/products/tivo-os](https://www.tivo.com/products/tivo-os)
+- [https://online.tivo.com](https://online.tivo.com)
+- [http://www.amazon.com](http://www.amazon.com)
+- [http://www.tivo.com](http://www.tivo.com)
 
 ## Brand Guidelines
 
@@ -199,7 +201,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Santa Clara](/headquarters_locations/santa-clara/) |
+| Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/); [San Jose](/headquarters_locations/san-jose/) |
 | Foundation Date | [1983](/foundation_dates/1983/) |
 | Stock Exchange | Nasdaq (from 1999-09-30) |
 | Headquarters Location | Santa Clara, San Jose |

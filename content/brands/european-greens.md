@@ -2,7 +2,7 @@
 title: European Greens
 slug: "european-greens"
 description: ""
-date: "2026-03-13T09:22:53.764671"
+date: "2026-03-20T08:22:04.721843"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://europeangreens.eu](https://europeangreens.eu)
 - [http://www.theguardian.com/guardian-observer-style-guide-a](http://www.theguardian.com/guardian-observer-style-guide-a)
-- [https://europeangreens.eu/](https://europeangreens.eu/)
+- [https://www.greens-efa.eu](https://www.greens-efa.eu)
 
 ## Brand Guidelines
 

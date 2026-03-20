@@ -2,7 +2,7 @@
 title: Universidad Ean
 slug: "universidad-ean"
 description: ""
-date: "2026-03-13T09:22:52.316518"
+date: "2026-03-20T08:22:03.383815"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://universidadean.edu.co/](https://universidadean.edu.co/)
+- [https://universidadean.edu.co](https://universidadean.edu.co)
 
 ## Brand Guidelines
 

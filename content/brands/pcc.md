@@ -2,11 +2,11 @@
 title: PCC
 slug: pcc
 description: ""
-date: "2026-03-13T09:22:55.092683"
+date: "2026-03-20T08:22:05.798228"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.loc.gov/aba/pcc/](https://www.loc.gov/aba/pcc/)
-- [https://www.loc.gov/catdir/pcc/brand/](https://www.loc.gov/catdir/pcc/brand/)
+- [https://www.loc.gov/aba/pcc](https://www.loc.gov/aba/pcc)
+- [https://www.loc.gov/catdir/pcc/brand](https://www.loc.gov/catdir/pcc/brand)
 
 ## Brand Guidelines
 

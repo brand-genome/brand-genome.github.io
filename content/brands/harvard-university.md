@@ -2,12 +2,12 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-03-13T09:22:52.311723"
+date: "2026-03-20T08:22:03.377442"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1636
+foundation_year_buckets:
+  - "17TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,26 +58,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - signature
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - indigo
-  - "pantone-7542"
-  - gray
   - crimson
+  - "pantone-7542"
+  - indigo
+  - gray
   - black
 typographies:
   - arial
-  - georgia
   - script
+  - georgia
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: "private university in Cambridge, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q13371"
 has_twitter: false
@@ -87,10 +89,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.harvard.edu](https://www.harvard.edu)
+- [https://trademark.harvard.edu](https://trademark.harvard.edu)
 - [http://www.harvard.edu](http://www.harvard.edu)
-- [http://www.myfonts.com/](http://www.myfonts.com/)
-- [https://trademark.harvard.edu/](https://trademark.harvard.edu/)
-- [https://www.harvard.edu/](https://www.harvard.edu/)
+- [http://www.myfonts.com](http://www.myfonts.com)
+- [https://harvard.edu](https://harvard.edu)
 
 ## Brand Guidelines
 

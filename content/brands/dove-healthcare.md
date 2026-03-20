@@ -2,7 +2,7 @@
 title: Dove Healthcare
 slug: "dove-healthcare"
 description: ""
-date: "2026-03-13T09:22:55.096748"
+date: "2026-03-20T08:22:05.802858"
 draft: false
 sectors:
   - healthcare
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dovehealthcare.com/](https://www.dovehealthcare.com/)
+- [https://www.dovehealthcare.com](https://www.dovehealthcare.com)
 - [https://www.dovehealthcare.com/branding](https://www.dovehealthcare.com/branding)
 
 ## Brand Guidelines

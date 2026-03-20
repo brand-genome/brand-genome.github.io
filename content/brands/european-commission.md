@@ -2,7 +2,7 @@
 title: European Commission
 slug: "european-commission"
 description: ""
-date: "2026-03-13T09:22:53.252111"
+date: "2026-03-20T08:22:04.178050"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1958
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,13 +66,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://ec.europa.eu/dgs/](http://ec.europa.eu/dgs/)
-- [http://www.europarl.europa.eu/charter/](http://www.europarl.europa.eu/charter/)
-- [http://www.gitanos.org/](http://www.gitanos.org/)
-- [https://commission.europa.eu/about/contact_en](https://commission.europa.eu/about/contact_en)
 - [https://commission.europa.eu/index_en](https://commission.europa.eu/index_en)
+- [https://commission.europa.eu/about/contact_en](https://commission.europa.eu/about/contact_en)
+- [http://ec.europa.eu/dgs](http://ec.europa.eu/dgs)
+- [http://www.europarl.europa.eu/charter](http://www.europarl.europa.eu/charter)
+- [http://www.gitanos.org](http://www.gitanos.org)
 - [https://makeawebsitehub.com/social-media-image-sizes-](https://makeawebsitehub.com/social-media-image-sizes-)
 - [https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/192087985/Presentations_booklet_v5.pdf?version=1&modifi](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/192087985/Presentations_booklet_v5.pdf?version=1&modifi)
+- [https://commission.europa.eu](https://commission.europa.eu)
 
 ## Brand Guidelines
 

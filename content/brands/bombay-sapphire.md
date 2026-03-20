@@ -2,7 +2,7 @@
 title: Bombay Sapphire
 slug: "bombay-sapphire"
 description: ""
-date: "2026-03-13T09:22:53.261896"
+date: "2026-03-20T08:22:04.187114"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,31 +50,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
-  - lockup
   - secondary
   - signature
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - "pantone-2995"
-  - cyan
-  - "pantone-282"
   - navy
-  - "pantone-635"
+  - "pantone-282"
   - white
+  - cyan
   - blue
+  - "pantone-635"
+  - "pantone-2995"
   - "pantone-8022"
 typographies:
   - display
   - serif
 imagery_styles:
-  - monochrome
   - colorful
   - gradient
   - subtle
+  - monochrome
 wikidata_description: trademark
 wikidata_url: "https://www.wikidata.org/wiki/Q891834"
 has_twitter: false
@@ -84,8 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bombaysapphire.com/](https://www.bombaysapphire.com/)
-- [https://www.bombaysapphire.com/us/en/homepage/](https://www.bombaysapphire.com/us/en/homepage/)
+- [https://www.bombaysapphire.com](https://www.bombaysapphire.com)
+- [https://www.bombaysapphire.com/us/en/homepage](https://www.bombaysapphire.com/us/en/homepage)
 
 ## Brand Guidelines
 

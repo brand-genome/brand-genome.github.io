@@ -2,12 +2,12 @@
 title: Universitas Indonesia
 slug: "universitas-indonesia"
 description: ""
-date: "2026-03-13T09:22:53.245624"
+date: "2026-03-20T08:22:04.163665"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - indonesia
 years:
@@ -35,6 +35,9 @@ subsidiaries: []
 foundation_dates:
   - 1950
   - 1849
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +56,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - "pantone-109"
 typographies: []
@@ -70,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://admission.ui.ac.id/](https://admission.ui.ac.id/)
-- [https://conference.ui.ac.id/](https://conference.ui.ac.id/)
-- [https://ipis.ui.ac.id/](https://ipis.ui.ac.id/)
-- [https://penerimaan.ui.ac.id/](https://penerimaan.ui.ac.id/)
-- [https://www.ui.ac.id/](https://www.ui.ac.id/)
+- [https://www.ui.ac.id](https://www.ui.ac.id)
+- [https://admission.ui.ac.id](https://admission.ui.ac.id)
+- [https://penerimaan.ui.ac.id](https://penerimaan.ui.ac.id)
+- [https://conference.ui.ac.id](https://conference.ui.ac.id)
+- [https://ipis.ui.ac.id](https://ipis.ui.ac.id)
 
 ## Brand Guidelines
 

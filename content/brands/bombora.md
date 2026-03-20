@@ -2,7 +2,7 @@
 title: Bombora
 slug: bombora
 description: ""
-date: "2026-03-13T09:22:54.757395"
+date: "2026-03-20T08:22:05.553459"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - symbol
   - primary
+  - symbol
 brand_colors:
+  - white
   - grey
+  - blue
   - orange
   - black
-  - blue
-  - white
 typographies:
   - trebuchet
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bombora.com/](https://bombora.com/)
-- [https://bombora.com/our-data/](https://bombora.com/our-data/)
+- [https://bombora.com](https://bombora.com)
+- [https://bombora.com/our-data](https://bombora.com/our-data)
 
 ## Brand Guidelines
 

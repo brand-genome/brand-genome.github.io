@@ -2,7 +2,7 @@
 title: Federația Română de Fotbal
 slug: "federatia-romana-de-fotbal"
 description: ""
-date: "2026-03-13T09:22:53.083607"
+date: "2026-03-20T08:22:04.084313"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +47,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - symbol
   - vertical
+  - symbol
+  - primary
+  - wordmark
 brand_colors:
   - black
   - white
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.frf.ro/](https://www.frf.ro/)
+- [https://www.frf.ro](https://www.frf.ro)
 
 ## Brand Guidelines
 

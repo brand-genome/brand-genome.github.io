@@ -2,16 +2,16 @@
 title: Cylance
 slug: cylance
 description: ""
-date: "2026-03-13T09:22:53.662436"
+date: "2026-03-20T08:22:04.520271"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - canada
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,25 +54,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - gray
-  - "pantone-376"
-  - black
   - green
+  - "pantone-376"
   - white
+  - gray
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - natural
-  - candid
-  - clean
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
+  - clean
+  - candid
 wikidata_description: American software firm
 wikidata_url: "https://www.wikidata.org/wiki/Q26308599"
 has_twitter: false
@@ -82,9 +84,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.blackberry.com](https://docs.blackberry.com)
-- [https://www.blackberry.com](https://www.blackberry.com)
 - [https://www.cylance.com](https://www.cylance.com)
+- [https://www.blackberry.com](https://www.blackberry.com)
+- [https://docs.blackberry.com](https://docs.blackberry.com)
+- [http://www.cylance.com/en-us/index.html](http://www.cylance.com/en-us/index.html)
 
 ## Brand Guidelines
 

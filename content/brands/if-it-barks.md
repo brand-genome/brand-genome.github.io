@@ -2,7 +2,7 @@
 title: if it barks
 slug: "if-it-barks"
 description: ""
-date: "2026-03-13T09:22:53.335841"
+date: "2026-03-20T08:22:04.245816"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,30 +48,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - secondary
+  - alternate
   - wordmark
   - primary
-  - alternate
-  - secondary
+  - icon
 brand_colors:
-  - "pantone-7645"
+  - white
   - grey
+  - blue
   - "pantone-5415"
   - "pantone-2965"
+  - "pantone-7645"
   - black
   - "pantone-296"
-  - blue
-  - white
 typographies:
-  - serif
   - times
+  - serif
 imagery_styles:
+  - minimal
+  - bold
   - modern
   - natural
-  - playful
-  - minimal
   - photography
-  - bold
+  - playful
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ifitbarks.com/](https://www.ifitbarks.com/)
+- [https://www.ifitbarks.com](https://www.ifitbarks.com)
 
 ## Brand Guidelines
 

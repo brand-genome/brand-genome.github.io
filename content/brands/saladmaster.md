@@ -2,11 +2,11 @@
 title: Saladmaster
 slug: saladmaster
 description: ""
-date: "2026-03-13T09:22:53.650170"
+date: "2026-03-20T08:22:04.509044"
 draft: false
 sectors:
-  - mlm
   - "consumer-goods"
+  - mlm
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,35 +52,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - lockup
   - secondary
-  - badge
+  - symbol
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - badge
 brand_colors:
-  - "pantone-113"
-  - navy
-  - gray
-  - "pantone-303"
-  - "pantone-7694"
-  - blue
   - green
+  - navy
+  - "pantone-7694"
+  - "pantone-303"
+  - blue
+  - gray
+  - "pantone-113"
   - "pantone-715"
 typographies:
+  - raleway
   - display
   - playfair
-  - raleway
 imagery_styles:
-  - natural
-  - lifestyle
-  - organic
-  - geometric
-  - minimal
-  - photography
   - product
+  - minimal
+  - organic
   - bold
+  - natural
+  - photography
+  - lifestyle
+  - geometric
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q122832031"
 has_twitter: false
@@ -90,7 +92,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://saladmaster.com/](https://saladmaster.com/)
+- [https://saladmaster.com](https://saladmaster.com)
 - [https://saladmasterhelp.zendesk.com/hc/en-us](https://saladmasterhelp.zendesk.com/hc/en-us)
 
 ## Brand Guidelines

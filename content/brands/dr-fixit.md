@@ -2,11 +2,11 @@
 title: Dr. Fixit
 slug: "dr-fixit"
 description: ""
-date: "2026-03-13T09:22:53.275656"
+date: "2026-03-20T08:22:04.203267"
 draft: false
 sectors:
-  - construction
   - "consumer-goods"
+  - construction
 regions:
   - india
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.drfixit.co.in/](https://www.drfixit.co.in/)
+- [https://www.drfixit.co.in](https://www.drfixit.co.in)
 - [https://www.pidilite.com/consumer-brands/dr-fixit](https://www.pidilite.com/consumer-brands/dr-fixit)
 
 ## Brand Guidelines

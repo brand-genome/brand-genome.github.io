@@ -2,7 +2,7 @@
 title: Deutsche Bank
 slug: "deutsche-bank"
 description: ""
-date: "2026-03-13T09:22:52.885850"
+date: "2026-03-20T08:22:03.877419"
 draft: false
 sectors:
   - finance
@@ -10,8 +10,8 @@ regions:
   - germany
 years:
   - 2011
-  - 2022
   - 1978
+  - 2022
 languages:
   - english
   - german
@@ -20,10 +20,10 @@ tags:
   - featured
   - financial
 industries:
-  - "financial-service-activities-except-insurance-and-pension-funding"
-  - "other-monetary-intermediation"
   - "financial-services"
+  - "financial-service-activities-except-insurance-and-pension-funding"
   - "financial-sector"
+  - "other-monetary-intermediation"
 countries:
   - germany
 revenue_buckets:
@@ -47,6 +47,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -81,10 +83,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.db.com](https://www.db.com)
+- [https://www.deutsche-bank.de](https://www.deutsche-bank.de)
 - [http://www.db.com](http://www.db.com)
 - [http://www.deutschewealth.com](http://www.deutschewealth.com)
-- [https://www.db.com/](https://www.db.com/)
-- [https://www.deutsche-bank.de/](https://www.deutsche-bank.de/)
+- [https://www.db-finanzberatung.de](https://www.db-finanzberatung.de)
+- [https://www.deutsche-bank.es](https://www.deutsche-bank.es)
 
 ## Brand Guidelines
 

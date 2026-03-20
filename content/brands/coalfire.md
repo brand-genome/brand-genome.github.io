@@ -2,7 +2,7 @@
 title: Coalfire
 slug: coalfire
 description: ""
-date: "2026-03-13T09:22:53.431168"
+date: "2026-03-20T08:22:04.334483"
 draft: false
 sectors:
   - consulting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://coalfire.com/](https://coalfire.com/)
+- [https://coalfire.com](https://coalfire.com)
 
 ## Brand Guidelines
 

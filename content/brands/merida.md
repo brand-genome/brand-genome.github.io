@@ -2,7 +2,7 @@
 title: Mérida
 slug: merida
 description: ""
-date: "2026-03-13T09:22:53.758113"
+date: "2026-03-20T08:22:04.715885"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
-  - black
-  - crimson
   - red
+  - crimson
+  - black
 typographies:
-  - lato
-  - "sans-serif"
   - slab
   - serif
+  - "sans-serif"
+  - lato
   - roboto
 imagery_styles:
   - photography
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.merida.es](http://www.merida.es)
-- [https://merida.es/](https://merida.es/)
+- [https://merida.es](https://merida.es)
 - [https://sede.merida.es/portal/inicio.do](https://sede.merida.es/portal/inicio.do)
+- [http://www.merida.es](http://www.merida.es)
 
 ## Brand Guidelines
 

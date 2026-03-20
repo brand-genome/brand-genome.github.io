@@ -2,15 +2,15 @@
 title: Freie Demokraten
 slug: "freie-demokraten"
 description: ""
-date: "2026-03-13T09:22:53.251820"
+date: "2026-03-20T08:22:04.177751"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - germany
 years:
-  - 2022
   - 2016
+  - 2022
 languages:
   - german
 tags:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.FDP.DE/MITGLIEDWERDEN](http://www.FDP.DE/MITGLIEDWERDEN)
-- [https://www.fdp.de/](https://www.fdp.de/)
+- [https://www.fdp.de](https://www.fdp.de)
+- [http://www.fdp.de/MITGLIEDWERDEN](http://www.fdp.de/MITGLIEDWERDEN)
 
 ## Brand Guidelines
 

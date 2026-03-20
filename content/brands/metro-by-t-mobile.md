@@ -2,7 +2,7 @@
 title: "Metro by T-Mobile"
 slug: "metro-by-t-mobile"
 description: ""
-date: "2026-03-13T09:22:53.071442"
+date: "2026-03-20T08:22:04.066094"
 draft: false
 sectors:
   - telecom
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,12 +57,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
   - gold
+  - purple
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: American telecommunications company
 wikidata_url: "https://www.wikidata.org/wiki/Q1925685"
 has_twitter: false
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.metrobyt-mobile.com/](https://www.metrobyt-mobile.com/)
+- [https://www.metrobyt-mobile.com](https://www.metrobyt-mobile.com)
+- [https://metropcs.com](https://metropcs.com)
 
 ## Brand Guidelines
 

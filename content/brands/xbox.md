@@ -2,7 +2,7 @@
 title: Xbox
 slug: xbox
 description: ""
-date: "2026-03-13T09:22:53.663542"
+date: "2026-03-20T08:22:04.521293"
 draft: false
 sectors:
   - gaming
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,9 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - stacked
   - vertical
+  - horizontal
 brand_colors:
   - gray
   - green
@@ -58,8 +59,8 @@ brand_colors:
 typographies:
   - script
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: home video game consoles developed by Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q98973368"
 has_twitter: false
@@ -71,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xbox.com/](https://www.xbox.com/)
 - [https://www.xbox.com/en-US](https://www.xbox.com/en-US)
+- [https://www.xbox.com](https://www.xbox.com)
+- [https://www.xbox.com/en-US/consoles/xbox-series-x](https://www.xbox.com/en-US/consoles/xbox-series-x)
 
 ## Brand Guidelines
 

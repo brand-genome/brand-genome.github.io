@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-03-13T09:22:53.258750"
+date: "2026-03-20T08:22:04.184173"
 draft: false
 sectors:
   - ngo
@@ -28,11 +28,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "city-of-brussels"
   - london
+  - "city-of-brussels"
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - grey
   - yellow
+  - grey
+  - black
 typographies:
-  - frutiger
   - impact
+  - frutiger
 imagery_styles: []
 wikidata_description: "non-governmental organization based in the United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q42970"
@@ -70,8 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amnesty.org/](https://www.amnesty.org/)
-- [https://www.amnestyusa.org/](https://www.amnestyusa.org/)
+- [https://www.amnesty.org](https://www.amnesty.org)
+- [https://www.amnestyusa.org](https://www.amnestyusa.org)
+- [http://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion](http://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion)
+- [https://www.amnesty.eu](https://www.amnesty.eu)
 
 ## Brand Guidelines
 
@@ -110,7 +114,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/) |
+| Headquarters Location | [London](/headquarters_locations/london/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
 | Foundation Date | [1961](/foundation_dates/1961/) |
 | Viaf Cluster Id | 141290649 |
 | Gnd Id | 2003911-6 |

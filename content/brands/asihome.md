@@ -2,7 +2,7 @@
 title: AsiHome
 slug: asihome
 description: ""
-date: "2026-03-13T09:22:52.814846"
+date: "2026-03-20T08:22:03.827949"
 draft: false
 sectors:
   - "e-commerce"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - design
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://asihome.ro/](https://asihome.ro/)
+- [https://asihome.ro](https://asihome.ro)
 
 ## Brand Guidelines
 

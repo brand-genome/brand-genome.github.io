@@ -2,7 +2,7 @@
 title: WorldSkills Belgium
 slug: "worldskills-belgium"
 description: ""
-date: "2026-03-13T09:22:53.654039"
+date: "2026-03-20T08:22:04.513871"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - stacked
+  - primary
   - wordmark
 brand_colors:
-  - black
-  - grey
-  - white
   - blue
+  - white
+  - grey
+  - black
 typographies:
-  - serif
-  - frutiger
   - arial
+  - frutiger
+  - serif
 imagery_styles:
-  - monochrome
-  - professional
   - bold
   - graphic
+  - monochrome
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,11 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.worldskills.be/](https://www.worldskills.be/)
-- [https://www.worldskills.be/de](https://www.worldskills.be/de)
+- [https://www.worldskills.be](https://www.worldskills.be)
 - [https://www.worldskills.be/en](https://www.worldskills.be/en)
-- [https://www.worldskills.be/fr](https://www.worldskills.be/fr)
 - [https://www.worldskills.be/nl](https://www.worldskills.be/nl)
+- [https://www.worldskills.be/fr](https://www.worldskills.be/fr)
+- [https://www.worldskills.be/de](https://www.worldskills.be/de)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: LifeFamily
 slug: lifefamily
 description: ""
-date: "2026-03-13T09:22:53.437566"
+date: "2026-03-20T08:22:04.341474"
 draft: false
 sectors:
-  - "childcare-family-services"
-  - education
   - ngo
+  - education
+  - "childcare-family-services"
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
-  - alternate
   - vertical
   - secondary
+  - logomark
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
+  - impact
   - helvetica
   - montserrat
-  - impact
 imagery_styles:
   - photography
-  - candid
   - bold
   - graphic
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://life.family/](https://life.family/)
-- [https://lifefamilylearningcenter.org/](https://lifefamilylearningcenter.org/)
-- [https://lifefamilymedia.com/](https://lifefamilymedia.com/)
+- [https://life.family](https://life.family)
+- [https://lifefamilylearningcenter.org](https://lifefamilylearningcenter.org)
+- [https://lifefamilymedia.com](https://lifefamilymedia.com)
 
 ## Brand Guidelines
 

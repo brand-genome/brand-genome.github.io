@@ -2,7 +2,7 @@
 title: Abruzzo
 slug: abruzzo
 description: ""
-date: "2026-03-13T09:22:53.468079"
+date: "2026-03-20T08:22:04.369358"
 draft: false
 sectors:
   - "public-sector"
@@ -30,8 +30,10 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1922
   - 1923
+  - 1922
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://abruzzoturismo.it/](https://abruzzoturismo.it/)
+- [https://abruzzoturismo.it](https://abruzzoturismo.it)
 - [https://www.regione.abruzzo.it/contenuti/turismo](https://www.regione.abruzzo.it/contenuti/turismo)
+- [http://www.parcoabruzzo.it](http://www.parcoabruzzo.it)
 
 ## Brand Guidelines
 
@@ -109,7 +112,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1922](/foundation_dates/1922/); [1923](/foundation_dates/1923/) |
+| Foundation Date | [1923](/foundation_dates/1923/); [1922](/foundation_dates/1922/) |
 | Iucn Protected Areas Category | IUCN category II: National Park |
 | Wdpa Id | 719 |
 | Coordinate Location | 41.808388888889, 13.786472222222 |

@@ -2,7 +2,7 @@
 title: City of Lille
 slug: "city-of-lille"
 description: ""
-date: "2026-03-13T09:22:55.163148"
+date: "2026-03-20T08:22:05.864379"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - city
   - featured
+  - city
 industries:
   - "administration-publique-generale"
 countries:
@@ -32,6 +32,7 @@ headquarters_locations:
   - lille
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lille.fr/](https://www.lille.fr/)
+- [https://www.lille.fr](https://www.lille.fr)
 
 ## Brand Guidelines
 

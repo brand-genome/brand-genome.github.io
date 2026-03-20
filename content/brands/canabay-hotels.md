@@ -2,7 +2,7 @@
 title: Canabay Hotels
 slug: "canabay-hotels"
 description: ""
-date: "2026-03-13T09:22:54.186710"
+date: "2026-03-20T08:22:05.014263"
 draft: false
 sectors:
   - hospitality
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,26 +47,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
   - vertical
   - symbol
+  - primary
+  - horizontal
 brand_colors:
-  - "pantone-569"
-  - "pantone-307"
-  - "pantone-3255"
   - "pantone-319"
-  - black
-  - "pantone-177"
-  - "pantone-875"
+  - "pantone-307"
   - coral
   - white
+  - "pantone-177"
+  - "pantone-569"
+  - "pantone-3255"
+  - black
+  - "pantone-875"
 typographies:
-  - display
   - gotham
-  - montserrat
-  - "sans-serif"
+  - display
   - serif
+  - "sans-serif"
+  - montserrat
   - playfair
 imagery_styles:
   - bold

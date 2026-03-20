@@ -2,11 +2,11 @@
 title: Alphabet
 slug: alphabet
 description: ""
-date: "2026-03-13T09:22:54.739453"
+date: "2026-03-20T08:22:05.536555"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
 regions:
   - germany
 years:
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.alphabet.com](https://www.alphabet.com)
 - [http://www.alphabet.com](http://www.alphabet.com)
-- [https://www.alphabet.com/](https://www.alphabet.com/)
+- [https://abc.xyz](https://abc.xyz)
 
 ## Brand Guidelines
 

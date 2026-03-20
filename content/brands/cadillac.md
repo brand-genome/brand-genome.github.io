@@ -2,7 +2,7 @@
 title: Cadillac
 slug: cadillac
 description: ""
-date: "2026-03-13T09:22:52.885619"
+date: "2026-03-20T08:22:03.877040"
 draft: false
 sectors:
   - automobile
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1902
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,14 +68,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.cadillac.com](http://www.cadillac.com)
-- [https://www.cadillac.com.mx/](https://www.cadillac.com.mx/)
-- [https://www.cadillac.com/](https://www.cadillac.com/)
-- [https://www.cadillac.com/worldwide-websites](https://www.cadillac.com/worldwide-websites)
-- [https://www.cadillacarabia.com/](https://www.cadillacarabia.com/)
-- [https://www.cadillaccanada.ca/](https://www.cadillaccanada.ca/)
+- [https://www.cadillac.com](https://www.cadillac.com)
+- [https://www.cadillaccanada.ca](https://www.cadillaccanada.ca)
 - [https://www.cadillaccanada.ca/fr](https://www.cadillaccanada.ca/fr)
-- [https://www.cadillaceurope.com/](https://www.cadillaceurope.com/)
+- [https://www.cadillac.com.mx](https://www.cadillac.com.mx)
+- [https://www.cadillaceurope.com](https://www.cadillaceurope.com)
+- [https://www.cadillacarabia.com](https://www.cadillacarabia.com)
+- [https://www.cadillac.com/worldwide-websites](https://www.cadillac.com/worldwide-websites)
+- [http://www.cadillac.com](http://www.cadillac.com)
 
 ## Brand Guidelines
 

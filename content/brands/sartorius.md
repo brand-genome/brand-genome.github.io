@@ -2,7 +2,7 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-03-13T09:22:53.720060"
+date: "2026-03-20T08:22:04.683687"
 draft: false
 sectors:
   - biotech
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
+  - science
   - featured
   - corporate
-  - science
 industries:
-  - "pharmaceutical-industry"
   - "precision-engineering-and-optical-industry"
+  - "pharmaceutical-industry"
   - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
 countries:
   - germany
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,14 +57,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - wordmark
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: German technology company specializing in equipment and services for the biopharmaceutical industry
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://shop.sartorius.com/](https://shop.sartorius.com/)
-- [https://www.sartorius.com/](https://www.sartorius.com/)
+- [https://www.sartorius.com](https://www.sartorius.com)
 - [https://www.sartorius.com/en](https://www.sartorius.com/en)
+- [https://shop.sartorius.com](https://shop.sartorius.com)
+- [http://www.sartorius.com](http://www.sartorius.com)
 
 ## Brand Guidelines
 

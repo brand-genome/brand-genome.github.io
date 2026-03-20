@@ -2,7 +2,7 @@
 title: Lausanne Hockey Club
 slug: "lausanne-hockey-club"
 description: ""
-date: "2026-03-13T09:22:52.060324"
+date: "2026-03-20T08:22:03.126780"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1922
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,13 +65,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://academy.lausannehc.ch/](https://academy.lausannehc.ch/)
-- [https://business.lausannehc.ch/](https://business.lausannehc.ch/)
-- [https://feminin.lausannehc.ch/](https://feminin.lausannehc.ch/)
-- [https://fondation.lausannehc.ch/](https://fondation.lausannehc.ch/)
-- [https://lausannehc.ch/](https://lausannehc.ch/)
+- [https://lausannehc.ch](https://lausannehc.ch)
 - [https://lausannehc.ch/lausanne-hockey-club-brand-book](https://lausannehc.ch/lausanne-hockey-club-brand-book)
-- [https://shop.lausannehc.ch/](https://shop.lausannehc.ch/)
+- [https://shop.lausannehc.ch](https://shop.lausannehc.ch)
+- [https://business.lausannehc.ch](https://business.lausannehc.ch)
+- [https://academy.lausannehc.ch](https://academy.lausannehc.ch)
+- [https://feminin.lausannehc.ch](https://feminin.lausannehc.ch)
+- [https://fondation.lausannehc.ch](https://fondation.lausannehc.ch)
+- [http://www.lausannehc.ch](http://www.lausannehc.ch)
 
 ## Brand Guidelines
 

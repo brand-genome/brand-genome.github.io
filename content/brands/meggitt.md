@@ -2,11 +2,11 @@
 title: Meggitt
 slug: meggitt
 description: ""
-date: "2026-03-13T09:22:53.244144"
+date: "2026-03-20T08:22:04.162440"
 draft: false
 sectors:
-  - defense
   - aerospace
+  - defense
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - engineering
+  - aeronautic
 industries:
   - "aerospace-industry"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.meggitt.com](https://www.meggitt.com)
 - [https://discover.parker.com/meggitt](https://discover.parker.com/meggitt)
-- [https://www.meggitt.com/](https://www.meggitt.com/)
-- [https://www.meggittpower.com/](https://www.meggittpower.com/)
+- [https://www.meggittpower.com](https://www.meggittpower.com)
+- [http://www.meggitt.com](http://www.meggitt.com)
 
 ## Brand Guidelines
 

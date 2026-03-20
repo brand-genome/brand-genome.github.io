@@ -2,7 +2,7 @@
 title: RC Celta
 slug: "rc-celta"
 description: ""
-date: "2026-03-13T09:22:54.141280"
+date: "2026-03-20T08:22:04.978694"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1923
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,11 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fundacioncelta.gal/](https://fundacioncelta.gal/)
+- [https://rccelta.es/en](https://rccelta.es/en)
+- [https://rccelta.es](https://rccelta.es)
+- [https://www.celta.gal](https://www.celta.gal)
 - [https://fundacioncelta.gal/en](https://fundacioncelta.gal/en)
-- [https://rccelta.es/](https://rccelta.es/)
-- [https://rccelta.es/en/](https://rccelta.es/en/)
-- [https://www.celta.gal/](https://www.celta.gal/)
+- [https://fundacioncelta.gal](https://fundacioncelta.gal)
+- [http://www.rccelta.es](http://www.rccelta.es)
 
 ## Brand Guidelines
 

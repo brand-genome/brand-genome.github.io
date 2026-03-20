@@ -2,7 +2,7 @@
 title: Réunion des Musées Nationaux
 slug: "reunion-des-musees-nationaux"
 description: ""
-date: "2026-03-13T09:22:53.544387"
+date: "2026-03-20T08:22:04.419424"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - seal
   - vertical
+  - seal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - univers
-  - frutiger
   - courier
+  - frutiger
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - geometric
 wikidata_description: ""
 wikidata_url: ""
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.grandpalais-immersif.fr/](https://www.grandpalais-immersif.fr/)
-- [https://www.grandpalais.fr/](https://www.grandpalais.fr/)
+- [https://www.grandpalais.fr](https://www.grandpalais.fr)
+- [https://www.grandpalais-immersif.fr](https://www.grandpalais-immersif.fr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: IBM iX
 slug: "ibm-ix"
 description: ""
-date: "2026-03-13T09:22:54.225209"
+date: "2026-03-20T08:22:05.062132"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ibm.com](http://www.ibm.com)
-- [https://www.ibm.com/cn-zh/consulting/ibmix](https://www.ibm.com/cn-zh/consulting/ibmix)
 - [https://www.ibm.com/consulting/ibmix](https://www.ibm.com/consulting/ibmix)
+- [https://www.ibm.com/cn-zh/consulting/ibmix](https://www.ibm.com/cn-zh/consulting/ibmix)
+- [http://www.ibm.com](http://www.ibm.com)
 
 ## Brand Guidelines
 

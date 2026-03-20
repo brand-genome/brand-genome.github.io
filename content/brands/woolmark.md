@@ -2,7 +2,7 @@
 title: Woolmark
 slug: woolmark
 description: ""
-date: "2026-03-13T09:22:53.248473"
+date: "2026-03-20T08:22:04.173622"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +54,10 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
-  - grey
-  - white
   - gray
+  - white
+  - grey
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "trademark indicating 100% pure new wool"
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.WOOLMARK.COM](http://www.WOOLMARK.COM)
-- [https://www.woolmark.com/](https://www.woolmark.com/)
+- [https://www.woolmark.com](https://www.woolmark.com)
+- [http://www.woolmark.com](http://www.woolmark.com)
 
 ## Brand Guidelines
 

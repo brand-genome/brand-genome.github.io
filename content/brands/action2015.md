@@ -2,7 +2,7 @@
 title: Action/2015
 slug: action2015
 description: ""
-date: "2026-03-13T09:22:53.701825"
+date: "2026-03-20T08:22:04.556968"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +47,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
   - blue
 typographies:
-  - serif
-  - times
   - slab
+  - times
+  - serif
 imagery_styles:
   - photography
 wikidata_description: ""
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.action2015.org/](http://www.action2015.org/)
+- [http://www.action2015.org](http://www.action2015.org)
 
 ## Brand Guidelines
 

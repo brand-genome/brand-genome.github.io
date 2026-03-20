@@ -2,7 +2,7 @@
 title: Fukuyama City Football Club
 slug: "fukuyama-city-football-club"
 description: ""
-date: "2026-03-13T09:22:54.045036"
+date: "2026-03-20T08:22:04.899977"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - emblem
   - vertical
+  - emblem
+  - primary
 brand_colors:
-  - purple
-  - yellow
   - red
-  - blue
   - white
+  - purple
+  - blue
+  - yellow
 typographies:
   - impact
 imagery_styles:
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fukuyama-city.com/](https://fukuyama-city.com/)
+- [https://fukuyama-city.com](https://fukuyama-city.com)
 
 ## Brand Guidelines
 

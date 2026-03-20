@@ -2,7 +2,7 @@
 title: Hard Rock Hotel
 slug: "hard-rock-hotel"
 description: ""
-date: "2026-03-13T09:22:54.572136"
+date: "2026-03-20T08:22:05.417483"
 draft: false
 sectors:
   - hospitality
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hotel.hardrock.com/](https://hotel.hardrock.com/)
-- [https://www.hardrock.com/](https://www.hardrock.com/)
+- [https://hotel.hardrock.com](https://hotel.hardrock.com)
+- [https://www.hardrock.com](https://www.hardrock.com)
+- [https://hardrockhotel.com](https://hardrockhotel.com)
 
 ## Brand Guidelines
 

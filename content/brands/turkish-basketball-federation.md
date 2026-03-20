@@ -2,7 +2,7 @@
 title: Turkish Basketball Federation
 slug: "turkish-basketball-federation"
 description: ""
-date: "2026-03-13T09:22:54.812222"
+date: "2026-03-20T08:22:05.581049"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1959
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,17 +54,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-186"
-  - grey
-  - yellow
-  - orange
-  - black
-  - maroon
-  - pink
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - maroon
+  - yellow
+  - "pantone-186"
+  - orange
+  - pink
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tbf.org.tr/](https://www.tbf.org.tr/)
+- [https://www.tbf.org.tr](https://www.tbf.org.tr)
+- [http://www.tbf.org.tr](http://www.tbf.org.tr)
 
 ## Brand Guidelines
 

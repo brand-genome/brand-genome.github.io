@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 slug: "arkansas-tech-university"
 description: ""
-date: "2026-03-13T09:22:53.325535"
+date: "2026-03-20T08:22:04.236578"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1909
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,25 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - vertical
-  - secondary
   - seal
+  - secondary
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - "pantone-343"
-  - black
   - green
   - gold
   - white
   - "pantone-116"
+  - black
 typographies: []
 imagery_styles:
   - photography
-  - product
   - bold
+  - product
 wikidata_description: "public university in Russellville, Arkansas"
 wikidata_url: "https://www.wikidata.org/wiki/Q673111"
 has_twitter: false
@@ -81,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.atu.edu/](https://www.atu.edu/)
-- [https://www.atu.edu/ozark/](https://www.atu.edu/ozark/)
+- [https://www.atu.edu](https://www.atu.edu)
+- [https://www.atu.edu/ozark](https://www.atu.edu/ozark)
 
 ## Brand Guidelines
 

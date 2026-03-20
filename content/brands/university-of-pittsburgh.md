@@ -2,18 +2,18 @@
 title: University of Pittsburgh
 slug: "university-of-pittsburgh"
 description: ""
-date: "2026-03-13T09:22:52.174335"
+date: "2026-03-20T08:22:03.240953"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
-  - 2015
-  - 2022
   - 2024
+  - 2022
+  - 2015
 languages:
   - english
 tags:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1787
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,32 +58,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - alternate
-  - stacked
   - vertical
+  - stacked
+  - seal
   - secondary
   - signature
-  - seal
   - horizontal
+  - alternate
+  - primary
+  - icon
 brand_colors:
-  - gray
+  - green
   - gold
+  - white
+  - blue
+  - gray
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
-  - script
+  - serif
   - merriweather
   - "sans-serif"
-  - serif
+  - script
   - roboto
 imagery_styles:
-  - modern
   - bold
+  - modern
   - graphic
 wikidata_description: "state-related research university located in Pittsburgh, Pennsylvania, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q235034"
@@ -94,16 +96,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.pitt.edu](https://www.pitt.edu)
+- [https://brand.pitt.edu](https://brand.pitt.edu)
+- [https://www.communications.pitt.edu](https://www.communications.pitt.edu)
+- [http://www.myfonts.com](http://www.myfonts.com)
+- [http://www.pitt.edu](http://www.pitt.edu)
 - [http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98](http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98)
-- [http://www.MyFonts.com](http://www.MyFonts.com)
 - [http://www.brand.pitt.edu](http://www.brand.pitt.edu)
 - [http://www.communications.pitt.edu](http://www.communications.pitt.edu)
-- [http://www.google.com/](http://www.google.com/)
-- [http://www.pitt.edu](http://www.pitt.edu)
-- [https://brand.pitt.edu/](https://brand.pitt.edu/)
+- [http://www.google.com](http://www.google.com)
 - [https://triblive.com/news/education-classroom/pitt-promotes-use-of-name-](https://triblive.com/news/education-classroom/pitt-promotes-use-of-name-)
-- [https://www.communications.pitt.edu/](https://www.communications.pitt.edu/)
-- [https://www.pitt.edu/](https://www.pitt.edu/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Generalitat Valenciana
 slug: "generalitat-valenciana"
 description: ""
-date: "2026-03-13T09:22:52.199746"
+date: "2026-03-20T08:22:03.266870"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +49,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - red
+  - white
   - "pantone-186"
 typographies:
   - roboto
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sede.gva.es/](https://sede.gva.es/)
-- [https://www.gva.es/](https://www.gva.es/)
+- [https://www.gva.es](https://www.gva.es)
+- [https://sede.gva.es](https://sede.gva.es)
 
 ## Brand Guidelines
 

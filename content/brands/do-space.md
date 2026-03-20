@@ -2,7 +2,7 @@
 title: Do Space
 slug: "do-space"
 description: ""
-date: "2026-03-13T09:22:54.791395"
+date: "2026-03-20T08:22:05.565909"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - stacked
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - vibrant
   - clean
   - natural
-  - bold
 wikidata_description: "organization in Nebraska, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q22907884"
 has_twitter: false
@@ -73,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DOspace.org](http://www.DOspace.org)
-- [https://dospace.org/](https://dospace.org/)
-- [https://omahalibrary.org/do-space/](https://omahalibrary.org/do-space/)
+- [https://dospace.org](https://dospace.org)
+- [https://omahalibrary.org/do-space](https://omahalibrary.org/do-space)
+- [http://www.dospace.org](http://www.dospace.org)
+- [http://dospace.org](http://dospace.org)
 
 ## Brand Guidelines
 

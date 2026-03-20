@@ -2,11 +2,11 @@
 title: Stoke
 slug: stoke
 description: ""
-date: "2026-03-13T09:22:53.770160"
+date: "2026-03-20T08:22:04.722827"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - "new-zealand"
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1863
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - wordmark
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
+  - white
   - gold
   - "pantone-872"
-  - white
+  - black
 typographies: []
 imagery_styles:
   - natural
@@ -73,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.net.nz](http://www.net.nz)
-- [https://mccashins.co.nz/](https://mccashins.co.nz/)
 - [https://mccashins.co.nz/pages/stoke](https://mccashins.co.nz/pages/stoke)
+- [https://mccashins.co.nz](https://mccashins.co.nz)
+- [http://www.net.nz](http://www.net.nz)
+- [https://www.stokecityfc.com](https://www.stokecityfc.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Copobras
 slug: copobras
 description: ""
-date: "2026-03-13T09:22:54.331884"
+date: "2026-03-20T08:22:05.157204"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.grupocopobras.com.br/](https://www.grupocopobras.com.br/)
-- [https://www.grupocopobras.com.br/incoplast/](https://www.grupocopobras.com.br/incoplast/)
+- [https://www.grupocopobras.com.br](https://www.grupocopobras.com.br)
+- [https://www.grupocopobras.com.br/incoplast](https://www.grupocopobras.com.br/incoplast)
 
 ## Brand Guidelines
 

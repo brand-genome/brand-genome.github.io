@@ -2,7 +2,7 @@
 title: Sescam
 slug: sescam
 description: ""
-date: "2026-03-13T09:22:53.084303"
+date: "2026-03-20T08:22:04.085402"
 draft: false
 sectors:
   - "public-sector"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,13 +56,13 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
+  - green
   - "pantone-280"
-  - yellow
-  - black
   - "pantone-339"
   - "pantone-123"
   - blue
-  - green
+  - yellow
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sanidad.castillalamancha.es/](https://sanidad.castillalamancha.es/)
-- [https://sescam.jccm.es/misaluddigital/#/app/inicio](https://sescam.jccm.es/misaluddigital/#/app/inicio)
+- [https://sanidad.castillalamancha.es](https://sanidad.castillalamancha.es)
+- [https://sescam.jccm.es/misaluddigital](https://sescam.jccm.es/misaluddigital)
 
 ## Brand Guidelines
 

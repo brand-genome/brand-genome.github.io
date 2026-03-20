@@ -2,7 +2,7 @@
 title: HiP
 slug: hip
 description: ""
-date: "2026-03-13T09:22:54.733475"
+date: "2026-03-20T08:22:05.530190"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +53,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-158"
   - white
   - "pantone-425"
   - "pantone-1788"
+  - "pantone-158"
 typographies: []
 imagery_styles:
   - photography
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.in.gov/fssa/hip/](https://www.in.gov/fssa/hip/)
+- [https://www.in.gov/fssa/hip](https://www.in.gov/fssa/hip)
 - [https://www.in.gov/fssa/hip/index.htm](https://www.in.gov/fssa/hip/index.htm)
 - [https://www.mhsindiana.com/members/hip/login1.html](https://www.mhsindiana.com/members/hip/login1.html)
 

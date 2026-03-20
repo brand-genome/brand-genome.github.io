@@ -2,7 +2,7 @@
 title: Guru
 slug: guru
 description: ""
-date: "2026-03-13T09:22:54.421844"
+date: "2026-03-20T08:22:05.317233"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - horizontal
   - secondary
 brand_colors:
-  - navy
-  - gray
-  - black
-  - pink
   - green
+  - navy
   - white
+  - gray
+  - pink
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - serious
   - dramatic
+  - bold
+  - serious
   - clean
   - gradient
-  - bold
 wikidata_description: ethnic group in Tanzania
 wikidata_url: "https://www.wikidata.org/wiki/Q2979621"
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.getguru.com/](https://www.getguru.com/)
+- [https://www.getguru.com](https://www.getguru.com)
 
 ## Brand Guidelines
 

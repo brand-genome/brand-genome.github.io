@@ -2,7 +2,7 @@
 title: ACLU
 slug: aclu
 description: ""
-date: "2026-03-13T09:22:54.217526"
+date: "2026-03-20T08:22:05.044765"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ACLU-NM.ORG](http://www.ACLU-NM.ORG)
-- [http://www.ACLU.ORG](http://www.ACLU.ORG)
+- [https://www.aclu.org](https://www.aclu.org)
+- [https://www.peoplepower.org](https://www.peoplepower.org)
+- [http://www.aclu-nm.org](http://www.aclu-nm.org)
+- [http://www.aclu.org](http://www.aclu.org)
 - [http://www.aclum.org](http://www.aclum.org)
 - [http://www.alamy.com](http://www.alamy.com)
 - [http://www.archive.org](http://www.archive.org)
@@ -75,8 +79,6 @@ visual_term_image_urls: {}
 - [http://www.google.com](http://www.google.com)
 - [http://www.loc.gov](http://www.loc.gov)
 - [http://www.wikimedia.org](http://www.wikimedia.org)
-- [https://www.aclu.org/](https://www.aclu.org/)
-- [https://www.peoplepower.org/](https://www.peoplepower.org/)
 
 ## Brand Guidelines
 

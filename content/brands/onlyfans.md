@@ -2,7 +2,7 @@
 title: OnlyFans
 slug: onlyfans
 description: ""
-date: "2026-03-13T09:22:52.057536"
+date: "2026-03-20T08:22:03.123572"
 draft: false
 sectors:
   - software
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://onlyfans.com/](https://onlyfans.com/)
+- [https://onlyfans.com](https://onlyfans.com)
+- [https://of.com](https://of.com)
 
 ## Brand Guidelines
 

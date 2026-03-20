@@ -2,7 +2,7 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-03-13T09:22:54.079319"
+date: "2026-03-20T08:22:04.925319"
 draft: false
 sectors:
   - hardware
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +53,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-299"
-  - gray
-  - yellow
-  - black
-  - pink
+  - white
   - blue
   - "pantone-226"
+  - gray
+  - yellow
   - "pantone-116"
-  - white
+  - "pantone-299"
+  - pink
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -79,9 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.robertjuliat.com](http://www.robertjuliat.com)
-- [https://www.robertjuliat.com/](https://www.robertjuliat.com/)
+- [https://www.robertjuliat.com](https://www.robertjuliat.com)
 - [https://www.robertjuliat.com/distribution_network.html](https://www.robertjuliat.com/distribution_network.html)
+- [http://www.robertjuliat.com](http://www.robertjuliat.com)
 
 ## Brand Guidelines
 

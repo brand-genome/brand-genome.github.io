@@ -2,7 +2,7 @@
 title: Petit c Paris
 slug: "petit-c-paris"
 description: ""
-date: "2026-03-13T09:22:55.036136"
+date: "2026-03-20T08:22:05.738377"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +51,10 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
-  - modern
   - colorful
   - geometric
+  - photography
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.petit-c-paris.com/](http://www.petit-c-paris.com/)
-- [https://www.petit-c-paris.com/](https://www.petit-c-paris.com/)
+- [http://www.petit-c-paris.com](http://www.petit-c-paris.com)
+- [https://www.petit-c-paris.com](https://www.petit-c-paris.com)
 
 ## Brand Guidelines
 

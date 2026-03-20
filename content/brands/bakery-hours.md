@@ -2,7 +2,7 @@
 title: Bakery Hours
 slug: "bakery-hours"
 description: ""
-date: "2026-03-13T09:22:54.223812"
+date: "2026-03-20T08:22:05.060672"
 draft: false
 sectors:
   - restaurant
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
+  - white
   - "pantone-154"
   - grey
-  - "pantone-7702"
-  - black
   - blue
-  - white
+  - "pantone-7702"
   - brown
+  - black
 typographies:
   - roboto
 imagery_styles:
-  - photography
-  - modern
-  - product
   - bold
+  - product
+  - modern
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

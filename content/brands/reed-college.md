@@ -2,7 +2,7 @@
 title: Reed College
 slug: "reed-college"
 description: ""
-date: "2026-03-13T09:22:52.229143"
+date: "2026-03-20T08:22:03.294461"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,26 +53,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
   - stacked
-  - lockup
-  - secondary
   - seal
+  - secondary
+  - logomark
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - black
   - red
   - blue
+  - black
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
+  - graphic
   - natural
   - illustration
-  - candid
   - photography
-  - graphic
+  - candid
 wikidata_description: "private liberal arts college in Portland, Oregon"
 wikidata_url: "https://www.wikidata.org/wiki/Q1140775"
 has_twitter: false
@@ -82,8 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.reed.edu/public-affairs/](http://www.reed.edu/public-affairs/)
-- [https://www.reed.edu/](https://www.reed.edu/)
+- [https://www.reed.edu](https://www.reed.edu)
+- [http://www.reed.edu/public-affairs](http://www.reed.edu/public-affairs)
+- [http://www.reed.edu](http://www.reed.edu)
 
 ## Brand Guidelines
 

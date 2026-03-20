@@ -2,7 +2,7 @@
 title: San Francisco International Airport
 slug: "san-francisco-international-airport"
 description: ""
-date: "2026-03-13T09:22:52.024460"
+date: "2026-03-20T08:22:03.103385"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries:
   - "united-states"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.flysfo.com](https://www.flysfo.com)
+- [https://flysfo.com](https://flysfo.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Swansea University
 slug: "swansea-university"
 description: ""
-date: "2026-03-13T09:22:53.709510"
+date: "2026-03-20T08:22:04.565118"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - crest
   - primary
-  - stacked
   - horizontal
 brand_colors:
   - "pantone-662"
@@ -73,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hwb.swansea.ac.uk/](https://hwb.swansea.ac.uk/)
-- [https://marketingtoolkit.swansea.ac.uk/](https://marketingtoolkit.swansea.ac.uk/)
-- [https://www.swansea.ac.uk/](https://www.swansea.ac.uk/)
+- [https://www.swansea.ac.uk](https://www.swansea.ac.uk)
+- [https://hwb.swansea.ac.uk](https://hwb.swansea.ac.uk)
+- [https://marketingtoolkit.swansea.ac.uk](https://marketingtoolkit.swansea.ac.uk)
+- [http://www.swansea.ac.uk](http://www.swansea.ac.uk)
 
 ## Brand Guidelines
 

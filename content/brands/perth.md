@@ -2,12 +2,12 @@
 title: Perth
 slug: perth
 description: ""
-date: "2026-03-13T09:22:54.725984"
+date: "2026-03-20T08:22:05.523442"
 draft: false
 sectors:
-  - education
   - "public-sector"
   - tourism
+  - education
 regions:
   - australia
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1829
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tourism.wa.gov.au](https://www.tourism.wa.gov.au)
+- [https://www.studyperth.com.au](https://www.studyperth.com.au)
+- [https://www.businesseventsperth.com](https://www.businesseventsperth.com)
 - [http://www.wa.gov](http://www.wa.gov)
-- [https://www.businesseventsperth.com/](https://www.businesseventsperth.com/)
-- [https://www.studyperth.com.au/](https://www.studyperth.com.au/)
-- [https://www.tourism.wa.gov.au/](https://www.tourism.wa.gov.au/)
+- [https://perth.wa.gov.au](https://perth.wa.gov.au)
+- [http://www.cityofperth.wa.gov.au](http://www.cityofperth.wa.gov.au)
 
 ## Brand Guidelines
 

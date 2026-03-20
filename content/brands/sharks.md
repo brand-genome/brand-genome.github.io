@@ -2,11 +2,11 @@
 title: Sharks
 slug: sharks
 description: ""
-date: "2026-03-13T09:22:55.036810"
+date: "2026-03-20T08:22:05.738859"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - mascot
+  - primary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hpusharks.com/](https://hpusharks.com/)
-- [https://www.hpu.edu/](https://www.hpu.edu/)
+- [https://hpusharks.com](https://hpusharks.com)
+- [https://www.hpu.edu](https://www.hpu.edu)
+- [https://www.sharks.com.au](https://www.sharks.com.au)
 
 ## Brand Guidelines
 

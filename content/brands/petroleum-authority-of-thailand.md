@@ -2,12 +2,12 @@
 title: Petroleum Authority of Thailand
 slug: "petroleum-authority-of-thailand"
 description: ""
-date: "2026-03-13T09:22:53.446140"
+date: "2026-03-20T08:22:04.349583"
 draft: false
 sectors:
+  - petroleum
   - gas
   - oil
-  - petroleum
 regions:
   - thailand
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pttplc.com/en/](https://www.pttplc.com/en/)
+- [https://www.pttplc.com/en](https://www.pttplc.com/en)
 - [https://www.pttplc.com/en/Home.aspx](https://www.pttplc.com/en/Home.aspx)
+- [http://www.pttplc.com](http://www.pttplc.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-03-13T09:22:53.320275"
+date: "2026-03-20T08:22:04.231612"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - singapore
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries:
   - "film-industry"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,6 +70,7 @@ visual_term_image_urls: {}
 
 - [https://bambu.co](https://bambu.co)
 - [https://www.bambu.co](https://www.bambu.co)
+- [https://bambuproducciones.com](https://bambuproducciones.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Oxford SU
 slug: "oxford-su"
 description: ""
-date: "2026-03-13T09:22:53.602050"
+date: "2026-03-20T08:22:04.466854"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - university
   - featured
   - community
-  - university
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oxfordsu.org/](https://www.oxfordsu.org/)
+- [https://www.oxfordsu.org](https://www.oxfordsu.org)
+- [https://oscar.web.ox.ac.uk](https://oscar.web.ox.ac.uk)
 
 ## Brand Guidelines
 

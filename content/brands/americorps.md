@@ -2,7 +2,7 @@
 title: AmeriCorps
 slug: americorps
 description: ""
-date: "2026-03-13T09:22:52.315993"
+date: "2026-03-20T08:22:03.383027"
 draft: false
 sectors:
   - "public-sector"
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - environment
   - social
+  - community
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.AmeriCorps.gov](http://www.AmeriCorps.gov)
-- [https://questions.americorps.gov/](https://questions.americorps.gov/)
-- [https://www.americorps.gov/](https://www.americorps.gov/)
-- [https://www.americorpsoig.gov/](https://www.americorpsoig.gov/)
+- [https://www.americorps.gov](https://www.americorps.gov)
+- [https://questions.americorps.gov](https://questions.americorps.gov)
+- [https://www.americorpsoig.gov](https://www.americorpsoig.gov)
+- [http://www.americorps.gov](http://www.americorps.gov)
+- [http://www.nationalservice.gov](http://www.nationalservice.gov)
+- [https://www.nationalservice.gov](https://www.nationalservice.gov)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Seton Hall University
 slug: "seton-hall-university"
 description: ""
-date: "2026-03-13T09:22:55.087480"
+date: "2026-03-20T08:22:05.792122"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1856
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,20 +55,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - crest
+  - secondary
 brand_colors:
-  - "pantone-286"
   - silver
-  - gray
-  - blue
+  - "pantone-286"
   - white
+  - blue
+  - gray
 typographies:
   - garamond
 imagery_styles:
+  - bold
   - photography
   - professional
-  - bold
 wikidata_description: "private Roman Catholic university in South Orange, New Jersey"
 wikidata_url: "https://www.wikidata.org/wiki/Q585828"
 has_twitter: false
@@ -78,9 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://setonhalltix.com/](https://setonhalltix.com/)
-- [https://shupirates.com/](https://shupirates.com/)
-- [https://www.shu.edu/](https://www.shu.edu/)
+- [https://www.shu.edu](https://www.shu.edu)
+- [https://shupirates.com](https://shupirates.com)
+- [https://setonhalltix.com](https://setonhalltix.com)
+- [http://www.shu.edu](http://www.shu.edu)
 
 ## Brand Guidelines
 

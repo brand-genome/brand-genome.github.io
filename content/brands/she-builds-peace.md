@@ -2,7 +2,7 @@
 title: She Builds Peace
 slug: "she-builds-peace"
 description: ""
-date: "2026-03-13T09:22:53.292677"
+date: "2026-03-20T08:22:04.217513"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +51,13 @@ logo_elements:
   - icon
   - lockup
 brand_colors:
-  - black
-  - gold
-  - white
   - blue
+  - white
+  - gold
+  - black
 typographies:
-  - poppins
   - "sans-serif"
+  - poppins
   - roboto
 imagery_styles:
   - bold
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://icanpeacework.org/](https://icanpeacework.org/)
-- [https://icanpeacework.org/she-builds-peace/](https://icanpeacework.org/she-builds-peace/)
+- [https://icanpeacework.org/she-builds-peace](https://icanpeacework.org/she-builds-peace)
+- [https://icanpeacework.org](https://icanpeacework.org)
 
 ## Brand Guidelines
 

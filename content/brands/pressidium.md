@@ -2,7 +2,7 @@
 title: Pressidium
 slug: pressidium
 description: ""
-date: "2026-03-13T09:22:53.266046"
+date: "2026-03-20T08:22:04.192021"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,11 +47,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors: []
 typographies:
   - montserrat
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://pressidium.com](https://pressidium.com)
 - [http://www.pressidium.com](http://www.pressidium.com)
-- [https://pressidium.com/](https://pressidium.com/)
 
 ## Brand Guidelines
 

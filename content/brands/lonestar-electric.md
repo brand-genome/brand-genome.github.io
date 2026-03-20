@@ -2,7 +2,7 @@
 title: Lonestar Electric
 slug: "lonestar-electric"
 description: ""
-date: "2026-03-13T09:22:51.954400"
+date: "2026-03-20T08:22:03.079992"
 draft: false
 sectors:
   - hardware
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lonestarelectricsupply.com/](https://www.lonestarelectricsupply.com/)
+- [https://www.lonestarelectricsupply.com](https://www.lonestarelectricsupply.com)
 
 ## Brand Guidelines
 

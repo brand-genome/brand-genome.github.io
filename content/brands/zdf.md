@@ -2,20 +2,20 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-03-13T09:22:53.642277"
+date: "2026-03-20T08:22:04.498539"
 draft: false
 sectors:
   - broadcasting
 regions:
   - germany
 years:
-  - 2010
   - 2002
+  - 2010
 languages:
   - german
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries:
   - germany
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,20 +55,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-877"
-  - "pantone-421"
   - silver
+  - white
   - gray
   - "pantone-151"
-  - "pantone-425"
-  - orange
+  - "pantone-421"
   - black
-  - white
+  - orange
+  - "pantone-425"
+  - "pantone-877"
 typographies:
   - impact
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: "main program of the German public-service television broadcaster Zweites Deutsches Fernsehen"
 wikidata_url: "https://www.wikidata.org/wiki/Q48989"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zdf.de/](https://www.zdf.de/)
+- [https://www.zdf.de](https://www.zdf.de)
 - [https://www.zdf.de/unternehmen](https://www.zdf.de/unternehmen)
+- [https://zdf.de](https://zdf.de)
 
 ## Brand Guidelines
 

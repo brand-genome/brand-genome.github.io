@@ -2,7 +2,7 @@
 title: "Gobierno de Costa Rica 2022-2026"
 slug: "gobierno-de-costa-rica-2022-2026"
 description: ""
-date: "2026-03-13T09:22:53.015457"
+date: "2026-03-20T08:22:04.006013"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gob.go.cr/](https://www.gob.go.cr/)
-- [https://www.presidencia.go.cr/](https://www.presidencia.go.cr/)
+- [https://www.presidencia.go.cr](https://www.presidencia.go.cr)
+- [https://www.gob.go.cr](https://www.gob.go.cr)
 
 ## Brand Guidelines
 

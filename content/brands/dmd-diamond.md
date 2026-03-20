@@ -2,7 +2,7 @@
 title: DMD Diamond
 slug: "dmd-diamond"
 description: ""
-date: "2026-03-13T09:22:54.738160"
+date: "2026-03-20T08:22:05.535122"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - turquoise
-  - gray
-  - black
-  - blue
   - gold
   - white
+  - blue
+  - gray
+  - turquoise
+  - black
 typographies:
-  - arial
-  - serif
   - gotham
+  - arial
   - display
+  - serif
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -76,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://bit.diamonds](https://bit.diamonds)
+- [https://ui.bit.diamonds](https://ui.bit.diamonds)
 - [http://www.bit.diamonds](http://www.bit.diamonds)
-- [https://bit.diamonds/](https://bit.diamonds/)
-- [https://ui.bit.diamonds/](https://ui.bit.diamonds/)
 
 ## Brand Guidelines
 

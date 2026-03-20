@@ -2,7 +2,7 @@
 title: 3mon
 slug: 3mon
 description: ""
-date: "2026-03-13T09:22:52.195262"
+date: "2026-03-20T08:22:03.261679"
 draft: false
 sectors:
   - "emergency-services"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - "rescue-service"
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - "pantone-137"
   - silver
   - white
+  - "pantone-137"
 typographies: []
 imagery_styles:
   - bold
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://3mon.sk/](https://3mon.sk/)
-- [https://3mon.sk/en/](https://3mon.sk/en/)
+- [https://3mon.sk](https://3mon.sk)
+- [https://3mon.sk/en](https://3mon.sk/en)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Swanq
 slug: swanq
 description: ""
-date: "2026-03-13T09:22:52.104365"
+date: "2026-03-20T08:22:03.162739"
 draft: false
 sectors:
   - "interior-design-decor"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kuche7.com/](https://www.kuche7.com/)
-- [https://www.nolte-kuechen.com/](https://www.nolte-kuechen.com/)
+- [https://www.nolte-kuechen.com](https://www.nolte-kuechen.com)
+- [https://www.kuche7.com](https://www.kuche7.com)
 
 ## Brand Guidelines
 

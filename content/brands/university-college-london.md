@@ -2,23 +2,23 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-03-13T09:22:52.326860"
+date: "2026-03-20T08:22:03.395495"
 draft: false
 sectors:
   - university
 regions:
   - "united-kingdom"
 years:
-  - 2024
   - 2017
+  - 2024
   - 2021
 languages:
   - english
 tags:
-  - featured
   - education
   - university
   - signage
+  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1826
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,19 +60,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - green
+  - "pantone-550"
+  - white
   - purple
   - "pantone-199"
-  - "pantone-550"
+  - blue
   - "pantone-5815"
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
+  - helvetica
   - arial
   - garamond
-  - helvetica
 imagery_styles:
   - photography
 wikidata_description: "public research university in London, England, United Kingdom"
@@ -84,9 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.eventbrite.co](http://www.eventbrite.co)
-- [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/)
+- [https://www.ucl.ac.uk](https://www.ucl.ac.uk)
 - [https://www.ucl.ac.uk/staff/external-engagement/brand-and-visual-identity](https://www.ucl.ac.uk/staff/external-engagement/brand-and-visual-identity)
+- [http://www.eventbrite.co](http://www.eventbrite.co)
 
 ## Brand Guidelines
 

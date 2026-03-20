@@ -2,7 +2,7 @@
 title: PB Swiss Tools
 slug: "pb-swiss-tools"
 description: ""
-date: "2026-03-13T09:22:54.340449"
+date: "2026-03-20T08:22:05.167591"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1878
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.pbswisstools.com](https://www.pbswisstools.com)
+- [https://pbswisstools.us](https://pbswisstools.us)
 - [http://www.pbswisstools.com](http://www.pbswisstools.com)
-- [https://pbswisstools.us/](https://pbswisstools.us/)
-- [https://www.pbswisstools.com/](https://www.pbswisstools.com/)
 
 ## Brand Guidelines
 

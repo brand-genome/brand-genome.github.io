@@ -2,7 +2,7 @@
 title: Ineos
 slug: ineos
 description: ""
-date: "2026-03-13T09:22:51.926798"
+date: "2026-03-20T08:22:03.079042"
 draft: false
 sectors:
   - chemicals
@@ -42,6 +42,9 @@ subsidiaries: []
 foundation_dates:
   - 2011
   - 1998
+foundation_year_buckets:
+  - 1990S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ineos.com](https://www.ineos.com)
 - [http://www.ineos.com](http://www.ineos.com)
-- [https://www.ineos.com/](https://www.ineos.com/)
+- [http://ineos.com](http://ineos.com)
 
 ## Brand Guidelines
 

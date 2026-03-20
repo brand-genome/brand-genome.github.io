@@ -2,7 +2,7 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-03-13T09:22:53.762137"
+date: "2026-03-20T08:22:04.719656"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,28 +56,28 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - cyan
-  - "pantone-282"
-  - "pantone-2292"
-  - "pantone-204"
-  - gray
-  - "pantone-207"
-  - "pantone-306"
-  - "pantone-3560"
+  - "pantone-2756"
+  - "pantone-166"
   - "pantone-7658"
+  - "pantone-207"
+  - "pantone-282"
+  - cyan
+  - "pantone-871"
+  - "pantone-204"
+  - "pantone-2292"
+  - gray
+  - "pantone-3560"
+  - "pantone-306"
   - black
   - "pantone-143"
-  - "pantone-871"
-  - "pantone-166"
-  - "pantone-2756"
 typographies:
   - futura
 imagery_styles:
-  - natural
-  - lifestyle
   - staged
-  - photography
   - bold
+  - natural
+  - photography
+  - lifestyle
 wikidata_description: "multi-campus university located in Northern Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q2096524"
 has_twitter: false
@@ -87,9 +89,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://portal.ulster.ac.uk/](http://portal.ulster.ac.uk/)
-- [https://recruitment.ulster.ac.uk/](https://recruitment.ulster.ac.uk/)
-- [https://www.ulster.ac.uk/](https://www.ulster.ac.uk/)
+- [https://www.ulster.ac.uk](https://www.ulster.ac.uk)
+- [http://portal.ulster.ac.uk](http://portal.ulster.ac.uk)
+- [https://recruitment.ulster.ac.uk](https://recruitment.ulster.ac.uk)
 
 ## Brand Guidelines
 

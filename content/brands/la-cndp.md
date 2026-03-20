@@ -2,7 +2,7 @@
 title: La CNDP
 slug: "la-cndp"
 description: ""
-date: "2026-03-13T09:22:53.071990"
+date: "2026-03-20T08:22:04.066771"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.debatpublic.fr/](https://www.debatpublic.fr/)
+- [https://www.debatpublic.fr](https://www.debatpublic.fr)
 
 ## Brand Guidelines
 

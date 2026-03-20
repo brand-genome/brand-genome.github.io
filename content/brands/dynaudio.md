@@ -2,7 +2,7 @@
 title: Dynaudio
 slug: dynaudio
 description: ""
-date: "2026-03-13T09:22:54.793737"
+date: "2026-03-20T08:22:05.567542"
 draft: false
 sectors:
   - electronics
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,24 +53,24 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-805"
-  - grey
-  - black
-  - "pantone-876"
   - white
+  - grey
+  - "pantone-876"
+  - "pantone-805"
+  - black
 typographies:
-  - display
   - helvetica
   - arial
+  - display
 imagery_styles:
+  - product
+  - graphic
+  - bold
+  - photography
   - contemporary
+  - clean
   - lifestyle
   - realistic
-  - clean
-  - photography
-  - product
-  - bold
-  - graphic
 wikidata_description: Danish loudspeaker manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q456247"
 has_twitter: false
@@ -80,10 +82,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://dynaudio.com](https://dynaudio.com)
+- [https://dynaudio.cn](https://dynaudio.cn)
 - [http://dynaud.io/styleguide](http://dynaud.io/styleguide)
 - [http://www.dynaudio.com](http://www.dynaudio.com)
-- [https://dynaudio.cn/](https://dynaudio.cn/)
-- [https://dynaudio.com/](https://dynaudio.com/)
+- [https://www.dynaudio.com](https://www.dynaudio.com)
 
 ## Brand Guidelines
 

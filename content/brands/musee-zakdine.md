@@ -2,7 +2,7 @@
 title: Musée Zakdine
 slug: "musee-zakdine"
 description: ""
-date: "2026-03-13T09:22:55.160953"
+date: "2026-03-20T08:22:05.862209"
 draft: false
 sectors:
   - "arts-culture"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

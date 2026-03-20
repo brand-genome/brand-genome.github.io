@@ -2,7 +2,7 @@
 title: Madera County
 slug: "madera-county"
 description: ""
-date: "2026-03-13T09:22:54.554412"
+date: "2026-03-20T08:22:05.400958"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,23 +49,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-299"
-  - "pantone-165"
   - "pantone-1235"
-  - "pantone-2965"
-  - "pantone-354"
-  - "pantone-2945"
   - white
+  - "pantone-354"
   - "pantone-428"
+  - "pantone-2945"
+  - "pantone-299"
+  - "pantone-2965"
+  - "pantone-165"
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: "park in Madera County, California, United States of America"
 wikidata_url: "https://www.wikidata.org/wiki/Q49520573"
 has_twitter: false
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.maderacounty.com/](https://www.maderacounty.com/)
+- [https://www.maderacounty.com](https://www.maderacounty.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: EastMidlands Councils
 slug: "eastmidlands-councils"
 description: ""
-date: "2026-03-13T09:22:54.771257"
+date: "2026-03-20T08:22:05.560194"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - corporate
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - white
   - cyan
   - yellow
   - black
   - magenta
-  - white
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.emcouncils.gov.uk](https://www.emcouncils.gov.uk)
 - [http://www.gov.uk](http://www.gov.uk)
-- [https://www.emcouncils.gov.uk/](https://www.emcouncils.gov.uk/)
 
 ## Brand Guidelines
 

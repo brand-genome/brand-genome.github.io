@@ -2,7 +2,7 @@
 title: Evernote
 slug: evernote
 description: ""
-date: "2026-03-13T09:22:52.818099"
+date: "2026-03-20T08:22:03.830541"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - software
   - featured
   - app
-  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,13 +65,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.evernote.com/about-us](http://www.evernote.com/about-us)
-- [https://evernote.com/](https://evernote.com/)
-- [https://evernote.com/about-us](https://evernote.com/about-us)
+- [https://evernote.com](https://evernote.com)
 - [https://evernote.com/download](https://evernote.com/download)
 - [https://evernote.com/features](https://evernote.com/features)
 - [https://evernote.com/pricing](https://evernote.com/pricing)
-- [https://help.evernote.com/](https://help.evernote.com/)
+- [https://evernote.com/about-us](https://evernote.com/about-us)
+- [https://help.evernote.com](https://help.evernote.com)
+- [http://www.evernote.com/about-us](http://www.evernote.com/about-us)
 
 ## Brand Guidelines
 

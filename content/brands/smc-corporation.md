@@ -2,7 +2,7 @@
 title: SMC Corporation
 slug: "smc-corporation"
 description: ""
-date: "2026-03-13T09:22:53.118649"
+date: "2026-03-20T08:22:04.118497"
 draft: false
 sectors:
   - hardware
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1959
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +52,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - grey
-  - white
   - blue
+  - white
+  - grey
+  - black
 typographies: []
 imagery_styles:
   - clean
@@ -70,17 +72,18 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Amazon.com](http://www.Amazon.com)
-- [http://www.Salesforce.com](http://www.Salesforce.com)
+- [https://www.smcworld.com](https://www.smcworld.com)
+- [https://www.smcworld.com/corporate/about/corp.html](https://www.smcworld.com/corporate/about/corp.html)
+- [https://www.smc.eu](https://www.smc.eu)
+- [https://www.smcusa.com](https://www.smcusa.com)
+- [http://www.amazon.com](http://www.amazon.com)
+- [http://www.salesforce.com](http://www.salesforce.com)
 - [http://www.forbes.com](http://www.forbes.com)
 - [http://www.smc.at](http://www.smc.at)
 - [http://www.smc.de](http://www.smc.de)
 - [http://www.smc.eu](http://www.smc.eu)
 - [http://www.smc.sk](http://www.smc.sk)
-- [https://www.smc.eu/](https://www.smc.eu/)
-- [https://www.smcusa.com/](https://www.smcusa.com/)
-- [https://www.smcworld.com/](https://www.smcworld.com/)
-- [https://www.smcworld.com/corporate/about/corp.html](https://www.smcworld.com/corporate/about/corp.html)
+- [http://www.smcworld.com](http://www.smcworld.com)
 
 ## Brand Guidelines
 

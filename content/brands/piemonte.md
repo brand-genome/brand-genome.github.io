@@ -2,7 +2,7 @@
 title: Piemonte
 slug: piemonte
 description: ""
-date: "2026-03-13T09:22:54.986069"
+date: "2026-03-20T08:22:05.716473"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1907
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.piemontetheplacetoinvest.it/](https://www.piemontetheplacetoinvest.it/)
+- [https://www.piemontetheplacetoinvest.it](https://www.piemontetheplacetoinvest.it)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: Fortinet
 slug: fortinet
 description: ""
-date: "2026-03-13T09:22:53.506839"
+date: "2026-03-20T08:22:04.402774"
 draft: false
 sectors:
-  - software
-  - cybersecurity
   - networking
+  - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries:
   - "computer-security"
 countries:
@@ -33,14 +33,16 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
   - "networking-hardware"
+  - software
 products: []
 headquarters_locations:
   - sunnyvale
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fortinet.com/](https://www.fortinet.com/)
+- [https://www.fortinet.com](https://www.fortinet.com)
+- [http://www.fortinet.com](http://www.fortinet.com)
 
 ## Brand Guidelines
 
@@ -121,7 +124,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Sunnyvale](/headquarters_locations/sunnyvale/) |
 | Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/06lqbt |

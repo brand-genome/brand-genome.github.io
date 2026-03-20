@@ -2,7 +2,7 @@
 title: Rafay
 slug: rafay
 description: ""
-date: "2026-03-13T09:22:53.335653"
+date: "2026-03-20T08:22:04.245673"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-2182"
   - "pantone-2217"
-  - "pantone-289"
-  - black
-  - white
+  - green
   - "pantone-2244"
+  - red
+  - "pantone-289"
+  - "pantone-2182"
   - "pantone-3275"
+  - white
   - blue
   - "pantone-2348"
-  - red
-  - green
+  - black
   - "pantone-296"
 typographies:
   - helvetica
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rafay.co/](https://rafay.co/)
+- [https://rafay.co](https://rafay.co)
 
 ## Brand Guidelines
 

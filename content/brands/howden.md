@@ -2,7 +2,7 @@
 title: Howden
 slug: howden
 description: ""
-date: "2026-03-13T09:22:52.878054"
+date: "2026-03-20T08:22:03.873610"
 draft: false
 sectors:
   - insurance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries: []
 countries:
   - worldwide
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,11 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://online.howdengroup.com/](https://online.howdengroup.com/)
-- [https://www.howdengroup.com/](https://www.howdengroup.com/)
+- [https://www.howdengroup.com](https://www.howdengroup.com)
+- [https://www.howdeninsurance.co.uk](https://www.howdeninsurance.co.uk)
 - [https://www.howdengroup.com/us-en](https://www.howdengroup.com/us-en)
-- [https://www.howdeninsurance.co.uk/](https://www.howdeninsurance.co.uk/)
-- [https://www.howdenre.com/](https://www.howdenre.com/)
+- [https://www.howdenre.com](https://www.howdenre.com)
+- [https://online.howdengroup.com](https://online.howdengroup.com)
+- [https://www.howdengroupholdings.com](https://www.howdengroupholdings.com)
 
 ## Brand Guidelines
 

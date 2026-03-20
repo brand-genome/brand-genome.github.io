@@ -2,7 +2,7 @@
 title: Town of Buena Vista
 slug: "town-of-buena-vista"
 description: ""
-date: "2026-03-13T09:22:53.758719"
+date: "2026-03-20T08:22:04.716499"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.buenavistaco.gov/](https://www.buenavistaco.gov/)
+- [https://www.buenavistaco.gov](https://www.buenavistaco.gov)
+- [http://www.buenavistaco.gov](http://www.buenavistaco.gov)
 
 ## Brand Guidelines
 

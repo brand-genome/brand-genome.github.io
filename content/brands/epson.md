@@ -2,7 +2,7 @@
 title: Epson
 slug: epson
 description: ""
-date: "2026-03-13T09:22:54.745956"
+date: "2026-03-20T08:22:05.542809"
 draft: false
 sectors:
   - electronics
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2013
   - 2010
+  - 2013
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,22 +51,22 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
+  - "sans-serif"
   - helvetica
   - verdana
-  - "sans-serif"
 imagery_styles:
-  - contemporary
-  - gradient
   - dynamic
-  - photography
   - colorful
+  - graphic
   - professional
   - bold
-  - graphic
+  - photography
+  - contemporary
+  - gradient
 wikidata_description: brand of electronics
 wikidata_url: "https://www.wikidata.org/wiki/Q124981803"
 has_twitter: false
@@ -77,12 +78,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Epson.com](http://www.Epson.com)
-- [https://corporate.epson/en/](https://corporate.epson/en/)
+- [https://epson.com/usa](https://epson.com/usa)
+- [https://epson.com/support](https://epson.com/support)
 - [https://epson.com/shop-epson-store](https://epson.com/shop-epson-store)
-- [https://epson.com/support/](https://epson.com/support/)
-- [https://epson.com/usa/](https://epson.com/usa/)
-- [https://global.epson.com/](https://global.epson.com/)
+- [https://global.epson.com](https://global.epson.com)
+- [https://corporate.epson/en](https://corporate.epson/en)
+- [http://www.epson.com](http://www.epson.com)
+- [https://epson.com](https://epson.com)
 
 ## Brand Guidelines
 

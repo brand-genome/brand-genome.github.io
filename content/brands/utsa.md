@@ -2,7 +2,7 @@
 title: UTSA
 slug: utsa
 description: ""
-date: "2026-03-13T09:22:54.972601"
+date: "2026-03-20T08:22:05.703518"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,29 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - symbol
   - stacked
   - signature
+  - symbol
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
-  - blue
   - white
+  - blue
   - orange
+  - black
 typographies:
-  - serif
   - futura
-  - helvetica
+  - serif
+  - arial
   - inter
   - "sans-serif"
-  - arial
   - times
+  - helvetica
 imagery_styles:
   - classic
-  - clean
   - bold
+  - clean
   - graphic
 wikidata_description: "public research university in San Antonio, Texas, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q183170"
@@ -86,9 +88,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.utsa.edu](https://www.utsa.edu)
+- [https://goutsa.com](https://goutsa.com)
 - [http://www.utsa.edu](http://www.utsa.edu)
-- [https://goutsa.com/](https://goutsa.com/)
-- [https://www.utsa.edu/](https://www.utsa.edu/)
 
 ## Brand Guidelines
 

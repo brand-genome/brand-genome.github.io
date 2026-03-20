@@ -2,7 +2,7 @@
 title: Foros Locales de Madrid
 slug: "foros-locales-de-madrid"
 description: ""
-date: "2026-03-13T09:22:53.250231"
+date: "2026-03-20T08:22:04.175357"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - community
   - social
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
+  - green
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - green
 typographies:
   - arial
 imagery_styles:
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales/](https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales/)
-- [https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana/](https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana/)
+- [https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales](https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales)
+- [https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana](https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana)
 
 ## Brand Guidelines
 

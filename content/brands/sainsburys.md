@@ -2,7 +2,7 @@
 title: Sainsbury’s
 slug: sainsburys
 description: ""
-date: "2026-03-13T09:22:54.186952"
+date: "2026-03-20T08:22:05.014530"
 draft: false
 sectors:
   - supermarket
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - abstract
+  - secondary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - times
 imagery_styles:
-  - portrait
-  - landscape
-  - abstract
   - bold
+  - portrait
+  - abstract
+  - landscape
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.sainsburys.co.uk/](https://corporate.sainsburys.co.uk/)
-- [https://www.sainsburys.co.uk/](https://www.sainsburys.co.uk/)
+- [https://www.sainsburys.co.uk](https://www.sainsburys.co.uk)
+- [https://corporate.sainsburys.co.uk](https://corporate.sainsburys.co.uk)
 
 ## Brand Guidelines
 

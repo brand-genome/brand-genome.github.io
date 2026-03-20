@@ -2,7 +2,7 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-03-13T09:22:53.242971"
+date: "2026-03-20T08:22:04.161561"
 draft: false
 sectors:
   - chemicals
@@ -10,8 +10,8 @@ sectors:
 regions:
   - germany
 years:
-  - 2022
   - 2018
+  - 2022
 languages:
   - english
 tags:
@@ -33,11 +33,13 @@ products_or_materials_produced:
   - laundry
 products: []
 headquarters_locations:
-  - dusseldorf
   - aachen
+  - dusseldorf
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +58,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.HENKEL-BRAND-HUB.COM](http://www.HENKEL-BRAND-HUB.COM)
+- [https://www.henkel.com](https://www.henkel.com)
 - [https://www.henkel-adhesives.com/us/en.html](https://www.henkel-adhesives.com/us/en.html)
-- [https://www.henkel.com/](https://www.henkel.com/)
+- [http://www.henkel-brand-hub.com](http://www.henkel-brand-hub.com)
+- [https://www.henkel-de](https://www.henkel-de)
 
 ## Brand Guidelines
 
@@ -113,7 +116,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
-| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Aachen](/headquarters_locations/aachen/) |
+| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
 | Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |

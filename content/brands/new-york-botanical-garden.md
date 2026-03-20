@@ -2,13 +2,13 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-03-13T09:22:53.257677"
+date: "2026-03-20T08:22:04.183215"
 draft: false
 sectors:
   - tourism
-  - research
   - education
   - "arts-culture"
+  - research
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1891
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,17 +58,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
-  - symbol
   - vertical
+  - seal
+  - primary
+  - symbol
 brand_colors:
+  - brown
   - green
   - white
-  - brown
 typographies:
-  - times
   - impact
+  - times
 imagery_styles:
   - bold
   - graphic
@@ -81,7 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nybg.org/](https://www.nybg.org/)
+- [https://www.nybg.org](https://www.nybg.org)
+- [http://www.nybg.org](http://www.nybg.org)
 
 ## Brand Guidelines
 

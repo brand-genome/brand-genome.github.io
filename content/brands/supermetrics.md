@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-03-13T09:22:53.075422"
+date: "2026-03-20T08:22:04.071249"
 draft: false
 sectors:
   - software
@@ -19,10 +19,10 @@ industries:
   - "data-management"
   - "digital-marketing"
 countries:
-  - finland
-  - singapore
   - ireland
   - lithuania
+  - singapore
+  - finland
 revenue_buckets:
   - "UNDER-1M"
 operating_income_buckets:
@@ -34,14 +34,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "data-visualization-software"
   - analytics
+  - "data-visualization-software"
 products: []
 headquarters_locations:
   - kluuvi
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,11 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://api.supermetrics.com/](https://api.supermetrics.com/)
-- [https://community.supermetrics.com/](https://community.supermetrics.com/)
-- [https://docs.supermetrics.com/](https://docs.supermetrics.com/)
-- [https://supermetrics.com/](https://supermetrics.com/)
-- [https://support.supermetrics.com/](https://support.supermetrics.com/)
+- [https://supermetrics.com](https://supermetrics.com)
+- [https://docs.supermetrics.com](https://docs.supermetrics.com)
+- [https://support.supermetrics.com](https://support.supermetrics.com)
+- [https://community.supermetrics.com](https://community.supermetrics.com)
+- [https://api.supermetrics.com](https://api.supermetrics.com)
 
 ## Brand Guidelines
 
@@ -94,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Analytics](/products_or_materials_produced/analytics/) |
+| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/) |
 | Headquarters Location | [Kluuvi](/headquarters_locations/kluuvi/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013 |

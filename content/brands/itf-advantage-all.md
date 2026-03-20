@@ -2,7 +2,7 @@
 title: ITF Advantage All
 slug: "itf-advantage-all"
 description: ""
-date: "2026-03-13T09:22:53.299057"
+date: "2026-03-20T08:22:04.220263"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - grey
   - white
   - orange
+  - grey
 typographies:
-  - "open-sans"
   - impact
+  - "open-sans"
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itftennis.com/en/about-us/governance/advantage-all/](https://www.itftennis.com/en/about-us/governance/advantage-all/)
+- [https://www.itftennis.com/en/about-us/governance/advantage-all](https://www.itftennis.com/en/about-us/governance/advantage-all)
 
 ## Brand Guidelines
 

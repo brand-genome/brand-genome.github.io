@@ -2,7 +2,7 @@
 title: Cork University Business School
 slug: "cork-university-business-school"
 description: ""
-date: "2026-03-13T09:22:53.070077"
+date: "2026-03-20T08:22:04.064311"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ucc.ie/en/business-school/](https://www.ucc.ie/en/business-school/)
+- [https://www.ucc.ie/en/business-school](https://www.ucc.ie/en/business-school)
 
 ## Brand Guidelines
 

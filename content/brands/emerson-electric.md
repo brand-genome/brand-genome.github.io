@@ -2,7 +2,7 @@
 title: Emerson Electric
 slug: "emerson-electric"
 description: ""
-date: "2026-03-13T09:22:52.822199"
+date: "2026-03-20T08:22:03.833232"
 draft: false
 sectors:
   - electronics
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1890
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Emerson.com](http://www.Emerson.com)
-- [https://ir.emerson.com/](https://ir.emerson.com/)
-- [https://www.emerson.com/](https://www.emerson.com/)
+- [https://www.emerson.com](https://www.emerson.com)
+- [https://ir.emerson.com](https://ir.emerson.com)
+- [http://www.emerson.com](http://www.emerson.com)
+- [https://www.emerson.com/global](https://www.emerson.com/global)
 
 ## Brand Guidelines
 

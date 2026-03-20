@@ -2,7 +2,7 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-03-13T09:22:53.646194"
+date: "2026-03-20T08:22:04.503303"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1891
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
   - gray
-  - gold
   - blue
+  - gold
+  - black
 typographies:
   - montserrat
 imagery_styles: []
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://online.ncat.edu/](https://online.ncat.edu/)
-- [https://www.ncat.edu/](https://www.ncat.edu/)
+- [https://www.ncat.edu](https://www.ncat.edu)
+- [https://online.ncat.edu](https://online.ncat.edu)
+- [https://ncat.edu](https://ncat.edu)
 
 ## Brand Guidelines
 

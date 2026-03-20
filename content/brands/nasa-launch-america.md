@@ -2,12 +2,12 @@
 title: NASA Launch America
 slug: "nasa-launch-america"
 description: ""
-date: "2026-03-13T09:22:53.963945"
+date: "2026-03-20T08:22:04.887563"
 draft: false
 sectors:
-  - "space-technology"
   - "public-sector"
   - broadcasting
+  - "space-technology"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
   - transport
 industries: []
 countries: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +54,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - white
 typographies:
   - display
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,11 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://plus.nasa.gov/](https://plus.nasa.gov/)
-- [https://www.nasa.gov/](https://www.nasa.gov/)
+- [https://www.nasa.gov](https://www.nasa.gov)
 - [https://www.nasa.gov/beourguest](https://www.nasa.gov/beourguest)
-- [https://www.nasa.gov/live/](https://www.nasa.gov/live/)
-- [https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica/](https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica/)
+- [https://www.nasa.gov/live](https://www.nasa.gov/live)
+- [https://plus.nasa.gov](https://plus.nasa.gov)
+- [https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica](https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica)
 
 ## Brand Guidelines
 

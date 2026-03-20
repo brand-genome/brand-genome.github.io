@@ -2,11 +2,11 @@
 title: Marmalade Collective
 slug: "marmalade-collective"
 description: ""
-date: "2026-03-13T09:22:52.065923"
+date: "2026-03-20T08:22:03.131784"
 draft: false
 sectors:
-  - publishing
   - "arts-culture"
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.marmaladecollective.com](https://www.marmaladecollective.com)
 - [http://www.marmaladecollective.com](http://www.marmaladecollective.com)
-- [https://www.marmaladecollective.com/](https://www.marmaladecollective.com/)
 
 ## Brand Guidelines
 

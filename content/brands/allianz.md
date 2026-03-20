@@ -2,11 +2,11 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-03-13T09:22:55.048900"
+date: "2026-03-20T08:22:05.750655"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - germany
 years:
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
   - insurance
-  - "insurance-industry"
   - "financial-services"
+  - "insurance-industry"
 countries:
   - germany
 revenue_buckets:
@@ -44,6 +44,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1890
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,17 +67,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
   - gray
   - "pantone-287"
-  - red
   - blue
 typographies:
-  - serif
   - din
+  - serif
 imagery_styles:
-  - product
-  - natural
   - bold
+  - natural
+  - product
 wikidata_description: European multinational insurance and financial services corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q487292"
 has_twitter: false
@@ -87,8 +89,18 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.allianz.com/](https://www.allianz.com/)
 - [https://www.allianz.com/en.html](https://www.allianz.com/en.html)
+- [https://www.allianz.com](https://www.allianz.com)
+- [https://www.allianz.fr](https://www.allianz.fr)
+- [https://www.allianz.com.tr](https://www.allianz.com.tr)
+- [https://www.allianz.es](https://www.allianz.es)
+- [https://www.allianz.de](https://www.allianz.de)
+- [https://ageallianz.it](https://ageallianz.it)
+- [https://www.allianz.hu](https://www.allianz.hu)
+- [https://www.allianz.pt](https://www.allianz.pt)
+- [https://www.allianz.it](https://www.allianz.it)
+- [http://zastupci.allianz.cz](http://zastupci.allianz.cz)
+- [https://www.allianz.cz](https://www.allianz.cz)
 
 ## Brand Guidelines
 

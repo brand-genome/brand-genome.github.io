@@ -2,11 +2,11 @@
 title: Carhartt
 slug: carhartt
 description: ""
-date: "2026-03-13T09:22:54.217085"
+date: "2026-03-20T08:22:05.044362"
 draft: false
 sectors:
-  - "consumer-goods"
   - fashion
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - construction
   - fashion
+  - construction
 industries:
   - "textile-industry"
 countries:
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - clothing
   - textile
+  - clothing
 products: []
 headquarters_locations:
   - dearborn
 subsidiaries: []
 foundation_dates:
   - 1889
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,25 +56,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - symbol
   - secondary
   - signature
+  - symbol
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - "pantone-153"
+  - "pantone-5395"
+  - "pantone-381"
+  - white
   - "pantone-5405"
   - "pantone-1655"
-  - black
-  - "pantone-381"
   - "pantone-7511"
-  - white
-  - "pantone-5395"
+  - "pantone-153"
   - brown
+  - black
 typographies:
-  - helvetica
   - impact
+  - helvetica
 imagery_styles:
   - bold
   - graphic
@@ -87,7 +89,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.carhartt.com/](https://www.carhartt.com/)
+- [https://www.carhartt.com](https://www.carhartt.com)
 
 ## Brand Guidelines
 
@@ -139,7 +141,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Textile](/products_or_materials_produced/textile/) |
+| Product Or Material Produced | [Textile](/products_or_materials_produced/textile/); [Clothing](/products_or_materials_produced/clothing/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1889](/foundation_dates/1889/) |
 | Freebase Id | /m/08vntw |

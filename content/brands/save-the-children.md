@@ -2,7 +2,7 @@
 title: Save The Children
 slug: "save-the-children"
 description: ""
-date: "2026-03-13T09:22:54.973920"
+date: "2026-03-20T08:22:05.705007"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - stacked
-  - favicon
   - secondary
   - horizontal
+  - favicon
+  - icon
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
-  - display
-  - arial
   - "gill-sans"
+  - arial
+  - display
 imagery_styles:
-  - graphic
   - product
-  - gradient
+  - graphic
   - bold
   - static
+  - gradient
 wikidata_description: "London-based international non-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q215934"
 has_twitter: false
@@ -79,9 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.savethechildren.org.uk](https://www.savethechildren.org.uk)
+- [https://www.savethechildren.net](https://www.savethechildren.net)
 - [http://www.savethechildren.net](http://www.savethechildren.net)
-- [https://www.savethechildren.net/](https://www.savethechildren.net/)
-- [https://www.savethechildren.org.uk/](https://www.savethechildren.org.uk/)
+- [https://www.savethechildren.org](https://www.savethechildren.org)
 
 ## Brand Guidelines
 

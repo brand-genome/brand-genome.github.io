@@ -2,7 +2,7 @@
 title: SRAM Urban
 slug: "sram-urban"
 description: ""
-date: "2026-03-13T09:22:53.277993"
+date: "2026-03-20T08:22:04.205784"
 draft: false
 sectors:
   - hardware
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - "pantone-186"
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - modern
   - product
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sram.com](https://www.sram.com)
 - [http://www.sram.com](http://www.sram.com)
-- [https://www.sram.com/](https://www.sram.com/)
 
 ## Brand Guidelines
 

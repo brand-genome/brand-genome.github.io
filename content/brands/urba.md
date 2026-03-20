@@ -2,7 +2,7 @@
 title: Urba
 slug: urba
 description: ""
-date: "2026-03-13T09:22:53.320698"
+date: "2026-03-20T08:22:04.231928"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - business
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - "pantone-7499"
-  - "pantone-290"
-  - "pantone-540"
-  - "pantone-1555"
   - red
+  - "pantone-540"
+  - "pantone-7499"
+  - "pantone-1555"
+  - "pantone-290"
 typographies: []
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: shared transportation service for use by the general public
 wikidata_url: "https://www.wikidata.org/wiki/Q178512"
 has_twitter: false

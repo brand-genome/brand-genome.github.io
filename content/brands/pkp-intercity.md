@@ -2,7 +2,7 @@
 title: PKP Intercity
 slug: "pkp-intercity"
 description: ""
-date: "2026-03-13T09:22:52.133689"
+date: "2026-03-20T08:22:03.196814"
 draft: false
 sectors:
   - railroad
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - horizontal
-  - symbol
 brand_colors:
-  - grey
-  - white
   - "pantone-424"
+  - white
+  - grey
 typographies: []
 imagery_styles:
   - graphic
@@ -73,7 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.intercity.pl/](https://www.intercity.pl/)
+- [https://www.intercity.pl](https://www.intercity.pl)
+- [https://www.intercity.pl/pl](https://www.intercity.pl/pl)
+- [https://www.intercity.pl/en](https://www.intercity.pl/en)
+- [https://www.intercity.pl/ru](https://www.intercity.pl/ru)
 
 ## Brand Guidelines
 

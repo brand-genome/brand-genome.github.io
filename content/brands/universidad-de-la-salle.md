@@ -2,7 +2,7 @@
 title: Universidad de La Salle
 slug: "universidad-de-la-salle"
 description: ""
-date: "2026-03-13T09:22:54.984471"
+date: "2026-03-20T08:22:05.714708"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1863
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lasalle.edu.co/](https://lasalle.edu.co/)
+- [https://lasalle.edu.co](https://lasalle.edu.co)
+- [http://www.lasalle.edu](http://www.lasalle.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Olive + Squash
 slug: "olive-squash"
 description: ""
-date: "2026-03-13T09:22:55.041149"
+date: "2026-03-20T08:22:05.743698"
 draft: false
 sectors:
   - restaurant
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - monogram
   - secondary
+  - monogram
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oliveandsquash.co.uk/](https://www.oliveandsquash.co.uk/)
+- [https://www.oliveandsquash.co.uk](https://www.oliveandsquash.co.uk)
 
 ## Brand Guidelines
 

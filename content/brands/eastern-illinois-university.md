@@ -2,7 +2,7 @@
 title: Eastern Illinois University
 slug: "eastern-illinois-university"
 description: ""
-date: "2026-03-13T09:22:53.007583"
+date: "2026-03-20T08:22:03.998471"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1895
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.eiu.edu](https://www.eiu.edu)
 - [http://www.eiu.edu/media/stylebook.php](http://www.eiu.edu/media/stylebook.php)
-- [https://www.eiu.edu/](https://www.eiu.edu/)
+- [http://www.eiu.edu](http://www.eiu.edu)
 
 ## Brand Guidelines
 

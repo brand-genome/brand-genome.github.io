@@ -2,11 +2,11 @@
 title: CALM
 slug: calm
 description: ""
-date: "2026-03-13T09:22:54.221106"
+date: "2026-03-20T08:22:05.049078"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - gray
-  - yellow
-  - orange
-  - black
-  - magenta
-  - pink
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - gray
+  - magenta
   - brown
+  - orange
+  - pink
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - vibrant
   - bold
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.thecalmzone.net](https://www.thecalmzone.net)
 - [http://www.linotype.com/1086487/swiss-721-family.html](http://www.linotype.com/1086487/swiss-721-family.html)
-- [http://www.myfonts.com/fonts/ascender/calibri/](http://www.myfonts.com/fonts/ascender/calibri/)
+- [http://www.myfonts.com/fonts/ascender/calibri](http://www.myfonts.com/fonts/ascender/calibri)
 - [http://www.typekit.com/fonts/alternate-gothic-no-2-d](http://www.typekit.com/fonts/alternate-gothic-no-2-d)
-- [https://www.thecalmzone.net/](https://www.thecalmzone.net/)
 
 ## Brand Guidelines
 

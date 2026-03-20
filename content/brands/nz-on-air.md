@@ -2,7 +2,7 @@
 title: NZ on Air
 slug: "nz-on-air"
 description: ""
-date: "2026-03-13T09:22:52.815171"
+date: "2026-03-20T08:22:03.828435"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +66,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.HEIHEI.nz](http://www.HEIHEI.nz)
+- [https://www.nzonair.govt.nz](https://www.nzonair.govt.nz)
+- [https://portal.nzonair.govt.nz](https://portal.nzonair.govt.nz)
+- [https://funding.nzonair.govt.nz](https://funding.nzonair.govt.nz)
+- [https://www.nzonscreen.com](https://www.nzonscreen.com)
+- [http://www.heihei.nz](http://www.heihei.nz)
 - [http://www.govt.nz](http://www.govt.nz)
-- [https://funding.nzonair.govt.nz/](https://funding.nzonair.govt.nz/)
-- [https://portal.nzonair.govt.nz/](https://portal.nzonair.govt.nz/)
-- [https://www.nzonair.govt.nz/](https://www.nzonair.govt.nz/)
-- [https://www.nzonscreen.com/](https://www.nzonscreen.com/)
 
 ## Brand Guidelines
 

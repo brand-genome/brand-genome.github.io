@@ -2,7 +2,7 @@
 title: Helsingin Energia
 slug: "helsingin-energia"
 description: ""
-date: "2026-03-13T09:22:54.330299"
+date: "2026-03-20T08:22:05.154129"
 draft: false
 sectors:
   - utilities
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1909
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
+  - primary
 brand_colors:
-  - "pantone-286"
   - "pantone-021"
+  - "pantone-286"
+  - white
+  - blue
   - orange
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles:
-  - minimal
   - graphic
+  - minimal
 wikidata_description: "energy company in Helsinki, Finland"
 wikidata_url: "https://www.wikidata.org/wiki/Q3129981"
 has_twitter: false
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.helen.fi](https://www.helen.fi)
 - [https://www.helen.fi/en](https://www.helen.fi/en)
+- [https://www.helen.fi](https://www.helen.fi)
+- [http://www.helen.fi](http://www.helen.fi)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Uherské Hradiště
 slug: "uherske-hradiste"
 description: ""
-date: "2026-03-13T09:22:53.292861"
+date: "2026-03-20T08:22:04.217634"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - czech
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,14 +62,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mesto-uh.cz](https://www.mesto-uh.cz)
+- [https://www.uherske-hradiste.cz](https://www.uherske-hradiste.cz)
+- [https://www.uherske-hradiste.cz/en](https://www.uherske-hradiste.cz/en)
 - [http://www.dynamodesign.cz](http://www.dynamodesign.cz)
 - [http://www.knihovnabbb.cz](http://www.knihovnabbb.cz)
 - [http://www.mesto-uh.cz](http://www.mesto-uh.cz)
 - [http://www.slovackemuzeum.cz](http://www.slovackemuzeum.cz)
 - [http://www.uherske-hradiste.cz](http://www.uherske-hradiste.cz)
-- [https://www.mesto-uh.cz/](https://www.mesto-uh.cz/)
-- [https://www.uherske-hradiste.cz/](https://www.uherske-hradiste.cz/)
-- [https://www.uherske-hradiste.cz/en/](https://www.uherske-hradiste.cz/en/)
 
 ## Brand Guidelines
 

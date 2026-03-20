@@ -2,11 +2,11 @@
 title: Sport England
 slug: "sport-england"
 description: ""
-date: "2026-03-13T09:22:54.336887"
+date: "2026-03-20T08:22:05.162943"
 draft: false
 sectors:
-  - sports
   - "public-sector"
+  - sports
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.sportengland.org/imagelibrary](http://www.sportengland.org/imagelibrary)
-- [https://www.sportengland.org/](https://www.sportengland.org/)
+- [https://www.sportengland.org](https://www.sportengland.org)
 - [https://www.sportengland.org/press-pack/image-library](https://www.sportengland.org/press-pack/image-library)
+- [http://www.sportengland.org/imagelibrary](http://www.sportengland.org/imagelibrary)
 
 ## Brand Guidelines
 

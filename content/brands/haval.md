@@ -2,7 +2,7 @@
 title: Haval
 slug: haval
 description: ""
-date: "2026-03-13T09:22:52.119018"
+date: "2026-03-20T08:22:03.176794"
 draft: false
 sectors:
   - automobile
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,17 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.haval.com.cn](https://www.haval.com.cn)
 - [https://www.gwm-global.com/brands/haval/haval-global.html](https://www.gwm-global.com/brands/haval/haval-global.html)
-- [https://www.haval.com.cn/](https://www.haval.com.cn/)
+- [http://www.haval-global.com](http://www.haval-global.com)
+- [https://www.haval.co.za](https://www.haval.co.za)
+- [https://www.gwmhaval.com.au](https://www.gwmhaval.com.au)
+- [https://haval.pk](https://haval.pk)
+- [https://www.haval.com.sa](https://www.haval.com.sa)
+- [https://www.haval.com.sa/ar](https://www.haval.com.sa/ar)
+- [https://haval.com.vn](https://haval.com.vn)
+- [https://haval.bg](https://haval.bg)
+- [https://www.haval.com.kw](https://www.haval.com.kw)
 
 ## Brand Guidelines
 

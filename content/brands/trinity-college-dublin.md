@@ -2,12 +2,12 @@
 title: Trinity College Dublin
 slug: "trinity-college-dublin"
 description: ""
-date: "2026-03-13T09:22:52.067902"
+date: "2026-03-20T08:22:03.133629"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - ireland
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1592
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tcd.ie](https://www.tcd.ie)
+- [https://www.tcd.ie/identity](https://www.tcd.ie/identity)
 - [http://www.tcd.ie/digital/video](http://www.tcd.ie/digital/video)
-- [https://www.tcd.ie/](https://www.tcd.ie/)
-- [https://www.tcd.ie/identity/](https://www.tcd.ie/identity/)
+- [https://www.tcd.ie/gaeloifig/gaeilge/index.ga.php](https://www.tcd.ie/gaeloifig/gaeilge/index.ga.php)
 
 ## Brand Guidelines
 

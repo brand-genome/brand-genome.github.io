@@ -2,7 +2,7 @@
 title: MEO
 slug: meo
 description: "Designed by MYBRAND, Lisbon."
-date: "2026-03-13T09:22:51.924676"
+date: "2026-03-20T08:22:03.078892"
 draft: false
 sectors:
   - telecom
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - vertical
+  - emblem
 brand_colors:
+  - red
+  - white
   - "pantone-201"
   - black
-  - white
-  - red
 typographies: []
 imagery_styles:
+  - graphic
   - modern
-  - monochrome
   - photography
   - gradient
-  - graphic
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://en.institutional.meo.pt/](https://en.institutional.meo.pt/)
+- [https://www.meo.pt](https://www.meo.pt)
 - [https://tv.meo.pt/en](https://tv.meo.pt/en)
-- [https://www.meo.pt/](https://www.meo.pt/)
+- [https://en.institutional.meo.pt](https://en.institutional.meo.pt)
 
 ## Brand Guidelines
 

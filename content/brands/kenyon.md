@@ -2,7 +2,7 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-03-13T09:22:53.079230"
+date: "2026-03-20T08:22:04.076842"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1824
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,21 +57,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
   - red
-  - blue
   - green
   - white
+  - purple
+  - blue
 typographies:
   - display
+  - serif
   - georgia
   - monospace
   - helvetica
-  - serif
 imagery_styles:
+  - graphic
   - duotone
   - photography
-  - graphic
 wikidata_description: "private liberal arts college in Gambier, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1797768"
 has_twitter: false
@@ -81,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://messaging.kenyon.edu/](http://messaging.kenyon.edu/)
+- [https://www.kenyon.edu](https://www.kenyon.edu)
+- [http://messaging.kenyon.edu](http://messaging.kenyon.edu)
 - [http://www.kenyon.edu](http://www.kenyon.edu)
-- [https://www.kenyon.edu/](https://www.kenyon.edu/)
 
 ## Brand Guidelines
 

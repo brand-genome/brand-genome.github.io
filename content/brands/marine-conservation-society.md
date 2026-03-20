@@ -2,7 +2,7 @@
 title: Marine Conservation Society
 slug: "marine-conservation-society"
 description: ""
-date: "2026-03-13T09:22:54.715574"
+date: "2026-03-20T08:22:05.514385"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - environment
-  - marine
   - ngo
+  - marine
 industries: []
 countries:
   - "united-kingdom"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mcsuk.org/](https://www.mcsuk.org/)
+- [https://www.mcsuk.org](https://www.mcsuk.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Nutanix
 slug: nutanix
 description: ""
-date: "2026-03-13T09:22:54.736390"
+date: "2026-03-20T08:22:05.533673"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,27 +52,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - logomark
+  - symbol
   - wordmark
   - primary
-  - symbol
-  - secondary
 brand_colors:
+  - green
+  - white
   - purple
+  - blue
   - gray
   - yellow
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
   - gotham
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: American enterprise virtualization and storage company.
 wikidata_url: "https://www.wikidata.org/wiki/Q16959629"
 has_twitter: false
@@ -82,8 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nutanix.com/](https://www.nutanix.com/)
+- [https://www.nutanix.com](https://www.nutanix.com)
 - [https://www.nutanix.com/products/cloud-platform](https://www.nutanix.com/products/cloud-platform)
+- [http://www.nutanix.com](http://www.nutanix.com)
 
 ## Brand Guidelines
 

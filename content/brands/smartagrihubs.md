@@ -2,11 +2,11 @@
 title: SmartAgriHubs
 slug: smartagrihubs
 description: ""
-date: "2026-03-13T09:22:53.341226"
+date: "2026-03-20T08:22:04.250377"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - europe
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - "pantone-375"
   - "pantone-136"
-  - yellow
-  - "pantone-3272"
-  - orange
-  - black
-  - pink
   - red
   - green
+  - "pantone-3272"
   - white
+  - orange
+  - yellow
+  - pink
+  - "pantone-375"
+  - black
 typographies:
   - verdana
 imagery_styles:
-  - minimal
-  - professional
   - bold
+  - professional
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.smartagrihubs.eu](https://www.smartagrihubs.eu)
 - [https://twitter.com/smartagrihubs](https://twitter.com/smartagrihubs)
-- [https://www.smartagrihubs.eu/](https://www.smartagrihubs.eu/)
 
 ## Brand Guidelines
 

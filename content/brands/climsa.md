@@ -2,11 +2,11 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-03-13T09:22:53.441711"
+date: "2026-03-20T08:22:04.345437"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - international
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - purple
   - silver
-  - grey
-  - yellow
   - red
-  - blue
   - green
+  - purple
+  - grey
+  - blue
+  - yellow
   - brown
 typographies:
   - arial
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.climsa.org/](https://www.climsa.org/)
+- [https://www.climsa.org](https://www.climsa.org)
 
 ## Brand Guidelines
 

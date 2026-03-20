@@ -2,7 +2,7 @@
 title: UW Milwaukee
 slug: "uw-milwaukee"
 description: ""
-date: "2026-03-13T09:22:55.044704"
+date: "2026-03-20T08:22:05.746764"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1885
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - seal
+  - symbol
 brand_colors:
   - silver
-  - gray
-  - black
   - gold
   - white
+  - gray
+  - black
 typographies:
   - times
 imagery_styles:
@@ -75,8 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://uwm.edu/brand/](https://uwm.edu/brand/)
-- [https://www.uwm.edu/](https://www.uwm.edu/)
+- [https://www.uwm.edu](https://www.uwm.edu)
+- [https://uwm.edu/brand](https://uwm.edu/brand)
+- [http://www.uwm.edu](http://www.uwm.edu)
+- [http://uwm.edu](http://uwm.edu)
 
 ## Brand Guidelines
 

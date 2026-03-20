@@ -2,11 +2,11 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-03-13T09:22:54.762632"
+date: "2026-03-20T08:22:05.554852"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - germany
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - germany
   - belgium
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - white
+  - grey
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: Insulation product manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q1776934"
 has_twitter: false
@@ -70,12 +72,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://knaufinsulation.co.uk/downloads/](http://knaufinsulation.co.uk/downloads/)
+- [https://www.knaufinsulation.com](https://www.knaufinsulation.com)
+- [https://knauf.com/de-DE/knaufinsulation](https://knauf.com/de-DE/knaufinsulation)
+- [https://www.knaufnorthamerica.com](https://www.knaufnorthamerica.com)
+- [http://knaufinsulation.co.uk/downloads](http://knaufinsulation.co.uk/downloads)
 - [http://www.knaufinsulation.be](http://www.knaufinsulation.be)
 - [http://www.knaufinsulation.no](http://www.knaufinsulation.no)
-- [https://knauf.com/de-DE/knaufinsulation](https://knauf.com/de-DE/knaufinsulation)
-- [https://www.knaufinsulation.com/](https://www.knaufinsulation.com/)
-- [https://www.knaufnorthamerica.com/](https://www.knaufnorthamerica.com/)
+- [http://www.knaufinsulation.de](http://www.knaufinsulation.de)
 
 ## Brand Guidelines
 

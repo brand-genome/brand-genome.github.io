@@ -2,7 +2,7 @@
 title: UMKC
 slug: umkc
 description: ""
-date: "2026-03-13T09:22:53.330972"
+date: "2026-03-20T08:22:04.241439"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1933
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
   - gold
   - blue
@@ -61,8 +63,8 @@ typographies:
   - helvetica
 imagery_styles:
   - clean
-  - professional
   - natural
+  - professional
 wikidata_description: American public university
 wikidata_url: "https://www.wikidata.org/wiki/Q940690"
 has_twitter: false
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.umkc.edu](https://www.umkc.edu)
 - [http://www.umsystem.edu/ums/sc/styleguide](http://www.umsystem.edu/ums/sc/styleguide)
-- [https://www.umkc.edu/](https://www.umkc.edu/)
 
 ## Brand Guidelines
 

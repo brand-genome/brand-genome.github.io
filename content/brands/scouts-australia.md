@@ -2,11 +2,11 @@
 title: Scouts Australia
 slug: "scouts-australia"
 description: ""
-date: "2026-03-13T09:22:54.343914"
+date: "2026-03-20T08:22:05.171990"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - australia
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1958
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,12 +64,12 @@ typographies:
   - display
   - nunito
 imagery_styles:
-  - modern
-  - dynamic
-  - clean
   - product
-  - bold
+  - dynamic
   - graphic
+  - bold
+  - modern
+  - clean
 wikidata_description: international youth organisation in Australia
 wikidata_url: "https://www.wikidata.org/wiki/Q7438642"
 has_twitter: false
@@ -79,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://scouts.com.au/](https://scouts.com.au/)
+- [https://scouts.com.au](https://scouts.com.au)
+- [http://www.scouts.com.au](http://www.scouts.com.au)
 
 ## Brand Guidelines
 

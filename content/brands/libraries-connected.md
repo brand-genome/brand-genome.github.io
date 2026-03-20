@@ -2,11 +2,11 @@
 title: Libraries Connected
 slug: "libraries-connected"
 description: ""
-date: "2026-03-13T09:22:53.306374"
+date: "2026-03-20T08:22:04.223394"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.librariesconnected.org.uk/](https://www.librariesconnected.org.uk/)
+- [https://www.librariesconnected.org.uk](https://www.librariesconnected.org.uk)
 
 ## Brand Guidelines
 

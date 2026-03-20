@@ -2,7 +2,7 @@
 title: Kakao Commerce
 slug: "kakao-commerce"
 description: ""
-date: "2026-03-13T09:22:53.246248"
+date: "2026-03-20T08:22:04.164217"
 draft: false
 sectors:
   - "e-commerce"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,9 +49,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kakaocommerce.com/](https://www.kakaocommerce.com/)
-- [https://www.kakaocorp.com/](https://www.kakaocorp.com/)
+- [https://www.kakaocommerce.com](https://www.kakaocommerce.com)
+- [https://www.kakaocorp.com](https://www.kakaocorp.com)
 
 ## Brand Guidelines
 

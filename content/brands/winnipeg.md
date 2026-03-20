@@ -2,12 +2,12 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-03-13T09:22:54.333358"
+date: "2026-03-20T08:22:05.159507"
 draft: false
 sectors:
-  - "public-transportation"
-  - utilities
   - "public-sector"
+  - utilities
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1738
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,11 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.winnipeg.ca](https://www.winnipeg.ca)
+- [https://myutility.winnipeg.ca](https://myutility.winnipeg.ca)
+- [https://www.winnipeg.ca/311-city-services](https://www.winnipeg.ca/311-city-services)
 - [http://www.winnipeg.ca/indigenousrelations](http://www.winnipeg.ca/indigenousrelations)
 - [http://www.winnipegtransit.com](http://www.winnipegtransit.com)
-- [https://myutility.winnipeg.ca/](https://myutility.winnipeg.ca/)
-- [https://www.winnipeg.ca/](https://www.winnipeg.ca/)
-- [https://www.winnipeg.ca/311-city-services](https://www.winnipeg.ca/311-city-services)
+- [https://winnipeg.ca](https://winnipeg.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "SATT Sud-Est"
 slug: "satt-sud-est"
 description: ""
-date: "2026-03-13T09:22:55.041014"
+date: "2026-03-20T08:22:05.743554"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +54,10 @@ brand_colors:
 typographies:
   - trebuchet
 imagery_styles:
-  - photography
-  - clean
   - bold
+  - clean
   - geometric
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sattse.com/](https://www.sattse.com/)
+- [https://www.sattse.com](https://www.sattse.com)
 
 ## Brand Guidelines
 

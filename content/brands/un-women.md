@@ -2,7 +2,7 @@
 title: UN Women
 slug: "un-women"
 description: ""
-date: "2026-03-13T09:22:53.668557"
+date: "2026-03-20T08:22:04.526107"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,7 @@ headquarters_locations:
   - "the-hague"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://data.unwomen.org/](https://data.unwomen.org/)
-- [https://open.unwomen.org/](https://open.unwomen.org/)
-- [https://www.unwomen.org/](https://www.unwomen.org/)
+- [https://www.unwomen.org](https://www.unwomen.org)
+- [https://data.unwomen.org](https://data.unwomen.org)
+- [https://open.unwomen.org](https://open.unwomen.org)
+- [https://unwomen.nl](https://unwomen.nl)
 
 ## Brand Guidelines
 

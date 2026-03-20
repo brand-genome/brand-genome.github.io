@@ -2,7 +2,7 @@
 title: University of Salford
 slug: "university-of-salford"
 description: ""
-date: "2026-03-13T09:22:52.310520"
+date: "2026-03-20T08:22:03.376041"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1896
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.salford.ac.uk/](https://www.salford.ac.uk/)
+- [https://www.salford.ac.uk](https://www.salford.ac.uk)
+- [http://www.salford.ac.uk](http://www.salford.ac.uk)
+- [http://www.salford.ac.uk/homepage.html](http://www.salford.ac.uk/homepage.html)
 
 ## Brand Guidelines
 

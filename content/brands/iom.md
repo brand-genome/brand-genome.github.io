@@ -2,7 +2,7 @@
 title: IOM
 slug: iom
 description: ""
-date: "2026-03-13T09:22:53.664581"
+date: "2026-03-20T08:22:04.522037"
 draft: false
 sectors:
   - ngo
@@ -27,12 +27,15 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "wissenschaftspark-leipzig"
   - leipzig
+  - "wissenschaftspark-leipzig"
 subsidiaries: []
 foundation_dates:
-  - 1992
   - 2002
+  - 1992
+foundation_year_buckets:
+  - 1990S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eea.iom.int](https://eea.iom.int)
 - [https://www.iom.int](https://www.iom.int)
+- [https://eea.iom.int](https://eea.iom.int)
+- [http://www.iom-leipzig.de](http://www.iom-leipzig.de)
+- [http://www.iom-leipzig.de/en](http://www.iom-leipzig.de/en)
+- [https://www.iom-leipzig.de](https://www.iom-leipzig.de)
+- [https://www.iom-leipzig.de/en](https://www.iom-leipzig.de/en)
 
 ## Brand Guidelines
 
@@ -88,8 +95,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/); [Leipzig](/headquarters_locations/leipzig/) |
-| Foundation Date | [1992](/foundation_dates/1992/); [2002](/foundation_dates/2002/) |
+| Headquarters Location | [Leipzig](/headquarters_locations/leipzig/); [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/) |
+| Foundation Date | [2002](/foundation_dates/2002/); [1992](/foundation_dates/1992/) |
 | Country | Germany |
 | Member Of | Deutsche Gesellschaft für Membrantechnik, Informationsdienst Wissenschaft |
 | Inception | 1992, 2002 |

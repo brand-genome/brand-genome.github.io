@@ -2,7 +2,7 @@
 title: Variety
 slug: variety
 description: ""
-date: "2026-03-13T09:22:54.570367"
+date: "2026-03-20T08:22:05.416067"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - "pantone-285"
-  - "pantone-652"
-  - black
-  - "pantone-198"
   - red
   - "pantone-485"
+  - "pantone-652"
+  - "pantone-285"
   - white
+  - "pantone-198"
+  - black
 typographies:
   - lato
 imagery_styles:
-  - vibrant
   - bold
+  - vibrant
 wikidata_description: type of British theatrical entertainment popular between 1850 and 1960
 wikidata_url: "https://www.wikidata.org/wiki/Q940462"
 has_twitter: false
@@ -75,13 +76,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://variety.org](https://variety.org)
+- [https://variety.org/contact-us](https://variety.org/contact-us)
+- [https://varietyny.org](https://varietyny.org)
 - [http://www.variety.com](http://www.variety.com)
 - [http://www.varietymanitoba.com](http://www.varietymanitoba.com)
 - [http://www.varietysocal.org](http://www.varietysocal.org)
 - [http://www.varietytexas.org](http://www.varietytexas.org)
-- [https://variety.org/](https://variety.org/)
-- [https://variety.org/contact-us](https://variety.org/contact-us)
-- [https://varietyny.org/](https://varietyny.org/)
 
 ## Brand Guidelines
 

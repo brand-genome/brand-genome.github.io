@@ -2,11 +2,11 @@
 title: Fender
 slug: fender
 description: ""
-date: "2026-03-13T09:22:54.793458"
+date: "2026-03-20T08:22:05.567009"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-learning-edtech"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -27,14 +27,16 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "electronic-amplifier"
-  - "bass-guitar"
   - "string-instrument"
+  - "bass-guitar"
 products: []
 headquarters_locations:
   - "nabari-station"
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.fender.com/](https://support.fender.com/)
-- [https://www.fender.com/](https://www.fender.com/)
+- [https://www.fender.com](https://www.fender.com)
+- [https://support.fender.com](https://support.fender.com)
 
 ## Brand Guidelines
 
@@ -151,7 +153,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/); [Bass Guitar](/products_or_materials_produced/bass-guitar/); [String Instrument](/products_or_materials_produced/string-instrument/) |
+| Product Or Material Produced | [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/); [String Instrument](/products_or_materials_produced/string-instrument/); [Bass Guitar](/products_or_materials_produced/bass-guitar/) |
 | Headquarters Location | [Nabari Station](/headquarters_locations/nabari-station/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Founded By | Leo Fender |

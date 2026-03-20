@@ -2,7 +2,7 @@
 title: Chicago Bears – NFL
 slug: "chicago-bears-nfl"
 description: ""
-date: "2026-03-13T09:22:55.150761"
+date: "2026-03-20T08:22:05.850291"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,11 +51,11 @@ logo_elements:
   - secondary
 brand_colors:
   - "pantone-5395"
-  - orange
-  - black
-  - blue
   - white
   - "pantone-1665"
+  - blue
+  - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gameday.chicagobears.com/](https://gameday.chicagobears.com/)
-- [https://store.chicagobears.com/](https://store.chicagobears.com/)
-- [https://www.chicagobears.com/](https://www.chicagobears.com/)
+- [https://www.chicagobears.com](https://www.chicagobears.com)
+- [https://store.chicagobears.com](https://store.chicagobears.com)
+- [https://gameday.chicagobears.com](https://gameday.chicagobears.com)
 
 ## Brand Guidelines
 

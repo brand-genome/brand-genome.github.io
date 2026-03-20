@@ -2,7 +2,7 @@
 title: Université Laval
 slug: "universite-laval"
 description: ""
-date: "2026-03-13T09:22:55.007857"
+date: "2026-03-20T08:22:05.719806"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,12 +63,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ulaval.ca](https://www.ulaval.ca)
+- [https://www.ulaval.ca/en](https://www.ulaval.ca/en)
+- [https://www.reg.ulaval.ca](https://www.reg.ulaval.ca)
+- [https://www.fsa.ulaval.ca](https://www.fsa.ulaval.ca)
 - [http://www.cairn.info/revue-nouvelles-](http://www.cairn.info/revue-nouvelles-)
 - [http://www.ulaval.ca](http://www.ulaval.ca)
-- [https://www.fsa.ulaval.ca/](https://www.fsa.ulaval.ca/)
-- [https://www.reg.ulaval.ca/](https://www.reg.ulaval.ca/)
-- [https://www.ulaval.ca/](https://www.ulaval.ca/)
-- [https://www.ulaval.ca/en](https://www.ulaval.ca/en)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Thread
 slug: thread
 description: ""
-date: "2026-03-13T09:22:53.403795"
+date: "2026-03-20T08:22:04.305958"
 draft: false
 sectors:
   - networking
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - technology
+  - internet
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,27 +52,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
-  - emblem
   - vertical
   - secondary
+  - logomark
   - horizontal
+  - emblem
+  - primary
 brand_colors:
+  - red
+  - green
+  - white
+  - blue
   - gray
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - arial
   - gotham
 imagery_styles:
   - organic
-  - illustration
   - bold
+  - illustration
 wikidata_description: clothing website
 wikidata_url: "https://www.wikidata.org/wiki/Q7797176"
 has_twitter: false
@@ -82,7 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.threadgroup.org/](https://www.threadgroup.org/)
+- [https://www.threadgroup.org](https://www.threadgroup.org)
+- [http://threadless.com](http://threadless.com)
 
 ## Brand Guidelines
 

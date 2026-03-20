@@ -2,7 +2,7 @@
 title: Sport is the Norm campaign
 slug: "sport-is-the-norm-campaign"
 description: ""
-date: "2026-03-13T09:22:53.540990"
+date: "2026-03-20T08:22:04.417952"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://norma-sport.ru/](https://norma-sport.ru/)
+- [https://norma-sport.ru](https://norma-sport.ru)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Instituto de Empresa
 slug: "instituto-de-empresa"
 description: ""
-date: "2026-03-13T09:22:53.652629"
+date: "2026-03-20T08:22:04.512395"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ie.edu/](https://www.ie.edu/)
-- [https://www.ie.edu/business-school/](https://www.ie.edu/business-school/)
-- [https://www.ie.edu/law-school/](https://www.ie.edu/law-school/)
-- [https://www.ie.edu/university/](https://www.ie.edu/university/)
+- [https://www.ie.edu](https://www.ie.edu)
+- [https://www.ie.edu/university](https://www.ie.edu/university)
+- [https://www.ie.edu/business-school](https://www.ie.edu/business-school)
+- [https://www.ie.edu/law-school](https://www.ie.edu/law-school)
+- [http://www.ie.edu/business](http://www.ie.edu/business)
+- [http://www.ie.edu/IE/site/php/es](http://www.ie.edu/IE/site/php/es)
 
 ## Brand Guidelines
 

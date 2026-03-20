@@ -2,7 +2,7 @@
 title: Oculus
 slug: oculus
 description: ""
-date: "2026-03-13T09:22:53.254621"
+date: "2026-03-20T08:22:04.180317"
 draft: false
 sectors:
   - gaming
@@ -16,13 +16,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
   - entertainment
 industries:
+  - "electronics-industry"
   - "virtual-reality-industry"
   - "software-industry"
-  - "electronics-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -35,24 +35,26 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "gear-vr"
-  - "oculus-rift"
-  - "meta-quest"
-  - "meta-quest-2"
   - "ray-ban-stories"
-  - "oculus-go"
+  - "oculus-rift"
+  - "meta-quest-2"
   - "meta-portal"
+  - "gear-vr"
   - "oculus-rift-s"
+  - "oculus-go"
+  - "meta-quest"
   - "horizon-worlds"
   - "meta-quest-pro"
 products: []
 headquarters_locations:
-  - irvine
   - california
   - "menlo-park"
+  - irvine
 subsidiaries: []
 foundation_dates:
   - 2020
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,24 +73,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
   - vertical
   - abstract
   - horizontal
+  - primary
 brand_colors:
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - black
 typographies: []
 imagery_styles:
-  - lifestyle
-  - gradient
-  - photography
   - abstract
+  - lifestyle
   - bold
+  - photography
+  - gradient
 wikidata_description: virtual reality technology subsidiary of Meta Platforms (formerly Oculus VR)
 wikidata_url: "https://www.wikidata.org/wiki/Q16321326"
 has_twitter: false
@@ -100,10 +102,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/](http://www.google.com/)
-- [https://www.meta.com/help/quest/](https://www.meta.com/help/quest/)
-- [https://www.meta.com/quest/](https://www.meta.com/quest/)
-- [https://www.oculus.com/](https://www.oculus.com/)
+- [https://www.oculus.com](https://www.oculus.com)
+- [https://www.meta.com/quest](https://www.meta.com/quest)
+- [https://www.meta.com/help/quest](https://www.meta.com/help/quest)
+- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 
@@ -179,8 +181,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Gear Vr](/products_or_materials_produced/gear-vr/); [Oculus Rift](/products_or_materials_produced/oculus-rift/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/) |
-| Headquarters Location | [Irvine](/headquarters_locations/irvine/); [California](/headquarters_locations/california/); [Menlo Park](/headquarters_locations/menlo-park/) |
+| Product Or Material Produced | [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Oculus Rift](/products_or_materials_produced/oculus-rift/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Gear Vr](/products_or_materials_produced/gear-vr/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/) |
+| Headquarters Location | [California](/headquarters_locations/california/); [Menlo Park](/headquarters_locations/menlo-park/); [Irvine](/headquarters_locations/irvine/) |
 | Foundation Date | [2020](/foundation_dates/2020/) |
 | Headquarters Location | Irvine, Menlo Park, California |
 | Country | United States |

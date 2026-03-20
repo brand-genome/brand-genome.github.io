@@ -2,11 +2,11 @@
 title: Service National Universel
 slug: "service-national-universel"
 description: ""
-date: "2026-03-13T09:22:54.735933"
+date: "2026-03-20T08:22:05.533366"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -30,8 +30,10 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 2019
   - 2018
+  - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,22 +55,22 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - gray
-  - orange
-  - black
-  - magenta
   - red
-  - blue
   - white
   - "pantone-288"
+  - blue
+  - gray
+  - magenta
+  - orange
+  - black
 typographies:
   - arial
   - inter
   - roboto
 imagery_styles:
-  - monochrome
   - modern
   - graphic
+  - monochrome
 wikidata_description: French civil conscription service
 wikidata_url: "https://www.wikidata.org/wiki/Q65160874"
 has_twitter: false
@@ -80,10 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.defense.gouv.fr/](https://www.defense.gouv.fr/)
-- [https://www.education.gouv.fr/](https://www.education.gouv.fr/)
-- [https://www.jeunes.gouv.fr/](https://www.jeunes.gouv.fr/)
-- [https://www.snu.gouv.fr/](https://www.snu.gouv.fr/)
+- [https://www.snu.gouv.fr](https://www.snu.gouv.fr)
+- [https://www.jeunes.gouv.fr](https://www.jeunes.gouv.fr)
+- [https://www.education.gouv.fr](https://www.education.gouv.fr)
+- [https://www.defense.gouv.fr](https://www.defense.gouv.fr)
 
 ## Brand Guidelines
 
@@ -128,7 +130,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [2019](/foundation_dates/2019/); [2018](/foundation_dates/2018/) |
+| Foundation Date | [2018](/foundation_dates/2018/); [2019](/foundation_dates/2019/) |
 | Google Knowledge Graph Id | /g/11flxwg5zx |
 | Inception | 2019, 2018 |
 | Country | France |

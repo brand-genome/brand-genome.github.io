@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-03-13T09:22:52.824160"
+date: "2026-03-20T08:22:03.835525"
 draft: false
 sectors:
   - automobile
@@ -26,15 +26,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "automotive-part"
-  - car
   - truck
+  - car
+  - "automotive-part"
 products: []
 headquarters_locations:
   - "chrysler-headquarters-and-technology-center"
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.chrysler.com](https://www.chrysler.com)
+- [https://www.chrysler.com.mx](https://www.chrysler.com.mx)
 - [http://www.chrysler.com](http://www.chrysler.com)
-- [https://www.chrysler.com.mx/](https://www.chrysler.com.mx/)
-- [https://www.chrysler.com/](https://www.chrysler.com/)
+- [https://media.fcanorthamerica.com](https://media.fcanorthamerica.com)
+- [http://www.fcausllc.com](http://www.fcausllc.com)
+- [http://www.chryslergroupllc.com](http://www.chryslergroupllc.com)
+- [http://www.chryslerllc.com](http://www.chryslerllc.com)
+- [http://www.daimlerchrysler.com](http://www.daimlerchrysler.com)
+- [https://media.stellantisnorthamerica.com](https://media.stellantisnorthamerica.com)
 
 ## Brand Guidelines
 
@@ -85,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Automotive Part](/products_or_materials_produced/automotive-part/); [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
 | Headquarters Location | [Chrysler Headquarters And Technology Center](/headquarters_locations/chrysler-headquarters-and-technology-center/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Founded By | Walter Percy Chrysler Sr. |

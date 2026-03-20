@@ -2,7 +2,7 @@
 title: Tourism Australia
 slug: "tourism-australia"
 description: ""
-date: "2026-03-13T09:22:55.095453"
+date: "2026-03-20T08:22:05.801260"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: Australian Government tourism agency
 wikidata_url: "https://www.wikidata.org/wiki/Q7829083"
 has_twitter: false
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://businessevents.australia.com/en](https://businessevents.australia.com/en)
-- [https://www.australia.com/](https://www.australia.com/)
 - [https://www.tourism.australia.com/en](https://www.tourism.australia.com/en)
+- [https://www.australia.com](https://www.australia.com)
+- [https://businessevents.australia.com/en](https://businessevents.australia.com/en)
 
 ## Brand Guidelines
 

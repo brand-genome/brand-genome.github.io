@@ -2,7 +2,7 @@
 title: Channel 4 Television
 slug: "channel-4-television"
 description: ""
-date: "2026-03-13T09:22:53.015640"
+date: "2026-03-20T08:22:04.006295"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.channel4.com/](https://www.channel4.com/)
-- [https://www.channel4.com/info/commissioning/](https://www.channel4.com/info/commissioning/)
+- [https://www.channel4.com](https://www.channel4.com)
+- [https://www.channel4.com/info/commissioning](https://www.channel4.com/info/commissioning)
+- [http://www.channel4.com](http://www.channel4.com)
 
 ## Brand Guidelines
 

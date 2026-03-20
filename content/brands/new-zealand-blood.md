@@ -2,7 +2,7 @@
 title: New Zealand Blood
 slug: "new-zealand-blood"
 description: ""
-date: "2026-03-13T09:22:55.091717"
+date: "2026-03-20T08:22:05.796913"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
+  - "pantone-485"
   - "pantone-3435"
+  - green
+  - white
   - grey
   - black
-  - red
-  - green
-  - "pantone-485"
-  - white
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
 wikidata_description: New Zealand government agency
@@ -72,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nzblood.co.nz/](https://www.nzblood.co.nz/)
+- [https://www.nzblood.co.nz](https://www.nzblood.co.nz)
+- [http://www.nzblood.co.nz](http://www.nzblood.co.nz)
 
 ## Brand Guidelines
 

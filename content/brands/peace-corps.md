@@ -2,7 +2,7 @@
 title: Peace Corps
 slug: "peace-corps"
 description: ""
-date: "2026-03-13T09:22:53.399144"
+date: "2026-03-20T08:22:04.303172"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.peacecorps.gov/](https://www.peacecorps.gov/)
+- [https://www.peacecorps.gov](https://www.peacecorps.gov)
 
 ## Brand Guidelines
 

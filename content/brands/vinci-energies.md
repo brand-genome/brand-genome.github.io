@@ -2,14 +2,14 @@
 title: Vinci Energies
 slug: "vinci-energies"
 description: ""
-date: "2026-03-13T09:22:55.046383"
+date: "2026-03-20T08:22:05.747955"
 draft: false
 sectors:
+  - utilities
+  - "renewable-energy"
+  - networking
   - consulting
   - construction
-  - utilities
-  - networking
-  - "renewable-energy"
 regions:
   - france
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +55,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - white
   - blue
 typographies:
-  - serif
   - arial
+  - serif
 imagery_styles: []
 wikidata_description: "company in Brno, Czech Republic"
 wikidata_url: "https://www.wikidata.org/wiki/Q30258774"
@@ -75,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vinci-energies.com/](https://www.vinci-energies.com/)
-- [https://www.vinci-energies.com/en/homepage/](https://www.vinci-energies.com/en/homepage/)
+- [https://www.vinci-energies.com](https://www.vinci-energies.com)
+- [https://www.vinci-energies.com/en/homepage](https://www.vinci-energies.com/en/homepage)
 
 ## Brand Guidelines
 

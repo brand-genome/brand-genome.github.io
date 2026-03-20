@@ -2,7 +2,7 @@
 title: "Région Rhône-Alpes"
 slug: "region-rhone-alpes"
 description: ""
-date: "2026-03-13T09:22:54.226842"
+date: "2026-03-20T08:22:05.064540"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +51,13 @@ logo_elements:
   - secondary
 brand_colors: []
 typographies:
+  - univers
   - display
   - frutiger
   - garamond
-  - univers
 imagery_styles:
-  - natural
   - bold
+  - natural
   - graphic
 wikidata_description: ""
 wikidata_url: ""
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.auvergnerhonealpes.fr/](https://www.auvergnerhonealpes.fr/)
+- [https://www.auvergnerhonealpes.fr](https://www.auvergnerhonealpes.fr)
 
 ## Brand Guidelines
 

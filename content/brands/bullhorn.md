@@ -2,7 +2,7 @@
 title: Bullhorn
 slug: bullhorn
 description: ""
-date: "2026-03-13T09:22:54.737705"
+date: "2026-03-20T08:22:05.534743"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +59,8 @@ brand_colors:
 typographies:
   - gotham
 imagery_styles:
-  - vibrant
   - graphic
+  - vibrant
 wikidata_description: American cloud computing company
 wikidata_url: "https://www.wikidata.org/wiki/Q22073784"
 has_twitter: false
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bullhorn.com/](https://www.bullhorn.com/)
+- [https://www.bullhorn.com](https://www.bullhorn.com)
+- [http://www.bullhorn.com](http://www.bullhorn.com)
 
 ## Brand Guidelines
 

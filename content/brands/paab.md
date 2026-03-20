@@ -2,11 +2,11 @@
 title: Paab
 slug: paab
 description: ""
-date: "2026-03-13T09:22:53.436601"
+date: "2026-03-20T08:22:04.340390"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - ngo
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +52,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-325"
-  - "pantone-1815"
-  - navy
-  - "pantone-185"
-  - "pantone-7621"
-  - black
-  - "pantone-380"
-  - "pantone-7683"
-  - blue
-  - "pantone-2755"
   - green
+  - navy
+  - "pantone-2755"
+  - "pantone-1815"
+  - "pantone-185"
   - white
+  - "pantone-325"
+  - blue
+  - "pantone-7683"
+  - "pantone-7621"
+  - "pantone-380"
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -77,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://code.paab.ca/](https://code.paab.ca/)
-- [https://www.paab.ca/](https://www.paab.ca/)
+- [https://www.paab.ca](https://www.paab.ca)
+- [https://code.paab.ca](https://code.paab.ca)
 
 ## Brand Guidelines
 

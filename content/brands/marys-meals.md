@@ -2,7 +2,7 @@
 title: Mary’s Meals
 slug: "marys-meals"
 description: ""
-date: "2026-03-13T09:22:54.731103"
+date: "2026-03-20T08:22:05.528256"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
+  - white
   - grey
+  - blue
   - yellow
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.marysmeals.org.uk/](https://www.marysmeals.org.uk/)
-- [https://www.marysmealsusa.org/](https://www.marysmealsusa.org/)
+- [https://www.marysmeals.org.uk](https://www.marysmeals.org.uk)
+- [https://www.marysmealsusa.org](https://www.marysmealsusa.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: L’Oréal
 slug: loreal
 description: ""
-date: "2026-03-13T09:22:53.695417"
+date: "2026-03-20T08:22:04.551119"
 draft: false
 sectors:
-  - cosmetics
   - beauty
+  - cosmetics
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +49,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - gold
-  - "pantone-423"
   - gray
+  - gold
+  - black
+  - "pantone-423"
 typographies:
   - bodoni
 imagery_styles:

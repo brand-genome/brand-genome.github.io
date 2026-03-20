@@ -2,11 +2,11 @@
 title: HackerOne
 slug: hackerone
 description: ""
-date: "2026-03-13T09:22:54.228031"
+date: "2026-03-20T08:22:05.065448"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - software
+  - community
 industries:
   - "computer-security"
 countries:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
   - white
   - pink
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.hackerone.com/](https://docs.hackerone.com/)
-- [https://www.hackerone.com/](https://www.hackerone.com/)
+- [https://www.hackerone.com](https://www.hackerone.com)
+- [https://docs.hackerone.com](https://docs.hackerone.com)
+- [https://hackerone.com](https://hackerone.com)
 
 ## Brand Guidelines
 

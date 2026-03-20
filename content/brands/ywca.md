@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-03-13T09:22:53.248999"
+date: "2026-03-20T08:22:04.174092"
 draft: false
 sectors:
   - ngo
@@ -17,8 +17,8 @@ tags:
 industries:
   - "religious-congregations-and-associations"
 countries:
-  - switzerland
   - canada
+  - switzerland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1855
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,26 +53,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
   - stacked
-  - lockup
   - secondary
   - horizontal
+  - alternate
+  - lockup
+  - primary
 brand_colors:
-  - black
   - gray
-  - "pantone-172"
   - white
+  - "pantone-172"
+  - black
 typographies:
-  - display
-  - arial
   - "source-sans"
+  - arial
+  - display
   - avenir
 imagery_styles:
   - photography
-  - candid
   - bold
+  - candid
 wikidata_description: "social organization that promotes womens' emancipation, leadership and rights"
 wikidata_url: "https://www.wikidata.org/wiki/Q643370"
 has_twitter: false
@@ -82,10 +84,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.worldywca.org](https://www.worldywca.org)
+- [https://www.ywca.org](https://www.ywca.org)
 - [http://www.google.com](http://www.google.com)
 - [http://www.ywca.org](http://www.ywca.org)
-- [https://www.worldywca.org/](https://www.worldywca.org/)
-- [https://www.ywca.org/](https://www.ywca.org/)
+- [http://www.worldywca.org](http://www.worldywca.org)
 
 ## Brand Guidelines
 

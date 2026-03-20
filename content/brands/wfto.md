@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-03-13T09:22:53.494293"
+date: "2026-03-20T08:22:04.390697"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - trademark
   - ngo
+  - trademark
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wfto.com/](https://wfto.com/)
-- [https://wfto.com/our-fair-trade-system/our-guarantee-system/](https://wfto.com/our-fair-trade-system/our-guarantee-system/)
+- [https://wfto.com](https://wfto.com)
+- [https://wfto.com/our-fair-trade-system/our-guarantee-system](https://wfto.com/our-fair-trade-system/our-guarantee-system)
+- [http://www.wfto.com](http://www.wfto.com)
+- [https://www.wfto.com](https://www.wfto.com)
 
 ## Brand Guidelines
 

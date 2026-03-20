@@ -2,11 +2,11 @@
 title: Growens
 slug: growens
 description: ""
-date: "2026-03-13T09:22:53.433315"
+date: "2026-03-20T08:22:04.337258"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - industry
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,23 +51,23 @@ body_sections: []
 logo_elements:
   - logomark
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - white
 typographies:
   - lato
   - montserrat
   - roboto
 imagery_styles:
-  - portrait
-  - modern
   - bold
+  - modern
   - graphic
+  - portrait
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://agiletelecom.com/](https://agiletelecom.com/)
-- [https://beefree.io/](https://beefree.io/)
-- [https://www.growens.io/en/](https://www.growens.io/en/)
-- [https://www.growens.io/it/](https://www.growens.io/it/)
+- [https://www.growens.io/en](https://www.growens.io/en)
+- [https://www.growens.io/it](https://www.growens.io/it)
+- [https://beefree.io](https://beefree.io)
+- [https://agiletelecom.com](https://agiletelecom.com)
 
 ## Brand Guidelines
 

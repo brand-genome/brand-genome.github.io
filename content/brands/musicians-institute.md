@@ -2,7 +2,7 @@
 title: Musicians Institute
 slug: "musicians-institute"
 description: ""
-date: "2026-03-13T09:22:54.797211"
+date: "2026-03-20T08:22:05.570209"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +51,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lockup
-  - secondary
   - stacked
+  - lockup
   - wordmark
+  - secondary
 brand_colors:
-  - black
-  - magenta
   - red
   - green
   - white
+  - black
+  - magenta
 typographies: []
 imagery_styles: []
 wikidata_description: "college of contemporary music located in Los Angeles, California"
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mi.edu/](https://www.mi.edu/)
+- [https://www.mi.edu](https://www.mi.edu)
+- [http://www.mi.edu](http://www.mi.edu)
 
 ## Brand Guidelines
 

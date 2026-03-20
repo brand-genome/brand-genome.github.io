@@ -2,7 +2,7 @@
 title: Apollo Tyres
 slug: "apollo-tyres"
 description: ""
-date: "2026-03-13T09:22:51.897213"
+date: "2026-03-20T08:22:03.063629"
 draft: false
 sectors:
   - tires
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://apollotyres.com](https://apollotyres.com)
 - [http://www.apollotyres.com](http://www.apollotyres.com)
-- [https://apollotyres.com/](https://apollotyres.com/)
+- [https://www.apollotyres.com](https://www.apollotyres.com)
 
 ## Brand Guidelines
 

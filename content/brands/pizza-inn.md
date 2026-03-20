@@ -2,7 +2,7 @@
 title: Pizza Inn
 slug: "pizza-inn"
 description: ""
-date: "2026-03-13T09:22:52.240373"
+date: "2026-03-20T08:22:03.304402"
 draft: false
 sectors:
   - restaurant
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries:
   - restaurant
 countries: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1958
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pizzainn.com/](https://www.pizzainn.com/)
+- [https://www.pizzainn.com](https://www.pizzainn.com)
+- [http://www.pizzainn.com](http://www.pizzainn.com)
 
 ## Brand Guidelines
 

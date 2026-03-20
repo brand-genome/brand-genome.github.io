@@ -2,7 +2,7 @@
 title: Van Leeuwen
 slug: "van-leeuwen"
 description: ""
-date: "2026-03-13T09:22:53.661914"
+date: "2026-03-20T08:22:04.519762"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors: []
 typographies:
   - montserrat
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: Dutch steel company
 wikidata_url: "https://www.wikidata.org/wiki/Q2764768"
 has_twitter: false
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vanleeuwen-report.com/](https://www.vanleeuwen-report.com/)
-- [https://www.vanleeuwen.com/](https://www.vanleeuwen.com/)
+- [https://www.vanleeuwen.com](https://www.vanleeuwen.com)
 - [https://www.vanleeuwen.com/about-us/our-company](https://www.vanleeuwen.com/about-us/our-company)
+- [https://www.vanleeuwen-report.com](https://www.vanleeuwen-report.com)
+- [http://www.vanleeuwen.com](http://www.vanleeuwen.com)
 
 ## Brand Guidelines
 

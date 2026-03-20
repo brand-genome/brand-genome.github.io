@@ -2,7 +2,7 @@
 title: University Of Nebraska System
 slug: "university-of-nebraska-system"
 description: ""
-date: "2026-03-13T09:22:51.895617"
+date: "2026-03-20T08:22:03.062480"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1850
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Nebraska.edu](http://www.Nebraska.edu)
-- [https://www.nebraska.edu/](https://www.nebraska.edu/)
+- [https://www.nebraska.edu](https://www.nebraska.edu)
+- [http://www.nebraska.edu](http://www.nebraska.edu)
 
 ## Brand Guidelines
 

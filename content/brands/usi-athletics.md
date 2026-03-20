@@ -2,11 +2,11 @@
 title: USI Athletics
 slug: "usi-athletics"
 description: ""
-date: "2026-03-13T09:22:55.095351"
+date: "2026-03-20T08:22:05.801155"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usiscreamingeagles.com/](https://usiscreamingeagles.com/)
-- [https://www.usi.edu/about/athletics/](https://www.usi.edu/about/athletics/)
+- [https://usiscreamingeagles.com](https://usiscreamingeagles.com)
+- [https://www.usi.edu/about/athletics](https://www.usi.edu/about/athletics)
 
 ## Brand Guidelines
 

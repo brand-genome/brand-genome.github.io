@@ -2,7 +2,7 @@
 title: University of British Columbia
 slug: "university-of-british-columbia"
 description: ""
-date: "2026-03-13T09:22:53.714355"
+date: "2026-03-20T08:22:04.663195"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ubc.ca](https://www.ubc.ca)
+- [https://you.ubc.ca](https://you.ubc.ca)
 - [http://www.ubc.ca](http://www.ubc.ca)
-- [https://www.ubc.ca/](https://www.ubc.ca/)
-- [https://you.ubc.ca/](https://you.ubc.ca/)
 
 ## Brand Guidelines
 

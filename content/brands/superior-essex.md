@@ -2,7 +2,7 @@
 title: Superior Essex
 slug: "superior-essex"
 description: ""
-date: "2026-03-13T09:22:53.269250"
+date: "2026-03-20T08:22:04.196182"
 draft: false
 sectors:
   - electronics
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
   - secondary
 brand_colors:
-  - black
-  - gray
   - red
+  - gray
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -72,10 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://essexsolutions.com/](https://essexsolutions.com/)
-- [https://superioressex.com/](https://superioressex.com/)
-- [https://superioressexcommunications.com/](https://superioressexcommunications.com/)
-- [https://www.spsx.com/](https://www.spsx.com/)
+- [https://superioressex.com](https://superioressex.com)
+- [https://www.spsx.com](https://www.spsx.com)
+- [https://essexsolutions.com](https://essexsolutions.com)
+- [https://superioressexcommunications.com](https://superioressexcommunications.com)
+- [http://www.spsx.com](http://www.spsx.com)
 
 ## Brand Guidelines
 

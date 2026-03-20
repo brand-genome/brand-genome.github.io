@@ -2,13 +2,13 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-03-13T09:22:54.216541"
+date: "2026-03-20T08:22:05.043729"
 draft: false
 sectors:
   - automobile
 regions:
-  - japan
   - usa
+  - japan
 years:
   - 2008
   - 2016
@@ -36,8 +36,8 @@ market_cap_buckets: []
 products_or_materials_produced:
   - "musical-instrument"
   - "loudspeaker-enclosure"
-  - software
   - "sports-equipment"
+  - software
 products: []
 headquarters_locations:
   - japan
@@ -45,6 +45,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,24 +66,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - vertical
   - wordmark
   - stacked
-  - vertical
 brand_colors:
   - silver
-  - gray
-  - yellow
-  - black
-  - magenta
   - red
   - white
+  - gray
+  - yellow
+  - magenta
+  - black
 typographies:
   - ubuntu
   - verdana
 imagery_styles:
+  - bold
   - dynamic
   - product
-  - bold
 wikidata_description: Japanese music and audio equipment maker
 wikidata_url: "https://www.wikidata.org/wiki/Q188454"
 has_twitter: false
@@ -93,9 +95,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://global.yamaha-motor.com](https://global.yamaha-motor.com)
 - [http://www.motor.nl](http://www.motor.nl)
 - [http://www.yamaha-motor.eu](http://www.yamaha-motor.eu)
-- [https://global.yamaha-motor.com/](https://global.yamaha-motor.com/)
+- [https://www.yamaha.com](https://www.yamaha.com)
+- [https://retailing.jp.yamaha.com](https://retailing.jp.yamaha.com)
+- [http://yamaha.co.jp](http://yamaha.co.jp)
+- [https://jp.yamaha.com](https://jp.yamaha.com)
 
 ## Brand Guidelines
 
@@ -179,7 +185,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Musical Instrument](/products_or_materials_produced/musical-instrument/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/); [Software](/products_or_materials_produced/software/); [Sports Equipment](/products_or_materials_produced/sports-equipment/) |
+| Product Or Material Produced | [Musical Instrument](/products_or_materials_produced/musical-instrument/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Japan](/headquarters_locations/japan/); [Naka Ku](/headquarters_locations/naka-ku/) |
 | Foundation Date | [1987](/foundation_dates/1987/) |
 | Country | Japan |

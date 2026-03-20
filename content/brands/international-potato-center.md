@@ -2,11 +2,11 @@
 title: International Potato Center
 slug: "international-potato-center"
 description: ""
-date: "2026-03-13T09:22:54.799320"
+date: "2026-03-20T08:22:05.573003"
 draft: false
 sectors:
-  - research
   - horticulture
+  - research
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1971
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://cipotato.org](https://cipotato.org)
+- [https://cipotato.org/cip-branding](https://cipotato.org/cip-branding)
 - [http://www.cgiar.org](http://www.cgiar.org)
-- [https://cipotato.org/](https://cipotato.org/)
-- [https://cipotato.org/cip-branding/](https://cipotato.org/cip-branding/)
+- [http://cipotato.org](http://cipotato.org)
 
 ## Brand Guidelines
 

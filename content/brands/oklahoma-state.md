@@ -2,7 +2,7 @@
 title: Oklahoma State
 slug: "oklahoma-state"
 description: ""
-date: "2026-03-13T09:22:53.023289"
+date: "2026-03-20T08:22:04.015747"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1890
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,12 +65,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/](http://www.google.com/)
-- [https://fonts.google.com/](https://fonts.google.com/)
-- [https://oklahoma.gov/](https://oklahoma.gov/)
+- [https://oklahoma.gov](https://oklahoma.gov)
 - [https://oklahoma.gov/brandstandards](https://oklahoma.gov/brandstandards)
 - [https://oklahoma.gov/omes/about-omes/branding-guidelines.html](https://oklahoma.gov/omes/about-omes/branding-guidelines.html)
-- [https://www.ok.gov/](https://www.ok.gov/)
+- [https://www.ok.gov](https://www.ok.gov)
+- [http://www.google.com](http://www.google.com)
+- [https://fonts.google.com](https://fonts.google.com)
+- [https://go.okstate.edu](https://go.okstate.edu)
 
 ## Brand Guidelines
 

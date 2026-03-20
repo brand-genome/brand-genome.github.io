@@ -2,7 +2,7 @@
 title: King Saud University
 slug: "king-saud-university"
 description: ""
-date: "2026-03-13T09:22:53.513209"
+date: "2026-03-20T08:22:04.406142"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "saudi-arabia"
 years:
-  - 2015
   - 2014
+  - 2015
 languages:
   - english
   - arabic
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +60,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: University in Saudi Arabia
 wikidata_url: "https://www.wikidata.org/wiki/Q1752043"
 has_twitter: false
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ksu.edu.sa/ar](https://ksu.edu.sa/ar)
 - [https://ksu.edu.sa/en](https://ksu.edu.sa/en)
+- [https://ksu.edu.sa/ar](https://ksu.edu.sa/ar)
 - [https://sares.ksu.edu.sa/en](https://sares.ksu.edu.sa/en)
+- [https://ksu.edu.sa](https://ksu.edu.sa)
 
 ## Brand Guidelines
 

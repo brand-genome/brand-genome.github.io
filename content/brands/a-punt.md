@@ -2,7 +2,7 @@
 title: À Punt
 slug: "a-punt"
 description: ""
-date: "2026-03-13T09:22:52.303483"
+date: "2026-03-20T08:22:03.371832"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - catalan
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.apuntmedia.es/](https://www.apuntmedia.es/)
+- [https://www.apuntmedia.es](https://www.apuntmedia.es)
 
 ## Brand Guidelines
 

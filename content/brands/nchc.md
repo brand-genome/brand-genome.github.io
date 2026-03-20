@@ -2,7 +2,7 @@
 title: NCHC
 slug: nchc
 description: ""
-date: "2026-03-13T09:22:54.569877"
+date: "2026-03-20T08:22:05.415714"
 draft: false
 sectors:
   - sports
@@ -29,8 +29,10 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1991
   - 1993
+  - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.NCHCHockey.com](http://www.NCHCHockey.com)
-- [https://nchchockey.com/](https://nchchockey.com/)
-- [https://www.nchc.com/](https://www.nchc.com/)
-- [https://www.nchcfanshop.com/](https://www.nchcfanshop.com/)
+- [https://nchchockey.com](https://nchchockey.com)
+- [https://www.nchc.com](https://www.nchc.com)
+- [https://www.nchcfanshop.com](https://www.nchcfanshop.com)
+- [http://www.nchchockey.com](http://www.nchchockey.com)
+- [https://www.nchc.org.tw](https://www.nchc.org.tw)
 
 ## Brand Guidelines
 
@@ -80,7 +83,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1991](/foundation_dates/1991/); [1993](/foundation_dates/1993/) |
+| Foundation Date | [1993](/foundation_dates/1993/); [1991](/foundation_dates/1991/) |
 | Quora Topic Id | National-Center-for-High-Performance-Computing |
 | Country | Taiwan |
 | Parent Organization Or Unit | National Institutes of Applied Research |

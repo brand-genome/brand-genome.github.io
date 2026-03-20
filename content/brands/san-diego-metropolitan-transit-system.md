@@ -2,7 +2,7 @@
 title: San Diego Metropolitan Transit System
 slug: "san-diego-metropolitan-transit-system"
 description: ""
-date: "2026-03-13T09:22:53.325377"
+date: "2026-03-20T08:22:04.236436"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -31,6 +31,7 @@ headquarters_locations:
   - "san-diego"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sdmts.com/](https://www.sdmts.com/)
+- [https://www.sdmts.com](https://www.sdmts.com)
 - [https://www.sdmts.com/transit-services/trolley](https://www.sdmts.com/transit-services/trolley)
 
 ## Brand Guidelines

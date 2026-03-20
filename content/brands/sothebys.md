@@ -2,7 +2,7 @@
 title: Sotheby’s
 slug: sothebys
 description: ""
-date: "2026-03-13T09:22:53.424561"
+date: "2026-03-20T08:22:04.327402"
 draft: false
 sectors:
   - "real-estate"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://home.sothebysrealty.com/](https://home.sothebysrealty.com/)
-- [https://www.sothebysrealty.com/](https://www.sothebysrealty.com/)
+- [https://www.sothebysrealty.com](https://www.sothebysrealty.com)
+- [https://home.sothebysrealty.com](https://home.sothebysrealty.com)
 
 ## Brand Guidelines
 

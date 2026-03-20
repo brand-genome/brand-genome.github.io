@@ -2,12 +2,12 @@
 title: Universitas Gadjah Mada
 slug: "universitas-gadjah-mada"
 description: ""
-date: "2026-03-13T09:22:52.318058"
+date: "2026-03-20T08:22:03.386162"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - indonesia
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,12 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://brand.ugm.ac.id](http://brand.ugm.ac.id)
-- [https://admissions.ugm.ac.id/](https://admissions.ugm.ac.id/)
-- [https://brand.ugm.ac.id/](https://brand.ugm.ac.id/)
+- [https://ugm.ac.id](https://ugm.ac.id)
+- [https://ugm.ac.id/en](https://ugm.ac.id/en)
+- [https://brand.ugm.ac.id](https://brand.ugm.ac.id)
 - [https://brand.ugm.ac.id/logo](https://brand.ugm.ac.id/logo)
-- [https://ugm.ac.id/](https://ugm.ac.id/)
-- [https://ugm.ac.id/en/](https://ugm.ac.id/en/)
+- [https://admissions.ugm.ac.id](https://admissions.ugm.ac.id)
+- [http://brand.ugm.ac.id](http://brand.ugm.ac.id)
+- [https://www.ugm.ac.id](https://www.ugm.ac.id)
 
 ## Brand Guidelines
 

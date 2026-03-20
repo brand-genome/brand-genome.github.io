@@ -2,7 +2,7 @@
 title: Logan
 slug: logan
 description: ""
-date: "2026-03-13T09:22:54.980327"
+date: "2026-03-20T08:22:05.711669"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.logancenter.uchicago.edu](https://www.logancenter.uchicago.edu)
 - [http://www.uchicago.edu](http://www.uchicago.edu)
-- [https://www.logancenter.uchicago.edu/](https://www.logancenter.uchicago.edu/)
+- [http://www.massport.com/logan-airport](http://www.massport.com/logan-airport)
+- [https://www.massport.com/logan-airport](https://www.massport.com/logan-airport)
 
 ## Brand Guidelines
 

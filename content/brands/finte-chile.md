@@ -2,11 +2,11 @@
 title: Finte Chile
 slug: "finte-chile"
 description: ""
-date: "2026-03-13T09:22:54.799207"
+date: "2026-03-20T08:22:05.572721"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - chile
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fintechile.org/](https://www.fintechile.org/)
+- [https://www.fintechile.org](https://www.fintechile.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Hamline
 slug: hamline
 description: ""
-date: "2026-03-13T09:22:55.013448"
+date: "2026-03-20T08:22:05.722513"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries:
   - "higher-education"
 countries:
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1854
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,13 +59,13 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
   - garamond
-  - poppins
   - georgia
+  - poppins
   - roboto
 imagery_styles:
   - bold
@@ -78,11 +80,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hamline.edu](https://www.hamline.edu)
+- [https://www.hamline.edu/homepage](https://www.hamline.edu/homepage)
+- [https://hamline.edu/medialibrary](https://hamline.edu/medialibrary)
 - [http://www.google.com](http://www.google.com)
 - [http://www.hamline.edu/CWP](http://www.hamline.edu/CWP)
-- [https://hamline.edu/medialibrary](https://hamline.edu/medialibrary)
-- [https://www.hamline.edu/](https://www.hamline.edu/)
-- [https://www.hamline.edu/homepage](https://www.hamline.edu/homepage)
+- [http://www.hamline.edu](http://www.hamline.edu)
 
 ## Brand Guidelines
 

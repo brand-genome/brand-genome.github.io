@@ -2,7 +2,7 @@
 title: Deerfield Academy
 slug: "deerfield-academy"
 description: ""
-date: "2026-03-13T09:22:53.340965"
+date: "2026-03-20T08:22:04.250238"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1797
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://deerfield.edu/](https://deerfield.edu/)
-- [https://deerfield.edu/admission/](https://deerfield.edu/admission/)
-- [https://deerfield.edu/summer-programs/](https://deerfield.edu/summer-programs/)
+- [https://deerfield.edu](https://deerfield.edu)
+- [https://deerfield.edu/admission](https://deerfield.edu/admission)
+- [https://deerfield.edu/summer-programs](https://deerfield.edu/summer-programs)
 
 ## Brand Guidelines
 

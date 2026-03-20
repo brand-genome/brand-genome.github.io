@@ -2,7 +2,7 @@
 title: World Customs Organization
 slug: "world-customs-organization"
 description: ""
-date: "2026-03-13T09:22:53.267093"
+date: "2026-03-20T08:22:04.193334"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1953
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +59,8 @@ typographies:
   - arial
   - lato
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: intergovernmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q605326"
 has_twitter: false
@@ -70,13 +72,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wcoomd.org](https://www.wcoomd.org)
+- [https://academy.wcoomd.org](https://academy.wcoomd.org)
+- [https://clikc.wcoomd.org](https://clikc.wcoomd.org)
 - [http://www.google.com](http://www.google.com)
-- [http://www.u4.no/publications/barriers-to-collective-action-against-corruption/](http://www.u4.no/publications/barriers-to-collective-action-against-corruption/)
+- [http://www.u4.no/publications/barriers-to-collective-action-against-corruption](http://www.u4.no/publications/barriers-to-collective-action-against-corruption)
 - [http://www.wcoomd.org](http://www.wcoomd.org)
 - [http://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf](http://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf)
-- [https://academy.wcoomd.org/](https://academy.wcoomd.org/)
-- [https://clikc.wcoomd.org/](https://clikc.wcoomd.org/)
-- [https://www.wcoomd.org/](https://www.wcoomd.org/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-03-13T09:22:55.085043"
+date: "2026-03-20T08:22:05.788968"
 draft: false
 sectors:
   - entertainment
@@ -28,12 +28,14 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - "chaillot-palace"
-  - "city-of-brussels"
-  - london
   - "16th-arrondissement-of-paris"
+  - london
+  - "city-of-brussels"
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,27 +54,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
-  - "pantone-201"
-  - "pantone-195"
-  - "pantone-199"
-  - black
   - red
+  - "pantone-201"
   - white
+  - "pantone-199"
+  - "pantone-195"
   - brown
+  - black
 typographies:
-  - display
   - serif
   - gotham
+  - display
 imagery_styles:
-  - contemporary
-  - photography
-  - gradient
   - bold
   - static
+  - photography
+  - contemporary
+  - gradient
 wikidata_description: intergovernmental military alliance between 32 member states
 wikidata_url: "https://www.wikidata.org/wiki/Q7184"
 has_twitter: false
@@ -84,8 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cinemaunited.org/](https://cinemaunited.org/)
-- [https://www.natoonline.org/](https://www.natoonline.org/)
+- [https://cinemaunited.org](https://cinemaunited.org)
+- [https://www.natoonline.org](https://www.natoonline.org)
+- [https://nato.int](https://nato.int)
 
 ## Brand Guidelines
 
@@ -148,7 +151,7 @@ Ensure optimal font size in relation to chosen imagery for harmony.
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Chaillot Palace](/headquarters_locations/chaillot-palace/); [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/) |
+| Headquarters Location | [Chaillot Palace](/headquarters_locations/chaillot-palace/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/); [London](/headquarters_locations/london/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Motto Text | Animus in consulendo liber |
 | Official Language | English, French |

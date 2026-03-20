@@ -2,7 +2,7 @@
 title: London Bridge Revealed
 slug: "london-bridge-revealed"
 description: ""
-date: "2026-03-13T09:22:53.758984"
+date: "2026-03-20T08:22:04.716774"
 draft: false
 sectors:
   - "public-relations"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +51,18 @@ logo_elements:
   - primary
   - abstract
 brand_colors:
-  - grey
-  - orange
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - orange
 typographies: []
 imagery_styles:
-  - modern
-  - vibrant
-  - photography
   - abstract
   - bold
+  - modern
+  - photography
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.teamlondonbridge.co.uk](https://www.teamlondonbridge.co.uk)
+- [https://www.atlondonbridge.com](https://www.atlondonbridge.com)
 - [http://www.atlondonbridge.com](http://www.atlondonbridge.com)
-- [https://www.atlondonbridge.com/](https://www.atlondonbridge.com/)
-- [https://www.teamlondonbridge.co.uk/](https://www.teamlondonbridge.co.uk/)
 
 ## Brand Guidelines
 

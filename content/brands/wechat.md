@@ -2,7 +2,7 @@
 title: WeChat
 slug: wechat
 description: ""
-date: "2026-03-13T09:22:53.758428"
+date: "2026-03-20T08:22:04.716171"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
   - chinese
 tags:
   - featured
-  - internet
   - app
+  - internet
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://weixin.qq.com/](https://weixin.qq.com/)
-- [https://www.wechat.com/](https://www.wechat.com/)
+- [https://www.wechat.com](https://www.wechat.com)
+- [https://weixin.qq.com](https://weixin.qq.com)
+- [https://weui.io](https://weui.io)
 
 ## Brand Guidelines
 

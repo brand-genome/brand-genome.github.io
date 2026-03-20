@@ -2,7 +2,7 @@
 title: Akera Skin and Hair Clinic
 slug: "akera-skin-and-hair-clinic"
 description: ""
-date: "2026-03-13T09:22:52.886361"
+date: "2026-03-20T08:22:03.877884"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cosmetics
   - featured
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://akerahealth.com](https://akerahealth.com)
 - [http://www.akerahealth.com](http://www.akerahealth.com)
-- [https://akerahealth.com/](https://akerahealth.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Yembo.ai
 slug: yemboai
 description: ""
-date: "2026-03-13T09:22:53.117872"
+date: "2026-03-20T08:22:04.117727"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,41 +50,41 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - black
-  - "pantone-2583"
-  - pink
-  - "pantone-539"
-  - green
-  - white
-  - "pantone-3405"
-  - "pantone-170"
-  - grey
-  - "pantone-291"
-  - "pantone-656"
-  - "pantone-2927"
-  - "pantone-642"
-  - "pantone-184"
-  - "pantone-1225"
-  - "pantone-2176"
   - purple
-  - "pantone-7541"
-  - "pantone-7463"
+  - grey
+  - blue
+  - "pantone-170"
   - yellow
   - orange
-  - blue
+  - "pantone-291"
   - coral
+  - white
+  - gray
+  - "pantone-3405"
+  - "pantone-642"
+  - pink
+  - "pantone-2176"
+  - green
+  - "pantone-7541"
   - "pantone-2013"
+  - "pantone-2583"
+  - black
+  - "pantone-1225"
+  - "pantone-2927"
+  - "pantone-656"
+  - "pantone-7463"
+  - "pantone-539"
+  - "pantone-184"
 typographies:
   - montserrat
 imagery_styles:
+  - product
+  - bold
   - modern
   - natural
   - illustration
-  - realistic
   - photography
-  - product
-  - bold
+  - realistic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -95,8 +96,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://yembo.ai](https://yembo.ai)
 - [http://www.yembo.ai](http://www.yembo.ai)
-- [https://yembo.ai/](https://yembo.ai/)
 
 ## Brand Guidelines
 

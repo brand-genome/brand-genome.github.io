@@ -2,7 +2,7 @@
 title: Guttman College
 slug: "guttman-college"
 description: ""
-date: "2026-03-13T09:22:53.665508"
+date: "2026-03-20T08:22:04.522925"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - mascot
   - secondary
   - horizontal
+  - primary
+  - icon
+  - mascot
 brand_colors:
+  - red
+  - white
+  - blue
   - indigo
-  - gray
   - yellow
+  - gray
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
   - serif
-  - georgia
-  - arial
   - "sans-serif"
+  - arial
+  - georgia
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://guttman.cuny.edu/](https://guttman.cuny.edu/)
+- [https://guttman.cuny.edu](https://guttman.cuny.edu)
 
 ## Brand Guidelines
 

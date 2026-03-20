@@ -2,11 +2,11 @@
 title: Refinitiv
 slug: refinitiv
 description: ""
-date: "2026-03-13T09:22:53.248296"
+date: "2026-03-20T08:22:04.173390"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -32,6 +32,7 @@ headquarters_locations:
   - dublin
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +55,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: Multilateral trading facility
 wikidata_url: "https://www.wikidata.org/wiki/Q93359261"
 has_twitter: false
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lseg.com/en/data-analytics/refinitiv](https://www.lseg.com/en/data-analytics/refinitiv)
 - [https://www.refinitiv.com](https://www.refinitiv.com)
+- [https://www.lseg.com/en/data-analytics/refinitiv](https://www.lseg.com/en/data-analytics/refinitiv)
 
 ## Brand Guidelines
 

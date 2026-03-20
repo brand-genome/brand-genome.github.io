@@ -2,11 +2,11 @@
 title: Alphen Linkt
 slug: "alphen-linkt"
 description: ""
-date: "2026-03-13T09:22:53.493235"
+date: "2026-03-20T08:22:04.389086"
 draft: false
 sectors:
-  - "public-sector"
   - "marketing-advertising"
+  - "public-sector"
   - tourism
 regions:
   - netherlands
@@ -15,8 +15,8 @@ years:
 languages:
   - dutch
 tags:
-  - regional
   - corporate
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://alphen.com/](https://alphen.com/)
-- [https://www.hierisalphen.nl/](https://www.hierisalphen.nl/)
+- [https://www.hierisalphen.nl](https://www.hierisalphen.nl)
+- [https://alphen.com](https://alphen.com)
 
 ## Brand Guidelines
 

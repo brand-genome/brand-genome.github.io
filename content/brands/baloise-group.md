@@ -2,11 +2,11 @@
 title: Baloise Group
 slug: "baloise-group"
 description: ""
-date: "2026-03-13T09:22:53.263864"
+date: "2026-03-20T08:22:04.189877"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - switzerland
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1863
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,13 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.baloise.com](https://www.baloise.com)
+- [https://www.baloise.ch](https://www.baloise.ch)
+- [https://www.baloise.de](https://www.baloise.de)
+- [https://www.baloise.be](https://www.baloise.be)
+- [https://www.baloise.lu](https://www.baloise.lu)
+- [https://www.baloise-life.com](https://www.baloise-life.com)
 - [http://www.baloise.ch](http://www.baloise.ch)
-- [https://www.baloise-life.com/](https://www.baloise-life.com/)
-- [https://www.baloise.be/](https://www.baloise.be/)
-- [https://www.baloise.ch/](https://www.baloise.ch/)
-- [https://www.baloise.com/](https://www.baloise.com/)
-- [https://www.baloise.de/](https://www.baloise.de/)
-- [https://www.baloise.lu/](https://www.baloise.lu/)
 
 ## Brand Guidelines
 

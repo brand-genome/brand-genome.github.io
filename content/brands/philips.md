@@ -2,7 +2,7 @@
 title: Philips
 slug: philips
 description: ""
-date: "2026-03-13T09:22:55.089878"
+date: "2026-03-20T08:22:05.794809"
 draft: false
 sectors:
   - electronics
@@ -16,9 +16,9 @@ languages:
 tags:
   - corporate
 industries:
-  - "electrical-industry"
   - "electronics-industry"
   - "consumer-electronics-industry"
+  - "electrical-industry"
 countries:
   - netherlands
 revenue_buckets:
@@ -39,11 +39,13 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - amsterdam
   - eindhoven
+  - amsterdam
 subsidiaries: []
 foundation_dates:
   - 1891
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,9 +78,87 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ourbrand.philips.com/](https://www.ourbrand.philips.com/)
-- [https://www.philips.com/](https://www.philips.com/)
+- [https://www.philips.com](https://www.philips.com)
 - [https://www.philips.com/a-w/about/our-brand](https://www.philips.com/a-w/about/our-brand)
+- [https://www.ourbrand.philips.com](https://www.ourbrand.philips.com)
+- [https://philips.com](https://philips.com)
+- [https://usa.philips.com](https://usa.philips.com)
+- [https://philips.ca](https://philips.ca)
+- [https://philips.co.uk](https://philips.co.uk)
+- [https://philips.de](https://philips.de)
+- [https://philips.fr](https://philips.fr)
+- [https://philips.ie](https://philips.ie)
+- [https://philips.nl](https://philips.nl)
+- [https://philips.be](https://philips.be)
+- [https://philips.pl](https://philips.pl)
+- [https://philips.ch](https://philips.ch)
+- [https://philips.cz](https://philips.cz)
+- [https://philips.sk](https://philips.sk)
+- [https://philips.at](https://philips.at)
+- [https://philips.si](https://philips.si)
+- [https://philips.ee](https://philips.ee)
+- [https://philips.lv](https://philips.lv)
+- [https://philips.lt](https://philips.lt)
+- [https://philips.hr](https://philips.hr)
+- [https://philips.hu](https://philips.hu)
+- [https://philips.rs](https://philips.rs)
+- [https://philips.it](https://philips.it)
+- [https://philips.es](https://philips.es)
+- [https://philips.pt](https://philips.pt)
+- [https://philips.gr](https://philips.gr)
+- [https://philips.ro](https://philips.ro)
+- [https://philips.bg](https://philips.bg)
+- [https://philips.fi](https://philips.fi)
+- [https://philips.no](https://philips.no)
+- [https://philips.se](https://philips.se)
+- [https://philips.dk](https://philips.dk)
+- [https://philips.com.tr](https://philips.com.tr)
+- [https://philips.ru](https://philips.ru)
+- [https://philips.by](https://philips.by)
+- [https://philips.ua](https://philips.ua)
+- [https://philips.uz](https://philips.uz)
+- [https://philips.kz](https://philips.kz)
+- [https://philips.com.bh](https://philips.com.bh)
+- [https://philips.com.eg](https://philips.com.eg)
+- [https://philips.com.gh](https://philips.com.gh)
+- [https://philips.iq](https://philips.iq)
+- [https://philips.jo](https://philips.jo)
+- [https://philips.co.ke](https://philips.co.ke)
+- [https://philips.com.kw](https://philips.com.kw)
+- [https://philips.com.lb](https://philips.com.lb)
+- [https://philips.ma](https://philips.ma)
+- [https://philips.ng](https://philips.ng)
+- [https://philips.com.om](https://philips.com.om)
+- [https://philips.com.qa](https://philips.com.qa)
+- [https://philips.sa](https://philips.sa)
+- [https://philips.ae](https://philips.ae)
+- [https://philips.co.za](https://philips.co.za)
+- [https://philips.co.il](https://philips.co.il)
+- [https://philips.az](https://philips.az)
+- [https://philips.com.ge](https://philips.com.ge)
+- [https://philips.am](https://philips.am)
+- [https://philips.com.pk](https://philips.com.pk)
+- [https://philips.com.cn](https://philips.com.cn)
+- [https://philips.com.hk](https://philips.com.hk)
+- [https://philips.co.in](https://philips.co.in)
+- [https://philips.com.my](https://philips.com.my)
+- [https://philips.com.sg](https://philips.com.sg)
+- [https://philips.com.ph](https://philips.com.ph)
+- [https://philips.co.th](https://philips.co.th)
+- [https://philips.com.vn](https://philips.com.vn)
+- [https://philips.co.kr](https://philips.co.kr)
+- [https://philips.co.jp](https://philips.co.jp)
+- [https://philips.com.mx](https://philips.com.mx)
+- [https://philips.com.br](https://philips.com.br)
+- [https://philips.com.co](https://philips.com.co)
+- [https://philips.com.pe](https://philips.com.pe)
+- [https://philips.cl](https://philips.cl)
+- [https://philips.com.ar](https://philips.com.ar)
+- [https://philips.com.uy](https://philips.com.uy)
+- [https://centralamerica.philips.com](https://centralamerica.philips.com)
+- [https://philips.co.id](https://philips.co.id)
+- [https://philips.com.au](https://philips.com.au)
+- [https://philips.co.nz](https://philips.co.nz)
 
 ## Brand Guidelines
 
@@ -95,7 +175,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/); [Eindhoven](/headquarters_locations/eindhoven/) |
+| Headquarters Location | [Eindhoven](/headquarters_locations/eindhoven/); [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [1891](/foundation_dates/1891/) |
 | Stock Exchange | Amsterdam Stock Exchange, New York Stock Exchange (from 1990-01-02) |
 | Headquarters Location | Amsterdam (from 2001), Eindhoven (until 2001) |

@@ -2,11 +2,11 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-03-13T09:22:55.020821"
+date: "2026-03-20T08:22:05.724585"
 draft: false
 sectors:
-  - biotech
   - research
+  - biotech
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - featured
   - biology
+  - featured
   - science
 industries: []
 countries:
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,12 +56,12 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - display
   - "open-sans"
   - arial
+  - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: research institute at University of Edinburgh
 wikidata_url: "https://www.wikidata.org/wiki/Q132530755"
 has_twitter: false
@@ -72,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://application.igmm.cnrs.fr/](https://application.igmm.cnrs.fr/)
-- [https://www.igmm.cnrs.fr/](https://www.igmm.cnrs.fr/)
+- [https://www.igmm.cnrs.fr](https://www.igmm.cnrs.fr)
+- [https://application.igmm.cnrs.fr](https://application.igmm.cnrs.fr)
+- [https://institute-genetics-cancer.ed.ac.uk](https://institute-genetics-cancer.ed.ac.uk)
 
 ## Brand Guidelines
 

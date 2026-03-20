@@ -2,7 +2,7 @@
 title: QSC
 slug: qsc
 description: ""
-date: "2026-03-13T09:22:53.309380"
+date: "2026-03-20T08:22:04.226006"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - music
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
   - blue
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
+  - bold
   - product
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q133942789"
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.qsc.com](https://www.qsc.com)
+- [https://www.qsys.com](https://www.qsys.com)
 - [http://www.qsc.com](http://www.qsc.com)
-- [https://www.qsc.com/](https://www.qsc.com/)
-- [https://www.qsys.com/](https://www.qsys.com/)
 
 ## Brand Guidelines
 

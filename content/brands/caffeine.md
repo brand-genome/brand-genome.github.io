@@ -2,13 +2,13 @@
 title: Caffeine
 slug: caffeine
 description: ""
-date: "2026-03-13T09:22:53.964887"
+date: "2026-03-20T08:22:04.889530"
 draft: false
 sectors:
-  - gaming
-  - "social-media"
   - broadcasting
   - entertainment
+  - gaming
+  - "social-media"
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
   - black
-  - cyan
   - white
   - blue
+  - cyan
 typographies: []
 imagery_styles:
   - product
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.caffeine.tv/](https://www.caffeine.tv/)
+- [https://www.caffeine.tv](https://www.caffeine.tv)
+- [http://www.caffeineband.com](http://www.caffeineband.com)
 
 ## Brand Guidelines
 

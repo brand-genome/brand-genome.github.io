@@ -2,11 +2,11 @@
 title: Audi Sport
 slug: "audi-sport"
 description: ""
-date: "2026-03-13T09:22:55.036412"
+date: "2026-03-20T08:22:05.738553"
 draft: false
 sectors:
-  - automobile
   - sports
+  - automobile
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - sport
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://audisportexperience.com/](https://audisportexperience.com/)
-- [https://www.audi.com/en/company/strategy/business-areas/audi-sport-gmbh/](https://www.audi.com/en/company/strategy/business-areas/audi-sport-gmbh/)
-- [https://www.audi.com/en/sport/](https://www.audi.com/en/sport/)
+- [https://www.audi.com/en/company/strategy/business-areas/audi-sport-gmbh](https://www.audi.com/en/company/strategy/business-areas/audi-sport-gmbh)
+- [https://www.audi.com/en/sport](https://www.audi.com/en/sport)
+- [https://audisportexperience.com](https://audisportexperience.com)
+- [http://audi-motorsport.com](http://audi-motorsport.com)
+- [https://www.audi.de/de/brand/de/stories/audi-sport.html](https://www.audi.de/de/brand/de/stories/audi-sport.html)
 
 ## Brand Guidelines
 

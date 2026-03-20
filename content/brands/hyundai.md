@@ -2,7 +2,7 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-03-13T09:22:53.717676"
+date: "2026-03-20T08:22:04.681099"
 draft: false
 sectors:
   - automobile
@@ -11,8 +11,8 @@ regions:
   - "south-korea"
 years:
   - 2011
-  - 2002
   - 2016
+  - 2002
 languages:
   - english
 tags:
@@ -21,8 +21,8 @@ tags:
 industries:
   - "automotive-industry"
 countries:
-  - germany
   - "south-korea"
+  - germany
 revenue_buckets:
   - "UNDER-1M"
 operating_income_buckets:
@@ -33,14 +33,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - car
   - truck
+  - car
 products: []
 headquarters_locations:
   - seoul
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,20 +61,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - wordmark
-  - symbol
-  - primary
-  - lockup
   - vertical
-  - badge
+  - logomark
+  - symbol
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - badge
 brand_colors:
   - silver
-  - grey
-  - black
-  - blue
   - gold
+  - grey
+  - blue
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -87,8 +89,167 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.hyundai.com](http://www.hyundai.com)
 - [https://www.hyundai.com/worldwide/en](https://www.hyundai.com/worldwide/en)
+- [http://www.hyundai.com](http://www.hyundai.com)
+- [https://www.hyundai.com](https://www.hyundai.com)
+- [https://www.hyundai.es](https://www.hyundai.es)
+- [https://hyundai-motor.com.br](https://hyundai-motor.com.br)
+- [https://www.hyundai.com.au](https://www.hyundai.com.au)
+- [https://www.hyundai-motor.com.tw](https://www.hyundai-motor.com.tw)
+- [https://www.hyundai.at](https://www.hyundai.at)
+- [https://www.hyundai.com/worldwide/ko](https://www.hyundai.com/worldwide/ko)
+- [https://hyundai.ba](https://hyundai.ba)
+- [https://hyundai.com.tm](https://hyundai.com.tm)
+- [https://hyundai.pe](https://hyundai.pe)
+- [https://hyundai-honduras.com](https://hyundai-honduras.com)
+- [https://hyundai-nicaragua.com](https://hyundai-nicaragua.com)
+- [https://www.beijing-hyundai.com.cn](https://www.beijing-hyundai.com.cn)
+- [https://www.hyundai.az](https://www.hyundai.az)
+- [https://www.hyundai.be](https://www.hyundai.be)
+- [https://www.hyundai.com/be](https://www.hyundai.com/be)
+- [https://www.hyundai.com/be/nl.html](https://www.hyundai.com/be/nl.html)
+- [https://www.hyundai.com/be/fr.html](https://www.hyundai.com/be/fr.html)
+- [https://www.hyundai.ch](https://www.hyundai.ch)
+- [https://www.hyundai.com/ch](https://www.hyundai.com/ch)
+- [https://www.hyundai.com/ch/de.html](https://www.hyundai.com/ch/de.html)
+- [https://www.hyundai.com/ch/fr.html](https://www.hyundai.com/ch/fr.html)
+- [https://www.hyundai.com/ch/it.html](https://www.hyundai.com/ch/it.html)
+- [https://www.hyundai.cl](https://www.hyundai.cl)
+- [https://www.hyundai.co.nz](https://www.hyundai.co.nz)
+- [https://www.hyundai.co.uk](https://www.hyundai.co.uk)
+- [https://www.hyundai.com/uk](https://www.hyundai.com/uk)
+- [https://www.hyundai.com.ar](https://www.hyundai.com.ar)
+- [https://www.hyundai.com.bo](https://www.hyundai.com.bo)
+- [https://www.hyundai.com.ec](https://www.hyundai.com.ec)
+- [https://hyundai.com.mt](https://hyundai.com.mt)
+- [https://www.hyundai.com.my](https://www.hyundai.com.my)
+- [https://www.hyundai.com.py](https://www.hyundai.com.py)
+- [https://hyundai.com.qa](https://hyundai.com.qa)
+- [https://hyundai.com.ua](https://hyundai.com.ua)
+- [https://www.hyundai.com.br](https://www.hyundai.com.br)
+- [https://www.hyundai.com/es](https://www.hyundai.com/es)
+- [https://www.hyundai.com/et](https://www.hyundai.com/et)
+- [https://www.hyundai.com/eu](https://www.hyundai.com/eu)
+- [https://www.hyundai.com/gd](https://www.hyundai.com/gd)
+- [https://www.hyundai.com/kr](https://www.hyundai.com/kr)
+- [https://www.hyundai.com.mx](https://www.hyundai.com.mx)
+- [https://www.hyundai.com/ng](https://www.hyundai.com/ng)
+- [https://www.hyundai.cz](https://www.hyundai.cz)
+- [https://www.hyundai.com/cz](https://www.hyundai.com/cz)
+- [https://www.hyundai.de](https://www.hyundai.de)
+- [https://www.hyundai.com/de](https://www.hyundai.com/de)
+- [https://www.hyundai.dk](https://www.hyundai.dk)
+- [https://www.hyundai.ee](https://www.hyundai.ee)
+- [https://www.hyundai.ee/ru](https://www.hyundai.ee/ru)
+- [https://www.hyundai.fi](https://www.hyundai.fi)
+- [https://www.hyundai.gr](https://www.hyundai.gr)
+- [https://hyundai.hr](https://hyundai.hr)
+- [https://hyundai.hu](https://hyundai.hu)
+- [https://www.hyundai.ie](https://www.hyundai.ie)
+- [https://hyundai.is](https://hyundai.is)
+- [https://www.hyundai.lt](https://www.hyundai.lt)
+- [https://www.hyundai.lu](https://www.hyundai.lu)
+- [https://www.hyundai.com/lu.html](https://www.hyundai.com/lu.html)
+- [https://www.hyundai.lv](https://www.hyundai.lv)
+- [https://www.hyundai.lv/ru](https://www.hyundai.lv/ru)
+- [https://www.hyundai.mu](https://www.hyundai.mu)
+- [https://www.hyundai.nc](https://www.hyundai.nc)
+- [https://www.hyundai.re](https://www.hyundai.re)
+- [https://www.hyundai.sc](https://www.hyundai.sc)
+- [https://www.hyundai.si](https://www.hyundai.si)
+- [https://www.hyundai.sk](https://www.hyundai.sk)
+- [https://www.hyundai.com/sk](https://www.hyundai.com/sk)
+- [https://hyundai.sn](https://hyundai.sn)
+- [https://www.hyundaicanada.com](https://www.hyundaicanada.com)
+- [https://www.hyundaicanada.com/fr](https://www.hyundaicanada.com/fr)
+- [https://www.hyundaicr.com](https://www.hyundaicr.com)
+- [https://www.hyundaielsalvador.com](https://www.hyundaielsalvador.com)
+- [https://hyundaijamaica.com](https://hyundaijamaica.com)
+- [https://www.hyundai-motor.ro](https://www.hyundai-motor.ro)
+- [https://www.hyundaipr.com](https://www.hyundaipr.com)
+- [https://hyundai-uae.com](https://hyundai-uae.com)
+- [https://hyundai-uae.com/en](https://hyundai-uae.com/en)
+- [https://hyundai-uae.com/ar](https://hyundai-uae.com/ar)
+- [https://hyundai.bg](https://hyundai.bg)
+- [https://hyundai.by](https://hyundai.by)
+- [https://hyundai.com.do](https://hyundai.com.do)
+- [https://hyundai.com.gh](https://hyundai.com.gh)
+- [https://hyundai.com.sg](https://hyundai.com.sg)
+- [https://hyundai.ge](https://hyundai.ge)
+- [https://hyundai.iq](https://hyundai.iq)
+- [https://hyundai.ke](https://hyundai.ke)
+- [https://hyundai.kg](https://hyundai.kg)
+- [https://hyundai.ly](https://hyundai.ly)
+- [https://hyundai.ly/ar](https://hyundai.ly/ar)
+- [https://hyundaiarmenia.am](https://hyundaiarmenia.am)
+- [https://hyundai-bd.com](https://hyundai-bd.com)
+- [https://hyundaibrunei.com](https://hyundaibrunei.com)
+- [https://hyundai-cyprus.com](https://hyundai-cyprus.com)
+- [https://hyundai-egypt.net](https://hyundai-egypt.net)
+- [https://hyundai-egypt.net/ar](https://hyundai-egypt.net/ar)
+- [https://hyundaigt.com](https://hyundaigt.com)
+- [https://hyundaijordan.com](https://hyundaijordan.com)
+- [https://hyundaijordan.com/en](https://hyundaijordan.com/en)
+- [https://hyundaijordan.com/ar](https://hyundaijordan.com/ar)
+- [https://hyundai-mk.mk](https://hyundai-mk.mk)
+- [https://hyundai-motor.cz](https://hyundai-motor.cz)
+- [https://hyundai-motor.md](https://hyundai-motor.md)
+- [https://hyundaisrilanka.lk](https://hyundaisrilanka.lk)
+- [https://hyundaitrucks.com.au](https://hyundaitrucks.com.au)
+- [https://hyundaivenezuela.com](https://hyundaivenezuela.com)
+- [https://www.hmm.mn](https://www.hmm.mn)
+- [https://www.hmmausa.com](https://www.hmmausa.com)
+- [https://www.hyundai.co.za](https://www.hyundai.co.za)
+- [https://www.hyundai.com.cn](https://www.hyundai.com.cn)
+- [https://www.hyundai.com.ni](https://www.hyundai.com.ni)
+- [https://hyundai.com.tn](https://hyundai.com.tn)
+- [https://www.hyundai.com.uy](https://www.hyundai.com.uy)
+- [https://www.hyundai.com/africa](https://www.hyundai.com/africa)
+- [https://www.hyundai.com/au](https://www.hyundai.com/au)
+- [https://www.hyundai.com/bh](https://www.hyundai.com/bh)
+- [https://www.hyundai.com/canarias/es](https://www.hyundai.com/canarias/es)
+- [https://www.hyundai.com/csa](https://www.hyundai.com/csa)
+- [https://www.hyundai.com/csa/es](https://www.hyundai.com/csa/es)
+- [https://www.hyundai.com/csa/en](https://www.hyundai.com/csa/en)
+- [https://www.hyundai.com/fr](https://www.hyundai.com/fr)
+- [https://www.hyundai.com/hk/zh](https://www.hyundai.com/hk/zh)
+- [https://www.hyundai.com/id/en](https://www.hyundai.com/id/en)
+- [https://www.hyundai.com/in/en](https://www.hyundai.com/in/en)
+- [https://www.hyundai.com/it.html](https://www.hyundai.com/it.html)
+- [https://www.hyundai.com/jp](https://www.hyundai.com/jp)
+- [https://www.hyundai.com/kw](https://www.hyundai.com/kw)
+- [https://www.hyundai.com/kz](https://www.hyundai.com/kz)
+- [https://www.hyundai.com/la/en](https://www.hyundai.com/la/en)
+- [https://www.hyundai.com/lb](https://www.hyundai.com/lb)
+- [https://www.hyundai.com/ma/fr](https://www.hyundai.com/ma/fr)
+- [https://www.hyundai.com/middle-east](https://www.hyundai.com/middle-east)
+- [https://www.hyundai.com/middle-east/ar](https://www.hyundai.com/middle-east/ar)
+- [https://www.hyundai.com/middle-east/en](https://www.hyundai.com/middle-east/en)
+- [https://www.hyundai.com/nl](https://www.hyundai.com/nl)
+- [https://www.hyundai.com/no](https://www.hyundai.com/no)
+- [https://www.hyundai.com/pacific/en](https://www.hyundai.com/pacific/en)
+- [https://www.hyundai.com/ph](https://www.hyundai.com/ph)
+- [https://www.hyundai.com/pl.html](https://www.hyundai.com/pl.html)
+- [https://www.hyundai.com/se/sv.html](https://www.hyundai.com/se/sv.html)
+- [https://www.hyundai.com/sg](https://www.hyundai.com/sg)
+- [https://www.hyundai.com/th](https://www.hyundai.com/th)
+- [https://www.hyundai.com/tr/tr](https://www.hyundai.com/tr/tr)
+- [https://www.hyundai.com/uz](https://www.hyundai.com/uz)
+- [https://www.hyundai.ga](https://www.hyundai.ga)
+- [https://www.hyundai.pt](https://www.hyundai.pt)
+- [https://www.hyundai.rs](https://www.hyundai.rs)
+- [https://www.hyundai.ru](https://www.hyundai.ru)
+- [https://www.hyundaicamionesybuses.cl](https://www.hyundaicamionesybuses.cl)
+- [https://www.hyundaicolombia.co](https://www.hyundaicolombia.co)
+- [https://www.hyundaioman.com/en](https://www.hyundaioman.com/en)
+- [https://www.hyundaitrucks.ru](https://www.hyundaitrucks.ru)
+- [https://www.hyundaiusa.com](https://www.hyundaiusa.com)
+- [https://www.hyundai.com/la/lo](https://www.hyundai.com/la/lo)
+- [https://www.hyundaioman.com/ar](https://www.hyundaioman.com/ar)
+- [https://www.hyundaioman.com](https://www.hyundaioman.com)
+- [https://hyundai-motor.md/ru](https://hyundai-motor.md/ru)
+- [https://www-trucknbus.hyundai.com](https://www-trucknbus.hyundai.com)
+- [https://www.hyundaiok.com](https://www.hyundaiok.com)
 
 ## Brand Guidelines
 
@@ -158,7 +319,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
 | Foundation Date | [1967](/foundation_dates/1967/) |
 | Member Of | Open Automotive Alliance, Linux Foundation |

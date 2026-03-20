@@ -2,11 +2,11 @@
 title: Bahar Organization
 slug: "bahar-organization"
 description: ""
-date: "2026-03-13T09:22:53.429253"
+date: "2026-03-20T08:22:04.332713"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - turkiye
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bahar.ngo/](https://bahar.ngo/)
+- [https://bahar.ngo](https://bahar.ngo)
 
 ## Brand Guidelines
 

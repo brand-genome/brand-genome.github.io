@@ -2,7 +2,7 @@
 title: BMW Advertising
 slug: "bmw-advertising"
 description: ""
-date: "2026-03-13T09:22:53.664897"
+date: "2026-03-20T08:22:04.522420"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://aws-p.bmwcenternet.com/](https://aws-p.bmwcenternet.com/)
 - [https://www.bmw.com](https://www.bmw.com)
 - [https://www.bmwusa.com](https://www.bmwusa.com)
+- [https://aws-p.bmwcenternet.com](https://aws-p.bmwcenternet.com)
 
 ## Brand Guidelines
 

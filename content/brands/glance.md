@@ -2,11 +2,11 @@
 title: Glance
 slug: glance
 description: ""
-date: "2026-03-13T09:22:53.254405"
+date: "2026-03-20T08:22:04.180119"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
   - "social-media"
 regions:
   - india
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,25 +53,25 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - violet
-  - grey
-  - yellow
-  - orange
-  - black
   - red
   - green
+  - orange
+  - grey
+  - yellow
+  - violet
+  - black
 typographies: []
 imagery_styles:
+  - vibrant
+  - organic
+  - bold
   - modern
   - natural
-  - organic
   - illustration
-  - candid
-  - monochrome
-  - vibrant
   - clean
   - gradient
-  - bold
+  - monochrome
+  - candid
 wikidata_description: free software
 wikidata_url: "https://www.wikidata.org/wiki/Q28974883"
 has_twitter: false
@@ -82,11 +83,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://glance.com/advertising](https://glance.com/advertising)
-- [https://www.glance.app/](https://www.glance.app/)
-- [https://www.glance.com/](https://www.glance.com/)
+- [https://www.glance.com](https://www.glance.com)
 - [https://www.glance.com/company](https://www.glance.com/company)
-- [https://www.glance.world/](https://www.glance.world/)
+- [https://glance.com/advertising](https://glance.com/advertising)
+- [https://www.glance.app](https://www.glance.app)
+- [https://www.glance.world](https://www.glance.world)
+- [http://openstack.org](http://openstack.org)
 
 ## Brand Guidelines
 

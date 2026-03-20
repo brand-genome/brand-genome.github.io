@@ -2,7 +2,7 @@
 title: Disabled American Veterans
 slug: "disabled-american-veterans"
 description: ""
-date: "2026-03-13T09:22:53.025320"
+date: "2026-03-20T08:22:04.018193"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.dav.org/](https://support.dav.org/)
-- [https://www.dav.org/](https://www.dav.org/)
-- [https://www.davpsa.com/](https://www.davpsa.com/)
+- [https://www.dav.org](https://www.dav.org)
+- [https://support.dav.org](https://support.dav.org)
+- [https://www.davpsa.com](https://www.davpsa.com)
 
 ## Brand Guidelines
 

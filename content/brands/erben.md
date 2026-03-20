@@ -2,7 +2,7 @@
 title: Erben
 slug: erben
 description: ""
-date: "2026-03-13T09:22:54.724845"
+date: "2026-03-20T08:22:05.522456"
 draft: false
 sectors:
   - drink
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ brand_colors:
   - gold
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.erben.wine/](https://www.erben.wine/)
-- [https://www.langguth.wine/](https://www.langguth.wine/)
+- [https://www.erben.wine](https://www.erben.wine)
+- [https://www.langguth.wine](https://www.langguth.wine)
 
 ## Brand Guidelines
 

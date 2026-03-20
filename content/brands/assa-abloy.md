@@ -2,7 +2,7 @@
 title: Assa Abloy
 slug: "assa-abloy"
 description: ""
-date: "2026-03-13T09:22:53.939611"
+date: "2026-03-20T08:22:04.866592"
 draft: false
 sectors:
   - hardware
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,19 +58,19 @@ logo_elements:
   - secondary
 brand_colors:
   - silver
+  - beige
+  - green
+  - "pantone-287"
+  - white
+  - blue
   - yellow
   - orange
   - black
-  - beige
-  - "pantone-287"
-  - blue
-  - green
-  - white
 typographies:
   - verdana
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: Swedish company
 wikidata_url: "https://www.wikidata.org/wiki/Q738421"
 has_twitter: false
@@ -80,10 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.assaabloy.com](https://www.assaabloy.com)
+- [https://www.assaabloyentrance.com/us/en](https://www.assaabloyentrance.com/us/en)
 - [http://www.assa.se](http://www.assa.se)
 - [http://www.assaabloy.com](http://www.assaabloy.com)
-- [https://www.assaabloy.com/](https://www.assaabloy.com/)
-- [https://www.assaabloyentrance.com/us/en](https://www.assaabloyentrance.com/us/en)
 
 ## Brand Guidelines
 

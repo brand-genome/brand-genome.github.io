@@ -2,12 +2,12 @@
 title: Digi
 slug: digi
 description: ""
-date: "2026-03-13T09:22:54.980851"
+date: "2026-03-20T08:22:05.712076"
 draft: false
 sectors:
+  - networking
   - software
   - hardware
-  - networking
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.digi.com/](https://www.digi.com/)
+- [https://www.digi.com](https://www.digi.com)
+- [http://research.microsoft.com/en-us/um/people/gbell/Digital/timeline/tmlnhome.htm](http://research.microsoft.com/en-us/um/people/gbell/Digital/timeline/tmlnhome.htm)
 
 ## Brand Guidelines
 

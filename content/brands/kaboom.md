@@ -2,7 +2,7 @@
 title: "Kaboom!"
 slug: kaboom
 description: ""
-date: "2026-03-13T09:22:53.325049"
+date: "2026-03-20T08:22:04.236098"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - sport
+  - community
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,23 +54,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
-  - purple
   - white
   - violet
+  - purple
+  - black
 typographies:
   - arial
 imagery_styles:
-  - contemporary
+  - bold
   - natural
+  - photography
+  - contemporary
   - lifestyle
   - candid
-  - photography
-  - bold
 wikidata_description: "playground-building non-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q16998060"
 has_twitter: false
@@ -80,7 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kaboom.org/](https://kaboom.org/)
+- [https://kaboom.org](https://kaboom.org)
+- [http://kaboom.org](http://kaboom.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Mat Troi Bé Tho
 slug: "mat-troi-be-tho"
 description: ""
-date: "2026-03-13T09:22:55.032289"
+date: "2026-03-20T08:22:05.734880"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - vietnam
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://mattroibetho.vn/](http://mattroibetho.vn/)
+- [http://mattroibetho.vn](http://mattroibetho.vn)
 
 ## Brand Guidelines
 

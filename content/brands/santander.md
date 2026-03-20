@@ -2,7 +2,7 @@
 title: Santander
 slug: santander
 description: ""
-date: "2026-03-13T09:22:52.233228"
+date: "2026-03-20T08:22:03.296036"
 draft: false
 sectors:
   - finance
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
+  - "economics-of-banking"
 countries:
   - spain
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1857
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bancosantander.es/](https://www.bancosantander.es/)
-- [https://www.bancosantander.es/en/](https://www.bancosantander.es/en/)
-- [https://www.santander.com/](https://www.santander.com/)
+- [https://www.santander.com](https://www.santander.com)
+- [https://www.bancosantander.es](https://www.bancosantander.es)
+- [https://www.bancosantander.es/en](https://www.bancosantander.es/en)
+- [https://www.santander.com.mx](https://www.santander.com.mx)
+- [https://www.santanderrio.com.ar](https://www.santanderrio.com.ar)
 
 ## Brand Guidelines
 

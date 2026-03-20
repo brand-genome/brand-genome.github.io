@@ -2,7 +2,7 @@
 title: University of Mount Saint Vincent
 slug: "university-of-mount-saint-vincent"
 description: ""
-date: "2026-03-13T09:22:52.135766"
+date: "2026-03-20T08:22:03.198878"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1847
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://mountsaintvincent.edu](https://mountsaintvincent.edu)
+- [https://university.mountsaintvincent.edu](https://university.mountsaintvincent.edu)
 - [http://www.google.com](http://www.google.com)
 - [http://www.mountsaintvincent.edu](http://www.mountsaintvincent.edu)
-- [https://mountsaintvincent.edu/](https://mountsaintvincent.edu/)
-- [https://university.mountsaintvincent.edu/](https://university.mountsaintvincent.edu/)
+- [http://cmsv.edu](http://cmsv.edu)
 
 ## Brand Guidelines
 

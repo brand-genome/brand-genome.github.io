@@ -2,7 +2,7 @@
 title: Limerick
 slug: limerick
 description: ""
-date: "2026-03-13T09:22:54.341946"
+date: "2026-03-20T08:22:05.168864"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - orange
-  - black
-  - blue
   - green
   - white
+  - blue
+  - orange
+  - black
 typographies: []
 imagery_styles:
-  - modern
-  - natural
-  - dramatic
   - staged
   - minimal
+  - graphic
+  - dramatic
+  - bold
+  - modern
+  - natural
   - photography
   - gradient
-  - bold
-  - graphic
 wikidata_description: city in Ireland in the province of Munster
 wikidata_url: "https://www.wikidata.org/wiki/Q133315"
 has_twitter: false
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.limerick.ie](http://www.limerick.ie)
-- [https://www.limerick.ie/](https://www.limerick.ie/)
+- [https://www.limerick.ie](https://www.limerick.ie)
 - [https://www.limerick.ie/atlantic-edge-european-embrace/brand-toolkit](https://www.limerick.ie/atlantic-edge-european-embrace/brand-toolkit)
+- [http://www.limerick.ie](http://www.limerick.ie)
 
 ## Brand Guidelines
 

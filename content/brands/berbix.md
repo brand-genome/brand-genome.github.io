@@ -2,11 +2,11 @@
 title: Berbix
 slug: berbix
 description: ""
-date: "2026-03-13T09:22:52.881973"
+date: "2026-03-20T08:22:03.874235"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

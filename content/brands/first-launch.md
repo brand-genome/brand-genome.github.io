@@ -2,11 +2,11 @@
 title: First Launch
 slug: "first-launch"
 description: ""
-date: "2026-03-13T09:22:54.809562"
+date: "2026-03-20T08:22:05.578701"
 draft: false
 sectors:
-  - "childcare-family-services"
   - education
+  - "childcare-family-services"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.firstlaunchprep.com/](https://www.firstlaunchprep.com/)
+- [https://www.firstlaunchprep.com](https://www.firstlaunchprep.com)
 
 ## Brand Guidelines
 

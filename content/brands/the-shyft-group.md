@@ -2,7 +2,7 @@
 title: The Shyft Group
 slug: "the-shyft-group"
 description: ""
-date: "2026-03-13T09:22:53.263710"
+date: "2026-03-20T08:22:04.189751"
 draft: false
 sectors:
   - automobile
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
   - classic
+  - bold
   - photography
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,13 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.THESHYFTGROUP.COM](http://www.THESHYFTGROUP.COM)
+- [https://theshyftgroup.com](https://theshyftgroup.com)
+- [http://www.theshyftgroup.com](http://www.theshyftgroup.com)
 - [http://www.builtmorecontractmfg.com](http://www.builtmorecontractmfg.com)
 - [http://www.duramagbodies.com](http://www.duramagbodies.com)
 - [http://www.royaltruckbody.com](http://www.royaltruckbody.com)
 - [http://www.spartanrvchassis.com](http://www.spartanrvchassis.com)
 - [http://www.utilimaster.com](http://www.utilimaster.com)
-- [https://theshyftgroup.com/](https://theshyftgroup.com/)
 
 ## Brand Guidelines
 

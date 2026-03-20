@@ -2,7 +2,7 @@
 title: Wipeout
 slug: wipeout
 description: ""
-date: "2026-03-13T09:22:54.719061"
+date: "2026-03-20T08:22:05.518188"
 draft: false
 sectors:
   - entertainment
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - alternate
-  - secondary
+  - wordmark
   - primary
+  - secondary
 brand_colors:
-  - navy
-  - gray
-  - yellow
-  - black
   - red
-  - blue
+  - navy
   - white
+  - blue
+  - yellow
+  - gray
   - brown
+  - black
 typographies:
   - univers
 imagery_styles:
-  - dynamic
   - product
+  - dynamic
   - graphic
 wikidata_description: American reality game show
 wikidata_url: "https://www.wikidata.org/wiki/Q52497"
@@ -76,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.linotype.com](http://www.linotype.com)
 - [https://abc.com/shows/wipeout](https://abc.com/shows/wipeout)
+- [http://www.linotype.com](http://www.linotype.com)
+- [http://beta.abc.go.com/shows/wipeout](http://beta.abc.go.com/shows/wipeout)
 
 ## Brand Guidelines
 

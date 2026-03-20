@@ -2,7 +2,7 @@
 title: Afterpay
 slug: afterpay
 description: ""
-date: "2026-03-13T09:22:53.720326"
+date: "2026-03-20T08:22:04.684004"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +53,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
-  - primary
   - "app-icon"
+  - primary
+  - badge
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: Australian financial technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q55639119"
 has_twitter: false
@@ -72,13 +74,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.afterpay.com](http://www.afterpay.com)
-- [https://developers.afterpay.com/](https://developers.afterpay.com/)
-- [https://help.business.afterpay.com/](https://help.business.afterpay.com/)
-- [https://hub.us.afterpay.com/us](https://hub.us.afterpay.com/us)
-- [https://www.afterpay.com/](https://www.afterpay.com/)
+- [https://www.afterpay.com](https://www.afterpay.com)
 - [https://www.afterpay.com/en-au](https://www.afterpay.com/en-au)
 - [https://www.afterpay.com/en-us](https://www.afterpay.com/en-us)
+- [https://developers.afterpay.com](https://developers.afterpay.com)
+- [https://hub.us.afterpay.com/us](https://hub.us.afterpay.com/us)
+- [https://help.business.afterpay.com](https://help.business.afterpay.com)
+- [http://www.afterpay.com](http://www.afterpay.com)
+- [https://www.afterpay.com/en-AU/index](https://www.afterpay.com/en-AU/index)
 
 ## Brand Guidelines
 

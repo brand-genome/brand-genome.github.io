@@ -2,7 +2,7 @@
 title: Rawlplug
 slug: rawlplug
 description: ""
-date: "2026-03-13T09:22:54.797995"
+date: "2026-03-20T08:22:05.571487"
 draft: false
 sectors:
   - construction
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,24 +52,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
   - alternate
+  - wordmark
   - primary
   - badge
 brand_colors:
+  - "pantone-541"
+  - white
+  - blue
   - gray
   - black
-  - "pantone-541"
-  - blue
-  - white
 typographies:
-  - ubuntu
   - impact
+  - ubuntu
 imagery_styles:
-  - minimal
-  - modern
   - bold
+  - modern
+  - minimal
 wikidata_description: engineering company of the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q42847638"
 has_twitter: false
@@ -79,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rawlplug.com/](https://rawlplug.com/)
+- [https://rawlplug.com](https://rawlplug.com)
+- [https://www.rawlplug.com](https://www.rawlplug.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Messengers of Peace
 slug: "messengers-of-peace"
 description: ""
-date: "2026-03-13T09:22:53.268973"
+date: "2026-03-20T08:22:04.195749"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - peace
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - emblem
+  - symbol
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: highest ranking goodwill ambassador designation of the United Nations
 wikidata_url: "https://www.wikidata.org/wiki/Q939566"
 has_twitter: false
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://scout.org](http://scout.org)
-- [https://www.scout.org/](https://www.scout.org/)
 - [https://www.scout.org/messengers-of-peace](https://www.scout.org/messengers-of-peace)
+- [https://www.scout.org](https://www.scout.org)
+- [http://scout.org](http://scout.org)
 
 ## Brand Guidelines
 

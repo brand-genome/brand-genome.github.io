@@ -2,7 +2,7 @@
 title: Hustler
 slug: hustler
 description: ""
-date: "2026-03-13T09:22:54.765813"
+date: "2026-03-20T08:22:05.556318"
 draft: false
 sectors:
   - "consumer-goods"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +52,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,11 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.HUSTLERTURF.COM](http://www.HUSTLERTURF.COM)
-- [https://ad-materials.hustlerturf.com/](https://ad-materials.hustlerturf.com/)
-- [https://es.hustlerturf.com/](https://es.hustlerturf.com/)
-- [https://www.hustlerdealers.com/en-US/](https://www.hustlerdealers.com/en-US/)
-- [https://www.hustlerturf.com/](https://www.hustlerturf.com/)
+- [https://www.hustlerturf.com](https://www.hustlerturf.com)
+- [https://es.hustlerturf.com](https://es.hustlerturf.com)
+- [https://www.hustlerdealers.com/en-US](https://www.hustlerdealers.com/en-US)
+- [https://ad-materials.hustlerturf.com](https://ad-materials.hustlerturf.com)
+- [http://www.hustlerturf.com](http://www.hustlerturf.com)
+- [http://www.hustlervideo.com](http://www.hustlervideo.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-03-13T09:22:55.032685"
+date: "2026-03-20T08:22:05.735141"
 draft: false
 sectors:
   - consulting
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: reestablishment of the brand by Capgemini in 2002
@@ -68,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fr.sogeti.com/](https://www.fr.sogeti.com/)
-- [https://www.sogeti.com/](https://www.sogeti.com/)
-- [https://www.uk.sogeti.com/](https://www.uk.sogeti.com/)
-- [https://www.us.sogeti.com/](https://www.us.sogeti.com/)
+- [https://www.sogeti.com](https://www.sogeti.com)
+- [https://www.fr.sogeti.com](https://www.fr.sogeti.com)
+- [https://www.uk.sogeti.com](https://www.uk.sogeti.com)
+- [https://www.us.sogeti.com](https://www.us.sogeti.com)
 
 ## Brand Guidelines
 

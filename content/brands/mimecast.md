@@ -2,11 +2,11 @@
 title: Mimecast
 slug: mimecast
 description: ""
-date: "2026-03-13T09:22:51.897376"
+date: "2026-03-20T08:22:03.063782"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,11 +66,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://login-us.mimecast.com/partner/Common/Login](https://login-us.mimecast.com/partner/Common/Login)
-- [https://mimecastsupport.zendesk.com/hc/en-us](https://mimecastsupport.zendesk.com/hc/en-us)
-- [https://trust.mimecast.com/](https://trust.mimecast.com/)
-- [https://www.mimecast.com/](https://www.mimecast.com/)
+- [https://www.mimecast.com](https://www.mimecast.com)
+- [https://trust.mimecast.com](https://trust.mimecast.com)
 - [https://www.mimecast.com/login](https://www.mimecast.com/login)
+- [https://mimecastsupport.zendesk.com/hc/en-us](https://mimecastsupport.zendesk.com/hc/en-us)
+- [https://login-us.mimecast.com/partner/Common/Login](https://login-us.mimecast.com/partner/Common/Login)
+- [http://www.mimecast.com](http://www.mimecast.com)
 
 ## Brand Guidelines
 

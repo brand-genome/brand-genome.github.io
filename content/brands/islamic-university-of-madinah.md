@@ -2,7 +2,7 @@
 title: Islamic University of Madinah
 slug: "islamic-university-of-madinah"
 description: ""
-date: "2026-03-13T09:22:53.442870"
+date: "2026-03-20T08:22:04.346757"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iu.edu.sa/](https://iu.edu.sa/)
+- [https://iu.edu.sa](https://iu.edu.sa)
 - [https://iu.edu.sa/en-us](https://iu.edu.sa/en-us)
 
 ## Brand Guidelines

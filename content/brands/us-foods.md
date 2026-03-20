@@ -2,11 +2,11 @@
 title: US Foods
 slug: "us-foods"
 description: ""
-date: "2026-03-13T09:22:53.275790"
+date: "2026-03-20T08:22:04.203376"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - food
+  - "logistics-supply-chain"
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,19 +60,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
   - "pantone-576"
+  - white
+  - gray
   - black
   - "pantone-173"
-  - white
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
-  - photography
+  - clean
   - modern
   - natural
-  - clean
+  - photography
 wikidata_description: American foodservice distributor
 wikidata_url: "https://www.wikidata.org/wiki/Q1668265"
 has_twitter: false
@@ -82,8 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.USFOODS.COM](http://www.USFOODS.COM)
-- [https://www.usfoods.com/](https://www.usfoods.com/)
+- [https://www.usfoods.com](https://www.usfoods.com)
+- [http://www.usfoods.com](http://www.usfoods.com)
 
 ## Brand Guidelines
 

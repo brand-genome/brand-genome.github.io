@@ -2,7 +2,7 @@
 title: Gilette children’s
 slug: "gilette-childrens"
 description: ""
-date: "2026-03-13T09:22:52.816176"
+date: "2026-03-20T08:22:03.829386"
 draft: false
 sectors:
   - research
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gillettechildrens.org](https://www.gillettechildrens.org)
 - [http://www.gillettechildrens.org](http://www.gillettechildrens.org)
-- [https://www.gillettechildrens.org/](https://www.gillettechildrens.org/)
 
 ## Brand Guidelines
 

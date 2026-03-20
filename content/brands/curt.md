@@ -2,7 +2,7 @@
 title: Curt
 slug: curt
 description: ""
-date: "2026-03-13T09:22:54.078248"
+date: "2026-03-20T08:22:04.924165"
 draft: false
 sectors:
   - automobile
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
-  - symbol
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - black
   - blue
   - white
   - orange
+  - black
 typographies:
   - helvetica
   - din
@@ -75,9 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.CURTMFG.COM](http://www.CURTMFG.COM)
-- [https://www.curtmfg.com/](https://www.curtmfg.com/)
+- [https://www.curtmfg.com](https://www.curtmfg.com)
 - [https://www.curtmfg.com/about-curt](https://www.curtmfg.com/about-curt)
+- [http://www.curtmfg.com](http://www.curtmfg.com)
 
 ## Brand Guidelines
 

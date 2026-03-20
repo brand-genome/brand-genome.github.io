@@ -2,7 +2,7 @@
 title: Hortonworks
 slug: hortonworks
 description: ""
-date: "2026-03-13T09:22:54.766745"
+date: "2026-03-20T08:22:05.558607"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,22 +53,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - secondary
   - abstract
+  - secondary
+  - symbol
+  - wordmark
+  - primary
 brand_colors:
   - black
 typographies:
   - roboto
 imagery_styles:
-  - natural
-  - lifestyle
-  - dramatic
-  - photography
   - abstract
+  - dramatic
   - bold
+  - natural
+  - photography
+  - lifestyle
 wikidata_description: American software company
 wikidata_url: "https://www.wikidata.org/wiki/Q5906990"
 has_twitter: false
@@ -78,7 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cloudera.com/](https://www.cloudera.com/)
+- [https://www.cloudera.com](https://www.cloudera.com)
+- [http://hortonworks.com](http://hortonworks.com)
 
 ## Brand Guidelines
 

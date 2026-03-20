@@ -2,7 +2,7 @@
 title: HKUST
 slug: hkust
 description: ""
-date: "2026-03-13T09:22:53.294742"
+date: "2026-03-20T08:22:04.218312"
 draft: false
 sectors:
   - university
@@ -10,12 +10,12 @@ regions:
   - "hong-kong"
 years:
   - 2020
-  - 2019
-  - 2022
   - 2018
+  - 2022
+  - 2019
 languages:
-  - english
   - chinese
+  - english
 tags:
   - education
   - university
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,25 +55,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - monogram
   - secondary
+  - monogram
 brand_colors:
   - "pantone-647"
+  - gold
   - "pantone-285"
-  - yellow
-  - "pantone-295"
-  - "pantone-124"
   - "pantone-872"
   - blue
-  - gold
+  - "pantone-124"
+  - yellow
+  - "pantone-295"
 typographies:
   - arial
   - futura
   - avenir
 imagery_styles:
+  - natural
   - photography
   - staged
-  - natural
 wikidata_description: "public research university in Clear Water Bay, Hong Kong"
 wikidata_url: "https://www.wikidata.org/wiki/Q1333303"
 has_twitter: false
@@ -83,12 +85,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.apple.com/](http://www.apple.com/)
-- [https://infh.hkust-gz.edu.cn/](https://infh.hkust-gz.edu.cn/)
-- [https://studyathkustgz.hkust-gz.edu.cn/](https://studyathkustgz.hkust-gz.edu.cn/)
-- [https://www.hkust-gz.edu.cn/](https://www.hkust-gz.edu.cn/)
-- [https://www.hkust.ac.cn/](https://www.hkust.ac.cn/)
-- [https://www.hkust.edu.hk/](https://www.hkust.edu.hk/)
+- [https://www.hkust.edu.hk](https://www.hkust.edu.hk)
+- [https://www.hkust.ac.cn](https://www.hkust.ac.cn)
+- [https://www.hkust-gz.edu.cn](https://www.hkust-gz.edu.cn)
+- [https://infh.hkust-gz.edu.cn](https://infh.hkust-gz.edu.cn)
+- [https://studyathkustgz.hkust-gz.edu.cn](https://studyathkustgz.hkust-gz.edu.cn)
+- [http://www.apple.com](http://www.apple.com)
+- [https://hkust.edu.hk](https://hkust.edu.hk)
+- [http://www.ust.hk](http://www.ust.hk)
 
 ## Brand Guidelines
 

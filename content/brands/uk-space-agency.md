@@ -2,16 +2,16 @@
 title: UK Space Agency
 slug: "uk-space-agency"
 description: ""
-date: "2026-03-13T09:22:52.887598"
+date: "2026-03-20T08:22:03.879129"
 draft: false
 sectors:
-  - "space-technology"
   - "public-sector"
+  - "space-technology"
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2022
+  - 2013
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.youtube.com/user/spacegovuk](http://www.youtube.com/user/spacegovuk)
 - [https://www.gov.uk/government/organisations/uk-space-agency](https://www.gov.uk/government/organisations/uk-space-agency)
 - [https://www.gov.uk/uksa](https://www.gov.uk/uksa)
+- [http://www.youtube.com/user/spacegovuk](http://www.youtube.com/user/spacegovuk)
+- [https://gov.uk/uksa](https://gov.uk/uksa)
+- [http://www.bis.gov.uk/ukspaceagency](http://www.bis.gov.uk/ukspaceagency)
 
 ## Brand Guidelines
 

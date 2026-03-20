@@ -2,7 +2,7 @@
 title: European Union Agency for Fundamental Rights
 slug: "european-union-agency-for-fundamental-rights"
 description: ""
-date: "2026-03-13T09:22:53.117185"
+date: "2026-03-20T08:22:04.117054"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,22 +52,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - icon
-  - horizontal
   - vertical
+  - icon
+  - primary
+  - horizontal
 brand_colors:
-  - "pantone-109"
   - yellow
   - white
+  - "pantone-109"
   - blue
 typographies:
   - "sans-serif"
   - futura
   - impact
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: agency of the European Union
 wikidata_url: "https://www.wikidata.org/wiki/Q48790"
 has_twitter: false
@@ -77,10 +79,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.linkedin.com/company/eu-fundamental-rights-agency](http://www.linkedin.com/company/eu-fundamental-rights-agency)
-- [http://www.youtube.com/user/EUAgencyFRA](http://www.youtube.com/user/EUAgencyFRA)
 - [https://fra.europa.eu/en](https://fra.europa.eu/en)
 - [https://fra.europa.eu/en/home](https://fra.europa.eu/en/home)
+- [http://www.linkedin.com/company/eu-fundamental-rights-agency](http://www.linkedin.com/company/eu-fundamental-rights-agency)
+- [http://www.youtube.com/user/EUAgencyFRA](http://www.youtube.com/user/EUAgencyFRA)
+- [https://fra.europa.eu](https://fra.europa.eu)
 
 ## Brand Guidelines
 

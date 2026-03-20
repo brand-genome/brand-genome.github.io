@@ -2,7 +2,7 @@
 title: Nationale Naturlandschaften
 slug: "nationale-naturlandschaften"
 description: ""
-date: "2026-03-13T09:22:53.279435"
+date: "2026-03-20T08:22:04.209433"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nationale-naturlandschaften.de/](https://nationale-naturlandschaften.de/)
+- [https://nationale-naturlandschaften.de](https://nationale-naturlandschaften.de)
+- [http://www.europarc-deutschland.de](http://www.europarc-deutschland.de)
 
 ## Brand Guidelines
 

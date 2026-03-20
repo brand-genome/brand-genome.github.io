@@ -2,7 +2,7 @@
 title: University of Cincinnati
 slug: "university-of-cincinnati"
 description: ""
-date: "2026-03-13T09:22:55.156612"
+date: "2026-03-20T08:22:05.856184"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1819
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
   - vertical
   - seal
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies:
   - arial
   - times
   - verdana
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "public research university in Cincinnati, Ohio, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q153265"
 has_twitter: false
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uc.edu/](https://www.uc.edu/)
+- [https://www.uc.edu](https://www.uc.edu)
 
 ## Brand Guidelines
 

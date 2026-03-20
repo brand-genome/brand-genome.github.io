@@ -2,7 +2,7 @@
 title: Unknown Worlds Entertainment
 slug: "unknown-worlds-entertainment"
 description: ""
-date: "2026-03-13T09:22:52.172620"
+date: "2026-03-20T08:22:03.238835"
 draft: false
 sectors:
   - gaming
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "natural-selection"
   - subnautica
+  - "natural-selection"
 products: []
 headquarters_locations:
   - "san-francisco"
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,23 +56,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - alternate
   - stacked
   - vertical
-  - lockup
-  - favicon
   - horizontal
+  - alternate
+  - lockup
+  - primary
+  - favicon
+  - icon
 brand_colors:
+  - red
+  - green
+  - teal
+  - white
   - purple
+  - blue
   - orange
   - black
-  - teal
-  - red
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
   - bold
@@ -85,11 +87,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.unknownworlds.com](http://www.unknownworlds.com)
-- [https://moonbreaker.com/](https://moonbreaker.com/)
-- [https://naturalselection2.com/](https://naturalselection2.com/)
-- [https://subnautica.com/en](https://subnautica.com/en)
 - [https://unknownworlds.com/en](https://unknownworlds.com/en)
+- [https://subnautica.com/en](https://subnautica.com/en)
+- [https://naturalselection2.com](https://naturalselection2.com)
+- [https://moonbreaker.com](https://moonbreaker.com)
+- [http://www.unknownworlds.com](http://www.unknownworlds.com)
 
 ## Brand Guidelines
 
@@ -138,7 +140,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Natural Selection](/products_or_materials_produced/natural-selection/); [Subnautica](/products_or_materials_produced/subnautica/) |
+| Product Or Material Produced | [Subnautica](/products_or_materials_produced/subnautica/); [Natural Selection](/products_or_materials_produced/natural-selection/) |
 | Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [2001](/foundation_dates/2001/) |
 | Headquarters Location | San Francisco |

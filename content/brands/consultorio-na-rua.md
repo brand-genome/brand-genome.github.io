@@ -2,7 +2,7 @@
 title: Consultório na Rua
 slug: "consultorio-na-rua"
 description: ""
-date: "2026-03-13T09:22:54.985684"
+date: "2026-03-20T08:22:05.715934"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gov.br/saude](https://www.gov.br/saude)
 - [http://www.gov.br](http://www.gov.br)
-- [https://www.gov.br/saude/](https://www.gov.br/saude/)
 
 ## Brand Guidelines
 

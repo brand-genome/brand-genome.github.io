@@ -2,7 +2,7 @@
 title: Drake University
 slug: "drake-university"
 description: ""
-date: "2026-03-13T09:22:54.331497"
+date: "2026-03-20T08:22:05.156711"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1881
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.drake.edu/](http://www.drake.edu/)
-- [https://godrakebulldogs.com/](https://godrakebulldogs.com/)
-- [https://www.drake.edu/](https://www.drake.edu/)
+- [https://www.drake.edu](https://www.drake.edu)
+- [https://godrakebulldogs.com](https://godrakebulldogs.com)
+- [http://www.drake.edu](http://www.drake.edu)
 
 ## Brand Guidelines
 

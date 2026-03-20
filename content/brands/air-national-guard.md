@@ -2,11 +2,11 @@
 title: Air National Guard
 slug: "air-national-guard"
 description: ""
-date: "2026-03-13T09:22:54.341400"
+date: "2026-03-20T08:22:05.168527"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - usa
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +50,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - wordmark
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.goang.com/](https://www.goang.com/)
-- [https://www.nationalguard.mil/](https://www.nationalguard.mil/)
+- [https://www.nationalguard.mil](https://www.nationalguard.mil)
+- [https://www.goang.com](https://www.goang.com)
 
 ## Brand Guidelines
 

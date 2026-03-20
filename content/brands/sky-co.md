@@ -2,11 +2,11 @@
 title: Sky Co.
 slug: "sky-co"
 description: ""
-date: "2026-03-13T09:22:52.867963"
+date: "2026-03-20T08:22:03.868679"
 draft: false
 sectors:
-  - "design-creative"
   - "marketing-advertising"
+  - "design-creative"
 regions:
   - nigeria
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

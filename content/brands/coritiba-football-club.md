@@ -2,7 +2,7 @@
 title: Coritiba Football Club
 slug: "coritiba-football-club"
 description: ""
-date: "2026-03-13T09:22:54.984813"
+date: "2026-03-20T08:22:05.714937"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1909
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,12 +53,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
-  - serif
   - arial
+  - serif
 imagery_styles: []
 wikidata_description: Brazilian football club from Curitiba
 wikidata_url: "https://www.wikidata.org/wiki/Q478317"
@@ -69,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://oldsite.coritiba.com.br/](https://oldsite.coritiba.com.br/)
-- [https://www.coritiba.com.br/](https://www.coritiba.com.br/)
+- [https://www.coritiba.com.br](https://www.coritiba.com.br)
+- [https://oldsite.coritiba.com.br](https://oldsite.coritiba.com.br)
+- [http://www.coritiba.com.br](http://www.coritiba.com.br)
 
 ## Brand Guidelines
 

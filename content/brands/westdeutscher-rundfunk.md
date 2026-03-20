@@ -2,7 +2,7 @@
 title: Westdeutscher Rundfunk
 slug: "westdeutscher-rundfunk"
 description: ""
-date: "2026-03-13T09:22:53.064999"
+date: "2026-03-20T08:22:04.056908"
 draft: false
 sectors:
   - broadcasting
@@ -15,8 +15,8 @@ languages:
 tags:
   - broadcast
 industries:
-  - "media-industry"
   - broadcasting
+  - "media-industry"
 countries:
   - germany
 revenue_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wdr.de/](https://www.wdr.de/)
-- [https://www1.wdr.de/](https://www1.wdr.de/)
+- [https://www1.wdr.de](https://www1.wdr.de)
+- [https://www.wdr.de](https://www.wdr.de)
 
 ## Brand Guidelines
 

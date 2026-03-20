@@ -2,11 +2,11 @@
 title: Eastern Memorization
 slug: "eastern-memorization"
 description: ""
-date: "2026-03-13T09:22:53.599950"
+date: "2026-03-20T08:22:04.463098"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "saudi-arabia"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - community
   - education
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://quran-er.org.sa/](https://quran-er.org.sa/)
+- [https://quran-er.org.sa](https://quran-er.org.sa)
 
 ## Brand Guidelines
 

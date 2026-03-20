@@ -2,7 +2,7 @@
 title: Zarbee’s Naturals
 slug: "zarbees-naturals"
 description: ""
-date: "2026-03-13T09:22:53.935629"
+date: "2026-03-20T08:22:04.856942"
 draft: false
 sectors:
   - healthcare
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - mascot
   - signature
+  - mascot
+  - primary
 brand_colors: []
 typographies:
-  - "proxima-nova"
   - futura
+  - "proxima-nova"
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ZARBEES.COM](http://www.ZARBEES.COM)
-- [https://www.zarbees.com/](https://www.zarbees.com/)
+- [https://www.zarbees.com](https://www.zarbees.com)
+- [http://www.zarbees.com](http://www.zarbees.com)
 
 ## Brand Guidelines
 

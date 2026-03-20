@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-03-13T09:22:54.333615"
+date: "2026-03-20T08:22:05.159844"
 draft: false
 sectors:
-  - education
   - "arts-culture"
   - research
   - "public-sector"
   - ngo
+  - education
 regions:
   - international
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,14 +55,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - emblem
   - symbol
   - secondary
-  - emblem
-  - vertical
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "specialised agency of the United Nations for education, sciences, and culture"
@@ -74,9 +76,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://whc.unesco.org/en/](https://whc.unesco.org/en/)
-- [https://www.iiep.unesco.org/](https://www.iiep.unesco.org/)
 - [https://www.unesco.org/en](https://www.unesco.org/en)
+- [https://whc.unesco.org/en](https://whc.unesco.org/en)
+- [https://www.iiep.unesco.org](https://www.iiep.unesco.org)
+- [https://unesco.org/en](https://unesco.org/en)
+- [https://fr.unesco.org](https://fr.unesco.org)
+- [https://es.unesco.org](https://es.unesco.org)
+- [https://ru.unesco.org](https://ru.unesco.org)
+- [https://ar.unesco.org](https://ar.unesco.org)
+- [https://zh.unesco.org](https://zh.unesco.org)
 
 ## Brand Guidelines
 

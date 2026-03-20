@@ -2,7 +2,7 @@
 title: UN Volunteers
 slug: "un-volunteers"
 description: ""
-date: "2026-03-13T09:22:54.220185"
+date: "2026-03-20T08:22:05.048157"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - grey
   - blue
 typographies: []
 imagery_styles:
+  - natural
   - photography
   - professional
-  - natural
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unv.org/](https://www.unv.org/)
+- [https://www.unv.org](https://www.unv.org)
 - [https://www.unv.org/branding/tools](https://www.unv.org/branding/tools)
 
 ## Brand Guidelines

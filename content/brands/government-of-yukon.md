@@ -2,7 +2,7 @@
 title: Government of Yukon
 slug: "government-of-yukon"
 description: ""
-date: "2026-03-13T09:22:54.822355"
+date: "2026-03-20T08:22:05.584879"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ headquarters_locations:
   - whitehorse
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://yukon.ca/](https://yukon.ca/)
+- [https://yukon.ca](https://yukon.ca)
+- [https://yukon.ca/fr](https://yukon.ca/fr)
 
 ## Brand Guidelines
 

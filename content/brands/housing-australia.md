@@ -2,12 +2,12 @@
 title: Housing Australia
 slug: "housing-australia"
 description: ""
-date: "2026-03-13T09:22:52.303233"
+date: "2026-03-20T08:22:03.371618"
 draft: false
 sectors:
-  - finance
-  - "real-estate"
   - "public-sector"
+  - "real-estate"
+  - finance
 regions:
   - australia
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nhfic.gov.au/](https://nhfic.gov.au/)
-- [https://portal.housingaustralia.gov.au/](https://portal.housingaustralia.gov.au/)
-- [https://www.housingaustralia.gov.au/](https://www.housingaustralia.gov.au/)
-- [https://www.housingdata.gov.au/](https://www.housingdata.gov.au/)
+- [https://www.housingaustralia.gov.au](https://www.housingaustralia.gov.au)
+- [https://nhfic.gov.au](https://nhfic.gov.au)
+- [https://portal.housingaustralia.gov.au](https://portal.housingaustralia.gov.au)
+- [https://www.housingdata.gov.au](https://www.housingdata.gov.au)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Universidad del Rosario
 slug: "universidad-del-rosario"
 description: ""
-date: "2026-03-13T09:22:52.315673"
+date: "2026-03-20T08:22:03.382391"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1653
+foundation_year_buckets:
+  - "17TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://urosario.edu.co/](https://urosario.edu.co/)
+- [https://urosario.edu.co](https://urosario.edu.co)
+- [http://www.urosario.edu.co](http://www.urosario.edu.co)
 
 ## Brand Guidelines
 

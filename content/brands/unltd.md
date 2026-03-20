@@ -2,7 +2,7 @@
 title: UnLtd
 slug: unltd
 description: ""
-date: "2026-03-13T09:22:53.572869"
+date: "2026-03-20T08:22:04.441339"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - charity
+  - social
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unltd.org.uk/](https://www.unltd.org.uk/)
+- [https://www.unltd.org.uk](https://www.unltd.org.uk)
+- [http://www.unltd.org.uk/index.php](http://www.unltd.org.uk/index.php)
 
 ## Brand Guidelines
 

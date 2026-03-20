@@ -2,7 +2,7 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-03-13T09:22:53.937725"
+date: "2026-03-20T08:22:04.860497"
 draft: false
 sectors:
   - hospitality
@@ -16,8 +16,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "hospitality-industry"
   - "activities-of-head-offices"
+  - "hospitality-industry"
 countries:
   - france
 revenue_buckets:
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,28 +63,28 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-5513"
+  - red
+  - green
+  - "pantone-5763"
+  - white
   - grey
-  - "pantone-703"
+  - blue
   - "pantone-7546"
+  - "pantone-5513"
+  - "pantone-703"
   - "pantone-7550"
   - black
-  - "pantone-5763"
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - gotham
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - artificial
-  - contemporary
-  - natural
-  - monochrome
   - staged
+  - artificial
   - graphic
+  - natural
+  - contemporary
+  - monochrome
 wikidata_description: French hotel group
 wikidata_url: "https://www.wikidata.org/wiki/Q212599"
 has_twitter: false
@@ -94,10 +96,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.accor.com/](http://www.accor.com/)
+- [https://all.accor.com](https://all.accor.com)
+- [https://group.accor.com](https://group.accor.com)
+- [http://www.accor.com](http://www.accor.com)
 - [http://www.accorhotels.com](http://www.accorhotels.com)
-- [https://all.accor.com/](https://all.accor.com/)
-- [https://group.accor.com/](https://group.accor.com/)
+- [https://group.accor.com/en](https://group.accor.com/en)
+- [https://group.accor.com/fr-FR](https://group.accor.com/fr-FR)
+- [https://www.restaurants.accorhotels.com](https://www.restaurants.accorhotels.com)
+- [https://restaurantsandbars.accor.com](https://restaurantsandbars.accor.com)
+- [https://accorhotels.com](https://accorhotels.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Papernest
 slug: papernest
 description: ""
-date: "2026-03-13T09:22:54.976500"
+date: "2026-03-20T08:22:05.708900"
 draft: false
 sectors:
   - "e-commerce"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.papernest.com](https://www.papernest.com)
+- [https://www.papernest.com/en](https://www.papernest.com/en)
 - [http://www.papernest.com](http://www.papernest.com)
-- [https://www.papernest.com/](https://www.papernest.com/)
-- [https://www.papernest.com/en/](https://www.papernest.com/en/)
+- [https://papernest.com](https://papernest.com)
+- [https://www.papernest.it](https://www.papernest.it)
+- [https://www.papernest.es](https://www.papernest.es)
 
 ## Brand Guidelines
 

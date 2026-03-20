@@ -2,7 +2,7 @@
 title: India Handloom
 slug: "india-handloom"
 description: ""
-date: "2026-03-13T09:22:54.564416"
+date: "2026-03-20T08:22:05.412321"
 draft: false
 sectors:
   - fashion
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - green
+  - white
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.indiahandloombrand.gov.in/](https://www.indiahandloombrand.gov.in/)
+- [https://www.indiahandloombrand.gov.in](https://www.indiahandloombrand.gov.in)
 
 ## Brand Guidelines
 

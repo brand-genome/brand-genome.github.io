@@ -2,7 +2,7 @@
 title: ITV
 slug: itv
 description: ""
-date: "2026-03-13T09:22:53.014677"
+date: "2026-03-20T08:22:04.004924"
 draft: false
 sectors:
   - broadcasting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1955
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.bbc.co.uk/commissioning/tv/production/](http://www.bbc.co.uk/commissioning/tv/production/)
-- [https://brand.itv.com/](https://brand.itv.com/)
-- [https://www.itv.com/](https://www.itv.com/)
-- [https://www.itv.com/commissioning/](https://www.itv.com/commissioning/)
-- [https://www.itvjobs.com/](https://www.itvjobs.com/)
-- [https://www.itvplc.com/](https://www.itvplc.com/)
+- [https://www.itv.com](https://www.itv.com)
+- [https://www.itvplc.com](https://www.itvplc.com)
+- [https://brand.itv.com](https://brand.itv.com)
+- [https://www.itv.com/commissioning](https://www.itv.com/commissioning)
+- [https://www.itvjobs.com](https://www.itvjobs.com)
+- [http://www.bbc.co.uk/commissioning/tv/production](http://www.bbc.co.uk/commissioning/tv/production)
+- [https://itvstudios.com](https://itvstudios.com)
 
 ## Brand Guidelines
 

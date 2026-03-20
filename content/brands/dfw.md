@@ -2,11 +2,11 @@
 title: DFW
 slug: dfw
 description: ""
-date: "2026-03-13T09:22:54.763053"
+date: "2026-03-20T08:22:05.555177"
 draft: false
 sectors:
-  - "public-transportation"
   - tourism
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +52,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
   - purple
-  - gray
+  - blue
   - yellow
+  - gray
   - orange
   - black
-  - blue
-  - white
 typographies:
   - arial
   - times
 imagery_styles:
-  - monochrome
-  - photography
   - bold
   - graphic
+  - monochrome
+  - photography
 wikidata_description: "airport in Irving serving the Dallas-Fort Worth metro area in Texas, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q459096"
 has_twitter: false
@@ -77,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dfwairport.com](https://www.dfwairport.com)
 - [http://www.dfwairport.com](http://www.dfwairport.com)
-- [https://www.dfwairport.com/](https://www.dfwairport.com/)
 
 ## Brand Guidelines
 

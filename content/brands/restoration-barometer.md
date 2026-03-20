@@ -2,11 +2,11 @@
 title: Restoration Barometer
 slug: "restoration-barometer"
 description: ""
-date: "2026-03-13T09:22:53.077627"
+date: "2026-03-20T08:22:04.074754"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +52,14 @@ logo_elements:
   - secondary
 brand_colors:
   - navy
-  - grey
-  - black
-  - pink
   - white
+  - grey
+  - pink
+  - black
 typographies: []
 imagery_styles:
-  - landscape
   - bold
+  - landscape
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://restorationbarometer.org/](https://restorationbarometer.org/)
+- [https://restorationbarometer.org](https://restorationbarometer.org)
 
 ## Brand Guidelines
 

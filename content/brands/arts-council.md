@@ -2,7 +2,7 @@
 title: Arts Council
 slug: "arts-council"
 description: ""
-date: "2026-03-13T09:22:55.161311"
+date: "2026-03-20T08:22:05.862519"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -67,8 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://artscouncil.ie/](https://artscouncil.ie/)
+- [https://artscouncil.ie](https://artscouncil.ie)
 - [https://www.artscouncil.ie/funding/logoguide](https://www.artscouncil.ie/funding/logoguide)
+- [https://www.kulturdirektoratet.no/norsk-kulturfond](https://www.kulturdirektoratet.no/norsk-kulturfond)
+- [https://kulturradet.no/english](https://kulturradet.no/english)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Gorky Park
 slug: "gorky-park"
 description: ""
-date: "2026-03-13T09:22:54.215977"
+date: "2026-03-20T08:22:05.043246"
 draft: false
 sectors:
   - "arts-culture"
@@ -17,8 +17,8 @@ tags:
   - entertainment
 industries: []
 countries:
-  - "soviet-union"
   - russia
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1928
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
+  - white
   - cyan
   - yellow
   - black
   - magenta
-  - white
 typographies:
   - inter
 imagery_styles:
-  - vibrant
-  - playful
-  - natural
   - bold
+  - natural
+  - playful
+  - vibrant
 wikidata_description: "amusement park in Moscow, Russia"
 wikidata_url: "https://www.wikidata.org/wiki/Q126877"
 has_twitter: false
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://parkgorkogo.ru/](https://parkgorkogo.ru/)
+- [https://parkgorkogo.ru](https://parkgorkogo.ru)
+- [https://www.park-gorkogo.com](https://www.park-gorkogo.com)
 
 ## Brand Guidelines
 

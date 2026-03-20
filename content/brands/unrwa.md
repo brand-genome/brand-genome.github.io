@@ -2,7 +2,7 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-03-13T09:22:53.514205"
+date: "2026-03-20T08:22:04.407300"
 draft: false
 sectors:
   - "public-sector"
@@ -27,12 +27,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - education
-  - "emergency-service"
   - "public-works"
-  - "health-care"
   - microcredit
   - "social-services"
+  - "emergency-service"
+  - education
+  - "health-care"
 products: []
 headquarters_locations:
   - amman
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,8 @@ brand_colors: []
 typographies:
   - "century-gothic"
 imagery_styles:
-  - photography
   - colorful
+  - photography
 wikidata_description: "United Nations agency founded in 1949, whose stated purpose is to help and protect Palestinian refugees"
 wikidata_url: "https://www.wikidata.org/wiki/Q846656"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unrwa.org/](https://www.unrwa.org/)
-- [https://www.unrwausa.org/](https://www.unrwausa.org/)
+- [https://www.unrwa.org](https://www.unrwa.org)
+- [https://www.unrwausa.org](https://www.unrwausa.org)
+- [https://unrwa.org](https://unrwa.org)
 
 ## Brand Guidelines
 
@@ -119,7 +122,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Public Works](/products_or_materials_produced/public-works/); [Health Care](/products_or_materials_produced/health-care/); [Microcredit](/products_or_materials_produced/microcredit/); [Social Services](/products_or_materials_produced/social-services/) |
+| Product Or Material Produced | [Public Works](/products_or_materials_produced/public-works/); [Microcredit](/products_or_materials_produced/microcredit/); [Social Services](/products_or_materials_produced/social-services/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Education](/products_or_materials_produced/education/); [Health Care](/products_or_materials_produced/health-care/) |
 | Headquarters Location | [Amman](/headquarters_locations/amman/); [Gaza City](/headquarters_locations/gaza-city/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |

@@ -2,7 +2,7 @@
 title: Cineplex
 slug: cineplex
 description: ""
-date: "2026-03-13T09:22:53.492463"
+date: "2026-03-20T08:22:04.388039"
 draft: false
 sectors:
   - entertainment
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ logo_elements:
   - primary
 brand_colors:
   - black
-  - gold
   - white
+  - gold
   - blue
 typographies:
   - "gill-sans"
@@ -68,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corp.cineplex.com/](https://corp.cineplex.com/)
-- [https://corporateorders.cineplex.com/](https://corporateorders.cineplex.com/)
-- [https://www.cineplex.com/](https://www.cineplex.com/)
+- [https://www.cineplex.com](https://www.cineplex.com)
+- [https://corp.cineplex.com](https://corp.cineplex.com)
+- [https://corporateorders.cineplex.com](https://corporateorders.cineplex.com)
 
 ## Brand Guidelines
 

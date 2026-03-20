@@ -2,7 +2,7 @@
 title: EEP Africa
 slug: "eep-africa"
 description: ""
-date: "2026-03-13T09:22:52.239357"
+date: "2026-03-20T08:22:03.303126"
 draft: false
 sectors:
   - finance
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://eepafrica.org](https://eepafrica.org)
+- [https://eepafrica.org/aboutus](https://eepafrica.org/aboutus)
+- [https://eepafrica.org/financing](https://eepafrica.org/financing)
 - [http://www.eepafrica.org](http://www.eepafrica.org)
-- [https://eepafrica.org/](https://eepafrica.org/)
-- [https://eepafrica.org/aboutus/](https://eepafrica.org/aboutus/)
-- [https://eepafrica.org/financing/](https://eepafrica.org/financing/)
 
 ## Brand Guidelines
 

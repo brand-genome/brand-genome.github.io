@@ -2,7 +2,7 @@
 title: Order of the Arrow
 slug: "order-of-the-arrow"
 description: ""
-date: "2026-03-13T09:22:54.977774"
+date: "2026-03-20T08:22:05.709891"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
   - vertical
-  - secondary
   - seal
+  - secondary
   - horizontal
+  - alternate
+  - primary
 brand_colors: []
 typographies:
-  - "gill-sans"
   - slab
+  - "gill-sans"
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://oa-scouting.org/](https://oa-scouting.org/)
-- [https://oa-scouting.org/about/official-oa-website-guidelines](https://oa-scouting.org/about/official-oa-website-guidelines)
+- [https://oa-scouting.org](https://oa-scouting.org)
 - [https://oa-scouting.org/about/site-information-and-policies](https://oa-scouting.org/about/site-information-and-policies)
+- [https://oa-scouting.org/about/official-oa-website-guidelines](https://oa-scouting.org/about/official-oa-website-guidelines)
 
 ## Brand Guidelines
 

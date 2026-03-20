@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-03-13T09:22:53.439533"
+date: "2026-03-20T08:22:04.343215"
 draft: false
 sectors:
   - "real-estate"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - silver
+  - red
   - "pantone-200"
+  - white
   - gray
   - black
-  - red
-  - white
 typographies:
   - helvetica
 imagery_styles:
@@ -69,15 +70,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://events.kw.com/](https://events.kw.com/)
-- [https://kw.com/](https://kw.com/)
-- [https://kwcommercial.com/](https://kwcommercial.com/)
-- [https://kwland.com/](https://kwland.com/)
-- [https://kwworldwide.com/](https://kwworldwide.com/)
-- [https://locations.kw.com/](https://locations.kw.com/)
-- [https://luxury.kw.com/](https://luxury.kw.com/)
-- [https://mykwapp.com/](https://mykwapp.com/)
-- [https://thrive.kw.com/](https://thrive.kw.com/)
+- [https://kw.com](https://kw.com)
+- [https://locations.kw.com](https://locations.kw.com)
+- [https://thrive.kw.com](https://thrive.kw.com)
+- [https://events.kw.com](https://events.kw.com)
+- [https://kwcommercial.com](https://kwcommercial.com)
+- [https://luxury.kw.com](https://luxury.kw.com)
+- [https://kwland.com](https://kwland.com)
+- [https://kwworldwide.com](https://kwworldwide.com)
+- [https://mykwapp.com](https://mykwapp.com)
+- [https://www.kellerwilliamslarchmont.com](https://www.kellerwilliamslarchmont.com)
 
 ## Brand Guidelines
 

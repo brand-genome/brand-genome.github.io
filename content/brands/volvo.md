@@ -2,24 +2,24 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-03-13T09:22:52.187827"
+date: "2026-03-20T08:22:03.254971"
 draft: false
 sectors:
-  - construction
   - automobile
+  - construction
   - hardware
 regions:
   - sweden
 years:
+  - 2016
   - 2022
   - 2021
-  - 2016
 languages:
-  - english
   - chinese
+  - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "car-manufacturing"
   - "automotive-industry"
@@ -45,8 +45,11 @@ headquarters_locations:
   - gothenburg
 subsidiaries: []
 foundation_dates:
-  - 1927
   - 2010
+  - 1927
+foundation_year_buckets:
+  - 1920S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,27 +72,27 @@ logo_elements:
   - secondary
 brand_colors:
   - silver
-  - yellow
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - black
 typographies:
-  - serif
+  - impact
   - arial
   - times
-  - impact
+  - serif
 imagery_styles:
+  - product
+  - dynamic
   - muted
+  - professional
+  - bold
   - modern
   - natural
   - photography
-  - dynamic
   - clean
-  - product
-  - professional
-  - bold
 wikidata_description: automotive brand manufacturing subsidiary of Geely
 wikidata_url: "https://www.wikidata.org/wiki/Q215293"
 has_twitter: false
@@ -101,15 +104,22 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.volvogroup.com/en](https://www.volvogroup.com/en)
+- [https://www.volvocars.com/intl](https://www.volvocars.com/intl)
+- [https://www.volvotrucks.com/en-en](https://www.volvotrucks.com/en-en)
+- [https://www.volvoce.com](https://www.volvoce.com)
+- [https://www.volvopenta.com](https://www.volvopenta.com)
 - [http://www.volvo.com](http://www.volvo.com)
-- [http://www.volvogroup.com](http://www.volvogroup.com)
 - [http://www.volvogroup.com/identity](http://www.volvogroup.com/identity)
 - [http://www.volvopenta.com](http://www.volvopenta.com)
-- [https://www.volvocars.com/intl](https://www.volvocars.com/intl)
-- [https://www.volvoce.com/](https://www.volvoce.com/)
-- [https://www.volvogroup.com/en/](https://www.volvogroup.com/en/)
-- [https://www.volvopenta.com/](https://www.volvopenta.com/)
-- [https://www.volvotrucks.com/en-en/](https://www.volvotrucks.com/en-en/)
+- [http://www.volvogroup.com](http://www.volvogroup.com)
+- [https://www.volvocars.com](https://www.volvocars.com)
+- [https://www.volvocars.com/us](https://www.volvocars.com/us)
+- [https://www.volvocars.com/de](https://www.volvocars.com/de)
+- [https://www.volvocars.de](https://www.volvocars.de)
+- [https://www.volvocars.com/es](https://www.volvocars.com/es)
+- [https://volvocars-concessions.com](https://volvocars-concessions.com)
+- [https://www.volvocars.com/nl](https://www.volvocars.com/nl)
 
 ## Brand Guidelines
 
@@ -262,7 +272,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
-| Foundation Date | [1927](/foundation_dates/1927/); [2010](/foundation_dates/2010/) |
+| Foundation Date | [2010](/foundation_dates/2010/); [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Volvo Cars |
 | Freebase Id | /m/022hnr |
 | Headquarters Location | Gothenburg |

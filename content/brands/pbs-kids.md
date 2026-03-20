@@ -2,7 +2,7 @@
 title: PBS Kids
 slug: "pbs-kids"
 description: ""
-date: "2026-03-13T09:22:52.819933"
+date: "2026-03-20T08:22:03.832195"
 draft: false
 sectors:
   - broadcasting
@@ -32,8 +32,10 @@ headquarters_locations:
   - "crystal-city"
 subsidiaries: []
 foundation_dates:
-  - 1994
   - 1999
+  - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,11 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pbskids.org/](https://pbskids.org/)
-- [https://pbskids.org/apps/](https://pbskids.org/apps/)
-- [https://www.pbs.org/](https://www.pbs.org/)
-- [https://www.pbs.org/apps/](https://www.pbs.org/apps/)
-- [https://www.pbs.org/parents/](https://www.pbs.org/parents/)
+- [https://pbskids.org](https://pbskids.org)
+- [https://www.pbs.org/parents](https://www.pbs.org/parents)
+- [https://www.pbs.org](https://www.pbs.org)
+- [https://www.pbs.org/apps](https://www.pbs.org/apps)
+- [https://pbskids.org/apps](https://pbskids.org/apps)
 
 ## Brand Guidelines
 
@@ -87,7 +89,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Crystal City](/headquarters_locations/crystal-city/) |
-| Foundation Date | [1994](/foundation_dates/1994/); [1999](/foundation_dates/1999/) |
+| Foundation Date | [1999](/foundation_dates/1999/); [1994](/foundation_dates/1994/) |
 | Topic'S Main Category | Category:PBS Kids |
 | Freebase Id | /m/06_zh7 |
 | Inception | 1994-07-11, 1999-09-06 |

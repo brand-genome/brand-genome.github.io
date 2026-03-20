@@ -2,7 +2,7 @@
 title: World Nomads
 slug: "world-nomads"
 description: ""
-date: "2026-03-13T09:22:53.970130"
+date: "2026-03-20T08:22:04.895944"
 draft: false
 sectors:
   - insurance
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - symbol
+  - primary
   - secondary
 brand_colors:
   - black
 typographies:
   - ubuntu
 imagery_styles:
-  - vibrant
-  - dynamic
   - clean
+  - dynamic
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.worldnomads.com/brand/style-guide](http://www.worldnomads.com/brand/style-guide)
-- [https://www.worldnomads.com/](https://www.worldnomads.com/)
+- [https://www.worldnomads.com](https://www.worldnomads.com)
 - [https://www.worldnomads.com/usa/travel-insurance](https://www.worldnomads.com/usa/travel-insurance)
+- [http://www.worldnomads.com/brand/style-guide](http://www.worldnomads.com/brand/style-guide)
 
 ## Brand Guidelines
 

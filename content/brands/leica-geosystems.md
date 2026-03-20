@@ -2,7 +2,7 @@
 title: Leica Geosystems
 slug: "leica-geosystems"
 description: ""
-date: "2026-03-13T09:22:53.669858"
+date: "2026-03-20T08:22:04.527430"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q673165"
 has_twitter: false
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://leica-geosystems.com/](https://leica-geosystems.com/)
-- [https://leica-geosystems.com/en-us/](https://leica-geosystems.com/en-us/)
+- [https://leica-geosystems.com](https://leica-geosystems.com)
+- [https://leica-geosystems.com/en-us](https://leica-geosystems.com/en-us)
 - [https://leica-geosystems.com/en/services-and-support/product-services/myworld---customer-portal](https://leica-geosystems.com/en/services-and-support/product-services/myworld---customer-portal)
+- [http://www.leica-geosystems.com](http://www.leica-geosystems.com)
 
 ## Brand Guidelines
 

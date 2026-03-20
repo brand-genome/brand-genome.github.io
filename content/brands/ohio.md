@@ -2,7 +2,7 @@
 title: Ohio
 slug: ohio
 description: ""
-date: "2026-03-13T09:22:52.311351"
+date: "2026-03-20T08:22:03.377120"
 draft: false
 sectors:
   - "public-sector"
@@ -10,14 +10,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2023
+  - 2019
   - 2006
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,24 +56,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - orange
-  - black
-  - green
   - red
-  - blue
+  - green
   - gold
   - white
+  - blue
+  - orange
+  - black
 typographies:
   - avenir
 imagery_styles:
-  - vibrant
   - clean
+  - vibrant
   - contemporary
 wikidata_description: "public research university in Columbus, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q309331"
@@ -84,11 +86,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Ohio.gov](http://www.Ohio.gov)
-- [http://www.Ohio.org](http://www.Ohio.org)
-- [http://www.OhioVets.gov](http://www.OhioVets.gov)
-- [https://ohio.org/](https://ohio.org/)
-- [https://welcometoohio.org/](https://welcometoohio.org/)
+- [https://welcometoohio.org](https://welcometoohio.org)
+- [https://ohio.org](https://ohio.org)
+- [http://www.ohio.gov](http://www.ohio.gov)
+- [http://www.ohio.org](http://www.ohio.org)
+- [http://www.ohiovets.gov](http://www.ohiovets.gov)
+- [https://osu.edu](https://osu.edu)
 
 ## Brand Guidelines
 

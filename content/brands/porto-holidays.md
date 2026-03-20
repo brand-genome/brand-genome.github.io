@@ -2,7 +2,7 @@
 title: Porto Holidays
 slug: "porto-holidays"
 description: ""
-date: "2026-03-13T09:22:54.971508"
+date: "2026-03-20T08:22:05.702045"
 draft: false
 sectors:
   - hospitality
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-361"
-  - "pantone-144"
-  - "pantone-2728"
-  - "pantone-299"
   - "pantone-2395"
-  - "pantone-393"
   - "pantone-485"
   - "pantone-2756"
+  - "pantone-361"
+  - "pantone-393"
+  - "pantone-2728"
+  - "pantone-299"
+  - "pantone-144"
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.acapitalholding.com/](https://www.acapitalholding.com/)
-- [https://www.portohotelseg.com/](https://www.portohotelseg.com/)
+- [https://www.portohotelseg.com](https://www.portohotelseg.com)
+- [https://www.acapitalholding.com](https://www.acapitalholding.com)
 
 ## Brand Guidelines
 

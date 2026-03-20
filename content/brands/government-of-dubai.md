@@ -2,7 +2,7 @@
 title: Government of Dubai
 slug: "government-of-dubai"
 description: ""
-date: "2026-03-13T09:22:53.013650"
+date: "2026-03-20T08:22:04.004036"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - arabic
 tags:
+  - institution
   - featured
   - regional
-  - institution
 industries: []
 countries:
   - "united-arab-emirates"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dubainow.dubai.ae/](https://dubainow.dubai.ae/)
+- [https://www.dubai.ae](https://www.dubai.ae)
+- [https://dubainow.dubai.ae](https://dubainow.dubai.ae)
 - [https://tec.gov.ae/en/web/tec/government-of-dubai](https://tec.gov.ae/en/web/tec/government-of-dubai)
-- [https://www.dubai.ae/](https://www.dubai.ae/)
-- [https://www.mediaoffice.ae/](https://www.mediaoffice.ae/)
+- [https://www.mediaoffice.ae](https://www.mediaoffice.ae)
+- [http://www.tec.govu.ae/web/tec/government-of-dubai](http://www.tec.govu.ae/web/tec/government-of-dubai)
 
 ## Brand Guidelines
 

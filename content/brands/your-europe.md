@@ -2,7 +2,7 @@
 title: Your Europe
 slug: "your-europe"
 description: ""
-date: "2026-03-13T09:22:52.199336"
+date: "2026-03-20T08:22:03.266334"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,41 +52,41 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - emblem
   - vertical
   - secondary
   - horizontal
+  - emblem
+  - wordmark
+  - primary
 brand_colors:
-  - turquoise
-  - "pantone-170"
+  - green
+  - "pantone-2915"
+  - coral
+  - white
+  - grey
   - blue
+  - "pantone-170"
+  - "pantone-7523"
+  - yellow
   - "pantone-487"
   - "pantone-290"
-  - yellow
-  - grey
-  - "pantone-2915"
   - gray
+  - turquoise
   - "pantone-7506"
   - black
-  - "pantone-7523"
-  - coral
-  - green
-  - white
 typographies:
   - impact
 imagery_styles:
-  - artificial
-  - natural
-  - organic
-  - realistic
-  - monochrome
-  - staged
   - dynamic
-  - gradient
-  - bold
+  - staged
+  - artificial
   - graphic
+  - organic
+  - bold
+  - natural
+  - gradient
+  - monochrome
+  - realistic
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q132034944"
 has_twitter: false
@@ -96,7 +98,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://europa.eu/youreurope/](https://europa.eu/youreurope/)
+- [https://europa.eu/youreurope](https://europa.eu/youreurope)
 - [https://europa.eu/youreurope/promotion/index_en.htm](https://europa.eu/youreurope/promotion/index_en.htm)
 
 ## Brand Guidelines

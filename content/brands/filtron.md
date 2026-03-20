@@ -2,7 +2,7 @@
 title: Filtron
 slug: filtron
 description: ""
-date: "2026-03-13T09:22:54.553197"
+date: "2026-03-20T08:22:05.398832"
 draft: false
 sectors:
   - automobile
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1940
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - "pantone-186"
-  - "pantone-376"
-  - black
-  - "pantone-109"
-  - white
   - "pantone-429"
+  - "pantone-376"
+  - white
+  - "pantone-109"
   - "pantone-427"
+  - "pantone-186"
+  - black
 typographies:
   - arial
   - futura
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.filtron.eu](http://www.filtron.eu)
 - [https://filtron.eu/en](https://filtron.eu/en)
+- [http://www.filtron.eu](http://www.filtron.eu)
+- [http://www.essentra.com](http://www.essentra.com)
 
 ## Brand Guidelines
 

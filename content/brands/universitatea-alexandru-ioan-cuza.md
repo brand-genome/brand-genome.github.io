@@ -2,7 +2,7 @@
 title: Universitatea Alexandru Ioan Cuza
 slug: "universitatea-alexandru-ioan-cuza"
 description: ""
-date: "2026-03-13T09:22:53.082045"
+date: "2026-03-20T08:22:04.082889"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1860
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,10 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.uaic.ro](https://www.uaic.ro)
+- [https://www.uaic.ro/en](https://www.uaic.ro/en)
+- [https://identitate.uaic.ro](https://identitate.uaic.ro)
 - [http://360.uaic.ro](http://360.uaic.ro)
-- [https://identitate.uaic.ro/](https://identitate.uaic.ro/)
-- [https://www.uaic.ro/](https://www.uaic.ro/)
-- [https://www.uaic.ro/en/](https://www.uaic.ro/en/)
+- [http://www.uaic.ro](http://www.uaic.ro)
 
 ## Brand Guidelines
 

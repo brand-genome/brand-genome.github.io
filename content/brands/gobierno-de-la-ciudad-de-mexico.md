@@ -2,7 +2,7 @@
 title: Gobierno de la Ciudad de México
 slug: "gobierno-de-la-ciudad-de-mexico"
 description: ""
-date: "2026-03-13T09:22:52.101843"
+date: "2026-03-20T08:22:03.159769"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://gobierno.cdmx.gob.mx](https://gobierno.cdmx.gob.mx)
+- [https://www.cdmx.gob.mx](https://www.cdmx.gob.mx)
+- [https://www.jefaturadegobierno.cdmx.gob.mx](https://www.jefaturadegobierno.cdmx.gob.mx)
 - [http://www.gob.mx](http://www.gob.mx)
-- [https://gobierno.cdmx.gob.mx/](https://gobierno.cdmx.gob.mx/)
-- [https://www.cdmx.gob.mx/](https://www.cdmx.gob.mx/)
-- [https://www.jefaturadegobierno.cdmx.gob.mx/](https://www.jefaturadegobierno.cdmx.gob.mx/)
 
 ## Brand Guidelines
 

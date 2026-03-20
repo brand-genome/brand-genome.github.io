@@ -2,11 +2,11 @@
 title: NAHB
 slug: nahb
 description: ""
-date: "2026-03-13T09:22:54.411650"
+date: "2026-03-20T08:22:05.243553"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - usa
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors: []
 typographies: []
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nahb.org](https://www.nahb.org)
 - [http://www.nahb.org](http://www.nahb.org)
-- [https://www.nahb.org/](https://www.nahb.org/)
+- [http://www.nationalhousingendowment.org/showpage_details.aspx?showpageID=17352](http://www.nationalhousingendowment.org/showpage_details.aspx?showpageID=17352)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: City University of New York
 slug: "city-university-of-new-york"
 description: ""
-date: "2026-03-13T09:22:53.257020"
+date: "2026-03-20T08:22:04.182545"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.CUNY.edu](http://www.CUNY.edu)
-- [https://www.cuny.edu/](https://www.cuny.edu/)
+- [https://www.cuny.edu](https://www.cuny.edu)
+- [http://www.cuny.edu](http://www.cuny.edu)
+- [https://cuny.edu](https://cuny.edu)
 
 ## Brand Guidelines
 

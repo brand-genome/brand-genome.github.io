@@ -2,7 +2,7 @@
 title: Flipboard
 slug: flipboard
 description: ""
-date: "2026-03-13T09:22:54.788273"
+date: "2026-03-20T08:22:05.565163"
 draft: false
 sectors:
   - publishing
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,27 +49,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
-  - "app-icon"
   - vertical
-  - lockup
+  - logomark
   - horizontal
+  - "app-icon"
+  - lockup
+  - primary
 brand_colors:
+  - red
   - "pantone-433"
+  - "pantone-692"
+  - white
+  - "pantone-691"
   - grey
   - "pantone-2035"
   - black
-  - red
-  - "pantone-691"
-  - white
-  - "pantone-692"
 typographies: []
 imagery_styles:
   - classic
-  - illustration
-  - subtle
   - graphic
+  - subtle
+  - illustration
 wikidata_description: software application developed by Flipboard Inc.
 wikidata_url: "https://www.wikidata.org/wiki/Q108678871"
 has_twitter: false
@@ -80,10 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.flip.it/logos](http://www.flip.it/logos)
+- [https://flipboard.com](https://flipboard.com)
 - [https://flip.it/logos](https://flip.it/logos)
-- [https://flipboard.com/](https://flipboard.com/)
 - [https://flipboard.com/newsletters](https://flipboard.com/newsletters)
+- [http://www.flip.it/logos](http://www.flip.it/logos)
 
 ## Brand Guidelines
 

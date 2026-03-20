@@ -2,7 +2,7 @@
 title: Ryerson University
 slug: "ryerson-university"
 description: ""
-date: "2026-03-13T09:22:53.670107"
+date: "2026-03-20T08:22:04.527775"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
   - gold
   - blue
 typographies:
   - impact
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "public research university located in Toronto, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q611723"
 has_twitter: false
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tmubold.ca/](https://tmubold.ca/)
-- [https://www.torontomu.ca/](https://www.torontomu.ca/)
-- [https://www.torontomuic.ca/](https://www.torontomuic.ca/)
+- [https://www.torontomu.ca](https://www.torontomu.ca)
+- [https://tmubold.ca](https://tmubold.ca)
+- [https://www.torontomuic.ca](https://www.torontomuic.ca)
+- [http://www.ryerson.ca](http://www.ryerson.ca)
 
 ## Brand Guidelines
 

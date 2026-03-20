@@ -2,7 +2,7 @@
 title: IWWF
 slug: iwwf
 description: ""
-date: "2026-03-13T09:22:54.798245"
+date: "2026-03-20T08:22:05.571690"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1955
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +50,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
+  - red
   - green
   - yellow
-  - red
   - blue
 typographies: []
 imagery_styles: []
@@ -68,8 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iwwf.sport/](https://iwwf.sport/)
-- [https://www.iwsf.com/](https://www.iwsf.com/)
+- [https://iwwf.sport](https://iwwf.sport)
+- [https://www.iwsf.com](https://www.iwsf.com)
+- [http://www.iwsf.com](http://www.iwsf.com)
+- [http://www.iwwfed.com](http://www.iwwfed.com)
+- [https://ems.iwwf.sport](https://ems.iwwf.sport)
 
 ## Brand Guidelines
 

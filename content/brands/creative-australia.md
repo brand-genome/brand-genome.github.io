@@ -2,7 +2,7 @@
 title: Creative Australia
 slug: "creative-australia"
 description: ""
-date: "2026-03-13T09:22:51.916348"
+date: "2026-03-20T08:22:03.073024"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
-  - purple
-  - white
   - blue
+  - white
+  - purple
+  - black
 typographies:
   - helvetica
 imagery_styles: []

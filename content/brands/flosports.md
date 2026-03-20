@@ -2,7 +2,7 @@
 title: FloSports
 slug: flosports
 description: ""
-date: "2026-03-13T09:22:53.283610"
+date: "2026-03-20T08:22:04.212838"
 draft: false
 sectors:
   - broadcasting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.flosports.tv/](https://support.flosports.tv/)
-- [https://www.flosports.tv/](https://www.flosports.tv/)
+- [https://www.flosports.tv](https://www.flosports.tv)
+- [https://support.flosports.tv](https://support.flosports.tv)
 
 ## Brand Guidelines
 

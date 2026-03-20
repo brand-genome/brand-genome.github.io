@@ -2,11 +2,11 @@
 title: Foursquare
 slug: foursquare
 description: ""
-date: "2026-03-13T09:22:54.820015"
+date: "2026-03-20T08:22:05.582698"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - media
   - networks
 industries:
-  - "social-networking-service"
   - "location-intelligence"
+  - "social-networking-service"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -30,22 +30,24 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "foursquare-studio"
   - "places-by-foursquare"
-  - "foursquare-swarm"
+  - "pilgrim-toolkit"
+  - foursweep
   - "pinpoint-by-foursquare"
   - "pilgrim-sdk-by-foursquare"
-  - "pilgrim-toolkit"
-  - "foursquare-city-guide"
   - "attribution-by-foursquare"
-  - foursweep
+  - "foursquare-city-guide"
   - marsbot
+  - "foursquare-studio"
+  - "foursquare-swarm"
 products: []
 headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -78,8 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://foursquare.com/](https://foursquare.com/)
-- [https://foursquare.com/developer/](https://foursquare.com/developer/)
+- [https://foursquare.com](https://foursquare.com)
+- [https://foursquare.com/developer](https://foursquare.com/developer)
+- [https://tr.foursquare.com](https://tr.foursquare.com)
+- [https://it.foursquare.com](https://it.foursquare.com)
 
 ## Brand Guidelines
 
@@ -99,7 +103,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Foursquare Studio](/products_or_materials_produced/foursquare-studio/); [Places By Foursquare](/products_or_materials_produced/places-by-foursquare/); [Foursquare Swarm](/products_or_materials_produced/foursquare-swarm/); [Pinpoint By Foursquare](/products_or_materials_produced/pinpoint-by-foursquare/); [Pilgrim Sdk By Foursquare](/products_or_materials_produced/pilgrim-sdk-by-foursquare/); [Pilgrim Toolkit](/products_or_materials_produced/pilgrim-toolkit/); [Foursquare City Guide](/products_or_materials_produced/foursquare-city-guide/); [Attribution By Foursquare](/products_or_materials_produced/attribution-by-foursquare/); [Foursweep](/products_or_materials_produced/foursweep/); [Marsbot](/products_or_materials_produced/marsbot/) |
+| Product Or Material Produced | [Places By Foursquare](/products_or_materials_produced/places-by-foursquare/); [Pilgrim Toolkit](/products_or_materials_produced/pilgrim-toolkit/); [Foursweep](/products_or_materials_produced/foursweep/); [Pinpoint By Foursquare](/products_or_materials_produced/pinpoint-by-foursquare/); [Pilgrim Sdk By Foursquare](/products_or_materials_produced/pilgrim-sdk-by-foursquare/); [Attribution By Foursquare](/products_or_materials_produced/attribution-by-foursquare/); [Foursquare City Guide](/products_or_materials_produced/foursquare-city-guide/); [Marsbot](/products_or_materials_produced/marsbot/); [Foursquare Studio](/products_or_materials_produced/foursquare-studio/); [Foursquare Swarm](/products_or_materials_produced/foursquare-swarm/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Freebase Id | /m/06wcbt9 |

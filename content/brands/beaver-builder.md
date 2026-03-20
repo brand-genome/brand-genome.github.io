@@ -2,7 +2,7 @@
 title: Beaver Builder
 slug: "beaver-builder"
 description: ""
-date: "2026-03-13T09:22:53.272048"
+date: "2026-03-20T08:22:04.199397"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - red
+  - black
   - brown
 typographies:
+  - "open-sans"
   - display
   - helvetica
-  - "open-sans"
   - roboto
 imagery_styles:
-  - product
   - bold
   - graphic
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.wpbeaverbuilder.com/](https://docs.wpbeaverbuilder.com/)
-- [https://www.assistant.pro/](https://www.assistant.pro/)
-- [https://www.wpbeaverbuilder.com/](https://www.wpbeaverbuilder.com/)
+- [https://www.wpbeaverbuilder.com](https://www.wpbeaverbuilder.com)
+- [https://docs.wpbeaverbuilder.com](https://docs.wpbeaverbuilder.com)
+- [https://www.assistant.pro](https://www.assistant.pro)
 
 ## Brand Guidelines
 

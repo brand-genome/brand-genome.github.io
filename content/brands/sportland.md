@@ -2,7 +2,7 @@
 title: Sportland
 slug: sportland
 description: ""
-date: "2026-03-13T09:22:53.533078"
+date: "2026-03-20T08:22:04.415053"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - white
+  - black
   - "pantone-108"
 typographies: []
 imagery_styles: []
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sportland.fvg.it/](https://sportland.fvg.it/)
+- [https://sportland.fvg.it](https://sportland.fvg.it)
 
 ## Brand Guidelines
 

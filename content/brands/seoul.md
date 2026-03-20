@@ -2,7 +2,7 @@
 title: Seoul
 slug: seoul
 description: ""
-date: "2026-03-13T09:22:54.356025"
+date: "2026-03-20T08:22:05.186193"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1395
+foundation_year_buckets:
+  - "14TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://english.seoul.go.kr/seoul-views/brand/city-brand-iseoulu/](https://english.seoul.go.kr/seoul-views/brand/city-brand-iseoulu/)
+- [https://english.seoul.go.kr/seoul-views/brand/city-brand-iseoulu](https://english.seoul.go.kr/seoul-views/brand/city-brand-iseoulu)
+- [http://www.seoul.go.kr](http://www.seoul.go.kr)
+- [https://english.seoul.go.kr](https://english.seoul.go.kr)
 
 ## Brand Guidelines
 

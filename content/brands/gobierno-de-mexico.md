@@ -2,7 +2,7 @@
 title: Gobierno de México
 slug: "gobierno-de-mexico"
 description: ""
-date: "2026-03-13T09:22:53.336859"
+date: "2026-03-20T08:22:04.246420"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - "pantone-468"
-  - "pantone-7420"
   - "pantone-7421"
+  - "pantone-7420"
   - "pantone-504"
   - "pantone-490"
-  - black
   - "pantone-465"
+  - black
+  - "pantone-468"
 typographies:
-  - serif
   - montserrat
+  - serif
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gob.mx](https://www.gob.mx)
 - [http://www.gob.mx](http://www.gob.mx)
-- [https://www.gob.mx/](https://www.gob.mx/)
 
 ## Brand Guidelines
 

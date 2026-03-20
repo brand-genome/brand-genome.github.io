@@ -2,11 +2,11 @@
 title: Lamar Athletics
 slug: "lamar-athletics"
 description: ""
-date: "2026-03-13T09:22:53.289342"
+date: "2026-03-20T08:22:04.214760"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - monogram
-  - secondary
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-199"
-  - gold
-  - black
-  - white
   - red
-  - "pantone-137"
   - green
+  - gold
+  - "pantone-137"
+  - white
+  - "pantone-199"
   - "pantone-374"
+  - black
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
   - graphic
 wikidata_description: ""
 wikidata_url: ""
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lamarcardinals.com/](https://lamarcardinals.com/)
+- [https://lamarcardinals.com](https://lamarcardinals.com)
 - [https://lamarcardinals.com/index.aspx](https://lamarcardinals.com/index.aspx)
 
 ## Brand Guidelines

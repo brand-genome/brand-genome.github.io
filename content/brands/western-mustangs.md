@@ -2,11 +2,11 @@
 title: Western Mustangs
 slug: "western-mustangs"
 description: ""
-date: "2026-03-13T09:22:54.722359"
+date: "2026-03-20T08:22:05.519676"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - canada
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +52,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - cyan
-  - yellow
-  - black
-  - magenta
   - red
-  - blue
   - green
+  - cyan
+  - blue
+  - yellow
+  - magenta
+  - black
 typographies:
   - display
 imagery_styles:
@@ -74,10 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://westernmustangs.ca](https://westernmustangs.ca)
+- [https://www.uwo.ca/campus_life/athletics.html](https://www.uwo.ca/campus_life/athletics.html)
 - [http://www.westernmustangs.ca](http://www.westernmustangs.ca)
 - [http://www.westernu.ca](http://www.westernu.ca)
-- [https://westernmustangs.ca/](https://westernmustangs.ca/)
-- [https://www.uwo.ca/campus_life/athletics.html](https://www.uwo.ca/campus_life/athletics.html)
 
 ## Brand Guidelines
 

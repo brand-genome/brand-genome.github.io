@@ -2,11 +2,11 @@
 title: GT Bicycles
 slug: "gt-bicycles"
 description: ""
-date: "2026-03-13T09:22:53.712087"
+date: "2026-03-20T08:22:04.659118"
 draft: false
 sectors:
-  - "consumer-goods"
   - sports
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
+  - lockup
   - primary
   - secondary
-  - lockup
+  - badge
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies:
-  - georgia
   - times
+  - georgia
 imagery_styles:
-  - vintage
   - photography
-  - product
   - bold
+  - vintage
+  - product
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1487417"
 has_twitter: false
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GTBicycles.com](http://www.GTBicycles.com)
-- [https://gtbicycles.com/](https://gtbicycles.com/)
+- [https://gtbicycles.com](https://gtbicycles.com)
+- [http://www.gtbicycles.com](http://www.gtbicycles.com)
 
 ## Brand Guidelines
 

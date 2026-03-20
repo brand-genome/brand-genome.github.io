@@ -2,7 +2,7 @@
 title: TOPdesk
 slug: topdesk
 description: ""
-date: "2026-03-13T09:22:54.228609"
+date: "2026-03-20T08:22:05.066031"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,27 +50,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - logomark
-  - icon
   - primary
   - favicon
-  - secondary
+  - icon
 brand_colors:
-  - coral
   - black
+  - coral
   - white
   - blue
 typographies:
-  - serif
   - "open-sans"
+  - serif
 imagery_styles:
-  - illustration
-  - geometric
   - minimal
-  - photography
   - colorful
   - professional
   - bold
+  - illustration
+  - photography
+  - geometric
 wikidata_description: developer and supplier of service management software
 wikidata_url: "https://www.wikidata.org/wiki/Q28735360"
 has_twitter: false
@@ -80,10 +82,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.topdesk.com/](https://docs.topdesk.com/)
-- [https://my.topdesk.com/](https://my.topdesk.com/)
-- [https://www.topdesk.com/en/](https://www.topdesk.com/en/)
-- [https://www.topdesk.com/en/contact/](https://www.topdesk.com/en/contact/)
+- [https://www.topdesk.com/en](https://www.topdesk.com/en)
+- [https://www.topdesk.com/en/contact](https://www.topdesk.com/en/contact)
+- [https://my.topdesk.com](https://my.topdesk.com)
+- [https://docs.topdesk.com](https://docs.topdesk.com)
+- [https://www.topdesk.com](https://www.topdesk.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ofur
 slug: ofur
 description: ""
-date: "2026-03-13T09:22:52.186947"
+date: "2026-03-20T08:22:03.254024"
 draft: false
 sectors:
   - fashion
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
   - black
   - green
-  - magenta
   - white
+  - magenta
 typographies:
   - "open-sans"
   - montserrat
 imagery_styles:
-  - dynamic
-  - photography
   - product
   - bold
+  - dynamic
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11262379"
 has_twitter: false
@@ -78,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.OFUR.NL](http://www.OFUR.NL)
-- [https://ofur.nl/](https://ofur.nl/)
-- [https://ofur.nl/brand/](https://ofur.nl/brand/)
+- [https://ofur.nl](https://ofur.nl)
+- [https://ofur.nl/brand](https://ofur.nl/brand)
+- [http://www.ofur.nl](http://www.ofur.nl)
 
 ## Brand Guidelines
 

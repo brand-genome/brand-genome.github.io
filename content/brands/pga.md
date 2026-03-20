@@ -2,7 +2,7 @@
 title: PGA
 slug: pga
 description: ""
-date: "2026-03-13T09:22:53.962321"
+date: "2026-03-20T08:22:04.885989"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ logo_elements:
   - seal
   - primary
 brand_colors:
-  - black
+  - gold
   - "pantone-872"
   - blue
-  - gold
   - "pantone-533"
+  - black
 typographies:
-  - arial
   - gotham
   - serif
-  - times
   - impact
+  - arial
+  - times
 imagery_styles:
   - bold
   - graphic
@@ -79,8 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.pga.com](https://www.pga.com)
 - [http://www.pga.com](http://www.pga.com)
-- [https://www.pga.com/](https://www.pga.com/)
+- [http://www.producersguild.org](http://www.producersguild.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: PIATA
 slug: piata
 description: ""
-date: "2026-03-13T09:22:54.811365"
+date: "2026-03-20T08:22:05.580339"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://agra.org/piata](https://agra.org/piata)
+- [https://agra.org/publication/piata-final-evaluation-report-volume-i](https://agra.org/publication/piata-final-evaluation-report-volume-i)
+- [https://agra.org/piata-evaluation-report](https://agra.org/piata-evaluation-report)
 - [http://www.agra.org](http://www.agra.org)
-- [https://agra.org/piata-evaluation-report/](https://agra.org/piata-evaluation-report/)
-- [https://agra.org/piata/](https://agra.org/piata/)
-- [https://agra.org/publication/piata-final-evaluation-report-volume-i/](https://agra.org/publication/piata-final-evaluation-report-volume-i/)
 
 ## Brand Guidelines
 

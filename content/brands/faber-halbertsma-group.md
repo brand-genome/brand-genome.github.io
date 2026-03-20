@@ -2,7 +2,7 @@
 title: Faber Halbertsma Group
 slug: "faber-halbertsma-group"
 description: ""
-date: "2026-03-13T09:22:53.643473"
+date: "2026-03-20T08:22:04.499920"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,29 +49,29 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-569"
-  - "pantone-709"
-  - "pantone-433"
-  - grey
-  - yellow
-  - "pantone-7540"
-  - orange
-  - "pantone-382"
-  - "pantone-123"
-  - "pantone-381"
-  - "pantone-637"
-  - pink
-  - blue
-  - "pantone-137"
   - green
   - "pantone-1915"
+  - "pantone-7540"
+  - "pantone-433"
+  - "pantone-137"
+  - "pantone-123"
+  - "pantone-382"
+  - "pantone-381"
   - white
+  - grey
+  - blue
   - "pantone-334"
+  - "pantone-637"
+  - yellow
+  - "pantone-709"
+  - "pantone-569"
+  - orange
+  - pink
 typographies:
   - roboto
 imagery_styles:
-  - illustration
   - bold
+  - illustration
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,12 +83,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.faber.group/](https://www.faber.group/)
-- [https://www.ipp-pooling.com/](https://www.ipp-pooling.com/)
-- [https://www.paki-logistics.com/](https://www.paki-logistics.com/)
-- [https://www.prs-pooling.com/](https://www.prs-pooling.com/)
-- [https://www.satim.nl/](https://www.satim.nl/)
-- [https://www.vpool.eu/](https://www.vpool.eu/)
+- [https://www.faber.group](https://www.faber.group)
+- [https://www.ipp-pooling.com](https://www.ipp-pooling.com)
+- [https://www.paki-logistics.com](https://www.paki-logistics.com)
+- [https://www.prs-pooling.com](https://www.prs-pooling.com)
+- [https://www.vpool.eu](https://www.vpool.eu)
+- [https://www.satim.nl](https://www.satim.nl)
 
 ## Brand Guidelines
 

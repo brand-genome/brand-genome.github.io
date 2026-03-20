@@ -2,7 +2,7 @@
 title: Misfits
 slug: misfits
 description: ""
-date: "2026-03-13T09:22:52.304579"
+date: "2026-03-20T08:22:03.373471"
 draft: false
 sectors:
   - "social-media"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.misfits.net.in/](https://www.misfits.net.in/)
+- [https://www.misfits.net.in](https://www.misfits.net.in)
+- [http://www.misfits.com](http://www.misfits.com)
 
 ## Brand Guidelines
 

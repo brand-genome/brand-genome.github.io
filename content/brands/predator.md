@@ -2,7 +2,7 @@
 title: Predator
 slug: predator
 description: ""
-date: "2026-03-13T09:22:53.543896"
+date: "2026-03-20T08:22:04.419241"
 draft: false
 sectors:
   - electronics
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
+  - red
   - "pantone-185"
   - white
-  - red
+  - black
 typographies:
   - arial
 imagery_styles:
   - photography
+  - bold
   - modern
   - product
-  - bold
 wikidata_description: organism that preys upon and consumes other organisms through various methods of predation
 wikidata_url: "https://www.wikidata.org/wiki/Q29017578"
 has_twitter: false
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://predator.acer.com/](https://predator.acer.com/)
 - [https://www.acer.com/predator](https://www.acer.com/predator)
+- [https://predator.acer.com](https://predator.acer.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sant Boi de Llobregat
 slug: "sant-boi-de-llobregat"
 description: ""
-date: "2026-03-13T09:22:52.875374"
+date: "2026-03-20T08:22:03.872025"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - catalan
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - spain
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.santboi.cat/](https://www.santboi.cat/)
+- [https://www.santboi.cat](https://www.santboi.cat)
 - [https://www.santboi.cat/en](https://www.santboi.cat/en)
 
 ## Brand Guidelines

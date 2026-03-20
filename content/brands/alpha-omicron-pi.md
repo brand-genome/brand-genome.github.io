@@ -2,7 +2,7 @@
 title: Alpha Omicron Pi
 slug: "alpha-omicron-pi"
 description: ""
-date: "2026-03-13T09:22:54.420319"
+date: "2026-03-20T08:22:05.316469"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +51,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - coral
-  - black
   - gray
   - pink
+  - coral
+  - black
 typographies:
   - "sans-serif"
   - script
@@ -73,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.alphaomicronpi.org](https://www.alphaomicronpi.org)
+- [https://www.alphaomicronpi.org/foundation](https://www.alphaomicronpi.org/foundation)
 - [http://www.alphaomicronpi.org](http://www.alphaomicronpi.org)
 - [http://www.myfonts.com/fonts/marksimonson/proxima-nova](http://www.myfonts.com/fonts/marksimonson/proxima-nova)
-- [https://www.alphaomicronpi.org/](https://www.alphaomicronpi.org/)
-- [https://www.alphaomicronpi.org/foundation/](https://www.alphaomicronpi.org/foundation/)
+- [http://www.alphaomicronpi.org/foundation2](http://www.alphaomicronpi.org/foundation2)
 
 ## Brand Guidelines
 

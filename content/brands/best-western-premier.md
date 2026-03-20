@@ -2,7 +2,7 @@
 title: Best Western Premier
 slug: "best-western-premier"
 description: ""
-date: "2026-03-13T09:22:53.572035"
+date: "2026-03-20T08:22:04.440620"
 draft: false
 sectors:
   - hospitality
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bestwestern.com/](https://www.bestwestern.com/)
 - [https://www.bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-premier.html](https://www.bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-premier.html)
+- [https://www.bestwestern.com](https://www.bestwestern.com)
 
 ## Brand Guidelines
 

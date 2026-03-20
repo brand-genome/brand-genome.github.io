@@ -2,11 +2,11 @@
 title: Satair
 slug: satair
 description: ""
-date: "2026-03-13T09:22:54.748166"
+date: "2026-03-20T08:22:05.546729"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - aerospace
+  - "logistics-supply-chain"
 regions:
   - denmark
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,18 +59,18 @@ logo_elements:
   - secondary
 brand_colors:
   - silver
-  - "pantone-7706"
-  - black
   - "pantone-2210"
-  - "pantone-7635"
-  - "pantone-3282"
   - white
+  - "pantone-3282"
+  - black
+  - "pantone-7706"
+  - "pantone-7635"
 typographies:
   - helvetica
 imagery_styles:
+  - aerial
   - clean
   - professional
-  - aerial
 wikidata_description: satair
 wikidata_url: "https://www.wikidata.org/wiki/Q2225843"
 has_twitter: false
@@ -80,8 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.satair.com](https://www.satair.com)
 - [http://www.satair.com](http://www.satair.com)
-- [https://www.satair.com/](https://www.satair.com/)
 
 ## Brand Guidelines
 

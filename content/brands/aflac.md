@@ -2,7 +2,7 @@
 title: Aflac
 slug: aflac
 description: ""
-date: "2026-03-13T09:22:52.317920"
+date: "2026-03-20T08:22:03.386046"
 draft: false
 sectors:
   - insurance
@@ -32,6 +32,9 @@ subsidiaries: []
 foundation_dates:
   - 2017
   - 1974
+foundation_year_buckets:
+  - 1970S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aflac.com/](https://www.aflac.com/)
-- [https://www.aflacgroupinsurance.com/](https://www.aflacgroupinsurance.com/)
+- [https://www.aflac.com](https://www.aflac.com)
+- [https://www.aflacgroupinsurance.com](https://www.aflacgroupinsurance.com)
+- [https://www.aflac.co.jp](https://www.aflac.co.jp)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: University of North Carolina at Chapel Hill
 slug: "university-of-north-carolina-at-chapel-hill"
 description: ""
-date: "2026-03-13T09:22:52.237459"
+date: "2026-03-20T08:22:03.300345"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1789
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GOHEELS.COM/Tickets](http://www.GOHEELS.COM/Tickets)
+- [https://www.unc.edu](https://www.unc.edu)
+- [https://identity.unc.edu](https://identity.unc.edu)
+- [http://www.goheels.com/Tickets](http://www.goheels.com/Tickets)
 - [http://www.photoshelter.com](http://www.photoshelter.com)
 - [http://www.unchealth.org](http://www.unchealth.org)
 - [http://www.und.edu](http://www.und.edu)
-- [https://identity.unc.edu/](https://identity.unc.edu/)
-- [https://www.unc.edu/](https://www.unc.edu/)
+- [https://unc.edu](https://unc.edu)
 
 ## Brand Guidelines
 

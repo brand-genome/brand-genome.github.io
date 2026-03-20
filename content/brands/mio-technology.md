@@ -2,7 +2,7 @@
 title: Mio Technology
 slug: "mio-technology"
 description: ""
-date: "2026-03-13T09:22:52.227795"
+date: "2026-03-20T08:22:03.292426"
 draft: false
 sectors:
   - electronics
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - lockup
+  - symbol
+  - primary
 brand_colors:
-  - black
   - green
   - white
   - orange
+  - black
 typographies:
   - arial
   - times
 imagery_styles:
+  - product
+  - graphic
+  - bold
+  - portrait
   - natural
+  - photography
   - lifestyle
   - candid
-  - portrait
-  - photography
-  - product
-  - bold
-  - graphic
 wikidata_description: owned brand of MiTAC Digital Technology Corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q619369"
 has_twitter: false
@@ -81,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mio.com/](https://www.mio.com/)
+- [https://www.mio.com](https://www.mio.com)
+- [https://www.mio.com/tw](https://www.mio.com/tw)
 - [https://www.mio.com/ph/about-mio-technology.htm](https://www.mio.com/ph/about-mio-technology.htm)
-- [https://www.mio.com/tw/](https://www.mio.com/tw/)
 
 ## Brand Guidelines
 

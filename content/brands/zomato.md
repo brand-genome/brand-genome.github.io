@@ -2,17 +2,17 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-03-13T09:22:54.799481"
+date: "2026-03-20T08:22:05.573160"
 draft: false
 sectors:
-  - "e-commerce"
   - restaurant
+  - "e-commerce"
   - software
 regions:
   - india
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,21 +54,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies:
-  - "open-sans"
   - "sans-serif"
+  - "open-sans"
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: Indian food delivery service
 wikidata_url: "https://www.wikidata.org/wiki/Q8073715"
 has_twitter: false
@@ -78,8 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hyperpure.com/](https://www.hyperpure.com/)
-- [https://www.zomato.com/](https://www.zomato.com/)
+- [https://www.zomato.com](https://www.zomato.com)
+- [https://www.hyperpure.com](https://www.hyperpure.com)
+- [https://www.zomato.com/tr](https://www.zomato.com/tr)
+- [https://www.zomato.com/uk](https://www.zomato.com/uk)
 
 ## Brand Guidelines
 

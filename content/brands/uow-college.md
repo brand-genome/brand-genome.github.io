@@ -2,7 +2,7 @@
 title: UOW College
 slug: "uow-college"
 description: ""
-date: "2026-03-13T09:22:53.757461"
+date: "2026-03-20T08:22:04.715363"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +50,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - grey
-  - "pantone-412"
-  - black
-  - "pantone-2347"
   - red
   - "pantone-485"
   - white
+  - "pantone-412"
+  - grey
+  - "pantone-2347"
+  - black
 typographies:
   - impact
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: university in Hong Kong
 wikidata_url: "https://www.wikidata.org/wiki/Q15928689"
 has_twitter: false
@@ -75,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uowchk.edu.hk/](https://www.uowchk.edu.hk/)
+- [https://www.uowchk.edu.hk](https://www.uowchk.edu.hk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Air Serbia
 slug: "air-serbia"
 description: ""
-date: "2026-03-13T09:22:52.236733"
+date: "2026-03-20T08:22:03.299386"
 draft: false
 sectors:
   - airline
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,7 @@ visual_term_image_urls: {}
 
 - [https://www.airserbia.com/en](https://www.airserbia.com/en)
 - [https://www.airserbia.com/en_BA](https://www.airserbia.com/en_BA)
+- [https://www.airserbia.com](https://www.airserbia.com)
 
 ## Brand Guidelines
 

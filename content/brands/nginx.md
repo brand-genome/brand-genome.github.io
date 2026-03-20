@@ -2,11 +2,11 @@
 title: Nginx
 slug: nginx
 description: ""
-date: "2026-03-13T09:22:53.441915"
+date: "2026-03-20T08:22:04.345648"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - international
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.nginx.com/](https://docs.nginx.com/)
-- [https://nginx.org/](https://nginx.org/)
-- [https://www.f5.com/go/product/welcome-to-nginx](https://www.f5.com/go/product/welcome-to-nginx)
+- [https://nginx.org](https://nginx.org)
+- [https://docs.nginx.com](https://docs.nginx.com)
 - [https://www.f5.com/products/nginx](https://www.f5.com/products/nginx)
+- [https://www.f5.com/go/product/welcome-to-nginx](https://www.f5.com/go/product/welcome-to-nginx)
 
 ## Brand Guidelines
 

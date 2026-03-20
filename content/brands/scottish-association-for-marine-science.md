@@ -2,11 +2,11 @@
 title: Scottish Association for Marine Science
 slug: "scottish-association-for-marine-science"
 description: ""
-date: "2026-03-13T09:22:51.897056"
+date: "2026-03-20T08:22:03.063465"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - scotland
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1884
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,6 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sams.ac.uk](https://www.sams.ac.uk)
+- [http://www.sams.ac.uk](http://www.sams.ac.uk)
 
 ## Brand Guidelines
 

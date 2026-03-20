@@ -2,11 +2,11 @@
 title: Checkout 51
 slug: "checkout-51"
 description: ""
-date: "2026-03-13T09:22:54.192573"
+date: "2026-03-20T08:22:05.022624"
 draft: false
 sectors:
-  - "e-commerce"
   - "marketing-advertising"
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
-  - lockup
   - secondary
+  - lockup
+  - primary
+  - icon
   - badge
 brand_colors:
-  - grey
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - black
 typographies:
-  - avenir
   - impact
+  - avenir
 imagery_styles:
+  - clean
+  - natural
   - playful
   - photography
-  - natural
-  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.checkout51.com](https://www.checkout51.com)
 - [https://support.checkout51.com/hc/en-us](https://support.checkout51.com/hc/en-us)
-- [https://www.checkout51.com/](https://www.checkout51.com/)
 - [https://www.checkout51.com/contact](https://www.checkout51.com/contact)
 
 ## Brand Guidelines

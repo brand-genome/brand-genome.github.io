@@ -2,7 +2,7 @@
 title: CMO Council
 slug: "cmo-council"
 description: ""
-date: "2026-03-13T09:22:54.732896"
+date: "2026-03-20T08:22:05.529779"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,27 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - "pantone-186"
-  - grey
-  - black
   - red
-  - "pantone-447"
   - white
+  - "pantone-447"
+  - grey
+  - "pantone-186"
+  - black
 typographies:
   - "open-sans"
   - gotham
   - avenir
 imagery_styles:
-  - modern
   - flat
-  - clean
-  - photography
-  - bold
   - graphic
+  - bold
+  - modern
+  - photography
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.cmocouncil.org](https://www.cmocouncil.org)
+- [https://globalfluency.com](https://globalfluency.com)
 - [http://www.cmocouncil.org](http://www.cmocouncil.org)
-- [https://globalfluency.com/](https://globalfluency.com/)
-- [https://www.cmocouncil.org/](https://www.cmocouncil.org/)
 
 ## Brand Guidelines
 

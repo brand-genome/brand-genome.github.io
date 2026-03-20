@@ -2,7 +2,7 @@
 title: Qantas
 slug: qantas
 description: ""
-date: "2026-03-13T09:22:53.965332"
+date: "2026-03-20T08:22:04.890073"
 draft: false
 sectors:
   - airline
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,8 +61,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -75,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.QANTAS.COM](http://www.QANTAS.COM)
-- [https://www.qantas.com.au/](https://www.qantas.com.au/)
-- [https://www.qantas.com/](https://www.qantas.com/)
+- [https://www.qantas.com](https://www.qantas.com)
+- [https://www.qantas.com.au](https://www.qantas.com.au)
+- [http://www.qantas.com](http://www.qantas.com)
 
 ## Brand Guidelines
 

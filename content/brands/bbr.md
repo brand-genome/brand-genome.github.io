@@ -2,7 +2,7 @@
 title: BBR
 slug: bbr
 description: ""
-date: "2026-03-13T09:22:54.826169"
+date: "2026-03-20T08:22:05.588328"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,11 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bbr.ru/](https://bbr.ru/)
-- [https://bbr.ru/en/](https://bbr.ru/en/)
-- [https://ib.bbr.ru/](https://ib.bbr.ru/)
-- [https://shop.bbr.ru/](https://shop.bbr.ru/)
-- [https://wb.bbr.ru/](https://wb.bbr.ru/)
+- [https://bbr.ru](https://bbr.ru)
+- [https://bbr.ru/en](https://bbr.ru/en)
+- [https://wb.bbr.ru](https://wb.bbr.ru)
+- [https://ib.bbr.ru](https://ib.bbr.ru)
+- [https://shop.bbr.ru](https://shop.bbr.ru)
+- [https://www.bbr.bund.de](https://www.bbr.bund.de)
 
 ## Brand Guidelines
 

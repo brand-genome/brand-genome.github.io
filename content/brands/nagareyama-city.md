@@ -2,7 +2,7 @@
 title: Nagareyama city
 slug: "nagareyama-city"
 description: ""
-date: "2026-03-13T09:22:53.020244"
+date: "2026-03-20T08:22:04.012115"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - japanese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - japan
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://m.city.nagareyama.chiba.jp/](https://m.city.nagareyama.chiba.jp/)
-- [https://www.city.nagareyama.chiba.jp/](https://www.city.nagareyama.chiba.jp/)
+- [https://www.city.nagareyama.chiba.jp](https://www.city.nagareyama.chiba.jp)
+- [https://m.city.nagareyama.chiba.jp](https://m.city.nagareyama.chiba.jp)
+- [https://www.city.nagareyama.chiba.jp/life/1001780/1001785/index.html](https://www.city.nagareyama.chiba.jp/life/1001780/1001785/index.html)
 
 ## Brand Guidelines
 

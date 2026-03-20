@@ -2,7 +2,7 @@
 title: Leaf Footwear
 slug: "leaf-footwear"
 description: ""
-date: "2026-03-13T09:22:52.828791"
+date: "2026-03-20T08:22:03.838532"
 draft: false
 sectors:
   - footwear
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://leafortho.com/](https://leafortho.com/)
+- [https://leafortho.com](https://leafortho.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: AFPCAT
 slug: afpcat
 description: ""
-date: "2026-03-13T09:22:52.301993"
+date: "2026-03-20T08:22:03.370314"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - spain
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

@@ -2,7 +2,7 @@
 title: Université de Bordeaux
 slug: "universite-de-bordeaux"
 description: ""
-date: "2026-03-13T09:22:53.764325"
+date: "2026-03-20T08:22:04.721601"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.u-bordeaux.fr](https://www.u-bordeaux.fr)
+- [https://www.u-bordeaux.fr/en](https://www.u-bordeaux.fr/en)
 - [http://www.bordeaux.fr](http://www.bordeaux.fr)
 - [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.u-bordeaux.fr](http://www.u-bordeaux.fr)
-- [https://www.u-bordeaux.fr/](https://www.u-bordeaux.fr/)
-- [https://www.u-bordeaux.fr/en](https://www.u-bordeaux.fr/en)
 
 ## Brand Guidelines
 

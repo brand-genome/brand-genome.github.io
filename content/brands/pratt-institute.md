@@ -2,7 +2,7 @@
 title: Pratt Institute
 slug: "pratt-institute"
 description: ""
-date: "2026-03-13T09:22:52.314623"
+date: "2026-03-20T08:22:03.381016"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
 industries:
   - "higher-education"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Pratt.edu](http://www.Pratt.edu)
+- [https://www.pratt.edu](https://www.pratt.edu)
+- [http://www.pratt.edu](http://www.pratt.edu)
 - [http://www.ibm.com/design/language/2x-grid](http://www.ibm.com/design/language/2x-grid)
-- [https://www.pratt.edu/](https://www.pratt.edu/)
+- [https://pratt.edu](https://pratt.edu)
 
 ## Brand Guidelines
 

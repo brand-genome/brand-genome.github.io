@@ -2,7 +2,7 @@
 title: Step
 slug: step
 description: ""
-date: "2026-03-13T09:22:54.220985"
+date: "2026-03-20T08:22:05.048950"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://congress.step.org/](https://congress.step.org/)
-- [https://www.step.org/](https://www.step.org/)
-- [https://www.stepnewyork.org/](https://www.stepnewyork.org/)
+- [https://www.step.org](https://www.step.org)
+- [https://congress.step.org](https://congress.step.org)
+- [https://www.stepnewyork.org](https://www.stepnewyork.org)
 
 ## Brand Guidelines
 

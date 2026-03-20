@@ -2,11 +2,11 @@
 title: Care
 slug: care
 description: ""
-date: "2026-03-13T09:22:53.705448"
+date: "2026-03-20T08:22:04.560970"
 draft: false
 sectors:
-  - "elder-care"
   - healthcare
+  - "elder-care"
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1937
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.careuk.com/](https://www.careuk.com/)
+- [https://www.careuk.com](https://www.careuk.com)
+- [https://nps.gov/care](https://nps.gov/care)
 
 ## Brand Guidelines
 

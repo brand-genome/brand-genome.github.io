@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-03-13T09:22:53.694897"
+date: "2026-03-20T08:22:04.550715"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +50,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
-  - horizontal
   - vertical
+  - seal
+  - primary
+  - horizontal
 brand_colors:
   - white
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
+  - graphic
+  - bold
+  - subtle
   - lifestyle
   - monochrome
-  - subtle
-  - bold
-  - graphic
 wikidata_description: "men's top professional football division of the Spanish football league system"
 wikidata_url: "https://www.wikidata.org/wiki/Q324867"
 has_twitter: false
@@ -75,6 +77,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.laliga.com/en-US](https://www.laliga.com/en-US)
+- [https://www.laliga.com/laliga-easports](https://www.laliga.com/laliga-easports)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: University at Albany
 slug: "university-at-albany"
 description: ""
-date: "2026-03-13T09:22:53.022190"
+date: "2026-03-20T08:22:04.014492"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1844
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,12 +55,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
-  - black
-  - purple
   - gold
+  - purple
+  - black
 typographies:
   - display
 imagery_styles:
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.albany.edu/](https://www.albany.edu/)
+- [https://www.albany.edu](https://www.albany.edu)
 
 ## Brand Guidelines
 

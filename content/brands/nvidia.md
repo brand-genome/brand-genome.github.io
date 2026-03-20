@@ -2,11 +2,11 @@
 title: NVidia
 slug: nvidia
 description: ""
-date: "2026-03-13T09:22:55.050098"
+date: "2026-03-20T08:22:05.751599"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
   - hardware
 regions:
   - usa
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - trebuchet
   - din
+  - trebuchet
 imagery_styles:
   - bold
 wikidata_description: parallel computing platform and programming model
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nvidia.com/](https://www.nvidia.com/)
+- [https://www.nvidia.com](https://www.nvidia.com)
+- [https://developer.nvidia.com/cuda-zone](https://developer.nvidia.com/cuda-zone)
 
 ## Brand Guidelines
 

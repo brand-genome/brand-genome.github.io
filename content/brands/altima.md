@@ -2,7 +2,7 @@
 title: Altima
 slug: altima
 description: ""
-date: "2026-03-13T09:22:53.340569"
+date: "2026-03-20T08:22:04.249924"
 draft: false
 sectors:
   - insurance
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - gray
-  - yellow
-  - black
-  - blue
   - white
+  - blue
+  - yellow
+  - gray
+  - black
 typographies:
   - roboto
 imagery_styles:
+  - bold
   - dynamic
   - natural
-  - bold
 wikidata_description: Japanese musical group
 wikidata_url: "https://www.wikidata.org/wiki/Q3613201"
 has_twitter: false
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.altima-assurances.fr/](https://www.altima-assurances.fr/)
+- [https://www.altima-assurances.fr](https://www.altima-assurances.fr)
+- [http://www.whv-amusic.com/altima](http://www.whv-amusic.com/altima)
 
 ## Brand Guidelines
 

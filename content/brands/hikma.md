@@ -2,11 +2,11 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-03-13T09:22:53.716005"
+date: "2026-03-20T08:22:04.678065"
 draft: false
 sectors:
-  - healthcare
   - pharma
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,8 +61,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "UK-headquartered pharmaceutical company"
 wikidata_url: "https://www.wikidata.org/wiki/Q12179266"
 has_twitter: false
@@ -72,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hikma.com](https://www.hikma.com)
+- [https://www.hikma.com/en-us](https://www.hikma.com/en-us)
+- [https://www.hikma.com/en-gb](https://www.hikma.com/en-gb)
 - [http://www.hikma.com](http://www.hikma.com)
-- [https://www.hikma.com/](https://www.hikma.com/)
-- [https://www.hikma.com/en-gb/](https://www.hikma.com/en-gb/)
-- [https://www.hikma.com/en-us/](https://www.hikma.com/en-us/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Value First
 slug: "value-first"
 description: ""
-date: "2026-03-13T09:22:53.724248"
+date: "2026-03-20T08:22:04.688134"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,30 +48,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
-  - favicon
   - secondary
   - horizontal
+  - primary
+  - favicon
 brand_colors:
-  - cyan
-  - grey
-  - yellow
-  - gray
-  - orange
-  - black
-  - blue
   - green
   - white
+  - cyan
+  - grey
+  - blue
+  - gray
+  - yellow
+  - orange
+  - black
 typographies:
   - helvetica
 imagery_styles:
+  - colorful
+  - graphic
+  - bold
+  - photography
   - lifestyle
   - geometric
-  - photography
-  - colorful
-  - bold
-  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vfirst.com/](https://www.vfirst.com/)
+- [https://www.vfirst.com](https://www.vfirst.com)
 
 ## Brand Guidelines
 

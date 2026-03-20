@@ -2,7 +2,7 @@
 title: Wellesley College
 slug: "wellesley-college"
 description: ""
-date: "2026-03-13T09:22:53.433798"
+date: "2026-03-20T08:22:04.337594"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,9 +55,9 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - serif
-  - garamond
   - "sans-serif"
+  - garamond
+  - serif
 imagery_styles:
   - bold
 wikidata_description: "private women's liberal arts college in Massachusetts"
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wellesley.edu/](https://www.wellesley.edu/)
-- [https://www1.wellesley.edu/](https://www1.wellesley.edu/)
+- [https://www.wellesley.edu](https://www.wellesley.edu)
+- [https://www1.wellesley.edu](https://www1.wellesley.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Switzerland
 slug: switzerland
 description: ""
-date: "2026-03-13T09:22:53.696302"
+date: "2026-03-20T08:22:04.551850"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
-  - white
   - red
+  - white
 typographies:
   - helvetica
 imagery_styles:
@@ -68,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aboutswitzerland.org/](https://www.aboutswitzerland.org/)
+- [https://www.aboutswitzerland.org](https://www.aboutswitzerland.org)
+- [https://www.houseofswitzerland.org](https://www.houseofswitzerland.org)
 - [https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/landeskommunikation/corporate-design-landeskommunikation/geschuetzer-bereich-cd-prs.html/content/contacts/en/contacts-zentrale/eda/GS-EDA/PRS](https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/landeskommunikation/corporate-design-landeskommunikation/geschuetzer-bereich-cd-prs.html/content/contacts/en/contacts-zentrale/eda/GS-EDA/PRS)
-- [https://www.houseofswitzerland.org/](https://www.houseofswitzerland.org/)
+- [https://www.football.ch/sfv](https://www.football.ch/sfv)
 
 ## Brand Guidelines
 

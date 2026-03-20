@@ -2,7 +2,7 @@
 title: City of York Council
 slug: "city-of-york-council"
 description: ""
-date: "2026-03-13T09:22:53.717388"
+date: "2026-03-20T08:22:04.680814"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-kingdom"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.york.gov.uk](https://www.york.gov.uk)
 - [http://www.gov.uk](http://www.gov.uk)
-- [https://www.york.gov.uk/](https://www.york.gov.uk/)
 
 ## Brand Guidelines
 

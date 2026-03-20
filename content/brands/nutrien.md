@@ -2,7 +2,7 @@
 title: Nutrien
 slug: nutrien
 description: ""
-date: "2026-03-13T09:22:54.554245"
+date: "2026-03-20T08:22:05.400792"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -17,8 +17,8 @@ tags:
 industries:
   - agriculture
 countries:
-  - australia
   - canada
+  - australia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,10 +59,10 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - photography
-  - gradient
   - bold
   - clean
+  - gradient
+  - photography
 wikidata_description: fertilizer company
 wikidata_url: "https://www.wikidata.org/wiki/Q48742870"
 has_twitter: false
@@ -72,7 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nutrien.com/](https://www.nutrien.com/)
+- [https://www.nutrien.com](https://www.nutrien.com)
+- [https://nutrienagsolutions.com](https://nutrienagsolutions.com)
+- [https://www.nutrienagsolutions.com.au](https://www.nutrienagsolutions.com.au)
 
 ## Brand Guidelines
 

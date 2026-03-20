@@ -2,11 +2,11 @@
 title: Time To Change
 slug: "time-to-change"
 description: ""
-date: "2026-03-13T09:22:53.647869"
+date: "2026-03-20T08:22:04.505912"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.time-to-change.org.uk/](https://www.time-to-change.org.uk/)
+- [https://www.time-to-change.org.uk](https://www.time-to-change.org.uk)
 
 ## Brand Guidelines
 

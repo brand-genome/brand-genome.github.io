@@ -2,7 +2,7 @@
 title: Ville de Paris
 slug: "ville-de-paris"
 description: ""
-date: "2026-03-13T09:22:53.936026"
+date: "2026-03-20T08:22:04.857837"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - city
   - regional
+  - city
 industries:
   - "administration-publique-generale"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1789
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
   - white
   - blue
@@ -73,8 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.paris.fr](https://www.paris.fr)
 - [http://www.parisplages.fr](http://www.parisplages.fr)
-- [https://www.paris.fr/](https://www.paris.fr/)
+- [https://www.paris.fr/municipalite](https://www.paris.fr/municipalite)
+- [https://www.paris.fr/l-hotel-de-ville](https://www.paris.fr/l-hotel-de-ville)
 
 ## Brand Guidelines
 

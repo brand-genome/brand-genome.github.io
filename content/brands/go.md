@@ -2,7 +2,7 @@
 title: Go
 slug: go
 description: ""
-date: "2026-03-13T09:22:53.535459"
+date: "2026-03-20T08:22:04.415776"
 draft: false
 sectors:
   - software
@@ -15,12 +15,12 @@ languages:
 tags:
   - software
 industries:
-  - "information-technology"
   - "technology-industry"
-  - "internet-industry"
+  - "software-industry"
   - internet
   - "internet-marketing"
-  - "software-industry"
+  - "internet-industry"
+  - "information-technology"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -32,11 +32,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "search-engine"
-  - "google-voice"
+  - "google-search"
   - "google-ads"
   - "software-tools"
-  - "google-search"
+  - "google-voice"
+  - "search-engine"
 products: []
 headquarters_locations:
   - "mountain-view"
@@ -44,6 +44,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -77,8 +79,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://go.dev/](https://go.dev/)
-- [https://golang.org/](https://golang.org/)
+- [https://go.dev](https://go.dev)
+- [https://golang.org](https://golang.org)
+- [https://about.google](https://about.google)
+- [https://www.google.com](https://www.google.com)
+- [https://www.google.es](https://www.google.es)
+- [https://www.google.co.uk](https://www.google.co.uk)
 
 ## Brand Guidelines
 
@@ -118,7 +124,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Search Engine](/products_or_materials_produced/search-engine/); [Google Voice](/products_or_materials_produced/google-voice/); [Google Ads](/products_or_materials_produced/google-ads/); [Software Tools](/products_or_materials_produced/software-tools/); [Google Search](/products_or_materials_produced/google-search/) |
+| Product Or Material Produced | [Google Search](/products_or_materials_produced/google-search/); [Google Ads](/products_or_materials_produced/google-ads/); [Software Tools](/products_or_materials_produced/software-tools/); [Google Voice](/products_or_materials_produced/google-voice/); [Search Engine](/products_or_materials_produced/search-engine/) |
 | Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/); [Googleplex](/headquarters_locations/googleplex/) |
 | Foundation Date | [1998](/foundation_dates/1998/) |
 | Opencorporates Id | us_id/D158010, us_de/3582691 |

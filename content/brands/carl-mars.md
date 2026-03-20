@@ -2,7 +2,7 @@
 title: Carl Mars
 slug: "carl-mars"
 description: ""
-date: "2026-03-13T09:22:52.814965"
+date: "2026-03-20T08:22:03.828062"
 draft: false
 sectors:
   - "arts-culture"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +53,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
+  - blue
   - gray
   - "pantone-2738"
-  - blue
   - "pantone-1785"
-  - white
 typographies:
   - "open-sans"
   - nunito
@@ -74,6 +76,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [http://www.instagram.com/carl_mars45](http://www.instagram.com/carl_mars45)
+- [http://carlandmildredreevesfoundation.org](http://carlandmildredreevesfoundation.org)
 
 ## Brand Guidelines
 

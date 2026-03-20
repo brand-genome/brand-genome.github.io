@@ -2,7 +2,7 @@
 title: Bethel University
 slug: "bethel-university"
 description: ""
-date: "2026-03-13T09:22:55.040443"
+date: "2026-03-20T08:22:05.742926"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1886
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bethel.edu/](https://www.bethel.edu/)
-- [https://www.bethel.edu/marketing/resources/identity/](https://www.bethel.edu/marketing/resources/identity/)
+- [https://www.bethel.edu](https://www.bethel.edu)
+- [https://www.bethel.edu/marketing/resources/identity](https://www.bethel.edu/marketing/resources/identity)
+- [http://www.shortercollege.edu](http://www.shortercollege.edu)
 
 ## Brand Guidelines
 

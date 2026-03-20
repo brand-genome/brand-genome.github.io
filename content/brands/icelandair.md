@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-03-13T09:22:52.320957"
+date: "2026-03-20T08:22:03.388868"
 draft: false
 sectors:
   - airline
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1937
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,14 +55,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - vertical
-  - horizontal
   - wordmark
+  - horizontal
 brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: flag carrier airline of Iceland
 wikidata_url: "https://www.wikidata.org/wiki/Q216645"
 has_twitter: false
@@ -72,9 +74,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.icelandair.com/](https://www.icelandair.com/)
-- [https://www.icelandair.is/](https://www.icelandair.is/)
-- [https://www.icelandair.net/](https://www.icelandair.net/)
+- [https://www.icelandair.com](https://www.icelandair.com)
+- [https://www.icelandair.is](https://www.icelandair.is)
+- [https://www.icelandair.net](https://www.icelandair.net)
+- [http://www.icelandair.com](http://www.icelandair.com)
+- [https://www.icelandair.com/de-de](https://www.icelandair.com/de-de)
+- [https://www.icelandair.com/da-dk](https://www.icelandair.com/da-dk)
+- [https://www.icelandair.com/de-ch](https://www.icelandair.com/de-ch)
+- [https://www.icelandair.com/fr-ch](https://www.icelandair.com/fr-ch)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: BC Hydro
 slug: "bc-hydro"
 description: ""
-date: "2026-03-13T09:22:53.722223"
+date: "2026-03-20T08:22:04.686137"
 draft: false
 sectors:
   - utilities
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bchydro.com/](https://www.bchydro.com/)
+- [https://www.bchydro.com](https://www.bchydro.com)
 
 ## Brand Guidelines
 

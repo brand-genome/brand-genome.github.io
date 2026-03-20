@@ -2,11 +2,11 @@
 title: Commvault
 slug: commvault
 description: ""
-date: "2026-03-13T09:22:54.762230"
+date: "2026-03-20T08:22:05.554598"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,24 +55,24 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-2995"
-  - gray
-  - "pantone-8400"
-  - "pantone-2965"
   - red
-  - blue
+  - "pantone-8400"
   - "pantone-185"
   - white
+  - blue
+  - gray
   - "pantone-428"
+  - "pantone-2965"
+  - "pantone-2995"
 typographies:
-  - display
   - times
   - din
+  - display
 imagery_styles:
-  - photography
+  - clean
   - modern
   - graphic
-  - clean
+  - photography
 wikidata_description: data management and information management software company
 wikidata_url: "https://www.wikidata.org/wiki/Q5152058"
 has_twitter: false
@@ -82,9 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.COMMVAULT.COM](http://www.COMMVAULT.COM)
-- [https://support.commvault.com/](https://support.commvault.com/)
-- [https://www.commvault.com/](https://www.commvault.com/)
+- [https://www.commvault.com](https://www.commvault.com)
+- [https://support.commvault.com](https://support.commvault.com)
+- [http://www.commvault.com](http://www.commvault.com)
 
 ## Brand Guidelines
 

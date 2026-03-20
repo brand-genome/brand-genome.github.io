@@ -2,7 +2,7 @@
 title: Bpay
 slug: bpay
 description: ""
-date: "2026-03-13T09:22:55.042338"
+date: "2026-03-20T08:22:05.745274"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries:
   - "financial-services"
 countries: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
   - portrait
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bpay.com.au/](https://www.bpay.com.au/)
+- [https://www.bpay.com.au](https://www.bpay.com.au)
+- [http://www.bpay.com.au](http://www.bpay.com.au)
 
 ## Brand Guidelines
 

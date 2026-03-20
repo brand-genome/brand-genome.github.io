@@ -2,7 +2,7 @@
 title: LUMS
 slug: lums
 description: ""
-date: "2026-03-13T09:22:53.520599"
+date: "2026-03-20T08:22:04.414284"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +52,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
   - signature
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
   - times
 imagery_styles:
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://admission.lums.edu.pk/](https://admission.lums.edu.pk/)
-- [https://lumsx.lums.edu.pk/](https://lumsx.lums.edu.pk/)
-- [https://www.lums.edu.pk/](https://www.lums.edu.pk/)
+- [https://www.lums.edu.pk](https://www.lums.edu.pk)
+- [https://admission.lums.edu.pk](https://admission.lums.edu.pk)
+- [https://lumsx.lums.edu.pk](https://lumsx.lums.edu.pk)
+- [http://lums.edu.pk/index.php](http://lums.edu.pk/index.php)
 
 ## Brand Guidelines
 

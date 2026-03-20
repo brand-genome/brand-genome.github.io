@@ -2,11 +2,11 @@
 title: Samu 192
 slug: "samu-192"
 description: ""
-date: "2026-03-13T09:22:53.443307"
+date: "2026-03-20T08:22:04.347154"
 draft: false
 sectors:
-  - "emergency-services"
   - "public-sector"
+  - "emergency-services"
   - healthcare
 regions:
   - brazil
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gov.br/saude/pt-br/composicao/saes/samu-192](https://www.gov.br/saude/pt-br/composicao/saes/samu-192)
-- [https://www.samu.ce.gov.br/](https://www.samu.ce.gov.br/)
+- [https://www.samu.ce.gov.br](https://www.samu.ce.gov.br)
 
 ## Brand Guidelines
 

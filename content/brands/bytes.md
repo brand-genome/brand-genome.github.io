@@ -2,12 +2,12 @@
 title: Bytes
 slug: bytes
 description: ""
-date: "2026-03-13T09:22:51.913729"
+date: "2026-03-20T08:22:03.071425"
 draft: false
 sectors:
-  - "design-creative"
-  - software
   - "marketing-advertising"
+  - software
+  - "design-creative"
 regions:
   - bulgaria
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - design
+  - marketing
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bytes.bg/](https://bytes.bg/)
+- [https://bytes.bg](https://bytes.bg)
 
 ## Brand Guidelines
 

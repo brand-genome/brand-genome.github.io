@@ -2,11 +2,11 @@
 title: Consejo Monetario Centroamericano
 slug: "consejo-monetario-centroamericano"
 description: ""
-date: "2026-03-13T09:22:53.008229"
+date: "2026-03-20T08:22:03.999269"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - "costa-rica"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.secmca.org](http://www.secmca.org)
 - [https://www.secmca.org](https://www.secmca.org)
+- [http://www.secmca.org](http://www.secmca.org)
 
 ## Brand Guidelines
 

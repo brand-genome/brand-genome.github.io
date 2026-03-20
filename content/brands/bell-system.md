@@ -2,7 +2,7 @@
 title: Bell System
 slug: "bell-system"
 description: ""
-date: "2026-03-13T09:22:52.822705"
+date: "2026-03-20T08:22:03.833676"
 draft: false
 sectors:
   - telecom
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - vintage
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries: []
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1877
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []

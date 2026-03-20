@@ -2,7 +2,7 @@
 title: Clarion University
 slug: "clarion-university"
 description: ""
-date: "2026-03-13T09:22:55.034830"
+date: "2026-03-20T08:22:05.737265"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1867
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.pennwest.edu/campuses/clarion/index.php](https://www.pennwest.edu/campuses/clarion/index.php)
+- [http://www.clarion.edu](http://www.clarion.edu)
 
 ## Brand Guidelines
 

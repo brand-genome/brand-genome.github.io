@@ -2,7 +2,7 @@
 title: No Where Near
 slug: "no-where-near"
 description: ""
-date: "2026-03-13T09:22:52.063798"
+date: "2026-03-20T08:22:03.129594"
 draft: false
 sectors:
   - entertainment
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wearenwn.com/](https://www.wearenwn.com/)
+- [https://www.wearenwn.com](https://www.wearenwn.com)
 
 ## Brand Guidelines
 

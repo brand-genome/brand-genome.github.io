@@ -2,7 +2,7 @@
 title: Every Kid in a Park
 slug: "every-kid-in-a-park"
 description: ""
-date: "2026-03-13T09:22:53.331873"
+date: "2026-03-20T08:22:04.242304"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-7459"
-  - "pantone-134"
+  - white
   - "pantone-350"
+  - "pantone-134"
   - black
   - "pantone-478"
-  - white
 typographies:
   - display
 imagery_styles:
@@ -70,12 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.doi.gov](http://www.doi.gov)
-- [https://everykidoutdoors.gov/](https://everykidoutdoors.gov/)
-- [https://www.everykidoutdoors.gov/educators.htm](https://www.everykidoutdoors.gov/educators.htm)
+- [https://everykidoutdoors.gov](https://everykidoutdoors.gov)
 - [https://www.everykidoutdoors.gov/index.htm](https://www.everykidoutdoors.gov/index.htm)
 - [https://www.everykidoutdoors.gov/parents.htm](https://www.everykidoutdoors.gov/parents.htm)
+- [https://www.everykidoutdoors.gov/educators.htm](https://www.everykidoutdoors.gov/educators.htm)
 - [https://www.nps.gov/kids/every-kid-outdoors.htm](https://www.nps.gov/kids/every-kid-outdoors.htm)
+- [http://www.doi.gov](http://www.doi.gov)
+- [https://everykidinapark.gov](https://everykidinapark.gov)
 
 ## Brand Guidelines
 

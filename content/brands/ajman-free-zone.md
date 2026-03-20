@@ -2,11 +2,11 @@
 title: Ajman Free Zone
 slug: "ajman-free-zone"
 description: ""
-date: "2026-03-13T09:22:53.253464"
+date: "2026-03-20T08:22:04.179449"
 draft: false
 sectors:
-  - "real-estate"
   - "public-sector"
+  - "real-estate"
 regions:
   - "united-arab-emirates"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,29 +49,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
 brand_colors:
-  - "pantone-877"
-  - "pantone-265"
   - silver
-  - "pantone-360"
-  - "pantone-426"
-  - black
-  - white
-  - "pantone-137"
-  - "pantone-115"
-  - "pantone-310"
   - "pantone-2727"
+  - "pantone-137"
+  - white
+  - "pantone-426"
+  - "pantone-310"
+  - "pantone-265"
+  - "pantone-115"
+  - black
+  - "pantone-877"
+  - "pantone-360"
 typographies:
   - arial
   - frutiger
 imagery_styles:
+  - bold
+  - modern
   - clean
   - contemporary
-  - modern
-  - bold
 wikidata_description: registration authority
 wikidata_url: "https://www.wikidata.org/wiki/Q107179272"
 has_twitter: false
@@ -82,10 +83,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://afz.gov.ae/](https://afz.gov.ae/)
-- [https://afza.uae.app.jaggaer.com/web_ar/login.html](https://afza.uae.app.jaggaer.com/web_ar/login.html)
+- [https://afz.gov.ae](https://afz.gov.ae)
 - [https://eportal.afz.gov.ae/login](https://eportal.afz.gov.ae/login)
-- [https://fza.ae/](https://fza.ae/)
+- [https://afza.uae.app.jaggaer.com/web_ar/login.html](https://afza.uae.app.jaggaer.com/web_ar/login.html)
+- [https://fza.ae](https://fza.ae)
+- [http://www.afz.gov.ae/ar](http://www.afz.gov.ae/ar)
 
 ## Brand Guidelines
 

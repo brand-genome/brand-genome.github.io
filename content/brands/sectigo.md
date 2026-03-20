@@ -2,11 +2,11 @@
 title: Sectigo
 slug: sectigo
 description: ""
-date: "2026-03-13T09:22:54.563453"
+date: "2026-03-20T08:22:05.411324"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - international
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,29 +54,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - gray
-  - "pantone-2250"
   - "pantone-121"
-  - black
-  - "pantone-292"
-  - "pantone-143"
   - "pantone-296"
-  - blue
   - green
   - white
+  - "pantone-2250"
+  - blue
+  - gray
+  - "pantone-292"
+  - black
+  - "pantone-143"
 typographies:
   - arial
   - roboto
 imagery_styles:
-  - dramatic
-  - clean
-  - photography
   - product
+  - dramatic
   - bold
+  - photography
+  - clean
 wikidata_description: privately held group of companies
 wikidata_url: "https://www.wikidata.org/wiki/Q1985340"
 has_twitter: false
@@ -86,9 +88,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Sectigo.com](http://www.Sectigo.com)
+- [https://www.sectigo.com](https://www.sectigo.com)
+- [http://www.sectigo.com](http://www.sectigo.com)
 - [http://www.comodoca.com](http://www.comodoca.com)
-- [https://www.sectigo.com/](https://www.sectigo.com/)
+- [https://www.comodo.com](https://www.comodo.com)
 
 ## Brand Guidelines
 

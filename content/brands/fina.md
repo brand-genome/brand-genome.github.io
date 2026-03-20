@@ -2,7 +2,7 @@
 title: FINA
 slug: fina
 description: ""
-date: "2026-03-13T09:22:55.168365"
+date: "2026-03-20T08:22:05.870725"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: international sport governing body
 wikidata_url: "https://www.wikidata.org/wiki/Q189289"
 has_twitter: false
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.worldaquatics.com/](https://www.worldaquatics.com/)
+- [https://www.worldaquatics.com](https://www.worldaquatics.com)
+- [http://www.fina.org](http://www.fina.org)
 
 ## Brand Guidelines
 

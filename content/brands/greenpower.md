@@ -2,7 +2,7 @@
 title: GreenPower
 slug: greenpower
 description: ""
-date: "2026-03-13T09:22:53.409110"
+date: "2026-03-20T08:22:04.311164"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
   - secondary
+  - badge
 brand_colors:
-  - "pantone-7482"
-  - "pantone-2965"
-  - black
-  - blue
   - green
   - white
+  - blue
+  - "pantone-2965"
+  - black
+  - "pantone-7482"
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: Canadian electric bus manufactuer
 wikidata_url: "https://www.wikidata.org/wiki/Q39058437"
 has_twitter: false
@@ -73,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.greenpower.gov.au](https://www.greenpower.gov.au)
 - [https://www.energy.nsw.gov.au/households/action/initiatives/greenpower](https://www.energy.nsw.gov.au/households/action/initiatives/greenpower)
-- [https://www.greenpower.gov.au/](https://www.greenpower.gov.au/)
+- [http://www.greenpowerbus.com](http://www.greenpowerbus.com)
 
 ## Brand Guidelines
 

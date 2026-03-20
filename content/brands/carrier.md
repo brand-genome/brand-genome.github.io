@@ -2,7 +2,7 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-03-13T09:22:54.765209"
+date: "2026-03-20T08:22:05.555875"
 draft: false
 sectors:
   - construction
@@ -16,8 +16,8 @@ languages:
 tags:
   - technology
 industries:
-  - "construction-industry"
   - "heating-ventilation-and-air-conditioning"
+  - "construction-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -30,13 +30,16 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - charlotte
-  - farmington
   - indianapolis
+  - farmington
+  - charlotte
 subsidiaries: []
 foundation_dates:
-  - 1915
   - 1978
+  - 1915
+foundation_year_buckets:
+  - 1970S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,15 +58,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - times
 imagery_styles:
   - bold
@@ -78,9 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.carrier.com/us/en](https://www.carrier.com/us/en)
+- [https://www.carrier.com](https://www.carrier.com)
 - [http://www.utc.com](http://www.utc.com)
-- [https://www.carrier.com/](https://www.carrier.com/)
-- [https://www.carrier.com/us/en/](https://www.carrier.com/us/en/)
+- [https://www.corporate.carrier.com](https://www.corporate.carrier.com)
+- [https://www.bryant.com](https://www.bryant.com)
 
 ## Brand Guidelines
 
@@ -127,8 +132,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/); [Farmington](/headquarters_locations/farmington/); [Indianapolis](/headquarters_locations/indianapolis/) |
-| Foundation Date | [1915](/foundation_dates/1915/); [1978](/foundation_dates/1978/) |
+| Headquarters Location | [Indianapolis](/headquarters_locations/indianapolis/); [Farmington](/headquarters_locations/farmington/); [Charlotte](/headquarters_locations/charlotte/) |
+| Foundation Date | [1978](/foundation_dates/1978/); [1915](/foundation_dates/1915/) |
 | Freebase Id | /m/07_dc0 |
 | Headquarters Location | Charlotte, Indianapolis, Farmington |
 | Founded By | Willis Carrier |

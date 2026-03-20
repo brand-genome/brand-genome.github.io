@@ -2,7 +2,7 @@
 title: Gobierno de El Salvador
 slug: "gobierno-de-el-salvador"
 description: ""
-date: "2026-03-13T09:22:53.516295"
+date: "2026-03-20T08:22:04.410232"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - emblem
   - vertical
+  - emblem
+  - horizontal
 brand_colors:
+  - white
   - "pantone-281"
   - gray
-  - "pantone-7604"
   - "pantone-432"
-  - white
+  - "pantone-7604"
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://integracion.gob.sv/](https://integracion.gob.sv/)
-- [https://rree.gob.sv/](https://rree.gob.sv/)
-- [https://www.gobernacion.gob.sv/](https://www.gobernacion.gob.sv/)
-- [https://www.mh.gob.sv/](https://www.mh.gob.sv/)
+- [https://www.mh.gob.sv](https://www.mh.gob.sv)
+- [https://rree.gob.sv](https://rree.gob.sv)
+- [https://www.gobernacion.gob.sv](https://www.gobernacion.gob.sv)
+- [https://integracion.gob.sv](https://integracion.gob.sv)
 
 ## Brand Guidelines
 

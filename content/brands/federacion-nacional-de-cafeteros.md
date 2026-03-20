@@ -2,7 +2,7 @@
 title: Federación Nacional de Cafeteros
 slug: "federacion-nacional-de-cafeteros"
 description: ""
-date: "2026-03-13T09:22:53.963801"
+date: "2026-03-20T08:22:04.887325"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +56,8 @@ brand_colors:
 typographies:
   - arial
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://federaciondecafeteros.org/wp/](https://federaciondecafeteros.org/wp/)
-- [https://juanvaldez.com/](https://juanvaldez.com/)
-- [https://www.buencafe.com/](https://www.buencafe.com/)
-- [https://www.cenicafe.org/](https://www.cenicafe.org/)
+- [https://federaciondecafeteros.org/wp](https://federaciondecafeteros.org/wp)
+- [https://www.cenicafe.org](https://www.cenicafe.org)
+- [https://www.buencafe.com](https://www.buencafe.com)
+- [https://juanvaldez.com](https://juanvaldez.com)
 
 ## Brand Guidelines
 

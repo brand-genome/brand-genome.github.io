@@ -2,7 +2,7 @@
 title: Manchester United
 slug: "manchester-united"
 description: ""
-date: "2026-03-13T09:22:53.074577"
+date: "2026-03-20T08:22:04.070503"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1878
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,22 +52,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
-  - secondary
   - primary
+  - secondary
+  - crest
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - arial
   - akzidenz
 imagery_styles:
+  - graphic
+  - bold
   - portrait
   - photography
   - landscape
-  - bold
-  - graphic
 wikidata_description: "association football club in Manchester, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q18656"
 has_twitter: false
@@ -77,12 +79,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MANUTD.COM](http://www.MANUTD.COM)
-- [http://www.manutd.co](http://www.manutd.co)
-- [https://ir.manutd.com/](https://ir.manutd.com/)
-- [https://tickets.manutd.com/](https://tickets.manutd.com/)
-- [https://www.manutd.com/](https://www.manutd.com/)
+- [https://www.manutd.com](https://www.manutd.com)
+- [https://tickets.manutd.com](https://tickets.manutd.com)
 - [https://www.manutd.com/ticket](https://www.manutd.com/ticket)
+- [https://ir.manutd.com](https://ir.manutd.com)
+- [http://www.manutd.com](http://www.manutd.com)
+- [http://www.manutd.co](http://www.manutd.co)
+- [https://www.manutd.com/zh](https://www.manutd.com/zh)
+- [https://www.manutd.com/ko](https://www.manutd.com/ko)
+- [https://www.manutd.com/ar](https://www.manutd.com/ar)
 
 ## Brand Guidelines
 

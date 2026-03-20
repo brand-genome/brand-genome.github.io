@@ -2,7 +2,7 @@
 title: Macquarie University
 slug: "macquarie-university"
 description: ""
-date: "2026-03-13T09:22:53.702336"
+date: "2026-03-20T08:22:04.557432"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
   - vertical
   - symbol
+  - primary
+  - horizontal
 brand_colors:
-  - black
   - red
   - "pantone-1807"
+  - black
 typographies:
   - serif
 imagery_styles:
-  - photography
+  - bold
   - modern
   - gradient
-  - bold
+  - photography
 wikidata_description: "university in Sydney, New South Wales"
 wikidata_url: "https://www.wikidata.org/wiki/Q741082"
 has_twitter: false
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ilearn.mq.edu.au/](https://ilearn.mq.edu.au/)
-- [https://www.mq.edu.au/](https://www.mq.edu.au/)
+- [https://www.mq.edu.au](https://www.mq.edu.au)
+- [https://ilearn.mq.edu.au](https://ilearn.mq.edu.au)
 
 ## Brand Guidelines
 

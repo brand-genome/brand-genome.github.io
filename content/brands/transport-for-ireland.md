@@ -2,11 +2,11 @@
 title: Transport for Ireland
 slug: "transport-for-ireland"
 description: ""
-date: "2026-03-13T09:22:55.155991"
+date: "2026-03-20T08:22:05.855380"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - ireland
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nationaltransport.ie/](https://www.nationaltransport.ie/)
-- [https://www.transportforireland.ie/](https://www.transportforireland.ie/)
-- [https://www.transportforireland.ie/about-us/](https://www.transportforireland.ie/about-us/)
+- [https://www.transportforireland.ie](https://www.transportforireland.ie)
+- [https://www.transportforireland.ie/about-us](https://www.transportforireland.ie/about-us)
+- [https://www.nationaltransport.ie](https://www.nationaltransport.ie)
 
 ## Brand Guidelines
 

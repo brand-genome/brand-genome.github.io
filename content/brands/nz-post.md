@@ -2,7 +2,7 @@
 title: NZ Post
 slug: "nz-post"
 description: ""
-date: "2026-03-13T09:22:52.049726"
+date: "2026-03-20T08:22:03.118003"
 draft: false
 sectors:
   - "parcel-service"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nzpost.co.nz/](https://www.nzpost.co.nz/)
+- [https://www.nzpost.co.nz](https://www.nzpost.co.nz)
 
 ## Brand Guidelines
 

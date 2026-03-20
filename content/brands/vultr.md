@@ -2,7 +2,7 @@
 title: Vultr
 slug: vultr
 description: ""
-date: "2026-03-13T09:22:52.236497"
+date: "2026-03-20T08:22:03.299167"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.VULTR.COM](http://www.VULTR.COM)
-- [https://www.vultr.com/](https://www.vultr.com/)
+- [https://www.vultr.com](https://www.vultr.com)
+- [http://www.vultr.com](http://www.vultr.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: National Council of Urban Indian Health
 slug: "national-council-of-urban-indian-health"
 description: ""
-date: "2026-03-13T09:22:53.274013"
+date: "2026-03-20T08:22:04.201779"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +52,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - turquoise
   - red
-  - blue
   - green
   - white
+  - blue
+  - turquoise
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ncuih.org/](https://ncuih.org/)
+- [https://ncuih.org](https://ncuih.org)
 
 ## Brand Guidelines
 

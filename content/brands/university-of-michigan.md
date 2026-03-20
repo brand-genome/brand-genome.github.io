@@ -2,7 +2,7 @@
 title: University of Michigan
 slug: "university-of-michigan"
 description: ""
-date: "2026-03-13T09:22:52.882218"
+date: "2026-03-20T08:22:03.874472"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1817
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,24 +55,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
   - secondary
 brand_colors:
+  - red
+  - green
   - "pantone-282"
+  - blue
   - "pantone-7406"
   - orange
-  - red
-  - blue
-  - green
 typographies:
   - display
-  - oswald
-  - nunito
-  - merriweather
-  - montserrat
-  - "sans-serif"
   - serif
+  - oswald
+  - merriweather
+  - "sans-serif"
+  - nunito
+  - montserrat
   - playfair
 imagery_styles:
   - photography
@@ -85,10 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/?query=ibm](http://www.google.com/?query=ibm)
-- [https://admissions.umich.edu/](https://admissions.umich.edu/)
-- [https://brand.umich.edu/](https://brand.umich.edu/)
-- [https://umich.edu/](https://umich.edu/)
+- [https://umich.edu](https://umich.edu)
+- [https://brand.umich.edu](https://brand.umich.edu)
+- [https://admissions.umich.edu](https://admissions.umich.edu)
+- [http://www.google.com?query=ibm](http://www.google.com?query=ibm)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Universidad de Salamanca
 slug: "universidad-de-salamanca"
 description: ""
-date: "2026-03-13T09:22:53.279783"
+date: "2026-03-20T08:22:04.209710"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1218
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,14 +68,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.USAL.ES](http://www.USAL.ES)
-- [https://administracionelectronica.usal.es/](https://administracionelectronica.usal.es/)
-- [https://cursosinternacionales.usal.es/en](https://cursosinternacionales.usal.es/en)
-- [https://cursosinternacionales.usal.es/es](https://cursosinternacionales.usal.es/es)
-- [https://estudiantesinternacionales.usal.es/](https://estudiantesinternacionales.usal.es/)
-- [https://sede.usal.es/en](https://sede.usal.es/en)
-- [https://www.usal.es/](https://www.usal.es/)
+- [https://www.usal.es](https://www.usal.es)
 - [https://www.usal.es/en/USAL](https://www.usal.es/en/USAL)
+- [https://sede.usal.es/en](https://sede.usal.es/en)
+- [https://administracionelectronica.usal.es](https://administracionelectronica.usal.es)
+- [https://estudiantesinternacionales.usal.es](https://estudiantesinternacionales.usal.es)
+- [https://cursosinternacionales.usal.es/es](https://cursosinternacionales.usal.es/es)
+- [https://cursosinternacionales.usal.es/en](https://cursosinternacionales.usal.es/en)
+- [http://www.usal.es](http://www.usal.es)
 
 ## Brand Guidelines
 

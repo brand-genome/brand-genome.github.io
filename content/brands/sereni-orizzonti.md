@@ -2,11 +2,11 @@
 title: Sereni Orizzonti
 slug: "sereni-orizzonti"
 description: ""
-date: "2026-03-13T09:22:53.513558"
+date: "2026-03-20T08:22:04.406751"
 draft: false
 sectors:
-  - "elder-care"
   - healthcare
+  - "elder-care"
 regions:
   - italy
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sereniorizzonti.it/](https://sereniorizzonti.it/)
-- [https://sereniorizzonti.it/en/](https://sereniorizzonti.it/en/)
+- [https://sereniorizzonti.it](https://sereniorizzonti.it)
+- [https://sereniorizzonti.it/en](https://sereniorizzonti.it/en)
 
 ## Brand Guidelines
 

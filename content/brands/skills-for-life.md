@@ -2,16 +2,16 @@
 title: Skills for Life
 slug: "skills-for-life"
 description: ""
-date: "2026-03-13T09:22:53.076832"
+date: "2026-03-20T08:22:04.073379"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "united-kingdom"
 years:
-  - 2022
   - 2018
+  - 2022
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,34 +50,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
   - horizontal
 brand_colors:
-  - "pantone-108"
-  - purple
+  - red
   - "pantone-183"
-  - "pantone-285"
-  - navy
-  - violet
-  - "pantone-347"
-  - yellow
-  - black
+  - green
   - "pantone-294"
   - teal
-  - pink
+  - navy
   - "pantone-3275"
-  - blue
-  - red
-  - green
+  - "pantone-285"
   - white
+  - purple
+  - blue
+  - yellow
+  - "pantone-347"
+  - violet
+  - pink
+  - black
+  - "pantone-108"
 typographies:
   - nunito
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
   - clean
+  - photography
 wikidata_description: UK multi academy trust
 wikidata_url: "https://www.wikidata.org/wiki/Q122683686"
 has_twitter: false
@@ -88,9 +89,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.instagram.com/scouts/](http://www.instagram.com/scouts/)
-- [https://scoutsbrand.org.uk/](https://scoutsbrand.org.uk/)
-- [https://www.scouts.org.uk/](https://www.scouts.org.uk/)
+- [https://www.scouts.org.uk](https://www.scouts.org.uk)
+- [https://scoutsbrand.org.uk](https://scoutsbrand.org.uk)
+- [http://www.instagram.com/scouts](http://www.instagram.com/scouts)
 
 ## Brand Guidelines
 

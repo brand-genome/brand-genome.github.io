@@ -2,19 +2,19 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-03-13T09:22:53.015051"
+date: "2026-03-20T08:22:04.005648"
 draft: false
 sectors:
   - automobile
 regions:
   - japan
 years:
-  - 2013
   - 2009
   - 2021
+  - 2013
 languages:
-  - english
   - french
+  - english
 tags:
   - featured
   - transport
@@ -37,15 +37,15 @@ total_equity_buckets:
   - "OVER-1T"
 market_cap_buckets: []
 products_or_materials_produced:
-  - airplane
-  - "electrical-generator"
   - "et-cetera"
-  - truck
   - "garden-tool"
-  - motorcycle
-  - robot
   - car
   - engine
+  - truck
+  - robot
+  - "electrical-generator"
+  - airplane
+  - motorcycle
 products: []
 headquarters_locations:
   - minato
@@ -53,6 +53,8 @@ subsidiaries: []
 foundation_dates:
   - 1946
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,16 +73,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - "pantone-186"
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - avenir
 imagery_styles:
   - clean
@@ -95,12 +97,23 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://global.honda](https://global.honda)
+- [https://www.honda.co.jp](https://www.honda.co.jp)
+- [https://www.honda.com/en](https://www.honda.com/en)
+- [https://automobiles.honda.com](https://automobiles.honda.com)
 - [http://www.linotype.com/1184637/avenir-next-rounded-family.html](http://www.linotype.com/1184637/avenir-next-rounded-family.html)
 - [http://www.siriusxm.com](http://www.siriusxm.com)
-- [https://automobiles.honda.com/](https://automobiles.honda.com/)
-- [https://global.honda/](https://global.honda/)
-- [https://www.honda.co.jp/](https://www.honda.co.jp/)
-- [https://www.honda.com/en/](https://www.honda.com/en/)
+- [http://www.honda.co.uk](http://www.honda.co.uk)
+- [https://www.honda.com.vn](https://www.honda.com.vn)
+- [https://www.honda.co.th](https://www.honda.co.th)
+- [https://www.honda.ca](https://www.honda.ca)
+- [https://www.hondacarindia.com](https://www.hondacarindia.com)
+- [https://www.hondaph.com](https://www.hondaph.com)
+- [https://www.honda.com.tr](https://www.honda.com.tr)
+- [https://www.honda.it](https://www.honda.it)
+- [https://www.honda.com](https://www.honda.com)
+- [https://www.honda.es](https://www.honda.es)
+- [https://honda.com.co](https://honda.com.co)
 
 ## Brand Guidelines
 
@@ -162,7 +175,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Airplane](/products_or_materials_produced/airplane/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Truck](/products_or_materials_produced/truck/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Robot](/products_or_materials_produced/robot/); [Car](/products_or_materials_produced/car/); [Engine](/products_or_materials_produced/engine/) |
+| Product Or Material Produced | [Et Cetera](/products_or_materials_produced/et-cetera/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Car](/products_or_materials_produced/car/); [Engine](/products_or_materials_produced/engine/); [Truck](/products_or_materials_produced/truck/); [Robot](/products_or_materials_produced/robot/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Airplane](/products_or_materials_produced/airplane/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1946](/foundation_dates/1946/); [1948](/foundation_dates/1948/) |
 | Country | Japan |

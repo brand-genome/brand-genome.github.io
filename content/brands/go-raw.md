@@ -2,7 +2,7 @@
 title: Go Raw
 slug: "go-raw"
 description: ""
-date: "2026-03-13T09:22:54.984334"
+date: "2026-03-20T08:22:05.714589"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - botanic
   - "food-beverage"
+  - botanic
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - horizontal
   - lockup
+  - primary
+  - horizontal
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
-  - product
   - lifestyle
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://goraw.com/](https://goraw.com/)
+- [https://goraw.com](https://goraw.com)
 
 ## Brand Guidelines
 

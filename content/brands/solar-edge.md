@@ -2,12 +2,12 @@
 title: Solar Edge
 slug: "solar-edge"
 description: ""
-date: "2026-03-13T09:22:54.334051"
+date: "2026-03-20T08:22:05.160342"
 draft: false
 sectors:
+  - "renewable-energy"
   - software
   - hardware
-  - "renewable-energy"
 regions:
   - israel
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +51,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - blue
-  - white
   - red
+  - white
   - orange
+  - blue
 typographies: []
 imagery_styles:
   - bold
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [https://monitoring.solaredge.com/](https://monitoring.solaredge.com/)
-- [https://www.solaredge.com/](https://www.solaredge.com/)
+- [https://www.solaredge.com](https://www.solaredge.com)
 - [https://www.solaredge.com/us](https://www.solaredge.com/us)
+- [https://monitoring.solaredge.com](https://monitoring.solaredge.com)
+- [http://www.gettyimages.com](http://www.gettyimages.com)
 
 ## Brand Guidelines
 

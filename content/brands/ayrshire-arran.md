@@ -2,7 +2,7 @@
 title: "Ayrshire & Arran"
 slug: "ayrshire-arran"
 description: ""
-date: "2026-03-13T09:22:54.411805"
+date: "2026-03-20T08:22:05.243832"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
   - frutiger
 imagery_styles:
-  - lifestyle
-  - photography
-  - landscape
-  - bold
   - graphic
+  - bold
+  - photography
+  - lifestyle
+  - landscape
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ayrshireandarran.com/](https://ayrshireandarran.com/)
-- [https://www.ayrshire-arran.org/](https://www.ayrshire-arran.org/)
+- [https://ayrshireandarran.com](https://ayrshireandarran.com)
+- [https://www.ayrshire-arran.org](https://www.ayrshire-arran.org)
 
 ## Brand Guidelines
 

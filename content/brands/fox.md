@@ -2,7 +2,7 @@
 title: Fox
 slug: fox
 description: ""
-date: "2026-03-13T09:22:54.562973"
+date: "2026-03-20T08:22:05.410845"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fox.com/](https://www.fox.com/)
-- [https://www.foxcorporation.com/](https://www.foxcorporation.com/)
+- [https://www.foxcorporation.com](https://www.foxcorporation.com)
+- [https://www.fox.com](https://www.fox.com)
+- [https://fox.com](https://fox.com)
 
 ## Brand Guidelines
 

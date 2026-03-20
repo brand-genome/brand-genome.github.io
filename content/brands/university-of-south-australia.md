@@ -2,7 +2,7 @@
 title: University of South Australia
 slug: "university-of-south-australia"
 description: ""
-date: "2026-03-13T09:22:54.226462"
+date: "2026-03-20T08:22:05.064143"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
   - signage
 industries: []
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.unisa.edu.au](https://www.unisa.edu.au)
+- [https://unisa.edu.au](https://unisa.edu.au)
+- [https://study.unisa.edu.au](https://study.unisa.edu.au)
 - [https://i.unisa.edu.au/staff/facilities](https://i.unisa.edu.au/staff/facilities)
-- [https://study.unisa.edu.au/](https://study.unisa.edu.au/)
-- [https://unisa.edu.au/](https://unisa.edu.au/)
-- [https://www.unisa.edu.au/](https://www.unisa.edu.au/)
 
 ## Brand Guidelines
 

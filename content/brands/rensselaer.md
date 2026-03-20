@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-03-13T09:22:55.167069"
+date: "2026-03-20T08:22:05.868772"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1824
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,29 +54,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
   - secondary
   - wordmark
 brand_colors:
-  - "pantone-158"
-  - "pantone-7711"
-  - "pantone-390"
-  - black
   - "pantone-5425"
   - "pantone-485"
+  - "pantone-158"
+  - "pantone-390"
   - "pantone-424"
+  - "pantone-7711"
+  - black
 typographies:
   - gotham
-  - "sans-serif"
   - serif
+  - impact
+  - "sans-serif"
   - times
   - "source-sans"
-  - impact
 imagery_styles:
+  - bold
   - modern
   - professional
-  - bold
 wikidata_description: "private research university in Troy, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q49211"
 has_twitter: false
@@ -86,7 +88,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rpi.edu/](https://www.rpi.edu/)
+- [https://www.rpi.edu](https://www.rpi.edu)
+- [http://www.rpi.edu](http://www.rpi.edu)
 
 ## Brand Guidelines
 

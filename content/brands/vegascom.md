@@ -2,7 +2,7 @@
 title: Vegas.com
 slug: vegascom
 description: ""
-date: "2026-03-13T09:22:53.278324"
+date: "2026-03-20T08:22:04.206100"
 draft: false
 sectors:
   - "e-commerce"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,11 +55,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - yellow
-  - "pantone-122"
-  - black
   - red
+  - "pantone-122"
+  - yellow
   - "pantone-032"
+  - black
 typographies: []
 imagery_styles:
   - product
@@ -72,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.VEGAS.com](http://www.VEGAS.com)
-- [https://www.vegas.com/](https://www.vegas.com/)
+- [https://www.vegas.com](https://www.vegas.com)
+- [http://www.vegas.com](http://www.vegas.com)
 
 ## Brand Guidelines
 

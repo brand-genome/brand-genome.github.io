@@ -2,7 +2,7 @@
 title: Vancouver Regional Parks
 slug: "vancouver-regional-parks"
 description: ""
-date: "2026-03-13T09:22:54.721156"
+date: "2026-03-20T08:22:05.519336"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.METROVANCOUVER.ORG](http://www.METROVANCOUVER.ORG)
 - [https://metrovancouver.org/services/regional-parks](https://metrovancouver.org/services/regional-parks)
+- [http://www.metrovancouver.org](http://www.metrovancouver.org)
 
 ## Brand Guidelines
 

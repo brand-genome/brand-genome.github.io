@@ -2,7 +2,7 @@
 title: Olympia London
 slug: "olympia-london"
 description: ""
-date: "2026-03-13T09:22:54.552060"
+date: "2026-03-20T08:22:05.397852"
 draft: false
 sectors:
   - entertainment
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - purple
-  - grey
-  - pink
-  - blue
   - green
   - white
+  - purple
+  - grey
+  - blue
   - brown
+  - pink
 typographies: []
 imagery_styles:
   - classic
+  - bold
   - dynamic
   - modern
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.olympia.co.uk/](https://www.olympia.co.uk/)
+- [https://www.olympia.co.uk](https://www.olympia.co.uk)
 
 ## Brand Guidelines
 

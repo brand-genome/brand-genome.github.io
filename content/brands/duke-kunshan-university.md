@@ -2,7 +2,7 @@
 title: Duke Kunshan University
 slug: "duke-kunshan-university"
 description: ""
-date: "2026-03-13T09:22:51.886503"
+date: "2026-03-20T08:22:03.059934"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,6 +67,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://dukekunshan.edu.cn](https://dukekunshan.edu.cn)
+- [https://dukekunshan.edu.cn/zh](https://dukekunshan.edu.cn/zh)
+- [https://dku.edu.cn](https://dku.edu.cn)
+- [https://dku.edu.cn/zh](https://dku.edu.cn/zh)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: AIAA
 slug: aiaa
 description: ""
-date: "2026-03-13T09:22:55.094515"
+date: "2026-03-20T08:22:05.799636"
 draft: false
 sectors:
   - aerospace
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aiaa.org/](https://www.aiaa.org/)
+- [https://www.aiaa.org](https://www.aiaa.org)
+- [http://www.aiaa.org](http://www.aiaa.org)
 
 ## Brand Guidelines
 

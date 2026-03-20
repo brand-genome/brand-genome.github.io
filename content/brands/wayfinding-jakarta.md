@@ -2,12 +2,12 @@
 title: Wayfinding Jakarta
 slug: "wayfinding-jakarta"
 description: ""
-date: "2026-03-13T09:22:53.025214"
+date: "2026-03-20T08:22:04.017958"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
   - "design-creative"
+  - "public-transportation"
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://itdp-indonesia.org/](https://itdp-indonesia.org/)
-- [https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta/](https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta/)
-- [https://transportforjakarta.or.id/](https://transportforjakarta.or.id/)
+- [https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta](https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta)
+- [https://itdp-indonesia.org](https://itdp-indonesia.org)
+- [https://transportforjakarta.or.id](https://transportforjakarta.or.id)
 
 ## Brand Guidelines
 

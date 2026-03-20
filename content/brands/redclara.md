@@ -2,11 +2,11 @@
 title: RedCLARA
 slug: redclara
 description: ""
-date: "2026-03-13T09:22:54.827455"
+date: "2026-03-20T08:22:05.589271"
 draft: false
 sectors:
-  - ngo
   - networking
+  - ngo
 regions:
   - chile
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.redclara.net/](http://www.redclara.net/)
+- [http://www.redclara.net](http://www.redclara.net)
 
 ## Brand Guidelines
 

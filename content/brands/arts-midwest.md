@@ -2,11 +2,11 @@
 title: Arts Midwest
 slug: "arts-midwest"
 description: ""
-date: "2026-03-13T09:22:52.197549"
+date: "2026-03-20T08:22:03.263968"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - art
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - stacked
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-170"
-  - purple
-  - "pantone-2297"
-  - "pantone-5275"
-  - "pantone-2366"
-  - black
-  - coral
   - green
+  - "pantone-5275"
+  - coral
   - white
+  - purple
+  - "pantone-170"
+  - "pantone-2366"
+  - "pantone-2297"
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://artsmidwest.org](https://artsmidwest.org)
 - [http://www.artsmidwest.org](http://www.artsmidwest.org)
-- [https://artsmidwest.org/](https://artsmidwest.org/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Bündnis 90 / Die Grünen
 slug: "bundnis-90-die-grunen"
 description: ""
-date: "2026-03-13T09:22:53.436207"
+date: "2026-03-20T08:22:04.339928"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +56,8 @@ typographies:
   - trebuchet
 imagery_styles:
   - classic
-  - clean
   - bold
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gruene.de](https://www.gruene.de)
 - [https://netz.gruene.de/de](https://netz.gruene.de/de)
-- [https://www.gruene-bundestag.de/](https://www.gruene-bundestag.de/)
-- [https://www.gruene.de/](https://www.gruene.de/)
+- [https://www.gruene-bundestag.de](https://www.gruene-bundestag.de)
 
 ## Brand Guidelines
 

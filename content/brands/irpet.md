@@ -2,11 +2,11 @@
 title: IRPET
 slug: irpet
 description: ""
-date: "2026-03-13T09:22:54.752796"
+date: "2026-03-20T08:22:05.551076"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - italy
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-227"
-  - gray
-  - "pantone-426"
-  - black
   - white
+  - "pantone-426"
+  - gray
+  - black
+  - "pantone-227"
 typographies:
   - bodoni
 imagery_styles: []
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.irpet.it/](https://www.irpet.it/)
+- [https://www.irpet.it](https://www.irpet.it)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-03-13T09:22:52.133926"
+date: "2026-03-20T08:22:03.197204"
 draft: false
 sectors:
   - railroad
@@ -10,14 +10,14 @@ sectors:
 regions:
   - canada
 years:
-  - 2019
   - 2023
+  - 2019
 languages:
   - english
 tags:
-  - ambigram
   - featured
   - transport
+  - ambigram
 industries:
   - "rail-transport"
   - "passenger-rail-transport"
@@ -35,11 +35,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - montreal
   - "place-ville-marie"
+  - montreal
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,27 +60,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - signature
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - grey
-  - yellow
-  - black
-  - "pantone-123"
-  - "pantone-032"
-  - blue
   - red
+  - "pantone-123"
   - white
+  - grey
+  - blue
+  - yellow
+  - "pantone-032"
+  - black
 typographies:
   - arial
 imagery_styles:
+  - clean
+  - modern
   - monochrome
   - photography
-  - modern
-  - clean
 wikidata_description: "national inter-city passenger rail operator in Canada owned by the Canadian government"
 wikidata_url: "https://www.wikidata.org/wiki/Q876720"
 has_twitter: false
@@ -90,9 +92,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.viarail.ca](https://www.viarail.ca)
 - [https://corpo.viarail.ca/en](https://corpo.viarail.ca/en)
 - [https://corpo.viarail.ca/fr](https://corpo.viarail.ca/fr)
-- [https://www.viarail.ca/](https://www.viarail.ca/)
+- [https://www.viarail.ca/en](https://www.viarail.ca/en)
+- [https://www.viarail.ca/fr](https://www.viarail.ca/fr)
 
 ## Brand Guidelines
 
@@ -151,7 +155,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Montreal](/headquarters_locations/montreal/); [Place Ville Marie](/headquarters_locations/place-ville-marie/) |
+| Headquarters Location | [Place Ville Marie](/headquarters_locations/place-ville-marie/); [Montreal](/headquarters_locations/montreal/) |
 | Foundation Date | [1977](/foundation_dates/1977/) |
 | Topic'S Main Category | Category:Via Rail |
 | Commons Gallery | Via Rail |

@@ -2,7 +2,7 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-03-13T09:22:54.572289"
+date: "2026-03-20T08:22:05.417630"
 draft: false
 sectors:
   - construction
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -67,9 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://construction.newholland.com/](https://construction.newholland.com/)
-- [https://www.cnh.com/](https://www.cnh.com/)
-- [https://www.newhollandce.com.mx/](https://www.newhollandce.com.mx/)
+- [https://construction.newholland.com](https://construction.newholland.com)
+- [https://www.newhollandce.com.mx](https://www.newhollandce.com.mx)
+- [https://www.cnh.com](https://www.cnh.com)
+- [https://www.newholland.com.tr](https://www.newholland.com.tr)
+- [https://www.newholland.com](https://www.newholland.com)
 
 ## Brand Guidelines
 

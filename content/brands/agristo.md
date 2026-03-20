@@ -2,7 +2,7 @@
 title: Agristo
 slug: agristo
 description: ""
-date: "2026-03-13T09:22:52.327344"
+date: "2026-03-20T08:22:03.395886"
 draft: false
 sectors:
   - food
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://agristo.com/](https://agristo.com/)
-- [https://agristo.com/es](https://agristo.com/es)
+- [https://agristo.com](https://agristo.com)
 - [https://agristo.com/nl](https://agristo.com/nl)
+- [https://agristo.com/es](https://agristo.com/es)
+- [http://www.agristo.com](http://www.agristo.com)
 
 ## Brand Guidelines
 

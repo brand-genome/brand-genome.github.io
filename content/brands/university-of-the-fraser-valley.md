@@ -2,7 +2,7 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-03-13T09:22:54.766305"
+date: "2026-03-20T08:22:05.556707"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1974
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,21 +55,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - seal
+  - secondary
+  - crest
   - wordmark
   - primary
-  - crest
-  - vertical
-  - secondary
-  - seal
 brand_colors:
   - black
 typographies:
   - display
+  - serif
   - "open-sans"
   - "sans-serif"
-  - serif
-  - playfair
   - roboto
+  - playfair
 imagery_styles:
   - bold
   - graphic
@@ -82,8 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ufv.ca](https://www.ufv.ca)
 - [http://www.ufv.ca](http://www.ufv.ca)
-- [https://www.ufv.ca/](https://www.ufv.ca/)
 
 ## Brand Guidelines
 

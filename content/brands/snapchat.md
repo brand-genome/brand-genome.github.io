@@ -2,7 +2,7 @@
 title: Snapchat
 slug: snapchat
 description: ""
-date: "2026-03-13T09:22:53.648426"
+date: "2026-03-20T08:22:04.506038"
 draft: false
 sectors:
   - software
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2015
   - 2025
+  - 2015
 languages:
   - english
 tags:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://web.snapchat.com/](https://web.snapchat.com/)
-- [https://www.snap.com/](https://www.snap.com/)
-- [https://www.snapchat.com/](https://www.snapchat.com/)
+- [https://www.snapchat.com](https://www.snapchat.com)
+- [https://web.snapchat.com](https://web.snapchat.com)
+- [https://www.snap.com](https://www.snap.com)
 
 ## Brand Guidelines
 

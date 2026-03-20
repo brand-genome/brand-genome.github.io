@@ -2,7 +2,7 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-03-13T09:22:54.354169"
+date: "2026-03-20T08:22:05.184155"
 draft: false
 sectors:
   - restaurant
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
   - monogram
 brand_colors:
-  - black
+  - white
   - gold
   - "pantone-872"
-  - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
-  - product
   - bold
+  - product
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://belleepoque.co.uk/](https://belleepoque.co.uk/)
+- [https://belleepoque.co.uk](https://belleepoque.co.uk)
 
 ## Brand Guidelines
 

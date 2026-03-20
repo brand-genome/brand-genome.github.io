@@ -2,7 +2,7 @@
 title: Formula 1
 slug: "formula-1"
 description: ""
-date: "2026-03-13T09:22:54.217417"
+date: "2026-03-20T08:22:05.044660"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.F1Experiences.com](http://www.F1Experiences.com)
+- [https://www.formula1.com](https://www.formula1.com)
+- [https://corp.formula1.com](https://corp.formula1.com)
+- [http://www.f1experiences.com](http://www.f1experiences.com)
 - [http://www.f1.com](http://www.f1.com)
-- [https://F1Esports.com/](https://F1Esports.com/)
-- [https://corp.formula1.com/](https://corp.formula1.com/)
-- [https://www.formula1.com/](https://www.formula1.com/)
+- [https://f1esports.com](https://f1esports.com)
 
 ## Brand Guidelines
 

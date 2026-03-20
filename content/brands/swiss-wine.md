@@ -2,11 +2,11 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-03-13T09:22:53.662182"
+date: "2026-03-20T08:22:04.520005"
 draft: false
 sectors:
-  - drink
   - "marketing-advertising"
+  - drink
 regions:
   - switzerland
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
 brand_colors:
-  - "pantone-411"
-  - grey
-  - black
-  - white
   - red
+  - white
+  - grey
   - "pantone-1805"
+  - "pantone-411"
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -71,12 +72,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.swisswine.com/](https://www.swisswine.com/)
-- [https://www.swisswine.com/de](https://www.swisswine.com/de)
+- [https://www.swisswine.com](https://www.swisswine.com)
 - [https://www.swisswine.com/en](https://www.swisswine.com/en)
-- [https://www.swisswine.com/en/about-us](https://www.swisswine.com/en/about-us)
+- [https://www.swisswine.com/de](https://www.swisswine.com/de)
 - [https://www.swisswine.com/fr](https://www.swisswine.com/fr)
 - [https://www.swisswine.com/it](https://www.swisswine.com/it)
+- [https://www.swisswine.com/en/about-us](https://www.swisswine.com/en/about-us)
 
 ## Brand Guidelines
 

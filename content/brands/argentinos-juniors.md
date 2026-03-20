@@ -2,7 +2,7 @@
 title: Argentinos Juniors
 slug: "argentinos-juniors"
 description: ""
-date: "2026-03-13T09:22:53.446438"
+date: "2026-03-20T08:22:04.349897"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1904
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://argentinosjuniors.com.ar/](https://argentinosjuniors.com.ar/)
+- [https://argentinosjuniors.com.ar](https://argentinosjuniors.com.ar)
 
 ## Brand Guidelines
 

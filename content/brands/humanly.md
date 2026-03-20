@@ -2,7 +2,7 @@
 title: Humanly
 slug: humanly
 description: ""
-date: "2026-03-13T09:22:52.176902"
+date: "2026-03-20T08:22:03.244293"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - app
   - health
+  - app
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,14 +54,14 @@ brand_colors:
 typographies:
   - "sans-serif"
 imagery_styles:
-  - natural
-  - organic
-  - illustration
-  - realistic
   - staged
-  - subtle
-  - photography
   - graphic
+  - organic
+  - natural
+  - subtle
+  - illustration
+  - photography
+  - realistic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://humanly.com/](https://humanly.com/)
+- [https://humanly.com](https://humanly.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-03-13T09:22:54.575143"
+date: "2026-03-20T08:22:05.419943"
 draft: false
 sectors:
-  - software
   - "logistics-supply-chain"
+  - software
 regions:
   - belgium
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements:
 brand_colors:
   - white
 typographies:
-  - display
   - raleway
+  - display
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nxtport.com/](https://nxtport.com/)
-- [https://www.nxtport.eu/](https://www.nxtport.eu/)
+- [https://nxtport.com](https://nxtport.com)
+- [https://www.nxtport.eu](https://www.nxtport.eu)
 
 ## Brand Guidelines
 

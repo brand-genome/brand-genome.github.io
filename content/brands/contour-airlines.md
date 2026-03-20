@@ -2,11 +2,11 @@
 title: Contour Airlines
 slug: "contour-airlines"
 description: ""
-date: "2026-03-13T09:22:53.963040"
+date: "2026-03-20T08:22:04.886568"
 draft: false
 sectors:
-  - airline
   - aerospace
+  - airline
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.flycontour.com/](https://brand.flycontour.com/)
-- [https://www.contourairlines.com/](https://www.contourairlines.com/)
-- [https://www.contouraviation.com/](https://www.contouraviation.com/)
+- [https://www.contourairlines.com](https://www.contourairlines.com)
+- [https://www.contouraviation.com](https://www.contouraviation.com)
+- [https://brand.flycontour.com](https://brand.flycontour.com)
 
 ## Brand Guidelines
 

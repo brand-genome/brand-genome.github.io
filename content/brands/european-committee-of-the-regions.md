@@ -2,7 +2,7 @@
 title: European Committee of the Regions
 slug: "european-committee-of-the-regions"
 description: ""
-date: "2026-03-13T09:22:53.252794"
+date: "2026-03-20T08:22:04.178781"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +54,8 @@ brand_colors:
 typographies:
   - display
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cor.europa.eu/](https://cor.europa.eu/)
+- [https://cor.europa.eu](https://cor.europa.eu)
 - [https://cor.europa.eu/en/homepage](https://cor.europa.eu/en/homepage)
 - [https://cor.europa.eu/en/visual-identity](https://cor.europa.eu/en/visual-identity)
 

@@ -2,7 +2,7 @@
 title: Aras
 slug: aras
 description: ""
-date: "2026-03-13T09:22:51.885538"
+date: "2026-03-20T08:22:03.056617"
 draft: false
 sectors:
   - software
@@ -28,15 +28,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "omnidirectional-camera"
   - "still-camera"
   - "action-camera"
+  - "omnidirectional-camera"
 products: []
 headquarters_locations:
   - shenzhen
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,12 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://community.aras.com/](https://community.aras.com/)
-- [https://docs.aras.com/welcome](https://docs.aras.com/welcome)
-- [https://www.aras.com/](https://www.aras.com/)
-- [https://www.aras.com/community/subscriber-portal/p/login](https://www.aras.com/community/subscriber-portal/p/login)
+- [https://www.aras.com](https://www.aras.com)
 - [https://www.aras.com/en](https://www.aras.com/en)
 - [https://www.aras.com/en/company](https://www.aras.com/en/company)
+- [https://community.aras.com](https://community.aras.com)
+- [https://www.aras.com/community/subscriber-portal/p/login](https://www.aras.com/community/subscriber-portal/p/login)
+- [https://docs.aras.com/welcome](https://docs.aras.com/welcome)
+- [https://www.insta360.com](https://www.insta360.com)
 
 ## Brand Guidelines
 
@@ -90,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Omnidirectional Camera](/products_or_materials_produced/omnidirectional-camera/); [Still Camera](/products_or_materials_produced/still-camera/); [Action Camera](/products_or_materials_produced/action-camera/) |
+| Product Or Material Produced | [Still Camera](/products_or_materials_produced/still-camera/); [Action Camera](/products_or_materials_produced/action-camera/); [Omnidirectional Camera](/products_or_materials_produced/omnidirectional-camera/) |
 | Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
 | Foundation Date | [2015](/foundation_dates/2015/) |
 | Country | People's Republic of China |

@@ -31,6 +31,7 @@ buildFuture = true
   headquarters_location = "headquarters_locations"
   subsidiary = "subsidiaries"
   foundation_date = "foundation_dates"
+  foundation_year_bucket = "foundation_year_buckets"
   
   # Color analysis taxonomies (from image color extraction)
   dominant_color = "dominant_colors"

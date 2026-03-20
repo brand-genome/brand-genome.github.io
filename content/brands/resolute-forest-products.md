@@ -2,7 +2,7 @@
 title: Resolute Forest Products
 slug: "resolute-forest-products"
 description: ""
-date: "2026-03-13T09:22:53.308436"
+date: "2026-03-20T08:22:04.225217"
 draft: false
 sectors:
   - "forestry-timber"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://resolutefp.mediaroom.com/](https://resolutefp.mediaroom.com/)
+- [https://resolutefp.mediaroom.com](https://resolutefp.mediaroom.com)
+- [http://www.resoluteforestproducts.com](http://www.resoluteforestproducts.com)
 
 ## Brand Guidelines
 

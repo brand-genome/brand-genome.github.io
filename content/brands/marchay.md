@@ -2,7 +2,7 @@
 title: Marchay
 slug: marchay
 description: ""
-date: "2026-03-13T09:22:53.268235"
+date: "2026-03-20T08:22:04.194835"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - luxury
   - tourism
+  - luxury
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - favicon
-  - monogram
   - secondary
+  - monogram
 brand_colors:
+  - beige
   - grey
+  - blue
   - orange
   - black
-  - beige
-  - blue
 typographies: []
 imagery_styles:
   - vintage
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://marchay.com/](https://marchay.com/)
+- [https://marchay.com](https://marchay.com)
 
 ## Brand Guidelines
 

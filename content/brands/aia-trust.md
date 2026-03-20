@@ -2,7 +2,7 @@
 title: AIA Trust
 slug: "aia-trust"
 description: ""
-date: "2026-03-13T09:22:53.971349"
+date: "2026-03-20T08:22:04.897469"
 draft: false
 sectors:
   - insurance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +49,15 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies: []
 imagery_styles:
   - clean
-  - contemporary
   - professional
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://theaiatrust.com/](https://theaiatrust.com/)
+- [https://theaiatrust.com](https://theaiatrust.com)
 
 ## Brand Guidelines
 

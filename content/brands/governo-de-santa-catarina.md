@@ -2,7 +2,7 @@
 title: Governo de Santa Catarina
 slug: "governo-de-santa-catarina"
 description: ""
-date: "2026-03-13T09:22:53.009233"
+date: "2026-03-20T08:22:04.000711"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - brazil
@@ -31,6 +31,7 @@ headquarters_locations:
   - "centro-administrativo-do-governo-do-estado-de-santa-catarina"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://facil.sc.gov.br/](https://facil.sc.gov.br/)
-- [https://www.governo.sc.gov.br/](https://www.governo.sc.gov.br/)
-- [https://www.sc.gov.br/](https://www.sc.gov.br/)
+- [https://www.sc.gov.br](https://www.sc.gov.br)
+- [https://www.governo.sc.gov.br](https://www.governo.sc.gov.br)
+- [https://facil.sc.gov.br](https://facil.sc.gov.br)
 
 ## Brand Guidelines
 

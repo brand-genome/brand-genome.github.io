@@ -2,11 +2,11 @@
 title: Decade of Ocean Science for Sustainable Development
 slug: "decade-of-ocean-science-for-sustainable-development"
 description: ""
-date: "2026-03-13T09:22:53.305319"
+date: "2026-03-20T08:22:04.222896"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - international
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - "pantone-2995"
-  - grey
-  - black
-  - teal
   - red
-  - blue
-  - "pantone-1788"
+  - teal
   - white
-  - "pantone-7470"
+  - grey
+  - blue
   - "pantone-534"
+  - "pantone-1788"
+  - "pantone-2995"
+  - "pantone-7470"
+  - black
 typographies:
   - arial
   - display
@@ -80,9 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://forum.oceandecade.org/](https://forum.oceandecade.org/)
-- [https://oceandecade.org/](https://oceandecade.org/)
+- [https://oceandecade.org](https://oceandecade.org)
 - [https://www.unesco.org/en/ocean-decade/about](https://www.unesco.org/en/ocean-decade/about)
+- [https://forum.oceandecade.org](https://forum.oceandecade.org)
 
 ## Brand Guidelines
 

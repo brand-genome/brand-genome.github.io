@@ -2,11 +2,11 @@
 title: LoRa Alliance
 slug: "lora-alliance"
 description: ""
-date: "2026-03-13T09:22:53.643719"
+date: "2026-03-20T08:22:04.500152"
 draft: false
 sectors:
-  - ngo
   - networking
+  - ngo
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - fremont
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - cyan
   - "pantone-532"
   - "pantone-102"
+  - white
+  - cyan
   - grey
   - yellow
   - black
-  - white
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - landscape
   - bold
+  - landscape
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q131899293"
 has_twitter: false
@@ -78,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lora-alliance.org/](https://lora-alliance.org/)
+- [https://lora-alliance.org](https://lora-alliance.org)
+- [http://lora-alliance.org](http://lora-alliance.org)
 
 ## Brand Guidelines
 

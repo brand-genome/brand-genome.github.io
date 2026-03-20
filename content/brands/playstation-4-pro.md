@@ -2,7 +2,7 @@
 title: PlayStation 4 Pro
 slug: "playstation-4-pro"
 description: ""
-date: "2026-03-13T09:22:53.698709"
+date: "2026-03-20T08:22:04.553523"
 draft: false
 sectors:
   - gaming
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - secondary
-  - vertical
 brand_colors:
   - silver
+  - white
+  - blue
   - gray
   - black
-  - blue
-  - white
 typographies:
   - display
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.playstation.com/en-us/ps4](https://www.playstation.com/en-us/ps4)
 - [https://sonyinteractive.com/en/corporate/release/2016/160908c.html](https://sonyinteractive.com/en/corporate/release/2016/160908c.html)
-- [https://www.playstation.com/en-us/ps4/](https://www.playstation.com/en-us/ps4/)
 
 ## Brand Guidelines
 

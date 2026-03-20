@@ -2,11 +2,11 @@
 title: Radio Player
 slug: "radio-player"
 description: ""
-date: "2026-03-13T09:22:54.740502"
+date: "2026-03-20T08:22:05.537512"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - canada
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - product
-  - gradient
   - bold
+  - gradient
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,11 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Radioplayer.ca](http://www.Radioplayer.ca)
-- [https://radioplayer.ca/](https://radioplayer.ca/)
-- [https://radioplayer.ca/app/](https://radioplayer.ca/app/)
-- [https://radioplayer.org/](https://radioplayer.org/)
-- [https://www.support.radioplayer.ca/](https://www.support.radioplayer.ca/)
+- [https://radioplayer.ca](https://radioplayer.ca)
+- [https://radioplayer.ca/app](https://radioplayer.ca/app)
+- [https://www.support.radioplayer.ca](https://www.support.radioplayer.ca)
+- [https://radioplayer.org](https://radioplayer.org)
+- [http://www.radioplayer.ca](http://www.radioplayer.ca)
 
 ## Brand Guidelines
 

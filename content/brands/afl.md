@@ -2,7 +2,7 @@
 title: AFL
 slug: afl
 description: ""
-date: "2026-03-13T09:22:53.079731"
+date: "2026-03-20T08:22:04.077692"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - wordmark
+  - symbol
 brand_colors:
-  - black
   - silver
   - red
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: sports statistics website
@@ -67,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.afl.com.au/](https://www.afl.com.au/)
+- [https://www.afl.com.au](https://www.afl.com.au)
+- [https://afltables.com](https://afltables.com)
 
 ## Brand Guidelines
 

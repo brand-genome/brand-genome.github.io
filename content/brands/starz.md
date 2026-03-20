@@ -2,7 +2,7 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-03-13T09:22:55.145142"
+date: "2026-03-20T08:22:05.845987"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - clean
   - minimal
-  - photography
-  - gradient
   - bold
+  - photography
+  - clean
+  - gradient
 wikidata_description: American pay television network
 wikidata_url: "https://www.wikidata.org/wiki/Q2422698"
 has_twitter: false
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.starz.com/](https://www.starz.com/)
-- [https://www.starz.com/us/en/](https://www.starz.com/us/en/)
+- [https://www.starz.com](https://www.starz.com)
+- [https://www.starz.com/us/en](https://www.starz.com/us/en)
 
 ## Brand Guidelines
 

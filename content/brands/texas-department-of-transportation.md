@@ -2,11 +2,11 @@
 title: Texas Department of Transportation
 slug: "texas-department-of-transportation"
 description: ""
-date: "2026-03-13T09:22:53.757119"
+date: "2026-03-20T08:22:04.714979"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,9 +58,9 @@ typographies:
   - arial
 imagery_styles:
   - dynamic
+  - natural
   - candid
   - staged
-  - natural
 wikidata_description: "governmental agency in Texas, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q568743"
 has_twitter: false
@@ -70,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.TxDOT.gov](http://www.TxDOT.gov)
-- [https://ftp.txdot.gov/](https://ftp.txdot.gov/)
-- [https://txdot.txdotcms.com/](https://txdot.txdotcms.com/)
-- [https://www.txdot.gov/](https://www.txdot.gov/)
+- [https://www.txdot.gov](https://www.txdot.gov)
+- [https://ftp.txdot.gov](https://ftp.txdot.gov)
+- [https://txdot.txdotcms.com](https://txdot.txdotcms.com)
+- [http://www.txdot.gov](http://www.txdot.gov)
 
 ## Brand Guidelines
 

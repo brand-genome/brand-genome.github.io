@@ -2,7 +2,7 @@
 title: Bournemouth University
 slug: "bournemouth-university"
 description: ""
-date: "2026-03-13T09:22:53.603187"
+date: "2026-03-20T08:22:04.468264"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +53,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles:
-  - natural
-  - lifestyle
-  - clean
-  - portrait
-  - vibrant
-  - photography
-  - landscape
   - bold
+  - portrait
+  - natural
+  - photography
+  - clean
+  - lifestyle
+  - landscape
+  - vibrant
 wikidata_description: "university in Bournemouth, Christchurch and Poole, UK"
 wikidata_url: "https://www.wikidata.org/wiki/Q3182943"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bournemouth.ac.uk/](https://www.bournemouth.ac.uk/)
+- [https://www.bournemouth.ac.uk](https://www.bournemouth.ac.uk)
+- [http://www.bournemouth.ac.uk](http://www.bournemouth.ac.uk)
 
 ## Brand Guidelines
 

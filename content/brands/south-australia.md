@@ -2,7 +2,7 @@
 title: South Australia
 slug: "south-australia"
 description: ""
-date: "2026-03-13T09:22:53.649784"
+date: "2026-03-20T08:22:04.508739"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1836
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +51,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: state of Australia
@@ -69,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.brand.sa.gov.au/](https://www.brand.sa.gov.au/)
+- [https://www.brand.sa.gov.au](https://www.brand.sa.gov.au)
 - [https://www.brand.sa.gov.au/the-state-brand/brand-guidelines](https://www.brand.sa.gov.au/the-state-brand/brand-guidelines)
+- [https://www.sa.gov.au](https://www.sa.gov.au)
 
 ## Brand Guidelines
 

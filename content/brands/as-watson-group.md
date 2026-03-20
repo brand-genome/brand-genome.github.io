@@ -2,7 +2,7 @@
 title: A.S. Watson Group
 slug: "as-watson-group"
 description: ""
-date: "2026-03-13T09:22:52.868897"
+date: "2026-03-20T08:22:03.869657"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cosmetics
   - health
+  - cosmetics
 industries:
   - retail
 countries: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1828
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.aswatson.com](https://www.aswatson.com)
+- [https://www.aswatson.com/career](https://www.aswatson.com/career)
 - [http://www.thewhamagency.com](http://www.thewhamagency.com)
-- [https://www.aswatson.com/](https://www.aswatson.com/)
-- [https://www.aswatson.com/career/](https://www.aswatson.com/career/)
+- [http://eu.aswatson.com](http://eu.aswatson.com)
 
 ## Brand Guidelines
 

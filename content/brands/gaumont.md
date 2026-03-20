@@ -2,7 +2,7 @@
 title: Gaumont
 slug: gaumont
 description: ""
-date: "2026-03-13T09:22:54.738778"
+date: "2026-03-20T08:22:05.535527"
 draft: false
 sectors:
   - entertainment
@@ -16,9 +16,9 @@ tags:
   - cultural
 industries:
   - "media-industry"
-  - "film-production-for-the-cinema"
   - "motion-picture-video-and-television-programme-activities"
   - "film-industry"
+  - "film-production-for-the-cinema"
 countries:
   - france
 revenue_buckets: []
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1895
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,10 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gaumont.com](https://www.gaumont.com)
+- [https://www.gaumont.fr](https://www.gaumont.fr)
+- [https://www.gaumontpresse.fr](https://www.gaumontpresse.fr)
 - [http://www.gaumont.fr](http://www.gaumont.fr)
-- [https://www.gaumont.com/](https://www.gaumont.com/)
-- [https://www.gaumont.fr/](https://www.gaumont.fr/)
-- [https://www.gaumontpresse.fr/](https://www.gaumontpresse.fr/)
+- [http://www.gaumont.net](http://www.gaumont.net)
 
 ## Brand Guidelines
 

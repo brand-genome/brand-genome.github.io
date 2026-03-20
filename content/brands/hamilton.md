@@ -2,7 +2,7 @@
 title: Hamilton
 slug: hamilton
 description: ""
-date: "2026-03-13T09:22:54.046867"
+date: "2026-03-20T08:22:04.901458"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - canada
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1846
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://supercrawl.ca/](http://supercrawl.ca/)
+- [https://tourismhamilton.com](https://tourismhamilton.com)
+- [http://supercrawl.ca](http://supercrawl.ca)
 - [http://www.tourismhamilton.com](http://www.tourismhamilton.com)
-- [https://tourismhamilton.com/](https://tourismhamilton.com/)
+- [https://www.hamilton.ca](https://www.hamilton.ca)
 
 ## Brand Guidelines
 

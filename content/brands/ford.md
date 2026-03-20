@@ -2,16 +2,16 @@
 title: Ford
 slug: ford
 description: ""
-date: "2026-03-13T09:22:53.023713"
+date: "2026-03-20T08:22:04.016378"
 draft: false
 sectors:
-  - finance
   - automobile
+  - finance
 regions:
   - usa
 years:
-  - 2006
   - 2021
+  - 2006
 languages:
   - english
 tags:
@@ -36,14 +36,16 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "passenger-car"
   - truck
+  - "passenger-car"
 products: []
 headquarters_locations:
   - dearborn
 subsidiaries: []
 foundation_dates:
   - 1903
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,23 +64,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - emblem
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - emblem
+  - primary
+  - icon
 brand_colors:
-  - black
   - "pantone-3262"
+  - black
 typographies:
-  - avenir
   - impact
+  - avenir
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: American multinational automotive company
 wikidata_url: "https://www.wikidata.org/wiki/Q44294"
 has_twitter: false
@@ -90,9 +92,117 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.ford.com/](https://corporate.ford.com/)
-- [https://www.ford.com/](https://www.ford.com/)
-- [https://www.ford.com/finance/](https://www.ford.com/finance/)
+- [https://www.ford.com](https://www.ford.com)
+- [https://corporate.ford.com](https://corporate.ford.com)
+- [https://www.ford.com/finance](https://www.ford.com/finance)
+- [http://www.ford.com](http://www.ford.com)
+- [https://www.india.ford.com](https://www.india.ford.com)
+- [https://www.dealer.india.ford.com](https://www.dealer.india.ford.com)
+- [https://www.ford.co.th](https://www.ford.co.th)
+- [https://www.ford.com.tr](https://www.ford.com.tr)
+- [http://www.fordsrilanka.com](http://www.fordsrilanka.com)
+- [https://en.fordegypt.com](https://en.fordegypt.com)
+- [https://ford.am](https://ford.am)
+- [https://ford.ao](https://ford.ao)
+- [https://ford.co.ke](https://ford.co.ke)
+- [https://ford.com.ge](https://ford.com.ge)
+- [https://ford.hr](https://ford.hr)
+- [https://ford.mk](https://ford.mk)
+- [https://ford.nc](https://ford.nc)
+- [https://ford.rs](https://ford.rs)
+- [https://ford.si](https://ford.si)
+- [https://ford.ua](https://ford.ua)
+- [https://ford.ug](https://ford.ug)
+- [https://fordguinee.com](https://fordguinee.com)
+- [https://fordpng.com](https://fordpng.com)
+- [https://fr.ford.ma](https://fr.ford.ma)
+- [https://www.caribe.ford.com](https://www.caribe.ford.com)
+- [https://www.caribe.ford.com/en/abw](https://www.caribe.ford.com/en/abw)
+- [https://www.caribe.ford.com/en/atg](https://www.caribe.ford.com/en/atg)
+- [https://www.caribe.ford.com/en/bhs](https://www.caribe.ford.com/en/bhs)
+- [https://www.caribe.ford.com/en/bmu](https://www.caribe.ford.com/en/bmu)
+- [https://www.caribe.ford.com/en/brb](https://www.caribe.ford.com/en/brb)
+- [https://www.caribe.ford.com/en/cuw](https://www.caribe.ford.com/en/cuw)
+- [https://www.caribe.ford.com/en/cym](https://www.caribe.ford.com/en/cym)
+- [https://www.caribe.ford.com/en/dma](https://www.caribe.ford.com/en/dma)
+- [https://www.caribe.ford.com/en/grd](https://www.caribe.ford.com/en/grd)
+- [https://www.caribe.ford.com/en/hti](https://www.caribe.ford.com/en/hti)
+- [https://www.caribe.ford.com/en/jam](https://www.caribe.ford.com/en/jam)
+- [https://www.caribe.ford.com/en/lca](https://www.caribe.ford.com/en/lca)
+- [https://www.caribe.ford.com/en/maf](https://www.caribe.ford.com/en/maf)
+- [https://www.caribe.ford.com/en/tto](https://www.caribe.ford.com/en/tto)
+- [https://www.caribe.ford.com/es/dom](https://www.caribe.ford.com/es/dom)
+- [https://www.centroamerica.ford.com](https://www.centroamerica.ford.com)
+- [https://www.centroamerica.ford.com/es/blz](https://www.centroamerica.ford.com/es/blz)
+- [https://www.centroamerica.ford.com/es/cri](https://www.centroamerica.ford.com/es/cri)
+- [https://www.centroamerica.ford.com/es/gtm](https://www.centroamerica.ford.com/es/gtm)
+- [https://www.centroamerica.ford.com/es/hnd](https://www.centroamerica.ford.com/es/hnd)
+- [https://www.centroamerica.ford.com/es/nic](https://www.centroamerica.ford.com/es/nic)
+- [https://www.centroamerica.ford.com/es/pan](https://www.centroamerica.ford.com/es/pan)
+- [https://www.centroamerica.ford.com/es/slv](https://www.centroamerica.ford.com/es/slv)
+- [https://www.ford.at](https://www.ford.at)
+- [https://www.ford.ba](https://www.ford.ba)
+- [https://www.ford.be](https://www.ford.be)
+- [https://www.ford.bg](https://www.ford.bg)
+- [https://www.ford.ch](https://www.ford.ch)
+- [https://www.ford.cl](https://www.ford.cl)
+- [https://www.ford.co.il](https://www.ford.co.il)
+- [https://www.ford.co.kr](https://www.ford.co.kr)
+- [https://www.ford.com.al](https://www.ford.com.al)
+- [https://www.ford.com.co](https://www.ford.com.co)
+- [https://www.ford.com.ec](https://www.ford.com.ec)
+- [https://www.ford.com.kh](https://www.ford.com.kh)
+- [https://www.ford.com.mt](https://www.ford.com.mt)
+- [https://www.ford.com.pr](https://www.ford.com.pr)
+- [https://www.ford.com.tn](https://www.ford.com.tn)
+- [https://www.ford.com.uy](https://www.ford.com.uy)
+- [https://www.ford.cz](https://www.ford.cz)
+- [https://www.ford.dk](https://www.ford.dk)
+- [https://www.ford.ee](https://www.ford.ee)
+- [https://www.ford.fi](https://www.ford.fi)
+- [https://www.ford.gr](https://www.ford.gr)
+- [https://www.ford.hu](https://www.ford.hu)
+- [https://www.ford.lt](https://www.ford.lt)
+- [https://www.ford.lu](https://www.ford.lu)
+- [https://www.ford.lv](https://www.ford.lv)
+- [https://www.ford.md](https://www.ford.md)
+- [https://www.ford.no](https://www.ford.no)
+- [https://www.ford.pe](https://www.ford.pe)
+- [https://www.ford.pl](https://www.ford.pl)
+- [https://www.ford.pt](https://www.ford.pt)
+- [https://www.ford.ru](https://www.ford.ru)
+- [https://www.ford.se](https://www.ford.se)
+- [https://www.ford.sk](https://www.ford.sk)
+- [https://www.ford.sn](https://www.ford.sn)
+- [https://www.fordcyprus.com](https://www.fordcyprus.com)
+- [https://www.me.ford.com](https://www.me.ford.com)
+- [https://www.me.ford.com/en/afg](https://www.me.ford.com/en/afg)
+- [https://www.me.ford.com/en/are](https://www.me.ford.com/en/are)
+- [https://www.me.ford.com/en/bhr](https://www.me.ford.com/en/bhr)
+- [https://www.me.ford.com/en/irq](https://www.me.ford.com/en/irq)
+- [https://www.me.ford.com/en/jor](https://www.me.ford.com/en/jor)
+- [https://www.me.ford.com/en/kwt](https://www.me.ford.com/en/kwt)
+- [https://www.me.ford.com/en/lbn](https://www.me.ford.com/en/lbn)
+- [https://www.me.ford.com/en/omn](https://www.me.ford.com/en/omn)
+- [https://www.me.ford.com/en/qat](https://www.me.ford.com/en/qat)
+- [https://www.me.ford.com/en/sau](https://www.me.ford.com/en/sau)
+- [https://www.me.ford.com/ar/bhr](https://www.me.ford.com/ar/bhr)
+- [https://www.me.ford.com/ar/irq](https://www.me.ford.com/ar/irq)
+- [https://www.me.ford.com/ar/jor](https://www.me.ford.com/ar/jor)
+- [https://www.me.ford.com/ar/kwt](https://www.me.ford.com/ar/kwt)
+- [https://www.me.ford.com/ar/lbn](https://www.me.ford.com/ar/lbn)
+- [https://www.me.ford.com/ar/omn](https://www.me.ford.com/ar/omn)
+- [https://www.me.ford.com/ar/qat](https://www.me.ford.com/ar/qat)
+- [https://www.me.ford.com/ar/sau](https://www.me.ford.com/ar/sau)
+- [https://www.me.ford.com/ar/are](https://www.me.ford.com/ar/are)
+- [https://www.me.ford.com/en/yem](https://www.me.ford.com/en/yem)
+- [https://www.me.ford.com/ar/yem](https://www.me.ford.com/ar/yem)
+- [https://www.de.ford.ch](https://www.de.ford.ch)
+- [https://www.fr.ford.ch](https://www.fr.ford.ch)
+- [https://www.it.ford.ch](https://www.it.ford.ch)
+- [https://www.nl.ford.be](https://www.nl.ford.be)
+- [https://www.fr.ford.be](https://www.fr.ford.be)
+- [https://www.ford.com.ve](https://www.ford.com.ve)
 
 ## Brand Guidelines
 
@@ -145,7 +255,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1903](/foundation_dates/1903/) |
 | Isin | US3453708600 |

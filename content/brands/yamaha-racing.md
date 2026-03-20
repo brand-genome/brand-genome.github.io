@@ -2,11 +2,11 @@
 title: Yamaha Racing
 slug: "yamaha-racing"
 description: ""
-date: "2026-03-13T09:22:54.786651"
+date: "2026-03-20T08:22:05.564397"
 draft: false
 sectors:
-  - automobile
   - sports
+  - automobile
 regions:
   - japan
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +51,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-8001"
   - silver
+  - "pantone-287"
+  - "pantone-8001"
   - grey
+  - blue
   - gray
   - black
-  - "pantone-287"
-  - blue
 typographies:
   - impact
 imagery_styles:
@@ -72,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.motor.nl](http://www.motor.nl)
-- [https://global.yamaha-motor.com/race/](https://global.yamaha-motor.com/race/)
-- [https://www.yamaha-racing.com/](https://www.yamaha-racing.com/)
-- [https://www.yamahamotogp.com/](https://www.yamahamotogp.com/)
+- [https://global.yamaha-motor.com/race](https://global.yamaha-motor.com/race)
+- [https://www.yamaha-racing.com](https://www.yamaha-racing.com)
+- [https://www.yamahamotogp.com](https://www.yamahamotogp.com)
 - [https://www.yamahamotorsports.com/Content.php?content=racing](https://www.yamahamotorsports.com/Content.php?content=racing)
+- [http://www.motor.nl](http://www.motor.nl)
 
 ## Brand Guidelines
 

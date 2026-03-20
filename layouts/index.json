@@ -7,6 +7,8 @@
       "sectors" .Params.sectors
       "regions" .Params.regions
       "years" .Params.years
+        "foundation_dates" .Params.foundation_dates
+        "foundation_year_buckets" .Params.foundation_year_buckets
   -}}
   {{- $brands = $brands | append $brand -}}
 {{- end -}}

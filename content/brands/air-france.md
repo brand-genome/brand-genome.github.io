@@ -2,7 +2,7 @@
 title: Air France
 slug: "air-france"
 description: ""
-date: "2026-03-13T09:22:53.699369"
+date: "2026-03-20T08:22:04.554306"
 draft: false
 sectors:
   - airline
@@ -17,8 +17,8 @@ tags:
   - aeronautic
   - airline
 industries:
-  - "air-transport"
   - unknown
+  - "air-transport"
 countries:
   - france
 revenue_buckets: []
@@ -38,6 +38,8 @@ subsidiaries: []
 foundation_dates:
   - 1933
   - 1932
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,8 +72,101 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.airfrance.com](https://www.airfrance.com)
 - [https://corporate.airfrance.com/en](https://corporate.airfrance.com/en)
-- [https://www.airfrance.com/](https://www.airfrance.com/)
+- [https://wwws.airfrance.co.uk](https://wwws.airfrance.co.uk)
+- [https://wwws.airfrance.us](https://wwws.airfrance.us)
+- [https://wwws.airfrance.fr](https://wwws.airfrance.fr)
+- [https://wwws.airfrance.com.tr](https://wwws.airfrance.com.tr)
+- [https://wwws.airfrance.sg](https://wwws.airfrance.sg)
+- [https://wwws.airfrance.ae](https://wwws.airfrance.ae)
+- [https://wwws.airfrance.co.il](https://wwws.airfrance.co.il)
+- [https://wwws.airfrance.de](https://wwws.airfrance.de)
+- [https://wwws.airfrance.it](https://wwws.airfrance.it)
+- [https://wwws.airfrance.es](https://wwws.airfrance.es)
+- [https://wwws.airfrance.com.br](https://wwws.airfrance.com.br)
+- [https://wwws.airfrance.ca](https://wwws.airfrance.ca)
+- [https://wwws.airfrance.ru](https://wwws.airfrance.ru)
+- [https://wwws.airfrance.nl](https://wwws.airfrance.nl)
+- [https://wwws.airfrance.co.kr](https://wwws.airfrance.co.kr)
+- [https://wwws.airfrance.ch](https://wwws.airfrance.ch)
+- [https://wwws.airfrance.co.jp](https://wwws.airfrance.co.jp)
+- [https://wwws.airfrance.com.mx](https://wwws.airfrance.com.mx)
+- [https://wwws.airfrance.be](https://wwws.airfrance.be)
+- [https://wwws.airfrance.com.ar](https://wwws.airfrance.com.ar)
+- [https://wwws.airfrance.com.co](https://wwws.airfrance.com.co)
+- [https://wwws.airfrance.gp](https://wwws.airfrance.gp)
+- [https://wwws.airfrance.se](https://wwws.airfrance.se)
+- [https://wwws.airfrance.re](https://wwws.airfrance.re)
+- [https://wwws.airfrance.cl](https://wwws.airfrance.cl)
+- [https://wwws.airfrance.ma](https://wwws.airfrance.ma)
+- [https://wwws.airfrance.pt](https://wwws.airfrance.pt)
+- [https://wwws.airfrance.in](https://wwws.airfrance.in)
+- [https://wwws.airfrance.pl](https://wwws.airfrance.pl)
+- [https://wwws.airfrance.ng](https://wwws.airfrance.ng)
+- [https://wwws.airfrance.ie](https://wwws.airfrance.ie)
+- [https://wwws.airfrance.ua](https://wwws.airfrance.ua)
+- [https://wwws.airfrance.dk](https://wwws.airfrance.dk)
+- [https://wwws.airfrance.mq](https://wwws.airfrance.mq)
+- [https://wwws.airfrance.pa](https://wwws.airfrance.pa)
+- [https://wwws.airfrance.pe](https://wwws.airfrance.pe)
+- [https://wwws.airfrance.no](https://wwws.airfrance.no)
+- [https://wwws.airfrance.ro](https://wwws.airfrance.ro)
+- [https://wwws.airfrance.com.lb](https://wwws.airfrance.com.lb)
+- [https://wwws.airfrance.co.za](https://wwws.airfrance.co.za)
+- [https://wwws.airfrance.com.au](https://wwws.airfrance.com.au)
+- [https://wwws.airfrance.gf](https://wwws.airfrance.gf)
+- [https://wwws.airfrance.dz](https://wwws.airfrance.dz)
+- [https://wwws.airfrance.com.hk](https://wwws.airfrance.com.hk)
+- [https://wwws.airfrance.hu](https://wwws.airfrance.hu)
+- [https://wwws.airfrance.cz](https://wwws.airfrance.cz)
+- [https://wwws.airfrance.sn](https://wwws.airfrance.sn)
+- [https://wwws.airfrance.gr](https://wwws.airfrance.gr)
+- [https://wwws.airfrance.tn](https://wwws.airfrance.tn)
+- [https://wwws.airfrance.cm](https://wwws.airfrance.cm)
+- [https://wwws.airfrance.fi](https://wwws.airfrance.fi)
+- [https://wwws.airfrance.at](https://wwws.airfrance.at)
+- [https://wwws.airfrance.ga](https://wwws.airfrance.ga)
+- [https://wwws.airfrance.lu](https://wwws.airfrance.lu)
+- [https://wwws.airfrance.sa](https://wwws.airfrance.sa)
+- [https://wwws.airfrance.pf](https://wwws.airfrance.pf)
+- [https://wwws.airfrance.com.eg](https://wwws.airfrance.com.eg)
+- [https://wwws.airfrance.nc](https://wwws.airfrance.nc)
+- [https://wwws.airfrance.ml](https://wwws.airfrance.ml)
+- [https://wwws.airfrance.com.tw](https://wwws.airfrance.com.tw)
+- [https://wwws.airfrance.vn](https://wwws.airfrance.vn)
+- [https://wwws.airfrance.mg](https://wwws.airfrance.mg)
+- [https://wwws.airfrance.co.th](https://wwws.airfrance.co.th)
+- [https://wwws.airfrance.co.ao](https://wwws.airfrance.co.ao)
+- [https://wwws.airfrance.hr](https://wwws.airfrance.hr)
+- [https://wwws.airfrance.bg](https://wwws.airfrance.bg)
+- [https://wwws.airfrance.mu](https://wwws.airfrance.mu)
+- [https://wwws.airfrance.rs](https://wwws.airfrance.rs)
+- [https://wwws.airfrance.com.jo](https://wwws.airfrance.com.jo)
+- [https://wwws.airfrance.si](https://wwws.airfrance.si)
+- [https://wwws.airfrance.com.uy](https://wwws.airfrance.com.uy)
+- [https://wwws.airfrance.com.do](https://wwws.airfrance.com.do)
+- [https://wwws.airfrance.id](https://wwws.airfrance.id)
+- [https://wwws.airfrance.my](https://wwws.airfrance.my)
+- [https://wwws.airfrance.sk](https://wwws.airfrance.sk)
+- [https://wwws.airfrance.bf](https://wwws.airfrance.bf)
+- [https://wwws.airfrance.cd](https://wwws.airfrance.cd)
+- [https://wwws.airfrance.cg](https://wwws.airfrance.cg)
+- [https://wwws.airfrance.am](https://wwws.airfrance.am)
+- [https://wwws.airfrance.dj](https://wwws.airfrance.dj)
+- [https://wwws.airfrance.com.ve](https://wwws.airfrance.com.ve)
+- [https://www.airfrance.com.gh](https://www.airfrance.com.gh)
+- [https://www.airfrance.ci](https://www.airfrance.ci)
+- [https://www.airfrance.ke](https://www.airfrance.ke)
+- [https://www.airfrance.cr](https://www.airfrance.cr)
+- [https://www.airfrance.sl](https://www.airfrance.sl)
+- [https://www.airfrance.ge](https://www.airfrance.ge)
+- [https://www.airfrance.com.cn](https://www.airfrance.com.cn)
+- [https://www.airfrance.tz](https://www.airfrance.tz)
+- [https://iran.airfrance.com](https://iran.airfrance.com)
+- [https://cuba.airfrance.com](https://cuba.airfrance.com)
+- [https://guinea.airfrance.com](https://guinea.airfrance.com)
+- [https://saintmartin.airfrance.com](https://saintmartin.airfrance.com)
 
 ## Brand Guidelines
 

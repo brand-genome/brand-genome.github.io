@@ -2,7 +2,7 @@
 title: Indigenous Tourism Alberta
 slug: "indigenous-tourism-alberta"
 description: ""
-date: "2026-03-13T09:22:52.068243"
+date: "2026-03-20T08:22:03.133895"
 draft: false
 sectors:
   - tourism
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - green
   - red
+  - green
 typographies: []
 imagery_styles:
-  - playful
   - product
+  - playful
   - minimal
 wikidata_description: ""
 wikidata_url: ""
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://indigenoustourismalberta.ca/](https://indigenoustourismalberta.ca/)
+- [https://indigenoustourismalberta.ca](https://indigenoustourismalberta.ca)
 
 ## Brand Guidelines
 

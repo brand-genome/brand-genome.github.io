@@ -2,7 +2,7 @@
 title: Handi Sport
 slug: "handi-sport"
 description: ""
-date: "2026-03-13T09:22:55.165655"
+date: "2026-03-20T08:22:05.867246"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +49,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - green
   - red
+  - green
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.handisport.org/](https://www.handisport.org/)
+- [https://www.handisport.org](https://www.handisport.org)
 
 ## Brand Guidelines
 

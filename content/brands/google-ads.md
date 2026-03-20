@@ -2,11 +2,11 @@
 title: Google Ads
 slug: "google-ads"
 description: ""
-date: "2026-03-13T09:22:54.971995"
+date: "2026-03-20T08:22:05.702970"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ads.google.com/](https://ads.google.com/)
-- [https://support.google.com/google-ads/](https://support.google.com/google-ads/)
+- [https://ads.google.com](https://ads.google.com)
+- [https://support.google.com/google-ads](https://support.google.com/google-ads)
+- [https://adsense.google.com](https://adsense.google.com)
 
 ## Brand Guidelines
 

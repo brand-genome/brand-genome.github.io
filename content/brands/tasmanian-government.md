@@ -2,15 +2,15 @@
 title: Tasmanian Government
 slug: "tasmanian-government"
 description: ""
-date: "2026-03-13T09:22:54.569106"
+date: "2026-03-20T08:22:05.414722"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - australia
 years:
-  - 2015
   - 2011
+  - 2015
 languages:
   - english
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
   - vertical
   - secondary
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
   - "gill-sans"
 imagery_styles:
-  - landscape
   - bold
   - graphic
+  - landscape
 wikidata_description: "state government of Tasmania, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3112571"
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.communications.tas.gov.au/](https://www.communications.tas.gov.au/)
-- [https://www.tas.gov.au/](https://www.tas.gov.au/)
+- [https://www.tas.gov.au](https://www.tas.gov.au)
+- [https://www.communications.tas.gov.au](https://www.communications.tas.gov.au)
 
 ## Brand Guidelines
 

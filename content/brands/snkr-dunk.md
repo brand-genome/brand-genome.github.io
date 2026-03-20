@@ -2,11 +2,11 @@
 title: Snkr Dunk
 slug: "snkr-dunk"
 description: ""
-date: "2026-03-13T09:22:52.323924"
+date: "2026-03-20T08:22:03.391890"
 draft: false
 sectors:
-  - "e-commerce"
   - fashion
+  - "e-commerce"
 regions:
   - japan
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.snkrdunk-guide.com/](https://help.snkrdunk-guide.com/)
-- [https://snkrdunk.com/](https://snkrdunk.com/)
+- [https://snkrdunk.com](https://snkrdunk.com)
+- [https://help.snkrdunk-guide.com](https://help.snkrdunk-guide.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-03-13T09:22:54.339792"
+date: "2026-03-20T08:22:05.166615"
 draft: false
 sectors:
   - automobile
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
+  - vertical
   - primary
   - horizontal
-  - vertical
+  - badge
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -67,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.landrover.com](https://www.landrover.com)
+- [https://www.landroverusa.com](https://www.landroverusa.com)
 - [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.landrover.com](http://www.landrover.com)
-- [https://www.landrover.com/](https://www.landrover.com/)
-- [https://www.landroverusa.com/](https://www.landroverusa.com/)
+- [https://www.landroverkorea.co.kr](https://www.landroverkorea.co.kr)
 
 ## Brand Guidelines
 

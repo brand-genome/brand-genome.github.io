@@ -2,7 +2,7 @@
 title: Ville de Cabourg
 slug: "ville-de-cabourg"
 description: ""
-date: "2026-03-13T09:22:53.268863"
+date: "2026-03-20T08:22:04.195625"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.cabourg.fr](https://www.cabourg.fr)
 - [http://www.cabourg.net](http://www.cabourg.net)
-- [https://www.cabourg.fr/](https://www.cabourg.fr/)
 
 ## Brand Guidelines
 

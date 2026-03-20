@@ -2,11 +2,11 @@
 title: Allegiant
 slug: allegiant
 description: ""
-date: "2026-03-13T09:22:54.824198"
+date: "2026-03-20T08:22:05.586795"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://newsroom.allegiantair.com/](https://newsroom.allegiantair.com/)
-- [https://www.allegiantair.com/](https://www.allegiantair.com/)
+- [https://www.allegiantair.com](https://www.allegiantair.com)
+- [https://newsroom.allegiantair.com](https://newsroom.allegiantair.com)
 
 ## Brand Guidelines
 

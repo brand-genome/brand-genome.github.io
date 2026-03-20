@@ -2,7 +2,7 @@
 title: Jamaica
 slug: jamaica
 description: ""
-date: "2026-03-13T09:22:54.568378"
+date: "2026-03-20T08:22:05.414547"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1780
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - purple
-  - grey
-  - yellow
-  - black
-  - magenta
-  - pink
-  - blue
   - green
   - white
+  - purple
+  - grey
+  - blue
+  - yellow
+  - magenta
+  - pink
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - vibrant
   - photography
-  - bold
 wikidata_description: "town in Vermont, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q3450853"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jtbonline.org/](https://www.jtbonline.org/)
-- [https://www.visitjamaica.com/](https://www.visitjamaica.com/)
+- [https://www.visitjamaica.com](https://www.visitjamaica.com)
+- [https://www.jtbonline.org](https://www.jtbonline.org)
+- [https://www.jamaicavermont.org](https://www.jamaicavermont.org)
 
 ## Brand Guidelines
 

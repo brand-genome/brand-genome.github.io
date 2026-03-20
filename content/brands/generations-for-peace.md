@@ -2,7 +2,7 @@
 title: Generations for Peace
 slug: "generations-for-peace"
 description: ""
-date: "2026-03-13T09:22:53.397948"
+date: "2026-03-20T08:22:04.301651"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ logo_elements:
   - symbol
   - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles: []
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.generationsforpeace.org/](https://www.generationsforpeace.org/)
-- [https://www.gfpusa.ngo/](https://www.gfpusa.ngo/)
+- [https://www.generationsforpeace.org](https://www.generationsforpeace.org)
+- [https://www.gfpusa.ngo](https://www.gfpusa.ngo)
 
 ## Brand Guidelines
 

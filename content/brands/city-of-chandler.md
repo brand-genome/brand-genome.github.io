@@ -2,7 +2,7 @@
 title: City of Chandler
 slug: "city-of-chandler"
 description: ""
-date: "2026-03-13T09:22:52.236616"
+date: "2026-03-20T08:22:03.299277"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.chandleraz.gov](https://www.chandleraz.gov)
+- [https://www.visitchandler.com](https://www.visitchandler.com)
 - [http://www.chandleraz.gov](http://www.chandleraz.gov)
-- [https://www.chandleraz.gov/](https://www.chandleraz.gov/)
-- [https://www.visitchandler.com/](https://www.visitchandler.com/)
 
 ## Brand Guidelines
 

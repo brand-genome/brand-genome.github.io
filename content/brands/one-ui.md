@@ -2,7 +2,7 @@
 title: One UI
 slug: "one-ui"
 description: ""
-date: "2026-03-13T09:22:55.003483"
+date: "2026-03-20T08:22:05.718590"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +63,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://design.samsung.com/global/contents/one-ui/](https://design.samsung.com/global/contents/one-ui/)
+- [https://design.samsung.com/global/contents/one-ui](https://design.samsung.com/global/contents/one-ui)
 - [https://developer.samsung.com/one-ui/index.html](https://developer.samsung.com/one-ui/index.html)
+- [https://www.samsung.com/us/apps/one-ui](https://www.samsung.com/us/apps/one-ui)
+- [https://www.samsung.com/fr/apps/one-ui](https://www.samsung.com/fr/apps/one-ui)
+- [https://www.samsung.com/de/one-ui](https://www.samsung.com/de/one-ui)
+- [https://www.samsung.com/ae_ar/one-ui](https://www.samsung.com/ae_ar/one-ui)
+- [https://www.samsung.com/nl/one-ui](https://www.samsung.com/nl/one-ui)
+- [https://www.samsung.com/th/one-ui](https://www.samsung.com/th/one-ui)
 
 ## Brand Guidelines
 

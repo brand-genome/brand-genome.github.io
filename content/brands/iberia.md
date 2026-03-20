@@ -2,7 +2,7 @@
 title: Iberia
 slug: iberia
 description: ""
-date: "2026-03-13T09:22:53.653769"
+date: "2026-03-20T08:22:04.513618"
 draft: false
 sectors:
   - airline
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
   - orange
+  - black
+  - white
 typographies:
   - optima
 imagery_styles:
-  - geometric
-  - dynamic
   - bold
+  - dynamic
   - graphic
+  - geometric
 wikidata_description: town in the U.S. state of Missouri
 wikidata_url: "https://www.wikidata.org/wiki/Q961803"
 has_twitter: false
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://grupo.iberia.com/](https://grupo.iberia.com/)
-- [https://www.iberia.com/](https://www.iberia.com/)
-- [https://www.iberiaexpress.com/](https://www.iberiaexpress.com/)
+- [https://www.iberia.com](https://www.iberia.com)
+- [https://grupo.iberia.com](https://grupo.iberia.com)
+- [https://www.iberiaexpress.com](https://www.iberiaexpress.com)
 
 ## Brand Guidelines
 

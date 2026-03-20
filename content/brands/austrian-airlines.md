@@ -2,7 +2,7 @@
 title: Austrian Airlines
 slug: "austrian-airlines"
 description: ""
-date: "2026-03-13T09:22:53.074059"
+date: "2026-03-20T08:22:04.069966"
 draft: false
 sectors:
   - airline
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.austrian.com/](https://www.austrian.com/)
-- [https://www.austrian.com/lhg/us/en](https://www.austrian.com/lhg/us/en)
+- [https://www.austrian.com](https://www.austrian.com)
 - [https://www.austrian.com/xx/en/company](https://www.austrian.com/xx/en/company)
-- [https://www.austrianairlines.ag/en/corporate-profile/](https://www.austrianairlines.ag/en/corporate-profile/)
+- [https://www.austrian.com/lhg/us/en](https://www.austrian.com/lhg/us/en)
+- [https://www.austrianairlines.ag/en/corporate-profile](https://www.austrianairlines.ag/en/corporate-profile)
+- [http://www.aua.com](http://www.aua.com)
 
 ## Brand Guidelines
 

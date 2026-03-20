@@ -2,7 +2,7 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-03-13T09:22:54.825383"
+date: "2026-03-20T08:22:05.587343"
 draft: false
 sectors:
   - "e-commerce"
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,10 +78,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.bestbuy.com/](https://corporate.bestbuy.com/)
+- [https://www.bestbuy.com](https://www.bestbuy.com)
+- [https://corporate.bestbuy.com](https://corporate.bestbuy.com)
 - [https://investors.bestbuy.com/default.aspx](https://investors.bestbuy.com/default.aspx)
 - [https://www.bestbuy.ca/en-ca](https://www.bestbuy.ca/en-ca)
-- [https://www.bestbuy.com/](https://www.bestbuy.com/)
+- [https://www.bestbuy.ca](https://www.bestbuy.ca)
+- [https://www.pacificsales.com](https://www.pacificsales.com)
 
 ## Brand Guidelines
 

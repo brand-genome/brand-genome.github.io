@@ -2,7 +2,7 @@
 title: US Soccer Federation
 slug: "us-soccer-federation"
 description: ""
-date: "2026-03-13T09:22:54.575513"
+date: "2026-03-20T08:22:05.420378"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ body_sections: []
 logo_elements:
   - horizontal
 brand_colors:
-  - navy
-  - black
   - red
-  - blue
+  - navy
   - white
+  - blue
+  - black
 typographies:
   - display
 imagery_styles:
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ussoccer.com/](https://www.ussoccer.com/)
+- [https://www.ussoccer.com](https://www.ussoccer.com)
 - [https://www.ussoccer.com/referee-program/resource-center](https://www.ussoccer.com/referee-program/resource-center)
 
 ## Brand Guidelines

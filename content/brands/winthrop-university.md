@@ -2,7 +2,7 @@
 title: Winthrop University
 slug: "winthrop-university"
 description: ""
-date: "2026-03-13T09:22:53.718881"
+date: "2026-03-20T08:22:04.682230"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1886
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,11 +52,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
   - stacked
   - secondary
+  - logomark
   - horizontal
+  - primary
 brand_colors:
   - gray
 typographies: []
@@ -70,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.winthrop.edu](http://www.winthrop.edu)
-- [https://www.winthrop.edu/](https://www.winthrop.edu/)
-- [https://www.winthrop.edu/ucm/](https://www.winthrop.edu/ucm/)
+- [https://www.winthrop.edu](https://www.winthrop.edu)
+- [https://www.winthrop.edu/ucm](https://www.winthrop.edu/ucm)
 - [https://www.winthrop.edu/ucm/visualidentity](https://www.winthrop.edu/ucm/visualidentity)
+- [http://www.winthrop.edu](http://www.winthrop.edu)
 
 ## Brand Guidelines
 

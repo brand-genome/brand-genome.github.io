@@ -2,7 +2,7 @@
 title: Global Environment Facility
 slug: "global-environment-facility"
 description: ""
-date: "2026-03-13T09:22:52.865550"
+date: "2026-03-20T08:22:03.865828"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.thegef.org](https://www.thegef.org)
 - [http://www.thegef.org](http://www.thegef.org)
-- [https://www.thegef.org/](https://www.thegef.org/)
+- [http://www.gefweb.org](http://www.gefweb.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Key Club
 slug: "key-club"
 description: ""
-date: "2026-03-13T09:22:55.034989"
+date: "2026-03-20T08:22:05.737598"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.keyclub.org/](https://www.keyclub.org/)
+- [https://www.keyclub.org](https://www.keyclub.org)
 - [https://www.keyclub.org/brandguide](https://www.keyclub.org/brandguide)
+- [http://www.keyclub.org](http://www.keyclub.org)
 
 ## Brand Guidelines
 

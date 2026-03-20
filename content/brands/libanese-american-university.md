@@ -2,11 +2,11 @@
 title: Libanese American University
 slug: "libanese-american-university"
 description: ""
-date: "2026-03-13T09:22:55.159715"
+date: "2026-03-20T08:22:05.860722"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - lebanon
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://marcom.lau.edu.lb/guidelines/](http://marcom.lau.edu.lb/guidelines/)
-- [https://nyc.lau.edu/](https://nyc.lau.edu/)
-- [https://online.lau.edu.lb/](https://online.lau.edu.lb/)
-- [https://www.lau.edu.lb/](https://www.lau.edu.lb/)
+- [https://www.lau.edu.lb](https://www.lau.edu.lb)
+- [http://marcom.lau.edu.lb/guidelines](http://marcom.lau.edu.lb/guidelines)
+- [https://online.lau.edu.lb](https://online.lau.edu.lb)
+- [https://nyc.lau.edu](https://nyc.lau.edu)
 
 ## Brand Guidelines
 

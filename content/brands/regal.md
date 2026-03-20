@@ -2,7 +2,7 @@
 title: Regal
 slug: regal
 description: ""
-date: "2026-03-13T09:22:54.226973"
+date: "2026-03-20T08:22:05.064686"
 draft: false
 sectors:
   - entertainment
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1913
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,31 +50,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - alternate
   - stacked
   - secondary
   - horizontal
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
-  - violet
-  - gold
-  - orange
-  - black
   - red
-  - blue
   - green
+  - gold
   - white
+  - orange
+  - blue
+  - violet
+  - black
 typographies:
-  - verdana
   - "sans-serif"
+  - verdana
 imagery_styles:
+  - graphic
+  - bold
   - modern
-  - geometric
   - photography
   - gradient
-  - bold
-  - graphic
+  - geometric
 wikidata_description: British record label established 1995; imprint of Parlophone Records
 wikidata_url: "https://www.wikidata.org/wiki/Q909310"
 has_twitter: false
@@ -84,7 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.regmovies.com/](https://www.regmovies.com/)
+- [https://www.regmovies.com](https://www.regmovies.com)
+- [http://www.regal.co.uk](http://www.regal.co.uk)
 
 ## Brand Guidelines
 

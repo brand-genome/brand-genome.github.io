@@ -2,7 +2,7 @@
 title: Irish Arts Council
 slug: "irish-arts-council"
 description: ""
-date: "2026-03-13T09:22:52.062221"
+date: "2026-03-20T08:22:03.127936"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - art
   - institution
+  - art
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://artscouncil.ie/](https://artscouncil.ie/)
-- [https://artscouncil.ie/funding/guidance-for-applicants/after-you-apply-what-happens-next/acknowleding-arts-council-funding/arts-council-funding-logos/](https://artscouncil.ie/funding/guidance-for-applicants/after-you-apply-what-happens-next/acknowleding-arts-council-funding/arts-council-funding-logos/)
+- [https://artscouncil.ie](https://artscouncil.ie)
+- [https://artscouncil.ie/funding/guidance-for-applicants/after-you-apply-what-happens-next/acknowleding-arts-council-funding/arts-council-funding-logos](https://artscouncil.ie/funding/guidance-for-applicants/after-you-apply-what-happens-next/acknowleding-arts-council-funding/arts-council-funding-logos)
 
 ## Brand Guidelines
 

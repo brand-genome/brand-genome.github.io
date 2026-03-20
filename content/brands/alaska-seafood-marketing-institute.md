@@ -2,11 +2,11 @@
 title: Alaska Seafood Marketing Institute
 slug: "alaska-seafood-marketing-institute"
 description: ""
-date: "2026-03-13T09:22:52.829181"
+date: "2026-03-20T08:22:03.838870"
 draft: false
 sectors:
-  - food
   - "marketing-advertising"
+  - food
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - "food-beverage"
+  - marketing
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alaskaseafood.org/](https://www.alaskaseafood.org/)
+- [https://www.alaskaseafood.org](https://www.alaskaseafood.org)
+- [http://www.alaskaseafood.org](http://www.alaskaseafood.org)
 
 ## Brand Guidelines
 

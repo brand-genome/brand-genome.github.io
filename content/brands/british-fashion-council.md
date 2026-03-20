@@ -2,7 +2,7 @@
 title: British Fashion Council
 slug: "british-fashion-council"
 description: ""
-date: "2026-03-13T09:22:53.272606"
+date: "2026-03-20T08:22:04.200073"
 draft: false
 sectors:
   - fashion
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +53,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies:
-  - times
   - impact
+  - times
 imagery_styles:
-  - contemporary
   - bold
   - graphic
+  - contemporary
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q4969966"
 has_twitter: false
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.myfonts.com/fonts/urw/neuzeit-grotesk/](http://www.myfonts.com/fonts/urw/neuzeit-grotesk/)
-- [https://www.britishfashioncouncil.co.uk/](https://www.britishfashioncouncil.co.uk/)
+- [https://www.britishfashioncouncil.co.uk](https://www.britishfashioncouncil.co.uk)
+- [http://www.myfonts.com/fonts/urw/neuzeit-grotesk](http://www.myfonts.com/fonts/urw/neuzeit-grotesk)
+- [http://www.britishfashioncouncil.co.uk](http://www.britishfashioncouncil.co.uk)
 
 ## Brand Guidelines
 

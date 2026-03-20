@@ -2,12 +2,12 @@
 title: Multiconsult
 slug: multiconsult
 description: ""
-date: "2026-03-13T09:22:55.050380"
+date: "2026-03-20T08:22:05.751939"
 draft: false
 sectors:
+  - architecture
   - consulting
   - construction
-  - architecture
 regions:
   - norway
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.multiconsultengineering.com/](https://www.multiconsultengineering.com/)
-- [https://www.multiconsultgroup.com/](https://www.multiconsultgroup.com/)
+- [https://www.multiconsultengineering.com](https://www.multiconsultengineering.com)
+- [https://www.multiconsultgroup.com](https://www.multiconsultgroup.com)
+- [https://www.multiconsult.no](https://www.multiconsult.no)
 
 ## Brand Guidelines
 

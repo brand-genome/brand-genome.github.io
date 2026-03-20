@@ -2,7 +2,7 @@
 title: Stadt Aarau
 slug: "stadt-aarau"
 description: ""
-date: "2026-03-13T09:22:53.025701"
+date: "2026-03-20T08:22:04.018918"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - switzerland
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1240
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aarau.ch/](https://www.aarau.ch/)
+- [https://www.aarau.ch](https://www.aarau.ch)
 
 ## Brand Guidelines
 

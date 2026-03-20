@@ -2,12 +2,12 @@
 title: Tomra Systems
 slug: "tomra-systems"
 description: ""
-date: "2026-03-13T09:22:54.573391"
+date: "2026-03-20T08:22:05.418367"
 draft: false
 sectors:
+  - "renewable-energy"
   - software
   - hardware
-  - "renewable-energy"
 regions:
   - norway
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,11 +56,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -74,11 +76,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tomra.com/](https://www.tomra.com/)
-- [https://www.tomra.com/food/](https://www.tomra.com/food/)
-- [https://www.tomra.com/mining/](https://www.tomra.com/mining/)
-- [https://www.tomra.com/reverse-vending/](https://www.tomra.com/reverse-vending/)
-- [https://www.tomra.com/waste-metal-recycling/](https://www.tomra.com/waste-metal-recycling/)
+- [https://www.tomra.com](https://www.tomra.com)
+- [https://www.tomra.com/reverse-vending](https://www.tomra.com/reverse-vending)
+- [https://www.tomra.com/food](https://www.tomra.com/food)
+- [https://www.tomra.com/waste-metal-recycling](https://www.tomra.com/waste-metal-recycling)
+- [https://www.tomra.com/mining](https://www.tomra.com/mining)
+- [https://tomra.com](https://tomra.com)
 
 ## Brand Guidelines
 

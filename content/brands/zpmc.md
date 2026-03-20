@@ -2,7 +2,7 @@
 title: ZPMC
 slug: zpmc
 description: ""
-date: "2026-03-13T09:22:53.066800"
+date: "2026-03-20T08:22:04.058718"
 draft: false
 sectors:
   - construction
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.zpmc.com](https://www.zpmc.com)
 - [http://www.zpmc.com](http://www.zpmc.com)
-- [https://www.zpmc.com/](https://www.zpmc.com/)
 
 ## Brand Guidelines
 

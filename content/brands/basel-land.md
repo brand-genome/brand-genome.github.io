@@ -2,7 +2,7 @@
 title: Basel Land
 slug: "basel-land"
 description: ""
-date: "2026-03-13T09:22:53.077271"
+date: "2026-03-20T08:22:04.074234"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,16 +51,16 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
+  - red
   - "pantone-1795"
+  - white
   - gray
   - black
-  - red
-  - white
 typographies:
   - univers
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.baselland.ch](https://www.baselland.ch)
 - [http://www.youtube.com/kantonbl](http://www.youtube.com/kantonbl)
-- [https://www.baselland.ch/](https://www.baselland.ch/)
 
 ## Brand Guidelines
 

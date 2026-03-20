@@ -2,7 +2,7 @@
 title: City of Detroit
 slug: "city-of-detroit"
 description: ""
-date: "2026-03-13T09:22:53.545898"
+date: "2026-03-20T08:22:04.420288"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1701
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +53,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
-  - green
   - yellow
+  - green
   - white
+  - black
 typographies:
   - montserrat
 imagery_styles:
   - portrait
-  - landscape
   - graphic
+  - landscape
 wikidata_description: "city in and county seat of Wayne County, and largest city in State of Michigan, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q12439"
 has_twitter: false
@@ -76,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://detroitmi.gov/](https://detroitmi.gov/)
+- [https://detroitmi.gov](https://detroitmi.gov)
 - [https://www.detroitmi.gov/styleguide](https://www.detroitmi.gov/styleguide)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Instituto Ecuatoriano de la Propiedad Intelectual
 slug: "instituto-ecuatoriano-de-la-propiedad-intelectual"
 description: ""
-date: "2026-03-13T09:22:53.515430"
+date: "2026-03-20T08:22:04.409335"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.derechosintelectuales.gob.ec/cedepi/](https://www.derechosintelectuales.gob.ec/cedepi/)
-- [https://www.propiedadintelectual.gob.ec/](https://www.propiedadintelectual.gob.ec/)
+- [https://www.propiedadintelectual.gob.ec](https://www.propiedadintelectual.gob.ec)
+- [https://www.derechosintelectuales.gob.ec/cedepi](https://www.derechosintelectuales.gob.ec/cedepi)
 
 ## Brand Guidelines
 

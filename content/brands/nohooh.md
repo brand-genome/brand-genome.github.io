@@ -2,11 +2,11 @@
 title: Nohooh
 slug: nohooh
 description: ""
-date: "2026-03-13T09:22:55.083754"
+date: "2026-03-20T08:22:05.787345"
 draft: false
 sectors:
-  - cosmetics
   - beauty
+  - cosmetics
 regions:
   - monaco
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - cosmetics
   - health
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nohooh.com/](https://www.nohooh.com/)
+- [https://www.nohooh.com](https://www.nohooh.com)
 
 ## Brand Guidelines
 

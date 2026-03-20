@@ -2,7 +2,7 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-03-13T09:22:55.093795"
+date: "2026-03-20T08:22:05.798901"
 draft: false
 sectors:
   - automobile
@@ -45,6 +45,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,14 +65,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
   - vertical
+  - wordmark
   - primary
+  - symbol
 brand_colors:
-  - black
-  - gray
   - red
+  - gray
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "American automotive, energy storage and solar power company"
@@ -84,8 +86,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ir.tesla.com/](https://ir.tesla.com/)
-- [https://www.tesla.com/](https://www.tesla.com/)
+- [https://www.tesla.com](https://www.tesla.com)
+- [https://ir.tesla.com](https://ir.tesla.com)
+- [https://www.tesla.com/de_de](https://www.tesla.com/de_de)
+- [https://www.tesla.com/fr_fr](https://www.tesla.com/fr_fr)
+- [https://www.tesla.com/nl_nl](https://www.tesla.com/nl_nl)
+- [https://www.tesla.com/fi_fi](https://www.tesla.com/fi_fi)
+- [https://www.tesla.com/it_it](https://www.tesla.com/it_it)
 
 ## Brand Guidelines
 

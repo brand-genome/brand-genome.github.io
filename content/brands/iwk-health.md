@@ -2,7 +2,7 @@
 title: IWK Health
 slug: "iwk-health"
 description: ""
-date: "2026-03-13T09:22:53.079509"
+date: "2026-03-20T08:22:04.077290"
 draft: false
 sectors:
   - healthcare
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +51,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - contemporary
-  - natural
-  - photography
   - professional
   - bold
+  - natural
+  - photography
+  - contemporary
 wikidata_description: "hospital in Nova Scotia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q14875689"
 has_twitter: false
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iwkhealth.ca/](https://iwkhealth.ca/)
+- [https://iwkhealth.ca](https://iwkhealth.ca)
+- [http://www.iwk.nshealth.ca](http://www.iwk.nshealth.ca)
 
 ## Brand Guidelines
 

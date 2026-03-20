@@ -2,7 +2,7 @@
 title: Lindenwood University
 slug: "lindenwood-university"
 description: ""
-date: "2026-03-13T09:22:53.403144"
+date: "2026-03-20T08:22:04.305394"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1827
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lindenwoodlions.com/](https://lindenwoodlions.com/)
-- [https://www.lindenwood.edu/](https://www.lindenwood.edu/)
+- [https://www.lindenwood.edu](https://www.lindenwood.edu)
+- [https://lindenwoodlions.com](https://lindenwoodlions.com)
+- [http://www.lindenwood.edu](http://www.lindenwood.edu)
 
 ## Brand Guidelines
 

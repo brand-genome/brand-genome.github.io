@@ -2,7 +2,7 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-03-13T09:22:53.711025"
+date: "2026-03-20T08:22:04.657393"
 draft: false
 sectors:
   - utilities
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,26 +56,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - lockup
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - lockup
+  - primary
 brand_colors:
+  - red
   - gray
   - white
-  - red
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
-  - flat
-  - staged
-  - vibrant
   - dynamic
-  - clean
+  - staged
+  - flat
   - bold
+  - clean
+  - vibrant
 wikidata_description: US electricity corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q2304693"
 has_twitter: false
@@ -85,11 +87,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alabamapower.com/](https://www.alabamapower.com/)
-- [https://www.georgiapower.com/](https://www.georgiapower.com/)
-- [https://www.mississippipower.com/](https://www.mississippipower.com/)
-- [https://www.southerncompany.com/](https://www.southerncompany.com/)
-- [https://www.southernpowercompany.com/](https://www.southernpowercompany.com/)
+- [https://www.southerncompany.com](https://www.southerncompany.com)
+- [https://www.alabamapower.com](https://www.alabamapower.com)
+- [https://www.georgiapower.com](https://www.georgiapower.com)
+- [https://www.mississippipower.com](https://www.mississippipower.com)
+- [https://www.southernpowercompany.com](https://www.southernpowercompany.com)
+- [http://www.southerncompany.com](http://www.southerncompany.com)
 
 ## Brand Guidelines
 

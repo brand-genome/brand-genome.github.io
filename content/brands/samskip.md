@@ -2,7 +2,7 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-03-13T09:22:54.188419"
+date: "2026-03-20T08:22:05.018044"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,13 +58,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
   - green
-  - blue
   - white
   - orange
+  - blue
 typographies:
   - helvetica
 imagery_styles: []
@@ -77,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.samskip.com](https://www.samskip.com)
+- [https://en.samskip.is](https://en.samskip.is)
 - [http://www.samskip.is](http://www.samskip.is)
-- [https://en.samskip.is/](https://en.samskip.is/)
-- [https://www.samskip.com/](https://www.samskip.com/)
 
 ## Brand Guidelines
 

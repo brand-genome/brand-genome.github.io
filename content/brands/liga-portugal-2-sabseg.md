@@ -2,7 +2,7 @@
 title: Liga Portugal 2 Sabseg
 slug: "liga-portugal-2-sabseg"
 description: ""
-date: "2026-03-13T09:22:52.818474"
+date: "2026-03-20T08:22:03.831066"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ligaportugal.pt/](https://www.ligaportugal.pt/)
+- [https://www.ligaportugal.pt](https://www.ligaportugal.pt)
+- [https://www.ligaportugal.pt/pt/ligapro](https://www.ligaportugal.pt/pt/ligapro)
 
 ## Brand Guidelines
 

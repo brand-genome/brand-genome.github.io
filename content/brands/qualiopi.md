@@ -2,11 +2,11 @@
 title: Qualiopi
 slug: qualiopi
 description: ""
-date: "2026-03-13T09:22:53.600115"
+date: "2026-03-20T08:22:04.463532"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +51,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - icon
   - emblem
+  - horizontal
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies:
   - arial
 imagery_styles: []
@@ -72,6 +74,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://travail-emploi.gouv.fr/formation-professionnelle/acteurs-cadre-et-qualite-de-la-formation-professionnelle/article/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation](https://travail-emploi.gouv.fr/formation-professionnelle/acteurs-cadre-et-qualite-de-la-formation-professionnelle/article/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation)
+- [https://travail-emploi.gouv.fr/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation](https://travail-emploi.gouv.fr/qualiopi-marque-de-certification-qualite-des-prestataires-de-formation)
 
 ## Brand Guidelines
 

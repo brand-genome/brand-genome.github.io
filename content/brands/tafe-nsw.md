@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-03-13T09:22:53.310027"
+date: "2026-03-20T08:22:04.226582"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1833
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +51,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
+  - lockup
   - primary
   - horizontal
-  - lockup
 brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - graphic
   - photography
   - professional
-  - graphic
 wikidata_description: Australian vocational education and training provider
 wikidata_url: "https://www.wikidata.org/wiki/Q7669247"
 has_twitter: false
@@ -70,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.NIKE.COM](http://www.NIKE.COM)
+- [https://www.tafensw.edu.au](https://www.tafensw.edu.au)
+- [http://www.nike.com](http://www.nike.com)
 - [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.zendesk.com](http://www.zendesk.com)
-- [https://www.tafensw.edu.au/](https://www.tafensw.edu.au/)
 
 ## Brand Guidelines
 

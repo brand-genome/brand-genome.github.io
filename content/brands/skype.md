@@ -2,15 +2,15 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-03-13T09:22:55.008361"
+date: "2026-03-20T08:22:05.720305"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2007
   - 2005
+  - 2007
 languages:
   - english
 tags:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,27 +54,27 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - cyan
-  - purple
-  - gray
-  - yellow
-  - "pantone-151"
-  - "pantone-376"
-  - orange
-  - blue
   - green
+  - "pantone-376"
   - white
+  - purple
+  - cyan
+  - blue
+  - yellow
+  - gray
+  - "pantone-151"
   - "pantone-116"
+  - orange
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
+  - graphic
+  - bold
   - natural
   - subtle
-  - vibrant
   - photography
-  - bold
-  - graphic
+  - vibrant
 wikidata_description: former telecommunications software service
 wikidata_url: "https://www.wikidata.org/wiki/Q40984"
 has_twitter: false
@@ -84,8 +86,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.skype.com](https://www.skype.com)
 - [https://support.microsoft.com/skype](https://support.microsoft.com/skype)
-- [https://www.skype.com/](https://www.skype.com/)
+- [https://www.skype.com/en](https://www.skype.com/en)
+- [https://www.skype.com/tr](https://www.skype.com/tr)
+- [https://www.skype.com/it](https://www.skype.com/it)
+- [https://www.skype.com/zh-Hant](https://www.skype.com/zh-Hant)
+- [https://www.skype.com/zh-Hans](https://www.skype.com/zh-Hans)
+- [https://www.skype.com/ru](https://www.skype.com/ru)
+- [https://www.skype.com/uk](https://www.skype.com/uk)
+- [https://www.skype.com/el](https://www.skype.com/el)
 
 ## Brand Guidelines
 

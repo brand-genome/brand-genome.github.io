@@ -2,11 +2,11 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-03-13T09:22:52.238345"
+date: "2026-03-20T08:22:03.301568"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1950
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
   - lockup
+  - symbol
   - primary
+  - secondary
 brand_colors:
   - "pantone-369"
   - green
-  - "pantone-7686"
   - blue
+  - "pantone-7686"
 typographies: []
 imagery_styles:
-  - monochrome
   - product
+  - monochrome
 wikidata_description: "Irish tax-resident US water treatment company"
 wikidata_url: "https://www.wikidata.org/wiki/Q7165001"
 has_twitter: false
@@ -76,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Pentair.com](http://www.Pentair.com)
-- [https://www.pentair.com/](https://www.pentair.com/)
-- [https://www.pentair.eu/](https://www.pentair.eu/)
+- [https://www.pentair.com](https://www.pentair.com)
+- [https://www.pentair.eu](https://www.pentair.eu)
+- [http://www.pentair.com](http://www.pentair.com)
 
 ## Brand Guidelines
 

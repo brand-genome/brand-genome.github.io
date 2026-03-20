@@ -2,15 +2,15 @@
 title: ACT Government
 slug: "act-government"
 description: ""
-date: "2026-03-13T09:22:53.642617"
+date: "2026-03-20T08:22:04.499106"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - australia
 years:
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - black
 typographies:
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.act.gov.au/](https://www.act.gov.au/)
+- [https://www.act.gov.au](https://www.act.gov.au)
 
 ## Brand Guidelines
 

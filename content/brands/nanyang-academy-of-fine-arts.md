@@ -2,7 +2,7 @@
 title: Nanyang Academy of Fine Arts
 slug: "nanyang-academy-of-fine-arts"
 description: ""
-date: "2026-03-13T09:22:52.329739"
+date: "2026-03-20T08:22:03.397685"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1938
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nafa.edu.sg/](https://www.nafa.edu.sg/)
+- [https://www.nafa.edu.sg](https://www.nafa.edu.sg)
 
 ## Brand Guidelines
 

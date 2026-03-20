@@ -2,11 +2,11 @@
 title: Brickline Greenway
 slug: "brickline-greenway"
 description: ""
-date: "2026-03-13T09:22:53.299274"
+date: "2026-03-20T08:22:04.220386"
 draft: false
 sectors:
-  - "public-transportation"
   - construction
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - transport
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://greatriversgreenway.org/](https://greatriversgreenway.org/)
-- [https://greatriversgreenway.org/brickline/](https://greatriversgreenway.org/brickline/)
+- [https://greatriversgreenway.org/brickline](https://greatriversgreenway.org/brickline)
+- [https://greatriversgreenway.org](https://greatriversgreenway.org)
 
 ## Brand Guidelines
 

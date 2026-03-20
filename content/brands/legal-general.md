@@ -2,11 +2,11 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-03-13T09:22:53.438401"
+date: "2026-03-20T08:22:04.342215"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - insurance
+  - financial
 industries:
   - insurance
   - "financial-services"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1836
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,24 +57,24 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - abstract
+  - secondary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies:
   - arial
   - display
   - roboto
 imagery_styles:
-  - natural
-  - illustration
-  - candid
   - staged
-  - photography
   - abstract
   - bold
+  - natural
+  - illustration
+  - photography
+  - candid
 wikidata_description: British multinational financial services company
 wikidata_url: "https://www.wikidata.org/wiki/Q1470848"
 has_twitter: false
@@ -84,9 +86,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://am.landg.com/](https://am.landg.com/)
-- [https://group.legalandgeneral.com/](https://group.legalandgeneral.com/)
-- [https://www.legalandgeneral.com/](https://www.legalandgeneral.com/)
+- [https://group.legalandgeneral.com](https://group.legalandgeneral.com)
+- [https://www.legalandgeneral.com](https://www.legalandgeneral.com)
+- [https://am.landg.com](https://am.landg.com)
+- [https://www.legalandgeneralgroup.com](https://www.legalandgeneralgroup.com)
 
 ## Brand Guidelines
 

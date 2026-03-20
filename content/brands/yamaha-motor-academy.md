@@ -2,7 +2,7 @@
 title: Yamaha Motor Academy
 slug: "yamaha-motor-academy"
 description: ""
-date: "2026-03-13T09:22:53.117434"
+date: "2026-03-20T08:22:04.117299"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - engineering
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies:
   - ubuntu
   - verdana
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.YAMAHA-RACING.COM](http://www.YAMAHA-RACING.COM)
+- [http://www.yamaha-racing.com](http://www.yamaha-racing.com)
 - [http://www.motor.nl](http://www.motor.nl)
 - [http://www.yamaha-motor.eu](http://www.yamaha-motor.eu)
 

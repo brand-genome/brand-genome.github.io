@@ -2,7 +2,7 @@
 title: Itawamba Community College
 slug: "itawamba-community-college"
 description: ""
-date: "2026-03-13T09:22:53.071831"
+date: "2026-03-20T08:22:04.066632"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ICCMS.EDU](http://www.ICCMS.EDU)
-- [https://www.iccms.edu/](https://www.iccms.edu/)
+- [https://www.iccms.edu](https://www.iccms.edu)
+- [http://www.iccms.edu](http://www.iccms.edu)
 
 ## Brand Guidelines
 

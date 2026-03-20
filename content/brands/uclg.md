@@ -2,7 +2,7 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-03-13T09:22:54.786941"
+date: "2026-03-20T08:22:05.564566"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
+  - red
+  - "pantone-485"
+  - green
+  - "pantone-431"
   - "pantone-369"
   - "pantone-1959"
-  - "pantone-431"
-  - red
-  - green
-  - "pantone-485"
 typographies:
   - verdana
 imagery_styles:
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uclg.org/](https://www.uclg.org/)
-- [https://www.uclgmeets.org/](https://www.uclgmeets.org/)
+- [https://www.uclg.org](https://www.uclg.org)
+- [https://www.uclgmeets.org](https://www.uclgmeets.org)
+- [http://www.uclg.org](http://www.uclg.org)
 
 ## Brand Guidelines
 

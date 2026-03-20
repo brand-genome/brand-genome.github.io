@@ -2,7 +2,7 @@
 title: "Université de Paris-Dauphine"
 slug: "universite-de-paris-dauphine"
 description: ""
-date: "2026-03-13T09:22:55.159588"
+date: "2026-03-20T08:22:05.860600"
 draft: false
 sectors:
   - university
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - "pantone-285"
   - "pantone-540"
-  - black
-  - blue
+  - "pantone-285"
   - white
+  - blue
+  - black
 typographies:
   - optima
 imagery_styles:
-  - monochrome
   - modern
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.dauphine.fr/](http://www.dauphine.fr/)
-- [https://dauphine.psl.eu/](https://dauphine.psl.eu/)
-- [https://tunis.dauphine.psl.eu/](https://tunis.dauphine.psl.eu/)
+- [https://dauphine.psl.eu](https://dauphine.psl.eu)
+- [http://www.dauphine.fr](http://www.dauphine.fr)
+- [https://tunis.dauphine.psl.eu](https://tunis.dauphine.psl.eu)
 
 ## Brand Guidelines
 

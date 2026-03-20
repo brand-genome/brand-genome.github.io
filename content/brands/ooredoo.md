@@ -2,7 +2,7 @@
 title: Ooredoo
 slug: ooredoo
 description: ""
-date: "2026-03-13T09:22:53.282226"
+date: "2026-03-20T08:22:04.211531"
 draft: false
 sectors:
   - finance
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,14 +68,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ooredoo.com](https://www.ooredoo.com)
+- [https://www.ooredoo.com/en](https://www.ooredoo.com/en)
+- [https://www.ooredoo.qa](https://www.ooredoo.qa)
+- [https://www.ooredoomoney.qa](https://www.ooredoomoney.qa)
 - [http://www.instagram.com/ooredooqatar](http://www.instagram.com/ooredooqatar)
-- [http://www.pinterest.com/about/copyright/dmca/](http://www.pinterest.com/about/copyright/dmca/)
+- [http://www.pinterest.com/about/copyright/dmca](http://www.pinterest.com/about/copyright/dmca)
 - [http://www.tumblr.com/dmca](http://www.tumblr.com/dmca)
 - [https://support.google.com/plus/answer/1713826?hl=en](https://support.google.com/plus/answer/1713826?hl=en)
-- [https://www.ooredoo.com/](https://www.ooredoo.com/)
-- [https://www.ooredoo.com/en/](https://www.ooredoo.com/en/)
-- [https://www.ooredoo.qa/](https://www.ooredoo.qa/)
-- [https://www.ooredoomoney.qa/](https://www.ooredoomoney.qa/)
+- [http://www.ooredoo.tn](http://www.ooredoo.tn)
 
 ## Brand Guidelines
 

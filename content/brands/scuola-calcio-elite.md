@@ -2,11 +2,11 @@
 title: Scuola Calcio Elite
 slug: "scuola-calcio-elite"
 description: ""
-date: "2026-03-13T09:22:53.531525"
+date: "2026-03-20T08:22:04.414664"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - italy
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +51,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - green
   - red
-  - blue
+  - green
   - gold
   - white
+  - blue
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico](https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico)
 - [https://figc.it/262772.aspx](https://figc.it/262772.aspx)
-- [https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico/](https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico/)
-- [https://www.figc-tutelaminori.it/](https://www.figc-tutelaminori.it/)
+- [https://www.figc-tutelaminori.it](https://www.figc-tutelaminori.it)
 
 ## Brand Guidelines
 

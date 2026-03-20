@@ -2,7 +2,7 @@
 title: Royal Mail
 slug: "royal-mail"
 description: ""
-date: "2026-03-13T09:22:53.304714"
+date: "2026-03-20T08:22:04.222522"
 draft: false
 sectors:
   - "parcel-service"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.royalmail.com/](https://www.royalmail.com/)
+- [https://www.royalmail.com](https://www.royalmail.com)
 
 ## Brand Guidelines
 

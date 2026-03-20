@@ -2,7 +2,7 @@
 title: Can
 slug: can
 description: ""
-date: "2026-03-13T09:22:54.340179"
+date: "2026-03-20T08:22:05.166957"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,11 +57,11 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - contemporary
-  - clean
-  - photography
   - professional
   - bold
+  - photography
+  - contemporary
+  - clean
 wikidata_description: German experimental rock band
 wikidata_url: "https://www.wikidata.org/wiki/Q170132"
 has_twitter: false
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://canopi.org.uk/](https://canopi.org.uk/)
+- [https://canopi.org.uk](https://canopi.org.uk)
+- [http://www.spoonrecords.com](http://www.spoonrecords.com)
 
 ## Brand Guidelines
 

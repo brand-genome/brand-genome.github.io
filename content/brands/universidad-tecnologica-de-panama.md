@@ -2,7 +2,7 @@
 title: Universidad Tecnológica de Panamá
 slug: "universidad-tecnologica-de-panama"
 description: ""
-date: "2026-03-13T09:22:53.606535"
+date: "2026-03-20T08:22:04.471897"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,12 +63,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://academia.utp.ac.pa/](https://academia.utp.ac.pa/)
-- [https://correo.utp.ac.pa/](https://correo.utp.ac.pa/)
-- [https://pdi.utp.ac.pa/](https://pdi.utp.ac.pa/)
-- [https://revistas.utp.ac.pa/](https://revistas.utp.ac.pa/)
-- [https://utp.ac.pa/](https://utp.ac.pa/)
-- [https://verificate.utp.ac.pa/](https://verificate.utp.ac.pa/)
+- [https://utp.ac.pa](https://utp.ac.pa)
+- [https://correo.utp.ac.pa](https://correo.utp.ac.pa)
+- [https://revistas.utp.ac.pa](https://revistas.utp.ac.pa)
+- [https://academia.utp.ac.pa](https://academia.utp.ac.pa)
+- [https://pdi.utp.ac.pa](https://pdi.utp.ac.pa)
+- [https://verificate.utp.ac.pa](https://verificate.utp.ac.pa)
 
 ## Brand Guidelines
 

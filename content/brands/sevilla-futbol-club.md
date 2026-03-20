@@ -2,7 +2,7 @@
 title: Sevilla Fútbol Club
 slug: "sevilla-futbol-club"
 description: ""
-date: "2026-03-13T09:22:53.708364"
+date: "2026-03-20T08:22:04.564235"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,13 +47,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - icon
-  - secondary
+  - crest
   - primary
+  - secondary
 brand_colors:
-  - white
   - red
+  - white
   - blue
 typographies:
   - "century-gothic"
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sevillafc.es/](https://sevillafc.es/)
+- [https://sevillafc.es](https://sevillafc.es)
 - [https://sevillafc.es/en](https://sevillafc.es/en)
-- [https://shop.sevillafc.es/](https://shop.sevillafc.es/)
+- [https://shop.sevillafc.es](https://shop.sevillafc.es)
 
 ## Brand Guidelines
 

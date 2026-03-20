@@ -2,7 +2,7 @@
 title: Comune di Roma
 slug: "comune-di-roma"
 description: ""
-date: "2026-03-13T09:22:55.030374"
+date: "2026-03-20T08:22:05.733581"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ headquarters_locations:
   - "palazzo-senatorio"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.comune.roma.it](https://www.comune.roma.it)
+- [http://www.comune.roma.it/web/it/assemblea-capitolina.page](http://www.comune.roma.it/web/it/assemblea-capitolina.page)
 
 ## Brand Guidelines
 

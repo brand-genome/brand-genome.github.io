@@ -2,7 +2,7 @@
 title: Motorex
 slug: motorex
 description: ""
-date: "2026-03-13T09:22:52.098595"
+date: "2026-03-20T08:22:03.157223"
 draft: false
 sectors:
   - "consumer-goods"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://motorex.com](https://motorex.com)
+- [https://www.motorexusa.com](https://www.motorexusa.com)
 - [http://www.motorex.com](http://www.motorex.com)
-- [https://motorex.com/](https://motorex.com/)
-- [https://www.motorexusa.com/](https://www.motorexusa.com/)
 
 ## Brand Guidelines
 

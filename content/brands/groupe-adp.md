@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-03-13T09:22:53.541805"
+date: "2026-03-20T08:22:04.418183"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,19 +57,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
   - black
   - "pantone-2748"
 typographies:
   - gotham
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: French airport authority
 wikidata_url: "https://www.wikidata.org/wiki/Q794563"
 has_twitter: false
@@ -79,11 +81,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://groupeadp-recrute.talent-soft.com/](https://groupeadp-recrute.talent-soft.com/)
-- [https://mediacenter.groupe-adp.com/](https://mediacenter.groupe-adp.com/)
-- [https://presse.groupeadp.fr/accueil/?lang=fr](https://presse.groupeadp.fr/accueil/?lang=fr)
-- [https://www.parisaeroport.fr/](https://www.parisaeroport.fr/)
 - [https://www.parisaeroport.fr/homepage-groupe](https://www.parisaeroport.fr/homepage-groupe)
+- [https://www.parisaeroport.fr](https://www.parisaeroport.fr)
+- [https://presse.groupeadp.fr/accueil?lang=fr](https://presse.groupeadp.fr/accueil?lang=fr)
+- [https://mediacenter.groupe-adp.com](https://mediacenter.groupe-adp.com)
+- [https://groupeadp-recrute.talent-soft.com](https://groupeadp-recrute.talent-soft.com)
+- [https://www.parisaeroport.fr/fr/homepage-groupe](https://www.parisaeroport.fr/fr/homepage-groupe)
 
 ## Brand Guidelines
 

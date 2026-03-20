@@ -2,7 +2,7 @@
 title: Catholic Charities Dallas
 slug: "catholic-charities-dallas"
 description: ""
-date: "2026-03-13T09:22:53.641502"
+date: "2026-03-20T08:22:04.497693"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
+  - wordmark
   - primary
   - secondary
-  - wordmark
-  - signature
 brand_colors:
-  - "pantone-569"
   - "pantone-1797"
-  - gray
-  - "pantone-130"
-  - orange
-  - black
-  - blue
   - white
   - "pantone-2597"
+  - blue
+  - gray
+  - "pantone-130"
+  - "pantone-569"
+  - orange
+  - black
 typographies:
-  - arial
   - garamond
+  - arial
   - times
   - futura
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ccdallas.org/](https://www.ccdallas.org/)
+- [https://www.ccdallas.org](https://www.ccdallas.org)
 
 ## Brand Guidelines
 

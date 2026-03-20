@@ -2,11 +2,11 @@
 title: Stitch Fix
 slug: "stitch-fix"
 description: ""
-date: "2026-03-13T09:22:54.564640"
+date: "2026-03-20T08:22:05.412450"
 draft: false
 sectors:
-  - "e-commerce"
   - fashion
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,27 +53,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - icon
-  - primary
-  - symbol
   - secondary
+  - logomark
+  - symbol
+  - primary
+  - icon
 brand_colors:
-  - turquoise
-  - gray
-  - grey
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - gray
+  - turquoise
 typographies:
-  - serif
   - brandon
   - "gill-sans"
   - trebuchet
+  - serif
 imagery_styles:
+  - bold
   - modern
   - product
-  - bold
 wikidata_description: online clothing company
 wikidata_url: "https://www.wikidata.org/wiki/Q18385610"
 has_twitter: false
@@ -83,7 +85,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.stitchfix.com/](https://www.stitchfix.com/)
+- [https://www.stitchfix.com](https://www.stitchfix.com)
 
 ## Brand Guidelines
 

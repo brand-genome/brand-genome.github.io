@@ -2,11 +2,11 @@
 title: Make it Possible
 slug: "make-it-possible"
 description: ""
-date: "2026-03-13T09:22:54.334325"
+date: "2026-03-20T08:22:05.160628"
 draft: false
 sectors:
-  - electronics
   - "marketing-advertising"
+  - electronics
 regions:
   - china
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - frutiger
 imagery_styles: []
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://consumer.huawei.com/en/campaign/make-it-possible/](https://consumer.huawei.com/en/campaign/make-it-possible/)
+- [https://consumer.huawei.com/en/campaign/make-it-possible](https://consumer.huawei.com/en/campaign/make-it-possible)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Baslac
 slug: baslac
 description: ""
-date: "2026-03-13T09:22:54.359469"
+date: "2026-03-20T08:22:05.189725"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ brand_colors:
   - black
   - blue
 typographies:
-  - display
   - helvetica
+  - display
   - din
 imagery_styles:
   - bold
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.baslac.com](http://www.baslac.com)
 - [https://www.baslac.com/en-emea](https://www.baslac.com/en-emea)
+- [http://www.baslac.com](http://www.baslac.com)
 
 ## Brand Guidelines
 

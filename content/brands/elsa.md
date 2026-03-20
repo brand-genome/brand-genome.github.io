@@ -2,11 +2,11 @@
 title: ELSA
 slug: elsa
 description: ""
-date: "2026-03-13T09:22:55.036544"
+date: "2026-03-20T08:22:05.738684"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
   - garamond
   - lato
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://elsa.org/](https://elsa.org/)
-- [https://elsa.org/enc/](https://elsa.org/enc/)
+- [https://elsa.org](https://elsa.org)
+- [https://elsa.org/enc](https://elsa.org/enc)
 
 ## Brand Guidelines
 

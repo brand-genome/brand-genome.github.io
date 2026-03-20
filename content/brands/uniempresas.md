@@ -2,7 +2,7 @@
 title: Uniempresas
 slug: uniempresas
 description: ""
-date: "2026-03-13T09:22:54.338478"
+date: "2026-03-20T08:22:05.164170"
 draft: false
 sectors:
   - consulting
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
   - green
   - white
   - "pantone-165"
 typographies: []
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

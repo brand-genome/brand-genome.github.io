@@ -2,11 +2,11 @@
 title: Arizona Christian University Athletic
 slug: "arizona-christian-university-athletic"
 description: ""
-date: "2026-03-13T09:22:53.318487"
+date: "2026-03-20T08:22:04.230242"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +50,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - black
-  - grey
-  - yellow
   - red
+  - yellow
+  - grey
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
@@ -71,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://acufirestorm.com/](https://acufirestorm.com/)
-- [https://www.arizonachristian.edu/athletics/](https://www.arizonachristian.edu/athletics/)
+- [https://acufirestorm.com](https://acufirestorm.com)
+- [https://www.arizonachristian.edu/athletics](https://www.arizonachristian.edu/athletics)
+- [https://www.acufirestorm.com](https://www.acufirestorm.com)
 
 ## Brand Guidelines
 

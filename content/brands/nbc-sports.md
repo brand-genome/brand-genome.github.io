@@ -2,7 +2,7 @@
 title: NBC Sports
 slug: "nbc-sports"
 description: ""
-date: "2026-03-13T09:22:54.337258"
+date: "2026-03-20T08:22:05.163224"
 draft: false
 sectors:
   - broadcasting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1939
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles: []
@@ -70,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nbcsports.com/](https://www.nbcsports.com/)
-- [https://www.peacocktv.com/channels/nbc-sports-now](https://www.peacocktv.com/channels/nbc-sports-now)
+- [https://www.nbcsports.com](https://www.nbcsports.com)
 - [https://www.peacocktv.com/channels/nbcsports](https://www.peacocktv.com/channels/nbcsports)
+- [https://www.peacocktv.com/channels/nbc-sports-now](https://www.peacocktv.com/channels/nbc-sports-now)
+- [http://www.nbcsports.com](http://www.nbcsports.com)
 
 ## Brand Guidelines
 

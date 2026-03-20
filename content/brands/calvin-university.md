@@ -2,7 +2,7 @@
 title: Calvin University
 slug: "calvin-university"
 description: ""
-date: "2026-03-13T09:22:54.132433"
+date: "2026-03-20T08:22:04.969372"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://calvin.edu](https://calvin.edu)
 - [http://www.calvin.edu](http://www.calvin.edu)
-- [https://calvin.edu/](https://calvin.edu/)
 
 ## Brand Guidelines
 

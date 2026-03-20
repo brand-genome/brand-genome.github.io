@@ -2,7 +2,7 @@
 title: The American Repertory Theater
 slug: "the-american-repertory-theater"
 description: ""
-date: "2026-03-13T09:22:55.160430"
+date: "2026-03-20T08:22:05.861537"
 draft: false
 sectors:
   - "arts-culture"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - black
-  - magenta
   - white
+  - magenta
 typographies:
   - arial
   - gotham
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://americanrepertorytheater.org/](https://americanrepertorytheater.org/)
+- [https://americanrepertorytheater.org](https://americanrepertorytheater.org)
 
 ## Brand Guidelines
 

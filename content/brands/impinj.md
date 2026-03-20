@@ -2,7 +2,7 @@
 title: Impinj
 slug: impinj
 description: ""
-date: "2026-03-13T09:22:53.330257"
+date: "2026-03-20T08:22:04.240829"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,42 +53,42 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - abstract
   - signature
+  - primary
+  - abstract
+  - secondary
 brand_colors:
-  - "pantone-2238"
-  - "pantone-108"
-  - "pantone-234"
-  - "pantone-225"
-  - gray
-  - yellow
-  - "pantone-718"
-  - "pantone-2144"
-  - orange
-  - black
-  - "pantone-648"
-  - teal
   - red
-  - blue
-  - "pantone-7465"
-  - "pantone-2192"
-  - "pantone-3541"
+  - "pantone-225"
+  - "pantone-648"
+  - "pantone-234"
+  - teal
+  - "pantone-718"
   - white
+  - "pantone-3541"
+  - blue
+  - "pantone-2192"
+  - gray
+  - "pantone-7465"
+  - "pantone-2238"
+  - yellow
+  - orange
+  - "pantone-2144"
+  - black
+  - "pantone-108"
 typographies:
-  - arial
-  - roboto
   - slab
+  - arial
   - impact
+  - roboto
 imagery_styles:
+  - product
+  - abstract
   - muted
+  - bold
   - modern
   - natural
   - photography
-  - product
-  - abstract
-  - bold
 wikidata_description: American manufacturer of RFID devices
 wikidata_url: "https://www.wikidata.org/wiki/Q4041316"
 has_twitter: false
@@ -98,7 +100,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.impinj.com/](https://www.impinj.com/)
+- [https://www.impinj.com](https://www.impinj.com)
+- [http://www.impinj.com](http://www.impinj.com)
 
 ## Brand Guidelines
 

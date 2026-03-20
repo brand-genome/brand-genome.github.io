@@ -2,11 +2,11 @@
 title: California Transit Association
 slug: "california-transit-association"
 description: ""
-date: "2026-03-13T09:22:53.311888"
+date: "2026-03-20T08:22:04.227646"
 draft: false
 sectors:
-  - "public-transportation"
   - ngo
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,33 +48,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - icon
-  - vertical
   - secondary
 brand_colors:
-  - "pantone-2925"
-  - gray
-  - black
-  - "pantone-124"
-  - "pantone-292"
-  - blue
   - white
+  - blue
+  - "pantone-124"
+  - gray
+  - "pantone-2925"
+  - "pantone-292"
+  - black
 typographies:
-  - display
-  - univers
   - gotham
-  - "proxima-nova"
+  - display
   - arial
+  - "proxima-nova"
+  - univers
 imagery_styles:
-  - flat
-  - natural
-  - candid
-  - geometric
-  - photography
   - dynamic
-  - clean
+  - flat
   - professional
+  - natural
+  - photography
+  - clean
+  - geometric
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -85,8 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://caltransit.org](https://caltransit.org)
 - [http://www.caltransit.org](http://www.caltransit.org)
-- [https://caltransit.org/](https://caltransit.org/)
 
 ## Brand Guidelines
 

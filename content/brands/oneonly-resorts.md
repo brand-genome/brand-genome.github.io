@@ -2,7 +2,7 @@
 title: "One&Only Resorts"
 slug: "oneonly-resorts"
 description: ""
-date: "2026-03-13T09:22:53.696737"
+date: "2026-03-20T08:22:04.552227"
 draft: false
 sectors:
   - hospitality
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oneandonlyresorts.com/](https://www.oneandonlyresorts.com/)
+- [https://www.oneandonlyresorts.com](https://www.oneandonlyresorts.com)
 
 ## Brand Guidelines
 

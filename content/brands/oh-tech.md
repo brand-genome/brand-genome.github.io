@@ -2,12 +2,12 @@
 title: "Oh-Tech"
 slug: "oh-tech"
 description: ""
-date: "2026-03-13T09:22:54.343682"
+date: "2026-03-20T08:22:05.171550"
 draft: false
 sectors:
-  - research
   - "public-sector"
   - networking
+  - research
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,19 +56,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-186"
-  - "pantone-195"
-  - gray
-  - orange
-  - black
-  - "pantone-284"
   - red
-  - blue
   - "pantone-137"
   - white
+  - blue
+  - "pantone-195"
+  - gray
+  - "pantone-284"
+  - "pantone-186"
+  - orange
+  - black
 typographies:
-  - garamond
   - univers
+  - garamond
 imagery_styles: []
 wikidata_description: division of the Ohio Department of Higher Education
 wikidata_url: "https://www.wikidata.org/wiki/Q134290196"
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.oh-tech.org](https://www.oh-tech.org)
 - [http://www.oh-tech.org](http://www.oh-tech.org)
-- [https://www.oh-tech.org/](https://www.oh-tech.org/)
 
 ## Brand Guidelines
 

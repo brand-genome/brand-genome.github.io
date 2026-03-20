@@ -2,7 +2,7 @@
 title: ITMO University
 slug: "itmo-university"
 description: ""
-date: "2026-03-13T09:22:51.981842"
+date: "2026-03-20T08:22:03.083257"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +65,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://itmo.ru](https://itmo.ru)
+- [https://en.itmo.ru](https://en.itmo.ru)
+- [https://news.itmo.ru](https://news.itmo.ru)
+- [https://store.itmo.ru](https://store.itmo.ru)
+- [https://my.itmo.ru](https://my.itmo.ru)
 - [http://www.itmo.ru](http://www.itmo.ru)
-- [https://en.itmo.ru/](https://en.itmo.ru/)
-- [https://itmo.ru/](https://itmo.ru/)
-- [https://my.itmo.ru/](https://my.itmo.ru/)
-- [https://news.itmo.ru/](https://news.itmo.ru/)
-- [https://store.itmo.ru/](https://store.itmo.ru/)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Slantis
 slug: slantis
 description: ""
-date: "2026-03-13T09:22:52.198748"
+date: "2026-03-20T08:22:03.265500"
 draft: false
 sectors:
-  - software
   - architecture
+  - software
 regions:
   - uruguay
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://slantis.com/](https://slantis.com/)
+- [https://slantis.com](https://slantis.com)
 
 ## Brand Guidelines
 

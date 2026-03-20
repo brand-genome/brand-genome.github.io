@@ -2,11 +2,11 @@
 title: Central Bank of Bahrain
 slug: "central-bank-of-bahrain"
 description: ""
-date: "2026-03-13T09:22:54.412220"
+date: "2026-03-20T08:22:05.248797"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - bahrain
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cbb.gov.bh/](https://www.cbb.gov.bh/)
+- [https://www.cbb.gov.bh](https://www.cbb.gov.bh)
+- [http://www.cbb.gov.bh](http://www.cbb.gov.bh)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Kukri
 slug: kukri
 description: ""
-date: "2026-03-13T09:22:51.885906"
+date: "2026-03-20T08:22:03.059741"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kukrisports.com/uk](https://www.kukrisports.com/uk)
+- [https://www.kukrisports.fr](https://www.kukrisports.fr)
 - [http://www.kukrisports.com](http://www.kukrisports.com)
-- [https://www.kukrisports.com/uk/](https://www.kukrisports.com/uk/)
-- [https://www.kukrisports.fr/](https://www.kukrisports.fr/)
+- [https://www.kukrisports.co.uk](https://www.kukrisports.co.uk)
 
 ## Brand Guidelines
 

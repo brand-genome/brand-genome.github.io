@@ -2,7 +2,7 @@
 title: Blockpass
 slug: blockpass
 description: ""
-date: "2026-03-13T09:22:53.721786"
+date: "2026-03-20T08:22:04.685593"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
-  - grey
   - blue
+  - grey
+  - black
 typographies: []
 imagery_styles:
-  - modern
-  - portrait
   - dynamic
+  - portrait
+  - modern
   - clean
   - landscape
 wikidata_description: ""
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.blockpass.org](https://www.blockpass.org)
 - [http://www.blockpass.org](http://www.blockpass.org)
-- [https://www.blockpass.org/](https://www.blockpass.org/)
 
 ## Brand Guidelines
 

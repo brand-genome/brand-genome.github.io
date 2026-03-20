@@ -2,7 +2,7 @@
 title: FSSA
 slug: fssa
 description: ""
-date: "2026-03-13T09:22:54.717621"
+date: "2026-03-20T08:22:05.516607"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - gray
-  - yellow
-  - black
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - gray
+  - black
 typographies:
   - arial
   - times
   - trebuchet
 imagery_styles:
+  - clean
+  - graphic
   - photography
   - professional
-  - graphic
-  - clean
 wikidata_description: "government organization in Indianapolis, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q30253461"
 has_twitter: false
@@ -78,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fssabenefits.in.gov/bp/](https://fssabenefits.in.gov/bp/)
-- [https://www.in.gov/fssa/](https://www.in.gov/fssa/)
+- [https://www.in.gov/fssa](https://www.in.gov/fssa)
+- [https://fssabenefits.in.gov/bp](https://fssabenefits.in.gov/bp)
+- [http://www.in.gov/fssa/index.htm](http://www.in.gov/fssa/index.htm)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: National Art Museum of Ukraine
 slug: "national-art-museum-of-ukraine"
 description: ""
-date: "2026-03-13T09:22:52.199567"
+date: "2026-03-20T08:22:03.266701"
 draft: false
 sectors:
   - "arts-culture"
@@ -16,8 +16,8 @@ tags:
   - museum
 industries: []
 countries:
-  - "soviet-union"
   - ukraine
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1899
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://namu.ua/](https://namu.ua/)
-- [https://namu.ua/en/](https://namu.ua/en/)
+- [https://namu.ua](https://namu.ua)
+- [https://namu.ua/en](https://namu.ua/en)
+- [http://www.namu.ua](http://www.namu.ua)
 
 ## Brand Guidelines
 

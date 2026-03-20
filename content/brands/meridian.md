@@ -2,11 +2,11 @@
 title: Meridian
 slug: meridian
 description: ""
-date: "2026-03-13T09:22:53.397201"
+date: "2026-03-20T08:22:04.300668"
 draft: false
 sectors:
-  - electronics
   - "consumer-goods"
+  - electronics
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1960
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
-  - secondary
   - wordmark
+  - primary
+  - secondary
+  - monogram
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - clean
   - contemporary
   - professional
-  - bold
 wikidata_description: "performing arts building in Toronto, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q2302468"
 has_twitter: false
@@ -73,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://meridian-audio.com/](https://meridian-audio.com/)
-- [https://www.meridian-audio.com/products/](https://www.meridian-audio.com/products/)
-- [https://www.meridian-audio.com/support/](https://www.meridian-audio.com/support/)
+- [https://meridian-audio.com](https://meridian-audio.com)
+- [https://www.meridian-audio.com/products](https://www.meridian-audio.com/products)
+- [https://www.meridian-audio.com/support](https://www.meridian-audio.com/support)
+- [https://tolive.com/Meridian-Hall](https://tolive.com/Meridian-Hall)
 
 ## Brand Guidelines
 

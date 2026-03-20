@@ -2,12 +2,12 @@
 title: Poixel
 slug: poixel
 description: ""
-date: "2026-03-13T09:22:53.428878"
+date: "2026-03-20T08:22:04.332375"
 draft: false
 sectors:
-  - "design-creative"
   - "marketing-advertising"
   - consulting
+  - "design-creative"
 regions:
   - kuwait
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +52,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - illustration
   - bold
+  - illustration
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.poixel.com/](https://www.poixel.com/)
+- [https://www.poixel.com](https://www.poixel.com)
 
 ## Brand Guidelines
 

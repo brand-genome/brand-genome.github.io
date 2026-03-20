@@ -2,14 +2,14 @@
 title: Sener
 slug: sener
 description: ""
-date: "2026-03-13T09:22:55.029089"
+date: "2026-03-20T08:22:05.732463"
 draft: false
 sectors:
+  - defense
+  - "renewable-energy"
   - consulting
   - construction
-  - defense
   - "space-technology"
-  - "renewable-energy"
 regions:
   - spain
 years:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.group.sener/](https://www.group.sener/)
-- [https://www.group.sener/en/](https://www.group.sener/en/)
+- [https://www.group.sener](https://www.group.sener)
+- [https://www.group.sener/en](https://www.group.sener/en)
 
 ## Brand Guidelines
 

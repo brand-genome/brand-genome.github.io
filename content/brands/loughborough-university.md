@@ -2,7 +2,7 @@
 title: Loughborough University
 slug: "loughborough-university"
 description: ""
-date: "2026-03-13T09:22:54.809862"
+date: "2026-03-20T08:22:05.578989"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1909
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.StuRents.com](http://www.StuRents.com)
+- [https://www.lboro.ac.uk](https://www.lboro.ac.uk)
+- [https://www.lborolondon.ac.uk](https://www.lborolondon.ac.uk)
+- [https://store.lboro.ac.uk](https://store.lboro.ac.uk)
+- [https://alumni.lboro.ac.uk](https://alumni.lboro.ac.uk)
+- [http://www.sturents.com](http://www.sturents.com)
 - [http://www.wordpress.com](http://www.wordpress.com)
-- [https://alumni.lboro.ac.uk/](https://alumni.lboro.ac.uk/)
-- [https://store.lboro.ac.uk/](https://store.lboro.ac.uk/)
-- [https://www.lboro.ac.uk/](https://www.lboro.ac.uk/)
-- [https://www.lborolondon.ac.uk/](https://www.lborolondon.ac.uk/)
 
 ## Brand Guidelines
 

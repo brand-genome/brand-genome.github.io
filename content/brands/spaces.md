@@ -2,7 +2,7 @@
 title: Spaces
 slug: spaces
 description: ""
-date: "2026-03-13T09:22:54.188579"
+date: "2026-03-20T08:22:05.018211"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - business
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
   - times
 imagery_styles:
-  - dramatic
-  - clean
   - dynamic
-  - photography
+  - dramatic
   - bold
+  - photography
+  - clean
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q25212963"
 has_twitter: false
@@ -73,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.spacesworks.com](https://www.spacesworks.com)
+- [https://www.spacesworks.com/en/us](https://www.spacesworks.com/en/us)
 - [http://www.spacesworks.com](http://www.spacesworks.com)
 - [https://fonts.google.com/specimen/Overpass](https://fonts.google.com/specimen/Overpass)
-- [https://www.spacesworks.com/](https://www.spacesworks.com/)
-- [https://www.spacesworks.com/en/us](https://www.spacesworks.com/en/us)
+- [http://www.spaces-home.com](http://www.spaces-home.com)
 
 ## Brand Guidelines
 

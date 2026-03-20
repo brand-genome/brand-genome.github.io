@@ -2,7 +2,7 @@
 title: Harmony
 slug: harmony
 description: ""
-date: "2026-03-13T09:22:53.701046"
+date: "2026-03-20T08:22:04.556303"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: process by which individual sounds are joined together or composed into whole units or compositions
 wikidata_url: "https://www.wikidata.org/wiki/Q184421"
 has_twitter: false
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.harmony.one/](https://docs.harmony.one/)
-- [https://harmony.one/](https://harmony.one/)
-- [https://open.harmony.one/](https://open.harmony.one/)
+- [https://harmony.one](https://harmony.one)
+- [https://open.harmony.one](https://open.harmony.one)
+- [https://docs.harmony.one](https://docs.harmony.one)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-03-13T09:22:55.169237"
+date: "2026-03-20T08:22:05.871353"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - institution
+  - university
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1889
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,23 +54,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
-  - secondary
   - icon
+  - seal
+  - primary
+  - secondary
 brand_colors:
-  - yellow
-  - gold
-  - blue
   - green
+  - gold
   - white
+  - blue
+  - yellow
 typographies:
-  - "open-sans"
   - display
-  - helvetica
-  - "sans-serif"
   - serif
+  - "open-sans"
   - arial
+  - "sans-serif"
+  - helvetica
 imagery_styles: []
 wikidata_description: "state university in Greeley, Colorado, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1783608"
@@ -81,8 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unco.edu/](https://www.unco.edu/)
-- [https://www.unco.edu/universityrelations/](https://www.unco.edu/universityrelations/)
+- [https://www.unco.edu](https://www.unco.edu)
+- [https://www.unco.edu/universityrelations](https://www.unco.edu/universityrelations)
+- [https://unco.edu](https://unco.edu)
 
 ## Brand Guidelines
 

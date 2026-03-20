@@ -2,7 +2,7 @@
 title: Colanta
 slug: colanta
 description: ""
-date: "2026-03-13T09:22:52.314315"
+date: "2026-03-20T08:22:03.380859"
 draft: false
 sectors:
   - food
@@ -30,6 +30,7 @@ headquarters_locations:
   - medellin
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.colanta.com.co/](http://www.colanta.com.co/)
+- [http://www.colanta.com.co](http://www.colanta.com.co)
+- [https://colantaeduca.com](https://colantaeduca.com)
+- [https://www.comunicacolanta.com](https://www.comunicacolanta.com)
+- [https://colanta.com](https://colanta.com)
 - [http://www.com.co](http://www.com.co)
-- [https://colanta.com/](https://colanta.com/)
-- [https://colantaeduca.com/](https://colantaeduca.com/)
-- [https://www.comunicacolanta.com/](https://www.comunicacolanta.com/)
 
 ## Brand Guidelines
 

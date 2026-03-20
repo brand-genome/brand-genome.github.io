@@ -2,7 +2,7 @@
 title: Hexaware
 slug: hexaware
 description: ""
-date: "2026-03-13T09:22:52.187683"
+date: "2026-03-20T08:22:03.254833"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - monogram
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
   - manrope
 imagery_styles:
-  - vibrant
   - clean
+  - vibrant
   - photography
 wikidata_description: ""
 wikidata_url: ""
@@ -74,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Hexaware.com](http://www.Hexaware.com)
-- [https://hexaware.com/](https://hexaware.com/)
-- [https://hexaware.com/location/united-states/](https://hexaware.com/location/united-states/)
+- [https://hexaware.com](https://hexaware.com)
+- [https://hexaware.com/location/united-states](https://hexaware.com/location/united-states)
+- [http://www.hexaware.com](http://www.hexaware.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Trapeze Group
 slug: "trapeze-group"
 description: ""
-date: "2026-03-13T09:22:55.039506"
+date: "2026-03-20T08:22:05.742177"
 draft: false
 sectors:
-  - "public-transportation"
   - software
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - gray
-  - "pantone-1955"
-  - black
-  - "pantone-432"
   - red
   - white
+  - "pantone-1955"
+  - gray
+  - "pantone-432"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -69,13 +70,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://trapezegroup.ae/](https://trapezegroup.ae/)
-- [https://trapezegroup.africa/](https://trapezegroup.africa/)
-- [https://trapezegroup.co.uk/](https://trapezegroup.co.uk/)
-- [https://trapezegroup.co.za/](https://trapezegroup.co.za/)
-- [https://trapezegroup.com.my/](https://trapezegroup.com.my/)
-- [https://www.trapezegroup.com/](https://www.trapezegroup.com/)
-- [https://www.trapezegroup.de/](https://www.trapezegroup.de/)
+- [https://www.trapezegroup.com](https://www.trapezegroup.com)
+- [https://trapezegroup.co.uk](https://trapezegroup.co.uk)
+- [https://www.trapezegroup.de](https://www.trapezegroup.de)
+- [https://trapezegroup.ae](https://trapezegroup.ae)
+- [https://trapezegroup.co.za](https://trapezegroup.co.za)
+- [https://trapezegroup.com.my](https://trapezegroup.com.my)
+- [https://trapezegroup.africa](https://trapezegroup.africa)
 
 ## Brand Guidelines
 

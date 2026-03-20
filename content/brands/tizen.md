@@ -2,7 +2,7 @@
 title: Tizen
 slug: tizen
 description: ""
-date: "2026-03-13T09:22:54.971628"
+date: "2026-03-20T08:22:05.702173"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://developer.tizen.org/](https://developer.tizen.org/)
-- [https://docs.tizen.org/](https://docs.tizen.org/)
-- [https://samsungtizenos.com/](https://samsungtizenos.com/)
-- [https://www.tizen.org/](https://www.tizen.org/)
+- [https://www.tizen.org](https://www.tizen.org)
+- [https://samsungtizenos.com](https://samsungtizenos.com)
+- [https://developer.tizen.org](https://developer.tizen.org)
+- [https://docs.tizen.org](https://docs.tizen.org)
+- [http://www.tizenassociation.org](http://www.tizenassociation.org)
 
 ## Brand Guidelines
 

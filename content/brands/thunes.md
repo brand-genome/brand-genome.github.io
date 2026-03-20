@@ -2,7 +2,7 @@
 title: Thunes
 slug: thunes
 description: ""
-date: "2026-03-13T09:22:51.906951"
+date: "2026-03-20T08:22:03.069262"
 draft: false
 sectors:
   - finance
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ logo_elements:
   - secondary
 brand_colors:
   - green
-  - grey
   - white
+  - grey
 typographies:
   - serif
 imagery_styles:
-  - minimal
-  - vibrant
   - dynamic
-  - photography
+  - minimal
   - professional
+  - photography
   - gradient
+  - vibrant
 wikidata_description: "Singapore-based financial technology company"
 wikidata_url: "https://www.wikidata.org/wiki/Q137124054"
 has_twitter: false
@@ -76,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.thunes.com/](https://www.thunes.com/)
+- [https://www.thunes.com](https://www.thunes.com)
 
 ## Brand Guidelines
 

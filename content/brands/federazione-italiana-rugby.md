@@ -2,7 +2,7 @@
 title: Federazione Italiana Rugby
 slug: "federazione-italiana-rugby"
 description: ""
-date: "2026-03-13T09:22:53.537006"
+date: "2026-03-20T08:22:04.416447"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1928
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-341"
-  - "pantone-186"
-  - "pantone-7621"
-  - "pantone-871"
   - white
+  - "pantone-7621"
+  - "pantone-341"
   - "pantone-873"
+  - "pantone-871"
+  - "pantone-186"
 typographies:
   - din
 imagery_styles:
-  - photography
-  - gradient
   - bold
+  - gradient
+  - photography
 wikidata_description: governing body of rugby union in Italy
 wikidata_url: "https://www.wikidata.org/wiki/Q138125"
 has_twitter: false
@@ -75,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://app.federugby.it/](https://app.federugby.it/)
-- [https://federugby.it/](https://federugby.it/)
+- [https://federugby.it](https://federugby.it)
+- [https://app.federugby.it](https://app.federugby.it)
 
 ## Brand Guidelines
 

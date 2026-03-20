@@ -2,7 +2,7 @@
 title: GAISF
 slug: gaisf
 description: ""
-date: "2026-03-13T09:22:54.744688"
+date: "2026-03-20T08:22:05.540998"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "former umbrella sports organization, dissolved in 2023"
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gaisf.sport/](https://gaisf.sport/)
+- [https://gaisf.sport](https://gaisf.sport)
 
 ## Brand Guidelines
 

@@ -2,21 +2,21 @@
 title: USAID
 slug: usaid
 description: ""
-date: "2026-03-13T09:22:53.497407"
+date: "2026-03-20T08:22:04.393756"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - usa
 years:
-  - 2020
   - 2008
+  - 2020
   - 2004
 languages:
   - english
 tags:
-  - social
   - ngo
+  - social
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ logo_elements:
   - symbol
 brand_colors: []
 typographies:
-  - "gill-sans"
   - impact
+  - "gill-sans"
 imagery_styles:
   - photography
 wikidata_description: US government civilian foreign aid agency
@@ -70,9 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://oig.usaid.gov/](https://oig.usaid.gov/)
-- [https://www.usaid.gov/](https://www.usaid.gov/)
+- [https://www.usaid.gov](https://www.usaid.gov)
 - [https://www.usaid.gov/branding](https://www.usaid.gov/branding)
+- [https://oig.usaid.gov](https://oig.usaid.gov)
+- [https://usaid.gov](https://usaid.gov)
+- [https://usaid.govarchive.us](https://usaid.govarchive.us)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: TEDx
 slug: tedx
 description: ""
-date: "2026-03-13T09:22:54.560745"
+date: "2026-03-20T08:22:05.408371"
 draft: false
 sectors:
   - "arts-culture"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +50,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
+  - red
   - "pantone-485"
   - white
-  - red
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - times
 imagery_styles:
   - professional
@@ -70,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.TED.com](http://www.TED.com)
+- [https://www.ted.com/tedx](https://www.ted.com/tedx)
 - [https://www.ted.com/about/programs-initiatives/tedx-program](https://www.ted.com/about/programs-initiatives/tedx-program)
 - [https://www.ted.com/pages/your-event-website](https://www.ted.com/pages/your-event-website)
-- [https://www.ted.com/tedx](https://www.ted.com/tedx)
+- [http://www.ted.com](http://www.ted.com)
+- [http://www.tedxsantacruz.org](http://www.tedxsantacruz.org)
 
 ## Brand Guidelines
 

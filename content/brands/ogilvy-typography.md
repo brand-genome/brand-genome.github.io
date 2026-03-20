@@ -2,12 +2,12 @@
 title: Ogilvy Typography
 slug: "ogilvy-typography"
 description: ""
-date: "2026-03-13T09:22:53.069069"
+date: "2026-03-20T08:22:04.063377"
 draft: false
 sectors:
-  - consulting
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
+  - consulting
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ogilvy.com/](https://www.ogilvy.com/)
+- [https://www.ogilvy.com](https://www.ogilvy.com)
 
 ## Brand Guidelines
 

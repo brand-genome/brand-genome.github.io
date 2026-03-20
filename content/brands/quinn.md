@@ -2,11 +2,11 @@
 title: Quinn
 slug: quinn
 description: ""
-date: "2026-03-13T09:22:53.572484"
+date: "2026-03-20T08:22:04.440834"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,7 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://quinn.pr/](https://quinn.pr/)
+- [https://quinn.pr](https://quinn.pr)
+- [http://www.quinnipiac.edu](http://www.quinnipiac.edu)
+- [https://www.qu.edu](https://www.qu.edu)
 
 ## Brand Guidelines
 

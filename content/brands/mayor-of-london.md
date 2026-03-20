@@ -2,7 +2,7 @@
 title: Mayor of London
 slug: "mayor-of-london"
 description: ""
-date: "2026-03-13T09:22:53.497153"
+date: "2026-03-20T08:22:04.393453"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +55,10 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
-  - monochrome
-  - illustration
   - bold
+  - illustration
+  - monochrome
+  - photography
 wikidata_description: head of the government of Greater London
 wikidata_url: "https://www.wikidata.org/wiki/Q38931"
 has_twitter: false
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.london.gov.uk](https://www.london.gov.uk)
 - [https://webcasts.london.gov.uk/Mayoral](https://webcasts.london.gov.uk/Mayoral)
-- [https://www.london.gov.uk/](https://www.london.gov.uk/)
+- [https://www.london.gov.uk/about-us/mayor-london](https://www.london.gov.uk/about-us/mayor-london)
 
 ## Brand Guidelines
 

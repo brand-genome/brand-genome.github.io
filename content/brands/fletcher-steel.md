@@ -2,11 +2,11 @@
 title: Fletcher Steel
 slug: "fletcher-steel"
 description: ""
-date: "2026-03-13T09:22:53.932102"
+date: "2026-03-20T08:22:04.851350"
 draft: false
 sectors:
-  - construction
   - "logistics-supply-chain"
+  - construction
 regions:
   - "new-zealand"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - grey
   - green
+  - grey
   - blue
 typographies:
   - arial
   - display
 imagery_styles:
-  - dynamic
-  - product
   - bold
+  - dynamic
   - graphic
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,15 +74,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.colorcote.co.nz/](https://www.colorcote.co.nz/)
-- [https://www.csp.co.nz/](https://www.csp.co.nz/)
-- [https://www.cyclonebuildings.co.nz/](https://www.cyclonebuildings.co.nz/)
-- [https://www.cyclonewire.co.nz/](https://www.cyclonewire.co.nz/)
-- [https://www.dimond.co.nz/](https://www.dimond.co.nz/)
-- [https://www.dimondstructural.co.nz/](https://www.dimondstructural.co.nz/)
-- [https://www.easysteel.co.nz/](https://www.easysteel.co.nz/)
-- [https://www.fletcherreinforcing.co.nz/](https://www.fletcherreinforcing.co.nz/)
-- [https://www.fletchersteel.co.nz/](https://www.fletchersteel.co.nz/)
+- [https://www.fletchersteel.co.nz](https://www.fletchersteel.co.nz)
+- [https://www.easysteel.co.nz](https://www.easysteel.co.nz)
+- [https://www.fletcherreinforcing.co.nz](https://www.fletcherreinforcing.co.nz)
+- [https://www.cyclonewire.co.nz](https://www.cyclonewire.co.nz)
+- [https://www.colorcote.co.nz](https://www.colorcote.co.nz)
+- [https://www.dimond.co.nz](https://www.dimond.co.nz)
+- [https://www.dimondstructural.co.nz](https://www.dimondstructural.co.nz)
+- [https://www.csp.co.nz](https://www.csp.co.nz)
+- [https://www.cyclonebuildings.co.nz](https://www.cyclonebuildings.co.nz)
 
 ## Brand Guidelines
 

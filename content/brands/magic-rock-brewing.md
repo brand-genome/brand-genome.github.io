@@ -2,7 +2,7 @@
 title: Magic Rock Brewing
 slug: "magic-rock-brewing"
 description: ""
-date: "2026-03-13T09:22:54.338623"
+date: "2026-03-20T08:22:05.164649"
 draft: false
 sectors:
   - brewery
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,11 +55,11 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - graphic
 wikidata_description: "Brewery in Huddersfield, England"
@@ -71,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.magicrockbrewing.com/](https://www.magicrockbrewing.com/)
+- [https://www.magicrockbrewing.com](https://www.magicrockbrewing.com)
 
 ## Brand Guidelines
 

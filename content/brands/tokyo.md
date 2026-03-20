@@ -2,7 +2,7 @@
 title: "& Tokyo"
 slug: tokyo
 description: ""
-date: "2026-03-13T09:22:54.221971"
+date: "2026-03-20T08:22:05.049711"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://andtokyo.jp/actionpartner/](http://andtokyo.jp/actionpartner/)
-- [https://andtokyo.jp/](https://andtokyo.jp/)
-- [https://andtokyo.jp/actionpartner/](https://andtokyo.jp/actionpartner/)
-- [https://andtokyo.jp/brand/](https://andtokyo.jp/brand/)
+- [https://andtokyo.jp](https://andtokyo.jp)
+- [https://andtokyo.jp/brand](https://andtokyo.jp/brand)
+- [https://andtokyo.jp/actionpartner](https://andtokyo.jp/actionpartner)
+- [http://andtokyo.jp/actionpartner](http://andtokyo.jp/actionpartner)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Transpennine Express
 slug: "transpennine-express"
 description: ""
-date: "2026-03-13T09:22:52.100790"
+date: "2026-03-20T08:22:03.159412"
 draft: false
 sectors:
   - railroad
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://attractions.tpexpress.co.uk/](https://attractions.tpexpress.co.uk/)
-- [https://www.tpexpress.co.uk/](https://www.tpexpress.co.uk/)
+- [https://www.tpexpress.co.uk](https://www.tpexpress.co.uk)
+- [https://attractions.tpexpress.co.uk](https://attractions.tpexpress.co.uk)
 
 ## Brand Guidelines
 

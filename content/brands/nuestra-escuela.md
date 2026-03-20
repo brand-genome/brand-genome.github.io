@@ -2,11 +2,11 @@
 title: Nuestra Escuela
 slug: "nuestra-escuela"
 description: ""
-date: "2026-03-13T09:22:53.493756"
+date: "2026-03-20T08:22:04.389959"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - argentina
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cedoc.infd.edu.ar/plan-nacional-de-formacion-permanente/](https://cedoc.infd.edu.ar/plan-nacional-de-formacion-permanente/)
+- [https://cedoc.infd.edu.ar/plan-nacional-de-formacion-permanente](https://cedoc.infd.edu.ar/plan-nacional-de-formacion-permanente)
 
 ## Brand Guidelines
 

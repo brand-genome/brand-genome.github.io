@@ -2,11 +2,11 @@
 title: US Army Corps of Engineers
 slug: "us-army-corps-of-engineers"
 description: ""
-date: "2026-03-13T09:22:53.406616"
+date: "2026-03-20T08:22:04.309302"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ languages:
   - english
 tags:
   - vintage
+  - engineering
   - featured
   - military
-  - engineering
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1775
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,10 +57,10 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - helvetica
 imagery_styles: []
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.usace.army.mil/](https://www.usace.army.mil/)
+- [https://www.usace.army.mil](https://www.usace.army.mil)
 
 ## Brand Guidelines
 

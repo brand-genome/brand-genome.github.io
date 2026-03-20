@@ -2,7 +2,7 @@
 title: ReechCraft
 slug: reechcraft
 description: ""
-date: "2026-03-13T09:22:53.717260"
+date: "2026-03-20T08:22:04.680662"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
-  - univers
   - impact
+  - univers
 imagery_styles:
-  - product
   - bold
+  - product
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.reechcraft.com](https://www.reechcraft.com)
 - [http://www.reechcraft.com](http://www.reechcraft.com)
-- [https://www.reechcraft.com/](https://www.reechcraft.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Indonesian Ministry of State Owned Enterprises
 slug: "indonesian-ministry-of-state-owned-enterprises"
 description: ""
-date: "2026-03-13T09:22:53.022818"
+date: "2026-03-20T08:22:04.015346"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://jdih.bumn.go.id/](https://jdih.bumn.go.id/)
-- [https://ppid.bumn.go.id/](https://ppid.bumn.go.id/)
-- [https://www.bumn.go.id/](https://www.bumn.go.id/)
+- [https://www.bumn.go.id](https://www.bumn.go.id)
+- [https://ppid.bumn.go.id](https://ppid.bumn.go.id)
+- [https://jdih.bumn.go.id](https://jdih.bumn.go.id)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: NSK Ship
 slug: "nsk-ship"
 description: ""
-date: "2026-03-13T09:22:52.025609"
+date: "2026-03-20T08:22:03.105084"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nskshipdesign.com](https://www.nskshipdesign.com)
 - [http://www.nskshipdesign.com](http://www.nskshipdesign.com)
-- [https://www.nskshipdesign.com/](https://www.nskshipdesign.com/)
 
 ## Brand Guidelines
 

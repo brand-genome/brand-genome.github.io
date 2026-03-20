@@ -2,7 +2,7 @@
 title: Stacks
 slug: stacks
 description: ""
-date: "2026-03-13T09:22:54.976955"
+date: "2026-03-20T08:22:05.709264"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - horizontal
 brand_colors:
+  - green
   - "pantone-364"
+  - white
+  - blue
   - gray
   - yellow
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
   - display
   - verdana
   - montserrat
 imagery_styles:
-  - artificial
-  - geometric
-  - minimal
   - product
+  - artificial
+  - minimal
   - bold
+  - geometric
 wikidata_description: macOS dock folder view
 wikidata_url: "https://www.wikidata.org/wiki/Q3468014"
 has_twitter: false
@@ -79,10 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.github.io/material-design-icons](http://www.github.io/material-design-icons)
 - [https://about.ebsco.com/products/stacks](https://about.ebsco.com/products/stacks)
-- [https://about.ebsco.com/public-libraries/products/stacks](https://about.ebsco.com/public-libraries/products/stacks)
 - [https://about.ebsco.com/resources/stacks-new-public-library-experience](https://about.ebsco.com/resources/stacks-new-public-library-experience)
+- [https://about.ebsco.com/public-libraries/products/stacks](https://about.ebsco.com/public-libraries/products/stacks)
+- [http://www.github.io/material-design-icons](http://www.github.io/material-design-icons)
 
 ## Brand Guidelines
 

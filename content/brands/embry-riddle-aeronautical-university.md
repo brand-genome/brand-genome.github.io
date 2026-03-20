@@ -2,7 +2,7 @@
 title: "Embry-Riddle Aeronautical University"
 slug: "embry-riddle-aeronautical-university"
 description: ""
-date: "2026-03-13T09:22:55.043017"
+date: "2026-03-20T08:22:05.746091"
 draft: false
 sectors:
   - education
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1926
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://erau.edu/](https://erau.edu/)
-- [https://worldwide.erau.edu/](https://worldwide.erau.edu/)
+- [https://erau.edu](https://erau.edu)
+- [https://worldwide.erau.edu](https://worldwide.erau.edu)
 
 ## Brand Guidelines
 

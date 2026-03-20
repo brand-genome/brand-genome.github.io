@@ -2,11 +2,11 @@
 title: Prodeca
 slug: prodeca
 description: ""
-date: "2026-03-13T09:22:52.175199"
+date: "2026-03-20T08:22:03.242030"
 draft: false
 sectors:
-  - food
   - "public-sector"
+  - food
 regions:
   - spain
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,17 +54,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - symbol
   - primary
+  - symbol
 brand_colors:
-  - grey
-  - black
   - red
   - "pantone-485"
   - white
+  - grey
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -76,10 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.prodeca.cat](https://www.prodeca.cat)
+- [https://www.prodeca.cat/en](https://www.prodeca.cat/en)
+- [https://gastroteca.cat](https://gastroteca.cat)
 - [http://www.prodeca.cat](http://www.prodeca.cat)
-- [https://gastroteca.cat/](https://gastroteca.cat/)
-- [https://www.prodeca.cat/](https://www.prodeca.cat/)
-- [https://www.prodeca.cat/en/](https://www.prodeca.cat/en/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Reddit
 slug: reddit
 description: ""
-date: "2026-03-13T09:22:52.325799"
+date: "2026-03-20T08:22:03.393913"
 draft: false
 sectors:
   - software
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - mascot
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
+  - mascot
 brand_colors:
+  - teal
+  - white
+  - blue
   - yellow
   - orange
   - black
-  - teal
-  - blue
-  - white
 typographies: []
 imagery_styles:
   - classic
@@ -80,10 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://redditinc.com/](https://redditinc.com/)
+- [https://www.reddit.com](https://www.reddit.com)
+- [https://redditinc.com](https://redditinc.com)
 - [https://redditinc.com/brand](https://redditinc.com/brand)
-- [https://www.business.reddit.com/](https://www.business.reddit.com/)
-- [https://www.reddit.com/](https://www.reddit.com/)
+- [https://www.business.reddit.com](https://www.business.reddit.com)
 
 ## Brand Guidelines
 

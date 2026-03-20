@@ -2,12 +2,12 @@
 title: Zayed University
 slug: "zayed-university"
 description: ""
-date: "2026-03-13T09:22:54.807380"
+date: "2026-03-20T08:22:05.576734"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - dubai
 years:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ logo_elements:
   - secondary
 brand_colors: []
 typographies:
-  - trebuchet
   - helvetica
   - gotham
+  - trebuchet
 imagery_styles:
   - photography
 wikidata_description: University in UAE
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zu.ac.ae/](https://www.zu.ac.ae/)
+- [https://www.zu.ac.ae](https://www.zu.ac.ae)
+- [http://www.zu.ac.ae](http://www.zu.ac.ae)
 
 ## Brand Guidelines
 

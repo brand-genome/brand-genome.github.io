@@ -2,7 +2,7 @@
 title: Ticket To The Moon
 slug: "ticket-to-the-moon"
 description: ""
-date: "2026-03-13T09:22:54.558166"
+date: "2026-03-20T08:22:05.404019"
 draft: false
 sectors:
   - "consumer-goods"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +54,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "Company producing outdoor gear, mainly hammocks and accessories for them"
 wikidata_url: "https://www.wikidata.org/wiki/Q137605714"
 has_twitter: false
@@ -66,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ticketothemoon.com](https://ticketothemoon.com)
+- [https://brand.ticketothemoon.com](https://brand.ticketothemoon.com)
 - [http://www.ticketothemoon.com](http://www.ticketothemoon.com)
 - [http://www.youtube.com/watch?v=HV-auIbTN8Y](http://www.youtube.com/watch?v=HV-auIbTN8Y)
-- [https://brand.ticketothemoon.com/](https://brand.ticketothemoon.com/)
-- [https://ticketothemoon.com/](https://ticketothemoon.com/)
+- [https://eu.ticketothemoon.com](https://eu.ticketothemoon.com)
 
 ## Brand Guidelines
 

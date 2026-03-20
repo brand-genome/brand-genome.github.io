@@ -2,7 +2,7 @@
 title: Schweizerischen Bundesverwaltung
 slug: "schweizerischen-bundesverwaltung"
 description: ""
-date: "2026-03-13T09:22:53.280818"
+date: "2026-03-20T08:22:04.210538"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,13 +47,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
-  - black
+  - red
   - "pantone-485"
   - white
-  - red
+  - black
 typographies:
   - frutiger
 imagery_styles: []
@@ -67,13 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.admin.ch](https://www.admin.ch)
+- [https://www.bk.admin.ch](https://www.bk.admin.ch)
+- [https://www.geo.admin.ch](https://www.geo.admin.ch)
+- [https://www.epa.admin.ch](https://www.epa.admin.ch)
 - [http://www.admin.ch](http://www.admin.ch)
 - [http://www.ethz.ch](http://www.ethz.ch)
 - [http://www.metas.ch](http://www.metas.ch)
-- [https://www.admin.ch/](https://www.admin.ch/)
-- [https://www.bk.admin.ch/](https://www.bk.admin.ch/)
-- [https://www.epa.admin.ch/](https://www.epa.admin.ch/)
-- [https://www.geo.admin.ch/](https://www.geo.admin.ch/)
 
 ## Brand Guidelines
 

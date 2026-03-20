@@ -2,12 +2,12 @@
 title: Produce For Better Health Foundation
 slug: "produce-for-better-health-foundation"
 description: ""
-date: "2026-03-13T09:22:53.515573"
+date: "2026-03-20T08:22:04.409454"
 draft: false
 sectors:
   - food
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -34,6 +34,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +53,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lockup
+  - primary
 brand_colors:
-  - black
   - green
-  - purple
   - white
+  - purple
+  - black
 typographies:
   - arial
   - din
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
+  - photography
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54831982"
 has_twitter: false
@@ -77,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fruitsandveggies.org/](https://fruitsandveggies.org/)
+- [https://fruitsandveggies.org](https://fruitsandveggies.org)
+- [http://www.pbhfoundation.org](http://www.pbhfoundation.org)
 
 ## Brand Guidelines
 

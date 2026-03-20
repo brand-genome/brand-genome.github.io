@@ -2,7 +2,7 @@
 title: Murray
 slug: murray
 description: ""
-date: "2026-03-13T09:22:54.079697"
+date: "2026-03-20T08:22:04.925790"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1848
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.murray.utah.gov/](https://www.murray.utah.gov/)
+- [https://www.murray.utah.gov](https://www.murray.utah.gov)
 
 ## Brand Guidelines
 

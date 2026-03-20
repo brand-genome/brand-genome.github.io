@@ -2,11 +2,11 @@
 title: Jotun
 slug: jotun
 description: ""
-date: "2026-03-13T09:22:53.278136"
+date: "2026-03-20T08:22:04.205926"
 draft: false
 sectors:
-  - construction
   - "consumer-goods"
+  - construction
 regions:
   - norway
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1926
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - frutiger
   - times
   - verdana
+  - frutiger
 imagery_styles:
   - product
 wikidata_description: Norwegian chemicals company
@@ -71,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.jotun.com](https://www.jotun.com)
 - [http://www.jotun.com](http://www.jotun.com)
-- [https://www.jotun.com/](https://www.jotun.com/)
 
 ## Brand Guidelines
 

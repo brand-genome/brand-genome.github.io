@@ -2,7 +2,7 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-03-13T09:22:54.418966"
+date: "2026-03-20T08:22:05.314782"
 draft: false
 sectors:
   - gaming
@@ -18,8 +18,8 @@ tags:
   - featured
   - entertainment
 industries:
-  - "video-game-industry"
   - "game-industry"
+  - "video-game-industry"
 countries:
   - japan
 revenue_buckets: []
@@ -31,9 +31,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
-  - "video-game"
   - "video-game-console"
+  - "video-game"
+  - software
 products: []
 headquarters_locations:
   - "higashiyama-ku"
@@ -43,6 +43,9 @@ subsidiaries: []
 foundation_dates:
   - 1889
   - 1947
+foundation_year_buckets:
+  - 1940S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,15 +67,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies: []
 imagery_styles:
-  - product
   - bold
   - graphic
+  - product
 wikidata_description: Japanese multinational video game and consumer electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q8093"
 has_twitter: false
@@ -85,7 +88,11 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nintendo.co.jp/corporate/en/outline/index.html](https://www.nintendo.co.jp/corporate/en/outline/index.html)
-- [https://www.nintendo.com/en-us/](https://www.nintendo.com/en-us/)
+- [https://www.nintendo.com/en-us](https://www.nintendo.com/en-us)
+- [https://www.nintendo.com/countryselector](https://www.nintendo.com/countryselector)
+- [https://www.nintendo.com/jp/index.html](https://www.nintendo.com/jp/index.html)
+- [https://www.nintendo.de](https://www.nintendo.de)
+- [https://www.nintendo.com/us/regionselector](https://www.nintendo.com/us/regionselector)
 
 ## Brand Guidelines
 
@@ -127,7 +134,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Video Game](/products_or_materials_produced/video-game/); [Video Game Console](/products_or_materials_produced/video-game-console/) |
+| Product Or Material Produced | [Video Game Console](/products_or_materials_produced/video-game-console/); [Video Game](/products_or_materials_produced/video-game/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Higashiyama Ku](/headquarters_locations/higashiyama-ku/); [Kyoto](/headquarters_locations/kyoto/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/) |
 | Foundation Date | [1889](/foundation_dates/1889/); [1947](/foundation_dates/1947/) |
 | Headquarters Location | Kyoto, Shimogyō-ku (from 1889, until 1959), Higashiyama-ku (from 1959, until 2000) |

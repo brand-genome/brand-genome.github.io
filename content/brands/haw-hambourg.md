@@ -2,12 +2,12 @@
 title: HAW Hambourg
 slug: "haw-hambourg"
 description: ""
-date: "2026-03-13T09:22:52.067770"
+date: "2026-03-20T08:22:03.133406"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - germany
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - german
 tags:
+  - university
   - education
   - science
-  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +65,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.HAW-HAMBURG.DE](http://www.HAW-HAMBURG.DE)
+- [https://www.haw-hamburg.de](https://www.haw-hamburg.de)
+- [https://www.haw-hamburg.de/en](https://www.haw-hamburg.de/en)
+- [https://www.haw-hamburg.de/beschaeftigtenportal](https://www.haw-hamburg.de/beschaeftigtenportal)
+- [https://www.haw-hamburg.de/hochschule](https://www.haw-hamburg.de/hochschule)
+- [http://www.haw-hamburg.de](http://www.haw-hamburg.de)
 - [http://www.hamburg.de](http://www.hamburg.de)
-- [https://www.haw-hamburg.de/](https://www.haw-hamburg.de/)
-- [https://www.haw-hamburg.de/beschaeftigtenportal/](https://www.haw-hamburg.de/beschaeftigtenportal/)
-- [https://www.haw-hamburg.de/en/](https://www.haw-hamburg.de/en/)
-- [https://www.haw-hamburg.de/hochschule/](https://www.haw-hamburg.de/hochschule/)
 
 ## Brand Guidelines
 

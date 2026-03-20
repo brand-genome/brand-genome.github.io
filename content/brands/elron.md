@@ -2,7 +2,7 @@
 title: Elron
 slug: elron
 description: ""
-date: "2026-03-13T09:22:51.896884"
+date: "2026-03-20T08:22:03.063309"
 draft: false
 sectors:
   - "public-transportation"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://elron.ee/en](https://elron.ee/en)
+- [http://elron.ee](http://elron.ee)
 
 ## Brand Guidelines
 

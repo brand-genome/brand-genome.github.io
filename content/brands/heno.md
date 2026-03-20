@@ -2,11 +2,11 @@
 title: Heno
 slug: heno
 description: ""
-date: "2026-03-13T09:22:53.262119"
+date: "2026-03-20T08:22:04.187345"
 draft: false
 sectors:
-  - software
   - finance
+  - software
   - healthcare
 regions:
   - vietnam
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +49,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
   - secondary
 brand_colors: []
 typographies:
   - nunito
 imagery_styles:
-  - photography
-  - product
   - bold
+  - product
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://heno.vn/](https://heno.vn/)
+- [https://heno.vn](https://heno.vn)
 
 ## Brand Guidelines
 

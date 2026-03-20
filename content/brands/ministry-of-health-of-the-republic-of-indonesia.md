@@ -2,7 +2,7 @@
 title: Ministry of Health of the Republic of Indonesia
 slug: "ministry-of-health-of-the-republic-of-indonesia"
 description: ""
-date: "2026-03-13T09:22:52.171718"
+date: "2026-03-20T08:22:03.237321"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - grey
-  - green
   - turquoise
+  - green
   - yellow
+  - grey
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,20 +72,20 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ayosehat.kemkes.go.id/](https://ayosehat.kemkes.go.id/)
-- [https://ditjen-sdmk.kemkes.go.id/](https://ditjen-sdmk.kemkes.go.id/)
-- [https://farmalkes.kemkes.go.id/](https://farmalkes.kemkes.go.id/)
-- [https://itjen.kemkes.go.id/](https://itjen.kemkes.go.id/)
-- [https://jdih.kemkes.go.id/](https://jdih.kemkes.go.id/)
-- [https://kemkes.go.id/id/filosofi-logo/](https://kemkes.go.id/id/filosofi-logo/)
-- [https://keslan.kemkes.go.id/](https://keslan.kemkes.go.id/)
-- [https://kesprimkom.kemkes.go.id/](https://kesprimkom.kemkes.go.id/)
-- [https://p2.kemkes.go.id/](https://p2.kemkes.go.id/)
-- [https://satusehat.kemkes.go.id/](https://satusehat.kemkes.go.id/)
-- [https://setjen.kemkes.go.id/](https://setjen.kemkes.go.id/)
-- [https://upk.kemkes.go.id/](https://upk.kemkes.go.id/)
-- [https://www.kemkes.go.id/](https://www.kemkes.go.id/)
-- [https://www.kemkes.go.id/eng/](https://www.kemkes.go.id/eng/)
+- [https://www.kemkes.go.id](https://www.kemkes.go.id)
+- [https://www.kemkes.go.id/eng](https://www.kemkes.go.id/eng)
+- [https://satusehat.kemkes.go.id](https://satusehat.kemkes.go.id)
+- [https://setjen.kemkes.go.id](https://setjen.kemkes.go.id)
+- [https://kesprimkom.kemkes.go.id](https://kesprimkom.kemkes.go.id)
+- [https://p2.kemkes.go.id](https://p2.kemkes.go.id)
+- [https://keslan.kemkes.go.id](https://keslan.kemkes.go.id)
+- [https://farmalkes.kemkes.go.id](https://farmalkes.kemkes.go.id)
+- [https://ditjen-sdmk.kemkes.go.id](https://ditjen-sdmk.kemkes.go.id)
+- [https://itjen.kemkes.go.id](https://itjen.kemkes.go.id)
+- [https://upk.kemkes.go.id](https://upk.kemkes.go.id)
+- [https://jdih.kemkes.go.id](https://jdih.kemkes.go.id)
+- [https://ayosehat.kemkes.go.id](https://ayosehat.kemkes.go.id)
+- [https://kemkes.go.id/id/filosofi-logo](https://kemkes.go.id/id/filosofi-logo)
 
 ## Brand Guidelines
 

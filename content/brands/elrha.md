@@ -2,11 +2,11 @@
 title: Elrha
 slug: elrha
 description: ""
-date: "2026-03-13T09:22:53.082884"
+date: "2026-03-20T08:22:04.084108"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.elrha.org](https://www.elrha.org)
+- [https://www.elrha.org/programme/hif](https://www.elrha.org/programme/hif)
 - [http://www.elrha.org](http://www.elrha.org)
-- [https://www.elrha.org/](https://www.elrha.org/)
-- [https://www.elrha.org/programme/hif/](https://www.elrha.org/programme/hif/)
 
 ## Brand Guidelines
 

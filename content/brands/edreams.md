@@ -2,7 +2,7 @@
 title: eDreams
 slug: edreams
 description: ""
-date: "2026-03-13T09:22:54.801253"
+date: "2026-03-20T08:22:05.574445"
 draft: false
 sectors:
   - "e-commerce"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,28 +55,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
-  - "app-icon"
   - vertical
-  - favicon
   - secondary
+  - symbol
   - horizontal
+  - "app-icon"
+  - primary
+  - favicon
 brand_colors:
   - "pantone-286"
   - cyan
+  - white
+  - "pantone-109"
+  - blue
   - grey
   - yellow
   - black
-  - "pantone-109"
-  - blue
-  - white
 typographies:
   - "open-sans"
 imagery_styles:
   - clean
-  - natural
   - graphic
+  - natural
 wikidata_description: online travel agency
 wikidata_url: "https://www.wikidata.org/wiki/Q696009"
 has_twitter: false
@@ -86,8 +88,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.edreams.com/](https://www.edreams.com/)
-- [https://www.edreamsodigeo.com/](https://www.edreamsodigeo.com/)
+- [https://www.edreams.com](https://www.edreams.com)
+- [https://www.edreamsodigeo.com](https://www.edreamsodigeo.com)
+- [https://www.edreams.it](https://www.edreams.it)
+- [https://www.edreams.fr](https://www.edreams.fr)
 
 ## Brand Guidelines
 

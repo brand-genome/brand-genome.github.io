@@ -2,11 +2,11 @@
 title: Central College Athletics
 slug: "central-college-athletics"
 description: ""
-date: "2026-03-13T09:22:53.709850"
+date: "2026-03-20T08:22:04.574221"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://athletics.central.edu/](https://athletics.central.edu/)
-- [https://central.edu/](https://central.edu/)
+- [https://athletics.central.edu](https://athletics.central.edu)
+- [https://central.edu](https://central.edu)
+- [http://central.edu/athletics](http://central.edu/athletics)
 
 ## Brand Guidelines
 

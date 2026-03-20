@@ -2,7 +2,7 @@
 title: Mennonite World Conference
 slug: "mennonite-world-conference"
 description: ""
-date: "2026-03-13T09:22:54.044883"
+date: "2026-03-20T08:22:04.899837"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mwc-cmm.org/](https://mwc-cmm.org/)
-- [https://mwc-cmm.org/en/](https://mwc-cmm.org/en/)
+- [https://mwc-cmm.org](https://mwc-cmm.org)
+- [https://mwc-cmm.org/en](https://mwc-cmm.org/en)
 - [https://mwc-cmm.org/identity](https://mwc-cmm.org/identity)
 
 ## Brand Guidelines

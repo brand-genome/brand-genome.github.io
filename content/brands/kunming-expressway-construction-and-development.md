@@ -2,11 +2,11 @@
 title: Kunming Expressway Construction and Development
 slug: "kunming-expressway-construction-and-development"
 description: ""
-date: "2026-03-13T09:22:53.244012"
+date: "2026-03-20T08:22:04.162322"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - china
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

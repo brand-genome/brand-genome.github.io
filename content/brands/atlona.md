@@ -2,11 +2,11 @@
 title: Atlona
 slug: atlona
 description: ""
-date: "2026-03-13T09:22:54.756816"
+date: "2026-03-20T08:22:05.552949"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +51,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
-  - "pantone-165"
   - orange
+  - "pantone-165"
+  - black
 typographies:
   - arial
 imagery_styles: []
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://atlona.com/](https://atlona.com/)
-- [https://atlona.com/resources/branding-resources/](https://atlona.com/resources/branding-resources/)
+- [https://atlona.com](https://atlona.com)
+- [https://atlona.com/resources/branding-resources](https://atlona.com/resources/branding-resources)
 
 ## Brand Guidelines
 

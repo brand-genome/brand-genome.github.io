@@ -2,7 +2,7 @@
 title: Wear it
 slug: "wear-it"
 description: ""
-date: "2026-03-13T09:22:53.298921"
+date: "2026-03-20T08:22:04.220154"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://safeboatingcampaign.com/wear-it-pledge](https://safeboatingcampaign.com/wear-it-pledge)
+- [https://safeboatingcampaign.com](https://safeboatingcampaign.com)
 - [http://www.safeboatingcampaign.com](http://www.safeboatingcampaign.com)
-- [https://safeboatingcampaign.com/](https://safeboatingcampaign.com/)
-- [https://safeboatingcampaign.com/wear-it-pledge/](https://safeboatingcampaign.com/wear-it-pledge/)
 
 ## Brand Guidelines
 

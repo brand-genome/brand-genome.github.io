@@ -2,7 +2,7 @@
 title: Fiat
 slug: fiat
 description: ""
-date: "2026-03-13T09:22:53.016326"
+date: "2026-03-20T08:22:04.007041"
 draft: false
 sectors:
   - automobile
@@ -10,9 +10,9 @@ regions:
   - italy
   - brazil
 years:
-  - 2019
   - 2011
   - 2005
+  - 2019
 languages:
   - english
   - portuguese
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1899
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,18 +58,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: Italian automotive company
 wikidata_url: "https://www.wikidata.org/wiki/Q27597"
 has_twitter: false
@@ -79,9 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fiat.com.br/](https://www.fiat.com.br/)
-- [https://www.fiatlatam.com/](https://www.fiatlatam.com/)
-- [https://www.fiatoriginal.com.br/](https://www.fiatoriginal.com.br/)
+- [https://www.fiat.com.br](https://www.fiat.com.br)
+- [https://www.fiatlatam.com](https://www.fiatlatam.com)
+- [https://www.fiatoriginal.com.br](https://www.fiatoriginal.com.br)
+- [https://www.fiat.com](https://www.fiat.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Degreed
 slug: degreed
 description: ""
-date: "2026-03-13T09:22:51.900031"
+date: "2026-03-20T08:22:03.066070"
 draft: false
 sectors:
   - "elearning-edtech"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.degreed.com](http://www.degreed.com)
 - [https://degreed.com](https://degreed.com)
+- [http://www.degreed.com](http://www.degreed.com)
+- [http://degreed.com](http://degreed.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Omnipod
 slug: omnipod
 description: ""
-date: "2026-03-13T09:22:53.253251"
+date: "2026-03-20T08:22:04.179245"
 draft: false
 sectors:
   - healthcare
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - vertical
+  - stacked
+  - horizontal
   - wordmark
   - primary
-  - stacked
-  - vertical
-  - horizontal
+  - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: clinical trial
 wikidata_url: "https://www.wikidata.org/wiki/Q113894365"
 has_twitter: false
@@ -73,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Omnipod.com](http://www.Omnipod.com)
+- [https://www.omnipod.com/home](https://www.omnipod.com/home)
+- [http://www.omnipod.com](http://www.omnipod.com)
 - [http://www.instagram.com](http://www.instagram.com)
 - [http://www.youtube.com](http://www.youtube.com)
-- [https://www.omnipod.com/home](https://www.omnipod.com/home)
 
 ## Brand Guidelines
 

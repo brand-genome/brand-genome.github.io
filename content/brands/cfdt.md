@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-03-13T09:22:51.900417"
+date: "2026-03-20T08:22:03.066248"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,9 @@ subsidiaries: []
 foundation_dates:
   - 1919
   - 1964
+foundation_year_buckets:
+  - 1960S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +54,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - signature
+  - symbol
+  - primary
 brand_colors:
   - orange
 typographies: []
@@ -69,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.CFDT.FR](http://www.CFDT.FR)
 - [https://www.cfdt.fr](https://www.cfdt.fr)
+- [http://www.cfdt.fr](http://www.cfdt.fr)
 
 ## Brand Guidelines
 

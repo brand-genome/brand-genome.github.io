@@ -2,7 +2,7 @@
 title: openAi
 slug: openai
 description: ""
-date: "2026-03-13T09:22:52.176312"
+date: "2026-03-20T08:22:03.243464"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2024
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://developers.openai.com/](https://developers.openai.com/)
-- [https://openai.com/](https://openai.com/)
-- [https://openai.com/api/](https://openai.com/api/)
+- [https://openai.com](https://openai.com)
+- [https://developers.openai.com](https://developers.openai.com)
+- [https://openai.com/api](https://openai.com/api)
+- [https://openai.com/sora](https://openai.com/sora)
+- [https://sora.com](https://sora.com)
+- [https://openai.com/index/sora](https://openai.com/index/sora)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Cree
 slug: cree
 description: ""
-date: "2026-03-13T09:22:54.718094"
+date: "2026-03-20T08:22:05.517601"
 draft: false
 sectors:
   - electronics
@@ -17,8 +17,8 @@ tags:
   - technology
 industries: []
 countries:
-  - "united-states"
   - canada
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
   - symbol
-  - wordmark
 brand_colors:
-  - black
-  - "pantone-294"
-  - white
   - blue
+  - white
+  - "pantone-294"
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cree.com](https://www.cree.com)
 - [https://www.wolfspeed.com](https://www.wolfspeed.com)
+- [https://www.cree.com](https://www.cree.com)
 
 ## Brand Guidelines
 

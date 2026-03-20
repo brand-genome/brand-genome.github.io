@@ -2,7 +2,7 @@
 title: Charlotte
 slug: charlotte
 description: ""
-date: "2026-03-13T09:22:54.776628"
+date: "2026-03-20T08:22:05.562033"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1768
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,25 +52,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies:
-  - script
-  - brandon
-  - futura
-  - helvetica
-  - gotham
   - slab
+  - brandon
+  - gotham
+  - futura
   - serif
+  - script
+  - helvetica
 imagery_styles:
+  - staged
   - modern
   - natural
-  - staged
-  - clean
   - photography
+  - clean
 wikidata_description: "city in and county seat of Mecklenburg County, North Carolina, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q16565"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.charlottesgotalot.com/](https://www.charlottesgotalot.com/)
-- [https://www.crva.com/](https://www.crva.com/)
+- [https://www.charlottesgotalot.com](https://www.charlottesgotalot.com)
+- [https://www.crva.com](https://www.crva.com)
+- [https://www.charlottenc.gov](https://www.charlottenc.gov)
 
 ## Brand Guidelines
 

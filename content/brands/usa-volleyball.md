@@ -2,7 +2,7 @@
 title: USA Volleyball
 slug: "usa-volleyball"
 description: ""
-date: "2026-03-13T09:22:53.316793"
+date: "2026-03-20T08:22:04.228997"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,7 @@ headquarters_locations:
   - "colorado-springs"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-187"
   - silver
-  - "pantone-2768"
-  - navy
-  - gray
-  - black
   - red
   - gold
+  - navy
+  - "pantone-2768"
   - white
+  - gray
+  - "pantone-187"
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -77,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://usavolleyball.org](https://usavolleyball.org)
 - [http://www.usavolleyball.org](http://www.usavolleyball.org)
-- [https://usavolleyball.org/](https://usavolleyball.org/)
 
 ## Brand Guidelines
 

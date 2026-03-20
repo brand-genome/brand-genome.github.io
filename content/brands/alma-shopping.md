@@ -2,7 +2,7 @@
 title: Alma Shopping
 slug: "alma-shopping"
 description: ""
-date: "2026-03-13T09:22:53.769693"
+date: "2026-03-20T08:22:04.722216"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
+  - bold
   - modern
   - graphic
-  - bold
   - geometric
 wikidata_description: ""
 wikidata_url: ""
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.almashopping.pt](https://www.almashopping.pt)
 - [http://www.almashopping.pt](http://www.almashopping.pt)
-- [https://www.almashopping.pt/](https://www.almashopping.pt/)
 
 ## Brand Guidelines
 

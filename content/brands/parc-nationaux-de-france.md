@@ -2,7 +2,7 @@
 title: Parc Nationaux de France
 slug: "parc-nationaux-de-france"
 description: ""
-date: "2026-03-13T09:22:55.163857"
+date: "2026-03-20T08:22:05.864997"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.parcsnationaux.fr/](https://www.parcsnationaux.fr/)
+- [https://www.parcsnationaux.fr](https://www.parcsnationaux.fr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Marathon Petroleum
 slug: "marathon-petroleum"
 description: ""
-date: "2026-03-13T09:22:53.008350"
+date: "2026-03-20T08:22:03.999375"
 draft: false
 sectors:
   - petroleum
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []

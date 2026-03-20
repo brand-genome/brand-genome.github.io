@@ -2,7 +2,7 @@
 title: Lozère
 slug: lozere
 description: ""
-date: "2026-03-13T09:22:54.193421"
+date: "2026-03-20T08:22:05.024290"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - signage
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://lozere.fr](https://lozere.fr)
 - [http://www.lozere.fr](http://www.lozere.fr)
-- [https://lozere.fr/](https://lozere.fr/)
 
 ## Brand Guidelines
 

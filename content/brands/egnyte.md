@@ -2,11 +2,11 @@
 title: Egnyte
 slug: egnyte
 description: ""
-date: "2026-03-13T09:22:52.332096"
+date: "2026-03-20T08:22:03.400642"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
   - white
 typographies:
@@ -76,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.egnyte.com](https://www.egnyte.com)
 - [http://www.egnyte.com](http://www.egnyte.com)
 - [https://pages.egnyte.com/general-email-signature-creation](https://pages.egnyte.com/general-email-signature-creation)
-- [https://www.egnyte.com/](https://www.egnyte.com/)
 
 ## Brand Guidelines
 

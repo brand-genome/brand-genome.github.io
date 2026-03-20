@@ -2,7 +2,7 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-03-13T09:22:54.825709"
+date: "2026-03-20T08:22:05.587730"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,19 +55,19 @@ body_sections: []
 logo_elements:
   - stacked
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - silver
-  - "pantone-3955"
-  - "pantone-7546"
-  - "pantone-4625"
-  - "pantone-422"
-  - black
-  - "pantone-8423"
+  - "pantone-305"
   - "pantone-8420"
   - white
-  - "pantone-305"
+  - "pantone-7546"
+  - "pantone-3955"
+  - black
+  - "pantone-8423"
+  - "pantone-4625"
+  - "pantone-422"
 typographies:
   - arial
 imagery_styles:
@@ -81,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ecuad.ca](https://ecuad.ca)
+- [https://www.ecuad.ca](https://www.ecuad.ca)
 - [http://www.ecuad.ca](http://www.ecuad.ca)
-- [https://ecuad.ca/](https://ecuad.ca/)
-- [https://www.ecuad.ca/](https://www.ecuad.ca/)
 
 ## Brand Guidelines
 

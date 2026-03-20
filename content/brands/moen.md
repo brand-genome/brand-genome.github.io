@@ -2,7 +2,7 @@
 title: Moen
 slug: moen
 description: ""
-date: "2026-03-13T09:22:54.554781"
+date: "2026-03-20T08:22:05.401585"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +48,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors: []
 typographies:
   - din
@@ -68,10 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.FBHS.com](http://www.FBHS.com)
-- [https://fr.moen.ca/](https://fr.moen.ca/)
-- [https://www.moen.com/](https://www.moen.com/)
-- [https://www.moen.com/commercial/](https://www.moen.com/commercial/)
+- [https://www.moen.com](https://www.moen.com)
+- [https://www.moen.com/commercial](https://www.moen.com/commercial)
+- [https://fr.moen.ca](https://fr.moen.ca)
+- [http://www.fbhs.com](http://www.fbhs.com)
+- [http://www.moenia.com](http://www.moenia.com)
 
 ## Brand Guidelines
 

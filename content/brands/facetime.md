@@ -2,7 +2,7 @@
 title: FaceTime
 slug: facetime
 description: ""
-date: "2026-03-13T09:22:53.718068"
+date: "2026-03-20T08:22:04.681454"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
+  - blue
   - green
   - white
-  - blue
+  - black
 typographies:
   - gotham
 imagery_styles:
+  - bold
   - gradient
   - professional
-  - bold
 wikidata_description: video and audio communication service from Apple
 wikidata_url: "https://www.wikidata.org/wiki/Q648357"
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.facetime.org.uk/](https://www.facetime.org.uk/)
+- [https://www.facetime.org.uk](https://www.facetime.org.uk)
 
 ## Brand Guidelines
 

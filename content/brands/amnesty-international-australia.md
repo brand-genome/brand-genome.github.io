@@ -2,7 +2,7 @@
 title: Amnesty International Australia
 slug: "amnesty-international-australia"
 description: ""
-date: "2026-03-13T09:22:54.730094"
+date: "2026-03-20T08:22:05.526788"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amnesty.org.au/](https://www.amnesty.org.au/)
+- [https://www.amnesty.org.au](https://www.amnesty.org.au)
+- [http://www.amnesty.org.au](http://www.amnesty.org.au)
 
 ## Brand Guidelines
 

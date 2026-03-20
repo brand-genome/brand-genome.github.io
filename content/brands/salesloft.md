@@ -2,7 +2,7 @@
 title: SalesLoft
 slug: salesloft
 description: ""
-date: "2026-03-13T09:22:53.467302"
+date: "2026-03-20T08:22:04.368601"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - business
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles:
-  - modern
-  - gradient
   - subtle
+  - modern
   - graphic
+  - gradient
 wikidata_description: US sales engagement platform since 2011
 wikidata_url: "https://www.wikidata.org/wiki/Q7404299"
 has_twitter: false
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.salesloft.com/](https://www.salesloft.com/)
+- [https://www.salesloft.com](https://www.salesloft.com)
+- [http://www.salesloft.com](http://www.salesloft.com)
 
 ## Brand Guidelines
 

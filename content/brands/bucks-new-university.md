@@ -2,7 +2,7 @@
 title: Bucks New University
 slug: "bucks-new-university"
 description: ""
-date: "2026-03-13T09:22:53.940762"
+date: "2026-03-20T08:22:04.867894"
 draft: false
 sectors:
   - education
@@ -32,6 +32,7 @@ headquarters_locations:
   - "high-wycombe"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,12 +56,12 @@ brand_colors:
   - cyan
   - grey
 typographies:
-  - arial
-  - helvetica
   - slab
+  - helvetica
+  - arial
 imagery_styles:
-  - photography
   - natural
+  - photography
 wikidata_description: nursing school
 wikidata_url: "https://www.wikidata.org/wiki/Q101044942"
 has_twitter: false
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bucks.ac.uk](https://www.bucks.ac.uk)
 - [http://www.gov.uk](http://www.gov.uk)
-- [https://www.bucks.ac.uk/](https://www.bucks.ac.uk/)
 
 ## Brand Guidelines
 

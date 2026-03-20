@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-03-13T09:22:54.336015"
+date: "2026-03-20T08:22:05.162126"
 draft: false
 sectors:
   - electronics
@@ -27,16 +27,18 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "electronic-musical-instrument"
-  - "electronic-dictionary"
-  - watch
   - calculator
+  - watch
+  - "electronic-dictionary"
+  - "electronic-musical-instrument"
 products: []
 headquarters_locations:
   - shibuya
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,10 +58,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: multinational electronics manufacturing company
@@ -73,9 +75,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://world.casio.com/](https://world.casio.com/)
-- [https://world.casio.com/corporate/](https://world.casio.com/corporate/)
-- [https://www.casio.com/intl/](https://www.casio.com/intl/)
+- [https://world.casio.com](https://world.casio.com)
+- [https://world.casio.com/corporate](https://world.casio.com/corporate)
+- [https://www.casio.com/intl](https://www.casio.com/intl)
+- [http://casio.jp](http://casio.jp)
+- [http://world.casio.com](http://world.casio.com)
+- [https://www.store.casio.in](https://www.store.casio.in)
 
 ## Brand Guidelines
 
@@ -113,7 +118,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Watch](/products_or_materials_produced/watch/); [Calculator](/products_or_materials_produced/calculator/) |
+| Product Or Material Produced | [Calculator](/products_or_materials_produced/calculator/); [Watch](/products_or_materials_produced/watch/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/) |
 | Headquarters Location | [Shibuya](/headquarters_locations/shibuya/) |
 | Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Shibuya |

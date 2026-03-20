@@ -2,11 +2,11 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-03-13T09:22:52.462759"
+date: "2026-03-20T08:22:03.506945"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - usa
 years:
@@ -20,8 +20,8 @@ tags:
 industries:
   - "financial-services"
 countries:
-  - "united-states"
   - sweden
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1971
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,10 +57,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
+  - wordmark
   - primary
   - secondary
-  - wordmark
-  - signature
 brand_colors:
   - black
   - gray
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://customerportal.nasdaq.com/](https://customerportal.nasdaq.com/)
-- [https://www.nasdaq.com/](https://www.nasdaq.com/)
+- [https://www.nasdaq.com](https://www.nasdaq.com)
+- [https://customerportal.nasdaq.com](https://customerportal.nasdaq.com)
 
 ## Brand Guidelines
 

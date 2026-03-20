@@ -2,11 +2,11 @@
 title: Frontline Aids
 slug: "frontline-aids"
 description: ""
-date: "2026-03-13T09:22:53.606678"
+date: "2026-03-20T08:22:04.472108"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +58,8 @@ brand_colors:
   - black
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: international NGO from the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q132471948"
 has_twitter: false
@@ -70,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://frontlineaids.org/](https://frontlineaids.org/)
+- [https://frontlineaids.org](https://frontlineaids.org)
+- [http://www.frontlineaids.org](http://www.frontlineaids.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: BGR
 slug: bgr
 description: ""
-date: "2026-03-13T09:22:53.319929"
+date: "2026-03-20T08:22:04.231293"
 draft: false
 sectors:
   - publishing
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - media
+  - technology
 industries: []
 countries:
   - pakistan
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
   - display
   - serif
 imagery_styles:
-  - gradient
   - bold
   - graphic
+  - gradient
 wikidata_description: "railway station in Khyber Pakhtunkhwa, Pakistan"
 wikidata_url: "https://www.wikidata.org/wiki/Q18356109"
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bgr.com](https://bgr.com)
 - [https://www.bgr.com](https://www.bgr.com)
+- [https://bgr.com](https://bgr.com)
 
 ## Brand Guidelines
 

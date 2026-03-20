@@ -2,7 +2,7 @@
 title: Universidad de Sevilla
 slug: "universidad-de-sevilla"
 description: ""
-date: "2026-03-13T09:22:53.078732"
+date: "2026-03-20T08:22:04.075869"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1505
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://buzonweb.us.es/](https://buzonweb.us.es/)
-- [https://sede.us.es/](https://sede.us.es/)
-- [https://www.us.es/](https://www.us.es/)
+- [https://www.us.es](https://www.us.es)
+- [https://sede.us.es](https://sede.us.es)
+- [https://buzonweb.us.es](https://buzonweb.us.es)
 
 ## Brand Guidelines
 

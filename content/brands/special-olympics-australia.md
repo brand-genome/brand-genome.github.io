@@ -2,7 +2,7 @@
 title: Special Olympics Australia
 slug: "special-olympics-australia"
 description: ""
-date: "2026-03-13T09:22:53.314052"
+date: "2026-03-20T08:22:04.228332"
 draft: false
 sectors:
   - sports
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,11 +56,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - "pantone-293"
+  - black
 typographies:
-  - arial
   - ubuntu
+  - arial
 imagery_styles:
   - realistic
   - professional
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.specialolympics.com.au/](https://www.specialolympics.com.au/)
+- [https://www.specialolympics.com.au](https://www.specialolympics.com.au)
+- [https://specialolympics.com.au](https://specialolympics.com.au)
 
 ## Brand Guidelines
 

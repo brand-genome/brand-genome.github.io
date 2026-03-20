@@ -2,7 +2,7 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-03-13T09:22:53.020581"
+date: "2026-03-20T08:22:04.012542"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - vintage
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - switzerland
@@ -30,11 +30,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "chateau-de-vidy"
   - lausanne
+  - "chateau-de-vidy"
 subsidiaries: []
 foundation_dates:
   - 1894
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://olympic.org/](https://olympic.org/)
-- [https://olympics.com/](https://olympics.com/)
 - [https://olympics.com/ioc](https://olympics.com/ioc)
+- [https://olympics.com](https://olympics.com)
+- [https://olympic.org](https://olympic.org)
+- [https://www.olympics.com/ioc](https://www.olympics.com/ioc)
 
 ## Brand Guidelines
 
@@ -83,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Chateau De Vidy](/headquarters_locations/chateau-de-vidy/); [Lausanne](/headquarters_locations/lausanne/) |
+| Headquarters Location | [Lausanne](/headquarters_locations/lausanne/); [Chateau De Vidy](/headquarters_locations/chateau-de-vidy/) |
 | Foundation Date | [1894](/foundation_dates/1894/) |
 | Topic'S Main Category | Category:International Olympic Committee |
 | Freebase Id | /m/03xcc |

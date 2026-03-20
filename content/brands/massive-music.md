@@ -2,11 +2,11 @@
 title: Massive Music
 slug: "massive-music"
 description: ""
-date: "2026-03-13T09:22:53.262533"
+date: "2026-03-20T08:22:04.187671"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
   - entertainment
 regions:
   - netherlands
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - music
+  - marketing
 industries:
   - "media-industry"
 countries: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,25 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - stacked
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - arial
   - akzidenz
 imagery_styles:
+  - dynamic
+  - minimal
+  - bold
   - serious
   - playful
-  - minimal
-  - dynamic
   - gradient
-  - bold
 wikidata_description: sound design company involved in the Wikimedia sound logo process
 wikidata_url: "https://www.wikidata.org/wiki/Q112123650"
 has_twitter: false
@@ -80,9 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MASSIVEMUSIC.COM](http://www.MASSIVEMUSIC.COM)
+- [https://massivemusic.com](https://massivemusic.com)
+- [http://www.massivemusic.com](http://www.massivemusic.com)
 - [http://www.linotype.com](http://www.linotype.com)
-- [https://massivemusic.com/](https://massivemusic.com/)
+- [https://massivemusic.com/en/about](https://massivemusic.com/en/about)
+- [https://massivemusic.com/ja/about](https://massivemusic.com/ja/about)
 
 ## Brand Guidelines
 

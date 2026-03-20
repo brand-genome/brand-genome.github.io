@@ -2,11 +2,11 @@
 title: Umbra Space
 slug: "umbra-space"
 description: ""
-date: "2026-03-13T09:22:52.228317"
+date: "2026-03-20T08:22:03.293241"
 draft: false
 sectors:
-  - "space-technology"
   - satellite
+  - "space-technology"
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,10 +58,10 @@ logo_elements:
   - wordmark
 brand_colors:
   - navy
+  - white
+  - blue
   - orange
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles:
   - clean
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://umbra.space/](https://umbra.space/)
+- [https://umbra.space](https://umbra.space)
 
 ## Brand Guidelines
 

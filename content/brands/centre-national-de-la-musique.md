@@ -2,7 +2,7 @@
 title: Centre national de la musique
 slug: "centre-national-de-la-musique"
 description: ""
-date: "2026-03-13T09:22:53.290497"
+date: "2026-03-20T08:22:04.215538"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2020
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cnm.fr/](https://cnm.fr/)
+- [https://cnm.fr](https://cnm.fr)
+- [http://www.cnm.fr](http://www.cnm.fr)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: Kew
 slug: kew
 description: ""
-date: "2026-03-13T09:22:55.004055"
+date: "2026-03-20T08:22:05.718939"
 draft: false
 sectors:
   - tourism
-  - research
   - "arts-culture"
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,7 @@ headquarters_locations:
   - kew
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
   - natural
+  - vibrant
 wikidata_description: government botanical research institute in the UK
 wikidata_url: "https://www.wikidata.org/wiki/Q18748726"
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kew.org](https://www.kew.org)
 - [http://www.kew.org](http://www.kew.org)
-- [https://www.kew.org/](https://www.kew.org/)
 
 ## Brand Guidelines
 

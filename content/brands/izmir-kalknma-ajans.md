@@ -2,7 +2,7 @@
 title: İzmir Kalkınma Ajansı
 slug: "izmir-kalknma-ajans"
 description: ""
-date: "2026-03-13T09:22:54.188163"
+date: "2026-03-20T08:22:05.017579"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://izka.org.tr/](https://izka.org.tr/)
+- [https://izka.org.tr](https://izka.org.tr)
 
 ## Brand Guidelines
 

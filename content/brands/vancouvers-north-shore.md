@@ -2,7 +2,7 @@
 title: Vancouver’s North Shore
 slug: "vancouvers-north-shore"
 description: ""
-date: "2026-03-13T09:22:52.871637"
+date: "2026-03-20T08:22:03.869928"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.vancouversnorthshore.com](https://www.vancouversnorthshore.com)
 - [http://www.weareloki.com](http://www.weareloki.com)
-- [https://www.vancouversnorthshore.com/](https://www.vancouversnorthshore.com/)
 
 ## Brand Guidelines
 

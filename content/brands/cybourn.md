@@ -2,12 +2,12 @@
 title: CyBourn
 slug: cybourn
 description: ""
-date: "2026-03-13T09:22:53.493061"
+date: "2026-03-20T08:22:04.388966"
 draft: false
 sectors:
   - consulting
-  - software
   - cybersecurity
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cybourn.com/](https://cybourn.com/)
+- [https://cybourn.com](https://cybourn.com)
 
 ## Brand Guidelines
 

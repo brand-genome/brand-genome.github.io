@@ -2,7 +2,7 @@
 title: University of the Highlands and Islands
 slug: "university-of-the-highlands-and-islands"
 description: ""
-date: "2026-03-13T09:22:52.885162"
+date: "2026-03-20T08:22:03.876445"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uhi.ac.uk/en/](https://www.uhi.ac.uk/en/)
+- [https://www.uhi.ac.uk/en](https://www.uhi.ac.uk/en)
+- [http://www.uhi.ac.uk](http://www.uhi.ac.uk)
 
 ## Brand Guidelines
 

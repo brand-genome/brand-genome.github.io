@@ -2,7 +2,7 @@
 title: Mustang Cup
 slug: "mustang-cup"
 description: ""
-date: "2026-03-13T09:22:52.066801"
+date: "2026-03-20T08:22:03.132495"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mustangcup.com/](https://mustangcup.com/)
+- [https://mustangcup.com](https://mustangcup.com)
+- [http://www.laligaaguila.com](http://www.laligaaguila.com)
+- [https://dimayor.com.co](https://dimayor.com.co)
+- [https://dimayor.com.co/liga-betplay-dimayor](https://dimayor.com.co/liga-betplay-dimayor)
 
 ## Brand Guidelines
 

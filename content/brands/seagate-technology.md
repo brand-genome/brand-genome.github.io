@@ -2,7 +2,7 @@
 title: Seagate Technology
 slug: "seagate-technology"
 description: ""
-date: "2026-03-13T09:22:55.091430"
+date: "2026-03-20T08:22:05.796337"
 draft: false
 sectors:
   - electronics
@@ -31,17 +31,19 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "solid-state-drive"
-  - "hard-disk"
-  - software
-  - seagate
   - "hybrid-drive"
+  - "solid-state-drive"
+  - seagate
+  - software
+  - "hard-disk"
 products: []
 headquarters_locations:
   - cupertino
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.seagate.com/](https://www.seagate.com/)
+- [https://www.seagate.com](https://www.seagate.com)
+- [http://www.seagate.com](http://www.seagate.com)
 
 ## Brand Guidelines
 
@@ -90,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Hard Disk](/products_or_materials_produced/hard-disk/); [Software](/products_or_materials_produced/software/); [Seagate](/products_or_materials_produced/seagate/); [Hybrid Drive](/products_or_materials_produced/hybrid-drive/) |
+| Product Or Material Produced | [Hybrid Drive](/products_or_materials_produced/hybrid-drive/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Seagate](/products_or_materials_produced/seagate/); [Software](/products_or_materials_produced/software/); [Hard Disk](/products_or_materials_produced/hard-disk/) |
 | Headquarters Location | [Cupertino](/headquarters_locations/cupertino/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Stock Exchange | Nasdaq (from 2002-12-11) |

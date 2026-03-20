@@ -2,11 +2,11 @@
 title: Kozel
 slug: kozel
 description: ""
-date: "2026-03-13T09:22:52.234963"
+date: "2026-03-20T08:22:03.297514"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - "czech-republic"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - "czech-republic"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.velkopopovickykozel.com](https://www.velkopopovickykozel.com)
+- [https://www.kozel.pl](https://www.kozel.pl)
+- [https://hub.kozelbeer.com](https://hub.kozelbeer.com)
 - [http://www.kozelbeer.com](http://www.kozelbeer.com)
-- [https://hub.kozelbeer.com/](https://hub.kozelbeer.com/)
-- [https://www.kozel.pl/](https://www.kozel.pl/)
-- [https://www.velkopopovickykozel.com/](https://www.velkopopovickykozel.com/)
 
 ## Brand Guidelines
 

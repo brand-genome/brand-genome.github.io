@@ -2,7 +2,7 @@
 title: Acura
 slug: acura
 description: ""
-date: "2026-03-13T09:22:52.868231"
+date: "2026-03-20T08:22:03.869044"
 draft: false
 sectors:
   - automobile
@@ -30,12 +30,14 @@ products_or_materials_produced:
   - "luxury-vehicle"
 products: []
 headquarters_locations:
-  - torrance
-  - tokyo
   - minato
+  - tokyo
+  - torrance
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.acura.com](https://www.acura.com)
 - [http://www.linotype.com/72/avenir-family.html](http://www.linotype.com/72/avenir-family.html)
-- [https://www.acura.com/](https://www.acura.com/)
 
 ## Brand Guidelines
 
@@ -86,7 +88,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
-| Headquarters Location | [Torrance](/headquarters_locations/torrance/); [Tokyo](/headquarters_locations/tokyo/); [Minato](/headquarters_locations/minato/) |
+| Headquarters Location | [Minato](/headquarters_locations/minato/); [Tokyo](/headquarters_locations/tokyo/); [Torrance](/headquarters_locations/torrance/) |
 | Foundation Date | [1986](/foundation_dates/1986/) |
 | Topic'S Main Category | Category:Acura |
 | Freebase Id | /m/011xz6, /m/0h5wtp0 |

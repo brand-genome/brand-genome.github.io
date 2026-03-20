@@ -2,11 +2,11 @@
 title: Later
 slug: later
 description: ""
-date: "2026-03-13T09:22:53.027592"
+date: "2026-03-20T08:22:04.021566"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - canada
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://later.com](https://later.com)
+- [https://help.later.com](https://help.later.com)
+- [https://later.com/careers](https://later.com/careers)
 - [https://fonts.google.com/specimen/Poppins](https://fonts.google.com/specimen/Poppins)
-- [https://help.later.com/](https://help.later.com/)
-- [https://later.com/](https://later.com/)
-- [https://later.com/careers/](https://later.com/careers/)
 
 ## Brand Guidelines
 

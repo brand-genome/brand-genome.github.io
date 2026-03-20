@@ -2,11 +2,11 @@
 title: World of Life
 slug: "world-of-life"
 description: ""
-date: "2026-03-13T09:22:53.713674"
+date: "2026-03-20T08:22:04.661250"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - icon
-  - primary
-  - alternate
   - vertical
   - secondary
+  - logomark
   - horizontal
+  - alternate
+  - primary
+  - icon
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
-  - georgia
-  - roboto
-  - merriweather
-  - helvetica
   - impact
+  - merriweather
+  - roboto
+  - georgia
+  - helvetica
 imagery_styles:
-  - dynamic
-  - photography
   - bold
+  - dynamic
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,10 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.WOL.ORG](http://www.WOL.ORG)
+- [https://www.wol.org](https://www.wol.org)
+- [https://camps.wol.org](https://camps.wol.org)
+- [http://www.wol.org](http://www.wol.org)
 - [http://www.fontsquirrel.com](http://www.fontsquirrel.com)
-- [https://camps.wol.org/](https://camps.wol.org/)
-- [https://www.wol.org/](https://www.wol.org/)
 
 ## Brand Guidelines
 

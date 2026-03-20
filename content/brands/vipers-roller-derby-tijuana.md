@@ -2,7 +2,7 @@
 title: Vipers Roller Derby Tijuana
 slug: "vipers-roller-derby-tijuana"
 description: ""
-date: "2026-03-13T09:22:53.027486"
+date: "2026-03-20T08:22:04.021456"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.instagram.com/](http://www.instagram.com/)
 - [https://www.facebook.com/vipersrollerderby](https://www.facebook.com/vipersrollerderby)
+- [http://www.instagram.com](http://www.instagram.com)
 
 ## Brand Guidelines
 

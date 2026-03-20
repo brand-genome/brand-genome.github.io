@@ -2,7 +2,7 @@
 title: United Way Centraide
 slug: "united-way-centraide"
 description: ""
-date: "2026-03-13T09:22:52.103732"
+date: "2026-03-20T08:22:03.162072"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.centraide.ca/](https://www.centraide.ca/)
-- [https://www.unitedway.ca/](https://www.unitedway.ca/)
+- [https://www.unitedway.ca](https://www.unitedway.ca)
+- [https://www.centraide.ca](https://www.centraide.ca)
 
 ## Brand Guidelines
 

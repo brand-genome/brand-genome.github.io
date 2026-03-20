@@ -2,11 +2,11 @@
 title: LVMH Innovation
 slug: "lvmh-innovation"
 description: ""
-date: "2026-03-13T09:22:52.065429"
+date: "2026-03-20T08:22:03.131183"
 draft: false
 sectors:
-  - consulting
   - "public-relations"
+  - consulting
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lamaisondesstartups.lvmh.com/](https://lamaisondesstartups.lvmh.com/)
-- [https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh/](https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh/)
-- [https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025](https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025)
+- [https://lamaisondesstartups.lvmh.com](https://lamaisondesstartups.lvmh.com)
+- [https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh](https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh)
 - [https://www.lvmh.com/en/startups-tech-partners/la-maison-des-startups-lvmh](https://www.lvmh.com/en/startups-tech-partners/la-maison-des-startups-lvmh)
+- [https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025](https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025)
 
 ## Brand Guidelines
 

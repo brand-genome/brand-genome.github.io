@@ -2,7 +2,7 @@
 title: Mankato
 slug: mankato
 description: ""
-date: "2026-03-13T09:22:54.745324"
+date: "2026-03-20T08:22:05.542303"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1852
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,23 +52,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - wordmark
+  - symbol
 brand_colors:
-  - orange
-  - black
-  - pink
-  - blue
   - green
   - white
+  - blue
+  - orange
+  - pink
+  - black
 typographies: []
 imagery_styles:
   - lifestyle
-  - gradient
-  - vibrant
+  - graphic
   - professional
   - bold
-  - graphic
+  - gradient
+  - vibrant
 wikidata_description: "city in Blue Earth County, Minnesota, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q913243"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://greatermankato.com/visit-mankato/](https://greatermankato.com/visit-mankato/)
-- [https://www.mankatomn.gov/](https://www.mankatomn.gov/)
+- [https://greatermankato.com/visit-mankato](https://greatermankato.com/visit-mankato)
+- [https://www.mankatomn.gov](https://www.mankatomn.gov)
+- [http://www.ci.mankato.mn.us](http://www.ci.mankato.mn.us)
 
 ## Brand Guidelines
 

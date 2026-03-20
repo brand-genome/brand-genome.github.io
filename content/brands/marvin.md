@@ -2,7 +2,7 @@
 title: Marvin
 slug: marvin
 description: ""
-date: "2026-03-13T09:22:53.439404"
+date: "2026-03-20T08:22:04.343090"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - display
 imagery_styles: []
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.marvin.com/](https://www.marvin.com/)
+- [https://www.marvin.com](https://www.marvin.com)
 
 ## Brand Guidelines
 

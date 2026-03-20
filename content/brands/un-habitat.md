@@ -2,7 +2,7 @@
 title: UN Habitat
 slug: "un-habitat"
 description: ""
-date: "2026-03-13T09:22:53.716277"
+date: "2026-03-20T08:22:04.679681"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2020
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +56,9 @@ brand_colors: []
 typographies:
   - roboto
 imagery_styles:
-  - photography
-  - staged
   - bold
+  - staged
+  - photography
 wikidata_description: An annual film festival associated with the United Nations Habitat Program
 wikidata_url: "https://www.wikidata.org/wiki/Q135656195"
 has_twitter: false
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://unhabitat.org](https://unhabitat.org)
 - [http://www.unhabitat.org](http://www.unhabitat.org)
-- [https://unhabitat.org/](https://unhabitat.org/)
+- [https://www.bettercitiesfilmfestival.com/un-habitat-better-cities](https://www.bettercitiesfilmfestival.com/un-habitat-better-cities)
 
 ## Brand Guidelines
 

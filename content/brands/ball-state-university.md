@@ -2,7 +2,7 @@
 title: Ball State University
 slug: "ball-state-university"
 description: ""
-date: "2026-03-13T09:22:54.795629"
+date: "2026-03-20T08:22:05.569364"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1918
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +55,16 @@ body_sections: []
 logo_elements:
   - lockup
 brand_colors:
-  - white
   - red
+  - white
 typographies:
   - "open-sans"
   - helvetica
   - roboto
 imagery_styles:
-  - vibrant
   - photography
   - bold
+  - vibrant
 wikidata_description: "university in Indiana, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q805122"
 has_twitter: false
@@ -74,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bsu.edu](https://www.bsu.edu)
 - [http://www.bsu.edu/brand/writing](http://www.bsu.edu/brand/writing)
 - [http://www.myfonts.com](http://www.myfonts.com)
-- [https://www.bsu.edu/](https://www.bsu.edu/)
+- [http://www.bsu.edu](http://www.bsu.edu)
 
 ## Brand Guidelines
 

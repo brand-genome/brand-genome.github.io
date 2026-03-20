@@ -2,7 +2,7 @@
 title: We Mean Business
 slug: "we-mean-business"
 description: ""
-date: "2026-03-13T09:22:54.981821"
+date: "2026-03-20T08:22:05.712791"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,27 +47,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - stacked
   - secondary
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - cyan
-  - grey
-  - black
-  - "pantone-346"
   - green
   - white
+  - cyan
+  - grey
+  - "pantone-346"
+  - black
 typographies:
   - "open-sans"
   - montserrat
 imagery_styles:
-  - vibrant
   - photography
-  - modern
   - bold
+  - modern
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,12 +79,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wemeanbusinesscoalition.org](https://www.wemeanbusinesscoalition.org)
 - [http://www.flickr.com/photos/136557332@N04](http://www.flickr.com/photos/136557332@N04)
 - [http://www.fontsquirrel.com/fonts/montserrat](http://www.fontsquirrel.com/fonts/montserrat)
 - [http://www.linkedin.com/company/wemeanbusiness](http://www.linkedin.com/company/wemeanbusiness)
 - [http://www.twitter.com/WMBtweets](http://www.twitter.com/WMBtweets)
 - [http://www.wemeanbusinesscoalition.org](http://www.wemeanbusinesscoalition.org)
-- [https://www.wemeanbusinesscoalition.org/](https://www.wemeanbusinesscoalition.org/)
 
 ## Brand Guidelines
 

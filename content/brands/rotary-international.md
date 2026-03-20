@@ -2,16 +2,16 @@
 title: Rotary International
 slug: "rotary-international"
 description: ""
-date: "2026-03-13T09:22:53.026116"
+date: "2026-03-20T08:22:04.019601"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2015
-  - 2019
   - 2016
+  - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,45 +54,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - logomark
+  - signature
+  - emblem
   - wordmark
   - primary
-  - emblem
-  - secondary
-  - signature
 brand_colors:
   - silver
-  - violet
-  - grey
-  - yellow
-  - gold
-  - orange
-  - black
-  - white
   - red
-  - blue
   - green
+  - gold
+  - white
+  - orange
+  - grey
+  - blue
+  - yellow
   - turquoise
+  - violet
+  - black
 typographies:
+  - impact
   - "open-sans"
-  - georgia
-  - helvetica
   - arial
   - frutiger
-  - impact
+  - georgia
+  - helvetica
 imagery_styles:
-  - photography
+  - vibrant
+  - professional
+  - organic
+  - bold
   - modern
   - natural
-  - organic
   - illustration
-  - candid
-  - monochrome
-  - vibrant
+  - photography
   - clean
-  - professional
   - gradient
-  - bold
+  - monochrome
+  - candid
 wikidata_description: "international non-profit service organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q109179"
 has_twitter: false
@@ -102,11 +104,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ROTARY.ORG](http://www.ROTARY.ORG)
-- [http://www.rotary.org/brandcenter](http://www.rotary.org/brandcenter)
-- [https://www.rotary.org/](https://www.rotary.org/)
+- [https://www.rotary.org](https://www.rotary.org)
 - [https://www.rotary.org/en](https://www.rotary.org/en)
 - [https://www.rotary.org/en/about-rotary/rotary-foundation](https://www.rotary.org/en/about-rotary/rotary-foundation)
+- [http://www.rotary.org/brandcenter](http://www.rotary.org/brandcenter)
+- [http://www.rotary.org](http://www.rotary.org)
+- [https://www.rotary.org/fr](https://www.rotary.org/fr)
 
 ## Brand Guidelines
 

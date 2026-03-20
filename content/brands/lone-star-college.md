@@ -2,7 +2,7 @@
 title: Lone Star College
 slug: "lone-star-college"
 description: ""
-date: "2026-03-13T09:22:54.982684"
+date: "2026-03-20T08:22:05.713421"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.LoneStar.edu](http://www.LoneStar.edu)
-- [https://www.lonestar.edu/](https://www.lonestar.edu/)
+- [https://www.lonestar.edu](https://www.lonestar.edu)
+- [http://www.lonestar.edu](http://www.lonestar.edu)
+- [http://www.nhmccd.edu](http://www.nhmccd.edu)
+- [http://www.nhmccd.cc.tx.us](http://www.nhmccd.cc.tx.us)
 
 ## Brand Guidelines
 

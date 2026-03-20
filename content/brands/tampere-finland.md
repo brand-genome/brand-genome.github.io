@@ -2,7 +2,7 @@
 title: Tampere Finland
 slug: "tampere-finland"
 description: ""
-date: "2026-03-13T09:22:54.328982"
+date: "2026-03-20T08:22:05.151912"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - white
   - grey
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
   - "open-sans"
   - montserrat
@@ -69,12 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tampere.fi/en](https://www.tampere.fi/en)
+- [https://www.tampere.fi](https://www.tampere.fi)
+- [https://visittampere.fi/en](https://visittampere.fi/en)
+- [https://visittampere.fi](https://visittampere.fi)
 - [http://www.tampere.fi](http://www.tampere.fi)
-- [https://visittampere.fi/](https://visittampere.fi/)
-- [https://visittampere.fi/en/](https://visittampere.fi/en/)
-- [https://visittampere.fi/en/professionals/](https://visittampere.fi/en/professionals/)
-- [https://www.tampere.fi/](https://www.tampere.fi/)
-- [https://www.tampere.fi/en/](https://www.tampere.fi/en/)
+- [https://visittampere.fi/en/professionals](https://visittampere.fi/en/professionals)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Villandry Café
 slug: "villandry-cafe"
 description: ""
-date: "2026-03-13T09:22:54.194722"
+date: "2026-03-20T08:22:05.026038"
 draft: false
 sectors:
   - restaurant
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.villandry.com/](http://www.villandry.com/)
+- [http://www.villandry.com](http://www.villandry.com)
 
 ## Brand Guidelines
 

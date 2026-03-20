@@ -2,7 +2,7 @@
 title: TPID Dallas
 slug: "tpid-dallas"
 description: ""
-date: "2026-03-13T09:22:53.286237"
+date: "2026-03-20T08:22:04.213771"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://dallastpid.com](https://dallastpid.com)
 - [https://dallasecodev.org/423/Tourism-PID](https://dallasecodev.org/423/Tourism-PID)
-- [https://dallastpid.com/](https://dallastpid.com/)
 
 ## Brand Guidelines
 

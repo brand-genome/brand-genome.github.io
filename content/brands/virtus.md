@@ -2,7 +2,7 @@
 title: Virtus
 slug: virtus
 description: ""
-date: "2026-03-13T09:22:53.268010"
+date: "2026-03-20T08:22:04.194529"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1927
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - cyan
+  - red
+  - white
   - purple
+  - cyan
+  - blue
   - yellow
   - orange
-  - red
-  - blue
-  - white
 typographies:
   - "open-sans"
   - gotham
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "Italian League professional basketball club, based in Bologna."
 wikidata_url: "https://www.wikidata.org/wiki/Q36264"
 has_twitter: false
@@ -76,8 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.virtus.sport](https://www.virtus.sport)
 - [http://www.virtus.sport](http://www.virtus.sport)
-- [https://www.virtus.sport/](https://www.virtus.sport/)
+- [http://www.virtus.it](http://www.virtus.it)
 
 ## Brand Guidelines
 

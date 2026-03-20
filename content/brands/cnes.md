@@ -2,11 +2,11 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-03-13T09:22:55.094981"
+date: "2026-03-20T08:22:05.800687"
 draft: false
 sectors:
-  - "space-technology"
   - "public-sector"
+  - "space-technology"
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - research
   - "research-and-development-in-other-physical-and-natural-sciences"
+  - research
 countries:
   - france
 revenue_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +58,8 @@ logo_elements:
 brand_colors:
   - "pantone-294"
 typographies:
-  - arial
   - univers
+  - arial
 imagery_styles:
   - bold
 wikidata_description: French space agency
@@ -71,12 +73,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr)
-- [https://cnes-observatoire.fr](https://cnes-observatoire.fr)
-- [https://cnes.fr/en](https://cnes.fr/en)
 - [https://cnes.fr/fr](https://cnes.fr/fr)
-- [https://maboutique.cnes.fr](https://maboutique.cnes.fr)
+- [https://cnes.fr/en](https://cnes.fr/en)
+- [https://centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr)
 - [https://recrutement.cnes.fr](https://recrutement.cnes.fr)
+- [https://cnes-observatoire.fr](https://cnes-observatoire.fr)
+- [https://maboutique.cnes.fr](https://maboutique.cnes.fr)
+- [https://cnes.fr](https://cnes.fr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-03-13T09:22:54.133107"
+date: "2026-03-20T08:22:04.970076"
 draft: false
 sectors:
   - education
@@ -14,18 +14,18 @@ years:
 languages:
   - english
 tags:
-  - edition
   - science
+  - edition
 industries: []
 countries:
   - "united-kingdom"
+  - netherlands
+  - japan
+  - "united-states"
   - australia
+  - "peoples-republic-of-china"
   - germany
   - italy
-  - japan
-  - "peoples-republic-of-china"
-  - "united-states"
-  - netherlands
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1807
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
+  - bold
   - vibrant
   - photography
-  - bold
 wikidata_description: American multinational publishing company
 wikidata_url: "https://www.wikidata.org/wiki/Q1479654"
 has_twitter: false
@@ -80,10 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wiley.com](https://www.wiley.com)
+- [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
 - [http://www.wiley-vch.de](http://www.wiley-vch.de)
 - [http://www.wiley.com](http://www.wiley.com)
-- [https://onlinelibrary.wiley.com/](https://onlinelibrary.wiley.com/)
-- [https://www.wiley.com/](https://www.wiley.com/)
 
 ## Brand Guidelines
 

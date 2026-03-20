@@ -2,7 +2,7 @@
 title: Zagreb Airport
 slug: "zagreb-airport"
 description: ""
-date: "2026-03-13T09:22:53.341910"
+date: "2026-03-20T08:22:04.250605"
 draft: false
 sectors:
   - "public-transportation"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +50,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-877"
   - silver
-  - black
-  - "pantone-292"
   - red
+  - "pantone-485"
+  - gold
+  - white
   - blue
   - "pantone-871"
-  - gold
-  - "pantone-485"
-  - white
   - "pantone-2758"
+  - "pantone-292"
+  - black
+  - "pantone-877"
 typographies:
   - helvetica
 imagery_styles:
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.zagreb-airport.hr](https://www.zagreb-airport.hr)
+- [https://www.zlz-zagreb-airport.hr/en](https://www.zlz-zagreb-airport.hr/en)
+- [https://www.zlz-zagreb-airport.hr/hr](https://www.zlz-zagreb-airport.hr/hr)
 - [http://www.zagreb-airport.hr](http://www.zagreb-airport.hr)
-- [https://www.zagreb-airport.hr/](https://www.zagreb-airport.hr/)
-- [https://www.zlz-zagreb-airport.hr/en/](https://www.zlz-zagreb-airport.hr/en/)
-- [https://www.zlz-zagreb-airport.hr/hr/](https://www.zlz-zagreb-airport.hr/hr/)
 
 ## Brand Guidelines
 

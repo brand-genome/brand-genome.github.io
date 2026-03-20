@@ -2,11 +2,11 @@
 title: Micro Focus
 slug: "micro-focus"
 description: ""
-date: "2026-03-13T09:22:53.310906"
+date: "2026-03-20T08:22:04.227202"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.microfocus.com/resources](http://www.microfocus.com/resources)
-- [https://www.microfocus.com/](https://www.microfocus.com/)
 - [https://www.opentext.com/microfocus](https://www.opentext.com/microfocus)
+- [https://www.microfocus.com](https://www.microfocus.com)
+- [http://www.microfocus.com/resources](http://www.microfocus.com/resources)
+- [http://www.microfocus.com](http://www.microfocus.com)
 
 ## Brand Guidelines
 

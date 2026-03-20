@@ -2,7 +2,7 @@
 title: Mansfield
 slug: mansfield
 description: ""
-date: "2026-03-13T09:22:51.923694"
+date: "2026-03-20T08:22:03.078403"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-kingdom"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.WeAreMansfield.com](http://www.WeAreMansfield.com)
-- [https://www.mansfield.gov.uk/](https://www.mansfield.gov.uk/)
+- [https://www.mansfield.gov.uk](https://www.mansfield.gov.uk)
+- [http://www.wearemansfield.com](http://www.wearemansfield.com)
+- [http://www.mansfield.gov.uk](http://www.mansfield.gov.uk)
 
 ## Brand Guidelines
 

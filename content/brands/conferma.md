@@ -2,11 +2,11 @@
 title: Conferma
 slug: conferma
 description: ""
-date: "2026-03-13T09:22:52.197169"
+date: "2026-03-20T08:22:03.263437"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
   - white
   - blue
 typographies: []
 imagery_styles:
-  - natural
-  - vibrant
-  - photography
   - product
   - professional
+  - natural
+  - photography
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.conferma.com/](https://www.conferma.com/)
+- [https://www.conferma.com](https://www.conferma.com)
 
 ## Brand Guidelines
 

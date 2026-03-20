@@ -2,11 +2,11 @@
 title: The Climate Group
 slug: "the-climate-group"
 description: ""
-date: "2026-03-13T09:22:53.719349"
+date: "2026-03-20T08:22:04.682808"
 draft: false
 sectors:
-  - "renewable-energy"
   - ngo
+  - "renewable-energy"
 regions:
   - "united-kingdom"
 years:
@@ -18,8 +18,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - "united-states"
   - "united-kingdom"
+  - "united-states"
 revenue_buckets:
   - "10M-100M"
 operating_income_buckets: []
@@ -35,6 +35,7 @@ headquarters_locations:
   - london
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,17 +57,17 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
+  - red
   - green
   - white
-  - red
+  - black
 typographies:
   - impact
 imagery_styles:
-  - photography
-  - professional
   - bold
   - graphic
+  - photography
+  - professional
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q7723391"
 has_twitter: false
@@ -78,10 +79,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://ec.europa.eu/employment_social/](http://ec.europa.eu/employment_social/)
-- [http://news.sky.com/skynews/](http://news.sky.com/skynews/)
-- [http://www.scottish-enterprise.com/](http://www.scottish-enterprise.com/)
-- [https://www.theclimategroup.org/](https://www.theclimategroup.org/)
+- [https://www.theclimategroup.org](https://www.theclimategroup.org)
+- [http://ec.europa.eu/employment_social](http://ec.europa.eu/employment_social)
+- [http://news.sky.com/skynews](http://news.sky.com/skynews)
+- [http://www.scottish-enterprise.com](http://www.scottish-enterprise.com)
+- [http://www.theclimategroup.org](http://www.theclimategroup.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Docusign
 slug: docusign
 description: ""
-date: "2026-03-13T09:22:52.331235"
+date: "2026-03-20T08:22:03.399706"
 draft: false
 sectors:
   - software
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Docusign.com](http://www.Docusign.com)
-- [https://www.docusign.com/](https://www.docusign.com/)
+- [https://www.docusign.com](https://www.docusign.com)
 - [https://www.docusign.com/agreement-cloud](https://www.docusign.com/agreement-cloud)
+- [http://www.docusign.com](http://www.docusign.com)
 
 ## Brand Guidelines
 

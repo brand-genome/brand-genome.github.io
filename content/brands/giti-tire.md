@@ -2,7 +2,7 @@
 title: Giti Tire
 slug: "giti-tire"
 description: ""
-date: "2026-03-13T09:22:52.828924"
+date: "2026-03-20T08:22:03.838629"
 draft: false
 sectors:
   - tires
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1951
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.giti.com](https://www.giti.com)
+- [https://gititireusa.com](https://gititireusa.com)
 - [http://www.giti.com](http://www.giti.com)
-- [https://gititireusa.com/](https://gititireusa.com/)
-- [https://www.giti.com/](https://www.giti.com/)
 
 ## Brand Guidelines
 

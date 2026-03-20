@@ -2,7 +2,7 @@
 title: Independent Lens
 slug: "independent-lens"
 description: ""
-date: "2026-03-13T09:22:53.933196"
+date: "2026-03-20T08:22:04.852546"
 draft: false
 sectors:
   - broadcasting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - alternate
   - stacked
   - vertical
   - secondary
   - horizontal
+  - alternate
+  - wordmark
+  - primary
+  - icon
 brand_colors:
   - gray
   - turquoise
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.pbs.org/independentlens](http://www.pbs.org/independentlens)
 - [https://www.pbs.org/independentlens](https://www.pbs.org/independentlens)
-- [https://www.pbs.org/show/independent-lens/](https://www.pbs.org/show/independent-lens/)
+- [https://www.pbs.org/show/independent-lens](https://www.pbs.org/show/independent-lens)
+- [http://www.pbs.org/independentlens](http://www.pbs.org/independentlens)
 
 ## Brand Guidelines
 

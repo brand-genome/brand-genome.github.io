@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-03-13T09:22:53.718447"
+date: "2026-03-20T08:22:04.681831"
 draft: false
 sectors:
   - software
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - wordmark
+  - primary
 brand_colors:
-  - grey
   - "pantone-021"
+  - white
+  - grey
   - orange
   - black
-  - white
 typographies:
   - montserrat
 imagery_styles:
@@ -74,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/](http://www.google.com/)
-- [https://ambit.ai/](https://ambit.ai/)
-- [https://ambitai.com/](https://ambitai.com/)
+- [https://ambitai.com](https://ambitai.com)
+- [https://ambit.ai](https://ambit.ai)
+- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

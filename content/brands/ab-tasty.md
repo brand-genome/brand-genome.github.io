@@ -2,7 +2,7 @@
 title: AB Tasty
 slug: "ab-tasty"
 description: ""
-date: "2026-03-13T09:22:52.065285"
+date: "2026-03-20T08:22:03.131061"
 draft: false
 sectors:
   - software
@@ -31,6 +31,7 @@ headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.abtasty.com](https://www.abtasty.com)
 - [http://www.abtasty.com/careers](http://www.abtasty.com/careers)
-- [https://www.abtasty.com/](https://www.abtasty.com/)
 
 ## Brand Guidelines
 

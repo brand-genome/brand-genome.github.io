@@ -2,7 +2,7 @@
 title: Blue Prism
 slug: "blue-prism"
 description: ""
-date: "2026-03-13T09:22:53.445173"
+date: "2026-03-20T08:22:04.348593"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,12 +58,12 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - flat
-  - illustration
-  - macro
   - staged
-  - photography
   - abstract
+  - flat
+  - macro
+  - illustration
+  - photography
 wikidata_description: British software company
 wikidata_url: "https://www.wikidata.org/wiki/Q30324186"
 has_twitter: false
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.blueprism.com](https://www.blueprism.com)
 - [https://info.ssctech.com/blue-prism-acquisition](https://info.ssctech.com/blue-prism-acquisition)
-- [https://www.blueprism.com/](https://www.blueprism.com/)
 
 ## Brand Guidelines
 

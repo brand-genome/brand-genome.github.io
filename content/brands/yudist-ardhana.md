@@ -2,7 +2,7 @@
 title: Yudist Ardhana
 slug: "yudist-ardhana"
 description: ""
-date: "2026-03-13T09:22:53.016113"
+date: "2026-03-20T08:22:04.006823"
 draft: false
 sectors:
   - entertainment
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://yudistardhana.com/](https://yudistardhana.com/)
+- [https://yudistardhana.com](https://yudistardhana.com)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: St John Ambulance
 slug: "st-john-ambulance"
 description: ""
-date: "2026-03-13T09:22:53.293103"
+date: "2026-03-20T08:22:04.217738"
 draft: false
 sectors:
   - education
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
   - health
   - ngo
 industries: []
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1877
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +54,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - green
+  - white
   - gray
   - yellow
   - black
-  - green
-  - white
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: humanitarian organization
 wikidata_url: "https://www.wikidata.org/wiki/Q699370"
 has_twitter: false
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sja.org.uk/](https://www.sja.org.uk/)
-- [https://www.stjohninternational.org/](https://www.stjohninternational.org/)
+- [https://www.sja.org.uk](https://www.sja.org.uk)
+- [https://www.stjohninternational.org](https://www.stjohninternational.org)
 
 ## Brand Guidelines
 

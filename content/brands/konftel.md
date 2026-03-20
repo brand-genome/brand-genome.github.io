@@ -2,7 +2,7 @@
 title: Konftel
 slug: konftel
 description: ""
-date: "2026-03-13T09:22:53.511440"
+date: "2026-03-20T08:22:04.405101"
 draft: false
 sectors:
   - hardware
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.konftel.com](https://www.konftel.com)
 - [https://konftel.com/es](https://konftel.com/es)
-- [https://www.konftel.com/](https://www.konftel.com/)
 
 ## Brand Guidelines
 

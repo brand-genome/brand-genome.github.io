@@ -2,7 +2,7 @@
 title: Cathay Pacific
 slug: "cathay-pacific"
 description: ""
-date: "2026-03-13T09:22:54.221234"
+date: "2026-03-20T08:22:05.049208"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - "pantone-323"
-  - grey
-  - "pantone-295"
-  - black
-  - green
   - "pantone-202"
   - red
+  - green
   - "pantone-185"
   - white
+  - grey
+  - "pantone-323"
+  - "pantone-295"
+  - black
 typographies:
   - univers
 imagery_styles:
@@ -77,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.cathaypacific.com](https://www.cathaypacific.com)
+- [https://www.cathaycargo.com](https://www.cathaycargo.com)
 - [http://www.cathaypacific.com](http://www.cathaypacific.com)
 - [http://www.cathaypacificcargo.com](http://www.cathaypacificcargo.com)
-- [https://www.cathaycargo.com/](https://www.cathaycargo.com/)
-- [https://www.cathaypacific.com/](https://www.cathaypacific.com/)
 
 ## Brand Guidelines
 

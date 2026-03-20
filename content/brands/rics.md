@@ -2,11 +2,11 @@
 title: RICS
 slug: rics
 description: ""
-date: "2026-03-13T09:22:54.340603"
+date: "2026-03-20T08:22:05.167806"
 draft: false
 sectors:
-  - construction
   - "public-sector"
+  - construction
 regions:
   - international
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1868
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,19 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.rics.org](https://www.rics.org)
+- [https://www.rics.org/regulation](https://www.rics.org/regulation)
 - [http://www.rics.org](http://www.rics.org)
-- [https://www.rics.org/](https://www.rics.org/)
-- [https://www.rics.org/regulation/](https://www.rics.org/regulation/)
+- [https://www.rics.org/fr](https://www.rics.org/fr)
+- [https://www.rics.org/de](https://www.rics.org/de)
+- [https://www.rics.org/nl](https://www.rics.org/nl)
+- [https://www.rics.org/es](https://www.rics.org/es)
+- [https://www.rics.org/pt-br](https://www.rics.org/pt-br)
+- [https://www.rics.org/en-za](https://www.rics.org/en-za)
+- [https://www.rics.org/en-hk](https://www.rics.org/en-hk)
+- [https://www.rics.org/oceania](https://www.rics.org/oceania)
+- [https://www.rics.org/en-in](https://www.rics.org/en-in)
+- [https://www.rics.org/zh](https://www.rics.org/zh)
 
 ## Brand Guidelines
 

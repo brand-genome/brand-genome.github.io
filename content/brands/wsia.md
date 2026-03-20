@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-03-13T09:22:54.417669"
+date: "2026-03-20T08:22:05.309842"
 draft: false
 sectors:
   - insurance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +47,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - symbol
   - primary
-  - lockup
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "American trade association representing the wholesale, speciality & \"surplus lines\" insurance industry"
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wsia.org/](https://www.wsia.org/)
+- [https://www.wsia.org](https://www.wsia.org)
 - [https://www.wsia.org/WSIA/WSIA/Default.aspx](https://www.wsia.org/WSIA/WSIA/Default.aspx)
 
 ## Brand Guidelines

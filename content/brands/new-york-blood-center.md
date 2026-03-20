@@ -2,7 +2,7 @@
 title: New York Blood Center
 slug: "new-york-blood-center"
 description: ""
-date: "2026-03-13T09:22:53.072980"
+date: "2026-03-20T08:22:04.068208"
 draft: false
 sectors:
   - healthcare
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nybc.org/](https://www.nybc.org/)
-- [https://www.nybce.org/](https://www.nybce.org/)
+- [https://www.nybc.org](https://www.nybc.org)
+- [https://www.nybce.org](https://www.nybce.org)
 
 ## Brand Guidelines
 

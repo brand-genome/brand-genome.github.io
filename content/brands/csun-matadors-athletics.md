@@ -2,11 +2,11 @@
 title: CSUN Matadors Athletics
 slug: "csun-matadors-athletics"
 description: ""
-date: "2026-03-13T09:22:53.937383"
+date: "2026-03-20T08:22:04.859465"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +51,9 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - display
 imagery_styles:
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gomatadors.com/](https://gomatadors.com/)
+- [https://gomatadors.com](https://gomatadors.com)
 - [https://gomatadors.com/tickets](https://gomatadors.com/tickets)
-- [https://tickets.gomatadors.com/](https://tickets.gomatadors.com/)
+- [https://tickets.gomatadors.com](https://tickets.gomatadors.com)
 
 ## Brand Guidelines
 

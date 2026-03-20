@@ -2,7 +2,7 @@
 title: London Underground
 slug: "london-underground"
 description: ""
-date: "2026-03-13T09:22:53.025466"
+date: "2026-03-20T08:22:04.018399"
 draft: false
 sectors:
   - "public-transportation"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1890
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tfl.gov.uk/modes/tube/](https://tfl.gov.uk/modes/tube/)
+- [https://tfl.gov.uk/modes/tube](https://tfl.gov.uk/modes/tube)
 
 ## Brand Guidelines
 

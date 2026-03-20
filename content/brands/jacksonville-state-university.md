@@ -2,7 +2,7 @@
 title: Jacksonville State University
 slug: "jacksonville-state-university"
 description: ""
-date: "2026-03-13T09:22:54.217801"
+date: "2026-03-20T08:22:05.045200"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1883
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +53,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - seal
   - signature
+  - seal
+  - crest
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "public university in Jacksonville, Alabama, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q957995"
 has_twitter: false
@@ -70,14 +72,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.JSU.EDU](http://www.JSU.EDU)
+- [https://www.jsu.edu](https://www.jsu.edu)
+- [https://www.jsu.edu/marketingservices/styleguide](https://www.jsu.edu/marketingservices/styleguide)
+- [http://www.jsu.edu](http://www.jsu.edu)
 - [http://www.flickr.com/photos/jacksonvillestateuniversity](http://www.flickr.com/photos/jacksonvillestateuniversity)
 - [http://www.instagram.com/JSUpix](http://www.instagram.com/JSUpix)
 - [http://www.photoshelter.com](http://www.photoshelter.com)
-- [http://www.pinterest.com/jaxstateu/](http://www.pinterest.com/jaxstateu/)
+- [http://www.pinterest.com/jaxstateu](http://www.pinterest.com/jaxstateu)
 - [http://www.youtube.com/JacksonvilleStateU](http://www.youtube.com/JacksonvilleStateU)
-- [https://www.jsu.edu/](https://www.jsu.edu/)
-- [https://www.jsu.edu/marketingservices/styleguide](https://www.jsu.edu/marketingservices/styleguide)
 
 ## Brand Guidelines
 

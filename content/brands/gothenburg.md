@@ -2,7 +2,7 @@
 title: Gothenburg
 slug: gothenburg
 description: ""
-date: "2026-03-13T09:22:53.693343"
+date: "2026-03-20T08:22:04.549579"
 draft: false
 sectors:
   - tourism
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
   - tourism
+  - city
 industries: []
 countries:
   - sweden
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1621
+foundation_year_buckets:
+  - "17TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,22 +55,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-302"
-  - "pantone-376"
-  - black
-  - "pantone-7472"
   - "pantone-7405"
-  - blue
+  - "pantone-376"
   - white
+  - "pantone-7472"
+  - blue
+  - "pantone-302"
+  - black
 typographies:
   - arial
-  - georgia
   - din
+  - georgia
 imagery_styles:
-  - dynamic
-  - modern
   - bold
+  - dynamic
   - graphic
+  - modern
 wikidata_description: "second-largest city in Sweden and capital of the Västra Götaland County"
 wikidata_url: "https://www.wikidata.org/wiki/Q25287"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.goteborg.com/](https://www.goteborg.com/)
-- [https://www.goteborg.com/en/](https://www.goteborg.com/en/)
+- [https://www.goteborg.com/en](https://www.goteborg.com/en)
+- [https://www.goteborg.com](https://www.goteborg.com)
+- [https://goteborg.se](https://goteborg.se)
 
 ## Brand Guidelines
 

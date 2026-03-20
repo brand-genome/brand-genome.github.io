@@ -2,7 +2,7 @@
 title: The Road Safety Fund
 slug: "the-road-safety-fund"
 description: ""
-date: "2026-03-13T09:22:53.344181"
+date: "2026-03-20T08:22:04.253244"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
   - silver
+  - gold
+  - white
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - gold
-  - white
 typographies: []
 imagery_styles:
-  - photography
-  - colorful
   - bold
+  - colorful
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://roadsafetyfund.un.org/](https://roadsafetyfund.un.org/)
+- [https://roadsafetyfund.un.org](https://roadsafetyfund.un.org)
 - [https://unece.org/un-road-safety-fund](https://unece.org/un-road-safety-fund)
 
 ## Brand Guidelines

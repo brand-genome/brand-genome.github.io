@@ -2,7 +2,7 @@
 title: Queensland
 slug: queensland
 description: ""
-date: "2026-03-13T09:22:53.709985"
+date: "2026-03-20T08:22:04.586684"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://portal.queensland.com/](https://portal.queensland.com/)
-- [https://teq.queensland.com/](https://teq.queensland.com/)
-- [https://www.queensland.com/](https://www.queensland.com/)
+- [https://www.queensland.com](https://www.queensland.com)
+- [https://teq.queensland.com](https://teq.queensland.com)
+- [https://portal.queensland.com](https://portal.queensland.com)
 
 ## Brand Guidelines
 

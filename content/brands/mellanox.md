@@ -2,11 +2,11 @@
 title: Mellanox
 slug: mellanox
 description: ""
-date: "2026-03-13T09:22:55.097104"
+date: "2026-03-20T08:22:05.803185"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - israel
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - symbol
   - stacked
+  - logomark
   - signature
+  - symbol
   - horizontal
 brand_colors:
   - gray
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nvidia.com/en-us/networking/](https://www.nvidia.com/en-us/networking/)
-- [https://www.nvidia.com/en-us/networking/support/](https://www.nvidia.com/en-us/networking/support/)
+- [https://www.nvidia.com/en-us/networking](https://www.nvidia.com/en-us/networking)
+- [https://www.nvidia.com/en-us/networking/support](https://www.nvidia.com/en-us/networking/support)
 
 ## Brand Guidelines
 

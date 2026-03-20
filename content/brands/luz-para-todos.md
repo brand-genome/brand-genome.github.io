@@ -2,11 +2,11 @@
 title: Luz Para Todos
 slug: "luz-para-todos"
 description: ""
-date: "2026-03-13T09:22:52.059228"
+date: "2026-03-20T08:22:03.125571"
 draft: false
 sectors:
-  - utilities
   - "public-sector"
+  - utilities
 regions:
   - brazil
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

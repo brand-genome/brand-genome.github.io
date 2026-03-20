@@ -2,12 +2,12 @@
 title: Energy Star
 slug: "energy-star"
 description: ""
-date: "2026-03-13T09:22:53.964741"
+date: "2026-03-20T08:22:04.889371"
 draft: false
 sectors:
-  - "renewable-energy"
-  - utilities
   - "public-sector"
+  - utilities
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - alternate
   - seal
+  - symbol
 brand_colors:
+  - blue
+  - white
   - black
   - cyan
-  - white
-  - blue
 typographies: []
 imagery_styles:
   - graphic
@@ -70,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.energystar.gov](http://www.energystar.gov)
-- [https://portfoliomanager.energystar.gov/pm/](https://portfoliomanager.energystar.gov/pm/)
+- [https://www.energystar.gov](https://www.energystar.gov)
 - [https://www.energy.gov/eere/buildings/energy-starr](https://www.energy.gov/eere/buildings/energy-starr)
-- [https://www.energystar.gov/](https://www.energystar.gov/)
+- [https://portfoliomanager.energystar.gov/pm](https://portfoliomanager.energystar.gov/pm)
+- [http://www.energystar.gov](http://www.energystar.gov)
 
 ## Brand Guidelines
 

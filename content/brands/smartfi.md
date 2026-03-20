@@ -2,7 +2,7 @@
 title: SmartFi
 slug: smartfi
 description: ""
-date: "2026-03-13T09:22:53.080881"
+date: "2026-03-20T08:22:04.080699"
 draft: false
 sectors:
   - finance
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,28 +52,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
   - black
-  - "pantone-807"
   - white
+  - "pantone-807"
   - "pantone-296"
 typographies:
-  - serif
   - poppins
+  - serif
 imagery_styles:
+  - product
   - flat
-  - illustration
+  - graphic
+  - bold
   - geometric
+  - illustration
+  - clean
+  - gradient
   - monochrome
   - vibrant
-  - clean
-  - product
-  - gradient
-  - bold
-  - graphic
 wikidata_description: "company in Oslo, Norway"
 wikidata_url: "https://www.wikidata.org/wiki/Q30259962"
 has_twitter: false
@@ -83,8 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://portal.smartfi.com/](https://portal.smartfi.com/)
-- [https://smartfi.com/](https://smartfi.com/)
+- [https://smartfi.com](https://smartfi.com)
+- [https://portal.smartfi.com](https://portal.smartfi.com)
+- [https://smartfish.no](https://smartfish.no)
 
 ## Brand Guidelines
 

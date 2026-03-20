@@ -2,7 +2,7 @@
 title: International Skating Union
 slug: "international-skating-union"
 description: ""
-date: "2026-03-13T09:22:54.728101"
+date: "2026-03-20T08:22:05.525937"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1892
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
   - white
   - blue
 typographies:
-  - display
   - arial
+  - display
   - montserrat
 imagery_styles:
-  - portrait
-  - landscape
-  - gradient
   - bold
+  - portrait
+  - gradient
+  - landscape
 wikidata_description: international governing body for competitive ice skating
 wikidata_url: "https://www.wikidata.org/wiki/Q543115"
 has_twitter: false
@@ -76,8 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.isu.org/](https://www.isu.org/)
-- [https://www.isu.org/erink/](https://www.isu.org/erink/)
+- [https://www.isu.org](https://www.isu.org)
+- [https://www.isu.org/erink](https://www.isu.org/erink)
+- [http://www.isu.org](http://www.isu.org)
+- [http://www.isuresults.com](http://www.isuresults.com)
 
 ## Brand Guidelines
 

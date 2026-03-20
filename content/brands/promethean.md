@@ -2,12 +2,12 @@
 title: Promethean
 slug: promethean
 description: ""
-date: "2026-03-13T09:22:54.739245"
+date: "2026-03-20T08:22:05.536351"
 draft: false
 sectors:
+  - "e-learning-edtech"
   - software
   - hardware
-  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.prometheanworld.com/](https://www.prometheanworld.com/)
-- [https://www.prometheanworld.com/en/](https://www.prometheanworld.com/en/)
+- [https://www.prometheanworld.com/en](https://www.prometheanworld.com/en)
+- [https://www.prometheanworld.com](https://www.prometheanworld.com)
+- [http://www.prometheanparticles.co.uk](http://www.prometheanparticles.co.uk)
 
 ## Brand Guidelines
 

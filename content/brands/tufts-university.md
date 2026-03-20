@@ -2,7 +2,7 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-03-13T09:22:55.168658"
+date: "2026-03-20T08:22:05.870960"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1852
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,19 +57,19 @@ body_sections: []
 logo_elements:
   - alternate
   - seal
-  - symbol
   - primary
+  - symbol
 brand_colors:
-  - blue
   - brown
+  - blue
 typographies:
-  - serif
   - gotham
+  - serif
 imagery_styles:
   - classic
-  - professional
   - bold
   - graphic
+  - professional
 wikidata_description: "private research university in Medford/Somerville, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q49120"
 has_twitter: false
@@ -79,11 +81,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://admissions.tufts.edu/](https://admissions.tufts.edu/)
-- [https://communications.tufts.edu/](https://communications.tufts.edu/)
-- [https://gsbs.tufts.edu/](https://gsbs.tufts.edu/)
-- [https://vet.tufts.edu/](https://vet.tufts.edu/)
-- [https://www.tufts.edu/](https://www.tufts.edu/)
+- [https://www.tufts.edu](https://www.tufts.edu)
+- [https://communications.tufts.edu](https://communications.tufts.edu)
+- [https://admissions.tufts.edu](https://admissions.tufts.edu)
+- [https://gsbs.tufts.edu](https://gsbs.tufts.edu)
+- [https://vet.tufts.edu](https://vet.tufts.edu)
+- [https://tufts.edu](https://tufts.edu)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-03-13T09:22:54.418317"
+date: "2026-03-20T08:22:05.312118"
 draft: false
 sectors:
-  - brewery
   - restaurant
+  - brewery
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +51,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
-  - black
   - red
   - gold
   - white
+  - gray
+  - black
 typographies:
   - impact
   - roboto
 imagery_styles:
-  - minimal
   - bold
   - graphic
+  - minimal
 wikidata_description: "1849 United Kingdom of Great Britain and Ireland Act of Parliament 12 & 13 Vic c. 22"
 wikidata_url: "https://www.wikidata.org/wiki/Q106327489"
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://landgrantbrewing.com/](https://landgrantbrewing.com/)
+- [https://landgrantbrewing.com](https://landgrantbrewing.com)
 
 ## Brand Guidelines
 

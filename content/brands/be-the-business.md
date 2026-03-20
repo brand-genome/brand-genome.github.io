@@ -2,11 +2,11 @@
 title: Be The Business
 slug: "be-the-business"
 description: ""
-date: "2026-03-13T09:22:53.407729"
+date: "2026-03-20T08:22:04.310098"
 draft: false
 sectors:
-  - consulting
   - ngo
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bethebusiness.com/](https://bethebusiness.com/)
-- [https://digital.bethebusiness.com/](https://digital.bethebusiness.com/)
+- [https://bethebusiness.com](https://bethebusiness.com)
+- [https://digital.bethebusiness.com](https://digital.bethebusiness.com)
 
 ## Brand Guidelines
 

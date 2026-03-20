@@ -2,7 +2,7 @@
 title: Medallia
 slug: medallia
 description: ""
-date: "2026-03-13T09:22:53.540117"
+date: "2026-03-20T08:22:04.416948"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - "business-software-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -29,11 +29,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "san-mateo"
   - "palo-alto"
+  - "san-mateo"
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - "app-icon"
+  - primary
 brand_colors:
+  - white
+  - blue
   - indigo
   - gray
   - black
-  - blue
-  - white
 typographies:
   - display
 imagery_styles:
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.medallia.com/](https://www.medallia.com/)
+- [https://www.medallia.com](https://www.medallia.com)
+- [http://www.medallia.com](http://www.medallia.com)
 
 ## Brand Guidelines
 
@@ -176,7 +179,7 @@ Body copy — Museo Sans 300 in dark gray.
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/); [Palo Alto](/headquarters_locations/palo-alto/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [San Mateo](/headquarters_locations/san-mateo/) |
 | Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | United States |
 | Inception | 2001 |

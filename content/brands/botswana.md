@@ -2,12 +2,12 @@
 title: Botswana
 slug: botswana
 description: ""
-date: "2026-03-13T09:22:54.567992"
+date: "2026-03-20T08:22:05.414365"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
   - tourism
+  - "marketing-advertising"
 regions:
   - botswana
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +51,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - yellow
+  - green
   - gold
+  - blue
+  - yellow
+  - brown
   - orange
   - black
-  - blue
-  - green
-  - brown
 typographies:
   - serif
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "men's national association football team representing Botswana"
 wikidata_url: "https://www.wikidata.org/wiki/Q119322"
 has_twitter: false
@@ -76,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brandbotswana.co.bw/](https://brandbotswana.co.bw/)
+- [https://brandbotswana.co.bw](https://brandbotswana.co.bw)
+- [http://www.bfa.co.bw](http://www.bfa.co.bw)
 
 ## Brand Guidelines
 

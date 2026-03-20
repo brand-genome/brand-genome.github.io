@@ -2,25 +2,25 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-03-13T09:22:54.801739"
+date: "2026-03-20T08:22:05.574950"
 draft: false
 sectors:
-  - hardware
-  - cybersecurity
   - networking
+  - cybersecurity
+  - hardware
 regions:
   - usa
 years:
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
 tags:
   - technology
   - networks
 industries:
-  - "computer-science"
   - telecommunications
+  - "computer-science"
   - "online-service"
 countries:
   - italy
@@ -34,27 +34,29 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "domain-name-server"
-  - "digital-preservation"
-  - "cloud-computing"
   - "sistema-pubblico-di-identita-digitale"
-  - "fiber-optic-communication"
-  - "public-key-certificate"
   - "colocation-centre"
+  - "internet-service-provider"
+  - "certified-email"
+  - "fiber-optic-communication"
+  - "server-computer"
+  - "digital-preservation"
   - "internet-hosting-service"
   - "digital-signature"
+  - "cloud-computing"
   - "electronic-billing"
-  - "internet-service-provider"
-  - "server-computer"
+  - "public-key-certificate"
+  - "domain-name-server"
   - "online-service-provider"
   - email
-  - "certified-email"
 products: []
 headquarters_locations:
   - "ponte-san-pietro"
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -79,8 +81,8 @@ brand_colors:
   - white
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: Italian registrar and Web hosting company
 wikidata_url: "https://www.wikidata.org/wiki/Q3624634"
 has_twitter: false
@@ -92,10 +94,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.pomeroy.com](http://www.pomeroy.com)
-- [https://buy.hpe.com/us/en/hpe-aruba-networking](https://buy.hpe.com/us/en/hpe-aruba-networking)
-- [https://instant-on.hpe.com/](https://instant-on.hpe.com/)
 - [https://www.hpe.com/us/en/networking/hpe-aruba-networking.html](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html)
+- [https://instant-on.hpe.com](https://instant-on.hpe.com)
+- [https://buy.hpe.com/us/en/hpe-aruba-networking](https://buy.hpe.com/us/en/hpe-aruba-networking)
+- [http://www.pomeroy.com](http://www.pomeroy.com)
+- [https://www.aruba.it](https://www.aruba.it)
+- [http://www.technet.it](http://www.technet.it)
 
 ## Brand Guidelines
 
@@ -150,7 +154,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Domain Name Server](/products_or_materials_produced/domain-name-server/); [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Sistema Pubblico Di Identita Digitale](/products_or_materials_produced/sistema-pubblico-di-identita-digitale/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Internet Hosting Service](/products_or_materials_produced/internet-hosting-service/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Electronic Billing](/products_or_materials_produced/electronic-billing/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Server Computer](/products_or_materials_produced/server-computer/); +3 more |
+| Product Or Material Produced | [Sistema Pubblico Di Identita Digitale](/products_or_materials_produced/sistema-pubblico-di-identita-digitale/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Certified Email](/products_or_materials_produced/certified-email/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Server Computer](/products_or_materials_produced/server-computer/); [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Internet Hosting Service](/products_or_materials_produced/internet-hosting-service/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Electronic Billing](/products_or_materials_produced/electronic-billing/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); +3 more |
 | Headquarters Location | [Ponte San Pietro](/headquarters_locations/ponte-san-pietro/) |
 | Foundation Date | [1994](/foundation_dates/1994/) |
 | Location Of Formation | Florence |

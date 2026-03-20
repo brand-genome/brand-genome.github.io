@@ -2,11 +2,11 @@
 title: Punjab Skills Development Fund
 slug: "punjab-skills-development-fund"
 description: ""
-date: "2026-03-13T09:22:53.301836"
+date: "2026-03-20T08:22:04.221302"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - pakistan
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +54,8 @@ typographies:
   - times
   - futura
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.psdf.org.pk/](https://www.psdf.org.pk/)
+- [https://www.psdf.org.pk](https://www.psdf.org.pk)
 
 ## Brand Guidelines
 

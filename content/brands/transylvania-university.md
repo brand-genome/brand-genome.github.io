@@ -2,7 +2,7 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-03-13T09:22:54.810172"
+date: "2026-03-20T08:22:05.579272"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1780
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,18 +56,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
+  - secondary
+  - horizontal
   - wordmark
   - primary
-  - secondary
-  - seal
-  - horizontal
 brand_colors:
-  - "pantone-201"
-  - gray
-  - crimson
-  - black
   - "pantone-400"
+  - crimson
+  - "pantone-201"
   - white
+  - gray
+  - black
 typographies:
   - arial
   - times
@@ -85,9 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.transy.edu](https://www.transy.edu)
 - [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.transy.edu](http://www.transy.edu)
-- [https://www.transy.edu/](https://www.transy.edu/)
 
 ## Brand Guidelines
 

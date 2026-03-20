@@ -2,11 +2,11 @@
 title: Voice of America
 slug: "voice-of-america"
 description: ""
-date: "2026-03-13T09:22:52.171264"
+date: "2026-03-20T08:22:03.236531"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - ambigram
   - media
   - broadcast
+  - ambigram
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1942
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,11 +56,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: United States international broadcaster
@@ -72,10 +74,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.voanews.com/branding](http://www.voanews.com/branding)
-- [https://www.insidevoa.com/](https://www.insidevoa.com/)
-- [https://www.voanews.com/](https://www.voanews.com/)
+- [https://www.voanews.com](https://www.voanews.com)
 - [https://www.voanews.com/branding](https://www.voanews.com/branding)
+- [https://www.insidevoa.com](https://www.insidevoa.com)
+- [http://www.voanews.com/branding](http://www.voanews.com/branding)
+- [https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion](https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion)
+- [https://www.voaafrique.com](https://www.voaafrique.com)
 
 ## Brand Guidelines
 

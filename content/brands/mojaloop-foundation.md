@@ -2,11 +2,11 @@
 title: Mojaloop Foundation
 slug: "mojaloop-foundation"
 description: ""
-date: "2026-03-13T09:22:53.438687"
+date: "2026-03-20T08:22:04.342495"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,16 +56,16 @@ brand_colors:
   - white
   - blue
 typographies:
-  - display
-  - "open-sans"
   - "sans-serif"
+  - "open-sans"
+  - display
 imagery_styles:
-  - artificial
-  - modern
   - staged
-  - clean
-  - photography
+  - artificial
   - bold
+  - modern
+  - photography
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mojaloop.io/](https://mojaloop.io/)
-- [https://mojaloop.io/foundation/](https://mojaloop.io/foundation/)
+- [https://mojaloop.io](https://mojaloop.io)
+- [https://mojaloop.io/foundation](https://mojaloop.io/foundation)
 
 ## Brand Guidelines
 

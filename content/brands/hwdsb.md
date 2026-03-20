@@ -2,11 +2,11 @@
 title: HWDSB
 slug: hwdsb
 description: ""
-date: "2026-03-13T09:22:53.318667"
+date: "2026-03-20T08:22:04.230381"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - canada
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - hamilton
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +51,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "sans-serif"
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: "school board in Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q5644811"
 has_twitter: false
@@ -70,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://my.hwdsb.on.ca/](https://my.hwdsb.on.ca/)
-- [https://www.hwdsb.on.ca/](https://www.hwdsb.on.ca/)
+- [https://www.hwdsb.on.ca](https://www.hwdsb.on.ca)
+- [https://my.hwdsb.on.ca](https://my.hwdsb.on.ca)
+- [http://www.hwdsb.on.ca](http://www.hwdsb.on.ca)
 
 ## Brand Guidelines
 

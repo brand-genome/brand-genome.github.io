@@ -2,7 +2,7 @@
 title: Université de Lorraine
 slug: "universite-de-lorraine"
 description: ""
-date: "2026-03-13T09:22:55.150358"
+date: "2026-03-20T08:22:05.849893"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
+  - white
   - gray
   - yellow
-  - white
+  - black
 typographies:
   - arial
 imagery_styles:
-  - professional
   - bold
   - graphic
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.univ-lorraine.fr/](https://www.univ-lorraine.fr/)
+- [https://www.univ-lorraine.fr](https://www.univ-lorraine.fr)
 
 ## Brand Guidelines
 

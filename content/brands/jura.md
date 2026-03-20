@@ -2,7 +2,7 @@
 title: Jura
 slug: jura
 description: ""
-date: "2026-03-13T09:22:53.935165"
+date: "2026-03-20T08:22:04.855798"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1790
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +53,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "open-sans"
   - times
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: French department
 wikidata_url: "https://www.wikidata.org/wiki/Q3120"
 has_twitter: false
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jura.fr/](https://www.jura.fr/)
+- [https://www.jura.fr](https://www.jura.fr)
+- [http://www.jura.fr](http://www.jura.fr)
 
 ## Brand Guidelines
 

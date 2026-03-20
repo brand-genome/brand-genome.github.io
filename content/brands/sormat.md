@@ -2,7 +2,7 @@
 title: Sormat
 slug: sormat
 description: ""
-date: "2026-03-13T09:22:54.212984"
+date: "2026-03-20T08:22:05.040777"
 draft: false
 sectors:
   - construction
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +49,15 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - white
   - grey
+  - blue
   - orange
   - black
-  - blue
-  - white
 typographies:
-  - serif
   - "sans-serif"
   - slab
+  - serif
 imagery_styles:
   - monochrome
 wikidata_description: ""
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.youtube.com/sormatfixing](http://www.youtube.com/sormatfixing)
 - [https://en.sormat.com/en-EN](https://en.sormat.com/en-EN)
+- [http://www.youtube.com/sormatfixing](http://www.youtube.com/sormatfixing)
 
 ## Brand Guidelines
 

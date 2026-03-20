@@ -2,7 +2,7 @@
 title: Xunta de Galicia
 slug: "xunta-de-galicia"
 description: ""
-date: "2026-03-13T09:22:52.238813"
+date: "2026-03-20T08:22:03.302452"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1981
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.xunta.gal](https://www.xunta.gal)
+- [https://sede.xunta.gal](https://sede.xunta.gal)
 - [http://www.xunta.gal](http://www.xunta.gal)
-- [https://sede.xunta.gal/](https://sede.xunta.gal/)
-- [https://www.xunta.gal/](https://www.xunta.gal/)
 
 ## Brand Guidelines
 

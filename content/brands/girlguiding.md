@@ -2,16 +2,16 @@
 title: Girlguiding
 slug: girlguiding
 description: ""
-date: "2026-03-13T09:22:52.311022"
+date: "2026-03-20T08:22:03.376846"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "united-kingdom"
 years:
-  - 2019
   - 2023
+  - 2019
 languages:
   - english
 tags:
@@ -35,6 +35,7 @@ headquarters_locations:
   - christchurch
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,24 +54,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-2382"
   - "pantone-102"
+  - white
   - gray
   - "pantone-151"
+  - "pantone-2382"
   - black
-  - white
 typographies:
   - arial
 imagery_styles:
-  - natural
-  - candid
   - staged
-  - photography
   - bold
+  - natural
+  - photography
+  - candid
 wikidata_description: charity from New Zealand
 wikidata_url: "https://www.wikidata.org/wiki/Q136754376"
 has_twitter: false
@@ -82,9 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.girlguiding.org.uk](https://www.girlguiding.org.uk)
+- [https://www.girlguidingshop.co.uk](https://www.girlguidingshop.co.uk)
 - [http://www.google.com](http://www.google.com)
-- [https://www.girlguiding.org.uk/](https://www.girlguiding.org.uk/)
-- [https://www.girlguidingshop.co.uk/](https://www.girlguidingshop.co.uk/)
+- [https://www.girlguidingnz.org.nz](https://www.girlguidingnz.org.nz)
 
 ## Brand Guidelines
 

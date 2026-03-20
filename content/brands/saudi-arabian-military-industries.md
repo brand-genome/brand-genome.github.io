@@ -2,7 +2,7 @@
 title: Saudi Arabian Military Industries
 slug: "saudi-arabian-military-industries"
 description: ""
-date: "2026-03-13T09:22:52.065771"
+date: "2026-03-20T08:22:03.131646"
 draft: false
 sectors:
   - defense
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries/](https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries/)
-- [https://www.sami.com.sa/](https://www.sami.com.sa/)
+- [https://www.sami.com.sa](https://www.sami.com.sa)
+- [https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries](https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: .art
 slug: art
 description: ""
-date: "2026-03-13T09:22:53.281063"
+date: "2026-03-20T08:22:04.210759"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - yellow
-  - orange
-  - black
-  - magenta
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - black
+  - orange
+  - magenta
 typographies:
   - avenir
 imagery_styles:
-  - minimal
-  - landscape
   - bold
+  - landscape
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://art.art](https://art.art)
+- [https://www.nic.art](https://www.nic.art)
 - [http://www.art.art](http://www.art.art)
-- [https://art.art/](https://art.art/)
-- [https://www.nic.art/](https://www.nic.art/)
 
 ## Brand Guidelines
 

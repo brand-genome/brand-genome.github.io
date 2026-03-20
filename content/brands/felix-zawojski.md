@@ -2,7 +2,7 @@
 title: Felix Zawojski
 slug: "felix-zawojski"
 description: ""
-date: "2026-03-13T09:22:53.719942"
+date: "2026-03-20T08:22:04.683560"
 draft: false
 sectors:
   - hospitality
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.artlebedev.ru/type/mirta/](http://www.artlebedev.ru/type/mirta/)
-- [https://www.artlebedev.ru/felix-zawojski/site/](https://www.artlebedev.ru/felix-zawojski/site/)
+- [https://www.artlebedev.ru/felix-zawojski/site](https://www.artlebedev.ru/felix-zawojski/site)
+- [http://www.artlebedev.ru/type/mirta](http://www.artlebedev.ru/type/mirta)
 
 ## Brand Guidelines
 

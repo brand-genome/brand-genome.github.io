@@ -2,7 +2,7 @@
 title: Dalkia
 slug: dalkia
 description: ""
-date: "2026-03-13T09:22:52.103198"
+date: "2026-03-20T08:22:03.160980"
 draft: false
 sectors:
   - utilities
@@ -13,8 +13,8 @@ years:
   - 2017
   - 2021
 languages:
-  - english
   - french
+  - english
 tags:
   - industry
   - corporate
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,10 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dalkia.co.uk/](https://dalkia.co.uk/)
-- [https://www.dalkia.com/](https://www.dalkia.com/)
-- [https://www.dalkia.fr/](https://www.dalkia.fr/)
-- [https://www.dalkiasolutions.com/](https://www.dalkiasolutions.com/)
+- [https://www.dalkia.fr](https://www.dalkia.fr)
+- [https://www.dalkia.com](https://www.dalkia.com)
+- [https://www.dalkiasolutions.com](https://www.dalkiasolutions.com)
+- [https://dalkia.co.uk](https://dalkia.co.uk)
+- [https://www.vecr.cz](https://www.vecr.cz)
 
 ## Brand Guidelines
 

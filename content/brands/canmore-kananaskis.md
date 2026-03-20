@@ -2,7 +2,7 @@
 title: Canmore Kananaskis
 slug: "canmore-kananaskis"
 description: ""
-date: "2026-03-13T09:22:52.060038"
+date: "2026-03-20T08:22:03.126491"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ExploreCanmore.ca](http://www.ExploreCanmore.ca)
-- [https://www.explorecanmore.ca/](https://www.explorecanmore.ca/)
+- [https://www.explorecanmore.ca](https://www.explorecanmore.ca)
+- [http://www.explorecanmore.ca](http://www.explorecanmore.ca)
 
 ## Brand Guidelines
 

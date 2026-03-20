@@ -2,7 +2,7 @@
 title: XTB
 slug: xtb
 description: ""
-date: "2026-03-13T09:22:54.230168"
+date: "2026-03-20T08:22:05.067889"
 draft: false
 sectors:
   - finance
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,14 +66,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.xtb.com](https://www.xtb.com)
+- [https://www.xtb.com/pl](https://www.xtb.com/pl)
+- [https://www.xtb.com/en](https://www.xtb.com/en)
+- [https://www.xtb.com/en/contact](https://www.xtb.com/en/contact)
 - [http://www.xtb.com](http://www.xtb.com)
 - [http://www.xtb.fr](http://www.xtb.fr)
 - [http://www.xtb.it](http://www.xtb.it)
 - [http://www.xtb.ro](http://www.xtb.ro)
-- [https://www.xtb.com/](https://www.xtb.com/)
-- [https://www.xtb.com/en/](https://www.xtb.com/en/)
-- [https://www.xtb.com/en/contact](https://www.xtb.com/en/contact)
-- [https://www.xtb.com/pl/](https://www.xtb.com/pl/)
 
 ## Brand Guidelines
 

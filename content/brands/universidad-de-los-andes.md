@@ -2,7 +2,7 @@
 title: Universidad de los Andes
 slug: "universidad-de-los-andes"
 description: ""
-date: "2026-03-13T09:22:55.161497"
+date: "2026-03-20T08:22:05.862741"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - vertical
+  - horizontal
+  - secondary
 brand_colors: []
 typographies:
   - helvetica
@@ -70,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://servicios.uniandes.edu.co/](https://servicios.uniandes.edu.co/)
-- [https://www.uniandes.edu.co/](https://www.uniandes.edu.co/)
+- [https://www.uniandes.edu.co](https://www.uniandes.edu.co)
 - [https://www.uniandes.edu.co/en](https://www.uniandes.edu.co/en)
+- [https://servicios.uniandes.edu.co](https://servicios.uniandes.edu.co)
+- [https://uniandes.edu.co](https://uniandes.edu.co)
 
 ## Brand Guidelines
 

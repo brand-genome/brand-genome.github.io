@@ -2,7 +2,7 @@
 title: Abu Dhabi Government
 slug: "abu-dhabi-government"
 description: ""
-date: "2026-03-13T09:22:53.654772"
+date: "2026-03-20T08:22:04.514666"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - arabic
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - "united-arab-emirates"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.abudhabi.gov.ae/](https://www.abudhabi.gov.ae/)
-- [https://www.tamm.abudhabi/](https://www.tamm.abudhabi/)
+- [https://www.abudhabi.gov.ae](https://www.abudhabi.gov.ae)
+- [https://www.tamm.abudhabi](https://www.tamm.abudhabi)
+- [https://www.abudhabi.gov.ae/ar](https://www.abudhabi.gov.ae/ar)
 
 ## Brand Guidelines
 

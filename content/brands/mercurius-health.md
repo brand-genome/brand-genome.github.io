@@ -2,7 +2,7 @@
 title: Mercurius Health
 slug: "mercurius-health"
 description: ""
-date: "2026-03-13T09:22:53.319268"
+date: "2026-03-20T08:22:04.230839"
 draft: false
 sectors:
   - consulting
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
+  - wordmark
+  - primary
 brand_colors: []
 typographies:
+  - "sans-serif"
   - "work-sans"
   - trebuchet
-  - "sans-serif"
 imagery_styles:
-  - photography
   - landscape
+  - photography
 wikidata_description: "company in Lisbon, Portugal"
 wikidata_url: "https://www.wikidata.org/wiki/Q134271593"
 has_twitter: false
@@ -74,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://mercuriushealth.com](https://mercuriushealth.com)
+- [https://mercuriushealth.com/es](https://mercuriushealth.com/es)
 - [http://www.mercuriushealth.com](http://www.mercuriushealth.com)
-- [https://mercuriushealth.com/](https://mercuriushealth.com/)
-- [https://mercuriushealth.com/es/](https://mercuriushealth.com/es/)
 
 ## Brand Guidelines
 

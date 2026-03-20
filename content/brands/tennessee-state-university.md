@@ -2,7 +2,7 @@
 title: Tennessee State University
 slug: "tennessee-state-university"
 description: ""
-date: "2026-03-13T09:22:54.983001"
+date: "2026-03-20T08:22:05.713699"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1912
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tnstate.edu](https://www.tnstate.edu)
 - [http://www.tnstate.edu/publications](http://www.tnstate.edu/publications)
 - [http://www.tsutigers.com](http://www.tsutigers.com)
-- [https://www.tnstate.edu/](https://www.tnstate.edu/)
+- [http://www.tnstate.edu](http://www.tnstate.edu)
 
 ## Brand Guidelines
 

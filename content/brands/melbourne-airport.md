@@ -2,7 +2,7 @@
 title: Melbourne Airport
 slug: "melbourne-airport"
 description: ""
-date: "2026-03-13T09:22:54.345317"
+date: "2026-03-20T08:22:05.173532"
 draft: false
 sectors:
   - "public-transportation"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.melbourneairport.com.au/](https://www.melbourneairport.com.au/)
+- [https://www.melbourneairport.com.au](https://www.melbourneairport.com.au)
 
 ## Brand Guidelines
 

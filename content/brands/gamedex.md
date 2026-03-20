@@ -2,7 +2,7 @@
 title: Gamedex
 slug: gamedex
 description: ""
-date: "2026-03-13T09:22:54.732018"
+date: "2026-03-20T08:22:05.528931"
 draft: false
 sectors:
   - gaming
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gamedex.co/](http://www.gamedex.co/)
-- [https://www.gamedex.co/](https://www.gamedex.co/)
+- [http://www.gamedex.co](http://www.gamedex.co)
+- [https://www.gamedex.co](https://www.gamedex.co)
 
 ## Brand Guidelines
 

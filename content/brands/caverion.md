@@ -2,12 +2,12 @@
 title: Caverion
 slug: caverion
 description: ""
-date: "2026-03-13T09:22:54.999467"
+date: "2026-03-20T08:22:05.717546"
 draft: false
 sectors:
   - consulting
-  - construction
   - utilities
+  - construction
 regions:
   - finland
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2024
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - black
+  - blue
   - white
   - "pantone-295"
-  - blue
+  - black
 typographies:
   - arial
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: Nordic contracting company in MEP and building technology
 wikidata_url: "https://www.wikidata.org/wiki/Q18363224"
 has_twitter: false
@@ -76,12 +78,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.caverion.com](https://www.caverion.com)
+- [https://www.caverion.lt](https://www.caverion.lt)
+- [https://www.assemblincaverion.com](https://www.assemblincaverion.com)
 - [http://www.caverion.com](http://www.caverion.com)
 - [http://www.caverion.de](http://www.caverion.de)
 - [http://www.caverion.se](http://www.caverion.se)
-- [https://www.assemblincaverion.com/](https://www.assemblincaverion.com/)
-- [https://www.caverion.com/](https://www.caverion.com/)
-- [https://www.caverion.lt/](https://www.caverion.lt/)
+- [http://www.assemblincaverion.com](http://www.assemblincaverion.com)
+- [https://www.caverion.fi](https://www.caverion.fi)
+- [https://www.assemblin.com/sv](https://www.assemblin.com/sv)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-03-13T09:22:53.406295"
+date: "2026-03-20T08:22:04.307487"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1842
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +54,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
   - stacked
   - wordmark
+  - primary
+  - alternate
 brand_colors:
-  - black
   - "pantone-187"
   - "pantone-485"
   - white
+  - black
 typographies:
   - slab
 imagery_styles:
-  - vibrant
-  - dynamic
-  - photography
   - bold
+  - dynamic
+  - vibrant
+  - photography
 wikidata_description: "private liberal arts university in Delaware, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q194266"
 has_twitter: false
@@ -79,10 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://campus.owu.edu/](https://campus.owu.edu/)
-- [https://mail.owu.edu/](https://mail.owu.edu/)
-- [https://my.owu.edu/](https://my.owu.edu/)
-- [https://www.owu.edu/](https://www.owu.edu/)
+- [https://www.owu.edu](https://www.owu.edu)
+- [https://my.owu.edu](https://my.owu.edu)
+- [https://mail.owu.edu](https://mail.owu.edu)
+- [https://campus.owu.edu](https://campus.owu.edu)
 
 ## Brand Guidelines
 

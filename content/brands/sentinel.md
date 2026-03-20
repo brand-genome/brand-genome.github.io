@@ -2,7 +2,7 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-03-13T09:22:53.289848"
+date: "2026-03-20T08:22:04.215021"
 draft: false
 sectors:
   - utilities
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - icon
   - horizontal
-  - vertical
 brand_colors:
-  - green
   - red
+  - green
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - product
-  - graphic
   - clean
+  - graphic
+  - photography
 wikidata_description: "Mutant-hunting robot in Marvel Comics"
 wikidata_url: "https://www.wikidata.org/wiki/Q782181"
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://sentinelprotects.com](https://sentinelprotects.com)
 - [http://www.sentinelprotects.com](http://www.sentinelprotects.com)
-- [https://sentinelprotects.com/](https://sentinelprotects.com/)
 
 ## Brand Guidelines
 

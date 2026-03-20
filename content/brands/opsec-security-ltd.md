@@ -2,7 +2,7 @@
 title: OpSec Security Ltd
 slug: "opsec-security-ltd"
 description: ""
-date: "2026-03-13T09:22:52.023150"
+date: "2026-03-20T08:22:03.100243"
 draft: false
 sectors:
   - consulting
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.opsecsecurity.com/](https://www.opsecsecurity.com/)
+- [https://www.opsecsecurity.com](https://www.opsecsecurity.com)
 
 ## Brand Guidelines
 

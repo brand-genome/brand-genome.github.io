@@ -2,11 +2,11 @@
 title: Schneider Electric
 slug: "schneider-electric"
 description: ""
-date: "2026-03-13T09:22:52.102404"
+date: "2026-03-20T08:22:03.160266"
 draft: false
 sectors:
-  - software
   - utilities
+  - software
 regions:
   - france
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "electrical-industry"
   - unknown
+  - "electrical-industry"
 countries:
   - france
 revenue_buckets:
@@ -40,12 +40,15 @@ products_or_materials_produced:
   - "electrical-device"
 products: []
 headquarters_locations:
-  - "rueil-malmaison"
   - macon
+  - "rueil-malmaison"
 subsidiaries: []
 foundation_dates:
   - 2009
   - 1836
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,21 +67,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - primary
   - crest
   - abstract
-  - primary
 brand_colors:
   - gray
   - white
   - "pantone-186"
 typographies: []
 imagery_styles:
-  - modern
-  - contemporary
-  - clean
-  - photography
   - abstract
   - bold
+  - modern
+  - photography
+  - contemporary
+  - clean
 wikidata_description: "France-based multinational corporation"
 wikidata_url: "https://www.wikidata.org/wiki/Q49053"
 has_twitter: false
@@ -90,10 +93,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/get/noto/](http://www.google.com/get/noto/)
-- [https://www.se.com/fr/fr/](https://www.se.com/fr/fr/)
-- [https://www.se.com/us/en/](https://www.se.com/us/en/)
-- [https://www.se.com/ww/en/](https://www.se.com/ww/en/)
+- [https://www.se.com/ww/en](https://www.se.com/ww/en)
+- [https://www.se.com/fr/fr](https://www.se.com/fr/fr)
+- [https://www.se.com/us/en](https://www.se.com/us/en)
+- [http://www.google.com/get/noto](http://www.google.com/get/noto)
+- [https://www.se.com](https://www.se.com)
+- [https://retailpavilion-in.se.com](https://retailpavilion-in.se.com)
 
 ## Brand Guidelines
 
@@ -165,7 +170,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Electrical Device](/products_or_materials_produced/electrical-device/) |
-| Headquarters Location | [Rueil Malmaison](/headquarters_locations/rueil-malmaison/); [Macon](/headquarters_locations/macon/) |
+| Headquarters Location | [Macon](/headquarters_locations/macon/); [Rueil Malmaison](/headquarters_locations/rueil-malmaison/) |
 | Foundation Date | [2009](/foundation_dates/2009/); [1836](/foundation_dates/1836/) |
 | Topic'S Main Category | Category:Schneider Electric |
 | Member Of | MEDEE power electronics cluster, CVE Numbering Authority, Zigbee Alliance, Wireless Power Consortium |

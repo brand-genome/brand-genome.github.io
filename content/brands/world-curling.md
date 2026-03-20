@@ -2,7 +2,7 @@
 title: World Curling
 slug: "world-curling"
 description: ""
-date: "2026-03-13T09:22:51.917858"
+date: "2026-03-20T08:22:03.075252"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://worldcurling.org/](https://worldcurling.org/)
+- [https://worldcurling.org](https://worldcurling.org)
 
 ## Brand Guidelines
 

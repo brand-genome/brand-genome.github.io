@@ -2,11 +2,11 @@
 title: Atkins Red Devils
 slug: "atkins-red-devils"
 description: ""
-date: "2026-03-13T09:22:54.417119"
+date: "2026-03-20T08:22:05.300519"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies:
   - times
 imagery_styles:
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ahs.atkinsschools.org/](https://ahs.atkinsschools.org/)
-- [https://www.atkinsschools.org/](https://www.atkinsschools.org/)
+- [https://www.atkinsschools.org](https://www.atkinsschools.org)
+- [https://ahs.atkinsschools.org](https://ahs.atkinsschools.org)
 
 ## Brand Guidelines
 

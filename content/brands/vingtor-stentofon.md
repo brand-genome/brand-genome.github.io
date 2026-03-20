@@ -2,7 +2,7 @@
 title: Vingtor Stentofon
 slug: "vingtor-stentofon"
 description: ""
-date: "2026-03-13T09:22:54.757253"
+date: "2026-03-20T08:22:05.553320"
 draft: false
 sectors:
   - hardware
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
+  - green
+  - white
   - grey
   - yellow
   - orange
   - black
-  - red
-  - green
-  - white
 typographies:
-  - arial
   - univers
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -72,12 +73,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.zenitel.com](http://www.zenitel.com)
-- [https://www.zenitel.com/](https://www.zenitel.com/)
+- [https://www.zenitel.com](https://www.zenitel.com)
 - [https://www.zenitel.com/product/ip-hotline-station](https://www.zenitel.com/product/ip-hotline-station)
 - [https://www.zenitel.com/product/softclient](https://www.zenitel.com/product/softclient)
-- [https://www.zenitel.com/product/vs-operator-0](https://www.zenitel.com/product/vs-operator-0)
 - [https://www.zenitel.com/product/vs-recorder](https://www.zenitel.com/product/vs-recorder)
+- [https://www.zenitel.com/product/vs-operator-0](https://www.zenitel.com/product/vs-operator-0)
+- [http://www.zenitel.com](http://www.zenitel.com)
 
 ## Brand Guidelines
 

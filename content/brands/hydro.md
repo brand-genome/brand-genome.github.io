@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-03-13T09:22:53.936315"
+date: "2026-03-20T08:22:04.858152"
 draft: false
 sectors:
-  - hardware
   - "renewable-energy"
+  - hardware
 regions:
   - norway
 years:
@@ -17,8 +17,8 @@ tags:
   - industry
 industries: []
 countries:
-  - germany
   - "european-union"
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +27,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "printed-matter"
   - "works-copyrighted-by-authors"
+  - "printed-matter"
 products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,23 +54,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
   - "pantone-300"
   - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
+  - product
   - muted
+  - bold
   - natural
   - clean
-  - product
-  - bold
 wikidata_description: peer reviewed open access scientific journal
 wikidata_url: "https://www.wikidata.org/wiki/Q15755050"
 has_twitter: false
@@ -80,11 +82,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hydro.com](https://www.hydro.com)
+- [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa)
+- [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal)
 - [http://www.hydro.com](http://www.hydro.com)
 - [http://www.sapabuildingsystem.com](http://www.sapabuildingsystem.com)
-- [https://www.hydro.com/](https://www.hydro.com/)
-- [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa/](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa/)
-- [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal/](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal/)
+- [http://www.hydrology-and-earth-system-sciences.net](http://www.hydrology-and-earth-system-sciences.net)
 
 ## Brand Guidelines
 
@@ -126,7 +129,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Printed Matter](/products_or_materials_produced/printed-matter/); [Works Copyrighted By Authors](/products_or_materials_produced/works-copyrighted-by-authors/) |
+| Product Or Material Produced | [Works Copyrighted By Authors](/products_or_materials_produced/works-copyrighted-by-authors/); [Printed Matter](/products_or_materials_produced/printed-matter/) |
 | Foundation Date | [1997](/foundation_dates/1997/) |
 | Era Journal Id | 22194 |
 | Issn | 1027-5606, 1607-7938 |

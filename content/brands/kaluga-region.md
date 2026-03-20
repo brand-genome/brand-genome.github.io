@@ -2,7 +2,7 @@
 title: Kaluga Region
 slug: "kaluga-region"
 description: ""
-date: "2026-03-13T09:22:53.493365"
+date: "2026-03-20T08:22:04.389216"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +52,9 @@ brand_colors:
   - white
 typographies: []
 imagery_styles:
+  - bold
   - monochrome
   - photography
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.admobl.kaluga.ru/](http://www.admobl.kaluga.ru/)
+- [http://www.admobl.kaluga.ru](http://www.admobl.kaluga.ru)
 
 ## Brand Guidelines
 

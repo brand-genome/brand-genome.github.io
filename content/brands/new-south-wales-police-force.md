@@ -2,11 +2,11 @@
 title: New South Wales Police Force
 slug: "new-south-wales-police-force"
 description: ""
-date: "2026-03-13T09:22:53.546935"
+date: "2026-03-20T08:22:04.420834"
 draft: false
 sectors:
-  - "emergency-services"
   - "public-sector"
+  - "emergency-services"
 regions:
   - australia
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
-  - crest
   - signature
+  - crest
+  - badge
 brand_colors:
   - silver
-  - gold
-  - black
   - red
-  - blue
   - green
+  - gold
   - white
+  - blue
   - brown
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - serif
 imagery_styles:
-  - contemporary
   - bold
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.police.nsw.gov.au/](https://www.police.nsw.gov.au/)
+- [https://www.police.nsw.gov.au](https://www.police.nsw.gov.au)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Utah Valley University
 slug: "utah-valley-university"
 description: ""
-date: "2026-03-13T09:22:52.056718"
+date: "2026-03-20T08:22:03.122701"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.uvu.edu](https://www.uvu.edu)
 - [http://www.google.com](http://www.google.com)
-- [http://www.uvu.edu/](http://www.uvu.edu/)
-- [https://www.uvu.edu/](https://www.uvu.edu/)
+- [http://www.uvu.edu](http://www.uvu.edu)
+- [http://www.uvsc.edu](http://www.uvsc.edu)
 
 ## Brand Guidelines
 

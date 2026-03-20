@@ -2,7 +2,7 @@
 title: Discord
 slug: discord
 description: ""
-date: "2026-03-13T09:22:52.133330"
+date: "2026-03-20T08:22:03.196501"
 draft: false
 sectors:
   - software
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
   - app
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +52,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -69,9 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://discord.com/](https://discord.com/)
+- [https://discord.com](https://discord.com)
 - [https://discord.com/branding](https://discord.com/branding)
 - [https://discord.com/developers](https://discord.com/developers)
+- [https://discordapp.com](https://discordapp.com)
+- [https://discord.gg](https://discord.gg)
+- [https://discord.new](https://discord.new)
 
 ## Brand Guidelines
 

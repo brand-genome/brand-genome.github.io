@@ -2,7 +2,7 @@
 title: Tyson
 slug: tyson
 description: ""
-date: "2026-03-13T09:22:54.575725"
+date: "2026-03-20T08:22:05.420502"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,30 +47,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - primary
-  - symbol
-  - crest
-  - lockup
   - vertical
   - secondary
+  - symbol
+  - crest
   - horizontal
+  - monogram
+  - lockup
+  - primary
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
-  - serif
-  - arial
   - "sans-serif"
+  - arial
   - "proxima-nova"
+  - serif
 imagery_styles:
-  - geometric
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,9 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tysonfoods.com](https://www.tysonfoods.com)
+- [https://www.tyson.com](https://www.tyson.com)
 - [http://www.tysonfoods.com](http://www.tysonfoods.com)
-- [https://www.tyson.com/](https://www.tyson.com/)
-- [https://www.tysonfoods.com/](https://www.tysonfoods.com/)
 
 ## Brand Guidelines
 

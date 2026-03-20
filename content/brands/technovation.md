@@ -2,11 +2,11 @@
 title: Technovation
 slug: technovation
 description: ""
-date: "2026-03-13T09:22:54.757813"
+date: "2026-03-20T08:22:05.553793"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,37 +48,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - stacked
-  - lockup
   - secondary
+  - symbol
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - "pantone-414"
+  - grey
+  - "pantone-413"
+  - "pantone-7642"
+  - "pantone-349"
+  - "pantone-5135"
+  - "pantone-379"
+  - white
   - "pantone-325"
   - gray
-  - "pantone-7640"
-  - "pantone-413"
-  - green
-  - white
-  - "pantone-326"
-  - "pantone-5126"
-  - silver
-  - grey
-  - "pantone-379"
-  - "pantone-7723"
-  - "pantone-2247"
-  - "pantone-446"
-  - "pantone-7721"
   - "pantone-583"
-  - "pantone-415"
-  - "pantone-7642"
-  - "pantone-5135"
+  - green
+  - "pantone-414"
+  - "pantone-326"
   - "pantone-690"
+  - "pantone-7721"
   - "pantone-419"
-  - "pantone-349"
+  - silver
+  - "pantone-7640"
+  - "pantone-415"
   - "pantone-262"
+  - "pantone-5126"
+  - "pantone-446"
+  - "pantone-2247"
+  - "pantone-7723"
 typographies:
   - "source-sans"
 imagery_styles:
@@ -93,11 +94,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iridescentlearning.org/](https://iridescentlearning.org/)
+- [https://technovationchallenge.org](https://technovationchallenge.org)
+- [https://technovationchallenge.org/tw](https://technovationchallenge.org/tw)
+- [https://www.technovation.org](https://www.technovation.org)
+- [https://iridescentlearning.org](https://iridescentlearning.org)
 - [https://iridescentsupport.zendesk.com/hc/en-us](https://iridescentsupport.zendesk.com/hc/en-us)
-- [https://technovationchallenge.org/](https://technovationchallenge.org/)
-- [https://technovationchallenge.org/tw/](https://technovationchallenge.org/tw/)
-- [https://www.technovation.org/](https://www.technovation.org/)
 
 ## Brand Guidelines
 

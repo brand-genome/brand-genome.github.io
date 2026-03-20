@@ -2,11 +2,11 @@
 title: Ashrae
 slug: ashrae
 description: ""
-date: "2026-03-13T09:22:54.755365"
+date: "2026-03-20T08:22:05.552117"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1894
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,29 +52,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
   - vertical
   - secondary
   - signature
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - "pantone-300"
-  - gray
   - "pantone-376"
-  - black
   - "pantone-287"
-  - blue
-  - "pantone-312"
   - white
+  - "pantone-300"
+  - blue
+  - gray
+  - "pantone-312"
+  - black
 typographies:
   - display
   - akzidenz
 imagery_styles:
-  - vibrant
+  - bold
   - clean
   - gradient
-  - bold
+  - vibrant
 wikidata_description: "global society advancing human well-being through sustainable technology for the built environment"
 wikidata_url: "https://www.wikidata.org/wiki/Q466899"
 has_twitter: false
@@ -84,7 +86,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ashrae.org/](https://www.ashrae.org/)
+- [https://www.ashrae.org](https://www.ashrae.org)
 
 ## Brand Guidelines
 

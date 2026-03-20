@@ -2,7 +2,7 @@
 title: MOAA
 slug: moaa
 description: ""
-date: "2026-03-13T09:22:54.561609"
+date: "2026-03-20T08:22:05.409118"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.moaa.org](https://www.moaa.org)
 - [http://www.moaa.org](http://www.moaa.org)
-- [https://www.moaa.org/](https://www.moaa.org/)
 
 ## Brand Guidelines
 

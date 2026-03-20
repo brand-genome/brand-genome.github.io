@@ -2,7 +2,7 @@
 title: Nutriplan
 slug: nutriplan
 description: ""
-date: "2026-03-13T09:22:53.507238"
+date: "2026-03-20T08:22:04.403705"
 draft: false
 sectors:
   - horticulture
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - icon
   - horizontal
-  - vertical
 brand_colors:
-  - black
+  - red
   - green
   - white
-  - red
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nutriplan.com.br/](https://nutriplan.com.br/)
-- [https://nutriplast.com.br/](https://nutriplast.com.br/)
+- [https://nutriplan.com.br](https://nutriplan.com.br)
+- [https://nutriplast.com.br](https://nutriplast.com.br)
 
 ## Brand Guidelines
 

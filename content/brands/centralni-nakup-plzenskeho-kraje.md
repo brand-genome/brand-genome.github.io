@@ -2,7 +2,7 @@
 title: Centrální Nákup Plzeňského Kraje
 slug: "centralni-nakup-plzenskeho-kraje"
 description: ""
-date: "2026-03-13T09:22:53.496223"
+date: "2026-03-20T08:22:04.392477"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - "pantone-3005"
-  - "pantone-7482"
-  - yellow
-  - black
-  - "pantone-109"
-  - blue
   - green
   - white
+  - "pantone-109"
+  - "pantone-3005"
+  - blue
+  - yellow
+  - black
+  - "pantone-7482"
 typographies: []
 imagery_styles:
-  - colorful
   - bold
+  - colorful
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cnpk.cz/](https://www.cnpk.cz/)
+- [https://www.cnpk.cz](https://www.cnpk.cz)
 
 ## Brand Guidelines
 

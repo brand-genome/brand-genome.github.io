@@ -2,7 +2,7 @@
 title: Glassdoor
 slug: glassdoor
 description: ""
-date: "2026-03-13T09:22:54.711926"
+date: "2026-03-20T08:22:05.509679"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.glassdoor.com/](https://www.glassdoor.com/)
-- [https://www.glassdoor.com/employers/](https://www.glassdoor.com/employers/)
+- [https://www.glassdoor.com](https://www.glassdoor.com)
+- [https://www.glassdoor.com/employers](https://www.glassdoor.com/employers)
 
 ## Brand Guidelines
 

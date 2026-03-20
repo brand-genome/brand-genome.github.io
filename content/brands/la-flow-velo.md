@@ -2,11 +2,11 @@
 title: La Flow Vélo
 slug: "la-flow-velo"
 description: ""
-date: "2026-03-13T09:22:53.338847"
+date: "2026-03-20T08:22:04.248259"
 draft: false
 sectors:
-  - "public-transportation"
   - tourism
+  - "public-transportation"
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +53,9 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.laflowvelo.com/](https://www.laflowvelo.com/)
+- [https://www.laflowvelo.com](https://www.laflowvelo.com)
 
 ## Brand Guidelines
 

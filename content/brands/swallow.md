@@ -2,7 +2,7 @@
 title: Swallow
 slug: swallow
 description: ""
-date: "2026-03-13T09:22:53.761510"
+date: "2026-03-20T08:22:04.719028"
 draft: false
 sectors:
   - tires
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +50,14 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - din
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: British band
 wikidata_url: "https://www.wikidata.org/wiki/Q7653088"
 has_twitter: false
@@ -68,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DeliTire.com](http://www.DeliTire.com)
+- [https://swallowtire.com](https://swallowtire.com)
+- [http://www.delitire.com](http://www.delitire.com)
 - [http://www.instagram.com/Swallowdelitiredelium](http://www.instagram.com/Swallowdelitiredelium)
-- [https://swallowtire.com/](https://swallowtire.com/)
+- [http://busygoingcrazy.com](http://busygoingcrazy.com)
 
 ## Brand Guidelines
 

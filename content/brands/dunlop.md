@@ -2,7 +2,7 @@
 title: Dunlop
 slug: dunlop
 description: ""
-date: "2026-03-13T09:22:52.135939"
+date: "2026-03-20T08:22:03.199255"
 draft: false
 sectors:
   - tires
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DunlopMotorcycleTires.com](http://www.DunlopMotorcycleTires.com)
-- [https://www.dunlopmotorcycleracingtires.com/](https://www.dunlopmotorcycleracingtires.com/)
-- [https://www.dunlopmotorcycletires.com/](https://www.dunlopmotorcycletires.com/)
-- [https://www.dunlopmotorcycletirespress.com/](https://www.dunlopmotorcycletirespress.com/)
+- [https://www.dunlopmotorcycletires.com](https://www.dunlopmotorcycletires.com)
+- [https://www.dunlopmotorcycleracingtires.com](https://www.dunlopmotorcycleracingtires.com)
+- [https://www.dunlopmotorcycletirespress.com](https://www.dunlopmotorcycletirespress.com)
+- [http://www.dunlopmotorcycletires.com](http://www.dunlopmotorcycletires.com)
+- [https://www.jimdunlop.com](https://www.jimdunlop.com)
 
 ## Brand Guidelines
 

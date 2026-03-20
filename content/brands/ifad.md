@@ -2,7 +2,7 @@
 title: IFAD
 slug: ifad
 description: ""
-date: "2026-03-13T09:22:53.599532"
+date: "2026-03-20T08:22:04.461623"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ headquarters_locations:
   - odense
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ifad.org/](https://www.ifad.org/)
+- [https://www.ifad.org](https://www.ifad.org)
+- [http://www.ifad.dk](http://www.ifad.dk)
 
 ## Brand Guidelines
 

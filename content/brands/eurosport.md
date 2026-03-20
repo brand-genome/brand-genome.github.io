@@ -2,7 +2,7 @@
 title: Eurosport
 slug: eurosport
 description: ""
-date: "2026-03-13T09:22:55.143775"
+date: "2026-03-20T08:22:05.843690"
 draft: false
 sectors:
   - sports
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - monogram
   - secondary
+  - monogram
 brand_colors:
   - navy
 typographies:
@@ -71,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eurosport.com/](https://www.eurosport.com/)
-- [https://www.eurosport.fr/](https://www.eurosport.fr/)
+- [https://www.eurosport.com](https://www.eurosport.com)
+- [https://www.eurosport.fr](https://www.eurosport.fr)
 
 ## Brand Guidelines
 

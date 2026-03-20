@@ -2,7 +2,7 @@
 title: Channel 4
 slug: "channel-4"
 description: ""
-date: "2026-03-13T09:22:52.134530"
+date: "2026-03-20T08:22:03.197645"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - media
   - broadcast
+  - media
 industries:
   - television
 countries:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "British public-service television broadcaster; TV channel"
 wikidata_url: "https://www.wikidata.org/wiki/Q501070"
 has_twitter: false
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.channel4.com/](https://www.channel4.com/)
+- [https://www.channel4.com](https://www.channel4.com)
+- [http://www.channel4.com](http://www.channel4.com)
 
 ## Brand Guidelines
 

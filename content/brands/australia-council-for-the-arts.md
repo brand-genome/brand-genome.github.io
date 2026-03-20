@@ -2,7 +2,7 @@
 title: Australia Council for the Arts
 slug: "australia-council-for-the-arts"
 description: ""
-date: "2026-03-13T09:22:55.033211"
+date: "2026-03-20T08:22:05.735708"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - art
   - institution
+  - art
 industries: []
 countries:
   - australia
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://creative.gov.au/](https://creative.gov.au/)
+- [https://creative.gov.au](https://creative.gov.au)
 - [https://www.arts.gov.au/what-we-do/creative-australia](https://www.arts.gov.au/what-we-do/creative-australia)
+- [http://www.australiacouncil.gov.au](http://www.australiacouncil.gov.au)
 
 ## Brand Guidelines
 

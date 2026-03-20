@@ -2,7 +2,7 @@
 title: New Launch Properties
 slug: "new-launch-properties"
 description: ""
-date: "2026-03-13T09:22:52.304351"
+date: "2026-03-20T08:22:03.373246"
 draft: false
 sectors:
   - "real-estate"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://newlaunchproperties.com](https://newlaunchproperties.com)
+- [https://www.newlaunchproperties.ae](https://www.newlaunchproperties.ae)
 - [http://www.newlaunchproperties.ae](http://www.newlaunchproperties.ae)
 - [http://www.primeestates.ae](http://www.primeestates.ae)
-- [https://newlaunchproperties.com/](https://newlaunchproperties.com/)
-- [https://www.newlaunchproperties.ae/](https://www.newlaunchproperties.ae/)
 
 ## Brand Guidelines
 

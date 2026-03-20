@@ -2,7 +2,7 @@
 title: Food Union
 slug: "food-union"
 description: ""
-date: "2026-03-13T09:22:52.066166"
+date: "2026-03-20T08:22:03.132012"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://foodunion.com/](https://foodunion.com/)
+- [https://foodunion.com](https://foodunion.com)
 
 ## Brand Guidelines
 

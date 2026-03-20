@@ -2,7 +2,7 @@
 title: Cal Maritime
 slug: "cal-maritime"
 description: ""
-date: "2026-03-13T09:22:53.342663"
+date: "2026-03-20T08:22:04.252077"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,22 +53,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
   - stacked
   - vertical
+  - seal
+  - primary
 brand_colors:
+  - red
+  - gold
   - navy
+  - white
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - gold
-  - white
 typographies:
-  - garamond
-  - helvetica
   - optima
+  - helvetica
+  - garamond
 imagery_styles:
   - bold
   - graphic
@@ -81,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.csum.edu](http://www.csum.edu)
-- [https://maritime.calpoly.edu/](https://maritime.calpoly.edu/)
+- [https://maritime.calpoly.edu](https://maritime.calpoly.edu)
 - [https://www.calpoly.edu/maritime](https://www.calpoly.edu/maritime)
+- [http://www.csum.edu](http://www.csum.edu)
 
 ## Brand Guidelines
 

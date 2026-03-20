@@ -2,11 +2,11 @@
 title: Köstritzer
 slug: kostritzer
 description: ""
-date: "2026-03-13T09:22:53.019228"
+date: "2026-03-20T08:22:04.010881"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - germany
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.koestritzer.de](https://www.koestritzer.de)
+- [https://www.bitburger-international.com/en/our-brands/koestritzer](https://www.bitburger-international.com/en/our-brands/koestritzer)
 - [http://www.bitburger-braugruppe.de/mediendatenbank](http://www.bitburger-braugruppe.de/mediendatenbank)
 - [http://www.koestritzer.de](http://www.koestritzer.de)
-- [https://www.bitburger-international.com/en/our-brands/koestritzer/](https://www.bitburger-international.com/en/our-brands/koestritzer/)
-- [https://www.koestritzer.de/](https://www.koestritzer.de/)
 
 ## Brand Guidelines
 

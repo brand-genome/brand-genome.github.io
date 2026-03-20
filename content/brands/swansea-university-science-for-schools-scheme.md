@@ -2,7 +2,7 @@
 title: Swansea University Science for Schools Scheme
 slug: "swansea-university-science-for-schools-scheme"
 description: ""
-date: "2026-03-13T09:22:53.279134"
+date: "2026-03-20T08:22:04.209169"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - university
   - education
   - science
-  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
+  - red
+  - coral
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - coral
 typographies:
-  - arial
-  - helvetica
-  - futura
   - impact
+  - helvetica
+  - arial
+  - futura
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://s4science.co.uk/](https://s4science.co.uk/)
+- [https://s4science.co.uk](https://s4science.co.uk)
 
 ## Brand Guidelines
 

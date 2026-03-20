@@ -2,7 +2,7 @@
 title: Design and Artists Copyright Society
 slug: "design-and-artists-copyright-society"
 description: ""
-date: "2026-03-13T09:22:53.266190"
+date: "2026-03-20T08:22:04.192179"
 draft: false
 sectors:
   - "legal-services"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dacs.org.uk](https://www.dacs.org.uk)
 - [http://www.bl.uk](http://www.bl.uk)
-- [https://www.dacs.org.uk/](https://www.dacs.org.uk/)
 
 ## Brand Guidelines
 

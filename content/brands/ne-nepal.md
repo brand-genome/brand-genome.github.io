@@ -2,11 +2,11 @@
 title: Né Nepal
 slug: "ne-nepal"
 description: ""
-date: "2026-03-13T09:22:52.235219"
+date: "2026-03-20T08:22:03.297768"
 draft: false
 sectors:
-  - "consumer-goods"
   - jewellery
+  - "consumer-goods"
 regions:
   - nepal
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://nenepal.com](https://nenepal.com)
 - [http://www.nenepal.com](http://www.nenepal.com)
-- [https://nenepal.com/](https://nenepal.com/)
 
 ## Brand Guidelines
 

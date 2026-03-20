@@ -2,7 +2,7 @@
 title: Wichita State University
 slug: "wichita-state-university"
 description: ""
-date: "2026-03-13T09:22:53.239316"
+date: "2026-03-20T08:22:04.157544"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1886
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
   - symbol
+  - primary
 brand_colors:
-  - black
   - yellow
+  - black
 typographies:
   - garamond
   - bodoni
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "public university in Wichita, Kansas, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q429561"
 has_twitter: false
@@ -73,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.wichita.edu](http://www.wichita.edu)
-- [https://www.wichita.edu/](https://www.wichita.edu/)
+- [https://www.wichita.edu](https://www.wichita.edu)
 - [https://www.wichita.edu/visualstandards](https://www.wichita.edu/visualstandards)
+- [http://www.wichita.edu](http://www.wichita.edu)
 
 ## Brand Guidelines
 

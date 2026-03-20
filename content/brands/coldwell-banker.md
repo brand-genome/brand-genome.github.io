@@ -2,7 +2,7 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-03-13T09:22:53.297331"
+date: "2026-03-20T08:22:04.219411"
 draft: false
 sectors:
   - "real-estate"
@@ -29,12 +29,15 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - madison
   - cairo
+  - madison
 subsidiaries: []
 foundation_dates:
   - 2008
   - 1906
+foundation_year_buckets:
+  - 1900S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,35 +56,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - signature
   - horizontal
+  - monogram
+  - primary
+  - icon
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
-  - serif
-  - garamond
   - helvetica
+  - garamond
+  - serif
 imagery_styles:
-  - modern
   - flat
-  - lifestyle
-  - natural
-  - realistic
-  - candid
-  - clean
   - minimal
-  - photography
   - professional
   - bold
+  - modern
+  - natural
+  - realistic
+  - photography
+  - clean
+  - lifestyle
+  - candid
 wikidata_description: US international real estate agent franchise company
 wikidata_url: "https://www.wikidata.org/wiki/Q738853"
 has_twitter: false
@@ -93,8 +96,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.COLDWELLBANKERLUXURY.COM](http://www.COLDWELLBANKERLUXURY.COM)
-- [https://www.coldwellbanker.com/](https://www.coldwellbanker.com/)
+- [https://www.coldwellbanker.com](https://www.coldwellbanker.com)
+- [http://www.coldwellbankerluxury.com](http://www.coldwellbankerluxury.com)
+- [https://www.coldwellbankerhomes.com](https://www.coldwellbankerhomes.com)
+- [https://www.cb.com.tr](https://www.cb.com.tr)
 
 ## Brand Guidelines
 
@@ -144,7 +149,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Madison](/headquarters_locations/madison/); [Cairo](/headquarters_locations/cairo/) |
+| Headquarters Location | [Cairo](/headquarters_locations/cairo/); [Madison](/headquarters_locations/madison/) |
 | Foundation Date | [2008](/foundation_dates/2008/); [1906](/foundation_dates/1906/) |
 | Freebase Id | /m/0838qg |
 | Headquarters Location | Madison, Cairo |

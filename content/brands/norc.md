@@ -2,7 +2,7 @@
 title: Norc
 slug: norc
 description: ""
-date: "2026-03-13T09:22:53.430372"
+date: "2026-03-20T08:22:04.333751"
 draft: false
 sectors:
   - consulting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - secondary
   - stacked
   - primary
+  - secondary
+  - alternate
 brand_colors:
-  - black
-  - grey
   - white
   - orange
+  - grey
+  - black
 typographies:
   - "proxima-nova"
   - roboto
 imagery_styles:
-  - bold
-  - photography
   - organic
+  - bold
   - geometric
+  - photography
 wikidata_description: research center
 wikidata_url: "https://www.wikidata.org/wiki/Q6974659"
 has_twitter: false
@@ -79,8 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amerispeak.org/](https://www.amerispeak.org/)
-- [https://www.norc.org/](https://www.norc.org/)
+- [https://www.norc.org](https://www.norc.org)
+- [https://www.amerispeak.org](https://www.amerispeak.org)
+- [http://www.norc.org](http://www.norc.org)
 
 ## Brand Guidelines
 

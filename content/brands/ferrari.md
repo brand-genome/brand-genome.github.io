@@ -2,7 +2,7 @@
 title: Ferrari
 slug: ferrari
 description: ""
-date: "2026-03-13T09:22:53.238631"
+date: "2026-03-20T08:22:04.157176"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - luxury
   - transport
+  - luxury
 industries:
   - "automotive-industry"
 countries:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ferrari.com/](https://www.ferrari.com/)
+- [https://www.ferrari.com](https://www.ferrari.com)
 - [https://www.ferrari.com/en-EN/corporate/homepage](https://www.ferrari.com/en-EN/corporate/homepage)
 - [https://www.ferrari.com/en-EN/museums](https://www.ferrari.com/en-EN/museums)
 

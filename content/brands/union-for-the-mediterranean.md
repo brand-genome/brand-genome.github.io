@@ -2,7 +2,7 @@
 title: Union for the Mediterranean
 slug: "union-for-the-mediterranean"
 description: ""
-date: "2026-03-13T09:22:53.338421"
+date: "2026-03-20T08:22:04.247742"
 draft: false
 sectors:
   - "public-sector"
@@ -27,11 +27,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "palau-reial-de-pedralbes"
   - barcelona
+  - "palau-reial-de-pedralbes"
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - emblem
   - vertical
+  - emblem
+  - secondary
 brand_colors:
+  - white
   - grey
+  - blue
   - orange
   - black
-  - blue
-  - white
 typographies:
   - display
   - serif
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q192177"
 has_twitter: false
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ufmsecretariat.org](https://ufmsecretariat.org)
 - [http://www.europa.eu](http://www.europa.eu)
 - [http://www.ufmsecretariat.org](http://www.ufmsecretariat.org)
-- [https://ufmsecretariat.org/](https://ufmsecretariat.org/)
+- [http://ufmsecretariat.org](http://ufmsecretariat.org)
 
 ## Brand Guidelines
 
@@ -203,7 +206,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Palau Reial De Pedralbes](/headquarters_locations/palau-reial-de-pedralbes/); [Barcelona](/headquarters_locations/barcelona/) |
+| Headquarters Location | [Barcelona](/headquarters_locations/barcelona/); [Palau Reial De Pedralbes](/headquarters_locations/palau-reial-de-pedralbes/) |
 | Foundation Date | [2008](/foundation_dates/2008/) |
 | Topic'S Main Category | Category:Union for the Mediterranean |
 | Freebase Id | /m/02qn0kn |

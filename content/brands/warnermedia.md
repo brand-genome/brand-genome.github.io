@@ -2,7 +2,7 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-03-13T09:22:53.240583"
+date: "2026-03-20T08:22:04.158335"
 draft: false
 sectors:
   - broadcasting
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
   - entertainment
 industries:
-  - "tv-industry"
   - "media-industry"
   - "internet-industry"
+  - "tv-industry"
   - telecommunications
   - "publishing-industry"
 countries:
@@ -40,12 +40,15 @@ products_or_materials_produced:
   - "television-program"
 products: []
 headquarters_locations:
-  - delaware
   - "new-york-city"
+  - delaware
 subsidiaries: []
 foundation_dates:
   - 2016
   - 1990
+foundation_year_buckets:
+  - 1990S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,23 +67,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - horizontal
+  - alternate
+  - lockup
   - wordmark
   - primary
-  - alternate
-  - stacked
-  - lockup
-  - horizontal
 brand_colors:
-  - "pantone-299"
-  - grey
-  - black
-  - blue
   - white
+  - grey
+  - blue
+  - "pantone-299"
+  - black
 typographies: []
 imagery_styles:
-  - clean
-  - modern
   - bold
+  - modern
+  - clean
 wikidata_description: former American multinational media conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q191715"
 has_twitter: false
@@ -92,7 +95,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.warnermedia.com/](https://www.warnermedia.com/)
+- [https://www.warnermedia.com](https://www.warnermedia.com)
+- [http://www.warnermediagroup.com](http://www.warnermediagroup.com)
 
 ## Brand Guidelines
 
@@ -355,7 +359,7 @@ the horitontal (1-line) version of the lockup is preferred.
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Television Program](/products_or_materials_produced/television-program/) |
-| Headquarters Location | [Delaware](/headquarters_locations/delaware/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [Delaware](/headquarters_locations/delaware/) |
 | Foundation Date | [2016](/foundation_dates/2016/); [1990](/foundation_dates/1990/) |
 | Industry | media industry, TV industry, publishing industry, Internet industry, telecommunications (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:WarnerMedia |

@@ -2,7 +2,7 @@
 title: Banner
 slug: banner
 description: ""
-date: "2026-03-13T09:22:55.038752"
+date: "2026-03-20T08:22:05.741353"
 draft: false
 sectors:
   - electronics
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1954
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bannerengineering.com/](https://www.bannerengineering.com/)
+- [https://www.bannerengineering.com](https://www.bannerengineering.com)
 
 ## Brand Guidelines
 

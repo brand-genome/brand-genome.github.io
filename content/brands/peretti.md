@@ -2,7 +2,7 @@
 title: Peretti
 slug: peretti
 description: ""
-date: "2026-03-13T09:22:53.253861"
+date: "2026-03-20T08:22:04.179659"
 draft: false
 sectors:
   - fashion
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - icon
   - logomark
   - primary
-  - icon
 brand_colors: []
 typographies:
   - avenir

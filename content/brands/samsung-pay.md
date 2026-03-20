@@ -2,11 +2,11 @@
 title: Samsung Pay
 slug: "samsung-pay"
 description: ""
-date: "2026-03-13T09:22:55.003692"
+date: "2026-03-20T08:22:05.718730"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - "south-korea"
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,23 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - red
+  - teal
   - "pantone-286"
-  - "pantone-3005"
   - "pantone-3265"
+  - coral
+  - white
+  - blue
+  - "pantone-3005"
+  - "pantone-1365"
+  - "pantone-2285"
   - "pantone-306"
   - black
-  - white
-  - "pantone-1365"
-  - teal
-  - red
-  - blue
-  - coral
-  - "pantone-2285"
 typographies: []
 imagery_styles: []
 wikidata_description: mobile payment and digital wallet service
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.samsung.com/us/samsung-pay/b2bapp/](https://www.samsung.com/us/samsung-pay/b2bapp/)
-- [https://www.samsung.com/us/support/owners/app/samsung-pay/](https://www.samsung.com/us/support/owners/app/samsung-pay/)
+- [https://www.samsung.com/us/samsung-pay/b2bapp](https://www.samsung.com/us/samsung-pay/b2bapp)
+- [https://www.samsung.com/us/support/owners/app/samsung-pay](https://www.samsung.com/us/support/owners/app/samsung-pay)
+- [http://www.samsung.com/us/samsung-pay](http://www.samsung.com/us/samsung-pay)
 
 ## Brand Guidelines
 

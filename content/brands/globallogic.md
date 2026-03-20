@@ -2,7 +2,7 @@
 title: GlobalLogic
 slug: globallogic
 description: ""
-date: "2026-03-13T09:22:52.312749"
+date: "2026-03-20T08:22:03.379008"
 draft: false
 sectors:
   - consulting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.globallogic.com/](https://www.globallogic.com/)
+- [https://www.globallogic.com](https://www.globallogic.com)
 
 ## Brand Guidelines
 

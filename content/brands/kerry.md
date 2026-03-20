@@ -2,7 +2,7 @@
 title: Kerry
 slug: kerry
 description: ""
-date: "2026-03-13T09:22:54.193155"
+date: "2026-03-20T08:22:05.023637"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kerry.com/](https://www.kerry.com/)
+- [https://www.kerry.com](https://www.kerry.com)
 
 ## Brand Guidelines
 

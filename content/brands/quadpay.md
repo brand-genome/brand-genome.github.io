@@ -2,7 +2,7 @@
 title: Quadpay
 slug: quadpay
 description: ""
-date: "2026-03-13T09:22:53.008091"
+date: "2026-03-20T08:22:03.999152"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

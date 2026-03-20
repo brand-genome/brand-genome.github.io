@@ -2,7 +2,7 @@
 title: Hulu
 slug: hulu
 description: ""
-date: "2026-03-13T09:22:52.783087"
+date: "2026-03-20T08:22:03.794090"
 draft: false
 sectors:
   - broadcasting
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2023
+  - 2022
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
   - entertainment
 industries:
   - "video-on-demand"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hulu.com/](https://www.hulu.com/)
-- [https://www.thisishulu.com/](https://www.thisishulu.com/)
+- [https://www.hulu.com](https://www.hulu.com)
+- [https://www.thisishulu.com](https://www.thisishulu.com)
 
 ## Brand Guidelines
 

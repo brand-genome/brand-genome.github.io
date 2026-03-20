@@ -2,7 +2,7 @@
 title: Clarion Housing Association
 slug: "clarion-housing-association"
 description: ""
-date: "2026-03-13T09:22:52.064988"
+date: "2026-03-20T08:22:03.130813"
 draft: false
 sectors:
   - "real-estate"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,11 +62,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GOV.UK](http://www.GOV.UK)
+- [https://www.clarionhousing.com](https://www.clarionhousing.com)
+- [https://www.clarionhg.com](https://www.clarionhg.com)
+- [http://www.gov.uk](http://www.gov.uk)
 - [http://www.clarionhg.com](http://www.clarionhg.com)
 - [http://www.myclarionhousing.com/login](http://www.myclarionhousing.com/login)
-- [https://www.clarionhg.com/](https://www.clarionhg.com/)
-- [https://www.clarionhousing.com/](https://www.clarionhousing.com/)
 
 ## Brand Guidelines
 

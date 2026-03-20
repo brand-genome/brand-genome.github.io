@@ -2,11 +2,11 @@
 title: FileWave
 slug: filewave
 description: ""
-date: "2026-03-13T09:22:53.969563"
+date: "2026-03-20T08:22:04.895374"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - symbol
-  - primary
   - secondary
   - signature
+  - symbol
+  - wordmark
+  - primary
+  - icon
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - "pantone-2965"
   - black
-  - red
-  - blue
-  - white
 typographies:
   - "open-sans"
   - helvetica
   - poppins
 imagery_styles:
-  - natural
-  - photography
+  - graphic
   - professional
   - bold
-  - graphic
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,9 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kb.filewave.com/](https://kb.filewave.com/)
-- [https://support.filewave.com/](https://support.filewave.com/)
-- [https://www.filewave.com/](https://www.filewave.com/)
+- [https://www.filewave.com](https://www.filewave.com)
+- [https://support.filewave.com](https://support.filewave.com)
+- [https://kb.filewave.com](https://kb.filewave.com)
 - [https://www.filewave.com/brand-guide](https://www.filewave.com/brand-guide)
 
 ## Brand Guidelines

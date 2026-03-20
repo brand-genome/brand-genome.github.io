@@ -2,7 +2,7 @@
 title: SiteImprove
 slug: siteimprove
 description: ""
-date: "2026-03-13T09:22:54.188843"
+date: "2026-03-20T08:22:05.018544"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
+  - white
   - grey
+  - blue
   - yellow
   - black
-  - blue
-  - white
 typographies:
   - arial
 imagery_styles:
   - flat
-  - monochrome
-  - playful
   - professional
   - bold
+  - playful
+  - monochrome
 wikidata_description: Software company
 wikidata_url: "https://www.wikidata.org/wiki/Q28127172"
 has_twitter: false
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.siteimprove.com/contact](http://www.siteimprove.com/contact)
+- [https://www.siteimprove.com](https://www.siteimprove.com)
 - [https://go.siteimprove.com/contact](https://go.siteimprove.com/contact)
-- [https://www.siteimprove.com/](https://www.siteimprove.com/)
+- [http://www.siteimprove.com/contact](http://www.siteimprove.com/contact)
+- [https://siteimprove.com](https://siteimprove.com)
 
 ## Brand Guidelines
 

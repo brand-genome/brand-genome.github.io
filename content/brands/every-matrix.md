@@ -2,7 +2,7 @@
 title: Every Matrix
 slug: "every-matrix"
 description: ""
-date: "2026-03-13T09:22:52.326728"
+date: "2026-03-20T08:22:03.395376"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://everymatrix.com](https://everymatrix.com)
+- [https://everymatrix.com/casinoengine](https://everymatrix.com/casinoengine)
 - [http://www.everymatrix.com](http://www.everymatrix.com)
-- [https://everymatrix.com/](https://everymatrix.com/)
-- [https://everymatrix.com/casinoengine/](https://everymatrix.com/casinoengine/)
 
 ## Brand Guidelines
 

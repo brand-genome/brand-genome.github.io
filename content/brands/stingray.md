@@ -2,7 +2,7 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-03-13T09:22:54.795965"
+date: "2026-03-20T08:22:05.569850"
 draft: false
 sectors:
   - broadcasting
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,9 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - icon
   - horizontal
-  - vertical
 brand_colors:
   - black
   - white
@@ -69,10 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.stingray.com/](https://corporate.stingray.com/)
-- [https://music.stingray.com/](https://music.stingray.com/)
-- [https://webplayer.stingray.com/](https://webplayer.stingray.com/)
-- [https://www.stingray.com/](https://www.stingray.com/)
+- [https://www.stingray.com](https://www.stingray.com)
+- [https://corporate.stingray.com](https://corporate.stingray.com)
+- [https://music.stingray.com](https://music.stingray.com)
+- [https://webplayer.stingray.com](https://webplayer.stingray.com)
+- [http://www.stingray.uk.com:80/go.html](http://www.stingray.uk.com:80/go.html)
 
 ## Brand Guidelines
 

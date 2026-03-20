@@ -2,7 +2,7 @@
 title: Davenport University
 slug: "davenport-university"
 description: ""
-date: "2026-03-13T09:22:52.326077"
+date: "2026-03-20T08:22:03.394476"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1866
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.davenport.edu](https://www.davenport.edu)
 - [http://www.davenport.edu](http://www.davenport.edu)
-- [https://www.davenport.edu/](https://www.davenport.edu/)
 
 ## Brand Guidelines
 

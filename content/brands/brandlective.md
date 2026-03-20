@@ -2,11 +2,11 @@
 title: BrandLective
 slug: brandlective
 description: ""
-date: "2026-03-13T09:22:54.185994"
+date: "2026-03-20T08:22:05.013530"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - roboto
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.brandlective.com](https://www.brandlective.com)
 - [http://www.brandlective.com](http://www.brandlective.com)
-- [https://www.brandlective.com/](https://www.brandlective.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Plaion
 slug: plaion
 description: ""
-date: "2026-03-13T09:22:52.101300"
+date: "2026-03-20T08:22:03.159533"
 draft: false
 sectors:
   - gaming
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,12 +69,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ravenscourt.games/](https://ravenscourt.games/)
-- [https://shop.plaion.com/](https://shop.plaion.com/)
-- [https://shop.plaionpictures.com/](https://shop.plaionpictures.com/)
-- [https://www.deepsilver.com/us/](https://www.deepsilver.com/us/)
-- [https://www.plaion.com/](https://www.plaion.com/)
-- [https://www.spotfilm-networx.com/](https://www.spotfilm-networx.com/)
+- [https://www.plaion.com](https://www.plaion.com)
+- [https://shop.plaion.com](https://shop.plaion.com)
+- [https://www.deepsilver.com/us](https://www.deepsilver.com/us)
+- [https://ravenscourt.games](https://ravenscourt.games)
+- [https://shop.plaionpictures.com](https://shop.plaionpictures.com)
+- [https://www.spotfilm-networx.com](https://www.spotfilm-networx.com)
+- [http://www.kochmedia.com](http://www.kochmedia.com)
+- [https://plaion.com](https://plaion.com)
 
 ## Brand Guidelines
 

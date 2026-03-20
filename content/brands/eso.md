@@ -2,7 +2,7 @@
 title: ESO
 slug: eso
 description: ""
-date: "2026-03-13T09:22:53.425198"
+date: "2026-03-20T08:22:04.328129"
 draft: false
 sectors:
   - research
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - horizontal
 brand_colors:
+  - white
+  - blue
   - "pantone-3005"
   - gray
   - black
-  - blue
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: intergovernmental organization and observatory in Chile
 wikidata_url: "https://www.wikidata.org/wiki/Q151991"
 has_twitter: false
@@ -76,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://archive.eso.org/](https://archive.eso.org/)
-- [https://messenger.eso.org/](https://messenger.eso.org/)
-- [https://www.eso.org/](https://www.eso.org/)
+- [https://www.eso.org](https://www.eso.org)
+- [https://archive.eso.org](https://archive.eso.org)
+- [https://messenger.eso.org](https://messenger.eso.org)
+- [https://www.eso.org/public/france?lang](https://www.eso.org/public/france?lang)
 
 ## Brand Guidelines
 

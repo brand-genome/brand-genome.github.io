@@ -2,7 +2,7 @@
 title: WRKOUT
 slug: wrkout
 description: ""
-date: "2026-03-13T09:22:53.268361"
+date: "2026-03-20T08:22:04.195003"
 draft: false
 sectors:
   - software
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - sport
   - featured
   - app
-  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors: []
 typographies:
   - impact
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://resources.wrkout.com/](https://resources.wrkout.com/)
-- [https://www.wrkout.com/](https://www.wrkout.com/)
+- [https://www.wrkout.com](https://www.wrkout.com)
+- [https://resources.wrkout.com](https://resources.wrkout.com)
 
 ## Brand Guidelines
 

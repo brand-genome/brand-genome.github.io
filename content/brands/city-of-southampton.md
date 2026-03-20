@@ -2,7 +2,7 @@
 title: City of Southampton
 slug: "city-of-southampton"
 description: ""
-date: "2026-03-13T09:22:55.157075"
+date: "2026-03-20T08:22:05.859014"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1835
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.southampton.gov.uk/](https://www.southampton.gov.uk/)
+- [https://www.southampton.gov.uk](https://www.southampton.gov.uk)
 
 ## Brand Guidelines
 

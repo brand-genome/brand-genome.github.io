@@ -2,7 +2,7 @@
 title: Meeyas
 slug: meeyas
 description: ""
-date: "2026-03-13T09:22:52.226389"
+date: "2026-03-20T08:22:03.292226"
 draft: false
 sectors:
   - jewellery
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
+  - bold
   - modern
   - product
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://meeyasjewels.com/](https://meeyasjewels.com/)
+- [https://meeyasjewels.com](https://meeyasjewels.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Glean
 slug: glean
 description: ""
-date: "2026-03-13T09:22:52.325038"
+date: "2026-03-20T08:22:03.393059"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
   - software
 industries: []
 countries: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://genio.co](https://genio.co)
 - [http://www.glean.co/highered](http://www.glean.co/highered)
-- [https://genio.co/](https://genio.co/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ministry of Digital Affairs
 slug: "ministry-of-digital-affairs"
 description: ""
-date: "2026-03-13T09:22:53.115844"
+date: "2026-03-20T08:22:04.115473"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ logo_elements:
   - primary
 brand_colors:
   - "pantone-430"
-  - "pantone-101"
   - white
+  - "pantone-101"
 typographies:
   - poppins
 imagery_styles: []
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://moda.gov.tw/en/](https://moda.gov.tw/en/)
+- [https://moda.gov.tw/en](https://moda.gov.tw/en)
+- [https://mc.gov.pl](https://mc.gov.pl)
 
 ## Brand Guidelines
 

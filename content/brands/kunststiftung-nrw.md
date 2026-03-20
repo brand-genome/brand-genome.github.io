@@ -2,11 +2,11 @@
 title: Kunststiftung NRW
 slug: "kunststiftung-nrw"
 description: ""
-date: "2026-03-13T09:22:53.065522"
+date: "2026-03-20T08:22:04.057547"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - germany
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kunststiftungnrw.de](https://www.kunststiftungnrw.de)
 - [http://www.choices.de](http://www.choices.de)
 - [http://www.impulsefestival.de](http://www.impulsefestival.de)
-- [https://www.kunststiftungnrw.de/](https://www.kunststiftungnrw.de/)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Oldcastle APG
 slug: "oldcastle-apg"
 description: ""
-date: "2026-03-13T09:22:52.062976"
+date: "2026-03-20T08:22:03.128913"
 draft: false
 sectors:
-  - construction
   - "consumer-goods"
+  - construction
 regions:
   - unknown
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,14 +62,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.BarretteOutdoorLiving.com](http://www.BarretteOutdoorLiving.com)
-- [http://www.Belgard.com](http://www.Belgard.com)
-- [https://ceu.oldcastleapg.com/](https://ceu.oldcastleapg.com/)
+- [https://www.oldcastleapg.com](https://www.oldcastleapg.com)
+- [https://www.oldcastlebuilder.com](https://www.oldcastlebuilder.com)
+- [https://ceu.oldcastleapg.com](https://ceu.oldcastleapg.com)
+- [https://www.oldcastleapgsamples.com](https://www.oldcastleapgsamples.com)
+- [https://www.drive4oldcastle.com](https://www.drive4oldcastle.com)
 - [https://www.crhamericas.com/apg](https://www.crhamericas.com/apg)
-- [https://www.drive4oldcastle.com/](https://www.drive4oldcastle.com/)
-- [https://www.oldcastleapg.com/](https://www.oldcastleapg.com/)
-- [https://www.oldcastleapgsamples.com/](https://www.oldcastleapgsamples.com/)
-- [https://www.oldcastlebuilder.com/](https://www.oldcastlebuilder.com/)
+- [http://www.barretteoutdoorliving.com](http://www.barretteoutdoorliving.com)
+- [http://www.belgard.com](http://www.belgard.com)
 
 ## Brand Guidelines
 

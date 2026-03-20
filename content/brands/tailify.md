@@ -2,11 +2,11 @@
 title: Tailify
 slug: tailify
 description: ""
-date: "2026-03-13T09:22:53.067463"
+date: "2026-03-20T08:22:04.060047"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tailify.com/](https://tailify.com/)
+- [https://tailify.com](https://tailify.com)
 
 ## Brand Guidelines
 

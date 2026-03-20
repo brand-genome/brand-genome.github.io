@@ -2,7 +2,7 @@
 title: Rostelecom
 slug: rostelecom
 description: ""
-date: "2026-03-13T09:22:53.119241"
+date: "2026-03-20T08:22:04.118916"
 draft: false
 sectors:
   - cybersecurity
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
   - "mobile-phone-industry"
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.RT.RU](http://www.RT.RU)
-- [https://www.company.rt.ru/en/](https://www.company.rt.ru/en/)
-- [https://www.rt.ru/](https://www.rt.ru/)
+- [https://www.company.rt.ru/en](https://www.company.rt.ru/en)
+- [https://www.rt.ru](https://www.rt.ru)
+- [http://www.rt.ru](http://www.rt.ru)
+- [https://www.company.rt.ru](https://www.company.rt.ru)
 
 ## Brand Guidelines
 

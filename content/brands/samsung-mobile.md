@@ -2,7 +2,7 @@
 title: Samsung Mobile
 slug: "samsung-mobile"
 description: ""
-date: "2026-03-13T09:22:53.246381"
+date: "2026-03-20T08:22:04.164337"
 draft: false
 sectors:
   - electronics
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - electronics
   - telecommunications
+  - electronics
 industries: []
 countries:
   - "south-korea"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +50,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lettermark
-  - primary
-  - secondary
   - wordmark
+  - primary
+  - lettermark
+  - secondary
 brand_colors:
   - "pantone-286"
-  - "pantone-2995"
-  - gray
-  - black
-  - blue
-  - "pantone-539"
   - white
+  - blue
+  - gray
+  - "pantone-539"
+  - "pantone-2995"
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - staged
+  - photography
 wikidata_description: "Manufacturer of TFT - LCD/AMOLED displays"
 wikidata_url: "https://www.wikidata.org/wiki/Q21175467"
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.samsung.com/us/mobile/](https://www.samsung.com/us/mobile/)
+- [https://www.samsung.com/us/mobile](https://www.samsung.com/us/mobile)
 
 ## Brand Guidelines
 

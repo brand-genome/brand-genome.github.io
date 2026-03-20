@@ -2,7 +2,7 @@
 title: Olivetti
 slug: olivetti
 description: ""
-date: "2026-03-13T09:22:52.871762"
+date: "2026-03-20T08:22:03.870040"
 draft: false
 sectors:
   - electronics
@@ -10,11 +10,11 @@ sectors:
 regions:
   - italy
 years:
-  - 2019
   - 2002
+  - 2019
 languages:
-  - english
   - italian
+  - english
 tags:
   - vintage
   - featured
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.linkedin.com/company/olivetti/](http://www.linkedin.com/company/olivetti/)
-- [http://www.youtube.com/olivettionline](http://www.youtube.com/olivettionline)
-- [https://www.olivetti.com/](https://www.olivetti.com/)
+- [https://www.olivetti.com](https://www.olivetti.com)
 - [https://www.olivetti.com/en](https://www.olivetti.com/en)
+- [http://www.linkedin.com/company/olivetti](http://www.linkedin.com/company/olivetti)
+- [http://www.youtube.com/olivettionline](http://www.youtube.com/olivettionline)
 - [https://www.twitter.com/OlivettiOnline](https://www.twitter.com/OlivettiOnline)
 
 ## Brand Guidelines

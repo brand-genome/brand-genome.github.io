@@ -2,7 +2,7 @@
 title: Bitcoin
 slug: bitcoin
 description: ""
-date: "2026-03-13T09:22:55.154993"
+date: "2026-03-20T08:22:05.854415"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -15,8 +15,8 @@ languages:
 tags:
   - featured
   - corporate
-  - internet
   - financial
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
+  - gold
+  - white
   - gray
   - yellow
   - orange
   - black
-  - gold
-  - white
 typographies: []
 imagery_styles:
   - classic
-  - photography
-  - gradient
   - bold
+  - gradient
+  - photography
 wikidata_description: digital cash system and associated currency
 wikidata_url: "https://www.wikidata.org/wiki/Q131723"
 has_twitter: false
@@ -76,8 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bitcoin.com/](https://www.bitcoin.com/)
-- [https://www.bitcoin.com/contact-us/](https://www.bitcoin.com/contact-us/)
+- [https://www.bitcoin.com](https://www.bitcoin.com)
+- [https://www.bitcoin.com/contact-us](https://www.bitcoin.com/contact-us)
+- [https://bitcoin.org](https://bitcoin.org)
 
 ## Brand Guidelines
 

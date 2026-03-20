@@ -2,7 +2,7 @@
 title: Cundinamarca
 slug: cundinamarca
 description: ""
-date: "2026-03-13T09:22:51.906090"
+date: "2026-03-20T08:22:03.068658"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1857
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GOV.CO](http://www.GOV.CO)
-- [https://sie.car.gov.co/](https://sie.car.gov.co/)
-- [https://www.car.gov.co/](https://www.car.gov.co/)
+- [https://www.car.gov.co](https://www.car.gov.co)
+- [https://sie.car.gov.co](https://sie.car.gov.co)
+- [http://www.gov.co](http://www.gov.co)
+- [http://www.asamblea-cundinamarca.gov.co](http://www.asamblea-cundinamarca.gov.co)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sangoma
 slug: sangoma
 description: ""
-date: "2026-03-13T09:22:54.574979"
+date: "2026-03-20T08:22:05.419770"
 draft: false
 sectors:
   - software
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -73,11 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Sangoma.com](http://www.Sangoma.com)
-- [https://sangoma.com/](https://sangoma.com/)
-- [https://support.sangoma.com/](https://support.sangoma.com/)
-- [https://www.asterisk.org/](https://www.asterisk.org/)
-- [https://www.freepbx.org/](https://www.freepbx.org/)
+- [https://sangoma.com](https://sangoma.com)
+- [https://support.sangoma.com](https://support.sangoma.com)
+- [https://www.freepbx.org](https://www.freepbx.org)
+- [https://www.asterisk.org](https://www.asterisk.org)
+- [http://www.sangoma.com](http://www.sangoma.com)
 
 ## Brand Guidelines
 

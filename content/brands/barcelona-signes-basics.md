@@ -2,7 +2,7 @@
 title: Barcelona – Signes bàsics
 slug: "barcelona-signes-basics"
 description: ""
-date: "2026-03-13T09:22:53.706970"
+date: "2026-03-20T08:22:04.562686"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - catalan
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
-  - primary
   - signature
+  - symbol
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-186"
-  - yellow
-  - "pantone-1235"
-  - black
   - red
+  - "pantone-1235"
   - white
+  - yellow
+  - "pantone-186"
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ajuntament.barcelona.cat/](https://ajuntament.barcelona.cat/)
-- [https://ajuntament.barcelona.cat/en/](https://ajuntament.barcelona.cat/en/)
+- [https://ajuntament.barcelona.cat](https://ajuntament.barcelona.cat)
+- [https://ajuntament.barcelona.cat/en](https://ajuntament.barcelona.cat/en)
 
 ## Brand Guidelines
 

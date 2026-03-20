@@ -2,7 +2,7 @@
 title: TikTok for Business
 slug: "tiktok-for-business"
 description: ""
-date: "2026-03-13T09:22:53.573031"
+date: "2026-03-20T08:22:04.441476"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - playful
   - bold
+  - playful
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://business.tiktok.com/](https://business.tiktok.com/)
+- [https://business.tiktok.com](https://business.tiktok.com)
 - [https://business.tiktok.com/en](https://business.tiktok.com/en)
 
 ## Brand Guidelines

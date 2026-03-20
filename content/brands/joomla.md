@@ -2,7 +2,7 @@
 title: "Joomla!"
 slug: joomla
 description: ""
-date: "2026-03-13T09:22:54.976647"
+date: "2026-03-20T08:22:05.709041"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,13 +63,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://opensourcematters.org/legal/trademark/](http://opensourcematters.org/legal/trademark/)
+- [https://www.joomla.org](https://www.joomla.org)
+- [https://www.joomla.org/about-joomla](https://www.joomla.org/about-joomla)
+- [https://www.opensourcematters.org](https://www.opensourcematters.org)
+- [https://tm.joomla.org/trademark-policy.html](https://tm.joomla.org/trademark-policy.html)
+- [http://opensourcematters.org/legal/trademark](http://opensourcematters.org/legal/trademark)
 - [http://www.joomla.org](http://www.joomla.org)
 - [https://github.com/adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
-- [https://tm.joomla.org/trademark-policy.html](https://tm.joomla.org/trademark-policy.html)
-- [https://www.joomla.org/](https://www.joomla.org/)
-- [https://www.joomla.org/about-joomla](https://www.joomla.org/about-joomla)
-- [https://www.opensourcematters.org/](https://www.opensourcematters.org/)
 
 ## Brand Guidelines
 

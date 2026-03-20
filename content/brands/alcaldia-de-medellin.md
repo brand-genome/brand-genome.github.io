@@ -2,7 +2,7 @@
 title: Alcaldía de Medellín
 slug: "alcaldia-de-medellin"
 description: ""
-date: "2026-03-13T09:22:52.313364"
+date: "2026-03-20T08:22:03.379750"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - vertical
+  - badge
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
   - arial
   - gotham
 imagery_styles:
-  - lifestyle
-  - dramatic
-  - realistic
-  - candid
-  - photography
   - product
+  - candid
+  - dramatic
   - bold
+  - photography
+  - lifestyle
+  - realistic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.medellin.gov.co/](https://www.medellin.gov.co/)
+- [https://www.medellin.gov.co](https://www.medellin.gov.co)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: US Ski and Snowboard
 slug: "us-ski-and-snowboard"
 description: ""
-date: "2026-03-13T09:22:54.561756"
+date: "2026-03-20T08:22:05.409289"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,26 +51,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - crest
-  - lockup
   - vertical
   - secondary
+  - crest
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - "pantone-000"
-  - "pantone-282"
   - "pantone-1795"
+  - "pantone-282"
+  - white
   - gray
   - black
-  - white
+  - "pantone-000"
 typographies:
   - arial
   - gotham
 imagery_styles:
-  - photography
   - bold
   - clean
+  - photography
 wikidata_description: national governing body for Olympic skiing and snowboarding
 wikidata_url: "https://www.wikidata.org/wiki/Q3429719"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usskiandsnowboard.org/](https://usskiandsnowboard.org/)
+- [https://usskiandsnowboard.org](https://usskiandsnowboard.org)
 - [https://usskiandsnowboard.org/foundation](https://usskiandsnowboard.org/foundation)
+- [http://www.ussa.org](http://www.ussa.org)
 
 ## Brand Guidelines
 

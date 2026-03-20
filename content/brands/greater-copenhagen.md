@@ -2,11 +2,11 @@
 title: Greater Copenhagen
 slug: "greater-copenhagen"
 description: ""
-date: "2026-03-13T09:22:54.344490"
+date: "2026-03-20T08:22:05.172826"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
 regions:
   - denmark
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2025
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.greatercph.com](https://www.greatercph.com)
+- [https://www.greatercphregion.com](https://www.greatercphregion.com)
 - [http://www.greatercph.com](http://www.greatercph.com)
-- [https://www.greatercph.com/](https://www.greatercph.com/)
-- [https://www.greatercphregion.com/](https://www.greatercphregion.com/)
 
 ## Brand Guidelines
 

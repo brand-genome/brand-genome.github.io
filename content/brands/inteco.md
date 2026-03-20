@@ -2,11 +2,11 @@
 title: Inteco
 slug: inteco
 description: ""
-date: "2026-03-13T09:22:53.302128"
+date: "2026-03-20T08:22:04.221445"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - russia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - construction
   - "real-estate"
+  - construction
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +65,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://inteco.ru/eng](http://inteco.ru/eng)
+
 ## Brand Guidelines
 
 ### 2019

@@ -2,7 +2,7 @@
 title: Dell Boomi
 slug: "dell-boomi"
 description: ""
-date: "2026-03-13T09:22:54.418159"
+date: "2026-03-20T08:22:05.311820"
 draft: false
 sectors:
   - software
@@ -30,6 +30,7 @@ headquarters_locations:
   - chesterbrook
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +51,17 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - green
-  - "pantone-2165"
   - "pantone-876"
+  - "pantone-2165"
 typographies:
-  - arial
   - helvetica
+  - arial
   - roboto
 imagery_styles:
   - photography
-  - candid
-  - staged
   - clean
+  - staged
+  - candid
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q54871301"
 has_twitter: false
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://boomi.com](https://boomi.com)
 - [http://www.boomi.com](http://www.boomi.com)
-- [https://boomi.com/](https://boomi.com/)
 
 ## Brand Guidelines
 

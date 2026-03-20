@@ -2,11 +2,11 @@
 title: The Kavli Foundation
 slug: "the-kavli-foundation"
 description: ""
-date: "2026-03-13T09:22:53.404881"
+date: "2026-03-20T08:22:04.306566"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,25 +53,25 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
-  - gray
-  - black
   - red
-  - blue
   - white
   - "pantone-288"
+  - blue
+  - gray
+  - black
 typographies:
-  - serif
   - avenir
+  - serif
 imagery_styles:
   - classic
+  - bold
   - modern
   - subtle
   - photography
-  - bold
 wikidata_description: foundation that supports the advancement of science
 wikidata_url: "https://www.wikidata.org/wiki/Q3441043"
 has_twitter: false
@@ -81,8 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://community.kavlimeetings.org/](https://community.kavlimeetings.org/)
-- [https://www.kavlifoundation.org/](https://www.kavlifoundation.org/)
+- [https://www.kavlifoundation.org](https://www.kavlifoundation.org)
+- [https://community.kavlimeetings.org](https://community.kavlimeetings.org)
+- [https://kavlifoundation.org](https://kavlifoundation.org)
 
 ## Brand Guidelines
 

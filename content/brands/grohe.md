@@ -2,7 +2,7 @@
 title: Grohe
 slug: grohe
 description: ""
-date: "2026-03-13T09:22:54.553814"
+date: "2026-03-20T08:22:05.399202"
 draft: false
 sectors:
   - hardware
@@ -29,11 +29,13 @@ products_or_materials_produced:
   - "plumbing-fixture"
 products: []
 headquarters_locations:
-  - dusseldorf
   - hemer
+  - dusseldorf
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,21 +55,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-11"
-  - black
-  - blue
   - green
+  - "pantone-11"
   - white
+  - blue
+  - black
 typographies:
   - univers
   - times
   - din
 imagery_styles:
+  - graphic
+  - professional
   - portrait
   - photography
   - landscape
-  - professional
-  - graphic
 wikidata_description: manufacturer of sanitary fittings
 wikidata_url: "https://www.wikidata.org/wiki/Q316477"
 has_twitter: false
@@ -79,10 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GROHE.COM](http://www.GROHE.COM)
-- [https://www.grohe.com/](https://www.grohe.com/)
-- [https://www.grohe.us/](https://www.grohe.us/)
-- [https://www.grohespa.com/](https://www.grohespa.com/)
+- [https://www.grohe.com](https://www.grohe.com)
+- [https://www.grohespa.com](https://www.grohespa.com)
+- [https://www.grohe.us](https://www.grohe.us)
+- [http://www.grohe.com](http://www.grohe.com)
+- [https://dealer.grohe.co.in](https://dealer.grohe.co.in)
 
 ## Brand Guidelines
 
@@ -319,7 +322,7 @@ Brands are always on a journey. They are faithful to themselves and creating a p
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Plumbing Fixture](/products_or_materials_produced/plumbing-fixture/) |
-| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Hemer](/headquarters_locations/hemer/) |
+| Headquarters Location | [Hemer](/headquarters_locations/hemer/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/03d3fs_ |
 | Headquarters Location | Düsseldorf, Hemer, Düsseldorf |

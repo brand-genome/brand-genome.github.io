@@ -2,7 +2,7 @@
 title: Corfo
 slug: corfo
 description: ""
-date: "2026-03-13T09:22:54.214281"
+date: "2026-03-20T08:22:05.041545"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1939
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - "pantone-293"
+  - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wapp.corfo.cl/transparencia/](https://wapp.corfo.cl/transparencia/)
-- [https://www.corfo.cl/](https://www.corfo.cl/)
+- [https://www.corfo.cl](https://www.corfo.cl)
+- [https://wapp.corfo.cl/transparencia](https://wapp.corfo.cl/transparencia)
+- [http://www.corfo.cl](http://www.corfo.cl)
 
 ## Brand Guidelines
 

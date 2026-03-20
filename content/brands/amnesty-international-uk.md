@@ -2,7 +2,7 @@
 title: Amnesty International UK
 slug: "amnesty-international-uk"
 description: ""
-date: "2026-03-13T09:22:52.817478"
+date: "2026-03-20T08:22:03.829826"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - ngo
+  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amnesty.org.uk/](https://www.amnesty.org.uk/)
+- [https://www.amnesty.org.uk](https://www.amnesty.org.uk)
 
 ## Brand Guidelines
 

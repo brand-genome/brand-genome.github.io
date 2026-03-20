@@ -2,7 +2,7 @@
 title: NIB
 slug: nib
 description: ""
-date: "2026-03-13T09:22:55.044561"
+date: "2026-03-20T08:22:05.746619"
 draft: false
 sectors:
   - finance
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nib.int/](https://www.nib.int/)
+- [https://www.nib.int](https://www.nib.int)
+- [http://nib.int](http://nib.int)
 
 ## Brand Guidelines
 

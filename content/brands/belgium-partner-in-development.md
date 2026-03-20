@@ -2,7 +2,7 @@
 title: Belgium partner in development
 slug: "belgium-partner-in-development"
 description: ""
-date: "2026-03-13T09:22:53.651285"
+date: "2026-03-20T08:22:04.510809"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +47,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies:
   - impact
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://diplomatie.belgium.be/en](https://diplomatie.belgium.be/en)
 - [https://diplomatie.belgium.be/fr/dgd](https://diplomatie.belgium.be/fr/dgd)
+- [https://diplomatie.belgium.be/en](https://diplomatie.belgium.be/en)
 - [https://openaid.be/en](https://openaid.be/en)
 
 ## Brand Guidelines

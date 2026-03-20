@@ -2,7 +2,7 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-03-13T09:22:53.716923"
+date: "2026-03-20T08:22:04.680329"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1866
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
-  - helvetica
   - gotham
   - serif
-  - arial
   - impact
+  - arial
+  - helvetica
 imagery_styles:
   - bold
 wikidata_description: "liberal arts college in Northfield, Minnesota"
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apps.carleton.edu/creativeservices/styleguide/](https://apps.carleton.edu/creativeservices/styleguide/)
-- [https://www.carleton.edu/](https://www.carleton.edu/)
+- [https://www.carleton.edu](https://www.carleton.edu)
+- [https://apps.carleton.edu/creativeservices/styleguide](https://apps.carleton.edu/creativeservices/styleguide)
 
 ## Brand Guidelines
 

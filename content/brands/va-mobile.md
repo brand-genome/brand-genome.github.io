@@ -2,7 +2,7 @@
 title: VA Mobile
 slug: "va-mobile"
 description: ""
-date: "2026-03-13T09:22:54.982866"
+date: "2026-03-20T08:22:05.713582"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://mobile.va.gov](https://mobile.va.gov)
 - [http://developer.android.com/design/style/index.html](http://developer.android.com/design/style/index.html)
-- [http://developer.apple.com/library/ios/#documentation/](http://developer.apple.com/library/ios/#documentation/)
-- [http://www.va.gov/opa/publications/](http://www.va.gov/opa/publications/)
-- [https://mobile.va.gov/](https://mobile.va.gov/)
+- [http://developer.apple.com/library/ios](http://developer.apple.com/library/ios)
+- [http://www.va.gov/opa/publications](http://www.va.gov/opa/publications)
 
 ## Brand Guidelines
 

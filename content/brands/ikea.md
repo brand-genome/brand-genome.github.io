@@ -2,7 +2,7 @@
 title: Ikea
 slug: ikea
 description: ""
-date: "2026-03-13T09:22:52.303957"
+date: "2026-03-20T08:22:03.372442"
 draft: false
 sectors:
   - "e-commerce"
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries:
   - "industrial-manufacturing"
-  - design
   - retail
+  - design
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -28,19 +28,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "home-appliance"
-  - "interior-decoration"
-  - kitchenware
-  - couch
-  - furniture
-  - "ready-to-assemble-furniture"
-  - linens
   - mattress
+  - linens
+  - "ready-to-assemble-furniture"
+  - furniture
+  - "home-appliance"
+  - couch
+  - kitchenware
+  - "interior-decoration"
 products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1943
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://about.ikea.com/](https://about.ikea.com/)
-- [https://ingka.com/](https://ingka.com/)
-- [https://www.ikea.com/](https://www.ikea.com/)
-- [https://www.ikea.com/us/en/](https://www.ikea.com/us/en/)
+- [https://www.ikea.com](https://www.ikea.com)
+- [https://www.ikea.com/us/en](https://www.ikea.com/us/en)
+- [https://about.ikea.com](https://about.ikea.com)
+- [https://ingka.com](https://ingka.com)
+- [https://ikea.ca](https://ikea.ca)
 
 ## Brand Guidelines
 
@@ -92,7 +95,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/); [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Kitchenware](/products_or_materials_produced/kitchenware/); [Couch](/products_or_materials_produced/couch/); [Furniture](/products_or_materials_produced/furniture/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Linens](/products_or_materials_produced/linens/); [Mattress](/products_or_materials_produced/mattress/) |
+| Product Or Material Produced | [Mattress](/products_or_materials_produced/mattress/); [Linens](/products_or_materials_produced/linens/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Furniture](/products_or_materials_produced/furniture/); [Home Appliance](/products_or_materials_produced/home-appliance/); [Couch](/products_or_materials_produced/couch/); [Kitchenware](/products_or_materials_produced/kitchenware/); [Interior Decoration](/products_or_materials_produced/interior-decoration/) |
 | Foundation Date | [1943](/foundation_dates/1943/) |
 | Inception | 1943-07-28 |
 | Founded By | Ingvar Kamprad |

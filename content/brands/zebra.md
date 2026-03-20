@@ -2,18 +2,18 @@
 title: Zebra
 slug: zebra
 description: ""
-date: "2026-03-13T09:22:53.243443"
+date: "2026-03-20T08:22:04.161823"
 draft: false
 sectors:
-  - software
-  - finance
   - insurance
+  - finance
+  - software
 regions:
   - usa
 years:
+  - 2017
   - 2020
   - 2022
-  - 2017
 languages:
   - english
 tags:
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,29 +52,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
   - arial
   - "proxima-nova"
 imagery_styles:
-  - natural
-  - staged
-  - photography
   - product
-  - gradient
-  - bold
+  - staged
   - graphic
+  - bold
+  - natural
+  - photography
+  - gradient
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q393474"
 has_twitter: false
@@ -85,7 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.thezebra.com/](https://www.thezebra.com/)
+- [https://www.thezebra.com](https://www.thezebra.com)
+- [http://www.mestozebrak.cz](http://www.mestozebrak.cz)
 
 ## Brand Guidelines
 

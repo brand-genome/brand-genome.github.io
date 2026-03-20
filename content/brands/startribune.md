@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-03-13T09:22:54.722602"
+date: "2026-03-20T08:22:05.519816"
 draft: false
 sectors:
   - publishing
@@ -29,8 +29,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1982
   - 1867
+  - 1982
+foundation_year_buckets:
+  - 1980S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +52,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
   - green
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
+  - vibrant
 wikidata_description: "newspaper in Minneapolis, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q862148"
 has_twitter: false
@@ -69,10 +72,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.StarTribune.com](http://www.StarTribune.com)
-- [http://www.StarTribuneCompany.com](http://www.StarTribuneCompany.com)
-- [https://www.startribune.com/](https://www.startribune.com/)
-- [https://www.startribunecompany.com/](https://www.startribunecompany.com/)
+- [https://www.startribune.com](https://www.startribune.com)
+- [https://www.startribunecompany.com](https://www.startribunecompany.com)
+- [http://www.startribune.com](http://www.startribune.com)
+- [http://www.startribunecompany.com](http://www.startribunecompany.com)
+- [http://resolver.lrc.macewan.ca/macewan?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=710994185137240&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&](http://resolver.lrc.macewan.ca/macewan?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=710994185137240&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&)
+- [http://vc4kb8yf3q.search.serialssolutions.com?V=1.0&L=VC4KB8YF3Q&S=JCs&C=STARTRIMIM&T=marc](http://vc4kb8yf3q.search.serialssolutions.com?V=1.0&L=VC4KB8YF3Q&S=JCs&C=STARTRIMIM&T=marc)
+- [http://digitalmicrofilm1.proquest.com](http://digitalmicrofilm1.proquest.com)
+- [http://lj3le7zk2e.search.serialssolutions.com?V=1.0&L=LJ3LE7ZK2E&S=JCs&C=STARTRIMIM&T=marc](http://lj3le7zk2e.search.serialssolutions.com?V=1.0&L=LJ3LE7ZK2E&S=JCs&C=STARTRIMIM&T=marc)
 
 ## Brand Guidelines
 
@@ -120,7 +127,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1982](/foundation_dates/1982/); [1867](/foundation_dates/1867/) |
+| Foundation Date | [1867](/foundation_dates/1867/); [1982](/foundation_dates/1982/) |
 | Freebase Id | /m/01nf4f |
 | Issn | 0895-2825, 2641-9556 |
 | Title | Star Tribune, The Minneapolis Journal, The Minneapolis Star |

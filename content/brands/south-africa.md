@@ -2,11 +2,11 @@
 title: South Africa
 slug: "south-africa"
 description: ""
-date: "2026-03-13T09:22:54.336374"
+date: "2026-03-20T08:22:05.162365"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-sector"
+  - "marketing-advertising"
 regions:
   - "south-africa"
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1829
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://brandsouthafrica.com](https://brandsouthafrica.com)
 - [http://www.co.za](http://www.co.za)
 - [http://www.southafrica.info](http://www.southafrica.info)
-- [https://brandsouthafrica.com/](https://brandsouthafrica.com/)
+- [https://www.uct.ac.za](https://www.uct.ac.za)
 
 ## Brand Guidelines
 

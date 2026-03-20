@@ -2,11 +2,11 @@
 title: United Technologies
 slug: "united-technologies"
 description: ""
-date: "2026-03-13T09:22:54.720784"
+date: "2026-03-20T08:22:05.519107"
 draft: false
 sectors:
-  - defense
   - aerospace
+  - defense
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - engineering
+  - technology
 industries:
   - "holding-company"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,29 +55,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - gray
-  - yellow
-  - black
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - gray
+  - black
 typographies:
   - "sans-serif"
   - impact
 imagery_styles:
-  - flat
-  - natural
-  - candid
-  - clean
-  - photography
-  - macro
   - product
+  - flat
+  - macro
   - bold
+  - natural
+  - photography
+  - clean
+  - candid
 wikidata_description: defunct American multinational conglomerate (1929–2020)
 wikidata_url: "https://www.wikidata.org/wiki/Q1045758"
 has_twitter: false
@@ -87,8 +89,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.utc.com/](http://www.utc.com/)
-- [https://www.rtx.com/](https://www.rtx.com/)
+- [https://www.rtx.com](https://www.rtx.com)
+- [http://www.utc.com](http://www.utc.com)
 
 ## Brand Guidelines
 

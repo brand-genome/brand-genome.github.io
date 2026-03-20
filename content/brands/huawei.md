@@ -2,11 +2,11 @@
 title: Huawei
 slug: huawei
 description: ""
-date: "2026-03-13T09:22:53.343250"
+date: "2026-03-20T08:22:04.252585"
 draft: false
 sectors:
-  - software
   - networking
+  - software
   - telecom
 regions:
   - china
@@ -17,8 +17,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "electronics-industry"
+  - telecommunications
   - "information-and-communications-technology"
 countries:
   - "peoples-republic-of-china"
@@ -36,13 +36,13 @@ total_equity_buckets:
   - "UNDER-1M"
 market_cap_buckets: []
 products_or_materials_produced:
-  - 5g
-  - "managed-services"
   - "networking-hardware"
+  - 5g
   - smartphone
-  - "broadband-internet-access"
+  - "managed-services"
   - smartwatch
   - "tablet-computer"
+  - "broadband-internet-access"
   - dongle
   - laptop
 products: []
@@ -51,6 +51,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,20 +71,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
-  - horizontal
+  - symbol
   - primary
+  - horizontal
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - gradient
   - professional
-  - bold
 wikidata_description: Chinese multinational technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q160120"
 has_twitter: false
@@ -94,15 +96,17 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.huawei.com/en](https://www.huawei.com/en)
+- [https://www.huawei.com/cn](https://www.huawei.com/cn)
+- [https://consumer.huawei.com](https://consumer.huawei.com)
+- [https://consumer.huawei.com/cn](https://consumer.huawei.com/cn)
+- [https://e.huawei.com/en](https://e.huawei.com/en)
+- [https://e.huawei.com/cn](https://e.huawei.com/cn)
+- [https://www.huaweicloud.com](https://www.huaweicloud.com)
+- [https://www.huaweicloud.com/intl/en-us](https://www.huaweicloud.com/intl/en-us)
 - [http://www.huawei.com](http://www.huawei.com)
-- [https://consumer.huawei.com/](https://consumer.huawei.com/)
-- [https://consumer.huawei.com/cn/](https://consumer.huawei.com/cn/)
-- [https://e.huawei.com/cn/](https://e.huawei.com/cn/)
-- [https://e.huawei.com/en/](https://e.huawei.com/en/)
-- [https://www.huawei.com/cn/](https://www.huawei.com/cn/)
-- [https://www.huawei.com/en/](https://www.huawei.com/en/)
-- [https://www.huaweicloud.com/](https://www.huaweicloud.com/)
-- [https://www.huaweicloud.com/intl/en-us/](https://www.huaweicloud.com/intl/en-us/)
+- [https://www.huawei.com](https://www.huawei.com)
+- [https://huaweitechcafeteria.com](https://huaweitechcafeteria.com)
 
 ## Brand Guidelines
 
@@ -147,7 +151,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [5G](/products_or_materials_produced/5g/); [Managed Services](/products_or_materials_produced/managed-services/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Dongle](/products_or_materials_produced/dongle/); [Laptop](/products_or_materials_produced/laptop/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [5G](/products_or_materials_produced/5g/); [Smartphone](/products_or_materials_produced/smartphone/); [Managed Services](/products_or_materials_produced/managed-services/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Dongle](/products_or_materials_produced/dongle/); [Laptop](/products_or_materials_produced/laptop/) |
 | Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
 | Foundation Date | [1987](/foundation_dates/1987/) |
 | Founded By | Ren Zhengfei |

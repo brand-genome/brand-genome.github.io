@@ -2,11 +2,11 @@
 title: Royal Navy
 slug: "royal-navy"
 description: ""
-date: "2026-03-13T09:22:54.740993"
+date: "2026-03-20T08:22:05.537861"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - military
   - "social-networks"
+  - military
 industries: []
 countries:
   - "united-kingdom"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - secondary
+  - badge
 brand_colors:
   - navy
 typographies: []
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MOD.UK](http://www.MOD.UK)
-- [https://Twitter.com/RoyalNavy](https://Twitter.com/RoyalNavy)
-- [https://www.royalnavy.mod.uk/](https://www.royalnavy.mod.uk/)
+- [https://www.royalnavy.mod.uk](https://www.royalnavy.mod.uk)
+- [http://www.mod.uk](http://www.mod.uk)
+- [https://twitter.com/RoyalNavy](https://twitter.com/RoyalNavy)
+- [https://www.commsmuseum.co.uk](https://www.commsmuseum.co.uk)
 
 ## Brand Guidelines
 

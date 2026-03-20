@@ -2,7 +2,7 @@
 title: muvi Cinemas
 slug: "muvi-cinemas"
 description: ""
-date: "2026-03-13T09:22:52.025468"
+date: "2026-03-20T08:22:03.104804"
 draft: false
 sectors:
   - entertainment
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []

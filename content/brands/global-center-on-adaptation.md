@@ -2,7 +2,7 @@
 title: Global Center on Adaptation
 slug: "global-center-on-adaptation"
 description: ""
-date: "2026-03-13T09:22:53.445579"
+date: "2026-03-20T08:22:04.349081"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,21 +54,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
+  - grey
   - black
   - "pantone-300"
-  - grey
-  - white
 typographies:
-  - roboto
   - "sans-serif"
   - impact
+  - roboto
 imagery_styles:
-  - minimal
-  - portrait
   - dynamic
-  - photography
+  - minimal
   - professional
   - bold
+  - portrait
+  - photography
 wikidata_description: International Organozation
 wikidata_url: "https://www.wikidata.org/wiki/Q127785462"
 has_twitter: false
@@ -78,7 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gca.org/](https://gca.org/)
+- [https://gca.org](https://gca.org)
+- [https://www.gca.org](https://www.gca.org)
 
 ## Brand Guidelines
 

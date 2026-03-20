@@ -2,7 +2,7 @@
 title: Gefco
 slug: gefco
 description: ""
-date: "2026-03-13T09:22:53.255681"
+date: "2026-03-20T08:22:04.181371"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,8 +15,8 @@ languages:
 tags:
   - transport
 industries:
-  - logistics
   - "chartering-and-transport-organization"
+  - logistics
 countries:
   - france
 revenue_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cevalogistics.com/](https://www.cevalogistics.com/)
+- [https://www.cevalogistics.com](https://www.cevalogistics.com)
+- [http://www.gefco.net](http://www.gefco.net)
 
 ## Brand Guidelines
 

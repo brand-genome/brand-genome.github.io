@@ -2,7 +2,7 @@
 title: Travel and Transport
 slug: "travel-and-transport"
 description: ""
-date: "2026-03-13T09:22:54.338244"
+date: "2026-03-20T08:22:05.164034"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,24 +47,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - green
+  - white
   - cyan
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
   - serif
   - georgia
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.travelandtransport.com](https://www.travelandtransport.com)
 - [http://www.travelandtransport.com](http://www.travelandtransport.com)
-- [https://www.travelandtransport.com/](https://www.travelandtransport.com/)
 
 ## Brand Guidelines
 

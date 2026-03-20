@@ -2,7 +2,7 @@
 title: Republik Österreich
 slug: "republik-osterreich"
 description: ""
-date: "2026-03-13T09:22:53.280951"
+date: "2026-03-20T08:22:04.210658"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,9 +61,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bundeskanzleramt.gv.at/](https://www.bundeskanzleramt.gv.at/)
-- [https://www.oesterreich.gv.at/](https://www.oesterreich.gv.at/)
-- [https://www.republik.oesterreich.gv.at/](https://www.republik.oesterreich.gv.at/)
+- [https://www.oesterreich.gv.at](https://www.oesterreich.gv.at)
+- [https://www.bundeskanzleramt.gv.at](https://www.bundeskanzleramt.gv.at)
+- [https://www.republik.oesterreich.gv.at](https://www.republik.oesterreich.gv.at)
 
 ## Brand Guidelines
 

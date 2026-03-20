@@ -2,7 +2,7 @@
 title: Museums Victoria
 slug: "museums-victoria"
 description: ""
-date: "2026-03-13T09:22:52.174753"
+date: "2026-03-20T08:22:03.241405"
 draft: false
 sectors:
   - "arts-culture"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ logo_elements:
 brand_colors:
   - black
 typographies:
-  - arial
   - "source-sans"
+  - arial
 imagery_styles:
-  - minimal
-  - photography
   - bold
+  - photography
+  - minimal
 wikidata_description: "museum operator in Victoria, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q500890"
 has_twitter: false
@@ -69,12 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://creative.vic.gov.au/](https://creative.vic.gov.au/)
-- [https://lineto.com/typefaces/](https://lineto.com/typefaces/)
-- [https://museumsvictoria.com.au/](https://museumsvictoria.com.au/)
-- [https://museumsvictoria.com.au/immigrationmuseum/](https://museumsvictoria.com.au/immigrationmuseum/)
-- [https://museumsvictoria.com.au/melbournemuseum/](https://museumsvictoria.com.au/melbournemuseum/)
-- [https://museumsvictoria.com.au/scienceworks/](https://museumsvictoria.com.au/scienceworks/)
+- [https://museumsvictoria.com.au](https://museumsvictoria.com.au)
+- [https://museumsvictoria.com.au/melbournemuseum](https://museumsvictoria.com.au/melbournemuseum)
+- [https://museumsvictoria.com.au/scienceworks](https://museumsvictoria.com.au/scienceworks)
+- [https://museumsvictoria.com.au/immigrationmuseum](https://museumsvictoria.com.au/immigrationmuseum)
+- [https://creative.vic.gov.au](https://creative.vic.gov.au)
+- [https://lineto.com/typefaces](https://lineto.com/typefaces)
+- [https://museumvictoria.com.au](https://museumvictoria.com.au)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: 6 Out of 45
 slug: "6-out-of-45"
 description: ""
-date: "2026-03-13T09:22:53.519687"
+date: "2026-03-20T08:22:04.413630"
 draft: false
 sectors:
   - entertainment
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45](https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45)
 - [https://www.stoloto.ru/check-ticket/6x45](https://www.stoloto.ru/check-ticket/6x45)
+- [https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45](https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Turkey – Discover the potential
 slug: "turkey-discover-the-potential"
 description: ""
-date: "2026-03-13T09:22:53.408477"
+date: "2026-03-20T08:22:04.310691"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

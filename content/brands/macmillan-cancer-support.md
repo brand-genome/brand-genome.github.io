@@ -2,11 +2,11 @@
 title: MacMillan Cancer Support
 slug: "macmillan-cancer-support"
 description: ""
-date: "2026-03-13T09:22:55.008090"
+date: "2026-03-20T08:22:05.719948"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1911
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,12 +70,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.macmillan.org.uk](https://www.macmillan.org.uk)
+- [https://www.macmillan.org.uk/en](https://www.macmillan.org.uk/en)
+- [https://community.macmillan.org.uk](https://community.macmillan.org.uk)
+- [https://my.macmillan.org.uk](https://my.macmillan.org.uk)
 - [http://www.justgiving.com/justtextgiving](http://www.justgiving.com/justtextgiving)
 - [http://www.realbuzz.com](http://www.realbuzz.com)
-- [https://community.macmillan.org.uk/](https://community.macmillan.org.uk/)
-- [https://my.macmillan.org.uk/](https://my.macmillan.org.uk/)
-- [https://www.macmillan.org.uk/](https://www.macmillan.org.uk/)
-- [https://www.macmillan.org.uk/en](https://www.macmillan.org.uk/en)
+- [http://www.macmillan.org.uk](http://www.macmillan.org.uk)
 
 ## Brand Guidelines
 

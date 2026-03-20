@@ -2,7 +2,7 @@
 title: NYU Abu Dhabi
 slug: "nyu-abu-dhabi"
 description: ""
-date: "2026-03-13T09:22:53.402664"
+date: "2026-03-20T08:22:04.305013"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,30 +52,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
-  - emblem
-  - lockup
   - vertical
   - secondary
+  - logomark
+  - emblem
+  - lockup
+  - primary
 brand_colors:
+  - white
   - purple
+  - turquoise
   - violet
   - black
-  - white
-  - turquoise
 typographies:
-  - script
-  - georgia
   - gotham
   - arial
   - times
+  - script
+  - georgia
 imagery_styles:
-  - natural
   - dynamic
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
 wikidata_description: liberal arts and research university in the United Arab Emirates
 wikidata_url: "https://www.wikidata.org/wiki/Q566189"
 has_twitter: false
@@ -85,8 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://join.nyuad.nyu.edu/](https://join.nyuad.nyu.edu/)
-- [https://nyuad.nyu.edu/](https://nyuad.nyu.edu/)
+- [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+- [https://join.nyuad.nyu.edu](https://join.nyuad.nyu.edu)
+- [https://nyuad.nyu.edu/ar](https://nyuad.nyu.edu/ar)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Coca-cola zero"
 slug: "coca-cola-zero"
 description: ""
-date: "2026-03-13T09:22:55.012664"
+date: "2026-03-20T08:22:05.721796"
 draft: false
 sectors:
   - drink
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - gotham
   - script
 imagery_styles:
-  - vibrant
-  - dynamic
-  - photography
   - product
-  - bold
+  - dynamic
   - graphic
+  - bold
+  - photography
+  - vibrant
 wikidata_description: brand of diet soda
 wikidata_url: "https://www.wikidata.org/wiki/Q937783"
 has_twitter: false
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Coca-Cola.com](http://www.Coca-Cola.com)
 - [https://www.coca-cola.com/us/en/brands/coca-cola/products/zero](https://www.coca-cola.com/us/en/brands/coca-cola/products/zero)
+- [http://www.coca-cola.com](http://www.coca-cola.com)
 
 ## Brand Guidelines
 

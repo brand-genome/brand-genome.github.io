@@ -2,7 +2,7 @@
 title: New England
 slug: "new-england"
 description: ""
-date: "2026-03-13T09:22:53.602195"
+date: "2026-03-20T08:22:04.466977"
 draft: false
 sectors:
   - "real-estate"
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1867
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://new-england.com.ua/](https://new-england.com.ua/)
+- [https://new-england.com.ua](https://new-england.com.ua)
+- [http://necmusic.edu](http://necmusic.edu)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: TUI
 slug: tui
 description: ""
-date: "2026-03-13T09:22:55.156888"
+date: "2026-03-20T08:22:05.858435"
 draft: false
 sectors:
-  - cruise
   - hospitality
   - tourism
+  - cruise
 regions:
   - germany
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tui.com/](https://www.tui.com/)
+- [https://www.tui.com](https://www.tui.com)
 - [https://www.tuigroup.com/home](https://www.tuigroup.com/home)
+- [https://www.tui-group.com](https://www.tui-group.com)
+- [https://www.tui-group.com/en](https://www.tui-group.com/en)
+- [https://www.tuigroup.com](https://www.tuigroup.com)
+- [https://www.tui-reisecenter.de](https://www.tui-reisecenter.de)
+- [https://tuiathome.nl](https://tuiathome.nl)
+- [https://www.tui.pl](https://www.tui.pl)
+- [https://www.tui.be](https://www.tui.be)
 
 ## Brand Guidelines
 

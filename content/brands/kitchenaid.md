@@ -2,7 +2,7 @@
 title: KitchenAid
 slug: kitchenaid
 description: ""
-date: "2026-03-13T09:22:53.024836"
+date: "2026-03-20T08:22:04.017550"
 draft: false
 sectors:
   - "consumer-goods"
@@ -26,18 +26,20 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "coffee-grinder"
+  - dishwasher
+  - "ice-cream-maker"
   - "food-processor"
   - "convection-oven"
   - "meat-grinder"
-  - dishwasher
   - "water-pump"
   - "gas-stove"
-  - "ice-cream-maker"
 products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,11 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.KITCHENAID.COM](http://www.KITCHENAID.COM)
-- [https://www.kitchenaid.ca/](https://www.kitchenaid.ca/)
-- [https://www.kitchenaid.com/](https://www.kitchenaid.com/)
+- [https://www.kitchenaid.com](https://www.kitchenaid.com)
 - [https://www.kitchenaid.com/content/kitchenaid/en_us.html](https://www.kitchenaid.com/content/kitchenaid/en_us.html)
+- [https://www.kitchenaid.ca](https://www.kitchenaid.ca)
 - [https://www.kitchenaid.com/international.html](https://www.kitchenaid.com/international.html)
+- [http://www.kitchenaid.com](http://www.kitchenaid.com)
 
 ## Brand Guidelines
 
@@ -90,7 +92,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Coffee Grinder](/products_or_materials_produced/coffee-grinder/); [Food Processor](/products_or_materials_produced/food-processor/); [Convection Oven](/products_or_materials_produced/convection-oven/); [Meat Grinder](/products_or_materials_produced/meat-grinder/); [Dishwasher](/products_or_materials_produced/dishwasher/); [Water Pump](/products_or_materials_produced/water-pump/); [Gas Stove](/products_or_materials_produced/gas-stove/); [Ice Cream Maker](/products_or_materials_produced/ice-cream-maker/) |
+| Product Or Material Produced | [Coffee Grinder](/products_or_materials_produced/coffee-grinder/); [Dishwasher](/products_or_materials_produced/dishwasher/); [Ice Cream Maker](/products_or_materials_produced/ice-cream-maker/); [Food Processor](/products_or_materials_produced/food-processor/); [Convection Oven](/products_or_materials_produced/convection-oven/); [Meat Grinder](/products_or_materials_produced/meat-grinder/); [Water Pump](/products_or_materials_produced/water-pump/); [Gas Stove](/products_or_materials_produced/gas-stove/) |
 | Foundation Date | [1919](/foundation_dates/1919/) |
 | Inception | 1919-01-01 |
 | Manufacturer | Whirlpool |

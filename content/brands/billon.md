@@ -2,11 +2,11 @@
 title: Billon
 slug: billon
 description: ""
-date: "2026-03-13T09:22:53.081409"
+date: "2026-03-20T08:22:04.081843"
 draft: false
 sectors:
-  - software
   - finance
+  - software
   - "blockchain-crypto"
 regions:
   - poland
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,27 +54,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - green
   - navy
+  - white
+  - blue
   - yellow
   - black
-  - blue
-  - green
-  - white
 typographies:
   - montserrat
 imagery_styles:
-  - illustration
-  - realistic
-  - clean
-  - photography
   - product
   - professional
   - bold
+  - illustration
+  - photography
+  - clean
+  - realistic
 wikidata_description: distributed ledger technology for better bank account
 wikidata_url: "https://www.wikidata.org/wiki/Q16246305"
 has_twitter: false
@@ -84,9 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.BILLONGROUP.COM](http://www.BILLONGROUP.COM)
-- [https://billongroup.com/](https://billongroup.com/)
-- [https://stabillon.com/](https://stabillon.com/)
+- [https://billongroup.com](https://billongroup.com)
+- [https://stabillon.com](https://stabillon.com)
+- [http://www.billongroup.com](http://www.billongroup.com)
 
 ## Brand Guidelines
 

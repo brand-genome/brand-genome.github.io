@@ -2,7 +2,7 @@
 title: Rocky Mountaineer
 slug: "rocky-mountaineer"
 description: ""
-date: "2026-03-13T09:22:52.118531"
+date: "2026-03-20T08:22:03.176205"
 draft: false
 sectors:
   - railroad
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - regional
-  - transport
   - tourism
+  - transport
+  - regional
 industries: []
 countries:
   - canada
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.canyonspirit.com/](https://www.canyonspirit.com/)
-- [https://www.rockymountaineer.com/](https://www.rockymountaineer.com/)
+- [https://www.rockymountaineer.com](https://www.rockymountaineer.com)
+- [https://www.canyonspirit.com](https://www.canyonspirit.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Tides
 slug: tides
 description: ""
-date: "2026-03-13T09:22:54.357447"
+date: "2026-03-20T08:22:05.188208"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,31 +53,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - "pantone-368"
+  - "pantone-342"
   - "pantone-603"
   - cyan
   - "pantone-2200"
+  - "pantone-368"
+  - "pantone-7723"
   - gray
   - "pantone-7706"
-  - black
-  - "pantone-7723"
   - "pantone-583"
-  - "pantone-342"
+  - black
 typographies:
   - arial
-  - georgia
   - lato
   - avenir
+  - georgia
 imagery_styles:
   - artificial
-  - candid
+  - bold
   - photography
   - gradient
-  - bold
+  - candid
 wikidata_description: public charity and fiscal sponsor working to advance progressive policy
 wikidata_url: "https://www.wikidata.org/wiki/Q7800861"
 has_twitter: false
@@ -87,7 +89,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tides.org/](https://www.tides.org/)
+- [https://www.tides.org](https://www.tides.org)
 
 ## Brand Guidelines
 

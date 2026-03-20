@@ -2,11 +2,11 @@
 title: Apprenticeship
 slug: apprenticeship
 description: ""
-date: "2026-03-13T09:22:53.711342"
+date: "2026-03-20T08:22:04.657821"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gov.uk](http://www.gov.uk)
-- [https://www.apprenticeships.gov.uk/](https://www.apprenticeships.gov.uk/)
+- [https://www.apprenticeships.gov.uk](https://www.apprenticeships.gov.uk)
 - [https://www.gov.uk/apply-apprenticeship](https://www.gov.uk/apply-apprenticeship)
+- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

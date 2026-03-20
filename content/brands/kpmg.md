@@ -2,11 +2,11 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-03-13T09:22:53.116571"
+date: "2026-03-20T08:22:04.116474"
 draft: false
 sectors:
-  - consulting
   - finance
+  - consulting
   - "legal-services"
 regions:
   - netherlands
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "accounting-services"
   - "professional-services-industry"
+  - "accounting-services"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,24 +57,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - purple
-  - violet
-  - black
-  - blue
   - green
   - white
+  - purple
+  - blue
+  - violet
+  - black
 typographies:
-  - arial
   - univers
+  - arial
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: "provider of audit, legal, tax advisory, financial, and business advisory services"
 wikidata_url: "https://www.wikidata.org/wiki/Q493751"
 has_twitter: false
@@ -88,6 +90,9 @@ visual_term_image_urls: {}
 - [https://kpmg.com/nl/en](https://kpmg.com/nl/en)
 - [https://kpmg.com/nl/nl](https://kpmg.com/nl/nl)
 - [https://www.werkenbijkpmg.nl/en](https://www.werkenbijkpmg.nl/en)
+- [http://www.kpmg.fr](http://www.kpmg.fr)
+- [https://home.kpmg.com/xx/en/home.html](https://home.kpmg.com/xx/en/home.html)
+- [https://bureaux.kpmg.fr](https://bureaux.kpmg.fr)
 
 ## Brand Guidelines
 

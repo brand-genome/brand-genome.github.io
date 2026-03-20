@@ -2,7 +2,7 @@
 title: Chelsea Football Club
 slug: "chelsea-football-club"
 description: ""
-date: "2026-03-13T09:22:54.822903"
+date: "2026-03-20T08:22:05.585434"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.chelseafc.com](http://www.chelseafc.com)
-- [https://usastore.chelseafc.com/](https://usastore.chelseafc.com/)
-- [https://www.chelseafc.com/](https://www.chelseafc.com/)
+- [https://www.chelseafc.com](https://www.chelseafc.com)
 - [https://www.chelseafc.com/en/tickets-button](https://www.chelseafc.com/en/tickets-button)
+- [https://usastore.chelseafc.com](https://usastore.chelseafc.com)
+- [http://www.chelseafc.com](http://www.chelseafc.com)
 
 ## Brand Guidelines
 

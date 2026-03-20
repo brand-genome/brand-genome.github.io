@@ -2,15 +2,15 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-03-13T09:22:52.198259"
+date: "2026-03-20T08:22:03.264916"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2019
   - 2024
+  - 2019
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1932
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
+  - symbol
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - photography
-  - bold
 wikidata_description: "an international body that brings together all national basketball federations, in charge of deciding basketball rules, disseminating basketball and organising international competitions"
 wikidata_url: "https://www.wikidata.org/wiki/Q46199"
 has_twitter: false
@@ -72,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://about.fiba.basketball/](https://about.fiba.basketball/)
-- [https://fiba3x3.com/](https://fiba3x3.com/)
-- [https://www.fiba.basketball/](https://www.fiba.basketball/)
+- [https://www.fiba.basketball](https://www.fiba.basketball)
+- [https://about.fiba.basketball](https://about.fiba.basketball)
+- [https://fiba3x3.com](https://fiba3x3.com)
 
 ## Brand Guidelines
 

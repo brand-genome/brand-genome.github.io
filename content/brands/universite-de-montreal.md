@@ -2,7 +2,7 @@
 title: Université de Montréal
 slug: "universite-de-montreal"
 description: ""
-date: "2026-03-13T09:22:53.312937"
+date: "2026-03-20T08:22:04.227986"
 draft: false
 sectors:
   - university
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,11 +62,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.umontreal.ca](https://www.umontreal.ca)
+- [https://www.umontreal.ca/en/admission](https://www.umontreal.ca/en/admission)
+- [https://admission.umontreal.ca](https://admission.umontreal.ca)
 - [http://www.umontreal.ca](http://www.umontreal.ca)
 - [http://www.youtube.com/UdeMvideo](http://www.youtube.com/UdeMvideo)
-- [https://admission.umontreal.ca/](https://admission.umontreal.ca/)
-- [https://www.umontreal.ca/](https://www.umontreal.ca/)
-- [https://www.umontreal.ca/en/admission/](https://www.umontreal.ca/en/admission/)
 
 ## Brand Guidelines
 

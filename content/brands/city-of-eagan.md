@@ -2,7 +2,7 @@
 title: City of Eagan
 slug: "city-of-eagan"
 description: ""
-date: "2026-03-13T09:22:54.223948"
+date: "2026-03-20T08:22:05.060842"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cityofeagan.com/](https://cityofeagan.com/)
-- [https://www.cityofeagan.com/](https://www.cityofeagan.com/)
+- [https://cityofeagan.com](https://cityofeagan.com)
+- [https://www.cityofeagan.com](https://www.cityofeagan.com)
 
 ## Brand Guidelines
 

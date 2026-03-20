@@ -2,11 +2,11 @@
 title: Coors Light
 slug: "coors-light"
 description: ""
-date: "2026-03-13T09:22:52.462258"
+date: "2026-03-20T08:22:03.506481"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.coorslight.com/](https://www.coorslight.com/)
+- [https://www.coorslight.com](https://www.coorslight.com)
+- [http://www.coorslight.com](http://www.coorslight.com)
 
 ## Brand Guidelines
 

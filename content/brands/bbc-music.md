@@ -2,7 +2,7 @@
 title: BBC Music
 slug: "bbc-music"
 description: ""
-date: "2026-03-13T09:22:54.794016"
+date: "2026-03-20T08:22:05.567860"
 draft: false
 sectors:
   - broadcasting
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2015
   - 2017
+  - 2015
 languages:
   - english
 tags:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "gill-sans"
 imagery_styles:
-  - photography
-  - gradient
   - bold
+  - gradient
+  - photography
 wikidata_description: "Pop-up radio station"
 wikidata_url: "https://www.wikidata.org/wiki/Q22079660"
 has_twitter: false

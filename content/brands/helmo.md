@@ -2,7 +2,7 @@
 title: HELMo
 slug: helmo
 description: ""
-date: "2026-03-13T09:22:53.543490"
+date: "2026-03-20T08:22:04.419070"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,9 +58,9 @@ typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - monochrome
-  - colorful
   - bold
+  - colorful
+  - monochrome
 wikidata_description: association football club
 wikidata_url: "https://www.wikidata.org/wiki/Q636315"
 has_twitter: false
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.helmo.be/](https://www.helmo.be/)
+- [https://www.helmo.be](https://www.helmo.be)
+- [https://www.helmondsport.nl](https://www.helmondsport.nl)
 
 ## Brand Guidelines
 

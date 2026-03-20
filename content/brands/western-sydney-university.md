@@ -2,7 +2,7 @@
 title: Western Sydney University
 slug: "western-sydney-university"
 description: ""
-date: "2026-03-13T09:22:54.975905"
+date: "2026-03-20T08:22:05.706973"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.westernsydney.edu.au/](https://www.westernsydney.edu.au/)
+- [https://www.westernsydney.edu.au](https://www.westernsydney.edu.au)
 
 ## Brand Guidelines
 

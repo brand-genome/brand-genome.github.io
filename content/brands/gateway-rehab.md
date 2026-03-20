@@ -2,7 +2,7 @@
 title: Gateway Rehab
 slug: "gateway-rehab"
 description: ""
-date: "2026-03-13T09:22:54.334445"
+date: "2026-03-20T08:22:05.160750"
 draft: false
 sectors:
   - healthcare
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,27 +47,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
   - green
+  - black
 typographies:
   - slab
-  - "proxima-nova"
   - arial
+  - "proxima-nova"
   - avenir
   - roboto
 imagery_styles:
-  - modern
-  - natural
-  - vibrant
-  - photography
   - colorful
   - bold
+  - modern
+  - natural
+  - photography
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gatewayrehab.org/](https://www.gatewayrehab.org/)
+- [https://www.gatewayrehab.org](https://www.gatewayrehab.org)
 
 ## Brand Guidelines
 

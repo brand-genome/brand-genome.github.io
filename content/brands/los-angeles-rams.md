@@ -2,7 +2,7 @@
 title: Los Angeles Rams
 slug: "los-angeles-rams"
 description: ""
-date: "2026-03-13T09:22:51.901848"
+date: "2026-03-20T08:22:03.067699"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1936
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: "NFL franchise in Inglewood, California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q337377"
 has_twitter: false
@@ -70,6 +72,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.therams.com](https://www.therams.com)
+- [http://www.therams.com](http://www.therams.com)
 
 ## Brand Guidelines
 

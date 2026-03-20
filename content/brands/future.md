@@ -2,7 +2,7 @@
 title: Future
 slug: future
 description: ""
-date: "2026-03-13T09:22:54.724311"
+date: "2026-03-20T08:22:05.521898"
 draft: false
 sectors:
   - publishing
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - wordmark
   - primary
   - secondary
-  - lockup
 brand_colors:
-  - black
   - "pantone-187"
   - white
+  - black
 typographies:
   - montserrat
 imagery_styles:
   - dynamic
-  - dramatic
-  - contemporary
   - static
+  - contemporary
+  - dramatic
 wikidata_description: deprecated multimedia platform used to add animation and interactivity to web pages
 wikidata_url: "https://www.wikidata.org/wiki/Q165658"
 has_twitter: false
@@ -72,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://futureplc.com/](https://futureplc.com/)
-- [https://www.futureplc.com/](https://www.futureplc.com/)
+- [https://www.futureplc.com](https://www.futureplc.com)
+- [https://futureplc.com](https://futureplc.com)
+- [http://www.adobe.com/products/flash/flashpro](http://www.adobe.com/products/flash/flashpro)
 
 ## Brand Guidelines
 

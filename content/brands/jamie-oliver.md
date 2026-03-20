@@ -2,12 +2,12 @@
 title: Jamie Oliver
 slug: "jamie-oliver"
 description: ""
-date: "2026-03-13T09:22:54.343034"
+date: "2026-03-20T08:22:05.170850"
 draft: false
 sectors:
   - restaurant
-  - "consumer-goods"
   - food
+  - "consumer-goods"
   - publishing
 regions:
   - "united-kingdom"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +56,9 @@ brand_colors:
 typographies:
   - futura
 imagery_styles:
+  - product
   - dynamic
   - photography
-  - product
 wikidata_description: production company
 wikidata_url: "https://www.wikidata.org/wiki/Q121143856"
 has_twitter: false
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.jamieoliver.com](https://www.jamieoliver.com)
 - [http://www.jamieoliver.com](http://www.jamieoliver.com)
-- [https://www.jamieoliver.com/](https://www.jamieoliver.com/)
 
 ## Brand Guidelines
 

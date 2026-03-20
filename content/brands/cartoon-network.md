@@ -2,7 +2,7 @@
 title: Cartoon Network
 slug: "cartoon-network"
 description: ""
-date: "2026-03-13T09:22:53.248690"
+date: "2026-03-20T08:22:04.173835"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - "united-arab-emirates"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
+  - white
   - cyan
   - yellow
   - black
   - magenta
-  - white
 typographies:
   - gotham
 imagery_styles:
@@ -74,10 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Typography.com](http://www.Typography.com)
+- [https://www.max.com](https://www.max.com)
+- [https://www.wbd.com](https://www.wbd.com)
+- [http://www.typography.com](http://www.typography.com)
 - [http://www.cartoonnetwork.com](http://www.cartoonnetwork.com)
-- [https://www.max.com/](https://www.max.com/)
-- [https://www.wbd.com/](https://www.wbd.com/)
+- [https://www.youtube.com/cartoonnetworkmena](https://www.youtube.com/cartoonnetworkmena)
 
 ## Brand Guidelines
 

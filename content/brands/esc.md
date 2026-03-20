@@ -2,11 +2,11 @@
 title: ESC
 slug: esc
 description: ""
-date: "2026-03-13T09:22:54.225916"
+date: "2026-03-20T08:22:05.063560"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - europe
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.escardio.org](https://www.escardio.org)
 - [http://www.escardio.org](http://www.escardio.org)
 - [http://www.oup.com/ehjcvp](http://www.oup.com/ehjcvp)
-- [https://www.escardio.org/](https://www.escardio.org/)
+- [https://eurovision.com](https://eurovision.com)
 
 ## Brand Guidelines
 

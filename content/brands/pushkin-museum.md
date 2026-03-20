@@ -2,7 +2,7 @@
 title: Pushkin Museum
 slug: "pushkin-museum"
 description: ""
-date: "2026-03-13T09:22:53.310431"
+date: "2026-03-20T08:22:04.226856"
 draft: false
 sectors:
   - "arts-culture"
@@ -17,9 +17,9 @@ tags:
   - art
 industries: []
 countries:
-  - "soviet-union"
   - russia
   - "russian-empire"
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1912
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ARTS-MUSEUM.RU](http://www.ARTS-MUSEUM.RU)
-- [https://pushkinmuseum.art/](https://pushkinmuseum.art/)
+- [https://pushkinmuseum.art](https://pushkinmuseum.art)
+- [http://www.arts-museum.ru](http://www.arts-museum.ru)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sardegna
 slug: sardegna
 description: ""
-date: "2026-03-13T09:22:55.029978"
+date: "2026-03-20T08:22:05.733176"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.regione.sardegna.it](https://www.regione.sardegna.it)
 - [https://www.sardegnapromozione.it](https://www.sardegnapromozione.it)
+- [https://www.regione.sardegna.it](https://www.regione.sardegna.it)
+- [https://www.sardegnainminiatura.it](https://www.sardegnainminiatura.it)
 
 ## Brand Guidelines
 

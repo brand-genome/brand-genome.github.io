@@ -74,10 +74,10 @@
         </div>
         {{ end }}
 
-        <!-- Years -->
+        <!-- Guideline Years -->
         {{ with .Params.years }}
         <div class="connection-group">
-            <h3 class="connection-type">Year</h3>
+            <h3 class="connection-type">Guideline Year</h3>
             <div class="connection-links">
                 {{ range . }}
                 <a href="{{ "/years/" | relURL }}{{ . | urlize }}/" class="connection-link year">{{ . }}</a>
@@ -228,6 +228,17 @@
             <div class="connection-links">
                 {{ range . }}
                 <a href="{{ "/foundation_dates/" | relURL }}{{ . | urlize }}/" class="connection-link year">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.foundation_year_buckets }}
+        <div class="connection-group">
+            <h3 class="connection-type">Foundation Year Bucket</h3>
+            <div class="connection-links">
+                {{ range . }}
+                <a href="{{ "/foundation_year_buckets/" | relURL }}{{ . | urlize }}/" class="connection-link year">{{ . }}</a>
                 {{ end }}
             </div>
         </div>

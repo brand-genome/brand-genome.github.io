@@ -2,7 +2,7 @@
 title: Charles Sturt University
 slug: "charles-sturt-university"
 description: ""
-date: "2026-03-13T09:22:52.896282"
+date: "2026-03-20T08:22:03.888949"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,11 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.csu.edu.au](https://www.csu.edu.au)
+- [https://study.csu.edu.au](https://study.csu.edu.au)
+- [https://sydney.csu.edu.au](https://sydney.csu.edu.au)
+- [https://www.shop.csu.edu.au](https://www.shop.csu.edu.au)
 - [https://social.csu.edu.au/connect](https://social.csu.edu.au/connect)
-- [https://study.csu.edu.au/](https://study.csu.edu.au/)
-- [https://sydney.csu.edu.au/](https://sydney.csu.edu.au/)
-- [https://www.csu.edu.au/](https://www.csu.edu.au/)
-- [https://www.shop.csu.edu.au/](https://www.shop.csu.edu.au/)
+- [http://csu.edu.au](http://csu.edu.au)
 
 ## Brand Guidelines
 

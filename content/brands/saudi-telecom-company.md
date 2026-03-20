@@ -2,7 +2,7 @@
 title: Saudi Telecom Company
 slug: "saudi-telecom-company"
 description: ""
-date: "2026-03-13T09:22:53.116275"
+date: "2026-03-20T08:22:04.116028"
 draft: false
 sectors:
   - telecom
@@ -32,13 +32,13 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "landline-telephone"
-  - "cloud-computing"
-  - iptv
-  - "over-the-top-media-service"
   - internet
+  - "landline-telephone"
   - "mobile-telephony"
+  - "over-the-top-media-service"
   - "video-game-platform"
+  - iptv
+  - "cloud-computing"
   - "internet-of-things"
 products: []
 headquarters_locations:
@@ -46,6 +46,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,11 +70,11 @@ brand_colors: []
 typographies:
   - "sans-serif"
 imagery_styles:
+  - dynamic
   - modern
+  - clean
   - lifestyle
   - vibrant
-  - dynamic
-  - clean
 wikidata_description: "Saudi Arabia-based telecommunications company"
 wikidata_url: "https://www.wikidata.org/wiki/Q1535171"
 has_twitter: false
@@ -84,9 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.stc.com](http://www.stc.com)
 - [https://www.stc.com](https://www.stc.com)
 - [https://www.stc.com.sa](https://www.stc.com.sa)
+- [http://www.stc.com](http://www.stc.com)
 
 ## Brand Guidelines
 
@@ -128,7 +130,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Iptv](/products_or_materials_produced/iptv/); [Over The Top Media Service](/products_or_materials_produced/over-the-top-media-service/); [Internet](/products_or_materials_produced/internet/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Video Game Platform](/products_or_materials_produced/video-game-platform/); [Internet Of Things](/products_or_materials_produced/internet-of-things/) |
+| Product Or Material Produced | [Internet](/products_or_materials_produced/internet/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Over The Top Media Service](/products_or_materials_produced/over-the-top-media-service/); [Video Game Platform](/products_or_materials_produced/video-game-platform/); [Iptv](/products_or_materials_produced/iptv/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Internet Of Things](/products_or_materials_produced/internet-of-things/) |
 | Headquarters Location | [Riyadh](/headquarters_locations/riyadh/) |
 | Foundation Date | [1998](/foundation_dates/1998/) |
 | Freebase Id | /m/0bz_0f |

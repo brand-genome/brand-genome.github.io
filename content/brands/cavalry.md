@@ -2,7 +2,7 @@
 title: Cavalry
 slug: cavalry
 description: ""
-date: "2026-03-13T09:22:53.114812"
+date: "2026-03-20T08:22:04.113348"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - green
+  - white
   - purple
   - grey
   - yellow
-  - black
   - pink
-  - green
-  - white
+  - black
 typographies:
   - merriweather
 imagery_styles: []
@@ -69,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://cavalry.scenegroup.co](https://cavalry.scenegroup.co)
+- [https://docs.cavalry.scenegroup.co](https://docs.cavalry.scenegroup.co)
 - [http://www.scenegroup.co](http://www.scenegroup.co)
-- [https://cavalry.scenegroup.co/](https://cavalry.scenegroup.co/)
-- [https://docs.cavalry.scenegroup.co/](https://docs.cavalry.scenegroup.co/)
 
 ## Brand Guidelines
 

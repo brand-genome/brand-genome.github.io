@@ -2,7 +2,7 @@
 title: DOF
 slug: dof
 description: ""
-date: "2026-03-13T09:22:54.798693"
+date: "2026-03-20T08:22:05.572236"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1897
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - serif
   - arial
+  - serif
 imagery_styles:
-  - portrait
-  - minimal
-  - photography
   - product
+  - minimal
   - bold
+  - portrait
+  - photography
 wikidata_description: national executive department of the Philippines
 wikidata_url: "https://www.wikidata.org/wiki/Q3002326"
 has_twitter: false
@@ -71,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dof.com](https://www.dof.com)
 - [http://dof.no](http://dof.no)
-- [https://www.dof.com/](https://www.dof.com/)
+- [http://www.dof.gov.ph](http://www.dof.gov.ph)
 
 ## Brand Guidelines
 

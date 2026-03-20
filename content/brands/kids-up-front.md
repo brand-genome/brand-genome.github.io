@@ -2,11 +2,11 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-03-13T09:22:53.433056"
+date: "2026-03-20T08:22:04.336954"
 draft: false
 sectors:
-  - entertainment
   - ngo
+  - entertainment
 regions:
   - canada
 years:
@@ -34,6 +34,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,14 +56,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - nunito
   - avenir
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: charitable organization from Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q137366507"
 has_twitter: false
@@ -74,13 +75,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kidsupfront.com/](https://kidsupfront.com/)
+- [https://kidsupfront.com](https://kidsupfront.com)
 - [https://kidsupfront.com/atlantic](https://kidsupfront.com/atlantic)
 - [https://kidsupfront.com/calgary](https://kidsupfront.com/calgary)
 - [https://kidsupfront.com/edmonton](https://kidsupfront.com/edmonton)
 - [https://kidsupfront.com/ottawa](https://kidsupfront.com/ottawa)
 - [https://kidsupfront.com/toronto](https://kidsupfront.com/toronto)
 - [https://kidsupfront.com/vancouver](https://kidsupfront.com/vancouver)
+- [https://www.kidsupfronttoronto.com](https://www.kidsupfronttoronto.com)
 
 ## Brand Guidelines
 

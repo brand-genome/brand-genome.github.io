@@ -2,7 +2,7 @@
 title: "Seine-et-Marne"
 slug: "seine-et-marne"
 description: ""
-date: "2026-03-13T09:22:53.292297"
+date: "2026-03-20T08:22:04.217298"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1790
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +51,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - horizontal
   - signature
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.seine-et-marne.fr](https://www.seine-et-marne.fr)
+- [https://seine-et-marne.fr](https://seine-et-marne.fr)
 - [http://www.seine-et-marne.fr](http://www.seine-et-marne.fr)
-- [https://seine-et-marne.fr/](https://seine-et-marne.fr/)
-- [https://www.seine-et-marne.fr/](https://www.seine-et-marne.fr/)
 
 ## Brand Guidelines
 

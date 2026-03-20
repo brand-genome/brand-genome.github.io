@@ -2,7 +2,7 @@
 title: Scout Association of Malta
 slug: "scout-association-of-malta"
 description: ""
-date: "2026-03-13T09:22:53.508130"
+date: "2026-03-20T08:22:04.403844"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
+  - black
 typographies:
   - times
 imagery_styles:
+  - bold
   - staged
   - natural
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://scouts.mt/](https://scouts.mt/)
-- [https://www.scouts.org.mt/](https://www.scouts.org.mt/)
+- [https://scouts.mt](https://scouts.mt)
+- [https://www.scouts.org.mt](https://www.scouts.org.mt)
 
 ## Brand Guidelines
 

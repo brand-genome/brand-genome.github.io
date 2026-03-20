@@ -2,7 +2,7 @@
 title: Kansas State University
 slug: "kansas-state-university"
 description: ""
-date: "2026-03-13T09:22:55.167875"
+date: "2026-03-20T08:22:05.870073"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1863
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,24 +53,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - alternate
-  - primary
-  - secondary
   - seal
+  - secondary
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
-  - "pantone-268"
-  - purple
-  - gray
-  - black
   - "pantone-7528"
   - white
+  - purple
+  - "pantone-268"
+  - gray
+  - black
 typographies: []
 imagery_styles:
-  - clean
-  - contemporary
   - bold
+  - clean
   - graphic
+  - contemporary
 wikidata_description: public university in the state of Kansas
 wikidata_url: "https://www.wikidata.org/wiki/Q31249"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.k-state.edu/](https://www.k-state.edu/)
-- [https://www.kstatesports.com/](https://www.kstatesports.com/)
+- [https://www.k-state.edu](https://www.k-state.edu)
+- [https://www.kstatesports.com](https://www.kstatesports.com)
+- [http://www.k-state.edu](http://www.k-state.edu)
 
 ## Brand Guidelines
 

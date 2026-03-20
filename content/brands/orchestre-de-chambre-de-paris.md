@@ -2,7 +2,7 @@
 title: Orchestre de Chambre de Paris
 slug: "orchestre-de-chambre-de-paris"
 description: ""
-date: "2026-03-13T09:22:55.160802"
+date: "2026-03-20T08:22:05.861888"
 draft: false
 sectors:
   - "arts-culture"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +50,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - alternate
 brand_colors:
   - orange
 typographies:
   - display
   - bodoni
 imagery_styles:
-  - natural
-  - realistic
-  - monochrome
-  - photography
   - professional
+  - natural
+  - photography
+  - monochrome
+  - realistic
 wikidata_description: French chamber orchestra
 wikidata_url: "https://www.wikidata.org/wiki/Q3355284"
 has_twitter: false
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.orchestredechambredeparis.com/](https://www.orchestredechambredeparis.com/)
-- [https://www.orchestredechambredeparis.com/en/](https://www.orchestredechambredeparis.com/en/)
+- [https://www.orchestredechambredeparis.com](https://www.orchestredechambredeparis.com)
+- [https://www.orchestredechambredeparis.com/en](https://www.orchestredechambredeparis.com/en)
+- [http://www.orchestredechambredeparis.com](http://www.orchestredechambredeparis.com)
 
 ## Brand Guidelines
 

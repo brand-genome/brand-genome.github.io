@@ -2,7 +2,7 @@
 title: Amazon Smile
 slug: "amazon-smile"
 description: ""
-date: "2026-03-13T09:22:53.545027"
+date: "2026-03-20T08:22:04.419732"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
-  - stacked
   - lockup
+  - stacked
+  - horizontal
 brand_colors:
-  - black
   - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""

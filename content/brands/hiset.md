@@ -2,7 +2,7 @@
 title: HiSET
 slug: hiset
 description: ""
-date: "2026-03-13T09:22:51.899063"
+date: "2026-03-20T08:22:03.064977"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,27 +47,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
 brand_colors:
-  - yellow
-  - black
   - red
   - coral
   - white
+  - yellow
+  - black
 typographies:
   - arial
-  - poppins
-  - verdana
   - lato
+  - verdana
+  - poppins
 imagery_styles:
-  - modern
-  - natural
-  - photography
   - product
   - professional
   - bold
+  - modern
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

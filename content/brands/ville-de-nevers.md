@@ -2,7 +2,7 @@
 title: Ville de Nevers
 slug: "ville-de-nevers"
 description: ""
-date: "2026-03-13T09:22:53.319656"
+date: "2026-03-20T08:22:04.231132"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - city
   - regional
+  - city
 industries:
   - "administration-publique-generale"
 countries:
@@ -32,6 +32,7 @@ headquarters_locations:
   - nevers
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
   - white
   - blue
 typographies: []
 imagery_styles:
-  - minimal
   - geometric
+  - minimal
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q115918346"
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nevers.fr](https://www.nevers.fr)
 - [http://www.nevers.fr](http://www.nevers.fr)
-- [https://www.nevers.fr/](https://www.nevers.fr/)
 
 ## Brand Guidelines
 

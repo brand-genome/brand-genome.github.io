@@ -2,11 +2,11 @@
 title: UCLA Athletics
 slug: "ucla-athletics"
 description: ""
-date: "2026-03-13T09:22:52.310027"
+date: "2026-03-20T08:22:03.375392"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - sport
+  - education
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,7 @@ headquarters_locations:
   - "los-angeles"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,21 +53,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
+  - lockup
   - wordmark
   - primary
   - mascot
-  - lockup
-  - secondary
 brand_colors:
-  - "pantone-2383"
-  - "pantone-3553"
-  - "pantone-227"
-  - "pantone-130"
-  - black
-  - pink
-  - blue
   - gold
+  - "pantone-3553"
   - white
+  - blue
+  - "pantone-2383"
+  - "pantone-130"
+  - pink
+  - black
+  - "pantone-227"
 typographies:
   - gotham
 imagery_styles:
@@ -82,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tickets.ucla.edu/](https://tickets.ucla.edu/)
-- [https://uclabruins.com/](https://uclabruins.com/)
+- [https://uclabruins.com](https://uclabruins.com)
+- [https://tickets.ucla.edu](https://tickets.ucla.edu)
 
 ## Brand Guidelines
 

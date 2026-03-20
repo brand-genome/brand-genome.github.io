@@ -2,11 +2,11 @@
 title: Agari
 slug: agari
 description: ""
-date: "2026-03-13T09:22:54.805558"
+date: "2026-03-20T08:22:05.576395"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - canada
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - grey
   - white
   - orange
+  - grey
+  - black
 typographies:
-  - display
+  - "sans-serif"
   - arial
   - gotham
-  - "sans-serif"
+  - display
 imagery_styles:
-  - lifestyle
-  - candid
   - staged
   - gradient
   - bold
+  - lifestyle
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.agari.com/](https://www.agari.com/)
+- [https://www.agari.com](https://www.agari.com)
 
 ## Brand Guidelines
 

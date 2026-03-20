@@ -2,7 +2,7 @@
 title: GMEM
 slug: gmem
 description: ""
-date: "2026-03-13T09:22:53.344419"
+date: "2026-03-20T08:22:04.253422"
 draft: false
 sectors:
   - "arts-culture"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
   - gradient
   - static
+  - vibrant
 wikidata_description: musical ensemble
 wikidata_url: "https://www.wikidata.org/wiki/Q16639316"
 has_twitter: false
@@ -70,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://en.gmem.org/](https://en.gmem.org/)
-- [https://www.gmem.org/](https://www.gmem.org/)
+- [https://www.gmem.org](https://www.gmem.org)
+- [https://en.gmem.org](https://en.gmem.org)
 
 ## Brand Guidelines
 

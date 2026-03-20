@@ -2,7 +2,7 @@
 title: Afdas
 slug: afdas
 description: ""
-date: "2026-03-13T09:22:53.075824"
+date: "2026-03-20T08:22:04.072035"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.afdas.com/](https://www.afdas.com/)
+- [https://www.afdas.com](https://www.afdas.com)
 
 ## Brand Guidelines
 

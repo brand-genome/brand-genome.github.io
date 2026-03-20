@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-03-13T09:22:53.116856"
+date: "2026-03-20T08:22:04.116725"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - japanese
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries:
   - japan
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1911
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,18 +54,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - alternate
   - horizontal
-  - vertical
 brand_colors:
   - black
 typographies:
   - frutiger
 imagery_styles:
   - modern
-  - professional
   - geometric
+  - professional
 wikidata_description: "higher education institution in Fukuoka, Japan"
 wikidata_url: "https://www.wikidata.org/wiki/Q1188786"
 has_twitter: false
@@ -75,8 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kyushu-u.ac.jp/](https://www.kyushu-u.ac.jp/)
-- [https://www.kyushu-u.ac.jp/en/](https://www.kyushu-u.ac.jp/en/)
+- [https://www.kyushu-u.ac.jp/en](https://www.kyushu-u.ac.jp/en)
+- [https://www.kyushu-u.ac.jp](https://www.kyushu-u.ac.jp)
+- [http://www.kyushu-u.ac.jp](http://www.kyushu-u.ac.jp)
+- [https://www.kyushu-u.ac.jp/ja](https://www.kyushu-u.ac.jp/ja)
 
 ## Brand Guidelines
 

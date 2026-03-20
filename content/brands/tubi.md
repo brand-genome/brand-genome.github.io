@@ -2,7 +2,7 @@
 title: Tubi
 slug: tubi
 description: ""
-date: "2026-03-13T09:22:52.319622"
+date: "2026-03-20T08:22:03.387122"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - germany
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1477
+foundation_year_buckets:
+  - "15TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tubitv.com/](https://tubitv.com/)
+- [https://tubitv.com](https://tubitv.com)
 - [https://tubitv.com/help-center](https://tubitv.com/help-center)
+- [http://www.uni-tuebingen.de](http://www.uni-tuebingen.de)
+- [https://uni-tuebingen.de](https://uni-tuebingen.de)
 
 ## Brand Guidelines
 

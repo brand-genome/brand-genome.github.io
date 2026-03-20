@@ -2,7 +2,7 @@
 title: Granite
 slug: granite
 description: ""
-date: "2026-03-13T09:22:54.557968"
+date: "2026-03-20T08:22:05.403839"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +51,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - green
   - "pantone-349"
+  - green
   - yellow
 typographies:
   - arial
   - roboto
 imagery_styles:
-  - photography
-  - natural
   - bold
   - graphic
+  - natural
+  - photography
 wikidata_description: vocal track by Benn Hexaspectrum; 2020 studio recording
 wikidata_url: "https://www.wikidata.org/wiki/Q96761929"
 has_twitter: false
@@ -72,10 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/design/spec/](http://www.google.com/design/spec/)
-- [http://www.graniteconstruction.com/company/](http://www.graniteconstruction.com/company/)
-- [https://www.graniteconstruction.com/](https://www.graniteconstruction.com/)
-- [https://www.intermountainslurryseal.com/](https://www.intermountainslurryseal.com/)
+- [https://www.graniteconstruction.com](https://www.graniteconstruction.com)
+- [https://www.intermountainslurryseal.com](https://www.intermountainslurryseal.com)
+- [http://www.google.com/design/spec](http://www.google.com/design/spec)
+- [http://www.graniteconstruction.com/company](http://www.graniteconstruction.com/company)
 
 ## Brand Guidelines
 

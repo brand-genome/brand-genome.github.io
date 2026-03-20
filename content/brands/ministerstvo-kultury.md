@@ -2,7 +2,7 @@
 title: Ministerstvo Kultury
 slug: "ministerstvo-kultury"
 description: ""
-date: "2026-03-13T09:22:53.323375"
+date: "2026-03-20T08:22:04.234484"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - czech
 tags:
-  - cultural
   - institution
+  - cultural
 industries: []
 countries:
   - "czech-republic"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mk.gov.cz/](https://www.mk.gov.cz/)
+- [https://www.mk.gov.cz](https://www.mk.gov.cz)
+- [https://www.mkcr.cz](https://www.mkcr.cz)
+- [https://www.mkcr.cz?lang=en](https://www.mkcr.cz?lang=en)
+- [https://mk.gov.cz](https://mk.gov.cz)
 
 ## Brand Guidelines
 

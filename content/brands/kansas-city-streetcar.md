@@ -2,7 +2,7 @@
 title: Kansas City Streetcar
 slug: "kansas-city-streetcar"
 description: ""
-date: "2026-03-13T09:22:54.337108"
+date: "2026-03-20T08:22:05.163095"
 draft: false
 sectors:
   - "public-transportation"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.RideKC.org](http://www.RideKC.org)
-- [https://kcstreetcar.org/](https://kcstreetcar.org/)
-- [https://ridekc.org/](https://ridekc.org/)
+- [https://kcstreetcar.org](https://kcstreetcar.org)
+- [https://ridekc.org](https://ridekc.org)
+- [http://www.ridekc.org](http://www.ridekc.org)
 
 ## Brand Guidelines
 

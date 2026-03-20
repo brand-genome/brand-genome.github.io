@@ -2,7 +2,7 @@
 title: Content Hive AI
 slug: "content-hive-ai"
 description: ""
-date: "2026-03-13T09:22:51.912490"
+date: "2026-03-20T08:22:03.070532"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +47,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
+  - bold
+  - modern
   - clean
   - serious
-  - modern
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://contenthiveai.com/](https://contenthiveai.com/)
+- [https://contenthiveai.com](https://contenthiveai.com)
 
 ## Brand Guidelines
 

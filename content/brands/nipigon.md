@@ -2,7 +2,7 @@
 title: Nipigon
 slug: nipigon
 description: ""
-date: "2026-03-13T09:22:53.758250"
+date: "2026-03-20T08:22:04.716018"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - canada
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +51,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - times
 imagery_styles:
-  - photography
   - natural
+  - photography
 wikidata_description: "township municipality in Thunder Bay District, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1993247"
 has_twitter: false
@@ -70,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nipigon.net](https://www.nipigon.net)
 - [http://www.nipigon.net](http://www.nipigon.net)
-- [https://www.nipigon.net/](https://www.nipigon.net/)
+- [https://nipigon.net](https://nipigon.net)
 
 ## Brand Guidelines
 

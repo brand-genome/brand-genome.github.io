@@ -2,21 +2,21 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-03-13T09:22:53.073483"
+date: "2026-03-20T08:22:04.068837"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - france
 years:
-  - 2019
   - 2010
+  - 2019
 languages:
   - french
 tags:
-  - science
   - institution
+  - science
 industries: []
 countries:
   - lebanon
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,15 +55,15 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - "pantone-5405"
-  - "pantone-7458"
-  - "pantone-2965"
-  - black
-  - blue
   - white
+  - "pantone-5405"
+  - blue
+  - "pantone-2965"
+  - "pantone-7458"
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - graphic
 wikidata_description: "government organization in Beirut, Lebanon"
@@ -75,10 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MT180.fr](http://www.MT180.fr)
-- [http://www.cnrs.fr](http://www.cnrs.fr)
-- [https://www.cnrs.fr/](https://www.cnrs.fr/)
+- [https://www.cnrs.fr](https://www.cnrs.fr)
 - [https://www.cnrs.fr/en](https://www.cnrs.fr/en)
+- [http://www.mt180.fr](http://www.mt180.fr)
+- [http://www.cnrs.fr](http://www.cnrs.fr)
+- [http://www.cnrs.edu.lb](http://www.cnrs.edu.lb)
 
 ## Brand Guidelines
 

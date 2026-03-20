@@ -2,7 +2,7 @@
 title: Unicef USA
 slug: "unicef-usa"
 description: ""
-date: "2026-03-13T09:22:54.974362"
+date: "2026-03-20T08:22:05.705636"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,7 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies:
   - impact
@@ -67,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unicefusa.org/](https://www.unicefusa.org/)
+- [https://www.unicefusa.org](https://www.unicefusa.org)
+- [http://www.unicefusa.org](http://www.unicefusa.org)
 
 ## Brand Guidelines
 

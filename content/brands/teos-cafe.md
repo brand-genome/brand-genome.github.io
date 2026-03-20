@@ -2,11 +2,11 @@
 title: Teos Cafe
 slug: "teos-cafe"
 description: ""
-date: "2026-03-13T09:22:53.082693"
+date: "2026-03-20T08:22:04.083933"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - romania
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - wordmark
-  - primary
   - stacked
   - vertical
-  - lockup
+  - logomark
   - horizontal
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
-  - violet
-  - grey
-  - orange
   - red
-  - blue
   - white
+  - orange
+  - grey
+  - blue
+  - violet
 typographies:
   - poppins
 imagery_styles: []
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://business.teoscafe.ro/](https://business.teoscafe.ro/)
-- [https://teoscafe.ro/](https://teoscafe.ro/)
+- [https://teoscafe.ro](https://teoscafe.ro)
+- [https://business.teoscafe.ro](https://business.teoscafe.ro)
 
 ## Brand Guidelines
 

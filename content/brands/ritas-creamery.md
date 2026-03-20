@@ -2,7 +2,7 @@
 title: Rita’s Creamery
 slug: "ritas-creamery"
 description: ""
-date: "2026-03-13T09:22:52.135185"
+date: "2026-03-20T08:22:03.198273"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +47,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - green
   - red
+  - green
 typographies: []
 imagery_styles:
-  - playful
   - product
+  - playful
   - minimal
 wikidata_description: ""
 wikidata_url: ""
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ownaritasfranchise.com/](https://www.ownaritasfranchise.com/)
-- [https://www.ritasice.com/](https://www.ritasice.com/)
+- [https://www.ritasice.com](https://www.ritasice.com)
+- [https://www.ownaritasfranchise.com](https://www.ownaritasfranchise.com)
 
 ## Brand Guidelines
 

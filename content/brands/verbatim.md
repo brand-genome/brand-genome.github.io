@@ -2,11 +2,11 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-03-13T09:22:53.395950"
+date: "2026-03-20T08:22:04.299314"
 draft: false
 sectors:
-  - electronics
   - "consumer-goods"
+  - electronics
   - hardware
 regions:
   - taiwan
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "data-storage-medium"
   - "flash-memory"
+  - "data-storage-medium"
 products: []
 headquarters_locations:
   - charlotte
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,22 +57,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - "pantone-307"
-  - cyan
-  - gray
-  - "pantone-1525"
-  - black
-  - "pantone-124"
-  - red
-  - blue
   - "pantone-072"
-  - "pantone-328"
+  - red
   - "pantone-485"
-  - white
+  - "pantone-307"
   - "pantone-363"
+  - white
+  - cyan
+  - blue
+  - "pantone-1525"
+  - "pantone-124"
+  - gray
+  - "pantone-328"
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -87,10 +89,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.verbatim.com](https://www.verbatim.com)
+- [https://www.verbatim-europe.com](https://www.verbatim-europe.com)
+- [https://verbatim.com.tw](https://verbatim.com.tw)
 - [http://www.verbatim.com](http://www.verbatim.com)
-- [https://verbatim.com.tw/](https://verbatim.com.tw/)
-- [https://www.verbatim-europe.com/](https://www.verbatim-europe.com/)
-- [https://www.verbatim.com/](https://www.verbatim.com/)
 
 ## Brand Guidelines
 
@@ -138,7 +140,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Data Storage Medium](/products_or_materials_produced/data-storage-medium/); [Flash Memory](/products_or_materials_produced/flash-memory/) |
+| Product Or Material Produced | [Flash Memory](/products_or_materials_produced/flash-memory/); [Data Storage Medium](/products_or_materials_produced/data-storage-medium/) |
 | Headquarters Location | [Charlotte](/headquarters_locations/charlotte/) |
 | Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/0552n6 |

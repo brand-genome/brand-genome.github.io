@@ -2,7 +2,7 @@
 title: Kean University
 slug: "kean-university"
 description: ""
-date: "2026-03-13T09:22:54.999907"
+date: "2026-03-20T08:22:05.717755"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1855
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,14 +68,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Payscale.com](http://www.Payscale.com)
-- [http://www.ed.gov](http://www.ed.gov)
-- [http://www.kean.edu](http://www.kean.edu)
-- [https://ces.kean.edu/](https://ces.kean.edu/)
-- [https://www.kean.edu/](https://www.kean.edu/)
+- [https://www.kean.edu](https://www.kean.edu)
 - [https://www.kean.edu/brand](https://www.kean.edu/brand)
 - [https://www.kean.edu/branding-guide](https://www.kean.edu/branding-guide)
 - [https://www.kean.edu/offices/university-relations/brand-resources](https://www.kean.edu/offices/university-relations/brand-resources)
+- [https://ces.kean.edu](https://ces.kean.edu)
+- [http://www.payscale.com](http://www.payscale.com)
+- [http://www.ed.gov](http://www.ed.gov)
+- [http://www.kean.edu](http://www.kean.edu)
 
 ## Brand Guidelines
 

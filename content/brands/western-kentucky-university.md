@@ -2,7 +2,7 @@
 title: Western Kentucky University
 slug: "western-kentucky-university"
 description: ""
-date: "2026-03-13T09:22:55.035300"
+date: "2026-03-20T08:22:05.737796"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1906
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wku.edu/](https://www.wku.edu/)
+- [https://www.wku.edu](https://www.wku.edu)
 - [https://www.wku.edu/marketingandcommunications](https://www.wku.edu/marketingandcommunications)
-- [https://www.wku.edu/online/](https://www.wku.edu/online/)
+- [https://www.wku.edu/online](https://www.wku.edu/online)
+- [http://www.wku.edu](http://www.wku.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: ENQA
 slug: enqa
 description: ""
-date: "2026-03-13T09:22:54.766603"
+date: "2026-03-20T08:22:05.558450"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.enqa.eu](https://www.enqa.eu)
 - [http://www.enqa.eu](http://www.enqa.eu)
-- [https://www.enqa.eu/](https://www.enqa.eu/)
 
 ## Brand Guidelines
 

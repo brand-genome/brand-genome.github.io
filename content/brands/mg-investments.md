@@ -2,7 +2,7 @@
 title: "M&G Investments"
 slug: "mg-investments"
 description: ""
-date: "2026-03-13T09:22:53.756080"
+date: "2026-03-20T08:22:04.714300"
 draft: false
 sectors:
   - finance
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,14 +65,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mandg.com/investments](https://www.mandg.com/investments)
+- [https://www.mymandg.co.uk](https://www.mymandg.co.uk)
+- [https://www.mandg.com/realestate](https://www.mandg.com/realestate)
+- [https://mandgplc.com](https://mandgplc.com)
 - [http://www.bondvigilantes.com](http://www.bondvigilantes.com)
 - [http://www.mandg.at](http://www.mandg.at)
 - [http://www.mandg.ch](http://www.mandg.ch)
 - [http://www.panaceaadviser.com](http://www.panaceaadviser.com)
-- [https://mandgplc.com/](https://mandgplc.com/)
-- [https://www.mandg.com/investments/](https://www.mandg.com/investments/)
-- [https://www.mandg.com/realestate](https://www.mandg.com/realestate)
-- [https://www.mymandg.co.uk/](https://www.mymandg.co.uk/)
+- [http://www.mandg.co.uk/GlobalHome](http://www.mandg.co.uk/GlobalHome)
 
 ## Brand Guidelines
 

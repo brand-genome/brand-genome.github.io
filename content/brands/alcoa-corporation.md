@@ -2,7 +2,7 @@
 title: Alcoa Corporation
 slug: "alcoa-corporation"
 description: ""
-date: "2026-03-13T09:22:53.008710"
+date: "2026-03-20T08:22:04.000107"
 draft: false
 sectors:
   - "mining-extraction"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries:
   - "aluminium-industry"
   - "aluminium-production"
@@ -35,8 +35,11 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1888
   - 1907
+  - 1888
+foundation_year_buckets:
+  - 1900S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,6 +73,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.alcoa.com](https://www.alcoa.com)
+- [http://www.alcoa.com](http://www.alcoa.com)
 
 ## Brand Guidelines
 
@@ -86,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1888](/foundation_dates/1888/); [1907](/foundation_dates/1907/) |
+| Foundation Date | [1907](/foundation_dates/1907/); [1888](/foundation_dates/1888/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02) |
 | Founded By | Charles Martin Hall, Arthur Vining Davis, Alfred E. Hunt, Andrew W. Mellon |
 | Freebase Id | /m/02fk36 |

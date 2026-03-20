@@ -2,11 +2,11 @@
 title: Handshake
 slug: handshake
 description: ""
-date: "2026-03-13T09:22:53.602912"
+date: "2026-03-20T08:22:04.467741"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,36 +50,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - lockup
   - secondary
   - signature
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - cyan
-  - indigo
-  - gray
-  - "pantone-114"
-  - "pantone-7443"
-  - black
-  - "pantone-177"
-  - pink
   - red
-  - blue
   - coral
   - white
+  - cyan
+  - blue
+  - indigo
+  - gray
+  - "pantone-177"
+  - "pantone-114"
+  - "pantone-7443"
+  - pink
+  - black
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
+  - graphic
+  - bold
   - modern
+  - photography
   - clean
   - vibrant
-  - photography
-  - bold
-  - graphic
 wikidata_description: American employment company
 wikidata_url: "https://www.wikidata.org/wiki/Q133465050"
 has_twitter: false
@@ -90,8 +91,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://joinhandshake.com/](https://joinhandshake.com/)
-- [https://joinhandshake.com/about/](https://joinhandshake.com/about/)
+- [https://joinhandshake.com](https://joinhandshake.com)
+- [https://joinhandshake.com/about](https://joinhandshake.com/about)
 
 ## Brand Guidelines
 

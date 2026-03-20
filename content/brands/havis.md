@@ -2,7 +2,7 @@
 title: Havis
 slug: havis
 description: ""
-date: "2026-03-13T09:22:53.468505"
+date: "2026-03-20T08:22:04.369801"
 draft: false
 sectors:
   - hardware
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +51,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - gray
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
-  - serif
   - arial
   - display
+  - serif
 imagery_styles:
+  - bold
   - dynamic
   - product
-  - bold
 wikidata_description: American manufacturing company
 wikidata_url: "https://www.wikidata.org/wiki/Q25245536"
 has_twitter: false
@@ -75,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.havis.com/](https://www.havis.com/)
+- [https://www.havis.com](https://www.havis.com)
+- [http://customers.havis.com](http://customers.havis.com)
 
 ## Brand Guidelines
 

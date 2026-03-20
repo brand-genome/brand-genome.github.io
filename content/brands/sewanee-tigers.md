@@ -2,11 +2,11 @@
 title: Sewanee Tigers
 slug: "sewanee-tigers"
 description: ""
-date: "2026-03-13T09:22:54.819863"
+date: "2026-03-20T08:22:05.582556"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
+  - symbol
   - primary
   - secondary
-  - symbol
-  - signature
 brand_colors:
-  - "pantone-268"
-  - purple
-  - "pantone-7502"
-  - black
   - gold
   - white
+  - purple
+  - "pantone-7502"
+  - "pantone-268"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "men's college basketball team"
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://new.sewanee.edu/](https://new.sewanee.edu/)
-- [https://sewaneetigers.com/](https://sewaneetigers.com/)
+- [https://sewaneetigers.com](https://sewaneetigers.com)
+- [https://new.sewanee.edu](https://new.sewanee.edu)
 
 ## Brand Guidelines
 

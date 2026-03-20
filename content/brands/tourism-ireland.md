@@ -2,7 +2,7 @@
 title: Tourism Ireland
 slug: "tourism-ireland"
 description: ""
-date: "2026-03-13T09:22:55.014098"
+date: "2026-03-20T08:22:05.723068"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +52,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - black
-  - purple
   - green
   - white
+  - purple
+  - black
 typographies: []
 imagery_styles:
   - playful
@@ -72,10 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Ireland.com](http://www.Ireland.com)
+- [https://www.ireland.com](https://www.ireland.com)
+- [https://www.tourismireland.com](https://www.tourismireland.com)
+- [http://www.ireland.com](http://www.ireland.com)
 - [http://www.poferries.com](http://www.poferries.com)
-- [https://www.ireland.com/](https://www.ireland.com/)
-- [https://www.tourismireland.com/](https://www.tourismireland.com/)
+- [http://www.failteireland.ie](http://www.failteireland.ie)
 
 ## Brand Guidelines
 

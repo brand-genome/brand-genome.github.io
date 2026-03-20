@@ -2,7 +2,7 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-03-13T09:22:55.047194"
+date: "2026-03-20T08:22:05.748910"
 draft: false
 sectors:
   - "consumer-goods"
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "knife-manufacturer"
   - metallurgy
+  - "knife-manufacturer"
 countries:
   - switzerland
 revenue_buckets: []
@@ -29,16 +29,18 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - baggage
   - watch
-  - cutlery
   - "swiss-army-knife"
+  - baggage
+  - cutlery
 products: []
 headquarters_locations:
   - ibach
 subsidiaries: []
 foundation_dates:
   - 1884
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,17 +62,17 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - "pantone-201"
-  - "pantone-877"
   - silver
-  - black
   - red
+  - "pantone-201"
   - white
+  - black
+  - "pantone-877"
 typographies: []
 imagery_styles:
-  - photography
   - product
   - graphic
+  - photography
 wikidata_description: "Swiss manufacturer of Swiss Army Knives, cutlery, watches, travel gear, and fragrances"
 wikidata_url: "https://www.wikidata.org/wiki/Q503405"
 has_twitter: false
@@ -82,7 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.victorinox.com/](https://www.victorinox.com/)
+- [https://www.victorinox.com](https://www.victorinox.com)
+- [https://www.swissarmy.com](https://www.swissarmy.com)
 
 ## Brand Guidelines
 
@@ -129,7 +132,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Baggage](/products_or_materials_produced/baggage/); [Watch](/products_or_materials_produced/watch/); [Cutlery](/products_or_materials_produced/cutlery/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/) |
+| Product Or Material Produced | [Watch](/products_or_materials_produced/watch/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Baggage](/products_or_materials_produced/baggage/); [Cutlery](/products_or_materials_produced/cutlery/) |
 | Headquarters Location | [Ibach](/headquarters_locations/ibach/) |
 | Foundation Date | [1884](/foundation_dates/1884/) |
 | Headquarters Location | Ibach |

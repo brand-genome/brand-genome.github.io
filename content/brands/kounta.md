@@ -2,7 +2,7 @@
 title: Kounta
 slug: kounta
 description: ""
-date: "2026-03-13T09:22:54.570867"
+date: "2026-03-20T08:22:05.416606"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - white
   - beige
-  - grey
+  - white
   - orange
+  - grey
 typographies:
-  - serif
   - impact
+  - serif
 imagery_styles:
   - photography
-  - product
-  - natural
   - bold
+  - natural
+  - product
 wikidata_description: Australian software company
 wikidata_url: "https://www.wikidata.org/wiki/Q25183870"
 has_twitter: false
@@ -76,8 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kounta.zendesk.com/](https://kounta.zendesk.com/)
 - [https://my.kounta.com/login/pos](https://my.kounta.com/login/pos)
+- [https://kounta.zendesk.com](https://kounta.zendesk.com)
+- [http://www.kounta.com](http://www.kounta.com)
+- [https://www.lightspeedhq.com.au](https://www.lightspeedhq.com.au)
 
 ## Brand Guidelines
 

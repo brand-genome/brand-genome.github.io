@@ -2,7 +2,7 @@
 title: FAO
 slug: fao
 description: ""
-date: "2026-03-13T09:22:52.239470"
+date: "2026-03-20T08:22:03.303228"
 draft: false
 sectors:
   - "public-sector"
@@ -10,15 +10,15 @@ sectors:
 regions:
   - international
 years:
-  - 2024
   - 2023
+  - 2024
 languages:
   - english
 tags:
-  - agriculture
   - "food-beverage"
   - institution
   - "social-networks"
+  - agriculture
 industries:
   - "international-governmental-or-non-governmental-organizations"
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fao.org/](https://www.fao.org/)
-- [https://www.fao.org/home/en/](https://www.fao.org/home/en/)
+- [https://www.fao.org](https://www.fao.org)
+- [https://www.fao.org/home/en](https://www.fao.org/home/en)
+- [https://www.fao.org/home/ar](https://www.fao.org/home/ar)
+- [https://www.fao.org/home/zh](https://www.fao.org/home/zh)
+- [https://www.fao.org/home/fr](https://www.fao.org/home/fr)
+- [https://www.fao.org/home/ru](https://www.fao.org/home/ru)
+- [https://www.fao.org/home/es](https://www.fao.org/home/es)
 
 ## Brand Guidelines
 

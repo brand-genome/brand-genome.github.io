@@ -2,7 +2,7 @@
 title: "Dinosaur Bar-B-Que"
 slug: "dinosaur-bar-b-que"
 description: ""
-date: "2026-03-13T09:22:53.645877"
+date: "2026-03-20T08:22:04.503018"
 draft: false
 sectors:
   - restaurant
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +51,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
+  - signature
   - primary
   - secondary
-  - signature
+  - badge
 brand_colors:
-  - black
+  - red
   - yellow
   - white
-  - red
+  - black
 typographies:
   - display
   - avenir
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dinosaurbarbque.com/](https://dinosaurbarbque.com/)
+- [https://dinosaurbarbque.com](https://dinosaurbarbque.com)
+- [http://www.dinosaurbarbque.com/bbq-syracuse](http://www.dinosaurbarbque.com/bbq-syracuse)
 
 ## Brand Guidelines
 

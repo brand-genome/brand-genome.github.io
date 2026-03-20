@@ -2,7 +2,7 @@
 title: University of Oregon
 slug: "university-of-oregon"
 description: ""
-date: "2026-03-13T09:22:52.875045"
+date: "2026-03-20T08:22:03.871391"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,13 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.UOREGON.EDU](http://www.UOREGON.EDU)
+- [https://www.uoregon.edu](https://www.uoregon.edu)
+- [https://brand.uoregon.edu](https://brand.uoregon.edu)
+- [https://pdx.uoregon.edu](https://pdx.uoregon.edu)
+- [https://online.uoregon.edu](https://online.uoregon.edu)
+- [https://go.uoregon.edu](https://go.uoregon.edu)
+- [http://www.uoregon.edu](http://www.uoregon.edu)
 - [http://www.goducks.com](http://www.goducks.com)
-- [https://brand.uoregon.edu/](https://brand.uoregon.edu/)
-- [https://go.uoregon.edu/](https://go.uoregon.edu/)
-- [https://online.uoregon.edu/](https://online.uoregon.edu/)
-- [https://pdx.uoregon.edu/](https://pdx.uoregon.edu/)
-- [https://www.uoregon.edu/](https://www.uoregon.edu/)
 
 ## Brand Guidelines
 

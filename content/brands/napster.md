@@ -2,7 +2,7 @@
 title: Napster
 slug: napster
 description: ""
-date: "2026-03-13T09:22:55.004760"
+date: "2026-03-20T08:22:05.719444"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - gray
-  - grey
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - gray
+  - black
 typographies:
   - impact
 imagery_styles:
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://us.napster.com/](https://us.napster.com/)
-- [https://www2.napster.com/us/](https://www2.napster.com/us/)
+- [https://www2.napster.com/us](https://www2.napster.com/us)
+- [https://us.napster.com](https://us.napster.com)
+- [https://www.napster.com](https://www.napster.com)
 
 ## Brand Guidelines
 

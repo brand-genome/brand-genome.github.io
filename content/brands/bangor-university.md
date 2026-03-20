@@ -2,7 +2,7 @@
 title: Bangor University
 slug: "bangor-university"
 description: ""
-date: "2026-03-13T09:22:53.605833"
+date: "2026-03-20T08:22:04.471293"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1884
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,24 +56,24 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-152"
+  - white
   - "pantone-105"
   - "pantone-124"
-  - black
-  - white
   - "pantone-1805"
+  - "pantone-152"
+  - black
 typographies:
   - arial
 imagery_styles:
-  - contemporary
-  - modern
-  - natural
-  - portrait
-  - vibrant
-  - photography
-  - landscape
-  - bold
   - graphic
+  - bold
+  - portrait
+  - natural
+  - modern
+  - photography
+  - contemporary
+  - landscape
+  - vibrant
 wikidata_description: Welsh institute of higher education
 wikidata_url: "https://www.wikidata.org/wiki/Q790029"
 has_twitter: false
@@ -83,7 +85,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bangor.ac.uk/](https://www.bangor.ac.uk/)
+- [https://www.bangor.ac.uk](https://www.bangor.ac.uk)
 
 ## Brand Guidelines
 

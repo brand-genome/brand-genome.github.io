@@ -2,7 +2,7 @@
 title: W3C
 slug: w3c
 description: ""
-date: "2026-03-13T09:22:51.921376"
+date: "2026-03-20T08:22:03.077867"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.w3.org/](https://www.w3.org/)
-- [https://www.w3.org/policies/logos/](https://www.w3.org/policies/logos/)
+- [https://www.w3.org](https://www.w3.org)
+- [https://www.w3.org/policies/logos](https://www.w3.org/policies/logos)
 
 ## Brand Guidelines
 

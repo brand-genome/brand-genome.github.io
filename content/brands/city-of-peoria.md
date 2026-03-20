@@ -2,11 +2,11 @@
 title: City of Peoria
 slug: "city-of-peoria"
 description: ""
-date: "2026-03-13T09:22:53.337076"
+date: "2026-03-20T08:22:04.246581"
 draft: false
 sectors:
-  - utilities
   - "public-sector"
+  - utilities
   - tourism
 regions:
   - usa
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://myaccount.peoriaaz.gov/](https://myaccount.peoriaaz.gov/)
-- [https://www.peoriaaz.gov/](https://www.peoriaaz.gov/)
+- [https://www.peoriaaz.gov](https://www.peoriaaz.gov)
+- [https://myaccount.peoriaaz.gov](https://myaccount.peoriaaz.gov)
 - [https://www.peoriaaz.gov/customerservice](https://www.peoriaaz.gov/customerservice)
-- [https://www.visitpeoriaaz.com/](https://www.visitpeoriaaz.com/)
+- [https://www.visitpeoriaaz.com](https://www.visitpeoriaaz.com)
 
 ## Brand Guidelines
 

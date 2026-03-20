@@ -2,11 +2,11 @@
 title: American Marketing Association
 slug: "american-marketing-association"
 description: ""
-date: "2026-03-13T09:22:53.642886"
+date: "2026-03-20T08:22:04.499347"
 draft: false
 sectors:
-  - education
   - "marketing-advertising"
+  - education
 regions:
   - usa
 years:
@@ -32,6 +32,7 @@ headquarters_locations:
   - chicago
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://myama.my.salesforce-sites.com/](https://myama.my.salesforce-sites.com/)
-- [https://www.ama.org/](https://www.ama.org/)
+- [https://www.ama.org](https://www.ama.org)
+- [https://myama.my.salesforce-sites.com](https://myama.my.salesforce-sites.com)
+- [https://www.ama.org/Pages/default.aspx](https://www.ama.org/Pages/default.aspx)
 
 ## Brand Guidelines
 

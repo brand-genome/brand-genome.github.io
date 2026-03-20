@@ -2,7 +2,7 @@
 title: York U
 slug: "york-u"
 description: ""
-date: "2026-03-13T09:22:52.329490"
+date: "2026-03-20T08:22:03.397282"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ibm.com/plex/](http://www.ibm.com/plex/)
+- [https://www.yorku.ca](https://www.yorku.ca)
+- [https://www.yorku.ca/brand](https://www.yorku.ca/brand)
+- [http://www.ibm.com/plex](http://www.ibm.com/plex)
 - [http://www.yorku.ca](http://www.yorku.ca)
-- [https://www.yorku.ca/](https://www.yorku.ca/)
-- [https://www.yorku.ca/brand/](https://www.yorku.ca/brand/)
+- [https://york.ac.uk](https://york.ac.uk)
 
 ## Brand Guidelines
 

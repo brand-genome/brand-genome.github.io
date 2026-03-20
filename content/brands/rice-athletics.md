@@ -2,11 +2,11 @@
 title: Rice Athletics
 slug: "rice-athletics"
 description: ""
-date: "2026-03-13T09:22:54.554664"
+date: "2026-03-20T08:22:05.401117"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.RiceOwls.com/brand](http://www.RiceOwls.com/brand)
-- [https://riceowls.com/](https://riceowls.com/)
+- [https://riceowls.com](https://riceowls.com)
 - [https://www.rice.edu/athletics](https://www.rice.edu/athletics)
+- [http://www.riceowls.com/brand](http://www.riceowls.com/brand)
 
 ## Brand Guidelines
 

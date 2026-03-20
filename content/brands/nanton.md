@@ -2,7 +2,7 @@
 title: Nanton
 slug: nanton
 description: ""
-date: "2026-03-13T09:22:54.719543"
+date: "2026-03-20T08:22:05.518385"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
+  - beige
   - "pantone-464"
   - "pantone-1815"
-  - black
-  - beige
-  - "pantone-467"
   - white
+  - "pantone-467"
   - brown
+  - black
 typographies:
+  - slab
   - arial
   - avenir
-  - slab
 imagery_styles:
   - vintage
 wikidata_description: town in Alberta
@@ -74,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nanton.ca/](https://www.nanton.ca/)
+- [https://www.nanton.ca](https://www.nanton.ca)
+- [http://www.nanton.ca](http://www.nanton.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Kongsberg Automotive
 slug: "kongsberg-automotive"
 description: ""
-date: "2026-03-13T09:22:55.047993"
+date: "2026-03-20T08:22:05.749765"
 draft: false
 sectors:
   - automobile
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kongsbergautomotive.com/](https://www.kongsbergautomotive.com/)
+- [https://www.kongsbergautomotive.com](https://www.kongsbergautomotive.com)
+- [https://kongsbergautomotive.com](https://kongsbergautomotive.com)
 
 ## Brand Guidelines
 

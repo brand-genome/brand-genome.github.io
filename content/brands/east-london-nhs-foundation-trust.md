@@ -2,7 +2,7 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-03-13T09:22:53.077403"
+date: "2026-03-20T08:22:04.074357"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +54,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - yellow
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - black
 typographies:
   - arial
   - frutiger
 imagery_styles:
-  - photography
-  - illustration
-  - natural
   - bold
+  - natural
+  - illustration
+  - photography
 wikidata_description: UK NHS foundation trust
 wikidata_url: "https://www.wikidata.org/wiki/Q16989274"
 has_twitter: false
@@ -77,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.elft.nhs.uk](https://www.elft.nhs.uk)
 - [http://www.nhs.uk](http://www.nhs.uk)
-- [https://www.elft.nhs.uk/](https://www.elft.nhs.uk/)
 
 ## Brand Guidelines
 

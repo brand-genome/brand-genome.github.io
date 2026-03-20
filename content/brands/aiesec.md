@@ -2,16 +2,16 @@
 title: AIESEC
 slug: aiesec
 description: ""
-date: "2026-03-13T09:22:53.322685"
+date: "2026-03-20T08:22:04.233689"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - netherlands
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
@@ -36,6 +36,8 @@ subsidiaries: []
 foundation_dates:
   - 1949
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://aiesec.org](https://aiesec.org)
+- [https://www.aiesec.in](https://www.aiesec.in)
 - [http://www.aiesec.org](http://www.aiesec.org)
-- [https://aiesec.org/](https://aiesec.org/)
-- [https://www.aiesec.in/](https://www.aiesec.in/)
 
 ## Brand Guidelines
 

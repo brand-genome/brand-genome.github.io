@@ -2,12 +2,12 @@
 title: "Marks & Spencer"
 slug: "marks-spencer"
 description: ""
-date: "2026-03-13T09:22:55.047789"
+date: "2026-03-20T08:22:05.749510"
 draft: false
 sectors:
   - "e-commerce"
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - "united-kingdom"
 years:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1884
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.marksandspencer.com/](https://corporate.marksandspencer.com/)
-- [https://www.marksandspencer.com/](https://www.marksandspencer.com/)
-- [https://www.marksandspencer.com/us/](https://www.marksandspencer.com/us/)
+- [https://www.marksandspencer.com](https://www.marksandspencer.com)
+- [https://www.marksandspencer.com/us](https://www.marksandspencer.com/us)
+- [https://corporate.marksandspencer.com](https://corporate.marksandspencer.com)
+- [https://marksandspencer.com](https://marksandspencer.com)
+- [https://marksandspencer.ru](https://marksandspencer.ru)
+- [https://www.marksandspencer.in](https://www.marksandspencer.in)
 
 ## Brand Guidelines
 

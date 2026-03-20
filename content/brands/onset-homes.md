@@ -2,7 +2,7 @@
 title: Onset Homes
 slug: "onset-homes"
 description: ""
-date: "2026-03-13T09:22:53.010768"
+date: "2026-03-20T08:22:04.001367"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://onsethomes.com](https://onsethomes.com)
 - [http://www.onsethomes.com](http://www.onsethomes.com)
-- [https://onsethomes.com/](https://onsethomes.com/)
 
 ## Brand Guidelines
 

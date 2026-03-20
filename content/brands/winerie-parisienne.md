@@ -2,7 +2,7 @@
 title: Winerie Parisienne
 slug: "winerie-parisienne"
 description: ""
-date: "2026-03-13T09:22:55.150206"
+date: "2026-03-20T08:22:05.849694"
 draft: false
 sectors:
   - drink
@@ -27,6 +27,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - red
   - gold
   - white
   - brown
+  - black
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
   - vintage
 wikidata_description: ""
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.winerieparisienne.fr/](https://www.winerieparisienne.fr/)
+- [https://www.winerieparisienne.fr](https://www.winerieparisienne.fr)
 
 ## Brand Guidelines
 

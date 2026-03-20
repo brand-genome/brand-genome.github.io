@@ -2,7 +2,7 @@
 title: Northern Arizona University
 slug: "northern-arizona-university"
 description: ""
-date: "2026-03-13T09:22:53.700065"
+date: "2026-03-20T08:22:04.555358"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1899
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +53,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - alternate
   - secondary
   - horizontal
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
-  - "pantone-281"
-  - black
-  - blue
   - gold
   - white
+  - blue
+  - "pantone-281"
+  - black
 typographies:
   - roboto
 imagery_styles:
@@ -78,7 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nau.edu/](https://nau.edu/)
+- [https://nau.edu](https://nau.edu)
+- [http://nau.edu](http://nau.edu)
 
 ## Brand Guidelines
 

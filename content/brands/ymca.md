@@ -2,12 +2,12 @@
 title: YMCA
 slug: ymca
 description: ""
-date: "2026-03-13T09:22:53.332986"
+date: "2026-03-20T08:22:04.242887"
 draft: false
 sectors:
   - education
-  - fitness
   - ngo
+  - fitness
 regions:
   - usa
 years:
@@ -30,11 +30,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - geneva
   - vernier
+  - geneva
 subsidiaries: []
 foundation_dates:
   - 1844
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ymca.org/](https://www.ymca.org/)
+- [https://www.ymca.org](https://www.ymca.org)
+- [https://www.ymca.int](https://www.ymca.int)
 
 ## Brand Guidelines
 
@@ -213,7 +216,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Geneva](/headquarters_locations/geneva/); [Vernier](/headquarters_locations/vernier/) |
+| Headquarters Location | [Vernier](/headquarters_locations/vernier/); [Geneva](/headquarters_locations/geneva/) |
 | Foundation Date | [1844](/foundation_dates/1844/) |
 | Topic'S Main Category | Category:YMCA |
 | Freebase Id | /m/0lzg7 |

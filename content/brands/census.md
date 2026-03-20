@@ -2,11 +2,11 @@
 title: Census
 slug: census
 description: ""
-date: "2026-03-13T09:22:54.712275"
+date: "2026-03-20T08:22:05.510337"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - usa
 years:
@@ -29,12 +29,14 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - maryland
   - suitland
+  - maryland
   - "washington-dc"
 subsidiaries: []
 foundation_dates:
   - 1902
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Census.gov](http://www.Census.gov)
-- [https://data.census.gov/](https://data.census.gov/)
-- [https://www.census.gov/](https://www.census.gov/)
+- [https://www.census.gov](https://www.census.gov)
+- [https://data.census.gov](https://data.census.gov)
+- [http://www.census.gov](http://www.census.gov)
 
 ## Brand Guidelines
 
@@ -123,7 +125,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Maryland](/headquarters_locations/maryland/); [Suitland](/headquarters_locations/suitland/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Headquarters Location | [Suitland](/headquarters_locations/suitland/); [Maryland](/headquarters_locations/maryland/); [Washington Dc](/headquarters_locations/washington-dc/) |
 | Foundation Date | [1902](/foundation_dates/1902/) |
 | Topic'S Main Category | Category:United States Census Bureau |
 | Gnd Id | 43130-8 (from 1903-07-01), 1086264584 |

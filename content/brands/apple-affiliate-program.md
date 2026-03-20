@@ -2,11 +2,11 @@
 title: Apple Affiliate Program
 slug: "apple-affiliate-program"
 description: ""
-date: "2026-03-13T09:22:54.799092"
+date: "2026-03-20T08:22:05.572598"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Apple.com](http://www.Apple.com)
 - [https://performance-partners.apple.com/home](https://performance-partners.apple.com/home)
-- [https://www.apple.com/](https://www.apple.com/)
+- [https://www.apple.com](https://www.apple.com)
+- [http://www.apple.com](http://www.apple.com)
 
 ## Brand Guidelines
 

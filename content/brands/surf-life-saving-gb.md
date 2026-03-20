@@ -2,7 +2,7 @@
 title: Surf Life Saving GB
 slug: "surf-life-saving-gb"
 description: ""
-date: "2026-03-13T09:22:54.728768"
+date: "2026-03-20T08:22:05.526245"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +51,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
+  - impact
   - arial
   - display
-  - impact
 imagery_styles:
   - professional
 wikidata_description: ""
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.slsgb.org.uk/](https://www.slsgb.org.uk/)
+- [https://www.slsgb.org.uk](https://www.slsgb.org.uk)
 
 ## Brand Guidelines
 

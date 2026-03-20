@@ -2,7 +2,7 @@
 title: Surfrider Foundation
 slug: "surfrider-foundation"
 description: ""
-date: "2026-03-13T09:22:51.913057"
+date: "2026-03-20T08:22:03.070966"
 draft: false
 sectors:
   - ngo
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - environment
   - ngo
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,23 +58,23 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
+  - red
   - "pantone-5275"
-  - gray
+  - "pantone-629"
   - "pantone-426"
-  - "pantone-7464"
-  - black
+  - blue
+  - gray
   - "pantone-552"
   - "pantone-7418"
-  - blue
-  - red
-  - "pantone-629"
+  - black
+  - "pantone-7464"
 typographies:
   - roboto
 imagery_styles:
-  - candid
-  - natural
   - bold
   - graphic
+  - candid
+  - natural
 wikidata_description: foundation
 wikidata_url: "https://www.wikidata.org/wiki/Q1128567"
 has_twitter: false
@@ -84,9 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Surfrider.org](http://www.Surfrider.org)
-- [https://california.surfrider.org](https://california.surfrider.org)
 - [https://www.surfrider.org](https://www.surfrider.org)
+- [https://california.surfrider.org](https://california.surfrider.org)
+- [http://www.surfrider.org](http://www.surfrider.org)
 
 ## Brand Guidelines
 

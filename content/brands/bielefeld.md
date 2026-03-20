@@ -2,7 +2,7 @@
 title: Bielefeld
 slug: bielefeld
 description: ""
-date: "2026-03-13T09:22:52.784338"
+date: "2026-03-20T08:22:03.795348"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1214
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,12 +64,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bielefeld.de](https://www.bielefeld.de)
+- [https://www.bielefeld-marketing.de](https://www.bielefeld-marketing.de)
+- [https://www.bielefeld.jetzt](https://www.bielefeld.jetzt)
 - [http://www.bielefeld.jetzt/weihnachtsmarkt](http://www.bielefeld.jetzt/weihnachtsmarkt)
 - [http://www.deteringdesign.de](http://www.deteringdesign.de)
 - [http://www.radiobielefeld.de](http://www.radiobielefeld.de)
-- [https://www.bielefeld-marketing.de/](https://www.bielefeld-marketing.de/)
-- [https://www.bielefeld.de/](https://www.bielefeld.de/)
-- [https://www.bielefeld.jetzt/](https://www.bielefeld.jetzt/)
 
 ## Brand Guidelines
 

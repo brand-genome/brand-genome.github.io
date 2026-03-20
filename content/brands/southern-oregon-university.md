@@ -2,7 +2,7 @@
 title: Southern Oregon University
 slug: "southern-oregon-university"
 description: ""
-date: "2026-03-13T09:22:53.440423"
+date: "2026-03-20T08:22:04.344163"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1872
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,28 +53,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - mascot
   - wordmark
+  - primary
 brand_colors:
-  - "pantone-186"
+  - red
+  - green
   - gold
+  - white
+  - blue
+  - "pantone-186"
+  - brown
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
-  - brown
 typographies:
-  - futura
   - impact
+  - futura
 imagery_styles:
-  - clean
   - dynamic
-  - photography
-  - bold
   - graphic
+  - bold
+  - photography
+  - clean
 wikidata_description: "public liberal arts college in Ashland, Oregon, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q1888661"
 has_twitter: false
@@ -84,8 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://online.sou.edu/](https://online.sou.edu/)
-- [https://sou.edu/](https://sou.edu/)
+- [https://sou.edu](https://sou.edu)
+- [https://online.sou.edu](https://online.sou.edu)
+- [http://www.sou.edu](http://www.sou.edu)
 
 ## Brand Guidelines
 

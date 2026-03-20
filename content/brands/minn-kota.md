@@ -2,7 +2,7 @@
 title: Minn Kota
 slug: "minn-kota"
 description: ""
-date: "2026-03-13T09:22:53.723513"
+date: "2026-03-20T08:22:04.687458"
 draft: false
 sectors:
   - electronics
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "marine-battery-charging-system-for-a-marine-vessel"
   - "trolling-motor"
+  - "marine-battery-charging-system-for-a-marine-vessel"
 products: []
 headquarters_locations:
   - racine
 subsidiaries: []
 foundation_dates:
   - 1934
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - black
   - gray
-  - "pantone-123"
   - white
+  - "pantone-123"
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: Manufacturer of marine accessories for fishing boats
@@ -78,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://minnkota.johnsonoutdoors.com/us/](https://minnkota.johnsonoutdoors.com/us/)
+- [https://minnkota.johnsonoutdoors.com/us](https://minnkota.johnsonoutdoors.com/us)
 
 ## Brand Guidelines
 
@@ -115,7 +117,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Marine Battery Charging System For A Marine Vessel](/products_or_materials_produced/marine-battery-charging-system-for-a-marine-vessel/); [Trolling Motor](/products_or_materials_produced/trolling-motor/) |
+| Product Or Material Produced | [Trolling Motor](/products_or_materials_produced/trolling-motor/); [Marine Battery Charging System For A Marine Vessel](/products_or_materials_produced/marine-battery-charging-system-for-a-marine-vessel/) |
 | Headquarters Location | [Racine](/headquarters_locations/racine/) |
 | Foundation Date | [1934](/foundation_dates/1934/) |
 | Industry | online shop, fishing industry, outdoor recreation |

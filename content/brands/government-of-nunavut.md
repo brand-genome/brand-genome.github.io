@@ -2,7 +2,7 @@
 title: Government of Nunavut
 slug: "government-of-nunavut"
 description: ""
-date: "2026-03-13T09:22:53.075693"
+date: "2026-03-20T08:22:04.071669"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - canada
@@ -31,6 +31,7 @@ headquarters_locations:
   - iqaluit
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nunavutparks.com/](https://nunavutparks.com/)
 - [https://www.gov.nu.ca/en](https://www.gov.nu.ca/en)
 - [https://www.gov.nu.ca/en/tourism](https://www.gov.nu.ca/en/tourism)
+- [https://nunavutparks.com](https://nunavutparks.com)
+- [http://www.gov.nu.ca](http://www.gov.nu.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: City of Zürich
 slug: "city-of-zurich"
 description: ""
-date: "2026-03-13T09:22:53.066968"
+date: "2026-03-20T08:22:04.059349"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,12 +62,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.stadt-zuerich.ch](https://www.stadt-zuerich.ch)
+- [https://www.stadt-zuerich.ch/de.html](https://www.stadt-zuerich.ch/de.html)
 - [http://de.wikipedia.org/wiki/QR-Code](http://de.wikipedia.org/wiki/QR-Code)
 - [http://www.sportamt.ch](http://www.sportamt.ch)
 - [http://www.stadt-zuerich.ch](http://www.stadt-zuerich.ch)
-- [http://www.zh.ch/](http://www.zh.ch/)
-- [https://www.stadt-zuerich.ch/](https://www.stadt-zuerich.ch/)
-- [https://www.stadt-zuerich.ch/de.html](https://www.stadt-zuerich.ch/de.html)
+- [http://www.zh.ch](http://www.zh.ch)
 
 ## Brand Guidelines
 

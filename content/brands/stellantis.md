@@ -2,7 +2,7 @@
 title: Stellantis
 slug: stellantis
 description: ""
-date: "2026-03-13T09:22:53.426388"
+date: "2026-03-20T08:22:04.329961"
 draft: false
 sectors:
   - automobile
@@ -33,17 +33,19 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "automotive-part"
   - "utility-vehicle"
-  - truck
   - "commercial-vehicle"
   - car
+  - "automotive-part"
+  - truck
 products: []
 headquarters_locations:
   - amsterdam
 subsidiaries: []
 foundation_dates:
   - 2021
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.stellantis.com/](https://www.stellantis.com/)
+- [https://www.stellantis.com](https://www.stellantis.com)
 
 ## Brand Guidelines
 
@@ -100,7 +102,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Automotive Part](/products_or_materials_produced/automotive-part/); [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [2021](/foundation_dates/2021/) |
 | Industry | automotive industry |

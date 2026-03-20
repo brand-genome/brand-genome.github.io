@@ -2,12 +2,12 @@
 title: Starbucks Coffee Company
 slug: "starbucks-coffee-company"
 description: ""
-date: "2026-03-13T09:22:53.246592"
+date: "2026-03-20T08:22:04.164977"
 draft: false
 sectors:
-  - drink
   - restaurant
   - food
+  - drink
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - "food-beverage"
   - vintage
   - featured
-  - "food-beverage"
 industries:
   - "coffee-industry"
 countries:
@@ -37,14 +37,16 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - frappuccino
   - coffee
+  - frappuccino
 products: []
 headquarters_locations:
   - seattle
 subsidiaries: []
 foundation_dates:
   - 1971
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational coffee company
@@ -80,10 +82,35 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.starbucks.com/](https://www.starbucks.com/)
-- [https://www.starbucks.com/coffee/](https://www.starbucks.com/coffee/)
+- [https://www.starbucks.com](https://www.starbucks.com)
+- [https://www.starbucks.com/coffee](https://www.starbucks.com/coffee)
 - [https://www.starbucks.com/menu](https://www.starbucks.com/menu)
 - [https://www.starbucks.com/rewards](https://www.starbucks.com/rewards)
+- [https://www.starbucks.de](https://www.starbucks.de)
+- [https://starbucks.co.id](https://starbucks.co.id)
+- [https://www.starbucks.co.jp](https://www.starbucks.co.jp)
+- [https://www.starbucks.co.kr/index.do](https://www.starbucks.co.kr/index.do)
+- [https://www.starbucks.co.kr](https://www.starbucks.co.kr)
+- [https://www.starbucks.es](https://www.starbucks.es)
+- [https://www.starbucks.com.tr](https://www.starbucks.com.tr)
+- [https://www.starbucks.com.mx](https://www.starbucks.com.mx)
+- [https://starbucks.co.th](https://starbucks.co.th)
+- [https://www.starbucks.com.cn](https://www.starbucks.com.cn)
+- [https://starbucks.com.my](https://starbucks.com.my)
+- [https://www.starbucks.com.br](https://www.starbucks.com.br)
+- [https://fr.starbucks.ca](https://fr.starbucks.ca)
+- [https://www.starbucks.com.hk](https://www.starbucks.com.hk)
+- [http://starbucks.com.ar](http://starbucks.com.ar)
+- [https://starbucks.in](https://starbucks.in)
+- [https://www.starbucks.co.za](https://www.starbucks.co.za)
+- [https://www.starbucks.hu](https://www.starbucks.hu)
+- [https://www.istarbucks.co.kr](https://www.istarbucks.co.kr)
+- [http://starbucks.com.tw](http://starbucks.com.tw)
+- [https://www.starbucks.ca](https://www.starbucks.ca)
+- [https://www.starbucks.co.uk](https://www.starbucks.co.uk)
+- [https://www.starbucks.fr](https://www.starbucks.fr)
+- [http://starbucks.ph](http://starbucks.ph)
+- [https://th.starbucks.co.th](https://th.starbucks.co.th)
 
 ## Brand Guidelines
 
@@ -114,7 +141,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Frappuccino](/products_or_materials_produced/frappuccino/); [Coffee](/products_or_materials_produced/coffee/) |
+| Product Or Material Produced | [Coffee](/products_or_materials_produced/coffee/); [Frappuccino](/products_or_materials_produced/frappuccino/) |
 | Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
 | Foundation Date | [1971](/foundation_dates/1971/) |
 | Founded By | Jerry Baldwin, Gordon Bowker, Zev Siegl |

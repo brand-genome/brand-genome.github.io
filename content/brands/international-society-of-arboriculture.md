@@ -2,11 +2,11 @@
 title: International Society of Arboriculture
 slug: "international-society-of-arboriculture"
 description: ""
-date: "2026-03-13T09:22:55.157618"
+date: "2026-03-20T08:22:05.859563"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - garamond
   - "gill-sans"
+  - garamond
   - helvetica
 imagery_styles: []
 wikidata_description: "non-profit botanical organization"
@@ -67,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://joa.isa-arbor.com/](https://joa.isa-arbor.com/)
-- [https://www.isa-arbor.com/](https://www.isa-arbor.com/)
-- [https://www.treesaregood.org/](https://www.treesaregood.org/)
+- [https://www.isa-arbor.com](https://www.isa-arbor.com)
+- [https://www.treesaregood.org](https://www.treesaregood.org)
+- [https://joa.isa-arbor.com](https://joa.isa-arbor.com)
 
 ## Brand Guidelines
 

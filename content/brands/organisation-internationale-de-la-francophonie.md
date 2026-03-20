@@ -2,7 +2,7 @@
 title: Organisation Internationale de la Francophonie
 slug: "organisation-internationale-de-la-francophonie"
 description: ""
-date: "2026-03-13T09:22:55.047670"
+date: "2026-03-20T08:22:05.749400"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://observatoire.francophonie.org/](https://observatoire.francophonie.org/)
-- [https://www.francophonie.org/](https://www.francophonie.org/)
+- [https://www.francophonie.org](https://www.francophonie.org)
+- [https://observatoire.francophonie.org](https://observatoire.francophonie.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-03-13T09:22:53.258378"
+date: "2026-03-20T08:22:04.183901"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,29 +54,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
+  - teal
+  - coral
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - teal
-  - blue
-  - coral
-  - white
 typographies:
-  - montserrat
   - impact
+  - montserrat
 imagery_styles:
-  - vibrant
-  - product
-  - natural
   - bold
+  - vibrant
+  - natural
+  - product
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q2024075"
 has_twitter: false
@@ -86,8 +88,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.onepercentfortheplanet.org](https://www.onepercentfortheplanet.org)
 - [http://www.onepercentfortheplanet.org](http://www.onepercentfortheplanet.org)
-- [https://www.onepercentfortheplanet.org/](https://www.onepercentfortheplanet.org/)
+- [https://onepercentfortheplanet.org](https://onepercentfortheplanet.org)
 
 ## Brand Guidelines
 

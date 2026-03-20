@@ -2,11 +2,11 @@
 title: Royal Academy of Engineering
 slug: "royal-academy-of-engineering"
 description: ""
-date: "2026-03-13T09:22:54.342242"
+date: "2026-03-20T08:22:05.169366"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +55,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.raeng.org.uk/](https://www.raeng.org.uk/)
+- [https://www.raeng.org.uk](https://www.raeng.org.uk)
+- [http://www.raeng.org.uk](http://www.raeng.org.uk)
 
 ## Brand Guidelines
 

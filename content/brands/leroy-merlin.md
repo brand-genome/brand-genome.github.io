@@ -2,7 +2,7 @@
 title: Leroy Merlin
 slug: "leroy-merlin"
 description: ""
-date: "2026-03-13T09:22:52.814551"
+date: "2026-03-20T08:22:03.827658"
 draft: false
 sectors:
   - "e-commerce"
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.leroymerlin.fr/](https://www.leroymerlin.fr/)
-- [https://www.leroymerlin.pt/](https://www.leroymerlin.pt/)
+- [https://www.leroymerlin.fr](https://www.leroymerlin.fr)
+- [https://www.leroymerlin.pt](https://www.leroymerlin.pt)
 
 ## Brand Guidelines
 

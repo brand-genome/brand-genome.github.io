@@ -2,7 +2,7 @@
 title: TAME
 slug: tame
 description: ""
-date: "2026-03-13T09:22:53.639381"
+date: "2026-03-20T08:22:04.495302"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,6 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [http://www.tame.com.ec](http://www.tame.com.ec)
+- [https://www.tame.com.ec](https://www.tame.com.ec)
 
 ## Brand Guidelines
 

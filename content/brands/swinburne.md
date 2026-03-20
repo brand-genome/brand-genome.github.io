@@ -2,7 +2,7 @@
 title: Swinburne
 slug: swinburne
 description: ""
-date: "2026-03-13T09:22:53.424823"
+date: "2026-03-20T08:22:04.327713"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
   - university
+  - technology
 industries: []
 countries:
   - australia
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.swinburne.edu.au/](https://www.swinburne.edu.au/)
-- [https://www.swinburne.edu.my/](https://www.swinburne.edu.my/)
+- [https://www.swinburne.edu.au](https://www.swinburne.edu.au)
+- [https://www.swinburne.edu.my](https://www.swinburne.edu.my)
+- [http://www.swinburne.edu.au](http://www.swinburne.edu.au)
 
 ## Brand Guidelines
 

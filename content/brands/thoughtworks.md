@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-03-13T09:22:52.175432"
+date: "2026-03-20T08:22:03.242420"
 draft: false
 sectors:
   - consulting
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2024
+  - 2022
 languages:
   - english
 tags:
   - technology
 industries:
   - consulting
-  - technology
   - "software-industry"
+  - technology
 countries:
   - "united-states"
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,11 +57,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - gray
-  - black
-  - pink
-  - blue
   - white
+  - blue
+  - gray
+  - pink
+  - black
 typographies:
   - inter
 imagery_styles:
@@ -75,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.thoughtworks.com](https://www.thoughtworks.com)
 - [http://www.monday.com](http://www.monday.com)
 - [http://www.thoughtworks.com](http://www.thoughtworks.com)
-- [https://www.thoughtworks.com/](https://www.thoughtworks.com/)
 
 ## Brand Guidelines
 

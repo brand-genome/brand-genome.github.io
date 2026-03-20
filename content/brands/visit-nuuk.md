@@ -2,7 +2,7 @@
 title: Visit Nuuk
 slug: "visit-nuuk"
 description: ""
-date: "2026-03-13T09:22:51.899775"
+date: "2026-03-20T08:22:03.065676"
 draft: false
 sectors:
   - tourism
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
-  - city
-  - featured
-  - regional
   - tourism
+  - regional
+  - featured
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +53,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-169"
-  - grey
-  - black
   - red
   - "pantone-185"
   - white
   - "pantone-1205"
+  - grey
+  - "pantone-169"
+  - black
 typographies:
-  - serif
   - roboto
+  - serif
 imagery_styles:
-  - monochrome
   - staged
-  - photography
-  - bold
   - graphic
+  - bold
+  - photography
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.instagram.com/p/C0aMHPTuK1a/?img_index=8](http://www.instagram.com/p/C0aMHPTuK1a/?img_index=8)
-- [http://www.visitnuuk.com](http://www.visitnuuk.com)
 - [https://visitnuuk.com](https://visitnuuk.com)
+- [http://www.instagram.com/p/C0aMHPTuK1a?img_index=8](http://www.instagram.com/p/C0aMHPTuK1a?img_index=8)
+- [http://www.visitnuuk.com](http://www.visitnuuk.com)
 
 ## Brand Guidelines
 

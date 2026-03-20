@@ -2,7 +2,7 @@
 title: Pépite France
 slug: "pepite-france"
 description: ""
-date: "2026-03-13T09:22:52.895104"
+date: "2026-03-20T08:22:03.885223"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pepite-france.fr/](https://www.pepite-france.fr/)
+- [https://www.pepite-france.fr](https://www.pepite-france.fr)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-03-13T09:22:54.418519"
+date: "2026-03-20T08:22:05.313188"
 draft: false
 sectors:
-  - publishing
   - "retail-commerce"
+  - publishing
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - entertainment
+  - cultural
 industries:
   - bookselling
 countries:
@@ -39,6 +39,9 @@ subsidiaries: []
 foundation_dates:
   - 1917
   - 1873
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,17 +63,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
+  - red
   - green
   - white
-  - red
+  - black
 typographies:
-  - serif
   - display
+  - serif
 imagery_styles:
-  - minimal
-  - photography
   - bold
+  - photography
+  - minimal
 wikidata_description: American book retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q795454"
 has_twitter: false
@@ -82,8 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nook.barnesandnoble.com/](https://nook.barnesandnoble.com/)
-- [https://www.barnesandnoble.com/](https://www.barnesandnoble.com/)
+- [https://www.barnesandnoble.com](https://www.barnesandnoble.com)
+- [https://nook.barnesandnoble.com](https://nook.barnesandnoble.com)
+- [https://www.bn.com](https://www.bn.com)
 
 ## Brand Guidelines
 

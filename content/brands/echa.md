@@ -2,7 +2,7 @@
 title: ECHA
 slug: echa
 description: ""
-date: "2026-03-13T09:22:53.328256"
+date: "2026-03-20T08:22:04.238976"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
-  - secondary
+  - symbol
   - primary
+  - secondary
 brand_colors:
   - "pantone-129"
+  - white
+  - "pantone-293"
   - gray
   - black
-  - "pantone-293"
-  - white
 typographies:
-  - georgia
   - verdana
+  - georgia
 imagery_styles:
   - graphic
 wikidata_description: agency of the European Union
@@ -76,10 +78,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://echa.europa.eu/contact](http://echa.europa.eu/contact)
-- [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/)
 - [https://echa.europa.eu/en/home](https://echa.europa.eu/en/home)
-- [https://reach-it.echa.europa.eu/reach/](https://reach-it.echa.europa.eu/reach/)
+- [https://reach-it.echa.europa.eu/reach](https://reach-it.echa.europa.eu/reach)
+- [http://echa.europa.eu/contact](http://echa.europa.eu/contact)
+- [http://eur-lex.europa.eu](http://eur-lex.europa.eu)
+- [https://echa.europa.eu](https://echa.europa.eu)
 
 ## Brand Guidelines
 

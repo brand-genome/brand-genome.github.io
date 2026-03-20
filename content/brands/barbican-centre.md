@@ -2,7 +2,7 @@
 title: Barbican Centre
 slug: "barbican-centre"
 description: ""
-date: "2026-03-13T09:22:53.026842"
+date: "2026-03-20T08:22:04.020327"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2007
+  - 2013
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,15 +54,15 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - futura
 imagery_styles:
-  - monochrome
   - colorful
-  - dynamic
   - bold
+  - dynamic
+  - monochrome
 wikidata_description: arts centre in the City of London
 wikidata_url: "https://www.wikidata.org/wiki/Q653858"
 has_twitter: false
@@ -72,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.barbican.org.uk/](https://www.barbican.org.uk/)
+- [https://www.barbican.org.uk](https://www.barbican.org.uk)
 
 ## Brand Guidelines
 

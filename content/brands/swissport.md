@@ -2,7 +2,7 @@
 title: Swissport
 slug: swissport
 description: ""
-date: "2026-03-13T09:22:54.221493"
+date: "2026-03-20T08:22:05.049413"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.swissport.com](http://www.swissport.com)
-- [https://www.swissport.com/](https://www.swissport.com/)
 - [https://www.swissport.com/en](https://www.swissport.com/en)
+- [https://www.swissport.com](https://www.swissport.com)
+- [http://www.swissport.com](http://www.swissport.com)
 
 ## Brand Guidelines
 

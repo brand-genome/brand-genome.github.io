@@ -2,7 +2,7 @@
 title: Basislager Coworking
 slug: "basislager-coworking"
 description: ""
-date: "2026-03-13T09:22:53.076356"
+date: "2026-03-20T08:22:04.072739"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.basislager.co](https://www.basislager.co)
 - [http://www.basislager-rostock.de](http://www.basislager-rostock.de)
-- [https://www.basislager.co/](https://www.basislager.co/)
 
 ## Brand Guidelines
 

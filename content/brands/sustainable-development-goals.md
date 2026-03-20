@@ -2,7 +2,7 @@
 title: Sustainable Development Goals
 slug: "sustainable-development-goals"
 description: ""
-date: "2026-03-13T09:22:53.022660"
+date: "2026-03-20T08:22:04.015206"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2019
   - 2023
+  - 2019
 languages:
   - english
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +49,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - icon
   - horizontal
-  - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.un.org/sustainabledevelopment/development-goals](https://www.un.org/sustainabledevelopment/development-goals)
 - [https://sdgs.un.org/goals](https://sdgs.un.org/goals)
-- [https://www.un.org/sustainabledevelopment/development-goals/](https://www.un.org/sustainabledevelopment/development-goals/)
 - [https://www.undp.org/sustainable-development-goals](https://www.undp.org/sustainable-development-goals)
 
 ## Brand Guidelines

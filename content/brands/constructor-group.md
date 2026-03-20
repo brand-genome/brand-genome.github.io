@@ -2,13 +2,13 @@
 title: Constructor Group
 slug: "constructor-group"
 description: ""
-date: "2026-03-13T09:22:52.136393"
+date: "2026-03-20T08:22:03.199698"
 draft: false
 sectors:
+  - "e-learning-edtech"
+  - finance
   - education
   - university
-  - finance
-  - "e-learning-edtech"
 regions:
   - switzerland
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1856
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +53,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-282"
+  - green
+  - "pantone-123"
   - navy
+  - "pantone-282"
+  - white
+  - blue
   - yellow
   - black
-  - "pantone-123"
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
+  - bold
   - monochrome
   - professional
-  - bold
 wikidata_description: "Norwegian-based group specialising in shelving, racking and storage systems"
 wikidata_url: "https://www.wikidata.org/wiki/Q5164512"
 has_twitter: false
@@ -75,13 +77,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://constructor.org](https://constructor.org)
+- [https://constructor.university](https://constructor.university)
+- [https://academy.constructor.org](https://academy.constructor.org)
+- [https://institute.constructor.org](https://institute.constructor.org)
+- [https://constructor.capital](https://constructor.capital)
 - [http://www.constructor.org](http://www.constructor.org)
 - [http://www.linkedin.com/company/constructor](http://www.linkedin.com/company/constructor)
-- [https://academy.constructor.org/](https://academy.constructor.org/)
-- [https://constructor.capital/](https://constructor.capital/)
-- [https://constructor.org/](https://constructor.org/)
-- [https://constructor.university/](https://constructor.university/)
-- [https://institute.constructor.org/](https://institute.constructor.org/)
 
 ## Brand Guidelines
 

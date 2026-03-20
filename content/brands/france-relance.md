@@ -2,7 +2,7 @@
 title: France Relance
 slug: "france-relance"
 description: ""
-date: "2026-03-13T09:22:53.431497"
+date: "2026-03-20T08:22:04.334801"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +52,10 @@ brand_colors:
   - green
 typographies: []
 imagery_styles:
-  - modern
-  - flat
   - bold
+  - modern
   - graphic
+  - flat
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance](https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance)
 - [https://www.info.gouv.fr/grand-dossier/france-relance](https://www.info.gouv.fr/grand-dossier/france-relance)
+- [https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance](https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance)
 
 ## Brand Guidelines
 

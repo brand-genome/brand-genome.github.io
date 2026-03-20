@@ -2,7 +2,7 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-03-13T09:22:53.342167"
+date: "2026-03-20T08:22:04.250824"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1897
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,18 +54,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
   - secondary
   - wordmark
 brand_colors:
-  - "pantone-3435"
-  - "pantone-4515"
-  - gray
-  - black
   - green
+  - "pantone-3435"
   - gold
   - white
+  - gray
+  - black
+  - "pantone-4515"
 typographies: []
 imagery_styles:
   - bold
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.piedmont.edu/](https://www.piedmont.edu/)
+- [https://www.piedmont.edu](https://www.piedmont.edu)
 
 ## Brand Guidelines
 

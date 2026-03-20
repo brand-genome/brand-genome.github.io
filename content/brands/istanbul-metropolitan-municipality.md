@@ -2,7 +2,7 @@
 title: Istanbul Metropolitan Municipality
 slug: "istanbul-metropolitan-municipality"
 description: ""
-date: "2026-03-13T09:22:53.259566"
+date: "2026-03-20T08:22:04.184973"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - turkish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - turkey
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1855
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - white
+  - black
   - "pantone-200"
 typographies: []
 imagery_styles: []
@@ -69,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ibb.istanbul/](https://ibb.istanbul/)
-- [https://ibb.istanbul/en/](https://ibb.istanbul/en/)
-- [https://ibb.istanbul/en/imm/](https://ibb.istanbul/en/imm/)
-- [https://www.ibb.istanbul/](https://www.ibb.istanbul/)
+- [https://www.ibb.istanbul](https://www.ibb.istanbul)
+- [https://ibb.istanbul/en/imm](https://ibb.istanbul/en/imm)
+- [https://ibb.istanbul/en](https://ibb.istanbul/en)
+- [https://ibb.istanbul](https://ibb.istanbul)
+- [http://www.ibb.istanbul](http://www.ibb.istanbul)
 
 ## Brand Guidelines
 

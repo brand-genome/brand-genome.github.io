@@ -2,7 +2,7 @@
 title: Conservative Party of Canada
 slug: "conservative-party-of-canada"
 description: ""
-date: "2026-03-13T09:22:53.708070"
+date: "2026-03-20T08:22:04.563943"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ body_sections: []
 logo_elements:
   - stacked
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-2995"
-  - "pantone-357"
-  - "pantone-375"
-  - "pantone-2627"
+  - "pantone-185"
+  - blue
   - "pantone-4625"
   - "pantone-295"
+  - "pantone-2995"
+  - "pantone-2627"
+  - "pantone-375"
   - black
-  - blue
-  - "pantone-185"
+  - "pantone-357"
 typographies:
   - lato
   - montserrat
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.conservative.ca/](https://www.conservative.ca/)
+- [https://www.conservative.ca](https://www.conservative.ca)
 
 ## Brand Guidelines
 

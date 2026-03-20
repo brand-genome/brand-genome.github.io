@@ -2,7 +2,7 @@
 title: Government of Ireland
 slug: "government-of-ireland"
 description: ""
-date: "2026-03-13T09:22:54.821793"
+date: "2026-03-20T08:22:05.584525"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +50,20 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - green
-  - grey
   - gold
+  - grey
+  - black
 typographies:
-  - arial
-  - georgia
-  - lato
   - "sans-serif"
+  - arial
+  - lato
+  - georgia
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: cabinet that exercises executive authority in Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q1672817"
 has_twitter: false
@@ -74,10 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gov.ie](https://www.gov.ie)
+- [https://www.ireland.ie](https://www.ireland.ie)
+- [https://www.mygovid.ie](https://www.mygovid.ie)
 - [http://www.gov.ie](http://www.gov.ie)
-- [https://www.gov.ie/](https://www.gov.ie/)
-- [https://www.ireland.ie/](https://www.ireland.ie/)
-- [https://www.mygovid.ie/](https://www.mygovid.ie/)
 
 ## Brand Guidelines
 

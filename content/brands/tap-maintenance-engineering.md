@@ -2,7 +2,7 @@
 title: "TAP Maintenance & Engineering"
 slug: "tap-maintenance-engineering"
 description: ""
-date: "2026-03-13T09:22:53.440309"
+date: "2026-03-20T08:22:04.344057"
 draft: false
 sectors:
   - airline
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.flytap.com/](https://www.flytap.com/)
-- [https://www.tapme.pt/](https://www.tapme.pt/)
+- [https://www.tapme.pt](https://www.tapme.pt)
+- [https://www.flytap.com](https://www.flytap.com)
 
 ## Brand Guidelines
 

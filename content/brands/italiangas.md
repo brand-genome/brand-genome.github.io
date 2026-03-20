@@ -2,7 +2,7 @@
 title: Italiangas
 slug: italiangas
 description: ""
-date: "2026-03-13T09:22:55.164458"
+date: "2026-03-20T08:22:05.865709"
 draft: false
 sectors:
   - utilities
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - "open-sans"
   - ubuntu
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.italiangas.it/](https://www.italiangas.it/)
+- [https://www.italiangas.it](https://www.italiangas.it)
 
 ## Brand Guidelines
 

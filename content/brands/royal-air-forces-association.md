@@ -2,7 +2,7 @@
 title: Royal Air Forces Association
 slug: "royal-air-forces-association"
 description: ""
-date: "2026-03-13T09:22:54.735777"
+date: "2026-03-20T08:22:05.533235"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1943
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rafa.org.uk/](https://rafa.org.uk/)
+- [https://rafa.org.uk](https://rafa.org.uk)
 
 ## Brand Guidelines
 

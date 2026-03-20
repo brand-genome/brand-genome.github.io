@@ -2,11 +2,11 @@
 title: GIP Cafés Cultures
 slug: "gip-cafes-cultures"
 description: ""
-date: "2026-03-13T09:22:55.046957"
+date: "2026-03-20T08:22:05.748673"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - cultural
   - "food-beverage"
+  - cultural
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://10ans.gipcafescultures.fr/](https://10ans.gipcafescultures.fr/)
-- [https://www.gipcafescultures.fr/](https://www.gipcafescultures.fr/)
+- [https://www.gipcafescultures.fr](https://www.gipcafescultures.fr)
+- [https://10ans.gipcafescultures.fr](https://10ans.gipcafescultures.fr)
 
 ## Brand Guidelines
 

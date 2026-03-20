@@ -2,7 +2,7 @@
 title: Jana Small Finance Bank
 slug: "jana-small-finance-bank"
 description: ""
-date: "2026-03-13T09:22:52.317622"
+date: "2026-03-20T08:22:03.385561"
 draft: false
 sectors:
   - finance
@@ -32,6 +32,7 @@ headquarters_locations:
   - bengaluru
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.linkedin.com/company/jana-small-financebank/](http://www.linkedin.com/company/jana-small-financebank/)
+- [https://www.janabank.com](https://www.janabank.com)
+- [https://www.jana.bank.in](https://www.jana.bank.in)
+- [http://www.linkedin.com/company/jana-small-financebank](http://www.linkedin.com/company/jana-small-financebank)
 - [https://twitter.com/janabank](https://twitter.com/janabank)
-- [https://www.jana.bank.in/](https://www.jana.bank.in/)
-- [https://www.janabank.com/](https://www.janabank.com/)
 
 ## Brand Guidelines
 

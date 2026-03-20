@@ -2,7 +2,7 @@
 title: NYX Makeup
 slug: "nyx-makeup"
 description: ""
-date: "2026-03-13T09:22:53.328591"
+date: "2026-03-20T08:22:04.239214"
 draft: false
 sectors:
   - cosmetics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cosmetics
   - "student-work"
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,11 +54,11 @@ brand_colors: []
 typographies:
   - montserrat
 imagery_styles:
+  - minimal
+  - bold
+  - photography
   - contemporary
   - clean
-  - minimal
-  - photography
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nyxcosmetics.com/](https://www.nyxcosmetics.com/)
+- [https://www.nyxcosmetics.com](https://www.nyxcosmetics.com)
 
 ## Brand Guidelines
 

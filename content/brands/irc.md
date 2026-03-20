@@ -2,7 +2,7 @@
 title: IRC
 slug: irc
 description: ""
-date: "2026-03-13T09:22:54.214479"
+date: "2026-03-20T08:22:05.041699"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1933
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +54,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "non-profit organization in the USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q1666849"
 has_twitter: false
@@ -79,11 +81,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ircwash.org](https://www.ircwash.org)
 - [http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en)
 - [http://www.cmpethiopia.org](http://www.cmpethiopia.org)
-- [http://www.waterservicesthatlast.org/](http://www.waterservicesthatlast.org/)
-- [http://www.wiley.com/](http://www.wiley.com/)
-- [https://www.ircwash.org/](https://www.ircwash.org/)
+- [http://www.waterservicesthatlast.org](http://www.waterservicesthatlast.org)
+- [http://www.wiley.com](http://www.wiley.com)
+- [https://www.rescue.org](https://www.rescue.org)
+- [http://www.theirc.org](http://www.theirc.org)
 
 ## Brand Guidelines
 

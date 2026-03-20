@@ -2,11 +2,11 @@
 title: Monsanto
 slug: monsanto
 description: ""
-date: "2026-03-13T09:22:55.046171"
+date: "2026-03-20T08:22:05.747676"
 draft: false
 sectors:
-  - biotech
   - "consumer-goods"
+  - biotech
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags: []
 industries:
-  - agriculture
   - biotechnology
+  - agriculture
 countries:
   - "united-states"
 revenue_buckets:
@@ -30,16 +30,18 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - herbicide
   - fertilizer
   - seed
-  - herbicide
 products: []
 headquarters_locations:
-  - "st-louis"
   - "creve-coeur"
+  - "st-louis"
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,20 +60,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies:
   - verdana
   - garamond
-  - helvetica
   - arial
   - times
+  - helvetica
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "American multinational agricultural biotechnology, seed, and agrochemical company"
 wikidata_url: "https://www.wikidata.org/wiki/Q207983"
 has_twitter: false
@@ -84,7 +86,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bayer.com/cropscience](https://www.bayer.com/cropscience)
-- [https://www.cropscience.bayer.us/](https://www.cropscience.bayer.us/)
+- [https://www.cropscience.bayer.us](https://www.cropscience.bayer.us)
+- [https://monsanto.com](https://monsanto.com)
 
 ## Brand Guidelines
 
@@ -126,8 +129,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Fertilizer](/products_or_materials_produced/fertilizer/); [Seed](/products_or_materials_produced/seed/); [Herbicide](/products_or_materials_produced/herbicide/) |
-| Headquarters Location | [St Louis](/headquarters_locations/st-louis/); [Creve Coeur](/headquarters_locations/creve-coeur/) |
+| Product Or Material Produced | [Herbicide](/products_or_materials_produced/herbicide/); [Fertilizer](/products_or_materials_produced/fertilizer/); [Seed](/products_or_materials_produced/seed/) |
+| Headquarters Location | [Creve Coeur](/headquarters_locations/creve-coeur/); [St Louis](/headquarters_locations/st-louis/) |
 | Foundation Date | [1901](/foundation_dates/1901/) |
 | Founded By | John Francis Queeny |
 | Topic'S Main Category | Category:Monsanto |

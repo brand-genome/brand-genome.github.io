@@ -2,7 +2,7 @@
 title: ICF Habitat
 slug: "icf-habitat"
 description: ""
-date: "2026-03-13T09:22:55.021151"
+date: "2026-03-20T08:22:05.724792"
 draft: false
 sectors:
   - "real-estate"
@@ -29,6 +29,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1927
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://initiatives.icfhabitat.fr/](https://initiatives.icfhabitat.fr/)
-- [https://www.icfhabitat.fr/](https://www.icfhabitat.fr/)
+- [https://www.icfhabitat.fr](https://www.icfhabitat.fr)
 - [https://www.icfhabitat.fr/groupe/espace-clients-en-ligne](https://www.icfhabitat.fr/groupe/espace-clients-en-ligne)
+- [https://initiatives.icfhabitat.fr](https://initiatives.icfhabitat.fr)
+- [http://www.icfhabitat.fr](http://www.icfhabitat.fr)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-03-13T09:22:54.422978"
+date: "2026-03-20T08:22:05.318736"
 draft: false
 sectors:
-  - hardware
   - cybersecurity
+  - hardware
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
   - stacked
   - secondary
+  - logomark
   - horizontal
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - product
-  - professional
   - lifestyle
+  - photography
+  - professional
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q954569"
 has_twitter: false
@@ -71,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://vysk.com](https://vysk.com)
 - [http://docs.vyskmedia.com](http://docs.vyskmedia.com)
-- [http://www.VYSK.COM](http://www.VYSK.COM)
-- [https://vysk.com/](https://vysk.com/)
+- [http://www.vysk.com](http://www.vysk.com)
+- [http://www.vyskov-mesto.cz](http://www.vyskov-mesto.cz)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Cedevita Zagreb
 slug: "cedevita-zagreb"
 description: ""
-date: "2026-03-13T09:22:53.245476"
+date: "2026-03-20T08:22:04.163518"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,26 +47,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - "pantone-368"
   - "pantone-1505"
-  - yellow
-  - "pantone-306"
-  - orange
+  - "pantone-604"
   - "pantone-382"
-  - black
   - white
+  - "pantone-368"
+  - yellow
   - "pantone-7465"
   - "pantone-387"
-  - "pantone-604"
+  - orange
+  - "pantone-306"
+  - black
 typographies:
   - din
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.kkcedevita.hr/](http://www.kkcedevita.hr/)
+- [http://www.kkcedevita.hr](http://www.kkcedevita.hr)
 
 ## Brand Guidelines
 

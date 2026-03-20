@@ -2,11 +2,11 @@
 title: ADP
 slug: adp
 description: ""
-date: "2026-03-13T09:22:54.562171"
+date: "2026-03-20T08:22:05.409703"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
 industries:
   - "data-processing"
   - "human-resource-management"
-  - "software-industry"
   - "accounting-services"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -32,11 +32,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "database-management-system"
   - "relational-database-management-system"
-  - software
-  - "software-as-a-service"
   - "accounting-software"
+  - "software-as-a-service"
+  - software
+  - "database-management-system"
   - "enterprise-resource-planning"
 products: []
 headquarters_locations:
@@ -44,6 +44,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +65,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-7620"
-  - black
   - red
+  - "pantone-7620"
   - navy
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American human resources management software company
@@ -80,9 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.adp.com/](https://www.adp.com/)
+- [https://www.adp.com](https://www.adp.com)
 - [https://www.adp.com/logins.aspx](https://www.adp.com/logins.aspx)
 - [https://www.adp.com/logins/adp-workforce-now.aspx](https://www.adp.com/logins/adp-workforce-now.aspx)
+- [http://www.adp.com](http://www.adp.com)
 
 ## Brand Guidelines
 
@@ -125,7 +128,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Database Management System](/products_or_materials_produced/database-management-system/); [Relational Database Management System](/products_or_materials_produced/relational-database-management-system/); [Software](/products_or_materials_produced/software/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Accounting Software](/products_or_materials_produced/accounting-software/); [Enterprise Resource Planning](/products_or_materials_produced/enterprise-resource-planning/) |
+| Product Or Material Produced | [Relational Database Management System](/products_or_materials_produced/relational-database-management-system/); [Accounting Software](/products_or_materials_produced/accounting-software/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Software](/products_or_materials_produced/software/); [Database Management System](/products_or_materials_produced/database-management-system/); [Enterprise Resource Planning](/products_or_materials_produced/enterprise-resource-planning/) |
 | Headquarters Location | [Roseland](/headquarters_locations/roseland/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Stock Exchange | Nasdaq (from 1990-01-02) |

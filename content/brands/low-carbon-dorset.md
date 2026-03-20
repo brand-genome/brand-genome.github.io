@@ -2,11 +2,11 @@
 title: Low Carbon Dorset
 slug: "low-carbon-dorset"
 description: ""
-date: "2026-03-13T09:22:54.218543"
+date: "2026-03-20T08:22:05.046091"
 draft: false
 sectors:
-  - "renewable-energy"
   - "public-sector"
+  - "renewable-energy"
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - grey
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - black
 typographies:
   - arial
   - avenir
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gov.uk](http://www.gov.uk)
+- [https://www.lowcarbondorset.org.uk](https://www.lowcarbondorset.org.uk)
 - [https://www.dorsetcouncil.gov.uk/low-carbon-dorset](https://www.dorsetcouncil.gov.uk/low-carbon-dorset)
-- [https://www.lowcarbondorset.org.uk/](https://www.lowcarbondorset.org.uk/)
+- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

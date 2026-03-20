@@ -2,12 +2,12 @@
 title: Bangladesh Red Crescent Society
 slug: "bangladesh-red-crescent-society"
 description: ""
-date: "2026-03-13T09:22:52.099491"
+date: "2026-03-20T08:22:03.158616"
 draft: false
 sectors:
+  - ngo
   - "emergency-services"
   - healthcare
-  - ngo
 regions:
   - bangladesh
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - ngo
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://bdrcs.org](https://bdrcs.org)
 - [http://www.bdrcs.org](http://www.bdrcs.org)
-- [https://bdrcs.org/](https://bdrcs.org/)
 
 ## Brand Guidelines
 

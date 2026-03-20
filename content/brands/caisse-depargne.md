@@ -2,11 +2,11 @@
 title: Caisse d’épargne
 slug: "caisse-depargne"
 description: ""
-date: "2026-03-13T09:22:54.973413"
+date: "2026-03-20T08:22:05.704572"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies:
-  - helvetica
   - "gill-sans"
+  - helvetica
 imagery_styles:
-  - minimal
   - monochrome
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.caisse-epargne.fr/](https://www.caisse-epargne.fr/)
+- [https://www.caisse-epargne.fr](https://www.caisse-epargne.fr)
 
 ## Brand Guidelines
 

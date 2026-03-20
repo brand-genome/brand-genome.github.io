@@ -2,7 +2,7 @@
 title: Mastercard Foundation
 slug: "mastercard-foundation"
 description: ""
-date: "2026-03-13T09:22:52.325493"
+date: "2026-03-20T08:22:03.393423"
 draft: false
 sectors:
   - ngo
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://mastercardfdn.org](https://mastercardfdn.org)
+- [https://mastercardfdn.org/en](https://mastercardfdn.org/en)
 - [http://www.mastercardfdn.org](http://www.mastercardfdn.org)
-- [https://mastercardfdn.org/](https://mastercardfdn.org/)
-- [https://mastercardfdn.org/en/](https://mastercardfdn.org/en/)
+- [http://www.themastercardfoundation.org](http://www.themastercardfoundation.org)
 
 ## Brand Guidelines
 

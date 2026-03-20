@@ -2,7 +2,7 @@
 title: Roady Centre Auto
 slug: "roady-centre-auto"
 description: ""
-date: "2026-03-13T09:22:53.436079"
+date: "2026-03-20T08:22:04.339739"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - "pantone-485"
   - red
+  - "pantone-485"
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.roady.fr/](https://www.roady.fr/)
+- [https://www.roady.fr](https://www.roady.fr)
 
 ## Brand Guidelines
 

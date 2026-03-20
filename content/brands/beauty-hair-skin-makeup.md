@@ -2,7 +2,7 @@
 title: .Beauty .Hair .Skin .Makeup
 slug: "beauty-hair-skin-makeup"
 description: ""
-date: "2026-03-13T09:22:52.873174"
+date: "2026-03-20T08:22:03.870574"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,9 +61,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://go.beauty/registrars](https://go.beauty/registrars)
-- [https://nic.beauty/](https://nic.beauty/)
+- [https://nic.beauty](https://nic.beauty)
 - [https://nic.beauty/registrars](https://nic.beauty/registrars)
+- [https://go.beauty/registrars](https://go.beauty/registrars)
 
 ## Brand Guidelines
 

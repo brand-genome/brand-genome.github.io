@@ -2,12 +2,12 @@
 title: Higher School of Economics
 slug: "higher-school-of-economics"
 description: ""
-date: "2026-03-13T09:22:53.073707"
+date: "2026-03-20T08:22:04.069342"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - russia
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,11 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://istudents.hse.ru/en/](https://istudents.hse.ru/en/)
-- [https://online.hse.ru/en/](https://online.hse.ru/en/)
-- [https://studentcentre.hse.ru/en/](https://studentcentre.hse.ru/en/)
-- [https://www.hse.ru/](https://www.hse.ru/)
-- [https://www.hse.ru/en/](https://www.hse.ru/en/)
+- [https://www.hse.ru](https://www.hse.ru)
+- [https://www.hse.ru/en](https://www.hse.ru/en)
+- [https://studentcentre.hse.ru/en](https://studentcentre.hse.ru/en)
+- [https://online.hse.ru/en](https://online.hse.ru/en)
+- [https://istudents.hse.ru/en](https://istudents.hse.ru/en)
+- [http://www.hse.ru](http://www.hse.ru)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Canadien National Railway
 slug: "canadien-national-railway"
 description: ""
-date: "2026-03-13T09:22:53.018524"
+date: "2026-03-20T08:22:04.009823"
 draft: false
 sectors:
-  - railroad
   - "logistics-supply-chain"
+  - railroad
 regions:
   - canada
 years:
@@ -19,8 +19,8 @@ tags:
 industries:
   - "rail-freight-transport"
 countries:
-  - "united-states"
   - canada
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cn.ca/](https://www.cn.ca/)
+- [https://www.cn.ca](https://www.cn.ca)
 
 ## Brand Guidelines
 

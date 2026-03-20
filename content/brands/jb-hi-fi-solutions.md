@@ -2,7 +2,7 @@
 title: "JB Hi-Fi Solutions"
 slug: "jb-hi-fi-solutions"
 description: ""
-date: "2026-03-13T09:22:53.652794"
+date: "2026-03-20T08:22:04.512650"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://byod.jbhifi.education/](https://byod.jbhifi.education/)
-- [https://www.jbhifi.com.au/](https://www.jbhifi.com.au/)
-- [https://www.jbhifi.education/](https://www.jbhifi.education/)
+- [https://www.jbhifi.com.au](https://www.jbhifi.com.au)
+- [https://www.jbhifi.education](https://www.jbhifi.education)
+- [https://byod.jbhifi.education](https://byod.jbhifi.education)
 - [https://www.jbhifi.education/education/byod](https://www.jbhifi.education/education/byod)
 
 ## Brand Guidelines

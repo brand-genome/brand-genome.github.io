@@ -2,7 +2,7 @@
 title: MGM+
 slug: mgm
 description: ""
-date: "2026-03-13T09:22:52.195762"
+date: "2026-03-20T08:22:03.262112"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +54,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - gold
   - silver
   - white
+  - gold
+  - black
 typographies: []
 imagery_styles:
   - gradient
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mgmplus.com/](https://mgmplus.com/)
+- [https://mgmplus.com](https://mgmplus.com)
+- [http://www.mgmplus.com](http://www.mgmplus.com)
 
 ## Brand Guidelines
 

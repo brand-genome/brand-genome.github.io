@@ -2,7 +2,7 @@
 title: Argentina
 slug: argentina
 description: ""
-date: "2026-03-13T09:22:54.359596"
+date: "2026-03-20T08:22:05.189868"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - "pantone-294"
   - blue
 typographies:
-  - gotham
   - impact
+  - gotham
 imagery_styles:
+  - bold
   - realistic
+  - photography
   - monochrome
   - vibrant
-  - photography
-  - bold
 wikidata_description: "men's national association football team representing Argentina"
 wikidata_url: "https://www.wikidata.org/wiki/Q79800"
 has_twitter: false
@@ -76,6 +77,7 @@ visual_term_image_urls: {}
 - [https://argentina.ar/es](https://argentina.ar/es)
 - [https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais](https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais)
 - [https://www.argentina.gob.ar/reglamento-de-la-marca-pais](https://www.argentina.gob.ar/reglamento-de-la-marca-pais)
+- [https://www.afa.com.ar/en/posts/categories/selecciones](https://www.afa.com.ar/en/posts/categories/selecciones)
 
 ## Brand Guidelines
 

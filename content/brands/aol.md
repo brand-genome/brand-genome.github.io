@@ -2,11 +2,11 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-03-13T09:22:53.961882"
+date: "2026-03-20T08:22:04.885560"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
 regions:
   - usa
 years:
@@ -17,11 +17,11 @@ tags:
   - featured
   - internet
 industries:
-  - "mass-media"
   - "technology-industry"
+  - "software-industry"
   - "media-industry"
   - "internet-industry"
-  - "software-industry"
+  - "mass-media"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -41,6 +41,8 @@ subsidiaries: []
 foundation_dates:
   - 1983
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,13 +63,13 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
+  - red
+  - white
   - cyan
   - grey
   - orange
-  - black
   - pink
-  - red
-  - white
+  - black
 typographies:
   - arial
   - din
@@ -83,10 +85,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.aol.com](https://www.aol.com)
+- [https://mail.aol.com](https://mail.aol.com)
+- [https://help.aol.com](https://help.aol.com)
 - [http://www.aol.com](http://www.aol.com)
-- [https://help.aol.com/](https://help.aol.com/)
-- [https://mail.aol.com/](https://mail.aol.com/)
-- [https://www.aol.com/](https://www.aol.com/)
+- [https://aol.com](https://aol.com)
 
 ## Brand Guidelines
 

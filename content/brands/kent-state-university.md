@@ -2,7 +2,7 @@
 title: Kent State University
 slug: "kent-state-university"
 description: ""
-date: "2026-03-13T09:22:55.009384"
+date: "2026-03-20T08:22:05.721422"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.KENT.EDU/CSI](http://www.KENT.EDU/CSI)
-- [https://www.kent.edu/](https://www.kent.edu/)
+- [https://www.kent.edu](https://www.kent.edu)
 - [https://www.kent.edu/brand](https://www.kent.edu/brand)
 - [https://www.kent.edu/ucm/guide-visual-standards](https://www.kent.edu/ucm/guide-visual-standards)
+- [http://www.kent.edu/CSI](http://www.kent.edu/CSI)
 
 ## Brand Guidelines
 

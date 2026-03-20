@@ -2,7 +2,7 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-03-13T09:22:52.324315"
+date: "2026-03-20T08:22:03.392220"
 draft: false
 sectors:
   - software
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
   - music
-  - internet
+  - featured
   - app
+  - internet
 industries: []
 countries:
   - france
@@ -37,6 +37,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,28 +57,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - lockup
   - vertical
   - secondary
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors:
+  - red
+  - green
+  - teal
+  - white
+  - blue
   - yellow
   - magenta
-  - teal
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - gotham
 imagery_styles:
+  - bold
+  - dynamic
   - monochrome
   - photography
-  - dynamic
-  - bold
 wikidata_description: "French web-based music and podcast streaming service"
 wikidata_url: "https://www.wikidata.org/wiki/Q602243"
 has_twitter: false
@@ -88,8 +90,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.deezer.com](https://support.deezer.com)
 - [https://www.deezer.com](https://www.deezer.com)
+- [https://support.deezer.com](https://support.deezer.com)
 
 ## Brand Guidelines
 

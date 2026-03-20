@@ -2,12 +2,12 @@
 title: Ural Federal University
 slug: "ural-federal-university"
 description: ""
-date: "2026-03-13T09:22:53.070186"
+date: "2026-03-20T08:22:04.064419"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - russia
 years:
@@ -19,8 +19,8 @@ tags:
   - university
 industries: []
 countries:
-  - "soviet-union"
   - russia
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ural.university/](https://ural.university/)
-- [https://www.urfu.ru/](https://www.urfu.ru/)
-- [https://www.urfu.ru/en/](https://www.urfu.ru/en/)
+- [https://ural.university](https://ural.university)
+- [https://www.urfu.ru](https://www.urfu.ru)
+- [https://www.urfu.ru/en](https://www.urfu.ru/en)
+- [http://www.ustu.ru](http://www.ustu.ru)
+- [https://urfu.ru/ru](https://urfu.ru/ru)
+- [https://urfu.ru/en](https://urfu.ru/en)
 
 ## Brand Guidelines
 

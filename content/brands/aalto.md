@@ -2,7 +2,7 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-03-13T09:22:54.776300"
+date: "2026-03-20T08:22:05.561788"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +53,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies:
-  - arial
   - helvetica
+  - arial
   - georgia
 imagery_styles:
+  - bold
   - dynamic
   - clean
-  - bold
 wikidata_description: Finnish university
 wikidata_url: "https://www.wikidata.org/wiki/Q300980"
 has_twitter: false
@@ -74,10 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.aalto.fi](http://www.aalto.fi)
-- [https://www.aalto.fi/](https://www.aalto.fi/)
+- [https://www.aalto.fi](https://www.aalto.fi)
 - [https://www.aalto.fi/en](https://www.aalto.fi/en)
 - [https://www.aaltoee.fi/en](https://www.aaltoee.fi/en)
+- [http://www.aalto.fi](http://www.aalto.fi)
 
 ## Brand Guidelines
 

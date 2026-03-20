@@ -2,7 +2,7 @@
 title: Optimum Tracker
 slug: "optimum-tracker"
 description: ""
-date: "2026-03-13T09:22:55.048162"
+date: "2026-03-20T08:22:05.749944"
 draft: false
 sectors:
   - "renewable-energy"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.optimum-tracker.com/](https://www.optimum-tracker.com/)
+- [https://www.optimum-tracker.com](https://www.optimum-tracker.com)
 
 ## Brand Guidelines
 

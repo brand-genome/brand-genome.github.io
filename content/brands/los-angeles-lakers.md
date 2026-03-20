@@ -2,7 +2,7 @@
 title: Los Angeles Lakers
 slug: "los-angeles-lakers"
 description: ""
-date: "2026-03-13T09:22:54.721600"
+date: "2026-03-20T08:22:05.519448"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ subsidiaries: []
 foundation_dates:
   - 1946
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,14 +57,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
   - purple
   - gray
   - black
-  - red
-  - white
 typographies:
-  - arial
   - helvetica
+  - arial
   - din
 imagery_styles:
   - bold
@@ -78,10 +80,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.lakers.com](http://www.lakers.com)
-- [https://southbay.gleague.nba.com/](https://southbay.gleague.nba.com/)
-- [https://www.lakers.com/](https://www.lakers.com/)
 - [https://www.nba.com/lakers](https://www.nba.com/lakers)
+- [https://www.lakers.com](https://www.lakers.com)
+- [https://southbay.gleague.nba.com](https://southbay.gleague.nba.com)
+- [http://www.lakers.com](http://www.lakers.com)
+- [http://www.nba.com/lakers](http://www.nba.com/lakers)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: University of Graz
 slug: "university-of-graz"
 description: ""
-date: "2026-03-13T09:22:52.309503"
+date: "2026-03-20T08:22:03.374710"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1585
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.uni-graz.at/en](https://www.uni-graz.at/en)
+- [https://www.uni-graz.at](https://www.uni-graz.at)
 - [http://www.nawigraz.at](http://www.nawigraz.at)
 - [http://www.uni-graz.at](http://www.uni-graz.at)
-- [https://www.uni-graz.at/](https://www.uni-graz.at/)
-- [https://www.uni-graz.at/en/](https://www.uni-graz.at/en/)
+- [https://www.uni-graz.at/de](https://www.uni-graz.at/de)
 
 ## Brand Guidelines
 

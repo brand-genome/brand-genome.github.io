@@ -2,7 +2,7 @@
 title: The Economist Group
 slug: "the-economist-group"
 description: ""
-date: "2026-03-13T09:22:53.284255"
+date: "2026-03-20T08:22:04.213369"
 draft: false
 sectors:
   - publishing
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1843
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - red
+  - white
   - grey
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
   - serif
-  - georgia
-  - helvetica
   - "sans-serif"
+  - helvetica
+  - georgia
 imagery_styles:
+  - bold
   - illustration
   - contemporary
-  - bold
 wikidata_description: "media company headquartered in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q474153"
 has_twitter: false
@@ -81,11 +83,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://education.economist.com/](https://education.economist.com/)
-- [https://impact.economist.com/](https://impact.economist.com/)
-- [https://www.economist.com/](https://www.economist.com/)
-- [https://www.economistgroup.com/](https://www.economistgroup.com/)
-- [https://www.eiu.com/](https://www.eiu.com/)
+- [https://www.economistgroup.com](https://www.economistgroup.com)
+- [https://www.economist.com](https://www.economist.com)
+- [https://impact.economist.com](https://impact.economist.com)
+- [https://www.eiu.com](https://www.eiu.com)
+- [https://education.economist.com](https://education.economist.com)
 
 ## Brand Guidelines
 

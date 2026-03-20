@@ -2,11 +2,11 @@
 title: Trek Bicycles
 slug: "trek-bicycles"
 description: ""
-date: "2026-03-13T09:22:53.241882"
+date: "2026-03-20T08:22:04.159827"
 draft: false
 sectors:
-  - "consumer-goods"
   - sports
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - sport
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.TREKBIKES.COM](http://www.TREKBIKES.COM)
-- [https://www.trekbikes.com/us/en_US/](https://www.trekbikes.com/us/en_US/)
+- [https://www.trekbikes.com/us/en_US](https://www.trekbikes.com/us/en_US)
+- [http://www.trekbikes.com](http://www.trekbikes.com)
 
 ## Brand Guidelines
 

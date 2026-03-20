@@ -2,7 +2,7 @@
 title: Agence Bretonne de la Biodiversité
 slug: "agence-bretonne-de-la-biodiversite"
 description: ""
-date: "2026-03-13T09:22:53.408601"
+date: "2026-03-20T08:22:04.310823"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - vibrant
   - graphic
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://biodiversite.bzh/](https://biodiversite.bzh/)
+- [https://biodiversite.bzh](https://biodiversite.bzh)
 
 ## Brand Guidelines
 

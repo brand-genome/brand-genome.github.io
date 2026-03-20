@@ -2,11 +2,11 @@
 title: GameSparks
 slug: gamesparks
 description: ""
-date: "2026-03-13T09:22:54.707349"
+date: "2026-03-20T08:22:05.508302"
 draft: false
 sectors:
-  - software
   - gaming
+  - software
 regions:
   - ireland
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - icon
-  - secondary
   - primary
+  - secondary
+  - alternate
 brand_colors:
+  - green
   - purple
   - grey
+  - blue
   - orange
   - black
-  - blue
-  - green
 typographies:
   - display
   - roboto

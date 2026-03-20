@@ -2,7 +2,7 @@
 title: First Bank of Nigeria
 slug: "first-bank-of-nigeria"
 description: ""
-date: "2026-03-13T09:22:52.239123"
+date: "2026-03-20T08:22:03.302742"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1894
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +53,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - "pantone-341"
-  - "pantone-186"
-  - "pantone-7621"
-  - "pantone-871"
   - white
+  - "pantone-7621"
+  - "pantone-341"
   - "pantone-873"
+  - "pantone-871"
+  - "pantone-186"
 typographies:
   - din
 imagery_styles:
-  - photography
-  - gradient
   - bold
+  - gradient
+  - photography
 wikidata_description: Nigerian multinational bank
 wikidata_url: "https://www.wikidata.org/wiki/Q5452342"
 has_twitter: false
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fbnbank.co.uk/](https://www.fbnbank.co.uk/)
-- [https://www.firstbanknigeria.com/](https://www.firstbanknigeria.com/)
-- [https://www.firstbanknigeria.com/home/](https://www.firstbanknigeria.com/home/)
+- [https://www.firstbanknigeria.com](https://www.firstbanknigeria.com)
+- [https://www.firstbanknigeria.com/home](https://www.firstbanknigeria.com/home)
+- [https://www.fbnbank.co.uk](https://www.fbnbank.co.uk)
+- [http://www.firstbanknigeria.com](http://www.firstbanknigeria.com)
 
 ## Brand Guidelines
 

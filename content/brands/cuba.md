@@ -2,7 +2,7 @@
 title: Cuba
 slug: cuba
 description: ""
-date: "2026-03-13T09:22:52.068562"
+date: "2026-03-20T08:22:03.134179"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,6 +61,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [https://www.cm-cuba.pt](https://www.cm-cuba.pt)
+
 ## Brand Guidelines
 
 ### 2014

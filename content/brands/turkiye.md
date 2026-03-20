@@ -2,7 +2,7 @@
 title: Türkiye
 slug: turkiye
 description: ""
-date: "2026-03-13T09:22:53.083930"
+date: "2026-03-20T08:22:04.084904"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +51,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://branding.goturkiye.com/](https://branding.goturkiye.com/)
-- [https://goturkiye.com/](https://goturkiye.com/)
-- [https://goturkiye.com/tr/](https://goturkiye.com/tr/)
+- [https://goturkiye.com](https://goturkiye.com)
+- [https://goturkiye.com/tr](https://goturkiye.com/tr)
+- [https://branding.goturkiye.com](https://branding.goturkiye.com)
 
 ## Brand Guidelines
 

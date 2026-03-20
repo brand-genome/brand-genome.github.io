@@ -2,13 +2,13 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-03-13T09:22:54.412377"
+date: "2026-03-20T08:22:05.260357"
 draft: false
 sectors:
-  - "space-technology"
   - automobile
-  - hardware
   - aerospace
+  - "space-technology"
+  - hardware
 regions:
   - "united-kingdom"
 years:
@@ -16,11 +16,11 @@ years:
 languages:
   - english
 tags:
-  - industry
   - engineering
+  - industry
 industries:
-  - "automotive-industry"
   - "aerospace-industry"
+  - "automotive-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1900
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,25 +58,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - silver
-  - yellow
-  - black
-  - blue
   - gold
   - white
+  - blue
+  - yellow
+  - black
 typographies:
   - univers
 imagery_styles:
-  - photography
-  - professional
   - bold
   - natural
+  - photography
+  - professional
 wikidata_description: British multinational automotive and aerospace company
 wikidata_url: "https://www.wikidata.org/wiki/Q597047"
 has_twitter: false
@@ -86,8 +88,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gknaerospace.com/](https://www.gknaerospace.com/)
-- [https://www.gknpm.com/](https://www.gknpm.com/)
+- [https://www.gknaerospace.com](https://www.gknaerospace.com)
+- [https://www.gknpm.com](https://www.gknpm.com)
+- [http://www.gkn.com](http://www.gkn.com)
 
 ## Brand Guidelines
 

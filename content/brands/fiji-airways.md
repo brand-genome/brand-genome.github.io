@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-03-13T09:22:52.025146"
+date: "2026-03-20T08:22:03.104498"
 draft: false
 sectors:
   - airline
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fijiairways.com](https://www.fijiairways.com)
+- [http://www.fijiairways.com](http://www.fijiairways.com)
+- [http://www.airpacific.com.fj](http://www.airpacific.com.fj)
 
 ## Brand Guidelines
 

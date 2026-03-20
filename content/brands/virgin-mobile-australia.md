@@ -2,7 +2,7 @@
 title: Virgin Mobile Australia
 slug: "virgin-mobile-australia"
 description: ""
-date: "2026-03-13T09:22:55.003267"
+date: "2026-03-20T08:22:05.718439"
 draft: false
 sectors:
   - telecom
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +65,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://www.virginmobile.com.au](http://www.virginmobile.com.au)
+
 ## Brand Guidelines
 
 ### 2016

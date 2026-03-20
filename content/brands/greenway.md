@@ -2,7 +2,7 @@
 title: Greenway
 slug: greenway
 description: ""
-date: "2026-03-13T09:22:54.224462"
+date: "2026-03-20T08:22:05.061341"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - signage
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +53,10 @@ logo_elements:
   - primary
 brand_colors:
   - "pantone-430"
-  - grey
-  - "pantone-355"
   - green
+  - "pantone-355"
   - white
+  - grey
 typographies:
   - arial
 imagery_styles:
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.ie/en/department-of-culture-communications-and-sport/publications/greenway-design-and-brand-guidelines/](https://www.gov.ie/en/department-of-culture-communications-and-sport/publications/greenway-design-and-brand-guidelines/)
-- [https://www.tii.ie/en/active-travel/greenways/](https://www.tii.ie/en/active-travel/greenways/)
+- [https://www.gov.ie/en/department-of-culture-communications-and-sport/publications/greenway-design-and-brand-guidelines](https://www.gov.ie/en/department-of-culture-communications-and-sport/publications/greenway-design-and-brand-guidelines)
+- [https://www.tii.ie/en/active-travel/greenways](https://www.tii.ie/en/active-travel/greenways)
 
 ## Brand Guidelines
 

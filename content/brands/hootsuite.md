@@ -2,7 +2,7 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-03-13T09:22:53.264574"
+date: "2026-03-20T08:22:04.190505"
 draft: false
 sectors:
   - software
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,23 +55,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - icon
-  - primary
-  - symbol
   - secondary
+  - logomark
+  - symbol
+  - primary
+  - icon
 brand_colors:
   - black
 typographies:
-  - "open-sans"
-  - roboto
-  - display
   - slab
+  - "open-sans"
+  - display
+  - roboto
 imagery_styles:
-  - photography
-  - professional
   - bold
   - graphic
+  - photography
+  - professional
 wikidata_description: social media management platform
 wikidata_url: "https://www.wikidata.org/wiki/Q2749075"
 has_twitter: false
@@ -81,10 +83,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Hootsuite.com](http://www.Hootsuite.com)
-- [http://www.europeanbusinessreview.com/?p=1863](http://www.europeanbusinessreview.com/?p=1863)
-- [https://amplify.hootsuite.com/](https://amplify.hootsuite.com/)
-- [https://www.hootsuite.com/](https://www.hootsuite.com/)
+- [https://www.hootsuite.com](https://www.hootsuite.com)
+- [https://amplify.hootsuite.com](https://amplify.hootsuite.com)
+- [http://www.hootsuite.com](http://www.hootsuite.com)
+- [http://www.europeanbusinessreview.com?p=1863](http://www.europeanbusinessreview.com?p=1863)
+- [http://hootsuite.com](http://hootsuite.com)
 
 ## Brand Guidelines
 

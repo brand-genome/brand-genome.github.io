@@ -2,7 +2,7 @@
 title: Wheaton College
 slug: "wheaton-college"
 description: ""
-date: "2026-03-13T09:22:52.326314"
+date: "2026-03-20T08:22:03.394841"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1860
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.WHEATON.EDU/GRADUATE-SCHOOL](http://www.WHEATON.EDU/GRADUATE-SCHOOL)
-- [https://www.wheaton.edu/](https://www.wheaton.edu/)
+- [https://www.wheaton.edu](https://www.wheaton.edu)
 - [https://www.wheaton.edu/brandbook](https://www.wheaton.edu/brandbook)
+- [http://www.wheaton.edu/GRADUATE-SCHOOL](http://www.wheaton.edu/GRADUATE-SCHOOL)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Aéroport Marseille Provence
 slug: "aeroport-marseille-provence"
 description: ""
-date: "2026-03-13T09:22:53.329565"
+date: "2026-03-20T08:22:04.240102"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.marseille.aeroport.fr](https://www.marseille.aeroport.fr)
+- [https://badges.mrs.aero](https://badges.mrs.aero)
 - [http://www.aeroport.fr](http://www.aeroport.fr)
-- [https://badges.mrs.aero/](https://badges.mrs.aero/)
-- [https://www.marseille.aeroport.fr/](https://www.marseille.aeroport.fr/)
 
 ## Brand Guidelines
 

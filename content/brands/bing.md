@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-03-13T09:22:54.333082"
+date: "2026-03-20T08:22:05.159294"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - software
+  - internet
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,10 +56,10 @@ logo_elements:
   - wordmark
 brand_colors:
   - "pantone-3295"
-  - gray
-  - black
   - teal
   - white
+  - gray
+  - black
 typographies: []
 imagery_styles:
   - product
@@ -72,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.USA.gov](http://www.USA.gov)
-- [https://www.bing.com/](https://www.bing.com/)
+- [https://www.bing.com](https://www.bing.com)
 - [https://www.bing.com/maps](https://www.bing.com/maps)
+- [http://www.usa.gov](http://www.usa.gov)
 
 ## Brand Guidelines
 

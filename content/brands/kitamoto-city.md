@@ -2,7 +2,7 @@
 title: Kitamoto City
 slug: "kitamoto-city"
 description: ""
-date: "2026-03-13T09:22:53.066313"
+date: "2026-03-20T08:22:04.058234"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - japan
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://andgreen-kitamoto.com/](https://andgreen-kitamoto.com/)
-- [https://www.city.kitamoto.lg.jp/](https://www.city.kitamoto.lg.jp/)
+- [https://www.city.kitamoto.lg.jp](https://www.city.kitamoto.lg.jp)
 - [https://www.city.kitamoto.lg.jp/index.html](https://www.city.kitamoto.lg.jp/index.html)
+- [https://andgreen-kitamoto.com](https://andgreen-kitamoto.com)
 - [https://www.city.kitamoto.lg.jp/kanko/index.html](https://www.city.kitamoto.lg.jp/kanko/index.html)
+- [http://kitamoto-sdh.co.jp/library/index.html](http://kitamoto-sdh.co.jp/library/index.html)
 
 ## Brand Guidelines
 

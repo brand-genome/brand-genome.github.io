@@ -2,11 +2,11 @@
 title: AFSP
 slug: afsp
 description: ""
-date: "2026-03-13T09:22:53.650586"
+date: "2026-03-20T08:22:04.509584"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,21 +57,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - green
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - minimal
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
+  - minimal
 wikidata_description: U.S. nonprofit health organization
 wikidata_url: "https://www.wikidata.org/wiki/Q4743852"
 has_twitter: false
@@ -81,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://afsp.org/](https://afsp.org/)
+- [https://afsp.org](https://afsp.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Netclan
 slug: netclan
 description: ""
-date: "2026-03-13T09:22:53.542602"
+date: "2026-03-20T08:22:04.418423"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - logomark
   - primary
-  - alternate
   - secondary
+  - alternate
 brand_colors:
-  - navy
-  - gray
-  - yellow
-  - black
   - beige
-  - blue
+  - navy
   - white
+  - blue
+  - yellow
+  - gray
+  - black
 typographies:
   - raleway
   - "open-sans"
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://netclan.com](https://netclan.com)
 - [https://apps.apple.com/us/app/netclan-explorer/id1614192782](https://apps.apple.com/us/app/netclan-explorer/id1614192782)
-- [https://netclan.com/](https://netclan.com/)
 - [https://play.google.com/store/apps/developer?id=Netclan+Inc.](https://play.google.com/store/apps/developer?id=Netclan+Inc.)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Régions académiques et Académies
 slug: "regions-academiques-et-academies"
 description: ""
-date: "2026-03-13T09:22:53.600404"
+date: "2026-03-20T08:22:04.464832"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - emblem
   - vertical
   - secondary
   - horizontal
+  - emblem
+  - icon
 brand_colors:
   - black
 typographies:
@@ -70,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ac-paris.fr/](https://www.ac-paris.fr/)
-- [https://www.ac-paris.fr/RAIDF](https://www.ac-paris.fr/RAIDF)
-- [https://www.education.gouv.fr/](https://www.education.gouv.fr/)
+- [https://www.education.gouv.fr](https://www.education.gouv.fr)
 - [https://www.education.gouv.fr/academie-de-paris-467953](https://www.education.gouv.fr/academie-de-paris-467953)
+- [https://www.ac-paris.fr](https://www.ac-paris.fr)
+- [https://www.ac-paris.fr/RAIDF](https://www.ac-paris.fr/RAIDF)
 
 ## Brand Guidelines
 

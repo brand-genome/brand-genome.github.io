@@ -2,11 +2,11 @@
 title: Zoetis
 slug: zoetis
 description: ""
-date: "2026-03-13T09:22:52.197771"
+date: "2026-03-20T08:22:03.264342"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - pharma
+  - "veterinary-pet-care"
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1952
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zoetis.com/](https://www.zoetis.com/)
+- [https://www.zoetis.com](https://www.zoetis.com)
+- [http://www.zoetis.com](http://www.zoetis.com)
 
 ## Brand Guidelines
 

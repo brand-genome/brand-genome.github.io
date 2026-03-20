@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-03-13T09:22:53.963346"
+date: "2026-03-20T08:22:04.886899"
 draft: false
 sectors:
   - automobile
@@ -28,15 +28,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "commercial-vehicle"
   - car
   - "sport-utility-vehicle"
+  - "commercial-vehicle"
 products: []
 headquarters_locations:
   - minato
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,16 +57,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - vertical
+  - horizontal
+  - secondary
 brand_colors:
   - silver
+  - red
   - gray
   - yellow
-  - black
   - magenta
-  - red
+  - black
 typographies: []
 imagery_styles:
   - dynamic
@@ -79,7 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mitsubishi-motors.com/en/](https://www.mitsubishi-motors.com/en/)
+- [https://www.mitsubishi-motors.com/en](https://www.mitsubishi-motors.com/en)
+- [https://www.mitsubishi-motors.com/en/index.html](https://www.mitsubishi-motors.com/en/index.html)
+- [https://www.mitsubishi-motors.de](https://www.mitsubishi-motors.de)
+- [https://mitsubishi-motors.co.uk](https://mitsubishi-motors.co.uk)
+- [https://www.mitsubishimotors.com.br](https://www.mitsubishimotors.com.br)
 
 ## Brand Guidelines
 
@@ -115,7 +121,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:Mitsubishi Motors |

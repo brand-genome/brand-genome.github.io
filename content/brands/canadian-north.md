@@ -2,7 +2,7 @@
 title: Canadian North
 slug: "canadian-north"
 description: ""
-date: "2026-03-13T09:22:52.236183"
+date: "2026-03-20T08:22:03.298836"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.canadiannorth.com](https://www.canadiannorth.com)
+- [https://cargo.canadiannorth.com](https://cargo.canadiannorth.com)
+- [https://firstair.ca/contact](https://firstair.ca/contact)
 - [http://www.myfonts.com/fonts/insigne/ranelte](http://www.myfonts.com/fonts/insigne/ranelte)
-- [https://cargo.canadiannorth.com/](https://cargo.canadiannorth.com/)
-- [https://firstair.ca/contact/](https://firstair.ca/contact/)
-- [https://www.canadiannorth.com/](https://www.canadiannorth.com/)
+- [https://canadiannorth.com](https://canadiannorth.com)
+- [https://canadiannorth.com?lang=fr](https://canadiannorth.com?lang=fr)
+- [https://canadiannorth.com?lang=iu](https://canadiannorth.com?lang=iu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Chivas Regal
 slug: "chivas-regal"
 description: ""
-date: "2026-03-13T09:22:54.418826"
+date: "2026-03-20T08:22:05.314559"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1801
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.chivas.com/en-gb](https://www.chivas.com/en-gb)
 - [https://www.chivas.com/en-US](https://www.chivas.com/en-US)
-- [https://www.chivas.com/en-gb/](https://www.chivas.com/en-gb/)
+- [http://www.chivas.com](http://www.chivas.com)
 
 ## Brand Guidelines
 

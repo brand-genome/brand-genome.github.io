@@ -2,7 +2,7 @@
 title: Intel
 slug: intel
 description: ""
-date: "2026-03-13T09:22:53.696877"
+date: "2026-03-20T08:22:04.552365"
 draft: false
 sectors:
   - electronics
@@ -17,8 +17,8 @@ tags:
   - vintage
   - technology
 industries:
-  - "electrical-industry"
   - "semiconductor-industry"
+  - "electrical-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,9 @@ logo_elements:
   - symbol
   - wordmark
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -80,7 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.intel.com/](https://www.intel.com/)
+- [https://www.intel.com](https://www.intel.com)
+- [https://www.intel.cn](https://www.intel.cn)
 
 ## Brand Guidelines
 

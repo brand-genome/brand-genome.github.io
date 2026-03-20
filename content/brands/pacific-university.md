@@ -2,7 +2,7 @@
 title: Pacific University
 slug: "pacific-university"
 description: ""
-date: "2026-03-13T09:22:55.088097"
+date: "2026-03-20T08:22:05.792714"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1851
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pacificu.edu/](https://www.pacificu.edu/)
+- [https://www.pacificu.edu](https://www.pacificu.edu)
+- [https://www.pacific.edu](https://www.pacific.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: USB
 slug: usb
 description: ""
-date: "2026-03-13T09:22:53.256364"
+date: "2026-03-20T08:22:04.181959"
 draft: false
 sectors:
   - electronics
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +54,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - gray
   - red
+  - gray
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Caracas, Venezuela"
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://certifiedusb.com/](https://certifiedusb.com/)
-- [https://www.usb.org/](https://www.usb.org/)
+- [https://www.usb.org](https://www.usb.org)
 - [https://www.usb.org/about](https://www.usb.org/about)
+- [https://certifiedusb.com](https://certifiedusb.com)
+- [http://www.usb.ve](http://www.usb.ve)
 
 ## Brand Guidelines
 

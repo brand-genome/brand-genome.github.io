@@ -2,21 +2,21 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-03-13T09:22:53.242239"
+date: "2026-03-20T08:22:04.160147"
 draft: false
 sectors:
   - automobile
 regions:
   - usa
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
-  - featured
   - transport
   - corporate
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - product
   - natural
+  - photography
 wikidata_description: American distributor of Subaru vehicles
 wikidata_url: "https://www.wikidata.org/wiki/Q7630825"
 has_twitter: false
@@ -74,9 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Fonts.com](http://www.Fonts.com)
-- [http://www.Subaru.com](http://www.Subaru.com)
-- [https://www.subaru.com/](https://www.subaru.com/)
+- [https://www.subaru.com](https://www.subaru.com)
+- [http://www.fonts.com](http://www.fonts.com)
+- [http://www.subaru.com](http://www.subaru.com)
 
 ## Brand Guidelines
 

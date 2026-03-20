@@ -2,11 +2,11 @@
 title: Research Council of Lithuania
 slug: "research-council-of-lithuania"
 description: ""
-date: "2026-03-13T09:22:53.064228"
+date: "2026-03-20T08:22:04.056112"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - lithuania
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lmt.lrv.lt/en/](https://lmt.lrv.lt/en/)
-- [https://lmt.lrv.lt/lt/](https://lmt.lrv.lt/lt/)
+- [https://lmt.lrv.lt/en](https://lmt.lrv.lt/en)
+- [https://lmt.lrv.lt/lt](https://lmt.lrv.lt/lt)
+- [http://www.lmt.lt](http://www.lmt.lt)
 
 ## Brand Guidelines
 

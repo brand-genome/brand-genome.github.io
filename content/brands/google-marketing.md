@@ -2,11 +2,11 @@
 title: Google Marketing
 slug: "google-marketing"
 description: ""
-date: "2026-03-13T09:22:55.013948"
+date: "2026-03-20T08:22:05.722920"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - yellow
   - red
+  - yellow
   - blue
 typographies: []
 imagery_styles:
-  - clean
   - product
+  - clean
   - professional
 wikidata_description: advertising and analytics platform from Google
 wikidata_url: "https://www.wikidata.org/wiki/Q56274981"
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://marketingplatform.google.com/](https://marketingplatform.google.com/)
+- [https://marketingplatform.google.com](https://marketingplatform.google.com)
+- [https://marketingplatform.google.com/about](https://marketingplatform.google.com/about)
 
 ## Brand Guidelines
 

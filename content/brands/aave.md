@@ -2,7 +2,7 @@
 title: Aave
 slug: aave
 description: ""
-date: "2026-03-13T09:22:53.274146"
+date: "2026-03-20T08:22:04.201901"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - financial
+  - internet
 industries: []
 countries:
   - finland
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,14 +66,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.instagram.com/aave.aave/](http://www.instagram.com/aave.aave/)
+- [https://aave.com](https://aave.com)
+- [https://app.aave.com](https://app.aave.com)
+- [https://governance.aave.com](https://governance.aave.com)
+- [https://www.aave.org](https://www.aave.org)
+- [http://www.instagram.com/aave.aave](http://www.instagram.com/aave.aave)
 - [http://www.linkedin.com/company/aaveaave](http://www.linkedin.com/company/aaveaave)
-- [http://www.reddit.com/r/Aave_Oﬃcial/](http://www.reddit.com/r/Aave_Oﬃcial/)
-- [https://aave.com/](https://aave.com/)
-- [https://app.aave.com/](https://app.aave.com/)
-- [https://governance.aave.com/](https://governance.aave.com/)
+- [http://www.reddit.com/r/Aave_Oﬃcial](http://www.reddit.com/r/Aave_Oﬃcial)
 - [https://twitter.com/AaveAave](https://twitter.com/AaveAave)
-- [https://www.aave.org/](https://www.aave.org/)
 
 ## Brand Guidelines
 

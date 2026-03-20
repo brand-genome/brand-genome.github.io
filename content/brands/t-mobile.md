@@ -2,7 +2,7 @@
 title: "T-Mobile"
 slug: "t-mobile"
 description: ""
-date: "2026-03-13T09:22:53.072652"
+date: "2026-03-20T08:22:04.067755"
 draft: false
 sectors:
   - telecom
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.t-mobile.com/](https://www.t-mobile.com/)
-- [https://www.telekom.de/](https://www.telekom.de/)
+- [https://www.t-mobile.com](https://www.t-mobile.com)
+- [https://www.telekom.de](https://www.telekom.de)
 
 ## Brand Guidelines
 

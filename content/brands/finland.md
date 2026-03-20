@@ -2,7 +2,7 @@
 title: Finland
 slug: finland
 description: ""
-date: "2026-03-13T09:22:51.920413"
+date: "2026-03-20T08:22:03.077401"
 draft: false
 sectors:
   - "public-sector"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1865
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,11 +67,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://toolbox.finland.fi](https://toolbox.finland.fi)
+- [https://toolbox.finland.fi/about-finland-toolbox](https://toolbox.finland.fi/about-finland-toolbox)
+- [https://toolbox.finland.fi/brand-identity-and-guidelines/logo](https://toolbox.finland.fi/brand-identity-and-guidelines/logo)
 - [http://www.finland.fi](http://www.finland.fi)
 - [https://github.com/HelsinkiTypeStudio/Finlandica](https://github.com/HelsinkiTypeStudio/Finlandica)
-- [https://toolbox.finland.fi/](https://toolbox.finland.fi/)
-- [https://toolbox.finland.fi/about-finland-toolbox/](https://toolbox.finland.fi/about-finland-toolbox/)
-- [https://toolbox.finland.fi/brand-identity-and-guidelines/logo/](https://toolbox.finland.fi/brand-identity-and-guidelines/logo/)
+- [https://www.stat.fi](https://www.stat.fi)
+- [https://tilastokeskus.fi](https://tilastokeskus.fi)
 
 ## Brand Guidelines
 

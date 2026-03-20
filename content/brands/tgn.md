@@ -2,11 +2,11 @@
 title: TGN
 slug: tgn
 description: ""
-date: "2026-03-13T09:22:51.903169"
+date: "2026-03-20T08:22:03.068344"
 draft: false
 sectors:
-  - gas
   - utilities
+  - gas
 regions:
   - argentina
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - "buenos-aires"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies:
-  - montserrat
   - impact
+  - montserrat
 imagery_styles:
+  - dynamic
+  - bold
   - modern
   - natural
-  - dynamic
   - photography
-  - bold
 wikidata_description: Argentine energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q106410457"
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tgn.com.ar](https://www.tgn.com.ar)
 - [http://www.com.ar](http://www.com.ar)
-- [https://www.tgn.com.ar/](https://www.tgn.com.ar/)
 
 ## Brand Guidelines
 

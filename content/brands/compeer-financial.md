@@ -2,7 +2,7 @@
 title: Compeer Financial
 slug: "compeer-financial"
 description: ""
-date: "2026-03-13T09:22:54.044680"
+date: "2026-03-20T08:22:04.899681"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - "pantone-381"
+  - white
+  - "pantone-3155"
   - "pantone-347"
   - black
-  - "pantone-381"
-  - "pantone-3155"
-  - white
 typographies:
-  - arial
   - brandon
+  - arial
   - lato
 imagery_styles:
   - staged
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.compeer.com/](https://www.compeer.com/)
+- [https://www.compeer.com](https://www.compeer.com)
 
 ## Brand Guidelines
 

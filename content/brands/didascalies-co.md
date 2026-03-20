@@ -2,7 +2,7 @@
 title: "Didascalies & Co"
 slug: "didascalies-co"
 description: ""
-date: "2026-03-13T09:22:55.086979"
+date: "2026-03-20T08:22:05.791097"
 draft: false
 sectors:
   - "arts-culture"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.didascaliesandco.fr/](https://www.didascaliesandco.fr/)
+- [https://www.didascaliesandco.fr](https://www.didascaliesandco.fr)
 
 ## Brand Guidelines
 

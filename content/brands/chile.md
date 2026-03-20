@@ -2,7 +2,7 @@
 title: Chile
 slug: chile
 description: ""
-date: "2026-03-13T09:22:53.511179"
+date: "2026-03-20T08:22:04.404854"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - institution
+  - featured
 industries: []
 countries:
   - chile
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,11 +53,11 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - natural
-  - organic
-  - vibrant
-  - photography
   - graphic
+  - organic
+  - natural
+  - photography
+  - vibrant
 wikidata_description: "men's national association football team representing Chile"
 wikidata_url: "https://www.wikidata.org/wiki/Q172025"
 has_twitter: false
@@ -68,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.marcachile.cl/](https://www.marcachile.cl/)
+- [https://www.marcachile.cl](https://www.marcachile.cl)
+- [https://www.laroja.cl](https://www.laroja.cl)
 
 ## Brand Guidelines
 

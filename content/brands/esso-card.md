@@ -2,11 +2,11 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-03-13T09:22:54.217290"
+date: "2026-03-20T08:22:05.044538"
 draft: false
 sectors:
-  - "petrol-station"
   - finance
+  - "petrol-station"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors:
-  - "pantone-293"
   - red
-  - blue
   - "pantone-485"
   - white
+  - blue
+  - "pantone-293"
 typographies:
-  - display
   - impact
+  - display
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://essocardlocks.ca/en/](https://essocardlocks.ca/en/)
-- [https://www.essobusinesscards.ca/](https://www.essobusinesscards.ca/)
-- [https://www.essocard.com/](https://www.essocard.com/)
+- [https://www.essocard.com](https://www.essocard.com)
+- [https://www.essobusinesscards.ca](https://www.essobusinesscards.ca)
+- [https://essocardlocks.ca/en](https://essocardlocks.ca/en)
 
 ## Brand Guidelines
 

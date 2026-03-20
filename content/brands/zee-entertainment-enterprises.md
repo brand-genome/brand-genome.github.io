@@ -2,7 +2,7 @@
 title: Zee Entertainment Enterprises
 slug: "zee-entertainment-enterprises"
 description: ""
-date: "2026-03-13T09:22:52.057357"
+date: "2026-03-20T08:22:03.123403"
 draft: false
 sectors:
   - broadcasting
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries:
   - "mass-media"
 countries:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zee.com/](https://www.zee.com/)
+- [https://www.zee.com](https://www.zee.com)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: EIT Community
 slug: "eit-community"
 description: ""
-date: "2026-03-13T09:22:55.081869"
+date: "2026-03-20T08:22:05.784699"
 draft: false
 sectors:
-  - research
-  - education
   - "public-sector"
+  - education
+  - research
 regions:
   - hungary
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - institution
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,11 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eit.europa.eu/](https://eit.europa.eu/)
-- [https://neb.eitcommunity.eu/](https://neb.eitcommunity.eu/)
-- [https://www.eit.europa.eu/community-activities/eit-community-education](https://www.eit.europa.eu/community-activities/eit-community-education)
+- [https://eit.europa.eu](https://eit.europa.eu)
 - [https://www.eit.europa.eu/eit-community/eit](https://www.eit.europa.eu/eit-community/eit)
-- [https://www.go-eit.eu/](https://www.go-eit.eu/)
+- [https://www.eit.europa.eu/community-activities/eit-community-education](https://www.eit.europa.eu/community-activities/eit-community-education)
+- [https://neb.eitcommunity.eu](https://neb.eitcommunity.eu)
+- [https://www.go-eit.eu](https://www.go-eit.eu)
 
 ## Brand Guidelines
 

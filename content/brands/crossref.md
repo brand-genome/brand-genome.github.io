@@ -2,11 +2,11 @@
 title: Crossref
 slug: crossref
 description: ""
-date: "2026-03-13T09:22:54.757520"
+date: "2026-03-20T08:22:05.553591"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - stacked
+  - primary
   - wordmark
 brand_colors:
-  - "pantone-631"
+  - red
+  - "pantone-123"
+  - white
+  - grey
   - "pantone-7527"
   - "pantone-445"
-  - grey
+  - "pantone-631"
   - black
-  - "pantone-123"
-  - red
-  - white
 typographies: []
 imagery_styles:
   - contemporary
@@ -77,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.crossref.org](https://www.crossref.org)
+- [https://assets.crossref.org](https://assets.crossref.org)
 - [http://www.crossref.org](http://www.crossref.org)
-- [https://assets.crossref.org/](https://assets.crossref.org/)
-- [https://www.crossref.org/](https://www.crossref.org/)
 
 ## Brand Guidelines
 

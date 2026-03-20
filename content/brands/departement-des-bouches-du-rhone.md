@@ -2,7 +2,7 @@
 title: "Département des Bouches-du-Rhône"
 slug: "departement-des-bouches-du-rhone"
 description: ""
-date: "2026-03-13T09:22:52.332961"
+date: "2026-03-20T08:22:03.401785"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://departement13.fr](https://departement13.fr)
 - [http://www.departement13.fr](http://www.departement13.fr)
-- [https://departement13.fr/](https://departement13.fr/)
 
 ## Brand Guidelines
 

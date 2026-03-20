@@ -2,7 +2,7 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-03-13T09:22:52.237215"
+date: "2026-03-20T08:22:03.299910"
 draft: false
 sectors:
   - broadcasting
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - broadcast
   - sport
+  - broadcast
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +59,8 @@ brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - photography
   - clean
+  - photography
 wikidata_description: American broadcast sports network
 wikidata_url: "https://www.wikidata.org/wiki/Q217776"
 has_twitter: false
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.espn.com](https://www.espn.com)
+- [https://plus.espn.com](https://plus.espn.com)
 - [https://espnpressroom.com/us](https://espnpressroom.com/us)
-- [https://plus.espn.com/](https://plus.espn.com/)
-- [https://www.espn.com/](https://www.espn.com/)
 
 ## Brand Guidelines
 

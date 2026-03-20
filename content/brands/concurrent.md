@@ -2,7 +2,7 @@
 title: Concurrent
 slug: concurrent
 description: ""
-date: "2026-03-13T09:22:51.900870"
+date: "2026-03-20T08:22:03.066678"
 draft: false
 sectors:
   - hardware
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,16 +52,16 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - artificial
-  - serious
-  - modern
-  - flat
-  - natural
-  - dynamic
-  - photography
   - product
+  - dynamic
+  - artificial
+  - flat
   - bold
+  - modern
+  - natural
   - static
+  - photography
+  - serious
 wikidata_description: historical centralized version control system
 wikidata_url: "https://www.wikidata.org/wiki/Q467252"
 has_twitter: false
@@ -69,6 +71,11 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [https://www.nongnu.org/cvs](https://www.nongnu.org/cvs)
+- [https://savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
+
 ## Brand Guidelines
 
 ### 2024

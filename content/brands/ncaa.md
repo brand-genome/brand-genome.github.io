@@ -2,15 +2,15 @@
 title: NCAA
 slug: ncaa
 description: ""
-date: "2026-03-13T09:22:53.282360"
+date: "2026-03-20T08:22:04.211676"
 draft: false
 sectors:
   - sports
 regions:
   - usa
 years:
-  - 2015
   - 2021
+  - 2015
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1906
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ body_sections: []
 logo_elements:
   - alternate
   - vertical
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: American collegiate athletic organization
 wikidata_url: "https://www.wikidata.org/wiki/Q271805"
 has_twitter: false
@@ -71,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ncaa.com/](https://www.ncaa.com/)
-- [https://www.ncaa.org/](https://www.ncaa.org/)
+- [https://www.ncaa.org](https://www.ncaa.org)
+- [https://www.ncaa.com](https://www.ncaa.com)
 - [https://www.ncaa.org/playcollegesports](https://www.ncaa.org/playcollegesports)
 
 ## Brand Guidelines

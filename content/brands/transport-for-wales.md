@@ -2,11 +2,11 @@
 title: Transport for Wales
 slug: "transport-for-wales"
 description: ""
-date: "2026-03-13T09:22:52.232289"
+date: "2026-03-20T08:22:03.295609"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.comisiynyddygymraeg.cymru/](http://www.comisiynyddygymraeg.cymru/)
-- [https://tfw.gov.wales/](https://tfw.gov.wales/)
-- [https://tfw.wales/](https://tfw.wales/)
+- [https://tfw.wales](https://tfw.wales)
+- [https://tfw.gov.wales](https://tfw.gov.wales)
+- [http://www.comisiynyddygymraeg.cymru](http://www.comisiynyddygymraeg.cymru)
+- [https://trc.cymru](https://trc.cymru)
+- [https://trc.llyw.cymru](https://trc.llyw.cymru)
 
 ## Brand Guidelines
 

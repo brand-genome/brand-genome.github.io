@@ -2,7 +2,7 @@
 title: Pima Foundation
 slug: "pima-foundation"
 description: ""
-date: "2026-03-13T09:22:52.876009"
+date: "2026-03-20T08:22:03.872748"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pimafoundation.org/](https://pimafoundation.org/)
+- [https://pimafoundation.org](https://pimafoundation.org)
 
 ## Brand Guidelines
 

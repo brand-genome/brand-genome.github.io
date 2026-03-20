@@ -2,7 +2,7 @@
 title: Republic of Kenya
 slug: "republic-of-kenya"
 description: ""
-date: "2026-03-13T09:22:53.259995"
+date: "2026-03-20T08:22:04.185371"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-48"
+  - white
   - "pantone-54"
   - "pantone-17"
-  - white
 typographies:
   - helvetica
 imagery_styles:
+  - bold
   - photography
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://gok.kenya.go.ke](https://gok.kenya.go.ke)
+- [https://www.president.go.ke](https://www.president.go.ke)
 - [https://ag.ecitizen.go.ke/index.php](https://ag.ecitizen.go.ke/index.php)
-- [https://gok.kenya.go.ke/](https://gok.kenya.go.ke/)
-- [https://www.mfa.go.ke/](https://www.mfa.go.ke/)
-- [https://www.president.go.ke/](https://www.president.go.ke/)
+- [https://www.mfa.go.ke](https://www.mfa.go.ke)
 
 ## Brand Guidelines
 

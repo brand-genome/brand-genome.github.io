@@ -2,7 +2,7 @@
 title: "Eilan Hotel & Spa"
 slug: "eilan-hotel-spa"
 description: ""
-date: "2026-03-13T09:22:54.571851"
+date: "2026-03-20T08:22:05.417220"
 draft: false
 sectors:
   - hospitality
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eilanhotel.com/](https://www.eilanhotel.com/)
+- [https://www.eilanhotel.com](https://www.eilanhotel.com)
 
 ## Brand Guidelines
 

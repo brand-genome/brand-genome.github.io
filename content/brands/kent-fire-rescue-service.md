@@ -2,11 +2,11 @@
 title: "Kent Fire & Rescue Service"
 slug: "kent-fire-rescue-service"
 description: ""
-date: "2026-03-13T09:22:52.310411"
+date: "2026-03-20T08:22:03.375937"
 draft: false
 sectors:
-  - "emergency-services"
   - "public-sector"
+  - "emergency-services"
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kent.fire-uk.org/](https://www.kent.fire-uk.org/)
+- [https://www.kent.fire-uk.org](https://www.kent.fire-uk.org)
 
 ## Brand Guidelines
 

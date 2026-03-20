@@ -2,7 +2,7 @@
 title: Berlin
 slug: berlin
 description: ""
-date: "2026-03-13T09:22:53.251106"
+date: "2026-03-20T08:22:04.177181"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1244
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ brand_colors:
 typographies:
   - din
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "federated state, capital and largest city of Germany"
 wikidata_url: "https://www.wikidata.org/wiki/Q64"
 has_twitter: false
@@ -67,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.berlin.de](https://www.berlin.de)
+- [https://service.berlin.de](https://service.berlin.de)
+- [https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin)
 - [http://www.berlin.de](http://www.berlin.de)
-- [https://service.berlin.de/](https://service.berlin.de/)
-- [https://www.berlin.de/](https://www.berlin.de/)
-- [https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin/](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin/)
 
 ## Brand Guidelines
 

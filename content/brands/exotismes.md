@@ -2,7 +2,7 @@
 title: Exotismes
 slug: exotismes
 description: ""
-date: "2026-03-13T09:22:54.740366"
+date: "2026-03-20T08:22:05.537367"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
   - horizontal
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
-  - georgia
   - lato
+  - georgia
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.exotismes.fr](https://www.exotismes.fr)
 - [http://www.exotismes.fr](http://www.exotismes.fr)
-- [https://www.exotismes.fr/](https://www.exotismes.fr/)
 
 ## Brand Guidelines
 

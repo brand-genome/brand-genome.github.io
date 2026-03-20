@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-03-13T09:22:53.639705"
+date: "2026-03-20T08:22:04.495582"
 draft: false
 sectors:
   - ngo
@@ -15,9 +15,9 @@ languages:
 tags:
   - charity
 industries:
-  - "other-social-work-activities-without-accommodation-nec"
-  - "activities-of-religious-organisations"
   - "voluntary-sector"
+  - "activities-of-religious-organisations"
+  - "other-social-work-activities-without-accommodation-nec"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1865
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.salvationarmy.org/](https://www.salvationarmy.org/)
-- [https://www.salvationarmyusa.org/us/](https://www.salvationarmyusa.org/us/)
+- [https://www.salvationarmy.org](https://www.salvationarmy.org)
+- [https://www.salvationarmyusa.org/us](https://www.salvationarmyusa.org/us)
 
 ## Brand Guidelines
 

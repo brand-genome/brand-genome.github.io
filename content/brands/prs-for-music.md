@@ -2,7 +2,7 @@
 title: PRS for Music
 slug: "prs-for-music"
 description: ""
-date: "2026-03-13T09:22:53.270625"
+date: "2026-03-20T08:22:04.197734"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - music
+  - community
   - cultural
 industries: []
 countries:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.prsformusic.com/](https://www.prsformusic.com/)
+- [https://www.prsformusic.com](https://www.prsformusic.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Salto
 slug: salto
 description: ""
-date: "2026-03-13T09:22:53.085576"
+date: "2026-03-20T08:22:04.086920"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1837
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.salto-youth.net/see](http://www.salto-youth.net/see)
-- [https://saltogreen.eu/en/](https://saltogreen.eu/en/)
-- [https://saltonetwork.eu/](https://saltonetwork.eu/)
+- [https://saltonetwork.eu](https://saltonetwork.eu)
 - [https://saltonetwork.eu/resource-centres](https://saltonetwork.eu/resource-centres)
-- [https://www.salto-et.eu/](https://www.salto-et.eu/)
+- [https://saltogreen.eu/en](https://saltogreen.eu/en)
+- [https://www.salto-et.eu](https://www.salto-et.eu)
+- [http://www.salto-youth.net/see](http://www.salto-youth.net/see)
 
 ## Brand Guidelines
 

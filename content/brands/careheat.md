@@ -2,7 +2,7 @@
 title: CAREHeat
 slug: careheat
 description: ""
-date: "2026-03-13T09:22:53.017756"
+date: "2026-03-20T08:22:04.009200"
 draft: false
 sectors:
   - research
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://careheat.org/](https://careheat.org/)
-- [https://eo4society.esa.int/projects/careheat/](https://eo4society.esa.int/projects/careheat/)
+- [https://careheat.org](https://careheat.org)
+- [https://eo4society.esa.int/projects/careheat](https://eo4society.esa.int/projects/careheat)
 
 ## Brand Guidelines
 

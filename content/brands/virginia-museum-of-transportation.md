@@ -2,7 +2,7 @@
 title: Virginia Museum of Transportation
 slug: "virginia-museum-of-transportation"
 description: ""
-date: "2026-03-13T09:22:53.337601"
+date: "2026-03-20T08:22:04.247025"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - museum
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - gray
-  - black
   - red
   - gold
   - white
+  - gray
+  - black
 typographies:
   - serif
 imagery_styles:
-  - illustration
   - bold
+  - illustration
 wikidata_description: "transport museum in Roanoke, Virginia"
 wikidata_url: "https://www.wikidata.org/wiki/Q7934427"
 has_twitter: false
@@ -73,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.VMT.org](http://www.VMT.org)
-- [https://www.vmt.org/](https://www.vmt.org/)
+- [https://www.vmt.org](https://www.vmt.org)
+- [http://www.vmt.org](http://www.vmt.org)
 
 ## Brand Guidelines
 

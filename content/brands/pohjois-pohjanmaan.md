@@ -2,7 +2,7 @@
 title: Pohjois Pohjanmaan
 slug: "pohjois-pohjanmaan"
 description: ""
-date: "2026-03-13T09:22:53.318291"
+date: "2026-03-20T08:22:04.230101"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1877
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.pohjois-pohjanmaa.fi/en](https://www.pohjois-pohjanmaa.fi/en)
 - [http://www.greystone.fi](http://www.greystone.fi)
 - [http://www.pohjois-pohjanmaa.fi](http://www.pohjois-pohjanmaa.fi)
-- [https://www.pohjois-pohjanmaa.fi/en/](https://www.pohjois-pohjanmaa.fi/en/)
+- [https://www.ouka.fi/oulu/kirjasto](https://www.ouka.fi/oulu/kirjasto)
+- [https://www.ouka.fi/oulu/library](https://www.ouka.fi/oulu/library)
 
 ## Brand Guidelines
 

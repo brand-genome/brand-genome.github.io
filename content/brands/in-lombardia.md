@@ -2,7 +2,7 @@
 title: in Lombardia
 slug: "in-lombardia"
 description: ""
-date: "2026-03-13T09:22:53.533847"
+date: "2026-03-20T08:22:04.415641"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
-  - green
   - "pantone-349"
+  - green
+  - black
 typographies:
   - lato
 imagery_styles:
@@ -69,12 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.in-lombardia.it/](https://www.in-lombardia.it/)
-- [https://www.in-lombardia.it/de/](https://www.in-lombardia.it/de/)
-- [https://www.in-lombardia.it/en/](https://www.in-lombardia.it/en/)
-- [https://www.in-lombardia.it/es/](https://www.in-lombardia.it/es/)
-- [https://www.in-lombardia.it/fr/](https://www.in-lombardia.it/fr/)
-- [https://www.in-lombardia.it/it/](https://www.in-lombardia.it/it/)
+- [https://www.in-lombardia.it](https://www.in-lombardia.it)
+- [https://www.in-lombardia.it/en](https://www.in-lombardia.it/en)
+- [https://www.in-lombardia.it/it](https://www.in-lombardia.it/it)
+- [https://www.in-lombardia.it/fr](https://www.in-lombardia.it/fr)
+- [https://www.in-lombardia.it/de](https://www.in-lombardia.it/de)
+- [https://www.in-lombardia.it/es](https://www.in-lombardia.it/es)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Appian
 slug: appian
 description: ""
-date: "2026-03-13T09:22:53.277166"
+date: "2026-03-20T08:22:04.204803"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
-  - purple
-  - black
-  - blue
   - green
   - white
+  - purple
+  - blue
+  - black
 typographies: []
 imagery_styles:
+  - minimal
+  - graphic
+  - bold
+  - photography
   - clean
   - vibrant
-  - minimal
-  - photography
-  - bold
-  - graphic
 wikidata_description: film production company
 wikidata_url: "https://www.wikidata.org/wiki/Q2858710"
 has_twitter: false
@@ -77,12 +79,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.appian.com](https://www.appian.com)
+- [https://www.appian.de](https://www.appian.de)
+- [https://www.appian.it](https://www.appian.it)
+- [https://www.appian.es](https://www.appian.es)
+- [https://www.appian.fr](https://www.appian.fr)
 - [http://www.appian.com](http://www.appian.com)
-- [https://www.appian.com/](https://www.appian.com/)
-- [https://www.appian.de/](https://www.appian.de/)
-- [https://www.appian.es/](https://www.appian.es/)
-- [https://www.appian.fr/](https://www.appian.fr/)
-- [https://www.appian.it/](https://www.appian.it/)
 
 ## Brand Guidelines
 

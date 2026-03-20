@@ -2,7 +2,7 @@
 title: Université de Montpellier
 slug: "universite-de-montpellier"
 description: ""
-date: "2026-03-13T09:22:55.165943"
+date: "2026-03-20T08:22:05.867590"
 draft: false
 sectors:
   - university
@@ -13,10 +13,10 @@ years:
 languages:
   - french
 tags:
-  - featured
-  - education
   - university
   - institution
+  - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://edu.umontpellier.fr/](https://edu.umontpellier.fr/)
-- [https://www.umontpellier.fr/](https://www.umontpellier.fr/)
+- [https://www.umontpellier.fr](https://www.umontpellier.fr)
+- [https://edu.umontpellier.fr](https://edu.umontpellier.fr)
 
 ## Brand Guidelines
 

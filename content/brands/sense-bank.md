@@ -2,7 +2,7 @@
 title: Sense Bank
 slug: "sense-bank"
 description: ""
-date: "2026-03-13T09:22:52.301276"
+date: "2026-03-20T08:22:03.369681"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://sensebank.ua](https://sensebank.ua)
+- [https://sensebank.com.ua](https://sensebank.com.ua)
+- [https://sense.com.ua](https://sense.com.ua)
 - [http://www.sense.com](http://www.sense.com)
-- [https://sense.com.ua/](https://sense.com.ua/)
-- [https://sensebank.com.ua/](https://sensebank.com.ua/)
-- [https://sensebank.ua/](https://sensebank.ua/)
+- [https://alfabank.ua](https://alfabank.ua)
 
 ## Brand Guidelines
 

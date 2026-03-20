@@ -2,12 +2,12 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-03-13T09:22:54.566713"
+date: "2026-03-20T08:22:05.413535"
 draft: false
 sectors:
-  - telecom
-  - cybersecurity
   - networking
+  - cybersecurity
+  - telecom
 regions:
   - taiwan
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
+  - telecommunications
   - technology
-  - telecommunications
 industries:
-  - telecommunications
   - "networking-hardware"
+  - telecommunications
 countries:
   - taiwan
 revenue_buckets: []
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,21 +59,21 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-194"
-  - "pantone-2915"
-  - black
   - "pantone-287"
-  - blue
+  - "pantone-2915"
   - white
+  - blue
+  - "pantone-194"
+  - black
 typographies: []
 imagery_styles:
+  - product
+  - staged
+  - professional
   - classic
   - natural
-  - staged
-  - clean
   - photography
-  - product
-  - professional
+  - clean
 wikidata_description: Taiwanese manufacturer of networking hardware
 wikidata_url: "https://www.wikidata.org/wiki/Q245283"
 has_twitter: false
@@ -83,9 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.zyxel.com](http://www.zyxel.com)
-- [https://www.zyxel.com/](https://www.zyxel.com/)
+- [https://www.zyxel.com](https://www.zyxel.com)
 - [https://www.zyxel.com/us/en-us](https://www.zyxel.com/us/en-us)
+- [http://www.zyxel.com](http://www.zyxel.com)
 
 ## Brand Guidelines
 

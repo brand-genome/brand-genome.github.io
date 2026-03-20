@@ -2,7 +2,7 @@
 title: Air Products
 slug: "air-products"
 description: ""
-date: "2026-03-13T09:22:51.907816"
+date: "2026-03-20T08:22:03.069449"
 draft: false
 sectors:
   - gas
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2017
+  - 2024
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
-  - secondary
   - abstract
+  - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - black
+  - blue
   - green
   - white
-  - blue
+  - black
 typographies:
   - "open-sans"
 imagery_styles:
-  - contemporary
-  - natural
-  - vibrant
   - abstract
-  - bold
   - graphic
+  - bold
+  - natural
+  - contemporary
+  - vibrant
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q113466636"
 has_twitter: false
@@ -79,9 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.airproducts.com](https://www.airproducts.com)
+- [https://investors.airproducts.com](https://investors.airproducts.com)
 - [http://www.airproducts.com/identity](http://www.airproducts.com/identity)
-- [https://investors.airproducts.com/](https://investors.airproducts.com/)
-- [https://www.airproducts.com/](https://www.airproducts.com/)
+- [http://www.airproducts.be](http://www.airproducts.be)
 
 ## Brand Guidelines
 

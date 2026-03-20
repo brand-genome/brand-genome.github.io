@@ -2,7 +2,7 @@
 title: The Open Application Network
 slug: "the-open-application-network"
 description: ""
-date: "2026-03-13T09:22:53.077138"
+date: "2026-03-20T08:22:04.074107"
 draft: false
 sectors:
   - software
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://aion.theoan.com/](https://aion.theoan.com/)
-- [https://developer.theoan.com/](https://developer.theoan.com/)
-- [https://validators.theoan.com/](https://validators.theoan.com/)
+- [https://developer.theoan.com](https://developer.theoan.com)
+- [https://validators.theoan.com](https://validators.theoan.com)
+- [https://aion.theoan.com](https://aion.theoan.com)
 
 ## Brand Guidelines
 

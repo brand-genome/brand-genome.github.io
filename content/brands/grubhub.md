@@ -2,7 +2,7 @@
 title: Grubhub
 slug: grubhub
 description: ""
-date: "2026-03-13T09:22:51.919371"
+date: "2026-03-20T08:22:03.076971"
 draft: false
 sectors:
   - food
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - app
   - "food-beverage"
+  - app
 industries: []
 countries:
   - "united-states"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://about.grubhub.com/](https://about.grubhub.com/)
-- [https://www.grubhub.com/](https://www.grubhub.com/)
+- [https://www.grubhub.com](https://www.grubhub.com)
+- [https://about.grubhub.com](https://about.grubhub.com)
 
 ## Brand Guidelines
 

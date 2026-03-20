@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-03-13T09:22:52.304751"
+date: "2026-03-20T08:22:03.373628"
 draft: false
 sectors:
   - "consumer-goods"
@@ -18,8 +18,8 @@ tags:
 industries:
   - "direct-selling"
 countries:
-  - "united-states"
   - malaysia
+  - "united-states"
 revenue_buckets:
   - "1B-10B"
 operating_income_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tupperware.com](https://www.tupperware.com)
+- [https://www.tupperwarebrands.com](https://www.tupperwarebrands.com)
 - [http://www.tupperware.com](http://www.tupperware.com)
-- [https://www.tupperware.com/](https://www.tupperware.com/)
-- [https://www.tupperwarebrands.com/](https://www.tupperwarebrands.com/)
+- [https://www.tupperware.com.mx](https://www.tupperware.com.mx)
+- [https://www.tupperware.de](https://www.tupperware.de)
+- [https://my.tupperware.com](https://my.tupperware.com)
+- [https://stores.tupperwareindia.com](https://stores.tupperwareindia.com)
 
 ## Brand Guidelines
 

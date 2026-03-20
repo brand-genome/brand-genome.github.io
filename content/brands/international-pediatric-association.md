@@ -2,11 +2,11 @@
 title: International Pediatric Association
 slug: "international-pediatric-association"
 description: ""
-date: "2026-03-13T09:22:54.331103"
+date: "2026-03-20T08:22:05.156285"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - turquoise
+  - white
+  - black
 typographies:
+  - impact
   - verdana
   - avenir
-  - impact
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q126925308"
@@ -67,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ipa-world.org](https://www.ipa-world.org)
+- [https://www.ipa-world.com](https://www.ipa-world.com)
+- [https://www.ipaf-world.org](https://www.ipaf-world.org)
 - [http://www.ipa-world.org](http://www.ipa-world.org)
-- [https://www.ipa-world.com/](https://www.ipa-world.com/)
-- [https://www.ipa-world.org/](https://www.ipa-world.org/)
-- [https://www.ipaf-world.org/](https://www.ipaf-world.org/)
+- [https://ipa-world.org](https://ipa-world.org)
 
 ## Brand Guidelines
 

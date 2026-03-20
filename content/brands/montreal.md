@@ -2,7 +2,7 @@
 title: Montréal
 slug: montreal
 description: ""
-date: "2026-03-13T09:22:52.118400"
+date: "2026-03-20T08:22:03.176082"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
-  - city
-  - featured
   - regional
+  - featured
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://montreal.ca/](https://montreal.ca/)
-- [https://montreal.ca/en/](https://montreal.ca/en/)
+- [https://montreal.ca/en](https://montreal.ca/en)
+- [https://montreal.ca](https://montreal.ca)
 
 ## Brand Guidelines
 

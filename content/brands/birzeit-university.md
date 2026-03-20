@@ -2,7 +2,7 @@
 title: Birzeit University
 slug: "birzeit-university"
 description: ""
-date: "2026-03-13T09:22:55.080922"
+date: "2026-03-20T08:22:05.782611"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.birzeit.edu/ar](https://www.birzeit.edu/ar)
 - [https://www.birzeit.edu/en](https://www.birzeit.edu/en)
+- [https://www.birzeit.edu/ar](https://www.birzeit.edu/ar)
+- [https://www.birzeit.edu](https://www.birzeit.edu)
 
 ## Brand Guidelines
 

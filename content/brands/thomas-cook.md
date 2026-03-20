@@ -2,7 +2,7 @@
 title: Thomas Cook
 slug: "thomas-cook"
 description: ""
-date: "2026-03-13T09:22:54.726332"
+date: "2026-03-20T08:22:05.523758"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "tourism-industry"
   - "hospitality-industry"
+  - "tourism-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1841
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +56,9 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - yellow
   - grey
   - magenta
-  - yellow
 typographies:
   - inter
 imagery_styles:
@@ -72,7 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.thomascook.com/](https://www.thomascook.com/)
+- [https://www.thomascook.com](https://www.thomascook.com)
+- [http://www.thomascookgroup.com](http://www.thomascookgroup.com)
+- [https://www.thomascook.de](https://www.thomascook.de)
 
 ## Brand Guidelines
 

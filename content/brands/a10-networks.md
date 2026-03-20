@@ -2,12 +2,12 @@
 title: A10 Networks
 slug: "a10-networks"
 description: ""
-date: "2026-03-13T09:22:53.080260"
+date: "2026-03-20T08:22:04.079430"
 draft: false
 sectors:
-  - hardware
-  - cybersecurity
   - networking
+  - cybersecurity
+  - hardware
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.A10networks.com](http://www.A10networks.com)
-- [https://www.a10networks.com/](https://www.a10networks.com/)
+- [https://www.a10networks.com](https://www.a10networks.com)
+- [http://www.a10networks.com](http://www.a10networks.com)
 
 ## Brand Guidelines
 

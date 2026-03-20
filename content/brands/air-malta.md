@@ -2,7 +2,7 @@
 title: Air Malta
 slug: "air-malta"
 description: ""
-date: "2026-03-13T09:22:53.607755"
+date: "2026-03-20T08:22:04.473247"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - red
 typographies:
   - arial
   - script
 imagery_styles:
-  - vibrant
-  - photography
   - modern
   - natural
+  - vibrant
+  - photography
 wikidata_description: defunct Maltese airline
 wikidata_url: "https://www.wikidata.org/wiki/Q221604"
 has_twitter: false
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kmairmalta.com/](https://kmairmalta.com/)
-- [https://www.airmalta.com/](https://www.airmalta.com/)
+- [https://kmairmalta.com](https://kmairmalta.com)
+- [https://www.airmalta.com](https://www.airmalta.com)
+- [https://airmalta.com](https://airmalta.com)
 
 ## Brand Guidelines
 

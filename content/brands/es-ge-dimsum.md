@@ -2,7 +2,7 @@
 title: "ES & GE Dimsum"
 slug: "es-ge-dimsum"
 description: ""
-date: "2026-03-13T09:22:53.016219"
+date: "2026-03-20T08:22:04.006937"
 draft: false
 sectors:
   - restaurant
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

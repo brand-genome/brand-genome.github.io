@@ -2,7 +2,7 @@
 title: Wilmington College
 slug: "wilmington-college"
 description: ""
-date: "2026-03-13T09:22:54.977914"
+date: "2026-03-20T08:22:05.710014"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +50,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - alternate
-  - primary
   - vertical
   - seal
+  - alternate
+  - primary
+  - icon
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
+  - clean
   - modern
   - staged
-  - clean
+  - photography
 wikidata_description: "Private college in Wilmington, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q8022753"
 has_twitter: false
@@ -74,10 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.wilmington.edu/brand/templates](http://www.wilmington.edu/brand/templates)
-- [https://www.wilmington.edu/](https://www.wilmington.edu/)
-- [https://www.wilmington.edu/brand/templates](https://www.wilmington.edu/brand/templates)
+- [https://www.wilmington.edu](https://www.wilmington.edu)
 - [https://www.wilmington.edu/homepage](https://www.wilmington.edu/homepage)
+- [https://www.wilmington.edu/brand/templates](https://www.wilmington.edu/brand/templates)
+- [http://www.wilmington.edu/brand/templates](http://www.wilmington.edu/brand/templates)
 
 ## Brand Guidelines
 

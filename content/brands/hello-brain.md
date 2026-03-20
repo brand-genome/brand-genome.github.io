@@ -2,7 +2,7 @@
 title: Hello Brain
 slug: "hello-brain"
 description: ""
-date: "2026-03-13T09:22:54.775603"
+date: "2026-03-20T08:22:05.561015"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,24 +51,24 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-234"
-  - grey
-  - "pantone-1235"
-  - orange
-  - black
-  - magenta
   - "pantone-400"
-  - pink
+  - "pantone-234"
+  - "pantone-1235"
   - white
+  - grey
+  - magenta
+  - orange
+  - pink
+  - black
 typographies:
   - arial
   - avenir
 imagery_styles:
-  - photography
-  - vibrant
-  - clean
   - professional
   - bold
+  - photography
+  - clean
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,11 +80,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.hellobrain.eu/](http://www.hellobrain.eu/)
-- [https://www.hellobrain.eu/](https://www.hellobrain.eu/)
-- [https://www.hellobrain.eu/de/](https://www.hellobrain.eu/de/)
-- [https://www.hellobrain.eu/en/](https://www.hellobrain.eu/en/)
-- [https://www.hellobrain.eu/fr/](https://www.hellobrain.eu/fr/)
+- [https://www.hellobrain.eu](https://www.hellobrain.eu)
+- [http://www.hellobrain.eu](http://www.hellobrain.eu)
+- [https://www.hellobrain.eu/en](https://www.hellobrain.eu/en)
+- [https://www.hellobrain.eu/fr](https://www.hellobrain.eu/fr)
+- [https://www.hellobrain.eu/de](https://www.hellobrain.eu/de)
 
 ## Brand Guidelines
 

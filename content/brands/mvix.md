@@ -2,7 +2,7 @@
 title: Mvix
 slug: mvix
 description: ""
-date: "2026-03-13T09:22:54.187819"
+date: "2026-03-20T08:22:05.017314"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mvix.com/](https://www.mvix.com/)
-- [https://www.mvixdigitalsignage.com/](https://www.mvixdigitalsignage.com/)
+- [https://www.mvixdigitalsignage.com](https://www.mvixdigitalsignage.com)
+- [https://www.mvix.com](https://www.mvix.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Petlas
 slug: petlas
 description: ""
-date: "2026-03-13T09:22:53.065384"
+date: "2026-03-20T08:22:04.057433"
 draft: false
 sectors:
   - tires
@@ -30,6 +30,7 @@ headquarters_locations:
   - krsehir
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.petlas.com/](https://www.petlas.com/)
-- [https://www.petlas.com/en/](https://www.petlas.com/en/)
+- [https://www.petlas.com](https://www.petlas.com)
+- [https://www.petlas.com/en](https://www.petlas.com/en)
+- [http://www.petlas.com.tr](http://www.petlas.com.tr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Mini CI
 slug: "mini-ci"
 description: ""
-date: "2026-03-13T09:22:53.665032"
+date: "2026-03-20T08:22:04.522531"
 draft: false
 sectors:
   - automobile
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - symbol
-  - wordmark
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies: []
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: compact viewer for Super 8 cine film
 wikidata_url: "https://www.wikidata.org/wiki/Q132529949"
 has_twitter: false
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mini.co.uk](https://www.mini.co.uk)
 - [https://www.mini.com](https://www.mini.com)
+- [https://www.mini.co.uk](https://www.mini.co.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Condor | TC Airlines"
 slug: "condor-tc-airlines"
 description: ""
-date: "2026-03-13T09:22:54.724995"
+date: "2026-03-20T08:22:05.522578"
 draft: false
 sectors:
   - airline
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.condor.com/](https://www.condor.com/)
+- [https://www.condor.com](https://www.condor.com)
 
 ## Brand Guidelines
 

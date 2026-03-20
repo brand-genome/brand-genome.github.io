@@ -2,7 +2,7 @@
 title: Waterloo
 slug: waterloo
 description: ""
-date: "2026-03-13T09:22:54.718409"
+date: "2026-03-20T08:22:05.517804"
 draft: false
 sectors:
   - tourism
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1857
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://experiencewaterloo.com](https://experiencewaterloo.com)
+- [http://www.waterloo.ca](http://www.waterloo.ca)
 
 ## Brand Guidelines
 

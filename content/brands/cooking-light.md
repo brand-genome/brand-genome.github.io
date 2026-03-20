@@ -2,7 +2,7 @@
 title: Cooking Light
 slug: "cooking-light"
 description: ""
-date: "2026-03-13T09:22:55.157761"
+date: "2026-03-20T08:22:05.859775"
 draft: false
 sectors:
   - food
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pocketmags.com/cooking-light-magazine/specialissues](https://pocketmags.com/cooking-light-magazine/specialissues)
 - [https://support.people.inc/hc/en-us/articles/4410128621079-Cooking-Light-Magazine](https://support.people.inc/hc/en-us/articles/4410128621079-Cooking-Light-Magazine)
 - [https://www.magazines.com/cooking-light.html](https://www.magazines.com/cooking-light.html)
 - [https://www.magzter.com/US/People-Inc/Cooking-Light/Food-%26-Beverage/1654613](https://www.magzter.com/US/People-Inc/Cooking-Light/Food-%26-Beverage/1654613)
+- [https://pocketmags.com/cooking-light-magazine/specialissues](https://pocketmags.com/cooking-light-magazine/specialissues)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: WOLA
 slug: wola
 description: ""
-date: "2026-03-13T09:22:52.099993"
+date: "2026-03-20T08:22:03.158945"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wola.org/](https://www.wola.org/)
+- [https://www.wola.org](https://www.wola.org)
+- [http://www.wolamieszkancow.pl](http://www.wolamieszkancow.pl)
 
 ## Brand Guidelines
 

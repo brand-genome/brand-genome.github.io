@@ -2,7 +2,7 @@
 title: Regione Lombardia
 slug: "regione-lombardia"
 description: ""
-date: "2026-03-13T09:22:53.466138"
+date: "2026-03-20T08:22:04.367423"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - green
-  - "pantone-356"
   - white
+  - "pantone-356"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ue.regione.lombardia.it/](https://ue.regione.lombardia.it/)
-- [https://www.regione.lombardia.it/](https://www.regione.lombardia.it/)
+- [https://www.regione.lombardia.it](https://www.regione.lombardia.it)
+- [https://ue.regione.lombardia.it](https://ue.regione.lombardia.it)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-03-13T09:22:53.307177"
+date: "2026-03-20T08:22:04.224024"
 draft: false
 sectors:
+  - ngo
   - "emergency-services"
   - healthcare
-  - ngo
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
+  - red
   - gray
   - white
-  - red
   - blue
 typographies:
   - arial
   - times
   - akzidenz
 imagery_styles:
+  - classic
+  - bold
   - vintage
   - flat
-  - bold
-  - classic
 wikidata_description: body of American red cross
 wikidata_url: "https://www.wikidata.org/wiki/Q18390208"
 has_twitter: false
@@ -79,9 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.redcross.org/brand](http://www.redcross.org/brand)
-- [https://www.redcross.org/](https://www.redcross.org/)
+- [https://www.redcross.org](https://www.redcross.org)
 - [https://www.redcross.org/brand](https://www.redcross.org/brand)
+- [http://www.redcross.org/brand](http://www.redcross.org/brand)
 
 ## Brand Guidelines
 

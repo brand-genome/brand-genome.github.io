@@ -2,7 +2,7 @@
 title: Stockholm Environment Institute
 slug: "stockholm-environment-institute"
 description: ""
-date: "2026-03-13T09:22:51.922882"
+date: "2026-03-20T08:22:03.078118"
 draft: false
 sectors:
   - research
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sei.org/](https://www.sei.org/)
+- [https://www.sei.org](https://www.sei.org)
+- [http://www.sei-international.org/oxford](http://www.sei-international.org/oxford)
 
 ## Brand Guidelines
 

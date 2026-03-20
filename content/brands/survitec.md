@@ -2,7 +2,7 @@
 title: Survitec
 slug: survitec
 description: ""
-date: "2026-03-13T09:22:53.332236"
+date: "2026-03-20T08:22:04.242489"
 draft: false
 sectors:
   - defense
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - grey
   - white
   - orange
+  - grey
 typographies:
   - din
 imagery_styles:
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.survitecgroup.com/](http://www.survitecgroup.com/)
-- [https://survitecgroup.com/](https://survitecgroup.com/)
+- [https://survitecgroup.com](https://survitecgroup.com)
 - [https://survitecgroup.com/home](https://survitecgroup.com/home)
+- [http://www.survitecgroup.com](http://www.survitecgroup.com)
 
 ## Brand Guidelines
 

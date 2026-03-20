@@ -2,11 +2,11 @@
 title: Matter
 slug: matter
 description: ""
-date: "2026-03-13T09:22:53.078158"
+date: "2026-03-20T08:22:04.075217"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +50,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
+  - wordmark
+  - primary
 brand_colors:
   - black
 typographies:
-  - poppins
   - "sans-serif"
+  - poppins
 imagery_styles:
   - product
   - gradient
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://csa-iot.org/all-solutions/matter/](https://csa-iot.org/all-solutions/matter/)
+- [https://csa-iot.org/all-solutions/matter](https://csa-iot.org/all-solutions/matter)
+- [https://mattermost.com](https://mattermost.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Eredivisie
 slug: eredivisie
 description: ""
-date: "2026-03-13T09:22:52.118671"
+date: "2026-03-20T08:22:03.176383"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eredivisie.eu/home/](https://eredivisie.eu/home/)
-- [https://eredivisie.nl/](https://eredivisie.nl/)
+- [https://eredivisie.nl](https://eredivisie.nl)
+- [https://eredivisie.eu/home](https://eredivisie.eu/home)
+- [http://www.nijb.nl](http://www.nijb.nl)
 
 ## Brand Guidelines
 

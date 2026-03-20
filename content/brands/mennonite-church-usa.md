@@ -2,7 +2,7 @@
 title: Mennonite Church USA
 slug: "mennonite-church-usa"
 description: ""
-date: "2026-03-13T09:22:53.263380"
+date: "2026-03-20T08:22:04.189490"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
+  - symbol
   - primary
   - secondary
-  - symbol
-  - signature
 brand_colors:
-  - "pantone-286"
-  - "pantone-347"
-  - gray
-  - black
   - green
+  - "pantone-286"
   - white
+  - gray
+  - "pantone-347"
+  - black
 typographies:
   - display
 imagery_styles:
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mennoniteusa.org/](https://www.mennoniteusa.org/)
+- [https://www.mennoniteusa.org](https://www.mennoniteusa.org)
 
 ## Brand Guidelines
 

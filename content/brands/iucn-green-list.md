@@ -2,7 +2,7 @@
 title: IUCN Green List
 slug: "iucn-green-list"
 description: ""
-date: "2026-03-13T09:22:53.409658"
+date: "2026-03-20T08:22:04.311754"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +48,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
-  - arial
   - helvetica
-  - georgia
+  - arial
   - inter
+  - georgia
 imagery_styles:
-  - natural
   - bold
+  - natural
   - graphic
 wikidata_description: ""
 wikidata_url: ""
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://iucngreenlist.org/](https://iucngreenlist.org/)
+- [https://iucngreenlist.org](https://iucngreenlist.org)
 - [https://www.iucn.org/greenlist](https://www.iucn.org/greenlist)
 
 ## Brand Guidelines

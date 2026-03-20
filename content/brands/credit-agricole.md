@@ -2,11 +2,11 @@
 title: Crédit Agricole
 slug: "credit-agricole"
 description: ""
-date: "2026-03-13T09:22:55.097407"
+date: "2026-03-20T08:22:05.803449"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.credit-agricole.com/](https://www.credit-agricole.com/)
-- [https://www.credit-agricole.fr/](https://www.credit-agricole.fr/)
+- [https://www.credit-agricole.com](https://www.credit-agricole.com)
+- [https://www.credit-agricole.fr](https://www.credit-agricole.fr)
 
 ## Brand Guidelines
 

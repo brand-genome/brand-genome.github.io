@@ -2,7 +2,7 @@
 title: Australian Dragon Boat Federation
 slug: "australian-dragon-boat-federation"
 description: ""
-date: "2026-03-13T09:22:53.077913"
+date: "2026-03-20T08:22:04.074881"
 draft: false
 sectors:
   - sports
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - sport
   - featured
   - marine
-  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +52,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles:
-  - vibrant
   - dynamic
   - graphic
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ausdbf.com.au](https://www.ausdbf.com.au)
 - [http://www.dragonboatsa.com](http://www.dragonboatsa.com)
-- [https://www.ausdbf.com.au/](https://www.ausdbf.com.au/)
 
 ## Brand Guidelines
 

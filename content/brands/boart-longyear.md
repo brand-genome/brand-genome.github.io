@@ -2,11 +2,11 @@
 title: Boart Longyear
 slug: "boart-longyear"
 description: ""
-date: "2026-03-13T09:22:55.039671"
+date: "2026-03-20T08:22:05.742305"
 draft: false
 sectors:
-  - "mining-extraction"
   - "agricultural-heavy-equipment"
+  - "mining-extraction"
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1888
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.boartlongyear.com/](https://www.boartlongyear.com/)
+- [https://www.boartlongyear.com](https://www.boartlongyear.com)
 - [https://www.boartlongyear.com/brand](https://www.boartlongyear.com/brand)
 
 ## Brand Guidelines

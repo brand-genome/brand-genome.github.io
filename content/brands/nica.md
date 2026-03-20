@@ -2,7 +2,7 @@
 title: NICA
 slug: nica
 description: ""
-date: "2026-03-13T09:22:54.330161"
+date: "2026-03-20T08:22:05.153478"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
   - lockup
+  - symbol
   - primary
+  - wordmark
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -69,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://nationalmtb.org](https://nationalmtb.org)
+- [https://www.nationalmtb.org](https://www.nationalmtb.org)
 - [http://www.nationalmtb.org](http://www.nationalmtb.org)
-- [https://nationalmtb.org/](https://nationalmtb.org/)
-- [https://www.nationalmtb.org/](https://www.nationalmtb.org/)
 
 ## Brand Guidelines
 

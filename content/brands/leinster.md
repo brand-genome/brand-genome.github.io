@@ -2,7 +2,7 @@
 title: Leinster
 slug: leinster
 description: ""
-date: "2026-03-13T09:22:53.662930"
+date: "2026-03-20T08:22:04.520684"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,11 +56,11 @@ brand_colors:
   - white
   - blue
 typographies:
-  - futura
   - impact
+  - futura
 imagery_styles:
-  - dramatic
   - bold
+  - dramatic
 wikidata_description: Irish provincial cricket team
 wikidata_url: "https://www.wikidata.org/wiki/Q28233034"
 has_twitter: false
@@ -71,6 +73,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.leinsterrugby.ie](https://www.leinsterrugby.ie)
+- [http://www.cricketleinster.ie](http://www.cricketleinster.ie)
 
 ## Brand Guidelines
 

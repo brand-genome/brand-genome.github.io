@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-03-13T09:22:54.566102"
+date: "2026-03-20T08:22:05.413178"
 draft: false
 sectors:
   - "social-media"
@@ -13,15 +13,15 @@ years:
 languages:
   - russian
 tags:
+  - networks
   - featured
   - internet
-  - networks
 industries:
-  - "technology-company"
   - investment
+  - "technology-company"
 countries:
-  - cyprus
   - russia
+  - cyprus
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:
@@ -36,17 +36,19 @@ total_equity_buckets:
   - "100B-500B"
 market_cap_buckets: []
 products_or_materials_produced:
+  - odnoklassniki
+  - "web-service"
   - mailru
   - vk
-  - odnoklassniki
   - mycom
-  - "web-service"
 products: []
 headquarters_locations:
   - moscow
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,22 +67,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - vertical
+  - stacked
+  - horizontal
   - wordmark
   - primary
-  - stacked
-  - vertical
-  - horizontal
+  - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - vibrant
 wikidata_description: Russian internet company
 wikidata_url: "https://www.wikidata.org/wiki/Q1885456"
 has_twitter: false
@@ -92,9 +94,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.vk.com/brand](http://www.vk.com/brand)
-- [https://vk.com/](https://vk.com/)
+- [https://vk.com](https://vk.com)
 - [https://vk.com/brand](https://vk.com/brand)
+- [http://www.vk.com/brand](http://www.vk.com/brand)
+- [https://vk.company](https://vk.company)
+- [https://corp.mail.ru](https://corp.mail.ru)
 
 ## Brand Guidelines
 
@@ -139,7 +143,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Mailru](/products_or_materials_produced/mailru/); [Vk](/products_or_materials_produced/vk/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Mycom](/products_or_materials_produced/mycom/); [Web Service](/products_or_materials_produced/web-service/) |
+| Product Or Material Produced | [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Web Service](/products_or_materials_produced/web-service/); [Mailru](/products_or_materials_produced/mailru/); [Vk](/products_or_materials_produced/vk/); [Mycom](/products_or_materials_produced/mycom/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Described By Source | Lentapedia |

@@ -2,7 +2,7 @@
 title: "Covid-19 Public Health Advice"
 slug: "covid-19-public-health-advice"
 description: ""
-date: "2026-03-13T09:22:53.693841"
+date: "2026-03-20T08:22:04.549993"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies:
+  - impact
   - arial
   - lato
-  - impact
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -70,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources/](https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources/)
-- [https://www.gov.ie/health-covid-19/](https://www.gov.ie/health-covid-19/)
-- [https://www.gov.ie/health/](https://www.gov.ie/health/)
-- [https://www.hse.ie/](https://www.hse.ie/)
+- [https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources](https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources)
+- [https://www.gov.ie/health-covid-19](https://www.gov.ie/health-covid-19)
+- [https://www.gov.ie/health](https://www.gov.ie/health)
+- [https://www.hse.ie](https://www.hse.ie)
 
 ## Brand Guidelines
 

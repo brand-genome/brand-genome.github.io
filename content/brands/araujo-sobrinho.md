@@ -2,7 +2,7 @@
 title: "Araujo & Sobrinho"
 slug: "araujo-sobrinho"
 description: ""
-date: "2026-03-13T09:22:52.333325"
+date: "2026-03-20T08:22:03.402367"
 draft: false
 sectors:
   - "consumer-goods"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://araujoesobrinho.pt/](https://araujoesobrinho.pt/)
+- [https://araujoesobrinho.pt](https://araujoesobrinho.pt)
 - [https://araujoesobrinho.pt/en](https://araujoesobrinho.pt/en)
 
 ## Brand Guidelines

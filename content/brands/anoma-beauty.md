@@ -2,7 +2,7 @@
 title: Anoma Beauty
 slug: "anoma-beauty"
 description: ""
-date: "2026-03-13T09:22:53.069439"
+date: "2026-03-20T08:22:04.063771"
 draft: false
 sectors:
   - cosmetics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cosmetics
   - featured
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://anomabeauty.com/](https://anomabeauty.com/)
+- [https://anomabeauty.com](https://anomabeauty.com)
 
 ## Brand Guidelines
 

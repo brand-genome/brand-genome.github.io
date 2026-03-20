@@ -2,7 +2,7 @@
 title: "Triathlon Australia & STTA"
 slug: "triathlon-australia-stta"
 description: ""
-date: "2026-03-13T09:22:53.651515"
+date: "2026-03-20T08:22:04.511306"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.triathlon.org.au/](https://www.triathlon.org.au/)
-- [https://www.triathlon.org.au/VIC/](https://www.triathlon.org.au/VIC/)
-- [https://www.triathlon.org.au/nsw/](https://www.triathlon.org.au/nsw/)
-- [https://www.triathlon.org.au/wa/](https://www.triathlon.org.au/wa/)
+- [https://www.triathlon.org.au](https://www.triathlon.org.au)
+- [https://www.triathlon.org.au/nsw](https://www.triathlon.org.au/nsw)
+- [https://www.triathlon.org.au/wa](https://www.triathlon.org.au/wa)
+- [https://www.triathlon.org.au/VIC](https://www.triathlon.org.au/VIC)
 
 ## Brand Guidelines
 

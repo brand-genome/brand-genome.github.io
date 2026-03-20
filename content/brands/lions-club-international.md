@@ -2,7 +2,7 @@
 title: Lions Club International
 slug: "lions-club-international"
 description: ""
-date: "2026-03-13T09:22:55.094693"
+date: "2026-03-20T08:22:05.799876"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lionsclubs.org/en](https://www.lionsclubs.org/en)
+- [https://lionsclubs.org](https://lionsclubs.org)
 
 ## Brand Guidelines
 

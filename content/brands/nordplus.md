@@ -2,7 +2,7 @@
 title: NordPlus
 slug: nordplus
 description: ""
-date: "2026-03-13T09:22:54.343446"
+date: "2026-03-20T08:22:05.171368"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,35 +47,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - cyan
-  - "pantone-320"
-  - violet
-  - "pantone-299"
-  - "pantone-369"
-  - yellow
-  - "pantone-165"
-  - "pantone-469"
-  - grey
-  - black
-  - magenta
-  - "pantone-7405"
-  - "pantone-526"
-  - blue
-  - "pantone-226"
   - green
+  - "pantone-7405"
+  - "pantone-320"
+  - "pantone-369"
   - white
+  - cyan
+  - grey
+  - blue
+  - "pantone-469"
+  - "pantone-165"
+  - "pantone-226"
+  - yellow
+  - "pantone-526"
+  - "pantone-299"
+  - magenta
   - brown
+  - violet
+  - black
 typographies: []
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
   - graphic
+  - photography
 wikidata_description: financing programme of the Nordic Council
 wikidata_url: "https://www.wikidata.org/wiki/Q11046517"
 has_twitter: false
@@ -86,10 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://nordplusonline.org](https://nordplusonline.org)
+- [https://www.nordplus.lt](https://www.nordplus.lt)
 - [http://www.archimedes.ee](http://www.archimedes.ee)
 - [http://www.regeringen.ax](http://www.regeringen.ax)
-- [https://nordplusonline.org/](https://nordplusonline.org/)
-- [https://www.nordplus.lt/](https://www.nordplus.lt/)
 
 ## Brand Guidelines
 

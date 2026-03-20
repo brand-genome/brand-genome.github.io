@@ -2,7 +2,7 @@
 title: Asociación Uruguaya de Fútbol
 slug: "asociacion-uruguaya-de-futbol"
 description: ""
-date: "2026-03-13T09:22:54.345694"
+date: "2026-03-20T08:22:05.173874"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-298"
   - "pantone-110"
-  - "pantone-1797"
-  - "pantone-559"
-  - black
-  - "pantone-432"
   - "pantone-7528"
-  - "pantone-4525"
-  - "pantone-441"
+  - "pantone-1797"
   - white
+  - "pantone-298"
+  - "pantone-4525"
+  - "pantone-432"
+  - "pantone-559"
+  - "pantone-441"
+  - black
 typographies:
   - "open-sans"
 imagery_styles:
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://institutoauf.edu.uy/](https://institutoauf.edu.uy/)
-- [https://www.auf.org.uy/](https://www.auf.org.uy/)
+- [https://www.auf.org.uy](https://www.auf.org.uy)
+- [https://institutoauf.edu.uy](https://institutoauf.edu.uy)
 
 ## Brand Guidelines
 

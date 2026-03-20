@@ -2,7 +2,7 @@
 title: World Skate
 slug: "world-skate"
 description: ""
-date: "2026-03-13T09:22:54.727163"
+date: "2026-03-20T08:22:05.525332"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
-  - horizontal
+  - symbol
   - primary
+  - horizontal
 brand_colors:
-  - black
   - green
-  - grey
   - white
+  - grey
+  - black
 typographies:
   - impact
 imagery_styles:
-  - classic
-  - modern
   - dynamic
-  - clean
-  - bold
   - graphic
+  - classic
+  - bold
+  - modern
+  - clean
 wikidata_description: international governing body for all roller sports
 wikidata_url: "https://www.wikidata.org/wiki/Q60584942"
 has_twitter: false
@@ -77,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.worldskate.org](https://www.worldskate.org)
+- [https://europe.worldskate.org](https://europe.worldskate.org)
+- [https://www.worldskateoceania.org](https://www.worldskateoceania.org)
 - [http://www.worldskate.org](http://www.worldskate.org)
-- [https://europe.worldskate.org/](https://europe.worldskate.org/)
-- [https://www.worldskate.org/](https://www.worldskate.org/)
-- [https://www.worldskateoceania.org/](https://www.worldskateoceania.org/)
 
 ## Brand Guidelines
 

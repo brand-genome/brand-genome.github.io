@@ -2,7 +2,7 @@
 title: SafeTrx Active
 slug: "safetrx-active"
 description: ""
-date: "2026-03-13T09:22:53.274812"
+date: "2026-03-20T08:22:04.202261"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://active.safetrxapp.com/](https://active.safetrxapp.com/)
-- [https://docs.safetrxapp.com/](https://docs.safetrxapp.com/)
 - [https://safetrxactive.com/en](https://safetrxactive.com/en)
 - [https://safetrxactive.com/nl](https://safetrxactive.com/nl)
-- [https://safetrxapp.com/](https://safetrxapp.com/)
+- [https://active.safetrxapp.com](https://active.safetrxapp.com)
+- [https://docs.safetrxapp.com](https://docs.safetrxapp.com)
+- [https://safetrxapp.com](https://safetrxapp.com)
 
 ## Brand Guidelines
 

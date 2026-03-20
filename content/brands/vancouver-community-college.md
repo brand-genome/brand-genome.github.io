@@ -2,7 +2,7 @@
 title: Vancouver Community College
 slug: "vancouver-community-college"
 description: ""
-date: "2026-03-13T09:22:52.466869"
+date: "2026-03-20T08:22:03.507410"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.VCC.CA](http://www.VCC.CA)
-- [https://www.vcc.ca/](https://www.vcc.ca/)
+- [https://www.vcc.ca](https://www.vcc.ca)
+- [http://www.vcc.ca](http://www.vcc.ca)
 
 ## Brand Guidelines
 

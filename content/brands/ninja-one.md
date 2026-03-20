@@ -2,11 +2,11 @@
 title: Ninja One
 slug: "ninja-one"
 description: ""
-date: "2026-03-13T09:22:52.228543"
+date: "2026-03-20T08:22:03.293622"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,37 +47,37 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - vertical
-  - lockup
-  - favicon
   - secondary
   - abstract
+  - symbol
+  - lockup
+  - primary
+  - favicon
+  - icon
 brand_colors:
-  - "pantone-7479"
-  - "pantone-7541"
-  - "pantone-302"
-  - blue
-  - "pantone-7463"
-  - gray
-  - "pantone-165"
-  - black
-  - "pantone-2185"
-  - "pantone-802"
-  - "pantone-656"
   - green
+  - "pantone-802"
   - white
+  - "pantone-656"
+  - blue
+  - gray
+  - "pantone-7463"
+  - "pantone-302"
+  - "pantone-2185"
+  - "pantone-7541"
+  - "pantone-165"
   - "pantone-715"
+  - "pantone-7479"
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - geometric
-  - subtle
-  - clean
-  - photography
   - abstract
+  - subtle
+  - photography
+  - clean
+  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -88,9 +89,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ninjaone.com/](https://www.ninjaone.com/)
-- [https://www.ninjaone.com/docs/](https://www.ninjaone.com/docs/)
-- [https://www.ninjaone.com/login/](https://www.ninjaone.com/login/)
+- [https://www.ninjaone.com](https://www.ninjaone.com)
+- [https://www.ninjaone.com/login](https://www.ninjaone.com/login)
+- [https://www.ninjaone.com/docs](https://www.ninjaone.com/docs)
 
 ## Brand Guidelines
 

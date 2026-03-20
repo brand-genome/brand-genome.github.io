@@ -2,7 +2,7 @@
 title: Nordic IT
 slug: "nordic-it"
 description: ""
-date: "2026-03-13T09:22:54.331381"
+date: "2026-03-20T08:22:05.156583"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
   - white
   - blue
 typographies:
-  - gotham
   - "sans-serif"
+  - gotham
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nordic-it.com](https://www.nordic-it.com)
+- [https://www.nordic-it.com/press-room](https://www.nordic-it.com/press-room)
 - [http://www.it.com](http://www.it.com)
-- [https://www.nordic-it.com/](https://www.nordic-it.com/)
-- [https://www.nordic-it.com/press-room/](https://www.nordic-it.com/press-room/)
 
 ## Brand Guidelines
 

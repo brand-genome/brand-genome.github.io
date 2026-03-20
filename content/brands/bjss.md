@@ -2,7 +2,7 @@
 title: BJSS
 slug: bjss
 description: ""
-date: "2026-03-13T09:22:53.517828"
+date: "2026-03-20T08:22:04.411880"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +51,26 @@ logo_elements:
   - primary
   - abstract
 brand_colors:
-  - purple
-  - navy
-  - orange
-  - black
-  - teal
-  - pink
   - red
-  - blue
   - green
+  - teal
+  - navy
   - white
+  - purple
+  - blue
+  - orange
+  - pink
+  - black
 typographies:
   - times
 imagery_styles:
-  - modern
-  - monochrome
   - abstract
-  - clean
-  - photography
-  - gradient
   - bold
+  - modern
+  - photography
+  - clean
+  - gradient
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bjss.com/](https://www.bjss.com/)
+- [https://www.bjss.com](https://www.bjss.com)
 - [https://www.bjss.com/media-toolkit](https://www.bjss.com/media-toolkit)
 
 ## Brand Guidelines

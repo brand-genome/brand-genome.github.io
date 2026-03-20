@@ -2,7 +2,7 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-03-13T09:22:54.735438"
+date: "2026-03-20T08:22:05.533011"
 draft: false
 sectors:
   - networking
@@ -16,8 +16,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "weapons-industry"
   - "aerospace-industry"
+  - "weapons-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -28,11 +28,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - missile
-  - "spacecraft-bus"
   - spacecraft
+  - missile
   - helicopter
   - aircraft
+  - "spacecraft-bus"
 products: []
 headquarters_locations:
   - "culver-city"
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1932
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,14 +64,14 @@ logo_elements:
   - primary
 brand_colors:
   - "pantone-286"
+  - "pantone-3145"
   - cyan
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - "pantone-3145"
   - magenta
-  - blue
-  - white
 typographies: []
 imagery_styles:
   - clean
@@ -85,10 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hughes.com](https://www.hughes.com)
+- [https://www.hughesnet.com](https://www.hughesnet.com)
+- [https://my.hughesnet.com](https://my.hughesnet.com)
 - [http://www.hughes.com](http://www.hughes.com)
-- [https://my.hughesnet.com/](https://my.hughesnet.com/)
-- [https://www.hughes.com/](https://www.hughes.com/)
-- [https://www.hughesnet.com/](https://www.hughesnet.com/)
 
 ## Brand Guidelines
 
@@ -135,7 +137,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Missile](/products_or_materials_produced/missile/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/); [Spacecraft](/products_or_materials_produced/spacecraft/); [Helicopter](/products_or_materials_produced/helicopter/); [Aircraft](/products_or_materials_produced/aircraft/) |
+| Product Or Material Produced | [Spacecraft](/products_or_materials_produced/spacecraft/); [Missile](/products_or_materials_produced/missile/); [Helicopter](/products_or_materials_produced/helicopter/); [Aircraft](/products_or_materials_produced/aircraft/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/) |
 | Headquarters Location | [Culver City](/headquarters_locations/culver-city/); [Los Angeles](/headquarters_locations/los-angeles/) |
 | Foundation Date | [1932](/foundation_dates/1932/) |
 | Founded By | Howard Hughes |

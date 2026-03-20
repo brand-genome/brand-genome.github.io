@@ -2,7 +2,7 @@
 title: Austin Peay State University
 slug: "austin-peay-state-university"
 description: ""
-date: "2026-03-13T09:22:53.490051"
+date: "2026-03-20T08:22:04.386739"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1927
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,17 +57,17 @@ logo_elements:
   - lettermark
 brand_colors:
   - silver
+  - red
+  - "pantone-429"
   - "pantone-200"
   - gray
   - black
-  - "pantone-429"
-  - red
 typographies:
   - gotham
 imagery_styles:
-  - minimal
-  - photography
   - bold
+  - photography
+  - minimal
 wikidata_description: "public university in Clarksville, Tennessee, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q781153"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.apsu.edu/](https://www.apsu.edu/)
-- [https://www.apsu.edu/identity/](https://www.apsu.edu/identity/)
+- [https://www.apsu.edu](https://www.apsu.edu)
+- [https://www.apsu.edu/identity](https://www.apsu.edu/identity)
+- [http://www.apsu.edu](http://www.apsu.edu)
 
 ## Brand Guidelines
 

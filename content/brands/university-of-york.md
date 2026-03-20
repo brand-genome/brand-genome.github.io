@@ -2,7 +2,7 @@
 title: University of York
 slug: "university-of-york"
 description: ""
-date: "2026-03-13T09:22:53.408121"
+date: "2026-03-20T08:22:04.310404"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ body_sections: []
 logo_elements:
   - stacked
 brand_colors:
-  - gold
   - white
+  - gold
 typographies: []
 imagery_styles:
   - photography
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.york.ac.uk/](https://www.york.ac.uk/)
+- [https://www.york.ac.uk](https://www.york.ac.uk)
+- [https://york.ac.uk](https://york.ac.uk)
 
 ## Brand Guidelines
 

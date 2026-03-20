@@ -2,13 +2,13 @@
 title: Harley Davidson
 slug: "harley-davidson"
 description: ""
-date: "2026-03-13T09:22:53.325889"
+date: "2026-03-20T08:22:04.236929"
 draft: false
 sectors:
-  - "consumer-goods"
-  - finance
-  - automobile
   - insurance
+  - automobile
+  - finance
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,21 +58,21 @@ logo_elements:
   - primary
 brand_colors:
   - "pantone-464"
-  - "pantone-159"
-  - yellow
-  - "pantone-165"
   - orange
+  - yellow
   - "pantone-130"
   - brown
+  - "pantone-165"
+  - "pantone-159"
 typographies:
-  - display
   - optima
+  - display
   - script
-  - bodoni
   - helvetica
+  - bodoni
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "transport museum in Milwaukee, Wisconsin"
 wikidata_url: "https://www.wikidata.org/wiki/Q5658750"
 has_twitter: false
@@ -82,12 +84,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Harley-Davidson.com](http://www.Harley-Davidson.com)
-- [https://www.h-dvisa.com/](https://www.h-dvisa.com/)
-- [https://www.harley-davidson.com/](https://www.harley-davidson.com/)
+- [https://www.harley-davidson.com](https://www.harley-davidson.com)
 - [https://www.harley-davidson.com/parts](https://www.harley-davidson.com/parts)
-- [https://www.harley-davidson.com/us/en/content/hog.html](https://www.harley-davidson.com/us/en/content/hog.html)
 - [https://www.harley-davidson.com/us/en/shop/c/screamin-eagle](https://www.harley-davidson.com/us/en/shop/c/screamin-eagle)
+- [https://www.harley-davidson.com/us/en/content/hog.html](https://www.harley-davidson.com/us/en/content/hog.html)
+- [https://www.h-dvisa.com](https://www.h-dvisa.com)
+- [http://www.harley-davidson.com](http://www.harley-davidson.com)
+- [http://www.harley-davidson.com/museum](http://www.harley-davidson.com/museum)
+- [https://www.harley-davidson.com/us/en/museum.html](https://www.harley-davidson.com/us/en/museum.html)
 
 ## Brand Guidelines
 

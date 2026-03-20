@@ -2,7 +2,7 @@
 title: Tecnológico de Costa Rica
 slug: "tecnologico-de-costa-rica"
 description: ""
-date: "2026-03-13T09:22:53.661797"
+date: "2026-03-20T08:22:04.519653"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tec.ac.cr/](https://www.tec.ac.cr/)
+- [https://www.tec.ac.cr](https://www.tec.ac.cr)
 - [https://www.tec.ac.cr/en](https://www.tec.ac.cr/en)
-- [https://www.tec.ac.cr/en/fundatec](https://www.tec.ac.cr/en/fundatec)
 - [https://www.tec.ac.cr/que-es-tec](https://www.tec.ac.cr/que-es-tec)
 - [https://www.tec.ac.cr/tec](https://www.tec.ac.cr/tec)
+- [https://www.tec.ac.cr/en/fundatec](https://www.tec.ac.cr/en/fundatec)
 
 ## Brand Guidelines
 

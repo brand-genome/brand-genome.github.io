@@ -2,11 +2,11 @@
 title: Sabio
 slug: sabio
 description: ""
-date: "2026-03-13T09:22:52.320564"
+date: "2026-03-20T08:22:03.388248"
 draft: false
 sectors:
-  - "consumer-goods"
   - food
+  - "consumer-goods"
 regions:
   - india
 years:
@@ -32,6 +32,7 @@ headquarters_locations:
   - manizales
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

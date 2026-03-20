@@ -2,11 +2,11 @@
 title: Stone Brewing Company
 slug: "stone-brewing-company"
 description: ""
-date: "2026-03-13T09:22:53.964477"
+date: "2026-03-20T08:22:04.889049"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - arial
   - brandon
+  - arial
 imagery_styles: []
 wikidata_description: "Stone Brewing is a brewery headquartered in Escondido, California, USA. Founded in 1996 in San Marcos, California, it is the largest brewery in Southern California."
 wikidata_url: "https://www.wikidata.org/wiki/Q7618876"
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://stonebrewing.atsondemand.com/](https://stonebrewing.atsondemand.com/)
-- [https://www.stonebrewing.com/](https://www.stonebrewing.com/)
+- [https://www.stonebrewing.com](https://www.stonebrewing.com)
+- [https://stonebrewing.atsondemand.com](https://stonebrewing.atsondemand.com)
+- [http://www.stonebrewing.com](http://www.stonebrewing.com)
 
 ## Brand Guidelines
 

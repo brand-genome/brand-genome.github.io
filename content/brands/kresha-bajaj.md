@@ -2,7 +2,7 @@
 title: Krésha Bajaj
 slug: "kresha-bajaj"
 description: ""
-date: "2026-03-13T09:22:53.397803"
+date: "2026-03-20T08:22:04.301493"
 draft: false
 sectors:
   - fashion
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,11 +47,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - montserrat
 imagery_styles:
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kreshabajaj.com/](https://kreshabajaj.com/)
+- [https://kreshabajaj.com](https://kreshabajaj.com)
 
 ## Brand Guidelines
 

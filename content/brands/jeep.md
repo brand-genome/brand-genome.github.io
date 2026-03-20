@@ -2,7 +2,7 @@
 title: Jeep
 slug: jeep
 description: ""
-date: "2026-03-13T09:22:54.706080"
+date: "2026-03-20T08:22:05.505137"
 draft: false
 sectors:
   - automobile
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - gray
+  - black
 typographies:
   - impact
 imagery_styles:
@@ -70,9 +72,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jeep.ca/](https://www.jeep.ca/)
-- [https://www.jeep.co.uk/](https://www.jeep.co.uk/)
-- [https://www.jeep.com/](https://www.jeep.com/)
+- [https://www.jeep.com](https://www.jeep.com)
+- [https://www.jeep.ca](https://www.jeep.ca)
+- [https://www.jeep.co.uk](https://www.jeep.co.uk)
+- [https://www.jeep.com.br](https://www.jeep.com.br)
+- [https://www.jeep.de](https://www.jeep.de)
+- [https://www.jeep.com.tr](https://www.jeep.com.tr)
 
 ## Brand Guidelines
 

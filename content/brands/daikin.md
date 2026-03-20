@@ -2,7 +2,7 @@
 title: Daikin
 slug: daikin
 description: ""
-date: "2026-03-13T09:22:52.829322"
+date: "2026-03-20T08:22:03.838995"
 draft: false
 sectors:
   - hardware
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.daikin.com](https://www.daikin.com)
 - [http://www.daikin.co](http://www.daikin.co)
 - [http://www.daikin.co.jp/vi_logo/index.html](http://www.daikin.co.jp/vi_logo/index.html)
-- [https://www.daikin.com/](https://www.daikin.com/)
+- [https://www.daikin.co.jp](https://www.daikin.co.jp)
+- [https://www.daikin.it](https://www.daikin.it)
+- [https://www.daikin.fr](https://www.daikin.fr)
+- [https://www.daikin.de](https://www.daikin.de)
 
 ## Brand Guidelines
 

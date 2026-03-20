@@ -2,7 +2,7 @@
 title: Varta
 slug: varta
 description: ""
-date: "2026-03-13T09:22:53.514041"
+date: "2026-03-20T08:22:04.407142"
 draft: false
 sectors:
   - electronics
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - technology
   - corporate
+  - technology
 industries:
   - "electrical-industry"
   - "manufacture-of-batteries-and-accumulators"
 countries:
-  - germany
   - "german-reich"
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,11 +33,13 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - berlin
-  - hagen
   - hanover
+  - hagen
 subsidiaries: []
 foundation_dates:
   - 1890
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.varta-ag.com/us/](https://www.varta-ag.com/us/)
+- [https://www.varta.com](https://www.varta.com)
+- [https://www.varta-ag.com/us](https://www.varta-ag.com/us)
 - [https://www.varta-automotive.com/en-us](https://www.varta-automotive.com/en-us)
-- [https://www.varta.com/](https://www.varta.com/)
 
 ## Brand Guidelines
 
@@ -88,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Hagen](/headquarters_locations/hagen/); [Hanover](/headquarters_locations/hanover/) |
+| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Hanover](/headquarters_locations/hanover/); [Hagen](/headquarters_locations/hagen/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Pm20 Folder Id | co/041404 |
 | Board Member | Günther Quandt |

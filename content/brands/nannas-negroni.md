@@ -2,11 +2,11 @@
 title: Nanna’s Negroni
 slug: "nannas-negroni"
 description: ""
-date: "2026-03-13T09:22:52.132285"
+date: "2026-03-20T08:22:03.195039"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - india
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672/](http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672/)
-- [http://www.instagram.com/reel/C9UqQ1fyzMc/](http://www.instagram.com/reel/C9UqQ1fyzMc/)
 - [https://linktr.ee/nannasnegroni](https://linktr.ee/nannasnegroni)
-- [https://www.instagram.com/nannasnegroni/](https://www.instagram.com/nannasnegroni/)
+- [https://www.instagram.com/nannasnegroni](https://www.instagram.com/nannasnegroni)
+- [http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672](http://www.facebook.com/IrisApfelofﬁcial/videos/983597688963672)
+- [http://www.instagram.com/reel/C9UqQ1fyzMc](http://www.instagram.com/reel/C9UqQ1fyzMc)
 
 ## Brand Guidelines
 

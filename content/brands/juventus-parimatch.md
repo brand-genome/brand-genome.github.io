@@ -2,11 +2,11 @@
 title: Juventus + Parimatch
 slug: "juventus-parimatch"
 description: ""
-date: "2026-03-13T09:22:53.602661"
+date: "2026-03-20T08:22:04.467519"
 draft: false
 sectors:
-  - finance
   - sports
+  - finance
 regions:
   - cyprus
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - horizontal
   - wordmark
+  - primary
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.juventus.com/](https://www.juventus.com/)
+- [https://www.juventus.com](https://www.juventus.com)
 - [https://www.juventus.com/en/news/articles/parimatch-official-partner-of-juventus](https://www.juventus.com/en/news/articles/parimatch-official-partner-of-juventus)
-- [https://www.parimatch.com/](https://www.parimatch.com/)
+- [https://www.parimatch.com](https://www.parimatch.com)
 
 ## Brand Guidelines
 

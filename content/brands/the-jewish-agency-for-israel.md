@@ -2,7 +2,7 @@
 title: The Jewish Agency for Israel
 slug: "the-jewish-agency-for-israel"
 description: ""
-date: "2026-03-13T09:22:53.663240"
+date: "2026-03-20T08:22:04.521036"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

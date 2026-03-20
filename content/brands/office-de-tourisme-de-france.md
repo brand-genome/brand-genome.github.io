@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-03-13T09:22:55.144315"
+date: "2026-03-20T08:22:05.845115"
 draft: false
 sectors:
   - tourism
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +52,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - white
   - red
+  - white
   - blue
 typographies:
   - arial
   - inter
 imagery_styles:
+  - bold
+  - gradient
   - monochrome
   - contemporary
-  - gradient
-  - bold
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q115457346"
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tourisme.fr/](https://www.tourisme.fr/)
+- [https://www.tourisme.fr](https://www.tourisme.fr)
 
 ## Brand Guidelines
 

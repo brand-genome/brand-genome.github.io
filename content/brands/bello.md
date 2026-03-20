@@ -2,7 +2,7 @@
 title: Bello
 slug: bello
 description: ""
-date: "2026-03-13T09:22:52.064381"
+date: "2026-03-20T08:22:03.130101"
 draft: false
 sectors:
   - restaurant
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

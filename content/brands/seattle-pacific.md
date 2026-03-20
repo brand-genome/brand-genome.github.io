@@ -2,7 +2,7 @@
 title: Seattle Pacific
 slug: "seattle-pacific"
 description: ""
-date: "2026-03-13T09:22:54.734172"
+date: "2026-03-20T08:22:05.531580"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1891
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,17 +60,17 @@ logo_elements:
   - primary
   - alternate
 brand_colors:
-  - gray
-  - maroon
   - red
+  - gray
   - gold
+  - maroon
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
-  - candid
-  - natural
   - bold
+  - natural
+  - candid
 wikidata_description: "Christian university in Seattle, Washington"
 wikidata_url: "https://www.wikidata.org/wiki/Q2904851"
 has_twitter: false
@@ -80,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://spu.edu/](https://spu.edu/)
+- [https://spu.edu](https://spu.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Toyota Motor
 slug: "toyota-motor"
 description: ""
-date: "2026-03-13T09:22:53.021579"
+date: "2026-03-20T08:22:04.013362"
 draft: false
 sectors:
   - automobile
@@ -34,15 +34,17 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - "light-commercial-vehicle"
   - car
+  - "light-commercial-vehicle"
 products: []
 headquarters_locations:
   - toyota
 subsidiaries: []
 foundation_dates:
-  - 1937
   - 1938
+  - 1937
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,9 +77,147 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.toyota/en/](https://global.toyota/en/)
-- [https://global.toyota/jp/](https://global.toyota/jp/)
-- [https://www.toyota.com/](https://www.toyota.com/)
+- [https://global.toyota/en](https://global.toyota/en)
+- [https://global.toyota/jp](https://global.toyota/jp)
+- [https://www.toyota.com](https://www.toyota.com)
+- [https://global.toyota](https://global.toyota)
+- [https://toyota.jp](https://toyota.jp)
+- [https://www.autohaus.toyota.de](https://www.autohaus.toyota.de)
+- [https://www.scion.com](https://www.scion.com)
+- [https://www.toyota.com.br](https://www.toyota.com.br)
+- [https://www.garage.toyota.ch](https://www.garage.toyota.ch)
+- [https://www.toyota.com.tw](https://www.toyota.com.tw)
+- [http://toyota.co.th](http://toyota.co.th)
+- [https://www.toyota.de](https://www.toyota.de)
+- [http://weins-toyota-kanagawa.co.jp](http://weins-toyota-kanagawa.co.jp)
+- [https://www.toyota.es](https://www.toyota.es)
+- [https://www.toyota.com.my](https://www.toyota.com.my)
+- [https://www.toyota-africa.com](https://www.toyota-africa.com)
+- [https://www.toyota-africa.com/lang/fr](https://www.toyota-africa.com/lang/fr)
+- [https://www.toyota-europe.com](https://www.toyota-europe.com)
+- [https://www.toyotaalgerie.com](https://www.toyotaalgerie.com)
+- [https://www.toyota.bj](https://www.toyota.bj)
+- [https://www.toyota.bf](https://www.toyota.bf)
+- [https://www.toyota.cg](https://www.toyota.cg)
+- [https://www.toyota.ci](https://www.toyota.ci)
+- [https://www.toyota-rdc.com](https://www.toyota-rdc.com)
+- [https://toyota.com.eg/en](https://toyota.com.eg/en)
+- [https://www.toyota-gabon.com](https://www.toyota-gabon.com)
+- [https://www.toyota.gm](https://www.toyota.gm)
+- [https://www.toyotaghana.com](https://www.toyotaghana.com)
+- [https://www.toyotakenya.ke](https://www.toyotakenya.ke)
+- [https://toyota.ly](https://toyota.ly)
+- [https://toyota.ly/ar](https://toyota.ly/ar)
+- [https://toyota.com.eg/ar](https://toyota.com.eg/ar)
+- [http://www.toyotamalawi.com](http://www.toyotamalawi.com)
+- [https://www.toyota-mauritanie.com](https://www.toyota-mauritanie.com)
+- [https://toyotamauritius.com](https://toyotamauritius.com)
+- [https://toyota.co.ma](https://toyota.co.ma)
+- [https://www.toyota.co.mz](https://www.toyota.co.mz)
+- [https://toyotanigeria.com](https://toyotanigeria.com)
+- [https://www.toyota.re](https://www.toyota.re)
+- [https://www.toyotarwanda.com](https://www.toyotarwanda.com)
+- [https://www.toyota.sn](https://www.toyota.sn)
+- [https://www.toyota.co.za](https://www.toyota.co.za)
+- [https://www.toyota.tg](https://www.toyota.tg)
+- [https://toyota.com.tn](https://toyota.com.tn)
+- [https://toyota.co.tz](https://toyota.co.tz)
+- [https://www.toyota.co.ug](https://www.toyota.co.ug)
+- [https://www.toyotazambia.co.zm](https://www.toyotazambia.co.zm)
+- [https://www.toyota.co.zw](https://www.toyota.co.zw)
+- [https://www.toyota.co.uk](https://www.toyota.co.uk)
+- [https://www.toyota.fr](https://www.toyota.fr)
+- [https://nl.toyota.be](https://nl.toyota.be)
+- [https://fr.toyota.be](https://fr.toyota.be)
+- [https://www.toyota.nl](https://www.toyota.nl)
+- [https://de.toyota.ch](https://de.toyota.ch)
+- [https://fr.toyota.ch](https://fr.toyota.ch)
+- [https://it.toyota.ch](https://it.toyota.ch)
+- [https://www.toyota.com.vn](https://www.toyota.com.vn)
+- [https://www.toyota.it](https://www.toyota.it)
+- [http://www.toyota.com.cn](http://www.toyota.com.cn)
+- [https://toyota.md](https://toyota.md)
+- [https://www.toyota.at](https://www.toyota.at)
+- [https://www.toyota.az](https://www.toyota.az)
+- [https://www.toyota.ba](https://www.toyota.ba)
+- [https://www.toyota.bg](https://www.toyota.bg)
+- [https://www.toyota.co.il](https://www.toyota.co.il)
+- [https://www.toyota.com.cy](https://www.toyota.com.cy)
+- [https://www.toyota.com.mk](https://www.toyota.com.mk)
+- [https://www.toyota.com.tr](https://www.toyota.com.tr)
+- [https://www.toyota.cz](https://www.toyota.cz)
+- [https://www.toyota.dk](https://www.toyota.dk)
+- [https://www.toyota.ee](https://www.toyota.ee)
+- [https://www.toyota.fi](https://www.toyota.fi)
+- [https://www.toyota.ge](https://www.toyota.ge)
+- [https://www.toyota.gr](https://www.toyota.gr)
+- [https://www.toyota.hr](https://www.toyota.hr)
+- [https://www.toyota.hu](https://www.toyota.hu)
+- [https://www.toyota.ie](https://www.toyota.ie)
+- [https://www.toyota.is](https://www.toyota.is)
+- [https://www.toyota.lt](https://www.toyota.lt)
+- [https://www.toyota.lu](https://www.toyota.lu)
+- [https://www.toyota.lv](https://www.toyota.lv)
+- [https://www.toyota.no](https://www.toyota.no)
+- [https://www.toyota.pl](https://www.toyota.pl)
+- [https://www.toyota.pt](https://www.toyota.pt)
+- [https://www.toyota.ro](https://www.toyota.ro)
+- [https://www.toyota.rs](https://www.toyota.rs)
+- [https://www.toyota.se](https://www.toyota.se)
+- [https://www.toyota.si](https://www.toyota.si)
+- [https://www.toyota.sk](https://www.toyota.sk)
+- [https://www.toyota.ua](https://www.toyota.ua)
+- [https://www.toyotaalbania.al](https://www.toyotaalbania.al)
+- [https://www.toyotacg.me](https://www.toyotacg.me)
+- [https://www.toyota-kosovo.com](https://www.toyota-kosovo.com)
+- [https://www.toyotakz.com](https://www.toyotakz.com)
+- [https://www.toyotaperu.com.pe](https://www.toyotaperu.com.pe)
+- [https://toyota.cl](https://toyota.cl)
+- [https://toyota.com.uy](https://toyota.com.uy)
+- [https://www.toyota.com.py](https://www.toyota.com.py)
+- [https://www.toyota.mx](https://www.toyota.mx)
+- [https://www.toyotapr.com](https://www.toyotapr.com)
+- [https://www.toyota.com.ve](https://www.toyota.com.ve)
+- [https://www.toyota.com.ar](https://www.toyota.com.ar)
+- [https://www.toyotacr.com](https://www.toyotacr.com)
+- [https://www.toyota.com.sv](https://www.toyota.com.sv)
+- [https://www.toyota.com.gt](https://www.toyota.com.gt)
+- [https://www.toyota.com.co](https://www.toyota.com.co)
+- [https://www.toyota.bo](https://www.toyota.bo)
+- [https://toyotajamaica.com](https://toyotajamaica.com)
+- [https://www.toyotarp.com](https://www.toyotarp.com)
+- [https://www.toyota.ru](https://www.toyota.ru)
+- [https://toyota-mongolia.mn](https://toyota-mongolia.mn)
+- [https://toyota-indus.com](https://toyota-indus.com)
+- [https://www.toyotabharat.com](https://www.toyotabharat.com)
+- [https://toyota-centralasia.com](https://toyota-centralasia.com)
+- [https://www.toyota-bishkek.kg](https://www.toyota-bishkek.kg)
+- [https://www.toyota.co.kr](https://www.toyota.co.kr)
+- [https://www.toyota.co.th](https://www.toyota.co.th)
+- [https://www.toyota.co.th/en](https://www.toyota.co.th/en)
+- [https://toyota.com.ph](https://toyota.com.ph)
+- [https://toyota.com.bd](https://toyota.com.bd)
+- [https://www.toyota.com.au](https://www.toyota.com.au)
+- [https://www.toyota.co.nz](https://www.toyota.co.nz)
+- [https://www.toyota.com.sa](https://www.toyota.com.sa)
+- [https://www.toyotaqatar.com](https://www.toyotaqatar.com)
+- [https://www.toyotayemen.com/en](https://www.toyotayemen.com/en)
+- [https://www.toyotayemen.com](https://www.toyotayemen.com)
+- [https://www.toyotaoman.com](https://www.toyotaoman.com)
+- [https://www.toyotaoman.com/ar](https://www.toyotaoman.com/ar)
+- [https://toyota.com.bh](https://toyota.com.bh)
+- [https://toyota.com.bh/ar](https://toyota.com.bh/ar)
+- [https://www.toyota.ae/en](https://www.toyota.ae/en)
+- [https://www.toyota.ae/ar](https://www.toyota.ae/ar)
+- [https://www.toyota.ae](https://www.toyota.ae)
+- [https://www.toyota.com.jo](https://www.toyota.com.jo)
+- [https://www.toyota.com.jo/ar](https://www.toyota.com.jo/ar)
+- [https://toyota.iq/en](https://toyota.iq/en)
+- [https://toyota.iq/ar](https://toyota.iq/ar)
+- [https://toyota.iq/ku](https://toyota.iq/ku)
+- [https://toyota.iq](https://toyota.iq)
+- [https://toyotalebanon.com](https://toyotalebanon.com)
+- [https://toyotairan.com](https://toyotairan.com)
 
 ## Brand Guidelines
 
@@ -93,9 +233,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/) |
 | Headquarters Location | [Toyota](/headquarters_locations/toyota/) |
-| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
+| Foundation Date | [1938](/foundation_dates/1938/); [1937](/foundation_dates/1937/) |
 | Chief Executive Officer | Kōji Satō (from 2023), Katsuaki Watanabe (from 2005, until 2009), Akio Toyoda (from 2009, until 2023) |
 | Founded By | Kiichirō Toyoda |
 | Headquarters Location | Toyota |

@@ -2,7 +2,7 @@
 title: "Colby-Sawyer College"
 slug: "colby-sawyer-college"
 description: ""
-date: "2026-03-13T09:22:53.508293"
+date: "2026-03-20T08:22:04.403954"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1837
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies:
   - merriweather
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.colby-sawyer.edu/](https://www.colby-sawyer.edu/)
+- [https://www.colby-sawyer.edu](https://www.colby-sawyer.edu)
 
 ## Brand Guidelines
 

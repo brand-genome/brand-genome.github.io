@@ -2,11 +2,11 @@
 title: Tani
 slug: tani
 description: ""
-date: "2026-03-13T09:22:54.133433"
+date: "2026-03-20T08:22:04.970403"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - turkiye
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +49,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - "pantone-311"
-  - black
-  - "pantone-3145"
   - "pantone-2665"
+  - "pantone-3145"
   - white
-  - "pantone-7545"
   - "pantone-2577"
+  - "pantone-7545"
+  - black
 typographies: []
 imagery_styles:
   - gradient
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.tani.com](http://www.tani.com)
-- [https://www.tani.com.tr/](https://www.tani.com.tr/)
+- [https://www.tani.com.tr](https://www.tani.com.tr)
 - [https://www.tani.com.tr/kurumsal](https://www.tani.com.tr/kurumsal)
+- [http://www.tani.com](http://www.tani.com)
 
 ## Brand Guidelines
 

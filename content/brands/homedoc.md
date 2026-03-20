@@ -2,7 +2,7 @@
 title: HomeDoc
 slug: homedoc
 description: ""
-date: "2026-03-13T09:22:53.262396"
+date: "2026-03-20T08:22:04.187541"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.homedoc.vn/](https://www.homedoc.vn/)
+- [https://www.homedoc.vn](https://www.homedoc.vn)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: University of Cambridge
 slug: "university-of-cambridge"
 description: ""
-date: "2026-03-13T09:22:54.563962"
+date: "2026-03-20T08:22:05.411670"
 draft: false
 sectors:
-  - research
   - university
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1209
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.admin.cam.ac.uk/](https://www.admin.cam.ac.uk/)
-- [https://www.cam.ac.uk/](https://www.cam.ac.uk/)
-- [https://www.cam.ac.uk/brand-resources/](https://www.cam.ac.uk/brand-resources/)
+- [https://www.cam.ac.uk](https://www.cam.ac.uk)
+- [https://www.admin.cam.ac.uk](https://www.admin.cam.ac.uk)
+- [https://www.cam.ac.uk/brand-resources](https://www.cam.ac.uk/brand-resources)
 
 ## Brand Guidelines
 

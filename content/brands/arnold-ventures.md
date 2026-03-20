@@ -2,7 +2,7 @@
 title: Arnold Ventures
 slug: "arnold-ventures"
 description: ""
-date: "2026-03-13T09:22:53.254922"
+date: "2026-03-20T08:22:04.180693"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,26 +51,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
-  - lockup
   - vertical
   - secondary
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors:
   - navy
+  - white
+  - blue
   - yellow
   - black
-  - blue
-  - white
 typographies:
-  - arial
-  - helvetica
   - serif
-  - times
   - impact
+  - arial
+  - times
+  - helvetica
 imagery_styles:
   - subtle
 wikidata_description: American philanthropy company
@@ -82,9 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.arnoldventures.org](https://www.arnoldventures.org)
 - [http://www.arnoldventures.org/media-toolkit](http://www.arnoldventures.org/media-toolkit)
 - [http://www.upstatement.com](http://www.upstatement.com)
-- [https://www.arnoldventures.org/](https://www.arnoldventures.org/)
 
 ## Brand Guidelines
 

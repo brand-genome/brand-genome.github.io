@@ -2,11 +2,11 @@
 title: INTO
 slug: into
 description: ""
-date: "2026-03-13T09:22:54.733841"
+date: "2026-03-20T08:22:05.530448"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +55,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
   - "pantone-1795"
   - "pantone-7466"
-  - black
-  - red
   - turquoise
+  - black
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: network of heritage organisations from across the globe
 wikidata_url: "https://www.wikidata.org/wiki/Q19605549"
 has_twitter: false
@@ -74,13 +76,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.intoglobal.com](https://www.intoglobal.com)
 - [http://www.google.com](http://www.google.com)
-- [http://www.instagram.com/](http://www.instagram.com/)
+- [http://www.instagram.com](http://www.instagram.com)
 - [http://www.intoglobal.com](http://www.intoglobal.com)
 - [http://www.intostudy.com/queens](http://www.intostudy.com/queens)
 - [http://www.linotype.com](http://www.linotype.com)
 - [http://www.myin.to/intoqubvideos](http://www.myin.to/intoqubvideos)
-- [https://www.intoglobal.com/](https://www.intoglobal.com/)
+- [http://internationaltrusts.org](http://internationaltrusts.org)
+- [https://www.into.org](https://www.into.org)
 
 ## Brand Guidelines
 

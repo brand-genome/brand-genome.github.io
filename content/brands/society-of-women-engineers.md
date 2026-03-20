@@ -2,11 +2,11 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-03-13T09:22:53.241608"
+date: "2026-03-20T08:22:04.159596"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - engineering
+  - community
 industries: []
 countries:
   - "united-states"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1950
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,23 +56,23 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - green
+  - gold
+  - teal
+  - white
   - purple
+  - blue
   - gray
   - yellow
-  - gold
   - orange
-  - black
-  - teal
   - pink
-  - blue
-  - green
-  - white
+  - black
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - professional
   - graphic
+  - professional
 wikidata_description: "American non-profit"
 wikidata_url: "https://www.wikidata.org/wiki/Q51768"
 has_twitter: false
@@ -82,9 +84,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.SWE.ORG](http://www.SWE.ORG)
-- [https://brand.swe.org/](https://brand.swe.org/)
-- [https://swe.org/](https://swe.org/)
+- [https://swe.org](https://swe.org)
+- [https://brand.swe.org](https://brand.swe.org)
+- [http://www.swe.org](http://www.swe.org)
+- [http://societyofwomenengineers.swe.org](http://societyofwomenengineers.swe.org)
 
 ## Brand Guidelines
 

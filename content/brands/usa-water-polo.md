@@ -2,7 +2,7 @@
 title: USA Water Polo
 slug: "usa-water-polo"
 description: ""
-date: "2026-03-13T09:22:53.015888"
+date: "2026-03-20T08:22:04.006588"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usawaterpolo.org/](https://usawaterpolo.org/)
+- [https://usawaterpolo.org](https://usawaterpolo.org)
 
 ## Brand Guidelines
 

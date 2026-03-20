@@ -2,7 +2,7 @@
 title: The British Museum
 slug: "the-british-museum"
 description: ""
-date: "2026-03-13T09:22:55.162384"
+date: "2026-03-20T08:22:05.863823"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - museum
   - art
+  - cultural
 industries: []
 countries:
   - "united-kingdom"
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1753
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,12 +55,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - serif
   - "sans-serif"
   - akzidenz
+  - serif
 imagery_styles: []
 wikidata_description: "national museum in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q6373"
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.britishmuseum.org/](https://www.britishmuseum.org/)
+- [https://www.britishmuseum.org](https://www.britishmuseum.org)
+- [http://britishmuseum.org](http://britishmuseum.org)
 
 ## Brand Guidelines
 

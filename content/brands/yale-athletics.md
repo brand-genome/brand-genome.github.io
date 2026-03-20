@@ -2,11 +2,11 @@
 title: Yale Athletics
 slug: "yale-athletics"
 description: ""
-date: "2026-03-13T09:22:53.017069"
+date: "2026-03-20T08:22:04.007839"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://yalebulldogs.com/](https://yalebulldogs.com/)
+- [https://yalebulldogs.com](https://yalebulldogs.com)
 
 ## Brand Guidelines
 

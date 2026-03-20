@@ -2,7 +2,7 @@
 title: British Council
 slug: "british-council"
 description: ""
-date: "2026-03-13T09:22:52.894767"
+date: "2026-03-20T08:22:03.884853"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.britishcouncil.org/](https://brand.britishcouncil.org/)
-- [https://www.britishcouncil.org/](https://www.britishcouncil.org/)
-- [https://www.britishcouncil.us/](https://www.britishcouncil.us/)
-- [https://www.teachingenglish.org.uk/](https://www.teachingenglish.org.uk/)
+- [https://www.britishcouncil.org](https://www.britishcouncil.org)
+- [https://brand.britishcouncil.org](https://brand.britishcouncil.org)
+- [https://www.teachingenglish.org.uk](https://www.teachingenglish.org.uk)
+- [https://www.britishcouncil.us](https://www.britishcouncil.us)
 
 ## Brand Guidelines
 

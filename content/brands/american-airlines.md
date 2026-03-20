@@ -2,7 +2,7 @@
 title: American Airlines
 slug: "american-airlines"
 description: ""
-date: "2026-03-13T09:22:54.823250"
+date: "2026-03-20T08:22:05.585665"
 draft: false
 sectors:
   - airline
@@ -33,8 +33,11 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1926
   - 1936
+  - 1926
+foundation_year_buckets:
+  - 1920S
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +61,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: major airline of the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q32396"
 has_twitter: false
@@ -71,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.aa.com/](https://brand.aa.com/)
-- [https://www.aa.com/](https://www.aa.com/)
+- [https://www.aa.com](https://www.aa.com)
+- [https://brand.aa.com](https://brand.aa.com)
 - [https://www.aa.com/aadvantage](https://www.aa.com/aadvantage)
 
 ## Brand Guidelines
@@ -118,7 +121,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Grand Prairie](/headquarters_locations/grand-prairie/); [Fort Worth](/headquarters_locations/fort-worth/); [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1926](/foundation_dates/1926/); [1936](/foundation_dates/1936/) |
+| Foundation Date | [1936](/foundation_dates/1936/); [1926](/foundation_dates/1926/) |
 | Airline Alliance | Oneworld |
 | Airline Hub | Dallas/Fort Worth International Airport, O'Hare International Airport, Miami International Airport, John F. Kennedy International Airport, Los Angeles International Airport (+5 more) |
 | Item Operated | Airbus A300-600, Airbus A319 (as of 2025), Airbus A320 (as of 2025), Airbus A321-200 (as of 2025), Airbus A321neo (as of 2025) (+36 more) |

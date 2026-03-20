@@ -2,7 +2,7 @@
 title: A. Smith Bowman Distillery
 slug: "a-smith-bowman-distillery"
 description: ""
-date: "2026-03-13T09:22:53.709133"
+date: "2026-03-20T08:22:04.564629"
 draft: false
 sectors:
   - drink
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1934
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +50,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - yellow
   - brown
+  - yellow
 typographies:
   - impact
 imagery_styles:
-  - candid
   - bold
+  - candid
 wikidata_description: "whisky distillery in Fairfax County, Virginia"
 wikidata_url: "https://www.wikidata.org/wiki/Q4648402"
 has_twitter: false
@@ -71,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ASMITHBOWMAN.COM](http://www.ASMITHBOWMAN.COM)
+- [https://asmithbowman.com](https://asmithbowman.com)
+- [http://www.asmithbowman.com](http://www.asmithbowman.com)
 - [http://www.instagram.com/a.smithbowman](http://www.instagram.com/a.smithbowman)
-- [https://asmithbowman.com/](https://asmithbowman.com/)
 
 ## Brand Guidelines
 

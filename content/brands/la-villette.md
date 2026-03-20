@@ -2,7 +2,7 @@
 title: La Villette
 slug: "la-villette"
 description: ""
-date: "2026-03-13T09:22:54.976364"
+date: "2026-03-20T08:22:05.708769"
 draft: false
 sectors:
   - "arts-culture"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lavillette.com/](https://www.lavillette.com/)
-- [https://www.lavillette.com/en/](https://www.lavillette.com/en/)
+- [https://www.lavillette.com/en](https://www.lavillette.com/en)
+- [https://www.lavillette.com](https://www.lavillette.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sociedade Esportiva Palmeiras
 slug: "sociedade-esportiva-palmeiras"
 description: ""
-date: "2026-03-13T09:22:52.059877"
+date: "2026-03-20T08:22:03.126310"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.palmeiras.com.br/](https://www.palmeiras.com.br/)
-- [https://www.palmeiras.com.br/pt-br/futebol-feminino/](https://www.palmeiras.com.br/pt-br/futebol-feminino/)
+- [https://www.palmeiras.com.br](https://www.palmeiras.com.br)
+- [https://www.palmeiras.com.br/pt-br/futebol-feminino](https://www.palmeiras.com.br/pt-br/futebol-feminino)
 
 ## Brand Guidelines
 

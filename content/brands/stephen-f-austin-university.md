@@ -2,7 +2,7 @@
 title: Stephen F. Austin University
 slug: "stephen-f-austin-university"
 description: ""
-date: "2026-03-13T09:22:55.088482"
+date: "2026-03-20T08:22:05.793436"
 draft: false
 sectors:
   - university
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sfajacks.com/](https://sfajacks.com/)
-- [https://www.sfasu.edu/](https://www.sfasu.edu/)
+- [https://www.sfasu.edu](https://www.sfasu.edu)
+- [https://sfajacks.com](https://sfajacks.com)
+- [http://sfajacks.com/index.aspx?path=mbball](http://sfajacks.com/index.aspx?path=mbball)
+- [https://sfajacks.com/sports/mens-basketball](https://sfajacks.com/sports/mens-basketball)
 
 ## Brand Guidelines
 

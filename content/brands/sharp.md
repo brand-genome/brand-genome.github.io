@@ -2,7 +2,7 @@
 title: Sharp
 slug: sharp
 description: ""
-date: "2026-03-13T09:22:55.089525"
+date: "2026-03-20T08:22:05.794405"
 draft: false
 sectors:
   - electronics
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1912
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.sharp/](https://global.sharp/)
-- [https://www.sharp-world.com/](https://www.sharp-world.com/)
-- [https://www.sharp.co.jp/](https://www.sharp.co.jp/)
+- [https://global.sharp](https://global.sharp)
+- [https://www.sharp.co.jp](https://www.sharp.co.jp)
+- [https://www.sharp-world.com](https://www.sharp-world.com)
+- [https://corporate.jp.sharp](https://corporate.jp.sharp)
 
 ## Brand Guidelines
 

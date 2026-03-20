@@ -2,7 +2,7 @@
 title: Buta Airways
 slug: "buta-airways"
 description: ""
-date: "2026-03-13T09:22:54.328654"
+date: "2026-03-20T08:22:05.151507"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.butaairways.az/](https://www.butaairways.az/)
-- [https://www.butaairways.az/en/](https://www.butaairways.az/en/)
+- [https://www.butaairways.az/en](https://www.butaairways.az/en)
+- [https://www.butaairways.az](https://www.butaairways.az)
+- [http://www.butaairways.az](http://www.butaairways.az)
 
 ## Brand Guidelines
 

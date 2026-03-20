@@ -2,23 +2,23 @@
 title: The North Face
 slug: "the-north-face"
 description: ""
-date: "2026-03-13T09:22:54.412926"
+date: "2026-03-20T08:22:05.260951"
 draft: false
 sectors:
+  - "e-commerce"
+  - fashion
   - footwear
   - "consumer-goods"
-  - fashion
-  - "e-commerce"
 regions:
   - usa
 years:
-  - 2013
   - 2007
+  - 2013
 languages:
   - english
 tags:
-  - corporate
   - sport
+  - corporate
 industries:
   - retail
   - "clothing-industry"
@@ -32,21 +32,23 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "travel-gear"
-  - backpack
   - tent
-  - clothing
+  - "travel-gear"
   - "outdoor-gear"
   - outerwear
+  - clothing
   - "sleeping-bag"
-  - "fashion-accessory"
   - "sports-equipment"
+  - "fashion-accessory"
+  - backpack
 products: []
 headquarters_locations:
   - denver
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,17 +67,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors:
   - red
 typographies:
   - helvetica
 imagery_styles:
-  - illustration
-  - landscape
   - bold
+  - landscape
   - clean
+  - illustration
 wikidata_description: American company featuring outdoor apparel and sportswear
 wikidata_url: "https://www.wikidata.org/wiki/Q152784"
 has_twitter: false
@@ -87,10 +89,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.thenorthface.com](https://www.thenorthface.com)
+- [https://www.thenorthface.eu](https://www.thenorthface.eu)
+- [https://locations.thenorthface.eu](https://locations.thenorthface.eu)
 - [http://www.vfc.com](http://www.vfc.com)
-- [https://locations.thenorthface.eu/](https://locations.thenorthface.eu/)
-- [https://www.thenorthface.com/](https://www.thenorthface.com/)
-- [https://www.thenorthface.eu/](https://www.thenorthface.eu/)
+- [https://www.eu.thenorthface.com](https://www.eu.thenorthface.com)
 
 ## Brand Guidelines
 
@@ -555,7 +558,7 @@ Versatility 20%
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Travel Gear](/products_or_materials_produced/travel-gear/); [Backpack](/products_or_materials_produced/backpack/); [Tent](/products_or_materials_produced/tent/); [Clothing](/products_or_materials_produced/clothing/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Outerwear](/products_or_materials_produced/outerwear/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Sports Equipment](/products_or_materials_produced/sports-equipment/) |
+| Product Or Material Produced | [Tent](/products_or_materials_produced/tent/); [Travel Gear](/products_or_materials_produced/travel-gear/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Outerwear](/products_or_materials_produced/outerwear/); [Clothing](/products_or_materials_produced/clothing/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Backpack](/products_or_materials_produced/backpack/) |
 | Headquarters Location | [Denver](/headquarters_locations/denver/) |
 | Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Douglas Tompkins, Susie Tompkins Buell |

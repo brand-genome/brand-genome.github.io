@@ -2,7 +2,7 @@
 title: Area Metropolitana de Lisboa
 slug: "area-metropolitana-de-lisboa"
 description: ""
-date: "2026-03-13T09:22:53.329825"
+date: "2026-03-20T08:22:04.240389"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +51,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - georgia
 imagery_styles:
   - bold
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://documentacao.aml.pt/](https://documentacao.aml.pt/)
-- [https://www.aml.pt/](https://www.aml.pt/)
-- [https://www.aml.pt/en/](https://www.aml.pt/en/)
+- [https://www.aml.pt/en](https://www.aml.pt/en)
+- [https://www.aml.pt](https://www.aml.pt)
+- [https://documentacao.aml.pt](https://documentacao.aml.pt)
 
 ## Brand Guidelines
 

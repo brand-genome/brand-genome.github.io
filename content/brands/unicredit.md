@@ -2,7 +2,7 @@
 title: UniCredit
 slug: unicredit
 description: ""
-date: "2026-03-13T09:22:54.327216"
+date: "2026-03-20T08:22:05.150378"
 draft: false
 sectors:
   - finance
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
+  - "financial-services"
   - "financial-sector"
   - "economics-of-banking"
-  - "financial-services"
 countries:
   - italy
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,12 +60,12 @@ logo_elements:
   - secondary
 brand_colors:
   - silver
+  - red
+  - "pantone-485"
+  - gold
   - yellow
   - black
   - magenta
-  - red
-  - gold
-  - "pantone-485"
 typographies:
   - arial
 imagery_styles:
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unicredit.it/](https://www.unicredit.it/)
-- [https://www.unicreditgroup.eu/](https://www.unicreditgroup.eu/)
+- [https://www.unicreditgroup.eu](https://www.unicreditgroup.eu)
+- [https://www.unicredit.it](https://www.unicredit.it)
 
 ## Brand Guidelines
 

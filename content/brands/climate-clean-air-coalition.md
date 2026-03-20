@@ -2,7 +2,7 @@
 title: "Climate & Clean Air Coalition"
 slug: "climate-clean-air-coalition"
 description: ""
-date: "2026-03-13T09:22:54.355060"
+date: "2026-03-20T08:22:05.185458"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +53,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-645"
   - white
+  - "pantone-645"
 typographies:
   - brandon
   - helvetica
 imagery_styles:
+  - bold
   - vibrant
   - photography
-  - bold
 wikidata_description: Air pollution and climate organization
 wikidata_url: "https://www.wikidata.org/wiki/Q130711170"
 has_twitter: false
@@ -74,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.CCAC.org](http://www.CCAC.org)
 - [https://www.ccacoalition.org/en](https://www.ccacoalition.org/en)
 - [https://www.unep.org/topics/energy/methane/climate-and-clean-air-coalition-ccac](https://www.unep.org/topics/energy/methane/climate-and-clean-air-coalition-ccac)
+- [http://www.ccac.org](http://www.ccac.org)
+- [https://www.ccacoalition.org/en/partners/nigeria](https://www.ccacoalition.org/en/partners/nigeria)
 
 ## Brand Guidelines
 

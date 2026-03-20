@@ -2,12 +2,12 @@
 title: Nasa
 slug: nasa
 description: ""
-date: "2026-03-13T09:22:51.985605"
+date: "2026-03-20T08:22:03.083791"
 draft: false
 sectors:
-  - "space-technology"
   - "public-sector"
   - aerospace
+  - "space-technology"
 regions:
   - usa
 years:
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1958
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +66,12 @@ brand_colors:
 typographies:
   - helvetica
 imagery_styles:
-  - gradient
-  - photography
-  - clean
+  - graphic
   - professional
   - bold
-  - graphic
+  - photography
+  - clean
+  - gradient
 wikidata_description: American space and aeronautics agency
 wikidata_url: "https://www.wikidata.org/wiki/Q23548"
 has_twitter: false
@@ -81,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nasa.gov/](https://www.nasa.gov/)
+- [https://www.nasa.gov](https://www.nasa.gov)
 
 ## Brand Guidelines
 

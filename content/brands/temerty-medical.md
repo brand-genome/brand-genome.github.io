@@ -2,11 +2,11 @@
 title: Temerty Medical
 slug: "temerty-medical"
 description: ""
-date: "2026-03-13T09:22:53.399328"
+date: "2026-03-20T08:22:04.303412"
 draft: false
 sectors:
-  - research
   - university
+  - research
   - healthcare
 regions:
   - canada
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - crest
-  - primary
   - secondary
   - signature
+  - crest
+  - wordmark
+  - primary
 brand_colors:
   - "pantone-655"
   - white
-  - "pantone-633"
   - blue
+  - "pantone-633"
 typographies:
   - arial
   - times
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://temertymedicine.utoronto.ca/](https://temertymedicine.utoronto.ca/)
+- [https://temertymedicine.utoronto.ca](https://temertymedicine.utoronto.ca)
 
 ## Brand Guidelines
 

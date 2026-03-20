@@ -2,7 +2,7 @@
 title: CNSA
 slug: cnsa
 description: ""
-date: "2026-03-13T09:22:55.164858"
+date: "2026-03-20T08:22:05.866144"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cnsa.fr/](https://www.cnsa.fr/)
-- [https://www.monparcourshandicap.gouv.fr/](https://www.monparcourshandicap.gouv.fr/)
-- [https://www.pour-les-personnes-agees.gouv.fr/](https://www.pour-les-personnes-agees.gouv.fr/)
+- [https://www.cnsa.fr](https://www.cnsa.fr)
+- [https://www.pour-les-personnes-agees.gouv.fr](https://www.pour-les-personnes-agees.gouv.fr)
+- [https://www.monparcourshandicap.gouv.fr](https://www.monparcourshandicap.gouv.fr)
+- [https://www.cnsa.gov.cn](https://www.cnsa.gov.cn)
 
 ## Brand Guidelines
 

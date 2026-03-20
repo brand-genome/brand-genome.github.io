@@ -2,7 +2,7 @@
 title: Tourism Tasmania
 slug: "tourism-tasmania"
 description: ""
-date: "2026-03-13T09:22:53.442209"
+date: "2026-03-20T08:22:04.346080"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - australia
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - staged
+  - photography
 wikidata_description: "government agency of Tasmania, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q48816103"
 has_twitter: false
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.discovertasmania.com.au/](https://www.discovertasmania.com.au/)
-- [https://www.tourismtasmania.com.au/](https://www.tourismtasmania.com.au/)
+- [https://www.discovertasmania.com.au](https://www.discovertasmania.com.au)
+- [https://www.tourismtasmania.com.au](https://www.tourismtasmania.com.au)
 
 ## Brand Guidelines
 

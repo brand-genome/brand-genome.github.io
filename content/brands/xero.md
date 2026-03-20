@@ -2,11 +2,11 @@
 title: Xero
 slug: xero
 description: ""
-date: "2026-03-13T09:22:54.797711"
+date: "2026-03-20T08:22:05.571261"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - "new-zealand"
 years:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,10 +59,10 @@ body_sections: []
 logo_elements:
   - badge
 brand_colors:
-  - black
-  - white
-  - 100
   - blue
+  - 100
+  - white
+  - black
 typographies:
   - display
 imagery_styles:
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xero.com/](https://www.xero.com/)
-- [https://www.xero.com/nz/](https://www.xero.com/nz/)
+- [https://www.xero.com](https://www.xero.com)
+- [https://www.xero.com/nz](https://www.xero.com/nz)
 
 ## Brand Guidelines
 

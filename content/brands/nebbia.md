@@ -2,12 +2,12 @@
 title: Nebbia
 slug: nebbia
 description: ""
-date: "2026-03-13T09:22:54.419733"
+date: "2026-03-20T08:22:05.315954"
 draft: false
 sectors:
+  - fashion
   - "e-commerce"
   - fitness
-  - fashion
 regions:
   - slovakia
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +52,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - helvetica
 imagery_styles: []
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nebbia.fitness/](https://nebbia.fitness/)
+- [https://nebbia.fitness](https://nebbia.fitness)
 
 ## Brand Guidelines
 

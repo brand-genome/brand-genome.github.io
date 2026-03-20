@@ -2,7 +2,7 @@
 title: Alamo Drafthouse
 slug: "alamo-drafthouse"
 description: ""
-date: "2026-03-13T09:22:53.702060"
+date: "2026-03-20T08:22:04.557202"
 draft: false
 sectors:
   - entertainment
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - "pantone-1795"
   - "pantone-2612"
+  - "pantone-1795"
+  - white
   - gray
   - "pantone-7409"
   - black
-  - white
 typographies:
   - impact
 imagery_styles:
+  - staged
+  - bold
   - natural
   - vintage
-  - staged
   - photography
-  - bold
 wikidata_description: "former cinema in Midtown Omaha, Nebraska"
 wikidata_url: "https://www.wikidata.org/wiki/Q78362726"
 has_twitter: false
@@ -76,8 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://drafthouse.com/](https://drafthouse.com/)
+- [https://drafthouse.com](https://drafthouse.com)
 - [https://drafthouse.com/branding](https://drafthouse.com/branding)
+- [http://www.drafthouse.com/omaha/theater/midtown](http://www.drafthouse.com/omaha/theater/midtown)
+- [http://www.marcustheatres.com](http://www.marcustheatres.com)
 
 ## Brand Guidelines
 

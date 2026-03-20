@@ -2,7 +2,7 @@
 title: Certification Europe
 slug: "certification-europe"
 description: ""
-date: "2026-03-13T09:22:53.763075"
+date: "2026-03-20T08:22:04.720385"
 draft: false
 sectors:
   - consulting
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +50,13 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
+  - green
+  - "pantone-370"
+  - blue
   - "pantone-158"
   - "pantone-301"
   - orange
   - black
-  - green
-  - blue
-  - "pantone-370"
 typographies: []
 imagery_styles:
   - monochrome
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.certificationeurope.com/](https://www.certificationeurope.com/)
+- [https://www.certificationeurope.com](https://www.certificationeurope.com)
 
 ## Brand Guidelines
 

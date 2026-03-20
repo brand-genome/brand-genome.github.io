@@ -2,7 +2,7 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-03-13T09:22:53.516438"
+date: "2026-03-20T08:22:04.410468"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - italian
 tags:
-  - city
   - regional
   - featured
+  - city
 industries: []
 countries:
   - italy
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - primary
-  - emblem
   - vertical
   - secondary
+  - crest
   - horizontal
+  - emblem
+  - primary
 brand_colors:
   - silver
-  - gold
-  - black
   - red
   - green
+  - gold
   - white
+  - black
 typographies:
-  - frutiger
   - times
+  - frutiger
   - bodoni
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "photo archive in Milan, Italy"
 wikidata_url: "https://www.wikidata.org/wiki/Q21551956"
 has_twitter: false
@@ -82,8 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://servizi.comune.milano.it/](https://servizi.comune.milano.it/)
-- [https://www.comune.milano.it/](https://www.comune.milano.it/)
+- [https://www.comune.milano.it](https://www.comune.milano.it)
+- [https://servizi.comune.milano.it](https://servizi.comune.milano.it)
+- [https://archiviofotografico.milanocastello.it](https://archiviofotografico.milanocastello.it)
 
 ## Brand Guidelines
 

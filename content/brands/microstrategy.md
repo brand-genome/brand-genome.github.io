@@ -2,11 +2,11 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-03-13T09:22:54.743209"
+date: "2026-03-20T08:22:05.539896"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - usa
 years:
@@ -16,11 +16,11 @@ languages:
 tags:
   - software
 industries:
-  - "technology-industry"
-  - "data-visualization"
-  - "software-development"
   - analytics
+  - "technology-industry"
+  - "software-development"
   - "software-industry"
+  - "data-visualization"
   - "business-intelligence"
 countries:
   - "united-states"
@@ -37,12 +37,12 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
+  - application
+  - "business-intelligence-software"
   - "data-analysis-software"
-  - "mobile-app"
   - "computer-program"
   - software
-  - "business-intelligence-software"
-  - application
+  - "mobile-app"
 products: []
 headquarters_locations:
   - tysons
@@ -50,6 +50,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,15 +70,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - alternate
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - alternate
+  - icon
 brand_colors:
-  - black
-  - white
   - "pantone-1795"
+  - white
+  - black
 typographies:
   - futura
 imagery_styles:
@@ -92,10 +94,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.microstrategy.com/](https://www.microstrategy.com/)
-- [https://www.strategy.com/](https://www.strategy.com/)
-- [https://www.strategy.com/software/](https://www.strategy.com/software/)
-- [https://www.strategysoftware.com/](https://www.strategysoftware.com/)
+- [https://www.strategy.com](https://www.strategy.com)
+- [https://www.strategy.com/software](https://www.strategy.com/software)
+- [https://www.strategysoftware.com](https://www.strategysoftware.com)
+- [https://www.microstrategy.com](https://www.microstrategy.com)
 
 ## Brand Guidelines
 
@@ -127,7 +129,7 @@ Thank you
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Mobile App](/products_or_materials_produced/mobile-app/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Application](/products_or_materials_produced/application/) |
+| Product Or Material Produced | [Application](/products_or_materials_produced/application/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/); [Mobile App](/products_or_materials_produced/mobile-app/) |
 | Headquarters Location | [Tysons](/headquarters_locations/tysons/); [Wilmington](/headquarters_locations/wilmington/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/052hvb |

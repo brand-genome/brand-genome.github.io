@@ -2,7 +2,7 @@
 title: Universidad de La Sabana
 slug: "universidad-de-la-sabana"
 description: ""
-date: "2026-03-13T09:22:52.317084"
+date: "2026-03-20T08:22:03.385041"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unisabana.edu.co/](https://www.unisabana.edu.co/)
+- [https://www.unisabana.edu.co](https://www.unisabana.edu.co)
 
 ## Brand Guidelines
 

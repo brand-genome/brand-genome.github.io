@@ -2,7 +2,7 @@
 title: Visit Estonia
 slug: "visit-estonia"
 description: ""
-date: "2026-03-13T09:22:52.057205"
+date: "2026-03-20T08:22:03.123278"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - tourism
   - strategy
+  - tourism
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visitestonia.com/](https://visitestonia.com/)
+- [https://visitestonia.com](https://visitestonia.com)
 
 ## Brand Guidelines
 

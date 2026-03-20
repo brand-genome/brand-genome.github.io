@@ -2,7 +2,7 @@
 title: FAMU
 slug: famu
 description: ""
-date: "2026-03-13T09:22:53.702656"
+date: "2026-03-20T08:22:04.557733"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,22 +53,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - seal
   - signature
+  - seal
+  - primary
 brand_colors:
   - green
   - orange
 typographies:
-  - serif
-  - times
-  - "gill-sans"
   - "century-gothic"
+  - "gill-sans"
+  - times
+  - serif
 imagery_styles:
-  - dynamic
-  - photography
   - product
+  - dynamic
   - clean
+  - photography
 wikidata_description: "public, historically black university in Tallahassee, Florida (U.S.)"
 wikidata_url: "https://www.wikidata.org/wiki/Q1430048"
 has_twitter: false
@@ -78,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.famu.edu/](https://www.famu.edu/)
+- [https://www.famu.edu](https://www.famu.edu)
 
 ## Brand Guidelines
 

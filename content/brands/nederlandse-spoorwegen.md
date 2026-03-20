@@ -2,7 +2,7 @@
 title: Nederlandse Spoorwegen
 slug: "nederlandse-spoorwegen"
 description: ""
-date: "2026-03-13T09:22:53.245902"
+date: "2026-03-20T08:22:04.163929"
 draft: false
 sectors:
   - railroad
@@ -38,8 +38,10 @@ headquarters_locations:
   - utrecht
 subsidiaries: []
 foundation_dates:
-  - 1937
   - 1938
+  - 1937
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ns.nl/](https://www.ns.nl/)
+- [https://www.ns.nl](https://www.ns.nl)
 - [https://www.ns.nl/en](https://www.ns.nl/en)
 
 ## Brand Guidelines
@@ -167,7 +169,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Rails](/products_or_materials_produced/rails/) |
 | Headquarters Location | [Utrecht](/headquarters_locations/utrecht/) |
-| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
+| Foundation Date | [1938](/foundation_dates/1938/); [1937](/foundation_dates/1937/) |
 | Topic'S Main Category | Category:Nederlandse Spoorwegen |
 | Member Of | Railteam, International Union of Railways (from 1922), International Rail Transport Committee, Community of European Railway and Infrastructure Companies, International Mainline Rail Benchmarking Group |
 | Freebase Id | /m/016mtj |

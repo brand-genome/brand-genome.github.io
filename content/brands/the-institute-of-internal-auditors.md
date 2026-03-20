@@ -2,12 +2,12 @@
 title: The Institute of Internal Auditors
 slug: "the-institute-of-internal-auditors"
 description: ""
-date: "2026-03-13T09:22:54.980003"
+date: "2026-03-20T08:22:05.711412"
 draft: false
 sectors:
+  - ngo
   - consulting
   - education
-  - ngo
 regions:
   - international
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +53,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - icon
   - horizontal
-  - vertical
 brand_colors: []
 typographies:
   - serif
 imagery_styles:
+  - bold
   - muted
   - modern
-  - bold
 wikidata_description: professional association
 wikidata_url: "https://www.wikidata.org/wiki/Q1056306"
 has_twitter: false
@@ -72,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.theiia.org](https://www.theiia.org)
 - [http://www.theiia.org](http://www.theiia.org)
-- [https://www.theiia.org/](https://www.theiia.org/)
 
 ## Brand Guidelines
 

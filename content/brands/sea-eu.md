@@ -2,7 +2,7 @@
 title: "SEA-EU"
 slug: "sea-eu"
 description: ""
-date: "2026-03-13T09:22:52.228763"
+date: "2026-03-20T08:22:03.293984"
 draft: false
 sectors:
   - education
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - blue
-  - white
 typographies:
   - roboto
 imagery_styles:
-  - dramatic
-  - photography
   - bold
   - geometric
+  - photography
+  - dramatic
 wikidata_description: European University of the Seas
 wikidata_url: "https://www.wikidata.org/wiki/Q134810831"
 has_twitter: false
@@ -73,10 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://osbe.sea-eu.org/](https://osbe.sea-eu.org/)
-- [https://sea-eu.org/](https://sea-eu.org/)
-- [https://sea-eu.org/sea-eu/](https://sea-eu.org/sea-eu/)
-- [https://sea-eu.org/welcome/](https://sea-eu.org/welcome/)
+- [https://sea-eu.org](https://sea-eu.org)
+- [https://sea-eu.org/sea-eu](https://sea-eu.org/sea-eu)
+- [https://sea-eu.org/welcome](https://sea-eu.org/welcome)
+- [https://osbe.sea-eu.org](https://osbe.sea-eu.org)
 
 ## Brand Guidelines
 

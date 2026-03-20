@@ -2,7 +2,7 @@
 title: Hero
 slug: hero
 description: ""
-date: "2026-03-13T09:22:54.419864"
+date: "2026-03-20T08:22:05.316108"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - horizontal
-  - lockup
   - vertical
   - abstract
+  - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
+  - clean
   - modern
   - abstract
-  - clean
+  - photography
 wikidata_description: vocal track by Charlotte Perrelli; 2008 studio recording
 wikidata_url: "https://www.wikidata.org/wiki/Q105627444"
 has_twitter: false
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.fontshop.com](http://www.fontshop.com)
-- [https://www.heromotocorp.com/](https://www.heromotocorp.com/)
+- [https://www.heromotocorp.com](https://www.heromotocorp.com)
 - [https://www.heromotocorp.com/en-in.html](https://www.heromotocorp.com/en-in.html)
+- [http://www.fontshop.com](http://www.fontshop.com)
 
 ## Brand Guidelines
 

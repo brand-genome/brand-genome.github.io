@@ -2,7 +2,7 @@
 title: GOL
 slug: gol
 description: ""
-date: "2026-03-13T09:22:54.421464"
+date: "2026-03-20T08:22:05.317039"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.voegol.com.br/](https://www.voegol.com.br/)
+- [https://www.voegol.com.br](https://www.voegol.com.br)
+- [http://www.voegol.com.br](http://www.voegol.com.br)
+- [http://m.voegol.com.br](http://m.voegol.com.br)
 
 ## Brand Guidelines
 

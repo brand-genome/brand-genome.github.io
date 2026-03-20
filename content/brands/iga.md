@@ -2,7 +2,7 @@
 title: IGA
 slug: iga
 description: ""
-date: "2026-03-13T09:22:53.721114"
+date: "2026-03-20T08:22:04.684791"
 draft: false
 sectors:
   - supermarket
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ brand_colors: []
 typographies:
   - display
 imagery_styles:
-  - illustration
   - bold
+  - illustration
 wikidata_description: antibody that plays a crucial role in the immune function of mucous membranes
 wikidata_url: "https://www.wikidata.org/wiki/Q79453"
 has_twitter: false
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.iga.com](https://www.iga.com)
+- [https://igalink.iga.com](https://igalink.iga.com)
 - [http://www.myfonts.com/fonts/mika-melvas/signalist](http://www.myfonts.com/fonts/mika-melvas/signalist)
-- [https://igalink.iga.com/](https://igalink.iga.com/)
-- [https://www.iga.com/](https://www.iga.com/)
 
 ## Brand Guidelines
 

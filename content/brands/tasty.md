@@ -2,7 +2,7 @@
 title: Tasty
 slug: tasty
 description: ""
-date: "2026-03-13T09:22:54.576855"
+date: "2026-03-20T08:22:05.421407"
 draft: false
 sectors:
   - food
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://tasty.co](https://tasty.co)
 - [https://advertise.buzzfeed.com/tasty](https://advertise.buzzfeed.com/tasty)
-- [https://tasty.co/](https://tasty.co/)
+- [https://www.tasty.com.tw](https://www.tasty.com.tw)
 
 ## Brand Guidelines
 

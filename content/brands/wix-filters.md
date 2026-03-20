@@ -2,11 +2,11 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-03-13T09:22:53.287406"
+date: "2026-03-20T08:22:04.214137"
 draft: false
 sectors:
-  - "consumer-goods"
   - automobile
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wixfilters.com](https://www.wixfilters.com)
+- [https://www.wixeurope.com](https://www.wixeurope.com)
 - [http://www.wixeurope.com](http://www.wixeurope.com)
-- [https://www.wixeurope.com/](https://www.wixeurope.com/)
-- [https://www.wixfilters.com/](https://www.wixfilters.com/)
 
 ## Brand Guidelines
 

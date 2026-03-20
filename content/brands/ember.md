@@ -2,7 +2,7 @@
 title: Ember
 slug: ember
 description: ""
-date: "2026-03-13T09:22:53.606231"
+date: "2026-03-20T08:22:04.471589"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,12 +47,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lockup
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://emberjs.com/](https://emberjs.com/)
+- [https://emberjs.com](https://emberjs.com)
 - [https://github.com/emberjs/ember.js](https://github.com/emberjs/ember.js)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-03-13T09:22:53.759773"
+date: "2026-03-20T08:22:04.718115"
 draft: false
 sectors:
   - "arts-culture"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.aiga.org](https://www.aiga.org)
+- [https://www.aigany.org](https://www.aigany.org)
 - [http://www.aiga.org](http://www.aiga.org)
-- [https://www.aiga.org/](https://www.aiga.org/)
-- [https://www.aigany.org/](https://www.aigany.org/)
 
 ## Brand Guidelines
 

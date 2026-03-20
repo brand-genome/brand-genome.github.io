@@ -2,7 +2,7 @@
 title: SwizzyLab
 slug: swizzylab
 description: ""
-date: "2026-03-13T09:22:55.007693"
+date: "2026-03-20T08:22:05.719676"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.swizzylab.com/](https://www.swizzylab.com/)
+- [https://www.swizzylab.com](https://www.swizzylab.com)
 
 ## Brand Guidelines
 

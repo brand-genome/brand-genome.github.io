@@ -2,7 +2,7 @@
 title: Accoya
 slug: accoya
 description: ""
-date: "2026-03-13T09:22:54.050419"
+date: "2026-03-20T08:22:04.902784"
 draft: false
 sectors:
   - construction
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +56,9 @@ typographies:
   - times
   - display
 imagery_styles:
-  - photography
   - product
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.accoya.com](https://www.accoya.com)
-- [https://www.accoya.com/accoya-usa/](https://www.accoya.com/accoya-usa/)
 - [https://www.accoya.com/uk](https://www.accoya.com/uk)
+- [https://www.accoya.com/accoya-usa](https://www.accoya.com/accoya-usa)
 - [https://www.accsysplc.com](https://www.accsysplc.com)
 
 ## Brand Guidelines

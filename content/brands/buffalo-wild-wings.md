@@ -2,7 +2,7 @@
 title: Buffalo Wild Wings
 slug: "buffalo-wild-wings"
 description: ""
-date: "2026-03-13T09:22:55.038902"
+date: "2026-03-20T08:22:05.741682"
 draft: false
 sectors:
   - restaurant
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.buffalowildwings.com/](https://www.buffalowildwings.com/)
+- [https://www.buffalowildwings.com](https://www.buffalowildwings.com)
 
 ## Brand Guidelines
 

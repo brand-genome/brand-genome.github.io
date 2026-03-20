@@ -2,11 +2,11 @@
 title: City of Hutto
 slug: "city-of-hutto"
 description: ""
-date: "2026-03-13T09:22:54.972879"
+date: "2026-03-20T08:22:05.704089"
 draft: false
 sectors:
-  - utilities
   - "public-sector"
+  - utilities
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
   - "sans-serif"
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.huttotx.gov](https://www.huttotx.gov)
 - [http://www.huttotx.gov](http://www.huttotx.gov)
-- [https://www.huttotx.gov/](https://www.huttotx.gov/)
 
 ## Brand Guidelines
 

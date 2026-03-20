@@ -2,7 +2,7 @@
 title: Turksat Kablo
 slug: "turksat-kablo"
 description: ""
-date: "2026-03-13T09:22:54.142889"
+date: "2026-03-20T08:22:04.981083"
 draft: false
 sectors:
   - broadcasting
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-16"
-  - gray
   - blue
-  - "pantone-18"
+  - gray
+  - "pantone-16"
   - "pantone-19"
+  - "pantone-18"
 typographies: []
 imagery_styles: []
 wikidata_description: organization
@@ -67,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.turksatkablo.com.tr](https://www.turksatkablo.com.tr)
+- [https://www.turksatkablonet.com](https://www.turksatkablonet.com)
+- [https://www.tvheryerde.com.tr](https://www.tvheryerde.com.tr)
 - [http://www.turksatkablo.com](http://www.turksatkablo.com)
-- [https://www.turksatkablo.com.tr/](https://www.turksatkablo.com.tr/)
-- [https://www.turksatkablonet.com/](https://www.turksatkablonet.com/)
-- [https://www.tvheryerde.com.tr/](https://www.tvheryerde.com.tr/)
+- [http://www.turksatkablo.com.tr](http://www.turksatkablo.com.tr)
 
 ## Brand Guidelines
 

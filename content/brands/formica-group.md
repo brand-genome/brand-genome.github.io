@@ -2,11 +2,11 @@
 title: Formica Group
 slug: "formica-group"
 description: ""
-date: "2026-03-13T09:22:53.016731"
+date: "2026-03-20T08:22:04.007543"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - orange
+  - black
 typographies:
+  - impact
   - helvetica
   - bodoni
-  - impact
 imagery_styles:
-  - minimal
   - photography
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.homapal.de](http://www.homapal.de)
-- [https://www.formica.com/](https://www.formica.com/)
+- [https://www.formica.com](https://www.formica.com)
 - [https://www.formica.com/about-us](https://www.formica.com/about-us)
 - [https://www.formica.com/en-us/products/homapal](https://www.formica.com/en-us/products/homapal)
+- [http://www.homapal.de](http://www.homapal.de)
 
 ## Brand Guidelines
 

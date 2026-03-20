@@ -2,7 +2,7 @@
 title: Charity Water
 slug: "charity-water"
 description: ""
-date: "2026-03-13T09:22:55.147990"
+date: "2026-03-20T08:22:05.847156"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://store.charitywater.org](https://store.charitywater.org)
 - [https://www.charitywater.org](https://www.charitywater.org)
+- [https://store.charitywater.org](https://store.charitywater.org)
 - [https://www.charitywateruk.org](https://www.charitywateruk.org)
 
 ## Brand Guidelines

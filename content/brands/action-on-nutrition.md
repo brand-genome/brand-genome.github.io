@@ -2,7 +2,7 @@
 title: Action on Nutrition
 slug: "action-on-nutrition"
 description: ""
-date: "2026-03-13T09:22:53.427990"
+date: "2026-03-20T08:22:04.331127"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +51,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - grey
-  - black
   - red
-  - blue
   - white
+  - grey
+  - blue
+  - gray
+  - black
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
-  - gradient
   - bold
   - graphic
+  - gradient
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.un.org/nutrition/](https://www.un.org/nutrition/)
+- [https://www.un.org/nutrition](https://www.un.org/nutrition)
 
 ## Brand Guidelines
 

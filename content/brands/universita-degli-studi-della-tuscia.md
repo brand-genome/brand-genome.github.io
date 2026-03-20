@@ -2,12 +2,12 @@
 title: Università degli studi della Tuscia
 slug: "universita-degli-studi-della-tuscia"
 description: ""
-date: "2026-03-13T09:22:53.520386"
+date: "2026-03-20T08:22:04.414166"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - italy
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unitus.it/](https://www.unitus.it/)
+- [https://www.unitus.it](https://www.unitus.it)
 
 ## Brand Guidelines
 

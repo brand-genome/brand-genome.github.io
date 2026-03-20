@@ -2,12 +2,12 @@
 title: Bowling Green State University
 slug: "bowling-green-state-university"
 description: ""
-date: "2026-03-13T09:22:53.272346"
+date: "2026-03-20T08:22:04.199771"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,28 +54,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - orange
+  - gold
   - teal
   - coral
-  - gold
   - white
   - brown
+  - orange
 typographies:
-  - univers
-  - helvetica
-  - "sans-serif"
   - serif
   - arial
+  - "sans-serif"
+  - univers
+  - helvetica
 imagery_styles:
+  - graphic
   - natural
-  - candid
   - photography
   - gradient
-  - graphic
+  - candid
 wikidata_description: "public university in Bowling Green, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q895457"
 has_twitter: false
@@ -85,8 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bgsu.edu](https://www.bgsu.edu)
 - [http://www.bgsu.edu/admissions](http://www.bgsu.edu/admissions)
-- [https://www.bgsu.edu/](https://www.bgsu.edu/)
+- [https://bgsu.edu](https://bgsu.edu)
 
 ## Brand Guidelines
 

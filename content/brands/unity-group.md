@@ -2,7 +2,7 @@
 title: Unity Group
 slug: "unity-group"
 description: ""
-date: "2026-03-13T09:22:53.437433"
+date: "2026-03-20T08:22:04.341343"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - mascot
   - primary
   - secondary
-  - mascot
 brand_colors:
+  - red
   - violet
+  - white
   - orange
   - black
-  - red
-  - white
 typographies:
-  - serif
   - din
+  - serif
 imagery_styles:
   - clean
   - modern
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.univio.com/](https://www.univio.com/)
+- [https://www.univio.com](https://www.univio.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Federación Canaria de Padel
 slug: "federacion-canaria-de-padel"
 description: ""
-date: "2026-03-13T09:22:52.066937"
+date: "2026-03-20T08:22:03.132632"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://canariaspadel.es/](https://canariaspadel.es/)
+- [https://canariaspadel.es](https://canariaspadel.es)
 
 ## Brand Guidelines
 

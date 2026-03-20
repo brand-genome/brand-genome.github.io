@@ -2,7 +2,7 @@
 title: New York State
 slug: "new-york-state"
 description: ""
-date: "2026-03-13T09:22:54.739868"
+date: "2026-03-20T08:22:05.536978"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1844
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,12 +56,12 @@ logo_elements:
   - secondary
 brand_colors: []
 typographies:
-  - "proxima-nova"
   - oswald
+  - "proxima-nova"
 imagery_styles:
+  - bold
   - monochrome
   - photography
-  - bold
 wikidata_description: "state university in Albany, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q1780816"
 has_twitter: false
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ny.gov](https://www.ny.gov)
 - [http://www.iloveny.com](http://www.iloveny.com)
 - [http://www.ny.gov](http://www.ny.gov)
-- [https://www.ny.gov/](https://www.ny.gov/)
+- [https://www.albany.edu](https://www.albany.edu)
 
 ## Brand Guidelines
 

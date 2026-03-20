@@ -2,12 +2,12 @@
 title: Sepuluh Nopember Institute of Technology
 slug: "sepuluh-nopember-institute-of-technology"
 description: ""
-date: "2026-03-13T09:22:53.063868"
+date: "2026-03-20T08:22:04.055812"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - indonesia
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.its.ac.id/](https://www.its.ac.id/)
+- [https://www.its.ac.id](https://www.its.ac.id)
 
 ## Brand Guidelines
 

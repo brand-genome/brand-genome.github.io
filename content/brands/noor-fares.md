@@ -2,7 +2,7 @@
 title: Noor Fares
 slug: "noor-fares"
 description: ""
-date: "2026-03-13T09:22:54.218995"
+date: "2026-03-20T08:22:05.046648"
 draft: false
 sectors:
   - jewellery
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,8 +48,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - monogram
   - secondary
+  - monogram
 brand_colors:
   - black
   - "pantone-7632"
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://noorfares.com](https://noorfares.com)
+- [https://www.noorfares.com](https://www.noorfares.com)
 - [http://www.noorfares.com](http://www.noorfares.com)
-- [https://noorfares.com/](https://noorfares.com/)
-- [https://www.noorfares.com/](https://www.noorfares.com/)
 
 ## Brand Guidelines
 

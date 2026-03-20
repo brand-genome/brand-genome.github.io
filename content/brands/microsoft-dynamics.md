@@ -2,7 +2,7 @@
 title: Microsoft Dynamics
 slug: "microsoft-dynamics"
 description: ""
-date: "2026-03-13T09:22:54.827601"
+date: "2026-03-20T08:22:05.589393"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - symbol
   - primary
   - secondary
-  - lockup
 brand_colors:
   - navy
-  - grey
-  - black
-  - blue
   - white
+  - grey
+  - blue
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: enterprise resource planning software produced by Microsoft
@@ -69,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://learn.microsoft.com/en-us/power-platform/admin/sign-in-office-365-apps](https://learn.microsoft.com/en-us/power-platform/admin/sign-in-office-365-apps)
 - [https://www.microsoft.com/en-us/dynamics-365](https://www.microsoft.com/en-us/dynamics-365)
+- [https://learn.microsoft.com/en-us/power-platform/admin/sign-in-office-365-apps](https://learn.microsoft.com/en-us/power-platform/admin/sign-in-office-365-apps)
+- [https://dynamics.microsoft.com/ax-overview](https://dynamics.microsoft.com/ax-overview)
 
 ## Brand Guidelines
 

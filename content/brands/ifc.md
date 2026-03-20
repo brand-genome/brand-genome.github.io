@@ -2,7 +2,7 @@
 title: IFC
 slug: ifc
 description: ""
-date: "2026-03-13T09:22:55.043198"
+date: "2026-03-20T08:22:05.746351"
 draft: false
 sectors:
   - finance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ifc.org/](https://www.ifc.org/)
+- [https://www.ifc.org](https://www.ifc.org)
 
 ## Brand Guidelines
 

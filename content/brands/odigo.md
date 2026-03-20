@@ -2,7 +2,7 @@
 title: Odigo
 slug: odigo
 description: ""
-date: "2026-03-13T09:22:52.329346"
+date: "2026-03-20T08:22:03.397151"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.odigo.com](https://www.odigo.com)
 - [http://www.odigo.com](http://www.odigo.com)
-- [https://www.odigo.com/](https://www.odigo.com/)
+- [http://www.odigo.org](http://www.odigo.org)
 
 ## Brand Guidelines
 

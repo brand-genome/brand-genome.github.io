@@ -2,7 +2,7 @@
 title: Government of South Australia
 slug: "government-of-south-australia"
 description: ""
-date: "2026-03-13T09:22:52.234269"
+date: "2026-03-20T08:22:03.296913"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1836
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.governmentgazette.sa.gov.au/](https://www.governmentgazette.sa.gov.au/)
-- [https://www.premier.sa.gov.au/](https://www.premier.sa.gov.au/)
-- [https://www.sa.gov.au/](https://www.sa.gov.au/)
+- [https://www.sa.gov.au](https://www.sa.gov.au)
 - [https://www.sa.gov.au/mysagov](https://www.sa.gov.au/mysagov)
+- [https://www.premier.sa.gov.au](https://www.premier.sa.gov.au)
+- [https://www.governmentgazette.sa.gov.au](https://www.governmentgazette.sa.gov.au)
 
 ## Brand Guidelines
 

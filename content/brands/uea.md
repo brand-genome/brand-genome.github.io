@@ -2,12 +2,12 @@
 title: UEA
 slug: uea
 description: ""
-date: "2026-03-13T09:22:55.086144"
+date: "2026-03-20T08:22:05.790238"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,12 +56,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - cyan
-  - orange
-  - black
-  - magenta
   - green
   - white
+  - cyan
+  - magenta
+  - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Norwich, England, United Kingdom"
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uea.ac.uk/](https://www.uea.ac.uk/)
+- [https://www.uea.ac.uk](https://www.uea.ac.uk)
 
 ## Brand Guidelines
 

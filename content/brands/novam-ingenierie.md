@@ -2,7 +2,7 @@
 title: Novam Ingénierie
 slug: "novam-ingenierie"
 description: ""
-date: "2026-03-13T09:22:54.980202"
+date: "2026-03-20T08:22:05.711557"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.novam-ingenierie.com](https://www.novam-ingenierie.com)
 - [http://www.novam-ingenierie.com](http://www.novam-ingenierie.com)
-- [https://www.novam-ingenierie.com/](https://www.novam-ingenierie.com/)
 
 ## Brand Guidelines
 

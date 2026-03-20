@@ -2,7 +2,7 @@
 title: Vetus
 slug: vetus
 description: ""
-date: "2026-03-13T09:22:53.715471"
+date: "2026-03-20T08:22:04.676630"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -33,6 +33,9 @@ subsidiaries: []
 foundation_dates:
   - 1930
   - 2005
+foundation_year_buckets:
+  - 1930S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,13 +56,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - yellow
   - "pantone-121"
+  - "pantone-123"
+  - white
+  - blue
+  - yellow
   - "pantone-295"
   - black
-  - "pantone-123"
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish association football team
@@ -73,12 +76,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://vetus.com](https://vetus.com)
+- [https://vetus.com/usa](https://vetus.com/usa)
+- [https://maxwellmarine.com](https://maxwellmarine.com)
 - [http://goo.gl/Ynro4Y](http://goo.gl/Ynro4Y)
 - [http://www.maxwellmarine.com](http://www.maxwellmarine.com)
 - [http://www.vetus.com](http://www.vetus.com)
-- [https://maxwellmarine.com/](https://maxwellmarine.com/)
-- [https://vetus.com/](https://vetus.com/)
-- [https://vetus.com/usa/](https://vetus.com/usa/)
 
 ## Brand Guidelines
 

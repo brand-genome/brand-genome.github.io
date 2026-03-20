@@ -2,7 +2,7 @@
 title: ACPA
 slug: acpa
 description: ""
-date: "2026-03-13T09:22:54.340016"
+date: "2026-03-20T08:22:05.166786"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1952
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://acpilots.alpa.org](https://acpilots.alpa.org)
 - [https://aca.alpa.org/Accueil](https://aca.alpa.org/Accueil)
-- [https://acpilots.alpa.org/](https://acpilots.alpa.org/)
-- [https://aircanadapilots.ca/en-us/](https://aircanadapilots.ca/en-us/)
-- [https://aircanadapilots.ca/fr-ca/](https://aircanadapilots.ca/fr-ca/)
+- [https://aircanadapilots.ca/en-us](https://aircanadapilots.ca/en-us)
+- [https://aircanadapilots.ca/fr-ca](https://aircanadapilots.ca/fr-ca)
+- [https://www.counseling.org](https://www.counseling.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: BYD
 slug: byd
 description: ""
-date: "2026-03-13T09:22:51.968095"
+date: "2026-03-20T08:22:03.080236"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
   - transport
 industries:
   - "battery-industry"
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.byd.com/](https://www.byd.com/)
-- [https://www.byd.com/cn](https://www.byd.com/cn)
+- [https://www.byd.com](https://www.byd.com)
 - [https://www.byd.com/en](https://www.byd.com/en)
+- [https://www.byd.com/cn](https://www.byd.com/cn)
+- [https://www.bydglobal.com](https://www.bydglobal.com)
 
 ## Brand Guidelines
 

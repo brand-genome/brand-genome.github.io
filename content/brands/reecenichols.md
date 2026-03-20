@@ -2,7 +2,7 @@
 title: ReeceNichols
 slug: reecenichols
 description: ""
-date: "2026-03-13T09:22:54.332317"
+date: "2026-03-20T08:22:05.158213"
 draft: false
 sectors:
   - "real-estate"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
   - horizontal
 brand_colors:
   - black
@@ -57,9 +58,9 @@ brand_colors:
 typographies:
   - gotham
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://reecenicholscareers.com/](https://reecenicholscareers.com/)
-- [https://www.reecenichols.com/](https://www.reecenichols.com/)
+- [https://www.reecenichols.com](https://www.reecenichols.com)
+- [https://reecenicholscareers.com](https://reecenicholscareers.com)
 
 ## Brand Guidelines
 

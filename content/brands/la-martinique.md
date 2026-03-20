@@ -2,7 +2,7 @@
 title: La Martinique
 slug: "la-martinique"
 description: ""
-date: "2026-03-13T09:22:53.397580"
+date: "2026-03-20T08:22:04.301270"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +51,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - wordmark
   - signature
+  - wordmark
 brand_colors:
-  - violet
+  - red
+  - "pantone-137"
+  - white
+  - orange
+  - blue
   - gray
   - yellow
-  - orange
-  - black
-  - white
-  - red
-  - blue
-  - "pantone-137"
   - turquoise
+  - violet
+  - black
 typographies: []
 imagery_styles:
   - gradient
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.martiniquetourisme.com](http://www.martiniquetourisme.com)
-- [https://martiniquepro.org/fr/nous-joindre/](https://martiniquepro.org/fr/nous-joindre/)
-- [https://www.martinique.org/en](https://www.martinique.org/en)
 - [https://www.martinique.org/fr](https://www.martinique.org/fr)
+- [https://www.martinique.org/en](https://www.martinique.org/en)
+- [https://martiniquepro.org/fr/nous-joindre](https://martiniquepro.org/fr/nous-joindre)
+- [http://www.martiniquetourisme.com](http://www.martiniquetourisme.com)
 
 ## Brand Guidelines
 

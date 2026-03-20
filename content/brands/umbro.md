@@ -2,12 +2,12 @@
 title: Umbro
 slug: umbro
 description: ""
-date: "2026-03-13T09:22:53.931525"
+date: "2026-03-20T08:22:04.850814"
 draft: false
 sectors:
-  - footwear
-  - fashion
   - sports
+  - fashion
+  - footwear
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +65,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.umbro.com](https://www.umbro.com)
+- [https://www.umbro.co.uk](https://www.umbro.co.uk)
+- [https://www.umbro.com/en](https://www.umbro.com/en)
+- [https://www.umbro.com.au](https://www.umbro.com.au)
 - [http://www.linotype.com](http://www.linotype.com)
 - [http://www.umbro.com](http://www.umbro.com)
-- [https://www.umbro.co.uk/](https://www.umbro.co.uk/)
-- [https://www.umbro.com.au/](https://www.umbro.com.au/)
-- [https://www.umbro.com/](https://www.umbro.com/)
-- [https://www.umbro.com/en/](https://www.umbro.com/en/)
 
 ## Brand Guidelines
 

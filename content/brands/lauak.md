@@ -2,11 +2,11 @@
 title: Lauak
 slug: lauak
 description: ""
-date: "2026-03-13T09:22:53.518677"
+date: "2026-03-20T08:22:04.412798"
 draft: false
 sectors:
-  - hardware
   - aerospace
+  - hardware
 regions:
   - france
 years:
@@ -31,11 +31,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - hasparren
   - ayherre
+  - hasparren
 subsidiaries: []
 foundation_dates:
   - 1975
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.groupe-lauak.com/](https://www.groupe-lauak.com/)
-- [https://www.groupe-lauak.com/en/](https://www.groupe-lauak.com/en/)
+- [https://www.groupe-lauak.com](https://www.groupe-lauak.com)
+- [https://www.groupe-lauak.com/en](https://www.groupe-lauak.com/en)
 
 ## Brand Guidelines
 
@@ -116,7 +118,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Hasparren](/headquarters_locations/hasparren/); [Ayherre](/headquarters_locations/ayherre/) |
+| Headquarters Location | [Ayherre](/headquarters_locations/ayherre/); [Hasparren](/headquarters_locations/hasparren/) |
 | Foundation Date | [1975](/foundation_dates/1975/) |
 | Inception | 1975-10-27, 1975-01-01 |
 | Headquarters Location | Ayherre (until 2020-03-06), Hasparren (from 2020-03-06) |

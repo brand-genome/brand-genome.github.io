@@ -2,7 +2,7 @@
 title: Destination Leman
 slug: "destination-leman"
 description: ""
-date: "2026-03-13T09:22:53.333899"
+date: "2026-03-20T08:22:04.243578"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,11 +59,11 @@ typographies:
   - "sans-serif"
   - script
 imagery_styles:
+  - graphic
   - natural
+  - photography
   - lifestyle
   - geometric
-  - photography
-  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,11 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.destination-leman.com](https://www.destination-leman.com)
+- [https://www.destination-leman.com/en](https://www.destination-leman.com/en)
+- [https://www.destination-leman.com/de](https://www.destination-leman.com/de)
 - [http://www.destination-leman.com](http://www.destination-leman.com)
 - [http://www.leman.com](http://www.leman.com)
-- [https://www.destination-leman.com/](https://www.destination-leman.com/)
-- [https://www.destination-leman.com/de/](https://www.destination-leman.com/de/)
-- [https://www.destination-leman.com/en/](https://www.destination-leman.com/en/)
 
 ## Brand Guidelines
 

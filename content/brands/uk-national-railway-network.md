@@ -2,7 +2,7 @@
 title: UK national railway network
 slug: "uk-national-railway-network"
 description: ""
-date: "2026-03-13T09:22:52.821736"
+date: "2026-03-20T08:22:03.833113"
 draft: false
 sectors:
   - "public-transportation"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nationalrail.co.uk/](https://www.nationalrail.co.uk/)
-- [https://www.networkrail.co.uk/](https://www.networkrail.co.uk/)
+- [https://www.nationalrail.co.uk](https://www.nationalrail.co.uk)
+- [https://www.networkrail.co.uk](https://www.networkrail.co.uk)
 
 ## Brand Guidelines
 

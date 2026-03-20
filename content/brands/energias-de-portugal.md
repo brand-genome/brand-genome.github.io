@@ -2,7 +2,7 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-03-13T09:22:53.084070"
+date: "2026-03-20T08:22:04.085125"
 draft: false
 sectors:
   - utilities
@@ -10,10 +10,10 @@ sectors:
 regions:
   - portugal
 years:
-  - 2015
   - 2013
-  - 2022
   - 2018
+  - 2022
+  - 2015
 languages:
   - english
   - portuguese
@@ -35,11 +35,13 @@ products_or_materials_produced:
   - "electric-power"
 products: []
 headquarters_locations:
-  - lisbon
   - "edp-headquarters"
+  - lisbon
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,28 +60,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - abstract
+  - secondary
   - logomark
   - monogram
   - wordmark
   - primary
-  - vertical
-  - secondary
-  - abstract
 brand_colors:
-  - "pantone-2985"
-  - black
+  - "pantone-7462"
+  - green
   - white
   - blue
-  - green
-  - "pantone-7462"
+  - "pantone-2985"
+  - black
 typographies: []
 imagery_styles:
-  - illustration
-  - playful
   - dynamic
-  - photography
   - abstract
   - graphic
+  - illustration
+  - photography
+  - playful
 wikidata_description: Portuguese energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q1341222"
 has_twitter: false
@@ -91,9 +93,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.edp.com/](https://www.edp.com/)
+- [https://www.edp.com](https://www.edp.com)
 - [https://www.edp.com/en](https://www.edp.com/en)
-- [https://www.edp.pt/](https://www.edp.pt/)
+- [https://www.edp.pt](https://www.edp.pt)
 
 ## Brand Guidelines
 
@@ -658,7 +660,7 @@ y visual de la marca
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Electric Power](/products_or_materials_produced/electric-power/) |
-| Headquarters Location | [Lisbon](/headquarters_locations/lisbon/); [Edp Headquarters](/headquarters_locations/edp-headquarters/) |
+| Headquarters Location | [Edp Headquarters](/headquarters_locations/edp-headquarters/); [Lisbon](/headquarters_locations/lisbon/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Stock Exchange | Euronext Lisbon |
 | Freebase Id | /m/06j3rw |

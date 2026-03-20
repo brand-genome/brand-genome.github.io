@@ -2,11 +2,11 @@
 title: Teach For America
 slug: "teach-for-america"
 description: ""
-date: "2026-03-13T09:22:53.719622"
+date: "2026-03-20T08:22:04.683110"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,23 +71,23 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.teachforamerica.org](https://www.teachforamerica.org)
+- [https://www.teachforamerica.org/ignite-fellowship](https://www.teachforamerica.org/ignite-fellowship)
+- [https://alumni.teachforamerica.org](https://alumni.teachforamerica.org)
+- [https://learn.teachforamerica.org](https://learn.teachforamerica.org)
+- [https://explore.teachforamerica.org](https://explore.teachforamerica.org)
+- [https://tfaignite.smapply.io](https://tfaignite.smapply.io)
 - [http://cargocollective.com/pstype/Quatro-Slab](http://cargocollective.com/pstype/Quatro-Slab)
-- [http://www.Zappos.com](http://www.Zappos.com)
-- [http://www.box.com/](http://www.box.com/)
-- [http://www.google.com/a/teachforamerica.org/](http://www.google.com/a/teachforamerica.org/)
+- [http://www.zappos.com](http://www.zappos.com)
+- [http://www.box.com](http://www.box.com)
+- [http://www.google.com/a/teachforamerica.org](http://www.google.com/a/teachforamerica.org)
 - [http://www.linkedin.com/company/teach-for-america](http://www.linkedin.com/company/teach-for-america)
 - [http://www.pardot.com/emailTemplate/read/id/472](http://www.pardot.com/emailTemplate/read/id/472)
 - [http://www.teachforamerica.org](http://www.teachforamerica.org)
 - [http://www.weebly.com/uploads/1/5/2/9/15294726/dwdfinal2.pdf](http://www.weebly.com/uploads/1/5/2/9/15294726/dwdfinal2.pdf)
-- [http://www.youtube.com/](http://www.youtube.com/)
-- [https://alumni.teachforamerica.org/](https://alumni.teachforamerica.org/)
-- [https://docs.google.com/a/teachforamerica.org/spreadsheet/](https://docs.google.com/a/teachforamerica.org/spreadsheet/)
-- [https://explore.teachforamerica.org/](https://explore.teachforamerica.org/)
-- [https://learn.teachforamerica.org/](https://learn.teachforamerica.org/)
-- [https://tfaignite.smapply.io/](https://tfaignite.smapply.io/)
+- [http://www.youtube.com](http://www.youtube.com)
+- [https://docs.google.com/a/teachforamerica.org/spreadsheet](https://docs.google.com/a/teachforamerica.org/spreadsheet)
 - [https://twitter.com/teachforamerica](https://twitter.com/teachforamerica)
-- [https://www.teachforamerica.org/](https://www.teachforamerica.org/)
-- [https://www.teachforamerica.org/ignite-fellowship](https://www.teachforamerica.org/ignite-fellowship)
 
 ## Brand Guidelines
 

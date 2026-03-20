@@ -2,7 +2,7 @@
 title: JTB Business Travel
 slug: "jtb-business-travel"
 description: ""
-date: "2026-03-13T09:22:53.939913"
+date: "2026-03-20T08:22:04.866892"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - business
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
   - stacked
   - secondary
   - horizontal
+  - alternate
+  - primary
 brand_colors:
+  - red
   - gray
   - green
-  - red
   - blue
 typographies: []
 imagery_styles:
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://jtbbts.com/](https://jtbbts.com/)
-- [https://www.jtbusa.com/](https://www.jtbusa.com/)
+- [https://jtbbts.com](https://jtbbts.com)
+- [https://www.jtbusa.com](https://www.jtbusa.com)
 
 ## Brand Guidelines
 

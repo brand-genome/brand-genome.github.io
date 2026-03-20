@@ -2,7 +2,7 @@
 title: Club Matters
 slug: "club-matters"
 description: ""
-date: "2026-03-13T09:22:54.714020"
+date: "2026-03-20T08:22:05.512078"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,11 +62,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gov.uk](http://www.gov.uk)
-- [http://www.sportenglandclubmatters.com/](http://www.sportenglandclubmatters.com/)
-- [https://buddle.co/](https://buddle.co/)
+- [https://buddle.co](https://buddle.co)
 - [https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers](https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers)
 - [https://www.sportengland.org/news/club-matters-launches](https://www.sportengland.org/news/club-matters-launches)
+- [http://www.sportenglandclubmatters.com](http://www.sportenglandclubmatters.com)
+- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

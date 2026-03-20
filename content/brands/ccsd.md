@@ -2,11 +2,11 @@
 title: CCSD
 slug: ccsd
 description: ""
-date: "2026-03-13T09:22:53.309725"
+date: "2026-03-20T08:22:04.226298"
 draft: false
 sectors:
-  - research
   - software
+  - research
 regions:
   - france
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,14 +65,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ccsd.cnrs.fr](https://www.ccsd.cnrs.fr)
+- [https://www.ccsd.cnrs.fr/en/home](https://www.ccsd.cnrs.fr/en/home)
+- [https://hal.science](https://hal.science)
+- [https://doc.hal.science/en](https://doc.hal.science/en)
+- [https://learning.hal.science](https://learning.hal.science)
+- [https://www.episciences.org](https://www.episciences.org)
+- [https://www.sciencesconf.org](https://www.sciencesconf.org)
 - [http://www.grapheine.com](http://www.grapheine.com)
-- [https://doc.hal.science/en/](https://doc.hal.science/en/)
-- [https://hal.science/](https://hal.science/)
-- [https://learning.hal.science/](https://learning.hal.science/)
-- [https://www.ccsd.cnrs.fr/](https://www.ccsd.cnrs.fr/)
-- [https://www.ccsd.cnrs.fr/en/home/](https://www.ccsd.cnrs.fr/en/home/)
-- [https://www.episciences.org/](https://www.episciences.org/)
-- [https://www.sciencesconf.org/](https://www.sciencesconf.org/)
 
 ## Brand Guidelines
 

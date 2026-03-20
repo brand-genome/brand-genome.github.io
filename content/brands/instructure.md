@@ -2,11 +2,11 @@
 title: Instructure
 slug: instructure
 description: ""
-date: "2026-03-13T09:22:53.443425"
+date: "2026-03-20T08:22:04.347268"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
   - corporate
+  - technology
 industries:
   - "educational-technology"
   - "software-industry"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,22 +57,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
+  - arial
   - "proxima-nova"
   - serif
-  - arial
 imagery_styles:
-  - photography
-  - gradient
   - bold
+  - gradient
+  - photography
 wikidata_description: American technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q3019900"
 has_twitter: false
@@ -82,8 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.instructure.com/](https://www.instructure.com/)
+- [https://www.instructure.com](https://www.instructure.com)
 - [https://www.instructure.com/canvas](https://www.instructure.com/canvas)
+- [http://www.instructure.com](http://www.instructure.com)
 
 ## Brand Guidelines
 

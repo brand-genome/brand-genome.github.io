@@ -2,12 +2,12 @@
 title: Gusto
 slug: gusto
 description: ""
-date: "2026-03-13T09:22:53.288959"
+date: "2026-03-20T08:22:04.214602"
 draft: false
 sectors:
-  - software
-  - finance
   - insurance
+  - finance
+  - software
 regions:
   - usa
 years:
@@ -18,10 +18,10 @@ tags:
   - featured
   - "human-ressources"
 industries:
+  - "business-software-industry"
   - "internet-industry"
   - "human-resource-management"
   - "software-industry"
-  - "business-software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gusto.com/](https://gusto.com/)
+- [https://gusto.com](https://gusto.com)
 
 ## Brand Guidelines
 

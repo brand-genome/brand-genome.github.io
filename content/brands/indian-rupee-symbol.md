@@ -2,11 +2,11 @@
 title: Indian Rupee Symbol
 slug: "indian-rupee-symbol"
 description: ""
-date: "2026-03-13T09:22:53.247122"
+date: "2026-03-20T08:22:04.168099"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - india
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements:
   - horizontal
 brand_colors: []
 typographies:
-  - script
   - impact
+  - script
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""

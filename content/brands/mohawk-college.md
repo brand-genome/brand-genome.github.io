@@ -2,7 +2,7 @@
 title: Mohawk College
 slug: "mohawk-college"
 description: ""
-date: "2026-03-13T09:22:55.031978"
+date: "2026-03-20T08:22:05.734456"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,18 +54,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - symbol
+  - alternate
   - wordmark
   - primary
-  - alternate
-  - symbol
-  - stacked
 brand_colors:
-  - grey
+  - red
   - crimson
+  - white
+  - grey
   - orange
   - black
-  - red
-  - white
 typographies:
   - frutiger
   - avenir
@@ -80,7 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mohawkcollege.ca/](https://www.mohawkcollege.ca/)
+- [https://www.mohawkcollege.ca](https://www.mohawkcollege.ca)
+- [http://www.mohawkcollege.ca](http://www.mohawkcollege.ca)
 
 ## Brand Guidelines
 

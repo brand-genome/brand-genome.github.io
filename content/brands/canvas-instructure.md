@@ -2,11 +2,11 @@
 title: Canvas Instructure
 slug: "canvas-instructure"
 description: ""
-date: "2026-03-13T09:22:54.754083"
+date: "2026-03-20T08:22:05.551695"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://canvaslms.instructure.com/](https://canvaslms.instructure.com/)
 - [https://www.instructure.com/landing/canvas](https://www.instructure.com/landing/canvas)
 - [https://www.instructure.com/lms-learning-management-system](https://www.instructure.com/lms-learning-management-system)
+- [https://canvaslms.instructure.com](https://canvaslms.instructure.com)
 
 ## Brand Guidelines
 

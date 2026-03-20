@@ -2,7 +2,7 @@
 title: NYIT
 slug: nyit
 description: ""
-date: "2026-03-13T09:22:53.931720"
+date: "2026-03-20T08:22:04.850985"
 draft: false
 sectors:
   - education
@@ -10,14 +10,14 @@ sectors:
 regions:
   - usa
 years:
-  - 2020
   - 2017
+  - 2020
 languages:
   - english
 tags:
+  - education
   - featured
   - technology
-  - education
 industries:
   - "higher-education"
 countries:
@@ -37,6 +37,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1955
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,19 +57,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - abstract
   - signature
+  - abstract
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - times
 imagery_styles:
-  - photography
-  - abstract
   - bold
+  - abstract
+  - photography
 wikidata_description: "private university in New York, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q1709596"
 has_twitter: false
@@ -79,10 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nyit.edu](https://www.nyit.edu)
+- [https://online.nyit.edu](https://online.nyit.edu)
+- [https://www.nyit.edu/medicine/college-of-osteopathic-medicine](https://www.nyit.edu/medicine/college-of-osteopathic-medicine)
 - [http://www.nyit.edu](http://www.nyit.edu)
-- [https://online.nyit.edu/](https://online.nyit.edu/)
-- [https://www.nyit.edu/](https://www.nyit.edu/)
-- [https://www.nyit.edu/medicine/college-of-osteopathic-medicine/](https://www.nyit.edu/medicine/college-of-osteopathic-medicine/)
 
 ## Brand Guidelines
 

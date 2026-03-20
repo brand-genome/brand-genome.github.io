@@ -2,7 +2,7 @@
 title: Miami University
 slug: "miami-university"
 description: ""
-date: "2026-03-13T09:22:55.087276"
+date: "2026-03-20T08:22:05.791690"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1809
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://miamioh.edu/](https://miamioh.edu/)
+- [https://miamioh.edu](https://miamioh.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Redfern
 slug: redfern
 description: ""
-date: "2026-03-13T09:22:55.147557"
+date: "2026-03-20T08:22:05.846574"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1878
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
   - photography
   - natural
+  - vibrant
 wikidata_description: "railway station in Sydney, New South Wales, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q7305835"
 has_twitter: false
@@ -68,6 +70,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [https://transportnsw.info/stop?q=10101421](https://transportnsw.info/stop?q=10101421)
+
 ## Brand Guidelines
 
 ### 2010

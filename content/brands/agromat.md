@@ -2,7 +2,7 @@
 title: Agromat
 slug: agromat
 description: ""
-date: "2026-03-13T09:22:52.198861"
+date: "2026-03-20T08:22:03.265739"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://work.agromat.ua/](https://work.agromat.ua/)
-- [https://www.agromat.ua/](https://www.agromat.ua/)
+- [https://www.agromat.ua](https://www.agromat.ua)
+- [https://work.agromat.ua](https://work.agromat.ua)
 
 ## Brand Guidelines
 

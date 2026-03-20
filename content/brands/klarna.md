@@ -2,11 +2,11 @@
 title: Klarna
 slug: klarna
 description: ""
-date: "2026-03-13T09:22:52.333070"
+date: "2026-03-20T08:22:03.401938"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - sweden
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - financial
+  - internet
 industries:
   - "mobile-payment-industry"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -70,12 +72,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.klarna.com](https://www.klarna.com)
+- [https://www.klarna.com/us](https://www.klarna.com/us)
+- [https://www.klarna.com/us/business/the-merchant-portal](https://www.klarna.com/us/business/the-merchant-portal)
+- [https://portal.klarna.com](https://portal.klarna.com)
 - [https://brand.klarna.com/resources](https://brand.klarna.com/resources)
-- [https://docs.klarna.com/](https://docs.klarna.com/)
-- [https://portal.klarna.com/](https://portal.klarna.com/)
-- [https://www.klarna.com/](https://www.klarna.com/)
-- [https://www.klarna.com/us/](https://www.klarna.com/us/)
-- [https://www.klarna.com/us/business/the-merchant-portal/](https://www.klarna.com/us/business/the-merchant-portal/)
+- [https://docs.klarna.com](https://docs.klarna.com)
 
 ## Brand Guidelines
 

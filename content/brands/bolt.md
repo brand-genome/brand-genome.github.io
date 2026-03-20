@@ -2,17 +2,17 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-03-13T09:22:52.064707"
+date: "2026-03-20T08:22:03.130389"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - usa
 years:
-  - 2019
-  - 2024
   - 2025
+  - 2024
+  - 2019
 languages:
   - english
 tags:
@@ -21,8 +21,8 @@ tags:
   - internet
 industries:
   - "peer-to-peer-ridesharing"
-  - "information-technology"
   - "food-delivery-service"
+  - "information-technology"
 countries:
   - estonia
 revenue_buckets:
@@ -44,6 +44,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -79,9 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://bolt.com](https://bolt.com)
+- [https://help.bolt.com](https://help.bolt.com)
 - [http://www.bolt.com](http://www.bolt.com)
-- [https://bolt.com/](https://bolt.com/)
-- [https://help.bolt.com/](https://help.bolt.com/)
+- [https://bolt.eu](https://bolt.eu)
 
 ## Brand Guidelines
 

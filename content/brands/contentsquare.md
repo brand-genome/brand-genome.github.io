@@ -2,7 +2,7 @@
 title: Contentsquare
 slug: contentsquare
 description: ""
-date: "2026-03-13T09:22:52.312325"
+date: "2026-03-20T08:22:03.377938"
 draft: false
 sectors:
   - software
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://contentsquare.com](https://contentsquare.com)
 - [http://www.contentsquare.com](http://www.contentsquare.com)
-- [https://contentsquare.com/](https://contentsquare.com/)
+- [https://contentsquare.com/fr-fr](https://contentsquare.com/fr-fr)
+- [https://contentsquare.com/es-es](https://contentsquare.com/es-es)
+- [https://contentsquare.com/it-it](https://contentsquare.com/it-it)
+- [https://contentsquare.com/de-de](https://contentsquare.com/de-de)
+- [https://contentsquare.com/jp-jp](https://contentsquare.com/jp-jp)
 
 ## Brand Guidelines
 

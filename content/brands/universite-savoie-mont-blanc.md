@@ -2,7 +2,7 @@
 title: "Université Savoie Mont-Blanc"
 slug: "universite-savoie-mont-blanc"
 description: ""
-date: "2026-03-13T09:22:52.231695"
+date: "2026-03-20T08:22:03.295127"
 draft: false
 sectors:
   - university
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.univ-smb.fr](https://www.univ-smb.fr)
+- [https://www.univ-smb.fr/Portail/Groupes/charte](https://www.univ-smb.fr/Portail/Groupes/charte)
+- [https://www.univ-smb.fr/en/universite/charte-graphique](https://www.univ-smb.fr/en/universite/charte-graphique)
 - [http://www.univ-smb.fr](http://www.univ-smb.fr)
-- [https://www.univ-smb.fr/](https://www.univ-smb.fr/)
-- [https://www.univ-smb.fr/Portail/Groupes/charte/](https://www.univ-smb.fr/Portail/Groupes/charte/)
-- [https://www.univ-smb.fr/en/universite/charte-graphique/](https://www.univ-smb.fr/en/universite/charte-graphique/)
 
 ## Brand Guidelines
 

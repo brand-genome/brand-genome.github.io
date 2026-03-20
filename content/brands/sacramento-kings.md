@@ -2,7 +2,7 @@
 title: Sacramento Kings
 slug: "sacramento-kings"
 description: ""
-date: "2026-03-13T09:22:52.327524"
+date: "2026-03-20T08:22:03.396012"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nba.com/kings](https://www.nba.com/kings)
+- [http://www.nba.com/kings](http://www.nba.com/kings)
 
 ## Brand Guidelines
 

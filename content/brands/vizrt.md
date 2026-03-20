@@ -2,12 +2,12 @@
 title: Vizrt
 slug: vizrt
 description: ""
-date: "2026-03-13T09:22:52.310271"
+date: "2026-03-20T08:22:03.375799"
 draft: false
 sectors:
-  - software
   - broadcasting
   - networking
+  - software
 regions:
   - norway
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.newtek.com/](https://www.newtek.com/)
-- [https://www.vizrt.com/home/](https://www.vizrt.com/home/)
+- [https://www.vizrt.com/home](https://www.vizrt.com/home)
+- [https://www.newtek.com](https://www.newtek.com)
+- [http://www.vizrt.com](http://www.vizrt.com)
 
 ## Brand Guidelines
 

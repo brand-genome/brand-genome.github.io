@@ -2,7 +2,7 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-03-13T09:22:52.316270"
+date: "2026-03-20T08:22:03.383382"
 draft: false
 sectors:
   - ngo
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
   - green
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
@@ -71,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://treepeople.org](https://treepeople.org)
+- [https://helpdesk.treepeople.org](https://helpdesk.treepeople.org)
 - [http://www.treepeople.org](http://www.treepeople.org)
-- [https://helpdesk.treepeople.org/](https://helpdesk.treepeople.org/)
-- [https://treepeople.org/](https://treepeople.org/)
 
 ## Brand Guidelines
 

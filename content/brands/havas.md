@@ -2,11 +2,11 @@
 title: Havas
 slug: havas
 description: ""
-date: "2026-03-13T09:22:53.669327"
+date: "2026-03-20T08:22:04.527017"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - france
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lockup
+  - primary
 brand_colors:
-  - black
-  - magenta
   - red
   - green
   - white
+  - black
+  - magenta
 typographies:
   - helvetica
 imagery_styles:
-  - photography
-  - staged
   - aerial
   - bold
+  - staged
+  - photography
 wikidata_description: Dutch car company
 wikidata_url: "https://www.wikidata.org/wiki/Q2783003"
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tobettertogether.com/](https://tobettertogether.com/)
-- [https://www.havas.com/](https://www.havas.com/)
+- [https://www.havas.com](https://www.havas.com)
+- [https://tobettertogether.com](https://tobettertogether.com)
 
 ## Brand Guidelines
 

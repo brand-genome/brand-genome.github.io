@@ -2,7 +2,7 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-03-13T09:22:54.559039"
+date: "2026-03-20T08:22:05.404616"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +51,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies:
   - times
   - lato
@@ -73,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://virtualdistancia.libertadores.edu.co/](https://virtualdistancia.libertadores.edu.co/)
-- [https://www.ulibertadores.edu.co/](https://www.ulibertadores.edu.co/)
-- [https://www.ulibertadores.edu.co/educacion-virtual-distancia/](https://www.ulibertadores.edu.co/educacion-virtual-distancia/)
+- [https://www.ulibertadores.edu.co](https://www.ulibertadores.edu.co)
+- [https://virtualdistancia.libertadores.edu.co](https://virtualdistancia.libertadores.edu.co)
+- [https://www.ulibertadores.edu.co/educacion-virtual-distancia](https://www.ulibertadores.edu.co/educacion-virtual-distancia)
 
 ## Brand Guidelines
 

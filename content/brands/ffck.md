@@ -2,7 +2,7 @@
 title: FFCK
 slug: ffck
 description: ""
-date: "2026-03-13T09:22:55.159122"
+date: "2026-03-20T08:22:05.860114"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ffck.org/](https://www.ffck.org/)
+- [https://www.ffck.org](https://www.ffck.org)
 
 ## Brand Guidelines
 

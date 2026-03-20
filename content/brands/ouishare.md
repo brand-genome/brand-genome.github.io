@@ -2,7 +2,7 @@
 title: Ouishare
 slug: ouishare
 description: ""
-date: "2026-03-13T09:22:54.572426"
+date: "2026-03-20T08:22:05.417776"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - monogram
-  - secondary
   - primary
+  - secondary
+  - monogram
 brand_colors:
-  - white
-  - green
-  - yellow
   - indigo
+  - yellow
+  - green
+  - white
 typographies: []
 imagery_styles:
-  - photography
-  - landscape
-  - professional
   - bold
+  - landscape
+  - photography
+  - professional
 wikidata_description: French association and international community working on the collaborative society
 wikidata_url: "https://www.wikidata.org/wiki/Q23931345"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ouishare.net/](https://ouishare.net/)
+- [https://ouishare.net](https://ouishare.net)
+- [http://ouishare.net](http://ouishare.net)
 
 ## Brand Guidelines
 

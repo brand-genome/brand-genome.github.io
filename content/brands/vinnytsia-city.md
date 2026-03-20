@@ -2,7 +2,7 @@
 title: Vinnytsia City
 slug: "vinnytsia-city"
 description: ""
-date: "2026-03-13T09:22:52.302986"
+date: "2026-03-20T08:22:03.371373"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brandbook.vinnytsia.city/](https://brandbook.vinnytsia.city/)
-- [https://investinvinnytsia.com/](https://investinvinnytsia.com/)
-- [https://vinnytsia.city/](https://vinnytsia.city/)
+- [https://vmr.gov.ua](https://vmr.gov.ua)
+- [https://vinnytsia.city](https://vinnytsia.city)
 - [https://vinnytsia.city/en](https://vinnytsia.city/en)
-- [https://vmr.gov.ua/](https://vmr.gov.ua/)
+- [https://brandbook.vinnytsia.city](https://brandbook.vinnytsia.city)
+- [https://investinvinnytsia.com](https://investinvinnytsia.com)
 
 ## Brand Guidelines
 

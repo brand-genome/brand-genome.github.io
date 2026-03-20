@@ -2,11 +2,11 @@
 title: ANEP
 slug: anep
 description: ""
-date: "2026-03-13T09:22:53.641352"
+date: "2026-03-20T08:22:04.497543"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - uruguay
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - institution
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ logo_elements:
   - vertical
   - signature
 brand_colors:
+  - white
   - black
   - cyan
-  - white
 typographies:
   - times
 imagery_styles:
@@ -70,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.anep.edu.uy/](https://www.anep.edu.uy/)
+- [https://www.anep.edu.uy](https://www.anep.edu.uy)
 - [https://www.gub.uy/organismo/anep](https://www.gub.uy/organismo/anep)
 
 ## Brand Guidelines

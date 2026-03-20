@@ -2,7 +2,7 @@
 title: Pôle Métropolitain
 slug: "pole-metropolitain"
 description: ""
-date: "2026-03-13T09:22:55.097674"
+date: "2026-03-20T08:22:05.803764"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +50,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - white
   - cyan
   - "pantone-254"
+  - magenta
   - violet
   - black
-  - magenta
-  - white
 typographies: []
 imagery_styles:
   - dynamic
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.polemetropolitain.fr/fr/](https://www.polemetropolitain.fr/fr/)
+- [https://www.polemetropolitain.fr/fr](https://www.polemetropolitain.fr/fr)
 
 ## Brand Guidelines
 

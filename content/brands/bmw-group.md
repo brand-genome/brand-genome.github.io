@@ -2,11 +2,11 @@
 title: BMW Group
 slug: "bmw-group"
 description: ""
-date: "2026-03-13T09:22:53.438009"
+date: "2026-03-20T08:22:04.341882"
 draft: false
 sectors:
-  - finance
   - automobile
+  - finance
 regions:
   - germany
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - transport
   - sport
+  - transport
 industries:
-  - "activities-of-holding-companies"
-  - "manufacture-of-motor-vehicles"
-  - "automotive-industry"
   - "aeronautical-engineering"
+  - "automotive-industry"
+  - "manufacture-of-motor-vehicles"
+  - "activities-of-holding-companies"
 countries:
   - germany
 revenue_buckets:
@@ -37,15 +37,17 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
+  - "electric-car"
   - car
   - motorcycle
-  - "electric-car"
 products: []
 headquarters_locations:
   - munich
 subsidiaries: []
 foundation_dates:
   - 1916
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -80,9 +82,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bmw.com/](https://www.bmw.com/)
-- [https://www.bmwgroup.com/](https://www.bmwgroup.com/)
-- [https://www.bmwmotorcycles.com/](https://www.bmwmotorcycles.com/)
+- [https://www.bmwgroup.com](https://www.bmwgroup.com)
+- [https://www.bmw.com](https://www.bmw.com)
+- [https://www.bmwmotorcycles.com](https://www.bmwmotorcycles.com)
+- [https://www.bmw.de](https://www.bmw.de)
+- [https://www.bmw.com.mx](https://www.bmw.com.mx)
+- [https://www.bmw.com.br](https://www.bmw.com.br)
+- [https://www.bmw.it](https://www.bmw.it)
 
 ## Brand Guidelines
 
@@ -116,7 +122,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Electric Car](/products_or_materials_produced/electric-car/) |
+| Product Or Material Produced | [Electric Car](/products_or_materials_produced/electric-car/); [Car](/products_or_materials_produced/car/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
 | Headquarters Location | [Munich](/headquarters_locations/munich/) |
 | Foundation Date | [1916](/foundation_dates/1916/) |
 | Headquarters Location | Munich |

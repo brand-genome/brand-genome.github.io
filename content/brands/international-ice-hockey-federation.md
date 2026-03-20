@@ -2,7 +2,7 @@
 title: International Ice Hockey Federation
 slug: "international-ice-hockey-federation"
 description: ""
-date: "2026-03-13T09:22:53.308667"
+date: "2026-03-20T08:22:04.225393"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
   - emblem
+  - symbol
   - primary
+  - secondary
 brand_colors:
-  - black
   - red
   - blue
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - flat
   - minimal
-  - gradient
-  - bold
   - graphic
+  - bold
+  - gradient
 wikidata_description: "worldwide governing body for ice hockey and in-line hockey"
 wikidata_url: "https://www.wikidata.org/wiki/Q190173"
 has_twitter: false
@@ -77,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.iihf.com/](https://www.iihf.com/)
+- [https://www.iihf.com](https://www.iihf.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: College of New Caledonia
 slug: "college-of-new-caledonia"
 description: ""
-date: "2026-03-13T09:22:53.759280"
+date: "2026-03-20T08:22:04.717027"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +59,8 @@ brand_colors: []
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
   - natural
+  - photography
 wikidata_description: "college in northern British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q5146783"
 has_twitter: false
@@ -70,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cnc.bc.ca/](https://cnc.bc.ca/)
+- [https://cnc.bc.ca](https://cnc.bc.ca)
 
 ## Brand Guidelines
 

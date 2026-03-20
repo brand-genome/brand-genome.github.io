@@ -2,11 +2,11 @@
 title: Ralston Purina Company
 slug: "ralston-purina-company"
 description: ""
-date: "2026-03-13T09:22:52.816043"
+date: "2026-03-20T08:22:03.828581"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - agriculture
   - "food-beverage"
+  - agriculture
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

@@ -2,7 +2,7 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-03-13T09:22:54.223615"
+date: "2026-03-20T08:22:05.060460"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,23 +51,23 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - yellow
-  - orange
-  - black
-  - pink
-  - blue
   - white
+  - blue
+  - yellow
+  - gray
+  - orange
+  - pink
+  - black
 typographies:
   - raleway
   - avenir
 imagery_styles:
-  - modern
-  - natural
   - dramatic
-  - photography
   - professional
   - bold
+  - modern
+  - natural
+  - photography
 wikidata_description: client program for CompuServe Information Service
 wikidata_url: "https://www.wikidata.org/wiki/Q6981562"
 has_twitter: false
@@ -78,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://navc.com/](https://navc.com/)
-- [https://navc.com/vetfolio/](https://navc.com/vetfolio/)
+- [https://navc.com](https://navc.com)
+- [https://navc.com/vetfolio](https://navc.com/vetfolio)
 
 ## Brand Guidelines
 

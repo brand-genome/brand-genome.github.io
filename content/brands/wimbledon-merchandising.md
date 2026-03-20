@@ -2,7 +2,7 @@
 title: Wimbledon merchandising
 slug: "wimbledon-merchandising"
 description: ""
-date: "2026-03-13T09:22:53.600848"
+date: "2026-03-20T08:22:04.465423"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-268"
-  - purple
   - "pantone-349"
   - green
   - white
+  - purple
+  - "pantone-268"
 typographies:
   - gotham
 imagery_styles:
   - classic
   - clean
-  - bold
   - lifestyle
+  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

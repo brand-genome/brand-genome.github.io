@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-03-13T09:22:53.430611"
+date: "2026-03-20T08:22:04.334101"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - israel
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries:
   - "computer-security-software"
 countries:
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
   - "networking-hardware"
+  - software
 products: []
 headquarters_locations:
   - "tel-aviv"
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,26 +56,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - alternate
-  - primary
   - secondary
   - horizontal
+  - alternate
+  - primary
+  - icon
 brand_colors:
-  - black
   - gray
   - white
   - pink
+  - black
 typographies:
-  - display
   - arial
+  - display
   - din
 imagery_styles:
-  - contemporary
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - contemporary
 wikidata_description: Israeli security company
 wikidata_url: "https://www.wikidata.org/wiki/Q176587"
 has_twitter: false
@@ -85,7 +87,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.checkpoint.com/](https://www.checkpoint.com/)
+- [https://www.checkpoint.com](https://www.checkpoint.com)
 
 ## Brand Guidelines
 
@@ -134,7 +136,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Tel Aviv](/headquarters_locations/tel-aviv/) |
 | Foundation Date | [1993](/foundation_dates/1993/) |
 | Freebase Id | /m/06wx09 |

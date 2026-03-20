@@ -2,11 +2,11 @@
 title: Emergency Nurses Association
 slug: "emergency-nurses-association"
 description: ""
-date: "2026-03-13T09:22:53.446630"
+date: "2026-03-20T08:22:04.350239"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,33 +52,33 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - purple
-  - 53565a
-  - ffc72c
   - 2d68c4
+  - ffc72c
+  - ff6a13
+  - purple
+  - 590072
   - gray
   - 84bd00
-  - black
-  - 00a5bd
   - ee2737
-  - ff6a13
-  - 590072
+  - 53565a
+  - 00a5bd
+  - black
 typographies:
-  - nunito
-  - garamond
-  - "sans-serif"
   - serif
+  - garamond
   - arial
+  - "sans-serif"
+  - nunito
 imagery_styles:
-  - clean
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - clean
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q19864764"
 has_twitter: false
@@ -88,7 +90,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ena.org/](https://www.ena.org/)
+- [https://www.ena.org](https://www.ena.org)
 
 ## Brand Guidelines
 

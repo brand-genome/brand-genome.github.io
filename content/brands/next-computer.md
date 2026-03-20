@@ -2,7 +2,7 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-03-13T09:22:53.019596"
+date: "2026-03-20T08:22:04.011419"
 draft: false
 sectors:
   - software
@@ -18,8 +18,8 @@ tags:
   - featured
   - technology
 industries:
-  - "software-industry"
   - "computer-hardware-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -30,11 +30,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - nextstation
+  - "next-computer"
+  - "nextcube-turbo"
   - nextstep
   - nextcube
-  - nextstation
-  - "nextcube-turbo"
-  - "next-computer"
 products: []
 headquarters_locations:
   - "redwood-city"
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,6 +74,11 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://web.archive.org/web/19970412194822/http://www.next.com](http://web.archive.org/web/19970412194822/http://www.next.com)
+- [https://web.archive.org/web/19970412194822/http://www.next.com](https://web.archive.org/web/19970412194822/http://www.next.com)
+
 ## Brand Guidelines
 
 ### 1986
@@ -86,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Next Computer](/products_or_materials_produced/next-computer/) |
+| Product Or Material Produced | [Nextstation](/products_or_materials_produced/nextstation/); [Next Computer](/products_or_materials_produced/next-computer/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/) |
 | Headquarters Location | [Redwood City](/headquarters_locations/redwood-city/); [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Founded By | Steve Jobs |

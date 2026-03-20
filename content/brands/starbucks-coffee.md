@@ -2,11 +2,11 @@
 title: Starbucks Coffee
 slug: "starbucks-coffee"
 description: ""
-date: "2026-03-13T09:22:55.082355"
+date: "2026-03-20T08:22:05.785536"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - unknown
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - japan
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
   - wordmark
 brand_colors:
-  - black
   - green
-  - "pantone-3425"
   - white
+  - "pantone-3425"
+  - black
 typographies:
   - avenir
 imagery_styles:
@@ -74,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://weproudlyservestarbucks.nestle.jp/](https://weproudlyservestarbucks.nestle.jp/)
-- [https://www.starbucks.co.id/](https://www.starbucks.co.id/)
-- [https://www.starbucks.com/](https://www.starbucks.com/)
-- [https://www.starbuckscoffeecompany.com/](https://www.starbuckscoffeecompany.com/)
+- [https://www.starbucks.com](https://www.starbucks.com)
+- [https://www.starbuckscoffeecompany.com](https://www.starbuckscoffeecompany.com)
+- [https://weproudlyservestarbucks.nestle.jp](https://weproudlyservestarbucks.nestle.jp)
+- [https://www.starbucks.co.id](https://www.starbucks.co.id)
+- [https://store.starbucks.co.jp/detail-2003](https://store.starbucks.co.jp/detail-2003)
 
 ## Brand Guidelines
 

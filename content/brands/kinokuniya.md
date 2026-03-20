@@ -2,11 +2,11 @@
 title: Kinokuniya
 slug: kinokuniya
 description: ""
-date: "2026-03-13T09:22:53.512955"
+date: "2026-03-20T08:22:04.405818"
 draft: false
 sectors:
-  - publishing
   - retail
+  - publishing
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - entertainment
+  - cultural
 industries: []
 countries:
   - japan
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - grey
   - yellow
   - white
+  - grey
   - blue
 typographies: []
 imagery_styles:
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usa.kinokuniya.com/](https://usa.kinokuniya.com/)
-- [https://www.kinokuniya.com/](https://www.kinokuniya.com/)
+- [https://www.kinokuniya.com](https://www.kinokuniya.com)
+- [https://usa.kinokuniya.com](https://usa.kinokuniya.com)
+- [https://www.e-kinokuniya.com](https://www.e-kinokuniya.com)
 
 ## Brand Guidelines
 

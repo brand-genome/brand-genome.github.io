@@ -2,11 +2,11 @@
 title: Tilted Kilt
 slug: "tilted-kilt"
 description: ""
-date: "2026-03-13T09:22:53.703468"
+date: "2026-03-20T08:22:04.558967"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
-  - yellow
-  - black
   - beige
   - red
   - white
+  - yellow
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "Celtic-themed sports bar and restaurant chain in the United States and Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q7803012"
 has_twitter: false
@@ -76,8 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tiltedkilt.com/](https://tiltedkilt.com/)
-- [https://tiltedkiltpubandeatery.com/](https://tiltedkiltpubandeatery.com/)
+- [https://tiltedkilt.com](https://tiltedkilt.com)
+- [https://tiltedkiltpubandeatery.com](https://tiltedkiltpubandeatery.com)
+- [http://tiltedkilt.com](http://tiltedkilt.com)
 
 ## Brand Guidelines
 

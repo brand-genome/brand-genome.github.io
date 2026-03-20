@@ -2,11 +2,11 @@
 title: US. Civil Rights Trail
 slug: "us-civil-rights-trail"
 description: ""
-date: "2026-03-13T09:22:53.757874"
+date: "2026-03-20T08:22:04.715646"
 draft: false
 sectors:
-  - "arts-culture"
   - tourism
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors: []
 typographies:
-  - bodoni
   - gotham
-  - montserrat
-  - "sans-serif"
   - serif
+  - "sans-serif"
+  - montserrat
+  - bodoni
 imagery_styles:
-  - photography
-  - modern
-  - professional
   - clean
+  - modern
+  - photography
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,11 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://civilrightstrail.com](https://civilrightstrail.com)
 - [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.loc.gov](http://www.loc.gov)
 - [http://www.usg.edu](http://www.usg.edu)
 - [http://www.visitnc.com](http://www.visitnc.com)
-- [https://civilrightstrail.com/](https://civilrightstrail.com/)
 
 ## Brand Guidelines
 

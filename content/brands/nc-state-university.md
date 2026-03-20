@@ -2,7 +2,7 @@
 title: NC State University
 slug: "nc-state-university"
 description: ""
-date: "2026-03-13T09:22:54.337406"
+date: "2026-03-20T08:22:05.163385"
 draft: false
 sectors:
   - education
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +56,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Raleigh, North Carolina, United States"
@@ -70,10 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ncsu.edu](https://www.ncsu.edu)
+- [https://brand.ncsu.edu](https://brand.ncsu.edu)
+- [https://web.ncsu.edu/brand](https://web.ncsu.edu/brand)
 - [http://www.ncsu.edu](http://www.ncsu.edu)
-- [https://brand.ncsu.edu/](https://brand.ncsu.edu/)
-- [https://web.ncsu.edu/brand/](https://web.ncsu.edu/brand/)
-- [https://www.ncsu.edu/](https://www.ncsu.edu/)
+- [https://ncsu.edu](https://ncsu.edu)
 
 ## Brand Guidelines
 

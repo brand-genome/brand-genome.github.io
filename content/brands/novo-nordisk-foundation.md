@@ -2,11 +2,11 @@
 title: Novo Nordisk Foundation
 slug: "novo-nordisk-foundation"
 description: ""
-date: "2026-03-13T09:22:52.118135"
+date: "2026-03-20T08:22:03.175089"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - denmark
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries:
   - foundation
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://novonordiskfonden.dk/en/](https://novonordiskfonden.dk/en/)
+- [https://novonordiskfonden.dk/en](https://novonordiskfonden.dk/en)
+- [https://www.novonordiskfonden.dk](https://www.novonordiskfonden.dk)
 
 ## Brand Guidelines
 

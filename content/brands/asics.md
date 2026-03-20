@@ -2,11 +2,11 @@
 title: Asics
 slug: asics
 description: ""
-date: "2026-03-13T09:22:53.698309"
+date: "2026-03-20T08:22:04.553139"
 draft: false
 sectors:
-  - footwear
   - fashion
+  - footwear
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - italy
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "cycling team (1997-1998)"
 wikidata_url: "https://www.wikidata.org/wiki/Q3589485"
 has_twitter: false
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.asics.com](https://www.asics.com)
 - [https://corp.asics.com/en](https://corp.asics.com/en)
-- [https://www.asics.com/](https://www.asics.com/)
 - [https://www.asics.com/us/en-us](https://www.asics.com/us/en-us)
 
 ## Brand Guidelines

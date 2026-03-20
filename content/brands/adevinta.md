@@ -2,7 +2,7 @@
 title: Adevinta
 slug: adevinta
 description: ""
-date: "2026-03-13T09:22:53.330104"
+date: "2026-03-20T08:22:04.240676"
 draft: false
 sectors:
   - "e-commerce"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.adevinta.com](https://www.adevinta.com)
 - [http://www.adevinta.com](http://www.adevinta.com)
-- [https://www.adevinta.com/](https://www.adevinta.com/)
 
 ## Brand Guidelines
 

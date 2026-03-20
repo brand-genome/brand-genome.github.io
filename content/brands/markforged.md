@@ -2,7 +2,7 @@
 title: Markforged
 slug: markforged
 description: ""
-date: "2026-03-13T09:22:53.014259"
+date: "2026-03-20T08:22:04.004645"
 draft: false
 sectors:
   - software
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.markforged.com](https://www.markforged.com)
 - [http://www.markforged.com](http://www.markforged.com)
-- [https://www.markforged.com/](https://www.markforged.com/)
+- [https://markforged.com](https://markforged.com)
 
 ## Brand Guidelines
 

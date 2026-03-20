@@ -2,11 +2,11 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-03-13T09:22:53.647465"
+date: "2026-03-20T08:22:04.505635"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
   - hardware
 regions:
   - china
@@ -18,9 +18,9 @@ tags:
   - electronics
 industries:
   - "home-appliance"
-  - "mobile-phone"
   - "automotive-industry"
   - "consumer-electronics-industry"
+  - "mobile-phone"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets: []
@@ -35,16 +35,18 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
   - "networking-hardware"
-  - "computer-hardware"
   - "building-automation"
+  - software
+  - "computer-hardware"
 products: []
 headquarters_locations:
   - beijing
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,16 +65,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
-  - primary
   - vertical
   - secondary
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - black
-  - grey
   - white
   - orange
+  - grey
+  - black
 typographies:
   - impact
 imagery_styles:
@@ -89,9 +91,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mi.com/](https://www.mi.com/)
+- [https://www.mi.com](https://www.mi.com)
 - [https://www.mi.com/global](https://www.mi.com/global)
-- [https://www.xiaomi.com/](https://www.xiaomi.com/)
+- [https://www.xiaomi.com](https://www.xiaomi.com)
+- [http://www.xiaomi.com](http://www.xiaomi.com)
+- [https://www.mi.com/tr](https://www.mi.com/tr)
 
 ## Brand Guidelines
 
@@ -146,7 +150,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Building Automation](/products_or_materials_produced/building-automation/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Software](/products_or_materials_produced/software/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
 | Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |

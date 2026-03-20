@@ -2,7 +2,7 @@
 title: Gluten Free Certification Mark
 slug: "gluten-free-certification-mark"
 description: ""
-date: "2026-03-13T09:22:53.272820"
+date: "2026-03-20T08:22:04.200443"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GFCO.ORG](http://www.GFCO.ORG)
-- [https://gfco.org/](https://gfco.org/)
-- [https://gluten.org/new-gfco-certification-mark/](https://gluten.org/new-gfco-certification-mark/)
+- [https://gfco.org](https://gfco.org)
+- [https://gluten.org/new-gfco-certification-mark](https://gluten.org/new-gfco-certification-mark)
+- [http://www.gfco.org](http://www.gfco.org)
 
 ## Brand Guidelines
 

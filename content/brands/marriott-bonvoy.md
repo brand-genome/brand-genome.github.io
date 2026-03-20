@@ -2,7 +2,7 @@
 title: Marriott Bonvoy
 slug: "marriott-bonvoy"
 description: ""
-date: "2026-03-13T09:22:52.865721"
+date: "2026-03-20T08:22:03.865979"
 draft: false
 sectors:
   - hospitality
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - tourism
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.marriott.com/loyalty/earn.mi](http://www.marriott.com/loyalty/earn.mi)
-- [https://www.marriott.com/](https://www.marriott.com/)
+- [https://www.marriott.com](https://www.marriott.com)
 - [https://www.marriott.com/loyalty.mi](https://www.marriott.com/loyalty.mi)
+- [http://www.marriott.com/loyalty/earn.mi](http://www.marriott.com/loyalty/earn.mi)
 
 ## Brand Guidelines
 

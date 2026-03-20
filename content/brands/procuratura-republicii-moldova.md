@@ -2,7 +2,7 @@
 title: Procuratura Republicii Moldova
 slug: "procuratura-republicii-moldova"
 description: ""
-date: "2026-03-13T09:22:51.917428"
+date: "2026-03-20T08:22:03.074663"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - blue
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.procuratura.md](https://www.procuratura.md)
 - [http://www.procuratura.md](http://www.procuratura.md)
-- [https://www.procuratura.md/](https://www.procuratura.md/)
 
 ## Brand Guidelines
 

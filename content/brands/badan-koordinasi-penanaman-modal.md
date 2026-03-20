@@ -2,7 +2,7 @@
 title: Badan Koordinasi Penanaman Modal
 slug: "badan-koordinasi-penanaman-modal"
 description: ""
-date: "2026-03-13T09:22:53.072356"
+date: "2026-03-20T08:22:04.067277"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nswi.bkpm.go.id/](https://nswi.bkpm.go.id/)
-- [https://oss.go.id/](https://oss.go.id/)
-- [https://ppid.bkpm.go.id/](https://ppid.bkpm.go.id/)
-- [https://www.bkpm.go.id/](https://www.bkpm.go.id/)
+- [https://www.bkpm.go.id](https://www.bkpm.go.id)
+- [https://ppid.bkpm.go.id](https://ppid.bkpm.go.id)
+- [https://nswi.bkpm.go.id](https://nswi.bkpm.go.id)
+- [https://oss.go.id](https://oss.go.id)
 
 ## Brand Guidelines
 

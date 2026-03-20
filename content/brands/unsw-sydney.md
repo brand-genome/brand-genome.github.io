@@ -2,7 +2,7 @@
 title: UNSW Sydney
 slug: "unsw-sydney"
 description: ""
-date: "2026-03-13T09:22:54.811649"
+date: "2026-03-20T08:22:05.580584"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.UNSW.EDU](http://www.UNSW.EDU)
-- [https://www.unsw.edu.au/](https://www.unsw.edu.au/)
+- [https://www.unsw.edu.au](https://www.unsw.edu.au)
 - [https://www.unsw.edu.au/brand](https://www.unsw.edu.au/brand)
+- [http://www.unsw.edu](http://www.unsw.edu)
 
 ## Brand Guidelines
 

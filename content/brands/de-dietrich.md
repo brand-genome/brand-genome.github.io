@@ -2,7 +2,7 @@
 title: De Dietrich
 slug: "de-dietrich"
 description: ""
-date: "2026-03-13T09:22:54.231236"
+date: "2026-03-20T08:22:05.070287"
 draft: false
 sectors:
   - utilities
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "vehicle-construction"
   - "automotive-industry"
+  - "vehicle-construction"
 countries:
   - france
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,27 +55,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
+  - green
+  - "pantone-123"
+  - white
   - "pantone-300"
-  - blue
   - "pantone-281"
-  - gray
+  - blue
+  - "pantone-377"
   - yellow
+  - gray
   - "pantone-130"
   - orange
   - black
-  - "pantone-123"
-  - "pantone-377"
-  - green
-  - white
 typographies:
   - arial
   - futura
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: "1905-1934 automotive and engine manufacturer"
 wikidata_url: "https://www.wikidata.org/wiki/Q574579"
 has_twitter: false
@@ -85,10 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dedietrich-thermique.fr](https://www.dedietrich-thermique.fr)
+- [https://pro.dedietrich-thermique.fr/fr](https://pro.dedietrich-thermique.fr/fr)
+- [https://pro.dedietrich-heating.com](https://pro.dedietrich-heating.com)
 - [http://www.dedietrich-thermique.fr](http://www.dedietrich-thermique.fr)
-- [https://pro.dedietrich-heating.com/](https://pro.dedietrich-heating.com/)
-- [https://pro.dedietrich-thermique.fr/fr/](https://pro.dedietrich-thermique.fr/fr/)
-- [https://www.dedietrich-thermique.fr/](https://www.dedietrich-thermique.fr/)
 
 ## Brand Guidelines
 

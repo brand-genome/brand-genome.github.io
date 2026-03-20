@@ -2,7 +2,7 @@
 title: Windows Live
 slug: "windows-live"
 description: ""
-date: "2026-03-13T09:22:54.186259"
+date: "2026-03-20T08:22:05.013791"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - yellow
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - black
 typographies:
   - script
 imagery_styles:
-  - natural
-  - graphic
-  - photography
   - product
-  - gradient
+  - graphic
   - bold
+  - natural
   - static
+  - photography
+  - gradient
 wikidata_description: cloud storage and file synchronization service from Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q864889"
 has_twitter: false
@@ -81,13 +83,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.microsoft.com](https://www.microsoft.com)
+- [https://www.outlook.com](https://www.outlook.com)
+- [https://outlook.live.com](https://outlook.live.com)
+- [https://onedrive.live.com](https://onedrive.live.com)
+- [https://www.onedrive.com](https://www.onedrive.com)
+- [https://account.microsoft.com](https://account.microsoft.com)
 - [http://www.microsoft.com](http://www.microsoft.com)
-- [https://account.microsoft.com/](https://account.microsoft.com/)
-- [https://onedrive.live.com/](https://onedrive.live.com/)
-- [https://outlook.live.com/](https://outlook.live.com/)
-- [https://www.microsoft.com/](https://www.microsoft.com/)
-- [https://www.onedrive.com/](https://www.onedrive.com/)
-- [https://www.outlook.com/](https://www.outlook.com/)
+- [https://skydrive.live.com](https://skydrive.live.com)
 
 ## Brand Guidelines
 

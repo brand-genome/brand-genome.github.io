@@ -2,7 +2,7 @@
 title: Red de Parques Nacionales
 slug: "red-de-parques-nacionales"
 description: ""
-date: "2026-03-13T09:22:52.173215"
+date: "2026-03-20T08:22:03.239825"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,23 +47,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
   - "pantone-201"
-  - black
   - red
-  - "pantone-385"
   - white
+  - "pantone-385"
+  - black
 typographies:
-  - georgia
   - verdana
+  - georgia
 imagery_styles:
-  - dynamic
   - clean
+  - dynamic
   - graphic
 wikidata_description: ""
 wikidata_url: ""
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://parquesnacionales.cnig.es/](https://parquesnacionales.cnig.es/)
+- [https://parquesnacionales.cnig.es](https://parquesnacionales.cnig.es)
 - [https://www.miteco.gob.es/es/parques-nacionales-oapn.html](https://www.miteco.gob.es/es/parques-nacionales-oapn.html)
 
 ## Brand Guidelines

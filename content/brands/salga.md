@@ -2,7 +2,7 @@
 title: SALGA
 slug: salga
 description: ""
-date: "2026-03-13T09:22:54.745659"
+date: "2026-03-20T08:22:05.542586"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.salga.org.za](https://www.salga.org.za)
 - [http://www.org.za](http://www.org.za)
 - [http://www.salga.org](http://www.salga.org)
-- [https://www.salga.org.za/](https://www.salga.org.za/)
+- [http://www.salgaocarfc.in](http://www.salgaocarfc.in)
 
 ## Brand Guidelines
 

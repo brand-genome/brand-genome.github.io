@@ -2,7 +2,7 @@
 title: XPO Logistics
 slug: "xpo-logistics"
 description: ""
-date: "2026-03-13T09:22:53.722402"
+date: "2026-03-20T08:22:04.686298"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,30 +54,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
+  - signature
   - symbol
   - alternate
   - primary
-  - secondary
-  - signature
 brand_colors:
-  - purple
-  - gray
-  - yellow
-  - orange
-  - black
   - red
-  - blue
   - green
   - white
+  - purple
+  - blue
+  - yellow
+  - gray
+  - orange
+  - black
 typographies:
-  - display
-  - arial
-  - roboto
   - impact
+  - arial
+  - display
+  - roboto
 imagery_styles:
   - product
-  - monochrome
   - staged
+  - monochrome
 wikidata_description: American transportation company
 wikidata_url: "https://www.wikidata.org/wiki/Q8042415"
 has_twitter: false
@@ -87,8 +89,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.xpo.com/](https://brand.xpo.com/)
-- [https://www.xpo.com/](https://www.xpo.com/)
+- [https://www.xpo.com](https://www.xpo.com)
+- [https://brand.xpo.com](https://brand.xpo.com)
 
 ## Brand Guidelines
 

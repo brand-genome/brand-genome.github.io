@@ -2,11 +2,11 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-03-13T09:22:52.197313"
+date: "2026-03-20T08:22:03.263567"
 draft: false
 sectors:
-  - "petrol-station"
   - "renewable-energy"
+  - "petrol-station"
 regions:
   - spain
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,16 +54,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - "pantone-877"
   - silver
-  - gray
   - red
   - "pantone-485"
+  - gray
   - "pantone-424"
+  - "pantone-877"
 typographies:
   - script
 imagery_styles:
@@ -78,9 +80,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.moeveglobal.com](https://www.moeveglobal.com)
+- [https://www.moeveglobal.com/en](https://www.moeveglobal.com/en)
 - [http://www.cepsa.com](http://www.cepsa.com)
-- [https://www.moeveglobal.com/](https://www.moeveglobal.com/)
-- [https://www.moeveglobal.com/en/](https://www.moeveglobal.com/en/)
+- [https://www.cepsa.com](https://www.cepsa.com)
+- [https://www.cepsa.es](https://www.cepsa.es)
 
 ## Brand Guidelines
 

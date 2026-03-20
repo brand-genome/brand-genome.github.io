@@ -2,7 +2,7 @@
 title: Labour party UKGeneral Election
 slug: "labour-party-ukgeneral-election"
 description: ""
-date: "2026-03-13T09:22:52.785028"
+date: "2026-03-20T08:22:03.795638"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://labour.org.uk/](https://labour.org.uk/)
+- [https://labour.org.uk](https://labour.org.uk)
 
 ## Brand Guidelines
 

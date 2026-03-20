@@ -2,7 +2,7 @@
 title: Microsoft Bing
 slug: "microsoft-bing"
 description: ""
-date: "2026-03-13T09:22:53.398103"
+date: "2026-03-20T08:22:04.301811"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - software
+  - internet
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bing.com/](https://www.bing.com/)
+- [https://www.bing.com](https://www.bing.com)
 - [https://www.microsoft.com/en-us/bing](https://www.microsoft.com/en-us/bing)
 
 ## Brand Guidelines

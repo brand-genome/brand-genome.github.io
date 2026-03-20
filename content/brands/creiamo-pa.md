@@ -2,11 +2,11 @@
 title: CReIAMO PA
 slug: "creiamo-pa"
 description: ""
-date: "2026-03-13T09:22:53.493489"
+date: "2026-03-20T08:22:04.389343"
 draft: false
 sectors:
-  - "renewable-energy"
   - "public-sector"
+  - "renewable-energy"
 regions:
   - italy
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - horizontal
   - wordmark
+  - primary
+  - horizontal
 brand_colors:
   - "pantone-7549"
-  - "pantone-2915"
-  - "pantone-540"
-  - black
   - "pantone-355"
+  - "pantone-540"
+  - "pantone-2915"
+  - white
   - blue
   - "pantone-2945"
-  - white
+  - black
 typographies:
-  - arial
   - "source-sans"
+  - arial
 imagery_styles:
-  - minimal
-  - gradient
   - bold
+  - gradient
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://creiamopa.mase.gov.it/](https://creiamopa.mase.gov.it/)
+- [https://creiamopa.mase.gov.it](https://creiamopa.mase.gov.it)
 - [https://creiamopa.mase.gov.it/web/creiamopa.html](https://creiamopa.mase.gov.it/web/creiamopa.html)
 
 ## Brand Guidelines

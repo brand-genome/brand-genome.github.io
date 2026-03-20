@@ -2,11 +2,11 @@
 title: Lih Ming
 slug: "lih-ming"
 description: ""
-date: "2026-03-13T09:22:53.275340"
+date: "2026-03-20T08:22:04.202906"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - singapore
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
   - signature
+  - horizontal
 brand_colors:
-  - black
   - green
   - yellow
   - white
+  - black
 typographies:
   - "source-sans"
 imagery_styles: []
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lihming.com.sg/](https://www.lihming.com.sg/)
+- [https://www.lihming.com.sg](https://www.lihming.com.sg)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-03-13T09:22:53.668826"
+date: "2026-03-20T08:22:04.526499"
 draft: false
 sectors:
   - construction
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - lockup
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - "century-gothic"
 imagery_styles: []
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bnd.com.au/](https://www.bnd.com.au/)
+- [https://www.bnd.com.au](https://www.bnd.com.au)
+- [https://www.bd-drug.com](https://www.bd-drug.com)
 
 ## Brand Guidelines
 

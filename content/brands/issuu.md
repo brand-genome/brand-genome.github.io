@@ -2,11 +2,11 @@
 title: issuu
 slug: issuu
 description: ""
-date: "2026-03-13T09:22:53.603899"
+date: "2026-03-20T08:22:04.469020"
 draft: false
 sectors:
-  - software
   - publishing
+  - software
 regions:
   - denmark
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - stacked
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
+  - green
+  - white
   - yellow
   - orange
   - black
-  - green
-  - white
 typographies:
   - times
 imagery_styles:
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.issuu.com/](https://help.issuu.com/)
-- [https://issuu.com/](https://issuu.com/)
+- [https://issuu.com](https://issuu.com)
+- [https://help.issuu.com](https://help.issuu.com)
 
 ## Brand Guidelines
 

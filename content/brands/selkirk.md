@@ -2,7 +2,7 @@
 title: Selkirk
 slug: selkirk
 description: ""
-date: "2026-03-13T09:22:54.230442"
+date: "2026-03-20T08:22:05.068739"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +51,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - yellow
-  - black
   - red
   - green
   - white
+  - grey
+  - yellow
+  - black
 typographies:
   - "open-sans"
 imagery_styles:
-  - vibrant
   - photography
   - bold
+  - vibrant
 wikidata_description: "town in Scottish Borders, Scotland, UK"
 wikidata_url: "https://www.wikidata.org/wiki/Q772507"
 has_twitter: false
@@ -73,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.myselkirk.ca](https://www.myselkirk.ca)
 - [http://www.myselkirk.ca](http://www.myselkirk.ca)
-- [https://www.myselkirk.ca/](https://www.myselkirk.ca/)
+- [http://www.selkirkonline.org](http://www.selkirkonline.org)
 
 ## Brand Guidelines
 

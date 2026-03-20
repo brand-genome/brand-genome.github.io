@@ -2,7 +2,7 @@
 title: Node.js
 slug: nodejs
 description: ""
-date: "2026-03-13T09:22:55.083873"
+date: "2026-03-20T08:22:05.787459"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +49,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: JavaScript runtime environment
@@ -65,8 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nodejs.org/](https://nodejs.org/)
-- [https://nodejs.org/en/about/](https://nodejs.org/en/about/)
+- [https://nodejs.org](https://nodejs.org)
+- [https://nodejs.org/en/about](https://nodejs.org/en/about)
+- [https://nodejs.org/fr](https://nodejs.org/fr)
+- [https://nodejs.org/ja](https://nodejs.org/ja)
 
 ## Brand Guidelines
 

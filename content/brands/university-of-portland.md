@@ -2,7 +2,7 @@
 title: University of Portland
 slug: "university-of-portland"
 description: ""
-date: "2026-03-13T09:22:52.173370"
+date: "2026-03-20T08:22:03.239978"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.up.edu](https://www.up.edu)
 - [http://www.up.edu](http://www.up.edu)
-- [https://www.up.edu/](https://www.up.edu/)
 
 ## Brand Guidelines
 

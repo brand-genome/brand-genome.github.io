@@ -2,11 +2,11 @@
 title: Erasmus Student Network
 slug: "erasmus-student-network"
 description: ""
-date: "2026-03-13T09:22:54.780388"
+date: "2026-03-20T08:22:05.563571"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,17 +54,17 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-368"
-  - cyan
-  - grey
-  - orange
-  - black
-  - white
-  - magenta
-  - pink
-  - blue
   - green
   - "pantone-166"
+  - white
+  - cyan
+  - grey
+  - blue
+  - "pantone-368"
+  - black
+  - orange
+  - pink
+  - magenta
 typographies: []
 imagery_styles:
   - monochrome
@@ -77,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.esn.org](https://www.esn.org)
 - [http://www.esn.org](http://www.esn.org)
-- [https://www.esn.org/](https://www.esn.org/)
 
 ## Brand Guidelines
 

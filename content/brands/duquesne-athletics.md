@@ -2,11 +2,11 @@
 title: Duquesne Athletics
 slug: "duquesne-athletics"
 description: ""
-date: "2026-03-13T09:22:54.334660"
+date: "2026-03-20T08:22:05.160895"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - stacked
+  - horizontal
   - monogram
   - primary
-  - stacked
-  - vertical
-  - horizontal
 brand_colors:
   - red
   - navy
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://goduquesne.com/](https://goduquesne.com/)
-- [https://goduquesne.evenue.net/](https://goduquesne.evenue.net/)
+- [https://goduquesne.com](https://goduquesne.com)
+- [https://goduquesne.evenue.net](https://goduquesne.evenue.net)
 
 ## Brand Guidelines
 

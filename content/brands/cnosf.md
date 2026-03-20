@@ -2,7 +2,7 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-03-13T09:22:54.737205"
+date: "2026-03-20T08:22:05.534085"
 draft: false
 sectors:
   - sports
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - green
   - cyan
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - green
 typographies: []
 imagery_styles:
   - bold
@@ -72,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cnosf.franceolympique.com/](https://cnosf.franceolympique.com/)
-- [https://www.franceolympique.com/](https://www.franceolympique.com/)
-- [https://www.franceolympique.org/](https://www.franceolympique.org/)
+- [https://cnosf.franceolympique.com](https://cnosf.franceolympique.com)
+- [https://www.franceolympique.com](https://www.franceolympique.com)
+- [https://www.franceolympique.org](https://www.franceolympique.org)
 
 ## Brand Guidelines
 

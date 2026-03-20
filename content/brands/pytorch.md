@@ -2,7 +2,7 @@
 title: PyTorch
 slug: pytorch
 description: ""
-date: "2026-03-13T09:22:53.721498"
+date: "2026-03-20T08:22:04.685219"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
   - stacked
-  - lockup
   - secondary
+  - symbol
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
-  - purple
-  - indigo
-  - violet
-  - gray
   - crimson
-  - orange
-  - black
   - white
+  - purple
+  - orange
+  - indigo
+  - gray
+  - violet
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "open source machine learning library for Python, based on Torch"
@@ -74,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.pytorch.org](http://www.pytorch.org)
+- [https://pytorch.org](https://pytorch.org)
 - [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
-- [https://pytorch.org/](https://pytorch.org/)
+- [http://www.pytorch.org](http://www.pytorch.org)
+- [http://pytorch.org](http://pytorch.org)
 
 ## Brand Guidelines
 

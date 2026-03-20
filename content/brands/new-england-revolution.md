@@ -2,7 +2,7 @@
 title: New England Revolution
 slug: "new-england-revolution"
 description: ""
-date: "2026-03-13T09:22:53.067318"
+date: "2026-03-20T08:22:04.059898"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.revolutionsoccer.net](http://www.revolutionsoccer.net)
-- [https://www.revolutionsoccer.net/](https://www.revolutionsoccer.net/)
+- [https://www.revolutionsoccer.net](https://www.revolutionsoccer.net)
 - [https://www.revolutionsoccer.net/club/contact-us](https://www.revolutionsoccer.net/club/contact-us)
+- [http://www.revolutionsoccer.net](http://www.revolutionsoccer.net)
 
 ## Brand Guidelines
 

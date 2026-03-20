@@ -2,7 +2,7 @@
 title: Nepal Herbs
 slug: "nepal-herbs"
 description: ""
-date: "2026-03-13T09:22:53.640259"
+date: "2026-03-20T08:22:04.496576"
 draft: false
 sectors:
   - "wellness-spa"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - cyan
   - "pantone-369"
+  - white
+  - cyan
+  - "pantone-427"
   - grey
   - yellow
   - black
-  - white
-  - magenta
   - "pantone-348"
-  - "pantone-427"
+  - magenta
 typographies:
   - avenir
 imagery_styles:
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.nepalherbs.com/](http://www.nepalherbs.com/)
-- [https://www.nepalherbs.com/](https://www.nepalherbs.com/)
+- [http://www.nepalherbs.com](http://www.nepalherbs.com)
+- [https://www.nepalherbs.com](https://www.nepalherbs.com)
 
 ## Brand Guidelines
 

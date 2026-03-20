@@ -2,7 +2,7 @@
 title: Valencia C.F.
 slug: "valencia-cf"
 description: ""
-date: "2026-03-13T09:22:54.979069"
+date: "2026-03-20T08:22:05.710621"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - crest
   - symbol
   - primary
+  - horizontal
+  - crest
 brand_colors:
   - silver
+  - red
+  - white
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
   - "gill-sans"
   - futura
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: "association football club in Valencia, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q10333"
 has_twitter: false
@@ -78,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.valenciacf.com/](https://www.valenciacf.com/)
+- [https://www.valenciacf.com](https://www.valenciacf.com)
 
 ## Brand Guidelines
 

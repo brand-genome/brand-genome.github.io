@@ -2,18 +2,18 @@
 title: "Oeko-Tex"
 slug: "oeko-tex"
 description: ""
-date: "2026-03-13T09:22:52.235848"
+date: "2026-03-20T08:22:03.298559"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
 regions:
   - international
 years:
-  - 2024
   - 2023
+  - 2024
 languages:
-  - english
   - chinese
+  - english
 tags:
   - trademark
 industries: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.oeko-tex.com](http://www.oeko-tex.com)
-- [https://www.oeko-tex.com/](https://www.oeko-tex.com/)
+- [https://www.oeko-tex.com](https://www.oeko-tex.com)
+- [https://www.oeko-tex.com/en/label-check](https://www.oeko-tex.com/en/label-check)
 - [https://www.oeko-tex.com/de/label-check](https://www.oeko-tex.com/de/label-check)
-- [https://www.oeko-tex.com/en/label-check/](https://www.oeko-tex.com/en/label-check/)
+- [http://www.oeko-tex.com](http://www.oeko-tex.com)
 
 ## Brand Guidelines
 

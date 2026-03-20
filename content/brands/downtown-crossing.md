@@ -2,7 +2,7 @@
 title: Downtown Crossing
 slug: "downtown-crossing"
 description: ""
-date: "2026-03-13T09:22:53.761344"
+date: "2026-03-20T08:22:04.718911"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +52,15 @@ logo_elements:
   - primary
 brand_colors: []
 typographies:
-  - serif
   - "sans-serif"
   - display
+  - serif
 imagery_styles:
   - classic
   - modern
   - natural
-  - clean
   - photography
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

@@ -2,7 +2,7 @@
 title: "Nagase & Co."
 slug: "nagase-co"
 description: ""
-date: "2026-03-13T09:22:52.829503"
+date: "2026-03-20T08:22:03.839163"
 draft: false
 sectors:
   - consulting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries: []
 countries:
   - japan
@@ -28,11 +28,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - chuo
   - osaka
+  - chuo
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.hayashibara.co.jp/](http://www.hayashibara.co.jp/)
-- [http://www.nagase.co.jp/](http://www.nagase.co.jp/)
-- [https://www.nagase.co.jp/english/](https://www.nagase.co.jp/english/)
-- [https://www.nagase.com/](https://www.nagase.com/)
+- [https://www.nagase.co.jp/english](https://www.nagase.co.jp/english)
+- [https://www.nagase.com](https://www.nagase.com)
+- [http://www.hayashibara.co.jp](http://www.hayashibara.co.jp)
+- [http://www.nagase.co.jp](http://www.nagase.co.jp)
 
 ## Brand Guidelines
 
@@ -84,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Chuo](/headquarters_locations/chuo/); [Osaka](/headquarters_locations/osaka/) |
+| Headquarters Location | [Osaka](/headquarters_locations/osaka/); [Chuo](/headquarters_locations/chuo/) |
 | Foundation Date | [1917](/foundation_dates/1917/) |
 | Ndl Authority Id | 00641601 |
 | Viaf Cluster Id | 124723667 |

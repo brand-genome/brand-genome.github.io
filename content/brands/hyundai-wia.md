@@ -2,11 +2,11 @@
 title: Hyundai Wia
 slug: "hyundai-wia"
 description: ""
-date: "2026-03-13T09:22:54.826336"
+date: "2026-03-20T08:22:05.588512"
 draft: false
 sectors:
-  - defense
   - automobile
+  - defense
 regions:
   - "south-korea"
 years:
@@ -15,8 +15,8 @@ languages: []
 tags:
   - corporate
 industries:
-  - "weapons-industry"
   - "automotive-industry"
+  - "weapons-industry"
 countries:
   - "south-korea"
 revenue_buckets:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hyundai-wia.com](https://www.hyundai-wia.com)
+- [https://en.hyundai-wia.com](https://en.hyundai-wia.com)
 - [http://www.hyundai-wia.com](http://www.hyundai-wia.com)
-- [https://en.hyundai-wia.com/](https://en.hyundai-wia.com/)
-- [https://www.hyundai-wia.com/](https://www.hyundai-wia.com/)
+- [https://en.hyundai-wia.com/main/main.asp](https://en.hyundai-wia.com/main/main.asp)
+- [https://www.hyundai-wia.com/main/main.asp](https://www.hyundai-wia.com/main/main.asp)
+- [https://cn.hyundai-wia.com/main/main.asp](https://cn.hyundai-wia.com/main/main.asp)
 
 ## Brand Guidelines
 

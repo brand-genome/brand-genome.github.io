@@ -2,11 +2,11 @@
 title: U.S. Army
 slug: "us-army"
 description: ""
-date: "2026-03-13T09:22:53.026545"
+date: "2026-03-20T08:22:04.020031"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - usa
 years:
@@ -29,11 +29,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "main-navy-and-munitions-buildings"
   - "the-pentagon"
+  - "main-navy-and-munitions-buildings"
 subsidiaries: []
 foundation_dates:
   - 1941
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GOARMY.COM](http://www.GOARMY.COM)
-- [https://www.army.mil/](https://www.army.mil/)
-- [https://www.goarmy.com/](https://www.goarmy.com/)
+- [https://www.army.mil](https://www.army.mil)
+- [https://www.goarmy.com](https://www.goarmy.com)
+- [http://www.goarmy.com](http://www.goarmy.com)
 
 ## Brand Guidelines
 
@@ -84,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Main Navy And Munitions Buildings](/headquarters_locations/main-navy-and-munitions-buildings/); [The Pentagon](/headquarters_locations/the-pentagon/) |
+| Headquarters Location | [The Pentagon](/headquarters_locations/the-pentagon/); [Main Navy And Munitions Buildings](/headquarters_locations/main-navy-and-munitions-buildings/) |
 | Foundation Date | [1941](/foundation_dates/1941/) |
 | Has Use | aerial warfare |
 | Military Branch | United States Army |

@@ -2,12 +2,12 @@
 title: Yale University
 slug: "yale-university"
 description: ""
-date: "2026-03-13T09:22:53.712363"
+date: "2026-03-20T08:22:04.659471"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1701
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.yale.edu](https://www.yale.edu)
+- [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
 - [http://www.yale.edu](http://www.yale.edu)
-- [https://www.yale.edu/](https://www.yale.edu/)
-- [https://yalecollege.yale.edu/](https://yalecollege.yale.edu/)
+- [https://yale.edu](https://yale.edu)
 
 ## Brand Guidelines
 

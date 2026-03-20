@@ -2,7 +2,7 @@
 title: "Life & Peace Institute"
 slug: "life-peace-institute"
 description: ""
-date: "2026-03-13T09:22:53.343086"
+date: "2026-03-20T08:22:04.252451"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,13 +54,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - green
+  - coral
+  - white
   - grey
+  - blue
   - yellow
   - "pantone-2748"
-  - blue
-  - coral
-  - green
-  - white
 typographies:
   - georgia
 imagery_styles:
@@ -75,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://life-peace.org](https://life-peace.org)
 - [http://www.lpi.org/workshops](http://www.lpi.org/workshops)
-- [https://life-peace.org/](https://life-peace.org/)
 
 ## Brand Guidelines
 

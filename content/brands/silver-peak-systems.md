@@ -2,11 +2,11 @@
 title: Silver Peak Systems
 slug: "silver-peak-systems"
 description: ""
-date: "2026-03-13T09:22:53.489776"
+date: "2026-03-20T08:22:04.386512"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +53,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
+  - badge
 brand_colors:
   - silver
 typographies:
-  - "open-sans"
   - slab
+  - "open-sans"
 imagery_styles:
-  - vibrant
+  - bold
   - product
   - natural
-  - bold
+  - vibrant
 wikidata_description: American computer networking company
 wikidata_url: "https://www.wikidata.org/wiki/Q16949741"
 has_twitter: false
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.silver-peak.com/](https://www.silver-peak.com/)
+- [https://www.silver-peak.com](https://www.silver-peak.com)
+- [http://www.silver-peak.com](http://www.silver-peak.com)
 
 ## Brand Guidelines
 

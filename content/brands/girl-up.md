@@ -2,11 +2,11 @@
 title: Girl Up
 slug: "girl-up"
 description: ""
-date: "2026-03-13T09:22:54.339544"
+date: "2026-03-20T08:22:05.166439"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - ngo
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
-  - lockup
   - secondary
+  - symbol
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - purple
-  - yellow
-  - black
-  - teal
-  - pink
-  - blue
   - green
+  - teal
   - white
+  - purple
+  - blue
+  - yellow
+  - pink
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - bold
   - dynamic
   - photography
-  - bold
 wikidata_description: NGO
 wikidata_url: "https://www.wikidata.org/wiki/Q87103917"
 has_twitter: false
@@ -81,10 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GirlUp.org](http://www.GirlUp.org)
-- [http://www.myfonts.com/fonts/typodermic/gnuolane/](http://www.myfonts.com/fonts/typodermic/gnuolane/)
-- [https://girlup.org/](https://girlup.org/)
+- [https://girlup.org](https://girlup.org)
 - [https://unpartnerships.un.org/girl](https://unpartnerships.un.org/girl)
+- [http://www.girlup.org](http://www.girlup.org)
+- [http://www.myfonts.com/fonts/typodermic/gnuolane](http://www.myfonts.com/fonts/typodermic/gnuolane)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Kellys
 slug: kellys
 description: ""
-date: "2026-03-13T09:22:54.331237"
+date: "2026-03-20T08:22:05.156433"
 draft: false
 sectors:
-  - "consumer-goods"
   - sports
+  - "consumer-goods"
 regions:
   - slovakia
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,12 +53,12 @@ logo_elements:
   - symbol
   - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - geometric
   - graphic
+  - geometric
 wikidata_description: dance band from Sweden
 wikidata_url: "https://www.wikidata.org/wiki/Q10544743"
 has_twitter: false
@@ -68,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://kellysbike.com](https://kellysbike.com)
 - [http://kellysbike.com/INT/support-logo-manual](http://kellysbike.com/INT/support-logo-manual)
 - [http://kellysbike.com/SK/podpora-logo-manual](http://kellysbike.com/SK/podpora-logo-manual)
-- [https://kellysbike.com/](https://kellysbike.com/)
-- [https://www.kellysbikeusa.com/](https://www.kellysbikeusa.com/)
+- [https://www.kellysbikeusa.com](https://www.kellysbikeusa.com)
 
 ## Brand Guidelines
 

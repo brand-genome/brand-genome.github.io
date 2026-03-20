@@ -2,11 +2,11 @@
 title: Studyportals
 slug: studyportals
 description: ""
-date: "2026-03-13T09:22:53.715632"
+date: "2026-03-20T08:22:04.676870"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - netherlands
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
-  - orange
   - white
+  - orange
   - blue
 typographies:
   - "open-sans"
 imagery_styles:
-  - natural
   - bold
+  - natural
 wikidata_description: Dutch online education company
 wikidata_url: "https://www.wikidata.org/wiki/Q16951546"
 has_twitter: false
@@ -73,17 +75,18 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://studyportals.com](https://studyportals.com)
+- [https://www.bachelorsportal.com](https://www.bachelorsportal.com)
+- [https://www.mastersportal.com](https://www.mastersportal.com)
+- [https://www.phdportal.com](https://www.phdportal.com)
+- [https://www.shortcoursesportal.com](https://www.shortcoursesportal.com)
+- [https://www.distancelearningportal.com](https://www.distancelearningportal.com)
+- [https://www.admissiontestportal.com](https://www.admissiontestportal.com)
+- [https://www.englishtestportal.com](https://www.englishtestportal.com)
+- [https://www.studentinsuranceportal.com](https://www.studentinsuranceportal.com)
+- [https://www.languagesuccessportal.com](https://www.languagesuccessportal.com)
 - [http://www.studyportals.com](http://www.studyportals.com)
-- [https://studyportals.com/](https://studyportals.com/)
-- [https://www.admissiontestportal.com/](https://www.admissiontestportal.com/)
-- [https://www.bachelorsportal.com/](https://www.bachelorsportal.com/)
-- [https://www.distancelearningportal.com/](https://www.distancelearningportal.com/)
-- [https://www.englishtestportal.com/](https://www.englishtestportal.com/)
-- [https://www.languagesuccessportal.com/](https://www.languagesuccessportal.com/)
-- [https://www.mastersportal.com/](https://www.mastersportal.com/)
-- [https://www.phdportal.com/](https://www.phdportal.com/)
-- [https://www.shortcoursesportal.com/](https://www.shortcoursesportal.com/)
-- [https://www.studentinsuranceportal.com/](https://www.studentinsuranceportal.com/)
+- [http://www.studyportals.eu](http://www.studyportals.eu)
 
 ## Brand Guidelines
 

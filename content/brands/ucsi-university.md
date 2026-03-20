@@ -2,7 +2,7 @@
 title: UCSI University
 slug: "ucsi-university"
 description: ""
-date: "2026-03-13T09:22:53.641996"
+date: "2026-03-20T08:22:04.498281"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - secondary
   - signature
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - orange
+  - black
 typographies:
   - "open-sans"
   - arial
   - roboto
 imagery_styles:
-  - duotone
   - bold
+  - duotone
 wikidata_description: private university in Malaysia
 wikidata_url: "https://www.wikidata.org/wiki/Q7864125"
 has_twitter: false
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bangladesh.ucsiuniversity.edu.my/](https://www.bangladesh.ucsiuniversity.edu.my/)
-- [https://www.ucsiuniversity.edu.my/](https://www.ucsiuniversity.edu.my/)
+- [https://www.ucsiuniversity.edu.my](https://www.ucsiuniversity.edu.my)
 - [https://www.ucsiuniversity.edu.my/ucsi-ci](https://www.ucsiuniversity.edu.my/ucsi-ci)
+- [https://www.bangladesh.ucsiuniversity.edu.my](https://www.bangladesh.ucsiuniversity.edu.my)
+- [http://www.ucsiuniversity.edu.my/index.aspx](http://www.ucsiuniversity.edu.my/index.aspx)
 
 ## Brand Guidelines
 

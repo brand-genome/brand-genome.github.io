@@ -2,7 +2,7 @@
 title: Zoom
 slug: zoom
 description: ""
-date: "2026-03-13T09:22:53.307488"
+date: "2026-03-20T08:22:04.224348"
 draft: false
 sectors:
   - software
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.instagram.com/zoom/](http://www.instagram.com/zoom/)
+- [https://www.zoom.com](https://www.zoom.com)
+- [http://www.instagram.com/zoom](http://www.instagram.com/zoom)
 - [https://twitter.com/zoom](https://twitter.com/zoom)
-- [https://www.zoom.com/](https://www.zoom.com/)
-- [https://zoom.us/](https://zoom.us/)
+- [https://zoom.us](https://zoom.us)
 
 ## Brand Guidelines
 

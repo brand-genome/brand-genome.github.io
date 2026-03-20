@@ -2,7 +2,7 @@
 title: "Lynn-Rose School"
 slug: "lynn-rose-school"
 description: ""
-date: "2026-03-13T09:22:52.885393"
+date: "2026-03-20T08:22:03.876835"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lynn-rose.ca/](https://lynn-rose.ca/)
+- [https://lynn-rose.ca](https://lynn-rose.ca)
 
 ## Brand Guidelines
 

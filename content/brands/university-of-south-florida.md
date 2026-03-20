@@ -2,7 +2,7 @@
 title: University of South Florida
 slug: "university-of-south-florida"
 description: ""
-date: "2026-03-13T09:22:52.822977"
+date: "2026-03-20T08:22:03.833809"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.USF.EDU](http://www.USF.EDU)
-- [https://gousfbulls.com/](https://gousfbulls.com/)
-- [https://health.usf.edu/](https://health.usf.edu/)
-- [https://www.usf.edu/](https://www.usf.edu/)
+- [https://www.usf.edu](https://www.usf.edu)
+- [https://health.usf.edu](https://health.usf.edu)
+- [https://gousfbulls.com](https://gousfbulls.com)
+- [http://www.usf.edu](http://www.usf.edu)
 
 ## Brand Guidelines
 

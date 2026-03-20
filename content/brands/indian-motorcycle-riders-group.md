@@ -2,11 +2,11 @@
 title: Indian Motorcycle Riders Group
 slug: "indian-motorcycle-riders-group"
 description: ""
-date: "2026-03-13T09:22:53.440676"
+date: "2026-03-20T08:22:04.344420"
 draft: false
 sectors:
-  - automobile
   - sports
+  - automobile
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - transport
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +52,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
   - crimson
   - red
   - gold
+  - gray
   - brown
 typographies: []
 imagery_styles: []
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.indianmotorcycle.com/en-us/riders-group/](https://www.indianmotorcycle.com/en-us/riders-group/)
-- [https://www.indianmotorcycle.com/en-us/riders-group/chapters/](https://www.indianmotorcycle.com/en-us/riders-group/chapters/)
+- [https://www.indianmotorcycle.com/en-us/riders-group](https://www.indianmotorcycle.com/en-us/riders-group)
+- [https://www.indianmotorcycle.com/en-us/riders-group/chapters](https://www.indianmotorcycle.com/en-us/riders-group/chapters)
 
 ## Brand Guidelines
 

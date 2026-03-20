@@ -2,7 +2,7 @@
 title: General Electric
 slug: "general-electric"
 description: ""
-date: "2026-03-13T09:22:54.559978"
+date: "2026-03-20T08:22:05.405412"
 draft: false
 sectors:
   - aerospace
@@ -14,16 +14,16 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries:
-  - "weapons-industry"
-  - "aircraft-industry"
-  - "mechanical-engineering"
-  - "automotive-industry"
-  - "power-engineering"
   - "finance-lease"
+  - "automotive-industry"
   - conglomerate
+  - "mechanical-engineering"
+  - "power-engineering"
+  - "aircraft-industry"
+  - "weapons-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -48,6 +48,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1892
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -81,10 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ge.com](https://www.ge.com)
+- [https://www.geaerospace.com](https://www.geaerospace.com)
+- [https://www.gevernova.com](https://www.gevernova.com)
 - [http://www.ge.com](http://www.ge.com)
-- [https://www.ge.com/](https://www.ge.com/)
-- [https://www.geaerospace.com/](https://www.geaerospace.com/)
-- [https://www.gevernova.com/](https://www.gevernova.com/)
 
 ## Brand Guidelines
 

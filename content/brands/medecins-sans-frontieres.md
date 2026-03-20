@@ -2,11 +2,11 @@
 title: Médecins Sans Frontières
 slug: "medecins-sans-frontieres"
 description: ""
-date: "2026-03-13T09:22:52.873298"
+date: "2026-03-20T08:22:03.870678"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - ngo
   - featured
   - health
-  - ngo
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.msf.org](https://www.msf.org)
+- [https://www.msf.fr](https://www.msf.fr)
 - [http://www.msf.org](http://www.msf.org)
-- [https://www.msf.fr/](https://www.msf.fr/)
-- [https://www.msf.org/](https://www.msf.org/)
 
 ## Brand Guidelines
 

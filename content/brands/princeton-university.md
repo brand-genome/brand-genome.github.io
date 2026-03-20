@@ -2,7 +2,7 @@
 title: Princeton University
 slug: "princeton-university"
 description: ""
-date: "2026-03-13T09:22:54.229345"
+date: "2026-03-20T08:22:05.066873"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1746
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
   - orange
+  - black
 typographies:
   - display
 imagery_styles: []
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://online.princeton.edu/](https://online.princeton.edu/)
-- [https://socialmedia.princeton.edu/](https://socialmedia.princeton.edu/)
-- [https://www.princeton.edu/](https://www.princeton.edu/)
+- [https://www.princeton.edu](https://www.princeton.edu)
+- [https://online.princeton.edu](https://online.princeton.edu)
+- [https://socialmedia.princeton.edu](https://socialmedia.princeton.edu)
+- [https://princeton.edu](https://princeton.edu)
 
 ## Brand Guidelines
 

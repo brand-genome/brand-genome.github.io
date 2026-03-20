@@ -2,7 +2,7 @@
 title: Care Oregon
 slug: "care-oregon"
 description: ""
-date: "2026-03-13T09:22:53.700672"
+date: "2026-03-20T08:22:04.555941"
 draft: false
 sectors:
   - insurance
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - black
 typographies:
   - "proxima-nova"
   - serif
 imagery_styles:
-  - minimal
-  - photography
   - bold
+  - photography
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.careoregon.org/](https://www.careoregon.org/)
-- [https://www.careoregonfoundation.org/](https://www.careoregonfoundation.org/)
+- [https://www.careoregon.org](https://www.careoregon.org)
+- [https://www.careoregonfoundation.org](https://www.careoregonfoundation.org)
 
 ## Brand Guidelines
 

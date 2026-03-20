@@ -2,11 +2,11 @@
 title: Angelhack
 slug: angelhack
 description: ""
-date: "2026-03-13T09:22:55.081142"
+date: "2026-03-20T08:22:05.783030"
 draft: false
 sectors:
-  - software
   - education
+  - software
 regions:
   - international
 years:
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://angelhack.com/](https://angelhack.com/)
+- [https://angelhack.com](https://angelhack.com)
 
 ## Brand Guidelines
 

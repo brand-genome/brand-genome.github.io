@@ -2,7 +2,7 @@
 title: Crucial
 slug: crucial
 description: ""
-date: "2026-03-13T09:22:52.062708"
+date: "2026-03-20T08:22:03.128338"
 draft: false
 sectors:
   - electronics
@@ -11,8 +11,8 @@ regions:
   - usa
 years:
   - 2020
-  - 2019
   - 2024
+  - 2019
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +52,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
+  - green
+  - white
+  - blue
   - gray
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
   - subtle
@@ -73,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.crucial.com](https://www.crucial.com)
 - [https://brand.micron.com/brand-guidelines/crucial-guidelines.html](https://brand.micron.com/brand-guidelines/crucial-guidelines.html)
-- [https://www.crucial.com/](https://www.crucial.com/)
 
 ## Brand Guidelines
 

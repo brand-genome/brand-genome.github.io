@@ -2,7 +2,7 @@
 title: St.Ives
 slug: stives
 description: ""
-date: "2026-03-13T09:22:53.403559"
+date: "2026-03-20T08:22:04.305706"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - abstract
+  - secondary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
   - script
 imagery_styles:
-  - illustration
-  - monochrome
   - staged
-  - vibrant
-  - photography
   - abstract
   - bold
+  - illustration
+  - photography
+  - monochrome
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://stivesbid.co.uk/](https://stivesbid.co.uk/)
-- [https://www.stives-cornwall.co.uk/](https://www.stives-cornwall.co.uk/)
+- [https://www.stives-cornwall.co.uk](https://www.stives-cornwall.co.uk)
+- [https://stivesbid.co.uk](https://stivesbid.co.uk)
 
 ## Brand Guidelines
 

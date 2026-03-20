@@ -2,11 +2,11 @@
 title: Quanta
 slug: quanta
 description: ""
-date: "2026-03-13T09:22:54.417821"
+date: "2026-03-20T08:22:05.310632"
 draft: false
 sectors:
-  - construction
   - "logistics-supply-chain"
+  - construction
 regions:
   - usa
 years:
@@ -35,11 +35,13 @@ products_or_materials_produced:
   - laptop
 products: []
 headquarters_locations:
-  - taipei
   - "taoyuan-district"
+  - taipei
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,10 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Quantaservices.com](http://www.Quantaservices.com)
-- [http://www.flickr.com/photos/127530547@N02/](http://www.flickr.com/photos/127530547@N02/)
-- [https://quantaservices.com/](https://quantaservices.com/)
-- [https://support.quantaservices.com/](https://support.quantaservices.com/)
+- [https://quantaservices.com](https://quantaservices.com)
+- [https://support.quantaservices.com](https://support.quantaservices.com)
+- [http://www.quantaservices.com](http://www.quantaservices.com)
+- [http://www.flickr.com/photos/127530547@N02](http://www.flickr.com/photos/127530547@N02)
+- [http://www.quantatw.com](http://www.quantatw.com)
 
 ## Brand Guidelines
 
@@ -90,7 +93,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Laptop](/products_or_materials_produced/laptop/) |
-| Headquarters Location | [Taipei](/headquarters_locations/taipei/); [Taoyuan District](/headquarters_locations/taoyuan-district/) |
+| Headquarters Location | [Taoyuan District](/headquarters_locations/taoyuan-district/); [Taipei](/headquarters_locations/taipei/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Headquarters Location | Taoyuan District, Taipei |
 | Freebase Id | /m/02wz02 |

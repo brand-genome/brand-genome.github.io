@@ -2,7 +2,7 @@
 title: Hamburg University of Technology
 slug: "hamburg-university-of-technology"
 description: ""
-date: "2026-03-13T09:22:53.312293"
+date: "2026-03-20T08:22:04.227806"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - technology
   - education
+  - technology
 industries: []
 countries:
   - germany
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tuhh.de](https://www.tuhh.de)
+- [https://dual.tuhh.de](https://dual.tuhh.de)
 - [http://www.tuhh.de](http://www.tuhh.de)
-- [https://dual.tuhh.de/](https://dual.tuhh.de/)
-- [https://www.tuhh.de/](https://www.tuhh.de/)
 
 ## Brand Guidelines
 

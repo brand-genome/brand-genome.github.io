@@ -2,7 +2,7 @@
 title: USB4
 slug: usb4
 description: ""
-date: "2026-03-13T09:22:53.293926"
+date: "2026-03-20T08:22:04.218066"
 draft: false
 sectors:
   - electronics
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.usb.org/](https://www.usb.org/)
+- [https://www.usb.org](https://www.usb.org)
 
 ## Brand Guidelines
 

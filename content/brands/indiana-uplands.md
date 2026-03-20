@@ -2,7 +2,7 @@
 title: Indiana Uplands
 slug: "indiana-uplands"
 description: ""
-date: "2026-03-13T09:22:52.171577"
+date: "2026-03-20T08:22:03.237188"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://inuplands.org/](https://inuplands.org/)
-- [https://regionalopportunityinc.org/](https://regionalopportunityinc.org/)
+- [https://inuplands.org](https://inuplands.org)
+- [https://regionalopportunityinc.org](https://regionalopportunityinc.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Chicago River
 slug: "chicago-river"
 description: ""
-date: "2026-03-13T09:22:54.720629"
+date: "2026-03-20T08:22:05.518983"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

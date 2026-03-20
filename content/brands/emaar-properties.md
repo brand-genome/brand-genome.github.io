@@ -2,7 +2,7 @@
 title: Emaar Properties
 slug: "emaar-properties"
 description: ""
-date: "2026-03-13T09:22:51.899414"
+date: "2026-03-20T08:22:03.065186"
 draft: false
 sectors:
   - "real-estate"
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,20 +56,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies:
+  - optima
   - arial
   - georgia
-  - optima
 imagery_styles:
-  - lifestyle
   - graphic
+  - lifestyle
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1153463"
 has_twitter: false
@@ -79,8 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.EMAAR.COM](http://www.EMAAR.COM)
 - [https://www.emaar.com](https://www.emaar.com)
+- [http://www.emaar.com](http://www.emaar.com)
+- [https://www.dubaiemaar.cn](https://www.dubaiemaar.cn)
 
 ## Brand Guidelines
 

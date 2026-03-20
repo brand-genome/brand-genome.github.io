@@ -2,7 +2,7 @@
 title: Alutech
 slug: alutech
 description: ""
-date: "2026-03-13T09:22:54.827275"
+date: "2026-03-20T08:22:05.589147"
 draft: false
 sectors:
   - construction
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ALUTECH-GROUP.COM](http://www.ALUTECH-GROUP.COM)
-- [https://alutech-group.com/](https://alutech-group.com/)
-- [https://alutech.ru/](https://alutech.ru/)
+- [https://alutech-group.com](https://alutech-group.com)
+- [https://alutech.ru](https://alutech.ru)
+- [http://www.alutech-group.com](http://www.alutech-group.com)
 
 ## Brand Guidelines
 

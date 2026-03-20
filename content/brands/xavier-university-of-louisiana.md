@@ -2,7 +2,7 @@
 title: Xavier University of Louisiana
 slug: "xavier-university-of-louisiana"
 description: ""
-date: "2026-03-13T09:22:55.042048"
+date: "2026-03-20T08:22:05.744905"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1915
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +58,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: Catholic university in the U.S state of Louisiana
 wikidata_url: "https://www.wikidata.org/wiki/Q390087"
 has_twitter: false
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xula.edu/](https://www.xula.edu/)
+- [https://www.xula.edu](https://www.xula.edu)
+- [https://www.xavier.edu](https://www.xavier.edu)
 
 ## Brand Guidelines
 

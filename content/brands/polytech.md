@@ -2,7 +2,7 @@
 title: Polytech
 slug: polytech
 description: ""
-date: "2026-03-13T09:22:53.703089"
+date: "2026-03-20T08:22:04.558666"
 draft: false
 sectors:
   - education
@@ -28,12 +28,14 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
+  - "7th-arrondissement-of-paris"
   - "5th-arrondissement-of-paris"
   - palaiseau
-  - "7th-arrondissement-of-paris"
 subsidiaries: []
 foundation_dates:
   - 1794
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +54,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - monogram
-  - abstract
   - vertical
   - signature
+  - abstract
+  - monogram
 brand_colors:
   - blue
 typographies:
   - "sans-serif"
 imagery_styles:
-  - modern
-  - candid
   - abstract
-  - photography
   - professional
+  - modern
+  - photography
+  - candid
 wikidata_description: French engineering grande école (selective higher education institution)
 wikidata_url: "https://www.wikidata.org/wiki/Q273626"
 has_twitter: false
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.polytech-reseau.org/](https://www.polytech-reseau.org/)
+- [https://www.polytech-reseau.org](https://www.polytech-reseau.org)
+- [https://www.polytechnique.edu](https://www.polytechnique.edu)
 
 ## Brand Guidelines
 
@@ -126,7 +129,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [5Th Arrondissement Of Paris](/headquarters_locations/5th-arrondissement-of-paris/); [Palaiseau](/headquarters_locations/palaiseau/); [7Th Arrondissement Of Paris](/headquarters_locations/7th-arrondissement-of-paris/) |
+| Headquarters Location | [7Th Arrondissement Of Paris](/headquarters_locations/7th-arrondissement-of-paris/); [5Th Arrondissement Of Paris](/headquarters_locations/5th-arrondissement-of-paris/); [Palaiseau](/headquarters_locations/palaiseau/) |
 | Foundation Date | [1794](/foundation_dates/1794/) |
 | Freebase Id | /m/01v0b8 |
 | Country | France |

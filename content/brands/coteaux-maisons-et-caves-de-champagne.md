@@ -2,7 +2,7 @@
 title: "Coteaux, Maisons et Caves de Champagne"
 slug: "coteaux-maisons-et-caves-de-champagne"
 description: ""
-date: "2026-03-13T09:22:53.323767"
+date: "2026-03-20T08:22:04.235098"
 draft: false
 sectors:
   - tourism
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.champagne-patrimoinemondial.org](http://www.champagne-patrimoinemondial.org)
-- [https://www.champagne-patrimoinemondial.org/](https://www.champagne-patrimoinemondial.org/)
+- [https://www.champagne-patrimoinemondial.org](https://www.champagne-patrimoinemondial.org)
 - [https://www.champagne-patrimoinemondial.org/en](https://www.champagne-patrimoinemondial.org/en)
+- [http://www.champagne-patrimoinemondial.org](http://www.champagne-patrimoinemondial.org)
 
 ## Brand Guidelines
 

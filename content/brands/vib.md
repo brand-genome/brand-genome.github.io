@@ -2,11 +2,11 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-03-13T09:22:54.216347"
+date: "2026-03-20T08:22:05.043570"
 draft: false
 sectors:
-  - biotech
   - research
+  - biotech
 regions:
   - belgium
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
-  - black
   - green
   - white
   - orange
+  - black
 typographies:
-  - "open-sans"
   - impact
+  - "open-sans"
 imagery_styles:
   - bold
 wikidata_description: Flemish research institute
@@ -74,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.vib.be](https://www.vib.be)
 - [https://vib.be/en/about](https://vib.be/en/about)
-- [https://www.vib.be/](https://www.vib.be/)
 - [https://www.vib.be/phd](https://www.vib.be/phd)
+- [https://vib.be](https://vib.be)
 
 ## Brand Guidelines
 

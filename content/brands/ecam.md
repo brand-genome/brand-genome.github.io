@@ -2,7 +2,7 @@
 title: ECAM
 slug: ecam
 description: ""
-date: "2026-03-13T09:22:53.723188"
+date: "2026-03-20T08:22:04.687071"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +51,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - "pantone-5423"
   - white
   - blue
+  - "pantone-5423"
+  - black
 typographies:
   - times
 imagery_styles:
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ecam.es/](https://ecam.es/)
+- [https://ecam.es](https://ecam.es)
 
 ## Brand Guidelines
 

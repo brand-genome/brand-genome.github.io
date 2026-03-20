@@ -2,15 +2,15 @@
 title: BMC
 slug: bmc
 description: ""
-date: "2026-03-13T09:22:53.242470"
+date: "2026-03-20T08:22:04.160346"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2022
   - 2018
+  - 2022
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +55,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
-  - dramatic
-  - modern
   - bold
+  - modern
+  - dramatic
+  - photography
 wikidata_description: commercial vehicle manufacturer in Turkey
 wikidata_url: "https://www.wikidata.org/wiki/Q796295"
 has_twitter: false
@@ -74,8 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.BMC.COM](http://www.BMC.COM)
-- [https://www.bmc.com/](https://www.bmc.com/)
+- [https://www.bmc.com](https://www.bmc.com)
+- [http://www.bmc.com](http://www.bmc.com)
+- [http://www.bmc.com.tr/en](http://www.bmc.com.tr/en)
+- [http://www.bmc.com.tr](http://www.bmc.com.tr)
 
 ## Brand Guidelines
 

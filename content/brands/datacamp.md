@@ -2,7 +2,7 @@
 title: DataCamp
 slug: datacamp
 description: ""
-date: "2026-03-13T09:22:52.321334"
+date: "2026-03-20T08:22:03.389440"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
 industries:
   - "educational-technology"
 countries:
@@ -32,6 +32,7 @@ headquarters_locations:
   - ghent
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.datacamp.com/](https://www.datacamp.com/)
+- [https://www.datacamp.com](https://www.datacamp.com)
 
 ## Brand Guidelines
 

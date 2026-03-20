@@ -2,7 +2,7 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-03-13T09:22:53.278864"
+date: "2026-03-20T08:22:04.208841"
 draft: false
 sectors:
   - restaurant
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,17 +57,17 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
-  - magenta
   - white
   - blue
+  - magenta
+  - black
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
-  - photography
   - natural
   - lifestyle
+  - photography
 wikidata_description: US international ice cream parlor chain
 wikidata_url: "https://www.wikidata.org/wiki/Q584601"
 has_twitter: false
@@ -77,8 +79,18 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://locations.baskinrobbins.com/](https://locations.baskinrobbins.com/)
-- [https://www.baskinrobbins.com/](https://www.baskinrobbins.com/)
+- [https://www.baskinrobbins.com](https://www.baskinrobbins.com)
+- [https://locations.baskinrobbins.com](https://locations.baskinrobbins.com)
+- [https://baskinrobbins.com.my](https://baskinrobbins.com.my)
+- [https://www.31ice.co.jp](https://www.31ice.co.jp)
+- [https://www.baskinrobbins.ca](https://www.baskinrobbins.ca)
+- [https://www.baskinrobbins.com.au](https://www.baskinrobbins.com.au)
+- [https://baskinrobbinsindia.com](https://baskinrobbinsindia.com)
+- [https://www.baskinrobbinsmea.com](https://www.baskinrobbinsmea.com)
+- [https://store.31ice.co.jp](https://store.31ice.co.jp)
+- [https://baskinrobbins.co.kr](https://baskinrobbins.co.kr)
+- [https://baskinrobbins.co.uk](https://baskinrobbins.co.uk)
+- [https://www.baskinrobbins.ru](https://www.baskinrobbins.ru)
 
 ## Brand Guidelines
 

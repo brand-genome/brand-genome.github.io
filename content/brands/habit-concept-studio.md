@@ -2,11 +2,11 @@
 title: Habit Concept Studio
 slug: "habit-concept-studio"
 description: ""
-date: "2026-03-13T09:22:52.061953"
+date: "2026-03-20T08:22:03.127656"
 draft: false
 sectors:
-  - consulting
   - "staffing-recruitment"
+  - consulting
 regions:
   - serbia
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.habit.rs/](https://www.habit.rs/)
-- [https://www.habit.rs/about-habit/](https://www.habit.rs/about-habit/)
+- [https://www.habit.rs](https://www.habit.rs)
+- [https://www.habit.rs/about-habit](https://www.habit.rs/about-habit)
 
 ## Brand Guidelines
 

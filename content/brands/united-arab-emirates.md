@@ -2,7 +2,7 @@
 title: United Arab Emirates
 slug: "united-arab-emirates"
 description: ""
-date: "2026-03-13T09:22:53.641740"
+date: "2026-03-20T08:22:04.497923"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - arabic
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - "united-arab-emirates"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1951
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gold
-  - black
-  - "pantone-348"
   - red
   - green
+  - gold
   - white
+  - "pantone-348"
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
-  - gradient
   - bold
+  - gradient
+  - monochrome
 wikidata_description: combined military forces of the United Arab Emirates
 wikidata_url: "https://www.wikidata.org/wiki/Q1077671"
 has_twitter: false
@@ -76,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tdra.gov.ae/en/About/initiatives/mgov/the-government-official-portal-uae](https://tdra.gov.ae/en/About/initiatives/mgov/the-government-official-portal-uae)
-- [https://u.ae/ar](https://u.ae/ar)
 - [https://u.ae/en](https://u.ae/en)
+- [https://u.ae/ar](https://u.ae/ar)
+- [https://tdra.gov.ae/en/About/initiatives/mgov/the-government-official-portal-uae](https://tdra.gov.ae/en/About/initiatives/mgov/the-government-official-portal-uae)
 
 ## Brand Guidelines
 

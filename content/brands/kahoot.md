@@ -2,11 +2,11 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-03-13T09:22:53.283854"
+date: "2026-03-20T08:22:04.213088"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - norway
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - black
+  - white
   - purple
   - grey
-  - white
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - illustration
-  - geometric
-  - playful
   - colorful
   - bold
+  - illustration
+  - playful
+  - geometric
 wikidata_description: "Children's educational software"
 wikidata_url: "https://www.wikidata.org/wiki/Q6347127"
 has_twitter: false
@@ -74,13 +75,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://kahoot.com](https://kahoot.com)
+- [https://kahoot.it](https://kahoot.it)
+- [https://support.kahoot.com](https://support.kahoot.com)
+- [https://trust.kahoot.com](https://trust.kahoot.com)
+- [https://status.kahoot.com](https://status.kahoot.com)
+- [https://create.kahoot.it](https://create.kahoot.it)
 - [http://www.kahoot.com](http://www.kahoot.com)
-- [https://create.kahoot.it/](https://create.kahoot.it/)
-- [https://kahoot.com/](https://kahoot.com/)
-- [https://kahoot.it/](https://kahoot.it/)
-- [https://status.kahoot.com/](https://status.kahoot.com/)
-- [https://support.kahoot.com/](https://support.kahoot.com/)
-- [https://trust.kahoot.com/](https://trust.kahoot.com/)
+- [http://www.kahootz.com](http://www.kahootz.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Principia School
 slug: "principia-school"
 description: ""
-date: "2026-03-13T09:22:53.308171"
+date: "2026-03-20T08:22:04.224708"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,22 +47,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - gold
   - white
+  - gold
   - navy
 typographies:
-  - serif
+  - slab
   - roboto
   - "sans-serif"
-  - slab
+  - serif
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.principiaschool.org](https://www.principiaschool.org)
+- [https://www.principia.edu](https://www.principia.edu)
 - [http://www.principia.edu/socialmedia](http://www.principia.edu/socialmedia)
-- [https://www.principia.edu/](https://www.principia.edu/)
-- [https://www.principiaschool.org/](https://www.principiaschool.org/)
 
 ## Brand Guidelines
 

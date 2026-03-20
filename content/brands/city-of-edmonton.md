@@ -2,20 +2,20 @@
 title: City of Edmonton
 slug: "city-of-edmonton"
 description: ""
-date: "2026-03-13T09:22:53.017999"
+date: "2026-03-20T08:22:04.009437"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - canada
 years:
-  - 2022
   - 2017
+  - 2022
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - canada
@@ -32,8 +32,12 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1904
-  - 1892
   - 1795
+  - 1892
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - "18TH-CENTURY"
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.edmonton.ca/visualidentity](http://www.edmonton.ca/visualidentity)
-- [https://my.edmonton.ca/](https://my.edmonton.ca/)
-- [https://www.edmonton.ca/](https://www.edmonton.ca/)
+- [https://www.edmonton.ca](https://www.edmonton.ca)
 - [https://www.edmonton.ca/city_government/news/visual-identity-standards](https://www.edmonton.ca/city_government/news/visual-identity-standards)
+- [https://my.edmonton.ca](https://my.edmonton.ca)
+- [http://www.edmonton.ca/visualidentity](http://www.edmonton.ca/visualidentity)
 
 ## Brand Guidelines
 
@@ -85,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1904](/foundation_dates/1904/); [1892](/foundation_dates/1892/); [1795](/foundation_dates/1795/) |
+| Foundation Date | [1904](/foundation_dates/1904/); [1795](/foundation_dates/1795/); [1892](/foundation_dates/1892/) |
 | Twinned Administrative Body | Harbin (from 1985-12-05), Nashville (from 1990), Wonju (from 1998), Bergen op Zoom (from 2013), Gatineau (from 1967) (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:Edmonton |
 | Country | Canada |

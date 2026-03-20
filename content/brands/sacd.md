@@ -2,11 +2,11 @@
 title: SACD
 slug: sacd
 description: ""
-date: "2026-03-13T09:22:54.736701"
+date: "2026-03-20T08:22:05.533872"
 draft: false
 sectors:
-  - "arts-culture"
   - "legal-services"
+  - "arts-culture"
 regions:
   - france
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1777
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - monogram
   - secondary
+  - monogram
 brand_colors:
-  - gray
-  - black
   - red
   - "pantone-485"
   - white
+  - gray
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -74,9 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.sacd.fr](http://www.sacd.fr)
-- [https://sacd.fr/](https://sacd.fr/)
+- [https://sacd.fr](https://sacd.fr)
 - [https://sacd.fr/fr](https://sacd.fr/fr)
+- [http://www.sacd.fr](http://www.sacd.fr)
+- [https://www.sacd.fr](https://www.sacd.fr)
+- [https://www.sacd.fr/en](https://www.sacd.fr/en)
 
 ## Brand Guidelines
 

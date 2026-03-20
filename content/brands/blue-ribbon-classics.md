@@ -2,7 +2,7 @@
 title: Blue Ribbon Classics
 slug: "blue-ribbon-classics"
 description: ""
-date: "2026-03-13T09:22:54.571992"
+date: "2026-03-20T08:22:05.417349"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - "pantone-7462"
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - gradient
   - graphic
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://blueribbonclassics.com/](https://blueribbonclassics.com/)
+- [https://blueribbonclassics.com](https://blueribbonclassics.com)
 - [https://wellsfoodservice.com/brands/blue-ribbon-classics](https://wellsfoodservice.com/brands/blue-ribbon-classics)
 - [https://wellsvending.com/brands/blue-ribbon-classics](https://wellsvending.com/brands/blue-ribbon-classics)
 

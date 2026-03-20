@@ -2,7 +2,7 @@
 title: Santa Cruz de Tenerife
 slug: "santa-cruz-de-tenerife"
 description: ""
-date: "2026-03-13T09:22:53.533488"
+date: "2026-03-20T08:22:04.415335"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - spain
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1833
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ovc.santacruzdetenerife.es/](https://ovc.santacruzdetenerife.es/)
-- [https://sede.santacruzdetenerife.es/](https://sede.santacruzdetenerife.es/)
-- [https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad](https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad)
 - [https://www.santacruzdetenerife.es/web/inicio](https://www.santacruzdetenerife.es/web/inicio)
+- [https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad](https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad)
+- [https://sede.santacruzdetenerife.es](https://sede.santacruzdetenerife.es)
+- [https://ovc.santacruzdetenerife.es](https://ovc.santacruzdetenerife.es)
+- [https://www.santacruzdetenerife.es](https://www.santacruzdetenerife.es)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-03-13T09:22:54.734519"
+date: "2026-03-20T08:22:05.531803"
 draft: false
 sectors:
   - electronics
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,11 +57,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
   - vertical
   - secondary
-  - badge
   - horizontal
+  - icon
+  - badge
 brand_colors:
   - black
   - gray
@@ -79,9 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.nest.com/legal/ip-and-other-notices](http://www.nest.com/legal/ip-and-other-notices)
-- [https://home.nest.com/](https://home.nest.com/)
 - [https://store.google.com/category/connected_home](https://store.google.com/category/connected_home)
+- [https://home.nest.com](https://home.nest.com)
+- [http://www.nest.com/legal/ip-and-other-notices](http://www.nest.com/legal/ip-and-other-notices)
+- [https://store.google.com/in/category/connected_home](https://store.google.com/in/category/connected_home)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Concello de Marín
 slug: "concello-de-marin"
 description: ""
-date: "2026-03-13T09:22:53.017325"
+date: "2026-03-20T08:22:04.008784"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sede.concellodemarin.es/](https://sede.concellodemarin.es/)
-- [https://www.concellodemarin.es/](https://www.concellodemarin.es/)
+- [https://www.concellodemarin.es](https://www.concellodemarin.es)
+- [https://sede.concellodemarin.es](https://sede.concellodemarin.es)
 
 ## Brand Guidelines
 

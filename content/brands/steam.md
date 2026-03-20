@@ -2,7 +2,7 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-03-13T09:22:52.173785"
+date: "2026-03-20T08:22:03.240391"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +50,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - product
@@ -68,13 +70,41 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.steamgames.com/doc/marketing/](http://www.steamgames.com/doc/marketing/)
+- [https://store.steampowered.com](https://store.steampowered.com)
+- [https://steamcommunity.com](https://steamcommunity.com)
+- [https://partner.steamgames.com](https://partner.steamgames.com)
+- [https://help.steampowered.com](https://help.steampowered.com)
+- [http://www.steamgames.com/doc/marketing](http://www.steamgames.com/doc/marketing)
 - [http://www.steampowered.com](http://www.steampowered.com)
-- [https://help.steampowered.com/](https://help.steampowered.com/)
-- [https://partner.steamgames.com/](https://partner.steamgames.com/)
-- [https://partner.steamgames.com/doc/marketing/](https://partner.steamgames.com/doc/marketing/)
-- [https://steamcommunity.com/](https://steamcommunity.com/)
-- [https://store.steampowered.com/](https://store.steampowered.com/)
+- [https://partner.steamgames.com/doc/marketing](https://partner.steamgames.com/doc/marketing)
+- [https://store.steampowered.com?l=english](https://store.steampowered.com?l=english)
+- [https://store.steampowered.com?l=spanish](https://store.steampowered.com?l=spanish)
+- [https://store.steampowered.com?l=latam](https://store.steampowered.com?l=latam)
+- [https://store.steampowered.com?l=greek](https://store.steampowered.com?l=greek)
+- [https://store.steampowered.com?l=french](https://store.steampowered.com?l=french)
+- [https://store.steampowered.com?l=italian](https://store.steampowered.com?l=italian)
+- [https://store.steampowered.com?l=hungarian](https://store.steampowered.com?l=hungarian)
+- [https://store.steampowered.com?l=dutch](https://store.steampowered.com?l=dutch)
+- [https://store.steampowered.com?l=norwegian](https://store.steampowered.com?l=norwegian)
+- [https://store.steampowered.com?l=polish](https://store.steampowered.com?l=polish)
+- [https://store.steampowered.com?l=portuguese](https://store.steampowered.com?l=portuguese)
+- [https://store.steampowered.com?l=brazilian](https://store.steampowered.com?l=brazilian)
+- [https://store.steampowered.com?l=romanian](https://store.steampowered.com?l=romanian)
+- [https://store.steampowered.com?l=russian](https://store.steampowered.com?l=russian)
+- [https://store.steampowered.com?l=finnish](https://store.steampowered.com?l=finnish)
+- [https://store.steampowered.com?l=koreana](https://store.steampowered.com?l=koreana)
+- [https://store.steampowered.com?l=swedish](https://store.steampowered.com?l=swedish)
+- [https://store.steampowered.com?l=turkish](https://store.steampowered.com?l=turkish)
+- [https://store.steampowered.com?l=ukrainian](https://store.steampowered.com?l=ukrainian)
+- [https://store.steampowered.com?l=vietnamese](https://store.steampowered.com?l=vietnamese)
+- [https://store.steampowered.com?l=tchinese](https://store.steampowered.com?l=tchinese)
+- [https://store.steampowered.com?l=schinese](https://store.steampowered.com?l=schinese)
+- [https://store.steampowered.com?l=japanese](https://store.steampowered.com?l=japanese)
+- [https://store.steampowered.com?l=thai](https://store.steampowered.com?l=thai)
+- [https://store.steampowered.com?l=bulgarian](https://store.steampowered.com?l=bulgarian)
+- [https://store.steampowered.com?l=czech](https://store.steampowered.com?l=czech)
+- [https://store.steampowered.com?l=danish](https://store.steampowered.com?l=danish)
+- [https://store.steampowered.com?l=german](https://store.steampowered.com?l=german)
 
 ## Brand Guidelines
 

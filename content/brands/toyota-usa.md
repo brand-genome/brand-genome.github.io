@@ -2,7 +2,7 @@
 title: Toyota USA
 slug: "toyota-usa"
 description: ""
-date: "2026-03-13T09:22:55.166668"
+date: "2026-03-20T08:22:05.868312"
 draft: false
 sectors:
   - automobile
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
-  - lockup
   - signature
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: Distributor
 wikidata_url: "https://www.wikidata.org/wiki/Q7830838"
 has_twitter: false
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pressroom.toyota.com/](https://pressroom.toyota.com/)
-- [https://www.toyota.com/](https://www.toyota.com/)
+- [https://www.toyota.com](https://www.toyota.com)
+- [https://pressroom.toyota.com](https://pressroom.toyota.com)
+- [http://www.toyota.com](http://www.toyota.com)
 
 ## Brand Guidelines
 

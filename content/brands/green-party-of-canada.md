@@ -2,7 +2,7 @@
 title: Green party of Canada
 slug: "green-party-of-canada"
 description: ""
-date: "2026-03-13T09:22:52.132926"
+date: "2026-03-20T08:22:03.196049"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +49,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
-  - arial
-  - helvetica
   - "sans-serif"
+  - helvetica
+  - arial
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.greenparty.ca](http://www.greenparty.ca)
 - [https://www.greenparty.ca/en](https://www.greenparty.ca/en)
 - [https://www.greenparty.ca/fr](https://www.greenparty.ca/fr)
+- [http://www.greenparty.ca](http://www.greenparty.ca)
 
 ## Brand Guidelines
 

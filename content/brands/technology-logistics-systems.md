@@ -2,7 +2,7 @@
 title: Technology Logistics Systems
 slug: "technology-logistics-systems"
 description: ""
-date: "2026-03-13T09:22:53.496399"
+date: "2026-03-20T08:22:04.392637"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,8 +47,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tls-russia.ru/](https://tls-russia.ru/)
+- [https://tls-russia.ru](https://tls-russia.ru)
 
 ## Brand Guidelines
 

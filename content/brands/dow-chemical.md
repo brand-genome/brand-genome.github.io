@@ -2,7 +2,7 @@
 title: Dow Chemical
 slug: "dow-chemical"
 description: ""
-date: "2026-03-13T09:22:53.432242"
+date: "2026-03-20T08:22:04.335620"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,15 +28,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "calcium-chloride"
   - plastic
   - "ethylene-oxide"
-  - "calcium-chloride"
 products: []
 headquarters_locations:
   - midland
 subsidiaries: []
 foundation_dates:
   - 1897
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,27 +57,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
-  - secondary
   - abstract
+  - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
-  - serif
   - arial
   - times
+  - serif
 imagery_styles:
-  - macro
-  - abstract
-  - dynamic
-  - clean
   - product
+  - dynamic
+  - abstract
+  - macro
+  - clean
   - gradient
 wikidata_description: American chemical company
 wikidata_url: "https://www.wikidata.org/wiki/Q855639"
@@ -88,7 +90,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dow.com/](https://www.dow.com/)
+- [https://www.dow.com](https://www.dow.com)
+- [http://www.dow.com](http://www.dow.com)
 
 ## Brand Guidelines
 
@@ -181,7 +184,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Plastic](/products_or_materials_produced/plastic/); [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
+| Product Or Material Produced | [Calcium Chloride](/products_or_materials_produced/calcium-chloride/); [Plastic](/products_or_materials_produced/plastic/); [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/) |
 | Headquarters Location | [Midland](/headquarters_locations/midland/) |
 | Foundation Date | [1897](/foundation_dates/1897/) |
 | Stock Exchange | New York Stock Exchange, Tokyo Stock Exchange (until 2016-12-08) |

@@ -2,7 +2,7 @@
 title: Jacobsen
 slug: jacobsen
 description: ""
-date: "2026-03-13T09:22:54.419349"
+date: "2026-03-20T08:22:05.315446"
 draft: false
 sectors:
   - drink
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,28 +48,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
   - secondary
   - signature
   - horizontal
+  - primary
 brand_colors:
-  - yellow
-  - "pantone-185"
-  - black
   - red
-  - blue
-  - "pantone-9064"
   - green
+  - "pantone-185"
   - white
+  - blue
+  - yellow
+  - "pantone-9064"
   - brown
+  - black
 typographies:
   - display
 imagery_styles:
-  - vintage
-  - contemporary
-  - product
   - bold
+  - vintage
+  - product
+  - contemporary
 wikidata_description: beer brand
 wikidata_url: "https://www.wikidata.org/wiki/Q6119795"
 has_twitter: false
@@ -80,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://homeofcarlsberg.com/press/press-release-jacobsen/](https://homeofcarlsberg.com/press/press-release-jacobsen/)
-- [https://www.carlsberggroup.com/products/jacobsen/](https://www.carlsberggroup.com/products/jacobsen/)
+- [https://www.carlsberggroup.com/products/jacobsen](https://www.carlsberggroup.com/products/jacobsen)
+- [https://homeofcarlsberg.com/press/press-release-jacobsen](https://homeofcarlsberg.com/press/press-release-jacobsen)
 
 ## Brand Guidelines
 

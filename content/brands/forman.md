@@ -2,7 +2,7 @@
 title: Forman
 slug: forman
 description: ""
-date: "2026-03-13T09:22:53.439230"
+date: "2026-03-20T08:22:04.342836"
 draft: false
 sectors:
   - construction
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1864
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +51,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
 brand_colors:
   - "pantone-172"
   - white
@@ -58,9 +60,9 @@ brand_colors:
 typographies: []
 imagery_styles:
   - classic
-  - minimal
   - clean
   - modern
+  - minimal
 wikidata_description: "private university in Lahore, Pakistan"
 wikidata_url: "https://www.wikidata.org/wiki/Q3695416"
 has_twitter: false
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://forman-sgk.ru/](https://forman-sgk.ru/)
+- [https://forman-sgk.ru](https://forman-sgk.ru)
+- [http://www.fccollege.edu.pk](http://www.fccollege.edu.pk)
 
 ## Brand Guidelines
 

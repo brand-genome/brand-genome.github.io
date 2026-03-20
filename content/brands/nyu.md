@@ -2,7 +2,7 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-03-13T09:22:53.601318"
+date: "2026-03-20T08:22:04.466149"
 draft: false
 sectors:
   - education
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1831
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,20 +59,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
-  - primary
   - seal
+  - primary
   - secondary
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
+  - black
 typographies: []
 imagery_styles:
-  - natural
-  - candid
-  - clean
-  - photography
   - graphic
+  - natural
+  - photography
+  - clean
+  - candid
 wikidata_description: private university in New York City
 wikidata_url: "https://www.wikidata.org/wiki/Q49210"
 has_twitter: false
@@ -82,10 +84,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nyuad.nyu.edu/](https://nyuad.nyu.edu/)
-- [https://shanghai.nyu.edu/](https://shanghai.nyu.edu/)
-- [https://www.law.nyu.edu/](https://www.law.nyu.edu/)
-- [https://www.nyu.edu/](https://www.nyu.edu/)
+- [https://www.nyu.edu](https://www.nyu.edu)
+- [https://www.law.nyu.edu](https://www.law.nyu.edu)
+- [https://shanghai.nyu.edu](https://shanghai.nyu.edu)
+- [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+- [https://nyu.edu](https://nyu.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: SanDisk
 slug: sandisk
 description: ""
-date: "2026-03-13T09:22:55.143335"
+date: "2026-03-20T08:22:05.843329"
 draft: false
 sectors:
   - electronics
@@ -28,18 +28,20 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "computer-memory"
+  - "memory-card"
   - "solid-state-drive"
-  - "usb-flash-drive"
   - "portable-media-player"
   - "dynamic-random-access-memory"
   - "sim-card"
-  - "memory-card"
+  - "usb-flash-drive"
 products: []
 headquarters_locations:
   - milpitas
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://investor.sandisk.com/](https://investor.sandisk.com/)
-- [https://www.sandisk.com/](https://www.sandisk.com/)
+- [https://www.sandisk.com](https://www.sandisk.com)
 - [https://www.sandisk.com/support](https://www.sandisk.com/support)
+- [https://investor.sandisk.com](https://investor.sandisk.com)
+- [https://shop.sandisk.com](https://shop.sandisk.com)
 
 ## Brand Guidelines
 
@@ -90,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Computer Memory](/products_or_materials_produced/computer-memory/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/); [Portable Media Player](/products_or_materials_produced/portable-media-player/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Sim Card](/products_or_materials_produced/sim-card/); [Memory Card](/products_or_materials_produced/memory-card/) |
+| Product Or Material Produced | [Computer Memory](/products_or_materials_produced/computer-memory/); [Memory Card](/products_or_materials_produced/memory-card/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Portable Media Player](/products_or_materials_produced/portable-media-player/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Sim Card](/products_or_materials_produced/sim-card/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/) |
 | Headquarters Location | [Milpitas](/headquarters_locations/milpitas/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Stock Exchange | Nasdaq (from 2025-02-24) |

@@ -2,11 +2,11 @@
 title: "Banzai!"
 slug: banzai
 description: ""
-date: "2026-03-13T09:22:52.819343"
+date: "2026-03-20T08:22:03.831983"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://banzai.org/](https://banzai.org/)
+- [https://banzai.org](https://banzai.org)
 - [https://banzai.org/sponsors](https://banzai.org/sponsors)
-- [https://help.banzai.org/](https://help.banzai.org/)
+- [https://help.banzai.org](https://help.banzai.org)
 
 ## Brand Guidelines
 

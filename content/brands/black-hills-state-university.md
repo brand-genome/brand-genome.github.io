@@ -2,7 +2,7 @@
 title: Black Hills State University
 slug: "black-hills-state-university"
 description: ""
-date: "2026-03-13T09:22:53.326208"
+date: "2026-03-20T08:22:04.237253"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1883
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,10 +53,10 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
+  - horizontal
   - alternate
   - primary
   - mascot
-  - horizontal
 brand_colors:
   - green
   - yellow
@@ -71,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bhsu.edu/](https://www.bhsu.edu/)
+- [https://www.bhsu.edu](https://www.bhsu.edu)
 
 ## Brand Guidelines
 

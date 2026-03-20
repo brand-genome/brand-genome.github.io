@@ -2,11 +2,11 @@
 title: Fondos Europeos
 slug: "fondos-europeos"
 description: ""
-date: "2026-03-13T09:22:52.136098"
+date: "2026-03-20T08:22:03.199420"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - spain
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - horizontal
-  - symbol
 brand_colors:
   - gray
 typographies:
-  - serif
   - "source-sans"
+  - serif
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fondoseuropeos.gob.es/](https://fondoseuropeos.gob.es/)
+- [https://fondoseuropeos.gob.es](https://fondoseuropeos.gob.es)
 - [https://fondoseuropeos.gob.es/es-es/europasesiente](https://fondoseuropeos.gob.es/es-es/europasesiente)
-- [https://www.fondoseuropeos.hacienda.gob.es/](https://www.fondoseuropeos.hacienda.gob.es/)
+- [https://www.fondoseuropeos.hacienda.gob.es](https://www.fondoseuropeos.hacienda.gob.es)
 
 ## Brand Guidelines
 

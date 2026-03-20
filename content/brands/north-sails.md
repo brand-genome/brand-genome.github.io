@@ -2,11 +2,11 @@
 title: North Sails
 slug: "north-sails"
 description: ""
-date: "2026-03-13T09:22:53.342916"
+date: "2026-03-20T08:22:04.252311"
 draft: false
 sectors:
-  - fashion
   - sports
+  - fashion
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - sport
+  - marine
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +52,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - stacked
+  - secondary
+  - lockup
   - wordmark
   - primary
-  - stacked
-  - lockup
-  - secondary
+  - icon
 brand_colors:
   - black
   - white
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.northsails.com/](https://www.northsails.com/)
+- [https://www.northsails.com](https://www.northsails.com)
 - [https://www.northsails.com/en-us](https://www.northsails.com/en-us)
 
 ## Brand Guidelines

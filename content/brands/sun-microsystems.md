@@ -2,7 +2,7 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-03-13T09:22:54.307034"
+date: "2026-03-20T08:22:05.132463"
 draft: false
 sectors:
   - software
@@ -10,17 +10,17 @@ sectors:
 regions:
   - usa
 years:
-  - 2004
   - 2002
+  - 2004
 languages:
   - english
 tags:
-  - ambigram
   - software
+  - ambigram
   - technology
 industries:
-  - computing
   - "software-development"
+  - computing
 countries:
   - "united-states"
 revenue_buckets: []
@@ -34,14 +34,16 @@ market_cap_buckets: []
 products_or_materials_produced:
   - workstation
   - server
-  - "computer-hardware"
   - software
+  - "computer-hardware"
 products: []
 headquarters_locations:
   - "santa-clara"
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +64,9 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: defunct American computer hardware and software company
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.oracle.com/sun](https://www.oracle.com/sun)
 - [http://www.sun.com](http://www.sun.com)
-- [https://www.oracle.com/sun/](https://www.oracle.com/sun/)
+- [https://www.sun.com](https://www.sun.com)
 
 ## Brand Guidelines
 
@@ -116,7 +119,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Software](/products_or_materials_produced/software/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
 | Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |

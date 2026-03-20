@@ -2,7 +2,7 @@
 title: Green Party
 slug: "green-party"
 description: ""
-date: "2026-03-13T09:22:54.972420"
+date: "2026-03-20T08:22:05.703248"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,17 +47,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
+  - primary
 brand_colors:
   - green
   - white
 typographies: []
 imagery_styles:
-  - vibrant
-  - minimal
   - photography
   - graphic
+  - vibrant
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://greenparty.org.uk](https://greenparty.org.uk)
 - [http://www.carolinelucas.com](http://www.carolinelucas.com)
 - [http://www.greenparty.org.uk/brand.html](http://www.greenparty.org.uk/brand.html)
-- [https://greenparty.org.uk/](https://greenparty.org.uk/)
 
 ## Brand Guidelines
 

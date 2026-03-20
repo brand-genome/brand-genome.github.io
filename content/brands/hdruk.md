@@ -2,7 +2,7 @@
 title: HDRUK
 slug: hdruk
 description: ""
-date: "2026-03-13T09:22:53.654647"
+date: "2026-03-20T08:22:04.514554"
 draft: false
 sectors:
   - research
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://healthdatagateway.org/](https://healthdatagateway.org/)
-- [https://www.hdruk.ac.uk/](https://www.hdruk.ac.uk/)
+- [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk)
+- [https://healthdatagateway.org](https://healthdatagateway.org)
 
 ## Brand Guidelines
 

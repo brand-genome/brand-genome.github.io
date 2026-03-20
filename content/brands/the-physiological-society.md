@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-03-13T09:22:53.467816"
+date: "2026-03-20T08:22:04.369091"
 draft: false
 sectors:
-  - research
   - publishing
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - biology
   - science
+  - community
 industries: []
 countries:
   - "united-kingdom"
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,22 +56,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - abstract
   - wordmark
+  - primary
+  - abstract
 brand_colors:
-  - cyan
-  - black
-  - blue
   - green
   - white
+  - cyan
+  - blue
+  - black
 typographies:
   - arial
   - avenir
 imagery_styles:
-  - flat
   - abstract
+  - flat
 wikidata_description: learned society for physiologists in the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q7757011"
 has_twitter: false
@@ -81,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.physoc.org](https://www.physoc.org)
 - [https://physoc.onlinelibrary.wiley.com/journal/14697793](https://physoc.onlinelibrary.wiley.com/journal/14697793)
-- [https://www.physoc.org/](https://www.physoc.org/)
 
 ## Brand Guidelines
 

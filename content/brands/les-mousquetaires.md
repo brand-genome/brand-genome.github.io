@@ -2,11 +2,11 @@
 title: Les mousquetaires
 slug: "les-mousquetaires"
 description: ""
-date: "2026-03-13T09:22:53.515865"
+date: "2026-03-20T08:22:04.409837"
 draft: false
 sectors:
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - france
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://presse.mousquetaires.com/](https://presse.mousquetaires.com/)
-- [https://www.carrieres-mousquetaires.com/](https://www.carrieres-mousquetaires.com/)
-- [https://www.mousquetaires.com/](https://www.mousquetaires.com/)
+- [https://www.mousquetaires.com](https://www.mousquetaires.com)
+- [https://www.carrieres-mousquetaires.com](https://www.carrieres-mousquetaires.com)
+- [https://presse.mousquetaires.com](https://presse.mousquetaires.com)
+- [http://www.mousquetaires.com](http://www.mousquetaires.com)
 
 ## Brand Guidelines
 

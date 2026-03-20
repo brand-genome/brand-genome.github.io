@@ -2,11 +2,11 @@
 title: Bently Heritage
 slug: "bently-heritage"
 description: ""
-date: "2026-03-13T09:22:53.762938"
+date: "2026-03-20T08:22:04.720247"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
   - stacked
   - wordmark
+  - primary
+  - monogram
 brand_colors:
-  - black
   - white
   - "pantone-876"
+  - black
 typographies: []
 imagery_styles:
+  - bold
+  - product
   - photography
   - candid
-  - product
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mindenmill.com/](https://www.mindenmill.com/)
+- [https://www.mindenmill.com](https://www.mindenmill.com)
 
 ## Brand Guidelines
 

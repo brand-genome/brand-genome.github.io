@@ -2,7 +2,7 @@
 title: Kirusa
 slug: kirusa
 description: ""
-date: "2026-03-13T09:22:54.715076"
+date: "2026-03-20T08:22:05.514173"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - grey
-  - yellow
-  - black
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - black
 typographies:
-  - "proxima-nova"
   - arial
   - verdana
+  - "proxima-nova"
 imagery_styles:
   - product
   - gradient
@@ -76,10 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.kirusa.com/media-news/media-kit](http://www.kirusa.com/media-news/media-kit)
-- [https://kirusa.ai/](https://kirusa.ai/)
-- [https://kirusa.com/](https://kirusa.com/)
+- [https://kirusa.ai](https://kirusa.ai)
+- [https://kirusa.com](https://kirusa.com)
 - [https://www.kirusa.com/what-we-do/kirusa-konnect](https://www.kirusa.com/what-we-do/kirusa-konnect)
+- [http://www.kirusa.com/media-news/media-kit](http://www.kirusa.com/media-news/media-kit)
 
 ## Brand Guidelines
 

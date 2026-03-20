@@ -2,7 +2,7 @@
 title: Pennsylvania College of Technology
 slug: "pennsylvania-college-of-technology"
 description: ""
-date: "2026-03-13T09:22:53.707399"
+date: "2026-03-20T08:22:04.563153"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
   - abstract
-  - vertical
 brand_colors:
-  - grey
   - green
+  - grey
   - blue
 typographies:
-  - univers
   - impact
+  - univers
 imagery_styles:
-  - subtle
   - dynamic
-  - photography
   - abstract
-  - bold
   - graphic
+  - bold
+  - subtle
+  - photography
 wikidata_description: "public college in Williamsport, Pennsylvania"
 wikidata_url: "https://www.wikidata.org/wiki/Q15265909"
 has_twitter: false
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pct.edu/](https://www.pct.edu/)
+- [https://www.pct.edu](https://www.pct.edu)
+- [http://www.pct.edu](http://www.pct.edu)
 
 ## Brand Guidelines
 

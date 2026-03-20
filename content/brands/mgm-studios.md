@@ -2,7 +2,7 @@
 title: MGM Studios
 slug: "mgm-studios"
 description: ""
-date: "2026-03-13T09:22:52.024871"
+date: "2026-03-20T08:22:03.104077"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - art
+  - featured
   - entertainment
 industries:
   - "film-production"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,6 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mgm.com](https://www.mgm.com)
+- [https://mgm.com](https://mgm.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Science Foundation Ireland
 slug: "science-foundation-ireland"
 description: ""
-date: "2026-03-13T09:22:54.821442"
+date: "2026-03-20T08:22:05.584269"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - ireland
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sfi.ie](https://www.sfi.ie)
+- [https://www.researchireland.ie](https://www.researchireland.ie)
 - [http://www.sciencefoundationireland.ie](http://www.sciencefoundationireland.ie)
 - [http://www.smartfutures.ie](http://www.smartfutures.ie)
 - [http://www.sspc.ie](http://www.sspc.ie)
-- [https://www.researchireland.ie/](https://www.researchireland.ie/)
-- [https://www.sfi.ie/](https://www.sfi.ie/)
 
 ## Brand Guidelines
 

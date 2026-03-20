@@ -2,7 +2,7 @@
 title: Alliance Française
 slug: "alliance-francaise"
 description: ""
-date: "2026-03-13T09:22:55.095231"
+date: "2026-03-20T08:22:05.801033"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alliancefr.org/](https://www.alliancefr.org/)
+- [https://www.fondation-alliancefr.org](https://www.fondation-alliancefr.org)
+- [https://www.alliancefr.org](https://www.alliancefr.org)
 - [https://www.alliancefr.org/en](https://www.alliancefr.org/en)
-- [https://www.fondation-alliancefr.org/](https://www.fondation-alliancefr.org/)
 
 ## Brand Guidelines
 

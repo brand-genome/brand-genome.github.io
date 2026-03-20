@@ -2,11 +2,11 @@
 title: Avril
 slug: avril
 description: ""
-date: "2026-03-13T09:22:53.328869"
+date: "2026-03-20T08:22:04.239486"
 draft: false
 sectors:
-  - cosmetics
   - beauty
+  - cosmetics
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +50,25 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - gray
-  - black
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - black
 typographies:
-  - display
-  - playfair
   - gotham
   - lato
+  - playfair
+  - display
 imagery_styles:
+  - product
+  - minimal
+  - graphic
+  - bold
   - modern
   - natural
-  - lifestyle
-  - minimal
   - photography
-  - product
-  - bold
-  - graphic
+  - lifestyle
 wikidata_description: song by Yael Naim
 wikidata_url: "https://www.wikidata.org/wiki/Q62063468"
 has_twitter: false
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.avril-beaute.fr](https://www.avril-beaute.fr)
 - [http://www.avril-beaute.fr](http://www.avril-beaute.fr)
-- [https://www.avril-beaute.fr/](https://www.avril-beaute.fr/)
 
 ## Brand Guidelines
 

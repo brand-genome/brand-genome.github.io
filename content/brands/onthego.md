@@ -2,7 +2,7 @@
 title: OnTheGo
 slug: onthego
 description: ""
-date: "2026-03-13T09:22:54.742479"
+date: "2026-03-20T08:22:05.538546"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - alternate
-  - symbol
   - vertical
   - secondary
+  - symbol
+  - alternate
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - black
   - green
-  - white
   - gray
+  - white
+  - black
 typographies:
   - lato
   - roboto
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://onthegosports.com.au/](https://onthegosports.com.au/)
+- [https://onthegosports.com.au](https://onthegosports.com.au)
 
 ## Brand Guidelines
 

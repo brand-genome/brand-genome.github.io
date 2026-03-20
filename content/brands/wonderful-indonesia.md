@@ -2,7 +2,7 @@
 title: Wonderful Indonesia
 slug: "wonderful-indonesia"
 description: ""
-date: "2026-03-13T09:22:55.047075"
+date: "2026-03-20T08:22:05.748799"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - green
   - purple
+  - blue
   - gray
   - orange
   - pink
-  - blue
-  - green
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -67,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.indonesia.travel/](https://www.indonesia.travel/)
-- [https://www.indonesia.travel/au/en](https://www.indonesia.travel/au/en)
+- [https://www.indonesia.travel](https://www.indonesia.travel)
 - [https://www.indonesia.travel/gb/en](https://www.indonesia.travel/gb/en)
+- [https://www.indonesia.travel/au/en](https://www.indonesia.travel/au/en)
 
 ## Brand Guidelines
 

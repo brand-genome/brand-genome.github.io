@@ -2,11 +2,11 @@
 title: Sky West
 slug: "sky-west"
 description: ""
-date: "2026-03-13T09:22:55.142058"
+date: "2026-03-20T08:22:05.841809"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,15 +55,15 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
-  - "pantone-287"
   - red
-  - blue
   - green
+  - "pantone-287"
   - white
+  - blue
+  - black
 typographies:
-  - inter
   - impact
+  - inter
 imagery_styles:
   - graphic
 wikidata_description: American regional airline
@@ -75,7 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hopeair.ca/](https://hopeair.ca/)
+- [https://hopeair.ca](https://hopeair.ca)
+- [http://www.skywest.com](http://www.skywest.com)
+- [https://www.skywest.com](https://www.skywest.com)
 
 ## Brand Guidelines
 

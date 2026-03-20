@@ -2,7 +2,7 @@
 title: FilmBox
 slug: filmbox
 description: ""
-date: "2026-03-13T09:22:52.066042"
+date: "2026-03-20T08:22:03.131899"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.filmbox.com/](https://www.filmbox.com/)
-- [https://www.filmboxplus.com/](https://www.filmboxplus.com/)
+- [https://www.filmbox.com](https://www.filmbox.com)
+- [https://www.filmboxplus.com](https://www.filmboxplus.com)
+- [http://www.sledujfilmbox.cz](http://www.sledujfilmbox.cz)
+- [https://www.spiintl.com/channels/filmbox](https://www.spiintl.com/channels/filmbox)
 
 ## Brand Guidelines
 

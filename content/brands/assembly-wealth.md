@@ -2,7 +2,7 @@
 title: Assembly Wealth
 slug: "assembly-wealth"
 description: ""
-date: "2026-03-13T09:22:52.226045"
+date: "2026-03-20T08:22:03.291727"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - cyan
+  - green
   - navy
+  - white
+  - cyan
+  - blue
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies:
-  - poppins
   - oswald
+  - poppins
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.letsassemble.com](https://www.letsassemble.com)
 - [http://www.letsassemble.com](http://www.letsassemble.com)
-- [https://www.letsassemble.com/](https://www.letsassemble.com/)
 
 ## Brand Guidelines
 

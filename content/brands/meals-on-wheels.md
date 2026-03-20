@@ -2,7 +2,7 @@
 title: Meals on Wheels
 slug: "meals-on-wheels"
 description: ""
-date: "2026-03-13T09:22:53.770463"
+date: "2026-03-20T08:22:04.723109"
 draft: false
 sectors:
   - food
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - "food-beverage"
+  - social
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,7 @@ headquarters_locations:
   - "san-diego"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,17 +56,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-3115"
-  - gray
   - "pantone-302"
+  - gray
   - navy
+  - "pantone-3115"
 typographies:
   - "sans-serif"
 imagery_styles:
   - dynamic
-  - photography
   - natural
   - geometric
+  - photography
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54619895"
 has_twitter: false
@@ -77,9 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mealsonwheels-ottawa.org/](https://www.mealsonwheels-ottawa.org/)
-- [https://www.mealsonwheels.ca/](https://www.mealsonwheels.ca/)
-- [https://www.mealsonwheels.com/](https://www.mealsonwheels.com/)
+- [https://www.mealsonwheels.ca](https://www.mealsonwheels.ca)
+- [https://www.mealsonwheels.com](https://www.mealsonwheels.com)
+- [https://www.mealsonwheels-ottawa.org](https://www.mealsonwheels-ottawa.org)
+- [http://www.meals-on-wheels.org](http://www.meals-on-wheels.org)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: Comfy
 slug: comfy
 description: ""
-date: "2026-03-13T09:22:52.234065"
+date: "2026-03-20T08:22:03.296772"
 draft: false
 sectors:
-  - electronics
   - "e-commerce"
   - "consumer-goods"
+  - electronics
   - "home-appliances"
 regions:
   - ukraine
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://comfy.ua/](https://comfy.ua/)
-- [https://comfy.ua/ua/](https://comfy.ua/ua/)
+- [https://comfy.ua](https://comfy.ua)
+- [https://comfy.ua/ua](https://comfy.ua/ua)
 
 ## Brand Guidelines
 

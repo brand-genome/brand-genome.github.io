@@ -2,7 +2,7 @@
 title: Gruyère Énergie
 slug: "gruyere-energie"
 description: ""
-date: "2026-03-13T09:22:55.028729"
+date: "2026-03-20T08:22:05.732188"
 draft: false
 sectors:
   - utilities
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gruyere-energie.ch/](https://www.gruyere-energie.ch/)
+- [https://www.gruyere-energie.ch](https://www.gruyere-energie.ch)
 
 ## Brand Guidelines
 

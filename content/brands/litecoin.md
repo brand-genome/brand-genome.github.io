@@ -2,11 +2,11 @@
 title: Litecoin
 slug: litecoin
 description: ""
-date: "2026-03-13T09:22:54.227802"
+date: "2026-03-20T08:22:05.065278"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - ngo
+  - "blockchain-crypto"
 regions:
   - singapore
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - financial
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +51,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - icon
-  - stacked
   - secondary
 brand_colors:
-  - gray
   - silver
+  - gray
   - white
   - blue
 typographies: []
@@ -71,12 +73,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com](http://www.google.com)
-- [https://litecoin-foundation.org/](https://litecoin-foundation.org/)
-- [https://litecoin.com/](https://litecoin.com/)
+- [https://litecoin.org](https://litecoin.org)
+- [https://litecoin.com](https://litecoin.com)
 - [https://litecoin.com/litecoin-foundation](https://litecoin.com/litecoin-foundation)
-- [https://litecoin.org/](https://litecoin.org/)
-- [https://ltclabs.org/](https://ltclabs.org/)
+- [https://litecoin-foundation.org](https://litecoin-foundation.org)
+- [https://ltclabs.org](https://ltclabs.org)
+- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

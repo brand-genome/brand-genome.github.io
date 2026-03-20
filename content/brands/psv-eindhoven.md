@@ -2,7 +2,7 @@
 title: PSV Eindhoven
 slug: "psv-eindhoven"
 description: ""
-date: "2026-03-13T09:22:52.170677"
+date: "2026-03-20T08:22:03.235779"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - netherlands
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1913
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,23 +52,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
+  - lockup
   - primary
   - abstract
-  - lockup
+  - badge
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - "pantone-186"
+  - black
 typographies:
-  - serif
   - slab
   - impact
+  - serif
 imagery_styles:
-  - photography
-  - abstract
   - bold
+  - abstract
+  - photography
 wikidata_description: "sports club from Eindhoven, the Netherlands"
 wikidata_url: "https://www.wikidata.org/wiki/Q11938"
 has_twitter: false
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.PSV.NL](http://www.PSV.NL)
-- [https://www.psv.nl/](https://www.psv.nl/)
+- [https://www.psv.nl](https://www.psv.nl)
+- [http://www.psv.nl](http://www.psv.nl)
 
 ## Brand Guidelines
 

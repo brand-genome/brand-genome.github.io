@@ -2,11 +2,11 @@
 title: AFMB
 slug: afmb
 description: ""
-date: "2026-03-13T09:22:53.302413"
+date: "2026-03-20T08:22:04.221602"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - france
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
   - primary
+  - wordmark
 brand_colors:
-  - black
   - blue
   - orange
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: Beninese Islamic organization
 wikidata_url: "https://www.wikidata.org/wiki/Q115960078"
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://afmbd.org/](https://afmbd.org/)
+- [https://afmbd.org](https://afmbd.org)
 
 ## Brand Guidelines
 

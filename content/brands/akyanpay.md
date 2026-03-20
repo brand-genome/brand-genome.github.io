@@ -2,7 +2,7 @@
 title: Akyanpay
 slug: akyanpay
 description: ""
-date: "2026-03-13T09:22:53.279284"
+date: "2026-03-20T08:22:04.209310"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +48,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - lockup
   - secondary
+  - symbol
+  - lockup
+  - wordmark
+  - primary
 brand_colors: []
 typographies:
   - ubuntu
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://akyanpay.com/](https://akyanpay.com/)
-- [https://blog.akyanpay.com/](https://blog.akyanpay.com/)
+- [https://akyanpay.com](https://akyanpay.com)
+- [https://blog.akyanpay.com](https://blog.akyanpay.com)
 
 ## Brand Guidelines
 

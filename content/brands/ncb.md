@@ -2,7 +2,7 @@
 title: NCB
 slug: ncb
 description: ""
-date: "2026-03-13T09:22:54.356376"
+date: "2026-03-20T08:22:05.186933"
 draft: false
 sectors:
   - finance
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1949
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +50,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
+  - symbol
+  - primary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
   - monochrome
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alahli.com/](https://www.alahli.com/)
+- [https://www.alahli.com](https://www.alahli.com)
+- [https://www.ncb.com.hk](https://www.ncb.com.hk)
 
 ## Brand Guidelines
 

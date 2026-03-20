@@ -2,11 +2,11 @@
 title: IUCN
 slug: iucn
 description: ""
-date: "2026-03-13T09:22:54.337695"
+date: "2026-03-20T08:22:05.163601"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -34,14 +34,16 @@ total_equity_buckets:
   - "10M-100M"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "iucn-red-list-of-ecosystems"
   - "iucn-red-list"
+  - "iucn-red-list-of-ecosystems"
 products: []
 headquarters_locations:
   - gland
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,12 +76,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://engage.iucn.org/](https://engage.iucn.org/)
-- [https://iucnrle.org/](https://iucnrle.org/)
-- [https://iucnsos.org/](https://iucnsos.org/)
-- [https://iucnus.org/](https://iucnus.org/)
-- [https://nrl.iucnredlist.org/](https://nrl.iucnredlist.org/)
-- [https://www.iucn.org/](https://www.iucn.org/)
+- [https://www.iucn.org](https://www.iucn.org)
+- [https://iucnus.org](https://iucnus.org)
+- [https://engage.iucn.org](https://engage.iucn.org)
+- [https://iucnsos.org](https://iucnsos.org)
+- [https://iucnrle.org](https://iucnrle.org)
+- [https://nrl.iucnredlist.org](https://nrl.iucnredlist.org)
+- [https://iucn.org](https://iucn.org)
 
 ## Brand Guidelines
 
@@ -98,7 +101,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/); [Iucn Red List](/products_or_materials_produced/iucn-red-list/) |
+| Product Or Material Produced | [Iucn Red List](/products_or_materials_produced/iucn-red-list/); [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/) |
 | Headquarters Location | [Gland](/headquarters_locations/gland/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Image | IUCN-Headquarters.jpg |

@@ -2,7 +2,7 @@
 title: Deca
 slug: deca
 description: ""
-date: "2026-03-13T09:22:54.355364"
+date: "2026-03-20T08:22:05.185655"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - vertical
+  - horizontal
+  - secondary
 brand_colors:
   - silver
-  - black
-  - blue
   - gold
   - white
+  - blue
+  - black
 typographies:
-  - gotham
   - "source-sans"
+  - gotham
 imagery_styles:
   - bold
 wikidata_description: French cycling team
@@ -75,9 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DECA.ORG](http://www.DECA.ORG)
+- [https://www.deca.org](https://www.deca.org)
+- [http://www.deca.org](http://www.deca.org)
 - [http://www.shopdeca.org](http://www.shopdeca.org)
-- [https://www.deca.org/](https://www.deca.org/)
+- [https://decathlonag2rlamondialeteam.com](https://decathlonag2rlamondialeteam.com)
 
 ## Brand Guidelines
 

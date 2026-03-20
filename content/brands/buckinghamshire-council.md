@@ -2,7 +2,7 @@
 title: Buckinghamshire Council
 slug: "buckinghamshire-council"
 description: ""
-date: "2026-03-13T09:22:53.708495"
+date: "2026-03-20T08:22:04.564358"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2020
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +53,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - green
+  - teal
+  - white
+  - blue
   - indigo
   - orange
-  - teal
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: "local authority of Buckinghamshire, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q65052846"
 has_twitter: false
@@ -72,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.buckinghamshire.gov.uk](https://www.buckinghamshire.gov.uk)
 - [http://www.gov.uk](http://www.gov.uk)
-- [https://www.buckinghamshire.gov.uk/](https://www.buckinghamshire.gov.uk/)
 
 ## Brand Guidelines
 

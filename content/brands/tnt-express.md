@@ -2,7 +2,7 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-03-13T09:22:55.091250"
+date: "2026-03-20T08:22:05.796052"
 draft: false
 sectors:
   - "parcel-service"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,22 +57,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - arial
   - times
 imagery_styles:
+  - bold
+  - natural
   - photography
   - staged
-  - natural
-  - bold
 wikidata_description: International trademark owned by FedEx
 wikidata_url: "https://www.wikidata.org/wiki/Q1105744"
 has_twitter: false
@@ -82,8 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tnt.com/](https://www.tnt.com/)
+- [https://www.tnt.com](https://www.tnt.com)
 - [https://www.tnt.com/express/en_us/site/home.html](https://www.tnt.com/express/en_us/site/home.html)
+- [https://www.tnt.it](https://www.tnt.it)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: St Mary’s College of Maryland
 slug: "st-marys-college-of-maryland"
 description: ""
-date: "2026-03-13T09:22:54.985801"
+date: "2026-03-20T08:22:05.716057"
 draft: false
 sectors:
   - university
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://inside.smcm.edu/](https://inside.smcm.edu/)
-- [https://www.smcm.edu/](https://www.smcm.edu/)
+- [https://www.smcm.edu](https://www.smcm.edu)
+- [https://inside.smcm.edu](https://inside.smcm.edu)
 
 ## Brand Guidelines
 

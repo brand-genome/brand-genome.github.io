@@ -2,11 +2,11 @@
 title: AES
 slug: aes
 description: ""
-date: "2026-03-13T09:22:53.305552"
+date: "2026-03-20T08:22:04.223061"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1981
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,19 +55,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - blue
   - white
   - violet
+  - blue
 typographies:
-  - roboto
   - script
+  - roboto
 imagery_styles:
-  - photography
-  - vibrant
   - dynamic
+  - bold
+  - photography
   - clean
   - gradient
-  - bold
+  - vibrant
 wikidata_description: American utility and power company
 wikidata_url: "https://www.wikidata.org/wiki/Q291508"
 has_twitter: false
@@ -77,10 +79,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://aes.org/](https://aes.org/)
-- [https://aes.org/about/brand-assets/logos/](https://aes.org/about/brand-assets/logos/)
-- [https://www.aeseducationalfoundation.org/](https://www.aeseducationalfoundation.org/)
-- [https://www.aesstudents.org/](https://www.aesstudents.org/)
+- [https://aes.org](https://aes.org)
+- [https://aes.org/about/brand-assets/logos](https://aes.org/about/brand-assets/logos)
+- [https://www.aesstudents.org](https://www.aesstudents.org)
+- [https://www.aeseducationalfoundation.org](https://www.aeseducationalfoundation.org)
+- [http://www.aes.com](http://www.aes.com)
+- [https://www.aes.com](https://www.aes.com)
 
 ## Brand Guidelines
 

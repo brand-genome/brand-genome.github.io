@@ -2,7 +2,7 @@
 title: World Meteorological Organization
 slug: "world-meteorological-organization"
 description: ""
-date: "2026-03-13T09:22:54.050931"
+date: "2026-03-20T08:22:04.903043"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1950
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,18 +54,18 @@ body_sections: []
 logo_elements:
   - abstract
 brand_colors:
+  - green
   - "pantone-196"
-  - "pantone-108"
   - "pantone-368"
   - yellow
   - pink
-  - green
+  - "pantone-108"
 typographies:
   - verdana
 imagery_styles:
+  - abstract
   - photography
   - contemporary
-  - abstract
 wikidata_description: specialized agency of the United Nations for meteorology
 wikidata_url: "https://www.wikidata.org/wiki/Q170424"
 has_twitter: false
@@ -75,10 +77,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.wmo.int](http://www.wmo.int)
-- [https://cloudatlas.wmo.int](https://cloudatlas.wmo.int)
-- [https://public.wmo.int/en](https://public.wmo.int/en)
 - [https://wmo.int](https://wmo.int)
+- [https://public.wmo.int/en](https://public.wmo.int/en)
+- [https://cloudatlas.wmo.int](https://cloudatlas.wmo.int)
+- [http://www.wmo.int](http://www.wmo.int)
+- [https://public.wmo.int/fr](https://public.wmo.int/fr)
+- [https://public.wmo.int/es](https://public.wmo.int/es)
+- [https://public.wmo.int/ru](https://public.wmo.int/ru)
+- [https://public.wmo.int/ar](https://public.wmo.int/ar)
+- [https://public.wmo.int/zh-hans](https://public.wmo.int/zh-hans)
 
 ## Brand Guidelines
 

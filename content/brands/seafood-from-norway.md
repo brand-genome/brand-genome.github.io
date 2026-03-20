@@ -2,7 +2,7 @@
 title: Seafood from Norway
 slug: "seafood-from-norway"
 description: ""
-date: "2026-03-13T09:22:54.344865"
+date: "2026-03-20T08:22:05.173174"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies:
   - serif
 imagery_styles:
-  - natural
-  - clean
-  - portrait
-  - photography
   - professional
   - bold
+  - portrait
+  - natural
+  - photography
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fromnorway.com/](https://www.fromnorway.com/)
-- [https://www.norwegianseafoodcouncil.com/](https://www.norwegianseafoodcouncil.com/)
-- [https://www.seafoodfromnorway.me/](https://www.seafoodfromnorway.me/)
-- [https://www.seafoodfromnorway.us/](https://www.seafoodfromnorway.us/)
+- [https://www.fromnorway.com](https://www.fromnorway.com)
+- [https://www.seafoodfromnorway.us](https://www.seafoodfromnorway.us)
+- [https://www.seafoodfromnorway.me](https://www.seafoodfromnorway.me)
+- [https://www.norwegianseafoodcouncil.com](https://www.norwegianseafoodcouncil.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: FFBB
 slug: ffbb
 description: ""
-date: "2026-03-13T09:22:54.821025"
+date: "2026-03-20T08:22:05.583714"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1932
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ffbb.com/](https://www.ffbb.com/)
+- [https://www.ffbb.com](https://www.ffbb.com)
+- [http://www.ffbb.com](http://www.ffbb.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Dole Soft Serve
 slug: "dole-soft-serve"
 description: ""
-date: "2026-03-13T09:22:53.425527"
+date: "2026-03-20T08:22:04.328789"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,20 +47,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - black
   - yellow
   - blue
+  - black
 typographies:
   - lato
 imagery_styles:
-  - photography
+  - organic
   - product
   - natural
-  - organic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dolesoftserve.com/](https://www.dolesoftserve.com/)
-- [https://www.precisionfoods.com/](https://www.precisionfoods.com/)
+- [https://www.dolesoftserve.com](https://www.dolesoftserve.com)
+- [https://www.precisionfoods.com](https://www.precisionfoods.com)
 
 ## Brand Guidelines
 

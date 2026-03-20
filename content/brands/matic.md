@@ -2,12 +2,12 @@
 title: Matic
 slug: matic
 description: ""
-date: "2026-03-13T09:22:53.939294"
+date: "2026-03-20T08:22:04.865127"
 draft: false
 sectors:
-  - software
-  - finance
   - insurance
+  - finance
+  - software
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1826
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - secondary
   - logomark
+  - horizontal
+  - lockup
   - wordmark
   - primary
-  - vertical
-  - lockup
-  - secondary
-  - horizontal
 brand_colors:
   - green
   - blue
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://matic.com/](https://matic.com/)
+- [https://matic.com](https://matic.com)
+- [http://www.maticasrpska.org.rs](http://www.maticasrpska.org.rs)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Edinburgh Napier University
 slug: "edinburgh-napier-university"
 description: ""
-date: "2026-03-13T09:22:54.213136"
+date: "2026-03-20T08:22:05.040912"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.napier.ac.uk](https://www.napier.ac.uk)
 - [http://www.youtube.com/EdinburghNapierUni](http://www.youtube.com/EdinburghNapierUni)
-- [https://www.napier.ac.uk/](https://www.napier.ac.uk/)
 
 ## Brand Guidelines
 

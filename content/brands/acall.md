@@ -2,7 +2,7 @@
 title: ACALL
 slug: acall
 description: ""
-date: "2026-03-13T09:22:53.428364"
+date: "2026-03-20T08:22:04.331479"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,13 +47,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
-  - horizontal
+  - symbol
   - primary
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.acall.inc/](https://www.acall.inc/)
+- [https://www.acall.inc](https://www.acall.inc)
 
 ## Brand Guidelines
 

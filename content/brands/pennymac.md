@@ -2,11 +2,11 @@
 title: PennyMac
 slug: pennymac
 description: ""
-date: "2026-03-13T09:22:53.255833"
+date: "2026-03-20T08:22:04.181506"
 draft: false
 sectors:
-  - finance
   - "real-estate"
+  - finance
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - "real-estate"
+  - financial
 industries:
   - "mortgage-loan"
 countries: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - lockup
+  - primary
 brand_colors:
+  - white
   - cyan
+  - blue
   - yellow
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: American residential mortgage company
@@ -73,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pfsi.pennymac.com/home/default.aspx](https://pfsi.pennymac.com/home/default.aspx)
-- [https://pmt.pennymac.com/](https://pmt.pennymac.com/)
-- [https://www.pennymac.com/](https://www.pennymac.com/)
+- [https://www.pennymac.com](https://www.pennymac.com)
 - [https://www.pennymac.com/my-account](https://www.pennymac.com/my-account)
+- [https://pfsi.pennymac.com/home/default.aspx](https://pfsi.pennymac.com/home/default.aspx)
+- [https://pmt.pennymac.com](https://pmt.pennymac.com)
+- [http://www.pennymacusa.com](http://www.pennymacusa.com)
 
 ## Brand Guidelines
 

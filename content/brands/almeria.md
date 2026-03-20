@@ -2,7 +2,7 @@
 title: Almería
 slug: almeria
 description: ""
-date: "2026-03-13T09:22:53.937138"
+date: "2026-03-20T08:22:04.859194"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - horizontal
   - wordmark
+  - primary
+  - horizontal
 brand_colors:
-  - yellow
-  - black
-  - "pantone-123"
   - red
   - "pantone-485"
+  - "pantone-123"
   - white
+  - yellow
+  - black
 typographies:
-  - display
   - helvetica
   - arial
+  - display
   - roboto
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,10 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://almeriaciudad.es](https://almeriaciudad.es)
+- [https://www.turismodealmeria.org](https://www.turismodealmeria.org)
+- [https://www.turismodealmeria.org/en](https://www.turismodealmeria.org/en)
 - [http://www.google.com](http://www.google.com)
-- [https://almeriaciudad.es/](https://almeriaciudad.es/)
-- [https://www.turismodealmeria.org/](https://www.turismodealmeria.org/)
-- [https://www.turismodealmeria.org/en/](https://www.turismodealmeria.org/en/)
 
 ## Brand Guidelines
 

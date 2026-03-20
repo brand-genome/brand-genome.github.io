@@ -2,20 +2,20 @@
 title: Olympic
 slug: olympic
 description: ""
-date: "2026-03-13T09:22:52.330962"
+date: "2026-03-20T08:22:03.399277"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2022
   - 2023
+  - 2022
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries:
   - "sports-club-activities"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1899
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://olympics.com/](https://olympics.com/)
+- [https://olympics.com](https://olympics.com)
 - [https://olympics.com/en/olympic-channel](https://olympics.com/en/olympic-channel)
-- [https://www.ioc.org/](https://www.ioc.org/)
+- [https://www.ioc.org](https://www.ioc.org)
+- [https://www.om.fr](https://www.om.fr)
+- [https://www.om.fr/en](https://www.om.fr/en)
 
 ## Brand Guidelines
 

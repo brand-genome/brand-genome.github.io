@@ -2,7 +2,7 @@
 title: Handelens Miljofond
 slug: "handelens-miljofond"
 description: ""
-date: "2026-03-13T09:22:54.078772"
+date: "2026-03-20T08:22:04.924762"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.handelensmiljofond.no](https://www.handelensmiljofond.no)
+- [https://handelensmiljofond.no](https://handelensmiljofond.no)
+- [https://handelensmiljofond.no/en](https://handelensmiljofond.no/en)
 
 ## Brand Guidelines
 

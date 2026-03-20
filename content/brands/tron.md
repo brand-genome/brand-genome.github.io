@@ -2,7 +2,7 @@
 title: Tron
 slug: tron
 description: ""
-date: "2026-03-13T09:22:53.662310"
+date: "2026-03-20T08:22:04.520125"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tron.network/](https://tron.network/)
-- [https://trondao.org/](https://trondao.org/)
+- [https://tron.network](https://tron.network)
+- [https://trondao.org](https://trondao.org)
 
 ## Brand Guidelines
 

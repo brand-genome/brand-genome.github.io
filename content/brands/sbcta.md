@@ -2,7 +2,7 @@
 title: SBCTA
 slug: sbcta
 description: ""
-date: "2026-03-13T09:22:53.763257"
+date: "2026-03-20T08:22:04.720527"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,9 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
   - black
   - green
@@ -60,8 +61,8 @@ typographies:
 imagery_styles:
   - clean
   - modern
-  - professional
   - graphic
+  - professional
 wikidata_description: successor to San Bernardino Associated Governments
 wikidata_url: "https://www.wikidata.org/wiki/Q86750373"
 has_twitter: false
@@ -73,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gosbcta.com/](https://www.gosbcta.com/)
+- [https://www.gosbcta.com](https://www.gosbcta.com)
+- [https://gosbcta.com](https://gosbcta.com)
 
 ## Brand Guidelines
 

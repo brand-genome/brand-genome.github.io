@@ -2,7 +2,7 @@
 title: Adami
 slug: adami
 description: ""
-date: "2026-03-13T09:22:53.280280"
+date: "2026-03-20T08:22:04.210129"
 draft: false
 sectors:
   - "arts-culture"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1955
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,12 +53,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - horizontal
-  - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.adami.fr/](https://www.adami.fr/)
-- [https://www.adami.fr/en/](https://www.adami.fr/en/)
+- [https://www.adami.fr](https://www.adami.fr)
+- [https://www.adami.fr/en](https://www.adami.fr/en)
+- [http://www.adami.fr](http://www.adami.fr)
 
 ## Brand Guidelines
 

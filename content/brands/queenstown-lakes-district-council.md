@@ -2,12 +2,12 @@
 title: Queenstown Lakes District Council
 slug: "queenstown-lakes-district-council"
 description: ""
-date: "2026-03-13T09:22:53.336404"
+date: "2026-03-20T08:22:04.246068"
 draft: false
 sectors:
-  - "public-transportation"
-  - utilities
   - "public-sector"
+  - utilities
+  - "public-transportation"
 regions:
   - "new-zealand"
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +52,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -68,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.qldc.govt.nz](https://www.qldc.govt.nz)
 - [http://www.govt.nz](http://www.govt.nz)
-- [https://www.qldc.govt.nz/](https://www.qldc.govt.nz/)
+- [http://www.qldc.govt.nz](http://www.qldc.govt.nz)
 
 ## Brand Guidelines
 

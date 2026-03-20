@@ -2,7 +2,7 @@
 title: La Plagne
 slug: "la-plagne"
 description: ""
-date: "2026-03-13T09:22:53.396245"
+date: "2026-03-20T08:22:04.299627"
 draft: false
 sectors:
   - hospitality
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - futura
 imagery_styles:
@@ -70,14 +71,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.la-plagne.com](https://www.la-plagne.com)
+- [https://paradiski.com](https://paradiski.com)
 - [http://www.champagny.com](http://www.champagny.com)
 - [http://www.esfplagneaime2000.com](http://www.esfplagneaime2000.com)
 - [http://www.la-plagne.com](http://www.la-plagne.com)
 - [http://www.montalbert.com](http://www.montalbert.com)
 - [http://www.montchavin-la-plagne.com](http://www.montchavin-la-plagne.com)
 - [http://www.raquette.net](http://www.raquette.net)
-- [https://paradiski.com/](https://paradiski.com/)
-- [https://www.la-plagne.com/](https://www.la-plagne.com/)
 
 ## Brand Guidelines
 

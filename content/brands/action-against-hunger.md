@@ -2,11 +2,11 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-03-13T09:22:53.605436"
+date: "2026-03-20T08:22:04.470710"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -33,11 +33,13 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - paris
-  - toronto
   - "new-york-city"
+  - toronto
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,16 +62,16 @@ logo_elements:
   - primary
 brand_colors:
   - green
-  - blue
-  - grey
   - orange
+  - grey
+  - blue
 typographies:
-  - lato
   - futura
+  - lato
 imagery_styles:
+  - bold
   - photography
   - serious
-  - bold
 wikidata_description: French global humanitarian aid organization
 wikidata_url: "https://www.wikidata.org/wiki/Q343624"
 has_twitter: false
@@ -81,8 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.actionagainsthunger.org/](https://www.actionagainsthunger.org/)
-- [https://www.actioncontrelafaim.org/en/](https://www.actioncontrelafaim.org/en/)
+- [https://www.actioncontrelafaim.org/en](https://www.actioncontrelafaim.org/en)
+- [https://www.actionagainsthunger.org](https://www.actionagainsthunger.org)
+- [https://www.accioncontraelhambre.org/es](https://www.accioncontraelhambre.org/es)
+- [https://www.actioncontrelafaim.org](https://www.actioncontrelafaim.org)
 
 ## Brand Guidelines
 
@@ -133,7 +137,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [Toronto](/headquarters_locations/toronto/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [New York City](/headquarters_locations/new-york-city/); [Toronto](/headquarters_locations/toronto/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Freebase Id | /m/0zmk |
 | Inception | 1979 |

@@ -2,7 +2,7 @@
 title: Kolping
 slug: kolping
 description: ""
-date: "2026-03-13T09:22:53.969411"
+date: "2026-03-20T08:22:04.895200"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1850
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,13 +64,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kolping.de](https://www.kolping.de)
+- [https://www.kolping-shop.eu](https://www.kolping-shop.eu)
 - [http://www.gasthaus-handwerk.de](http://www.gasthaus-handwerk.de)
 - [http://www.kolping-stiftung-schweinfurt.de](http://www.kolping-stiftung-schweinfurt.de)
 - [http://www.kolping.de](http://www.kolping.de)
 - [http://www.kolpinghotel-schweinfurt.de](http://www.kolpinghotel-schweinfurt.de)
 - [http://www.kolpingsfamilie-schweinfurt.de](http://www.kolpingsfamilie-schweinfurt.de)
-- [https://www.kolping-shop.eu/](https://www.kolping-shop.eu/)
-- [https://www.kolping.de/](https://www.kolping.de/)
 
 ## Brand Guidelines
 

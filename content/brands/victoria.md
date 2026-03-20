@@ -2,7 +2,7 @@
 title: Victoria
 slug: victoria
 description: ""
-date: "2026-03-13T09:22:54.822512"
+date: "2026-03-20T08:22:05.585013"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.visitvictoria.com/](https://corporate.visitvictoria.com/)
-- [https://www.vic.gov.au/](https://www.vic.gov.au/)
 - [https://www.vic.gov.au/brand-victoria-guidelines](https://www.vic.gov.au/brand-victoria-guidelines)
-- [https://www.visitvictoria.com/](https://www.visitvictoria.com/)
+- [https://www.vic.gov.au](https://www.vic.gov.au)
+- [https://www.visitvictoria.com](https://www.visitvictoria.com)
+- [https://corporate.visitvictoria.com](https://corporate.visitvictoria.com)
 
 ## Brand Guidelines
 

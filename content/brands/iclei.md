@@ -2,7 +2,7 @@
 title: ICLEI
 slug: iclei
 description: ""
-date: "2026-03-13T09:22:53.294101"
+date: "2026-03-20T08:22:04.218178"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ headquarters_locations:
   - denver
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - favicon
   - secondary
   - horizontal
+  - primary
+  - favicon
 brand_colors:
-  - grey
-  - yellow
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - black
 typographies:
   - arial
   - verdana
@@ -76,11 +77,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/get/noto/](http://www.google.com/get/noto/)
+- [https://iclei.org](https://iclei.org)
+- [https://icleiusa.org](https://icleiusa.org)
+- [https://worldcongress.iclei.org](https://worldcongress.iclei.org)
+- [http://www.google.com/get/noto](http://www.google.com/get/noto)
 - [http://www.iclei.org/webinar](http://www.iclei.org/webinar)
-- [https://iclei.org/](https://iclei.org/)
-- [https://icleiusa.org/](https://icleiusa.org/)
-- [https://worldcongress.iclei.org/](https://worldcongress.iclei.org/)
+- [http://icleiusa.org](http://icleiusa.org)
 
 ## Brand Guidelines
 

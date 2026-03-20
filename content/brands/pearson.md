@@ -2,11 +2,11 @@
 title: Pearson
 slug: pearson
 description: ""
-date: "2026-03-13T09:22:55.168128"
+date: "2026-03-20T08:22:05.870410"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1974
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://home.pearsonvue.com/](https://home.pearsonvue.com/)
-- [https://www.pearson.com/](https://www.pearson.com/)
+- [https://www.pearson.com](https://www.pearson.com)
+- [https://home.pearsonvue.com](https://home.pearsonvue.com)
+- [https://www.pearsoncollege.ca](https://www.pearsoncollege.ca)
+- [http://www.pearsoncollege.ca](http://www.pearsoncollege.ca)
 
 ## Brand Guidelines
 

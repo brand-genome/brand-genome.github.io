@@ -2,7 +2,7 @@
 title: Dott
 slug: dott
 description: ""
-date: "2026-03-13T09:22:53.321261"
+date: "2026-03-20T08:22:04.232182"
 draft: false
 sectors:
   - "ride-sharing"
@@ -31,6 +31,7 @@ headquarters_locations:
   - amsterdam
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - grey
-  - yellow
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
-  - illustration
   - organic
   - graphic
+  - illustration
+  - vibrant
 wikidata_description: electric bicycle and scooter rental company
 wikidata_url: "https://www.wikidata.org/wiki/Q107463014"
 has_twitter: false

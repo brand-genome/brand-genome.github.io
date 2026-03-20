@@ -2,7 +2,7 @@
 title: Pressreader
 slug: pressreader
 description: ""
-date: "2026-03-13T09:22:54.807706"
+date: "2026-03-20T08:22:05.576999"
 draft: false
 sectors:
   - software
@@ -10,16 +10,16 @@ sectors:
 regions:
   - canada
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
-  - "software-industry"
   - journalism
+  - "software-industry"
 countries:
   - canada
 revenue_buckets: []
@@ -37,6 +37,7 @@ headquarters_locations:
   - richmond
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,21 +56,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
   - "app-icon"
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - black
   - green
   - gray
+  - black
 typographies: []
 imagery_styles:
-  - vibrant
-  - monochrome
-  - modern
   - bold
+  - modern
+  - monochrome
+  - vibrant
 wikidata_description: digital newspaper distribution and technology company based in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q6041620"
 has_twitter: false
@@ -81,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pressreader.com/](https://www.pressreader.com/)
+- [https://www.pressreader.com](https://www.pressreader.com)
 
 ## Brand Guidelines
 

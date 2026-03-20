@@ -2,7 +2,7 @@
 title: SalesForce
 slug: salesforce
 description: ""
-date: "2026-03-13T09:22:53.425929"
+date: "2026-03-20T08:22:04.329207"
 draft: false
 sectors:
   - software
@@ -15,15 +15,15 @@ languages:
 tags:
   - software
 industries:
-  - "cloud-computing"
+  - analytics
+  - "software-industry"
+  - "customer-relationship-management"
+  - "intelligent-agent"
   - "software-as-a-service"
   - automation
-  - "customer-relationship-management"
-  - "email-marketing"
-  - analytics
   - "enterprise-software"
-  - "intelligent-agent"
-  - "software-industry"
+  - "cloud-computing"
+  - "email-marketing"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,34 +38,36 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "cloud-computing"
-  - heroku
-  - "software-as-a-service"
-  - "enterprise-software"
-  - "customer-relationship-management-software"
-  - "customer-data-platform"
-  - "order-management-system"
-  - "automation-technology"
   - analytics
-  - "ai-agent"
   - "integration-platform"
-  - "marketing-automation"
-  - "email-marketing"
+  - "customer-relationship-management-software"
+  - "order-management-system"
   - "e-commerce"
-  - "small-business-software"
-  - "b2b-e-commerce"
-  - "artificial-intelligence"
-  - "virtual-agent"
-  - "data-visualization-software"
-  - "intelligent-agent"
   - salesforce
+  - "intelligent-agent"
+  - "data-visualization-software"
+  - "software-as-a-service"
+  - "cloud-computing"
+  - "artificial-intelligence"
+  - "small-business-software"
+  - "customer-data-platform"
+  - "virtual-agent"
+  - "b2b-e-commerce"
+  - "marketing-automation"
+  - "ai-agent"
+  - "email-marketing"
+  - "enterprise-software"
+  - heroku
+  - "automation-technology"
 products: []
 headquarters_locations:
-  - "san-francisco"
   - "salesforce-tower"
+  - "san-francisco"
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -84,14 +86,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
+  - badge
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - product
   - static
+  - photography
 wikidata_description: "American cloud-based software company"
 wikidata_url: "https://www.wikidata.org/wiki/Q941127"
 has_twitter: false
@@ -103,11 +105,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://appexchange.salesforce.com/](https://appexchange.salesforce.com/)
-- [https://partners.salesforce.com/](https://partners.salesforce.com/)
-- [https://trailhead.salesforce.com/](https://trailhead.salesforce.com/)
-- [https://www.salesforce.com/](https://www.salesforce.com/)
-- [https://www.salesforce.com/partners/](https://www.salesforce.com/partners/)
+- [https://www.salesforce.com](https://www.salesforce.com)
+- [https://www.salesforce.com/partners](https://www.salesforce.com/partners)
+- [https://partners.salesforce.com](https://partners.salesforce.com)
+- [https://appexchange.salesforce.com](https://appexchange.salesforce.com)
+- [https://trailhead.salesforce.com](https://trailhead.salesforce.com)
+- [https://www.salesforce.com/form/other/privacy-request](https://www.salesforce.com/form/other/privacy-request)
 
 ## Brand Guidelines
 
@@ -149,8 +152,8 @@ Information about creating and updating your AppExchange listing can be found in
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Heroku](/products_or_materials_produced/heroku/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Enterprise Software](/products_or_materials_produced/enterprise-software/); [Customer Relationship Management Software](/products_or_materials_produced/customer-relationship-management-software/); [Customer Data Platform](/products_or_materials_produced/customer-data-platform/); [Order Management System](/products_or_materials_produced/order-management-system/); [Automation Technology](/products_or_materials_produced/automation-technology/); [Analytics](/products_or_materials_produced/analytics/); [Ai Agent](/products_or_materials_produced/ai-agent/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Marketing Automation](/products_or_materials_produced/marketing-automation/); +9 more |
-| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [Salesforce Tower](/headquarters_locations/salesforce-tower/) |
+| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Customer Relationship Management Software](/products_or_materials_produced/customer-relationship-management-software/); [Order Management System](/products_or_materials_produced/order-management-system/); [E Commerce](/products_or_materials_produced/e-commerce/); [Salesforce](/products_or_materials_produced/salesforce/); [Intelligent Agent](/products_or_materials_produced/intelligent-agent/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/); [Small Business Software](/products_or_materials_produced/small-business-software/); +9 more |
+| Headquarters Location | [Salesforce Tower](/headquarters_locations/salesforce-tower/); [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Freebase Id | /m/07btr5 |
 | Stock Exchange | New York Stock Exchange (from 2004-06-23) |

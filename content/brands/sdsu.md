@@ -2,7 +2,7 @@
 title: SDSU
 slug: sdsu
 description: ""
-date: "2026-03-13T09:22:53.276050"
+date: "2026-03-20T08:22:04.203643"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1897
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.SDSU.edu](http://www.SDSU.edu)
-- [https://brand.sdsu.edu/](https://brand.sdsu.edu/)
-- [https://www.sdsu.edu/](https://www.sdsu.edu/)
+- [https://www.sdsu.edu](https://www.sdsu.edu)
+- [https://brand.sdsu.edu](https://brand.sdsu.edu)
+- [http://www.sdsu.edu](http://www.sdsu.edu)
 
 ## Brand Guidelines
 

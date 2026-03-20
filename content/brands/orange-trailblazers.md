@@ -2,7 +2,7 @@
 title: Orange Trailblazers
 slug: "orange-trailblazers"
 description: ""
-date: "2026-03-13T09:22:53.248853"
+date: "2026-03-20T08:22:04.173977"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,14 +47,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - mascot
+  - primary
+  - secondary
 brand_colors:
+  - "pantone-021"
   - orange
   - "pantone-287"
-  - "pantone-021"
   - blue
 typographies:
   - "proxima-nova"
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ooms.olentangy.k12.oh.us/](https://ooms.olentangy.k12.oh.us/)
+- [https://ooms.olentangy.k12.oh.us](https://ooms.olentangy.k12.oh.us)
 
 ## Brand Guidelines
 

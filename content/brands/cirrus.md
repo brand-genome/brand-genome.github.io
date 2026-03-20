@@ -2,7 +2,7 @@
 title: Cirrus
 slug: cirrus
 description: ""
-date: "2026-03-13T09:22:52.978305"
+date: "2026-03-20T08:22:03.973726"
 draft: false
 sectors:
   - finance
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.mastercard.com/content/mccom/brandcenter/more-about-our-brands.html/](https://brand.mastercard.com/content/mccom/brandcenter/more-about-our-brands.html/)
+- [https://brand.mastercard.com/content/mccom/brandcenter/more-about-our-brands.html](https://brand.mastercard.com/content/mccom/brandcenter/more-about-our-brands.html)
 - [https://www.mastercard.com/atm/cobrands/index.html](https://www.mastercard.com/atm/cobrands/index.html)
 - [https://www.mastercard.com/car/en/personal/get-support/atm-near-me.html](https://www.mastercard.com/car/en/personal/get-support/atm-near-me.html)
+- [http://www.mastercardbrandcenter.com/us/moreabout/index.shtml](http://www.mastercardbrandcenter.com/us/moreabout/index.shtml)
 
 ## Brand Guidelines
 

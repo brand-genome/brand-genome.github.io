@@ -2,7 +2,7 @@
 title: FISU
 slug: fisu
 description: ""
-date: "2026-03-13T09:22:53.305065"
+date: "2026-03-20T08:22:04.222714"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - lato
 imagery_styles:
@@ -69,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fisu.net/](https://www.fisu.net/)
+- [https://www.fisu.net](https://www.fisu.net)
 
 ## Brand Guidelines
 

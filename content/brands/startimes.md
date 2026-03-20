@@ -2,7 +2,7 @@
 title: StarTimes
 slug: startimes
 description: ""
-date: "2026-03-13T09:22:53.496957"
+date: "2026-03-20T08:22:04.393265"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - media
   - broadcast
+  - media
 industries:
   - "information-and-communications-technology"
 countries: []
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
+  - symbol
 brand_colors: []
 typographies:
   - times
   - din
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: Chinese electronics and media company operating in Africa
 wikidata_url: "https://www.wikidata.org/wiki/Q33362176"
 has_twitter: false
@@ -71,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.startimes.com.cn/](https://www.startimes.com.cn/)
-- [https://www.startimes.com.cn/en/](https://www.startimes.com.cn/en/)
+- [https://www.startimes.com.cn](https://www.startimes.com.cn)
+- [https://www.startimes.com.cn/en](https://www.startimes.com.cn/en)
+- [https://startimestv.com](https://startimestv.com)
 
 ## Brand Guidelines
 

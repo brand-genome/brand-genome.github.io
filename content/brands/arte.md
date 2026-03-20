@@ -2,7 +2,7 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-03-13T09:22:53.695674"
+date: "2026-03-20T08:22:04.551468"
 draft: false
 sectors:
   - broadcasting
@@ -10,24 +10,24 @@ sectors:
 regions:
   - france
 years:
-  - 2017
   - 2016
   - 2008
+  - 2017
   - 2011
   - 2013
 languages:
-  - english
   - french
+  - english
 tags:
   - broadcast
-  - featured
   - media
-  - "social-networks"
   - mobile
+  - featured
+  - "social-networks"
 industries: []
 countries:
-  - germany
   - france
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -41,6 +41,7 @@ headquarters_locations:
   - strasbourg
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,15 +61,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - orange
   - white
+  - orange
   - blue
 typographies: []
 imagery_styles:
-  - monochrome
-  - illustration
-  - dynamic
   - bold
+  - dynamic
+  - illustration
+  - monochrome
 wikidata_description: "Franco-German television channel and network"
 wikidata_url: "https://www.wikidata.org/wiki/Q8073"
 has_twitter: false
@@ -80,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.arte.tv/](https://www.arte.tv/)
-- [https://www.arte.tv/fr/](https://www.arte.tv/fr/)
+- [https://www.arte.tv](https://www.arte.tv)
+- [https://www.arte.tv/fr](https://www.arte.tv/fr)
 
 ## Brand Guidelines
 

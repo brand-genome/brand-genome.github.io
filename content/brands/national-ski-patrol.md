@@ -2,12 +2,12 @@
 title: National Ski Patrol
 slug: "national-ski-patrol"
 description: ""
-date: "2026-03-13T09:22:53.966519"
+date: "2026-03-20T08:22:04.892213"
 draft: false
 sectors:
-  - education
   - sports
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1938
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://store.nsp.org/](https://store.nsp.org/)
-- [https://www.nsp.org/](https://www.nsp.org/)
+- [https://www.nsp.org](https://www.nsp.org)
+- [https://store.nsp.org](https://store.nsp.org)
+- [http://www.nsp.org](http://www.nsp.org)
 
 ## Brand Guidelines
 

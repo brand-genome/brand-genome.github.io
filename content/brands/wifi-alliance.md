@@ -2,16 +2,16 @@
 title: WiFi Alliance
 slug: "wifi-alliance"
 description: ""
-date: "2026-03-13T09:22:53.019018"
+date: "2026-03-20T08:22:04.010427"
 draft: false
 sectors:
-  - technology
   - networking
+  - technology
 regions:
   - usa
 years:
-  - 2009
   - 2023
+  - 2009
 languages:
   - english
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wi-fi.org/](https://www.wi-fi.org/)
+- [https://www.wi-fi.org](https://www.wi-fi.org)
 
 ## Brand Guidelines
 

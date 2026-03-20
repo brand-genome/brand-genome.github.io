@@ -2,11 +2,11 @@
 title: Public Relations Society of America
 slug: "public-relations-society-of-america"
 description: ""
-date: "2026-03-13T09:22:52.874746"
+date: "2026-03-20T08:22:03.870991"
 draft: false
 sectors:
-  - education
   - "public-relations"
+  - education
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.prsa.org](https://www.prsa.org)
+- [https://connect.prsa.org](https://connect.prsa.org)
 - [http://www.prsa.org](http://www.prsa.org)
-- [https://connect.prsa.org/](https://connect.prsa.org/)
-- [https://www.prsa.org/](https://www.prsa.org/)
 
 ## Brand Guidelines
 

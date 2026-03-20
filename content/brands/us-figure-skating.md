@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-03-13T09:22:53.694415"
+date: "2026-03-20T08:22:04.550461"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,29 +51,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - mascot
   - primary
   - secondary
-  - mascot
 brand_colors:
-  - "pantone-275"
-  - gray
-  - yellow
-  - "pantone-304"
-  - black
+  - red
   - "pantone-123"
   - green
-  - red
-  - blue
-  - "pantone-367"
   - "pantone-485"
+  - "pantone-367"
   - white
+  - blue
+  - "pantone-275"
+  - yellow
+  - gray
   - "pantone-428"
+  - "pantone-304"
+  - black
 typographies:
   - gotham
   - montserrat
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: national governing body for figure skating
 wikidata_url: "https://www.wikidata.org/wiki/Q4071524"
 has_twitter: false
@@ -83,9 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.leaveyourmark2026.com/](https://www.leaveyourmark2026.com/)
-- [https://www.usfigureskating.org/](https://www.usfigureskating.org/)
+- [https://www.usfigureskating.org](https://www.usfigureskating.org)
 - [https://www.usfigureskating.org/skate/learn-to-skate](https://www.usfigureskating.org/skate/learn-to-skate)
+- [https://www.leaveyourmark2026.com](https://www.leaveyourmark2026.com)
 
 ## Brand Guidelines
 

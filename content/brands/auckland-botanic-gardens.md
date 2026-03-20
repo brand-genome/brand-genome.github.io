@@ -2,11 +2,11 @@
 title: Auckland Botanic Gardens
 slug: "auckland-botanic-gardens"
 description: ""
-date: "2026-03-13T09:22:52.885505"
+date: "2026-03-20T08:22:03.876934"
 draft: false
 sectors:
-  - tourism
   - "public-sector"
+  - tourism
   - "arts-culture"
 regions:
   - "new-zealand"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aucklandbotanicgardens.co.nz/](https://www.aucklandbotanicgardens.co.nz/)
+- [https://www.aucklandbotanicgardens.co.nz](https://www.aucklandbotanicgardens.co.nz)
 
 ## Brand Guidelines
 

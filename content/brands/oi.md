@@ -2,7 +2,7 @@
 title: Oi
 slug: oi
 description: ""
-date: "2026-03-13T09:22:55.148380"
+date: "2026-03-20T08:22:05.847644"
 draft: false
 sectors:
   - networking
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,19 +55,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors: []
 typographies:
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
+  - bold
   - modern
   - natural
-  - bold
 wikidata_description: Defunct Brazilian telecommunications company
 wikidata_url: "https://www.wikidata.org/wiki/Q1538731"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oi.com.br/](https://www.oi.com.br/)
-- [https://www.oi.com.br/minha-oi/](https://www.oi.com.br/minha-oi/)
+- [https://www.oi.com.br](https://www.oi.com.br)
+- [https://www.oi.com.br/minha-oi](https://www.oi.com.br/minha-oi)
+- [http://www.oi.com.br](http://www.oi.com.br)
 
 ## Brand Guidelines
 

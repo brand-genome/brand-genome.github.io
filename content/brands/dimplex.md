@@ -2,7 +2,7 @@
 title: Dimplex
 slug: dimplex
 description: ""
-date: "2026-03-13T09:22:52.100177"
+date: "2026-03-20T08:22:03.159059"
 draft: false
 sectors:
   - utilities
@@ -32,6 +32,7 @@ headquarters_locations:
   - bavaria
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dimplex.co.uk/](https://www.dimplex.co.uk/)
-- [https://www.dimplex.com/en-us/](https://www.dimplex.com/en-us/)
-- [https://www.gdhv.com/](https://www.gdhv.com/)
-- [https://www.glendimplex.com/](https://www.glendimplex.com/)
+- [https://www.dimplex.co.uk](https://www.dimplex.co.uk)
+- [https://www.dimplex.com/en-us](https://www.dimplex.com/en-us)
+- [https://www.glendimplex.com](https://www.glendimplex.com)
+- [https://www.gdhv.com](https://www.gdhv.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Bella Nova Clinic
 slug: "bella-nova-clinic"
 description: ""
-date: "2026-03-13T09:22:52.317380"
+date: "2026-03-20T08:22:03.385352"
 draft: false
 sectors:
-  - cosmetics
   - healthcare
+  - cosmetics
 regions:
   - oman
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

@@ -2,7 +2,7 @@
 title: Pure Michigan
 slug: "pure-michigan"
 description: ""
-date: "2026-03-13T09:22:55.032962"
+date: "2026-03-20T08:22:05.735445"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.michigan.org/](https://www.michigan.org/)
+- [https://www.michigan.org](https://www.michigan.org)
 - [https://www.michigan.org/logorequest](https://www.michigan.org/logorequest)
 - [https://www.michiganbusiness.org/logo-request](https://www.michiganbusiness.org/logo-request)
 

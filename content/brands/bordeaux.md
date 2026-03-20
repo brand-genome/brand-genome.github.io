@@ -2,7 +2,7 @@
 title: Bordeaux
 slug: bordeaux
 description: ""
-date: "2026-03-13T09:22:54.798390"
+date: "2026-03-20T08:22:05.571837"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 0500
+foundation_year_buckets:
+  - "5TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - red
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -67,11 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bordeaux.fr](https://www.bordeaux.fr)
+- [https://www.bordeaux-tourisme.com](https://www.bordeaux-tourisme.com)
 - [http://www.bordeaux.fr](http://www.bordeaux.fr)
 - [http://www.musba-bordeaux.fr](http://www.musba-bordeaux.fr)
 - [http://www.musee-aquitaine-bordeaux.fr](http://www.musee-aquitaine-bordeaux.fr)
-- [https://www.bordeaux-tourisme.com/](https://www.bordeaux-tourisme.com/)
-- [https://www.bordeaux.fr](https://www.bordeaux.fr)
 
 ## Brand Guidelines
 

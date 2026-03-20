@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-03-13T09:22:55.034223"
+date: "2026-03-20T08:22:05.736706"
 draft: false
 sectors:
-  - research
   - publishing
   - ngo
+  - research
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,19 +58,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
-  - "pantone-300"
   - black
   - gray
+  - "pantone-300"
   - blue
 typographies:
   - verdana
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: American professional association for electronic engineering and electrical engineering
 wikidata_url: "https://www.wikidata.org/wiki/Q131566"
 has_twitter: false
@@ -80,9 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/)
-- [https://www.ieee.org/](https://www.ieee.org/)
+- [https://www.ieee.org](https://www.ieee.org)
 - [https://www.ieee.org/go/brand](https://www.ieee.org/go/brand)
+- [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org)
 
 ## Brand Guidelines
 

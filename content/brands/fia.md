@@ -2,11 +2,11 @@
 title: FIA
 slug: fia
 description: ""
-date: "2026-03-13T09:22:55.083548"
+date: "2026-03-20T08:22:05.787089"
 draft: false
 sectors:
-  - sports
   - "public-sector"
+  - sports
 regions:
   - switzerland
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1899
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ body_sections: []
 logo_elements:
   - stacked
   - symbol
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
   - blue
 typographies: []
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fia.com/](https://www.fia.com/)
+- [https://www.fia.com](https://www.fia.com)
+- [https://www.fiat.com](https://www.fiat.com)
 
 ## Brand Guidelines
 

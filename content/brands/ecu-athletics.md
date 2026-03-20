@@ -2,11 +2,11 @@
 title: ECU Athletics
 slug: "ecu-athletics"
 description: ""
-date: "2026-03-13T09:22:53.286820"
+date: "2026-03-20T08:22:04.214014"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - "pantone-268"
-  - purple
   - "pantone-1235"
   - gold
+  - purple
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -69,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ECUPirateClub.com](http://www.ECUPirateClub.com)
-- [http://www.ECUPirates.com](http://www.ECUPirates.com)
-- [https://ecupirates.com/](https://ecupirates.com/)
+- [https://ecupirates.com](https://ecupirates.com)
 - [https://www.ecu.edu/licensing](https://www.ecu.edu/licensing)
+- [http://www.ecupirateclub.com](http://www.ecupirateclub.com)
+- [http://www.ecupirates.com](http://www.ecupirates.com)
 
 ## Brand Guidelines
 

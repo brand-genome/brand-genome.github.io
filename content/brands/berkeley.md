@@ -2,7 +2,7 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-03-13T09:22:53.933464"
+date: "2026-03-20T08:22:04.852847"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1866
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - lockup
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-282"
-  - "pantone-7461"
-  - "pantone-1925"
-  - gray
-  - "pantone-124"
-  - blue
   - gold
+  - "pantone-7461"
+  - "pantone-282"
+  - blue
+  - "pantone-124"
+  - gray
+  - "pantone-1925"
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Alameda County, California, United States"
@@ -75,11 +77,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.berkeley.edu](https://www.berkeley.edu)
+- [https://brand.berkeley.edu](https://brand.berkeley.edu)
+- [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+- [https://identity.berkeley.edu](https://identity.berkeley.edu)
 - [http://www.calbears.com/licensing](http://www.calbears.com/licensing)
-- [https://brand.berkeley.edu/](https://brand.berkeley.edu/)
-- [https://identity.berkeley.edu/](https://identity.berkeley.edu/)
-- [https://publicaffairs.berkeley.edu/](https://publicaffairs.berkeley.edu/)
-- [https://www.berkeley.edu/](https://www.berkeley.edu/)
+- [https://berkeleyca.gov](https://berkeleyca.gov)
+- [http://www.ci.berkeley.ca.us](http://www.ci.berkeley.ca.us)
 
 ## Brand Guidelines
 

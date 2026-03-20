@@ -2,7 +2,7 @@
 title: Cherepovets State University
 slug: "cherepovets-state-university"
 description: ""
-date: "2026-03-13T09:22:53.667667"
+date: "2026-03-20T08:22:04.525147"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.chsu.ru/](https://www.chsu.ru/)
+- [https://www.chsu.ru](https://www.chsu.ru)
+- [https://www.chsu.ru/en](https://www.chsu.ru/en)
 
 ## Brand Guidelines
 

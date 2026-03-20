@@ -2,7 +2,7 @@
 title: University of the Algarve
 slug: "university-of-the-algarve"
 description: ""
-date: "2026-03-13T09:22:51.980476"
+date: "2026-03-20T08:22:03.082917"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ualg.pt/](https://www.ualg.pt/)
+- [https://www.ualg.pt](https://www.ualg.pt)
 - [https://www.ualg.pt/en](https://www.ualg.pt/en)
+- [http://www.ualg.pt](http://www.ualg.pt)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-03-13T09:22:51.915973"
+date: "2026-03-20T08:22:03.072585"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - ireland
 years:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1951
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - alternate
   - icon
   - primary
+  - secondary
+  - alternate
 brand_colors:
   - crimson
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
-  - vibrant
   - photography
   - graphic
+  - vibrant
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q2342901"
 has_twitter: false
@@ -76,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://comhaltas.ie](https://comhaltas.ie)
 - [http://www.comhaltas.ie](http://www.comhaltas.ie)
-- [http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/](http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/)
-- [https://comhaltas.ie/](https://comhaltas.ie/)
+- [http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media](http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media)
 
 ## Brand Guidelines
 

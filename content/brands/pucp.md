@@ -2,12 +2,12 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-03-13T09:22:53.336590"
+date: "2026-03-20T08:22:04.246225"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - peru
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - spanish
 tags:
-  - community
   - education
+  - community
 industries: []
 countries:
   - peru
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +55,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-390"
-  - "pantone-1495"
-  - "pantone-298"
   - "pantone-2239"
+  - "pantone-298"
+  - "pantone-1495"
+  - "pantone-390"
 typographies: []
 imagery_styles:
   - bold
@@ -71,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://open.pucp.edu.pe/](https://open.pucp.edu.pe/)
-- [https://www.pucp.edu.pe/](https://www.pucp.edu.pe/)
+- [https://www.pucp.edu.pe](https://www.pucp.edu.pe)
+- [https://open.pucp.edu.pe](https://open.pucp.edu.pe)
 
 ## Brand Guidelines
 

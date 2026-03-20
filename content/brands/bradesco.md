@@ -2,11 +2,11 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-03-13T09:22:54.223192"
+date: "2026-03-20T08:22:05.059334"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - brazil
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
+  - "economics-of-banking"
 countries:
   - brazil
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1943
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,14 +56,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
 brand_colors:
-  - black
   - red
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian banking institution
@@ -75,10 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://banco.bradesco/](https://banco.bradesco/)
-- [https://bradescobank.com/es/](https://bradescobank.com/es/)
-- [https://bradescobank.com/pt/](https://bradescobank.com/pt/)
-- [https://www.bradescoseguros.com.br/](https://www.bradescoseguros.com.br/)
+- [https://banco.bradesco](https://banco.bradesco)
+- [https://www.bradescoseguros.com.br](https://www.bradescoseguros.com.br)
+- [https://bradescobank.com/pt](https://bradescobank.com/pt)
+- [https://bradescobank.com/es](https://bradescobank.com/es)
+- [https://www.bradesco.com.br](https://www.bradesco.com.br)
 
 ## Brand Guidelines
 

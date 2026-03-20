@@ -2,16 +2,16 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-03-13T09:22:54.416413"
+date: "2026-03-20T08:22:05.297171"
 draft: false
 sectors:
-  - "public-transportation"
   - tourism
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,18 +54,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
   - black
 typographies:
+  - impact
   - arial
   - frutiger
-  - impact
 imagery_styles:
-  - photography
-  - staged
   - bold
+  - staged
+  - photography
 wikidata_description: "United Kingdom-based airport operator"
 wikidata_url: "https://www.wikidata.org/wiki/Q795363"
 has_twitter: false
@@ -75,11 +77,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.heathrow.com](http://www.heathrow.com)
-- [http://www.xpressgroup.eu](http://www.xpressgroup.eu)
+- [https://www.heathrow.com/en](https://www.heathrow.com/en)
 - [https://www.heathrow.com/company](https://www.heathrow.com/company)
 - [https://www.heathrow.com/company/investor-centre](https://www.heathrow.com/company/investor-centre)
-- [https://www.heathrow.com/en](https://www.heathrow.com/en)
+- [http://www.heathrow.com](http://www.heathrow.com)
+- [http://www.xpressgroup.eu](http://www.xpressgroup.eu)
+- [https://heathrow.com/company](https://heathrow.com/company)
 
 ## Brand Guidelines
 

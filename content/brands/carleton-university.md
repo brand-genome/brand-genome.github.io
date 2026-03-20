@@ -2,7 +2,7 @@
 title: Carleton University
 slug: "carleton-university"
 description: ""
-date: "2026-03-13T09:22:53.640844"
+date: "2026-03-20T08:22:04.496823"
 draft: false
 sectors:
   - university
@@ -31,11 +31,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "robertson-hall"
   - ottawa
+  - "robertson-hall"
 subsidiaries: []
 foundation_dates:
   - 1943
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,17 +59,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
-  - arial
-  - georgia
   - helvetica
+  - arial
   - gotham
+  - georgia
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "university in Ottawa, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1041737"
 has_twitter: false
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://carleton.ca/](https://carleton.ca/)
-- [https://carleton.ca/duc/resources/](https://carleton.ca/duc/resources/)
+- [https://carleton.ca](https://carleton.ca)
+- [https://carleton.ca/duc/resources](https://carleton.ca/duc/resources)
 
 ## Brand Guidelines
 
@@ -127,7 +129,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Robertson Hall](/headquarters_locations/robertson-hall/); [Ottawa](/headquarters_locations/ottawa/) |
+| Headquarters Location | [Ottawa](/headquarters_locations/ottawa/); [Robertson Hall](/headquarters_locations/robertson-hall/) |
 | Foundation Date | [1943](/foundation_dates/1943/) |
 | Located In The Administrative Territorial Entity | Capital Ward |
 | Topic'S Main Category | Category:Carleton University |

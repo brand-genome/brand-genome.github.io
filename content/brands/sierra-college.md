@@ -2,7 +2,7 @@
 title: Sierra College
 slug: "sierra-college"
 description: ""
-date: "2026-03-13T09:22:54.420013"
+date: "2026-03-20T08:22:05.316260"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1936
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-7490"
-  - "pantone-484"
-  - gray
-  - black
+  - red
+  - green
   - white
   - "pantone-7469"
-  - red
   - blue
-  - green
+  - "pantone-7490"
+  - gray
   - "pantone-1805"
+  - "pantone-484"
+  - black
 typographies:
-  - serif
   - din
+  - serif
 imagery_styles:
   - classic
   - modern
@@ -81,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sierracollege.edu](https://www.sierracollege.edu)
 - [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.sierracollege.edu](http://www.sierracollege.edu)
-- [https://www.sierracollege.edu/](https://www.sierracollege.edu/)
 
 ## Brand Guidelines
 

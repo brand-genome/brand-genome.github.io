@@ -2,7 +2,7 @@
 title: Prince Edward County
 slug: "prince-edward-county"
 description: ""
-date: "2026-03-13T09:22:54.194084"
+date: "2026-03-20T08:22:05.025039"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1792
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - navy
-  - black
   - beige
-  - blue
+  - navy
   - white
+  - blue
+  - black
 typographies:
   - arial
   - display
 imagery_styles:
-  - natural
   - minimal
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
 wikidata_description: "municipality in Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q385085"
 has_twitter: false
@@ -78,9 +80,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://visitthecounty.com](https://visitthecounty.com)
+- [https://www.thecounty.ca](https://www.thecounty.ca)
 - [http://www.thecounty.ca](http://www.thecounty.ca)
-- [https://visitthecounty.com/](https://visitthecounty.com/)
-- [https://www.thecounty.ca/](https://www.thecounty.ca/)
+- [http://www.pecounty.on.ca](http://www.pecounty.on.ca)
 
 ## Brand Guidelines
 

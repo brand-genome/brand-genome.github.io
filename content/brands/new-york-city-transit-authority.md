@@ -2,11 +2,11 @@
 title: New York City Transit Authority
 slug: "new-york-city-transit-authority"
 description: ""
-date: "2026-03-13T09:22:55.087100"
+date: "2026-03-20T08:22:05.791378"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -31,11 +31,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "new-york-city"
   - "2-broadway"
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1953
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,6 +73,8 @@ visual_term_image_urls: {}
 
 - [https://www.mta.info/agency/new-york-city-transit](https://www.mta.info/agency/new-york-city-transit)
 - [https://www.mta.info/nyct](https://www.mta.info/nyct)
+- [http://www.mta.info/nyct](http://www.mta.info/nyct)
+- [https://new.mta.info/agency/new-york-city-transit](https://new.mta.info/agency/new-york-city-transit)
 
 ## Brand Guidelines
 
@@ -105,7 +109,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [2 Broadway](/headquarters_locations/2-broadway/) |
+| Headquarters Location | [2 Broadway](/headquarters_locations/2-broadway/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1953](/foundation_dates/1953/) |
 | Freebase Id | /m/01t8pf |
 | Viaf Cluster Id | 148456261 |

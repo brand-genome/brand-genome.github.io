@@ -2,7 +2,7 @@
 title: Quantum
 slug: quantum
 description: ""
-date: "2026-03-13T09:22:53.715078"
+date: "2026-03-20T08:22:04.675793"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - corporate
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,18 +52,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - orange
-  - black
-  - pink
-  - blue
   - green
+  - blue
+  - orange
+  - pink
+  - black
 typographies:
-  - serif
   - arial
   - din
+  - serif
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,9 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.quantum.com/](http://www.quantum.com/)
-- [https://www.quantum.com/](https://www.quantum.com/)
-- [https://www.quantum.com/brandbuilder/](https://www.quantum.com/brandbuilder/)
+- [https://www.quantum.com](https://www.quantum.com)
+- [https://www.quantum.com/brandbuilder](https://www.quantum.com/brandbuilder)
+- [http://www.quantum.com](http://www.quantum.com)
 
 ## Brand Guidelines
 

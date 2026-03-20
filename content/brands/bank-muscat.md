@@ -2,11 +2,11 @@
 title: Bank Muscat
 slug: "bank-muscat"
 description: ""
-date: "2026-03-13T09:22:51.909189"
+date: "2026-03-20T08:22:03.069899"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - oman
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - insurance
+  - financial
 industries:
   - "financial-services"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +60,8 @@ brand_colors:
   - red
 typographies: []
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q806607"
 has_twitter: false
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bankmuscat.com/](https://www.bankmuscat.com/)
+- [https://www.bankmuscat.com](https://www.bankmuscat.com)
+- [http://www.bankmuscat.com](http://www.bankmuscat.com)
 
 ## Brand Guidelines
 

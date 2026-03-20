@@ -2,7 +2,7 @@
 title: Higher Colleges of Technology
 slug: "higher-colleges-of-technology"
 description: ""
-date: "2026-03-13T09:22:54.187545"
+date: "2026-03-20T08:22:05.016423"
 draft: false
 sectors:
   - university
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - times
 imagery_styles:
   - bold
@@ -71,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hct.ac.ae/](https://hct.ac.ae/)
+- [https://hct.ac.ae](https://hct.ac.ae)
 - [https://hct.ac.ae/en](https://hct.ac.ae/en)
+- [http://www.hct.ac.ae](http://www.hct.ac.ae)
 
 ## Brand Guidelines
 

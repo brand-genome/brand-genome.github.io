@@ -2,7 +2,7 @@
 title: More4
 slug: more4
 description: ""
-date: "2026-03-13T09:22:53.013511"
+date: "2026-03-20T08:22:04.003907"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.channel4.com/](https://www.channel4.com/)
+- [https://www.channel4.com](https://www.channel4.com)
 - [https://www.channel4.com/now/m4](https://www.channel4.com/now/m4)
+- [http://www.channel4.com/more4](http://www.channel4.com/more4)
 
 ## Brand Guidelines
 

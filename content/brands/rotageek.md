@@ -2,7 +2,7 @@
 title: Rotageek
 slug: rotageek
 description: ""
-date: "2026-03-13T09:22:54.231023"
+date: "2026-03-20T08:22:05.070153"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
+  - blue
   - indigo
   - gray
   - black
-  - red
-  - blue
-  - white
 typographies:
   - brandon
 imagery_styles:
   - playful
-  - photography
   - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://careers.rotageek.com/](https://careers.rotageek.com/)
-- [https://www.rotageek.com/](https://www.rotageek.com/)
+- [https://www.rotageek.com](https://www.rotageek.com)
+- [https://careers.rotageek.com](https://careers.rotageek.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: BH Live
 slug: "bh-live"
 description: ""
-date: "2026-03-13T09:22:53.263548"
+date: "2026-03-20T08:22:04.189627"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
-  - primary
   - signature
+  - symbol
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-300"
-  - cyan
-  - black
-  - magenta
-  - blue
   - white
+  - cyan
+  - "pantone-300"
+  - blue
+  - magenta
+  - black
 typographies:
   - arial
   - gotham
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - graphic
 wikidata_description: ""
 wikidata_url: ""
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bhlive.org.uk/](https://www.bhlive.org.uk/)
+- [https://www.bhlive.org.uk](https://www.bhlive.org.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: UVA Wise
 slug: "uva-wise"
 description: ""
-date: "2026-03-13T09:22:53.724504"
+date: "2026-03-20T08:22:04.688651"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1954
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
   - cyan
   - purple
-  - "pantone-186"
+  - white
+  - blue
   - gray
+  - "pantone-186"
   - orange
   - black
-  - red
-  - blue
-  - white
 typographies:
   - gotham
   - bodoni
 imagery_styles:
-  - dynamic
-  - photography
-  - gradient
   - bold
+  - dynamic
+  - gradient
+  - photography
 wikidata_description: "American college (1999-)"
 wikidata_url: "https://www.wikidata.org/wiki/Q128111"
 has_twitter: false
@@ -79,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://uvawisecavs.com/](https://uvawisecavs.com/)
-- [https://www.uvawise.edu/](https://www.uvawise.edu/)
+- [https://www.uvawise.edu](https://www.uvawise.edu)
+- [https://uvawisecavs.com](https://uvawisecavs.com)
 
 ## Brand Guidelines
 

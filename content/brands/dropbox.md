@@ -2,7 +2,7 @@
 title: Dropbox
 slug: dropbox
 description: ""
-date: "2026-03-13T09:22:52.816291"
+date: "2026-03-20T08:22:03.829527"
 draft: false
 sectors:
   - software
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - software
-  - internet
   - app
+  - software
+  - featured
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.dropbox.com/](https://help.dropbox.com/)
-- [https://www.dropbox.com/](https://www.dropbox.com/)
+- [https://www.dropbox.com](https://www.dropbox.com)
+- [https://help.dropbox.com](https://help.dropbox.com)
 
 ## Brand Guidelines
 

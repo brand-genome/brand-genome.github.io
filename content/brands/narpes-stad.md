@@ -2,7 +2,7 @@
 title: Närpes stad
 slug: "narpes-stad"
 description: ""
-date: "2026-03-13T09:22:52.819599"
+date: "2026-03-20T08:22:03.832088"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - swedish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.narpes.fi](http://www.narpes.fi)
-- [https://visitnarpes.fi/](https://visitnarpes.fi/)
+- [https://www.narpes.fi](https://www.narpes.fi)
+- [https://visitnarpes.fi](https://visitnarpes.fi)
 - [https://visitnarpes.fi/en](https://visitnarpes.fi/en)
-- [https://www.narpes.fi/](https://www.narpes.fi/)
+- [http://www.narpes.fi](http://www.narpes.fi)
 
 ## Brand Guidelines
 

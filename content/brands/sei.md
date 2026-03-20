@@ -2,11 +2,11 @@
 title: SEI
 slug: sei
 description: ""
-date: "2026-03-13T09:22:54.775980"
+date: "2026-03-20T08:22:05.561514"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - sweden
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1790
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sei.org](https://www.sei.org)
 - [http://www.sei.org](http://www.sei.org)
-- [https://www.sei.org/](https://www.sei.org/)
+- [http://www.seine-maritime.pref.gouv.fr](http://www.seine-maritime.pref.gouv.fr)
 
 ## Brand Guidelines
 

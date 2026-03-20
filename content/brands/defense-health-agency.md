@@ -2,11 +2,11 @@
 title: Defense Health Agency
 slug: "defense-health-agency"
 description: ""
-date: "2026-03-13T09:22:53.429750"
+date: "2026-03-20T08:22:04.333170"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
   - healthcare
 regions:
   - usa
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +50,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - seal
+  - primary
 brand_colors:
-  - "pantone-2768"
-  - "pantone-181"
-  - gray
-  - yellow
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - gray
+  - "pantone-181"
+  - "pantone-2768"
 typographies:
   - serif
 imagery_styles:
+  - product
+  - graphic
   - classic
   - contemporary
   - clean
-  - product
-  - graphic
 wikidata_description: clinical trial
 wikidata_url: "https://www.wikidata.org/wiki/Q113922817"
 has_twitter: false
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dha.mil/](https://dha.mil/)
-- [https://health.mil/](https://health.mil/)
+- [https://dha.mil](https://dha.mil)
+- [https://health.mil](https://health.mil)
 
 ## Brand Guidelines
 

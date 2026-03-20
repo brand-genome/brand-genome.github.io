@@ -2,7 +2,7 @@
 title: "Faculty of Sexual & Reproductive Healthcare"
 slug: "faculty-of-sexual-reproductive-healthcare"
 description: ""
-date: "2026-03-13T09:22:52.877799"
+date: "2026-03-20T08:22:03.873317"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fsrh.org](https://www.fsrh.org)
 - [http://www.fsrh.org](http://www.fsrh.org)
-- [https://www.fsrh.org/](https://www.fsrh.org/)
 
 ## Brand Guidelines
 

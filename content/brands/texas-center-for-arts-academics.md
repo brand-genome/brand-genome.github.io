@@ -2,7 +2,7 @@
 title: Texas Center for Arts + Academics
 slug: "texas-center-for-arts-academics"
 description: ""
-date: "2026-03-13T09:22:53.081212"
+date: "2026-03-20T08:22:04.081564"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
+  - symbol
   - primary
   - secondary
-  - symbol
-  - lockup
 brand_colors: []
 typographies: []
 imagery_styles:
-  - geometric
-  - playful
-  - vibrant
   - dynamic
-  - bold
   - graphic
+  - bold
+  - playful
+  - geometric
+  - vibrant
 wikidata_description: "Non-profit arts and education organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q110122511"
 has_twitter: false
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ARTSACADEMICS.ORG](http://www.ARTSACADEMICS.ORG)
-- [https://www.artsacademics.org/](https://www.artsacademics.org/)
+- [https://www.artsacademics.org](https://www.artsacademics.org)
+- [http://www.artsacademics.org](http://www.artsacademics.org)
 
 ## Brand Guidelines
 

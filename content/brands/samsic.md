@@ -2,7 +2,7 @@
 title: Samsic
 slug: samsic
 description: ""
-date: "2026-03-13T09:22:55.046642"
+date: "2026-03-20T08:22:05.748397"
 draft: false
 sectors:
   - "staffing-recruitment"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.samsic.com/](https://www.samsic.com/)
+- [https://www.samsic.fr](https://www.samsic.fr)
+- [https://www.samsic.com](https://www.samsic.com)
 - [https://www.samsic.com/en/samsic-rh](https://www.samsic.com/en/samsic-rh)
-- [https://www.samsic.fr/](https://www.samsic.fr/)
-- [https://www.samsic.fr/groupe/](https://www.samsic.fr/groupe/)
+- [https://www.samsic.fr/groupe](https://www.samsic.fr/groupe)
+- [https://www.samsic-emploi.fr](https://www.samsic-emploi.fr)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: YMCA Canada
 slug: "ymca-canada"
 description: ""
-date: "2026-03-13T09:22:54.736243"
+date: "2026-03-20T08:22:05.533545"
 draft: false
 sectors:
-  - education
   - "wellness-spa"
   - ngo
+  - education
 regions:
   - canada
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,12 +52,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ymca.ca](https://www.ymca.ca)
 - [http://www.ymca.ca](http://www.ymca.ca)
 - [http://www.ymcabrandon.ca](http://www.ymcabrandon.ca)
 - [http://www.ymcacalgary.org](http://www.ymcacalgary.org)
-- [https://www.ymca.ca/](https://www.ymca.ca/)
 
 ## Brand Guidelines
 

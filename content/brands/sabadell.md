@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-03-13T09:22:54.052724"
+date: "2026-03-20T08:22:04.903343"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
+  - "economics-of-banking"
 countries:
   - spain
 revenue_buckets:
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1881
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,21 +59,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - alternate
-  - symbol
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
   - white
 typographies:
-  - arial
   - "source-sans"
+  - arial
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: Spanish banking group
 wikidata_url: "https://www.wikidata.org/wiki/Q762330"
 has_twitter: false
@@ -83,8 +85,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bancsabadell.com/](https://www.bancsabadell.com/)
-- [https://www.grupbancsabadell.com/](https://www.grupbancsabadell.com/)
+- [https://www.bancsabadell.com](https://www.bancsabadell.com)
+- [https://www.grupbancsabadell.com](https://www.grupbancsabadell.com)
 
 ## Brand Guidelines
 

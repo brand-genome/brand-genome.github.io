@@ -2,12 +2,12 @@
 title: Linku
 slug: linku
 description: ""
-date: "2026-03-13T09:22:54.556837"
+date: "2026-03-20T08:22:05.402745"
 draft: false
 sectors:
   - "design-creative"
-  - software
   - consulting
+  - software
 regions:
   - netherlands
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +49,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - abstract
+  - primary
   - secondary
+  - abstract
 brand_colors:
   - silver
   - white
 typographies:
   - nunito
 imagery_styles:
+  - abstract
   - realistic
   - professional
-  - abstract
 wikidata_description: graph visualization software
 wikidata_url: "https://www.wikidata.org/wiki/Q108810443"
 has_twitter: false
@@ -72,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://linku.nl/](https://linku.nl/)
-- [https://werkenmet.linku.nl/](https://werkenmet.linku.nl/)
+- [https://linku.nl](https://linku.nl)
+- [https://werkenmet.linku.nl](https://werkenmet.linku.nl)
+- [https://linkurio.us/product](https://linkurio.us/product)
 
 ## Brand Guidelines
 

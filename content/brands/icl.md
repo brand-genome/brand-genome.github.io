@@ -2,12 +2,12 @@
 title: ICL
 slug: icl
 description: ""
-date: "2026-03-13T09:22:54.823902"
+date: "2026-03-20T08:22:05.586423"
 draft: false
 sectors:
-  - "manufacturing-industry"
-  - "agricultural-heavy-equipment"
   - chemicals
+  - "agricultural-heavy-equipment"
+  - "manufacturing-industry"
 regions:
   - israel
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1907
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.icl-group.com](https://www.icl-group.com)
 - [http://www.icl-group.com](http://www.icl-group.com)
-- [https://www.icl-group.com/](https://www.icl-group.com/)
+- [https://www.imperial.ac.uk](https://www.imperial.ac.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Fox NFL
 slug: "fox-nfl"
 description: ""
-date: "2026-03-13T09:22:53.250759"
+date: "2026-03-20T08:22:04.176896"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +56,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: television series
 wikidata_url: "https://www.wikidata.org/wiki/Q6953774"
 has_twitter: false
@@ -69,6 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fox.com/nfl](https://www.fox.com/nfl)
+- [http://www.foxsports.com/nfl](http://www.foxsports.com/nfl)
 
 ## Brand Guidelines
 

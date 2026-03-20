@@ -2,11 +2,11 @@
 title: BNDES
 slug: bndes
 description: ""
-date: "2026-03-13T09:22:52.241035"
+date: "2026-03-20T08:22:03.305119"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - brazil
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1952
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bndes.gov.br](https://www.bndes.gov.br)
+- [https://developers.bndes.gov.br](https://developers.bndes.gov.br)
 - [http://www.gov.br](http://www.gov.br)
-- [https://developers.bndes.gov.br/](https://developers.bndes.gov.br/)
-- [https://www.bndes.gov.br/](https://www.bndes.gov.br/)
+- [http://www.bndes.gov.br](http://www.bndes.gov.br)
 
 ## Brand Guidelines
 

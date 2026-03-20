@@ -2,7 +2,7 @@
 title: U Sports
 slug: "u-sports"
 description: ""
-date: "2026-03-13T09:22:54.192198"
+date: "2026-03-20T08:22:05.022319"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,26 +51,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - emblem
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - emblem
+  - primary
+  - icon
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - dynamic
+  - bold
   - natural
+  - photography
   - lifestyle
   - candid
-  - dynamic
-  - photography
-  - bold
 wikidata_description: governing body of university sport in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q1032195"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://usports.ca](https://usports.ca)
 - [http://www.usports.ca](http://www.usports.ca)
-- [https://usports.ca/](https://usports.ca/)
+- [http://usports.ca](http://usports.ca)
 
 ## Brand Guidelines
 

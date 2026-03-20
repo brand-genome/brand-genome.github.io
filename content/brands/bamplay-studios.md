@@ -2,7 +2,7 @@
 title: BamPlay Studios
 slug: "bamplay-studios"
 description: ""
-date: "2026-03-13T09:22:52.324050"
+date: "2026-03-20T08:22:03.391990"
 draft: false
 sectors:
   - entertainment
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

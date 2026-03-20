@@ -2,7 +2,7 @@
 title: Butler University
 slug: "butler-university"
 description: ""
-date: "2026-03-13T09:22:52.240798"
+date: "2026-03-20T08:22:03.304694"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1855
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.butler.edu](https://www.butler.edu)
 - [http://www.butler.edu](http://www.butler.edu)
-- [https://www.butler.edu/](https://www.butler.edu/)
 
 ## Brand Guidelines
 

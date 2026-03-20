@@ -2,12 +2,12 @@
 title: Honeywell
 slug: honeywell
 description: ""
-date: "2026-03-13T09:22:53.322309"
+date: "2026-03-20T08:22:04.233183"
 draft: false
 sectors:
+  - aerospace
   - software
   - hardware
-  - aerospace
 regions:
   - usa
 years:
@@ -19,13 +19,13 @@ languages:
 tags:
   - corporate
 industries:
-  - "supply-chain"
-  - "industrial-safety"
-  - "manufacturing-industry"
-  - retail
-  - "health-care-industry"
   - "chemical-industry"
+  - "supply-chain"
+  - "manufacturing-industry"
+  - "industrial-safety"
+  - retail
   - "aerospace-industry"
+  - "health-care-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -47,6 +47,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1885
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,25 +67,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
-  - indigo
-  - gray
-  - grey
-  - black
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - indigo
+  - gray
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - contemporary
   - bold
   - graphic
+  - contemporary
 wikidata_description: American multinational conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q898208"
 has_twitter: false
@@ -95,9 +97,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.honeywell.com](https://www.honeywell.com)
+- [https://brand.honeywell.com](https://brand.honeywell.com)
 - [http://www.honeywell.com/brandm](http://www.honeywell.com/brandm)
-- [https://brand.honeywell.com/](https://brand.honeywell.com/)
-- [https://www.honeywell.com/](https://www.honeywell.com/)
+- [http://honeywell.com](http://honeywell.com)
 
 ## Brand Guidelines
 

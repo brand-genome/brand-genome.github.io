@@ -2,7 +2,7 @@
 title: "Harvard-Westlake"
 slug: "harvard-westlake"
 description: ""
-date: "2026-03-13T09:22:53.024340"
+date: "2026-03-20T08:22:04.016876"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1900
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hw.com](https://www.hw.com)
 - [http://www.hw.com/summerprograms](http://www.hw.com/summerprograms)
-- [https://www.hw.com/](https://www.hw.com/)
+- [http://www.hw.com](http://www.hw.com)
+- [http://www.harvardwestlake.com](http://www.harvardwestlake.com)
 
 ## Brand Guidelines
 

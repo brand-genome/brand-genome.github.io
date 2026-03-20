@@ -2,7 +2,7 @@
 title: CCCrafts
 slug: cccrafts
 description: ""
-date: "2026-03-13T09:22:52.064116"
+date: "2026-03-20T08:22:03.129871"
 draft: false
 sectors:
   - software
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2024
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cccrafts.ai/](https://cccrafts.ai/)
+- [https://cccrafts.ai](https://cccrafts.ai)
 
 ## Brand Guidelines
 

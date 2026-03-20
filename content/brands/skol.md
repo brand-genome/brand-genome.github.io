@@ -2,11 +2,11 @@
 title: Skol
 slug: skol
 description: ""
-date: "2026-03-13T09:22:53.495635"
+date: "2026-03-20T08:22:04.391985"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - brazil
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1959
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +52,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - cyan
-  - "pantone-1797"
-  - yellow
-  - black
-  - "pantone-109"
-  - magenta
   - red
+  - "pantone-1797"
+  - cyan
+  - "pantone-109"
+  - yellow
+  - magenta
+  - black
 typographies: []
 imagery_styles:
   - natural
@@ -71,7 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.skol.com.br/](https://www.skol.com.br/)
+- [https://www.skol.com.br](https://www.skol.com.br)
+- [http://www.skol.com.br](http://www.skol.com.br)
+- [https://www.skolafrica.com](https://www.skolafrica.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Wapo & Wapa"
 slug: "wapo-wapa"
 description: ""
-date: "2026-03-13T09:22:52.309764"
+date: "2026-03-20T08:22:03.375142"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wapa.dating/](https://wapa.dating/)
-- [https://wapo.dating/](https://wapo.dating/)
+- [https://wapo.dating](https://wapo.dating)
+- [https://wapa.dating](https://wapa.dating)
 
 ## Brand Guidelines
 

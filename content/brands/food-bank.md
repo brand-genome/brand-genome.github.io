@@ -2,7 +2,7 @@
 title: Food Bank
 slug: "food-bank"
 description: ""
-date: "2026-03-13T09:22:55.149154"
+date: "2026-03-20T08:22:05.848720"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,22 +52,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
-  - "pantone-151"
-  - "pantone-416"
-  - black
   - "pantone-420"
+  - purple
+  - "pantone-416"
+  - "pantone-151"
   - "pantone-312"
+  - black
 typographies:
   - times
   - trebuchet
 imagery_styles:
-  - contemporary
-  - organic
-  - candid
   - vibrant
-  - clean
   - graphic
+  - organic
+  - contemporary
+  - clean
+  - candid
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q5718055"
 has_twitter: false
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.foodbank.org.au/](https://www.foodbank.org.au/)
-- [https://www.foodbank.org.au/nsw-act/](https://www.foodbank.org.au/nsw-act/)
-- [https://www.foodbank.org.au/sa-nt/](https://www.foodbank.org.au/sa-nt/)
-- [https://www.foodbank.org.au/vic/](https://www.foodbank.org.au/vic/)
+- [https://www.foodbank.org.au](https://www.foodbank.org.au)
+- [https://www.foodbank.org.au/nsw-act](https://www.foodbank.org.au/nsw-act)
+- [https://www.foodbank.org.au/vic](https://www.foodbank.org.au/vic)
+- [https://www.foodbank.org.au/sa-nt](https://www.foodbank.org.au/sa-nt)
 
 ## Brand Guidelines
 

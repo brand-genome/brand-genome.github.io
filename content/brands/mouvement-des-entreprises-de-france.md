@@ -2,7 +2,7 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-03-13T09:22:53.262750"
+date: "2026-03-20T08:22:04.187881"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1946
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://extranet.medef.com/](https://extranet.medef.com/)
+- [https://www.medef.com](https://www.medef.com)
+- [https://extranet.medef.com](https://extranet.medef.com)
 - [https://fonts.google.com/specimen/Barlow](https://fonts.google.com/specimen/Barlow)
-- [https://www.medef.com/](https://www.medef.com/)
+- [https://www.medef.com/fr](https://www.medef.com/fr)
 
 ## Brand Guidelines
 

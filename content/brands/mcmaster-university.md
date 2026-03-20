@@ -2,7 +2,7 @@
 title: McMaster University
 slug: "mcmaster-university"
 description: ""
-date: "2026-03-13T09:22:54.416717"
+date: "2026-03-20T08:22:05.298146"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - canada
 years:
-  - 2010
   - 2017
+  - 2010
 languages:
   - english
 tags:
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,11 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mcmaster.ca](https://www.mcmaster.ca)
+- [https://www.eng.mcmaster.ca](https://www.eng.mcmaster.ca)
 - [http://accessibility.mcmaster.ca](http://accessibility.mcmaster.ca)
 - [http://equity.mcmaster.ca/about-us](http://equity.mcmaster.ca/about-us)
 - [http://www.mcmaster.ca](http://www.mcmaster.ca)
-- [https://www.eng.mcmaster.ca/](https://www.eng.mcmaster.ca/)
-- [https://www.mcmaster.ca/](https://www.mcmaster.ca/)
 
 ## Brand Guidelines
 

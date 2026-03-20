@@ -2,7 +2,7 @@
 title: Fujitsu
 slug: fujitsu
 description: ""
-date: "2026-03-13T09:22:55.165349"
+date: "2026-03-20T08:22:05.866749"
 draft: false
 sectors:
   - consulting
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - electronics
   - telecommunications
+  - electronics
 countries:
   - japan
 revenue_buckets:
@@ -33,20 +33,22 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - workstation
   - "pointing-device"
-  - software
-  - smartphone
-  - server
-  - supercomputer
   - "vehicle-audio"
   - "computer-hardware"
+  - smartphone
+  - workstation
+  - supercomputer
+  - server
+  - software
 products: []
 headquarters_locations:
   - "shiodome-city-center"
 subsidiaries: []
 foundation_dates:
   - 1935
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,25 +67,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies:
-  - arial
-  - helvetica
-  - times
   - impact
+  - helvetica
+  - arial
+  - times
 imagery_styles:
   - dynamic
-  - clean
   - duotone
-  - photography
   - professional
+  - photography
+  - clean
 wikidata_description: Japanese multinational information technology equipment and services company
 wikidata_url: "https://www.wikidata.org/wiki/Q186394"
 has_twitter: false
@@ -95,9 +97,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.fujitsu/](https://global.fujitsu/)
-- [https://support.ts.fujitsu.com/](https://support.ts.fujitsu.com/)
-- [https://www.fujitsu.com/](https://www.fujitsu.com/)
+- [https://global.fujitsu](https://global.fujitsu)
+- [https://www.fujitsu.com](https://www.fujitsu.com)
+- [https://support.ts.fujitsu.com](https://support.ts.fujitsu.com)
+- [https://global.fujitsu/ja-jp](https://global.fujitsu/ja-jp)
 
 ## Brand Guidelines
 
@@ -144,7 +147,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Pointing Device](/products_or_materials_produced/pointing-device/); [Software](/products_or_materials_produced/software/); [Smartphone](/products_or_materials_produced/smartphone/); [Server](/products_or_materials_produced/server/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Pointing Device](/products_or_materials_produced/pointing-device/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Workstation](/products_or_materials_produced/workstation/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Server](/products_or_materials_produced/server/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Shiodome City Center](/headquarters_locations/shiodome-city-center/) |
 | Foundation Date | [1935](/foundation_dates/1935/) |
 | Topic'S Main Category | Category:Fujitsu |

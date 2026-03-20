@@ -2,7 +2,7 @@
 title: Euractiv
 slug: euractiv
 description: ""
-date: "2026-03-13T09:22:53.339627"
+date: "2026-03-20T08:22:04.248804"
 draft: false
 sectors:
   - publishing
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
+  - favicon
   - secondary
 brand_colors:
   - navy
+  - white
   - grey
+  - blue
   - yellow
   - black
-  - blue
-  - white
 typographies:
   - "open-sans"
-  - verdana
   - arial
   - gotham
+  - verdana
 imagery_styles:
   - bold
 wikidata_description: European news website
@@ -77,9 +79,29 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://assets.euractiv.com/](https://assets.euractiv.com/)
-- [https://www.euractiv.com/](https://www.euractiv.com/)
+- [https://www.euractiv.com](https://www.euractiv.com)
 - [https://www.euractiv.com/logos](https://www.euractiv.com/logos)
+- [https://assets.euractiv.com](https://assets.euractiv.com)
+- [http://euractiv.com](http://euractiv.com)
+- [https://www.euractiv.de](https://www.euractiv.de)
+- [https://www.euractiv.fr](https://www.euractiv.fr)
+- [https://euroefe.euractiv.es](https://euroefe.euractiv.es)
+- [https://euractiv.it](https://euractiv.it)
+- [https://www.euractiv.pl](https://www.euractiv.pl)
+- [https://euractiv.bg](https://euractiv.bg)
+- [https://euractiv.cz](https://euractiv.cz)
+- [https://www.euractiv.gr](https://www.euractiv.gr)
+- [https://euractiv.hr](https://euractiv.hr)
+- [https://www.euractiv.ro](https://www.euractiv.ro)
+- [https://www.euractiv.rs](https://www.euractiv.rs)
+- [http://www.euractiv.sk](http://www.euractiv.sk)
+- [https://euractiv.fr](https://euractiv.fr)
+- [https://euractiv.de](https://euractiv.de)
+- [https://euractiv.pl](https://euractiv.pl)
+- [https://euractiv.gr](https://euractiv.gr)
+- [https://euractiv.mondo.rs](https://euractiv.mondo.rs)
+- [https://euractiv.sk](https://euractiv.sk)
+- [https://euractiv.es](https://euractiv.es)
 
 ## Brand Guidelines
 

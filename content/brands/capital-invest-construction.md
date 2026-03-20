@@ -2,11 +2,11 @@
 title: Capital Invest Construction
 slug: "capital-invest-construction"
 description: ""
-date: "2026-03-13T09:22:53.019770"
+date: "2026-03-20T08:22:04.011588"
 draft: false
 sectors:
-  - construction
   - "real-estate"
+  - construction
 regions:
   - kazakhstan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - construction
   - "real-estate"
+  - construction
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://capital-construction.kz/](https://capital-construction.kz/)
+- [https://capital-construction.kz](https://capital-construction.kz)
 
 ## Brand Guidelines
 

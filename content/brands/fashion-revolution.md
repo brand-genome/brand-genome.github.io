@@ -2,7 +2,7 @@
 title: Fashion Revolution
 slug: "fashion-revolution"
 description: ""
-date: "2026-03-13T09:22:54.811970"
+date: "2026-03-20T08:22:05.580827"
 draft: false
 sectors:
   - fashion
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fashionrevolution.org](https://www.fashionrevolution.org)
 - [http://www.fashionrevolution.org](http://www.fashionrevolution.org)
-- [https://www.fashionrevolution.org/](https://www.fashionrevolution.org/)
+- [http://fashionrevolution.org](http://fashionrevolution.org)
 
 ## Brand Guidelines
 

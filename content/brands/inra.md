@@ -2,11 +2,11 @@
 title: INRA
 slug: inra
 description: ""
-date: "2026-03-13T09:22:54.738458"
+date: "2026-03-20T08:22:05.535309"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - france
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +53,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-300"
-  - "pantone-254"
-  - "pantone-222"
-  - blue
   - "pantone-166"
+  - "pantone-222"
+  - "pantone-300"
+  - blue
+  - "pantone-254"
 typographies:
   - arial
 imagery_styles:
-  - dynamic
   - clean
+  - dynamic
 wikidata_description: "facility in Rabat, Morocco"
 wikidata_url: "https://www.wikidata.org/wiki/Q30254550"
 has_twitter: false
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.inrae.fr/](https://www.inrae.fr/)
+- [https://www.inrae.fr](https://www.inrae.fr)
+- [https://www.inra.org.ma](https://www.inra.org.ma)
 
 ## Brand Guidelines
 

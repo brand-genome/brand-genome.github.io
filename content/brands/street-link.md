@@ -2,7 +2,7 @@
 title: Street Link
 slug: "street-link"
 description: ""
-date: "2026-03-13T09:22:54.800073"
+date: "2026-03-20T08:22:05.573545"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - yellow
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
 typographies:
   - verdana
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://thestreetlink.org.uk](https://thestreetlink.org.uk)
+- [https://www.streetlink.london](https://www.streetlink.london)
 - [http://www.myfonts.com](http://www.myfonts.com)
-- [https://thestreetlink.org.uk/](https://thestreetlink.org.uk/)
-- [https://www.streetlink.london/](https://www.streetlink.london/)
 
 ## Brand Guidelines
 

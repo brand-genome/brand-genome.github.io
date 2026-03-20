@@ -2,7 +2,7 @@
 title: Eastbay
 slug: eastbay
 description: ""
-date: "2026-03-13T09:22:53.707230"
+date: "2026-03-20T08:22:04.563002"
 draft: false
 sectors:
   - "e-commerce"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1980
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +55,10 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - grey
   - yellow
   - white
+  - grey
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.champssports.com/](https://www.champssports.com/)
+- [https://www.champssports.com](https://www.champssports.com)
+- [http://www.eastbay.com](http://www.eastbay.com)
 
 ## Brand Guidelines
 

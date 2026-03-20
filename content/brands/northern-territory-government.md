@@ -2,7 +2,7 @@
 title: Northern Territory Government
 slug: "northern-territory-government"
 description: ""
-date: "2026-03-13T09:22:54.354340"
+date: "2026-03-20T08:22:05.184639"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nt.gov.au/](https://nt.gov.au/)
+- [https://nt.gov.au](https://nt.gov.au)
 
 ## Brand Guidelines
 

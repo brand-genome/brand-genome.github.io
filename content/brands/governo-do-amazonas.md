@@ -2,7 +2,7 @@
 title: Governo do Amazonas
 slug: "governo-do-amazonas"
 description: ""
-date: "2026-03-13T09:22:53.288568"
+date: "2026-03-20T08:22:04.214472"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,11 +47,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
-  - primary
   - vertical
   - secondary
+  - crest
   - horizontal
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -65,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://imprensaoficial.am.gov.br/](https://imprensaoficial.am.gov.br/)
-- [https://www.sefaz.am.gov.br/](https://www.sefaz.am.gov.br/)
-- [https://www.transparencia.am.gov.br/](https://www.transparencia.am.gov.br/)
+- [https://www.transparencia.am.gov.br](https://www.transparencia.am.gov.br)
+- [https://www.sefaz.am.gov.br](https://www.sefaz.am.gov.br)
+- [https://imprensaoficial.am.gov.br](https://imprensaoficial.am.gov.br)
 
 ## Brand Guidelines
 

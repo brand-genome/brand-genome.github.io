@@ -2,17 +2,17 @@
 title: Moodle
 slug: moodle
 description: ""
-date: "2026-03-13T09:22:52.330281"
+date: "2026-03-20T08:22:03.398391"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - australia
 years:
-  - 2019
-  - 2022
   - 2023
+  - 2022
+  - 2019
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,32 +54,32 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - symbol
-  - secondary
   - primary
+  - secondary
+  - symbol
 brand_colors:
+  - "pantone-7739"
+  - green
+  - "pantone-367"
+  - white
+  - "pantone-426"
+  - "pantone-7689"
   - "pantone-158"
   - blue
-  - "pantone-555"
   - gray
-  - "pantone-426"
-  - "pantone-7739"
-  - orange
-  - white
-  - green
-  - "pantone-7689"
-  - "pantone-367"
   - "pantone-630"
+  - "pantone-555"
+  - orange
   - "pantone-7470"
 typographies:
   - opensans
 imagery_styles:
+  - bold
   - modern
   - natural
   - subtle
-  - clean
   - photography
-  - bold
+  - clean
 wikidata_description: "e-learning platform"
 wikidata_url: "https://www.wikidata.org/wiki/Q190434"
 has_twitter: false
@@ -89,11 +91,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://moodle.com](https://moodle.com)
+- [https://moodlecloud.com](https://moodlecloud.com)
+- [https://moodle.com/products/moodle-app](https://moodle.com/products/moodle-app)
+- [https://moodle.com/products/workplace](https://moodle.com/products/workplace)
 - [http://www.moodle.org](http://www.moodle.org)
-- [https://moodle.com/](https://moodle.com/)
-- [https://moodle.com/products/moodle-app/](https://moodle.com/products/moodle-app/)
-- [https://moodle.com/products/workplace/](https://moodle.com/products/workplace/)
-- [https://moodlecloud.com/](https://moodlecloud.com/)
+- [https://moodle.org](https://moodle.org)
 
 ## Brand Guidelines
 

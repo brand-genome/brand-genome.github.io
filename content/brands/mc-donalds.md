@@ -2,26 +2,26 @@
 title: Mc Donald’s
 slug: "mc-donalds"
 description: ""
-date: "2026-03-13T09:22:52.134751"
+date: "2026-03-20T08:22:03.198030"
 draft: false
 sectors:
   - restaurant
 regions:
-  - vietnam
   - usa
+  - vietnam
 years:
-  - 2019
   - 2024
+  - 1999
   - 2012
   - 2009
-  - 1999
+  - 2019
 languages:
   - english
   - vietnamese
 tags:
+  - "food-beverage"
   - featured
   - corporate
-  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -36,6 +36,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,38 +55,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - symbol
   - wordmark
   - primary
-  - symbol
   - lettermark
+  - icon
 brand_colors:
-  - gray
-  - yellow
-  - black
-  - "pantone-123"
-  - green
   - red
-  - blue
+  - green
+  - "pantone-123"
   - gold
   - "pantone-485"
   - white
+  - blue
+  - gray
+  - yellow
+  - black
 typographies:
-  - script
   - akzidenz
-  - helvetica
-  - arial
   - "century-gothic"
+  - arial
+  - script
+  - helvetica
 imagery_styles:
+  - product
+  - graphic
+  - bold
   - modern
   - natural
   - illustration
+  - photography
   - playful
   - clean
-  - photography
-  - product
-  - bold
-  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -97,9 +98,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://careers.mcdonalds.com/](https://careers.mcdonalds.com/)
-- [https://corporate.mcdonalds.com/](https://corporate.mcdonalds.com/)
-- [https://www.mcdonalds.com/](https://www.mcdonalds.com/)
+- [https://www.mcdonalds.com](https://www.mcdonalds.com)
+- [https://corporate.mcdonalds.com](https://corporate.mcdonalds.com)
+- [https://careers.mcdonalds.com](https://careers.mcdonalds.com)
 
 ## Brand Guidelines
 

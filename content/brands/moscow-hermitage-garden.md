@@ -2,7 +2,7 @@
 title: Moscow Hermitage Garden
 slug: "moscow-hermitage-garden"
 description: ""
-date: "2026-03-13T09:22:53.602493"
+date: "2026-03-20T08:22:04.467242"
 draft: false
 sectors:
   - tourism
@@ -17,9 +17,9 @@ tags:
   - architecture
 industries: []
 countries:
-  - "soviet-union"
   - russia
   - "russian-empire"
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1894
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,11 +55,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
+  - red
+  - "pantone-270"
+  - "pantone-150"
   - "pantone-290"
   - "pantone-7489"
-  - red
-  - "pantone-150"
-  - "pantone-270"
 typographies:
   - arial
   - times
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mosgorsad.ru/](https://www.mosgorsad.ru/)
+- [https://www.mosgorsad.ru](https://www.mosgorsad.ru)
+- [http://www.mosgorsad.ru](http://www.mosgorsad.ru)
 
 ## Brand Guidelines
 

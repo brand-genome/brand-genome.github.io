@@ -2,7 +2,7 @@
 title: EA Sports
 slug: "ea-sports"
 description: ""
-date: "2026-03-13T09:22:54.754459"
+date: "2026-03-20T08:22:05.551824"
 draft: false
 sectors:
   - gaming
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
   - entertainment
 industries: []
 countries: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
   - horizontal
 brand_colors: []
 typographies: []
@@ -66,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.easports.com](http://www.easports.com)
 - [https://www.ea.com/sports](https://www.ea.com/sports)
+- [http://www.easports.com](http://www.easports.com)
+- [https://www.ea.com/games/fifa/fifa-22](https://www.ea.com/games/fifa/fifa-22)
 
 ## Brand Guidelines
 

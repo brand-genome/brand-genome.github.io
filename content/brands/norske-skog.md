@@ -2,7 +2,7 @@
 title: Norske Skog
 slug: "norske-skog"
 description: ""
-date: "2026-03-13T09:22:54.222134"
+date: "2026-03-20T08:22:05.050041"
 draft: false
 sectors:
   - "forestry-timber"
@@ -26,14 +26,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - cardboard
   - paper
+  - cardboard
 products: []
 headquarters_locations:
   - oslo
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,29 +54,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - symbol
+  - primary
+  - secondary
 brand_colors:
-  - gray
-  - black
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - black
 typographies:
   - serif
-  - "sans-serif"
+  - impact
   - arial
+  - "sans-serif"
   - times
   - "source-sans"
-  - impact
 imagery_styles:
+  - product
+  - graphic
+  - bold
   - natural
   - clean
-  - product
-  - bold
-  - graphic
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1225328"
 has_twitter: false
@@ -86,9 +88,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Norskeskog.com](http://www.Norskeskog.com)
-- [http://www.google.com/](http://www.google.com/)
-- [https://www.norskeskog.com/](https://www.norskeskog.com/)
+- [https://www.norskeskog.com](https://www.norskeskog.com)
+- [http://www.norskeskog.com](http://www.norskeskog.com)
+- [http://www.google.com](http://www.google.com)
+- [https://norskeskog.com](https://norskeskog.com)
 
 ## Brand Guidelines
 
@@ -138,7 +141,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cardboard](/products_or_materials_produced/cardboard/); [Paper](/products_or_materials_produced/paper/) |
+| Product Or Material Produced | [Paper](/products_or_materials_produced/paper/); [Cardboard](/products_or_materials_produced/cardboard/) |
 | Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
 | Foundation Date | [1962](/foundation_dates/1962/) |
 | Topic'S Main Category | Category:Norske Skog |

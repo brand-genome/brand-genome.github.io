@@ -2,7 +2,7 @@
 title: Fairtrade Mark
 slug: "fairtrade-mark"
 description: ""
-date: "2026-03-13T09:22:53.408853"
+date: "2026-03-20T08:22:04.310942"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fairtrade.net/](https://www.fairtrade.net/)
+- [https://www.fairtrade.net](https://www.fairtrade.net)
 - [https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html](https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html)
 - [https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html](https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html)
+- [http://www.fairtrade.ie](http://www.fairtrade.ie)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-03-13T09:22:54.744302"
+date: "2026-03-20T08:22:05.540449"
 draft: false
 sectors:
   - automobile
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,20 +55,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - emblem
   - vertical
+  - emblem
 brand_colors:
+  - red
+  - white
   - "pantone-201"
   - black
-  - white
-  - red
 typographies: []
 imagery_styles:
+  - graphic
   - modern
-  - monochrome
   - photography
   - gradient
-  - graphic
+  - monochrome
 wikidata_description: Italian automotive company
 wikidata_url: "https://www.wikidata.org/wiki/Q26921"
 has_twitter: false
@@ -78,11 +80,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.alfaromeo.com](http://www.alfaromeo.com)
-- [https://www.alfaromeo.ca/](https://www.alfaromeo.ca/)
-- [https://www.alfaromeo.com/](https://www.alfaromeo.com/)
+- [https://www.alfaromeo.com](https://www.alfaromeo.com)
 - [https://www.alfaromeo.com/choose-your-market](https://www.alfaromeo.com/choose-your-market)
-- [https://www.alfaromeousa.com/](https://www.alfaromeousa.com/)
+- [https://www.alfaromeousa.com](https://www.alfaromeousa.com)
+- [https://www.alfaromeo.ca](https://www.alfaromeo.ca)
+- [http://www.alfaromeo.com](http://www.alfaromeo.com)
 
 ## Brand Guidelines
 

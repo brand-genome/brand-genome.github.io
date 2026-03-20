@@ -2,7 +2,7 @@
 title: John Knox Christian School
 slug: "john-knox-christian-school"
 description: ""
-date: "2026-03-13T09:22:52.174138"
+date: "2026-03-20T08:22:03.240766"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1959
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - badge
-  - primary
   - stacked
+  - logomark
+  - primary
+  - badge
 brand_colors:
-  - black
+  - red
   - white
   - teal
-  - red
+  - black
 typographies:
   - poppins
 imagery_styles:
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.JOHNKNOXBC.ORG](http://www.JOHNKNOXBC.ORG)
-- [https://athletics.johnknoxbc.org/](https://athletics.johnknoxbc.org/)
-- [https://johnknoxbc.org/](https://johnknoxbc.org/)
+- [https://johnknoxbc.org](https://johnknoxbc.org)
+- [https://athletics.johnknoxbc.org](https://athletics.johnknoxbc.org)
+- [http://www.johnknoxbc.org](http://www.johnknoxbc.org)
+- [http://www.jkcs-oakville.org](http://www.jkcs-oakville.org)
 
 ## Brand Guidelines
 

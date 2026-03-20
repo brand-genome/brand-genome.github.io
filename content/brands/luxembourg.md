@@ -2,7 +2,7 @@
 title: Luxembourg
 slug: luxembourg
 description: ""
-date: "2026-03-13T09:22:51.897546"
+date: "2026-03-20T08:22:03.063902"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 0963
+foundation_year_buckets:
+  - "10TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - cyan
-  - black
   - red
-  - blue
+  - cyan
   - white
+  - blue
+  - black
 typographies:
   - brandon
   - gotham
 imagery_styles:
-  - monochrome
-  - portrait
   - dynamic
-  - landscape
-  - bold
   - graphic
+  - bold
+  - portrait
+  - monochrome
+  - landscape
 wikidata_description: capital and largest city of Luxembourg
 wikidata_url: "https://www.wikidata.org/wiki/Q1842"
 has_twitter: false
@@ -79,9 +81,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://lmih.lu](https://lmih.lu)
 - [http://www.linotype.com](http://www.linotype.com)
-- [https://lmih.lu/](https://lmih.lu/)
 - [https://lmih.lu/outils/emoxies](https://lmih.lu/outils/emoxies)
+- [https://www.vdl.lu/en](https://www.vdl.lu/en)
+- [https://www.vdl.lu/fr](https://www.vdl.lu/fr)
+- [https://www.vdl.lu/de](https://www.vdl.lu/de)
+- [https://www.vdl.lu](https://www.vdl.lu)
 
 ## Brand Guidelines
 

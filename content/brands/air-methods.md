@@ -2,7 +2,7 @@
 title: Air Methods
 slug: "air-methods"
 description: ""
-date: "2026-03-13T09:22:54.344621"
+date: "2026-03-20T08:22:05.172985"
 draft: false
 sectors:
   - aerospace
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1980
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
   - black
-  - grey
   - white
+  - grey
   - blue
 typographies: []
 imagery_styles:
-  - serious
-  - staged
   - bold
+  - staged
+  - serious
 wikidata_description: American privately owned helicopter operator
 wikidata_url: "https://www.wikidata.org/wiki/Q4698090"
 has_twitter: false
@@ -75,9 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.airmethods.com/](https://www.airmethods.com/)
-- [https://www.airmethods.com/patient-center/](https://www.airmethods.com/patient-center/)
-- [https://www.unitedrotorcraft.com/](https://www.unitedrotorcraft.com/)
+- [https://www.airmethods.com](https://www.airmethods.com)
+- [https://www.airmethods.com/patient-center](https://www.airmethods.com/patient-center)
+- [https://www.unitedrotorcraft.com](https://www.unitedrotorcraft.com)
+- [http://www.airmethods.com](http://www.airmethods.com)
 
 ## Brand Guidelines
 

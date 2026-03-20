@@ -2,7 +2,7 @@
 title: GlobalGiving
 slug: globalgiving
 description: ""
-date: "2026-03-13T09:22:53.399871"
+date: "2026-03-20T08:22:04.304033"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,7 @@ headquarters_locations:
   - "washington-dc"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
+  - red
+  - green
+  - blue
   - gray
   - orange
-  - red
-  - blue
-  - green
 typographies:
-  - serif
-  - "open-sans"
   - "sans-serif"
+  - "open-sans"
+  - serif
 imagery_styles:
-  - photography
   - clean
+  - photography
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q4039485"
 has_twitter: false
@@ -82,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.globalgiving.org/](https://www.globalgiving.org/)
-- [https://www.globalgiving.org/api/](https://www.globalgiving.org/api/)
-- [https://www.secureglobalgiving.org/](https://www.secureglobalgiving.org/)
+- [https://www.globalgiving.org](https://www.globalgiving.org)
+- [https://www.globalgiving.org/api](https://www.globalgiving.org/api)
+- [https://www.secureglobalgiving.org](https://www.secureglobalgiving.org)
 
 ## Brand Guidelines
 

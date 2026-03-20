@@ -2,22 +2,22 @@
 title: Northern Ireland
 slug: "northern-ireland"
 description: ""
-date: "2026-03-13T09:22:53.760191"
+date: "2026-03-20T08:22:04.718427"
 draft: false
 sectors:
   - "public-sector"
   - tourism
 regions:
-  - "united-kingdom"
   - ireland
+  - "united-kingdom"
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-kingdom"
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,31 +52,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - "pantone-298"
-  - "pantone-2152"
-  - "pantone-2627"
-  - black
-  - maroon
-  - blue
   - green
   - white
+  - "pantone-2152"
+  - maroon
+  - blue
+  - "pantone-298"
+  - "pantone-2627"
+  - black
 typographies:
   - display
   - serif
 imagery_styles:
-  - natural
-  - candid
-  - staged
-  - dynamic
-  - portrait
   - vibrant
+  - dynamic
+  - staged
+  - bold
+  - portrait
+  - natural
   - photography
   - landscape
-  - bold
+  - candid
 wikidata_description: "men's national association football team representing Northern Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q190978"
 has_twitter: false
@@ -87,9 +88,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.discovernorthernireland.com](http://www.discovernorthernireland.com)
+- [https://www.tourismni.com/business-guidance/opportunities-campaigns/northern-irelands-embrace-a-giant-spirit-brand](https://www.tourismni.com/business-guidance/opportunities-campaigns/northern-irelands-embrace-a-giant-spirit-brand)
 - [https://mytourismni.com/embraceagiantspirit](https://mytourismni.com/embraceagiantspirit)
-- [https://www.tourismni.com/business-guidance/opportunities-campaigns/northern-irelands-embrace-a-giant-spirit-brand/](https://www.tourismni.com/business-guidance/opportunities-campaigns/northern-irelands-embrace-a-giant-spirit-brand/)
+- [http://www.discovernorthernireland.com](http://www.discovernorthernireland.com)
+- [http://www.northernirelandyears.com](http://www.northernirelandyears.com)
+- [http://www.irishfa.com](http://www.irishfa.com)
 
 ## Brand Guidelines
 

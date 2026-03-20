@@ -2,7 +2,7 @@
 title: Skako
 slug: skako
 description: ""
-date: "2026-03-13T09:22:52.199054"
+date: "2026-03-20T08:22:03.266075"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +52,15 @@ logo_elements:
   - secondary
 brand_colors:
   - black
-  - grey
   - white
+  - grey
   - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://skako.com/](https://skako.com/)
+- [https://skako.com](https://skako.com)
 
 ## Brand Guidelines
 

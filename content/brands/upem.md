@@ -2,7 +2,7 @@
 title: UPEM
 slug: upem
 description: ""
-date: "2026-03-13T09:22:55.164588"
+date: "2026-03-20T08:22:05.865824"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.univ-gustave-eiffel.fr/en/](https://www.univ-gustave-eiffel.fr/en/)
+- [https://www.univ-gustave-eiffel.fr/en](https://www.univ-gustave-eiffel.fr/en)
+- [http://www.upem.edu.mx](http://www.upem.edu.mx)
 
 ## Brand Guidelines
 

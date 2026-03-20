@@ -14,147 +14,258 @@
     </div>
 </section>
 
-<section class="home-stats">
-    <div class="stat-card">
-        <span class="stat-number">{{ len (where .Site.RegularPages "Section" "brands") }}</span>
-        <span class="stat-label">Brands</span>
+<section class="home-split-layout">
+    <aside class="home-left-panel">
+        <section class="home-qa-panel">
+            <h2>What is Brand Genome?</h2>
+            <p>The <strong>Brand Genome</strong> is a first-of-its-kind Knowledge Graph that maps the complete visual and textual DNA of the world's largest companies. It breaks brand identity down into three computable layers:</p>
+            <p><strong>The Genotype (The Building Blocks):</strong> The granular, trackable attributes of every piece of media—lighting, posture, colors, and tone.</p>
+            <p><strong>The Phenotype (The Expression):</strong> How those building blocks come together in tweets, advertisements, and public messaging over time.</p>
+            <p><strong>The Environment (The Market):</strong> How a brand's unique genetic makeup positions it against competitors and drives real-world consumer engagement.</p>
+        </section>
+
+        <section class="home-kg-sitemap">
+            <h2>🗺️ Sitemap</h2>
+            <p class="kg-sitemap-intro">
+                Explore Brand Genome as a graph: each block is a node type and each relation shows how brands are connected.
+            </p>
+
+            <div class="kg-sitemap-grid">
+                <article class="kg-node-card root">
+                    <h3>Brand Genome</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/brands/" | relURL }}">All Brands</a>
+                        <a href="{{ "/about/" | relURL }}">About</a>
+                    </div>
+                </article>
+
+                <article class="kg-node-card">
+                    <span class="kg-relation">has identity axis</span>
+                    <h3>Organization Context</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/sectors/" | relURL }}">Sectors</a>
+                        <a href="{{ "/regions/" | relURL }}">Regions</a>
+                        <a href="{{ "/industries/" | relURL }}">Industries</a>
+                        <a href="{{ "/countries/" | relURL }}">Countries</a>
+                        <a href="{{ "/languages/" | relURL }}">Languages</a>
+                        <a href="{{ "/tags/" | relURL }}">Tags</a>
+                    </div>
+                </article>
+
+                <article class="kg-node-card">
+                    <span class="kg-relation">has timeline</span>
+                    <h3>Time Structure</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/years/" | relURL }}">Guideline Years</a>
+                        <a href="{{ "/foundation_dates/" | relURL }}">Foundation Dates</a>
+                        <a href="{{ "/foundation_year_buckets/" | relURL }}">Foundation Year Buckets</a>
+                    </div>
+                </article>
+
+                <article class="kg-node-card">
+                    <span class="kg-relation">has financial state</span>
+                    <h3>Financial Buckets</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/revenue_buckets/" | relURL }}">Revenue</a>
+                        <a href="{{ "/operating_income_buckets/" | relURL }}">Operating Income</a>
+                        <a href="{{ "/net_profit_buckets/" | relURL }}">Net Profit</a>
+                        <a href="{{ "/employees_buckets/" | relURL }}">Employees</a>
+                        <a href="{{ "/total_assets_buckets/" | relURL }}">Total Assets</a>
+                        <a href="{{ "/total_equity_buckets/" | relURL }}">Total Equity</a>
+                        <a href="{{ "/market_cap_buckets/" | relURL }}">Market Cap</a>
+                    </div>
+                </article>
+
+                <article class="kg-node-card">
+                    <span class="kg-relation">has visual signal</span>
+                    <h3>Visual Attributes</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/lightings/" | relURL }}">Lighting</a>
+                        <a href="{{ "/perspectives/" | relURL }}">Perspective</a>
+                        <a href="{{ "/photography_genres/" | relURL }}">Photography</a>
+                        <a href="{{ "/concepts/" | relURL }}">Concepts</a>
+                        <a href="{{ "/image_backgrounds/" | relURL }}">Backgrounds</a>
+                        <a href="{{ "/color_schemes/" | relURL }}">Color Schemes</a>
+                        <a href="{{ "/depths/" | relURL }}">Depth</a>
+                        <a href="{{ "/image_effects/" | relURL }}">Image Effects</a>
+                    </div>
+                </article>
+
+                <article class="kg-node-card">
+                    <span class="kg-relation">has human/guideline traits</span>
+                    <h3>Human & Identity Features</h3>
+                    <div class="kg-node-links">
+                        <a href="{{ "/hair_styles/" | relURL }}">Hair Styles</a>
+                        <a href="{{ "/facial_expressions/" | relURL }}">Facial Expressions</a>
+                        <a href="{{ "/clothing_styles/" | relURL }}">Clothing Styles</a>
+                        <a href="{{ "/clothing_colors/" | relURL }}">Clothing Colors</a>
+                        <a href="{{ "/posings/" | relURL }}">Posings</a>
+                        <a href="{{ "/gazes/" | relURL }}">Gazes</a>
+                        <a href="{{ "/body_sections/" | relURL }}">Body Sections</a>
+                        <a href="{{ "/logo_elements/" | relURL }}">Logo Elements</a>
+                        <a href="{{ "/brand_colors/" | relURL }}">Brand Colors</a>
+                        <a href="{{ "/typographies/" | relURL }}">Typographies</a>
+                        <a href="{{ "/imagery_styles/" | relURL }}">Imagery Styles</a>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </aside>
+
+    <div class="home-right-panel">
+        <section class="home-stats">
+            <div class="stat-card">
+                <span class="stat-number">{{ len (where .Site.RegularPages "Section" "brands") }}</span>
+                <span class="stat-label">Brands</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number">{{ len .Site.Taxonomies.sectors }}</span>
+                <span class="stat-label">Sectors</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number">{{ len .Site.Taxonomies.regions }}</span>
+                <span class="stat-label">Regions</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number">{{ len .Site.Taxonomies.concepts }}</span>
+                <span class="stat-label">Visual Concepts</span>
+            </div>
+        </section>
+
+        <section class="home-explore">
+            <h2>🔗 Explore by Category</h2>
+
+            <div class="explore-grid">
+                <div class="explore-card">
+                    <h3><a href="{{ "/sectors/" | relURL }}">📊 Sectors</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.sectors.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/sectors/" | relURL }}" class="see-all">See all sectors →</a>
+                </div>
+
+                <div class="explore-card">
+                    <h3><a href="{{ "/regions/" | relURL }}">🌍 Regions</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.regions.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/regions/" | relURL }}" class="see-all">See all regions →</a>
+                </div>
+
+                <div class="explore-card">
+                    <h3><a href="{{ "/industries/" | relURL }}">🏭 Industries</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.industries.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/industries/" | relURL }}" class="see-all">See all industries →</a>
+                </div>
+
+                <div class="explore-card">
+                    <h3><a href="{{ "/countries/" | relURL }}">🏳️ Countries</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.countries.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/countries/" | relURL }}" class="see-all">See all countries →</a>
+                </div>
+
+                <div class="explore-card">
+                    <h3><a href="{{ "/years/" | relURL }}">📅 Guideline Years</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.years.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/years/" | relURL }}" class="see-all">See all guideline years →</a>
+                </div>
+
+                <div class="explore-card">
+                    <h3><a href="{{ "/foundation_year_buckets/" | relURL }}">🏛️ Foundation Years</a></h3>
+                    <div class="explore-items">
+                        {{ range first 3 .Site.Taxonomies.foundation_year_buckets.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                    <a href="{{ "/foundation_year_buckets/" | relURL }}" class="see-all">See all foundation year buckets →</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="home-visual">
+            <h2>👁️ Visual Attributes</h2>
+            <p class="visual-attributes-intro">
+                Visual attributes are the measurable visual signals used in brand communication, including lighting, perspective, concepts, and human presentation cues.
+                Together, they form the observable "visual DNA" that helps compare brands across industries and over time.
+            </p>
+
+            <div class="explore-grid">
+                <div class="explore-card visual">
+                    <h3><a href="{{ "/lightings/" | relURL }}">💡 Lighting</a></h3>
+                    <div class="explore-items">
+                        {{ range first 4 .Site.Taxonomies.lightings.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="explore-card visual">
+                    <h3><a href="{{ "/perspectives/" | relURL }}">📐 Perspectives</a></h3>
+                    <div class="explore-items">
+                        {{ range first 4 .Site.Taxonomies.perspectives.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="explore-card visual">
+                    <h3><a href="{{ "/photography_genres/" | relURL }}">📷 Photography</a></h3>
+                    <div class="explore-items">
+                        {{ range first 4 .Site.Taxonomies.photography_genres.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="explore-card visual">
+                    <h3><a href="{{ "/concepts/" | relURL }}">💭 Concepts</a></h3>
+                    <div class="explore-items">
+                        {{ range first 4 .Site.Taxonomies.concepts.ByCount }}
+                        <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="home-recent">
+            <h2>🆕 Examples</h2>
+            <div class="brand-list home-brands">
+                {{ range first 5 (where .Site.RegularPages "Section" "brands") }}
+                <article class="brand-card">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    {{ with .Params.wikidata_description }}
+                    <p class="card-description">{{ . | truncate 80 }}</p>
+                    {{ end }}
+                    <div class="card-meta">
+                        {{ if .Params.has_twitter }}
+                        <span class="meta-badge tiny twitter">📱</span>
+                        {{ end }}
+                        {{ if .Params.has_guidelines }}
+                        <span class="meta-badge tiny guidelines">📋</span>
+                        {{ end }}
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+            <a href="{{ "/brands/" | relURL }}" class="see-all-btn">Browse all brands →</a>
+        </section>
     </div>
-    <div class="stat-card">
-        <span class="stat-number">{{ len .Site.Taxonomies.sectors }}</span>
-        <span class="stat-label">Sectors</span>
-    </div>
-    <div class="stat-card">
-        <span class="stat-number">{{ len .Site.Taxonomies.regions }}</span>
-        <span class="stat-label">Regions</span>
-    </div>
-    <div class="stat-card">
-        <span class="stat-number">{{ len .Site.Taxonomies.concepts }}</span>
-        <span class="stat-label">Visual Concepts</span>
-    </div>
-</section>
-
-<section class="home-explore">
-    <h2>🔗 Explore by Category</h2>
-    
-    <div class="explore-grid">
-        <div class="explore-card">
-            <h3><a href="{{ "/sectors/" | relURL }}">📊 Sectors</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.sectors.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/sectors/" | relURL }}" class="see-all">See all sectors →</a>
-        </div>
-
-        <div class="explore-card">
-            <h3><a href="{{ "/regions/" | relURL }}">🌍 Regions</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.regions.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/regions/" | relURL }}" class="see-all">See all regions →</a>
-        </div>
-
-        <div class="explore-card">
-            <h3><a href="{{ "/industries/" | relURL }}">🏭 Industries</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.industries.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/industries/" | relURL }}" class="see-all">See all industries →</a>
-        </div>
-
-        <div class="explore-card">
-            <h3><a href="{{ "/countries/" | relURL }}">🏳️ Countries</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.countries.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/countries/" | relURL }}" class="see-all">See all countries →</a>
-        </div>
-
-        <div class="explore-card">
-            <h3><a href="{{ "/years/" | relURL }}">📅 Years</a></h3>
-            <div class="explore-items">
-                {{ range first 8 .Site.Taxonomies.years.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-            <a href="{{ "/years/" | relURL }}" class="see-all">See all years →</a>
-        </div>
-    </div>
-</section>
-
-<section class="home-visual">
-    <h2>👁️ Visual Attributes</h2>
-    <p class="visual-attributes-intro">
-        Visual attributes are the measurable visual signals used in brand communication, including lighting, perspective, concepts, and human presentation cues.
-        Together, they form the observable "visual DNA" that helps compare brands across industries and over time.
-    </p>
-    
-    <div class="explore-grid">
-        <div class="explore-card visual">
-            <h3><a href="{{ "/lightings/" | relURL }}">💡 Lighting</a></h3>
-            <div class="explore-items">
-                {{ range first 6 .Site.Taxonomies.lightings.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-        </div>
-
-        <div class="explore-card visual">
-            <h3><a href="{{ "/perspectives/" | relURL }}">📐 Perspectives</a></h3>
-            <div class="explore-items">
-                {{ range first 6 .Site.Taxonomies.perspectives.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-        </div>
-
-        <div class="explore-card visual">
-            <h3><a href="{{ "/photography_genres/" | relURL }}">📷 Photography</a></h3>
-            <div class="explore-items">
-                {{ range first 6 .Site.Taxonomies.photography_genres.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-        </div>
-
-        <div class="explore-card visual">
-            <h3><a href="{{ "/concepts/" | relURL }}">💭 Concepts</a></h3>
-            <div class="explore-items">
-                {{ range first 6 .Site.Taxonomies.concepts.ByCount }}
-                <a href="{{ .Page.Permalink }}" class="explore-link">{{ .Page.Title | humanize }} <span class="count">({{ .Count }})</span></a>
-                {{ end }}
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="home-recent">
-    <h2>🆕 Sample Brands</h2>
-    <div class="brand-list home-brands">
-        {{ range first 12 (where .Site.RegularPages "Section" "brands") }}
-        <article class="brand-card">
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            {{ with .Params.wikidata_description }}
-            <p class="card-description">{{ . | truncate 80 }}</p>
-            {{ end }}
-            <div class="card-meta">
-                {{ if .Params.has_twitter }}
-                <span class="meta-badge tiny twitter">📱</span>
-                {{ end }}
-                {{ if .Params.has_guidelines }}
-                <span class="meta-badge tiny guidelines">📋</span>
-                {{ end }}
-            </div>
-        </article>
-        {{ end }}
-    </div>
-    <a href="{{ "/brands/" | relURL }}" class="see-all-btn">Browse all brands →</a>
 </section>
 {{ end }}

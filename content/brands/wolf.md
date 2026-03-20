@@ -2,7 +2,7 @@
 title: Wolf
 slug: wolf
 description: ""
-date: "2026-03-13T09:22:53.283069"
+date: "2026-03-20T08:22:04.212285"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
   - gotham
 imagery_styles:
-  - clean
-  - photography
   - product
-  - bold
   - graphic
+  - bold
+  - photography
+  - clean
 wikidata_description: "food court in Brussels, Belgium"
 wikidata_url: "https://www.wikidata.org/wiki/Q101626987"
 has_twitter: false
@@ -73,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wolf1834.com/](https://www.wolf1834.com/)
+- [https://www.wolf1834.com](https://www.wolf1834.com)
+- [https://www.wolf.brussels](https://www.wolf.brussels)
 
 ## Brand Guidelines
 

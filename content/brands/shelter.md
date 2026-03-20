@@ -2,7 +2,7 @@
 title: Shelter
 slug: shelter
 description: ""
-date: "2026-03-13T09:22:53.966669"
+date: "2026-03-20T08:22:04.892346"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - charity
+  - social
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,11 +52,11 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - "pantone-136"
-  - "pantone-482"
-  - "pantone-2"
   - "pantone-3242"
   - "pantone-485"
+  - "pantone-2"
   - "pantone-305"
+  - "pantone-482"
 typographies: []
 imagery_styles: []
 wikidata_description: American hardcore punk band
@@ -68,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.shelter.org.uk](https://www.shelter.org.uk)
+- [https://england.shelter.org.uk](https://england.shelter.org.uk)
+- [https://scotland.shelter.org.uk](https://scotland.shelter.org.uk)
 - [http://www.shelterscotland.org](http://www.shelterscotland.org)
-- [https://england.shelter.org.uk/](https://england.shelter.org.uk/)
-- [https://scotland.shelter.org.uk/](https://scotland.shelter.org.uk/)
-- [https://www.shelter.org.uk/](https://www.shelter.org.uk/)
 
 ## Brand Guidelines
 

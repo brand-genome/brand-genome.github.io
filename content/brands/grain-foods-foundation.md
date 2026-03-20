@@ -2,7 +2,7 @@
 title: Grain Foods Foundation
 slug: "grain-foods-foundation"
 description: ""
-date: "2026-03-13T09:22:53.404497"
+date: "2026-03-20T08:22:04.306272"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - symbol
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - red
   - "pantone-7568"
+  - gold
+  - "pantone-7408"
   - "pantone-7597"
   - black
-  - red
-  - "pantone-7408"
-  - gold
 typographies:
   - helvetica
   - din
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://grainfoodsfoundation.org/](https://grainfoodsfoundation.org/)
+- [https://grainfoodsfoundation.org](https://grainfoodsfoundation.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Dallas Cowboys
 slug: "dallas-cowboys"
 description: ""
-date: "2026-03-13T09:22:53.603583"
+date: "2026-03-20T08:22:04.468742"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1960
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +51,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
 brand_colors:
   - silver
-  - navy
-  - "pantone-14"
-  - grey
-  - "pantone-15"
   - green
+  - navy
+  - "pantone-15"
+  - grey
   - "pantone-19"
+  - "pantone-14"
 typographies: []
 imagery_styles: []
 wikidata_description: American football team
@@ -72,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://shop.dallascowboys.com/](https://shop.dallascowboys.com/)
-- [https://www.dallascowboys.com/](https://www.dallascowboys.com/)
+- [https://www.dallascowboys.com](https://www.dallascowboys.com)
+- [https://shop.dallascowboys.com](https://shop.dallascowboys.com)
 
 ## Brand Guidelines
 

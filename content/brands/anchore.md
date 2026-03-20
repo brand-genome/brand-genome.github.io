@@ -2,11 +2,11 @@
 title: Anchore
 slug: anchore
 description: ""
-date: "2026-03-13T09:22:53.079005"
+date: "2026-03-20T08:22:04.076428"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries:
   - argentina
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,28 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - vertical
+  - stacked
+  - horizontal
   - wordmark
   - primary
-  - stacked
-  - vertical
-  - horizontal
+  - icon
 brand_colors:
-  - "pantone-3262"
-  - gray
-  - black
-  - blue
-  - "pantone-193"
   - white
+  - blue
+  - gray
+  - "pantone-3262"
+  - "pantone-193"
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - natural
-  - clean
   - minimal
-  - photography
   - professional
   - bold
+  - natural
+  - photography
+  - clean
 wikidata_description: train station in Argentina
 wikidata_url: "https://www.wikidata.org/wiki/Q5842914"
 has_twitter: false
@@ -82,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://anchore.com/](https://anchore.com/)
+- [https://anchore.com](https://anchore.com)
 
 ## Brand Guidelines
 

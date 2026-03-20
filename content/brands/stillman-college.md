@@ -2,7 +2,7 @@
 title: Stillman College
 slug: "stillman-college"
 description: ""
-date: "2026-03-13T09:22:52.332586"
+date: "2026-03-20T08:22:03.401333"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://stillman.edu](https://stillman.edu)
 - [http://www.stillman.edu](http://www.stillman.edu)
-- [https://stillman.edu/](https://stillman.edu/)
 
 ## Brand Guidelines
 

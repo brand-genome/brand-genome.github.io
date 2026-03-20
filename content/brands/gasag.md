@@ -2,7 +2,7 @@
 title: Gasag
 slug: gasag
 description: ""
-date: "2026-03-13T09:22:52.865079"
+date: "2026-03-20T08:22:03.865291"
 draft: false
 sectors:
   - utilities
@@ -13,11 +13,11 @@ years:
 languages:
   - german
 tags:
-  - featured
   - industry
+  - featured
 industries:
-  - "energy-company"
   - "energy-supply"
+  - "energy-company"
   - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
 countries:
   - germany
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1847
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gasag.de](https://www.gasag.de)
 - [http://www.gasagdeals.de](http://www.gasagdeals.de)
 - [http://www.peperoni.berlin](http://www.peperoni.berlin)
-- [https://www.gasag.de/](https://www.gasag.de/)
+- [http://www.gasag.de](http://www.gasag.de)
 
 ## Brand Guidelines
 

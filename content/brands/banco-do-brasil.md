@@ -2,7 +2,7 @@
 title: Banco do Brasil
 slug: "banco-do-brasil"
 description: ""
-date: "2026-03-13T09:22:52.302520"
+date: "2026-03-20T08:22:03.370912"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
+  - "economics-of-banking"
 countries:
   - brazil
 revenue_buckets: []
@@ -33,11 +33,13 @@ products_or_materials_produced:
   - bank
 products: []
 headquarters_locations:
-  - "rio-de-janeiro"
   - brasilia
+  - "rio-de-janeiro"
 subsidiaries: []
 foundation_dates:
   - 1808
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bb.com.br/](https://www.bb.com.br/)
-- [https://www46.bb.com.br/](https://www46.bb.com.br/)
+- [https://www.bb.com.br](https://www.bb.com.br)
+- [https://www46.bb.com.br](https://www46.bb.com.br)
 
 ## Brand Guidelines
 
@@ -88,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Bank](/products_or_materials_produced/bank/) |
-| Headquarters Location | [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/); [Brasilia](/headquarters_locations/brasilia/) |
+| Headquarters Location | [Brasilia](/headquarters_locations/brasilia/); [Rio De Janeiro](/headquarters_locations/rio-de-janeiro/) |
 | Foundation Date | [1808](/foundation_dates/1808/) |
 | Freebase Id | /m/036yt4 |
 | Headquarters Location | Brasília, Rio de Janeiro |

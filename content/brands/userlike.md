@@ -2,7 +2,7 @@
 title: Userlike
 slug: userlike
 description: ""
-date: "2026-03-13T09:22:53.066061"
+date: "2026-03-20T08:22:04.057983"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://connect.lime-technologies.com/](https://connect.lime-technologies.com/)
-- [https://connect.lime-technologies.com/en/products/messaging/website-chat/](https://connect.lime-technologies.com/en/products/messaging/website-chat/)
+- [https://connect.lime-technologies.com](https://connect.lime-technologies.com)
+- [https://connect.lime-technologies.com/en/products/messaging/website-chat](https://connect.lime-technologies.com/en/products/messaging/website-chat)
 
 ## Brand Guidelines
 

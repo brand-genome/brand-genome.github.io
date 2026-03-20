@@ -2,7 +2,7 @@
 title: Opera One
 slug: "opera-one"
 description: ""
-date: "2026-03-13T09:22:52.867387"
+date: "2026-03-20T08:22:03.867981"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review](http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review)
-- [https://blogs.opera.com/desktop/](https://blogs.opera.com/desktop/)
+- [https://www.opera.com](https://www.opera.com)
 - [https://opr.as/opera-one](https://opr.as/opera-one)
-- [https://www.opera.com/](https://www.opera.com/)
+- [https://blogs.opera.com/desktop](https://blogs.opera.com/desktop)
+- [http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review](http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review)
 
 ## Brand Guidelines
 

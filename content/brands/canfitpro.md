@@ -2,7 +2,7 @@
 title: Canfitpro
 slug: canfitpro
 description: ""
-date: "2026-03-13T09:22:53.723808"
+date: "2026-03-20T08:22:04.687730"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.canfitpro.com/](https://www.canfitpro.com/)
+- [https://www.canfitpro.com](https://www.canfitpro.com)
 
 ## Brand Guidelines
 

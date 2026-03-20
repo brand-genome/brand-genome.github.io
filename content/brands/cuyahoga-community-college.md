@@ -2,7 +2,7 @@
 title: Cuyahoga Community College
 slug: "cuyahoga-community-college"
 description: ""
-date: "2026-03-13T09:22:53.720588"
+date: "2026-03-20T08:22:04.684268"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.tri-c.edu](http://www.tri-c.edu)
-- [https://my.tri-c.edu/](https://my.tri-c.edu/)
-- [https://www.tri-c.edu/](https://www.tri-c.edu/)
+- [https://www.tri-c.edu](https://www.tri-c.edu)
 - [https://www.tri-c.edu/index.html](https://www.tri-c.edu/index.html)
+- [https://my.tri-c.edu](https://my.tri-c.edu)
+- [http://www.tri-c.edu](http://www.tri-c.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: NFL
 slug: nfl
 description: ""
-date: "2026-03-13T09:22:55.148105"
+date: "2026-03-20T08:22:05.847267"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -68,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nfl.com](https://www.nfl.com)
 - [https://operations.nfl.com](https://operations.nfl.com)
 - [https://support.nfl.com](https://support.nfl.com)
-- [https://www.nfl.com](https://www.nfl.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Linvisible
 slug: linvisible
 description: ""
-date: "2026-03-13T09:22:54.969657"
+date: "2026-03-20T08:22:05.700766"
 draft: false
 sectors:
-  - "interior-design-decor"
   - construction
+  - "interior-design-decor"
 regions:
   - italy
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://linvisibile.com/](https://linvisibile.com/)
-- [https://linvisibile.com/it/](https://linvisibile.com/it/)
-- [https://linvisibile.it/](https://linvisibile.it/)
+- [https://linvisibile.com](https://linvisibile.com)
+- [https://linvisibile.com/it](https://linvisibile.com/it)
+- [https://linvisibile.it](https://linvisibile.it)
 
 ## Brand Guidelines
 

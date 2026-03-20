@@ -2,7 +2,7 @@
 title: The Nordics
 slug: "the-nordics"
 description: ""
-date: "2026-03-13T09:22:54.970765"
+date: "2026-03-20T08:22:05.701536"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,23 +48,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
-  - secondary
   - lockup
+  - primary
+  - secondary
+  - monogram
 brand_colors:
-  - "pantone-286"
-  - "pantone-3435"
+  - red
   - "pantone-183"
+  - green
+  - "pantone-3435"
+  - "pantone-286"
+  - white
   - grey
   - gray
   - yellow
+  - "pantone-653"
   - "pantone-107"
   - black
-  - red
-  - "pantone-653"
-  - green
-  - white
 typographies:
   - helvetica
   - times
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.FINLAND.FI](http://www.FINLAND.FI)
-- [http://www.SWEDEN.SE](http://www.SWEDEN.SE)
-- [https://thenordics.com/](https://thenordics.com/)
+- [https://thenordics.com](https://thenordics.com)
+- [http://www.finland.fi](http://www.finland.fi)
+- [http://www.sweden.se](http://www.sweden.se)
 
 ## Brand Guidelines
 

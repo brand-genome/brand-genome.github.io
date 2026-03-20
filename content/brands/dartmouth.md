@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-03-13T09:22:54.332752"
+date: "2026-03-20T08:22:05.158819"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1769
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,21 +55,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
+  - wordmark
   - primary
   - secondary
-  - wordmark
-  - signature
 brand_colors:
-  - orange
-  - black
   - red
   - green
   - white
+  - orange
+  - black
 typographies:
   - impact
 imagery_styles:
-  - photography
   - natural
+  - photography
 wikidata_description: "private university in Hanover, New Hampshire, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q49116"
 has_twitter: false
@@ -79,11 +81,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.dartmouth.edu](http://www.dartmouth.edu)
-- [https://admissions.dartmouth.edu/](https://admissions.dartmouth.edu/)
-- [https://dartmouth.edu/](https://dartmouth.edu/)
-- [https://home.dartmouth.edu/](https://home.dartmouth.edu/)
+- [https://home.dartmouth.edu](https://home.dartmouth.edu)
+- [https://dartmouth.edu](https://dartmouth.edu)
+- [https://admissions.dartmouth.edu](https://admissions.dartmouth.edu)
 - [https://home.dartmouth.edu/admissions](https://home.dartmouth.edu/admissions)
+- [http://www.dartmouth.edu](http://www.dartmouth.edu)
 
 ## Brand Guidelines
 

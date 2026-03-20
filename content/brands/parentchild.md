@@ -2,11 +2,11 @@
 title: ParentChild+
 slug: parentchild
 description: ""
-date: "2026-03-13T09:22:54.220832"
+date: "2026-03-20T08:22:05.048811"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
+  - teal
+  - white
+  - blue
   - gray
   - yellow
-  - black
-  - teal
   - pink
-  - blue
-  - white
+  - black
 typographies:
   - arial
   - montserrat
 imagery_styles:
-  - vibrant
-  - playful
   - photography
   - bold
+  - playful
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://parentchildplus.org/](https://parentchildplus.org/)
+- [https://parentchildplus.org](https://parentchildplus.org)
 
 ## Brand Guidelines
 

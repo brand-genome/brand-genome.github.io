@@ -2,11 +2,11 @@
 title: "F-Secure"
 slug: "f-secure"
 description: ""
-date: "2026-03-13T09:22:53.255448"
+date: "2026-03-20T08:22:04.181141"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - finland
 years:
@@ -27,14 +27,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "computer-security-software"
   - software
+  - "computer-security-software"
 products: []
 headquarters_locations:
   - helsinki
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,10 +55,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - gray
   - purple
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://company.f-secure.com/](https://company.f-secure.com/)
-- [https://www.f-secure.com/](https://www.f-secure.com/)
+- [https://www.f-secure.com](https://www.f-secure.com)
 - [https://www.f-secure.com/us-en](https://www.f-secure.com/us-en)
+- [https://company.f-secure.com](https://company.f-secure.com)
+- [http://www.f-secure.com](http://www.f-secure.com)
 
 ## Brand Guidelines
 
@@ -129,7 +132,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Computer Security Software](/products_or_materials_produced/computer-security-software/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Computer Security Software](/products_or_materials_produced/computer-security-software/) |
 | Headquarters Location | [Helsinki](/headquarters_locations/helsinki/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Freebase Id | /m/046nqp |

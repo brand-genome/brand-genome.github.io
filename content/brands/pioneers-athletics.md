@@ -2,11 +2,11 @@
 title: Pioneers Athletics
 slug: "pioneers-athletics"
 description: ""
-date: "2026-03-13T09:22:53.664141"
+date: "2026-03-20T08:22:04.521685"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,25 +49,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - monogram
-  - secondary
   - wordmark
+  - primary
+  - secondary
+  - monogram
 brand_colors:
-  - "pantone-655"
   - silver
-  - "pantone-2728"
-  - gray
-  - orange
-  - "pantone-2347"
   - red
-  - blue
+  - "pantone-655"
   - white
+  - blue
+  - gray
+  - "pantone-2728"
+  - "pantone-2347"
+  - orange
 typographies: []
 imagery_styles:
-  - professional
   - bold
   - graphic
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://northlandpioneers.com/](https://northlandpioneers.com/)
-- [https://www.northlandcollege.edu/](https://www.northlandcollege.edu/)
+- [https://northlandpioneers.com](https://northlandpioneers.com)
+- [https://www.northlandcollege.edu](https://www.northlandcollege.edu)
 
 ## Brand Guidelines
 

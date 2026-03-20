@@ -2,7 +2,7 @@
 title: Cessna
 slug: cessna
 description: ""
-date: "2026-03-13T09:22:54.712935"
+date: "2026-03-20T08:22:05.511264"
 draft: false
 sectors:
   - aerospace
@@ -15,8 +15,8 @@ languages:
 tags:
   - transport
 industries:
-  - "aerospace-industry"
   - aviation
+  - "aerospace-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -27,19 +27,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "cessna-172-skyhawk"
+  - "cessna-aircraft"
   - "cessna-206"
-  - "cessna-citation-mustang"
   - "cessna-208-caravan"
   - "cessna-citation-x"
   - "cessna-182-skylane"
-  - "cessna-aircraft"
-  - "cessna-172-skyhawk"
+  - "cessna-citation-mustang"
 products: []
 headquarters_locations:
   - wichita
 subsidiaries: []
 foundation_dates:
   - 1927
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,8 @@ logo_elements:
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: aircraft manufacturing subsidiary of Textron
 wikidata_url: "https://www.wikidata.org/wiki/Q308889"
 has_twitter: false
@@ -76,10 +78,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.CESSNA.COM](http://www.CESSNA.COM)
-- [https://www.pilot.cessna.com](https://www.pilot.cessna.com)
 - [https://www.textronaviation.com](https://www.textronaviation.com)
+- [https://www.pilot.cessna.com](https://www.pilot.cessna.com)
 - [https://www.txtav.com](https://www.txtav.com)
+- [http://www.cessna.com](http://www.cessna.com)
+- [https://cessna.txtav.com](https://cessna.txtav.com)
 
 ## Brand Guidelines
 
@@ -184,7 +187,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/) |
+| Product Or Material Produced | [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/) |
 | Headquarters Location | [Wichita](/headquarters_locations/wichita/) |
 | Foundation Date | [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Cessna |

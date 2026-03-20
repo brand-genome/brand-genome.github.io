@@ -2,7 +2,7 @@
 title: Librairies Indépendantes
 slug: "librairies-independantes"
 description: ""
-date: "2026-03-13T09:22:54.797427"
+date: "2026-03-20T08:22:05.570956"
 draft: false
 sectors:
   - "arts-culture"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,9 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - horizontal
-  - vertical
 brand_colors:
   - white
 typographies: []
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.librairiesindependantes.com/](https://www.librairiesindependantes.com/)
-- [https://www.syndicat-librairie.fr/](https://www.syndicat-librairie.fr/)
+- [https://www.librairiesindependantes.com](https://www.librairiesindependantes.com)
+- [https://www.syndicat-librairie.fr](https://www.syndicat-librairie.fr)
 
 ## Brand Guidelines
 

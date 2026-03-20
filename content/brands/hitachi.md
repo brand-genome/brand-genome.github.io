@@ -2,11 +2,11 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-03-13T09:22:55.161749"
+date: "2026-03-20T08:22:05.863060"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
   - hardware
 regions:
   - japan
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,14 +56,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
   - silver
-  - white
   - red
+  - white
+  - black
 typographies:
   - helvetica
   - times
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hitachi.com/](https://www.hitachi.com/)
+- [https://www.hitachi.com](https://www.hitachi.com)
 
 ## Brand Guidelines
 

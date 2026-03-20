@@ -2,7 +2,7 @@
 title: Tech Informed
 slug: "tech-informed"
 description: ""
-date: "2026-03-13T09:22:53.240355"
+date: "2026-03-20T08:22:04.158134"
 draft: false
 sectors:
   - publishing
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - media
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - grey
-  - orange
   - white
+  - orange
+  - grey
   - blue
 typographies: []
 imagery_styles:
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.techinformed.com](https://www.techinformed.com)
 - [http://www.techinformed.com](http://www.techinformed.com)
-- [https://www.techinformed.com/](https://www.techinformed.com/)
 
 ## Brand Guidelines
 

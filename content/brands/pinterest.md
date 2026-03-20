@@ -2,7 +2,7 @@
 title: Pinterest
 slug: pinterest
 description: ""
-date: "2026-03-13T09:22:53.935910"
+date: "2026-03-20T08:22:04.857701"
 draft: false
 sectors:
   - "social-media"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.pinterest.com](https://www.pinterest.com)
+- [https://business.pinterest.com](https://business.pinterest.com)
+- [https://brand.pinterest.com](https://brand.pinterest.com)
 - [http://www.pinterest.com/brand-guidelines](http://www.pinterest.com/brand-guidelines)
-- [https://brand.pinterest.com/](https://brand.pinterest.com/)
-- [https://business.pinterest.com/](https://business.pinterest.com/)
-- [https://www.pinterest.com/](https://www.pinterest.com/)
 
 ## Brand Guidelines
 

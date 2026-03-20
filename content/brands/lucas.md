@@ -2,7 +2,7 @@
 title: Lucas
 slug: lucas
 description: ""
-date: "2026-03-13T09:22:54.409092"
+date: "2026-03-20T08:22:05.240545"
 draft: false
 sectors:
   - hardware
@@ -28,11 +28,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "san-francisco"
   - "letterman-digital-arts-center"
+  - "san-francisco"
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,11 +54,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - black
   - red
   - "pantone-185"
   - white
+  - grey
+  - black
 typographies:
   - roboto
 imagery_styles:
@@ -72,9 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.lucas-robotic-system.com/en](https://www.lucas-robotic-system.com/en)
 - [http://www.lucas-robotic-system.com](http://www.lucas-robotic-system.com)
 - [http://www.sympozium.fr](http://www.sympozium.fr)
-- [https://www.lucas-robotic-system.com/en](https://www.lucas-robotic-system.com/en)
+- [https://www.lucasarts.com](https://www.lucasarts.com)
+- [https://www.lucasfilm.com/what-we-do/games](https://www.lucasfilm.com/what-we-do/games)
 
 ## Brand Guidelines
 
@@ -123,7 +127,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [Letterman Digital Arts Center](/headquarters_locations/letterman-digital-arts-center/) |
+| Headquarters Location | [Letterman Digital Arts Center](/headquarters_locations/letterman-digital-arts-center/); [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | George Lucas |
 | Inception | 1982-05-01 |

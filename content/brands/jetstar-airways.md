@@ -2,7 +2,7 @@
 title: Jetstar Airways
 slug: "jetstar-airways"
 description: ""
-date: "2026-03-13T09:22:54.823530"
+date: "2026-03-20T08:22:05.586025"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ body_sections: []
 logo_elements:
   - vertical
 brand_colors:
-  - black
   - orange
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -69,8 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jetstar.com/](https://www.jetstar.com/)
+- [https://www.jetstar.com](https://www.jetstar.com)
 - [https://www.jetstar.com/au/en/home](https://www.jetstar.com/au/en/home)
+- [https://www.jetstar.com/au/en](https://www.jetstar.com/au/en)
+- [https://www.jetstar.com/us/en](https://www.jetstar.com/us/en)
 
 ## Brand Guidelines
 

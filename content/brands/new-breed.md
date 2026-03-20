@@ -2,12 +2,12 @@
 title: New Breed
 slug: "new-breed"
 description: ""
-date: "2026-03-13T09:22:52.884935"
+date: "2026-03-20T08:22:03.875893"
 draft: false
 sectors:
+  - "marketing-advertising"
   - consulting
   - software
-  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - software
+  - marketing
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,26 +50,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
   - stacked
-  - lockup
-  - secondary
   - seal
+  - secondary
+  - logomark
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - black
   - red
   - blue
+  - black
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
+  - graphic
   - natural
   - illustration
-  - candid
   - photography
-  - graphic
+  - candid
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11234858"
 has_twitter: false
@@ -80,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.newbreedrevenue.com/](https://www.newbreedrevenue.com/)
+- [https://www.newbreedrevenue.com](https://www.newbreedrevenue.com)
+- [http://newbreed.ca](http://newbreed.ca)
 
 ## Brand Guidelines
 

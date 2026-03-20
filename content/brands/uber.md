@@ -2,23 +2,23 @@
 title: Uber
 slug: uber
 description: ""
-date: "2026-03-13T09:22:52.132428"
+date: "2026-03-20T08:22:03.195535"
 draft: false
 sectors:
-  - software
-  - "logistics-supply-chain"
   - "ride-sharing"
+  - "logistics-supply-chain"
+  - software
 regions:
   - usa
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
   - transport
-  - internet
   - app
+  - internet
 industries:
   - "peer-to-peer-ridesharing"
   - "information-technology"
@@ -45,6 +45,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,29 +65,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - purple
-  - grey
-  - yellow
-  - orange
-  - black
   - red
-  - blue
   - green
   - white
+  - purple
+  - grey
+  - blue
+  - yellow
   - brown
+  - orange
+  - black
 typographies:
   - display
 imagery_styles:
   - photography
+  - bold
   - artificial
   - product
-  - bold
 wikidata_description: "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California"
 wikidata_url: "https://www.wikidata.org/wiki/Q780442"
 has_twitter: false
@@ -97,8 +99,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.uber.com/](https://help.uber.com/)
-- [https://www.uber.com/](https://www.uber.com/)
+- [https://www.uber.com](https://www.uber.com)
+- [https://help.uber.com](https://help.uber.com)
 
 ## Brand Guidelines
 

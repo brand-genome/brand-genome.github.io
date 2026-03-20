@@ -2,7 +2,7 @@
 title: Ukraine Now
 slug: "ukraine-now"
 description: ""
-date: "2026-03-13T09:22:54.726849"
+date: "2026-03-20T08:22:05.524035"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +51,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-113"
   - "pantone-285"
-  - yellow
-  - black
   - blue
+  - yellow
+  - "pantone-113"
+  - black
 typographies: []
 imagery_styles:
-  - modern
   - bold
+  - modern
   - geometric
 wikidata_description: Ukrainian international promotion campaign for tourism and investment
 wikidata_url: "https://www.wikidata.org/wiki/Q61112977"
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ukraine.ua/](https://ukraine.ua/)
+- [https://ukraine.ua](https://ukraine.ua)
 
 ## Brand Guidelines
 

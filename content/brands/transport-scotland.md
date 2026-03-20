@@ -2,11 +2,11 @@
 title: Transport Scotland
 slug: "transport-scotland"
 description: ""
-date: "2026-03-13T09:22:54.553456"
+date: "2026-03-20T08:22:05.399005"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - scotland
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - stacked
+  - secondary
 brand_colors:
   - "pantone-2717"
+  - white
+  - blue
   - "pantone-2736"
   - black
-  - blue
-  - white
 typographies:
-  - arial
   - "gill-sans"
+  - arial
 imagery_styles:
   - bold
   - graphic
@@ -75,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.transport.gov.scot/](https://www.transport.gov.scot/)
+- [https://www.transport.gov.scot](https://www.transport.gov.scot)
 
 ## Brand Guidelines
 

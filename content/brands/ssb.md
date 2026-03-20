@@ -2,7 +2,7 @@
 title: SSB
 slug: ssb
 description: ""
-date: "2026-03-13T09:22:55.029643"
+date: "2026-03-20T08:22:05.732934"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - financial
   - business
+  - financial
 industries:
   - "rail-transport"
 countries:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1898
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,21 +60,21 @@ logo_elements:
   - secondary
 brand_colors:
   - silver
+  - red
+  - "pantone-541"
+  - white
+  - blue
   - gray
   - black
-  - "pantone-541"
-  - red
-  - blue
-  - white
 typographies:
-  - times
   - akzidenz
-  - helvetica
   - serif
   - arial
+  - times
+  - helvetica
 imagery_styles:
-  - clean
   - bold
+  - clean
   - graphic
 wikidata_description: public transport operator in Germany
 wikidata_url: "https://www.wikidata.org/wiki/Q2359602"
@@ -83,6 +85,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://www.ssb-ag.de](http://www.ssb-ag.de)
+
 ## Brand Guidelines
 
 ### 2004

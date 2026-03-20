@@ -2,11 +2,11 @@
 title: RSCN
 slug: rscn
 description: ""
-date: "2026-03-13T09:22:54.814756"
+date: "2026-03-20T08:22:05.581586"
 draft: false
 sectors:
-  - tourism
   - ngo
+  - tourism
 regions:
   - jordan
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-361"
   - "pantone-136"
-  - "pantone-1655"
-  - black
-  - "pantone-312"
+  - "pantone-361"
   - white
+  - "pantone-1655"
+  - "pantone-312"
+  - black
 typographies:
   - display
   - frutiger
@@ -74,7 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rscn.org.jo/](https://rscn.org.jo/)
+- [https://rscn.org.jo](https://rscn.org.jo)
+- [https://www.rscn.org.jo](https://www.rscn.org.jo)
 
 ## Brand Guidelines
 

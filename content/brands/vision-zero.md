@@ -2,7 +2,7 @@
 title: Vision Zero
 slug: "vision-zero"
 description: ""
-date: "2026-03-13T09:22:53.286379"
+date: "2026-03-20T08:22:04.213895"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ headquarters_locations:
   - berlin
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.visionzero.global](http://www.visionzero.global)
-- [https://visionzero.global/](https://visionzero.global/)
+- [https://visionzero.global](https://visionzero.global)
 - [https://visionzero.global/issa](https://visionzero.global/issa)
 - [https://www.issa.int/node/181520](https://www.issa.int/node/181520)
+- [http://www.visionzero.global](http://www.visionzero.global)
+- [https://vision-zero-oncology.de](https://vision-zero-oncology.de)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: League of Women Voters
 slug: "league-of-women-voters"
 description: ""
-date: "2026-03-13T09:22:53.326883"
+date: "2026-03-20T08:22:04.237829"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1920
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +54,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
   - red
-  - blue
   - gold
   - white
+  - purple
+  - blue
 typographies:
-  - merriweather
-  - lato
   - serif
-  - times
   - impact
+  - merriweather
+  - times
+  - lato
 imagery_styles:
-  - photography
   - natural
+  - photography
 wikidata_description: "non-profit, non-partisan advocacy group"
 wikidata_url: "https://www.wikidata.org/wiki/Q3369894"
 has_twitter: false
@@ -77,10 +79,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.lwv.org](https://www.lwv.org)
+- [https://www.vote411.org](https://www.vote411.org)
+- [https://my.lwv.org](https://my.lwv.org)
 - [http://www.lwvny.org](http://www.lwvny.org)
-- [https://my.lwv.org/](https://my.lwv.org/)
-- [https://www.lwv.org/](https://www.lwv.org/)
-- [https://www.vote411.org/](https://www.vote411.org/)
+- [http://lwv.org](http://lwv.org)
 
 ## Brand Guidelines
 

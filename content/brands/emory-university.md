@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-03-13T09:22:52.196096"
+date: "2026-03-20T08:22:03.262422"
 draft: false
 sectors:
   - university
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1836
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,24 +56,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - yellow
   - crimson
+  - gold
+  - "pantone-294"
+  - white
+  - blue
+  - yellow
   - "pantone-130"
   - black
-  - "pantone-294"
-  - blue
-  - gold
-  - white
 typographies:
   - "open-sans"
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: "private research university in Atlanta, Georgia, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q621043"
 has_twitter: false
@@ -83,9 +85,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apply.emory.edu/](https://apply.emory.edu/)
-- [https://www.emory.edu/home/](https://www.emory.edu/home/)
+- [https://www.emory.edu/home](https://www.emory.edu/home)
+- [https://apply.emory.edu](https://apply.emory.edu)
 - [https://www.emory.edu/home/admission/index.html](https://www.emory.edu/home/admission/index.html)
+- [https://emory.edu](https://emory.edu)
 
 ## Brand Guidelines
 

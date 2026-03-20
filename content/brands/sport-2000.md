@@ -2,7 +2,7 @@
 title: Sport 2000
 slug: "sport-2000"
 description: ""
-date: "2026-03-13T09:22:55.037348"
+date: "2026-03-20T08:22:05.739476"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,12 +29,15 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - egly
   - mainhausen
+  - egly
 subsidiaries: []
 foundation_dates:
   - 1966
   - 1999
+foundation_year_buckets:
+  - 1960S
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,19 +56,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - wordmark
   - signature
+  - wordmark
+  - horizontal
 brand_colors:
-  - "pantone-187"
-  - grey
-  - gray
-  - black
   - red
   - white
+  - grey
+  - gray
+  - "pantone-187"
+  - black
 typographies:
-  - display
   - arial
+  - display
 imagery_styles:
   - professional
 wikidata_description: European sporting goods retail chain cooperative
@@ -79,10 +82,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cartecadeau.sport2000.fr/](https://cartecadeau.sport2000.fr/)
-- [https://location-ski.sport2000.fr/](https://location-ski.sport2000.fr/)
-- [https://www.sport2000.fr/](https://www.sport2000.fr/)
-- [https://www.sport2000international.com/](https://www.sport2000international.com/)
+- [https://www.sport2000.fr](https://www.sport2000.fr)
+- [https://location-ski.sport2000.fr](https://location-ski.sport2000.fr)
+- [https://cartecadeau.sport2000.fr](https://cartecadeau.sport2000.fr)
+- [https://www.sport2000international.com](https://www.sport2000international.com)
+- [https://sport2000.at](https://sport2000.at)
 
 ## Brand Guidelines
 
@@ -114,7 +118,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Egly](/headquarters_locations/egly/); [Mainhausen](/headquarters_locations/mainhausen/) |
+| Headquarters Location | [Mainhausen](/headquarters_locations/mainhausen/); [Egly](/headquarters_locations/egly/) |
 | Foundation Date | [1966](/foundation_dates/1966/); [1999](/foundation_dates/1999/) |
 | Headquarters Location | Mainhausen, Égly |
 | Inception | 1966-01-01, 1999-01-02 |

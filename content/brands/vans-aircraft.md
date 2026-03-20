@@ -2,7 +2,7 @@
 title: Van’s Aircraft
 slug: "vans-aircraft"
 description: ""
-date: "2026-03-13T09:22:54.577128"
+date: "2026-03-20T08:22:05.421676"
 draft: false
 sectors:
   - aerospace
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,15 +47,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
   - horizontal
 brand_colors:
   - silver
+  - white
   - grey
   - orange
   - black
-  - white
 typographies: []
 imagery_styles:
   - bold
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://store.vansaircraft.com/](https://store.vansaircraft.com/)
-- [https://www.vansaircraft.com/](https://www.vansaircraft.com/)
+- [https://www.vansaircraft.com](https://www.vansaircraft.com)
+- [https://store.vansaircraft.com](https://store.vansaircraft.com)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: Maui Brewing Co
 slug: "maui-brewing-co"
 description: ""
-date: "2026-03-13T09:22:54.812100"
+date: "2026-03-20T08:22:05.580933"
 draft: false
 sectors:
-  - brewery
-  - drink
   - restaurant
+  - drink
+  - brewery
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +49,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - horizontal
   - stacked
   - vertical
+  - wordmark
+  - horizontal
 brand_colors:
   - black
 typographies:
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mauibrewingco.com/](https://mauibrewingco.com/)
-- [https://www.mbcrestaurants.com/](https://www.mbcrestaurants.com/)
+- [https://mauibrewingco.com](https://mauibrewingco.com)
+- [https://www.mbcrestaurants.com](https://www.mbcrestaurants.com)
 
 ## Brand Guidelines
 

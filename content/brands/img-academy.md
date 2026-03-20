@@ -2,11 +2,11 @@
 title: IMG Academy
 slug: "img-academy"
 description: ""
-date: "2026-03-13T09:22:53.932654"
+date: "2026-03-20T08:22:04.851975"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1978
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +52,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - lockup
   - vertical
   - secondary
   - horizontal
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
-  - gray
-  - black
-  - "pantone-2935"
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - "pantone-2935"
+  - black
 typographies:
-  - arial
   - "sans-serif"
+  - arial
 imagery_styles:
   - classic
-  - contemporary
   - bold
+  - contemporary
 wikidata_description: "private athletic school in Bradenton, Florida, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q17128295"
 has_twitter: false
@@ -81,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.imgacademy.com/](https://www.imgacademy.com/)
-- [https://www.imgacademy.com/boarding-school/](https://www.imgacademy.com/boarding-school/)
+- [https://www.imgacademy.com](https://www.imgacademy.com)
+- [https://www.imgacademy.com/boarding-school](https://www.imgacademy.com/boarding-school)
 - [https://www.imgacademy.com/youth-sport-camps](https://www.imgacademy.com/youth-sport-camps)
 
 ## Brand Guidelines

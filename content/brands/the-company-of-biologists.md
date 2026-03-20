@@ -2,12 +2,12 @@
 title: The Company of Biologists
 slug: "the-company-of-biologists"
 description: ""
-date: "2026-03-13T09:22:54.043936"
+date: "2026-03-20T08:22:04.898890"
 draft: false
 sectors:
   - research
-  - publishing
   - ngo
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,20 +56,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
   - primary
   - secondary
+  - favicon
 brand_colors:
-  - "pantone-1795"
   - "pantone-3272"
-  - "pantone-306"
-  - "pantone-130"
-  - "pantone-382"
-  - black
-  - "pantone-355"
-  - blue
   - "pantone-166"
+  - "pantone-355"
+  - "pantone-1795"
+  - "pantone-382"
   - white
+  - blue
+  - "pantone-130"
+  - "pantone-306"
+  - black
 typographies:
   - trebuchet
 imagery_styles:
@@ -83,9 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.biologists.com](https://www.biologists.com)
+- [https://journals.biologists.com](https://journals.biologists.com)
 - [http://www.biologists.com](http://www.biologists.com)
-- [https://journals.biologists.com/](https://journals.biologists.com/)
-- [https://www.biologists.com/](https://www.biologists.com/)
 
 ## Brand Guidelines
 

@@ -2,23 +2,23 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-03-13T09:22:51.969288"
+date: "2026-03-20T08:22:03.081001"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - usa
 years:
   - 2020
-  - 2013
   - 2022
+  - 2013
 languages:
   - english
 tags:
   - featured
-  - internet
   - financial
+  - internet
 industries: []
 countries:
   - "united-states"
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,12 +77,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.paypal.com/](https://brand.paypal.com/)
-- [https://developer.paypal.com/](https://developer.paypal.com/)
-- [https://venmo.com/](https://venmo.com/)
-- [https://www.joinhoney.com/](https://www.joinhoney.com/)
-- [https://www.paypal.com/](https://www.paypal.com/)
-- [https://www.zettle.com/](https://www.zettle.com/)
+- [https://www.paypal.com](https://www.paypal.com)
+- [https://brand.paypal.com](https://brand.paypal.com)
+- [https://developer.paypal.com](https://developer.paypal.com)
+- [https://venmo.com](https://venmo.com)
+- [https://www.zettle.com](https://www.zettle.com)
+- [https://www.joinhoney.com](https://www.joinhoney.com)
 
 ## Brand Guidelines
 

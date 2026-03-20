@@ -2,7 +2,7 @@
 title: "ABB Baldor-Reliance"
 slug: "abb-baldor-reliance"
 description: ""
-date: "2026-03-13T09:22:51.919551"
+date: "2026-03-20T08:22:03.077133"
 draft: false
 sectors:
   - electronics
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - vibrant
   - graphic
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -64,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.baldor.com](https://www.baldor.com)
 - [http://www.abb.com](http://www.abb.com)
-- [https://www.baldor.com/](https://www.baldor.com/)
 
 ## Brand Guidelines
 

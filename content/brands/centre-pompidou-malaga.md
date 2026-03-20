@@ -2,7 +2,7 @@
 title: Centre Pompidou Málaga
 slug: "centre-pompidou-malaga"
 description: ""
-date: "2026-03-13T09:22:52.118788"
+date: "2026-03-20T08:22:03.176494"
 draft: false
 sectors:
   - "arts-culture"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.artnet.fr](http://www.artnet.fr)
-- [https://centrepompidou-malaga.eu/](https://centrepompidou-malaga.eu/)
+- [https://centrepompidou-malaga.eu](https://centrepompidou-malaga.eu)
 - [https://www.centrepompidou.fr/en/lieu/centre-pompidou-malaga](https://www.centrepompidou.fr/en/lieu/centre-pompidou-malaga)
+- [http://www.artnet.fr](http://www.artnet.fr)
 
 ## Brand Guidelines
 

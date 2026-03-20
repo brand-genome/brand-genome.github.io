@@ -2,7 +2,7 @@
 title: "Universidad Nacional Autónoma de Nicaragua, Managua"
 slug: "universidad-nacional-autonoma-de-nicaragua-managua"
 description: ""
-date: "2026-03-13T09:22:52.829068"
+date: "2026-03-20T08:22:03.838758"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.unan.edu.ni/](http://www.unan.edu.ni/)
+- [http://www.unan.edu.ni](http://www.unan.edu.ni)
 
 ## Brand Guidelines
 

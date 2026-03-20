@@ -2,7 +2,7 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-03-13T09:22:53.269393"
+date: "2026-03-20T08:22:04.196341"
 draft: false
 sectors:
   - tourism
@@ -10,14 +10,14 @@ regions:
   - spain
 years:
   - 2012
-  - 2019
   - 2016
+  - 2019
 languages:
   - spanish
 tags:
-  - city
   - regional
   - tourism
+  - city
 industries: []
 countries:
   - spain
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +52,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - horizontal
-  - crest
   - vertical
   - abstract
+  - crest
+  - horizontal
+  - primary
 brand_colors:
-  - black
+  - blue
   - gray
   - white
-  - blue
+  - black
 typographies:
-  - serif
   - "sans-serif"
   - display
+  - serif
 imagery_styles:
-  - abstract
   - bold
+  - abstract
 wikidata_description: capital of Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q2807"
 has_twitter: false
@@ -81,7 +82,9 @@ visual_term_image_urls: {}
 
 - [https://www.esmadrid.com/en](https://www.esmadrid.com/en)
 - [https://www.esmadrid.com/en/pagina-inicio](https://www.esmadrid.com/en/pagina-inicio)
-- [https://www.esmadrid.com/mcb/en/](https://www.esmadrid.com/mcb/en/)
+- [https://www.esmadrid.com/mcb/en](https://www.esmadrid.com/mcb/en)
+- [https://www.madrid.es](https://www.madrid.es)
+- [https://www.munimadrid.es](https://www.munimadrid.es)
 
 ## Brand Guidelines
 

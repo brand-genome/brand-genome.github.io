@@ -2,7 +2,7 @@
 title: SPD
 slug: spd
 description: ""
-date: "2026-03-13T09:22:54.340913"
+date: "2026-03-20T08:22:05.168028"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1975
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +54,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - cyan
-  - black
   - red
-  - blue
   - "pantone-185"
   - white
+  - cyan
+  - blue
+  - black
 typographies: []
 imagery_styles:
-  - artificial
-  - natural
   - dynamic
+  - artificial
   - colorful
-  - bold
   - graphic
+  - bold
+  - natural
 wikidata_description: "nonprofit organization in Indianapolis, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q50036261"
 has_twitter: false
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.spd.de](https://www.spd.de)
+- [https://www.spdfraktion.de](https://www.spdfraktion.de)
 - [http://www.youtube.com/SPDvision](http://www.youtube.com/SPDvision)
-- [https://www.spd.de/](https://www.spd.de/)
-- [https://www.spdfraktion.de/](https://www.spdfraktion.de/)
+- [http://pedsderm.net](http://pedsderm.net)
 
 ## Brand Guidelines
 

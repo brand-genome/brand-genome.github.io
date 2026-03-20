@@ -2,7 +2,7 @@
 title: Greater Nevada Field
 slug: "greater-nevada-field"
 description: ""
-date: "2026-03-13T09:22:54.793209"
+date: "2026-03-20T08:22:05.566766"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - grey
+  - red
   - white
   - navy
-  - red
+  - grey
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
   - professional
 wikidata_description: "baseball park in Reno, Nevada"
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://greaternevadafield.com/](https://greaternevadafield.com/)
+- [https://greaternevadafield.com](https://greaternevadafield.com)
 - [https://www.milb.com/reno](https://www.milb.com/reno)
 
 ## Brand Guidelines

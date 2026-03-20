@@ -2,11 +2,11 @@
 title: Trustly
 slug: trustly
 description: ""
-date: "2026-03-13T09:22:54.053787"
+date: "2026-03-20T08:22:04.903737"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - sweden
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries:
   - fintech
   - "financial-services"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,19 +56,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - green
-  - blue
   - white
   - orange
+  - blue
 typographies: []
 imagery_styles:
-  - minimal
-  - clean
-  - modern
   - bold
+  - modern
+  - clean
+  - minimal
 wikidata_description: Swedish financial technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q18449475"
 has_twitter: false
@@ -78,11 +80,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.trustly.com](http://www.trustly.com)
-- [https://amer.developers.trustly.com/](https://amer.developers.trustly.com/)
-- [https://www.trustly.com/](https://www.trustly.com/)
+- [https://www.trustly.com](https://www.trustly.com)
 - [https://www.trustly.com/us](https://www.trustly.com/us)
 - [https://www.trustly.com/us/developers](https://www.trustly.com/us/developers)
+- [https://amer.developers.trustly.com](https://amer.developers.trustly.com)
+- [http://www.trustly.com](http://www.trustly.com)
 
 ## Brand Guidelines
 

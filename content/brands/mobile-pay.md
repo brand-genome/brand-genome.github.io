@@ -2,11 +2,11 @@
 title: Mobile Pay
 slug: "mobile-pay"
 description: ""
-date: "2026-03-13T09:22:55.048659"
+date: "2026-03-20T08:22:05.750415"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - denmark
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - financial
   - software
+  - financial
 industries: []
 countries:
   - "united-kingdom"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,9 +61,9 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - playful
-  - natural
   - bold
+  - natural
+  - playful
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11989716"
 has_twitter: false
@@ -73,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mobilepay.dk/](https://mobilepay.dk/)
-- [https://www.mobilepay.fi/](https://www.mobilepay.fi/)
-- [https://www.vippsmobilepay.com/](https://www.vippsmobilepay.com/)
+- [https://mobilepay.dk](https://mobilepay.dk)
+- [https://www.mobilepay.fi](https://www.mobilepay.fi)
+- [https://www.vippsmobilepay.com](https://www.vippsmobilepay.com)
+- [http://www.mobilepaymentsworld.com](http://www.mobilepaymentsworld.com)
 
 ## Brand Guidelines
 

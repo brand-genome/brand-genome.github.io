@@ -2,11 +2,11 @@
 title: Hobie Cat Worldwide
 slug: "hobie-cat-worldwide"
 description: ""
-date: "2026-03-13T09:22:53.257291"
+date: "2026-03-20T08:22:04.182816"
 draft: false
 sectors:
-  - hardware
   - sports
+  - hardware
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - stacked
+  - horizontal
 brand_colors:
-  - cyan
-  - "pantone-1797"
-  - grey
+  - red
+  - green
   - "pantone-450"
+  - "pantone-1797"
+  - white
+  - cyan
+  - grey
+  - blue
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - din
   - script

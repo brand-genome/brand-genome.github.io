@@ -2,7 +2,7 @@
 title: "Coca-cola Credit Union"
 slug: "coca-cola-credit-union"
 description: ""
-date: "2026-03-13T09:22:53.756636"
+date: "2026-03-20T08:22:04.714611"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - alternate
   - symbol
   - horizontal
+  - alternate
+  - wordmark
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies:
-  - script
   - impact
+  - script
 imagery_styles:
   - clean
   - graphic
@@ -73,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://creditunion.coca-cola.com](https://creditunion.coca-cola.com)
+- [https://creditunion.coca-cola.com/access/contact-us](https://creditunion.coca-cola.com/access/contact-us)
+- [https://cocacolacu.com](https://cocacolacu.com)
 - [http://www.coca-cola.com](http://www.coca-cola.com)
-- [https://cocacolacu.com/](https://cocacolacu.com/)
-- [https://creditunion.coca-cola.com/](https://creditunion.coca-cola.com/)
-- [https://creditunion.coca-cola.com/access/contact-us/](https://creditunion.coca-cola.com/access/contact-us/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sigfox
 slug: sigfox
 description: ""
-date: "2026-03-13T09:22:54.801004"
+date: "2026-03-20T08:22:05.574246"
 draft: false
 sectors:
   - networking
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://sigfox.com](https://sigfox.com)
 - [http://www.sigfox.com](http://www.sigfox.com)
-- [https://sigfox.com/](https://sigfox.com/)
 
 ## Brand Guidelines
 

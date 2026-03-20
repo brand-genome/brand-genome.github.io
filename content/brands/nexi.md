@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-03-13T09:22:53.080477"
+date: "2026-03-20T08:22:04.079904"
 draft: false
 sectors:
   - finance
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,22 +55,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - black
   - white
   - blue
 typographies:
-  - "proxima-nova"
   - arial
+  - "proxima-nova"
 imagery_styles:
-  - monochrome
   - clean
-  - professional
   - graphic
+  - monochrome
+  - professional
 wikidata_description: Italian bank
 wikidata_url: "https://www.wikidata.org/wiki/Q3803598"
 has_twitter: false
@@ -80,11 +82,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nexigroup.com/it](https://www.nexigroup.com/it)
+- [https://www.nexigroup.com/en/group/brands/nexi](https://www.nexigroup.com/en/group/brands/nexi)
+- [https://www.nexi.it](https://www.nexi.it)
 - [http://www.nexi.it](http://www.nexi.it)
 - [http://www.nexigroup.com](http://www.nexigroup.com)
-- [https://www.nexi.it/](https://www.nexi.it/)
-- [https://www.nexigroup.com/en/group/brands/nexi/](https://www.nexigroup.com/en/group/brands/nexi/)
-- [https://www.nexigroup.com/it/](https://www.nexigroup.com/it/)
+- [https://www.nexigroup.com](https://www.nexigroup.com)
 
 ## Brand Guidelines
 

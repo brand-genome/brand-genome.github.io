@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-03-13T09:22:53.508710"
+date: "2026-03-20T08:22:04.404347"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - military
   - museum
+  - military
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,16 +53,16 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-186"
-  - "pantone-289"
-  - black
   - red
-  - blue
+  - "pantone-289"
   - white
+  - blue
+  - "pantone-186"
+  - black
 typographies:
   - arial
-  - frutiger
   - display
+  - frutiger
 imagery_styles:
   - bold
 wikidata_description: "created in early 2009 to act as a single non-departmental public body for the museums of the Royal Navy, United Kingdom"
@@ -75,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nmrn.org.uk/](https://www.nmrn.org.uk/)
+- [https://www.nmrn.org.uk](https://www.nmrn.org.uk)
 - [https://www.nmrn.org.uk/brand-guidelines](https://www.nmrn.org.uk/brand-guidelines)
+- [http://www.nmrn.org.uk](http://www.nmrn.org.uk)
 
 ## Brand Guidelines
 

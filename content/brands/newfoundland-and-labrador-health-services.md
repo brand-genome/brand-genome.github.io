@@ -2,7 +2,7 @@
 title: Newfoundland and Labrador Health Services
 slug: "newfoundland-and-labrador-health-services"
 description: ""
-date: "2026-03-13T09:22:52.066295"
+date: "2026-03-20T08:22:03.132120"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2023
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.NLHealthServices.ca](http://www.NLHealthServices.ca)
-- [https://nlhealthservices.ca/](https://nlhealthservices.ca/)
+- [https://nlhealthservices.ca](https://nlhealthservices.ca)
+- [http://www.nlhealthservices.ca](http://www.nlhealthservices.ca)
 
 ## Brand Guidelines
 

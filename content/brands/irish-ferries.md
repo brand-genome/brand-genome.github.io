@@ -2,7 +2,7 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-03-13T09:22:53.652470"
+date: "2026-03-20T08:22:04.512254"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +54,14 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - photography
-  - bold
 wikidata_description: "Irish ferry company, division of the Irish Continental Group"
 wikidata_url: "https://www.wikidata.org/wiki/Q997355"
 has_twitter: false
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.irishferries.com/](https://www.irishferries.com/)
+- [https://www.irishferries.com](https://www.irishferries.com)
+- [http://www.irishferries.com](http://www.irishferries.com)
 
 ## Brand Guidelines
 

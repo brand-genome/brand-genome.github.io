@@ -2,7 +2,7 @@
 title: DogWatch
 slug: dogwatch
 description: ""
-date: "2026-03-13T09:22:53.938314"
+date: "2026-03-20T08:22:04.861232"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +51,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - green
+  - white
   - grey
   - yellow
   - orange
   - black
-  - red
-  - green
-  - white
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - bold
   - lifestyle
   - product
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dogwatch.com/](https://www.dogwatch.com/)
+- [https://www.dogwatch.com](https://www.dogwatch.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: TÚ SR
 slug: "tu-sr"
 description: ""
-date: "2026-03-13T09:22:55.029299"
+date: "2026-03-20T08:22:05.732623"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - slovensky
 tags:
-  - telecommunications
   - institution
+  - telecommunications
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
+  - red
+  - white
   - "pantone-300"
+  - blue
   - "pantone-186"
   - black
-  - red
-  - blue
-  - white
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - bold
 wikidata_description: ""
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.teleoff.gov.sk/](https://www.teleoff.gov.sk/)
+- [https://www.teleoff.gov.sk](https://www.teleoff.gov.sk)
 
 ## Brand Guidelines
 

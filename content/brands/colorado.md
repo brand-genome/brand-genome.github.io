@@ -2,7 +2,7 @@
 title: Colorado
 slug: colorado
 description: ""
-date: "2026-03-13T09:22:54.193678"
+date: "2026-03-20T08:22:05.024646"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1871
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +50,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
-  - primary
   - wordmark
+  - primary
+  - badge
 brand_colors:
   - silver
-  - black
   - green
   - gold
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "city in and county seat of El Paso County, Colorado, United States"
@@ -70,10 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.colorado.gov](https://www.colorado.gov)
+- [https://dcs.colorado.gov/ids/state-branding](https://dcs.colorado.gov/ids/state-branding)
 - [http://www.colorado.gov/dpa](http://www.colorado.gov/dpa)
 - [http://www.section508.gov](http://www.section508.gov)
-- [https://dcs.colorado.gov/ids/state-branding](https://dcs.colorado.gov/ids/state-branding)
-- [https://www.colorado.gov/](https://www.colorado.gov/)
+- [https://coloradosprings.gov](https://coloradosprings.gov)
 
 ## Brand Guidelines
 

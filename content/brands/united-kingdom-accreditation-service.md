@@ -2,11 +2,11 @@
 title: United Kingdom Accreditation Service
 slug: "united-kingdom-accreditation-service"
 description: ""
-date: "2026-03-13T09:22:53.429403"
+date: "2026-03-20T08:22:04.332835"
 draft: false
 sectors:
-  - consulting
   - "public-sector"
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +51,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
   - grey
   - blue
 typographies:
   - arial
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: national accreditation body
 wikidata_url: "https://www.wikidata.org/wiki/Q489435"
 has_twitter: false
@@ -70,7 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ukas.com/](https://www.ukas.com/)
+- [https://www.ukas.com](https://www.ukas.com)
+- [http://www.ukas.com](http://www.ukas.com)
 
 ## Brand Guidelines
 

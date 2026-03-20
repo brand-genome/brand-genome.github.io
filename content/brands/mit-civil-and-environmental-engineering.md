@@ -2,7 +2,7 @@
 title: MIT Civil and Environmental Engineering
 slug: "mit-civil-and-environmental-engineering"
 description: ""
-date: "2026-03-13T09:22:53.428751"
+date: "2026-03-20T08:22:04.331843"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cee.mit.edu/](https://cee.mit.edu/)
+- [https://cee.mit.edu](https://cee.mit.edu)
 - [https://engineering.mit.edu/department/civil-environmental-engineering](https://engineering.mit.edu/department/civil-environmental-engineering)
-- [https://oge.mit.edu/programs/civil-and-environmental-engineering/](https://oge.mit.edu/programs/civil-and-environmental-engineering/)
+- [https://oge.mit.edu/programs/civil-and-environmental-engineering](https://oge.mit.edu/programs/civil-and-environmental-engineering)
 
 ## Brand Guidelines
 

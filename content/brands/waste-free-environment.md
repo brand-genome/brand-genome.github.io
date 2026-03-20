@@ -2,7 +2,7 @@
 title: Waste Free Environment
 slug: "waste-free-environment"
 description: ""
-date: "2026-03-13T09:22:54.740812"
+date: "2026-03-20T08:22:05.537683"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +50,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-144"
-  - "pantone-7406"
-  - "pantone-640"
-  - yellow
-  - "pantone-7540"
-  - "pantone-2915"
-  - "pantone-376"
-  - orange
-  - "pantone-354"
-  - black
-  - blue
   - green
+  - "pantone-376"
+  - "pantone-7540"
+  - "pantone-640"
+  - "pantone-2915"
+  - blue
+  - "pantone-354"
+  - yellow
+  - "pantone-7406"
+  - "pantone-144"
+  - orange
+  - black
 typographies:
-  - arial
   - "sans-serif"
+  - arial
 imagery_styles:
   - bold
   - graphic
@@ -78,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wastefreeenvironment.com/](https://wastefreeenvironment.com/)
-- [https://www.gpca.org.ae/](https://www.gpca.org.ae/)
+- [https://wastefreeenvironment.com](https://wastefreeenvironment.com)
+- [https://www.gpca.org.ae](https://www.gpca.org.ae)
 
 ## Brand Guidelines
 

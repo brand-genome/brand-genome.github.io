@@ -2,7 +2,7 @@
 title: Supercell
 slug: supercell
 description: ""
-date: "2026-03-13T09:22:52.818613"
+date: "2026-03-20T08:22:03.831196"
 draft: false
 sectors:
   - gaming
@@ -32,11 +32,13 @@ products_or_materials_produced:
   - "mobile-game"
 products: []
 headquarters_locations:
-  - helsinki
   - ruoholahti
+  - helsinki
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://supercell.com/](https://supercell.com/)
-- [https://supercell.com/en/about-us/](https://supercell.com/en/about-us/)
+- [https://supercell.com](https://supercell.com)
+- [https://supercell.com/en/about-us](https://supercell.com/en/about-us)
+- [https://supercell.com/en](https://supercell.com/en)
 
 ## Brand Guidelines
 
@@ -87,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Mobile Game](/products_or_materials_produced/mobile-game/) |
-| Headquarters Location | [Helsinki](/headquarters_locations/helsinki/); [Ruoholahti](/headquarters_locations/ruoholahti/) |
+| Headquarters Location | [Ruoholahti](/headquarters_locations/ruoholahti/); [Helsinki](/headquarters_locations/helsinki/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Helsinki, Ruoholahti |
 | Freebase Id | /m/0h1h41r |

@@ -2,12 +2,12 @@
 title: Commun1ty
 slug: commun1ty
 description: ""
-date: "2026-03-13T09:22:53.273882"
+date: "2026-03-20T08:22:04.201669"
 draft: false
 sectors:
   - "e-commerce"
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - singapore
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.commun1ty.sg/](https://www.commun1ty.sg/)
+- [https://www.commun1ty.sg](https://www.commun1ty.sg)
 
 ## Brand Guidelines
 

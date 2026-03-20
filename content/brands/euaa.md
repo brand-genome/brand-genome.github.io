@@ -2,7 +2,7 @@
 title: EUAA
 slug: euaa
 description: ""
-date: "2026-03-13T09:22:53.086262"
+date: "2026-03-20T08:22:04.087578"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - black
+  - blue
   - yellow
   - white
-  - blue
+  - black
 typographies:
   - "proxima-nova"
 imagery_styles:
-  - professional
   - bold
   - graphic
+  - professional
 wikidata_description: agency of the European Union
 wikidata_url: "https://www.wikidata.org/wiki/Q4002697"
 has_twitter: false
@@ -75,9 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cei.euaa.europa.eu/](https://cei.euaa.europa.eu/)
-- [https://euaa.europa.eu/](https://euaa.europa.eu/)
+- [https://euaa.europa.eu](https://euaa.europa.eu)
+- [https://cei.euaa.europa.eu](https://cei.euaa.europa.eu)
 - [https://www.euaa.europa.eu/design_system/index.html](https://www.euaa.europa.eu/design_system/index.html)
+- [https://easo.europa.eu](https://easo.europa.eu)
 
 ## Brand Guidelines
 

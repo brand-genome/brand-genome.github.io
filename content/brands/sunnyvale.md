@@ -2,7 +2,7 @@
 title: Sunnyvale
 slug: sunnyvale
 description: ""
-date: "2026-03-13T09:22:53.934468"
+date: "2026-03-20T08:22:04.854779"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,15 +49,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
   - primary
+  - wordmark
 brand_colors:
-  - "pantone-285"
-  - "pantone-386"
-  - blue
   - green
+  - "pantone-285"
   - white
+  - blue
+  - "pantone-386"
 typographies:
   - arial
   - gotham
@@ -73,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sunnyvale.ca.gov](https://www.sunnyvale.ca.gov)
 - [http://www.ca.gov](http://www.ca.gov)
-- [https://www.sunnyvale.ca.gov/](https://www.sunnyvale.ca.gov/)
+- [https://sunnyvale.ca.gov](https://sunnyvale.ca.gov)
 
 ## Brand Guidelines
 

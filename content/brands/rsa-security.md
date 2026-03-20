@@ -2,11 +2,11 @@
 title: RSA Security
 slug: "rsa-security"
 description: ""
-date: "2026-03-13T09:22:53.506283"
+date: "2026-03-20T08:22:04.402207"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - security
+  - technology
 industries:
   - "computer-security"
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,23 +55,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
+  - abstract
   - secondary
   - signature
-  - abstract
+  - symbol
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - duotone
-  - photography
   - product
+  - duotone
   - abstract
-  - bold
   - graphic
+  - bold
+  - photography
 wikidata_description: American computer and network security company
 wikidata_url: "https://www.wikidata.org/wiki/Q2061730"
 has_twitter: false
@@ -81,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rsa.com/](https://www.rsa.com/)
-- [https://www.rsa.com/products/securid/](https://www.rsa.com/products/securid/)
+- [https://www.rsa.com](https://www.rsa.com)
+- [https://www.rsa.com/products/securid](https://www.rsa.com/products/securid)
 
 ## Brand Guidelines
 

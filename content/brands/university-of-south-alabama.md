@@ -2,7 +2,7 @@
 title: University of South Alabama
 slug: "university-of-south-alabama"
 description: ""
-date: "2026-03-13T09:22:51.917120"
+date: "2026-03-20T08:22:03.074191"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2016
+  - 2024
 languages:
   - english
 tags:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.SouthAlabama.edu](http://www.SouthAlabama.edu)
 - [https://www.southalabama.edu](https://www.southalabama.edu)
+- [http://www.southalabama.edu](http://www.southalabama.edu)
 
 ## Brand Guidelines
 

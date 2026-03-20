@@ -2,7 +2,7 @@
 title: US Masters Swimming
 slug: "us-masters-swimming"
 description: ""
-date: "2026-03-13T09:22:53.706303"
+date: "2026-03-20T08:22:04.561809"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - sport
+  - marine
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.usms.org](http://www.usms.org)
-- [https://cd3.usms.org/events](https://cd3.usms.org/events)
-- [https://www.usms.org/](https://www.usms.org/)
+- [https://www.usms.org](https://www.usms.org)
 - [https://www.usms.org/en](https://www.usms.org/en)
+- [https://cd3.usms.org/events](https://cd3.usms.org/events)
+- [http://www.usms.org](http://www.usms.org)
 
 ## Brand Guidelines
 

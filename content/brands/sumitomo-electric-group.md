@@ -2,12 +2,12 @@
 title: Sumitomo Electric Group
 slug: "sumitomo-electric-group"
 description: ""
-date: "2026-03-13T09:22:52.101970"
+date: "2026-03-20T08:22:03.159876"
 draft: false
 sectors:
-  - electronics
-  - utilities
   - automobile
+  - utilities
+  - electronics
 regions:
   - japan
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://global-sei.com/](http://global-sei.com/)
-- [http://www.sumitool.com/](http://www.sumitool.com/)
-- [https://sumitomoelectric.com/](https://sumitomoelectric.com/)
+- [https://sumitomoelectric.com](https://sumitomoelectric.com)
 - [https://sumitomoelectric.com/regional-site](https://sumitomoelectric.com/regional-site)
 - [https://sumitomoelectric.com/usa](https://sumitomoelectric.com/usa)
-- [https://sumitomoelectriceurope.com/](https://sumitomoelectriceurope.com/)
+- [https://sumitomoelectriceurope.com](https://sumitomoelectriceurope.com)
+- [http://global-sei.com](http://global-sei.com)
+- [http://www.sumitool.com](http://www.sumitool.com)
+- [https://www.sei-group-csr.or.jp](https://www.sei-group-csr.or.jp)
 
 ## Brand Guidelines
 

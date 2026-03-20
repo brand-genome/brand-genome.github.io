@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-03-13T09:22:52.887171"
+date: "2026-03-20T08:22:03.878807"
 draft: false
 sectors:
+  - aerospace
   - defense
   - satellite
-  - aerospace
 regions:
   - europe
 years:
@@ -34,23 +34,26 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - airplane
-  - "airbus-a310"
-  - aircraft
   - "airbus-a340"
-  - "airbus-a380"
-  - "airbus-a220"
+  - "airbus-a310"
   - "airbus-a300"
+  - "airbus-a380"
   - "airbus-a330"
-  - "airbus-a320-family"
+  - aircraft
+  - airplane
   - "airbus-a350"
+  - "airbus-a220"
+  - "airbus-a320-family"
 products: []
 headquarters_locations:
   - blagnac
 subsidiaries: []
 foundation_dates:
-  - 1969
   - 1970
+  - 1969
+foundation_year_buckets:
+  - 1960S
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,10 +74,10 @@ body_sections: []
 logo_elements:
   - logomark
 brand_colors:
-  - black
-  - grey
-  - white
   - blue
+  - white
+  - grey
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -90,9 +93,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://space-solutions.airbus.com/](https://space-solutions.airbus.com/)
-- [https://www.airbus.com/](https://www.airbus.com/)
-- [https://www.aircraft.airbus.com/](https://www.aircraft.airbus.com/)
+- [https://www.airbus.com](https://www.airbus.com)
+- [https://www.aircraft.airbus.com](https://www.aircraft.airbus.com)
+- [https://space-solutions.airbus.com](https://space-solutions.airbus.com)
+- [https://www.airbus.com/en/products-services/commercial-aircraft](https://www.airbus.com/en/products-services/commercial-aircraft)
+- [https://www.airbus.com/aircraft.html](https://www.airbus.com/aircraft.html)
+- [https://www.wikimedia.de](https://www.wikimedia.de)
 
 ## Brand Guidelines
 
@@ -146,9 +152,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Airplane](/products_or_materials_produced/airplane/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Aircraft](/products_or_materials_produced/aircraft/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Airbus A350](/products_or_materials_produced/airbus-a350/) |
+| Product Or Material Produced | [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Aircraft](/products_or_materials_produced/aircraft/); [Airplane](/products_or_materials_produced/airplane/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/) |
 | Headquarters Location | [Blagnac](/headquarters_locations/blagnac/) |
-| Foundation Date | [1969](/foundation_dates/1969/); [1970](/foundation_dates/1970/) |
+| Foundation Date | [1970](/foundation_dates/1970/); [1969](/foundation_dates/1969/) |
 | Headquarters Location | Blagnac |
 | Chief Executive Officer | Tom Enders (from 2012, until 2019), Guillaume Faury (from 2019-04-10) |
 | Child Organization Or Unit | Airbus Transport International, Airbus Operations S.A.S., Airbus ProSky, Metron Aviation, Tarmac Aerosave (+5 more) |

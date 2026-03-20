@@ -2,7 +2,7 @@
 title: GAPP
 slug: gapp
 description: ""
-date: "2026-03-13T09:22:53.662713"
+date: "2026-03-20T08:22:04.520548"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
+  - orange
   - purple
   - blue
-  - orange
 typographies:
   - verdana
 imagery_styles:
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://exchanges.state.gov/us/program/german-american-partnership-program](https://exchanges.state.gov/us/program/german-american-partnership-program)
 - [https://www.goethe.de/GAPP](https://www.goethe.de/GAPP)
 - [https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html](https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html)
+- [https://exchanges.state.gov/us/program/german-american-partnership-program](https://exchanges.state.gov/us/program/german-american-partnership-program)
+- [http://www.gapp.gov.cn](http://www.gapp.gov.cn)
 
 ## Brand Guidelines
 

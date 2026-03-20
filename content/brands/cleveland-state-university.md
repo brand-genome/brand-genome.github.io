@@ -2,7 +2,7 @@
 title: Cleveland State University
 slug: "cleveland-state-university"
 description: ""
-date: "2026-03-13T09:22:55.156109"
+date: "2026-03-20T08:22:05.855510"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.csuohio.edu](https://www.csuohio.edu)
 - [https://campusnet.csuohio.edu/index.jsp](https://campusnet.csuohio.edu/index.jsp)
-- [https://engagecsu.com/](https://engagecsu.com/)
-- [https://www.csuohio.edu/](https://www.csuohio.edu/)
+- [https://engagecsu.com](https://engagecsu.com)
+- [http://www.csuohio.edu](http://www.csuohio.edu)
 
 ## Brand Guidelines
 

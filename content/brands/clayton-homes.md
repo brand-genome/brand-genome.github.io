@@ -2,13 +2,13 @@
 title: Clayton Homes
 slug: "clayton-homes"
 description: ""
-date: "2026-03-13T09:22:53.439685"
+date: "2026-03-20T08:22:04.343345"
 draft: false
 sectors:
-  - insurance
-  - construction
   - "real-estate"
   - finance
+  - construction
+  - insurance
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,11 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://claytonhomebuildinggroup.com/](https://claytonhomebuildinggroup.com/)
-- [https://www.21stmortgage.com/](https://www.21stmortgage.com/)
-- [https://www.claytonhomes.com/](https://www.claytonhomes.com/)
-- [https://www.homefirstagency.com/](https://www.homefirstagency.com/)
-- [https://www.vmf.com/](https://www.vmf.com/)
+- [https://www.claytonhomes.com](https://www.claytonhomes.com)
+- [https://claytonhomebuildinggroup.com](https://claytonhomebuildinggroup.com)
+- [https://www.vmf.com](https://www.vmf.com)
+- [https://www.21stmortgage.com](https://www.21stmortgage.com)
+- [https://www.homefirstagency.com](https://www.homefirstagency.com)
+- [http://www.claytonhomes.com](http://www.claytonhomes.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Landscape Institute
 slug: "landscape-institute"
 description: ""
-date: "2026-03-13T09:22:51.923284"
+date: "2026-03-20T08:22:03.078267"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://landscapeinstitute.org/](https://landscapeinstitute.org/)
+- [https://landscapeinstitute.org](https://landscapeinstitute.org)
+- [http://www.landscapeinstitute.org](http://www.landscapeinstitute.org)
 
 ## Brand Guidelines
 

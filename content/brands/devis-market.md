@@ -2,7 +2,7 @@
 title: Devis Market
 slug: "devis-market"
 description: ""
-date: "2026-03-13T09:22:55.166549"
+date: "2026-03-20T08:22:05.868186"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.devis-market.com/](http://www.devis-market.com/)
-- [https://www.agencesevenementielles.com/](https://www.agencesevenementielles.com/)
+- [http://www.devis-market.com](http://www.devis-market.com)
+- [https://www.agencesevenementielles.com](https://www.agencesevenementielles.com)
 
 ## Brand Guidelines
 

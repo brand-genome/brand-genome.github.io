@@ -2,7 +2,7 @@
 title: Mount Royal University
 slug: "mount-royal-university"
 description: ""
-date: "2026-03-13T09:22:53.273481"
+date: "2026-03-20T08:22:04.201347"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,30 +55,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
+  - vertical
+  - secondary
+  - lockup
   - wordmark
   - primary
-  - vertical
-  - lockup
-  - secondary
+  - icon
 brand_colors:
-  - "pantone-307"
-  - cyan
   - silver
-  - gold
-  - "pantone-540"
-  - black
-  - "pantone-429"
   - red
-  - blue
+  - "pantone-429"
   - green
+  - gold
+  - "pantone-307"
+  - "pantone-540"
   - white
+  - cyan
+  - blue
+  - black
 typographies:
   - display
 imagery_styles:
-  - photography
   - bold
   - geometric
+  - photography
 wikidata_description: "public university in Calgary, Alberta, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q13650869"
 has_twitter: false
@@ -88,9 +90,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.mtroyal.ca](https://www.mtroyal.ca)
 - [http://www.mru.ca/Murdoch](http://www.mru.ca/Murdoch)
 - [http://www.mtroyal.ca](http://www.mtroyal.ca)
-- [https://www.mtroyal.ca/](https://www.mtroyal.ca/)
 
 ## Brand Guidelines
 

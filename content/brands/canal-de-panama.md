@@ -2,7 +2,7 @@
 title: Canal de Panamá
 slug: "canal-de-panama"
 description: ""
-date: "2026-03-13T09:22:52.197038"
+date: "2026-03-20T08:22:03.263304"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pancanal.com/](https://pancanal.com/)
-- [https://pancanal.com/en/](https://pancanal.com/en/)
+- [https://pancanal.com](https://pancanal.com)
+- [https://pancanal.com/en](https://pancanal.com/en)
 
 ## Brand Guidelines
 

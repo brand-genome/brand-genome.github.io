@@ -2,7 +2,7 @@
 title: International Space University
 slug: "international-space-university"
 description: ""
-date: "2026-03-13T09:22:54.793037"
+date: "2026-03-20T08:22:05.566601"
 draft: false
 sectors:
   - university
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://na.isunet.edu/](https://na.isunet.edu/)
-- [https://www.isunet.edu/](https://www.isunet.edu/)
+- [https://www.isunet.edu](https://www.isunet.edu)
+- [https://na.isunet.edu](https://na.isunet.edu)
+- [https://isunet.edu](https://isunet.edu)
 
 ## Brand Guidelines
 

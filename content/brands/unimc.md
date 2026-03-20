@@ -2,7 +2,7 @@
 title: UNIMC
 slug: unimc
 description: ""
-date: "2026-03-13T09:22:55.031007"
+date: "2026-03-20T08:22:05.733789"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1290
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apply.unimc.it](https://apply.unimc.it)
 - [https://www.unimc.it](https://www.unimc.it)
 - [https://www.unimc.it/en](https://www.unimc.it/en)
+- [https://apply.unimc.it](https://apply.unimc.it)
 
 ## Brand Guidelines
 

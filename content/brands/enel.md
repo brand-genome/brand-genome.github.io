@@ -2,7 +2,7 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-03-13T09:22:55.083075"
+date: "2026-03-20T08:22:05.786318"
 draft: false
 sectors:
   - utilities
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1962
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +63,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - vibrant
@@ -78,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.enel.com/](https://www.enel.com/)
+- [https://www.enel.com](https://www.enel.com)
 - [https://www.enel.com/es](https://www.enel.com/es)
-- [https://www.enel.it/](https://www.enel.it/)
+- [https://www.enel.it](https://www.enel.it)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Dynasty
 slug: dynasty
 description: ""
-date: "2026-03-13T09:22:54.222686"
+date: "2026-03-20T08:22:05.050552"
 draft: false
 sectors:
   - gaming
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,11 +49,11 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - gold
   - white
+  - gold
 typographies:
-  - verdana
   - futura
+  - verdana
 imagery_styles:
   - bold
 wikidata_description: 1980s American prime time television soap opera
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dynastyesports.nl/](https://www.dynastyesports.nl/)
+- [https://www.dynastyesports.nl](https://www.dynastyesports.nl)
 
 ## Brand Guidelines
 

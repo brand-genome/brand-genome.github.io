@@ -2,7 +2,7 @@
 title: Marin Transit
 slug: "marin-transit"
 description: ""
-date: "2026-03-13T09:22:52.315546"
+date: "2026-03-20T08:22:03.382265"
 draft: false
 sectors:
   - "public-transportation"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://booking.marinaccess.org/](https://booking.marinaccess.org/)
-- [https://marintransit.gov/](https://marintransit.gov/)
+- [https://marintransit.gov](https://marintransit.gov)
 - [https://marintransit.gov/marin-access](https://marintransit.gov/marin-access)
-- [https://marintransit.org/](https://marintransit.org/)
+- [https://marintransit.org](https://marintransit.org)
 - [https://marintransit.org/paratransit](https://marintransit.org/paratransit)
+- [https://booking.marinaccess.org](https://booking.marinaccess.org)
 
 ## Brand Guidelines
 

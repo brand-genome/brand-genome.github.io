@@ -2,11 +2,11 @@
 title: Société de transport de Montréal
 slug: "societe-de-transport-de-montreal"
 description: ""
-date: "2026-03-13T09:22:52.322495"
+date: "2026-03-20T08:22:03.390286"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.stm.info/](https://www.stm.info/)
+- [https://www.stm.info](https://www.stm.info)
 
 ## Brand Guidelines
 

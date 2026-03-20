@@ -2,7 +2,7 @@
 title: SkillsUSA
 slug: skillsusa
 description: ""
-date: "2026-03-13T09:22:54.045908"
+date: "2026-03-20T08:22:04.900721"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors:
 typographies:
   - futura
 imagery_styles:
-  - professional
   - graphic
+  - professional
 wikidata_description: career and technical student organization
 wikidata_url: "https://www.wikidata.org/wiki/Q17164743"
 has_twitter: false
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.heritage.skillsusa.org/](https://www.heritage.skillsusa.org/)
-- [https://www.nlsc.skillsusa.org/](https://www.nlsc.skillsusa.org/)
-- [https://www.skillsusa.org/](https://www.skillsusa.org/)
+- [https://www.skillsusa.org](https://www.skillsusa.org)
+- [https://www.nlsc.skillsusa.org](https://www.nlsc.skillsusa.org)
+- [https://www.heritage.skillsusa.org](https://www.heritage.skillsusa.org)
+- [http://www.skillsusa.org](http://www.skillsusa.org)
 
 ## Brand Guidelines
 

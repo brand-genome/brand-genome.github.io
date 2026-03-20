@@ -2,7 +2,7 @@
 title: SkyUp Airlines
 slug: "skyup-airlines"
 description: ""
-date: "2026-03-13T09:22:51.980179"
+date: "2026-03-20T08:22:03.082672"
 draft: false
 sectors:
   - airline
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://skyup.aero/](https://skyup.aero/)
-- [https://skyup.aero/en/](https://skyup.aero/en/)
+- [https://skyup.aero](https://skyup.aero)
+- [https://skyup.aero/en](https://skyup.aero/en)
+- [http://www.skyup.aero](http://www.skyup.aero)
 
 ## Brand Guidelines
 

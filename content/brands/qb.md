@@ -2,7 +2,7 @@
 title: QB
 slug: qb
 description: ""
-date: "2026-03-13T09:22:54.977260"
+date: "2026-03-20T08:22:05.709469"
 draft: false
 sectors:
   - construction
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +53,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
+  - bold
   - monochrome
   - product
-  - bold
 wikidata_description: Dutch public transport bus company
 wikidata_url: "https://www.wikidata.org/wiki/Q3146926"
 has_twitter: false
@@ -73,11 +75,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.cstb.fr/nos-offres/activites-cstb/la-certification](https://www.cstb.fr/nos-offres/activites-cstb/la-certification)
+- [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux)
+- [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes)
 - [http://evaluation.cstb.fr](http://evaluation.cstb.fr)
 - [http://www.cstb.fr](http://www.cstb.fr)
-- [https://www.cstb.fr/nos-offres/activites-cstb/la-certification](https://www.cstb.fr/nos-offres/activites-cstb/la-certification)
-- [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes)
-- [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux)
+- [https://www.qbuzz.nl](https://www.qbuzz.nl)
 
 ## Brand Guidelines
 

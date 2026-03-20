@@ -2,11 +2,11 @@
 title: InterVarsity
 slug: intervarsity
 description: ""
-date: "2026-03-13T09:22:54.975110"
+date: "2026-03-20T08:22:05.706397"
 draft: false
 sectors:
-  - publishing
   - ngo
+  - publishing
 regions:
   - usa
 years:
@@ -33,6 +33,7 @@ headquarters_locations:
   - madison
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://intervarsity.org/](https://intervarsity.org/)
-- [https://www.ivpress.com/](https://www.ivpress.com/)
+- [https://intervarsity.org](https://intervarsity.org)
+- [https://www.ivpress.com](https://www.ivpress.com)
+- [http://www.intervarsity.org](http://www.intervarsity.org)
 
 ## Brand Guidelines
 

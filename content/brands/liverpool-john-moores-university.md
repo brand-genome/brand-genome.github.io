@@ -2,7 +2,7 @@
 title: Liverpool John Moores University
 slug: "liverpool-john-moores-university"
 description: ""
-date: "2026-03-13T09:22:53.119565"
+date: "2026-03-20T08:22:04.119185"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1823
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://my.ljmu.ac.uk/](https://my.ljmu.ac.uk/)
-- [https://www.ljmu.ac.uk/](https://www.ljmu.ac.uk/)
+- [https://www.ljmu.ac.uk](https://www.ljmu.ac.uk)
+- [https://my.ljmu.ac.uk](https://my.ljmu.ac.uk)
+- [http://www.ljmu.ac.uk](http://www.ljmu.ac.uk)
 
 ## Brand Guidelines
 

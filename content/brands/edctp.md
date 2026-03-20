@@ -2,12 +2,12 @@
 title: EDCTP
 slug: edctp
 description: ""
-date: "2026-03-13T09:22:55.044942"
+date: "2026-03-20T08:22:05.747103"
 draft: false
 sectors:
   - research
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +52,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
-  - grey
-  - yellow
   - red
+  - yellow
+  - grey
 typographies: []
 imagery_styles:
-  - photography
   - landscape
+  - photography
 wikidata_description: "nonprofit organization in The Hague, Netherlands"
 wikidata_url: "https://www.wikidata.org/wiki/Q30296681"
 has_twitter: false
@@ -72,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.edctp.org](https://www.edctp.org)
 - [https://edctp.org/brand-manual](https://edctp.org/brand-manual)
-- [https://www.edctp.org/](https://www.edctp.org/)
 
 ## Brand Guidelines
 

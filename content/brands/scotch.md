@@ -2,7 +2,7 @@
 title: Scotch
 slug: scotch
 description: ""
-date: "2026-03-13T09:22:52.060667"
+date: "2026-03-20T08:22:03.127093"
 draft: false
 sectors:
   - "consumer-goods"
@@ -27,16 +27,18 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - clothing
   - "fashion-accessory"
   - jeans
   - footwear
+  - clothing
 products: []
 headquarters_locations:
   - amsterdam
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.scotchbrand.com/3M/en_US/scotch-brand](https://www.scotchbrand.com/3M/en_US/scotch-brand)
 - [http://www.3m.com/identity](http://www.3m.com/identity)
 - [http://www.scotchbrand.com](http://www.scotchbrand.com)
-- [https://www.scotchbrand.com/3M/en_US/scotch-brand/](https://www.scotchbrand.com/3M/en_US/scotch-brand/)
+- [https://www.scotch-soda.com](https://www.scotch-soda.com)
 
 ## Brand Guidelines
 
@@ -87,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Jeans](/products_or_materials_produced/jeans/); [Footwear](/products_or_materials_produced/footwear/) |
+| Product Or Material Produced | [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Jeans](/products_or_materials_produced/jeans/); [Footwear](/products_or_materials_produced/footwear/); [Clothing](/products_or_materials_produced/clothing/) |
 | Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Inception | 1985 |

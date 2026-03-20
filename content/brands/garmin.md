@@ -2,11 +2,11 @@
 title: Garmin
 slug: garmin
 description: ""
-date: "2026-03-13T09:22:53.118890"
+date: "2026-03-20T08:22:04.118701"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,16 +54,16 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - cyan
-  - black
-  - magenta
   - red
-  - blue
   - green
   - white
+  - cyan
+  - blue
+  - black
+  - magenta
 typographies:
   - impact
 imagery_styles:
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://connect.garmin.com/](https://connect.garmin.com/)
-- [https://www.garmin.com/](https://www.garmin.com/)
+- [https://www.garmin.com](https://www.garmin.com)
+- [https://connect.garmin.com](https://connect.garmin.com)
+- [http://www.garmin.com/de-CH](http://www.garmin.com/de-CH)
 
 ## Brand Guidelines
 

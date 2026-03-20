@@ -2,16 +2,16 @@
 title: Cinnafilm
 slug: cinnafilm
 description: ""
-date: "2026-03-13T09:22:53.445756"
+date: "2026-03-20T08:22:04.349235"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,28 +50,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
+  - secondary
   - symbol
   - alternate
+  - wordmark
   - primary
-  - secondary
 brand_colors:
+  - gold
+  - white
   - purple
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - gold
-  - white
 typographies:
-  - display
   - monospace
   - helvetica
+  - display
   - roboto
 imagery_styles:
+  - bold
   - product
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,8 +83,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cinnafilm.com/](https://cinnafilm.com/)
-- [https://cinnafilm.com/products/](https://cinnafilm.com/products/)
+- [https://cinnafilm.com](https://cinnafilm.com)
+- [https://cinnafilm.com/products](https://cinnafilm.com/products)
 
 ## Brand Guidelines
 

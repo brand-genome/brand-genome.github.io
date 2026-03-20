@@ -2,7 +2,7 @@
 title: FH Aachen
 slug: "fh-aachen"
 description: ""
-date: "2026-03-13T09:22:55.095678"
+date: "2026-03-20T08:22:05.801508"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1971
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fh-aachen.de/](https://www.fh-aachen.de/)
-- [https://www.fh-aachen.de/en/](https://www.fh-aachen.de/en/)
+- [https://www.fh-aachen.de](https://www.fh-aachen.de)
+- [https://www.fh-aachen.de/en](https://www.fh-aachen.de/en)
 - [https://www.fh-aachen.de/pressestelle.html](https://www.fh-aachen.de/pressestelle.html)
 
 ## Brand Guidelines

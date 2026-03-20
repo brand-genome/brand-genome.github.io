@@ -2,7 +2,7 @@
 title: Covered California
 slug: "covered-california"
 description: ""
-date: "2026-03-13T09:22:55.096165"
+date: "2026-03-20T08:22:05.802109"
 draft: false
 sectors:
   - healthcare
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,21 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.coveredca.com/](https://www.coveredca.com/)
+- [https://www.coveredca.com](https://www.coveredca.com)
+- [https://coveredca.com](https://coveredca.com)
+- [https://coveredca.com/espanol](https://coveredca.com/espanol)
+- [https://www.coveredca.com/arabic](https://www.coveredca.com/arabic)
+- [https://www.coveredca.com/chinese](https://www.coveredca.com/chinese)
+- [https://www.coveredca.com/chinese-simplified](https://www.coveredca.com/chinese-simplified)
+- [https://www.coveredca.com/hmong](https://www.coveredca.com/hmong)
+- [https://www.coveredca.com/korean](https://www.coveredca.com/korean)
+- [https://www.coveredca.com/russian](https://www.coveredca.com/russian)
+- [https://www.coveredca.com/tagalog](https://www.coveredca.com/tagalog)
+- [https://www.coveredca.com/armenian](https://www.coveredca.com/armenian)
+- [https://www.coveredca.com/farsi](https://www.coveredca.com/farsi)
+- [https://www.coveredca.com/khmer](https://www.coveredca.com/khmer)
+- [https://www.coveredca.com/lao](https://www.coveredca.com/lao)
+- [https://www.coveredca.com/vietnamese](https://www.coveredca.com/vietnamese)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Plan2go
 slug: plan2go
 description: ""
-date: "2026-03-13T09:22:53.966834"
+date: "2026-03-20T08:22:04.892498"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - secondary
   - symbol
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - black
 typographies: []
 imagery_styles:
   - photography
-  - realistic
   - bold
+  - realistic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

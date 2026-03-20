@@ -2,7 +2,7 @@
 title: Faroe Islands
 slug: "faroe-islands"
 description: ""
-date: "2026-03-13T09:22:53.402338"
+date: "2026-03-20T08:22:04.304741"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - denmark
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +50,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - abstract
+  - secondary
 brand_colors:
-  - "pantone-877"
-  - cyan
   - silver
+  - cyan
   - grey
-  - black
   - blue
+  - black
+  - "pantone-877"
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - classic
-  - monochrome
-  - photography
   - abstract
+  - photography
+  - monochrome
 wikidata_description: "men's national association football team representing the Faroe Islands"
 wikidata_url: "https://www.wikidata.org/wiki/Q200688"
 has_twitter: false
@@ -77,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visitfaroeislands.com/](https://visitfaroeislands.com/)
+- [https://visitfaroeislands.com](https://visitfaroeislands.com)
+- [http://www.football.fo](http://www.football.fo)
 
 ## Brand Guidelines
 

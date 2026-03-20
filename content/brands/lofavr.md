@@ -2,11 +2,11 @@
 title: LOfavør
 slug: lofavr
 description: ""
-date: "2026-03-13T09:22:54.045275"
+date: "2026-03-20T08:22:04.900240"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - norway
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +51,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - yellow
-  - grey
-  - orange
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - gray
+  - yellow
+  - orange
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lo.no/hva-vi-gjor/lofavor/](https://www.lo.no/hva-vi-gjor/lofavor/)
-- [https://www.lofavor.no/](https://www.lofavor.no/)
+- [https://www.lofavor.no](https://www.lofavor.no)
+- [https://www.lo.no/hva-vi-gjor/lofavor](https://www.lo.no/hva-vi-gjor/lofavor)
 
 ## Brand Guidelines
 

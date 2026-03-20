@@ -2,7 +2,7 @@
 title: Peloton
 slug: peloton
 description: ""
-date: "2026-03-13T09:22:53.711502"
+date: "2026-03-20T08:22:04.658019"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.onepeloton.com](https://www.onepeloton.com)
+- [https://press.onepeloton.com](https://press.onepeloton.com)
+- [https://hotelfinder.onepeloton.com](https://hotelfinder.onepeloton.com)
 - [http://www.onepeloton.com](http://www.onepeloton.com)
-- [https://hotelfinder.onepeloton.com/](https://hotelfinder.onepeloton.com/)
-- [https://press.onepeloton.com/](https://press.onepeloton.com/)
-- [https://www.onepeloton.com/](https://www.onepeloton.com/)
 
 ## Brand Guidelines
 

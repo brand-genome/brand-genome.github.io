@@ -2,15 +2,15 @@
 title: easyGroup
 slug: easygroup
 description: ""
-date: "2026-03-13T09:22:52.097349"
+date: "2026-03-20T08:22:03.156807"
 draft: false
 sectors:
   - finance
 regions:
   - "united-kingdom"
 years:
-  - 2020
   - 2011
+  - 2020
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,19 +56,19 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - grey
   - "pantone-021"
+  - white
+  - grey
   - orange
   - black
-  - white
 typographies:
   - futura
 imagery_styles:
+  - graphic
+  - bold
+  - photography
   - contemporary
   - clean
-  - photography
-  - bold
-  - graphic
 wikidata_description: British multinational branded venture capital conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q1278337"
 has_twitter: false
@@ -78,11 +80,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.easyCar.com](http://www.easyCar.com)
-- [http://www.easyCruise.com](http://www.easyCruise.com)
-- [http://www.easyJet.com](http://www.easyJet.com)
-- [http://www.easyMusic.com](http://www.easyMusic.com)
-- [https://easy.com/](https://easy.com/)
+- [https://easy.com](https://easy.com)
+- [http://www.easycar.com](http://www.easycar.com)
+- [http://www.easycruise.com](http://www.easycruise.com)
+- [http://www.easyjet.com](http://www.easyjet.com)
+- [http://www.easymusic.com](http://www.easymusic.com)
+- [http://www.easy.com](http://www.easy.com)
 
 ## Brand Guidelines
 

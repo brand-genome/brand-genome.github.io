@@ -2,7 +2,7 @@
 title: Wipro
 slug: wipro
 description: ""
-date: "2026-03-13T09:22:52.050084"
+date: "2026-03-20T08:22:03.118348"
 draft: false
 sectors:
   - consulting
@@ -11,9 +11,9 @@ sectors:
 regions:
   - india
 years:
-  - 2022
-  - 2024
   - 2017
+  - 2024
+  - 2022
 languages:
   - english
 tags:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,14 +72,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wipro.com](https://www.wipro.com)
+- [https://www.wipro.com/brand-toolkit](https://www.wipro.com/brand-toolkit)
+- [http://www.instagram.com/wiprolimited](http://www.instagram.com/wiprolimited)
+- [http://www.linkedin.com/company/wipro](http://www.linkedin.com/company/wipro)
 - [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.instagram.com/designit](http://www.instagram.com/designit)
-- [http://www.instagram.com/wiprolimited](http://www.instagram.com/wiprolimited)
 - [http://www.istockphoto.com](http://www.istockphoto.com)
-- [http://www.linkedin.com/company/wipro](http://www.linkedin.com/company/wipro)
 - [http://www.wipro.com/brand-toolkit](http://www.wipro.com/brand-toolkit)
-- [https://www.wipro.com/](https://www.wipro.com/)
-- [https://www.wipro.com/brand-toolkit/](https://www.wipro.com/brand-toolkit/)
 
 ## Brand Guidelines
 

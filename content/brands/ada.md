@@ -2,7 +2,7 @@
 title: ADA
 slug: ada
 description: ""
-date: "2026-03-13T09:22:54.794572"
+date: "2026-03-20T08:22:05.568335"
 draft: false
 sectors:
   - entertainment
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1940
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ada-music.com/](https://www.ada-music.com/)
+- [https://www.ada-music.com](https://www.ada-music.com)
+- [http://www.diabetes.org](http://www.diabetes.org)
 
 ## Brand Guidelines
 

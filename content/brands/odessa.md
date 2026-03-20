@@ -2,7 +2,7 @@
 title: Odessa
 slug: odessa
 description: ""
-date: "2026-03-13T09:22:53.512674"
+date: "2026-03-20T08:22:04.405551"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1881
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - yellow
   - red
+  - yellow
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Ector and Midland counties in Texas, United States, that is county seat of Ector County"
@@ -67,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://omr.gov.ua](https://omr.gov.ua)
 - [https://odesa365.omr.gov.ua/en](https://odesa365.omr.gov.ua/en)
-- [https://omr.gov.ua/](https://omr.gov.ua/)
+- [http://www.odessa-tx.gov](http://www.odessa-tx.gov)
 
 ## Brand Guidelines
 

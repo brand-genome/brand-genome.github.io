@@ -2,7 +2,7 @@
 title: Rain City
 slug: "rain-city"
 description: ""
-date: "2026-03-13T09:22:54.727467"
+date: "2026-03-20T08:22:05.525586"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +53,17 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - purple
   - white
+  - purple
+  - black
 typographies:
-  - "proxima-nova"
-  - display
   - impact
+  - display
+  - "proxima-nova"
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q16931474"
 has_twitter: false
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rainycityrollerderby.com/](https://www.rainycityrollerderby.com/)
+- [https://www.rainycityrollerderby.com](https://www.rainycityrollerderby.com)
 
 ## Brand Guidelines
 

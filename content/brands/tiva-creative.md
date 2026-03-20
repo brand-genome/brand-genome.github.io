@@ -2,12 +2,12 @@
 title: Tiva Creative
 slug: "tiva-creative"
 description: ""
-date: "2026-03-13T09:22:53.258237"
+date: "2026-03-20T08:22:04.183756"
 draft: false
 sectors:
+  - "marketing-advertising"
   - consulting
   - software
-  - "marketing-advertising"
 regions:
   - nigeria
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - lockup
   - vertical
   - secondary
   - signature
   - horizontal
+  - lockup
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
   - "pantone-20"
 typographies: []
 imagery_styles:
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tivacreative.com/](https://tivacreative.com/)
+- [https://tivacreative.com](https://tivacreative.com)
 
 ## Brand Guidelines
 

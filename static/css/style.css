@@ -39,7 +39,7 @@
     --spacing-xxl: 3rem;
     
     /* Layout */
-    --container-max: 1200px;
+    --container-max: 1680px;
     --sidebar-width: 280px;
 }
 
@@ -98,7 +98,7 @@ a:visited {
 .container {
     max-width: var(--container-max);
     margin: 0 auto;
-    padding: 0 var(--spacing-lg);
+    padding: 0 var(--spacing-md);
 }
 
 /* =============================================================================
@@ -297,11 +297,126 @@ a:visited {
     padding: var(--spacing-xl) 0;
 }
 
+.home-split-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-xl);
+    align-items: start;
+    margin-top: var(--spacing-xl);
+}
+
+.home-left-panel {
+    position: sticky;
+    top: 86px;
+}
+
+.home-right-panel {
+    min-width: 0;
+}
+
+.home-qa-panel {
+    background: #f4f5f7;
+    border: 1px solid #d8dbe2;
+    border-radius: 12px;
+    padding: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+}
+
+.home-qa-panel h2 {
+    border: none;
+    padding: 0;
+    margin-bottom: var(--spacing-sm);
+}
+
+.home-qa-panel p {
+    margin-bottom: 0.65rem;
+    font-size: 1.05rem;
+}
+
+.home-kg-sitemap {
+    padding: var(--spacing-lg);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: linear-gradient(180deg, #fafcff 0%, #f7f9fc 100%);
+}
+
+.kg-sitemap-intro {
+    color: var(--color-text-light);
+    max-width: 920px;
+}
+
+.kg-sitemap-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+    margin-top: var(--spacing-lg);
+}
+
+.kg-node-card {
+    position: relative;
+    background: #fff;
+    border: 1px solid #dbe4f0;
+    border-radius: 12px;
+    padding: var(--spacing-md);
+    box-shadow: 0 4px 14px rgba(20, 45, 95, 0.06);
+}
+
+.kg-node-card.root {
+    border-color: #9ec7a0;
+    background: #edf9ee;
+}
+
+.kg-node-card h3 {
+    margin-bottom: 0.45rem;
+    font-size: 0.96rem;
+}
+
+.kg-relation {
+    display: inline-block;
+    margin-bottom: 0.45rem;
+    font-size: 0.78rem;
+    color: #4f5f78;
+    font-style: italic;
+}
+
+.kg-node-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+}
+
+.kg-node-links a {
+    display: inline-block;
+    padding: 0.3rem 0.58rem;
+    border-radius: 999px;
+    border: 1px solid #d8e3f5;
+    background: #f8fbff;
+    font-size: 0.84rem;
+    color: var(--color-link);
+}
+
+.kg-node-links a:hover {
+    text-decoration: none;
+    border-color: #9ab8ea;
+    background: #edf4ff;
+}
+
 .visual-attributes-intro {
     margin-top: -0.5rem;
     margin-bottom: var(--spacing-lg);
     color: var(--color-text-light);
     max-width: 900px;
+}
+
+.home-right-panel .home-stats {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.home-right-panel .home-explore,
+.home-right-panel .home-visual,
+.home-right-panel .home-recent {
+    padding-top: var(--spacing-lg);
 }
 
 .explore-grid {
@@ -1128,7 +1243,73 @@ a:visited {
     color: var(--color-text);
 }
 
+/* Site map page */
+.sitemap-page {
+    padding: var(--spacing-xl) 0;
+}
+
+.sitemap-header {
+    margin-bottom: var(--spacing-xl);
+}
+
+.sitemap-header p {
+    color: var(--color-text-light);
+    max-width: 900px;
+}
+
+.sitemap-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.sitemap-card {
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffffff 0%, #f9fbff 100%);
+    padding: var(--spacing-lg);
+    box-shadow: 0 3px 12px rgba(20, 35, 70, 0.05);
+}
+
+.sitemap-card h2 {
+    border: none;
+    padding: 0;
+    margin-bottom: var(--spacing-sm);
+    font-size: 1.05rem;
+}
+
+.sitemap-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.sitemap-links a {
+    display: inline-block;
+    padding: 0.38rem 0.62rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-border);
+    background: #fff;
+    font-size: 0.88rem;
+    color: var(--color-link);
+}
+
+.sitemap-links a:hover {
+    text-decoration: none;
+    border-color: var(--color-link);
+    background: #eef5ff;
+}
+
 @media (max-width: 900px) {
+    .home-split-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .home-left-panel {
+        position: static;
+        top: auto;
+    }
+
     .visual-definition-panel {
         grid-template-columns: 1fr;
     }

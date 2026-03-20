@@ -2,11 +2,11 @@
 title: Hobart Statesmen
 slug: "hobart-statesmen"
 description: ""
-date: "2026-03-13T09:22:54.554937"
+date: "2026-03-20T08:22:05.401750"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,16 +49,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
+  - "pantone-2607"
+  - white
   - purple
   - "pantone-165"
   - orange
   - black
-  - "pantone-2607"
-  - white
 typographies: []
 imagery_styles:
   - bold
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://hwsathletics.com](https://hwsathletics.com)
+- [https://www.hws.edu](https://www.hws.edu)
 - [http://www.hwsathletics.com](http://www.hwsathletics.com)
-- [https://hwsathletics.com/](https://hwsathletics.com/)
-- [https://www.hws.edu/](https://www.hws.edu/)
 
 ## Brand Guidelines
 

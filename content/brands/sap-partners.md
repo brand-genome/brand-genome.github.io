@@ -2,7 +2,7 @@
 title: SAP Partners
 slug: "sap-partners"
 description: ""
-date: "2026-03-13T09:22:53.013093"
+date: "2026-03-20T08:22:04.003514"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://partneredge.sap.com/](https://partneredge.sap.com/)
+- [https://partneredge.sap.com](https://partneredge.sap.com)
 - [https://www.sap.com/partners/login.html](https://www.sap.com/partners/login.html)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Associated Press
 slug: "associated-press"
 description: ""
-date: "2026-03-13T09:22:53.970602"
+date: "2026-03-20T08:22:04.896564"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ tags:
   - featured
   - media
 industries:
-  - "media-industry"
   - "news-media"
+  - "media-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1846
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apnews.com/](https://apnews.com/)
-- [https://www.ap.org/](https://www.ap.org/)
+- [https://www.ap.org](https://www.ap.org)
+- [https://apnews.com](https://apnews.com)
+- [https://ap.org](https://ap.org)
 
 ## Brand Guidelines
 

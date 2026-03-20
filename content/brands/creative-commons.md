@@ -2,7 +2,7 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-03-13T09:22:54.049808"
+date: "2026-03-20T08:22:04.902444"
 draft: false
 sectors:
   - "legal-services"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,23 +58,23 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - green
+  - gold
+  - white
+  - blue
   - gray
+  - turquoise
   - orange
   - black
-  - white
-  - green
-  - blue
-  - gold
-  - turquoise
 typographies:
   - "source-sans"
   - roboto
 imagery_styles:
+  - graphic
+  - professional
+  - photography
   - geometric
   - vibrant
-  - photography
-  - professional
-  - graphic
 wikidata_description: "non-profit-organization creating copyright licenses for the public release of creative works"
 wikidata_url: "https://www.wikidata.org/wiki/Q43449"
 has_twitter: false
@@ -84,10 +86,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_](http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_)
-- [http://www.flickr.com/photos/](http://www.flickr.com/photos/)
-- [http://www.typewolf.com/site-of-the-day/fonts/roboto](http://www.typewolf.com/site-of-the-day/fonts/roboto)
 - [https://creativecommons.org](https://creativecommons.org)
+- [http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_](http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_)
+- [http://www.flickr.com/photos](http://www.flickr.com/photos)
+- [http://www.typewolf.com/site-of-the-day/fonts/roboto](http://www.typewolf.com/site-of-the-day/fonts/roboto)
 
 ## Brand Guidelines
 

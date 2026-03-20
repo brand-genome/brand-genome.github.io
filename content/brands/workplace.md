@@ -2,7 +2,7 @@
 title: Workplace
 slug: workplace
 description: ""
-date: "2026-03-13T09:22:53.289659"
+date: "2026-03-20T08:22:04.214897"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - grey
   - "pantone-2379"
   - "pantone-285"
+  - grey
 typographies: []
 imagery_styles: []
 wikidata_description: collaboration software by Meta Platforms
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.workplace.com/](https://www.workplace.com/)
+- [https://www.workplace.com](https://www.workplace.com)
 
 ## Brand Guidelines
 

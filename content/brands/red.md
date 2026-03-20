@@ -2,7 +2,7 @@
 title: (RED)
 slug: red
 description: ""
-date: "2026-03-13T09:22:54.330866"
+date: "2026-03-20T08:22:05.156087"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,16 +55,16 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - impact
 imagery_styles:
-  - product
   - bold
   - graphic
+  - product
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q624601"
 has_twitter: false

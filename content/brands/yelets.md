@@ -2,7 +2,7 @@
 title: Yelets
 slug: yelets
 description: ""
-date: "2026-03-13T09:22:53.434191"
+date: "2026-03-20T08:22:04.338064"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - russia
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1146
+foundation_year_buckets:
+  - "12TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visitelets.ru/](https://visitelets.ru/)
-- [https://www.elets-info.ru/](https://www.elets-info.ru/)
+- [https://visitelets.ru](https://visitelets.ru)
+- [https://www.elets-info.ru](https://www.elets-info.ru)
+- [http://www.elets-adm.ru](http://www.elets-adm.ru)
 
 ## Brand Guidelines
 

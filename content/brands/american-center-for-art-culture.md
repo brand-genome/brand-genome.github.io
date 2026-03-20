@@ -2,7 +2,7 @@
 title: "American Center for Art & Culture"
 slug: "american-center-for-art-culture"
 description: ""
-date: "2026-03-13T09:22:53.430096"
+date: "2026-03-20T08:22:04.333382"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
+  - art
   - featured
   - cultural
-  - art
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://americancenterparis.org/](https://americancenterparis.org/)
+- [https://americancenterparis.org](https://americancenterparis.org)
 
 ## Brand Guidelines
 

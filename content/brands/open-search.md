@@ -2,7 +2,7 @@
 title: Open Search
 slug: "open-search"
 description: ""
-date: "2026-03-13T09:22:53.468707"
+date: "2026-03-20T08:22:04.370014"
 draft: false
 sectors:
   - software
@@ -30,6 +30,7 @@ headquarters_locations:
   - starnberg
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +52,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - purple
-  - white
   - blue
+  - white
+  - purple
+  - black
 typographies:
   - "open-sans"
   - serif
 imagery_styles:
-  - monochrome
   - bold
   - geometric
+  - monochrome
 wikidata_description: nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q118977905"
 has_twitter: false
@@ -73,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://opensearch.org/](https://opensearch.org/)
+- [https://opensearch.org](https://opensearch.org)
+- [https://opensearchfoundation.org](https://opensearchfoundation.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: European Space Agency
 slug: "european-space-agency"
 description: ""
-date: "2026-03-13T09:22:53.971971"
+date: "2026-03-20T08:22:04.898234"
 draft: false
 sectors:
-  - "space-technology"
   - satellite
+  - "space-technology"
 regions:
   - europe
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1975
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,15 +57,15 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - black
   - silver
   - white
+  - black
 typographies:
-  - verdana
   - impact
+  - verdana
 imagery_styles:
-  - flat
   - bold
+  - flat
 wikidata_description: European organisation dedicated to space exploration
 wikidata_url: "https://www.wikidata.org/wiki/Q42262"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.esa.int](https://www.esa.int)
 - [http://www.esa.int](http://www.esa.int)
-- [https://www.esa.int/](https://www.esa.int/)
+- [https://esa.int](https://esa.int)
 
 ## Brand Guidelines
 

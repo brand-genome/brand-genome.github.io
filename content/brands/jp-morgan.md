@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-03-13T09:22:54.332584"
+date: "2026-03-20T08:22:05.158619"
 draft: false
 sectors:
   - finance
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1871
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
   - brown
+  - gray
   - blue
 typographies: []
 imagery_styles:
@@ -69,8 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.jpmorgan.com](https://www.jpmorgan.com)
 - [http://www.jpmorgan.com](http://www.jpmorgan.com)
-- [https://www.jpmorgan.com/](https://www.jpmorgan.com/)
+- [http://www.jpmorgan.com/pages/jpmorgan](http://www.jpmorgan.com/pages/jpmorgan)
+- [https://people.firstrepublic.com](https://people.firstrepublic.com)
 
 ## Brand Guidelines
 

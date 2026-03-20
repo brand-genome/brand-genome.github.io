@@ -2,15 +2,15 @@
 title: Carte Bleue
 slug: "carte-bleue"
 description: ""
-date: "2026-03-13T09:22:52.321194"
+date: "2026-03-20T08:22:03.389287"
 draft: false
 sectors:
   - finance
 regions:
   - france
 years:
-  - 2019
   - 2024
+  - 2019
 languages:
   - french
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cartes-bancaires.com/](https://www.cartes-bancaires.com/)
+- [https://www.cartes-bancaires.com](https://www.cartes-bancaires.com)
 
 ## Brand Guidelines
 

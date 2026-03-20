@@ -2,12 +2,12 @@
 title: Howard Hughes Medical Institute
 slug: "howard-hughes-medical-institute"
 description: ""
-date: "2026-03-13T09:22:53.021159"
+date: "2026-03-20T08:22:04.013165"
 draft: false
 sectors:
+  - ngo
   - research
   - healthcare
-  - ngo
 regions:
   - usa
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1953
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hhmi.org](https://www.hhmi.org)
 - [http://www.hhmi.org](http://www.hhmi.org)
-- [https://www.hhmi.org/](https://www.hhmi.org/)
 
 ## Brand Guidelines
 

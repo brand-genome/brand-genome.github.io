@@ -2,7 +2,7 @@
 title: Aircoat
 slug: aircoat
 description: ""
-date: "2026-03-13T09:22:54.969492"
+date: "2026-03-20T08:22:05.700605"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
 brand_colors:
   - black
-  - grey
   - green
+  - grey
   - blue
 typographies:
   - arial
   - verdana
 imagery_styles:
-  - monochrome
   - bold
   - graphic
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false

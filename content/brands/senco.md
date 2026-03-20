@@ -2,7 +2,7 @@
 title: Senco
 slug: senco
 description: ""
-date: "2026-03-13T09:22:54.189095"
+date: "2026-03-20T08:22:05.018863"
 draft: false
 sectors:
   - hardware
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,10 +55,10 @@ brand_colors:
 typographies:
   - script
 imagery_styles:
-  - photography
-  - staged
-  - professional
   - bold
+  - staged
+  - photography
+  - professional
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q12051385"
 has_twitter: false
@@ -69,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.senco.com/](https://www.senco.com/)
+- [https://www.senco.com](https://www.senco.com)
+- [https://www.sencor.com](https://www.sencor.com)
 
 ## Brand Guidelines
 

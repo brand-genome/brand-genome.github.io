@@ -2,7 +2,7 @@
 title: University of Nottingham Ningbo China
 slug: "university-of-nottingham-ningbo-china"
 description: ""
-date: "2026-03-13T09:22:52.239804"
+date: "2026-03-20T08:22:03.303497"
 draft: false
 sectors:
   - university
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +63,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Instagram.com/unnchome](http://www.Instagram.com/unnchome)
-- [http://www.Youtube.com/c/UoNChina](http://www.Youtube.com/c/UoNChina)
-- [http://www.edu.cn](http://www.edu.cn)
+- [https://www.nottingham.edu.cn](https://www.nottingham.edu.cn)
 - [https://www.nottingham.ac.uk/about/campuses/chinacampus.aspx](https://www.nottingham.ac.uk/about/campuses/chinacampus.aspx)
-- [https://www.nottingham.edu.cn/](https://www.nottingham.edu.cn/)
+- [http://www.instagram.com/unnchome](http://www.instagram.com/unnchome)
+- [http://www.youtube.com/c/UoNChina](http://www.youtube.com/c/UoNChina)
+- [http://www.edu.cn](http://www.edu.cn)
+- [https://www.nottingham.edu.cn/en/cele/welcome.aspx](https://www.nottingham.edu.cn/en/cele/welcome.aspx)
+- [https://www.nottingham.edu.cn/cn/cele/homepage.aspx](https://www.nottingham.edu.cn/cn/cele/homepage.aspx)
 
 ## Brand Guidelines
 

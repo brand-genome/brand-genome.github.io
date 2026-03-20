@@ -2,7 +2,7 @@
 title: Boston Children’s Hospital
 slug: "boston-childrens-hospital"
 description: ""
-date: "2026-03-13T09:22:53.436334"
+date: "2026-03-20T08:22:04.340089"
 draft: false
 sectors:
   - research
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +48,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - icon
+  - alternate
   - secondary
 brand_colors:
-  - black
-  - "pantone-287"
-  - pink
   - red
-  - blue
+  - "pantone-287"
   - white
+  - blue
+  - pink
+  - black
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://web2.tch.harvard.edu/marcomm/](https://web2.tch.harvard.edu/marcomm/)
-- [https://www.childrenshospital.org/](https://www.childrenshospital.org/)
+- [https://www.childrenshospital.org](https://www.childrenshospital.org)
+- [https://web2.tch.harvard.edu/marcomm](https://web2.tch.harvard.edu/marcomm)
 
 ## Brand Guidelines
 

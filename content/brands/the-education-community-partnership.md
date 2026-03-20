@@ -2,11 +2,11 @@
 title: The Education Community Partnership
 slug: "the-education-community-partnership"
 description: ""
-date: "2026-03-13T09:22:52.877550"
+date: "2026-03-20T08:22:03.873012"
 draft: false
 sectors:
-  - consulting
   - education
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

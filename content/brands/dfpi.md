@@ -2,11 +2,11 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-03-13T09:22:53.298431"
+date: "2026-03-20T08:22:04.219992"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - "combination-mark"
   - icon
+  - "combination-mark"
+  - primary
   - secondary
 brand_colors: []
 typographies:
-  - gotham
   - impact
+  - gotham
 imagery_styles:
-  - modern
-  - monochrome
-  - clean
   - professional
   - bold
+  - modern
+  - clean
+  - monochrome
 wikidata_description: California state department
 wikidata_url: "https://www.wikidata.org/wiki/Q16850544"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dfpi.ca.gov/](https://dfpi.ca.gov/)
+- [https://dfpi.ca.gov](https://dfpi.ca.gov)
+- [http://www.dbo.ca.gov](http://www.dbo.ca.gov)
 
 ## Brand Guidelines
 

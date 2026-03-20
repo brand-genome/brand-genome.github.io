@@ -2,7 +2,7 @@
 title: Icertis
 slug: icertis
 description: ""
-date: "2026-03-13T09:22:55.081302"
+date: "2026-03-20T08:22:05.783197"
 draft: false
 sectors:
   - software
@@ -25,14 +25,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
   - "contract-management-software"
+  - software
 products: []
 headquarters_locations:
   - bellevue
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,26 +56,26 @@ logo_elements:
   - primary
   - abstract
 brand_colors:
-  - "pantone-285"
-  - gray
-  - black
   - red
-  - blue
-  - "pantone-1788"
+  - "pantone-285"
   - white
+  - blue
+  - gray
+  - "pantone-1788"
+  - black
 typographies:
   - helvetica
 imagery_styles:
-  - natural
-  - candid
-  - staged
-  - abstract
-  - vibrant
   - dynamic
-  - photography
+  - staged
+  - candid
+  - abstract
+  - graphic
   - professional
   - bold
-  - graphic
+  - natural
+  - photography
+  - vibrant
 wikidata_description: software company
 wikidata_url: "https://www.wikidata.org/wiki/Q28406980"
 has_twitter: false
@@ -85,8 +87,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.icertis.com/](https://help.icertis.com/)
-- [https://www.icertis.com/](https://www.icertis.com/)
+- [https://www.icertis.com](https://www.icertis.com)
+- [https://help.icertis.com](https://help.icertis.com)
 
 ## Brand Guidelines
 
@@ -140,7 +142,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Contract Management Software](/products_or_materials_produced/contract-management-software/) |
+| Product Or Material Produced | [Contract Management Software](/products_or_materials_produced/contract-management-software/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Bellevue](/headquarters_locations/bellevue/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Inception | 2009 |

@@ -2,12 +2,12 @@
 title: Impact on Urban Health
 slug: "impact-on-urban-health"
 description: ""
-date: "2026-03-13T09:22:53.437795"
+date: "2026-03-20T08:22:04.341666"
 draft: false
 sectors:
   - research
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - ngo
+  - health
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,24 +51,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors:
+  - green
+  - teal
+  - white
   - grey
   - yellow
   - orange
   - black
-  - teal
-  - green
-  - white
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
-  - photography
-  - modern
   - clean
+  - modern
+  - photography
 wikidata_description: organisation focussed on urban health in the UK
 wikidata_url: "https://www.wikidata.org/wiki/Q114846899"
 has_twitter: false
@@ -79,7 +80,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://urbanhealth.org.uk/](https://urbanhealth.org.uk/)
+- [https://urbanhealth.org.uk](https://urbanhealth.org.uk)
 
 ## Brand Guidelines
 

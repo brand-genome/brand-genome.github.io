@@ -2,11 +2,11 @@
 title: Bitdefender
 slug: bitdefender
 description: ""
-date: "2026-03-13T09:22:54.358659"
+date: "2026-03-20T08:22:05.189232"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - romania
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - roboto
 imagery_styles:
-  - modern
   - bold
+  - modern
   - geometric
 wikidata_description: Internet Security Suite from the Romanian software company Bitdefender
 wikidata_url: "https://www.wikidata.org/wiki/Q10740239"
@@ -67,15 +68,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.bitdefender.com](http://www.bitdefender.com)
-- [https://central.bitdefender.com/](https://central.bitdefender.com/)
-- [https://community.bitdefender.com/](https://community.bitdefender.com/)
-- [https://nexus-ap.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-ap.gravityzone.bitdefender.com/Identity/Account/Login)
-- [https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login)
+- [https://www.bitdefender.com](https://www.bitdefender.com)
+- [https://central.bitdefender.com](https://central.bitdefender.com)
+- [https://techzone.bitdefender.com](https://techzone.bitdefender.com)
+- [https://community.bitdefender.com](https://community.bitdefender.com)
+- [https://pan.bitdefender.com](https://pan.bitdefender.com)
 - [https://nexus-us.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-us.gravityzone.bitdefender.com/Identity/Account/Login)
-- [https://pan.bitdefender.com/](https://pan.bitdefender.com/)
-- [https://techzone.bitdefender.com/](https://techzone.bitdefender.com/)
-- [https://www.bitdefender.com/](https://www.bitdefender.com/)
+- [https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login)
+- [https://nexus-ap.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-ap.gravityzone.bitdefender.com/Identity/Account/Login)
+- [http://www.bitdefender.com](http://www.bitdefender.com)
+- [https://www.bitdefender.com/de-de/consumer/internet-security](https://www.bitdefender.com/de-de/consumer/internet-security)
 
 ## Brand Guidelines
 

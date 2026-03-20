@@ -2,11 +2,11 @@
 title: Coaching Association of Canada
 slug: "coaching-association-of-canada"
 description: ""
-date: "2026-03-13T09:22:52.058667"
+date: "2026-03-20T08:22:03.124854"
 draft: false
 sectors:
-  - education
   - sports
+  - education
   - ngo
 regions:
   - canada
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://coach.ca](https://coach.ca)
 - [http://coach.photoshelter.com/index](http://coach.photoshelter.com/index)
 - [http://www.coach.ca](http://www.coach.ca)
 - [http://www.photoshelter.com/index](http://www.photoshelter.com/index)
-- [https://coach.ca/](https://coach.ca/)
 
 ## Brand Guidelines
 

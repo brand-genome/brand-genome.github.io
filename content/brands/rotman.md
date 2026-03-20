@@ -2,7 +2,7 @@
 title: Rotman
 slug: rotman
 description: ""
-date: "2026-03-13T09:22:53.277530"
+date: "2026-03-20T08:22:04.205213"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.rotman.utoronto.ca](https://www.rotman.utoronto.ca)
 - [http://www.utoronto.ca](http://www.utoronto.ca)
-- [https://www.rotman.utoronto.ca/](https://www.rotman.utoronto.ca/)
+- [https://rotman.utoronto.ca](https://rotman.utoronto.ca)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Mental Health Research UK
 slug: "mental-health-research-uk"
 description: ""
-date: "2026-03-13T09:22:52.818858"
+date: "2026-03-20T08:22:03.831606"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mentalhealthresearchuk.org.uk/](https://www.mentalhealthresearchuk.org.uk/)
+- [https://www.mentalhealthresearchuk.org.uk](https://www.mentalhealthresearchuk.org.uk)
+- [http://www.mentalhealthresearchuk.org.uk](http://www.mentalhealthresearchuk.org.uk)
 
 ## Brand Guidelines
 

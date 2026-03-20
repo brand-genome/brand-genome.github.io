@@ -2,7 +2,7 @@
 title: Kochike
 slug: kochike
 description: ""
-date: "2026-03-13T09:22:54.811089"
+date: "2026-03-20T08:22:05.580144"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1944
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kochike.jp/](https://kochike.jp/)
+- [https://kochike.jp](https://kochike.jp)
+- [http://www.kenkoutsu.net](http://www.kenkoutsu.net)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Motorola
 slug: motorola
 description: ""
-date: "2026-03-13T09:22:53.075024"
+date: "2026-03-20T08:22:04.070801"
 draft: false
 sectors:
   - hardware
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1928
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hellomoto.com.br/](https://www.hellomoto.com.br/)
-- [https://www.motorola.com/](https://www.motorola.com/)
+- [https://www.motorola.com](https://www.motorola.com)
 - [https://www.motorola.com/us/en/thinkshield](https://www.motorola.com/us/en/thinkshield)
 - [https://www.motorola.com/we/en/motoverse/hello-you](https://www.motorola.com/we/en/motoverse/hello-you)
+- [https://www.hellomoto.com.br](https://www.hellomoto.com.br)
+- [http://www.motorola.com](http://www.motorola.com)
 
 ## Brand Guidelines
 

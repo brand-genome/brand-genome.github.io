@@ -2,11 +2,11 @@
 title: Will Rogers Motion Picture Pioneers Foundation
 slug: "will-rogers-motion-picture-pioneers-foundation"
 description: ""
-date: "2026-03-13T09:22:51.968900"
+date: "2026-03-20T08:22:03.080831"
 draft: false
 sectors:
-  - healthcare
   - "arts-culture"
+  - healthcare
 regions:
   - usa
 years:
@@ -34,6 +34,7 @@ headquarters_locations:
   - "los-angeles"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wrpioneers.org/](https://wrpioneers.org/)
+- [https://wrpioneers.org](https://wrpioneers.org)
+- [http://www.willrogersmotionpicture.org](http://www.willrogersmotionpicture.org)
 
 ## Brand Guidelines
 

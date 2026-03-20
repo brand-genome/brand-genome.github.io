@@ -2,11 +2,11 @@
 title: SMPS
 slug: smps
 description: ""
-date: "2026-03-13T09:22:53.699119"
+date: "2026-03-20T08:22:04.553879"
 draft: false
 sectors:
-  - education
   - "marketing-advertising"
+  - education
 regions:
   - usa
 years:
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - symbol
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - "pantone-3262"
-  - gray
-  - orange
-  - black
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - "pantone-3262"
+  - orange
+  - black
 typographies:
-  - georgia
   - gotham
+  - georgia
 imagery_styles:
   - bold
   - graphic
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.smps.org/](https://www.smps.org/)
-- [https://www.smps.org/about-the-foundation/](https://www.smps.org/about-the-foundation/)
+- [https://www.smps.org](https://www.smps.org)
+- [https://www.smps.org/about-the-foundation](https://www.smps.org/about-the-foundation)
+- [http://www.gvs-smps.ch](http://www.gvs-smps.ch)
 
 ## Brand Guidelines
 

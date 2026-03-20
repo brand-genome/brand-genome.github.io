@@ -2,11 +2,11 @@
 title: Norton Life Lock
 slug: "norton-life-lock"
 description: ""
-date: "2026-03-13T09:22:53.663833"
+date: "2026-03-20T08:22:04.521555"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - security
   - featured
   - technology
-  - security
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +50,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - horizontal
   - vertical
+  - horizontal
+  - secondary
 brand_colors:
-  - orange
-  - black
-  - "pantone-2018"
-  - blue
+  - "pantone-2145"
   - green
   - "pantone-363"
-  - "pantone-2145"
+  - blue
+  - "pantone-2018"
+  - orange
+  - black
 typographies:
   - "source-sans"
   - roboto
 imagery_styles:
-  - photography
-  - dramatic
   - bold
+  - dramatic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,10 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lifelock.norton.com/](https://lifelock.norton.com/)
-- [https://www.gendigital.com/](https://www.gendigital.com/)
-- [https://www.norton.com/](https://www.norton.com/)
-- [https://www.nortonlifelock.com/us/en/](https://www.nortonlifelock.com/us/en/)
+- [https://www.nortonlifelock.com/us/en](https://www.nortonlifelock.com/us/en)
+- [https://lifelock.norton.com](https://lifelock.norton.com)
+- [https://www.norton.com](https://www.norton.com)
+- [https://www.gendigital.com](https://www.gendigital.com)
 
 ## Brand Guidelines
 

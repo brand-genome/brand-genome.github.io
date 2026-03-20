@@ -2,7 +2,7 @@
 title: CRUP
 slug: crup
 description: ""
-date: "2026-03-13T09:22:53.764051"
+date: "2026-03-20T08:22:04.721223"
 draft: false
 sectors:
   - education
@@ -31,6 +31,7 @@ headquarters_locations:
   - lisbon
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,14 +53,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
+  - blue
   - green
   - white
-  - blue
+  - black
 typographies:
+  - optima
   - helvetica
   - "sans-serif"
-  - optima
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q16482287"
@@ -72,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://realcup.org/](https://realcup.org/)
-- [https://www.crup.org.ar/](https://www.crup.org.ar/)
+- [https://www.crup.org.ar](https://www.crup.org.ar)
+- [https://realcup.org](https://realcup.org)
+- [http://www.crup.pt](http://www.crup.pt)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ivy Tech
 slug: "ivy-tech"
 description: ""
-date: "2026-03-13T09:22:54.566995"
+date: "2026-03-20T08:22:05.413724"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,28 +51,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - stacked
   - vertical
+  - stacked
   - seal
   - horizontal
+  - icon
 brand_colors:
-  - gray
-  - grey
-  - black
+  - "pantone-342"
   - green
   - white
-  - "pantone-342"
+  - grey
+  - gray
+  - black
 typographies:
-  - merriweather
-  - "sans-serif"
   - serif
   - arial
   - avenir
+  - merriweather
+  - "sans-serif"
 imagery_styles:
-  - professional
   - bold
   - graphic
+  - professional
 wikidata_description: community college
 wikidata_url: "https://www.wikidata.org/wiki/Q6099951"
 has_twitter: false
@@ -82,8 +84,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ivytech.edu/](https://www.ivytech.edu/)
+- [https://www.ivytech.edu](https://www.ivytech.edu)
 - [https://www.ivytech.edu/indianapolis](https://www.ivytech.edu/indianapolis)
+- [http://ivytech.edu](http://ivytech.edu)
 
 ## Brand Guidelines
 

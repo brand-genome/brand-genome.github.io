@@ -2,7 +2,7 @@
 title: Lowe’s
 slug: lowes
 description: ""
-date: "2026-03-13T09:22:53.401730"
+date: "2026-03-20T08:22:04.304553"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,8 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -63,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.lowes.com/](https://corporate.lowes.com/)
-- [https://www.lowes.com/](https://www.lowes.com/)
-- [https://www.lowesprosupply.com/](https://www.lowesprosupply.com/)
+- [https://www.lowes.com](https://www.lowes.com)
+- [https://corporate.lowes.com](https://corporate.lowes.com)
+- [https://www.lowesprosupply.com](https://www.lowesprosupply.com)
 
 ## Brand Guidelines
 

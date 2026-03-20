@@ -2,7 +2,7 @@
 title: University of Malta
 slug: "university-of-malta"
 description: ""
-date: "2026-03-13T09:22:54.741145"
+date: "2026-03-20T08:22:05.538006"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1769
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,13 +53,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - crest
   - stacked
   - wordmark
+  - crest
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
   - modern
@@ -72,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.um.edu.mt/](https://www.um.edu.mt/)
+- [https://www.um.edu.mt](https://www.um.edu.mt)
 - [https://www.um.edu.mt/brandmanual](https://www.um.edu.mt/brandmanual)
-- [https://www.um.edu.mt/marketingcommunications/branding/](https://www.um.edu.mt/marketingcommunications/branding/)
+- [https://www.um.edu.mt/marketingcommunications/branding](https://www.um.edu.mt/marketingcommunications/branding)
 
 ## Brand Guidelines
 

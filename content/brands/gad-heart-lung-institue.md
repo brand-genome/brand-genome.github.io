@@ -2,7 +2,7 @@
 title: "GAD Heart & Lung Institue"
 slug: "gad-heart-lung-institue"
 description: ""
-date: "2026-03-13T09:22:52.133078"
+date: "2026-03-20T08:22:03.196214"
 draft: false
 sectors:
   - healthcare
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,25 +47,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - navy
-  - gray
   - crimson
-  - black
-  - teal
   - red
-  - blue
   - green
+  - teal
+  - navy
   - white
+  - blue
+  - gray
+  - black
 typographies:
   - montserrat
 imagery_styles:
+  - bold
   - muted
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gadheartlung.com/](https://www.gadheartlung.com/)
+- [https://www.gadheartlung.com](https://www.gadheartlung.com)
 
 ## Brand Guidelines
 

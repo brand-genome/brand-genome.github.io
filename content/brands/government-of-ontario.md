@@ -2,7 +2,7 @@
 title: Government of Ontario
 slug: "government-of-ontario"
 description: ""
-date: "2026-03-13T09:22:53.018779"
+date: "2026-03-20T08:22:04.010217"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ontario.ca/](https://www.ontario.ca/)
+- [https://www.ontario.ca](https://www.ontario.ca)
 
 ## Brand Guidelines
 

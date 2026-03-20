@@ -2,7 +2,7 @@
 title: Warwick University
 slug: "warwick-university"
 description: ""
-date: "2026-03-13T09:22:53.934895"
+date: "2026-03-20T08:22:04.855511"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,23 +51,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - gold
+  - white
   - grey
   - orange
   - black
-  - gold
-  - white
 typographies:
   - lato
   - avenir
 imagery_styles:
-  - photography
-  - natural
   - graphic
+  - natural
+  - photography
 wikidata_description: "university in Coventry, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q865528"
 has_twitter: false
@@ -77,10 +79,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://warwick.ac.uk](https://warwick.ac.uk)
+- [https://alum.warwick.ac.uk](https://alum.warwick.ac.uk)
 - [http://ukbiologycompetitions.org](http://ukbiologycompetitions.org)
 - [http://www.warwicksu.com](http://www.warwicksu.com)
-- [https://alum.warwick.ac.uk/](https://alum.warwick.ac.uk/)
-- [https://warwick.ac.uk/](https://warwick.ac.uk/)
+- [http://www.warwick.ac.uk](http://www.warwick.ac.uk)
 
 ## Brand Guidelines
 

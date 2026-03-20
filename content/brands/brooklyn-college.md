@@ -2,7 +2,7 @@
 title: Brooklyn College
 slug: "brooklyn-college"
 description: ""
-date: "2026-03-13T09:22:54.756977"
+date: "2026-03-20T08:22:05.553095"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1930
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +53,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - secondary
-  - vertical
 brand_colors: []
 typographies:
-  - serif
-  - display
   - slab
+  - display
+  - serif
 imagery_styles:
   - photography
   - contemporary
@@ -73,12 +75,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.brooklyn.edu](https://www.brooklyn.edu)
+- [https://students.brooklyn.edu/portal](https://students.brooklyn.edu/portal)
+- [https://www.brooklyn.cuny.edu/portal/app](https://www.brooklyn.cuny.edu/portal/app)
+- [https://www.cuny.edu/schools/brooklyn-college](https://www.cuny.edu/schools/brooklyn-college)
 - [http://www.cuny.edu](http://www.cuny.edu)
-- [http://www.instagram.com/](http://www.instagram.com/)
-- [https://students.brooklyn.edu/portal/](https://students.brooklyn.edu/portal/)
-- [https://www.brooklyn.cuny.edu/portal/app/](https://www.brooklyn.cuny.edu/portal/app/)
-- [https://www.brooklyn.edu/](https://www.brooklyn.edu/)
-- [https://www.cuny.edu/schools/brooklyn-college/](https://www.cuny.edu/schools/brooklyn-college/)
+- [http://www.instagram.com](http://www.instagram.com)
 
 ## Brand Guidelines
 

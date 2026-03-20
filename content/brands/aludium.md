@@ -2,7 +2,7 @@
 title: Aludium
 slug: aludium
 description: ""
-date: "2026-03-13T09:22:54.970305"
+date: "2026-03-20T08:22:05.701195"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://aludium.com](https://aludium.com)
 - [http://www.aludium.com](http://www.aludium.com)
-- [https://aludium.com/](https://aludium.com/)
 
 ## Brand Guidelines
 

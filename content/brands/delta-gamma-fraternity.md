@@ -2,11 +2,11 @@
 title: Delta Gamma Fraternity
 slug: "delta-gamma-fraternity"
 description: ""
-date: "2026-03-13T09:22:54.338086"
+date: "2026-03-20T08:22:05.163903"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,24 +50,24 @@ body_sections: []
 logo_elements:
   - logomark
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - navy
-  - black
-  - pink
   - red
-  - blue
   - green
+  - navy
+  - blue
+  - pink
+  - black
 typographies:
-  - arial
   - garamond
+  - arial
   - avenir
 imagery_styles:
-  - photography
-  - candid
-  - professional
   - natural
+  - candid
+  - photography
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.deltagamma.org](https://www.deltagamma.org)
+- [https://housing.deltagamma.org](https://housing.deltagamma.org)
 - [http://www.deltagamma.org](http://www.deltagamma.org)
-- [https://housing.deltagamma.org/](https://housing.deltagamma.org/)
-- [https://www.deltagamma.org/](https://www.deltagamma.org/)
 
 ## Brand Guidelines
 

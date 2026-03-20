@@ -2,11 +2,11 @@
 title: Hags
 slug: hags
 description: ""
-date: "2026-03-13T09:22:53.653332"
+date: "2026-03-20T08:22:04.513108"
 draft: false
 sectors:
-  - construction
   - sports
+  - construction
 regions:
   - sweden
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1960
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +54,22 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
+  - beige
+  - red
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - beige
-  - red
-  - blue
-  - green
-  - white
 typographies:
   - arial
 imagery_styles:
-  - clean
-  - contemporary
   - product
+  - clean
   - dramatic
+  - contemporary
 wikidata_description: metro station in southern Stockholm
 wikidata_url: "https://www.wikidata.org/wiki/Q1568756"
 has_twitter: false
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hags.com/](https://www.hags.com/)
+- [https://www.hags.com](https://www.hags.com)
 
 ## Brand Guidelines
 

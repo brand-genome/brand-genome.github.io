@@ -2,12 +2,12 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-03-13T09:22:54.808262"
+date: "2026-03-20T08:22:05.577537"
 draft: false
 sectors:
-  - research
   - education
   - "arts-culture"
+  - research
 regions:
   - usa
 years:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1846
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - primary
   - secondary
-  - lockup
 brand_colors:
   - black
   - yellow
@@ -75,14 +77,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://3d.si.edu/](https://3d.si.edu/)
-- [https://affiliations.si.edu/si-edu/](https://affiliations.si.edu/si-edu/)
-- [https://smithsonian.com/](https://smithsonian.com/)
-- [https://www.si.edu/](https://www.si.edu/)
+- [https://www.si.edu](https://www.si.edu)
 - [https://www.si.edu/education](https://www.si.edu/education)
-- [https://www.smithsonianchannel.com/](https://www.smithsonianchannel.com/)
-- [https://www.smithsonianjourneys.org/](https://www.smithsonianjourneys.org/)
-- [https://www.smithsonianmag.com/](https://www.smithsonianmag.com/)
+- [https://smithsonian.com](https://smithsonian.com)
+- [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
+- [https://www.smithsonianchannel.com](https://www.smithsonianchannel.com)
+- [https://www.smithsonianjourneys.org](https://www.smithsonianjourneys.org)
+- [https://3d.si.edu](https://3d.si.edu)
+- [https://affiliations.si.edu/si-edu](https://affiliations.si.edu/si-edu)
 
 ## Brand Guidelines
 

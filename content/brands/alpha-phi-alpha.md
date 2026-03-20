@@ -2,7 +2,7 @@
 title: Alpha Phi Alpha
 slug: "alpha-phi-alpha"
 description: ""
-date: "2026-03-13T09:22:54.751177"
+date: "2026-03-20T08:22:05.549297"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1906
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,17 +54,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:
-  - natural
-  - candid
   - staged
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
+  - candid
 wikidata_description: "African-American Greek-lettered fraternity"
 wikidata_url: "https://www.wikidata.org/wiki/Q2839513"
 has_twitter: false
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.APA1906.NET](http://www.APA1906.NET)
-- [https://apa1906.net/](https://apa1906.net/)
+- [https://apa1906.net](https://apa1906.net)
+- [http://www.apa1906.net](http://www.apa1906.net)
+- [http://www.alpha-phi-alpha.com](http://www.alpha-phi-alpha.com)
 
 ## Brand Guidelines
 

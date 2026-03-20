@@ -2,7 +2,7 @@
 title: Bahrain Country
 slug: "bahrain-country"
 description: ""
-date: "2026-03-13T09:22:53.328091"
+date: "2026-03-20T08:22:04.238805"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +58,8 @@ brand_colors:
 typographies:
   - script
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://calendar.bh/](https://calendar.bh/)
-- [https://www.bahrain.com/](https://www.bahrain.com/)
-- [https://www.visitbahrain.bh/](https://www.visitbahrain.bh/)
+- [https://www.bahrain.com](https://www.bahrain.com)
+- [https://calendar.bh](https://calendar.bh)
+- [https://www.visitbahrain.bh](https://www.visitbahrain.bh)
 
 ## Brand Guidelines
 

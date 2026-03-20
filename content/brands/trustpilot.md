@@ -2,7 +2,7 @@
 title: Trustpilot
 slug: trustpilot
 description: ""
-date: "2026-03-13T09:22:51.970394"
+date: "2026-03-20T08:22:03.081934"
 draft: false
 sectors:
   - software
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.trustpilot.com/](https://www.trustpilot.com/)
-- [https://www.trustpilot.com/business/](https://www.trustpilot.com/business/)
+- [https://www.trustpilot.com](https://www.trustpilot.com)
+- [https://www.trustpilot.com/business](https://www.trustpilot.com/business)
 
 ## Brand Guidelines
 

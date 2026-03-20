@@ -2,7 +2,7 @@
 title: Katowice
 slug: katowice
 description: ""
-date: "2026-03-13T09:22:52.023390"
+date: "2026-03-20T08:22:03.100430"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - polish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1598
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.katowice.eu](http://www.katowice.eu)
 - [https://www.katowice.eu](https://www.katowice.eu)
+- [http://www.katowice.eu](http://www.katowice.eu)
 
 ## Brand Guidelines
 

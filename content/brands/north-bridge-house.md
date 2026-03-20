@@ -2,7 +2,7 @@
 title: North Bridge House
 slug: "north-bridge-house"
 description: ""
-date: "2026-03-13T09:22:53.666817"
+date: "2026-03-20T08:22:04.524305"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1939
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ brand_colors:
   - white
 typographies: []
 imagery_styles:
-  - photography
   - abstract
+  - photography
 wikidata_description: "independent school in Camden and Islington, London, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q7054275"
 has_twitter: false
@@ -67,7 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.northbridgehouse.com/](https://www.northbridgehouse.com/)
+- [https://www.northbridgehouse.com](https://www.northbridgehouse.com)
+- [http://www.northbridgehouse.com](http://www.northbridgehouse.com)
 
 ## Brand Guidelines
 

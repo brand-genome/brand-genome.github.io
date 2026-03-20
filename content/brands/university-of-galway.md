@@ -2,12 +2,12 @@
 title: University of Galway
 slug: "university-of-galway"
 description: ""
-date: "2026-03-13T09:22:53.024579"
+date: "2026-03-20T08:22:04.017120"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - ireland
 years:
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1845
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,10 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.universityofgalway.ie/](http://www.universityofgalway.ie/)
-- [https://www.ollscoilnagaillimhe.ie/](https://www.ollscoilnagaillimhe.ie/)
-- [https://www.ugal.ie/](https://www.ugal.ie/)
-- [https://www.universityofgalway.ie/](https://www.universityofgalway.ie/)
+- [https://www.universityofgalway.ie](https://www.universityofgalway.ie)
+- [https://www.ollscoilnagaillimhe.ie](https://www.ollscoilnagaillimhe.ie)
+- [https://www.ugal.ie](https://www.ugal.ie)
+- [http://www.universityofgalway.ie](http://www.universityofgalway.ie)
+- [http://www.nuigalway.ie](http://www.nuigalway.ie)
+- [http://www.oegaillimh.ie](http://www.oegaillimh.ie)
 
 ## Brand Guidelines
 

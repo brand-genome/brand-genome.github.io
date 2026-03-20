@@ -2,7 +2,7 @@
 title: Square Kilometre Array
 slug: "square-kilometre-array"
 description: ""
-date: "2026-03-13T09:22:54.554078"
+date: "2026-03-20T08:22:05.400587"
 draft: false
 sectors:
   - research
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: "organization in Macclesfield, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q30296442"
 has_twitter: false
@@ -70,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.skatelescope.org](http://www.skatelescope.org)
 - [https://www.skao.int/en](https://www.skao.int/en)
+- [http://www.skatelescope.org](http://www.skatelescope.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-03-13T09:22:53.428503"
+date: "2026-03-20T08:22:04.331610"
 draft: false
 sectors:
   - research
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - biology
+  - featured
   - health
 industries: []
 countries:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1981
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,13 +55,13 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - grey
-  - purple
-  - white
   - silver
+  - white
+  - purple
+  - grey
 typographies:
-  - display
   - times
+  - display
 imagery_styles:
   - product
   - natural
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pbrf.org/](https://pbrf.org/)
 - [https://www.pbrc.edu/index.aspx](https://www.pbrc.edu/index.aspx)
+- [https://pbrf.org](https://pbrf.org)
+- [https://www.pbrc.edu](https://www.pbrc.edu)
 
 ## Brand Guidelines
 

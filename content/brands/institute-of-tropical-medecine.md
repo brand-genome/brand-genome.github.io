@@ -2,11 +2,11 @@
 title: Institute of Tropical Medecine
 slug: "institute-of-tropical-medecine"
 description: ""
-date: "2026-03-13T09:22:54.188283"
+date: "2026-03-20T08:22:05.017698"
 draft: false
 sectors:
-  - research
   - university
+  - research
   - healthcare
 regions:
   - belgium
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - blue
 typographies:
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itg.be/](https://www.itg.be/)
 - [https://www.itg.be/en](https://www.itg.be/en)
+- [https://www.itg.be](https://www.itg.be)
 
 ## Brand Guidelines
 

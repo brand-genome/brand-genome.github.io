@@ -2,13 +2,13 @@
 title: Suncor
 slug: suncor
 description: ""
-date: "2026-03-13T09:22:53.334351"
+date: "2026-03-20T08:22:04.244056"
 draft: false
 sectors:
-  - gas
-  - oil
   - petroleum
+  - gas
   - "petrol-station"
+  - oil
 regions:
   - canada
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,31 +59,31 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - red
+  - gold
+  - white
   - grey
+  - blue
   - yellow
   - gray
   - orange
   - black
-  - red
-  - blue
-  - gold
-  - white
 typographies:
   - arial
   - frutiger
 imagery_styles:
-  - natural
-  - candid
-  - gradient
-  - subtle
-  - portrait
   - dynamic
-  - photography
   - professional
   - bold
+  - portrait
+  - natural
+  - subtle
+  - photography
+  - gradient
+  - candid
 wikidata_description: Canadian energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q1516410"
 has_twitter: false
@@ -93,9 +95,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sunlink.suncor.com/](https://sunlink.suncor.com/)
-- [https://www.petro-canada.ca/en/](https://www.petro-canada.ca/en/)
-- [https://www.suncor.com/](https://www.suncor.com/)
+- [https://www.suncor.com](https://www.suncor.com)
+- [https://sunlink.suncor.com](https://sunlink.suncor.com)
+- [https://www.petro-canada.ca/en](https://www.petro-canada.ca/en)
+- [http://www.suncor.com](http://www.suncor.com)
 
 ## Brand Guidelines
 

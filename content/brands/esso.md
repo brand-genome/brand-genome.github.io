@@ -2,11 +2,11 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-03-13T09:22:54.971074"
+date: "2026-03-20T08:22:05.701719"
 draft: false
 sectors:
-  - "petrol-station"
   - petroleum
+  - "petrol-station"
 regions:
   - usa
 years:
@@ -27,14 +27,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - gasoline
   - lubricant
+  - gasoline
 products: []
 headquarters_locations:
   - irving
 subsidiaries: []
 foundation_dates:
   - 1911
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,21 +55,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - symbol
-  - wordmark
 brand_colors:
-  - cyan
-  - yellow
-  - magenta
-  - "pantone-293"
   - red
-  - blue
   - "pantone-485"
   - white
+  - cyan
+  - blue
+  - "pantone-293"
+  - yellow
+  - magenta
 typographies:
-  - serif
   - univers
+  - serif
 imagery_styles:
   - graphic
 wikidata_description: American oil and gas station brand
@@ -82,6 +84,17 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.esso.com/en](https://www.esso.com/en)
+- [https://www.esso.ca/en-ca](https://www.esso.ca/en-ca)
+- [https://www.esso.de/de-de](https://www.esso.de/de-de)
+- [https://www.carburanti.esso.it](https://www.carburanti.esso.it)
+- [https://www.esso.co.uk](https://www.esso.co.uk)
+- [https://carburant.esso.fr](https://carburant.esso.fr)
+- [https://www.esso.nl](https://www.esso.nl)
+- [https://www.esso.co.th](https://www.esso.co.th)
+- [https://www.esso.be](https://www.esso.be)
+- [https://www.esso.it](https://www.esso.it)
+- [https://esso.no](https://esso.no)
+- [https://www.eseitalia.it/index.html](https://www.eseitalia.it/index.html)
 
 ## Brand Guidelines
 
@@ -120,7 +133,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Gasoline](/products_or_materials_produced/gasoline/); [Lubricant](/products_or_materials_produced/lubricant/) |
+| Product Or Material Produced | [Lubricant](/products_or_materials_produced/lubricant/); [Gasoline](/products_or_materials_produced/gasoline/) |
 | Headquarters Location | [Irving](/headquarters_locations/irving/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Freebase Id | /m/01dw30 |

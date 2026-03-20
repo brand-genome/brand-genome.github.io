@@ -2,11 +2,11 @@
 title: Stella Artois
 slug: "stella-artois"
 description: ""
-date: "2026-03-13T09:22:52.978141"
+date: "2026-03-20T08:22:03.973526"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - belgium
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - belgium
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1926
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.stellaartois.com/en_gb/](https://www.stellaartois.com/en_gb/)
+- [https://www.stellaartois.com/en_gb](https://www.stellaartois.com/en_gb)
+- [https://www.stellaartois.com](https://www.stellaartois.com)
 
 ## Brand Guidelines
 

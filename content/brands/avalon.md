@@ -2,7 +2,7 @@
 title: Avalon
 slug: avalon
 description: ""
-date: "2026-03-13T09:22:53.714188"
+date: "2026-03-20T08:22:04.663011"
 draft: false
 sectors:
   - "real-estate"
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors: []
 typographies:
   - impact
@@ -65,7 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://experienceavalon.com/](https://experienceavalon.com/)
+- [https://experienceavalon.com](https://experienceavalon.com)
+- [http://www.avalonlive.org](http://www.avalonlive.org)
 
 ## Brand Guidelines
 

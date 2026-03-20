@@ -2,7 +2,7 @@
 title: The Brando
 slug: "the-brando"
 description: ""
-date: "2026-03-13T09:22:54.717279"
+date: "2026-03-20T08:22:05.516365"
 draft: false
 sectors:
   - hospitality
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,35 +48,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - "pantone-647"
-  - "pantone-165"
-  - orange
-  - "pantone-576"
-  - "pantone-467"
-  - "pantone-7473"
   - red
-  - blue
-  - "pantone-1675"
   - green
+  - "pantone-576"
+  - "pantone-647"
+  - "pantone-7473"
   - white
+  - "pantone-1675"
+  - orange
+  - blue
+  - "pantone-467"
+  - "pantone-165"
 typographies:
+  - "sans-serif"
   - display
   - serif
-  - "sans-serif"
 imagery_styles:
-  - natural
-  - geometric
   - macro
+  - bold
+  - natural
   - subtle
   - photography
-  - bold
+  - geometric
 wikidata_description: online News TV show
 wikidata_url: "https://www.wikidata.org/wiki/Q105753222"
 has_twitter: false
@@ -87,8 +88,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://thebrando.com/](https://thebrando.com/)
-- [https://thebrando.com/fr/](https://thebrando.com/fr/)
+- [https://thebrando.com](https://thebrando.com)
+- [https://thebrando.com/fr](https://thebrando.com/fr)
 
 ## Brand Guidelines
 

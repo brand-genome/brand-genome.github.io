@@ -2,7 +2,7 @@
 title: British Rail
 slug: "british-rail"
 description: ""
-date: "2026-03-13T09:22:54.142472"
+date: "2026-03-20T08:22:04.980657"
 draft: false
 sectors:
   - railroad
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []

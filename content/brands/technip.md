@@ -2,13 +2,13 @@
 title: Technip
 slug: technip
 description: ""
-date: "2026-03-13T09:22:54.342698"
+date: "2026-03-20T08:22:05.170329"
 draft: false
 sectors:
-  - gas
-  - oil
   - construction
+  - gas
   - "renewable-energy"
+  - oil
 regions:
   - france
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - engineering
 industries:
-  - engineering
   - "activities-of-head-offices"
+  - engineering
 countries:
   - france
 revenue_buckets:
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1958
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.technipfmc.com](https://www.technipfmc.com)
+- [https://www.ten.com](https://www.ten.com)
 - [http://www.slb.com](http://www.slb.com)
-- [https://www.technipfmc.com/](https://www.technipfmc.com/)
-- [https://www.ten.com/](https://www.ten.com/)
+- [http://www.technip.com](http://www.technip.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: CAVA Grill
 slug: "cava-grill"
 description: ""
-date: "2026-03-13T09:22:53.965036"
+date: "2026-03-20T08:22:04.889701"
 draft: false
 sectors:
   - restaurant
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2011
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,13 +57,13 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - red
   - orange
+  - black
 typographies:
-  - serif
   - futura
   - avenir
+  - serif
 imagery_styles: []
 wikidata_description: "Greek-American restaurant chain"
 wikidata_url: "https://www.wikidata.org/wiki/Q85751038"
@@ -74,9 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cava.com/](https://cava.com/)
+- [https://cava.com](https://cava.com)
 - [https://cava.com/careers](https://cava.com/careers)
-- [https://investor.cava.com/](https://investor.cava.com/)
+- [https://investor.cava.com](https://investor.cava.com)
 
 ## Brand Guidelines
 

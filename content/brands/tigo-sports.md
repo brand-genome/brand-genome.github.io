@@ -2,7 +2,7 @@
 title: Tigo Sports
 slug: "tigo-sports"
 description: ""
-date: "2026-03-13T09:22:54.747049"
+date: "2026-03-20T08:22:05.545039"
 draft: false
 sectors:
   - broadcasting
@@ -31,6 +31,7 @@ headquarters_locations:
   - asuncion
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tigosports.com.py](https://www.tigosports.com.py)
 - [https://www.tigo.com.py/tigosportsmas](https://www.tigo.com.py/tigosportsmas)
-- [https://www.tigosports.com.py/](https://www.tigosports.com.py/)
+- [http://www.tigosports.com.py](http://www.tigosports.com.py)
 
 ## Brand Guidelines
 

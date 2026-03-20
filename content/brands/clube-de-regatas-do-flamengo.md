@@ -2,7 +2,7 @@
 title: Clube de Regatas do Flamengo
 slug: "clube-de-regatas-do-flamengo"
 description: ""
-date: "2026-03-13T09:22:53.439896"
+date: "2026-03-20T08:22:04.343668"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1895
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +53,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - monogram
   - primary
+  - monogram
 brand_colors:
-  - "pantone-186"
-  - black
-  - "pantone-871"
   - gold
   - white
+  - "pantone-871"
+  - "pantone-186"
+  - black
 typographies: []
 imagery_styles:
   - professional
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.flamengo.com.br/](https://www.flamengo.com.br/)
+- [https://www.flamengo.com.br](https://www.flamengo.com.br)
 
 ## Brand Guidelines
 

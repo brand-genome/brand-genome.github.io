@@ -2,7 +2,7 @@
 title: ByteBao
 slug: bytebao
 description: ""
-date: "2026-03-13T09:22:52.978443"
+date: "2026-03-20T08:22:03.973878"
 draft: false
 sectors:
   - consulting
@@ -16,8 +16,8 @@ languages:
   - english
 tags:
   - featured
-  - technology
   - financial
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,27 +51,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - primary
-  - horizontal
-  - secondary
   - abstract
+  - secondary
+  - logomark
+  - horizontal
+  - primary
 brand_colors:
-  - black
-  - purple
-  - white
   - red
+  - white
+  - purple
+  - black
 typographies:
   - serif
   - bodoni
 imagery_styles:
-  - modern
-  - natural
   - staged
-  - gradient
-  - photography
   - abstract
   - bold
+  - modern
+  - natural
+  - photography
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bytebaogroup.com/](https://bytebaogroup.com/)
+- [https://bytebaogroup.com](https://bytebaogroup.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: X
 slug: x
 description: ""
-date: "2026-03-13T09:22:52.063109"
+date: "2026-03-20T08:22:03.129025"
 draft: false
 sectors:
   - "social-media"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - internet
   - app
+  - internet
 industries:
   - internet
 countries:
@@ -35,6 +35,9 @@ subsidiaries: []
 foundation_dates:
   - 2023
   - 2006
+foundation_year_buckets:
+  - 2000S
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,13 +70,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.x.com](http://www.x.com)
+- [https://x.com](https://x.com)
+- [https://help.x.com](https://help.x.com)
 - [https://about.x.com/en_us/company/brand-resources.html](https://about.x.com/en_us/company/brand-resources.html)
-- [https://ads.x.com/](https://ads.x.com/)
-- [https://developer.x.com/](https://developer.x.com/)
-- [https://docs.x.com/](https://docs.x.com/)
-- [https://help.x.com/](https://help.x.com/)
-- [https://x.com/](https://x.com/)
+- [https://ads.x.com](https://ads.x.com)
+- [https://developer.x.com](https://developer.x.com)
+- [https://docs.x.com](https://docs.x.com)
+- [http://www.x.com](http://www.x.com)
+- [https://twitter.com](https://twitter.com)
+- [https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)
 
 ## Brand Guidelines
 

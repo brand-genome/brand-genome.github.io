@@ -2,7 +2,7 @@
 title: Visit Manchester
 slug: "visit-manchester"
 description: ""
-date: "2026-03-13T09:22:53.264313"
+date: "2026-03-20T08:22:04.190279"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-569"
   - "pantone-1905"
-  - purple
-  - "pantone-227"
   - green
+  - purple
+  - "pantone-569"
+  - "pantone-227"
 typographies: []
 imagery_styles:
   - vibrant
@@ -68,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://subscriptions.marketingmanchester.com/](https://subscriptions.marketingmanchester.com/)
-- [https://tourism.marketingmanchester.com/](https://tourism.marketingmanchester.com/)
-- [https://www.visitmanchester.com/](https://www.visitmanchester.com/)
+- [https://www.visitmanchester.com](https://www.visitmanchester.com)
+- [https://tourism.marketingmanchester.com](https://tourism.marketingmanchester.com)
+- [https://subscriptions.marketingmanchester.com](https://subscriptions.marketingmanchester.com)
 
 ## Brand Guidelines
 

@@ -2,15 +2,15 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-03-13T09:22:53.271572"
+date: "2026-03-20T08:22:04.198981"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2022
   - 2017
+  - 2022
 languages:
   - english
 tags:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1985
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +51,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - lockup
   - secondary
+  - symbol
   - horizontal
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
   - white
   - blue
@@ -72,9 +74,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.microsoft.com/trademarks](http://www.microsoft.com/trademarks)
+- [https://www.microsoft.com/windows](https://www.microsoft.com/windows)
 - [https://www.microsoft.com/en-us/microsoft-365/windows](https://www.microsoft.com/en-us/microsoft-365/windows)
-- [https://www.microsoft.com/windows/](https://www.microsoft.com/windows/)
+- [http://www.microsoft.com/trademarks](http://www.microsoft.com/trademarks)
+- [https://windows.com](https://windows.com)
+- [https://www.microsoft.com/tr-tr/windows](https://www.microsoft.com/tr-tr/windows)
+- [https://www.microsoft.com/cs-cz/windows](https://www.microsoft.com/cs-cz/windows)
+- [https://www.microsoft.com/es-es/windows](https://www.microsoft.com/es-es/windows)
 
 ## Brand Guidelines
 

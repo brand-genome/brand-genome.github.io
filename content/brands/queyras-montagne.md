@@ -2,7 +2,7 @@
 title: Queyras Montagne
 slug: "queyras-montagne"
 description: ""
-date: "2026-03-13T09:22:55.149947"
+date: "2026-03-20T08:22:05.849481"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lequeyras.com/](https://lequeyras.com/)
+- [https://lequeyras.com](https://lequeyras.com)
 
 ## Brand Guidelines
 

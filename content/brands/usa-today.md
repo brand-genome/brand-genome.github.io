@@ -2,11 +2,11 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-03-13T09:22:55.092029"
+date: "2026-03-20T08:22:05.797296"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ logo_elements:
   - alternate
   - primary
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
   - arial
   - futura
@@ -74,9 +76,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://advertising.usatoday.com/](https://advertising.usatoday.com/)
-- [https://help.usatoday.com/](https://help.usatoday.com/)
-- [https://www.usatoday.com/](https://www.usatoday.com/)
+- [https://www.usatoday.com](https://www.usatoday.com)
+- [https://help.usatoday.com](https://help.usatoday.com)
+- [https://advertising.usatoday.com](https://advertising.usatoday.com)
+- [http://www.usatoday.com](http://www.usatoday.com)
+- [http://www.contentreserve.com/TitleInfo.asp?ID={8F97C8AF-E4D2-4A54-ACE4-53CC3DD547F0}&Format=304](http://www.contentreserve.com/TitleInfo.asp?ID={8F97C8AF-E4D2-4A54-ACE4-53CC3DD547F0}&Format=304)
+- [http://cisweb.lexis-nexis.com/sourceselect/returnToSearch.asp?csisrc=8213&after=0:ALL](http://cisweb.lexis-nexis.com/sourceselect/returnToSearch.asp?csisrc=8213&after=0:ALL)
+- [http://library.pressdisplay.com/pressdisplay/viewer.aspx?newspaper=USA+TODAY+US+Edition&cid=1152](http://library.pressdisplay.com/pressdisplay/viewer.aspx?newspaper=USA+TODAY+US+Edition&cid=1152)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Cítricos Valencianos
 slug: "citricos-valencianos"
 description: ""
-date: "2026-03-13T09:22:54.826480"
+date: "2026-03-20T08:22:05.588661"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.citricosvalencianos.com](https://www.citricosvalencianos.com)
 - [http://www.citricosvalencianos.com](http://www.citricosvalencianos.com)
-- [https://www.citricosvalencianos.com/](https://www.citricosvalencianos.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Kremenchuk City
 slug: "kremenchuk-city"
 description: ""
-date: "2026-03-13T09:22:52.233824"
+date: "2026-03-20T08:22:03.296555"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kremen.gov.ua/](https://kremen.gov.ua/)
-- [https://kremenchuk.ocb.works/](https://kremenchuk.ocb.works/)
-- [https://open-kremenchuk.com.ua/](https://open-kremenchuk.com.ua/)
+- [https://kremen.gov.ua](https://kremen.gov.ua)
+- [https://open-kremenchuk.com.ua](https://open-kremenchuk.com.ua)
 - [https://www.krembusiness.com/en](https://www.krembusiness.com/en)
+- [https://kremenchuk.ocb.works](https://kremenchuk.ocb.works)
 
 ## Brand Guidelines
 

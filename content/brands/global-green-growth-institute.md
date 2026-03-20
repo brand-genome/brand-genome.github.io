@@ -2,7 +2,7 @@
 title: Global Green Growth Institute
 slug: "global-green-growth-institute"
 description: ""
-date: "2026-03-13T09:22:53.339884"
+date: "2026-03-20T08:22:04.249299"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +51,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - abstract
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - green
   - white
@@ -61,9 +63,9 @@ brand_colors:
 typographies:
   - lato
 imagery_styles:
+  - bold
   - clean
   - abstract
-  - bold
   - graphic
 wikidata_description: "international climate organization, headquartered in South Korea"
 wikidata_url: "https://www.wikidata.org/wiki/Q12586353"
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gggi.org/](https://gggi.org/)
+- [https://gggi.org](https://gggi.org)
+- [http://www.gggi.org](http://www.gggi.org)
 
 ## Brand Guidelines
 

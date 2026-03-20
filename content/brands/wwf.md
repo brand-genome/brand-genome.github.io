@@ -2,7 +2,7 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-03-13T09:22:52.177069"
+date: "2026-03-20T08:22:03.244719"
 draft: false
 sectors:
   - ngo
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wwf.panda.org/](https://wwf.panda.org/)
-- [https://www.worldwildlife.org/](https://www.worldwildlife.org/)
+- [https://wwf.panda.org](https://wwf.panda.org)
+- [https://www.worldwildlife.org](https://www.worldwildlife.org)
+- [https://wwf.org](https://wwf.org)
 
 ## Brand Guidelines
 

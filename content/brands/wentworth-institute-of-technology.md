@@ -2,7 +2,7 @@
 title: Wentworth Institute of Technology
 slug: "wentworth-institute-of-technology"
 description: ""
-date: "2026-03-13T09:22:52.331861"
+date: "2026-03-20T08:22:03.400255"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1904
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/?query=ibm+plex](http://www.google.com/?query=ibm+plex)
+- [https://wit.edu](https://wit.edu)
+- [https://catalog.wit.edu](https://catalog.wit.edu)
+- [http://www.google.com?query=ibm+plex](http://www.google.com?query=ibm+plex)
 - [http://www.wit.edu](http://www.wit.edu)
-- [https://catalog.wit.edu/](https://catalog.wit.edu/)
-- [https://wit.edu/](https://wit.edu/)
 
 ## Brand Guidelines
 

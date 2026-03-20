@@ -2,7 +2,7 @@
 title: ICAN
 slug: ican
 description: ""
-date: "2026-03-13T09:22:55.165032"
+date: "2026-03-20T08:22:05.866376"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,18 +56,18 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - "pantone-1375"
+  - green
+  - "pantone-376"
+  - white
+  - orange
   - "pantone-268"
   - violet
-  - "pantone-376"
-  - orange
   - black
-  - green
-  - white
+  - "pantone-1375"
 typographies: []
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
   - graphic
 wikidata_description: organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces of the Internet
 wikidata_url: "https://www.wikidata.org/wiki/Q485750"
@@ -78,7 +80,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ican-design.fr/](https://www.ican-design.fr/)
+- [https://www.ican-design.fr](https://www.ican-design.fr)
+- [https://icann.org](https://icann.org)
+- [https://icann.org/ar](https://icann.org/ar)
+- [https://icann.org/fr](https://icann.org/fr)
+- [https://icann.org/ru](https://icann.org/ru)
+- [https://icann.org/es](https://icann.org/es)
+- [https://icann.org/zh](https://icann.org/zh)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Paraná Clube
 slug: "parana-clube"
 description: ""
-date: "2026-03-13T09:22:54.558570"
+date: "2026-03-20T08:22:05.404150"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://paranaclube.com.br/](https://paranaclube.com.br/)
+- [https://paranaclube.com.br](https://paranaclube.com.br)
 
 ## Brand Guidelines
 

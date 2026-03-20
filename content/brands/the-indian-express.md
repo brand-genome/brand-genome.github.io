@@ -2,11 +2,11 @@
 title: The Indian Express
 slug: "the-indian-express"
 description: ""
-date: "2026-03-13T09:22:53.704285"
+date: "2026-03-20T08:22:04.559796"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - india
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1931
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,20 +56,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - black
   - beige
   - red
-  - blue
   - white
+  - grey
+  - blue
+  - black
 typographies:
   - serif
   - roboto
 imagery_styles:
-  - photography
+  - bold
   - modern
   - natural
-  - bold
+  - photography
 wikidata_description: daily broadsheet newspaper in India
 wikidata_url: "https://www.wikidata.org/wiki/Q1954843"
 has_twitter: false
@@ -79,9 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.indianexpress.com](http://www.indianexpress.com)
+- [https://indianexpress.com](https://indianexpress.com)
 - [https://expressgroup.indianexpress.com/epaper.html](https://expressgroup.indianexpress.com/epaper.html)
-- [https://indianexpress.com/](https://indianexpress.com/)
+- [http://www.indianexpress.com](http://www.indianexpress.com)
 
 ## Brand Guidelines
 

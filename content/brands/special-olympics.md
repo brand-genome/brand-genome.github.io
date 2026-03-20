@@ -2,7 +2,7 @@
 title: Special Olympics
 slug: "special-olympics"
 description: ""
-date: "2026-03-13T09:22:53.665943"
+date: "2026-03-20T08:22:04.523433"
 draft: false
 sectors:
   - sports
@@ -10,12 +10,12 @@ sectors:
 regions:
   - international
 years:
-  - 2012
   - 2002
   - 2016
+  - 2012
 languages:
-  - english
   - chinese
+  - english
 tags:
   - sport
 industries: []
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1968
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - secondary
   - primary
+  - secondary
 brand_colors:
+  - red
+  - teal
+  - blue
   - yellow
   - black
-  - teal
-  - red
-  - blue
 typographies:
-  - arial
-  - helvetica
-  - times
   - impact
+  - helvetica
+  - arial
+  - times
 imagery_styles: []
 wikidata_description: sporting competition for people with intellectual disabilities
 wikidata_url: "https://www.wikidata.org/wiki/Q15056133"
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.specialolympics.org/](https://www.specialolympics.org/)
+- [https://www.specialolympics.org](https://www.specialolympics.org)
+- [https://www.specialolympics.org/about/history/1968-games](https://www.specialolympics.org/about/history/1968-games)
 
 ## Brand Guidelines
 

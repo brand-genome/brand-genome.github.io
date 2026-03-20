@@ -2,7 +2,7 @@
 title: Expo Arte
 slug: "expo-arte"
 description: ""
-date: "2026-03-13T09:22:53.081627"
+date: "2026-03-20T08:22:04.082142"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-572"
   - "pantone-021"
+  - "pantone-572"
 typographies:
   - din
 imagery_styles:
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.expoarte.ro/](https://www.expoarte.ro/)
+- [https://www.expoarte.ro](https://www.expoarte.ro)
 
 ## Brand Guidelines
 

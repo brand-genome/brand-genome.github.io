@@ -2,11 +2,11 @@
 title: Dalenys
 slug: dalenys
 description: ""
-date: "2026-03-13T09:22:53.467677"
+date: "2026-03-20T08:22:04.368954"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - france
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,6 +72,7 @@ visual_term_image_urls: {}
 
 - [https://dalenys.com](https://dalenys.com)
 - [https://payment.dalenys.com](https://payment.dalenys.com)
+- [http://www.dalenys.com](http://www.dalenys.com)
 
 ## Brand Guidelines
 

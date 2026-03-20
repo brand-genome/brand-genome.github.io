@@ -2,7 +2,7 @@
 title: Sony Vaio
 slug: "sony-vaio"
 description: ""
-date: "2026-03-13T09:22:55.097524"
+date: "2026-03-20T08:22:05.803554"
 draft: false
 sectors:
   - electronics
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1996
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +63,8 @@ typographies:
   - helvetica
 imagery_styles:
   - classic
-  - photography
   - product
+  - photography
 wikidata_description: line of computers and consumer electronics by VAIO corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q849488"
 has_twitter: false
@@ -74,21 +76,22 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ar.vaio.com/](https://ar.vaio.com/)
-- [https://br.vaio.com/](https://br.vaio.com/)
-- [https://cl.vaio.com/](https://cl.vaio.com/)
-- [https://hk.vaio.com/](https://hk.vaio.com/)
-- [https://in.vaio.com/](https://in.vaio.com/)
-- [https://mea.vaio.com/](https://mea.vaio.com/)
-- [https://mx.vaio.com/](https://mx.vaio.com/)
-- [https://my.vaio.com/](https://my.vaio.com/)
-- [https://sg.vaio.com/](https://sg.vaio.com/)
-- [https://support.vaio.com/global/](https://support.vaio.com/global/)
-- [https://tw.vaio.com/](https://tw.vaio.com/)
-- [https://us.vaio.com/](https://us.vaio.com/)
-- [https://uy.vaio.com/](https://uy.vaio.com/)
-- [https://vaio.com/](https://vaio.com/)
-- [https://www.vaio-china.com/](https://www.vaio-china.com/)
+- [https://vaio.com](https://vaio.com)
+- [https://us.vaio.com](https://us.vaio.com)
+- [https://hk.vaio.com](https://hk.vaio.com)
+- [https://tw.vaio.com](https://tw.vaio.com)
+- [https://sg.vaio.com](https://sg.vaio.com)
+- [https://my.vaio.com](https://my.vaio.com)
+- [https://www.vaio-china.com](https://www.vaio-china.com)
+- [https://ar.vaio.com](https://ar.vaio.com)
+- [https://br.vaio.com](https://br.vaio.com)
+- [https://cl.vaio.com](https://cl.vaio.com)
+- [https://in.vaio.com](https://in.vaio.com)
+- [https://mea.vaio.com](https://mea.vaio.com)
+- [https://mx.vaio.com](https://mx.vaio.com)
+- [https://uy.vaio.com](https://uy.vaio.com)
+- [https://support.vaio.com/global](https://support.vaio.com/global)
+- [http://www.vaio.com](http://www.vaio.com)
 
 ## Brand Guidelines
 

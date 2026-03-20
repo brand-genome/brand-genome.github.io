@@ -2,7 +2,7 @@
 title: NAF
 slug: naf
 description: ""
-date: "2026-03-13T09:22:54.077271"
+date: "2026-03-20T08:22:04.922619"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1952
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
   - din
 imagery_styles:
-  - gradient
   - minimal
+  - graphic
   - professional
   - bold
-  - graphic
+  - gradient
 wikidata_description: "Non-profit private pontifical university in Pamplona, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q926068"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://naf.org](https://naf.org)
 - [http://www.naf.org](http://www.naf.org)
-- [https://naf.org/](https://naf.org/)
+- [https://www.unav.edu](https://www.unav.edu)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Yoakley Care
 slug: "yoakley-care"
 description: ""
-date: "2026-03-13T09:22:54.193549"
+date: "2026-03-20T08:22:05.024414"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements:
   - emblem
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://yoakleycare.co.uk/](https://yoakleycare.co.uk/)
+- [https://yoakleycare.co.uk](https://yoakleycare.co.uk)
 
 ## Brand Guidelines
 

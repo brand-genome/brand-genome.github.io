@@ -2,11 +2,11 @@
 title: PSIA / AASI
 slug: "psia-aasi"
 description: ""
-date: "2026-03-13T09:22:53.693073"
+date: "2026-03-20T08:22:04.549353"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ gazes: []
 body_sections: []
 logo_elements:
   - alternate
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - yellow
-  - black
   - beige
   - red
-  - blue
   - green
   - white
+  - blue
+  - yellow
+  - black
 typographies: []
 imagery_styles:
-  - professional
   - bold
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,15 +74,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://easternsnowpros.org/](https://easternsnowpros.org/)
-- [https://psia-c.org/](https://psia-c.org/)
-- [https://psia-i.org/](https://psia-i.org/)
-- [https://psia-w.org/](https://psia-w.org/)
-- [https://thesnowpros.org/](https://thesnowpros.org/)
-- [https://www.psia-ni.org/](https://www.psia-ni.org/)
-- [https://www.psia-nrm.org/](https://www.psia-nrm.org/)
-- [https://www.psia-nw.org/](https://www.psia-nw.org/)
-- [https://www.psia-rm.org/](https://www.psia-rm.org/)
+- [https://thesnowpros.org](https://thesnowpros.org)
+- [https://psia-c.org](https://psia-c.org)
+- [https://easternsnowpros.org](https://easternsnowpros.org)
+- [https://psia-i.org](https://psia-i.org)
+- [https://www.psia-ni.org](https://www.psia-ni.org)
+- [https://www.psia-nrm.org](https://www.psia-nrm.org)
+- [https://www.psia-nw.org](https://www.psia-nw.org)
+- [https://www.psia-rm.org](https://www.psia-rm.org)
+- [https://psia-w.org](https://psia-w.org)
 
 ## Brand Guidelines
 

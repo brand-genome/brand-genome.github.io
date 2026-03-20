@@ -2,11 +2,11 @@
 title: CNN
 slug: cnn
 description: ""
-date: "2026-03-13T09:22:52.062546"
+date: "2026-03-20T08:22:03.128181"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - "united-kingdom"
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://arabic.cnn.com/](https://arabic.cnn.com/)
-- [https://cnnespanol.cnn.com/](https://cnnespanol.cnn.com/)
-- [https://edition.cnn.com/](https://edition.cnn.com/)
-- [https://www.cnn.com/](https://www.cnn.com/)
+- [https://www.cnn.com](https://www.cnn.com)
+- [https://edition.cnn.com](https://edition.cnn.com)
+- [https://cnnespanol.cnn.com](https://cnnespanol.cnn.com)
+- [https://arabic.cnn.com](https://arabic.cnn.com)
 
 ## Brand Guidelines
 

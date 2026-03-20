@@ -2,7 +2,7 @@
 title: The Evergreen State College
 slug: "the-evergreen-state-college"
 description: ""
-date: "2026-03-13T09:22:53.086492"
+date: "2026-03-20T08:22:04.087791"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +55,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
   - arial
-  - georgia
   - avenir
+  - georgia
 imagery_styles:
-  - photography
-  - natural
   - bold
   - graphic
+  - natural
+  - photography
 wikidata_description: public liberal arts college in Washington State
 wikidata_url: "https://www.wikidata.org/wiki/Q941731"
 has_twitter: false
@@ -76,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.evergreen.edu/](https://www.evergreen.edu/)
+- [https://www.evergreen.edu](https://www.evergreen.edu)
 
 ## Brand Guidelines
 

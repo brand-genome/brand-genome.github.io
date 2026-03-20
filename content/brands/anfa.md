@@ -2,11 +2,11 @@
 title: ANFA
 slug: anfa
 description: ""
-date: "2026-03-13T09:22:54.797554"
+date: "2026-03-20T08:22:05.571105"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1952
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-299"
   - "pantone-2766"
+  - "pantone-299"
 typographies: []
 imagery_styles: []
 wikidata_description: governing body of association football in Nepal
@@ -66,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ANFA-AUTO.FR](http://www.ANFA-AUTO.FR)
-- [https://f2f.anfa-auto.fr/](https://f2f.anfa-auto.fr/)
-- [https://innovauto.org/](https://innovauto.org/)
-- [https://www.anfa-auto.fr/](https://www.anfa-auto.fr/)
+- [https://www.anfa-auto.fr](https://www.anfa-auto.fr)
+- [https://innovauto.org](https://innovauto.org)
+- [https://f2f.anfa-auto.fr](https://f2f.anfa-auto.fr)
+- [http://www.anfa-auto.fr](http://www.anfa-auto.fr)
+- [https://the-anfa.com](https://the-anfa.com)
 
 ## Brand Guidelines
 

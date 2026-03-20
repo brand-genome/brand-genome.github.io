@@ -2,7 +2,7 @@
 title: Rare Skull Records
 slug: "rare-skull-records"
 description: ""
-date: "2026-03-13T09:22:53.940056"
+date: "2026-03-20T08:22:04.867036"
 draft: false
 sectors:
   - entertainment
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

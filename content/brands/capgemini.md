@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-03-13T09:22:54.749983"
+date: "2026-03-20T08:22:05.548813"
 draft: false
 sectors:
   - consulting
@@ -39,6 +39,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,10 +59,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
   - signature
+  - wordmark
+  - primary
+  - symbol
 brand_colors:
   - black
   - gray
@@ -80,10 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.capgemini.com](https://www.capgemini.com)
+- [https://www.capgemini.com/fr-fr](https://www.capgemini.com/fr-fr)
+- [https://www.capgemini.com/us-en](https://www.capgemini.com/us-en)
 - [http://www.capgemini.com](http://www.capgemini.com)
-- [https://www.capgemini.com/](https://www.capgemini.com/)
-- [https://www.capgemini.com/fr-fr/](https://www.capgemini.com/fr-fr/)
-- [https://www.capgemini.com/us-en/](https://www.capgemini.com/us-en/)
 
 ## Brand Guidelines
 

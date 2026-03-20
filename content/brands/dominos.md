@@ -2,7 +2,7 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-03-13T09:22:54.142320"
+date: "2026-03-20T08:22:04.980504"
 draft: false
 sectors:
   - restaurant
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +48,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - blue
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,9 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.dominos.co.uk/](https://corporate.dominos.co.uk/)
-- [https://www.dominos.co.uk/](https://www.dominos.co.uk/)
-- [https://www.dominos.ie/](https://www.dominos.ie/)
+- [https://www.dominos.co.uk](https://www.dominos.co.uk)
+- [https://www.dominos.ie](https://www.dominos.ie)
+- [https://corporate.dominos.co.uk](https://corporate.dominos.co.uk)
 
 ## Brand Guidelines
 

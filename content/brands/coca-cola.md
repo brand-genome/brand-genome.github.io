@@ -2,27 +2,27 @@
 title: "Coca-Cola"
 slug: "coca-cola"
 description: ""
-date: "2026-03-13T09:22:53.249543"
+date: "2026-03-20T08:22:04.174456"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - usa
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
-  - featured
-  - packaging
   - "food-beverage"
   - "student-work"
+  - packaging
+  - featured
 industries:
+  - "fast-moving-consumer-goods"
   - "beverage-industry"
   - "food-industry"
-  - "fast-moving-consumer-goods"
 countries:
   - "united-states"
 revenue_buckets:
@@ -39,13 +39,13 @@ total_equity_buckets:
   - "10B-50B"
 market_cap_buckets: []
 products_or_materials_produced:
+  - "soft-drink"
+  - "coca-cola"
+  - "diet-coke"
+  - sprite
   - "non-alcoholic-beverage"
   - "alcoholic-beverage"
-  - "coca-cola"
-  - "soft-drink"
-  - sprite
   - "fanta-orange"
-  - "diet-coke"
 products: []
 headquarters_locations:
   - atlanta
@@ -53,6 +53,8 @@ subsidiaries: []
 foundation_dates:
   - 1892
   - 1886
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,9 +75,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - script
 imagery_styles:
@@ -93,7 +95,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.coca-cola.com/us/en](https://www.coca-cola.com/us/en)
-- [https://www.coca-colacompany.com/](https://www.coca-colacompany.com/)
+- [https://www.coca-colacompany.com](https://www.coca-colacompany.com)
+- [http://www.coca-colacompany.com](http://www.coca-colacompany.com)
+- [https://www.coca-cola.com.br](https://www.coca-cola.com.br)
+- [https://www.cokesolutions.com](https://www.cokesolutions.com)
 
 ## Brand Guidelines
 
@@ -140,7 +145,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Alcoholic Beverage](/products_or_materials_produced/alcoholic-beverage/); [Coca Cola](/products_or_materials_produced/coca-cola/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Sprite](/products_or_materials_produced/sprite/); [Fanta Orange](/products_or_materials_produced/fanta-orange/); [Diet Coke](/products_or_materials_produced/diet-coke/) |
+| Product Or Material Produced | [Soft Drink](/products_or_materials_produced/soft-drink/); [Coca Cola](/products_or_materials_produced/coca-cola/); [Diet Coke](/products_or_materials_produced/diet-coke/); [Sprite](/products_or_materials_produced/sprite/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Alcoholic Beverage](/products_or_materials_produced/alcoholic-beverage/); [Fanta Orange](/products_or_materials_produced/fanta-orange/) |
 | Headquarters Location | [Atlanta](/headquarters_locations/atlanta/) |
 | Foundation Date | [1892](/foundation_dates/1892/); [1886](/foundation_dates/1886/) |
 | Library Of Congress Authority Id | n80020347 |

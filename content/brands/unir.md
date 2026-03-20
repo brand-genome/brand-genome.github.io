@@ -2,11 +2,11 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-03-13T09:22:54.557577"
+date: "2026-03-20T08:22:05.403341"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - spain
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,9 +58,9 @@ logo_elements:
   - secondary
 brand_colors:
   - black
-  - blue
   - white
   - orange
+  - blue
 typographies:
   - arial
 imagery_styles:
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mexico.unir.net/](https://mexico.unir.net/)
-- [https://www.unir.net/](https://www.unir.net/)
+- [https://www.unir.net](https://www.unir.net)
+- [https://mexico.unir.net](https://mexico.unir.net)
 
 ## Brand Guidelines
 

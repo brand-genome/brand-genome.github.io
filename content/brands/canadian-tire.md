@@ -2,7 +2,7 @@
 title: Canadian Tire
 slug: "canadian-tire"
 description: ""
-date: "2026-03-13T09:22:52.824807"
+date: "2026-03-20T08:22:03.836306"
 draft: false
 sectors:
   - finance
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - finance
   - retail
+  - finance
 countries:
   - canada
 revenue_buckets:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1922
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,11 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corp.canadiantire.ca/](https://corp.canadiantire.ca/)
-- [https://jumpstart.canadiantire.ca/](https://jumpstart.canadiantire.ca/)
-- [https://triangle.canadiantire.ca/en.html](https://triangle.canadiantire.ca/en.html)
 - [https://www.canadiantire.ca/en.html](https://www.canadiantire.ca/en.html)
-- [https://www.ctfs.com/](https://www.ctfs.com/)
+- [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
+- [https://www.ctfs.com](https://www.ctfs.com)
+- [https://triangle.canadiantire.ca/en.html](https://triangle.canadiantire.ca/en.html)
+- [https://jumpstart.canadiantire.ca](https://jumpstart.canadiantire.ca)
+- [https://www.canadiantire.ca](https://www.canadiantire.ca)
+- [https://gasplus.canadiantire.ca/en.html](https://gasplus.canadiantire.ca/en.html)
 
 ## Brand Guidelines
 

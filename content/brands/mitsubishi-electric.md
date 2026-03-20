@@ -2,11 +2,11 @@
 title: Mitsubishi Electric
 slug: "mitsubishi-electric"
 description: ""
-date: "2026-03-13T09:22:52.782122"
+date: "2026-03-20T08:22:03.792880"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
   - "home-appliances"
 regions:
   - japan
@@ -17,9 +17,9 @@ languages:
 tags:
   - corporate
 industries:
+  - "electrical-industry"
   - electronics
   - "electrical-device"
-  - "electrical-industry"
 countries:
   - japan
 revenue_buckets:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,10 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MitsubishiElectric.com](http://www.MitsubishiElectric.com)
-- [https://us.mitsubishielectric.com/en/](https://us.mitsubishielectric.com/en/)
-- [https://www.mitsubishielectric.co.jp/ja/](https://www.mitsubishielectric.co.jp/ja/)
-- [https://www.mitsubishielectric.com/en/](https://www.mitsubishielectric.com/en/)
+- [https://www.mitsubishielectric.com/en](https://www.mitsubishielectric.com/en)
+- [https://www.mitsubishielectric.co.jp/ja](https://www.mitsubishielectric.co.jp/ja)
+- [https://us.mitsubishielectric.com/en](https://us.mitsubishielectric.com/en)
+- [http://www.mitsubishielectric.com](http://www.mitsubishielectric.com)
+- [https://www.mitsubishielectric.com](https://www.mitsubishielectric.com)
+- [https://www.mitsubishielectric.co.jp](https://www.mitsubishielectric.co.jp)
+- [https://klima.mitsubishielectric.com.tr/tr](https://klima.mitsubishielectric.com.tr/tr)
 
 ## Brand Guidelines
 

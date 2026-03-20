@@ -2,7 +2,7 @@
 title: University of the Philippines
 slug: "university-of-the-philippines"
 description: ""
-date: "2026-03-13T09:22:52.328077"
+date: "2026-03-20T08:22:03.396408"
 draft: false
 sectors:
   - education
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1908
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://our.upou.edu.ph/oas/](https://our.upou.edu.ph/oas/)
-- [https://up.edu.ph/](https://up.edu.ph/)
-- [https://www.upm.edu.ph/](https://www.upm.edu.ph/)
+- [https://up.edu.ph](https://up.edu.ph)
+- [https://www.upm.edu.ph](https://www.upm.edu.ph)
+- [https://our.upou.edu.ph/oas](https://our.upou.edu.ph/oas)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Anvil by Gildan
 slug: "anvil-by-gildan"
 description: ""
-date: "2026-03-13T09:22:53.297856"
+date: "2026-03-20T08:22:04.219594"
 draft: false
 sectors:
-  - "consumer-goods"
   - fashion
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,13 +62,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://anvil.eu/](https://anvil.eu/)
-- [https://anvilclothing.co.nz/](https://anvilclothing.co.nz/)
-- [https://anvilknitwear.ca/](https://anvilknitwear.ca/)
-- [https://anvilknitwear.com.au/](https://anvilknitwear.com.au/)
-- [https://anvilknitwear.com/](https://anvilknitwear.com/)
+- [https://www.gildan.com](https://www.gildan.com)
 - [https://gildanbrands.com/jp](https://gildanbrands.com/jp)
-- [https://www.gildan.com/](https://www.gildan.com/)
+- [https://anvil.eu](https://anvil.eu)
+- [https://anvilknitwear.com](https://anvilknitwear.com)
+- [https://anvilknitwear.ca](https://anvilknitwear.ca)
+- [https://anvilknitwear.com.au](https://anvilknitwear.com.au)
+- [https://anvilclothing.co.nz](https://anvilclothing.co.nz)
 
 ## Brand Guidelines
 

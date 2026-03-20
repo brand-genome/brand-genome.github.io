@@ -2,7 +2,7 @@
 title: Ostfalia
 slug: ostfalia
 description: ""
-date: "2026-03-13T09:22:52.175618"
+date: "2026-03-20T08:22:03.242609"
 draft: false
 sectors:
   - education
@@ -31,8 +31,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1928
   - 1971
+  - 1928
+foundation_year_buckets:
+  - 1920S
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,11 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ostfalia.de](https://www.ostfalia.de)
+- [https://www.ostfalia.de/cms/de](https://www.ostfalia.de/cms/de)
+- [https://www.ostfalia.de/cms/en](https://www.ostfalia.de/cms/en)
 - [http://www.suderburg.de](http://www.suderburg.de)
 - [https://stw-on.de/wohnen](https://stw-on.de/wohnen)
-- [https://www.ostfalia.de/](https://www.ostfalia.de/)
-- [https://www.ostfalia.de/cms/de](https://www.ostfalia.de/cms/de)
-- [https://www.ostfalia.de/cms/en/](https://www.ostfalia.de/cms/en/)
+- [http://www.ostfalia.de](http://www.ostfalia.de)
 
 ## Brand Guidelines
 
@@ -164,7 +168,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1928](/foundation_dates/1928/); [1971](/foundation_dates/1971/) |
+| Foundation Date | [1971](/foundation_dates/1971/); [1928](/foundation_dates/1928/) |
 | Coordinate Location | 52.17666667, 10.54861111 |
 | Country | Germany |
 | Viaf Cluster Id | 143821129 |

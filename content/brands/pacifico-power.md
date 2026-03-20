@@ -2,7 +2,7 @@
 title: Pacifico Power
 slug: "pacifico-power"
 description: ""
-date: "2026-03-13T09:22:53.267437"
+date: "2026-03-20T08:22:04.193726"
 draft: false
 sectors:
   - utilities
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - engineering
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - symbol
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - photography
-  - modern
   - bold
+  - modern
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pacificoenergy.com/](https://www.pacificoenergy.com/)
+- [https://www.pacificoenergy.com](https://www.pacificoenergy.com)
 - [https://www.pacificoenergy.com/energy/microgrids-and-prime-power](https://www.pacificoenergy.com/energy/microgrids-and-prime-power)
 
 ## Brand Guidelines

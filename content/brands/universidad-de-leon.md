@@ -2,7 +2,7 @@
 title: Universidad de León
 slug: "universidad-de-leon"
 description: ""
-date: "2026-03-13T09:22:52.187393"
+date: "2026-03-20T08:22:03.254565"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +50,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - horizontal
   - primary
+  - horizontal
 brand_colors:
-  - gray
-  - black
   - red
   - "pantone-485"
   - white
+  - gray
+  - black
 typographies:
   - trebuchet
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.unileon.es](http://www.unileon.es)
-- [https://www.unileon.es/](https://www.unileon.es/)
+- [https://www.unileon.es](https://www.unileon.es)
 - [https://www.unileon.es/estudiantes/servicios-estudiantes/secretaria-virtual](https://www.unileon.es/estudiantes/servicios-estudiantes/secretaria-virtual)
+- [http://www.unileon.es](http://www.unileon.es)
 
 ## Brand Guidelines
 

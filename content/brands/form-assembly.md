@@ -2,7 +2,7 @@
 title: Form Assembly
 slug: "form-assembly"
 description: ""
-date: "2026-03-13T09:22:55.038008"
+date: "2026-03-20T08:22:05.740091"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - software
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,28 +48,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - secondary
 brand_colors:
+  - red
+  - green
+  - gold
+  - white
+  - blue
   - gray
   - orange
   - black
-  - green
-  - red
-  - blue
-  - gold
-  - white
 typographies:
+  - slab
   - "open-sans"
   - roboto
-  - slab
 imagery_styles:
-  - gradient
-  - clean
-  - photography
   - professional
   - bold
+  - photography
+  - clean
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,8 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.formassembly.com/](https://help.formassembly.com/)
-- [https://www.formassembly.com/](https://www.formassembly.com/)
+- [https://www.formassembly.com](https://www.formassembly.com)
+- [https://help.formassembly.com](https://help.formassembly.com)
 
 ## Brand Guidelines
 

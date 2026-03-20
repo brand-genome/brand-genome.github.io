@@ -2,11 +2,11 @@
 title: mIQrotech
 slug: miqrotech
 description: ""
-date: "2026-03-13T09:22:53.260573"
+date: "2026-03-20T08:22:04.186020"
 draft: false
 sectors:
-  - oil
   - software
+  - oil
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,21 +49,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - black
   - orange
+  - black
 typographies:
   - helvetica
   - roboto
 imagery_styles:
-  - clean
   - dynamic
-  - photography
   - professional
   - bold
+  - photography
+  - clean
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://miqrotech.com/](https://miqrotech.com/)
-- [https://miqrotech.com/miqroaware/](https://miqrotech.com/miqroaware/)
+- [https://miqrotech.com](https://miqrotech.com)
+- [https://miqrotech.com/miqroaware](https://miqrotech.com/miqroaware)
 
 ## Brand Guidelines
 

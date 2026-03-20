@@ -2,7 +2,7 @@
 title: Film4
 slug: film4
 description: ""
-date: "2026-03-13T09:22:52.099354"
+date: "2026-03-20T08:22:03.158482"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - media
   - broadcast
+  - media
 industries: []
 countries:
   - "united-kingdom"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.channel4.com/](https://www.channel4.com/)
 - [https://www.channel4.com/collection/film4](https://www.channel4.com/collection/film4)
-- [https://www.film4productions.com/](https://www.film4productions.com/)
+- [https://www.channel4.com](https://www.channel4.com)
+- [https://www.film4productions.com](https://www.film4productions.com)
+- [http://www.film4.com](http://www.film4.com)
 
 ## Brand Guidelines
 

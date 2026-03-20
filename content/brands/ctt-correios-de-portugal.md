@@ -2,7 +2,7 @@
 title: CTT – Correios de Portugal
 slug: "ctt-correios-de-portugal"
 description: ""
-date: "2026-03-13T09:22:51.970203"
+date: "2026-03-20T08:22:03.081815"
 draft: false
 sectors:
   - "parcel-service"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bancoctt.pt/](https://www.bancoctt.pt/)
-- [https://www.ctt.pt/](https://www.ctt.pt/)
-- [https://www.payshop.pt/](https://www.payshop.pt/)
+- [https://www.ctt.pt](https://www.ctt.pt)
+- [https://www.payshop.pt](https://www.payshop.pt)
+- [https://www.bancoctt.pt](https://www.bancoctt.pt)
 
 ## Brand Guidelines
 

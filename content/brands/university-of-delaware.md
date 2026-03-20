@@ -2,12 +2,12 @@
 title: University of Delaware
 slug: "university-of-delaware"
 description: ""
-date: "2026-03-13T09:22:54.973550"
+date: "2026-03-20T08:22:05.704714"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1743
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.udel.edu](https://www.udel.edu)
+- [https://www.udel.edu/ocm](https://www.udel.edu/ocm)
 - [http://www.udel.edu](http://www.udel.edu)
 - [https://sites.udel.edu/generalcounsel/policies/use-of-digital-and-multimedia](https://sites.udel.edu/generalcounsel/policies/use-of-digital-and-multimedia)
-- [https://www.udel.edu/](https://www.udel.edu/)
-- [https://www.udel.edu/ocm/](https://www.udel.edu/ocm/)
 
 ## Brand Guidelines
 

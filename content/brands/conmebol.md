@@ -2,7 +2,7 @@
 title: Conmebol
 slug: conmebol
 description: ""
-date: "2026-03-13T09:22:53.703637"
+date: "2026-03-20T08:22:04.559168"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1916
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,27 +51,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
   - black
   - white
   - "pantone-2935"
   - blue
 typographies:
-  - arial
-  - ubuntu
   - "sans-serif"
+  - ubuntu
+  - arial
 imagery_styles:
-  - modern
   - flat
-  - portrait
-  - landscape
-  - gradient
   - bold
+  - portrait
+  - modern
+  - gradient
+  - landscape
 wikidata_description: governing body of association football in South America
 wikidata_url: "https://www.wikidata.org/wiki/Q58733"
 has_twitter: false
@@ -81,7 +83,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.conmebol.com/](https://www.conmebol.com/)
+- [https://www.conmebol.com](https://www.conmebol.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Rollins
 slug: rollins
 description: ""
-date: "2026-03-13T09:22:54.809233"
+date: "2026-03-20T08:22:05.578472"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1885
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,29 +55,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - "pantone-2387"
-  - yellow
-  - black
-  - blue
   - gold
+  - "pantone-2387"
+  - blue
+  - yellow
   - "pantone-116"
+  - black
 typographies:
-  - serif
-  - gotham
   - "sans-serif"
+  - gotham
+  - serif
 imagery_styles:
-  - classic
-  - clean
   - dynamic
-  - photography
-  - bold
   - graphic
+  - classic
+  - bold
+  - photography
+  - clean
 wikidata_description: "private liberal arts college in Winter Park, Florida, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q2164222"
 has_twitter: false
@@ -87,9 +89,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.rollins.edu](https://www.rollins.edu)
 - [http://www.flickr.com/photos/rollinsnews/sets](http://www.flickr.com/photos/rollinsnews/sets)
 - [http://www.rollins.edu](http://www.rollins.edu)
-- [https://www.rollins.edu/](https://www.rollins.edu/)
 
 ## Brand Guidelines
 

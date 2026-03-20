@@ -2,7 +2,7 @@
 title: France TV
 slug: "france-tv"
 description: ""
-date: "2026-03-13T09:22:55.004402"
+date: "2026-03-20T08:22:05.719186"
 draft: false
 sectors:
   - broadcasting
@@ -13,11 +13,11 @@ years:
 languages:
   - french
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
-  - "public-broadcasting"
   - unknown
+  - "public-broadcasting"
 countries:
   - france
 revenue_buckets: []
@@ -29,10 +29,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "audiovisual-production"
   - radio
   - advertising
   - television
+  - "audiovisual-production"
 products: []
 headquarters_locations:
   - paris
@@ -40,6 +40,9 @@ subsidiaries: []
 foundation_dates:
   - 1992
   - 2000
+foundation_year_buckets:
+  - 1990S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,8 +75,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.france.tv](https://www.france.tv)
 - [http://www.movement.paris](http://www.movement.paris)
-- [https://www.france.tv/](https://www.france.tv/)
+- [https://france.tv](https://france.tv)
+- [https://francetelevisions.fr](https://francetelevisions.fr)
+- [https://www.francetelevisions.fr/groupe](https://www.francetelevisions.fr/groupe)
+- [https://www.francetelevisions.fr](https://www.francetelevisions.fr)
 
 ## Brand Guidelines
 
@@ -89,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Audiovisual Production](/products_or_materials_produced/audiovisual-production/); [Radio](/products_or_materials_produced/radio/); [Advertising](/products_or_materials_produced/advertising/); [Television](/products_or_materials_produced/television/) |
+| Product Or Material Produced | [Radio](/products_or_materials_produced/radio/); [Advertising](/products_or_materials_produced/advertising/); [Television](/products_or_materials_produced/television/); [Audiovisual Production](/products_or_materials_produced/audiovisual-production/) |
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [1992](/foundation_dates/1992/); [2000](/foundation_dates/2000/) |
 | Topic'S Main Category | Category:France Télévisions |

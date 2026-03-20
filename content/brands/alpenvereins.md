@@ -2,7 +2,7 @@
 title: Alpenvereins
 slug: alpenvereins
 description: ""
-date: "2026-03-13T09:22:53.762734"
+date: "2026-03-20T08:22:04.720108"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - community
   - sport
+  - community
 industries: []
 countries:
   - germany
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.alpenverein.at](https://www.alpenverein.at)
+- [https://www.alpenverein.at/ooe](https://www.alpenverein.at/ooe)
 - [http://www.alpenverein.at](http://www.alpenverein.at)
 - [http://www.alpenvereinsjugend.at](http://www.alpenvereinsjugend.at)
-- [https://www.alpenverein.at/](https://www.alpenverein.at/)
-- [https://www.alpenverein.at/ooe/](https://www.alpenverein.at/ooe/)
+- [http://www.dav-buchen.de/die-arnberghuette](http://www.dav-buchen.de/die-arnberghuette)
 
 ## Brand Guidelines
 

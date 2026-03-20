@@ -2,7 +2,7 @@
 title: Hisense
 slug: hisense
 description: ""
-date: "2026-03-13T09:22:53.265449"
+date: "2026-03-20T08:22:04.191282"
 draft: false
 sectors:
   - electronics
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.hisense.com/](https://global.hisense.com/)
-- [https://www.hisense-usa.com/](https://www.hisense-usa.com/)
+- [https://global.hisense.com](https://global.hisense.com)
+- [https://www.hisense-usa.com](https://www.hisense-usa.com)
+- [https://www.hisense-europe.com](https://www.hisense-europe.com)
+- [https://cz.hisense.com](https://cz.hisense.com)
+- [https://sk.hisense.com](https://sk.hisense.com)
 
 ## Brand Guidelines
 

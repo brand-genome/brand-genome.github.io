@@ -2,11 +2,11 @@
 title: Sentinels
 slug: sentinels
 description: ""
-date: "2026-03-13T09:22:53.694154"
+date: "2026-03-20T08:22:04.550222"
 draft: false
 sectors:
-  - gaming
   - sports
+  - gaming
   - entertainment
 regions:
   - usa
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,17 +51,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - grey
-  - black
-  - pink
-  - blue
   - white
+  - grey
+  - blue
+  - pink
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sentinels.gg/](https://www.sentinels.gg/)
+- [https://www.sentinels.gg](https://www.sentinels.gg)
 
 ## Brand Guidelines
 

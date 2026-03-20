@@ -2,7 +2,7 @@
 title: University College Cork
 slug: "university-college-cork"
 description: ""
-date: "2026-03-13T09:22:53.405629"
+date: "2026-03-20T08:22:04.307182"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1845
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://research.ucc.ie/](https://research.ucc.ie/)
-- [https://thearch.ucc.ie/](https://thearch.ucc.ie/)
-- [https://www.ucc.ie/](https://www.ucc.ie/)
+- [https://www.ucc.ie](https://www.ucc.ie)
+- [https://research.ucc.ie](https://research.ucc.ie)
+- [https://thearch.ucc.ie](https://thearch.ucc.ie)
 
 ## Brand Guidelines
 

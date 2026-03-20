@@ -2,7 +2,7 @@
 title: 10YFP
 slug: 10yfp
 description: ""
-date: "2026-03-13T09:22:53.539911"
+date: "2026-03-20T08:22:04.416833"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +49,19 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - black
   - green
   - white
   - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unep.org/](https://www.unep.org/)
+- [https://www.unep.org](https://www.unep.org)
 - [https://www.unep.org/es/node/1578](https://www.unep.org/es/node/1578)
 
 ## Brand Guidelines

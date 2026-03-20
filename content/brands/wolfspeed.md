@@ -2,7 +2,7 @@
 title: Wolfspeed
 slug: wolfspeed
 description: ""
-date: "2026-03-13T09:22:51.929497"
+date: "2026-03-20T08:22:03.079453"
 draft: false
 sectors:
   - electronics
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wolfspeed.com/](https://www.wolfspeed.com/)
+- [https://www.wolfspeed.com](https://www.wolfspeed.com)
+- [http://cree.com](http://cree.com)
 
 ## Brand Guidelines
 

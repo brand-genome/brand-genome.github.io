@@ -2,7 +2,7 @@
 title: WeThe15
 slug: wethe15
 description: ""
-date: "2026-03-13T09:22:53.315278"
+date: "2026-03-20T08:22:04.228658"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2021
+foundation_year_buckets:
+  - 2020S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wethe15.org/](https://www.wethe15.org/)
+- [https://www.wethe15.org](https://www.wethe15.org)
 
 ## Brand Guidelines
 

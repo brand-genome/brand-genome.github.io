@@ -2,7 +2,7 @@
 title: Free University of Bozen
 slug: "free-university-of-bozen"
 description: ""
-date: "2026-03-13T09:22:53.073117"
+date: "2026-03-20T08:22:04.068322"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,12 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.unibz.it](http://www.unibz.it)
+- [https://www.unibz.it](https://www.unibz.it)
+- [https://www.unibz.it/en](https://www.unibz.it/en)
+- [https://www.unibz.it/it](https://www.unibz.it/it)
+- [https://www.unibz.it/de](https://www.unibz.it/de)
 - [https://aws.unibz.it/exup/it/Application/Index](https://aws.unibz.it/exup/it/Application/Index)
-- [https://www.unibz.it/](https://www.unibz.it/)
-- [https://www.unibz.it/de/](https://www.unibz.it/de/)
-- [https://www.unibz.it/en/](https://www.unibz.it/en/)
-- [https://www.unibz.it/it/](https://www.unibz.it/it/)
+- [http://www.unibz.it](http://www.unibz.it)
 
 ## Brand Guidelines
 

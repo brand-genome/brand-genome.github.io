@@ -2,7 +2,7 @@
 title: Gilgandra Region
 slug: "gilgandra-region"
 description: ""
-date: "2026-03-13T09:22:53.710136"
+date: "2026-03-20T08:22:04.652682"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,26 +48,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - cyan
-  - yellow
-  - black
-  - magenta
   - red
-  - blue
   - green
+  - cyan
   - white
+  - blue
+  - yellow
+  - magenta
+  - black
 typographies:
   - times
   - avenir
 imagery_styles:
-  - portrait
-  - landscape
   - bold
+  - portrait
   - graphic
+  - landscape
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gilgandraregion.com.au/](https://gilgandraregion.com.au/)
+- [https://gilgandraregion.com.au](https://gilgandraregion.com.au)
 - [https://www.gilgandra.nsw.gov.au/Enjoy/Gilgandra-Visitor-Information-Centre](https://www.gilgandra.nsw.gov.au/Enjoy/Gilgandra-Visitor-Information-Centre)
 
 ## Brand Guidelines

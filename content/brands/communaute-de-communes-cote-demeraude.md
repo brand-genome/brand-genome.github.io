@@ -2,7 +2,7 @@
 title: Communauté de communes Côte d’Émeraude
 slug: "communaute-de-communes-cote-demeraude"
 description: ""
-date: "2026-03-13T09:22:54.749004"
+date: "2026-03-20T08:22:05.548478"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,11 +47,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - signature
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - din
 imagery_styles: []
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.COTE-EMERAUDE.FR](http://www.COTE-EMERAUDE.FR)
-- [https://www.cote-emeraude.fr/](https://www.cote-emeraude.fr/)
+- [https://www.cote-emeraude.fr](https://www.cote-emeraude.fr)
+- [http://www.cote-emeraude.fr](http://www.cote-emeraude.fr)
 
 ## Brand Guidelines
 

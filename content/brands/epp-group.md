@@ -2,7 +2,7 @@
 title: epp Group
 slug: "epp-group"
 description: ""
-date: "2026-03-13T09:22:54.766046"
+date: "2026-03-20T08:22:05.556494"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1953
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,28 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
-  - primary
   - icon
+  - primary
+  - favicon
   - secondary
 brand_colors:
-  - grey
-  - yellow
-  - orange
-  - "pantone-1365"
   - teal
-  - blue
   - white
+  - grey
+  - blue
   - "pantone-3015"
+  - yellow
+  - "pantone-1365"
+  - orange
 typographies:
-  - "open-sans"
   - garamond
   - trebuchet
+  - "open-sans"
 imagery_styles:
-  - monochrome
-  - professional
   - graphic
   - gradient
+  - monochrome
+  - professional
 wikidata_description: "centre-right political group of the European Parliament"
 wikidata_url: "https://www.wikidata.org/wiki/Q635616"
 has_twitter: false
@@ -80,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eppgroup.eu/](https://www.eppgroup.eu/)
+- [https://www.eppgroup.eu](https://www.eppgroup.eu)
 
 ## Brand Guidelines
 

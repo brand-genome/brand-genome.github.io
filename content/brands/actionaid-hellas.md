@@ -2,7 +2,7 @@
 title: ActionAid Hellas
 slug: "actionaid-hellas"
 description: ""
-date: "2026-03-13T09:22:53.704566"
+date: "2026-03-20T08:22:04.560073"
 draft: false
 sectors:
   - ngo
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - ngo
   - featured
   - social
-  - ngo
 industries: []
 countries:
   - greece
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://actionaid.gr/](https://actionaid.gr/)
-- [https://actionaid.gr/en/](https://actionaid.gr/en/)
-- [https://actionaid.gr/en/actionaid](https://actionaid.gr/en/actionaid)
-- [https://actionaid.gr/en/contact-us](https://actionaid.gr/en/contact-us)
+- [https://actionaid.gr](https://actionaid.gr)
+- [https://actionaid.gr/en](https://actionaid.gr/en)
 - [https://actionaid.gr/en/our-office](https://actionaid.gr/en/our-office)
+- [https://actionaid.gr/en/contact-us](https://actionaid.gr/en/contact-us)
+- [https://actionaid.gr/en/actionaid](https://actionaid.gr/en/actionaid)
 
 ## Brand Guidelines
 

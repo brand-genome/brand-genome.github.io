@@ -2,7 +2,7 @@
 title: Premier Rugby
 slug: "premier-rugby"
 description: ""
-date: "2026-03-13T09:22:54.741506"
+date: "2026-03-20T08:22:05.538239"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2001
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
   - secondary
-  - badge
   - horizontal
+  - primary
+  - badge
 brand_colors:
-  - purple
-  - green
   - red
+  - green
   - gold
+  - purple
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q61831177"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.premiershiprugby.com](https://www.premiershiprugby.com)
 - [http://www.makeitmatta.com](http://www.makeitmatta.com)
-- [https://www.premiershiprugby.com/](https://www.premiershiprugby.com/)
+- [https://www.premiershiprugby.com/about-us/contact](https://www.premiershiprugby.com/about-us/contact)
 
 ## Brand Guidelines
 

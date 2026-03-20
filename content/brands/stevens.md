@@ -2,7 +2,7 @@
 title: Stevens
 slug: stevens
 description: ""
-date: "2026-03-13T09:22:53.436876"
+date: "2026-03-20T08:22:04.340640"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - education
+  - technology
 industries:
   - "higher-education"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1870
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - signature
+  - secondary
 brand_colors:
+  - red
   - gray
   - white
-  - red
 typographies:
   - arial
 imagery_styles:
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://stevensducks.com/](https://stevensducks.com/)
-- [https://www.stevens.edu/](https://www.stevens.edu/)
+- [https://www.stevens.edu](https://www.stevens.edu)
+- [https://stevensducks.com](https://stevensducks.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Tres Cantos
 slug: "tres-cantos"
 description: ""
-date: "2026-03-13T09:22:53.250604"
+date: "2026-03-20T08:22:04.176741"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - spain
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +49,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
+  - red
   - "pantone-314"
   - white
-  - red
   - blue
 typographies:
   - "open-sans"

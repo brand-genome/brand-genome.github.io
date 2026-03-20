@@ -2,7 +2,7 @@
 title: Veloe
 slug: veloe
 description: ""
-date: "2026-03-13T09:22:53.446892"
+date: "2026-03-20T08:22:04.350588"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - grey
-  - black
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - black
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,7 +73,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://veloe.eu/](https://veloe.eu/)
+- [https://veloe.eu](https://veloe.eu)
 
 ## Brand Guidelines
 

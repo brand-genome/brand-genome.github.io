@@ -2,7 +2,7 @@
 title: Lithuanian National Radio and Television
 slug: "lithuanian-national-radio-and-television"
 description: ""
-date: "2026-03-13T09:22:52.068407"
+date: "2026-03-20T08:22:03.134043"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - lithuanian
 tags:
-  - media
   - broadcast
+  - media
 industries:
   - "mass-media"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apie.lrt.lt/](https://apie.lrt.lt/)
-- [https://www.lrt.lt/](https://www.lrt.lt/)
+- [https://www.lrt.lt](https://www.lrt.lt)
+- [https://apie.lrt.lt](https://apie.lrt.lt)
 - [https://www.lrt.lt/mediateka](https://www.lrt.lt/mediateka)
+- [https://www.lrt.lt/en/news-in-english](https://www.lrt.lt/en/news-in-english)
+- [https://www.lrt.lt/ru/novosti](https://www.lrt.lt/ru/novosti)
+- [https://www.lrt.lt/pl/wiadomosci](https://www.lrt.lt/pl/wiadomosci)
+- [https://www.lrt.lt/ua/novini](https://www.lrt.lt/ua/novini)
 
 ## Brand Guidelines
 

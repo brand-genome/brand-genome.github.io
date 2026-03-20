@@ -2,7 +2,7 @@
 title: Saddleback Church
 slug: "saddleback-church"
 description: ""
-date: "2026-03-13T09:22:52.821192"
+date: "2026-03-20T08:22:03.832333"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,11 +61,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://welcome.saddleback.com](https://welcome.saddleback.com)
+- [https://www.saddleback.com](https://www.saddleback.com)
+- [https://saddlebacksantaclaravalley.com](https://saddlebacksantaclaravalley.com)
+- [https://www.saddlebacknorcal.com](https://www.saddlebacknorcal.com)
 - [http://www.saddleback.com](http://www.saddleback.com)
-- [https://saddlebacksantaclaravalley.com/](https://saddlebacksantaclaravalley.com/)
-- [https://welcome.saddleback.com/](https://welcome.saddleback.com/)
-- [https://www.saddleback.com/](https://www.saddleback.com/)
-- [https://www.saddlebacknorcal.com/](https://www.saddlebacknorcal.com/)
 
 ## Brand Guidelines
 

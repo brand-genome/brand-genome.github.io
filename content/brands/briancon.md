@@ -2,7 +2,7 @@
 title: Briançon
 slug: briancon
 description: ""
-date: "2026-03-13T09:22:53.432851"
+date: "2026-03-20T08:22:04.336702"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - violet
-  - gray
-  - yellow
-  - black
   - red
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - yellow
+  - violet
+  - black
 typographies:
-  - arial
   - impact
+  - arial
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ville-briancon.fr/](https://www.ville-briancon.fr/)
+- [https://www.ville-briancon.fr](https://www.ville-briancon.fr)
 
 ## Brand Guidelines
 

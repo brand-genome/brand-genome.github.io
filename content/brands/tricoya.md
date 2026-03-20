@@ -2,11 +2,11 @@
 title: Tricoya
 slug: tricoya
 description: ""
-date: "2026-03-13T09:22:54.742795"
+date: "2026-03-20T08:22:05.538732"
 draft: false
 sectors:
-  - construction
   - "forestry-timber"
+  - construction
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.accsysplc.com/](https://www.accsysplc.com/)
-- [https://www.tricoya.com/](https://www.tricoya.com/)
+- [https://www.tricoya.com](https://www.tricoya.com)
+- [https://www.accsysplc.com](https://www.accsysplc.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Savsani
 slug: savsani
 description: ""
-date: "2026-03-13T09:22:53.337376"
+date: "2026-03-20T08:22:04.246828"
 draft: false
 sectors:
-  - fitness
   - "wellness-spa"
+  - fitness
   - healthcare
 regions:
   - usa
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +49,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - secondary
   - abstract
+  - secondary
+  - symbol
+  - wordmark
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - product
+  - duotone
+  - abstract
+  - photography
   - playful
   - clean
-  - duotone
-  - photography
-  - product
-  - abstract
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.savsani.com/](https://www.savsani.com/)
+- [https://www.savsani.com](https://www.savsani.com)
 
 ## Brand Guidelines
 

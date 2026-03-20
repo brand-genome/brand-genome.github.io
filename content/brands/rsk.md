@@ -2,7 +2,7 @@
 title: RSK
 slug: rsk
 description: ""
-date: "2026-03-13T09:22:54.226207"
+date: "2026-03-20T08:22:05.063919"
 draft: false
 sectors:
   - software
@@ -16,8 +16,8 @@ languages:
 tags:
   - engineering
 industries:
-  - "aerospace-industry"
   - "weapons-industry"
+  - "aerospace-industry"
   - "defense-industry"
 countries: []
 revenue_buckets:
@@ -34,14 +34,16 @@ total_equity_buckets:
   - "10B-50B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "military-aircraft"
   - "fighter-aircraft"
+  - "military-aircraft"
 products: []
 headquarters_locations:
   - moscow
 subsidiaries: []
 foundation_dates:
   - 1939
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,10 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://rootstock.io](https://rootstock.io)
+- [https://rsk.co](https://rsk.co)
+- [https://explorer.rsk.co](https://explorer.rsk.co)
 - [http://www.rsk.co](http://www.rsk.co)
-- [https://explorer.rsk.co/](https://explorer.rsk.co/)
-- [https://rootstock.io/](https://rootstock.io/)
-- [https://rsk.co/](https://rsk.co/)
+- [http://www.migavia.ru](http://www.migavia.ru)
 
 ## Brand Guidelines
 
@@ -172,7 +175,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Military Aircraft](/products_or_materials_produced/military-aircraft/); [Fighter Aircraft](/products_or_materials_produced/fighter-aircraft/) |
+| Product Or Material Produced | [Fighter Aircraft](/products_or_materials_produced/fighter-aircraft/); [Military Aircraft](/products_or_materials_produced/military-aircraft/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [1939](/foundation_dates/1939/) |
 | Founded By | Mikhail Gurevich, Artem Mikoyan |

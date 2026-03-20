@@ -2,11 +2,11 @@
 title: SpaceX
 slug: spacex
 description: ""
-date: "2026-03-13T09:22:54.756305"
+date: "2026-03-20T08:22:05.552517"
 draft: false
 sectors:
-  - "space-technology"
   - satellite
+  - "space-technology"
   - telecom
 regions:
   - usa
@@ -29,16 +29,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - merlin
-  - dragon
-  - falcon
   - "autonomous-spaceport-drone-ship"
   - kestrel
-  - raptor
-  - superdraco
-  - octagrabber
-  - starhopper
+  - falcon
   - "spacex-draco"
+  - superdraco
+  - starhopper
+  - octagrabber
+  - dragon
+  - merlin
+  - raptor
 products: []
 headquarters_locations:
   - brownsville
@@ -46,6 +46,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spacex.com/](https://www.spacex.com/)
-- [https://www.starlink.com/](https://www.starlink.com/)
+- [https://www.spacex.com](https://www.spacex.com)
+- [https://www.starlink.com](https://www.starlink.com)
+- [https://spacex.com](https://spacex.com)
 
 ## Brand Guidelines
 
@@ -117,7 +120,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Merlin](/products_or_materials_produced/merlin/); [Dragon](/products_or_materials_produced/dragon/); [Falcon](/products_or_materials_produced/falcon/); [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Kestrel](/products_or_materials_produced/kestrel/); [Raptor](/products_or_materials_produced/raptor/); [Superdraco](/products_or_materials_produced/superdraco/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Starhopper](/products_or_materials_produced/starhopper/); [Spacex Draco](/products_or_materials_produced/spacex-draco/) |
+| Product Or Material Produced | [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Kestrel](/products_or_materials_produced/kestrel/); [Falcon](/products_or_materials_produced/falcon/); [Spacex Draco](/products_or_materials_produced/spacex-draco/); [Superdraco](/products_or_materials_produced/superdraco/); [Starhopper](/products_or_materials_produced/starhopper/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Dragon](/products_or_materials_produced/dragon/); [Merlin](/products_or_materials_produced/merlin/); [Raptor](/products_or_materials_produced/raptor/) |
 | Headquarters Location | [Brownsville](/headquarters_locations/brownsville/); [Hawthorne](/headquarters_locations/hawthorne/) |
 | Foundation Date | [2002](/foundation_dates/2002/) |
 | Headquarters Location | Hawthorne, Brownsville |

@@ -2,12 +2,12 @@
 title: University of Vienna
 slug: "university-of-vienna"
 description: ""
-date: "2026-03-13T09:22:53.259215"
+date: "2026-03-20T08:22:04.184703"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - austria
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1365
+foundation_year_buckets:
+  - "14TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,11 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.univie.ac.at/en](https://www.univie.ac.at/en)
 - [http://bibliothek.univie.ac.at/schulungen.html](http://bibliothek.univie.ac.at/schulungen.html)
 - [http://www.flickr.com/photos/univienna](http://www.flickr.com/photos/univienna)
 - [http://www.jussuccess.at](http://www.jussuccess.at)
-- [https://public.univie.ac.at/downloads/](https://public.univie.ac.at/downloads/)
-- [https://www.univie.ac.at/en/](https://www.univie.ac.at/en/)
+- [https://public.univie.ac.at/downloads](https://public.univie.ac.at/downloads)
+- [https://www.univie.ac.at](https://www.univie.ac.at)
 
 ## Brand Guidelines
 

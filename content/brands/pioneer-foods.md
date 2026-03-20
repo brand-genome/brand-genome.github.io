@@ -2,11 +2,11 @@
 title: Pioneer Foods
 slug: "pioneer-foods"
 description: ""
-date: "2026-03-13T09:22:54.078521"
+date: "2026-03-20T08:22:04.924463"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - "south-africa"
 years:
@@ -30,6 +30,7 @@ headquarters_locations:
   - tygerberg
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
   - signature
+  - secondary
 brand_colors:
-  - black
-  - white
   - "pantone-129"
+  - white
+  - black
 typographies: []
 imagery_styles:
   - photography

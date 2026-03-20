@@ -2,7 +2,7 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-03-13T09:22:54.712594"
+date: "2026-03-20T08:22:05.510946"
 draft: false
 sectors:
   - restaurant
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "fast-food"
   - "quick-service-restaurant-sector"
+  - "fast-food"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1930
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,126 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.kfc.com](https://global.kfc.com)
 - [https://www.kfc.com](https://www.kfc.com)
+- [https://global.kfc.com](https://global.kfc.com)
 - [https://www.kfclogos.com](https://www.kfclogos.com)
+- [https://www.kfc.ca](https://www.kfc.ca)
+- [http://www.kfc.com.mx](http://www.kfc.com.mx)
+- [http://www.kfc.bm](http://www.kfc.bm)
+- [https://uae.kfc.me](https://uae.kfc.me)
+- [https://www.saudi.kfc.me](https://www.saudi.kfc.me)
+- [https://www.lebanon.kfc.me](https://www.lebanon.kfc.me)
+- [https://www.jordan.kfc.me](https://www.jordan.kfc.me)
+- [https://www.egypt.kfc.me](https://www.egypt.kfc.me)
+- [https://www.kfc.co.il](https://www.kfc.co.il)
+- [https://www.kfcturkiye.com](https://www.kfcturkiye.com)
+- [https://www.qatar.kfc.me](https://www.qatar.kfc.me)
+- [https://www.oman.kfc.me](https://www.oman.kfc.me)
+- [https://www.kuwait.kfc.me](https://www.kuwait.kfc.me)
+- [https://bahrain.kfc.me](https://bahrain.kfc.me)
+- [https://kfcrestaurants.be](https://kfcrestaurants.be)
+- [https://kfcrestaurants.be/fr](https://kfcrestaurants.be/fr)
+- [https://www.kfc.co.uk](https://www.kfc.co.uk)
+- [http://www.kfc-suisse.ch](http://www.kfc-suisse.ch)
+- [https://www.kfc-suisse.ch/it](https://www.kfc-suisse.ch/it)
+- [https://www.kfc-suisse.ch/fr](https://www.kfc-suisse.ch/fr)
+- [http://kfc.es](http://kfc.es)
+- [http://kfcslovakia.sk](http://kfcslovakia.sk)
+- [https://www.kfc.ru](https://www.kfc.ru)
+- [https://www.kfc.ru/en](https://www.kfc.ru/en)
+- [http://www.kfc.pt](http://www.kfc.pt)
+- [https://www.kfc.nl](https://www.kfc.nl)
+- [http://www.kfc.com.mt](http://www.kfc.com.mt)
+- [http://kfc.lt](http://kfc.lt)
+- [https://kfc.lt/en](https://kfc.lt/en)
+- [https://kfckosova.com](https://kfckosova.com)
+- [https://kfckosova.com/ballina](https://kfckosova.com/ballina)
+- [https://www.kfc.ie](https://www.kfc.ie)
+- [https://kfc.hu](https://kfc.hu)
+- [https://kfc.hu/en](https://kfc.hu/en)
+- [https://www.kfc.de](https://www.kfc.de)
+- [https://www.kfc.fr](https://www.kfc.fr)
+- [https://kfcrozvoz.cz](https://kfcrozvoz.cz)
+- [https://kfc.cz/en](https://kfc.cz/en)
+- [http://www.kfc.hr](http://www.kfc.hr)
+- [https://kfc.hr/en](https://kfc.hr/en)
+- [https://www.kfc.by](https://www.kfc.by)
+- [http://www.kfc-armenia.com](http://www.kfc-armenia.com)
+- [https://www.kfceesti.ee](https://www.kfceesti.ee)
+- [https://www.kfceesti.ee/ru](https://www.kfceesti.ee/ru)
+- [https://www.kfceesti.ee/en](https://www.kfceesti.ee/en)
+- [https://www.kfc-ukraine.com](https://www.kfc-ukraine.com)
+- [https://www.kfc-ukraine.com/en](https://www.kfc-ukraine.com/en)
+- [http://www.kfc.nu](http://www.kfc.nu)
+- [https://www.kfc.si](https://www.kfc.si)
+- [https://kfc.rs](https://kfc.rs)
+- [https://kfc.rs/en](https://kfc.rs/en)
+- [https://kfc.co.za](https://kfc.co.za)
+- [https://www.kfc.com.ph/home](https://www.kfc.com.ph/home)
+- [https://order.kfc.co.za](https://order.kfc.co.za)
+- [http://kfc.co.jp](http://kfc.co.jp)
+- [https://kfc.pl](https://kfc.pl)
+- [https://kfc.co.in](https://kfc.co.in)
+- [https://www.kfc.co.jp](https://www.kfc.co.jp)
+- [https://www.kfc.it](https://www.kfc.it)
+- [https://www.kfc.ro](https://www.kfc.ro)
+- [https://www.kfc.pt](https://www.kfc.pt)
+- [https://www.kfc.com.cy](https://www.kfc.com.cy)
+- [https://kfc.bg](https://kfc.bg)
+- [https://www.kfc.co.at](https://www.kfc.co.at)
+- [https://kfc.dk](https://kfc.dk)
+- [https://www.kfc.mu](https://www.kfc.mu)
+- [https://www.kfc-az.com](https://www.kfc-az.com)
+- [https://kfcbd.com](https://kfcbd.com)
+- [https://www.kfc.com.cn](https://www.kfc.com.cn)
+- [https://www.kfc.com.kh](https://www.kfc.com.kh)
+- [https://kfc.com.au](https://kfc.com.au)
+- [http://www.kfc.co.th](http://www.kfc.co.th)
+- [https://kfcku.com](https://kfcku.com)
+- [https://kfc-kazakhstan.kz](https://kfc-kazakhstan.kz)
+- [https://www.kfc.kg](https://www.kfc.kg)
+- [https://macauonlineordering.kfchk.com/en/order](https://macauonlineordering.kfchk.com/en/order)
+- [https://kfc.com.my](https://kfc.com.my)
+- [http://kfcmongolia.com](http://kfcmongolia.com)
+- [https://www.kfcpakistan.com](https://www.kfcpakistan.com)
+- [https://www.kfc.com.sg](https://www.kfc.com.sg)
+- [https://www.kfcclub.com.tw](https://www.kfcclub.com.tw)
+- [https://www.kfc.co.th](https://www.kfc.co.th)
+- [https://kfcvietnam.com.vn](https://kfcvietnam.com.vn)
+- [https://www.kfcguam.com](https://www.kfcguam.com)
+- [https://www.kfcdelivery.co.nz](https://www.kfcdelivery.co.nz)
+- [https://www.kfc.com.ar](https://www.kfc.com.ar)
+- [https://kfc.aw](https://kfc.aw)
+- [https://www.kfcnassau.com](https://www.kfcnassau.com)
+- [https://kfcbrasil.com.br](https://kfcbrasil.com.br)
+- [https://www.kentucky.cl](https://www.kentucky.cl)
+- [https://www.kfc.co](https://www.kfc.co)
+- [https://www.kfccostarica.cr](https://www.kfccostarica.cr)
+- [https://www.kfcdominica.com](https://www.kfcdominica.com)
+- [https://www.kfc.com.do](https://www.kfc.com.do)
+- [https://www.kfc.com.ec](https://www.kfc.com.ec)
+- [https://www.kfc.com.sv](https://www.kfc.com.sv)
+- [http://www.kfc.com.gt](http://www.kfc.com.gt)
+- [https://kfcjamaica.com](https://kfcjamaica.com)
+- [https://www.kfc.hn](https://www.kfc.hn)
+- [https://kfc-panama.com](https://kfc-panama.com)
+- [https://kfc.com.py](https://kfc.com.py)
+- [https://kfc.com.pe](https://kfc.com.pe)
+- [https://kfcslu.com](https://kfcslu.com)
+- [https://www.kfc.tt](https://www.kfc.tt)
+- [https://www.kfc.gr](https://www.kfc.gr)
+- [https://kfc.lv](https://kfc.lv)
+- [http://kfc.sa](http://kfc.sa)
+- [https://kfcindonesia.com](https://kfcindonesia.com)
+- [http://kfckorea.com](http://kfckorea.com)
+- [https://kfc.co.nz](https://kfc.co.nz)
+- [https://www.kfc.com.cy/en](https://www.kfc.com.cy/en)
+- [https://kfc.ee/en](https://kfc.ee/en)
+- [https://kfc.ee/ru](https://kfc.ee/ru)
+- [https://kfc.ee](https://kfc.ee)
+- [https://www.kfckorea.com](https://www.kfckorea.com)
+- [https://www.kfc.com.gt](https://www.kfc.com.gt)
+- [https://www.kfchk.com](https://www.kfchk.com)
 
 ## Brand Guidelines
 

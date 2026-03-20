@@ -2,7 +2,7 @@
 title: BASF
 slug: basf
 description: ""
-date: "2026-03-13T09:22:55.088755"
+date: "2026-03-20T08:22:05.793583"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -42,6 +42,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1865
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.basf.com/](https://www.basf.com/)
+- [https://www.basf.com](https://www.basf.com)
 
 ## Brand Guidelines
 

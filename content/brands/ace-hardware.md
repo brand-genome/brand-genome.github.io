@@ -2,7 +2,7 @@
 title: Ace Hardware
 slug: "ace-hardware"
 description: ""
-date: "2026-03-13T09:22:52.308660"
+date: "2026-03-20T08:22:03.374041"
 draft: false
 sectors:
   - "consumer-goods"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MyAce.com](http://www.MyAce.com)
+- [https://www.acehardware.com](https://www.acehardware.com)
+- [http://www.myace.com](http://www.myace.com)
 - [http://www.acehardware.com](http://www.acehardware.com)
-- [https://www.acehardware.com/](https://www.acehardware.com/)
 
 ## Brand Guidelines
 

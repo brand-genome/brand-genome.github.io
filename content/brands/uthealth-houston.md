@@ -2,7 +2,7 @@
 title: UTHealth Houston
 slug: "uthealth-houston"
 description: ""
-date: "2026-03-13T09:22:53.113953"
+date: "2026-03-20T08:22:04.112853"
 draft: false
 sectors:
   - university
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +52,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - orange
   - green
+  - gold
   - teal
   - blue
-  - gold
+  - gray
+  - orange
 typographies:
   - serif
-  - univers
   - garamond
-  - helvetica
   - arial
-  - times
   - avenir
+  - univers
+  - times
+  - helvetica
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -77,17 +78,17 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://dentistry.uth.edu/](http://dentistry.uth.edu/)
-- [http://nba.uth.tmc.edu/](http://nba.uth.tmc.edu/)
+- [https://www.uth.edu](https://www.uth.edu)
+- [https://www.utphysicians.com/myuthealthhouston](https://www.utphysicians.com/myuthealthhouston)
+- [https://dentistry.uth.edu](https://dentistry.uth.edu)
+- [https://nursing.uth.edu](https://nursing.uth.edu)
+- [https://sph.uth.edu](https://sph.uth.edu)
+- [https://med.uth.edu](https://med.uth.edu)
+- [http://dentistry.uth.edu](http://dentistry.uth.edu)
+- [http://nba.uth.tmc.edu](http://nba.uth.tmc.edu)
 - [http://www.tmc.edu](http://www.tmc.edu)
-- [https://dentistry.uth.edu/](https://dentistry.uth.edu/)
-- [https://med.uth.edu/](https://med.uth.edu/)
-- [https://nursing.uth.edu/](https://nursing.uth.edu/)
-- [https://sbmi.uth.edu/nccd/](https://sbmi.uth.edu/nccd/)
-- [https://sph.uth.edu/](https://sph.uth.edu/)
-- [https://sph.uth.edu/research/centers/hgc/](https://sph.uth.edu/research/centers/hgc/)
-- [https://www.uth.edu/](https://www.uth.edu/)
-- [https://www.utphysicians.com/myuthealthhouston/](https://www.utphysicians.com/myuthealthhouston/)
+- [https://sbmi.uth.edu/nccd](https://sbmi.uth.edu/nccd)
+- [https://sph.uth.edu/research/centers/hgc](https://sph.uth.edu/research/centers/hgc)
 
 ## Brand Guidelines
 

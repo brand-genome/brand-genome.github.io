@@ -2,7 +2,7 @@
 title: Orca
 slug: orca
 description: ""
-date: "2026-03-13T09:22:52.024710"
+date: "2026-03-20T08:22:03.103911"
 draft: false
 sectors:
   - restaurant
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://orcahubeg.com/](https://orcahubeg.com/)
+- [https://orcahubeg.com](https://orcahubeg.com)
+- [https://help.gnome.org/users/orca/stable/index.html.fr](https://help.gnome.org/users/orca/stable/index.html.fr)
+- [https://help.gnome.org/users/orca/stable](https://help.gnome.org/users/orca/stable)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Taboola
 slug: taboola
 description: ""
-date: "2026-03-13T09:22:52.977464"
+date: "2026-03-20T08:22:03.972540"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - marketing
 industries:
-  - "software-industry"
   - "advertising-industry"
   - "digital-marketing"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,21 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.taboola.com/](https://www.taboola.com/)
+- [https://www.taboola.com](https://www.taboola.com)
 - [https://www.taboola.com/branding](https://www.taboola.com/branding)
+- [https://www.taboola.com/it](https://www.taboola.com/it)
+- [https://www.taboola.com/de](https://www.taboola.com/de)
+- [https://www.taboola.com/pt](https://www.taboola.com/pt)
+- [https://www.taboola.com/fr](https://www.taboola.com/fr)
+- [https://www.taboola.com/ko](https://www.taboola.com/ko)
+- [https://www.taboola.com/pl](https://www.taboola.com/pl)
+- [https://www.taboola.com/tr](https://www.taboola.com/tr)
+- [https://www.taboola.com/th](https://www.taboola.com/th)
+- [https://www.taboola.com/ru](https://www.taboola.com/ru)
+- [https://www.taboola.com/zh-hans](https://www.taboola.com/zh-hans)
+- [https://www.taboola.com/zh-hant](https://www.taboola.com/zh-hant)
+- [https://www.taboola.com/es](https://www.taboola.com/es)
+- [https://www.taboola.com/ja](https://www.taboola.com/ja)
 
 ## Brand Guidelines
 

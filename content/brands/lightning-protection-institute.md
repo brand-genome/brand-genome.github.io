@@ -2,11 +2,11 @@
 title: Lightning Protection Institute
 slug: "lightning-protection-institute"
 description: ""
-date: "2026-03-13T09:22:53.266671"
+date: "2026-03-20T08:22:04.192729"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +48,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - wordmark
   - stacked
-  - lockup
+  - logomark
   - horizontal
+  - lockup
+  - wordmark
 brand_colors:
   - purple
   - "pantone-871"
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://lightning.org](https://lightning.org)
 - [http://www.lightning.org](http://www.lightning.org)
-- [https://lightning.org/](https://lightning.org/)
 
 ## Brand Guidelines
 

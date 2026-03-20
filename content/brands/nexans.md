@@ -2,7 +2,7 @@
 title: Nexans
 slug: nexans
 description: ""
-date: "2026-03-13T09:22:51.934286"
+date: "2026-03-20T08:22:03.079741"
 draft: false
 sectors:
   - utilities
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nexans.com/](https://www.nexans.com/)
+- [https://www.nexans.com](https://www.nexans.com)
 
 ## Brand Guidelines
 

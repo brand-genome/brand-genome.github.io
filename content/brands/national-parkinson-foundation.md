@@ -2,12 +2,12 @@
 title: National Parkinson Foundation
 slug: "national-parkinson-foundation"
 description: ""
-date: "2026-03-13T09:22:54.338872"
+date: "2026-03-20T08:22:05.164860"
 draft: false
 sectors:
   - research
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1957
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +53,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - cyan
   - gray
+  - cyan
   - orange
   - blue
 typographies:
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: "organization aiming to improve quality of life for Parkinson's disease patients"
 wikidata_url: "https://www.wikidata.org/wiki/Q6974753"
 has_twitter: false
@@ -76,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Parkinson.org](http://www.Parkinson.org)
-- [https://education.parkinson.org/](https://education.parkinson.org/)
-- [https://www.parkinson.org/](https://www.parkinson.org/)
+- [https://www.parkinson.org](https://www.parkinson.org)
+- [https://education.parkinson.org](https://education.parkinson.org)
+- [http://www.parkinson.org](http://www.parkinson.org)
 
 ## Brand Guidelines
 

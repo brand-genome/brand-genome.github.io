@@ -2,11 +2,11 @@
 title: OTR Bristol
 slug: "otr-bristol"
 description: ""
-date: "2026-03-13T09:22:53.282025"
+date: "2026-03-20T08:22:04.211386"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +53,9 @@ brand_colors:
 typographies:
   - display
 imagery_styles:
+  - bold
   - dynamic
   - photography
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://otrnorthsomerset.org.uk/](https://otrnorthsomerset.org.uk/)
-- [https://www.otrbristol.org.uk/](https://www.otrbristol.org.uk/)
+- [https://www.otrbristol.org.uk](https://www.otrbristol.org.uk)
+- [https://otrnorthsomerset.org.uk](https://otrnorthsomerset.org.uk)
 
 ## Brand Guidelines
 

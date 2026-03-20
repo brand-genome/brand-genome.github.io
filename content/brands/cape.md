@@ -2,11 +2,11 @@
 title: Cape
 slug: cape
 description: ""
-date: "2026-03-13T09:22:53.542981"
+date: "2026-03-20T08:22:04.418716"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - australia
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1829
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,22 +54,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - abstract
+  - secondary
 brand_colors:
+  - red
+  - green
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - green
 typographies:
-  - brandon
   - impact
+  - brandon
 imagery_styles:
-  - photography
+  - bold
   - illustration
   - abstract
-  - bold
+  - photography
 wikidata_description: "public university in Cape Town, South Africa"
 wikidata_url: "https://www.wikidata.org/wiki/Q951305"
 has_twitter: false
@@ -79,8 +81,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hellocape.com/](https://www.hellocape.com/)
+- [https://www.hellocape.com](https://www.hellocape.com)
 - [https://www.hellocape.com/sign-up](https://www.hellocape.com/sign-up)
+- [https://www.uct.ac.za](https://www.uct.ac.za)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: AppOnBoard
 slug: apponboard
 description: ""
-date: "2026-03-13T09:22:54.729395"
+date: "2026-03-20T08:22:05.526420"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,29 +47,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - purple
-  - grey
-  - "pantone-427"
+  - green
   - "pantone-3245"
-  - pink
+  - white
+  - purple
+  - "pantone-427"
+  - grey
   - blue
   - "pantone-915"
-  - green
-  - white
+  - pink
 typographies:
   - "source-sans"
 imagery_styles:
-  - natural
-  - candid
   - staged
-  - clean
-  - photography
-  - bold
   - graphic
+  - bold
+  - natural
+  - photography
+  - clean
+  - candid
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.apponboard.com/](https://www.apponboard.com/)
+- [https://www.apponboard.com](https://www.apponboard.com)
 
 ## Brand Guidelines
 

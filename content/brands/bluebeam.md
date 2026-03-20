@@ -2,7 +2,7 @@
 title: Bluebeam
 slug: bluebeam
 description: ""
-date: "2026-03-13T09:22:52.303105"
+date: "2026-03-20T08:22:03.371500"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://status.bluebeam.com/](https://status.bluebeam.com/)
-- [https://studio.bluebeam.com/](https://studio.bluebeam.com/)
-- [https://support.bluebeam.com/](https://support.bluebeam.com/)
-- [https://www.bluebeam.com/](https://www.bluebeam.com/)
+- [https://www.bluebeam.com](https://www.bluebeam.com)
+- [https://support.bluebeam.com](https://support.bluebeam.com)
+- [https://studio.bluebeam.com](https://studio.bluebeam.com)
+- [https://status.bluebeam.com](https://status.bluebeam.com)
 
 ## Brand Guidelines
 

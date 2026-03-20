@@ -2,12 +2,12 @@
 title: Trienergy
 slug: trienergy
 description: ""
-date: "2026-03-13T09:22:52.864927"
+date: "2026-03-20T08:22:03.865181"
 draft: false
 sectors:
+  - construction
   - gas
   - oil
-  - construction
 regions:
   - colombia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - spanish
 tags:
-  - industry
   - engineering
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://trienergy.com](https://trienergy.com)
 - [http://www.trienergy.com](http://www.trienergy.com)
-- [https://trienergy.com/](https://trienergy.com/)
 
 ## Brand Guidelines
 

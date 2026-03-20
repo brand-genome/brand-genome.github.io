@@ -2,7 +2,7 @@
 title: LatitudePay
 slug: latitudepay
 description: ""
-date: "2026-03-13T09:22:53.266481"
+date: "2026-03-20T08:22:04.192493"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
   - stacked
   - secondary
+  - symbol
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
+  - illustration
   - photography
   - monochrome
-  - illustration
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide](https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide)
+- [https://www.latitudefinancial.com.au/latitudepay-closure](https://www.latitudefinancial.com.au/latitudepay-closure)
 - [http://www.latitudepay.com](http://www.latitudepay.com)
-- [https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide/](https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide/)
-- [https://www.latitudefinancial.com.au/latitudepay-closure/](https://www.latitudefinancial.com.au/latitudepay-closure/)
 
 ## Brand Guidelines
 

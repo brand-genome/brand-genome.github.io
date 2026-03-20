@@ -2,24 +2,24 @@
 title: Bravida
 slug: bravida
 description: ""
-date: "2026-03-13T09:22:53.076548"
+date: "2026-03-20T08:22:04.073090"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - sweden
 years:
   - 2018
 languages: []
 tags:
-  - featured
   - industry
+  - featured
 industries: []
 countries:
   - denmark
-  - norway
   - sweden
+  - norway
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,11 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Bravida.se](http://www.Bravida.se)
-- [http://www.linkedin.com/company/bravida/](http://www.linkedin.com/company/bravida/)
-- [https://www.bravida.dk/](https://www.bravida.dk/)
-- [https://www.bravida.se/](https://www.bravida.se/)
-- [https://www.bravida.se/en/](https://www.bravida.se/en/)
+- [https://www.bravida.se](https://www.bravida.se)
+- [https://www.bravida.se/en](https://www.bravida.se/en)
+- [https://www.bravida.dk](https://www.bravida.dk)
+- [http://www.bravida.se](http://www.bravida.se)
+- [http://www.linkedin.com/company/bravida](http://www.linkedin.com/company/bravida)
 
 ## Brand Guidelines
 

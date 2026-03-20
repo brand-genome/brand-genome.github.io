@@ -2,11 +2,11 @@
 title: GCOS
 slug: gcos
 description: ""
-date: "2026-03-13T09:22:53.271436"
+date: "2026-03-20T08:22:04.198748"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,23 +49,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - lockup
   - vertical
   - signature
   - horizontal
+  - lockup
+  - primary
 brand_colors:
-  - "pantone-144"
-  - "pantone-299"
-  - orange
-  - "pantone-130"
-  - black
-  - "pantone-7712"
-  - teal
-  - "pantone-293"
-  - blue
   - gold
+  - teal
   - white
+  - blue
+  - "pantone-7712"
+  - "pantone-293"
+  - "pantone-299"
+  - "pantone-130"
+  - "pantone-144"
+  - orange
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: software system for managing Affymetrix microarray data
@@ -79,7 +80,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://gcos.wmo.int](https://gcos.wmo.int)
-- [https://gcos.wmo.int/](https://gcos.wmo.int/)
+- [https://www.thermofisher.com/us/en/home/life-science/microarray-analysis.html](https://www.thermofisher.com/us/en/home/life-science/microarray-analysis.html)
 
 ## Brand Guidelines
 

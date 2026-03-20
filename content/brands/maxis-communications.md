@@ -2,7 +2,7 @@
 title: Maxis Communications
 slug: "maxis-communications"
 description: ""
-date: "2026-03-13T09:22:54.571556"
+date: "2026-03-20T08:22:05.417031"
 draft: false
 sectors:
   - telecom
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,14 +56,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
-  - clean
-  - modern
   - bold
+  - modern
+  - clean
 wikidata_description: Malaysian mobile network operator
 wikidata_url: "https://www.wikidata.org/wiki/Q2627330"
 has_twitter: false
@@ -73,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.maxis.com.my/](https://www.maxis.com.my/)
-- [https://www.maxis.com.my/en/identify-maxis-email/](https://www.maxis.com.my/en/identify-maxis-email/)
+- [https://www.maxis.com.my](https://www.maxis.com.my)
+- [https://www.maxis.com.my/en/identify-maxis-email](https://www.maxis.com.my/en/identify-maxis-email)
 
 ## Brand Guidelines
 

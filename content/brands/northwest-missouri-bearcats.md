@@ -2,11 +2,11 @@
 title: Northwest Missouri Bearcats
 slug: "northwest-missouri-bearcats"
 description: ""
-date: "2026-03-13T09:22:53.310171"
+date: "2026-03-20T08:22:04.226730"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - mascot
+  - primary
 brand_colors:
   - silver
-  - gray
-  - black
   - green
   - white
+  - gray
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bearcatsports.com/](https://bearcatsports.com/)
+- [https://bearcatsports.com](https://bearcatsports.com)
 - [https://www.nwmissouri.edu/marketing/media/guide/athletics.htm](https://www.nwmissouri.edu/marketing/media/guide/athletics.htm)
 
 ## Brand Guidelines

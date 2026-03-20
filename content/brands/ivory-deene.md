@@ -2,12 +2,12 @@
 title: "Ivory & Deene"
 slug: "ivory-deene"
 description: ""
-date: "2026-03-13T09:22:52.320323"
+date: "2026-03-20T08:22:03.388029"
 draft: false
 sectors:
+  - "real-estate"
   - "e-commerce"
   - "consumer-goods"
-  - "real-estate"
 regions:
   - australia
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ivoryanddeene.com.au](https://ivoryanddeene.com.au)
 - [http://www.ivoryanddeene.com](http://www.ivoryanddeene.com)
-- [https://ivoryanddeene.com.au/](https://ivoryanddeene.com.au/)
 
 ## Brand Guidelines
 

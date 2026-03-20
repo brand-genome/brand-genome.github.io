@@ -2,7 +2,7 @@
 title: Région Sud
 slug: "region-sud"
 description: ""
-date: "2026-03-13T09:22:55.019266"
+date: "2026-03-20T08:22:05.724302"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.maregionsud.fr/](https://www.maregionsud.fr/)
-- [https://www.orientation-regionsud.fr/](https://www.orientation-regionsud.fr/)
+- [https://www.maregionsud.fr](https://www.maregionsud.fr)
+- [https://www.orientation-regionsud.fr](https://www.orientation-regionsud.fr)
 
 ## Brand Guidelines
 

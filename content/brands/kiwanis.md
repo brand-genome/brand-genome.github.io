@@ -2,7 +2,7 @@
 title: Kiwanis
 slug: kiwanis
 description: ""
-date: "2026-03-13T09:22:55.035982"
+date: "2026-03-20T08:22:05.738207"
 draft: false
 sectors:
   - ngo
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1915
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kiwanis.org/](https://www.kiwanis.org/)
+- [https://www.kiwanis.org](https://www.kiwanis.org)
+- [http://www.kiwanis.org](http://www.kiwanis.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Fédération Équestre Internationale
 slug: "federation-equestre-internationale"
 description: ""
-date: "2026-03-13T09:22:53.934778"
+date: "2026-03-20T08:22:04.855384"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.FEI.ORG](http://www.FEI.ORG)
-- [https://www.fei.org/](https://www.fei.org/)
+- [https://www.fei.org](https://www.fei.org)
+- [http://www.fei.org](http://www.fei.org)
 
 ## Brand Guidelines
 

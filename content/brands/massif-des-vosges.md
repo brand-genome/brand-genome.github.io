@@ -2,15 +2,15 @@
 title: Massif des Vosges
 slug: "massif-des-vosges"
 description: ""
-date: "2026-03-13T09:22:53.492680"
+date: "2026-03-20T08:22:04.388172"
 draft: false
 sectors:
   - tourism
 regions:
   - france
 years:
-  - 2015
   - 2016
+  - 2015
 languages:
   - french
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - signature
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - natural
   - candid
+  - bold
+  - natural
+  - photography
   - monochrome
   - vibrant
-  - photography
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.massif-des-vosges.fr/](https://www.massif-des-vosges.fr/)
+- [https://www.massif-des-vosges.fr](https://www.massif-des-vosges.fr)
 
 ## Brand Guidelines
 

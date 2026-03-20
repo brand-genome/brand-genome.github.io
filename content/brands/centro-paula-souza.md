@@ -2,11 +2,11 @@
 title: Centro Paula Souza
 slug: "centro-paula-souza"
 description: ""
-date: "2026-03-13T09:22:53.066176"
+date: "2026-03-20T08:22:04.058108"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - brazil
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cps.sp.gov.br/](https://www.cps.sp.gov.br/)
-- [https://www.cps.sp.gov.br/etecs/](https://www.cps.sp.gov.br/etecs/)
+- [https://www.cps.sp.gov.br](https://www.cps.sp.gov.br)
+- [https://www.cps.sp.gov.br/etecs](https://www.cps.sp.gov.br/etecs)
 
 ## Brand Guidelines
 

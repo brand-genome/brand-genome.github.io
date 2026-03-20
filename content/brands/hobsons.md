@@ -2,11 +2,11 @@
 title: Hobsons
 slug: hobsons
 description: ""
-date: "2026-03-13T09:22:54.557440"
+date: "2026-03-20T08:22:05.403203"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +51,9 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - gray
+  - green
   - purple
   - teal
-  - green
 typographies:
   - "open-sans"
 imagery_styles: []
@@ -67,14 +68,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hobsons.com](https://www.hobsons.com)
+- [https://www.naviance.com](https://www.naviance.com)
+- [https://id.naviance.com](https://id.naviance.com)
+- [https://www.intersect.hobsons.com](https://www.intersect.hobsons.com)
+- [https://www.powerschool.com](https://www.powerschool.com)
+- [https://eab.com/products/starfish](https://eab.com/products/starfish)
+- [https://loginsupport.starfishsolutions.com](https://loginsupport.starfishsolutions.com)
 - [http://www.hobsons.com](http://www.hobsons.com)
-- [https://eab.com/products/starfish/](https://eab.com/products/starfish/)
-- [https://id.naviance.com/](https://id.naviance.com/)
-- [https://loginsupport.starfishsolutions.com/](https://loginsupport.starfishsolutions.com/)
-- [https://www.hobsons.com/](https://www.hobsons.com/)
-- [https://www.intersect.hobsons.com/](https://www.intersect.hobsons.com/)
-- [https://www.naviance.com/](https://www.naviance.com/)
-- [https://www.powerschool.com/](https://www.powerschool.com/)
 
 ## Brand Guidelines
 

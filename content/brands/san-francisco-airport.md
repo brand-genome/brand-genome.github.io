@@ -2,7 +2,7 @@
 title: San Francisco Airport
 slug: "san-francisco-airport"
 description: ""
-date: "2026-03-13T09:22:53.512361"
+date: "2026-03-20T08:22:04.405237"
 draft: false
 sectors:
   - "public-transportation"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +48,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
   - secondary
   - signature
   - horizontal
+  - primary
 brand_colors:
-  - black
+  - brown
   - gray
   - blue
-  - brown
+  - black
 typographies:
   - arial
 imagery_styles:
+  - bold
   - vibrant
   - photography
-  - bold
 wikidata_description: "international airport near San Francisco, California, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q8688"
 has_twitter: false
@@ -74,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.flysfo.com/](https://www.flysfo.com/)
+- [https://www.flysfo.com](https://www.flysfo.com)
+- [https://flysfo.com](https://flysfo.com)
 
 ## Brand Guidelines
 

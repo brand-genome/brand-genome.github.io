@@ -2,12 +2,12 @@
 title: Liberty University
 slug: "liberty-university"
 description: ""
-date: "2026-03-13T09:22:53.710699"
+date: "2026-03-20T08:22:04.656959"
 draft: false
 sectors:
+  - "e-learning-edtech"
   - education
   - university
-  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1971
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,25 +56,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - seal
+  - secondary
+  - horizontal
   - monogram
   - wordmark
   - primary
-  - stacked
-  - secondary
-  - seal
-  - horizontal
 brand_colors:
-  - black
-  - gray
   - red
+  - gray
   - blue
+  - black
 typographies:
-  - serif
   - garamond
   - gotham
+  - serif
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "private Christian university in Lynchburg, Virginia"
 wikidata_url: "https://www.wikidata.org/wiki/Q1468607"
 has_twitter: false
@@ -84,10 +86,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.LIBERTY.EDU](http://www.LIBERTY.EDU)
-- [http://www.LibertyFlames.com](http://www.LibertyFlames.com)
-- [https://www.degrees-liberty.com/](https://www.degrees-liberty.com/)
-- [https://www.liberty.edu/](https://www.liberty.edu/)
+- [https://www.liberty.edu](https://www.liberty.edu)
+- [https://www.degrees-liberty.com](https://www.degrees-liberty.com)
+- [http://www.liberty.edu](http://www.liberty.edu)
+- [http://www.libertyflames.com](http://www.libertyflames.com)
 
 ## Brand Guidelines
 

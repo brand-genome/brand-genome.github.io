@@ -2,11 +2,11 @@
 title: British Airways
 slug: "british-airways"
 description: ""
-date: "2026-03-13T09:22:55.169849"
+date: "2026-03-20T08:22:05.871988"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - "united-kingdom"
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.britishairways.com/](https://www.britishairways.com/)
+- [https://www.britishairways.com](https://www.britishairways.com)
 - [https://www.britishairways.com/content/en/us/executive-club](https://www.britishairways.com/content/en/us/executive-club)
+- [https://britishairways.com](https://britishairways.com)
+- [https://ba.com](https://ba.com)
 
 ## Brand Guidelines
 

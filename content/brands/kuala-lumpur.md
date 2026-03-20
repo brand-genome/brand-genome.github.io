@@ -2,7 +2,7 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-03-13T09:22:54.723249"
+date: "2026-03-20T08:22:05.520014"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1857
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - pink
+  - black
 typographies:
   - script
   - roboto
@@ -69,9 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.brandkl.com/](https://www.brandkl.com/)
-- [https://www.dbkl.gov.my/en/](https://www.dbkl.gov.my/en/)
-- [https://www.warisankl.my/](https://www.warisankl.my/)
+- [https://www.brandkl.com](https://www.brandkl.com)
+- [https://www.warisankl.my](https://www.warisankl.my)
+- [https://www.dbkl.gov.my/en](https://www.dbkl.gov.my/en)
+- [http://www.dbkl.gov.my](http://www.dbkl.gov.my)
 
 ## Brand Guidelines
 

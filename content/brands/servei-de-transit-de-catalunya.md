@@ -2,11 +2,11 @@
 title: Servei de Trànsit de Catalunya
 slug: "servei-de-transit-de-catalunya"
 description: ""
-date: "2026-03-13T09:22:52.302115"
+date: "2026-03-20T08:22:03.370452"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - spain
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://identitatcorporativa.gencat.cat](https://identitatcorporativa.gencat.cat)
 - [https://transit.gencat.cat/ca](https://transit.gencat.cat/ca)
-- [https://visoritineraris.transit.gencat.cat/](https://visoritineraris.transit.gencat.cat/)
-- [https://www.gencat.cat/transit/](https://www.gencat.cat/transit/)
+- [https://www.gencat.cat/transit](https://www.gencat.cat/transit)
+- [https://visoritineraris.transit.gencat.cat](https://visoritineraris.transit.gencat.cat)
+- [https://identitatcorporativa.gencat.cat](https://identitatcorporativa.gencat.cat)
 
 ## Brand Guidelines
 

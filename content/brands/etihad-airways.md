@@ -2,15 +2,15 @@
 title: Etihad Airways
 slug: "etihad-airways"
 description: ""
-date: "2026-03-13T09:22:53.277704"
+date: "2026-03-20T08:22:04.205386"
 draft: false
 sectors:
   - airline
 regions:
   - "abu-dhabi"
 years:
-  - 2014
   - 2016
+  - 2014
 languages:
   - english
   - arabic
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +56,9 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
 typographies:
   - trebuchet
   - din
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.etihad.com/](https://www.etihad.com/)
+- [https://www.etihad.com](https://www.etihad.com)
 
 ## Brand Guidelines
 

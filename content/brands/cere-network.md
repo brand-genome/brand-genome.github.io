@@ -2,11 +2,11 @@
 title: Cere Network
 slug: "cere-network"
 description: ""
-date: "2026-03-13T09:22:53.081097"
+date: "2026-03-20T08:22:04.081432"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - germany
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cere.network/](https://cere.network/)
-- [https://www.cere.network/](https://www.cere.network/)
+- [https://cere.network](https://cere.network)
+- [https://www.cere.network](https://www.cere.network)
 
 ## Brand Guidelines
 

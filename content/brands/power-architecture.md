@@ -2,7 +2,7 @@
 title: Power Architecture
 slug: "power-architecture"
 description: ""
-date: "2026-03-13T09:22:55.090490"
+date: "2026-03-20T08:22:05.795348"
 draft: false
 sectors:
   - hardware
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://openpower.foundation/](https://openpower.foundation/)
+- [https://openpower.foundation](https://openpower.foundation)
 
 ## Brand Guidelines
 

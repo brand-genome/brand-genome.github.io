@@ -2,7 +2,7 @@
 title: "Ben & Jerry’s"
 slug: "ben-jerrys"
 description: ""
-date: "2026-03-13T09:22:53.264028"
+date: "2026-03-20T08:22:04.190030"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - mascot
   - horizontal
-  - vertical
 brand_colors:
   - black
 typographies: []
 imagery_styles:
   - classic
-  - photography
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.benjerry.com/](https://www.benjerry.com/)
-- [https://www.benjerry.ie/](https://www.benjerry.ie/)
+- [https://www.benjerry.com](https://www.benjerry.com)
+- [https://www.benjerry.ie](https://www.benjerry.ie)
 
 ## Brand Guidelines
 

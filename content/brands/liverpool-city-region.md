@@ -2,11 +2,11 @@
 title: Liverpool City Region
 slug: "liverpool-city-region"
 description: ""
-date: "2026-03-13T09:22:53.269102"
+date: "2026-03-20T08:22:04.195913"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - "united-kingdom"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles:
-  - dynamic
   - aerial
+  - dynamic
   - natural
 wikidata_description: part of the 2020 UK local elections
 wikidata_url: "https://www.wikidata.org/wiki/Q30638148"
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.liverpoolcityregion-ca.gov.uk/](https://www.liverpoolcityregion-ca.gov.uk/)
+- [https://www.liverpoolcityregion-ca.gov.uk](https://www.liverpoolcityregion-ca.gov.uk)
 
 ## Brand Guidelines
 

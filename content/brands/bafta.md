@@ -2,7 +2,7 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-03-13T09:22:54.217999"
+date: "2026-03-20T08:22:05.045449"
 draft: false
 sectors:
   - "arts-culture"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
-  - black
-  - teal
   - red
   - gold
+  - teal
   - white
+  - purple
+  - black
 typographies:
-  - times
   - "century-gothic"
+  - times
 imagery_styles: []
 wikidata_description: independent charity
 wikidata_url: "https://www.wikidata.org/wiki/Q159661"
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bafta.org/](https://www.bafta.org/)
+- [https://www.bafta.org](https://www.bafta.org)
+- [https://bafta.org](https://bafta.org)
 
 ## Brand Guidelines
 

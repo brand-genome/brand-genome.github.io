@@ -2,7 +2,7 @@
 title: NPR
 slug: npr
 description: ""
-date: "2026-03-13T09:22:54.753471"
+date: "2026-03-20T08:22:05.551352"
 draft: false
 sectors:
   - broadcasting
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - times
 imagery_styles:
@@ -72,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.npr.org](https://www.npr.org)
+- [https://www.npr.org/about](https://www.npr.org/about)
 - [http://www.npr.org](http://www.npr.org)
-- [https://www.npr.org/](https://www.npr.org/)
-- [https://www.npr.org/about/](https://www.npr.org/about/)
 
 ## Brand Guidelines
 

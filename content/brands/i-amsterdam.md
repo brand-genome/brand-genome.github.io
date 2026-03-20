@@ -2,7 +2,7 @@
 title: I amsterdam
 slug: "i-amsterdam"
 description: ""
-date: "2026-03-13T09:22:54.334784"
+date: "2026-03-20T08:22:05.161033"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1300
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,10 +52,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - avenir
 imagery_styles:
@@ -69,11 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.iamsterdam.com](https://www.iamsterdam.com)
+- [https://www.iamsterdam.com/en/amsterdam-and-partners](https://www.iamsterdam.com/en/amsterdam-and-partners)
+- [https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam](https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam)
 - [http://www.oudekerk.nl](http://www.oudekerk.nl)
 - [http://www.tropenmuseum.nl](http://www.tropenmuseum.nl)
-- [https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam/](https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam/)
-- [https://www.iamsterdam.com/](https://www.iamsterdam.com/)
-- [https://www.iamsterdam.com/en/amsterdam-and-partners](https://www.iamsterdam.com/en/amsterdam-and-partners)
+- [https://amsterdam.nl](https://amsterdam.nl)
 
 ## Brand Guidelines
 

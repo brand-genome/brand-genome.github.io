@@ -2,7 +2,7 @@
 title: Big Brothers Big Sisters
 slug: "big-brothers-big-sisters"
 description: ""
-date: "2026-03-13T09:22:53.306598"
+date: "2026-03-20T08:22:04.223550"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1904
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,20 +56,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
-  - georgia
   - trebuchet
+  - georgia
 imagery_styles:
-  - natural
+  - graphic
   - dramatic
-  - clean
-  - photography
   - professional
   - bold
-  - graphic
+  - natural
+  - photography
+  - clean
 wikidata_description: youth mentoring organization
 wikidata_url: "https://www.wikidata.org/wiki/Q858605"
 has_twitter: false
@@ -79,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bbbs.org/](https://www.bbbs.org/)
+- [https://www.bbbs.org](https://www.bbbs.org)
+- [http://www.bigbrothersbigsisters.org](http://www.bigbrothersbigsisters.org)
 
 ## Brand Guidelines
 

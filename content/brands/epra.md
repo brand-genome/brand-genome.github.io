@@ -2,7 +2,7 @@
 title: EPRA
 slug: epra
 description: ""
-date: "2026-03-13T09:22:53.713517"
+date: "2026-03-20T08:22:04.661075"
 draft: false
 sectors:
   - "real-estate"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,13 +50,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.epra.com/](https://www.epra.com/)
+- [https://www.epra.com](https://www.epra.com)
+- [https://www.lotniskowarszawa-radom.pl](https://www.lotniskowarszawa-radom.pl)
 
 ## Brand Guidelines
 

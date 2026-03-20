@@ -2,7 +2,7 @@
 title: FOX Sports
 slug: "fox-sports"
 description: ""
-date: "2026-03-13T09:22:53.279617"
+date: "2026-03-20T08:22:04.209583"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - media
   - broadcast
   - sport
+  - media
 industries: []
 countries:
   - australia
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.foxsports.com/](https://www.foxsports.com/)
+- [https://www.foxsports.com](https://www.foxsports.com)
+- [http://foxsports.com.au](http://foxsports.com.au)
 
 ## Brand Guidelines
 

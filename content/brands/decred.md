@@ -2,7 +2,7 @@
 title: Decred
 slug: decred
 description: ""
-date: "2026-03-13T09:22:52.102118"
+date: "2026-03-20T08:22:03.159998"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ambigram
   - financial
+  - ambigram
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,14 +62,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://decred.org](https://decred.org)
+- [https://docs.decred.org](https://docs.decred.org)
+- [https://voting.decred.org](https://voting.decred.org)
+- [https://proposals.decred.org](https://proposals.decred.org)
+- [https://dcrdata.decred.org](https://dcrdata.decred.org)
+- [https://dex.decred.org](https://dex.decred.org)
 - [http://www.decred.org](http://www.decred.org)
 - [http://www.google.com](http://www.google.com)
-- [https://dcrdata.decred.org/](https://dcrdata.decred.org/)
-- [https://decred.org/](https://decred.org/)
-- [https://dex.decred.org/](https://dex.decred.org/)
-- [https://docs.decred.org/](https://docs.decred.org/)
-- [https://proposals.decred.org/](https://proposals.decred.org/)
-- [https://voting.decred.org/](https://voting.decred.org/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Raise the torch
 slug: "raise-the-torch"
 description: ""
-date: "2026-03-13T09:22:54.982524"
+date: "2026-03-20T08:22:05.713286"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - university
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://one.fsu.edu/raise-the-torch](https://one.fsu.edu/raise-the-torch)
+- [https://advance.fsu.edu](https://advance.fsu.edu)
 - [http://www.fsu.edu](http://www.fsu.edu)
-- [https://advance.fsu.edu/](https://advance.fsu.edu/)
-- [https://one.fsu.edu/raise-the-torch/](https://one.fsu.edu/raise-the-torch/)
 
 ## Brand Guidelines
 

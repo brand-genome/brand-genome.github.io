@@ -2,7 +2,7 @@
 title: ECD Architects
 slug: "ecd-architects"
 description: ""
-date: "2026-03-13T09:22:53.282841"
+date: "2026-03-20T08:22:04.212048"
 draft: false
 sectors:
   - architecture
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1980
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
   - green
-  - grey
   - white
+  - grey
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: "company in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q30256454"
 has_twitter: false
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ecda.co.uk/](https://ecda.co.uk/)
+- [https://ecda.co.uk](https://ecda.co.uk)
+- [http://ecda.co.uk](http://ecda.co.uk)
 
 ## Brand Guidelines
 

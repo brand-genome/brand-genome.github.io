@@ -2,7 +2,7 @@
 title: Symphonic
 slug: symphonic
 description: ""
-date: "2026-03-13T09:22:54.794962"
+date: "2026-03-20T08:22:05.568895"
 draft: false
 sectors:
   - software
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1882
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +53,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - raleway
-  - "open-sans"
   - "sans-serif"
+  - "open-sans"
 imagery_styles:
   - muted
-  - contemporary
+  - bold
   - modern
   - natural
-  - lifestyle
   - photography
+  - contemporary
   - clean
-  - bold
+  - lifestyle
 wikidata_description: "Russia's oldest symphony orchestra (est. 1882)"
 wikidata_url: "https://www.wikidata.org/wiki/Q1373970"
 has_twitter: false
@@ -77,7 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://symphonic.com/](https://symphonic.com/)
+- [https://symphonic.com](https://symphonic.com)
+- [https://www.philharmonia.spb.ru/about/orchestra/zkrasof/about](https://www.philharmonia.spb.ru/about/orchestra/zkrasof/about)
 
 ## Brand Guidelines
 

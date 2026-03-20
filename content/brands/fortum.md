@@ -2,7 +2,7 @@
 title: Fortum
 slug: fortum
 description: ""
-date: "2026-03-13T09:22:53.020940"
+date: "2026-03-20T08:22:04.012928"
 draft: false
 sectors:
   - utilities
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fortum.com](https://www.fortum.com)
+- [https://www.fortum.fi](https://www.fortum.fi)
+- [https://guidelines.fortum.com](https://guidelines.fortum.com)
 - [http://www.twitter.com/fortum_oyj](http://www.twitter.com/fortum_oyj)
-- [https://guidelines.fortum.com/](https://guidelines.fortum.com/)
-- [https://www.fortum.com/](https://www.fortum.com/)
-- [https://www.fortum.fi/](https://www.fortum.fi/)
 
 ## Brand Guidelines
 

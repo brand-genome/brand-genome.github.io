@@ -2,7 +2,7 @@
 title: Sofitel
 slug: sofitel
 description: ""
-date: "2026-03-13T09:22:53.653603"
+date: "2026-03-20T08:22:04.513362"
 draft: false
 sectors:
   - hospitality
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1900
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,9 +53,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: "building in Munich, Upper Bavaria, Germany"
@@ -67,11 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://sofitel.accor.com](https://sofitel.accor.com)
+- [https://sofitel.accor.com/en.html](https://sofitel.accor.com/en.html)
 - [https://all.accor.com/a/en/brands/sofitel.html](https://all.accor.com/a/en/brands/sofitel.html)
 - [https://group.accor.com/en/brands/luxury/sofitel](https://group.accor.com/en/brands/luxury/sofitel)
-- [https://sofitel.accor.com/](https://sofitel.accor.com/)
-- [https://sofitel.accor.com/en.html](https://sofitel.accor.com/en.html)
-- [https://sofitelmice.accor.com/](https://sofitelmice.accor.com/)
+- [https://sofitelmice.accor.com](https://sofitelmice.accor.com)
+- [http://www.sofitel.com/de/hotel-5413-sofitel-munich-bayerpost/index.shtml](http://www.sofitel.com/de/hotel-5413-sofitel-munich-bayerpost/index.shtml)
 
 ## Brand Guidelines
 

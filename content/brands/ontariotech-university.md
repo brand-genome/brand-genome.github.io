@@ -2,11 +2,11 @@
 title: OntarioTech University
 slug: "ontariotech-university"
 description: ""
-date: "2026-03-13T09:22:53.284067"
+date: "2026-03-20T08:22:04.213235"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
   - sport
 industries: []
 countries: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +53,9 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
   - clean
@@ -69,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ontariotechu.ca](https://ontariotechu.ca)
+- [https://brand.ontariotechu.ca](https://brand.ontariotechu.ca)
+- [https://goridgebacks.com](https://goridgebacks.com)
 - [http://www.ontariotechu.ca](http://www.ontariotechu.ca)
-- [https://brand.ontariotechu.ca/](https://brand.ontariotechu.ca/)
-- [https://goridgebacks.com/](https://goridgebacks.com/)
-- [https://ontariotechu.ca/](https://ontariotechu.ca/)
 
 ## Brand Guidelines
 

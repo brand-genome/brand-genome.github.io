@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-03-13T09:22:55.084070"
+date: "2026-03-20T08:22:05.787720"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,29 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - alternate
-  - primary
   - vertical
-  - lockup
   - secondary
   - horizontal
+  - alternate
+  - lockup
+  - primary
+  - icon
 brand_colors:
-  - gray
-  - orange
-  - black
-  - magenta
   - white
+  - gray
+  - black
+  - orange
+  - magenta
 typographies:
+  - impact
   - gotham
   - montserrat
-  - impact
 imagery_styles:
-  - modern
-  - gradient
-  - photography
   - professional
   - bold
+  - modern
+  - photography
+  - gradient
 wikidata_description: online education company
 wikidata_url: "https://www.wikidata.org/wiki/Q19757566"
 has_twitter: false
@@ -85,9 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.pluralsight.com/](https://help.pluralsight.com/)
-- [https://www.pluralsight.com/](https://www.pluralsight.com/)
+- [https://www.pluralsight.com](https://www.pluralsight.com)
 - [https://www.pluralsight.com/product/skills](https://www.pluralsight.com/product/skills)
+- [https://help.pluralsight.com](https://help.pluralsight.com)
+- [http://www.pluralsight.com](http://www.pluralsight.com)
 
 ## Brand Guidelines
 

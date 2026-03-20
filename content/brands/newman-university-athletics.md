@@ -2,11 +2,11 @@
 title: Newman University Athletics
 slug: "newman-university-athletics"
 description: ""
-date: "2026-03-13T09:22:52.064491"
+date: "2026-03-20T08:22:03.130205"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://newmanjets.com/](https://newmanjets.com/)
-- [https://newmanu.edu/](https://newmanu.edu/)
+- [https://newmanjets.com](https://newmanjets.com)
+- [https://newmanu.edu](https://newmanu.edu)
 
 ## Brand Guidelines
 

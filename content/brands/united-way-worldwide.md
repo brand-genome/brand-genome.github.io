@@ -2,7 +2,7 @@
 title: United Way Worldwide
 slug: "united-way-worldwide"
 description: ""
-date: "2026-03-13T09:22:54.552823"
+date: "2026-03-20T08:22:05.398540"
 draft: false
 sectors:
   - ngo
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1974
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,24 +53,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - icon
-  - horizontal
   - vertical
+  - icon
+  - primary
+  - horizontal
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
+  - impact
   - arial
   - roboto
-  - impact
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: Nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q7893636"
 has_twitter: false
@@ -80,9 +82,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.UnitedWay.org](http://www.UnitedWay.org)
-- [https://www.unitedway.org/](https://www.unitedway.org/)
-- [https://www.unitedwaystore.com/](https://www.unitedwaystore.com/)
+- [https://www.unitedway.org](https://www.unitedway.org)
+- [https://www.unitedwaystore.com](https://www.unitedwaystore.com)
+- [http://www.unitedway.org](http://www.unitedway.org)
+- [http://www.unitedway.org/worldwide](http://www.unitedway.org/worldwide)
 
 ## Brand Guidelines
 

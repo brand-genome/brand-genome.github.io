@@ -2,11 +2,11 @@
 title: Texaco
 slug: texaco
 description: ""
-date: "2026-03-13T09:22:52.317760"
+date: "2026-03-20T08:22:03.385676"
 draft: false
 sectors:
-  - oil
   - "petrol-station"
+  - oil
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.texaco.com/](https://www.texaco.com/)
+- [https://www.texaco.com](https://www.texaco.com)
+- [https://texaco.co.uk](https://texaco.co.uk)
+- [https://www.texacolubricants.com](https://www.texacolubricants.com)
+- [https://texaco.nl](https://texaco.nl)
+- [https://texaco.be](https://texaco.be)
+- [https://www.texacocontechron.com](https://www.texacocontechron.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Porto
 slug: porto
 description: ""
-date: "2026-03-13T09:22:54.224689"
+date: "2026-03-20T08:22:05.061513"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - portugal
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - gold
   - white
+  - gold
   - blue
 typographies: []
 imagery_styles:
@@ -70,6 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.cm-porto.pt/marca-porto/marca-porto](https://www.cm-porto.pt/marca-porto/marca-porto)
+- [https://www.cm-porto.pt](https://www.cm-porto.pt)
 
 ## Brand Guidelines
 

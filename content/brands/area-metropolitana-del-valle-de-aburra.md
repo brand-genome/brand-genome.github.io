@@ -2,7 +2,7 @@
 title: Área Metropolitana del Valle de Aburrá
 slug: "area-metropolitana-del-valle-de-aburra"
 description: ""
-date: "2026-03-13T09:22:53.495107"
+date: "2026-03-20T08:22:04.391232"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - "pantone-136"
+  - "pantone-179"
   - "pantone-375"
   - "pantone-300"
-  - "pantone-179"
-  - "pantone-136"
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://datosabiertos.metropol.gov.co/](https://datosabiertos.metropol.gov.co/)
-- [https://idem.metropol.gov.co/](https://idem.metropol.gov.co/)
-- [https://www.metropol.gov.co/](https://www.metropol.gov.co/)
+- [https://www.metropol.gov.co](https://www.metropol.gov.co)
+- [https://datosabiertos.metropol.gov.co](https://datosabiertos.metropol.gov.co)
+- [https://idem.metropol.gov.co](https://idem.metropol.gov.co)
 
 ## Brand Guidelines
 

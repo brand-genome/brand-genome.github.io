@@ -2,7 +2,7 @@
 title: Matosinhos
 slug: matosinhos
 description: ""
-date: "2026-03-13T09:22:53.324765"
+date: "2026-03-20T08:22:04.235868"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - portugal
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
   - blue
 typographies:
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.cm-matosinhos.pt](http://www.cm-matosinhos.pt)
-- [https://www.cm-matosinhos.pt/](https://www.cm-matosinhos.pt/)
+- [https://www.cm-matosinhos.pt](https://www.cm-matosinhos.pt)
 - [https://www.cm-matosinhos.pt/turismo-17](https://www.cm-matosinhos.pt/turismo-17)
+- [http://www.cm-matosinhos.pt](http://www.cm-matosinhos.pt)
 
 ## Brand Guidelines
 

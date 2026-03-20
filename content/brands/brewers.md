@@ -2,7 +2,7 @@
 title: Brewers
 slug: brewers
 description: ""
-date: "2026-03-13T09:22:53.713359"
+date: "2026-03-20T08:22:04.660839"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - navy
-  - "pantone-14"
-  - gold
   - "pantone-123"
-  - "pantone-293"
+  - gold
+  - navy
   - blue
-  - "pantone-19"
-  - "pantone-18"
+  - "pantone-293"
   - "pantone-2767"
+  - "pantone-19"
+  - "pantone-14"
+  - "pantone-18"
 typographies: []
 imagery_styles: []
 wikidata_description: "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States"
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mlb.com/brewers/](https://www.mlb.com/brewers/)
+- [https://www.mlb.com/brewers](https://www.mlb.com/brewers)
+- [http://milwaukee.brewers.mlb.com](http://milwaukee.brewers.mlb.com)
 
 ## Brand Guidelines
 

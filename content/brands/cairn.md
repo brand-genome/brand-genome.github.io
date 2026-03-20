@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-03-13T09:22:55.090618"
+date: "2026-03-20T08:22:05.795458"
 draft: false
 sectors:
+  - petroleum
   - gas
   - oil
-  - petroleum
 regions:
   - india
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - white
   - "pantone-7687"
+  - white
   - blue
 typographies: []
 imagery_styles: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://foundation.cairnindia.com/](https://foundation.cairnindia.com/)
-- [https://uat.cairnindia.com/](https://uat.cairnindia.com/)
-- [https://www.cairnindia.com/](https://www.cairnindia.com/)
+- [https://www.cairnindia.com](https://www.cairnindia.com)
+- [https://uat.cairnindia.com](https://uat.cairnindia.com)
+- [https://foundation.cairnindia.com](https://foundation.cairnindia.com)
+- [http://cairn.info](http://cairn.info)
 
 ## Brand Guidelines
 

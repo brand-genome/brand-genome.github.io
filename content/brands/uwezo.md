@@ -2,11 +2,11 @@
 title: Uwezo
 slug: uwezo
 description: ""
-date: "2026-03-13T09:22:54.573939"
+date: "2026-03-20T08:22:05.419063"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - kenya
 years:
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://uwezotanzania.or.tz/](https://uwezotanzania.or.tz/)
+- [https://uwezotanzania.or.tz](https://uwezotanzania.or.tz)
+- [https://uwezoyouth.org](https://uwezoyouth.org)
 
 ## Brand Guidelines
 

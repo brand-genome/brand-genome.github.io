@@ -2,11 +2,11 @@
 title: INRS
 slug: inrs
 description: ""
-date: "2026-03-13T09:22:52.104060"
+date: "2026-03-20T08:22:03.162314"
 draft: false
 sectors:
-  - research
   - university
+  - research
 regions:
   - canada
 years:
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.INRS.CA](http://www.INRS.CA)
-- [https://inrs.ca/](https://inrs.ca/)
-- [https://inrs.ca/en/](https://inrs.ca/en/)
+- [https://inrs.ca](https://inrs.ca)
+- [https://inrs.ca/en](https://inrs.ca/en)
+- [http://www.inrs.ca](http://www.inrs.ca)
 
 ## Brand Guidelines
 

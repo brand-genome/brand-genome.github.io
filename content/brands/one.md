@@ -2,7 +2,7 @@
 title: One
 slug: one
 description: ""
-date: "2026-03-13T09:22:53.651868"
+date: "2026-03-20T08:22:04.511646"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1963
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +52,8 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -66,8 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.one.org/](https://www.one.org/)
-- [https://www.one.org/us/](https://www.one.org/us/)
+- [https://www.one.org](https://www.one.org)
+- [https://www.one.org/us](https://www.one.org/us)
+- [https://www.bundesliga.com](https://www.bundesliga.com)
+- [https://www.bundesliga.de](https://www.bundesliga.de)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-03-13T09:22:54.421036"
+date: "2026-03-20T08:22:05.316847"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ logo_elements:
   - symbol
   - wordmark
 brand_colors:
+  - red
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
-  - times
   - "source-sans"
+  - times
   - din
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: web content management framework
 wikidata_url: "https://www.wikidata.org/wiki/Q618512"
 has_twitter: false
@@ -76,12 +78,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://typo3.org](https://typo3.org)
+- [https://typo3.com](https://typo3.com)
 - [http://www.jweiland.net](http://www.jweiland.net)
 - [http://www.punkt.de](http://www.punkt.de)
 - [http://www.typo3.org](http://www.typo3.org)
 - [https://github.com/adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
-- [https://typo3.com/](https://typo3.com/)
-- [https://typo3.org/](https://typo3.org/)
 
 ## Brand Guidelines
 

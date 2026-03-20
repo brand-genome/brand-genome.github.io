@@ -2,11 +2,11 @@
 title: "4-H Canada"
 slug: "4-h-canada"
 description: ""
-date: "2026-03-13T09:22:54.979717"
+date: "2026-03-20T08:22:05.711226"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - canada
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,19 +50,19 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - cyan
-  - "pantone-285"
-  - "pantone-360"
   - "pantone-297"
-  - blue
   - green
+  - "pantone-285"
+  - cyan
+  - blue
+  - "pantone-360"
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://4-h-canada.ca/](https://4-h-canada.ca/)
-- [https://apply.4-h-canada.ca/](https://apply.4-h-canada.ca/)
-- [https://exchange.4-h-canada.ca/](https://exchange.4-h-canada.ca/)
-- [https://register.4-h-canada.ca/](https://register.4-h-canada.ca/)
+- [https://4-h-canada.ca](https://4-h-canada.ca)
+- [https://exchange.4-h-canada.ca](https://exchange.4-h-canada.ca)
+- [https://apply.4-h-canada.ca](https://apply.4-h-canada.ca)
+- [https://register.4-h-canada.ca](https://register.4-h-canada.ca)
 
 ## Brand Guidelines
 

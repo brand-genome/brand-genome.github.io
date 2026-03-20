@@ -2,7 +2,7 @@
 title: "#WeMakeEvents"
 slug: wemakeevents
 description: ""
-date: "2026-03-13T09:22:53.024467"
+date: "2026-03-20T08:22:04.017010"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.plasa.org/we-make-events/](https://www.plasa.org/we-make-events/)
+- [https://www.plasa.org/we-make-events](https://www.plasa.org/we-make-events)
 
 ## Brand Guidelines
 

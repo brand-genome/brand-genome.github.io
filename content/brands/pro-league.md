@@ -2,7 +2,7 @@
 title: Pro League
 slug: "pro-league"
 description: ""
-date: "2026-03-13T09:22:53.663381"
+date: "2026-03-20T08:22:04.521152"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - belgium
@@ -26,15 +26,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "belgian-pro-league"
-  - "belgian-cup"
-  - "super-league-vrouwenvoetbal"
   - "challenger-pro-league"
   - "belgian-supercup"
+  - "belgian-cup"
+  - "belgian-pro-league"
+  - "super-league-vrouwenvoetbal"
 products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,6 +70,7 @@ visual_term_image_urls: {}
 
 - [https://www.proleague.be](https://www.proleague.be)
 - [https://www.proleague.be/fr](https://www.proleague.be/fr)
+- [http://www.proleague.be](http://www.proleague.be)
 
 ## Brand Guidelines
 
@@ -84,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Belgian Pro League](/products_or_materials_produced/belgian-pro-league/); [Belgian Cup](/products_or_materials_produced/belgian-cup/); [Super League Vrouwenvoetbal](/products_or_materials_produced/super-league-vrouwenvoetbal/); [Challenger Pro League](/products_or_materials_produced/challenger-pro-league/); [Belgian Supercup](/products_or_materials_produced/belgian-supercup/) |
+| Product Or Material Produced | [Challenger Pro League](/products_or_materials_produced/challenger-pro-league/); [Belgian Supercup](/products_or_materials_produced/belgian-supercup/); [Belgian Cup](/products_or_materials_produced/belgian-cup/); [Belgian Pro League](/products_or_materials_produced/belgian-pro-league/); [Super League Vrouwenvoetbal](/products_or_materials_produced/super-league-vrouwenvoetbal/) |
 | Sport | association football |
 | Country | Belgium |
 | Google Knowledge Graph Id | /g/122h5qxc |

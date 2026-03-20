@@ -2,7 +2,7 @@
 title: Mapsimise
 slug: mapsimise
 description: ""
-date: "2026-03-13T09:22:53.276445"
+date: "2026-03-20T08:22:04.204038"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,9 +61,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.linkedin.com/company/mapsimise/](http://www.linkedin.com/company/mapsimise/)
+- [https://www.mapsimise.com](https://www.mapsimise.com)
+- [http://www.linkedin.com/company/mapsimise](http://www.linkedin.com/company/mapsimise)
 - [http://www.mapsimise.com/e-books](http://www.mapsimise.com/e-books)
-- [https://www.mapsimise.com/](https://www.mapsimise.com/)
 
 ## Brand Guidelines
 

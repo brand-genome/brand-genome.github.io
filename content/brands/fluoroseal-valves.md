@@ -2,7 +2,7 @@
 title: FluoroSeal Valves
 slug: "fluoroseal-valves"
 description: ""
-date: "2026-03-13T09:22:53.286122"
+date: "2026-03-20T08:22:04.213662"
 draft: false
 sectors:
   - hardware
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://fluorosealgroup.com](https://fluorosealgroup.com)
+- [https://fluorosealvalves.com](https://fluorosealvalves.com)
 - [http://www.fluorosealgroup.com](http://www.fluorosealgroup.com)
-- [https://fluorosealgroup.com/](https://fluorosealgroup.com/)
-- [https://fluorosealvalves.com/](https://fluorosealvalves.com/)
 
 ## Brand Guidelines
 

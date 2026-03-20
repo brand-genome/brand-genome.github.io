@@ -2,11 +2,11 @@
 title: Frog
 slug: frog
 description: ""
-date: "2026-03-13T09:22:54.132805"
+date: "2026-03-20T08:22:04.969762"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - education
 industries:
-  - "experience-design"
-  - "business-and-other-management-consultancy-activities"
-  - "interaction-design"
-  - "industrial-design"
   - "software-industry"
   - "service-design"
+  - "industrial-design"
+  - "interaction-design"
+  - "experience-design"
+  - "business-and-other-management-consultancy-activities"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,22 +60,22 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-300"
-  - purple
-  - "pantone-2768"
   - "pantone-801"
-  - blue
   - white
+  - purple
+  - "pantone-300"
+  - blue
   - "pantone-2597"
+  - "pantone-2768"
 typographies:
   - raleway
-  - verdana
   - impact
+  - verdana
 imagery_styles:
+  - bold
   - playful
   - illustration
   - product
-  - bold
 wikidata_description: global creative consultancy
 wikidata_url: "https://www.wikidata.org/wiki/Q289314"
 has_twitter: false
@@ -85,9 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://frogeducation.com/](https://frogeducation.com/)
-- [https://frogeducation.com/edu/ourproduct/froglearn](https://frogeducation.com/edu/ourproduct/froglearn)
+- [https://frogeducation.com](https://frogeducation.com)
 - [https://frogeducation.com/edu/ukschools](https://frogeducation.com/edu/ukschools)
+- [https://frogeducation.com/edu/ourproduct/froglearn](https://frogeducation.com/edu/ourproduct/froglearn)
+- [https://www.frog.co](https://www.frog.co)
 
 ## Brand Guidelines
 

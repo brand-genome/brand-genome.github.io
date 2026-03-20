@@ -2,7 +2,7 @@
 title: "AT&T"
 slug: att
 description: ""
-date: "2026-03-13T09:22:54.354491"
+date: "2026-03-20T08:22:05.184856"
 draft: false
 sectors:
   - telecom
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
+  - telecommunications
   - vintage
-  - telecommunications
 industries:
-  - "mass-media"
-  - "postal-and-telecommunications-services"
   - telecommunications
+  - "postal-and-telecommunications-services"
+  - "mass-media"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,22 +38,26 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - "landline-telephone"
-  - software
-  - "broadband-internet-access"
-  - "satellite-television"
   - broadband
-  - "mobile-phone"
+  - "landline-telephone"
+  - "satellite-television"
+  - software
   - "digital-television"
+  - "broadband-internet-access"
+  - "mobile-phone"
 products: []
 headquarters_locations:
-  - dallas
   - "san-antonio"
+  - dallas
 subsidiaries: []
 foundation_dates:
+  - 1983
   - 2005
   - 1885
-  - 1983
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - 1980S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,12 +77,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: American multinational conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q35476"
 has_twitter: false
@@ -90,9 +94,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://about.att.com/](https://about.att.com/)
-- [https://investors.att.com/](https://investors.att.com/)
-- [https://www.att.com/](https://www.att.com/)
+- [https://www.att.com](https://www.att.com)
+- [https://about.att.com](https://about.att.com)
+- [https://investors.att.com](https://investors.att.com)
+- [http://about.att.com/sites/company_profile](http://about.att.com/sites/company_profile)
+- [https://attvip.mx](https://attvip.mx)
 
 ## Brand Guidelines
 
@@ -179,9 +185,9 @@ PMS 2655
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Software](/products_or_materials_produced/software/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Broadband](/products_or_materials_produced/broadband/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Digital Television](/products_or_materials_produced/digital-television/) |
-| Headquarters Location | [Dallas](/headquarters_locations/dallas/); [San Antonio](/headquarters_locations/san-antonio/) |
-| Foundation Date | [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/); [1983](/foundation_dates/1983/) |
+| Product Or Material Produced | [Broadband](/products_or_materials_produced/broadband/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Software](/products_or_materials_produced/software/); [Digital Television](/products_or_materials_produced/digital-television/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Mobile Phone](/products_or_materials_produced/mobile-phone/) |
+| Headquarters Location | [San Antonio](/headquarters_locations/san-antonio/); [Dallas](/headquarters_locations/dallas/) |
+| Foundation Date | [1983](/foundation_dates/1983/); [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02), Tokyo Stock Exchange (until 1997-12-29) |
 | Topic'S Main Category | Category:AT&T |
 | Headquarters Location | San Antonio (until 2008), Dallas (from 2008) |

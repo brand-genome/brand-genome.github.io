@@ -2,7 +2,7 @@
 title: Politecnico di Milano
 slug: "politecnico-di-milano"
 description: ""
-date: "2026-03-13T09:22:52.172194"
+date: "2026-03-20T08:22:03.238113"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - featured
   - education
+  - featured
 industries: []
 countries:
   - italy
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1863
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.POLIMI.IT](http://www.POLIMI.IT)
-- [https://www.polimi.it/](https://www.polimi.it/)
+- [https://www.polimi.it](https://www.polimi.it)
 - [https://www.polimi.it/en](https://www.polimi.it/en)
+- [http://www.polimi.it](http://www.polimi.it)
 
 ## Brand Guidelines
 

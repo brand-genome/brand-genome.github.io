@@ -2,11 +2,11 @@
 title: Delta Airlines
 slug: "delta-airlines"
 description: ""
-date: "2026-03-13T09:22:52.090883"
+date: "2026-03-20T08:22:03.155846"
 draft: false
 sectors:
-  - airline
   - tourism
+  - airline
 regions:
   - usa
 years:
@@ -41,8 +41,10 @@ headquarters_locations:
   - monroe
 subsidiaries: []
 foundation_dates:
-  - 1929
   - 1925
+  - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,9 +77,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.delta.com/](https://www.delta.com/)
-- [https://www.delta.com/us/en/delta-vacations](https://www.delta.com/us/en/delta-vacations)
+- [https://www.delta.com](https://www.delta.com)
 - [https://www.delta.com/us/en/skymiles/overview](https://www.delta.com/us/en/skymiles/overview)
+- [https://www.delta.com/us/en/delta-vacations](https://www.delta.com/us/en/delta-vacations)
+- [https://zh.delta.com](https://zh.delta.com)
+- [https://de.delta.com](https://de.delta.com)
+- [https://fr.delta.com](https://fr.delta.com)
+- [https://it.delta.com](https://it.delta.com)
+- [https://ja.delta.com](https://ja.delta.com)
+- [https://es.delta.com](https://es.delta.com)
+- [https://pt.delta.com](https://pt.delta.com)
 
 ## Brand Guidelines
 
@@ -98,7 +107,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Monroe](/headquarters_locations/monroe/) |
-| Foundation Date | [1929](/foundation_dates/1929/); [1925](/foundation_dates/1925/) |
+| Foundation Date | [1925](/foundation_dates/1925/); [1929](/foundation_dates/1929/) |
 | Iata Airline Designator | DL |
 | Icao Airline Designator | DAL |
 | Airline Alliance | SkyTeam |

@@ -2,7 +2,7 @@
 title: Demand Media
 slug: "demand-media"
 description: ""
-date: "2026-03-13T09:22:54.411946"
+date: "2026-03-20T08:22:05.244060"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,31 +53,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - symbol
-  - secondary
   - primary
+  - secondary
+  - badge
 brand_colors:
-  - "pantone-7479"
-  - "pantone-285"
-  - gray
-  - yellow
-  - "pantone-382"
-  - black
-  - "pantone-381"
   - red
-  - blue
-  - "pantone-115"
   - green
+  - "pantone-382"
+  - "pantone-381"
   - white
-  - "pantone-305"
+  - "pantone-285"
+  - blue
+  - yellow
+  - gray
   - "pantone-116"
+  - "pantone-115"
+  - black
+  - "pantone-7479"
+  - "pantone-305"
 typographies: []
 imagery_styles:
-  - vibrant
-  - dynamic
   - colorful
   - bold
+  - dynamic
+  - vibrant
 wikidata_description: an American content company
 wikidata_url: "https://www.wikidata.org/wiki/Q5255025"
 has_twitter: false
@@ -87,11 +89,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Cracked.com](http://www.Cracked.com)
-- [http://www.Livestrong.com](http://www.Livestrong.com)
-- [http://www.demandmedia.com/](http://www.demandmedia.com/)
-- [http://www.eHow.com](http://www.eHow.com)
-- [https://leafgroup.com/](https://leafgroup.com/)
+- [http://www.demandmedia.com](http://www.demandmedia.com)
+- [https://leafgroup.com](https://leafgroup.com)
+- [http://www.cracked.com](http://www.cracked.com)
+- [http://www.livestrong.com](http://www.livestrong.com)
+- [http://www.ehow.com](http://www.ehow.com)
 
 ## Brand Guidelines
 

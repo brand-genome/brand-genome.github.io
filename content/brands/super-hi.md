@@ -2,11 +2,11 @@
 title: Super Hi
 slug: "super-hi"
 description: ""
-date: "2026-03-13T09:22:53.250077"
+date: "2026-03-20T08:22:04.175179"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
   - internet
 industries: []
 countries: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://subeditor.superhi.com/](https://subeditor.superhi.com/)
-- [https://www.superhi.com/](https://www.superhi.com/)
+- [https://www.superhi.com](https://www.superhi.com)
+- [https://subeditor.superhi.com](https://subeditor.superhi.com)
 
 ## Brand Guidelines
 

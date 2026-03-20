@@ -2,7 +2,7 @@
 title: PayU
 slug: payu
 description: ""
-date: "2026-03-13T09:22:53.654901"
+date: "2026-03-20T08:22:04.514782"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - financial
+  - internet
 industries: []
 countries:
   - netherlands
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://corporate.payu.com/](https://corporate.payu.com/)
-- [https://payu.com/](https://payu.com/)
+- [https://corporate.payu.com](https://corporate.payu.com)
+- [https://payu.com](https://payu.com)
+- [https://www.payu.pl](https://www.payu.pl)
 
 ## Brand Guidelines
 

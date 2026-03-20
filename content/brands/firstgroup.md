@@ -2,11 +2,11 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-03-13T09:22:54.774079"
+date: "2026-03-20T08:22:05.560342"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1934
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ body_sections: []
 logo_elements:
   - signature
 brand_colors:
-  - white
   - "pantone-2758"
+  - white
 typographies: []
 imagery_styles:
   - photography
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.firstgroupplc.com](https://www.firstgroupplc.com)
 - [http://www.firsttravelsolutions.com](http://www.firsttravelsolutions.com)
 - [http://www.gwr.com](http://www.gwr.com)
-- [https://www.firstgroupplc.com/](https://www.firstgroupplc.com/)
+- [https://www.viabus.de](https://www.viabus.de)
 
 ## Brand Guidelines
 

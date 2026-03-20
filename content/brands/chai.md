@@ -2,11 +2,11 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-03-13T09:22:52.315332"
+date: "2026-03-20T08:22:03.381894"
 draft: false
 sectors:
-  - software
   - insurance
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -35,6 +35,7 @@ headquarters_locations:
   - "palo-alto"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,18 +54,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors: []
 typographies:
   - inter
 imagery_styles:
+  - bold
+  - modern
   - clean
   - serious
-  - modern
-  - bold
 wikidata_description: American artificial intelligence corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q131362989"
 has_twitter: false
@@ -76,9 +77,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://chaipredict.com/](https://chaipredict.com/)
-- [https://intel.chaipredict.com/](https://intel.chaipredict.com/)
-- [https://login.chaipredict.com/](https://login.chaipredict.com/)
+- [https://chaipredict.com](https://chaipredict.com)
+- [https://login.chaipredict.com](https://login.chaipredict.com)
+- [https://intel.chaipredict.com](https://intel.chaipredict.com)
+- [https://chai-research.com](https://chai-research.com)
 
 ## Brand Guidelines
 

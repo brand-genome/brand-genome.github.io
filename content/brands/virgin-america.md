@@ -2,7 +2,7 @@
 title: Virgin America
 slug: "virgin-america"
 description: ""
-date: "2026-03-13T09:22:55.155621"
+date: "2026-03-20T08:22:05.855075"
 draft: false
 sectors:
   - airline
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - secondary
+  - lockup
   - wordmark
   - primary
-  - stacked
-  - lockup
-  - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
+  - colorful
+  - bold
   - playful
   - clean
   - landscape
-  - colorful
-  - bold
 wikidata_description: airline in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q645084"
 has_twitter: false
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alaskaair.com/](https://www.alaskaair.com/)
+- [https://www.alaskaair.com](https://www.alaskaair.com)
+- [http://www.virginamerica.com](http://www.virginamerica.com)
 
 ## Brand Guidelines
 

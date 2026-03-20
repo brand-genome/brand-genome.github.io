@@ -2,7 +2,7 @@
 title: International Paralympic Committee
 slug: "international-paralympic-committee"
 description: ""
-date: "2026-03-13T09:22:53.281274"
+date: "2026-03-20T08:22:04.210876"
 draft: false
 sectors:
   - sports
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,17 +54,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - symbol
   - primary
+  - wordmark
 brand_colors: []
 typographies:
   - impact
 imagery_styles:
+  - bold
+  - dynamic
   - monochrome
   - photography
-  - dynamic
-  - bold
 wikidata_description: Global governing body for the Paralympic Movement
 wikidata_url: "https://www.wikidata.org/wiki/Q175386"
 has_twitter: false
@@ -74,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Paralympic.org](http://www.Paralympic.org)
 - [https://www.paralympic.org/home](https://www.paralympic.org/home)
+- [http://www.paralympic.org](http://www.paralympic.org)
+- [https://www.paralympic.org](https://www.paralympic.org)
 
 ## Brand Guidelines
 

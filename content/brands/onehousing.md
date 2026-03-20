@@ -2,11 +2,11 @@
 title: OneHousing
 slug: onehousing
 description: ""
-date: "2026-03-13T09:22:52.118899"
+date: "2026-03-20T08:22:03.176694"
 draft: false
 sectors:
-  - software
   - "real-estate"
+  - software
 regions:
   - vietnam
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://en.onehousing.vn/](https://en.onehousing.vn/)
-- [https://onehousing.vn/](https://onehousing.vn/)
+- [https://onehousing.vn](https://onehousing.vn)
+- [https://en.onehousing.vn](https://en.onehousing.vn)
 
 ## Brand Guidelines
 

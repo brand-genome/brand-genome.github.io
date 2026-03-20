@@ -2,7 +2,7 @@
 title: Progressive AFT
 slug: "progressive-aft"
 description: ""
-date: "2026-03-13T09:22:53.516811"
+date: "2026-03-20T08:22:04.410792"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,9 +48,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - yellow
   - white
+  - black
 typographies: []
 imagery_styles:
   - flat
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.americanflattrack.com/](https://www.americanflattrack.com/)
+- [https://www.americanflattrack.com](https://www.americanflattrack.com)
 
 ## Brand Guidelines
 

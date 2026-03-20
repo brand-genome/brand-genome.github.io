@@ -2,7 +2,7 @@
 title: Hygiene of Sweden
 slug: "hygiene-of-sweden"
 description: ""
-date: "2026-03-13T09:22:53.762017"
+date: "2026-03-20T08:22:04.719541"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hygieneofsweden.com/](https://hygieneofsweden.com/)
-- [https://hygieneofsweden.com/en/](https://hygieneofsweden.com/en/)
+- [https://hygieneofsweden.com](https://hygieneofsweden.com)
+- [https://hygieneofsweden.com/en](https://hygieneofsweden.com/en)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Malouf
 slug: malouf
 description: ""
-date: "2026-03-13T09:22:54.227476"
+date: "2026-03-20T08:22:05.065000"
 draft: false
 sectors:
   - "consumer-goods"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +47,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - symbol
-  - wordmark
 brand_colors:
-  - "pantone-8001"
   - silver
-  - gray
-  - "pantone-10274"
-  - black
-  - "pantone-871"
-  - "pantone-876"
+  - "pantone-8001"
   - white
+  - "pantone-10274"
+  - "pantone-871"
+  - gray
+  - "pantone-876"
+  - black
 typographies:
   - display
 imagery_styles:
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.maloufhome.com/](https://www.maloufhome.com/)
+- [https://www.maloufhome.com](https://www.maloufhome.com)
 
 ## Brand Guidelines
 

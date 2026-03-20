@@ -2,7 +2,7 @@
 title: Beyond Hello
 slug: "beyond-hello"
 description: ""
-date: "2026-03-13T09:22:52.318743"
+date: "2026-03-20T08:22:03.386884"
 draft: false
 sectors:
   - "consumer-goods"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2019
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://products.beyond-hello.com](https://products.beyond-hello.com)
 - [http://www.jushico.com](http://www.jushico.com)
-- [https://products.beyond-hello.com/](https://products.beyond-hello.com/)
+- [https://beyond-hello.com](https://beyond-hello.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Genç Saadet
 slug: "genc-saadet"
 description: ""
-date: "2026-03-13T09:22:54.229135"
+date: "2026-03-20T08:22:05.066436"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +54,8 @@ brand_colors:
   - "pantone-2955"
 typographies: []
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gencsaadet.org.tr/](https://www.gencsaadet.org.tr/)
-- [https://www.saadet.org.tr/](https://www.saadet.org.tr/)
+- [https://www.gencsaadet.org.tr](https://www.gencsaadet.org.tr)
+- [https://www.saadet.org.tr](https://www.saadet.org.tr)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Syber
 slug: syber
 description: ""
-date: "2026-03-13T09:22:53.495832"
+date: "2026-03-20T08:22:04.392168"
 draft: false
 sectors:
   - electronics
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +50,12 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - grey
   - white
   - orange
+  - grey
 typographies:
   - din
 imagery_styles:
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sybergaming.com/](https://www.sybergaming.com/)
+- [https://www.sybergaming.com](https://www.sybergaming.com)
 
 ## Brand Guidelines
 

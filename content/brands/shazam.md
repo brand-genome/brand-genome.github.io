@@ -2,7 +2,7 @@
 title: Shazam
 slug: shazam
 description: ""
-date: "2026-03-13T09:22:54.422454"
+date: "2026-03-20T08:22:05.317942"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - internet
   - music
   - app
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - product
   - bold
   - graphic
+  - product
 wikidata_description: music application
 wikidata_url: "https://www.wikidata.org/wiki/Q1195495"
 has_twitter: false
@@ -75,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.shazam.com/](https://www.shazam.com/)
-- [https://www.shazam.com/en-us/](https://www.shazam.com/en-us/)
+- [https://www.shazam.com](https://www.shazam.com)
+- [https://www.shazam.com/en-us](https://www.shazam.com/en-us)
 
 ## Brand Guidelines
 

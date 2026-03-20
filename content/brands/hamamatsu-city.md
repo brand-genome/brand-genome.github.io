@@ -2,7 +2,7 @@
 title: Hamamatsu City
 slug: "hamamatsu-city"
 description: ""
-date: "2026-03-13T09:22:53.085747"
+date: "2026-03-20T08:22:04.087076"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - japanese
 tags:
-  - city
-  - featured
   - regional
+  - featured
+  - city
 industries: []
 countries:
   - japan
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visit.hamamatsu-japan.com/](https://visit.hamamatsu-japan.com/)
-- [https://www.city.hamamatsu.shizuoka.jp/](https://www.city.hamamatsu.shizuoka.jp/)
+- [https://www.city.hamamatsu.shizuoka.jp](https://www.city.hamamatsu.shizuoka.jp)
+- [https://visit.hamamatsu-japan.com](https://visit.hamamatsu-japan.com)
+- [https://www.city.hamamatsu.shizuoka.jp/gikai/index.html](https://www.city.hamamatsu.shizuoka.jp/gikai/index.html)
 
 ## Brand Guidelines
 

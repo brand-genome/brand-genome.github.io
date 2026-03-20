@@ -2,7 +2,7 @@
 title: Barazza
 slug: barazza
 description: ""
-date: "2026-03-13T09:22:54.408345"
+date: "2026-03-20T08:22:05.238666"
 draft: false
 sectors:
   - "home-appliances"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
-  - helvetica
   - "source-sans"
+  - helvetica
+  - arial
 imagery_styles:
   - gradient
 wikidata_description: ""
@@ -67,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://barazzasrl.it/](https://barazzasrl.it/)
-- [https://barazzasrl.it/en/](https://barazzasrl.it/en/)
-- [https://barazzasrl.it/en/shop-online/](https://barazzasrl.it/en/shop-online/)
+- [https://barazzasrl.it](https://barazzasrl.it)
+- [https://barazzasrl.it/en](https://barazzasrl.it/en)
+- [https://barazzasrl.it/en/shop-online](https://barazzasrl.it/en/shop-online)
 
 ## Brand Guidelines
 

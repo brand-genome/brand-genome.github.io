@@ -2,7 +2,7 @@
 title: Fond Culturel National
 slug: "fond-culturel-national"
 description: ""
-date: "2026-03-13T09:22:55.149346"
+date: "2026-03-20T08:22:05.849071"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,14 +51,14 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
-  - minimal
   - bold
   - graphic
+  - monochrome
+  - minimal
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.focuna.lu/](https://www.focuna.lu/)
+- [https://www.focuna.lu](https://www.focuna.lu)
 
 ## Brand Guidelines
 

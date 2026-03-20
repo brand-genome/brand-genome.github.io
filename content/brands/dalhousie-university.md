@@ -2,12 +2,12 @@
 title: Dalhousie University
 slug: "dalhousie-university"
 description: ""
-date: "2026-03-13T09:22:53.084914"
+date: "2026-03-20T08:22:04.086226"
 draft: false
 sectors:
-  - research
   - education
   - university
+  - research
 regions:
   - canada
 years:
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1818
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,22 +58,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - black
-  - gold
   - white
+  - gold
+  - black
 typographies: []
 imagery_styles:
-  - artificial
-  - photography
-  - natural
-  - candid
   - staged
-  - vibrant
-  - clean
+  - artificial
+  - candid
   - bold
+  - natural
+  - photography
+  - clean
+  - vibrant
 wikidata_description: "public research university in Nova Scotia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q579321"
 has_twitter: false
@@ -83,8 +85,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.DAL.CA](http://www.DAL.CA)
-- [https://www.dal.ca/](https://www.dal.ca/)
+- [https://www.dal.ca](https://www.dal.ca)
+- [http://www.dal.ca](http://www.dal.ca)
 
 ## Brand Guidelines
 

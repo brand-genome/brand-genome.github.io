@@ -2,7 +2,7 @@
 title: Oceano Azul Foundation
 slug: "oceano-azul-foundation"
 description: ""
-date: "2026-03-13T09:22:52.136247"
+date: "2026-03-20T08:22:03.199570"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q131907755"
 has_twitter: false
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://oceanoazulfoundation.org](https://oceanoazulfoundation.org)
 - [http://www.linotype.com](http://www.linotype.com)
 - [http://www.myfonts.com](http://www.myfonts.com)
-- [https://oceanoazulfoundation.org/](https://oceanoazulfoundation.org/)
 
 ## Brand Guidelines
 

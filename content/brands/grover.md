@@ -2,7 +2,7 @@
 title: Grover
 slug: grover
 description: ""
-date: "2026-03-13T09:22:53.254033"
+date: "2026-03-20T08:22:04.179804"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,12 +49,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -65,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GetGrover.com](http://www.GetGrover.com)
-- [https://service.grover.com/](https://service.grover.com/)
-- [https://www.grover.com/](https://www.grover.com/)
+- [https://www.grover.com](https://www.grover.com)
+- [https://service.grover.com](https://service.grover.com)
+- [http://www.getgrover.com](http://www.getgrover.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Hanwag
 slug: hanwag
 description: ""
-date: "2026-03-13T09:22:53.967575"
+date: "2026-03-20T08:22:04.893555"
 draft: false
 sectors:
-  - footwear
   - fashion
+  - footwear
 regions:
   - germany
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,22 +53,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - times
 imagery_styles:
+  - product
   - flat
+  - graphic
   - subtle
   - photography
-  - product
-  - graphic
 wikidata_description: German shoe company
 wikidata_url: "https://www.wikidata.org/wiki/Q1584049"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hanwag.com/](https://www.hanwag.com/)
-- [https://www.hanwag.de/](https://www.hanwag.de/)
+- [https://www.hanwag.de](https://www.hanwag.de)
+- [https://www.hanwag.com](https://www.hanwag.com)
+- [http://www.hanwag.de](http://www.hanwag.de)
 
 ## Brand Guidelines
 

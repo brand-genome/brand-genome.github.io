@@ -2,7 +2,7 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-03-13T09:22:53.337981"
+date: "2026-03-20T08:22:04.247339"
 draft: false
 sectors:
   - software
@@ -30,20 +30,22 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - printer
-  - projector
-  - "wide-format-printer"
-  - "multifunction-printer"
-  - software
   - photocopier
-  - "office-supply"
   - "image-scanner"
+  - "office-supply"
+  - software
+  - printer
+  - "multifunction-printer"
+  - "wide-format-printer"
+  - projector
 products: []
 headquarters_locations:
   - norwalk
 subsidiaries: []
 foundation_dates:
   - 1906
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xerox.com/](https://www.xerox.com/)
+- [https://www.xerox.com](https://www.xerox.com)
 
 ## Brand Guidelines
 
@@ -92,7 +94,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Printer](/products_or_materials_produced/printer/); [Projector](/products_or_materials_produced/projector/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Software](/products_or_materials_produced/software/); [Photocopier](/products_or_materials_produced/photocopier/); [Office Supply](/products_or_materials_produced/office-supply/); [Image Scanner](/products_or_materials_produced/image-scanner/) |
+| Product Or Material Produced | [Photocopier](/products_or_materials_produced/photocopier/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Office Supply](/products_or_materials_produced/office-supply/); [Software](/products_or_materials_produced/software/); [Printer](/products_or_materials_produced/printer/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Projector](/products_or_materials_produced/projector/) |
 | Headquarters Location | [Norwalk](/headquarters_locations/norwalk/) |
 | Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Xerox |

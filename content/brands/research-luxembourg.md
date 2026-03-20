@@ -2,11 +2,11 @@
 title: Research Luxembourg
 slug: "research-luxembourg"
 description: ""
-date: "2026-03-13T09:22:53.544598"
+date: "2026-03-20T08:22:04.419559"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - luxembourg
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.researchluxembourg.org/](https://www.researchluxembourg.org/)
-- [https://www.researchluxembourg.org/en/](https://www.researchluxembourg.org/en/)
+- [https://www.researchluxembourg.org/en](https://www.researchluxembourg.org/en)
+- [https://www.researchluxembourg.org](https://www.researchluxembourg.org)
 
 ## Brand Guidelines
 

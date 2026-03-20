@@ -2,11 +2,11 @@
 title: "MIT Computer Science & Artificial Intelligence Laboratory"
 slug: "mit-computer-science-artificial-intelligence-laboratory"
 description: ""
-date: "2026-03-13T09:22:52.824558"
+date: "2026-03-20T08:22:03.836093"
 draft: false
 sectors:
-  - research
   - university
+  - research
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://csail.mit.edu](https://csail.mit.edu)
 - [http://www.mit.edu](http://www.mit.edu)
-- [https://csail.mit.edu/](https://csail.mit.edu/)
 
 ## Brand Guidelines
 

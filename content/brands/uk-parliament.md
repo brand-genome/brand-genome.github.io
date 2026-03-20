@@ -2,7 +2,7 @@
 title: UK Parliament
 slug: "uk-parliament"
 description: ""
-date: "2026-03-13T09:22:52.895923"
+date: "2026-03-20T08:22:03.888586"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://archives.parliament.uk/](https://archives.parliament.uk/)
-- [https://www.parliament.uk/](https://www.parliament.uk/)
+- [https://www.parliament.uk](https://www.parliament.uk)
+- [https://archives.parliament.uk](https://archives.parliament.uk)
 
 ## Brand Guidelines
 

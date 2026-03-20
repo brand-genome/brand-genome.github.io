@@ -2,11 +2,11 @@
 title: Curious Mind
 slug: "curious-mind"
 description: ""
-date: "2026-03-13T09:22:54.729771"
+date: "2026-03-20T08:22:05.526591"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - "new-zealand"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
-  - purple
-  - "pantone-1245"
-  - gold
   - red
-  - blue
   - green
-  - "pantone-1788"
+  - gold
+  - "pantone-1245"
   - white
+  - purple
+  - blue
   - "pantone-7547"
+  - "pantone-1788"
 typographies: []
 imagery_styles:
   - graphic
@@ -75,9 +76,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.curiousminds.nz/](https://www.curiousminds.nz/)
+- [https://www.curiousminds.nz](https://www.curiousminds.nz)
 - [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/curious-minds](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/curious-minds)
 - [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform)
+- [https://cmghana.org](https://cmghana.org)
 
 ## Brand Guidelines
 

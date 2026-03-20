@@ -2,16 +2,16 @@
 title: Sam’s Club
 slug: "sams-club"
 description: ""
-date: "2026-03-13T09:22:53.266795"
+date: "2026-03-20T08:22:04.192875"
 draft: false
 sectors:
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - usa
 years:
-  - 2019
   - 2011
+  - 2019
 languages:
   - english
 tags:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +53,8 @@ logo_elements:
   - secondary
 brand_colors:
   - "pantone-430"
-  - "pantone-427"
   - "pantone-638"
+  - "pantone-427"
   - blue
 typographies: []
 imagery_styles:
@@ -70,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.samsclub.com](https://www.samsclub.com)
 - [https://corporate.walmart.com/about/samsclub](https://corporate.walmart.com/about/samsclub)
-- [https://www.samsclub.com/](https://www.samsclub.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Lynx
 slug: lynx
 description: ""
-date: "2026-03-13T09:22:54.341639"
+date: "2026-03-20T08:22:05.168679"
 draft: false
 sectors:
   - "public-transportation"
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,9 +52,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - gray
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: brand of male grooming products
@@ -66,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.golynx.com](https://www.golynx.com)
 - [http://www.instagram.com/golynx](http://www.instagram.com/golynx)
-- [https://www.golynx.com/](https://www.golynx.com/)
+- [https://www.axe.com](https://www.axe.com)
 
 ## Brand Guidelines
 

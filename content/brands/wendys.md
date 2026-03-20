@@ -2,7 +2,7 @@
 title: Wendy’s
 slug: wendys
 description: ""
-date: "2026-03-13T09:22:52.235333"
+date: "2026-03-20T08:22:03.297871"
 draft: false
 sectors:
   - restaurant
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wendys.com/](https://www.wendys.com/)
+- [https://www.wendys.com](https://www.wendys.com)
 
 ## Brand Guidelines
 

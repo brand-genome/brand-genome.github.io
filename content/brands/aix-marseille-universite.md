@@ -2,22 +2,22 @@
 title: "Aix-Marseille Université"
 slug: "aix-marseille-universite"
 description: ""
-date: "2026-03-13T09:22:52.232451"
+date: "2026-03-20T08:22:03.295750"
 draft: false
 sectors:
   - university
 regions:
   - france
 years:
-  - 2015
-  - 2019
   - 2024
+  - 2019
+  - 2015
 languages:
   - french
 tags:
-  - featured
-  - education
   - university
+  - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +51,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
+  - primary
 brand_colors:
+  - red
+  - green
   - cyan
   - "pantone-300"
+  - blue
   - yellow
   - "pantone-130"
   - black
   - magenta
-  - red
-  - blue
-  - green
 typographies: []
 imagery_styles:
   - bold
@@ -76,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.univ-amu.fr](https://www.univ-amu.fr)
+- [https://sesame.univ-amu.fr](https://sesame.univ-amu.fr)
 - [http://www.univ-amu.fr](http://www.univ-amu.fr)
-- [https://sesame.univ-amu.fr/](https://sesame.univ-amu.fr/)
-- [https://www.univ-amu.fr/](https://www.univ-amu.fr/)
 
 ## Brand Guidelines
 

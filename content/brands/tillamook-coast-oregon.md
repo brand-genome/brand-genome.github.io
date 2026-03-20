@@ -2,7 +2,7 @@
 title: Tillamook Coast Oregon
 slug: "tillamook-coast-oregon"
 description: ""
-date: "2026-03-13T09:22:53.491181"
+date: "2026-03-20T08:22:04.387612"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,9 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors: []
 typographies:
   - serif
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tillamookcoast.com/](https://tillamookcoast.com/)
+- [https://tillamookcoast.com](https://tillamookcoast.com)
 
 ## Brand Guidelines
 

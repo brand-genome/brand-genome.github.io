@@ -2,11 +2,11 @@
 title: Moscow Transport
 slug: "moscow-transport"
 description: ""
-date: "2026-03-13T09:22:53.489650"
+date: "2026-03-20T08:22:04.386402"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - russia
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mosmetro.ru/](https://mosmetro.ru/)
-- [https://transport.mos.ru/](https://transport.mos.ru/)
 - [https://transport.mos.ru/en](https://transport.mos.ru/en)
+- [https://transport.mos.ru](https://transport.mos.ru)
+- [https://mosmetro.ru](https://mosmetro.ru)
 
 ## Brand Guidelines
 

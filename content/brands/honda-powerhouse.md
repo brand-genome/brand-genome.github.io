@@ -2,7 +2,7 @@
 title: Honda Powerhouse
 slug: "honda-powerhouse"
 description: ""
-date: "2026-03-13T09:22:54.193957"
+date: "2026-03-20T08:22:05.024928"
 draft: false
 sectors:
   - automobile
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
+  - vertical
   - alternate
   - horizontal
-  - vertical
 brand_colors:
-  - black
-  - white
   - red
+  - white
   - "pantone-186"
+  - black
 typographies:
   - impact
 imagery_styles:

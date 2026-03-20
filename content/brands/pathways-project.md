@@ -2,7 +2,7 @@
 title: Pathways Project
 slug: "pathways-project"
 description: ""
-date: "2026-03-13T09:22:53.082294"
+date: "2026-03-20T08:22:04.083552"
 draft: false
 sectors:
   - research
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,19 +47,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - vertical
+  - primary
 brand_colors:
+  - red
+  - green
   - cyan
+  - white
+  - blue
   - yellow
+  - brown
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
-  - brown
 typographies: []
 imagery_styles:
   - bold
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://pathways-project.com/](https://pathways-project.com/)
+- [https://pathways-project.com](https://pathways-project.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-03-13T09:22:55.156417"
+date: "2026-03-20T08:22:05.855921"
 draft: false
 sectors:
-  - automobile
   - insurance
+  - automobile
 regions:
   - "united-kingdom"
 years:
@@ -17,9 +17,9 @@ tags:
   - insurance
 industries:
   - "road-transport"
+  - "activities-of-other-membership-organisations-nec"
   - "drivers-education"
   - "roadside-assistance"
-  - "activities-of-other-membership-organisations-nec"
   - "voluntary-sector"
   - "insurance-industry"
 countries:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,13 +59,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - "pantone-116"
   - yellow
+  - "pantone-116"
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: British motoring association
 wikidata_url: "https://www.wikidata.org/wiki/Q1785352"
 has_twitter: false
@@ -75,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.theaa.com/](https://www.theaa.com/)
-- [https://www.theaacorporate.com/](https://www.theaacorporate.com/)
+- [https://www.theaa.com](https://www.theaa.com)
+- [https://www.theaacorporate.com](https://www.theaacorporate.com)
 
 ## Brand Guidelines
 

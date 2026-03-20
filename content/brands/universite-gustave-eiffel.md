@@ -2,7 +2,7 @@
 title: Université Gustave Eiffel
 slug: "universite-gustave-eiffel"
 description: ""
-date: "2026-03-13T09:22:53.266356"
+date: "2026-03-20T08:22:04.192361"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,14 +52,14 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
-  - white
   - blue
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - bold
   - graphic
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.univ-gustave-eiffel.fr](https://www.univ-gustave-eiffel.fr)
+- [https://intranet-edu.univ-eiffel.fr](https://intranet-edu.univ-eiffel.fr)
 - [http://www.univ-gustave-eiffel.fr](http://www.univ-gustave-eiffel.fr)
-- [https://intranet-edu.univ-eiffel.fr/](https://intranet-edu.univ-eiffel.fr/)
-- [https://www.univ-gustave-eiffel.fr/](https://www.univ-gustave-eiffel.fr/)
 
 ## Brand Guidelines
 

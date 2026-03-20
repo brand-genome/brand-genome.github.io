@@ -2,7 +2,7 @@
 title: Portugal 2020
 slug: "portugal-2020"
 description: ""
-date: "2026-03-13T09:22:53.759641"
+date: "2026-03-20T08:22:04.717949"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
-  - green
   - red
+  - green
+  - black
 typographies:
-  - serif
   - display
+  - serif
 imagery_styles:
   - dynamic
+  - monochrome
   - photography
   - modern
-  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://algarve2020.pt/](https://algarve2020.pt/)
-- [https://portugal2020.pt/](https://portugal2020.pt/)
+- [https://portugal2020.pt](https://portugal2020.pt)
+- [https://algarve2020.pt](https://algarve2020.pt)
 
 ## Brand Guidelines
 

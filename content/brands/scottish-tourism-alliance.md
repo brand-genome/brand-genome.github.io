@@ -2,7 +2,7 @@
 title: Scottish Tourism Alliance
 slug: "scottish-tourism-alliance"
 description: ""
-date: "2026-03-13T09:22:53.513900"
+date: "2026-03-20T08:22:04.407018"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - purple
   - white
+  - purple
   - blue
 typographies:
   - futura
@@ -68,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://scottishtourismalliance.co.uk/](https://scottishtourismalliance.co.uk/)
+- [https://scottishtourismalliance.co.uk](https://scottishtourismalliance.co.uk)
 
 ## Brand Guidelines
 

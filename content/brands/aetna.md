@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-03-13T09:22:53.723952"
+date: "2026-03-20T08:22:04.687852"
 draft: false
 sectors:
   - insurance
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1853
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
-  - black
-  - white
   - violet
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American managed health care company
@@ -71,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Aetna.com](http://www.Aetna.com)
-- [http://www.AetnaBetterHealth.com](http://www.AetnaBetterHealth.com)
-- [https://www.aetna.com/](https://www.aetna.com/)
-- [https://www.aetnabetterhealth.com/](https://www.aetnabetterhealth.com/)
-- [https://www.aetnastudenthealth.com/](https://www.aetnastudenthealth.com/)
+- [https://www.aetna.com](https://www.aetna.com)
+- [https://www.aetnabetterhealth.com](https://www.aetnabetterhealth.com)
+- [https://www.aetnastudenthealth.com](https://www.aetnastudenthealth.com)
+- [http://www.aetna.com](http://www.aetna.com)
+- [http://www.aetnabetterhealth.com](http://www.aetnabetterhealth.com)
 
 ## Brand Guidelines
 

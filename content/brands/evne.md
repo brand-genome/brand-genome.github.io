@@ -2,11 +2,11 @@
 title: Evne
 slug: evne
 description: ""
-date: "2026-03-13T09:22:53.669075"
+date: "2026-03-20T08:22:04.526763"
 draft: false
 sectors:
-  - software
   - construction
+  - software
 regions:
   - india
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - australia
   - "new-zealand"
+  - australia
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - graphic
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.evnegroup.com/](https://www.evnegroup.com/)
+- [https://www.evnegroup.com](https://www.evnegroup.com)
+- [https://www.evnex.com](https://www.evnex.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-03-13T09:22:53.271154"
+date: "2026-03-20T08:22:04.198430"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -34,16 +34,18 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "diesel-engine"
-  - "commercial-vehicle"
   - truck
   - coach
+  - "commercial-vehicle"
+  - "diesel-engine"
 products: []
 headquarters_locations:
   - sodertalje
 subsidiaries: []
 foundation_dates:
   - 1911
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,11 +71,11 @@ typographies:
   - arial
 imagery_styles:
   - artificial
-  - natural
-  - realistic
-  - monochrome
-  - photography
   - bold
+  - natural
+  - photography
+  - monochrome
+  - realistic
 wikidata_description: Swedish truck and bus manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q219960"
 has_twitter: false
@@ -85,9 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tis.scania.com/](https://tis.scania.com/)
-- [https://www.scania.com/](https://www.scania.com/)
+- [https://www.scania.com](https://www.scania.com)
 - [https://www.scania.com/us/en/home.html](https://www.scania.com/us/en/home.html)
+- [https://tis.scania.com](https://tis.scania.com)
 
 ## Brand Guidelines
 
@@ -137,7 +139,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Diesel Engine](/products_or_materials_produced/diesel-engine/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/) |
 | Headquarters Location | [Sodertalje](/headquarters_locations/sodertalje/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Topic'S Main Category | Category:Scania AB |

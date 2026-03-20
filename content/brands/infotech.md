@@ -2,7 +2,7 @@
 title: infotech
 slug: infotech
 description: ""
-date: "2026-03-13T09:22:52.321574"
+date: "2026-03-20T08:22:03.389687"
 draft: false
 sectors:
   - consulting
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://infotechinc.zendesk.com/](https://infotechinc.zendesk.com/)
-- [https://www.bidexpress.com/](https://www.bidexpress.com/)
-- [https://www.bidx.com/](https://www.bidx.com/)
-- [https://www.infotechinc.com/](https://www.infotechinc.com/)
+- [https://www.infotechinc.com](https://www.infotechinc.com)
+- [https://www.bidexpress.com](https://www.bidexpress.com)
+- [https://www.bidx.com](https://www.bidx.com)
+- [https://infotechinc.zendesk.com](https://infotechinc.zendesk.com)
+- [http://www.cyient.com](http://www.cyient.com)
 
 ## Brand Guidelines
 

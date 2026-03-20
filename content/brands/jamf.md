@@ -2,11 +2,11 @@
 title: Jamf
 slug: jamf
 description: ""
-date: "2026-03-13T09:22:54.562715"
+date: "2026-03-20T08:22:05.410509"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,15 +54,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - icon
-  - stacked
   - wordmark
+  - stacked
 brand_colors:
   - gray
   - white
 typographies: []
 imagery_styles:
-  - playful
   - product
+  - playful
 wikidata_description: U.S. technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q85770729"
 has_twitter: false
@@ -72,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jamf.com/](https://www.jamf.com/)
+- [https://www.jamf.com](https://www.jamf.com)
 
 ## Brand Guidelines
 

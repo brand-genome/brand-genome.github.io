@@ -2,7 +2,7 @@
 title: UCI Jerseys
 slug: "uci-jerseys"
 description: ""
-date: "2026-03-13T09:22:53.644348"
+date: "2026-03-20T08:22:04.500840"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,12 +48,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
+  - red
+  - green
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uci.org/](https://www.uci.org/)
+- [https://www.uci.org](https://www.uci.org)
 
 ## Brand Guidelines
 

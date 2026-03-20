@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-03-13T09:22:53.270767"
+date: "2026-03-20T08:22:04.197887"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
-  - "united-states"
   - canada
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,15 +28,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - truck
   - "commercial-vehicle"
   - "pickup-truck"
-  - truck
 products: []
 headquarters_locations:
   - "auburn-hills"
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,17 +57,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
-  - horizontal
   - vertical
+  - horizontal
+  - badge
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - product
   - bold
   - graphic
+  - product
 wikidata_description: "American brand of light to mid-weight commercial vehicles"
 wikidata_url: "https://www.wikidata.org/wiki/Q165708"
 has_twitter: false
@@ -77,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ram.com/mx/](https://www.ram.com/mx/)
-- [https://www.ramtrucks.com/](https://www.ramtrucks.com/)
+- [https://www.ramtrucks.com](https://www.ramtrucks.com)
+- [https://www.ram.com/mx](https://www.ram.com/mx)
+- [https://www.ramtruck.ca/en](https://www.ramtruck.ca/en)
 
 ## Brand Guidelines
 
@@ -121,7 +124,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/) |
 | Headquarters Location | [Auburn Hills](/headquarters_locations/auburn-hills/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Auburn Hills |

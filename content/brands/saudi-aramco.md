@@ -2,12 +2,12 @@
 title: Saudi Aramco
 slug: "saudi-aramco"
 description: ""
-date: "2026-03-13T09:22:52.826684"
+date: "2026-03-20T08:22:03.837852"
 draft: false
 sectors:
+  - petroleum
   - gas
   - oil
-  - petroleum
 regions:
   - "saudi-arabia"
 years:
@@ -15,13 +15,13 @@ years:
 languages:
   - arabic
 tags:
-  - featured
   - industry
+  - featured
 industries:
-  - "petroleum-industry"
-  - "extraction-of-crude-petroleum-and-natural-gas"
   - "extraction-of-petroleum"
   - "oil-refining"
+  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "petroleum-industry"
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -46,9 +46,12 @@ headquarters_locations:
   - dhahran
 subsidiaries: []
 foundation_dates:
-  - 1988
   - 1933
+  - 1988
   - 1932
+foundation_year_buckets:
+  - 1980S
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -81,7 +84,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aramco.com/](https://www.aramco.com/)
+- [https://www.aramco.com](https://www.aramco.com)
 - [https://www.aramco.com/en](https://www.aramco.com/en)
 
 ## Brand Guidelines
@@ -100,7 +103,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/); [Natural Gas](/products_or_materials_produced/natural-gas/) |
 | Headquarters Location | [Dhahran](/headquarters_locations/dhahran/) |
-| Foundation Date | [1988](/foundation_dates/1988/); [1933](/foundation_dates/1933/); [1932](/foundation_dates/1932/) |
+| Foundation Date | [1933](/foundation_dates/1933/); [1988](/foundation_dates/1988/); [1932](/foundation_dates/1932/) |
 | Topic'S Main Category | Category:Saudi Aramco |
 | Freebase Id | /m/01qjg2 |
 | Headquarters Location | Dhahran |

@@ -2,7 +2,7 @@
 title: Sprig
 slug: sprig
 description: ""
-date: "2026-03-13T09:22:54.720492"
+date: "2026-03-20T08:22:05.518854"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - health
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +54,8 @@ brand_colors: []
 typographies:
   - gotham
 imagery_styles:
-  - photography
   - modern
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://store.sprigusa.com/](https://store.sprigusa.com/)
-- [https://www.sprigusa.com/](https://www.sprigusa.com/)
+- [https://www.sprigusa.com](https://www.sprigusa.com)
+- [https://store.sprigusa.com](https://store.sprigusa.com)
 
 ## Brand Guidelines
 

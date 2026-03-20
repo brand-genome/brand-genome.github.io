@@ -2,7 +2,7 @@
 title: Georgetown University
 slug: "georgetown-university"
 description: ""
-date: "2026-03-13T09:22:54.356880"
+date: "2026-03-20T08:22:05.187424"
 draft: false
 sectors:
   - education
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1789
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.georgetown.edu](https://www.georgetown.edu)
+- [https://www.georgetown.edu/visual-identity](https://www.georgetown.edu/visual-identity)
 - [http://www.photoshelter.com/profile/accounts](http://www.photoshelter.com/profile/accounts)
-- [https://www.georgetown.edu/](https://www.georgetown.edu/)
-- [https://www.georgetown.edu/visual-identity/](https://www.georgetown.edu/visual-identity/)
 
 ## Brand Guidelines
 

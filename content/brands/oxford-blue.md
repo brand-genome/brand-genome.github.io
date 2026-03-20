@@ -2,7 +2,7 @@
 title: Oxford Blue
 slug: "oxford-blue"
 description: ""
-date: "2026-03-13T09:22:53.303858"
+date: "2026-03-20T08:22:04.222164"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,14 +57,14 @@ brand_colors:
   - "pantone-279"
   - blue
 typographies:
+  - "sans-serif"
+  - arial
   - display
   - serif
-  - arial
-  - "sans-serif"
 imagery_styles:
+  - bold
   - photography
   - professional
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,9 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ox.ac.uk](https://www.ox.ac.uk)
 - [https://communications.admin.ox.ac.uk/communications-resources/visual-identity/identity-guidelines/colours](https://communications.admin.ox.ac.uk/communications-resources/visual-identity/identity-guidelines/colours)
 - [https://communications.web.ox.ac.uk/communications-resources/visual-identity/identity-guidelines/colours](https://communications.web.ox.ac.uk/communications-resources/visual-identity/identity-guidelines/colours)
-- [https://www.ox.ac.uk/](https://www.ox.ac.uk/)
 
 ## Brand Guidelines
 

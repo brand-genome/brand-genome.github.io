@@ -2,7 +2,7 @@
 title: Saba
 slug: saba
 description: ""
-date: "2026-03-13T09:22:55.015158"
+date: "2026-03-20T08:22:05.724016"
 draft: false
 sectors:
   - "public-transportation"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +51,13 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - black
   - white
-  - "pantone-3272"
   - orange
+  - "pantone-3272"
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -70,10 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.saba.es/](https://www.saba.es/)
-- [https://www.saba.eu/](https://www.saba.eu/)
-- [https://www.sabagroup.com/](https://www.sabagroup.com/)
-- [https://www.sabazonaregulada.com/](https://www.sabazonaregulada.com/)
+- [https://www.sabagroup.com](https://www.sabagroup.com)
+- [https://www.saba.eu](https://www.saba.eu)
+- [https://www.saba.es](https://www.saba.es)
+- [https://www.sabazonaregulada.com](https://www.sabazonaregulada.com)
+- [https://www.sabagov.com](https://www.sabagov.com)
 
 ## Brand Guidelines
 

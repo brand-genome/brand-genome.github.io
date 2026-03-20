@@ -2,14 +2,14 @@
 title: Repsol
 slug: repsol
 description: ""
-date: "2026-03-13T09:22:53.063108"
+date: "2026-03-20T08:22:04.054567"
 draft: false
 sectors:
-  - gas
   - oil
-  - "petrol-station"
   - "renewable-energy"
+  - gas
   - petroleum
+  - "petrol-station"
 regions:
   - spain
 years:
@@ -17,8 +17,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - industry
+  - featured
 industries:
   - "petroleum-industry"
 countries:
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,11 +74,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.repsol.com/](https://www.repsol.com/)
-- [https://www.repsol.com/en/](https://www.repsol.com/en/)
+- [https://www.repsol.com](https://www.repsol.com)
+- [https://www.repsol.com/en](https://www.repsol.com/en)
+- [https://www.repsol.es](https://www.repsol.es)
+- [https://www.repsol.es/waylet](https://www.repsol.es/waylet)
 - [https://www.repsol.com/en/about-us/where-we-work/repsol-worldwide/the-americas/united-states/index.cshtml](https://www.repsol.com/en/about-us/where-we-work/repsol-worldwide/the-americas/united-states/index.cshtml)
-- [https://www.repsol.es/](https://www.repsol.es/)
-- [https://www.repsol.es/waylet/](https://www.repsol.es/waylet/)
+- [https://repsol.it](https://repsol.it)
+- [https://factura.repsol.com.mx](https://factura.repsol.com.mx)
+- [https://www.repsol.pe](https://www.repsol.pe)
 
 ## Brand Guidelines
 

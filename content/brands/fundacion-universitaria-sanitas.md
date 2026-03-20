@@ -2,7 +2,7 @@
 title: Fundación Universitaria Sanitas
 slug: "fundacion-universitaria-sanitas"
 description: ""
-date: "2026-03-13T09:22:53.649513"
+date: "2026-03-20T08:22:04.506867"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
+  - symbol
   - primary
 brand_colors:
+  - gray
+  - white
   - black
   - cyan
-  - white
-  - gray
 typographies:
-  - arial
   - garamond
+  - arial
 imagery_styles:
   - bold
   - graphic
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unisanitas.edu.co/](https://www.unisanitas.edu.co/)
+- [https://www.unisanitas.edu.co](https://www.unisanitas.edu.co)
 
 ## Brand Guidelines
 

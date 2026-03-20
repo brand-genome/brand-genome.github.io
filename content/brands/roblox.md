@@ -2,11 +2,11 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-03-13T09:22:53.409272"
+date: "2026-03-20T08:22:04.311311"
 draft: false
 sectors:
-  - software
   - gaming
+  - software
 regions:
   - usa
 years:
@@ -28,14 +28,16 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - roblox
   - "roblox-studio"
+  - roblox
 products: []
 headquarters_locations:
   - "san-mateo"
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - grey
-  - white
   - red
+  - white
+  - grey
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: American video game developer
@@ -76,10 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brands.roblox.com/](https://brands.roblox.com/)
-- [https://corp.roblox.com/](https://corp.roblox.com/)
-- [https://create.roblox.com/](https://create.roblox.com/)
-- [https://www.roblox.com/](https://www.roblox.com/)
+- [https://www.roblox.com](https://www.roblox.com)
+- [https://corp.roblox.com](https://corp.roblox.com)
+- [https://brands.roblox.com](https://brands.roblox.com)
+- [https://create.roblox.com](https://create.roblox.com)
 
 ## Brand Guidelines
 
@@ -115,7 +117,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Roblox](/products_or_materials_produced/roblox/); [Roblox Studio](/products_or_materials_produced/roblox-studio/) |
+| Product Or Material Produced | [Roblox Studio](/products_or_materials_produced/roblox-studio/); [Roblox](/products_or_materials_produced/roblox/) |
 | Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/) |
 | Foundation Date | [2004](/foundation_dates/2004/) |
 | Inception | 2004 |

@@ -2,7 +2,7 @@
 title: ERA
 slug: era
 description: ""
-date: "2026-03-13T09:22:55.144701"
+date: "2026-03-20T08:22:05.845337"
 draft: false
 sectors:
   - "real-estate"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1913
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,21 +54,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
   - navy
+  - white
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - white
 typographies:
-  - arial
   - helvetica
+  - arial
   - gotham
 imagery_styles:
+  - bold
+  - dynamic
   - monochrome
   - modern
-  - dynamic
-  - bold
 wikidata_description: public research university in the Netherlands
 wikidata_url: "https://www.wikidata.org/wiki/Q633529"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.erafrance.com/](https://www.erafrance.com/)
-- [https://www.eraimmobilier.com/](https://www.eraimmobilier.com/)
+- [https://www.erafrance.com](https://www.erafrance.com)
+- [https://www.eraimmobilier.com](https://www.eraimmobilier.com)
+- [http://www.eur.nl](http://www.eur.nl)
 
 ## Brand Guidelines
 

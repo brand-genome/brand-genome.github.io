@@ -2,7 +2,7 @@
 title: HRCI
 slug: hrci
 description: ""
-date: "2026-03-13T09:22:53.302927"
+date: "2026-03-20T08:22:04.221738"
 draft: false
 sectors:
   - education
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1973
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +52,8 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies:
-  - avenir
   - impact
+  - avenir
 imagery_styles: []
 wikidata_description: private certification body
 wikidata_url: "https://www.wikidata.org/wiki/Q115300928"
@@ -64,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hrci.org](https://www.hrci.org)
+- [https://www.business.hrci.org](https://www.business.hrci.org)
 - [http://www.hrci.org](http://www.hrci.org)
-- [https://www.business.hrci.org/](https://www.business.hrci.org/)
-- [https://www.hrci.org/](https://www.hrci.org/)
 
 ## Brand Guidelines
 

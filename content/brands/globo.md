@@ -2,7 +2,7 @@
 title: Globo
 slug: globo
 description: ""
-date: "2026-03-13T09:22:53.435848"
+date: "2026-03-20T08:22:04.339322"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - portuguese
 tags:
+  - broadcast
   - featured
   - media
-  - broadcast
 industries: []
 countries:
   - brazil
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1965
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +54,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,11 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://g1.globo.com/](https://g1.globo.com/)
-- [https://ge.globo.com/](https://ge.globo.com/)
-- [https://globoplay.globo.com/](https://globoplay.globo.com/)
-- [https://www.globo.com.br/](https://www.globo.com.br/)
-- [https://www.globo.com/](https://www.globo.com/)
+- [https://www.globo.com](https://www.globo.com)
+- [https://www.globo.com.br](https://www.globo.com.br)
+- [https://g1.globo.com](https://g1.globo.com)
+- [https://ge.globo.com](https://ge.globo.com)
+- [https://globoplay.globo.com](https://globoplay.globo.com)
+- [http://redeglobo.globo.com](http://redeglobo.globo.com)
 
 ## Brand Guidelines
 

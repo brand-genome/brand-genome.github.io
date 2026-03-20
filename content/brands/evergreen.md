@@ -2,11 +2,11 @@
 title: Evergreen
 slug: evergreen
 description: ""
-date: "2026-03-13T09:22:52.323540"
+date: "2026-03-20T08:22:03.391632"
 draft: false
 sectors:
-  - "renewable-energy"
   - ngo
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - ngo
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,18 +56,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies:
   - arial
-  - georgia
   - avenir
+  - georgia
 imagery_styles:
-  - photography
-  - natural
   - bold
   - graphic
+  - natural
+  - photography
 wikidata_description: public liberal arts college in Washington State
 wikidata_url: "https://www.wikidata.org/wiki/Q941731"
 has_twitter: false
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.EvergreenAction.com](http://www.EvergreenAction.com)
-- [https://evergreenaction.com/](https://evergreenaction.com/)
-- [https://www.evergreenaction.com/](https://www.evergreenaction.com/)
+- [https://evergreenaction.com](https://evergreenaction.com)
+- [https://www.evergreenaction.com](https://www.evergreenaction.com)
+- [http://www.evergreenaction.com](http://www.evergreenaction.com)
+- [https://www.evergreen.edu](https://www.evergreen.edu)
 
 ## Brand Guidelines
 

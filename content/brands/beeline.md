@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-03-13T09:22:54.826610"
+date: "2026-03-20T08:22:05.588781"
 draft: false
 sectors:
   - telecom
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,23 +53,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
   - silver
-  - gray
-  - grey
-  - yellow
-  - black
   - red
   - white
+  - grey
+  - gray
+  - yellow
+  - black
 typographies:
-  - serif
   - verdana
+  - serif
 imagery_styles:
-  - modern
   - bold
+  - modern
 wikidata_description: telecommunications brand initially introduced in 1993 in Russia
 wikidata_url: "https://www.wikidata.org/wiki/Q402880"
 has_twitter: false
@@ -79,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://beeline.ru/](https://beeline.ru/)
+- [https://beeline.ru](https://beeline.ru)
+- [https://www.beeline.ru](https://www.beeline.ru)
 
 ## Brand Guidelines
 

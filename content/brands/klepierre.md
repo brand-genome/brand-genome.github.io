@@ -2,7 +2,7 @@
 title: Klepierre
 slug: klepierre
 description: ""
-date: "2026-03-13T09:22:55.164256"
+date: "2026-03-20T08:22:05.865441"
 draft: false
 sectors:
   - "real-estate"
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.klepierre.com/](https://www.klepierre.com/)
+- [https://www.klepierre.com](https://www.klepierre.com)
 - [https://www.klepierre.com/en](https://www.klepierre.com/en)
 - [https://www.klepierre.com/finance/investisseurs](https://www.klepierre.com/finance/investisseurs)
 

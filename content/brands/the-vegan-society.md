@@ -2,7 +2,7 @@
 title: The Vegan Society
 slug: "the-vegan-society"
 description: ""
-date: "2026-03-13T09:22:52.323290"
+date: "2026-03-20T08:22:03.391140"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - charity
+  - community
 industries: []
 countries:
   - "united-kingdom"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1944
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vegansociety.com/](https://www.vegansociety.com/)
+- [https://www.vegansociety.com](https://www.vegansociety.com)
 
 ## Brand Guidelines
 

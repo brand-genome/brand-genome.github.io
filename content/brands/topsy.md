@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-03-13T09:22:53.156867"
+date: "2026-03-20T08:22:04.142207"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,15 +48,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - horizontal
+  - secondary
 brand_colors:
   - blue
 typographies:
   - slab
 imagery_styles:
-  - dynamic
   - product
+  - dynamic
 wikidata_description: song
 wikidata_url: "https://www.wikidata.org/wiki/Q7825177"
 has_twitter: false
@@ -67,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.tonicorp.com](http://www.tonicorp.com)
+- [https://www.tonicorp.com/marca/topsy](https://www.tonicorp.com/marca/topsy)
 - [https://www.tonicorp.com/helados.html](https://www.tonicorp.com/helados.html)
-- [https://www.tonicorp.com/marca/topsy/](https://www.tonicorp.com/marca/topsy/)
+- [http://www.tonicorp.com](http://www.tonicorp.com)
 
 ## Brand Guidelines
 

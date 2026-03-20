@@ -2,11 +2,11 @@
 title: Papyrus
 slug: papyrus
 description: ""
-date: "2026-03-13T09:22:52.251350"
+date: "2026-03-20T08:22:03.314762"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.papyrus-uk.org/](https://www.papyrus-uk.org/)
+- [https://www.papyrus-uk.org](https://www.papyrus-uk.org)
+- [http://eclipse.org/papyrus](http://eclipse.org/papyrus)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Auckland Council
 slug: "auckland-council"
 description: ""
-date: "2026-03-13T09:22:52.883259"
+date: "2026-03-20T08:22:03.875642"
 draft: false
 sectors:
-  - utilities
   - "public-sector"
+  - utilities
 regions:
   - "new-zealand"
 years:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +66,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.aucklandcouncil.govt.nz](https://www.aucklandcouncil.govt.nz)
+- [https://akhaveyoursay.aucklandcouncil.govt.nz](https://akhaveyoursay.aucklandcouncil.govt.nz)
+- [https://knowledgeauckland.org.nz/home](https://knowledgeauckland.org.nz/home)
 - [http://www.futurefit.nz](http://www.futurefit.nz)
 - [http://www.govt.nz](http://www.govt.nz)
 - [http://www.ourauckland.nz](http://www.ourauckland.nz)
-- [https://akhaveyoursay.aucklandcouncil.govt.nz/](https://akhaveyoursay.aucklandcouncil.govt.nz/)
-- [https://knowledgeauckland.org.nz/home/](https://knowledgeauckland.org.nz/home/)
-- [https://www.aucklandcouncil.govt.nz/](https://www.aucklandcouncil.govt.nz/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: American Forests
 slug: "american-forests"
 description: ""
-date: "2026-03-13T09:22:51.887803"
+date: "2026-03-20T08:22:03.060859"
 draft: false
 sectors:
   - "forestry-timber"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - environment
+  - featured
 industries:
   - environment
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://americanforests.org/](http://americanforests.org/)
+- [http://americanforests.org](http://americanforests.org)
 - [http://www.americanforests.org](http://www.americanforests.org)
 
 ## Brand Guidelines

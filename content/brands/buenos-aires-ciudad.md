@@ -2,7 +2,7 @@
 title: Buenos Aires Ciudad
 slug: "buenos-aires-ciudad"
 description: ""
-date: "2026-03-13T09:22:53.706174"
+date: "2026-03-20T08:22:04.561687"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,13 +48,13 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors:
-  - black
-  - cyan
   - yellow
   - white
+  - black
+  - cyan
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://buenosaires.gob.ar/](https://buenosaires.gob.ar/)
+- [https://buenosaires.gob.ar](https://buenosaires.gob.ar)
 
 ## Brand Guidelines
 

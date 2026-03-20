@@ -2,7 +2,7 @@
 title: Allentown
 slug: allentown
 description: ""
-date: "2026-03-13T09:22:53.067927"
+date: "2026-03-20T08:22:04.060657"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - city
-  - featured
   - regional
+  - featured
+  - city
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1762
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://allinspiring.allentownpa.gov/](https://allinspiring.allentownpa.gov/)
-- [https://www.allentownpa.gov/](https://www.allentownpa.gov/)
+- [https://www.allentownpa.gov](https://www.allentownpa.gov)
+- [https://allinspiring.allentownpa.gov](https://allinspiring.allentownpa.gov)
+- [http://www.allentownpa.gov](http://www.allentownpa.gov)
 
 ## Brand Guidelines
 

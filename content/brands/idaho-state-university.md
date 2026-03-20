@@ -2,7 +2,7 @@
 title: Idaho State University
 slug: "idaho-state-university"
 description: ""
-date: "2026-03-13T09:22:53.303525"
+date: "2026-03-20T08:22:04.221970"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1901
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,25 +53,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors:
-  - black
   - gray
   - white
   - orange
+  - black
 typographies:
-  - serif
+  - slab
   - "sans-serif"
   - display
-  - slab
+  - serif
 imagery_styles:
-  - photography
   - bold
   - clean
+  - photography
 wikidata_description: "research university in eastern Idaho, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q1656608"
 has_twitter: false
@@ -81,8 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/](http://www.google.com/)
-- [https://www.isu.edu/](https://www.isu.edu/)
+- [https://www.isu.edu](https://www.isu.edu)
+- [http://www.google.com](http://www.google.com)
+- [http://www.isu.edu](http://www.isu.edu)
 
 ## Brand Guidelines
 

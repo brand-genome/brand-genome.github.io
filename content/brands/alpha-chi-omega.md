@@ -2,11 +2,11 @@
 title: Alpha Chi Omega
 slug: "alpha-chi-omega"
 description: ""
-date: "2026-03-13T09:22:54.225095"
+date: "2026-03-20T08:22:05.061983"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

@@ -2,7 +2,7 @@
 title: Vision
 slug: vision
 description: ""
-date: "2026-03-13T09:22:54.731303"
+date: "2026-03-20T08:22:05.528418"
 draft: false
 sectors:
   - tourism
@@ -32,6 +32,8 @@ subsidiaries: []
 foundation_dates:
   - 1992
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,31 +52,31 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - wordmark
+  - primary
 brand_colors:
-  - grey
-  - black
-  - white
   - red
-  - blue
   - "pantone-485"
+  - white
+  - grey
+  - blue
+  - black
   - "pantone-3252"
 typographies:
-  - "proxima-nova"
   - arial
+  - "proxima-nova"
 imagery_styles:
-  - modern
-  - natural
-  - candid
-  - vibrant
   - dynamic
-  - clean
+  - candid
   - colorful
+  - graphic
   - professional
   - bold
-  - graphic
+  - modern
+  - natural
+  - clean
+  - vibrant
 wikidata_description: Polish film production company
 wikidata_url: "https://www.wikidata.org/wiki/Q9368919"
 has_twitter: false
@@ -88,6 +90,7 @@ visual_term_image_urls: {}
 
 - [http://www.visiontravel.ca](http://www.visiontravel.ca)
 - [https://visionvoyages.ca](https://visionvoyages.ca)
+- [http://www.vision.pl](http://www.vision.pl)
 
 ## Brand Guidelines
 

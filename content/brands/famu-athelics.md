@@ -2,11 +2,11 @@
 title: FAMU Athelics
 slug: "famu-athelics"
 description: ""
-date: "2026-03-13T09:22:53.700921"
+date: "2026-03-20T08:22:04.556181"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,12 +48,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - black
   - green
   - orange
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://famuathletics.com/](https://famuathletics.com/)
-- [https://www.famu.edu/](https://www.famu.edu/)
+- [https://famuathletics.com](https://famuathletics.com)
+- [https://www.famu.edu](https://www.famu.edu)
 
 ## Brand Guidelines
 

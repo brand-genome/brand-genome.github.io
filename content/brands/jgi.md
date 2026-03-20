@@ -2,7 +2,7 @@
 title: JGI
 slug: jgi
 description: ""
-date: "2026-03-13T09:22:54.133575"
+date: "2026-03-20T08:22:04.970530"
 draft: false
 sectors:
   - research
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - gray
-  - black
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -73,9 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://jgi.doe.gov](https://jgi.doe.gov)
+- [https://genome.jgi.doe.gov](https://genome.jgi.doe.gov)
 - [http://www.doe.gov](http://www.doe.gov)
-- [https://genome.jgi.doe.gov/](https://genome.jgi.doe.gov/)
-- [https://jgi.doe.gov/](https://jgi.doe.gov/)
+- [https://www.eclipse.org/jgit](https://www.eclipse.org/jgit)
 
 ## Brand Guidelines
 

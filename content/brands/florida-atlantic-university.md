@@ -2,16 +2,16 @@
 title: Florida Atlantic University
 slug: "florida-atlantic-university"
 description: ""
-date: "2026-03-13T09:22:52.331379"
+date: "2026-03-20T08:22:03.399861"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
+  - 2014
   - 2020
   - 2024
-  - 2014
 languages:
   - english
 tags:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,34 +55,34 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - seal
+  - secondary
+  - horizontal
   - monogram
   - wordmark
   - primary
-  - stacked
-  - secondary
-  - seal
-  - horizontal
 brand_colors:
-  - "pantone-877"
   - silver
+  - red
   - "pantone-320"
-  - blue
+  - teal
   - "pantone-200"
+  - white
+  - "pantone-7689"
+  - blue
   - gray
+  - "pantone-428"
   - "pantone-295"
   - black
-  - teal
-  - red
-  - "pantone-7689"
-  - white
-  - "pantone-428"
+  - "pantone-877"
 typographies:
-  - serif
   - optima
+  - serif
 imagery_styles:
   - classic
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: "public university in Boca Raton, Florida"
 wikidata_url: "https://www.wikidata.org/wiki/Q429863"
 has_twitter: false
@@ -92,8 +94,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fau.edu](https://www.fau.edu)
 - [http://www.fau.edu/otlm](http://www.fau.edu/otlm)
-- [https://www.fau.edu/](https://www.fau.edu/)
+- [http://www.fau.edu](http://www.fau.edu)
 
 ## Brand Guidelines
 

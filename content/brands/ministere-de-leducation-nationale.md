@@ -2,11 +2,11 @@
 title: Ministère de l’Éducation Nationale
 slug: "ministere-de-leducation-nationale"
 description: ""
-date: "2026-03-13T09:22:55.039227"
+date: "2026-03-20T08:22:05.742022"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.education.gouv.fr/](https://www.education.gouv.fr/)
+- [https://www.education.gouv.fr](https://www.education.gouv.fr)
 
 ## Brand Guidelines
 

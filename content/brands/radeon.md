@@ -2,7 +2,7 @@
 title: Radeon
 slug: radeon
 description: ""
-date: "2026-03-13T09:22:55.150492"
+date: "2026-03-20T08:22:05.850027"
 draft: false
 sectors:
   - electronics
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,6 +66,7 @@ visual_term_image_urls: {}
 
 - [https://www.amd.com/en/graphics/radeon-rx-graphics](https://www.amd.com/en/graphics/radeon-rx-graphics)
 - [https://www.amd.com/en/support](https://www.amd.com/en/support)
+- [https://www.radeon.com](https://www.radeon.com)
 
 ## Brand Guidelines
 

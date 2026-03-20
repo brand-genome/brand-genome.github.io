@@ -2,7 +2,7 @@
 title: Gijon
 slug: gijon
 description: ""
-date: "2026-03-13T09:22:54.224961"
+date: "2026-03-20T08:22:05.061840"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.gijon.es](http://www.gijon.es)
 - [https://www.gijon.es](https://www.gijon.es)
+- [http://www.gijon.es](http://www.gijon.es)
 
 ## Brand Guidelines
 

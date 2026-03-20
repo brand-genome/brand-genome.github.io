@@ -2,11 +2,11 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-03-13T09:22:54.985248"
+date: "2026-03-20T08:22:05.715505"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - brazil
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - brasilia
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,17 +52,17 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - "pantone-144"
   - silver
-  - orange
-  - black
-  - blue
   - gold
   - white
   - "pantone-288"
+  - blue
+  - "pantone-144"
+  - orange
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
   - verdana
 imagery_styles:
   - bold
@@ -77,10 +78,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://portal.ac.senac.br/](https://portal.ac.senac.br/)
-- [https://www.ba.senac.br/](https://www.ba.senac.br/)
-- [https://www.senac.br/](https://www.senac.br/)
-- [https://www.sp.senac.br/](https://www.sp.senac.br/)
+- [https://www.senac.br](https://www.senac.br)
+- [https://www.sp.senac.br](https://www.sp.senac.br)
+- [https://www.ba.senac.br](https://www.ba.senac.br)
+- [https://portal.ac.senac.br](https://portal.ac.senac.br)
+- [http://www.senac.br](http://www.senac.br)
 
 ## Brand Guidelines
 

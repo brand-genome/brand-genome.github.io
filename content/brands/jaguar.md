@@ -2,7 +2,7 @@
 title: Jaguar
 slug: jaguar
 description: ""
-date: "2026-03-13T09:22:53.938021"
+date: "2026-03-20T08:22:04.860908"
 draft: false
 sectors:
   - automobile
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1934
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,20 +54,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - black
   - silver
-  - white
   - red
+  - white
+  - black
 typographies:
   - arial
   - gotham
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: former British car company
 wikidata_url: "https://www.wikidata.org/wiki/Q30055"
 has_twitter: false
@@ -77,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jaguar.co.uk/](https://www.jaguar.co.uk/)
-- [https://www.jaguar.com/](https://www.jaguar.com/)
-- [https://www.jlr.com/en/brands/jaguar/](https://www.jlr.com/en/brands/jaguar/)
+- [https://www.jaguar.com](https://www.jaguar.com)
+- [https://www.jaguar.co.uk](https://www.jaguar.co.uk)
+- [https://www.jlr.com/en/brands/jaguar](https://www.jlr.com/en/brands/jaguar)
 
 ## Brand Guidelines
 

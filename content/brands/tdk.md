@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-03-13T09:22:54.792749"
+date: "2026-03-20T08:22:05.566371"
 draft: false
 sectors:
   - electronics
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1935
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +53,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - gray
   - white
   - "pantone-876"
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - product
   - gradient
+  - photography
 wikidata_description: Japanese multinational electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q855479"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tdk.com/](https://www.tdk.com/)
+- [https://www.tdk.com](https://www.tdk.com)
+- [http://www.global.tdk.com](http://www.global.tdk.com)
 
 ## Brand Guidelines
 

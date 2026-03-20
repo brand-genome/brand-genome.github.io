@@ -2,12 +2,12 @@
 title: Food Forever
 slug: "food-forever"
 description: ""
-date: "2026-03-13T09:22:53.425075"
+date: "2026-03-20T08:22:04.327983"
 draft: false
 sectors:
-  - research
   - food
   - ngo
+  - research
 regions:
   - germany
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - agriculture
   - "food-beverage"
+  - agriculture
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - colorful
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.croptrust.org/](https://www.croptrust.org/)
-- [https://www.foodforever.org/](https://www.foodforever.org/)
+- [https://www.croptrust.org](https://www.croptrust.org)
+- [https://www.foodforever.org](https://www.foodforever.org)
 
 ## Brand Guidelines
 

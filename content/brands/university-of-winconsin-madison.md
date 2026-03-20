@@ -2,7 +2,7 @@
 title: "University of Winconsin-Madison"
 slug: "university-of-winconsin-madison"
 description: ""
-date: "2026-03-13T09:22:55.040885"
+date: "2026-03-20T08:22:05.743393"
 draft: false
 sectors:
   - university
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://admissions.wisc.edu/](https://admissions.wisc.edu/)
-- [https://www.wisc.edu/](https://www.wisc.edu/)
+- [https://www.wisc.edu](https://www.wisc.edu)
+- [https://admissions.wisc.edu](https://admissions.wisc.edu)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Modelo
 slug: modelo
 description: ""
-date: "2026-03-13T09:22:52.461210"
+date: "2026-03-20T08:22:03.505469"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - mexico
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - argentina
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,9 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.grupomodelo.com/](https://www.grupomodelo.com/)
-- [https://www.modelousa.com/](https://www.modelousa.com/)
-- [https://www.modelousa.com/es/](https://www.modelousa.com/es/)
+- [https://www.modelousa.com](https://www.modelousa.com)
+- [https://www.modelousa.com/es](https://www.modelousa.com/es)
+- [https://www.grupomodelo.com](https://www.grupomodelo.com)
+- [https://educativomodelo.edu.ar/wp](https://educativomodelo.edu.ar/wp)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Hautes-Alpes"
 slug: "hautes-alpes"
 description: ""
-date: "2026-03-13T09:22:53.703950"
+date: "2026-03-20T08:22:04.559498"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1790
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +52,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - brandon
   - ubuntu
@@ -68,7 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.HAUTES-ALPES.NET](http://www.HAUTES-ALPES.NET)
+- [https://www.hautes-alpes.net](https://www.hautes-alpes.net)
+- [https://www.hautes-alpes.net/en](https://www.hautes-alpes.net/en)
+- [https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html](https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html)
+- [https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes](https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes)
+- [https://plus.hautes-alpes.net/mentions-legales](https://plus.hautes-alpes.net/mentions-legales)
+- [http://www.hautes-alpes.net](http://www.hautes-alpes.net)
 - [http://www.blanche-serre-poncon.com](http://www.blanche-serre-poncon.com)
 - [http://www.camping-iscledeprelles.com](http://www.camping-iscledeprelles.com)
 - [http://www.champsaur-valgaudemar.com](http://www.champsaur-valgaudemar.com)
@@ -89,11 +96,8 @@ visual_term_image_urls: {}
 - [http://www.tourisme-lavallouise.com](http://www.tourisme-lavallouise.com)
 - [http://www.tourisme-veynois.com](http://www.tourisme-veynois.com)
 - [http://www.vars.com](http://www.vars.com)
-- [https://plus.hautes-alpes.net/mentions-legales/](https://plus.hautes-alpes.net/mentions-legales/)
-- [https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes/](https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes/)
-- [https://www.hautes-alpes.net/](https://www.hautes-alpes.net/)
-- [https://www.hautes-alpes.net/en/](https://www.hautes-alpes.net/en/)
-- [https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html](https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html)
+- [https://www.hautes-alpes.gouv.fr](https://www.hautes-alpes.gouv.fr)
+- [https://www.hautes-alpes.fr](https://www.hautes-alpes.fr)
 
 ## Brand Guidelines
 

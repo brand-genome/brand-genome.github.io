@@ -2,7 +2,7 @@
 title: FIS
 slug: fis
 description: ""
-date: "2026-03-13T09:22:55.082906"
+date: "2026-03-20T08:22:05.786084"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1924
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +52,13 @@ body_sections: []
 logo_elements:
   - emblem
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - frutiger
 imagery_styles:
-  - dynamic
   - bold
+  - dynamic
 wikidata_description: international sports governing body organizing skiing
 wikidata_url: "https://www.wikidata.org/wiki/Q212928"
 has_twitter: false
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fis-ski.com/](https://www.fis-ski.com/)
+- [https://www.fis-ski.com](https://www.fis-ski.com)
+- [http://www.fis-ski.com](http://www.fis-ski.com)
 
 ## Brand Guidelines
 

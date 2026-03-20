@@ -2,11 +2,11 @@
 title: Colombia — Challenge Your Knowledge
 slug: "colombia-challenge-your-knowledge"
 description: ""
-date: "2026-03-13T09:22:53.396416"
+date: "2026-03-20T08:22:04.299833"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - colombia
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - geometric
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ccyk.com.co/](https://www.ccyk.com.co/)
+- [https://www.ccyk.com.co](https://www.ccyk.com.co)
 
 ## Brand Guidelines
 

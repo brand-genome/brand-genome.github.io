@@ -2,7 +2,7 @@
 title: Louis Armstrong New Orleans International Airport
 slug: "louis-armstrong-new-orleans-international-airport"
 description: ""
-date: "2026-03-13T09:22:51.918577"
+date: "2026-03-20T08:22:03.076052"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries:
   - "united-states"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,28 +49,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - "pantone-4205"
-  - gray
   - "pantone-1225"
-  - pink
-  - "pantone-7625"
-  - "pantone-503"
-  - "pantone-7452"
   - white
   - "pantone-7728"
+  - gray
+  - "pantone-503"
+  - "pantone-4205"
+  - "pantone-7452"
+  - pink
+  - "pantone-7625"
 typographies:
-  - serif
-  - trebuchet
   - "sans-serif"
+  - trebuchet
+  - serif
 imagery_styles:
+  - bold
   - dynamic
   - modern
-  - bold
 wikidata_description: "airport near New Orleans, LA, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q1461076"
 has_twitter: false
@@ -81,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://flymsy.com/](https://flymsy.com/)
+- [https://flymsy.com](https://flymsy.com)
 
 ## Brand Guidelines
 

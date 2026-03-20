@@ -2,7 +2,7 @@
 title: Sigma Kappa
 slug: "sigma-kappa"
 description: ""
-date: "2026-03-13T09:22:54.717000"
+date: "2026-03-20T08:22:05.515976"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

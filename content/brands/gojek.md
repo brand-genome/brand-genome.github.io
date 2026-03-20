@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-03-13T09:22:52.829904"
+date: "2026-03-20T08:22:03.839594"
 draft: false
 sectors:
-  - software
   - finance
   - "ride-sharing"
+  - software
 regions:
   - indonesia
 years:
@@ -18,8 +18,8 @@ tags:
   - featured
   - financial
 industries:
-  - "software-industry"
   - "online-taxi-service"
+  - "software-industry"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,13 +70,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gojek.com](https://www.gojek.com)
+- [https://www.gojek.com/goride](https://www.gojek.com/goride)
+- [https://www.gojek.com/en-id/help](https://www.gojek.com/en-id/help)
 - [http://www.gojek.com](http://www.gojek.com)
 - [http://www.instagram.com/gojekindonesia](http://www.instagram.com/gojekindonesia)
 - [http://www.linkedin.com/company/gojek](http://www.linkedin.com/company/gojek)
 - [http://www.youtube.com/user/gojekindonesia](http://www.youtube.com/user/gojekindonesia)
-- [https://www.gojek.com/](https://www.gojek.com/)
-- [https://www.gojek.com/en-id/help/](https://www.gojek.com/en-id/help/)
-- [https://www.gojek.com/goride/](https://www.gojek.com/goride/)
 
 ## Brand Guidelines
 

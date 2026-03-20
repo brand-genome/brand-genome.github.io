@@ -2,7 +2,7 @@
 title: Premiership Rugby
 slug: "premiership-rugby"
 description: ""
-date: "2026-03-13T09:22:53.067583"
+date: "2026-03-20T08:22:04.060153"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
   - secondary
-  - badge
   - horizontal
+  - primary
+  - badge
 brand_colors:
-  - purple
-  - green
   - red
+  - green
   - gold
+  - purple
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: top division of the English rugby union system
 wikidata_url: "https://www.wikidata.org/wiki/Q5960"
 has_twitter: false
@@ -73,10 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://premiershiprugby.com/about/contact-us](https://premiershiprugby.com/about/contact-us)
-- [https://www.premiershiprugby.com/](https://www.premiershiprugby.com/)
-- [https://www.premiershiprugby.com/competitions/prem-rugby-cup/latest](https://www.premiershiprugby.com/competitions/prem-rugby-cup/latest)
+- [https://www.premiershiprugby.com](https://www.premiershiprugby.com)
 - [https://www.premiershiprugby.com/contact-us](https://www.premiershiprugby.com/contact-us)
+- [https://premiershiprugby.com/about/contact-us](https://premiershiprugby.com/about/contact-us)
+- [https://www.premiershiprugby.com/competitions/prem-rugby-cup/latest](https://www.premiershiprugby.com/competitions/prem-rugby-cup/latest)
 
 ## Brand Guidelines
 

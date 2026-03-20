@@ -2,15 +2,15 @@
 title: HM Government
 slug: "hm-government"
 description: ""
-date: "2026-03-13T09:22:52.329898"
+date: "2026-03-20T08:22:03.397832"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - "united-kingdom"
 years:
-  - 2019
   - 2022
+  - 2019
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ headquarters_locations:
   - "10-downing-street"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,12 +65,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.GOV.UK](http://www.GOV.UK)
+- [https://www.gov.uk](https://www.gov.uk)
+- [https://hmgbrand.gcs.civilservice.gov.uk](https://hmgbrand.gcs.civilservice.gov.uk)
+- [http://www.gov.uk](http://www.gov.uk)
 - [http://www.trade.gov](http://www.trade.gov)
-- [https://hmgbrand.gcs.civilservice.gov.uk/](https://hmgbrand.gcs.civilservice.gov.uk/)
-- [https://www.gov.uk/](https://www.gov.uk/)
-- [https://www.nationalarchives.gov.uk/](https://www.nationalarchives.gov.uk/)
+- [https://www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk)
 - [https://www.yourpension.gov.uk](https://www.yourpension.gov.uk)
+- [https://gov.uk](https://gov.uk)
 
 ## Brand Guidelines
 

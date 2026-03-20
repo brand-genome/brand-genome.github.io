@@ -2,7 +2,7 @@
 title: Wilkes University
 slug: "wilkes-university"
 description: ""
-date: "2026-03-13T09:22:52.332251"
+date: "2026-03-20T08:22:03.400801"
 draft: false
 sectors:
   - university
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1933
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wilkes.edu/](https://www.wilkes.edu/)
+- [https://www.wilkes.edu](https://www.wilkes.edu)
 
 ## Brand Guidelines
 

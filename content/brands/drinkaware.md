@@ -2,11 +2,11 @@
 title: DrinkAware
 slug: drinkaware
 description: ""
-date: "2026-03-13T09:22:53.323622"
+date: "2026-03-20T08:22:04.234949"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ logo_elements:
   - primary
 brand_colors:
   - red
-  - black
   - white
+  - black
   - "pantone-200"
 typographies:
   - arial
@@ -68,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.drinkaware.co.uk](https://www.drinkaware.co.uk)
 - [http://www.beerandpub.com](http://www.beerandpub.com)
-- [https://www.drinkaware.co.uk/](https://www.drinkaware.co.uk/)
 
 ## Brand Guidelines
 

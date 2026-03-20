@@ -2,7 +2,7 @@
 title: Endeavor
 slug: endeavor
 description: ""
-date: "2026-03-13T09:22:53.329091"
+date: "2026-03-20T08:22:04.239692"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - business
+  - community
 industries:
   - "talent-agent"
 countries:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1898
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors: []
 typographies:
   - impact
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: American talent agency
 wikidata_url: "https://www.wikidata.org/wiki/Q1515039"
 has_twitter: false
@@ -68,7 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://endeavor.org/](https://endeavor.org/)
+- [https://endeavor.org](https://endeavor.org)
+- [https://www.endeavorco.com](https://www.endeavorco.com)
 
 ## Brand Guidelines
 

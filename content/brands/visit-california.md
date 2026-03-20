@@ -2,20 +2,20 @@
 title: Visit California
 slug: "visit-california"
 description: ""
-date: "2026-03-13T09:22:53.490328"
+date: "2026-03-20T08:22:04.387254"
 draft: false
 sectors:
   - tourism
 regions:
   - usa
 years:
-  - 2019
   - 2016
+  - 2019
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries:
   - tourism
 countries: []
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,32 +55,32 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-361"
-  - "pantone-7406"
-  - "pantone-2925"
+  - "pantone-7462"
+  - gold
+  - "pantone-716"
   - "pantone-540"
-  - orange
-  - black
+  - "pantone-361"
   - white
   - blue
-  - gold
-  - "pantone-7462"
-  - "pantone-716"
+  - "pantone-2925"
+  - "pantone-7406"
+  - orange
+  - black
 typographies:
-  - display
-  - gotham
   - "open-sans"
+  - gotham
   - verdana
+  - display
 imagery_styles:
-  - serious
-  - natural
-  - lifestyle
-  - clean
-  - vibrant
   - dynamic
-  - photography
-  - landscape
   - bold
+  - natural
+  - photography
+  - serious
+  - clean
+  - lifestyle
+  - landscape
+  - vibrant
 wikidata_description: tourism organization
 wikidata_url: "https://www.wikidata.org/wiki/Q21593113"
 has_twitter: false
@@ -90,8 +92,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://industry.visitcalifornia.com/](https://industry.visitcalifornia.com/)
-- [https://www.visitcalifornia.com/](https://www.visitcalifornia.com/)
+- [https://www.visitcalifornia.com](https://www.visitcalifornia.com)
+- [https://industry.visitcalifornia.com](https://industry.visitcalifornia.com)
+- [http://www.visitcalifornia.com](http://www.visitcalifornia.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Marquette Athletics
 slug: "marquette-athletics"
 description: ""
-date: "2026-03-13T09:22:55.033085"
+date: "2026-03-20T08:22:05.735573"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,20 +48,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - monogram
-  - wordmark
   - alternate
+  - wordmark
   - primary
   - mascot
-  - secondary
 brand_colors:
-  - "pantone-281"
-  - black
   - "pantone-123"
-  - "pantone-124"
-  - blue
   - gold
   - white
+  - "pantone-281"
+  - blue
+  - "pantone-124"
+  - black
 typographies:
   - display
 imagery_styles:
@@ -76,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gomarquette.be/](https://gomarquette.be/)
-- [https://gomarquette.com/](https://gomarquette.com/)
+- [https://gomarquette.com](https://gomarquette.com)
+- [https://gomarquette.be](https://gomarquette.be)
 
 ## Brand Guidelines
 

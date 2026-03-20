@@ -2,17 +2,17 @@
 title: Capital Power
 slug: "capital-power"
 description: ""
-date: "2026-03-13T09:22:54.339267"
+date: "2026-03-20T08:22:05.165925"
 draft: false
 sectors:
-  - gas
   - utilities
   - "renewable-energy"
+  - gas
 regions:
   - canada
 years:
-  - 2019
   - 2014
+  - 2019
 languages:
   - english
 tags:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,26 +55,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
   - secondary
   - horizontal
+  - wordmark
+  - primary
+  - icon
 brand_colors:
-  - gray
-  - yellow
-  - blue
   - green
   - white
+  - blue
+  - gray
+  - yellow
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
-  - professional
   - bold
   - clean
+  - photography
+  - professional
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1034651"
 has_twitter: false
@@ -84,7 +86,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.capitalpower.com/](https://www.capitalpower.com/)
+- [https://www.capitalpower.com](https://www.capitalpower.com)
 
 ## Brand Guidelines
 

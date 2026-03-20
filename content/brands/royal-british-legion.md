@@ -2,7 +2,7 @@
 title: Royal British Legion
 slug: "royal-british-legion"
 description: ""
-date: "2026-03-13T09:22:53.434435"
+date: "2026-03-20T08:22:04.338327"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - military
   - charity
+  - military
 industries: []
 countries:
   - "united-kingdom"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.britishlegion.org.uk/](https://www.britishlegion.org.uk/)
+- [https://www.britishlegion.org.uk](https://www.britishlegion.org.uk)
 
 ## Brand Guidelines
 

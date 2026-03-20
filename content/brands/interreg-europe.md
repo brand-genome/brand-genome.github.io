@@ -2,7 +2,7 @@
 title: Interreg Europe
 slug: "interreg-europe"
 description: ""
-date: "2026-03-13T09:22:54.227680"
+date: "2026-03-20T08:22:05.065150"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/drive/](http://www.google.com/drive/)
-- [https://interreg.eu/programmes/interreg-europe/](https://interreg.eu/programmes/interreg-europe/)
-- [https://www.interregeurope.eu/](https://www.interregeurope.eu/)
-- [https://www.interregeurope.eu/about-us/logo/](https://www.interregeurope.eu/about-us/logo/)
+- [https://www.interregeurope.eu](https://www.interregeurope.eu)
+- [https://www.interregeurope.eu/about-us/logo](https://www.interregeurope.eu/about-us/logo)
+- [https://interreg.eu/programmes/interreg-europe](https://interreg.eu/programmes/interreg-europe)
+- [http://www.google.com/drive](http://www.google.com/drive)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: NATO / OTAN
 slug: "nato-otan"
 description: ""
-date: "2026-03-13T09:22:54.821181"
+date: "2026-03-20T08:22:05.583866"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - international
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,9 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nato.int](https://www.nato.int)
+- [https://www.nato.org](https://www.nato.org)
 - [http://www.nato.int](http://www.nato.int)
-- [https://www.nato.int/](https://www.nato.int/)
-- [https://www.nato.org/](https://www.nato.org/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Holden
 slug: holden
 description: ""
-date: "2026-03-13T09:22:54.567525"
+date: "2026-03-20T08:22:05.414008"
 draft: false
 sectors:
   - automobile
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1856
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.holden.com.au/](https://www.holden.com.au/)
+- [https://www.holden.com.au](https://www.holden.com.au)
 
 ## Brand Guidelines
 

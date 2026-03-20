@@ -2,7 +2,7 @@
 title: Brandwerk Leipzig
 slug: "brandwerk-leipzig"
 description: ""
-date: "2026-03-13T09:22:53.076212"
+date: "2026-03-20T08:22:04.072601"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - packaging
   - "food-beverage"
+  - packaging
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ body_sections: []
 logo_elements:
   - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - product
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brandwerk-leipzig.de/](https://brandwerk-leipzig.de/)
+- [https://brandwerk-leipzig.de](https://brandwerk-leipzig.de)
 
 ## Brand Guidelines
 

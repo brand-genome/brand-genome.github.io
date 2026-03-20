@@ -2,12 +2,12 @@
 title: Enoc
 slug: enoc
 description: ""
-date: "2026-03-13T09:22:52.317244"
+date: "2026-03-20T08:22:03.385209"
 draft: false
 sectors:
   - gas
-  - oil
   - "petrol-station"
+  - oil
 regions:
   - dubai
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.enoc.com/en/](https://www.enoc.com/en/)
+- [https://www.enoc.com/en](https://www.enoc.com/en)
+- [http://www.enoc.com](http://www.enoc.com)
 
 ## Brand Guidelines
 

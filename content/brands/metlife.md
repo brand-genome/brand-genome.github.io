@@ -2,7 +2,7 @@
 title: MetLife
 slug: metlife
 description: ""
-date: "2026-03-13T09:22:53.022494"
+date: "2026-03-20T08:22:04.015025"
 draft: false
 sectors:
   - insurance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
   - "insurance-industry"
 countries:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,8 +61,8 @@ brand_colors:
 typographies: []
 imagery_styles:
   - portrait
-  - photography
   - landscape
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q109559783"
 has_twitter: false
@@ -72,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.metlife.com/](https://www.metlife.com/)
+- [https://www.metlife.com](https://www.metlife.com)
 
 ## Brand Guidelines
 

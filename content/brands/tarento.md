@@ -2,7 +2,7 @@
 title: Tarento
 slug: tarento
 description: ""
-date: "2026-03-13T09:22:53.713932"
+date: "2026-03-20T08:22:04.662056"
 draft: false
 sectors:
   - consulting
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
   - navy
+  - grey
 typographies:
   - display
 imagery_styles: []
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tarento.com/](https://www.tarento.com/)
-- [https://www.tarento.com/us/](https://www.tarento.com/us/)
+- [https://www.tarento.com](https://www.tarento.com)
+- [https://www.tarento.com/us](https://www.tarento.com/us)
 
 ## Brand Guidelines
 

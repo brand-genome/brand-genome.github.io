@@ -2,11 +2,11 @@
 title: Dammam Airports Company
 slug: "dammam-airports-company"
 description: ""
-date: "2026-03-13T09:22:52.175000"
+date: "2026-03-20T08:22:03.241828"
 draft: false
 sectors:
-  - "public-transportation"
   - aerospace
+  - "public-transportation"
 regions:
   - "saudi-arabia"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - purple
-  - "pantone-299"
-  - gray
-  - "pantone-267"
-  - orange
-  - black
   - "pantone-2765"
   - "pantone-2024"
-  - "pantone-215"
+  - purple
+  - gray
+  - "pantone-299"
   - "pantone-3278"
+  - "pantone-215"
+  - orange
+  - "pantone-267"
+  - black
 typographies:
-  - arial
   - "sans-serif"
+  - arial
   - impact
 imagery_styles:
   - dynamic
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kfia.sa/](https://kfia.sa/)
-- [https://www.daco.sa/](https://www.daco.sa/)
+- [https://www.daco.sa](https://www.daco.sa)
+- [https://kfia.sa](https://kfia.sa)
 
 ## Brand Guidelines
 

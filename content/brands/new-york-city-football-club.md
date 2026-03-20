@@ -2,7 +2,7 @@
 title: New York City Football Club
 slug: "new-york-city-football-club"
 description: ""
-date: "2026-03-13T09:22:53.011255"
+date: "2026-03-20T08:22:04.001700"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.NYCFC.COM](http://www.NYCFC.COM)
-- [https://www.newyorkcityfc.com/](https://www.newyorkcityfc.com/)
+- [https://www.newyorkcityfc.com](https://www.newyorkcityfc.com)
+- [http://www.nycfc.com](http://www.nycfc.com)
+- [https://www.nycfc.com](https://www.nycfc.com)
 
 ## Brand Guidelines
 

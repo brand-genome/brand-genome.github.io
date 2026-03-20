@@ -2,12 +2,12 @@
 title: Nunsys
 slug: nunsys
 description: ""
-date: "2026-03-13T09:22:54.576465"
+date: "2026-03-20T08:22:05.421117"
 draft: false
 sectors:
-  - software
-  - cybersecurity
   - networking
+  - cybersecurity
+  - software
 regions:
   - spain
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +52,15 @@ logo_elements:
   - symbol
   - secondary
 brand_colors:
+  - white
   - gray
   - black
-  - magenta
   - pink
-  - white
+  - magenta
 typographies: []
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nunsys.com](https://www.nunsys.com)
+- [https://en.nunsys.com](https://en.nunsys.com)
+- [https://www.tusociotecnologico.nunsys.com](https://www.tusociotecnologico.nunsys.com)
 - [http://www.nunsys.com](http://www.nunsys.com)
-- [https://en.nunsys.com/](https://en.nunsys.com/)
-- [https://www.nunsys.com/](https://www.nunsys.com/)
-- [https://www.tusociotecnologico.nunsys.com/](https://www.tusociotecnologico.nunsys.com/)
 
 ## Brand Guidelines
 

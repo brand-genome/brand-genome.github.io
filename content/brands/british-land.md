@@ -2,7 +2,7 @@
 title: British Land
 slug: "british-land"
 description: ""
-date: "2026-03-13T09:22:55.167688"
+date: "2026-03-20T08:22:05.869849"
 draft: false
 sectors:
   - "real-estate"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,22 +51,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - wordmark
+  - primary
 brand_colors:
-  - black
   - red
   - blue
+  - black
 typographies:
   - arial
-  - georgia
   - din
+  - georgia
 imagery_styles:
+  - bold
+  - natural
   - photography
   - contemporary
-  - natural
-  - bold
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q919646"
 has_twitter: false
@@ -76,7 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.britishland.com/](https://www.britishland.com/)
+- [https://www.britishland.com](https://www.britishland.com)
+- [http://britishland.com](http://britishland.com)
 
 ## Brand Guidelines
 

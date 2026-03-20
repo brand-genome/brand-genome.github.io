@@ -2,7 +2,7 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-03-13T09:22:53.064373"
+date: "2026-03-20T08:22:04.056246"
 draft: false
 sectors:
   - electronics
@@ -10,23 +10,23 @@ sectors:
 regions:
   - usa
 years:
-  - 1987
   - 1993
+  - 1987
 languages:
   - english
 tags:
   - vintage
   - featured
-  - technology
   - software
+  - technology
 industries:
-  - "digital-distribution"
-  - "information-technology"
-  - "consumer-electronics-industry"
   - "software-development"
-  - electronics
-  - "mobile-phone-industry"
   - "software-industry"
+  - electronics
+  - "digital-distribution"
+  - "consumer-electronics-industry"
+  - "information-technology"
+  - "mobile-phone-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,26 +44,26 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
-  - "networking-hardware"
-  - software
-  - "personal-digital-assistant"
-  - mac
-  - "video-game-console"
-  - airpods
-  - ipod
-  - "ipod-touch"
-  - imac
-  - "apple-tv"
   - "computer-hardware"
   - "personal-computer"
-  - homepod
-  - smartphone
-  - "tablet-computer"
-  - "consumer-electronics"
-  - "apple-pay"
   - "apple-watch"
-  - peripheral
+  - imac
+  - mac
+  - "video-game-console"
+  - homepod
   - "wearable-computer"
+  - "apple-pay"
+  - "consumer-electronics"
+  - smartphone
+  - "ipod-touch"
+  - software
+  - "networking-hardware"
+  - peripheral
+  - "personal-digital-assistant"
+  - "tablet-computer"
+  - airpods
+  - ipod
+  - "apple-tv"
 products: []
 headquarters_locations:
   - cupertino
@@ -71,6 +71,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -89,16 +91,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
   - silver
-  - "pantone-186"
-  - gold
   - red
   - green
+  - gold
   - white
+  - "pantone-186"
 typographies:
   - garamond
   - helvetica
@@ -115,10 +117,118 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://developer.apple.com/](https://developer.apple.com/)
-- [https://support.apple.com/](https://support.apple.com/)
-- [https://www.apple.com/](https://www.apple.com/)
-- [https://www.icloud.com/](https://www.icloud.com/)
+- [https://www.apple.com](https://www.apple.com)
+- [https://developer.apple.com](https://developer.apple.com)
+- [https://support.apple.com](https://support.apple.com)
+- [https://www.icloud.com](https://www.icloud.com)
+- [https://apple.com/at](https://apple.com/at)
+- [https://apple.com/de](https://apple.com/de)
+- [https://apple.com/it](https://apple.com/it)
+- [https://apple.com/no](https://apple.com/no)
+- [https://apple.com/jp](https://apple.com/jp)
+- [https://apple.com.cn](https://apple.com.cn)
+- [https://apple.com/hu](https://apple.com/hu)
+- [https://apple.com](https://apple.com)
+- [https://apple.com/gr](https://apple.com/gr)
+- [https://apple.com/chde](https://apple.com/chde)
+- [https://apple.com/chfr](https://apple.com/chfr)
+- [https://apple.com/li](https://apple.com/li)
+- [https://apple.com/lu](https://apple.com/lu)
+- [https://apple.com/fr](https://apple.com/fr)
+- [https://apple.com/benl](https://apple.com/benl)
+- [https://apple.com/befr](https://apple.com/befr)
+- [https://apple.com/nl](https://apple.com/nl)
+- [https://mac.com](https://mac.com)
+- [https://apple.com/sg](https://apple.com/sg)
+- [https://apple.com/ph](https://apple.com/ph)
+- [https://apple.com/ca/fr](https://apple.com/ca/fr)
+- [https://apple.com/ca](https://apple.com/ca)
+- [https://apple.com/bh](https://apple.com/bh)
+- [https://apple.com/bh-ar](https://apple.com/bh-ar)
+- [https://apple.com/bw](https://apple.com/bw)
+- [https://apple.com/cm](https://apple.com/cm)
+- [https://apple.com/cf](https://apple.com/cf)
+- [https://apple.com/ci](https://apple.com/ci)
+- [https://apple.com/eg](https://apple.com/eg)
+- [https://apple.com/eg-ar](https://apple.com/eg-ar)
+- [https://apple.com/gw](https://apple.com/gw)
+- [https://apple.com/gn](https://apple.com/gn)
+- [https://apple.com/gq](https://apple.com/gq)
+- [https://apple.com/in](https://apple.com/in)
+- [https://apple.com/il](https://apple.com/il)
+- [https://apple.com/jo](https://apple.com/jo)
+- [https://apple.com/jo-ar](https://apple.com/jo-ar)
+- [https://apple.com/ke](https://apple.com/ke)
+- [https://apple.com/kw](https://apple.com/kw)
+- [https://apple.com/kw-ar](https://apple.com/kw-ar)
+- [https://apple.com/mg](https://apple.com/mg)
+- [https://apple.com/ml](https://apple.com/ml)
+- [https://apple.com/ma](https://apple.com/ma)
+- [https://apple.com/mu](https://apple.com/mu)
+- [https://apple.com/mz](https://apple.com/mz)
+- [https://apple.com/ne](https://apple.com/ne)
+- [https://apple.com/ng](https://apple.com/ng)
+- [https://apple.com/om](https://apple.com/om)
+- [https://apple.com/om-ar](https://apple.com/om-ar)
+- [https://apple.com/qa](https://apple.com/qa)
+- [https://apple.com/qa-ar](https://apple.com/qa-ar)
+- [https://apple.com/sa](https://apple.com/sa)
+- [https://apple.com/sa-ar](https://apple.com/sa-ar)
+- [https://apple.com/sn](https://apple.com/sn)
+- [https://apple.com/za](https://apple.com/za)
+- [https://apple.com/tn](https://apple.com/tn)
+- [https://apple.com/ug](https://apple.com/ug)
+- [https://apple.com/ae](https://apple.com/ae)
+- [https://apple.com/ae-ar](https://apple.com/ae-ar)
+- [https://apple.com/au](https://apple.com/au)
+- [https://apple.com/hk/en](https://apple.com/hk/en)
+- [https://apple.com/hk](https://apple.com/hk)
+- [https://apple.com/id](https://apple.com/id)
+- [https://apple.com/kr](https://apple.com/kr)
+- [https://apple.com/mo](https://apple.com/mo)
+- [https://apple.com/my](https://apple.com/my)
+- [https://apple.com/nz](https://apple.com/nz)
+- [https://apple.com/tw](https://apple.com/tw)
+- [https://apple.com/th](https://apple.com/th)
+- [https://apple.com/vn](https://apple.com/vn)
+- [https://apple.com/am](https://apple.com/am)
+- [https://apple.com/az](https://apple.com/az)
+- [https://apple.com/by](https://apple.com/by)
+- [https://apple.com/bg](https://apple.com/bg)
+- [https://apple.com/cz](https://apple.com/cz)
+- [https://apple.com/dk](https://apple.com/dk)
+- [https://apple.com/ee](https://apple.com/ee)
+- [https://apple.com/es](https://apple.com/es)
+- [https://apple.com/ge](https://apple.com/ge)
+- [https://apple.com/hr](https://apple.com/hr)
+- [https://apple.com/ie](https://apple.com/ie)
+- [https://apple.com/kz](https://apple.com/kz)
+- [https://apple.com/kg](https://apple.com/kg)
+- [https://apple.com/lv](https://apple.com/lv)
+- [https://apple.com/lt](https://apple.com/lt)
+- [https://apple.com/mt](https://apple.com/mt)
+- [https://apple.com/md](https://apple.com/md)
+- [https://apple.com/me](https://apple.com/me)
+- [https://apple.com/mk](https://apple.com/mk)
+- [https://apple.com/pl](https://apple.com/pl)
+- [https://apple.com/pt](https://apple.com/pt)
+- [https://apple.com/ro](https://apple.com/ro)
+- [https://apple.com/ru](https://apple.com/ru)
+- [https://apple.com/sk](https://apple.com/sk)
+- [https://apple.com/si](https://apple.com/si)
+- [https://apple.com/se](https://apple.com/se)
+- [https://apple.com/tj](https://apple.com/tj)
+- [https://apple.com/tr](https://apple.com/tr)
+- [https://apple.com/tm](https://apple.com/tm)
+- [https://apple.com/uk](https://apple.com/uk)
+- [https://apple.com/ua](https://apple.com/ua)
+- [https://apple.com/uz](https://apple.com/uz)
+- [https://apple.com/lae](https://apple.com/lae)
+- [https://apple.com/la](https://apple.com/la)
+- [https://apple.com/br](https://apple.com/br)
+- [https://apple.com/cl](https://apple.com/cl)
+- [https://apple.com/co](https://apple.com/co)
+- [https://apple.com/mx](https://apple.com/mx)
 
 ## Brand Guidelines
 
@@ -171,7 +281,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Mac](/products_or_materials_produced/mac/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Airpods](/products_or_materials_produced/airpods/); [Ipod](/products_or_materials_produced/ipod/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Imac](/products_or_materials_produced/imac/); [Apple Tv](/products_or_materials_produced/apple-tv/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Personal Computer](/products_or_materials_produced/personal-computer/); +8 more |
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Imac](/products_or_materials_produced/imac/); [Mac](/products_or_materials_produced/mac/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Homepod](/products_or_materials_produced/homepod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); [Smartphone](/products_or_materials_produced/smartphone/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); +8 more |
 | Headquarters Location | [Cupertino](/headquarters_locations/cupertino/); [Apple Park](/headquarters_locations/apple-park/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |

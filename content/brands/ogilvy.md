@@ -2,12 +2,12 @@
 title: Ogilvy
 slug: ogilvy
 description: ""
-date: "2026-03-13T09:22:53.069286"
+date: "2026-03-20T08:22:04.063613"
 draft: false
 sectors:
-  - consulting
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
+  - consulting
 regions:
   - usa
 years:
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - featured
+  - marketing
 industries:
+  - advertising
   - "public-relations"
   - marketing
-  - advertising
 countries:
   - "united-states"
 revenue_buckets: []
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -70,11 +72,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.OGILVY.COM](http://www.OGILVY.COM)
-- [http://www.instagram.com/Ogilvy](http://www.instagram.com/Ogilvy)
-- [https://www.ogilvy.com/](https://www.ogilvy.com/)
+- [https://www.ogilvy.com](https://www.ogilvy.com)
 - [https://www.ogilvy.com/capabilities/consulting](https://www.ogilvy.com/capabilities/consulting)
-- [https://www.ogilvyhealth.com/](https://www.ogilvyhealth.com/)
+- [https://www.ogilvyhealth.com](https://www.ogilvyhealth.com)
+- [http://www.ogilvy.com](http://www.ogilvy.com)
+- [http://www.instagram.com/Ogilvy](http://www.instagram.com/Ogilvy)
 
 ## Brand Guidelines
 

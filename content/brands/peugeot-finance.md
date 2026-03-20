@@ -2,7 +2,7 @@
 title: Peugeot Finance
 slug: "peugeot-finance"
 description: ""
-date: "2026-03-13T09:22:53.007273"
+date: "2026-03-20T08:22:03.998185"
 draft: false
 sectors:
   - finance
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.peugeot.com](http://www.peugeot.com)
-- [https://espaceclient-myfinance-fr.stellantis.com/](https://espaceclient-myfinance-fr.stellantis.com/)
 - [https://www.stellantis-finance-services.fr/en-savoir-plus-sur-l-espace-client.html](https://www.stellantis-finance-services.fr/en-savoir-plus-sur-l-espace-client.html)
+- [https://espaceclient-myfinance-fr.stellantis.com](https://espaceclient-myfinance-fr.stellantis.com)
+- [http://www.peugeot.com](http://www.peugeot.com)
 
 ## Brand Guidelines
 

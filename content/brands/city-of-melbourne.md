@@ -2,7 +2,7 @@
 title: City of Melbourne
 slug: "city-of-melbourne"
 description: ""
-date: "2026-03-13T09:22:55.145001"
+date: "2026-03-20T08:22:05.845753"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1970
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://citycollection.melbourne.vic.gov.au/](https://citycollection.melbourne.vic.gov.au/)
-- [https://www.melbourne.vic.gov.au/](https://www.melbourne.vic.gov.au/)
+- [https://www.melbourne.vic.gov.au](https://www.melbourne.vic.gov.au)
+- [https://citycollection.melbourne.vic.gov.au](https://citycollection.melbourne.vic.gov.au)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ukraine
 slug: ukraine
 description: ""
-date: "2026-03-13T09:22:53.516030"
+date: "2026-03-20T08:22:04.409974"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - ukraine
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tourism.gov.ua/](https://www.tourism.gov.ua/)
 - [https://www.tourism.gov.ua/en/home](https://www.tourism.gov.ua/en/home)
+- [https://www.tourism.gov.ua](https://www.tourism.gov.ua)
 
 ## Brand Guidelines
 

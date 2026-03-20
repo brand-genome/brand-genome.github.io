@@ -2,16 +2,16 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-03-13T09:22:53.965651"
+date: "2026-03-20T08:22:04.890686"
 draft: false
 sectors:
   - education
 regions:
   - usa
 years:
-  - 2018
   - 2017
   - 2016
+  - 2018
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1868
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,38 +53,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
-  - lockup
-  - secondary
   - seal
+  - secondary
   - horizontal
+  - lockup
+  - primary
+  - icon
 brand_colors:
-  - purple
-  - "pantone-7482"
-  - "pantone-2757"
-  - grey
-  - gray
-  - gold
-  - orange
-  - black
-  - teal
-  - blue
   - green
+  - gold
+  - teal
   - white
+  - purple
+  - grey
+  - blue
+  - "pantone-2757"
+  - gray
+  - black
+  - orange
+  - "pantone-7482"
 typographies:
-  - display
   - brandon
-  - georgia
-  - "sans-serif"
+  - display
   - serif
+  - "sans-serif"
   - times
+  - georgia
 imagery_styles:
-  - subtle
-  - professional
   - bold
   - graphic
+  - subtle
+  - professional
 wikidata_description: "public comprehensive university in Mankato, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q1937387"
 has_twitter: false
@@ -94,8 +96,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.minnstate.edu](https://www.minnstate.edu)
 - [http://www.mnsu.edu](http://www.mnsu.edu)
-- [https://www.minnstate.edu/](https://www.minnstate.edu/)
+- [https://www.mnsu.edu](https://www.mnsu.edu)
 
 ## Brand Guidelines
 

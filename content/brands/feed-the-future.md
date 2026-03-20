@@ -2,7 +2,7 @@
 title: Feed The Future
 slug: "feed-the-future"
 description: ""
-date: "2026-03-13T09:22:55.088316"
+date: "2026-03-20T08:22:05.793204"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,29 +48,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - secondary
   - seal
+  - secondary
   - horizontal
+  - primary
 brand_colors:
-  - "pantone-7495"
   - "pantone-7459"
-  - orange
-  - "pantone-7413"
-  - black
-  - blue
   - green
+  - "pantone-7413"
   - white
+  - blue
+  - "pantone-7495"
+  - orange
+  - black
 typographies:
-  - times
-  - garamond
-  - "gill-sans"
   - serif
+  - garamond
   - arial
+  - times
+  - "gill-sans"
 imagery_styles:
-  - muted
   - bold
+  - muted
   - graphic
 wikidata_description: program of the United States federal government
 wikidata_url: "https://www.wikidata.org/wiki/Q16838167"
@@ -82,9 +83,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.feedthefuture.gov/](https://www.feedthefuture.gov/)
-- [https://www.feedthefuture.gov/branding/](https://www.feedthefuture.gov/branding/)
-- [https://www.usaid.gov/](https://www.usaid.gov/)
+- [https://www.feedthefuture.gov](https://www.feedthefuture.gov)
+- [https://www.feedthefuture.gov/branding](https://www.feedthefuture.gov/branding)
+- [https://www.usaid.gov](https://www.usaid.gov)
 
 ## Brand Guidelines
 

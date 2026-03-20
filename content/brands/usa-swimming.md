@@ -2,7 +2,7 @@
 title: USA Swimming
 slug: "usa-swimming"
 description: ""
-date: "2026-03-13T09:22:52.828356"
+date: "2026-03-20T08:22:03.838183"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - sport
+  - marine
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1980
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.usaswimming.org/](https://www.usaswimming.org/)
+- [https://www.usaswimming.org](https://www.usaswimming.org)
+- [http://www.usaswimming.org](http://www.usaswimming.org)
 
 ## Brand Guidelines
 

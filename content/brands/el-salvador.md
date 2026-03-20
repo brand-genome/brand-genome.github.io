@@ -2,7 +2,7 @@
 title: El Salvador
 slug: "el-salvador"
 description: ""
-date: "2026-03-13T09:22:53.517051"
+date: "2026-03-20T08:22:04.411102"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - philippines
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1948
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,19 +53,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - arial
 imagery_styles:
-  - vibrant
-  - photography
-  - gradient
   - clean
+  - vibrant
+  - gradient
+  - photography
 wikidata_description: city of the Philippines in the province of Misamis Oriental
 wikidata_url: "https://www.wikidata.org/wiki/Q195686"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://elsalvador.travel/](https://elsalvador.travel/)
-- [https://www.mitur.gob.sv/servicios/marca-el-salvador/](https://www.mitur.gob.sv/servicios/marca-el-salvador/)
+- [https://elsalvador.travel](https://elsalvador.travel)
+- [https://www.mitur.gob.sv/servicios/marca-el-salvador](https://www.mitur.gob.sv/servicios/marca-el-salvador)
+- [https://elsalvadorcity.gov.ph](https://elsalvadorcity.gov.ph)
 
 ## Brand Guidelines
 

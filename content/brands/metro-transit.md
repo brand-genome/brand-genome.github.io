@@ -2,16 +2,16 @@
 title: Metro Transit
 slug: "metro-transit"
 description: ""
-date: "2026-03-13T09:22:53.706670"
+date: "2026-03-20T08:22:04.562283"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
-  - 2019
   - 2014
+  - 2019
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1967
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,29 +53,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - secondary
-  - symbol
   - icon
+  - symbol
   - primary
+  - secondary
 brand_colors:
+  - red
+  - green
+  - gold
+  - white
+  - blue
   - gray
   - yellow
-  - gold
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
-  - arial
   - "gill-sans"
+  - arial
   - avenir
 imagery_styles:
+  - bold
   - clean
   - modern
   - gradient
-  - bold
 wikidata_description: public transit operator in the Twin Cities region of Minnesota
 wikidata_url: "https://www.wikidata.org/wiki/Q3307442"
 has_twitter: false
@@ -85,9 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.flickr.com/photos/metrotransitmn](http://www.flickr.com/photos/metrotransitmn)
-- [https://www.metrotransit.org/](https://www.metrotransit.org/)
+- [https://www.metrotransit.org](https://www.metrotransit.org)
 - [https://www.metrotransit.org/metro-system](https://www.metrotransit.org/metro-system)
+- [http://www.flickr.com/photos/metrotransitmn](http://www.flickr.com/photos/metrotransitmn)
 
 ## Brand Guidelines
 

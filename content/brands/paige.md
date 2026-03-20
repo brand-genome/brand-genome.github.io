@@ -2,11 +2,11 @@
 title: Paige
 slug: paige
 description: ""
-date: "2026-03-13T09:22:53.282693"
+date: "2026-03-20T08:22:04.211909"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - navy
+  - white
+  - blue
   - gray
   - black
-  - blue
-  - white
 typographies:
   - "open-sans"
 imagery_styles:
-  - clean
   - bold
+  - clean
 wikidata_description: "UK pop-rock band formerly signed to Walnut Tree Records"
 wikidata_url: "https://www.wikidata.org/wiki/Q7124703"
 has_twitter: false
@@ -70,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.PaigeDataCom.com](http://www.PaigeDataCom.com)
+- [https://www.paigeconnected.com](https://www.paigeconnected.com)
+- [http://www.paigedatacom.com](http://www.paigedatacom.com)
 - [http://www.paigeconnected.com](http://www.paigeconnected.com)
-- [https://www.paigeconnected.com/](https://www.paigeconnected.com/)
+- [http://www.myspace.com/paigeuk](http://www.myspace.com/paigeuk)
 
 ## Brand Guidelines
 

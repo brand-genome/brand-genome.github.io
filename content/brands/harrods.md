@@ -2,7 +2,7 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-03-13T09:22:53.435277"
+date: "2026-03-20T08:22:04.338788"
 draft: false
 sectors:
   - "e-commerce"
@@ -16,8 +16,8 @@ languages:
 tags:
   - luxury
 industries:
-  - "retail-sale-in-non-specialised-stores"
   - retail
+  - "retail-sale-in-non-specialised-stores"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1834
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,16 +56,16 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
-  - green
   - "pantone-6"
+  - green
   - "pantone-5"
+  - black
 typographies:
   - times
 imagery_styles:
-  - photography
   - bold
   - geometric
+  - photography
 wikidata_description: British department store
 wikidata_url: "https://www.wikidata.org/wiki/Q332474"
 has_twitter: false
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.harrods.com/en-gb/](https://www.harrods.com/en-gb/)
-- [https://www.harrods.com/en-us/](https://www.harrods.com/en-us/)
+- [https://www.harrods.com/en-gb](https://www.harrods.com/en-gb)
+- [https://www.harrods.com/en-us](https://www.harrods.com/en-us)
+- [http://www.harrods.com](http://www.harrods.com)
 
 ## Brand Guidelines
 

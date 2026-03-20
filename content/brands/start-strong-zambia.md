@@ -2,11 +2,11 @@
 title: Start Strong Zambia
 slug: "start-strong-zambia"
 description: ""
-date: "2026-03-13T09:22:52.241336"
+date: "2026-03-20T08:22:03.305435"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - zambia
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.keyclub.org/start-strong-zambia/](https://www.keyclub.org/start-strong-zambia/)
+- [https://www.keyclub.org/start-strong-zambia](https://www.keyclub.org/start-strong-zambia)
 
 ## Brand Guidelines
 

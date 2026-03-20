@@ -2,11 +2,11 @@
 title: AVG
 slug: avg
 description: ""
-date: "2026-03-13T09:22:53.014403"
+date: "2026-03-20T08:22:04.004789"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1991
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,11 +64,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.avg.com](https://www.avg.com)
+- [https://support.avg.com](https://support.avg.com)
+- [https://account.avg.com](https://account.avg.com)
+- [https://myaccount.avg.com](https://myaccount.avg.com)
 - [http://www.avast.com](http://www.avast.com)
-- [https://account.avg.com/](https://account.avg.com/)
-- [https://myaccount.avg.com/](https://myaccount.avg.com/)
-- [https://support.avg.com/](https://support.avg.com/)
-- [https://www.avg.com/](https://www.avg.com/)
+- [https://www.avg.com/en-us/homepage](https://www.avg.com/en-us/homepage)
+- [https://www.avg.com/tr-tr/homepage](https://www.avg.com/tr-tr/homepage)
+- [https://www.avg.com/en-gb/homepage](https://www.avg.com/en-gb/homepage)
 
 ## Brand Guidelines
 

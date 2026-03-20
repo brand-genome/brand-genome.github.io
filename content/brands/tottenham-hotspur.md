@@ -2,7 +2,7 @@
 title: Tottenham Hotspur
 slug: "tottenham-hotspur"
 description: ""
-date: "2026-03-13T09:22:53.652153"
+date: "2026-03-20T08:22:04.511939"
 draft: false
 sectors:
   - sports
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1882
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,18 +52,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
-  - secondary
   - horizontal
+  - secondary
+  - badge
 brand_colors:
-  - "pantone-877"
   - silver
-  - "pantone-298"
   - "pantone-2768"
-  - black
-  - blue
   - white
+  - blue
+  - "pantone-298"
+  - black
+  - "pantone-877"
 typographies:
   - arial
 imagery_styles: []
@@ -76,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tottenhamhotspur.com/](https://www.tottenhamhotspur.com/)
-- [https://www.tottenhamhotspurstadium.com/](https://www.tottenhamhotspurstadium.com/)
+- [https://www.tottenhamhotspur.com](https://www.tottenhamhotspur.com)
+- [https://www.tottenhamhotspurstadium.com](https://www.tottenhamhotspurstadium.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Aeroflot
 slug: aeroflot
 description: ""
-date: "2026-03-13T09:22:55.142724"
+date: "2026-03-20T08:22:05.842672"
 draft: false
 sectors:
   - airline
@@ -16,8 +16,8 @@ tags:
   - transport
   - airline
 industries:
-  - "air-cargo"
   - "air-transport"
+  - "air-cargo"
 countries: []
 revenue_buckets:
   - "500B-1T"
@@ -40,6 +40,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1923
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aeroflot.com/](https://www.aeroflot.com/)
-- [https://www.aeroflot.ru/](https://www.aeroflot.ru/)
+- [https://www.aeroflot.ru](https://www.aeroflot.ru)
+- [https://www.aeroflot.com](https://www.aeroflot.com)
+- [https://aeroflot.com](https://aeroflot.com)
 
 ## Brand Guidelines
 

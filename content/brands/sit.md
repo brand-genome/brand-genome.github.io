@@ -2,7 +2,7 @@
 title: SIT
 slug: sit
 description: ""
-date: "2026-03-13T09:22:54.747207"
+date: "2026-03-20T08:22:05.545195"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - institut
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +51,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - black
-  - "pantone-485"
   - red
+  - "pantone-485"
+  - black
 typographies:
   - avenir
 imagery_styles:
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.singaporetech.edu.sg/](https://www.singaporetech.edu.sg/)
+- [https://www.singaporetech.edu.sg](https://www.singaporetech.edu.sg)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Big W
 slug: "big-w"
 description: ""
-date: "2026-03-13T09:22:53.073343"
+date: "2026-03-20T08:22:04.068709"
 draft: false
 sectors:
   - "retail-commerce"
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bigw.com.au/](https://www.bigw.com.au/)
+- [https://www.bigw.com.au](https://www.bigw.com.au)
+- [http://www.bigw.co.uk](http://www.bigw.co.uk)
 
 ## Brand Guidelines
 

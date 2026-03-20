@@ -2,7 +2,7 @@
 title: Hello Kitty
 slug: "hello-kitty"
 description: ""
-date: "2026-03-13T09:22:54.329117"
+date: "2026-03-20T08:22:05.152327"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,9 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - seal
   - horizontal
+  - symbol
 brand_colors: []
 typographies:
   - helvetica
@@ -66,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sanrio.co.jp/characters/hellokitty/](https://www.sanrio.co.jp/characters/hellokitty/)
 - [https://www.sanrio.com/hellokitty](https://www.sanrio.com/hellokitty)
+- [https://www.sanrio.co.jp/characters/hellokitty](https://www.sanrio.co.jp/characters/hellokitty)
 
 ## Brand Guidelines
 

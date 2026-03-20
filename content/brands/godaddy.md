@@ -2,11 +2,11 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-03-13T09:22:53.930410"
+date: "2026-03-20T08:22:04.849844"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - usa
 years:
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,9 +57,9 @@ gazes: []
 body_sections: []
 logo_elements:
   - lockup
+  - wordmark
   - primary
   - symbol
-  - wordmark
 brand_colors:
   - black
   - white
@@ -78,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gddam.godaddy.com/](https://gddam.godaddy.com/)
-- [https://www.godaddy.com/](https://www.godaddy.com/)
+- [https://www.godaddy.com](https://www.godaddy.com)
+- [https://gddam.godaddy.com](https://gddam.godaddy.com)
 
 ## Brand Guidelines
 

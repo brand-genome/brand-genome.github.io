@@ -2,7 +2,7 @@
 title: Tehy
 slug: tehy
 description: ""
-date: "2026-03-13T09:22:52.877679"
+date: "2026-03-20T08:22:03.873172"
 draft: false
 sectors:
   - ngo
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,6 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tehy.fi/fi](https://www.tehy.fi/fi)
+- [http://www.tehy.fi](http://www.tehy.fi)
 
 ## Brand Guidelines
 

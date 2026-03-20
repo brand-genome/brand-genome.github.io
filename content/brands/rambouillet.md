@@ -2,7 +2,7 @@
 title: Rambouillet
 slug: rambouillet
 description: ""
-date: "2026-03-13T09:22:55.084888"
+date: "2026-03-20T08:22:05.788807"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,13 +50,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - green
+  - black
 typographies:
   - impact
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: "railway station in Rambouillet, France"
 wikidata_url: "https://www.wikidata.org/wiki/Q2176163"
 has_twitter: false
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rambouillet-tourisme.fr/](https://www.rambouillet-tourisme.fr/)
-- [https://www.rambouillet.fr/](https://www.rambouillet.fr/)
+- [https://www.rambouillet.fr](https://www.rambouillet.fr)
+- [https://www.rambouillet-tourisme.fr](https://www.rambouillet-tourisme.fr)
 
 ## Brand Guidelines
 

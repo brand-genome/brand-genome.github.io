@@ -2,16 +2,16 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-03-13T09:22:53.327510"
+date: "2026-03-20T08:22:04.238174"
 draft: false
 sectors:
   - cosmetics
 regions:
-  - "united-kingdom"
   - singapore
+  - "united-kingdom"
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1988
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,36 +52,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
+  - primary
 brand_colors:
+  - green
   - navy
+  - white
+  - maroon
+  - blue
   - grey
   - orange
   - black
-  - maroon
-  - blue
-  - green
-  - white
 typographies:
   - arial
   - display
   - din
 imagery_styles:
-  - photography
-  - modern
-  - contemporary
-  - organic
-  - geometric
-  - vibrant
-  - clean
   - product
   - professional
+  - organic
   - bold
+  - modern
+  - photography
+  - contemporary
+  - clean
+  - geometric
+  - vibrant
 wikidata_description: band
 wikidata_url: "https://www.wikidata.org/wiki/Q1668512"
 has_twitter: false
@@ -91,8 +93,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lush.com/](https://www.lush.com/)
+- [https://www.lush.com](https://www.lush.com)
 - [https://www.lush.com/uk/en](https://www.lush.com/uk/en)
+- [http://lushofficial.com](http://lushofficial.com)
 
 ## Brand Guidelines
 

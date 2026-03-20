@@ -2,7 +2,7 @@
 title: UNDP
 slug: undp
 description: ""
-date: "2026-03-13T09:22:55.166186"
+date: "2026-03-20T08:22:05.867814"
 draft: false
 sectors:
   - "public-sector"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1992
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,9 +55,9 @@ logo_elements:
   - emblem
 brand_colors: []
 typographies:
-  - display
   - helvetica
   - arial
+  - display
 imagery_styles: []
 wikidata_description: department of the United Nations which is charged with managing peacekeeping operations
 wikidata_url: "https://www.wikidata.org/wiki/Q1589437"
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://popp.undp.org/](https://popp.undp.org/)
-- [https://strategicplan.undp.org/](https://strategicplan.undp.org/)
-- [https://www.undp.org/](https://www.undp.org/)
+- [https://www.undp.org](https://www.undp.org)
+- [https://popp.undp.org](https://popp.undp.org)
+- [https://strategicplan.undp.org](https://strategicplan.undp.org)
+- [https://peacekeeping.un.org/ar/department-of-peace-operations](https://peacekeeping.un.org/ar/department-of-peace-operations)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Pittsburg State University
 slug: "pittsburg-state-university"
 description: ""
-date: "2026-03-13T09:22:55.087905"
+date: "2026-03-20T08:22:05.792439"
 draft: false
 sectors:
-  - university
   - "e-learning-edtech"
+  - university
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1903
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,15 +54,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - stacked
   - seal
   - horizontal
+  - wordmark
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://degree.pittstate.edu/](https://degree.pittstate.edu/)
-- [https://www.pittstate.edu/](https://www.pittstate.edu/)
+- [https://www.pittstate.edu](https://www.pittstate.edu)
+- [https://degree.pittstate.edu](https://degree.pittstate.edu)
+- [http://www.pittstate.edu](http://www.pittstate.edu)
 
 ## Brand Guidelines
 

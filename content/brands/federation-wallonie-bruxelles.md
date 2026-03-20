@@ -2,7 +2,7 @@
 title: "Fédération Wallonie-Bruxelles"
 slug: "federation-wallonie-bruxelles"
 description: ""
-date: "2026-03-13T09:22:55.148875"
+date: "2026-03-20T08:22:05.848460"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.cfwb.be/](http://www.cfwb.be/)
-- [https://www.pfwb.be/](https://www.pfwb.be/)
+- [http://www.cfwb.be](http://www.cfwb.be)
+- [https://www.pfwb.be](https://www.pfwb.be)
 
 ## Brand Guidelines
 

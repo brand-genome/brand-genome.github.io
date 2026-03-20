@@ -2,12 +2,12 @@
 title: Incubator Studio
 slug: "incubator-studio"
 description: ""
-date: "2026-03-13T09:22:52.819090"
+date: "2026-03-20T08:22:03.831853"
 draft: false
 sectors:
-  - "design-creative"
   - "marketing-advertising"
   - consulting
+  - "design-creative"
 regions:
   - france
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.incubator.studio](https://www.incubator.studio)
 - [http://www.incubator.studio](http://www.incubator.studio)
-- [https://www.incubator.studio/](https://www.incubator.studio/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Aera Science Park
 slug: "aera-science-park"
 description: ""
-date: "2026-03-13T09:22:55.166824"
+date: "2026-03-20T08:22:05.868529"
 draft: false
 sectors:
   - research
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - green
   - grey
+  - blue
   - orange
   - black
-  - blue
-  - green
 typographies:
   - "sans-serif"
   - din
 imagery_styles:
-  - graphic
   - bold
+  - graphic
   - geometric
 wikidata_description: ""
 wikidata_url: ""
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.areasciencepark.it/](https://www.areasciencepark.it/)
-- [https://www.areasciencepark.it/en/](https://www.areasciencepark.it/en/)
+- [https://www.areasciencepark.it](https://www.areasciencepark.it)
+- [https://www.areasciencepark.it/en](https://www.areasciencepark.it/en)
 
 ## Brand Guidelines
 

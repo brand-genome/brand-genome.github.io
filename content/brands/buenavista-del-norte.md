@@ -2,7 +2,7 @@
 title: Buenavista del Norte
 slug: "buenavista-del-norte"
 description: ""
-date: "2026-03-13T09:22:53.445988"
+date: "2026-03-20T08:22:04.349446"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,17 +48,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - emblem
   - primary
   - secondary
-  - emblem
 brand_colors:
-  - black
   - green
   - white
+  - black
 typographies: []
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: "capital of Buenavista del Norte Municipality, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q24014661"
 has_twitter: false
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.buenavistadelnorte.es/](https://www.buenavistadelnorte.es/)
+- [https://www.buenavistadelnorte.es](https://www.buenavistadelnorte.es)
 
 ## Brand Guidelines
 

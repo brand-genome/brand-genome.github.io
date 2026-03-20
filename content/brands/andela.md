@@ -2,11 +2,11 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-03-13T09:22:53.264826"
+date: "2026-03-20T08:22:04.190757"
 draft: false
 sectors:
-  - software
   - "staffing-recruitment"
+  - software
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - secondary
   - lockup
+  - symbol
   - primary
+  - secondary
 brand_colors:
-  - grey
-  - "pantone-4162"
-  - black
   - green
   - white
+  - "pantone-4162"
+  - grey
+  - black
 typographies:
-  - serif
-  - inter
   - impact
+  - inter
+  - serif
 imagery_styles:
   - bold
 wikidata_description: Africa Tech company
@@ -75,8 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://help.andela.com/](https://help.andela.com/)
-- [https://www.andela.com/](https://www.andela.com/)
+- [https://www.andela.com](https://www.andela.com)
+- [https://help.andela.com](https://help.andela.com)
+- [https://andela.com](https://andela.com)
 
 ## Brand Guidelines
 

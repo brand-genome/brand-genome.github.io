@@ -2,11 +2,11 @@
 title: International Coaching Federation
 slug: "international-coaching-federation"
 description: ""
-date: "2026-03-13T09:22:53.424243"
+date: "2026-03-20T08:22:04.326755"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,45 +52,45 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-603"
-  - "pantone-136"
-  - "pantone-340"
-  - gray
-  - magenta
-  - green
-  - white
+  - red
   - "pantone-271"
-  - "pantone-3125"
-  - "pantone-072"
-  - "pantone-2757"
-  - "pantone-485"
-  - "pantone-716"
   - "pantone-7656"
   - purple
-  - "pantone-1925"
+  - blue
+  - "pantone-3125"
   - yellow
   - orange
-  - red
-  - blue
-  - gold
+  - "pantone-136"
   - "pantone-2727"
+  - "pantone-603"
+  - "pantone-716"
+  - white
+  - "pantone-340"
+  - "pantone-2757"
+  - gray
+  - "pantone-1925"
+  - "pantone-072"
+  - "pantone-485"
+  - green
+  - gold
+  - magenta
 typographies:
-  - helvetica
-  - montserrat
-  - "sans-serif"
-  - "proxima-nova"
   - serif
   - arial
+  - "proxima-nova"
+  - "sans-serif"
+  - montserrat
+  - helvetica
 imagery_styles:
-  - photography
-  - gradient
   - bold
   - clean
+  - gradient
+  - photography
 wikidata_description: nonprofit organization dedicated to professional coaching
 wikidata_url: "https://www.wikidata.org/wiki/Q12318514"
 has_twitter: false
@@ -100,7 +102,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://coachingfederation.org/](https://coachingfederation.org/)
+- [https://coachingfederation.org](https://coachingfederation.org)
+- [http://coachfederation.org](http://coachfederation.org)
 
 ## Brand Guidelines
 

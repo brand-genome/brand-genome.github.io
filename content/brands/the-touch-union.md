@@ -2,7 +2,7 @@
 title: The Touch Union
 slug: "the-touch-union"
 description: ""
-date: "2026-03-13T09:22:53.275202"
+date: "2026-03-20T08:22:04.202777"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.englandrugby.com/](https://www.englandrugby.com/)
 - [https://www.englandrugby.com/play/ways-to-play/t1-rugby](https://www.englandrugby.com/play/ways-to-play/t1-rugby)
+- [https://www.englandrugby.com](https://www.englandrugby.com)
 
 ## Brand Guidelines
 

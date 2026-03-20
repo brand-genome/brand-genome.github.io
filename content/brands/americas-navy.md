@@ -2,11 +2,11 @@
 title: America’s NAVY
 slug: "americas-navy"
 description: ""
-date: "2026-03-13T09:22:53.710398"
+date: "2026-03-20T08:22:04.655030"
 draft: false
 sectors:
-  - defense
   - "public-sector"
+  - defense
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - lockup
   - wordmark
+  - primary
 brand_colors:
   - "pantone-7690"
   - navy
-  - "pantone-303"
-  - black
-  - blue
   - white
+  - "pantone-303"
+  - blue
   - "pantone-428"
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.navy.com](https://www.navy.com)
+- [https://aws.navy.com](https://aws.navy.com)
 - [http://www.dvidshub.net](http://www.dvidshub.net)
-- [https://aws.navy.com/](https://aws.navy.com/)
-- [https://www.navy.com/](https://www.navy.com/)
 
 ## Brand Guidelines
 

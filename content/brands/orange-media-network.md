@@ -2,11 +2,11 @@
 title: Orange Media Network
 slug: "orange-media-network"
 description: ""
-date: "2026-03-13T09:22:55.078221"
+date: "2026-03-20T08:22:05.781064"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +49,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - gray
   - "pantone-7540"
-  - orange
-  - "pantone-5503"
-  - black
-  - blue
-  - "pantone-7539"
   - white
   - "pantone-1665"
+  - "pantone-5503"
+  - blue
+  - gray
+  - "pantone-7539"
   - "pantone-7579"
+  - orange
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -78,13 +79,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://beaversdigest.orangemedianetwork.com/](https://beaversdigest.orangemedianetwork.com/)
-- [https://dailybaro.orangemedianetwork.com/](https://dailybaro.orangemedianetwork.com/)
-- [https://damchic.orangemedianetwork.com/](https://damchic.orangemedianetwork.com/)
-- [https://kbvrfm.orangemedianetwork.com/](https://kbvrfm.orangemedianetwork.com/)
-- [https://kbvrtv.orangemedianetwork.com/](https://kbvrtv.orangemedianetwork.com/)
-- [https://orangemedianetwork.com/](https://orangemedianetwork.com/)
-- [https://prism.orangemedianetwork.com/](https://prism.orangemedianetwork.com/)
+- [https://orangemedianetwork.com](https://orangemedianetwork.com)
+- [https://dailybaro.orangemedianetwork.com](https://dailybaro.orangemedianetwork.com)
+- [https://beaversdigest.orangemedianetwork.com](https://beaversdigest.orangemedianetwork.com)
+- [https://damchic.orangemedianetwork.com](https://damchic.orangemedianetwork.com)
+- [https://kbvrtv.orangemedianetwork.com](https://kbvrtv.orangemedianetwork.com)
+- [https://kbvrfm.orangemedianetwork.com](https://kbvrfm.orangemedianetwork.com)
+- [https://prism.orangemedianetwork.com](https://prism.orangemedianetwork.com)
 
 ## Brand Guidelines
 

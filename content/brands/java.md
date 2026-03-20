@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-03-13T09:22:53.707810"
+date: "2026-03-20T08:22:04.563569"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,12 +47,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - stacked
+  - horizontal
 brand_colors:
   - black
-  - orange
   - white
+  - orange
   - blue
 typographies:
   - arial
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dev.java/](https://dev.java/)
-- [https://openjdk.org/](https://openjdk.org/)
-- [https://www.java.com/](https://www.java.com/)
-- [https://www.oracle.com/java/](https://www.oracle.com/java/)
+- [https://www.oracle.com/java](https://www.oracle.com/java)
+- [https://www.java.com](https://www.java.com)
+- [https://openjdk.org](https://openjdk.org)
+- [https://dev.java](https://dev.java)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Royal Aeronautical Society
 slug: "royal-aeronautical-society"
 description: ""
-date: "2026-03-13T09:22:53.518994"
+date: "2026-03-20T08:22:04.413081"
 draft: false
 sectors:
-  - education
   - aerospace
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1866
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aerosociety.com/](https://www.aerosociety.com/)
+- [https://www.aerosociety.com](https://www.aerosociety.com)
+- [http://www.aerosociety.com](http://www.aerosociety.com)
 
 ## Brand Guidelines
 

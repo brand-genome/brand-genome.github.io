@@ -2,7 +2,7 @@
 title: BenQ
 slug: benq
 description: ""
-date: "2026-03-13T09:22:55.014255"
+date: "2026-03-20T08:22:05.723241"
 draft: false
 sectors:
   - electronics
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "computer-hardware"
   - "video-projector"
+  - "computer-hardware"
 products: []
 headquarters_locations:
   - taipei
 subsidiaries: []
 foundation_dates:
   - 1984
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,11 +56,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
+  - badge
 brand_colors:
-  - black
   - purple
+  - black
 typographies:
   - "gill-sans"
 imagery_styles: []
@@ -73,11 +75,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.BenQ.com](http://www.BenQ.com)
-- [https://www.benq.com.cn/](https://www.benq.com.cn/)
-- [https://www.benq.com/](https://www.benq.com/)
-- [https://www.benq.com/en-us/](https://www.benq.com/en-us/)
-- [https://www.benq.com/zh-tw/](https://www.benq.com/zh-tw/)
+- [https://www.benq.com](https://www.benq.com)
+- [https://www.benq.com/en-us](https://www.benq.com/en-us)
+- [https://www.benq.com/zh-tw](https://www.benq.com/zh-tw)
+- [https://www.benq.com.cn](https://www.benq.com.cn)
+- [http://www.benq.com](http://www.benq.com)
+- [https://benq.com](https://benq.com)
+- [https://www.benq.eu/de-de](https://www.benq.eu/de-de)
 
 ## Brand Guidelines
 
@@ -115,7 +119,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Video Projector](/products_or_materials_produced/video-projector/) |
+| Product Or Material Produced | [Video Projector](/products_or_materials_produced/video-projector/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
 | Headquarters Location | [Taipei](/headquarters_locations/taipei/) |
 | Foundation Date | [1984](/foundation_dates/1984/) |
 | Headquarters Location | Taipei |

@@ -2,11 +2,11 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-03-13T09:22:54.336645"
+date: "2026-03-20T08:22:05.162669"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -30,11 +30,13 @@ products_or_materials_produced:
   - "free-software"
 products: []
 headquarters_locations:
-  - "forest-hill"
   - "wakefield-township"
+  - "forest-hill"
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,18 +56,18 @@ gazes: []
 body_sections: []
 logo_elements:
   - logomark
+  - vertical
   - lockup
   - horizontal
-  - vertical
 brand_colors:
-  - violet
-  - gray
   - crimson
-  - orange
-  - black
-  - magenta
   - red
   - white
+  - orange
+  - gray
+  - magenta
+  - violet
+  - black
 typographies:
   - montserrat
 imagery_styles: []
@@ -80,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.apache.org/](https://www.apache.org/)
+- [https://www.apache.org](https://www.apache.org)
 
 ## Brand Guidelines
 
@@ -291,7 +293,7 @@ Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Free Software](/products_or_materials_produced/free-software/) |
-| Headquarters Location | [Forest Hill](/headquarters_locations/forest-hill/); [Wakefield Township](/headquarters_locations/wakefield-township/) |
+| Headquarters Location | [Wakefield Township](/headquarters_locations/wakefield-township/); [Forest Hill](/headquarters_locations/forest-hill/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:Apache Software Foundation |
 | Freebase Id | /m/0nzm |

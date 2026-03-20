@@ -2,7 +2,7 @@
 title: AMD EPYC
 slug: "amd-epyc"
 description: ""
-date: "2026-03-13T09:22:53.971590"
+date: "2026-03-20T08:22:04.897780"
 draft: false
 sectors:
   - electronics
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +53,8 @@ logo_elements:
   - alternate
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - impact
 imagery_styles: []
@@ -67,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amd.com/](https://www.amd.com/)
 - [https://www.amd.com/epyc](https://www.amd.com/epyc)
+- [https://www.amd.com](https://www.amd.com)
 
 ## Brand Guidelines
 

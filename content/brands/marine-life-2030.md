@@ -2,11 +2,11 @@
 title: Marine Life 2030
 slug: "marine-life-2030"
 description: ""
-date: "2026-03-13T09:22:53.256738"
+date: "2026-03-20T08:22:04.182302"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,8 +52,8 @@ logo_elements:
   - stacked
 brand_colors:
   - "pantone-3035"
-  - "pantone-7555"
   - "pantone-631"
+  - "pantone-7555"
 typographies:
   - montserrat
 imagery_styles:
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://marinelife2030.org/](https://marinelife2030.org/)
+- [https://marinelife2030.org](https://marinelife2030.org)
 
 ## Brand Guidelines
 

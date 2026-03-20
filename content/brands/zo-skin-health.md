@@ -2,7 +2,7 @@
 title: ZO Skin Health
 slug: "zo-skin-health"
 description: ""
-date: "2026-03-13T09:22:52.868651"
+date: "2026-03-20T08:22:03.869439"
 draft: false
 sectors:
   - cosmetics
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zoskinhealth.nl/](https://www.zoskinhealth.nl/)
-- [https://zoskinhealth.com/](https://zoskinhealth.com/)
+- [https://zoskinhealth.com](https://zoskinhealth.com)
+- [https://www.zoskinhealth.nl](https://www.zoskinhealth.nl)
 
 ## Brand Guidelines
 

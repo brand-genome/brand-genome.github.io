@@ -2,7 +2,7 @@
 title: OEDA
 slug: oeda
 description: ""
-date: "2026-03-13T09:22:54.343324"
+date: "2026-03-20T08:22:05.171211"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,10 +47,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - lockup
   - wordmark
+  - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ohioeda.com/](https://ohioeda.com/)
+- [https://ohioeda.com](https://ohioeda.com)
 
 ## Brand Guidelines
 

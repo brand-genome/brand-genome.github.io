@@ -2,7 +2,7 @@
 title: University of Calgary
 slug: "university-of-calgary"
 description: ""
-date: "2026-03-13T09:22:53.335232"
+date: "2026-03-20T08:22:04.245062"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1966
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,17 +56,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - horizontal
-  - wordmark
 brand_colors:
-  - grey
-  - orange
-  - black
   - red
   - gold
   - white
+  - grey
   - brown
+  - orange
+  - black
 typographies:
   - times
 imagery_styles:
@@ -80,9 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ucalgary.ca](https://www.ucalgary.ca)
+- [https://oval.ucalgary.ca](https://oval.ucalgary.ca)
 - [http://www.ucalgary.ca](http://www.ucalgary.ca)
-- [https://oval.ucalgary.ca/](https://oval.ucalgary.ca/)
-- [https://www.ucalgary.ca/](https://www.ucalgary.ca/)
 
 ## Brand Guidelines
 

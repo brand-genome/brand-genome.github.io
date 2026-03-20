@@ -2,11 +2,11 @@
 title: Avencia
 slug: avencia
 description: ""
-date: "2026-03-13T09:22:53.064057"
+date: "2026-03-20T08:22:04.055976"
 draft: false
 sectors:
-  - consulting
   - "staffing-recruitment"
+  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2004
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://avenciaconsulting.com/](https://avenciaconsulting.com/)
+- [https://avenciaconsulting.com](https://avenciaconsulting.com)
 
 ## Brand Guidelines
 

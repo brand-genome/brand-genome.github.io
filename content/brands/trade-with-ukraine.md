@@ -2,11 +2,11 @@
 title: Trade with Ukraine
 slug: "trade-with-ukraine"
 description: ""
-date: "2026-03-13T09:22:53.292146"
+date: "2026-03-20T08:22:04.217194"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "marketing-advertising"
+  - "logistics-supply-chain"
 regions:
   - ukraine
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tradewithukraine.com/](https://tradewithukraine.com/)
+- [https://tradewithukraine.com](https://tradewithukraine.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Barcelona Turisme
 slug: "barcelona-turisme"
 description: ""
-date: "2026-03-13T09:22:52.320689"
+date: "2026-03-20T08:22:03.388628"
 draft: false
 sectors:
   - "e-commerce"
@@ -14,8 +14,8 @@ years:
 languages:
   - catalan
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,15 +63,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.barcelonaturisme.com](https://www.barcelonaturisme.com)
+- [https://www.visitbarcelona.com](https://www.visitbarcelona.com)
+- [https://professional.barcelonaturisme.com](https://professional.barcelonaturisme.com)
+- [https://sefarad.visitbarcelona.com](https://sefarad.visitbarcelona.com)
+- [https://www.barcelonacard.com](https://www.barcelonacard.com)
 - [http://www.barcelonacard.com](http://www.barcelonacard.com)
 - [http://www.barcelonaconventionbureau.com](http://www.barcelonaconventionbureau.com)
 - [http://www.barcelonaturisme.com](http://www.barcelonaturisme.com)
 - [http://www.visitbarcelona.com](http://www.visitbarcelona.com)
-- [https://professional.barcelonaturisme.com/](https://professional.barcelonaturisme.com/)
-- [https://sefarad.visitbarcelona.com/](https://sefarad.visitbarcelona.com/)
-- [https://www.barcelonacard.com/](https://www.barcelonacard.com/)
-- [https://www.barcelonaturisme.com/](https://www.barcelonaturisme.com/)
-- [https://www.visitbarcelona.com/](https://www.visitbarcelona.com/)
 
 ## Brand Guidelines
 

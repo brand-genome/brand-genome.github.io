@@ -2,12 +2,12 @@
 title: ClassPass
 slug: classpass
 description: ""
-date: "2026-03-13T09:22:53.314570"
+date: "2026-03-20T08:22:04.228509"
 draft: false
 sectors:
+  - "wellness-spa"
   - software
   - fitness
-  - "wellness-spa"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - sport
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - stacked
   - vertical
+  - stacked
+  - horizontal
 brand_colors:
   - black
   - white
@@ -62,9 +64,9 @@ brand_colors:
 typographies:
   - display
 imagery_styles:
-  - photography
-  - natural
   - bold
+  - natural
+  - photography
 wikidata_description: American fitness startup company based in New York City
 wikidata_url: "https://www.wikidata.org/wiki/Q19864979"
 has_twitter: false
@@ -76,7 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://classpass.com/](https://classpass.com/)
+- [https://classpass.com](https://classpass.com)
 
 ## Brand Guidelines
 

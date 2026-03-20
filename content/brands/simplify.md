@@ -2,11 +2,11 @@
 title: Simplify
 slug: simplify
 description: ""
-date: "2026-03-13T09:22:53.488884"
+date: "2026-03-20T08:22:04.386217"
 draft: false
 sectors:
-  - consulting
   - education
+  - consulting
 regions:
   - italy
 years:
@@ -31,6 +31,7 @@ headquarters_locations:
   - brentwood
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mysimplify.it/](https://www.mysimplify.it/)
+- [https://www.mysimplify.it](https://www.mysimplify.it)
+- [https://www.simplifycompliance.com](https://www.simplifycompliance.com)
 
 ## Brand Guidelines
 

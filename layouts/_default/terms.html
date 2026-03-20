@@ -1,10 +1,15 @@
-{{ define "title" }}{{ .Title }} | Taxonomy{{ end }}
+{{ define "title" }}
+{{ if eq .Section "years" }}Guideline Years | Taxonomy
+{{ else if eq .Section "foundation_dates" }}Foundation Dates | Taxonomy
+{{ else if eq .Section "foundation_year_buckets" }}Foundation Year Buckets | Taxonomy
+{{ else }}{{ .Title }} | Taxonomy{{ end }}
+{{ end }}
 
 {{ define "main" }}
 <section class="taxonomy-page">
     <header class="taxonomy-header">
-        <h1>{{ .Title }}</h1>
-        <p class="taxonomy-description">Explore all {{ .Title | lower }} in the Brand Identity Knowledge Graph</p>
+        <h1>{{ if eq .Section "years" }}Guideline Years{{ else if eq .Section "foundation_dates" }}Foundation Dates{{ else if eq .Section "foundation_year_buckets" }}Foundation Year Buckets{{ else }}{{ .Title }}{{ end }}</h1>
+        <p class="taxonomy-description">Explore all {{ if eq .Section "years" }}guideline years{{ else if eq .Section "foundation_dates" }}foundation dates{{ else if eq .Section "foundation_year_buckets" }}foundation year buckets{{ else }}{{ .Title | lower }}{{ end }} in the Brand Identity Knowledge Graph</p>
         <p class="taxonomy-count">{{ len .Pages }} terms</p>
     </header>
 
@@ -99,7 +104,7 @@
     <div class="taxonomy-grid">
         {{ range .Pages.ByTitle }}
         <a href="{{ .Permalink }}" class="taxonomy-item">
-            {{ if or (eq $.Section "years") (eq $.Section "revenue_buckets") (eq $.Section "operating_income_buckets") (eq $.Section "net_profit_buckets") (eq $.Section "employees_buckets") (eq $.Section "total_assets_buckets") (eq $.Section "total_equity_buckets") (eq $.Section "market_cap_buckets") (eq $.Section "foundation_dates") }}
+            {{ if or (eq $.Section "years") (eq $.Section "revenue_buckets") (eq $.Section "operating_income_buckets") (eq $.Section "net_profit_buckets") (eq $.Section "employees_buckets") (eq $.Section "total_assets_buckets") (eq $.Section "total_equity_buckets") (eq $.Section "market_cap_buckets") (eq $.Section "foundation_dates") (eq $.Section "foundation_year_buckets") }}
             <span class="term-name">{{ .Title }}</span>
             {{ else }}
             <span class="term-name">{{ .Title | humanize }}</span>

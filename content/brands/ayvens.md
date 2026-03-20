@@ -2,7 +2,7 @@
 title: Ayvens
 slug: ayvens
 description: ""
-date: "2026-03-13T09:22:51.917590"
+date: "2026-03-20T08:22:03.074813"
 draft: false
 sectors:
   - "ride-sharing"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ gazes: []
 body_sections: []
 logo_elements:
   - symbol
-  - secondary
   - primary
+  - secondary
 brand_colors:
-  - turquoise
-  - "pantone-108"
-  - "pantone-302"
+  - white
+  - blue
   - "pantone-2227"
   - yellow
+  - "pantone-302"
+  - turquoise
   - black
-  - blue
-  - white
+  - "pantone-108"
 typographies:
   - "source-sans"
 imagery_styles:

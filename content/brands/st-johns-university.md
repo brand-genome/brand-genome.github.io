@@ -2,7 +2,7 @@
 title: St John’s University
 slug: "st-johns-university"
 description: ""
-date: "2026-03-13T09:22:55.082790"
+date: "2026-03-20T08:22:05.785974"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://online.stjohns.edu/](https://online.stjohns.edu/)
-- [https://www.stjohns.edu/](https://www.stjohns.edu/)
+- [https://www.stjohns.edu](https://www.stjohns.edu)
+- [https://online.stjohns.edu](https://online.stjohns.edu)
 
 ## Brand Guidelines
 

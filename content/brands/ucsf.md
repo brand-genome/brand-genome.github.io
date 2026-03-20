@@ -2,7 +2,7 @@
 title: UCSF
 slug: ucsf
 description: ""
-date: "2026-03-13T09:22:53.338979"
+date: "2026-03-20T08:22:04.248377"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
   - signage
 industries: []
 countries:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1873
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.ucsf.edu/](http://www.ucsf.edu/)
-- [https://www.ucsf.edu/](https://www.ucsf.edu/)
-- [https://www.ucsfhealth.org/](https://www.ucsfhealth.org/)
+- [https://www.ucsf.edu](https://www.ucsf.edu)
+- [https://www.ucsfhealth.org](https://www.ucsfhealth.org)
+- [http://www.ucsf.edu](http://www.ucsf.edu)
+- [https://ucsf.edu](https://ucsf.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Philips Compact Disk
 slug: "philips-compact-disk"
 description: ""
-date: "2026-03-13T09:22:53.082452"
+date: "2026-03-20T08:22:04.083691"
 draft: false
 sectors:
   - "legal-services"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,8 +48,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.philips.com](http://www.philips.com)
 - [https://www.philips.com/a-w/about/innovation/ips/ip-licensing.html](https://www.philips.com/a-w/about/innovation/ips/ip-licensing.html)
+- [http://www.philips.com](http://www.philips.com)
 
 ## Brand Guidelines
 

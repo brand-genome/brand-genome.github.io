@@ -2,7 +2,7 @@
 title: Adidas Runtastic
 slug: "adidas-runtastic"
 description: ""
-date: "2026-03-13T09:22:52.236343"
+date: "2026-03-20T08:22:03.299011"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - austria
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2009
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.runtastic.com/](https://www.runtastic.com/)
+- [https://www.runtastic.com](https://www.runtastic.com)
 
 ## Brand Guidelines
 

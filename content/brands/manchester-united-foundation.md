@@ -2,7 +2,7 @@
 title: Manchester United Foundation
 slug: "manchester-united-foundation"
 description: ""
-date: "2026-03-13T09:22:53.272934"
+date: "2026-03-20T08:22:04.200610"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,22 +49,22 @@ gazes: []
 body_sections: []
 logo_elements:
   - wordmark
-  - crest
-  - secondary
   - primary
+  - secondary
+  - crest
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - arial
   - akzidenz
 imagery_styles:
+  - graphic
+  - bold
   - portrait
   - photography
   - landscape
-  - bold
-  - graphic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mufoundation.org/](https://www.mufoundation.org/)
+- [https://www.mufoundation.org](https://www.mufoundation.org)
 
 ## Brand Guidelines
 

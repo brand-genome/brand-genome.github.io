@@ -2,7 +2,7 @@
 title: Swimming Canada
 slug: "swimming-canada"
 description: ""
-date: "2026-03-13T09:22:53.085369"
+date: "2026-03-20T08:22:04.086737"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - marine
   - sport
+  - marine
 industries: []
 countries:
   - canada
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,24 +49,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
   - wordmark
+  - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
-  - display
   - helvetica
   - arial
+  - display
 imagery_styles:
-  - candid
   - staged
-  - clean
-  - photography
-  - bold
   - graphic
+  - bold
+  - photography
+  - clean
+  - candid
 wikidata_description: national governing body for competitive swimming in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q29561312"
 has_twitter: false
@@ -77,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.swimming.ca/](https://www.swimming.ca/)
-- [https://www.swimming.ca/brand/](https://www.swimming.ca/brand/)
-- [https://www.swimming.ca/fr/](https://www.swimming.ca/fr/)
+- [https://www.swimming.ca](https://www.swimming.ca)
+- [https://www.swimming.ca/fr](https://www.swimming.ca/fr)
+- [https://www.swimming.ca/brand](https://www.swimming.ca/brand)
 
 ## Brand Guidelines
 

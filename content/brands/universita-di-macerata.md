@@ -2,7 +2,7 @@
 title: Università di Macerata
 slug: "universita-di-macerata"
 description: ""
-date: "2026-03-13T09:22:53.545361"
+date: "2026-03-20T08:22:04.420166"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,14 +49,14 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - alternate
   - icon
+  - alternate
 brand_colors:
-  - gray
-  - "pantone-7435"
-  - black
   - red
   - white
+  - gray
+  - black
+  - "pantone-7435"
 typographies:
   - arial
   - frutiger
@@ -73,9 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apply.unimc.it/](https://apply.unimc.it/)
-- [https://www.unimc.it/](https://www.unimc.it/)
+- [https://www.unimc.it](https://www.unimc.it)
 - [https://www.unimc.it/en](https://www.unimc.it/en)
+- [https://apply.unimc.it](https://apply.unimc.it)
 
 ## Brand Guidelines
 

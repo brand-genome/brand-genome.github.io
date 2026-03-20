@@ -2,11 +2,11 @@
 title: "Trin-Trin"
 slug: "trin-trin"
 description: ""
-date: "2026-03-13T09:22:52.235731"
+date: "2026-03-20T08:22:03.298298"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - india
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dult.karnataka.gov.in/](https://dult.karnataka.gov.in/)
+- [https://dult.karnataka.gov.in](https://dult.karnataka.gov.in)
 
 ## Brand Guidelines
 

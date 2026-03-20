@@ -2,7 +2,7 @@
 title: Saskatchewan Health Authority
 slug: "saskatchewan-health-authority"
 description: ""
-date: "2026-03-13T09:22:54.968217"
+date: "2026-03-20T08:22:05.699957"
 draft: false
 sectors:
   - "public-sector"
@@ -34,6 +34,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2017
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.saskhealthauthority.ca](http://www.saskhealthauthority.ca)
 - [https://www.saskhealthauthority.ca](https://www.saskhealthauthority.ca)
+- [http://www.saskhealthauthority.ca](http://www.saskhealthauthority.ca)
 
 ## Brand Guidelines
 

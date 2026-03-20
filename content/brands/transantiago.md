@@ -2,20 +2,20 @@
 title: TranSantiago
 slug: transantiago
 description: ""
-date: "2026-03-13T09:22:53.641217"
+date: "2026-03-20T08:22:04.497398"
 draft: false
 sectors:
   - "public-transportation"
 regions:
   - chile
 years:
-  - 2013
   - 2004
+  - 2013
 languages:
   - spanish
 tags:
-  - transport
   - signage
+  - transport
 industries: []
 countries:
   - chile
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2007
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.red.cl/](https://www.red.cl/)
+- [https://www.red.cl](https://www.red.cl)
 
 ## Brand Guidelines
 

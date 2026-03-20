@@ -2,11 +2,11 @@
 title: Erskine College Flying Fleet Athletics
 slug: "erskine-college-flying-fleet-athletics"
 description: ""
-date: "2026-03-13T09:22:52.233087"
+date: "2026-03-20T08:22:03.295909"
 draft: false
 sectors:
-  - education
   - sports
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://erskinesports.com/](https://erskinesports.com/)
-- [https://www.erskine.edu/](https://www.erskine.edu/)
+- [https://erskinesports.com](https://erskinesports.com)
+- [https://www.erskine.edu](https://www.erskine.edu)
 
 ## Brand Guidelines
 

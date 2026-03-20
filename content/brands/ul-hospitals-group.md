@@ -2,7 +2,7 @@
 title: UL Hospitals Group
 slug: "ul-hospitals-group"
 description: ""
-date: "2026-03-13T09:22:53.494639"
+date: "2026-03-20T08:22:04.390946"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,8 +49,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - signature
+  - symbol
 brand_colors: []
 typographies: []
 imagery_styles:

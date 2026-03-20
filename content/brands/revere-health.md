@@ -2,7 +2,7 @@
 title: Revere Health
 slug: "revere-health"
 description: ""
-date: "2026-03-13T09:22:55.038314"
+date: "2026-03-20T08:22:05.740327"
 draft: false
 sectors:
   - healthcare
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,26 +51,26 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - purple
-  - gray
-  - "pantone-306"
-  - black
-  - white
-  - magenta
-  - "pantone-241"
   - green
-  - blue
   - "pantone-367"
+  - white
+  - purple
+  - "pantone-241"
+  - blue
+  - gray
+  - black
+  - "pantone-306"
+  - magenta
   - "pantone-538"
 typographies:
+  - "sans-serif"
+  - gotham
   - "proxima-nova"
   - serif
-  - gotham
-  - "sans-serif"
 imagery_styles:
   - photography
-  - candid
   - natural
+  - candid
 wikidata_description: healthcare
 wikidata_url: "https://www.wikidata.org/wiki/Q48845283"
 has_twitter: false
@@ -81,8 +82,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://reverehealth.com/](https://reverehealth.com/)
-- [https://reverehealthfoundation.org/](https://reverehealthfoundation.org/)
+- [https://reverehealth.com](https://reverehealth.com)
+- [https://reverehealthfoundation.org](https://reverehealthfoundation.org)
 
 ## Brand Guidelines
 

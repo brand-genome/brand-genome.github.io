@@ -2,7 +2,7 @@
 title: CBS Sports Network
 slug: "cbs-sports-network"
 description: ""
-date: "2026-03-13T09:22:54.743643"
+date: "2026-03-20T08:22:05.540214"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,9 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors:
   - black
   - gray
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cbssports.com/](https://www.cbssports.com/)
-- [https://www.cbssportsnetwork.com/](https://www.cbssportsnetwork.com/)
+- [https://www.cbssportsnetwork.com](https://www.cbssportsnetwork.com)
+- [https://www.cbssports.com](https://www.cbssports.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Invest Lithuania
 slug: "invest-lithuania"
 description: ""
-date: "2026-03-13T09:22:53.343993"
+date: "2026-03-20T08:22:04.253109"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - business
+  - featured
 industries: []
 countries:
   - lithuania
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://download.investlithuania.com/](https://download.investlithuania.com/)
-- [https://investlithuania.com/](https://investlithuania.com/)
-- [https://kurklt.lt/](https://kurklt.lt/)
+- [https://investlithuania.com](https://investlithuania.com)
+- [https://download.investlithuania.com](https://download.investlithuania.com)
+- [https://kurklt.lt](https://kurklt.lt)
+- [http://www.investlithuania.com/en](http://www.investlithuania.com/en)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: York Archaeology
 slug: "york-archaeology"
 description: ""
-date: "2026-03-13T09:22:52.883114"
+date: "2026-03-20T08:22:03.875481"
 draft: false
 sectors:
-  - research
-  - "arts-culture"
   - ngo
+  - "arts-culture"
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,13 +51,13 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - "pantone-8001"
   - silver
+  - "pantone-287"
+  - "pantone-8001"
   - grey
+  - blue
   - gray
   - black
-  - "pantone-287"
-  - blue
 typographies:
   - impact
 imagery_styles:
@@ -72,9 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://research.yorkarchaeology.co.uk/](https://research.yorkarchaeology.co.uk/)
-- [https://www.collections.yorkarchaeologicaltrust.co.uk/](https://www.collections.yorkarchaeologicaltrust.co.uk/)
-- [https://yorkarchaeology.co.uk/](https://yorkarchaeology.co.uk/)
+- [https://yorkarchaeology.co.uk](https://yorkarchaeology.co.uk)
+- [https://research.yorkarchaeology.co.uk](https://research.yorkarchaeology.co.uk)
+- [https://www.collections.yorkarchaeologicaltrust.co.uk](https://www.collections.yorkarchaeologicaltrust.co.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Ce Petit Monde
 slug: "ce-petit-monde"
 description: ""
-date: "2026-03-13T09:22:55.037096"
+date: "2026-03-20T08:22:05.739110"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
   - yellow
   - white
@@ -60,9 +61,9 @@ typographies:
   - helvetica
   - futura
 imagery_styles:
-  - playful
   - bold
   - graphic
+  - playful
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://cepetitmonde.com/](http://cepetitmonde.com/)
+- [http://cepetitmonde.com](http://cepetitmonde.com)
 
 ## Brand Guidelines
 

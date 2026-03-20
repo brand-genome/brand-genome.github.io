@@ -2,11 +2,11 @@
 title: Irish Life
 slug: "irish-life"
 description: ""
-date: "2026-03-13T09:22:53.661327"
+date: "2026-03-20T08:22:04.519248"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - ireland
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1884
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,10 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ilim.com/](https://www.ilim.com/)
-- [https://www.irishlife.ie/](https://www.irishlife.ie/)
-- [https://www.irishlifehealth.ie/](https://www.irishlifehealth.ie/)
-- [https://www.myirishlife.ie/](https://www.myirishlife.ie/)
+- [https://www.irishlife.ie](https://www.irishlife.ie)
+- [https://www.irishlifehealth.ie](https://www.irishlifehealth.ie)
+- [https://www.ilim.com](https://www.ilim.com)
+- [https://www.myirishlife.ie](https://www.myirishlife.ie)
+- [https://www.permanenttsbgroup.ie](https://www.permanenttsbgroup.ie)
 
 ## Brand Guidelines
 

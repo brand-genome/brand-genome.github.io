@@ -2,7 +2,7 @@
 title: Hager Group
 slug: "hager-group"
 description: ""
-date: "2026-03-13T09:22:53.533294"
+date: "2026-03-20T08:22:04.415196"
 draft: false
 sectors:
   - electronics
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1955
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,10 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hagergroup.com/](https://hagergroup.com/)
+- [https://hagergroup.com](https://hagergroup.com)
 - [https://hagergroup.com/en/about-us](https://hagergroup.com/en/about-us)
 - [https://hagergroup.com/en/products-websites](https://hagergroup.com/en/products-websites)
-- [https://www.berker.com/](https://www.berker.com/)
+- [https://www.berker.com](https://www.berker.com)
+- [http://www.hagergroup.com](http://www.hagergroup.com)
+- [http://hagergroup.com](http://hagergroup.com)
 
 ## Brand Guidelines
 

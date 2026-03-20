@@ -2,12 +2,12 @@
 title: Next Theme
 slug: "next-theme"
 description: ""
-date: "2026-03-13T09:22:53.429623"
+date: "2026-03-20T08:22:04.333045"
 draft: false
 sectors:
+  - "marketing-advertising"
   - "design-creative"
   - software
-  - "marketing-advertising"
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - clean
@@ -65,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nexttheme.com/](https://nexttheme.com/)
+- [https://nexttheme.com](https://nexttheme.com)
 
 ## Brand Guidelines
 

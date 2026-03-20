@@ -2,7 +2,7 @@
 title: Blue Angel
 slug: "blue-angel"
 description: ""
-date: "2026-03-13T09:22:53.667948"
+date: "2026-03-20T08:22:04.525448"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,12 +51,12 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - cyan
-  - yellow
-  - black
-  - magenta
-  - blue
   - white
+  - cyan
+  - blue
+  - yellow
+  - magenta
+  - black
 typographies:
   - helvetica
 imagery_styles:
@@ -70,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.blauer-engel.de/](https://www.blauer-engel.de/)
 - [https://www.blauer-engel.de/en](https://www.blauer-engel.de/en)
+- [https://www.blauer-engel.de](https://www.blauer-engel.de)
 
 ## Brand Guidelines
 

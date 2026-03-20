@@ -2,7 +2,7 @@
 title: Republic Of Sabjiwala
 slug: "republic-of-sabjiwala"
 description: ""
-date: "2026-03-13T09:22:51.918287"
+date: "2026-03-20T08:22:03.075828"
 draft: false
 sectors:
   - food
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.republicofsabjiwala.com/](https://www.republicofsabjiwala.com/)
+- [https://www.republicofsabjiwala.com](https://www.republicofsabjiwala.com)
 
 ## Brand Guidelines
 

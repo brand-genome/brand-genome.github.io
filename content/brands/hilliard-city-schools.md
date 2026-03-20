@@ -2,11 +2,11 @@
 title: Hilliard City Schools
 slug: "hilliard-city-schools"
 description: ""
-date: "2026-03-13T09:22:55.042212"
+date: "2026-03-20T08:22:05.745144"
 draft: false
 sectors:
-  - education
   - "public-sector"
+  - education
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,11 +48,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors:
   - "pantone-382"
 typographies:
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hilliardschools.org/](https://www.hilliardschools.org/)
+- [https://www.hilliardschools.org](https://www.hilliardschools.org)
 
 ## Brand Guidelines
 

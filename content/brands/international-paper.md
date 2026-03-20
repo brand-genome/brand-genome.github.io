@@ -2,7 +2,7 @@
 title: International Paper
 slug: "international-paper"
 description: ""
-date: "2026-03-13T09:22:53.115301"
+date: "2026-03-20T08:22:04.114948"
 draft: false
 sectors:
   - "printing-reprographics"
@@ -15,9 +15,9 @@ languages:
   - english
 tags:
   - vintage
-  - featured
   - industry
   - signage
+  - featured
 industries:
   - "pulp-and-paper-industry"
 countries:
@@ -36,11 +36,13 @@ products_or_materials_produced:
   - paper
 products: []
 headquarters_locations:
-  - boston
   - memphis
+  - boston
 subsidiaries: []
 foundation_dates:
   - 1898
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,17 +61,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - symbol
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - display
   - arial
   - times
+  - display
 imagery_styles:
   - clean
 wikidata_description: American pulp and paper company
@@ -83,7 +85,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.internationalpaper.com/](https://www.internationalpaper.com/)
+- [https://www.internationalpaper.com](https://www.internationalpaper.com)
 
 ## Brand Guidelines
 
@@ -185,7 +187,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Paper](/products_or_materials_produced/paper/) |
-| Headquarters Location | [Boston](/headquarters_locations/boston/); [Memphis](/headquarters_locations/memphis/) |
+| Headquarters Location | [Memphis](/headquarters_locations/memphis/); [Boston](/headquarters_locations/boston/) |
 | Foundation Date | [1898](/foundation_dates/1898/) |
 | Topic'S Main Category | Category:International Paper |
 | Freebase Id | /m/01qxj3 |

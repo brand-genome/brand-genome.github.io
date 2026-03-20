@@ -2,11 +2,11 @@
 title: Royal Society of Chimestry
 slug: "royal-society-of-chimestry"
 description: ""
-date: "2026-03-13T09:22:54.142642"
+date: "2026-03-20T08:22:04.980823"
 draft: false
 sectors:
-  - research
   - publishing
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,23 +49,23 @@ gazes: []
 body_sections: []
 logo_elements:
   - primary
-  - secondary
   - abstract
+  - secondary
 brand_colors:
   - blue
 typographies:
+  - "source-sans"
   - serif
   - gotham
-  - "source-sans"
   - display
 imagery_styles:
+  - abstract
+  - graphic
+  - bold
   - modern
   - natural
-  - vibrant
   - photography
-  - abstract
-  - bold
-  - graphic
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,11 +77,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.rsc.org](https://www.rsc.org)
+- [https://pubs.rsc.org/en-us](https://pubs.rsc.org/en-us)
 - [http://www.linkedin.com](http://www.linkedin.com)
 - [http://www.rsc.org](http://www.rsc.org)
 - [http://www.youtube.com/intl/en-GB/yt/about/brand-](http://www.youtube.com/intl/en-GB/yt/about/brand-)
-- [https://pubs.rsc.org/en-us](https://pubs.rsc.org/en-us)
-- [https://www.rsc.org/](https://www.rsc.org/)
 
 ## Brand Guidelines
 

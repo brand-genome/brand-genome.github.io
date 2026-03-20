@@ -2,7 +2,7 @@
 title: Prime Video
 slug: "prime-video"
 description: ""
-date: "2026-03-13T09:22:54.749469"
+date: "2026-03-20T08:22:05.548605"
 draft: false
 sectors:
   - broadcasting
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2006
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Amazon.com](http://www.Amazon.com)
-- [http://www.PrimeVideo.com](http://www.PrimeVideo.com)
-- [https://www.primevideo.com/](https://www.primevideo.com/)
+- [https://www.primevideo.com](https://www.primevideo.com)
 - [https://www.primevideo.com/storefront](https://www.primevideo.com/storefront)
+- [http://www.amazon.com](http://www.amazon.com)
+- [http://www.primevideo.com](http://www.primevideo.com)
+- [https://www.amazon.co.jp/gp/video/storefront](https://www.amazon.co.jp/gp/video/storefront)
 
 ## Brand Guidelines
 

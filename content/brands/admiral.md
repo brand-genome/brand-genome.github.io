@@ -2,7 +2,7 @@
 title: Admiral
 slug: admiral
 description: ""
-date: "2026-03-13T09:22:53.936900"
+date: "2026-03-20T08:22:04.858928"
 draft: false
 sectors:
   - insurance
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,11 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://metro.co.uk/2015/02/](http://metro.co.uk/2015/02/)
-- [http://www.youtube.com](http://www.youtube.com)
-- [https://admiralgroup.co.uk/](https://admiralgroup.co.uk/)
-- [https://www.admiral.com/](https://www.admiral.com/)
+- [https://www.admiral.com](https://www.admiral.com)
 - [https://www.admiral.com/about-us](https://www.admiral.com/about-us)
+- [https://admiralgroup.co.uk](https://admiralgroup.co.uk)
+- [http://metro.co.uk/2015/02](http://metro.co.uk/2015/02)
+- [http://www.youtube.com](http://www.youtube.com)
 
 ## Brand Guidelines
 

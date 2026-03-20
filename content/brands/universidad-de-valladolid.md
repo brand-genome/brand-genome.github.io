@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-03-13T09:22:53.667351"
+date: "2026-03-20T08:22:04.524850"
 draft: false
 sectors:
   - university
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1241
+foundation_year_buckets:
+  - "13TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +52,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - coral
   - "pantone-654"
+  - coral
 typographies: []
 imagery_styles: []
 wikidata_description: university in Spain
@@ -65,10 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://campusvirtual.uva.es/](https://campusvirtual.uva.es/)
-- [https://extension.campusvirtual.uva.es/](https://extension.campusvirtual.uva.es/)
-- [https://universityofvalladolid.uva.es/](https://universityofvalladolid.uva.es/)
-- [https://www.uva.es/](https://www.uva.es/)
+- [https://www.uva.es](https://www.uva.es)
+- [https://universityofvalladolid.uva.es](https://universityofvalladolid.uva.es)
+- [https://campusvirtual.uva.es](https://campusvirtual.uva.es)
+- [https://extension.campusvirtual.uva.es](https://extension.campusvirtual.uva.es)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Invesco
 slug: invesco
 description: ""
-date: "2026-03-13T09:22:53.247908"
+date: "2026-03-20T08:22:04.173203"
 draft: false
 sectors:
   - finance
@@ -30,6 +30,7 @@ headquarters_locations:
   - toronto
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +49,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - primary
   - secondary
-  - stacked
   - abstract
 brand_colors:
-  - gray
   - silver
+  - gray
   - white
   - blue
 typographies:
-  - arial
   - "gill-sans"
+  - arial
 imagery_styles:
-  - modern
-  - natural
   - abstract
   - minimal
-  - photography
   - professional
   - bold
+  - modern
+  - natural
+  - photography
 wikidata_description: Trading platform for mutual funds
 wikidata_url: "https://www.wikidata.org/wiki/Q93360231"
 has_twitter: false
@@ -79,13 +80,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.invesco.com](https://www.invesco.com)
+- [https://www.invesco.com/corporate/en/home.html](https://www.invesco.com/corporate/en/home.html)
 - [http://www.borsaitaliana.it](http://www.borsaitaliana.it)
 - [http://www.deutsche-boerse.com](http://www.deutsche-boerse.com)
 - [http://www.euronext.com](http://www.euronext.com)
 - [http://www.invesco.com](http://www.invesco.com)
 - [http://www.londonstockexchange.com](http://www.londonstockexchange.com)
-- [https://www.invesco.com/](https://www.invesco.com/)
-- [https://www.invesco.com/corporate/en/home.html](https://www.invesco.com/corporate/en/home.html)
+- [https://www.invesco.ca](https://www.invesco.ca)
 
 ## Brand Guidelines
 

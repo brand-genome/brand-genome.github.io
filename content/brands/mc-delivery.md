@@ -2,7 +2,7 @@
 title: Mc Delivery
 slug: "mc-delivery"
 description: ""
-date: "2026-03-13T09:22:53.604755"
+date: "2026-03-20T08:22:04.470253"
 draft: false
 sectors:
   - restaurant
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,10 +48,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - emblem
   - wordmark
+  - primary
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles: []

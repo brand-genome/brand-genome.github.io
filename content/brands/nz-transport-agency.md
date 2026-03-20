@@ -2,11 +2,11 @@
 title: NZ Transport Agency
 slug: "nz-transport-agency"
 description: ""
-date: "2026-03-13T09:22:55.046016"
+date: "2026-03-20T08:22:05.747418"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - "new-zealand"
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2008
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
   - green
   - blue
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -69,10 +71,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.nzta.govt.nz](https://www.nzta.govt.nz)
+- [https://nzta.govt.nz](https://nzta.govt.nz)
+- [https://accessportal.nzta.govt.nz](https://accessportal.nzta.govt.nz)
 - [http://www.govt.nz](http://www.govt.nz)
-- [https://accessportal.nzta.govt.nz/](https://accessportal.nzta.govt.nz/)
-- [https://nzta.govt.nz/](https://nzta.govt.nz/)
-- [https://www.nzta.govt.nz/](https://www.nzta.govt.nz/)
 - [https://youtu.be/_TS5-kR9Md0](https://youtu.be/_TS5-kR9Md0)
 
 ## Brand Guidelines

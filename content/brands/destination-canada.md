@@ -2,7 +2,7 @@
 title: Destination Canada
 slug: "destination-canada"
 description: ""
-date: "2026-03-13T09:22:53.769852"
+date: "2026-03-20T08:22:04.722340"
 draft: false
 sectors:
   - "public-sector"
@@ -10,13 +10,13 @@ sectors:
 regions:
   - canada
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - canada
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1995
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,36 +54,36 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
-  - primary
-  - secondary
   - wordmark
+  - primary
+  - favicon
+  - secondary
 brand_colors:
+  - red
+  - green
+  - "pantone-1795"
+  - white
   - purple
   - cyan
-  - "pantone-1795"
+  - blue
   - grey
   - yellow
-  - black
   - magenta
   - pink
-  - red
-  - blue
-  - green
-  - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - modern
-  - natural
-  - candid
-  - portrait
   - minimal
-  - photography
-  - landscape
   - colorful
   - bold
+  - modern
+  - portrait
+  - natural
+  - photography
+  - landscape
+  - candid
 wikidata_description: Canadian Crown corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q16851438"
 has_twitter: false
@@ -94,6 +96,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.destinationcanada.com/en-ca](https://www.destinationcanada.com/en-ca)
+- [https://www.canada.travel](https://www.canada.travel)
 
 ## Brand Guidelines
 

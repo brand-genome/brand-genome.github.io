@@ -2,7 +2,7 @@
 title: AMD Ryzen
 slug: "amd-ryzen"
 description: ""
-date: "2026-03-13T09:22:54.345087"
+date: "2026-03-20T08:22:05.173333"
 draft: false
 sectors:
   - electronics
@@ -12,8 +12,8 @@ regions:
 years:
   - 2017
 languages:
-  - english
   - chinese
+  - english
 tags:
   - technology
 industries: []
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +51,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - alternate
-  - stacked
   - vertical
+  - stacked
   - horizontal
+  - alternate
+  - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - product
+  - photography
 wikidata_description: brand for microprocessors by AMD
 wikidata_url: "https://www.wikidata.org/wiki/Q28845729"
 has_twitter: false
@@ -72,7 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amd.com/](https://www.amd.com/)
+- [https://www.amd.com](https://www.amd.com)
+- [https://www.amd.com/en/ryzen](https://www.amd.com/en/ryzen)
 
 ## Brand Guidelines
 

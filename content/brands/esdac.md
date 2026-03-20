@@ -2,7 +2,7 @@
 title: ESDAC
 slug: esdac
 description: ""
-date: "2026-03-13T09:22:54.186570"
+date: "2026-03-20T08:22:05.014122"
 draft: false
 sectors:
   - education
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,15 +50,15 @@ logo_elements:
   - primary
 brand_colors:
   - black
-  - blue
   - white
   - orange
+  - blue
 typographies: []
 imagery_styles:
-  - vibrant
   - colorful
-  - gradient
   - graphic
+  - gradient
+  - vibrant
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q123490001"
 has_twitter: false
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ecole-esdac.com](https://ecole-esdac.com)
 - [http://www.ecole-esdac.com](http://www.ecole-esdac.com)
-- [https://ecole-esdac.com/](https://ecole-esdac.com/)
 
 ## Brand Guidelines
 

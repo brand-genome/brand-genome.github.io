@@ -2,7 +2,7 @@
 title: Alliance Bank
 slug: "alliance-bank"
 description: ""
-date: "2026-03-13T09:22:52.238980"
+date: "2026-03-20T08:22:03.302606"
 draft: false
 sectors:
   - finance
@@ -30,11 +30,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - almaty
   - astana
+  - almaty
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://alliancebank.ua/](http://alliancebank.ua/)
-- [https://alb.ua/](https://alb.ua/)
+- [https://alb.ua](https://alb.ua)
+- [http://alliancebank.ua](http://alliancebank.ua)
+- [http://forte.kz](http://forte.kz)
+- [https://www.fortebank.com](https://www.fortebank.com)
 
 ## Brand Guidelines
 
@@ -84,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Almaty](/headquarters_locations/almaty/); [Astana](/headquarters_locations/astana/) |
+| Headquarters Location | [Astana](/headquarters_locations/astana/); [Almaty](/headquarters_locations/almaty/) |
 | Foundation Date | [1993](/foundation_dates/1993/) |
 | Headquarters Location | Almaty, Astana |
 | Legal Form | joint-stock company |

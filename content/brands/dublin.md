@@ -2,7 +2,7 @@
 title: Dublin
 slug: dublin
 description: ""
-date: "2026-03-13T09:22:54.819356"
+date: "2026-03-20T08:22:05.582085"
 draft: false
 sectors:
   - tourism
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 0841
+foundation_year_buckets:
+  - "9TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,25 +52,25 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-325"
-  - "pantone-322"
-  - "pantone-4545"
-  - "pantone-5513"
-  - grey
-  - yellow
-  - "pantone-426"
-  - black
-  - "pantone-1365"
-  - blue
   - coral
+  - "pantone-4545"
+  - grey
+  - blue
+  - "pantone-325"
+  - "pantone-426"
+  - yellow
+  - "pantone-5513"
+  - "pantone-1365"
   - turquoise
+  - "pantone-322"
+  - black
 typographies:
+  - "source-sans"
   - arial
   - gotham
-  - "source-sans"
 imagery_styles:
-  - vibrant
   - illustration
+  - vibrant
   - contemporary
 wikidata_description: capital and largest city of Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q1761"
@@ -81,9 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.visitdublin.com](https://www.visitdublin.com)
 - [http://www.failteireland.ie/dublin](http://www.failteireland.ie/dublin)
 - [http://www.visitdublin.com](http://www.visitdublin.com)
-- [https://www.visitdublin.com/](https://www.visitdublin.com/)
+- [http://www.dublincity.ie](http://www.dublincity.ie)
 
 ## Brand Guidelines
 

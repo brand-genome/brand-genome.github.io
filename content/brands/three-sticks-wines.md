@@ -2,7 +2,7 @@
 title: Three Sticks Wines
 slug: "three-sticks-wines"
 description: ""
-date: "2026-03-13T09:22:53.651036"
+date: "2026-03-20T08:22:04.510436"
 draft: false
 sectors:
   - drink
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2002
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
+  - white
   - "pantone-7516"
   - black
-  - white
 typographies:
   - helvetica
   - georgia
 imagery_styles:
+  - bold
+  - natural
   - vintage
   - photography
-  - natural
-  - bold
 wikidata_description: "winery in Sonoma, California"
 wikidata_url: "https://www.wikidata.org/wiki/Q63954508"
 has_twitter: false
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://threestickswines.com/](https://threestickswines.com/)
+- [https://threestickswines.com](https://threestickswines.com)
+- [https://www.threestickswines.com](https://www.threestickswines.com)
 
 ## Brand Guidelines
 

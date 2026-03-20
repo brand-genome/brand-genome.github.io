@@ -2,7 +2,7 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-03-13T09:22:53.022954"
+date: "2026-03-20T08:22:04.015484"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1766
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,9 +55,9 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - serif
 imagery_styles:
@@ -72,11 +74,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.rutgers.edu](https://www.rutgers.edu)
+- [https://communications.rutgers.edu/brand-policies/visual-identity](https://communications.rutgers.edu/brand-policies/visual-identity)
+- [https://newbrunswick.rutgers.edu](https://newbrunswick.rutgers.edu)
 - [http://aresty.rutgers.edu](http://aresty.rutgers.edu)
 - [http://www.rutgers.edu](http://www.rutgers.edu)
-- [https://communications.rutgers.edu/brand-policies/visual-identity](https://communications.rutgers.edu/brand-policies/visual-identity)
-- [https://newbrunswick.rutgers.edu/](https://newbrunswick.rutgers.edu/)
-- [https://www.rutgers.edu/](https://www.rutgers.edu/)
 
 ## Brand Guidelines
 

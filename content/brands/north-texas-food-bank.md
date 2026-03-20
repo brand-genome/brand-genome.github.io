@@ -2,7 +2,7 @@
 title: North Texas Food Bank
 slug: "north-texas-food-bank"
 description: ""
-date: "2026-03-13T09:22:53.441312"
+date: "2026-03-20T08:22:04.345009"
 draft: false
 sectors:
   - food
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - "food-beverage"
+  - social
 industries: []
 countries:
   - "united-states"
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1982
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,23 +55,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - symbol
-  - primary
-  - lockup
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - lockup
+  - wordmark
+  - primary
 brand_colors:
+  - green
+  - white
   - grey
   - orange
   - black
-  - green
-  - white
 typographies:
   - arial
-  - serif
   - gotham
+  - serif
 imagery_styles:
   - bold
   - subtle
@@ -84,8 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ntfb.org/](https://ntfb.org/)
+- [https://ntfb.org](https://ntfb.org)
 - [https://ntfb.org/ntfb-logo-library](https://ntfb.org/ntfb-logo-library)
+- [http://www.ntfb.org/index.cfm](http://www.ntfb.org/index.cfm)
 
 ## Brand Guidelines
 

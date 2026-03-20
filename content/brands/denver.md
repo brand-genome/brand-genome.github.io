@@ -2,7 +2,7 @@
 title: Denver
 slug: denver
 description: ""
-date: "2026-03-13T09:22:54.802054"
+date: "2026-03-20T08:22:05.575299"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1858
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,32 +51,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - "pantone-268"
-  - purple
-  - "pantone-180"
-  - "pantone-1805"
-  - navy
-  - "pantone-2925"
+  - red
+  - green
   - "pantone-384"
   - gold
+  - navy
+  - purple
+  - blue
+  - "pantone-268"
+  - "pantone-1805"
+  - "pantone-2925"
   - "pantone-130"
+  - "pantone-180"
   - orange
   - black
-  - red
-  - blue
-  - green
   - "pantone-296"
 typographies:
   - avenir
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: "consolidated city-county and capital of Colorado, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q16554"
 has_twitter: false
@@ -86,8 +88,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.denvergov.org/](http://www.denvergov.org/)
-- [https://www.denvergov.org/](https://www.denvergov.org/)
+- [https://www.denvergov.org](https://www.denvergov.org)
+- [http://www.denvergov.org](http://www.denvergov.org)
 
 ## Brand Guidelines
 

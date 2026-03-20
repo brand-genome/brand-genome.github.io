@@ -2,11 +2,11 @@
 title: Maison ONA
 slug: "maison-ona"
 description: ""
-date: "2026-03-13T09:22:55.033660"
+date: "2026-03-20T08:22:05.736196"
 draft: false
 sectors:
-  - publishing
   - "arts-culture"
+  - publishing
 regions:
   - france
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - edition
   - music
   - art
+  - edition
 industries: []
 countries: []
 revenue_buckets: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,9 +58,9 @@ typographies:
   - garamond
   - futura
 imagery_styles:
-  - contemporary
-  - natural
   - bold
+  - natural
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://maison-ona.com/](https://maison-ona.com/)
+- [https://maison-ona.com](https://maison-ona.com)
 
 ## Brand Guidelines
 

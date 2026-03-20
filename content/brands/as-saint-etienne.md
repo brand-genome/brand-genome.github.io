@@ -2,7 +2,7 @@
 title: "AS Saint-Étienne"
 slug: "as-saint-etienne"
 description: ""
-date: "2026-03-13T09:22:52.874567"
+date: "2026-03-20T08:22:03.870892"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.asse.fr/](https://www.asse.fr/)
-- [https://www.asse.fr/en/](https://www.asse.fr/en/)
+- [https://www.asse.fr/en](https://www.asse.fr/en)
+- [https://www.asse.fr](https://www.asse.fr)
 
 ## Brand Guidelines
 

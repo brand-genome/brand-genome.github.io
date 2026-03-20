@@ -2,23 +2,23 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-03-13T09:22:52.823638"
+date: "2026-03-20T08:22:03.834235"
 draft: false
 sectors:
   - university
 regions:
   - australia
 years:
+  - 2017
   - 2020
   - 2022
-  - 2017
 languages:
   - english
 tags:
-  - featured
   - education
   - university
   - signage
+  - featured
 industries: []
 countries:
   - australia
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1887
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,18 +60,18 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
-  - white
   - red
   - blue
+  - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - photography
-  - gradient
   - bold
   - graphic
+  - gradient
+  - photography
 wikidata_description: public Australian university based in Melbourne
 wikidata_url: "https://www.wikidata.org/wiki/Q1057890"
 has_twitter: false
@@ -81,10 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.myfonts.com/](http://www.myfonts.com/)
-- [http://www.myfonts.com/fonts/linotype/frutiger/](http://www.myfonts.com/fonts/linotype/frutiger/)
-- [https://rmit.com.vn/](https://rmit.com.vn/)
-- [https://www.rmit.edu.au/](https://www.rmit.edu.au/)
+- [https://www.rmit.edu.au](https://www.rmit.edu.au)
+- [https://rmit.com.vn](https://rmit.com.vn)
+- [http://www.myfonts.com](http://www.myfonts.com)
+- [http://www.myfonts.com/fonts/linotype/frutiger](http://www.myfonts.com/fonts/linotype/frutiger)
 
 ## Brand Guidelines
 

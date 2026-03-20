@@ -2,7 +2,7 @@
 title: Oracle Redwood
 slug: "oracle-redwood"
 description: ""
-date: "2026-03-13T09:22:52.059759"
+date: "2026-03-20T08:22:03.126192"
 draft: false
 sectors:
   - software
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://design.oracle.com/](https://design.oracle.com/)
+- [https://design.oracle.com](https://design.oracle.com)
 
 ## Brand Guidelines
 

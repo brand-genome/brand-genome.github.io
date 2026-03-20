@@ -2,7 +2,7 @@
 title: Starling Bank
 slug: "starling-bank"
 description: ""
-date: "2026-03-13T09:22:52.241187"
+date: "2026-03-20T08:22:03.305285"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "software-industry"
-  - "software-development"
   - "financial-services"
+  - "software-development"
+  - "software-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -34,6 +34,7 @@ headquarters_locations:
   - london
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.starlingbank.com/](https://www.starlingbank.com/)
+- [https://www.starlingbank.com](https://www.starlingbank.com)
 
 ## Brand Guidelines
 

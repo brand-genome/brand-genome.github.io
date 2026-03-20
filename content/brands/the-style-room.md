@@ -2,11 +2,11 @@
 title: The Style Room
 slug: "the-style-room"
 description: ""
-date: "2026-03-13T09:22:53.307923"
+date: "2026-03-20T08:22:04.224557"
 draft: false
 sectors:
-  - "e-commerce"
   - fashion
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,27 +48,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - grey
-  - yellow
-  - orange
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - orange
 typographies: []
 imagery_styles:
+  - product
   - organic
-  - geometric
-  - playful
   - subtle
   - photography
-  - product
+  - playful
+  - geometric
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Zappos.com](http://www.Zappos.com)
-- [https://www.zappos.com/a/the-style-room/redirect/luxury/](https://www.zappos.com/a/the-style-room/redirect/luxury/)
+- [https://www.zappos.com/a/the-style-room/redirect/luxury](https://www.zappos.com/a/the-style-room/redirect/luxury)
 - [https://www.zappos.com/kratos/c/the-style-room-women](https://www.zappos.com/kratos/c/the-style-room-women)
+- [http://www.zappos.com](http://www.zappos.com)
 
 ## Brand Guidelines
 

@@ -2,12 +2,12 @@
 title: Dun and Bradstreet
 slug: "dun-and-bradstreet"
 description: ""
-date: "2026-03-13T09:22:54.046505"
+date: "2026-03-20T08:22:04.901126"
 draft: false
 sectors:
+  - finance
   - consulting
   - software
-  - finance
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - financial
 industries: []
 countries:
-  - "united-states"
   - israel
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1841
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,18 +57,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - "pantone-3025"
 typographies: []
 imagery_styles:
-  - photography
-  - staged
   - bold
+  - staged
+  - photography
 wikidata_description: commercial data and analytics service provider
 wikidata_url: "https://www.wikidata.org/wiki/Q1265181"
 has_twitter: false
@@ -78,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dnb.gcs-web.com/](https://dnb.gcs-web.com/)
-- [https://www.dandb.com/](https://www.dandb.com/)
-- [https://www.dnb.com/](https://www.dnb.com/)
+- [https://www.dnb.com](https://www.dnb.com)
+- [https://www.dandb.com](https://www.dandb.com)
+- [https://dnb.gcs-web.com](https://dnb.gcs-web.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-03-13T09:22:53.716430"
+date: "2026-03-20T08:22:04.679848"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries:
   - spain
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,35 +49,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
-  - "pantone-647"
-  - "pantone-3125"
-  - "pantone-200"
-  - "pantone-457"
-  - "pantone-258"
-  - "pantone-444"
-  - "pantone-130"
-  - black
-  - "pantone-287"
-  - "pantone-500"
-  - "pantone-477"
   - "pantone-485"
+  - "pantone-647"
+  - "pantone-500"
+  - "pantone-287"
+  - "pantone-200"
+  - "pantone-258"
   - white
+  - "pantone-444"
   - "pantone-383"
+  - "pantone-3125"
   - "pantone-116"
+  - "pantone-457"
+  - "pantone-130"
+  - "pantone-477"
+  - black
 typographies:
   - display
 imagery_styles:
+  - bold
   - modern
   - natural
-  - clean
   - photography
+  - clean
   - landscape
-  - bold
 wikidata_description: "city in Mallorca and capital of the Balearic Islands, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q8826"
 has_twitter: false
@@ -88,10 +89,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://seuelectronica.palma.es](https://seuelectronica.palma.es)
-- [https://tufas.palma.cat/](https://tufas.palma.cat/)
+- [https://www.palma.es](https://www.palma.es)
 - [https://www.palma.cat/portal/PALMA/home.jsp?codResi=1](https://www.palma.cat/portal/PALMA/home.jsp?codResi=1)
-- [https://www.palma.es/](https://www.palma.es/)
+- [https://seuelectronica.palma.es](https://seuelectronica.palma.es)
+- [https://tufas.palma.cat](https://tufas.palma.cat)
+- [http://www.palma.cat](http://www.palma.cat)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Interreg Danube
 slug: "interreg-danube"
 description: ""
-date: "2026-03-13T09:22:54.971399"
+date: "2026-03-20T08:22:05.701933"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://interreg-danube.eu](https://interreg-danube.eu)
+- [https://interreg.eu/programmes/danube](https://interreg.eu/programmes/danube)
 - [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:347:0320:0469:EN:PDF](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:347:0320:0469:EN:PDF)
 - [http://www.interreg-danube.eu](http://www.interreg-danube.eu)
-- [https://interreg-danube.eu/](https://interreg-danube.eu/)
-- [https://interreg.eu/programmes/danube/](https://interreg.eu/programmes/danube/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: World Triathlon
 slug: "world-triathlon"
 description: ""
-date: "2026-03-13T09:22:53.323961"
+date: "2026-03-20T08:22:04.235249"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1989
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors: []
 typographies: []
 imagery_styles:
-  - natural
-  - clean
   - dynamic
-  - photography
   - professional
   - bold
+  - natural
+  - photography
+  - clean
 wikidata_description: international triathlon governing body
 wikidata_url: "https://www.wikidata.org/wiki/Q637663"
 has_twitter: false
@@ -72,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://triathlon.org](https://triathlon.org)
 - [http://www.triathlon.org](http://www.triathlon.org)
-- [https://triathlon.org/](https://triathlon.org/)
+- [https://www.triathlon.org](https://www.triathlon.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Goat
 slug: goat
 description: ""
-date: "2026-03-13T09:22:54.730432"
+date: "2026-03-20T08:22:05.527738"
 draft: false
 sectors:
   - food
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,28 +47,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
 brand_colors:
-  - gray
-  - grey
-  - orange
-  - black
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - gray
+  - orange
+  - black
 typographies:
-  - serif
   - montserrat
+  - serif
 imagery_styles:
+  - graphic
+  - bold
   - modern
-  - geometric
   - photography
   - gradient
-  - bold
-  - graphic
+  - geometric
 wikidata_description: Swedish band
 wikidata_url: "https://www.wikidata.org/wiki/Q25778"
 has_twitter: false
@@ -79,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.goatgeneration.ca/](https://www.goatgeneration.ca/)
-- [https://www.goatgeneration.com/](https://www.goatgeneration.com/)
+- [https://www.goatgeneration.com](https://www.goatgeneration.com)
+- [https://www.goatgeneration.ca](https://www.goatgeneration.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Local Government Pension Scheme
 slug: "local-government-pension-scheme"
 description: ""
-date: "2026-03-13T09:22:53.267574"
+date: "2026-03-20T08:22:04.193868"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,16 +47,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - grey
-  - orange
-  - black
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - orange
+  - black
 typographies: []
 imagery_styles:
   - professional
@@ -70,11 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.lgpsregs.org/resources/branding.php](http://www.lgpsregs.org/resources/branding.php)
-- [https://lgpsboard.org/](https://lgpsboard.org/)
-- [https://www.lgpsmember.org/](https://www.lgpsmember.org/)
-- [https://www.lgpsregs.org/](https://www.lgpsregs.org/)
+- [https://www.lgpsmember.org](https://www.lgpsmember.org)
+- [https://lgpsboard.org](https://lgpsboard.org)
+- [https://www.lgpsregs.org](https://www.lgpsregs.org)
 - [https://www.lgpsregs.org/resources/branding.php](https://www.lgpsregs.org/resources/branding.php)
+- [http://www.lgpsregs.org/resources/branding.php](http://www.lgpsregs.org/resources/branding.php)
 
 ## Brand Guidelines
 

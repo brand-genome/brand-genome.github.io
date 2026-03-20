@@ -2,11 +2,11 @@
 title: Reliable Robotics
 slug: "reliable-robotics"
 description: ""
-date: "2026-03-13T09:22:53.496560"
+date: "2026-03-20T08:22:04.392790"
 draft: false
 sectors:
-  - "space-technology"
   - aerospace
+  - "space-technology"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://reliable.co/](https://reliable.co/)
+- [https://reliable.co](https://reliable.co)
 
 ## Brand Guidelines
 

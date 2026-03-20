@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-03-13T09:22:53.934084"
+date: "2026-03-20T08:22:04.854371"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1787
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +53,16 @@ body_sections: []
 logo_elements:
   - alternate
 brand_colors:
-  - black
   - yellow
   - white
   - orange
+  - black
 typographies:
-  - display
   - helvetica
+  - display
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: "city in Allegany County, Maryland, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q754868"
 has_twitter: false
@@ -72,11 +74,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cumbriatourism.org/](https://www.cumbriatourism.org/)
-- [https://www.cumbriatourism.org/brands/](https://www.cumbriatourism.org/brands/)
-- [https://www.cumbriatourism.org/brands/visit-lake-district/](https://www.cumbriatourism.org/brands/visit-lake-district/)
-- [https://www.mycumbriacard.co.uk/](https://www.mycumbriacard.co.uk/)
-- [https://www.visitlakedistrict.com/](https://www.visitlakedistrict.com/)
+- [https://www.visitlakedistrict.com](https://www.visitlakedistrict.com)
+- [https://www.cumbriatourism.org](https://www.cumbriatourism.org)
+- [https://www.cumbriatourism.org/brands/visit-lake-district](https://www.cumbriatourism.org/brands/visit-lake-district)
+- [https://www.cumbriatourism.org/brands](https://www.cumbriatourism.org/brands)
+- [https://www.mycumbriacard.co.uk](https://www.mycumbriacard.co.uk)
+- [http://www.ci.cumberland.md.us](http://www.ci.cumberland.md.us)
+- [https://www.cumberlandmd.gov](https://www.cumberlandmd.gov)
 
 ## Brand Guidelines
 

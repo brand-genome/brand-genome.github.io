@@ -2,7 +2,7 @@
 title: ATNS
 slug: atns
 description: ""
-date: "2026-03-13T09:22:54.970455"
+date: "2026-03-20T08:22:05.701339"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1999
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,30 +51,30 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - stacked
+  - primary
   - horizontal
+  - secondary
 brand_colors:
-  - "pantone-307"
-  - "pantone-430"
   - "pantone-136"
-  - "pantone-200"
-  - grey
-  - gray
-  - "pantone-7546"
-  - black
+  - "pantone-430"
   - "pantone-294"
+  - "pantone-200"
+  - "pantone-307"
+  - grey
   - blue
+  - "pantone-7546"
+  - gray
   - "pantone-2945"
+  - black
 typographies:
+  - impact
   - arial
   - din
-  - impact
 imagery_styles:
+  - product
   - portrait
   - landscape
-  - product
 wikidata_description: college affiliated to the Sri Venkateswara University
 wikidata_url: "https://www.wikidata.org/wiki/Q92184228"
 has_twitter: false
@@ -84,8 +86,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.atns.co.za](https://www.atns.co.za)
 - [http://www.co.za](http://www.co.za)
-- [https://www.atns.co.za/](https://www.atns.co.za/)
+- [http://www.atnscollege.com](http://www.atnscollege.com)
 
 ## Brand Guidelines
 

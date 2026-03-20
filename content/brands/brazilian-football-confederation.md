@@ -2,7 +2,7 @@
 title: Brazilian Football Confederation
 slug: "brazilian-football-confederation"
 description: ""
-date: "2026-03-13T09:22:53.435600"
+date: "2026-03-20T08:22:04.339063"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1914
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,12 +54,12 @@ logo_elements:
   - primary
 brand_colors:
   - silver
+  - gold
+  - "pantone-288"
+  - "pantone-109"
   - "pantone-7482"
   - "pantone-2194"
   - black
-  - "pantone-109"
-  - gold
-  - "pantone-288"
 typographies:
   - arial
 imagery_styles:
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cbf.com.br/](https://www.cbf.com.br/)
+- [https://www.cbf.com.br](https://www.cbf.com.br)
+- [http://www.cbf.com.br](http://www.cbf.com.br)
 
 ## Brand Guidelines
 

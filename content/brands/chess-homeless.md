@@ -2,7 +2,7 @@
 title: CHESS Homeless
 slug: "chess-homeless"
 description: ""
-date: "2026-03-13T09:22:54.742322"
+date: "2026-03-20T08:22:05.538423"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,9 +50,9 @@ logo_elements:
   - primary
 brand_colors:
   - black
-  - blue
   - white
   - orange
+  - blue
 typographies: []
 imagery_styles:
   - vibrant
@@ -67,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://chesshomeless.org/](https://chesshomeless.org/)
+- [https://chesshomeless.org](https://chesshomeless.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: NSW Government
 slug: "nsw-government"
 description: ""
-date: "2026-03-13T09:22:53.081818"
+date: "2026-03-20T08:22:04.082583"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries:
   - australia
@@ -31,6 +31,7 @@ headquarters_locations:
   - sydney
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,32 +50,32 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - wordmark
+  - primary
 brand_colors:
+  - red
+  - green
+  - teal
+  - white
   - purple
   - grey
+  - blue
   - yellow
+  - brown
   - orange
   - black
-  - teal
-  - red
-  - blue
-  - green
-  - white
-  - brown
 typographies:
   - arial
 imagery_styles:
+  - staged
   - flat
+  - bold
   - illustration
+  - photography
   - realistic
   - geometric
-  - staged
   - vibrant
-  - photography
-  - bold
 wikidata_description: "State government of New South Wales, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3112564"
 has_twitter: false
@@ -86,10 +87,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nsw.gov.au/](https://www.nsw.gov.au/)
+- [https://www.nsw.gov.au](https://www.nsw.gov.au)
 - [https://www.nsw.gov.au/branding](https://www.nsw.gov.au/branding)
-- [https://www.opengov.nsw.gov.au/](https://www.opengov.nsw.gov.au/)
-- [https://www.service.nsw.gov.au/](https://www.service.nsw.gov.au/)
+- [https://www.service.nsw.gov.au](https://www.service.nsw.gov.au)
+- [https://www.opengov.nsw.gov.au](https://www.opengov.nsw.gov.au)
 
 ## Brand Guidelines
 

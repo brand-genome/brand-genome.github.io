@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-03-13T09:22:54.079867"
+date: "2026-03-20T08:22:04.925964"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - music
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2014
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +52,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - secondary
   - logomark
-  - icon
+  - alternate
   - wordmark
   - primary
-  - alternate
-  - secondary
+  - icon
 brand_colors:
   - black
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - gradient
-  - bold
 wikidata_description: online music streaming service
 wikidata_url: "https://www.wikidata.org/wiki/Q16155126"
 has_twitter: false
@@ -72,6 +74,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://beatsmusic.com](http://beatsmusic.com)
+
 ## Brand Guidelines
 
 ### 2014

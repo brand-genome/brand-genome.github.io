@@ -2,7 +2,7 @@
 title: Vietnam Airlines
 slug: "vietnam-airlines"
 description: ""
-date: "2026-03-13T09:22:54.049401"
+date: "2026-03-20T08:22:04.902137"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1956
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - vibrant
   - modern
+  - vibrant
 wikidata_description: "flag-carrier airline of Vietnam"
 wikidata_url: "https://www.wikidata.org/wiki/Q174386"
 has_twitter: false
@@ -70,8 +72,9 @@ visual_term_image_urls: {}
 
 - [https://www.vietnamairlines.com](https://www.vietnamairlines.com)
 - [https://www.vietnamairlines.com/us/en](https://www.vietnamairlines.com/us/en)
-- [https://www.vietnamairlines.com/us/en/lotusmiles](https://www.vietnamairlines.com/us/en/lotusmiles)
 - [https://www.vietnamairlines.com/vn/en](https://www.vietnamairlines.com/vn/en)
+- [https://www.vietnamairlines.com/us/en/lotusmiles](https://www.vietnamairlines.com/us/en/lotusmiles)
+- [http://www.vietnamairlines.com](http://www.vietnamairlines.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Stella Maris
 slug: "stella-maris"
 description: ""
-date: "2026-03-13T09:22:53.668195"
+date: "2026-03-20T08:22:04.525838"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,22 +47,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
-  - horizontal
   - vertical
+  - primary
+  - horizontal
+  - secondary
 brand_colors:
+  - red
+  - green
+  - white
   - grey
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies:
-  - nunito
   - verdana
+  - nunito
 imagery_styles:
   - bold
   - graphic
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://stellamaris.org.uk/](https://stellamaris.org.uk/)
+- [https://stellamaris.org.uk](https://stellamaris.org.uk)
 
 ## Brand Guidelines
 

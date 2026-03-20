@@ -2,7 +2,7 @@
 title: CHP
 slug: chp
 description: ""
-date: "2026-03-13T09:22:53.080731"
+date: "2026-03-20T08:22:04.080549"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +50,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - white
   - red
+  - white
 typographies:
   - gotham
   - futura
 imagery_styles:
+  - clean
+  - modern
   - geometric
   - photography
-  - modern
-  - clean
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q52637368"
 has_twitter: false
@@ -74,6 +76,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://chp.org.tr/home](https://chp.org.tr/home)
+- [http://www.corpsprefectoral.fr/comite-lhistoire-prefectorale](http://www.corpsprefectoral.fr/comite-lhistoire-prefectorale)
 
 ## Brand Guidelines
 

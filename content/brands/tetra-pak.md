@@ -2,7 +2,7 @@
 title: Tetra Pak
 slug: "tetra-pak"
 description: ""
-date: "2026-03-13T09:22:55.089335"
+date: "2026-03-20T08:22:05.794149"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -17,8 +17,8 @@ tags:
 industries:
   - "product-packaging-industry"
 countries:
-  - switzerland
   - sweden
+  - switzerland
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets: []
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1943
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tetrapak.com/](https://www.tetrapak.com/)
+- [https://www.tetrapak.com](https://www.tetrapak.com)
 - [https://www.tetrapak.com/en-us](https://www.tetrapak.com/en-us)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: BigLift
 slug: biglift
 description: ""
-date: "2026-03-13T09:22:53.268501"
+date: "2026-03-20T08:22:04.195172"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
+  - blue
   - yellow
   - white
-  - blue
+  - black
 typographies:
   - arial
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: transport company
 wikidata_url: "https://www.wikidata.org/wiki/Q858380"
 has_twitter: false
@@ -74,8 +76,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bigliftshipping.com](https://www.bigliftshipping.com)
 - [http://www.bigliftshipping.com](http://www.bigliftshipping.com)
-- [https://www.bigliftshipping.com/](https://www.bigliftshipping.com/)
 
 ## Brand Guidelines
 

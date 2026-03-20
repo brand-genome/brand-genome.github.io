@@ -2,7 +2,7 @@
 title: Ontario Soccer
 slug: "ontario-soccer"
 description: ""
-date: "2026-03-13T09:22:54.572866"
+date: "2026-03-20T08:22:05.417956"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - alternate
+  - primary
   - horizontal
 brand_colors:
-  - black
+  - red
   - gray
   - white
-  - red
+  - black
 typographies:
   - arial
   - roboto
 imagery_styles:
-  - modern
-  - playful
-  - photography
+  - graphic
   - professional
   - bold
-  - graphic
+  - modern
+  - photography
+  - playful
 wikidata_description: football league
 wikidata_url: "https://www.wikidata.org/wiki/Q7094899"
 has_twitter: false
@@ -76,9 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ontariosoccer.net](https://www.ontariosoccer.net)
 - [http://www.google.com](http://www.google.com)
 - [http://www.ontariosoccer.net](http://www.ontariosoccer.net)
-- [https://www.ontariosoccer.net/](https://www.ontariosoccer.net/)
 
 ## Brand Guidelines
 

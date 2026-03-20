@@ -2,11 +2,11 @@
 title: Summer Search
 slug: "summer-search"
 description: ""
-date: "2026-03-13T09:22:54.744854"
+date: "2026-03-20T08:22:05.541414"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -33,6 +33,7 @@ headquarters_locations:
   - oakland
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,15 +66,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://summersearch.org](https://summersearch.org)
+- [https://summersearch.org/bay-area](https://summersearch.org/bay-area)
+- [https://summersearch.org/boston](https://summersearch.org/boston)
+- [https://summersearch.org/new-york-city](https://summersearch.org/new-york-city)
+- [https://summersearch.org/philadelphia](https://summersearch.org/philadelphia)
+- [https://summersearch.org/seattle](https://summersearch.org/seattle)
 - [http://www.elixirdesign.com](http://www.elixirdesign.com)
 - [http://www.flickr.com](http://www.flickr.com)
 - [http://www.vimeo.com](http://www.vimeo.com)
-- [https://summersearch.org/](https://summersearch.org/)
-- [https://summersearch.org/bay-area/](https://summersearch.org/bay-area/)
-- [https://summersearch.org/boston/](https://summersearch.org/boston/)
-- [https://summersearch.org/new-york-city/](https://summersearch.org/new-york-city/)
-- [https://summersearch.org/philadelphia/](https://summersearch.org/philadelphia/)
-- [https://summersearch.org/seattle/](https://summersearch.org/seattle/)
+- [http://www.summersearch.org](http://www.summersearch.org)
 
 ## Brand Guidelines
 

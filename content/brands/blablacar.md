@@ -2,11 +2,11 @@
 title: BlaBlaCar
 slug: blablacar
 description: ""
-date: "2026-03-13T09:22:51.982346"
+date: "2026-03-20T08:22:03.083508"
 draft: false
 sectors:
-  - software
   - "ride-sharing"
+  - software
 regions:
   - france
 years:
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2012
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.blablacar.co.uk/](https://www.blablacar.co.uk/)
-- [https://www.blablacar.com/](https://www.blablacar.com/)
-- [https://www.blablacar.fr/](https://www.blablacar.fr/)
-- [https://www.blablacar.in/](https://www.blablacar.in/)
+- [https://www.blablacar.com](https://www.blablacar.com)
+- [https://www.blablacar.fr](https://www.blablacar.fr)
+- [https://www.blablacar.co.uk](https://www.blablacar.co.uk)
+- [https://www.blablacar.in](https://www.blablacar.in)
+- [https://www.blablacar.fr/bus](https://www.blablacar.fr/bus)
 
 ## Brand Guidelines
 

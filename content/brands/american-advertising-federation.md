@@ -2,7 +2,7 @@
 title: American Advertising Federation
 slug: "american-advertising-federation"
 description: ""
-date: "2026-03-13T09:22:53.466400"
+date: "2026-03-20T08:22:04.367638"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1905
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,25 +52,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - lettermark
-  - primary
   - vertical
   - wordmark
+  - primary
+  - lettermark
 brand_colors:
-  - gray
-  - yellow
-  - black
-  - pink
   - red
-  - blue
   - white
+  - blue
+  - yellow
+  - gray
+  - pink
+  - black
 typographies:
   - display
 imagery_styles:
-  - minimal
-  - professional
   - bold
   - gradient
+  - minimal
+  - professional
 wikidata_description: U.S. trade association
 wikidata_url: "https://www.wikidata.org/wiki/Q4742924"
 has_twitter: false
@@ -80,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aaf.org/](https://www.aaf.org/)
+- [https://www.aaf.org](https://www.aaf.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Carson-Newman University"
 slug: "carson-newman-university"
 description: ""
-date: "2026-03-13T09:22:52.237861"
+date: "2026-03-20T08:22:03.301064"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1851
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,10 +69,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://acorns-oaks.cn.edu/](https://acorns-oaks.cn.edu/)
-- [https://admissions.cn.edu/](https://admissions.cn.edu/)
-- [https://catalog.cn.edu/](https://catalog.cn.edu/)
-- [https://www.cn.edu/](https://www.cn.edu/)
+- [https://www.cn.edu](https://www.cn.edu)
+- [https://catalog.cn.edu](https://catalog.cn.edu)
+- [https://acorns-oaks.cn.edu](https://acorns-oaks.cn.edu)
+- [https://admissions.cn.edu](https://admissions.cn.edu)
+- [http://www.cn.edu](http://www.cn.edu)
 
 ## Brand Guidelines
 

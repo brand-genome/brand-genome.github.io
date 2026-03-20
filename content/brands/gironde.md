@@ -2,7 +2,7 @@
 title: Gironde
 slug: gironde
 description: ""
-date: "2026-03-13T09:22:54.975286"
+date: "2026-03-20T08:22:05.706554"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1790
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,14 +51,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - red
+  - black
 typographies:
   - serif
 imagery_styles:
   - classic
-  - modern
   - bold
+  - modern
 wikidata_description: "French department in Nouvelle-Aquitaine"
 wikidata_url: "https://www.wikidata.org/wiki/Q12526"
 has_twitter: false
@@ -68,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gironde.fr/](https://www.gironde.fr/)
+- [https://www.gironde.fr](https://www.gironde.fr)
 
 ## Brand Guidelines
 

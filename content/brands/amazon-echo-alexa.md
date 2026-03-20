@@ -2,7 +2,7 @@
 title: Amazon Echo / Alexa
 slug: "amazon-echo-alexa"
 description: ""
-date: "2026-03-13T09:22:54.763369"
+date: "2026-03-20T08:22:05.555421"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
   - internet
 industries: []
 countries: []
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,18 +50,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - badge
   - primary
+  - badge
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
-  - natural
-  - realistic
-  - monochrome
   - portrait
+  - natural
   - photography
+  - monochrome
+  - realistic
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,10 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Amazon.com](http://www.Amazon.com)
-- [https://alexa.amazon.com/](https://alexa.amazon.com/)
+- [https://alexa.amazon.com](https://alexa.amazon.com)
 - [https://developer.amazon.com/alexa](https://developer.amazon.com/alexa)
 - [https://www.amazon.com/echo](https://www.amazon.com/echo)
+- [http://www.amazon.com](http://www.amazon.com)
 
 ## Brand Guidelines
 

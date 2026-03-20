@@ -2,7 +2,7 @@
 title: Professional Engineers Ontario
 slug: "professional-engineers-ontario"
 description: ""
-date: "2026-03-13T09:22:53.331651"
+date: "2026-03-20T08:22:04.242109"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,18 +48,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - abstract
-  - signature
 brand_colors: []
 typographies:
   - garamond
 imagery_styles:
-  - abstract
   - dynamic
+  - abstract
+  - graphic
   - professional
   - bold
-  - graphic
 wikidata_description: "professional engineering association in Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q7247957"
 has_twitter: false
@@ -70,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.peo.on.ca/](https://www.peo.on.ca/)
+- [https://www.peo.on.ca](https://www.peo.on.ca)
+- [http://www.peo.on.ca](http://www.peo.on.ca)
 
 ## Brand Guidelines
 

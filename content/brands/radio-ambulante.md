@@ -2,11 +2,11 @@
 title: Radio Ambulante
 slug: "radio-ambulante"
 description: ""
-date: "2026-03-13T09:22:54.753044"
+date: "2026-03-20T08:22:05.551200"
 draft: false
 sectors:
-  - publishing
   - broadcasting
+  - publishing
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - stacked
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,9 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.npr.org/podcasts](http://www.npr.org/podcasts)
-- [https://radioambulante.org/](https://radioambulante.org/)
+- [https://radioambulante.org](https://radioambulante.org)
 - [https://radioambulante.org/en/about-us](https://radioambulante.org/en/about-us)
+- [http://www.npr.org/podcasts](http://www.npr.org/podcasts)
 
 ## Brand Guidelines
 

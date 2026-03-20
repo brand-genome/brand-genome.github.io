@@ -2,7 +2,7 @@
 title: University of Alabama
 slug: "university-of-alabama"
 description: ""
-date: "2026-03-13T09:22:53.644695"
+date: "2026-03-20T08:22:04.501515"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1831
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +53,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - "pantone-201"
-  - "pantone-430"
   - silver
-  - gray
   - crimson
-  - black
+  - "pantone-430"
+  - "pantone-201"
   - white
+  - gray
+  - black
 typographies:
-  - serif
   - "sans-serif"
   - script
+  - serif
 imagery_styles: []
 wikidata_description: "public university located in Tuscaloosa, Alabama, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q492318"
@@ -77,9 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://brand.ua.edu/](https://brand.ua.edu/)
-- [https://online.ua.edu/](https://online.ua.edu/)
-- [https://www.ua.edu/](https://www.ua.edu/)
+- [https://www.ua.edu](https://www.ua.edu)
+- [https://brand.ua.edu](https://brand.ua.edu)
+- [https://online.ua.edu](https://online.ua.edu)
 
 ## Brand Guidelines
 

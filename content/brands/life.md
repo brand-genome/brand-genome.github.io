@@ -2,11 +2,11 @@
 title: Life
 slug: life
 description: ""
-date: "2026-03-13T09:22:53.711653"
+date: "2026-03-20T08:22:04.658185"
 draft: false
 sectors:
-  - publishing
   - "arts-culture"
+  - publishing
 regions:
   - usa
 years:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,15 +60,15 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies: []
 imagery_styles:
-  - minimal
-  - photography
   - bold
   - clean
+  - photography
+  - minimal
 wikidata_description: South Korean multinational conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q136778"
 has_twitter: false
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.life.com/](https://www.life.com/)
-- [https://www.life.com/life-picture-collection/](https://www.life.com/life-picture-collection/)
+- [https://www.life.com](https://www.life.com)
+- [https://www.life.com/life-picture-collection](https://www.life.com/life-picture-collection)
+- [https://lg.com](https://lg.com)
 
 ## Brand Guidelines
 

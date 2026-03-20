@@ -2,7 +2,7 @@
 title: Trolib
 slug: trolib
 description: ""
-date: "2026-03-13T09:22:55.149648"
+date: "2026-03-20T08:22:05.849284"
 draft: false
 sectors:
   - tourism
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.trolib.com/](https://www.trolib.com/)
+- [https://www.trolib.com](https://www.trolib.com)
 
 ## Brand Guidelines
 

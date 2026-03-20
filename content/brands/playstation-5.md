@@ -2,11 +2,11 @@
 title: PlayStation 5
 slug: "playstation-5"
 description: ""
-date: "2026-03-13T09:22:53.276866"
+date: "2026-03-20T08:22:04.204576"
 draft: false
 sectors:
-  - electronics
   - gaming
+  - electronics
   - entertainment
 regions:
   - japan
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.playstation.com/](https://www.playstation.com/)
-- [https://www.playstation.com/ps5/](https://www.playstation.com/ps5/)
+- [https://www.playstation.com/ps5](https://www.playstation.com/ps5)
+- [https://www.playstation.com](https://www.playstation.com)
 
 ## Brand Guidelines
 

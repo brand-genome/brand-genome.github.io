@@ -2,7 +2,7 @@
 title: Revelstoke
 slug: revelstoke
 description: ""
-date: "2026-03-13T09:22:54.802524"
+date: "2026-03-20T08:22:05.575764"
 draft: false
 sectors:
   - tourism
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1880
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,19 +50,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
-  - yellow
-  - black
   - red
   - green
   - white
+  - yellow
+  - black
 typographies:
-  - arial
-  - helvetica
-  - times
   - impact
+  - helvetica
+  - arial
+  - times
 imagery_styles:
   - photography
   - modern
@@ -77,9 +79,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.SEEREVELSTOKE.COM](http://www.SEEREVELSTOKE.COM)
-- [https://seerevelstoke.com/](https://seerevelstoke.com/)
-- [https://www.destinationrevelstoke.com/](https://www.destinationrevelstoke.com/)
+- [https://seerevelstoke.com](https://seerevelstoke.com)
+- [https://www.destinationrevelstoke.com](https://www.destinationrevelstoke.com)
+- [http://www.seerevelstoke.com](http://www.seerevelstoke.com)
+- [https://revelstoke.ca](https://revelstoke.ca)
 
 ## Brand Guidelines
 

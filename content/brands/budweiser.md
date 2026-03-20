@@ -2,11 +2,11 @@
 title: Budweiser
 slug: budweiser
 description: ""
-date: "2026-03-13T09:22:53.075961"
+date: "2026-03-20T08:22:04.072176"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries:
   - "brewing-industry"
 countries:
@@ -41,6 +41,9 @@ subsidiaries: []
 foundation_dates:
   - 1895
   - 1967
+foundation_year_buckets:
+  - 1960S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,7 +76,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.budweiser.com/](https://www.budweiser.com/)
+- [https://www.budweiser.com](https://www.budweiser.com)
+- [https://www.budejovickybudvar.cz](https://www.budejovickybudvar.cz)
+- [http://www.budvar.cz](http://www.budvar.cz)
 
 ## Brand Guidelines
 

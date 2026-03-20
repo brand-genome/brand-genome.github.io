@@ -2,7 +2,7 @@
 title: MZLZ
 slug: mzlz
 description: ""
-date: "2026-03-13T09:22:53.340127"
+date: "2026-03-20T08:22:04.249508"
 draft: false
 sectors:
   - "public-transportation"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,18 +47,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - emblem
+  - primary
 brand_colors:
   - white
   - blue
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
-  - monochrome
-  - clean
   - bold
+  - clean
+  - monochrome
 wikidata_description: group of stereoisomers with the chemical formula C₄₅H₇₂O₂₀
 wikidata_url: "https://www.wikidata.org/wiki/Q105175839"
 has_twitter: false
@@ -69,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.zagreb-airport.hr](https://www.zagreb-airport.hr)
 - [http://www.zagreb-airport.hr](http://www.zagreb-airport.hr)
-- [https://www.zagreb-airport.hr/](https://www.zagreb-airport.hr/)
 
 ## Brand Guidelines
 

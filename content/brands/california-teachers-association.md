@@ -2,7 +2,7 @@
 title: California Teachers Association
 slug: "california-teachers-association"
 description: ""
-date: "2026-03-13T09:22:53.011593"
+date: "2026-03-20T08:22:04.001973"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - education
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cta.org/](https://www.cta.org/)
+- [https://www.cta.org](https://www.cta.org)
 - [https://www.cta.org/brandkit](https://www.cta.org/brandkit)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: CAF
 slug: caf
 description: ""
-date: "2026-03-13T09:22:54.359975"
+date: "2026-03-20T08:22:05.190088"
 draft: false
 sectors:
   - finance
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1917
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,15 +56,15 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
-  - "pantone-7540"
   - red
   - "pantone-711"
+  - "pantone-7540"
+  - grey
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - bold
+  - photography
 wikidata_description: Spanish railway and bus manufacturing company
 wikidata_url: "https://www.wikidata.org/wiki/Q838212"
 has_twitter: false
@@ -74,10 +76,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.caf.com](https://www.caf.com)
+- [https://www.caf.com/en](https://www.caf.com/en)
+- [https://www.caf.net](https://www.caf.net)
 - [http://www.caf.net](http://www.caf.net)
-- [https://www.caf.com/](https://www.caf.com/)
-- [https://www.caf.com/en/](https://www.caf.com/en/)
-- [https://www.caf.net/](https://www.caf.net/)
+- [https://www.cafmobility.com](https://www.cafmobility.com)
 
 ## Brand Guidelines
 

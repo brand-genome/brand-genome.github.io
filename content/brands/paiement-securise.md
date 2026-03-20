@@ -2,15 +2,15 @@
 title: Paiement Securisé
 slug: "paiement-securise"
 description: ""
-date: "2026-03-13T09:22:52.321461"
+date: "2026-03-20T08:22:03.389578"
 draft: false
 sectors:
   - finance
 regions:
   - france
 years:
-  - 2019
   - 2024
+  - 2019
 languages:
   - french
 tags:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cartes-bancaires.com/](https://www.cartes-bancaires.com/)
+- [https://www.cartes-bancaires.com](https://www.cartes-bancaires.com)
 - [https://www.cartes-bancaires.com/wp-content/uploads/2024/07/charte_graphique_logo_CB_PAIEMENT_SECURISE_2024.pdf](https://www.cartes-bancaires.com/wp-content/uploads/2024/07/charte_graphique_logo_CB_PAIEMENT_SECURISE_2024.pdf)
 
 ## Brand Guidelines

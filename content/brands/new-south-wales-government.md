@@ -2,7 +2,7 @@
 title: New South Wales Government
 slug: "new-south-wales-government"
 description: ""
-date: "2026-03-13T09:22:55.157462"
+date: "2026-03-20T08:22:05.859223"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,7 @@ headquarters_locations:
   - sydney
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,10 +49,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
-  - primary
-  - emblem
   - vertical
+  - emblem
+  - primary
+  - horizontal
 brand_colors:
   - red
   - blue
@@ -59,8 +60,8 @@ typographies:
   - arial
   - gotham
 imagery_styles:
-  - monochrome
   - graphic
+  - monochrome
 wikidata_description: "State government of New South Wales, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3112564"
 has_twitter: false
@@ -72,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://branding.nsw.gov.au/](https://branding.nsw.gov.au/)
-- [https://www.nsw.gov.au/](https://www.nsw.gov.au/)
+- [https://www.nsw.gov.au](https://www.nsw.gov.au)
+- [https://branding.nsw.gov.au](https://branding.nsw.gov.au)
 
 ## Brand Guidelines
 

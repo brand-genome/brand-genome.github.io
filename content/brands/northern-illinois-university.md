@@ -2,7 +2,7 @@
 title: Northern Illinois University
 slug: "northern-illinois-university"
 description: ""
-date: "2026-03-13T09:22:53.296361"
+date: "2026-03-20T08:22:04.218726"
 draft: false
 sectors:
   - university
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1895
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - primary
 brand_colors: []
 typographies:
   - arial
@@ -73,13 +75,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.NIU.edu](http://www.NIU.edu)
+- [https://www.niu.edu](https://www.niu.edu)
+- [https://www.niu.edu/communication-standards/index.shtml](https://www.niu.edu/communication-standards/index.shtml)
+- [https://www.niu.edu/online](https://www.niu.edu/online)
+- [http://www.niu.edu](http://www.niu.edu)
 - [http://www.m-w.com](http://www.m-w.com)
 - [http://www.niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx](http://www.niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx)
 - [http://www.qualtrics.com](http://www.qualtrics.com)
-- [https://www.niu.edu/](https://www.niu.edu/)
-- [https://www.niu.edu/communication-standards/index.shtml](https://www.niu.edu/communication-standards/index.shtml)
-- [https://www.niu.edu/online/](https://www.niu.edu/online/)
 
 ## Brand Guidelines
 

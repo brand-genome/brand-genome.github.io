@@ -2,13 +2,13 @@
 title: Arbonne
 slug: arbonne
 description: ""
-date: "2026-03-13T09:22:55.084245"
+date: "2026-03-20T08:22:05.787951"
 draft: false
 sectors:
-  - cosmetics
-  - mlm
   - "wellness-spa"
   - beauty
+  - cosmetics
+  - mlm
 regions:
   - canada
 years:
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1975
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,9 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://best.arbonne.com/](https://best.arbonne.com/)
-- [https://www.arbonne.ca/](https://www.arbonne.ca/)
-- [https://www.arbonne.com/](https://www.arbonne.com/)
+- [https://www.arbonne.com](https://www.arbonne.com)
+- [https://www.arbonne.ca](https://www.arbonne.ca)
+- [https://best.arbonne.com](https://best.arbonne.com)
+- [http://www.arbonne.com](http://www.arbonne.com)
 
 ## Brand Guidelines
 

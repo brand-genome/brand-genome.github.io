@@ -2,7 +2,7 @@
 title: Universidade de Brasília
 slug: "universidade-de-brasilia"
 description: ""
-date: "2026-03-13T09:22:51.904881"
+date: "2026-03-20T08:22:03.068526"
 draft: false
 sectors:
   - education
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://international.unb.br/](https://international.unb.br/)
-- [https://www.portal.unb.br/](https://www.portal.unb.br/)
+- [https://www.portal.unb.br](https://www.portal.unb.br)
+- [https://international.unb.br](https://international.unb.br)
 
 ## Brand Guidelines
 

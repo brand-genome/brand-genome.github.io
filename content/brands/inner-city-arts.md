@@ -2,12 +2,12 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-03-13T09:22:54.045440"
+date: "2026-03-20T08:22:04.900389"
 draft: false
 sectors:
-  - education
-  - "arts-culture"
   - ngo
+  - "arts-culture"
+  - education
 regions:
   - usa
 years:
@@ -35,6 +35,7 @@ headquarters_locations:
   - "los-angeles"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,22 +57,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - white
   - gray
   - orange
   - black
-  - red
-  - white
 typographies:
-  - helvetica
   - gotham
-  - "sans-serif"
-  - arial
   - impact
+  - arial
+  - "sans-serif"
+  - helvetica
 imagery_styles:
-  - vibrant
+  - bold
   - dynamic
   - clean
-  - bold
+  - vibrant
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54857722"
 has_twitter: false
@@ -83,8 +84,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.INNER-CITYARTS.ORG](http://www.INNER-CITYARTS.ORG)
-- [https://inner-cityarts.org/](https://inner-cityarts.org/)
+- [https://inner-cityarts.org](https://inner-cityarts.org)
+- [http://www.inner-cityarts.org](http://www.inner-cityarts.org)
 
 ## Brand Guidelines
 

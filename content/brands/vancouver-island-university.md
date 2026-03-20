@@ -2,7 +2,7 @@
 title: Vancouver Island University
 slug: "vancouver-island-university"
 description: ""
-date: "2026-03-13T09:22:53.431621"
+date: "2026-03-20T08:22:04.334925"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,11 +55,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
-  - symbol
   - vertical
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - black
   - white
@@ -75,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.viu.ca/](https://www.viu.ca/)
+- [https://www.viu.ca](https://www.viu.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: National Premier Leagues
 slug: "national-premier-leagues"
 description: ""
-date: "2026-03-13T09:22:54.194408"
+date: "2026-03-20T08:22:05.025809"
 draft: false
 sectors:
   - sports
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
-  - "pantone-2995"
-  - "pantone-300"
   - "pantone-289"
-  - black
   - white
+  - "pantone-300"
+  - "pantone-2995"
+  - black
 typographies:
   - gotham
 imagery_styles:
+  - bold
   - dynamic
   - flat
-  - bold
 wikidata_description: football league
 wikidata_url: "https://www.wikidata.org/wiki/Q6975027"
 has_twitter: false
@@ -75,7 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nationalpremierleagues.com.au/](https://www.nationalpremierleagues.com.au/)
+- [https://www.nationalpremierleagues.com.au](https://www.nationalpremierleagues.com.au)
+- [http://www.footballaustralia.com.au/nationalpremierleagues](http://www.footballaustralia.com.au/nationalpremierleagues)
 
 ## Brand Guidelines
 

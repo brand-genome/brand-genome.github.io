@@ -2,7 +2,7 @@
 title: Flywheel
 slug: flywheel
 description: ""
-date: "2026-03-13T09:22:55.096645"
+date: "2026-03-20T08:22:05.802757"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://getflywheel.com/](https://getflywheel.com/)
-- [https://getflywheel.com/managed-wordpress-hosting/](https://getflywheel.com/managed-wordpress-hosting/)
+- [https://getflywheel.com](https://getflywheel.com)
+- [https://getflywheel.com/managed-wordpress-hosting](https://getflywheel.com/managed-wordpress-hosting)
 - [https://getflywheel.com/pricing](https://getflywheel.com/pricing)
-- [https://localwp.com/](https://localwp.com/)
+- [https://localwp.com](https://localwp.com)
 
 ## Brand Guidelines
 

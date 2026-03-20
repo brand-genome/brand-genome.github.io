@@ -19,6 +19,7 @@ from collections import defaultdict
 from pathlib import Path
 from datetime import datetime
 import unicodedata
+from urllib.parse import urlsplit, urlunsplit
 
 # Try to import spaCy for NER
 try:
@@ -255,6 +256,99 @@ def clean_display_value(value):
     text = str(value)
     return text.replace('mailto:', '').replace('|', '\\|')
 
+def normalize_url(url):
+    """Normalize URL for display and deduplication."""
+    if not url:
+        return None
+
+    normalized = str(url).strip()
+    if not normalized:
+        return None
+
+    if normalized.startswith('www.'):
+        normalized = f'https://{normalized}'
+    elif not normalized.startswith(('http://', 'https://')):
+        normalized = f'https://{normalized}'
+
+    try:
+        parsed = urlsplit(normalized)
+        scheme = parsed.scheme.lower() or 'https'
+        netloc = parsed.netloc.lower()
+        path = parsed.path.rstrip('/')
+        cleaned = urlunsplit((scheme, netloc, path, parsed.query, ''))
+        return cleaned
+    except Exception:
+        return normalized
+
+def merge_unique_urls(existing_urls, new_urls):
+    """Merge URLs with normalization-based deduplication while preserving order."""
+    merged = []
+    seen = set()
+
+    for url in list(existing_urls or []) + list(new_urls or []):
+        cleaned = normalize_url(url)
+        if not cleaned:
+            continue
+        dedupe_key = cleaned.lower()
+        if dedupe_key in seen:
+            continue
+        seen.add(dedupe_key)
+        merged.append(cleaned)
+
+    return merged
+
+def ordinal_suffix(value):
+    """Return ordinal suffix for integer values."""
+    if 10 <= (value % 100) <= 20:
+        return 'TH'
+    return {1: 'ST', 2: 'ND', 3: 'RD'}.get(value % 10, 'TH')
+
+def parse_year_from_text(value):
+    """Extract a 4-digit year from text."""
+    if value is None:
+        return None
+    match = re.search(r'\b(\d{4})\b', str(value))
+    if not match:
+        return None
+    try:
+        return int(match.group(1))
+    except ValueError:
+        return None
+
+def get_foundation_year_bucket(value):
+    """Build foundation year bucket: pre-1900 by century, 1900+ by decade."""
+    year = parse_year_from_text(value)
+    if not year:
+        return None
+
+    if year < 1900:
+        century = ((year - 1) // 100) + 1
+        return f"{century}{ordinal_suffix(century)}-CENTURY"
+
+    decade = (year // 10) * 10
+    return f"{decade}S"
+
+def extract_wikidata_websites(wikidata_entry):
+    """Extract official website URLs from Wikidata entry properties."""
+    urls = []
+    if not isinstance(wikidata_entry, dict):
+        return urls
+
+    properties = wikidata_entry.get('properties', {})
+    if not isinstance(properties, dict):
+        return urls
+
+    for key in ['official_website', 'website', 'url', 'home_page', 'homepage']:
+        for item in to_value_list(properties.get(key)):
+            if isinstance(item, dict):
+                value = item.get('value')
+                if value:
+                    urls.append(value)
+            elif item:
+                urls.append(item)
+
+    return urls
+
 def build_history_entry(value, bucket_fn, display_fn):
     """Build a normalized history entry with year info and bucket."""
     numeric_source = value.get('value') if isinstance(value, dict) else value
@@ -339,7 +433,7 @@ def extract_all_websites(item):
     and official_website_wiki_web_search fields.
     Returns a deduplicated list of website URLs.
     """
-    websites = set()
+    websites = []
     
     # 1. From gpt_web_search -> official_website
     gpt_web_search = item.get('gpt_web_search', {})
@@ -349,9 +443,9 @@ def extract_all_websites(item):
             if isinstance(official_websites, list):
                 for url in official_websites:
                     if url and isinstance(url, str):
-                        websites.add(url.strip())
+                        websites.append(url.strip())
             elif isinstance(official_websites, str):
-                websites.add(official_websites.strip())
+                    websites.append(official_websites.strip())
     
     # 2. From pdf_extracted_url
     pdf_urls = item.get('pdf_extracted_url', [])
@@ -359,9 +453,9 @@ def extract_all_websites(item):
         if isinstance(pdf_urls, list):
             for url in pdf_urls:
                 if url and isinstance(url, str):
-                    websites.add(url.strip())
+                        websites.append(url.strip())
         elif isinstance(pdf_urls, str):
-            websites.add(pdf_urls.strip())
+                    websites.append(pdf_urls.strip())
     
     # 3. From official_website_wiki_web_search
     wiki_web_search = item.get('official_website_wiki_web_search', {})
@@ -372,9 +466,9 @@ def extract_all_websites(item):
             if isinstance(wiki_official, list):
                 for url in wiki_official:
                     if url and isinstance(url, str):
-                        websites.add(url.strip())
+                        websites.append(url.strip())
             elif isinstance(wiki_official, str):
-                websites.add(wiki_official.strip())
+                    websites.append(wiki_official.strip())
         
         # Also check for any url/urls fields
         for key in ['url', 'urls', 'website', 'websites']:
@@ -383,20 +477,13 @@ def extract_all_websites(item):
                 if isinstance(val, list):
                     for url in val:
                         if url and isinstance(url, str):
-                            websites.add(url.strip())
+                                websites.append(url.strip())
                 elif isinstance(val, str):
-                    websites.add(val.strip())
+                            websites.append(val.strip())
     
     # Filter out empty strings and invalid URLs
-    valid_websites = []
-    for url in websites:
-        if url and len(url) > 5:  # Basic validation
-            # Ensure URL has protocol
-            if not url.startswith(('http://', 'https://')):
-                url = 'https://' + url
-            valid_websites.append(url)
-    
-    return sorted(valid_websites)
+    valid_websites = [url for url in websites if url and len(str(url).strip()) > 5]
+    return merge_unique_urls([], valid_websites)
 
 # =============================================================================
 # COLOR DATA PROCESSING
@@ -815,6 +902,7 @@ def process_wikidata_properties(wikidata):
         'headquarters_locations': [],
         'subsidiaries': [],
         'foundation_dates': [],
+        'foundation_year_buckets': [],
     }
     
     props = wikidata.get('properties', {})
@@ -859,7 +947,11 @@ def process_wikidata_properties(wikidata):
         elif key == 'inception':
             for item in extract_connection_values(value):
                 year_match = re.search(r'\b\d{4}\b', item)
-                one_degree['foundation_dates'].append(year_match.group(0) if year_match else item)
+                foundation_year = year_match.group(0) if year_match else item
+                one_degree['foundation_dates'].append(foundation_year)
+                bucket = get_foundation_year_bucket(foundation_year)
+                if bucket:
+                    one_degree['foundation_year_buckets'].append(bucket)
 
         formatted = format_wikidata_value(value)
         if formatted:
@@ -879,7 +971,10 @@ def process_wikidata_properties(wikidata):
         deduped = []
         seen = set()
         for item in one_degree[key]:
-            normalized = slugify(item)
+            if key in {'foundation_dates', 'foundation_year_buckets'}:
+                normalized = str(item).strip()
+            else:
+                normalized = slugify(item)
             if normalized and normalized not in seen:
                 seen.add(normalized)
                 deduped.append(normalized)
@@ -927,6 +1022,7 @@ def generate_brand_markdown(brand_info):
         'headquarters_locations': brand_info.get('headquarters_locations', []),
         'subsidiaries': brand_info.get('subsidiaries', []),
         'foundation_dates': brand_info.get('foundation_dates', []),
+        'foundation_year_buckets': brand_info.get('foundation_year_buckets', []),
         
         # Visual taxonomies
         'lightings': brand_info.get('lightings', []),
@@ -1267,6 +1363,7 @@ def main():
                 'headquarters_locations': [],
                 'subsidiaries': [],
                 'foundation_dates': [],
+                'foundation_year_buckets': [],
                 # Visual attributes
                 'lightings': [],
                 'perspectives': [],
@@ -1306,7 +1403,7 @@ def main():
         # Extract websites from all sources
         websites = extract_all_websites(item)
         if websites:
-            brand['websites'].extend(websites)
+            brand['websites'] = merge_unique_urls(brand['websites'], websites)
         
         # Update basic info
         year = item.get('year', '')
@@ -1332,6 +1429,7 @@ def main():
         # Process Wikidata from BG dataset
         item_wikidata = item.get('wikidata', {})
         if item_wikidata:
+            brand['websites'] = merge_unique_urls(brand['websites'], extract_wikidata_websites(item_wikidata))
             if not brand['wikidata_description']:
                 brand['wikidata_description'] = item_wikidata.get('description', '')
             if not brand['wikidata_url']:
@@ -1461,6 +1559,7 @@ def main():
                 'headquarters_locations': [],
                 'subsidiaries': [],
                 'foundation_dates': [],
+                'foundation_year_buckets': [],
                 'lightings': [],
                 'perspectives': [],
                 'image_backgrounds': [],
@@ -1539,6 +1638,8 @@ def main():
                 brand['wikidata_description'] = wd.get('description', '')
             if not brand['wikidata_url']:
                 brand['wikidata_url'] = wd.get('wikidata_url', '')
+
+            brand['websites'] = merge_unique_urls(brand['websites'], extract_wikidata_websites(wd))
             
             # Process properties
             props, primary_buckets, histories, one_degree = process_wikidata_properties(wd)
@@ -1579,7 +1680,8 @@ def main():
                     'clothing_colors', 'posings', 'gazes', 'body_sections', 
                     'logo_elements', 'brand_colors', 'typographies', 'imagery_styles',
                     'dominant_colors', 'products_or_materials_produced', 'products',
-                    'headquarters_locations', 'subsidiaries', 'foundation_dates']:
+                        'headquarters_locations', 'subsidiaries', 'foundation_dates',
+                        'foundation_year_buckets']:
             brand[key] = list(set(brand.get(key, [])))
             brand[key] = [v for v in brand[key] if v]
 
@@ -1610,7 +1712,7 @@ def main():
             brand[history_key] = unique_values
         
         # Deduplicate websites
-        brand['websites'] = sorted(list(set(brand.get('websites', []))))
+        brand['websites'] = merge_unique_urls([], brand.get('websites', []))
         
         # Update counts
         brand['twitter_post_count'] = len(brand['twitter_posts'])

@@ -2,7 +2,7 @@
 title: I Love NY
 slug: "i-love-ny"
 description: ""
-date: "2026-03-13T09:22:55.162085"
+date: "2026-03-20T08:22:05.863464"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1977
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,15 +52,15 @@ gazes: []
 body_sections: []
 logo_elements:
   - stacked
+  - vertical
   - icon
   - horizontal
-  - vertical
 brand_colors:
+  - red
+  - white
   - yellow
   - black
   - magenta
-  - red
-  - white
 typographies:
   - impact
 imagery_styles: []
@@ -73,7 +75,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.iloveny.com/](https://www.iloveny.com/)
+- [https://www.iloveny.com](https://www.iloveny.com)
 
 ## Brand Guidelines
 

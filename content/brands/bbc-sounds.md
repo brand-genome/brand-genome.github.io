@@ -2,7 +2,7 @@
 title: BBC Sounds
 slug: "bbc-sounds"
 description: ""
-date: "2026-03-13T09:22:53.250439"
+date: "2026-03-20T08:22:04.176575"
 draft: false
 sectors:
   - broadcasting
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []

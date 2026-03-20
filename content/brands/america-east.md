@@ -2,7 +2,7 @@
 title: America East
 slug: "america-east"
 description: ""
-date: "2026-03-13T09:22:52.332468"
+date: "2026-03-20T08:22:03.401185"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://americaeast.com/](https://americaeast.com/)
+- [https://americaeast.com](https://americaeast.com)
 
 ## Brand Guidelines
 

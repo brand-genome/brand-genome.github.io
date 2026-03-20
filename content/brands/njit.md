@@ -2,7 +2,7 @@
 title: NJIT
 slug: njit
 description: ""
-date: "2026-03-13T09:22:54.978376"
+date: "2026-03-20T08:22:05.710296"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - institut
+  - technology
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1881
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.njit.edu](http://www.njit.edu)
+- [https://www.njit.edu](https://www.njit.edu)
 - [https://ist.njit.edu/webmail-google](https://ist.njit.edu/webmail-google)
-- [https://www.njit.edu/](https://www.njit.edu/)
+- [http://www.njit.edu](http://www.njit.edu)
 
 ## Brand Guidelines
 

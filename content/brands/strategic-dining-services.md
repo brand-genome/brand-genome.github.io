@@ -2,11 +2,11 @@
 title: Strategic Dining Services
 slug: "strategic-dining-services"
 description: ""
-date: "2026-03-13T09:22:51.938570"
+date: "2026-03-20T08:22:03.079881"
 draft: false
 sectors:
-  - "professional-services"
   - healthcare
+  - "professional-services"
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.strategicdining.com/](https://www.strategicdining.com/)
+- [https://www.strategicdining.com](https://www.strategicdining.com)
 
 ## Brand Guidelines
 

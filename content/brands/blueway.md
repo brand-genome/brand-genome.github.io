@@ -2,7 +2,7 @@
 title: Blueway
 slug: blueway
 description: ""
-date: "2026-03-13T09:22:54.733202"
+date: "2026-03-20T08:22:05.529989"
 draft: false
 sectors:
   - sports
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,8 +51,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - blue
+  - black
 typographies:
   - arial
 imagery_styles:
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gov.ie/en/department-of-culture-communications-and-sport/services/blueways-ireland](https://www.gov.ie/en/department-of-culture-communications-and-sport/services/blueways-ireland)
 - [https://www.discoverireland.ie/blueways](https://www.discoverireland.ie/blueways)
-- [https://www.gov.ie/en/department-of-culture-communications-and-sport/services/blueways-ireland/](https://www.gov.ie/en/department-of-culture-communications-and-sport/services/blueways-ireland/)
 
 ## Brand Guidelines
 

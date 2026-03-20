@@ -2,7 +2,7 @@
 title: Dubai Civil Aviation Authority
 slug: "dubai-civil-aviation-authority"
 description: ""
-date: "2026-03-13T09:22:51.982054"
+date: "2026-03-20T08:22:03.083392"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,7 @@ headquarters_locations:
   - "al-garhoud"
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dcaa.gov.ae/ar](https://dcaa.gov.ae/ar)
 - [https://dcaa.gov.ae/en](https://dcaa.gov.ae/en)
+- [https://dcaa.gov.ae/ar](https://dcaa.gov.ae/ar)
 
 ## Brand Guidelines
 

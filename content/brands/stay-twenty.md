@@ -2,11 +2,11 @@
 title: Stay Twenty
 slug: "stay-twenty"
 description: ""
-date: "2026-03-13T09:22:52.235106"
+date: "2026-03-20T08:22:03.297654"
 draft: false
 sectors:
-  - cosmetics
   - beauty
+  - cosmetics
 regions:
   - indonesia
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.stay20.com/](https://www.stay20.com/)
+- [https://www.stay20.com](https://www.stay20.com)
 
 ## Brand Guidelines
 

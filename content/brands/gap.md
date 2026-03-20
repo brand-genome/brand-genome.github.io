@@ -2,12 +2,12 @@
 title: Gap
 slug: gap
 description: ""
-date: "2026-03-13T09:22:53.257432"
+date: "2026-03-20T08:22:04.182959"
 draft: false
 sectors:
-  - "consumer-goods"
   - fashion
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - fashion
 industries:
-  - "fast-fashion"
   - retail
+  - "fast-fashion"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,6 +38,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,8 +78,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gap.com/](https://www.gap.com/)
-- [https://www.gapinc.com/](https://www.gapinc.com/)
+- [https://www.gap.com](https://www.gap.com)
+- [https://www.gapinc.com](https://www.gapinc.com)
+- [https://www.gapfactory.com](https://www.gapfactory.com)
+- [https://www.gapcanada.ca](https://www.gapcanada.ca)
+- [https://www.gap.co.jp](https://www.gap.co.jp)
 
 ## Brand Guidelines
 

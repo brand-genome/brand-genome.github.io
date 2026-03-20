@@ -2,7 +2,7 @@
 title: Würth
 slug: wurth
 description: ""
-date: "2026-03-13T09:22:54.800595"
+date: "2026-03-20T08:22:05.573900"
 draft: false
 sectors:
   - construction
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,11 +62,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wuerth.com](https://www.wuerth.com)
+- [https://www.wuerth.de](https://www.wuerth.de)
+- [https://www.wuerth.com/wuerth-group](https://www.wuerth.com/wuerth-group)
 - [http://www.wuerth.com](http://www.wuerth.com)
 - [http://www.wuerth.de](http://www.wuerth.de)
-- [https://www.wuerth.com/](https://www.wuerth.com/)
-- [https://www.wuerth.com/wuerth-group/](https://www.wuerth.com/wuerth-group/)
-- [https://www.wuerth.de/](https://www.wuerth.de/)
 
 ## Brand Guidelines
 

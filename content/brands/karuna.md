@@ -2,7 +2,7 @@
 title: Karuna
 slug: karuna
 description: ""
-date: "2026-03-13T09:22:53.967220"
+date: "2026-03-20T08:22:04.893272"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,7 @@ headquarters_locations:
   - amherst
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,20 +52,20 @@ logo_elements:
   - primary
   - horizontal
 brand_colors:
-  - grey
-  - gray
-  - black
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - gray
+  - black
 typographies:
-  - verdana
   - din
+  - verdana
 imagery_styles:
-  - contemporary
   - bold
   - graphic
+  - contemporary
 wikidata_description: "non-profit organization based in Amherst, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q6373660"
 has_twitter: false
@@ -76,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://karuna.org](https://karuna.org)
 - [http://www.karuna.org](http://www.karuna.org)
-- [https://karuna.org/](https://karuna.org/)
+- [http://karunacenter.org](http://karunacenter.org)
 
 ## Brand Guidelines
 

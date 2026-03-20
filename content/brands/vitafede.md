@@ -2,7 +2,7 @@
 title: Vitafédé
 slug: vitafede
 description: ""
-date: "2026-03-13T09:22:54.717936"
+date: "2026-03-20T08:22:05.517465"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,9 +48,9 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - green
   - blue
+  - black
 typographies: []
 imagery_styles:
   - dynamic
@@ -64,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.vitafede.fr](http://www.vitafede.fr)
-- [https://sportsante.fr](https://sportsante.fr)
 - [https://www.ffepgv.fr](https://www.ffepgv.fr)
+- [https://sportsante.fr](https://sportsante.fr)
+- [http://www.vitafede.fr](http://www.vitafede.fr)
 
 ## Brand Guidelines
 

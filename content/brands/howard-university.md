@@ -2,7 +2,7 @@
 title: Howard University
 slug: "howard-university"
 description: ""
-date: "2026-03-13T09:22:53.968648"
+date: "2026-03-20T08:22:04.894277"
 draft: false
 sectors:
   - education
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1867
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,10 +73,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://howard.edu](https://howard.edu)
+- [https://bisonhub.howard.edu](https://bisonhub.howard.edu)
 - [http://auxiliary.howard.edu](http://auxiliary.howard.edu)
-- [http://www.Howard.edu](http://www.Howard.edu)
-- [https://bisonhub.howard.edu/](https://bisonhub.howard.edu/)
-- [https://howard.edu/](https://howard.edu/)
+- [http://www.howard.edu](http://www.howard.edu)
 
 ## Brand Guidelines
 

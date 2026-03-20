@@ -2,11 +2,11 @@
 title: RMHC
 slug: rmhc
 description: ""
-date: "2026-03-13T09:22:53.013215"
+date: "2026-03-20T08:22:04.003630"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - charity
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1986
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rmhc.org/](https://rmhc.org/)
+- [https://rmhc.org](https://rmhc.org)
+- [http://www.rmhcene.org](http://www.rmhcene.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: État Français
 slug: "etat-francais"
 description: ""
-date: "2026-03-13T09:22:53.760613"
+date: "2026-03-20T08:22:04.718666"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.info.gouv.fr/charte/charte-graphique-les-fondamentaux/le-systeme-graphique](https://www.info.gouv.fr/charte/charte-graphique-les-fondamentaux/le-systeme-graphique)
 - [https://www.info.gouv.fr/organisation/service-d-information-du-gouvernement-sig/marque-de-letat](https://www.info.gouv.fr/organisation/service-d-information-du-gouvernement-sig/marque-de-letat)
+- [https://www.info.gouv.fr/charte/charte-graphique-les-fondamentaux/le-systeme-graphique](https://www.info.gouv.fr/charte/charte-graphique-les-fondamentaux/le-systeme-graphique)
 
 ## Brand Guidelines
 

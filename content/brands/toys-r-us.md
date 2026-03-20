@@ -2,7 +2,7 @@
 title: Toys “R” Us
 slug: "toys-r-us"
 description: ""
-date: "2026-03-13T09:22:53.938576"
+date: "2026-03-20T08:22:04.861495"
 draft: false
 sectors:
   - "e-commerce"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,31 +49,31 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - "pantone-368"
-  - "pantone-1505"
-  - "pantone-206"
-  - "pantone-158"
-  - "pantone-141"
-  - "pantone-2728"
-  - yellow
-  - orange
-  - black
-  - green
-  - "pantone-143"
   - red
-  - blue
-  - "pantone-168"
+  - green
   - gold
+  - "pantone-1505"
+  - "pantone-141"
+  - "pantone-206"
+  - "pantone-368"
+  - blue
+  - "pantone-158"
+  - yellow
+  - "pantone-2728"
+  - "pantone-168"
   - "pantone-116"
   - brown
+  - orange
+  - black
+  - "pantone-143"
 typographies:
   - helvetica
-  - avenir
   - futura
+  - avenir
 imagery_styles:
   - classic
-  - contemporary
   - bold
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -84,9 +85,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Toysrus.com](http://www.Toysrus.com)
+- [https://www.toysrus.com](https://www.toysrus.com)
+- [http://www.toysrus.com](http://www.toysrus.com)
 - [http://www.fonts.com](http://www.fonts.com)
-- [https://www.toysrus.com/](https://www.toysrus.com/)
 
 ## Brand Guidelines
 

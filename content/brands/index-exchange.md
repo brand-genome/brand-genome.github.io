@@ -2,11 +2,11 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-03-13T09:22:54.985548"
+date: "2026-03-20T08:22:05.715735"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,21 +48,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - symbol
   - primary
   - secondary
-  - symbol
 brand_colors:
+  - white
   - purple
   - grey
-  - black
-  - pink
   - blue
-  - white
+  - pink
+  - black
 typographies: []
 imagery_styles:
+  - bold
   - clean
   - natural
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.indexexchange.com](https://www.indexexchange.com)
 - [http://www.indexexchange.com](http://www.indexexchange.com)
-- [https://www.indexexchange.com/](https://www.indexexchange.com/)
 
 ## Brand Guidelines
 

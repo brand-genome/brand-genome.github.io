@@ -2,7 +2,7 @@
 title: EMT Madrid
 slug: "emt-madrid"
 description: ""
-date: "2026-03-13T09:22:53.396580"
+date: "2026-03-20T08:22:04.299999"
 draft: false
 sectors:
   - "public-transportation"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1947
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,16 +54,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - icon
-  - horizontal
+  - symbol
   - primary
+  - horizontal
 brand_colors:
   - blue
 typographies: []
 imagery_styles:
-  - dynamic
   - clean
+  - dynamic
 wikidata_description: "company charged with the planning of public urban transport in the city in Madrid, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q1094755"
 has_twitter: false
@@ -73,8 +75,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.emtmadrid.es](https://www.emtmadrid.es)
 - [https://www.bicimad.com/en](https://www.bicimad.com/en)
-- [https://www.emtmadrid.es/](https://www.emtmadrid.es/)
+- [http://www.emtmadrid.es](http://www.emtmadrid.es)
 
 ## Brand Guidelines
 

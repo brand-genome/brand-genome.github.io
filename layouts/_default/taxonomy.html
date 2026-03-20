@@ -1,26 +1,26 @@
-{{ define "title" }}{{ .Title }} | {{ .Data.Singular | title }}{{ end }}
+{{ define "title" }}{{ .Title }} | {{ if eq .Data.Plural "years" }}Guideline Year{{ else if eq .Data.Plural "foundation_year_buckets" }}Foundation Year Bucket{{ else }}{{ .Data.Singular | title }}{{ end }}{{ end }}
 
 {{ define "main" }}
 <section class="term-page">
     <header class="term-header">
         <nav class="breadcrumb">
             <a href="{{ "/" | relURL }}">Home</a> →
-            <a href="{{ .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a> →
-            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") }}
+            <a href="{{ .Data.Plural | relURL }}">{{ if eq .Data.Plural "years" }}Guideline Years{{ else if eq .Data.Plural "foundation_year_buckets" }}Foundation Year Buckets{{ else if eq .Data.Plural "foundation_dates" }}Foundation Dates{{ else }}{{ .Data.Plural | title }}{{ end }}</a> →
+            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") (eq .Data.Plural "foundation_year_buckets") }}
             <span>{{ .Title }}</span>
             {{ else }}
             <span>{{ .Title | humanize }}</span>
             {{ end }}
         </nav>
         <h1>
-            <span class="term-type">{{ .Data.Singular | title }}:</span>
-            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") }}
+            <span class="term-type">{{ if eq .Data.Plural "years" }}Guideline Year{{ else if eq .Data.Plural "foundation_year_buckets" }}Foundation Year Bucket{{ else }}{{ .Data.Singular | title }}{{ end }}:</span>
+            {{ if or (eq .Data.Plural "years") (eq .Data.Plural "revenue_buckets") (eq .Data.Plural "operating_income_buckets") (eq .Data.Plural "net_profit_buckets") (eq .Data.Plural "employees_buckets") (eq .Data.Plural "total_assets_buckets") (eq .Data.Plural "total_equity_buckets") (eq .Data.Plural "market_cap_buckets") (eq .Data.Plural "foundation_dates") (eq .Data.Plural "foundation_year_buckets") }}
             {{ .Title }}
             {{ else }}
             {{ .Title | humanize }}
             {{ end }}
         </h1>
-        <p class="term-count">{{ len .Pages }} brands with this {{ .Data.Singular | lower }}</p>
+        <p class="term-count">{{ len .Pages }} brands with this {{ if eq .Data.Plural "years" }}guideline year{{ else if eq .Data.Plural "foundation_year_buckets" }}foundation year bucket{{ else }}{{ .Data.Singular | lower }}{{ end }}</p>
     </header>
 
     {{ if or (eq .Data.Plural "lightings") (eq .Data.Plural "perspectives") (eq .Data.Plural "photography_genres") (eq .Data.Plural "concepts") (eq .Data.Plural "image_backgrounds") (eq .Data.Plural "color_schemes") (eq .Data.Plural "depths") (eq .Data.Plural "image_effects") (eq .Data.Plural "hair_styles") (eq .Data.Plural "facial_expressions") (eq .Data.Plural "clothing_styles") (eq .Data.Plural "clothing_colors") (eq .Data.Plural "posings") (eq .Data.Plural "gazes") (eq .Data.Plural "body_sections") }}

@@ -2,12 +2,12 @@
 title: Valmont facilities
 slug: "valmont-facilities"
 description: ""
-date: "2026-03-13T09:22:53.442660"
+date: "2026-03-20T08:22:04.346531"
 draft: false
 sectors:
+  - "agricultural-heavy-equipment"
   - construction
   - hardware
-  - "agricultural-heavy-equipment"
 regions:
   - usa
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,27 +49,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
-  - secondary
   - signature
+  - primary
+  - secondary
 brand_colors:
-  - "pantone-411"
-  - "pantone-7527"
   - "pantone-431"
-  - black
   - "pantone-634"
   - white
-  - blue
   - "pantone-427"
+  - blue
+  - "pantone-7527"
+  - "pantone-411"
+  - black
 typographies:
   - arial
   - display
   - roboto
 imagery_styles:
-  - photography
   - product
   - bold
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.valmont.com/](https://www.valmont.com/)
+- [https://www.valmont.com](https://www.valmont.com)
 - [https://www.valmont.com/brand](https://www.valmont.com/brand)
 
 ## Brand Guidelines

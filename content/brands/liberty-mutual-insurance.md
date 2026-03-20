@@ -2,7 +2,7 @@
 title: Liberty Mutual Insurance
 slug: "liberty-mutual-insurance"
 description: ""
-date: "2026-03-13T09:22:53.394700"
+date: "2026-03-20T08:22:04.295093"
 draft: false
 sectors:
   - insurance
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1912
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,21 +53,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - wordmark
+  - primary
 brand_colors:
+  - teal
+  - white
+  - blue
   - gray
   - yellow
   - black
-  - teal
-  - blue
-  - white
 typographies: []
 imagery_styles:
-  - photography
-  - staged
   - natural
   - dramatic
+  - photography
+  - staged
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1516450"
 has_twitter: false
@@ -77,11 +79,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.LibertyMutual.com](http://www.LibertyMutual.com)
-- [http://www.LibertyMutualGroup.com/Business](http://www.LibertyMutualGroup.com/Business)
-- [https://business.libertymutual.com](https://business.libertymutual.com)
 - [https://www.libertymutual.com](https://www.libertymutual.com)
+- [https://business.libertymutual.com](https://business.libertymutual.com)
 - [https://www.libertymutualgroup.com](https://www.libertymutualgroup.com)
+- [http://www.libertymutual.com](http://www.libertymutual.com)
+- [http://www.libertymutualgroup.com/Business](http://www.libertymutualgroup.com/Business)
 
 ## Brand Guidelines
 

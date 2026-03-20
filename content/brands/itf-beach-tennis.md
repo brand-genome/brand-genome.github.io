@@ -2,7 +2,7 @@
 title: ITF Beach Tennis
 slug: "itf-beach-tennis"
 description: ""
-date: "2026-03-13T09:22:53.601901"
+date: "2026-03-20T08:22:04.466727"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,20 +49,20 @@ body_sections: []
 logo_elements:
   - symbol
 brand_colors:
-  - coral
-  - black
-  - white
   - blue
+  - coral
+  - white
+  - black
 typographies:
   - inter
 imagery_styles:
-  - natural
-  - lifestyle
-  - dramatic
   - aerial
-  - vibrant
-  - photography
+  - dramatic
   - bold
+  - natural
+  - photography
+  - lifestyle
+  - vibrant
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itftennis.com/en/itf-tours/beach-tennis-tour/](https://www.itftennis.com/en/itf-tours/beach-tennis-tour/)
+- [https://www.itftennis.com/en/itf-tours/beach-tennis-tour](https://www.itftennis.com/en/itf-tours/beach-tennis-tour)
 
 ## Brand Guidelines
 

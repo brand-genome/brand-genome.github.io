@@ -2,7 +2,7 @@
 title: Alfa Bank
 slug: "alfa-bank"
 description: ""
-date: "2026-03-13T09:22:53.600997"
+date: "2026-03-20T08:22:04.465556"
 draft: false
 sectors:
   - finance
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1990
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []

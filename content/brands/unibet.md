@@ -2,7 +2,7 @@
 title: Unibet
 slug: unibet
 description: ""
-date: "2026-03-13T09:22:53.968995"
+date: "2026-03-20T08:22:04.894724"
 draft: false
 sectors:
   - entertainment
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1997
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unibet.com/](https://www.unibet.com/)
+- [https://www.unibet.com](https://www.unibet.com)
+- [http://www.unibet.it](http://www.unibet.it)
+- [https://www.unibet.co.uk](https://www.unibet.co.uk)
+- [https://www.unibet.fr](https://www.unibet.fr)
+- [https://www.unibet.se](https://www.unibet.se)
+- [https://ca.unibet.com](https://ca.unibet.com)
 
 ## Brand Guidelines
 

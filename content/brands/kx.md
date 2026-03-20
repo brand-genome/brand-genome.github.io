@@ -2,7 +2,7 @@
 title: KX
 slug: kx
 description: ""
-date: "2026-03-13T09:22:53.324405"
+date: "2026-03-20T08:22:04.235597"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1844
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +56,8 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: postgraduate theological college federated with the University of Toronto
@@ -69,11 +71,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://code.kx.com/](https://code.kx.com/)
-- [https://code.kx.com/q/](https://code.kx.com/q/)
-- [https://docs.kx.com/](https://docs.kx.com/)
-- [https://kx.com/](https://kx.com/)
-- [https://kx.com/software-support/](https://kx.com/software-support/)
+- [https://kx.com](https://kx.com)
+- [https://code.kx.com](https://code.kx.com)
+- [https://docs.kx.com](https://docs.kx.com)
+- [https://code.kx.com/q](https://code.kx.com/q)
+- [https://kx.com/software-support](https://kx.com/software-support)
+- [http://knox.utoronto.ca](http://knox.utoronto.ca)
 
 ## Brand Guidelines
 

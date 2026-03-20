@@ -2,7 +2,7 @@
 title: Havoline
 slug: havoline
 description: ""
-date: "2026-03-13T09:22:52.830578"
+date: "2026-03-20T08:22:03.840722"
 draft: false
 sectors:
   - "consumer-goods"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1904
+foundation_year_buckets:
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,6 +65,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.chevronlubricants.com/en_us/home/learning/about-our-brands/havoline.html](https://www.chevronlubricants.com/en_us/home/learning/about-our-brands/havoline.html)
+- [https://www.chevronlubricants.com/en_us/home/products/by_brand/havoline.html](https://www.chevronlubricants.com/en_us/home/products/by_brand/havoline.html)
+- [https://www.havoline.com](https://www.havoline.com)
 
 ## Brand Guidelines
 

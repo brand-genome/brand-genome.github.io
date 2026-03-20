@@ -2,7 +2,7 @@
 title: SoundID
 slug: soundid
 description: ""
-date: "2026-03-13T09:22:53.283291"
+date: "2026-03-20T08:22:04.212457"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - music
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,16 +48,16 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - lockup
+  - symbol
   - primary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
-  - serif
   - inter
+  - serif
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -69,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sonarworks.com/](https://www.sonarworks.com/)
 - [https://www.sonarworks.com/soundid](https://www.sonarworks.com/soundid)
 - [https://www.sonarworks.com/soundid-reference](https://www.sonarworks.com/soundid-reference)
+- [https://www.sonarworks.com](https://www.sonarworks.com)
 
 ## Brand Guidelines
 

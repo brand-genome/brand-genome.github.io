@@ -2,15 +2,15 @@
 title: The New School
 slug: "the-new-school"
 description: ""
-date: "2026-03-13T09:22:52.875619"
+date: "2026-03-20T08:22:03.872409"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2015
   - 2005
+  - 2015
 languages:
   - english
 tags:
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,11 +57,11 @@ body_sections: []
 logo_elements: []
 brand_colors:
   - silver
+  - red
+  - white
   - yellow
   - orange
   - black
-  - red
-  - white
 typographies:
   - garamond
 imagery_styles:
@@ -75,8 +77,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.newschool.edu](https://www.newschool.edu)
 - [http://www.newschool.edu](http://www.newschool.edu)
-- [https://www.newschool.edu/](https://www.newschool.edu/)
+- [https://newschool.edu](https://newschool.edu)
 
 ## Brand Guidelines
 

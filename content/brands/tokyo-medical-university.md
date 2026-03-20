@@ -2,7 +2,7 @@
 title: Tokyo Medical University
 slug: "tokyo-medical-university"
 description: ""
-date: "2026-03-13T09:22:53.069931"
+date: "2026-03-20T08:22:04.064154"
 draft: false
 sectors:
   - university
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1916
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tokyo-med.ac.jp](https://www.tokyo-med.ac.jp)
 - [https://hospinfo.tokyo-med.ac.jp/index.html](https://hospinfo.tokyo-med.ac.jp/index.html)
-- [https://www.tokyo-med.ac.jp/](https://www.tokyo-med.ac.jp/)
+- [http://www.tokyo-med.ac.jp](http://www.tokyo-med.ac.jp)
 
 ## Brand Guidelines
 

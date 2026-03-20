@@ -2,7 +2,7 @@
 title: imart
 slug: imart
 description: ""
-date: "2026-03-13T09:22:54.986982"
+date: "2026-03-20T08:22:05.717302"
 draft: false
 sectors:
   - "design-creative"
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.imart.es/](https://www.imart.es/)
+- [https://www.imart.es](https://www.imart.es)
 
 ## Brand Guidelines
 

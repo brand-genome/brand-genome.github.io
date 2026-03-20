@@ -2,11 +2,11 @@
 title: Givergy
 slug: givergy
 description: ""
-date: "2026-03-13T09:22:55.014581"
+date: "2026-03-20T08:22:05.723474"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
   - secondary
 brand_colors:
+  - navy
+  - white
   - cyan
   - purple
-  - navy
   - "pantone-520"
   - black
   - magenta
-  - white
 typographies:
   - "open-sans"
   - arial
 imagery_styles:
-  - gradient
   - bold
   - graphic
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,8 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.givergy.com/](https://www.givergy.com/)
-- [https://www.givergy.com/us/](https://www.givergy.com/us/)
+- [https://www.givergy.com](https://www.givergy.com)
+- [https://www.givergy.com/us](https://www.givergy.com/us)
 
 ## Brand Guidelines
 

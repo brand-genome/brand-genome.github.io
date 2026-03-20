@@ -2,7 +2,7 @@
 title: Kokugakuin University
 slug: "kokugakuin-university"
 description: ""
-date: "2026-03-13T09:22:53.763567"
+date: "2026-03-20T08:22:04.720768"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1882
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kokugakuin.ac.jp/](https://www.kokugakuin.ac.jp/)
-- [https://www.kokugakuin.ac.jp/en/](https://www.kokugakuin.ac.jp/en/)
+- [https://www.kokugakuin.ac.jp](https://www.kokugakuin.ac.jp)
+- [https://www.kokugakuin.ac.jp/en](https://www.kokugakuin.ac.jp/en)
+- [http://www.kokugakuin.ac.jp](http://www.kokugakuin.ac.jp)
 
 ## Brand Guidelines
 

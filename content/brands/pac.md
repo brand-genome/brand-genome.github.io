@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-03-13T09:22:54.977565"
+date: "2026-03-20T08:22:05.709690"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,22 +48,22 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
+  - primary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies:
-  - display
   - gotham
   - din
+  - display
 imagery_styles:
-  - modern
   - minimal
-  - clean
-  - professional
   - graphic
+  - professional
+  - modern
+  - clean
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q746111"
 has_twitter: false
@@ -74,9 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.Bitcointalk.org](http://www.Bitcointalk.org)
-- [https://pacglobal.io/](https://pacglobal.io/)
-- [https://pacglobal.io/network/](https://pacglobal.io/network/)
+- [https://pacglobal.io](https://pacglobal.io)
+- [https://pacglobal.io/network](https://pacglobal.io/network)
+- [http://www.bitcointalk.org](http://www.bitcointalk.org)
+- [http://www.mestopacov.cz](http://www.mestopacov.cz)
 
 ## Brand Guidelines
 

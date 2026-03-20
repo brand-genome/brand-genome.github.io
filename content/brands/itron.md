@@ -2,11 +2,11 @@
 title: Itron
 slug: itron
 description: ""
-date: "2026-03-13T09:22:54.709139"
+date: "2026-03-20T08:22:05.509150"
 draft: false
 sectors:
-  - software
   - utilities
+  - software
   - hardware
 regions:
   - usa
@@ -32,8 +32,10 @@ headquarters_locations:
   - "liberty-lake"
 subsidiaries: []
 foundation_dates:
-  - 1972
   - 1977
+  - 1972
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,23 +54,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
   - vertical
+  - primary
 brand_colors:
-  - yellow
-  - black
-  - "pantone-123"
   - red
   - "pantone-485"
+  - "pantone-123"
   - white
+  - yellow
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
+  - bold
   - clean
   - product
-  - bold
 wikidata_description: American technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q5923178"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://investors.itron.com/](https://investors.itron.com/)
-- [https://www.itron.com/](https://www.itron.com/)
+- [https://www.itron.com](https://www.itron.com)
+- [https://investors.itron.com](https://investors.itron.com)
+- [http://www.itron.com](http://www.itron.com)
 
 ## Brand Guidelines
 
@@ -127,7 +130,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Liberty Lake](/headquarters_locations/liberty-lake/) |
-| Foundation Date | [1972](/foundation_dates/1972/); [1977](/foundation_dates/1977/) |
+| Foundation Date | [1977](/foundation_dates/1977/); [1972](/foundation_dates/1972/) |
 | Stock Exchange | Nasdaq (from 1993-11-05) |
 | Headquarters Location | Liberty Lake |
 | Inception | 1972, 1977 |

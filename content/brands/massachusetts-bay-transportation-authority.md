@@ -2,11 +2,11 @@
 title: Massachusetts Bay Transportation Authority
 slug: "massachusetts-bay-transportation-authority"
 description: ""
-date: "2026-03-13T09:22:53.017451"
+date: "2026-03-20T08:22:04.008903"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1964
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,13 +66,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.MBTA.com](http://www.MBTA.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [https://www.mass.gov/orgs/massachusetts-bay-transportation-authority](https://www.mass.gov/orgs/massachusetts-bay-transportation-authority)
-- [https://www.mbta.com/](https://www.mbta.com/)
+- [https://www.mbta.com](https://www.mbta.com)
 - [https://www.mbta.com/fares/the-ride](https://www.mbta.com/fares/the-ride)
-- [https://www.mbta.com/ferries](https://www.mbta.com/ferries)
 - [https://www.mbta.com/schedules/commuter-rail](https://www.mbta.com/schedules/commuter-rail)
+- [https://www.mbta.com/ferries](https://www.mbta.com/ferries)
+- [https://www.mass.gov/orgs/massachusetts-bay-transportation-authority](https://www.mass.gov/orgs/massachusetts-bay-transportation-authority)
+- [http://www.mbta.com](http://www.mbta.com)
+- [http://www.gettyimages.com](http://www.gettyimages.com)
 
 ## Brand Guidelines
 

@@ -2,16 +2,16 @@
 title: Mahindra Rise
 slug: "mahindra-rise"
 description: ""
-date: "2026-03-13T09:22:55.090797"
+date: "2026-03-20T08:22:05.795611"
 draft: false
 sectors:
-  - consulting
   - defense
   - "real-estate"
-  - finance
-  - automobile
   - hospitality
+  - finance
   - "renewable-energy"
+  - automobile
+  - consulting
 regions:
   - india
 years:
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1945
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,20 +61,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
-  - grey
   - red
   - orange
+  - grey
 typographies:
   - arial
 imagery_styles:
-  - clean
-  - modern
-  - natural
   - bold
+  - modern
+  - clean
+  - natural
 wikidata_description: Indian multinational automobile manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q848059"
 has_twitter: false
@@ -85,6 +87,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mahindra.com/rise](https://www.mahindra.com/rise)
+- [http://www.mahindra.com](http://www.mahindra.com)
 
 ## Brand Guidelines
 

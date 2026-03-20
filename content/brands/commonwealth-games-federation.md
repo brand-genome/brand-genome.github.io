@@ -2,7 +2,7 @@
 title: Commonwealth Games Federation
 slug: "commonwealth-games-federation"
 description: ""
-date: "2026-03-13T09:22:53.519389"
+date: "2026-03-20T08:22:04.413374"
 draft: false
 sectors:
   - sports
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1932
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,24 +53,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - wordmark
   - primary
   - secondary
-  - wordmark
 brand_colors:
+  - red
+  - white
+  - blue
   - yellow
   - black
-  - red
-  - blue
-  - white
 typographies:
-  - display
+  - impact
   - helvetica
   - arial
-  - impact
+  - display
 imagery_styles:
+  - bold
   - portrait
   - photography
-  - bold
 wikidata_description: international organization responsible for the Commonwealth Games and Commonwealth Youth Games
 wikidata_url: "https://www.wikidata.org/wiki/Q3684877"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.commonwealthsport.com/](https://www.commonwealthsport.com/)
+- [https://www.commonwealthsport.com](https://www.commonwealthsport.com)
 - [https://www.commonwealthsport.com/commonwealth-sport](https://www.commonwealthsport.com/commonwealth-sport)
+- [http://www.thecgf.com](http://www.thecgf.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Aldar
 slug: aldar
 description: ""
-date: "2026-03-13T09:22:51.910755"
+date: "2026-03-20T08:22:03.070078"
 draft: false
 sectors:
   - "real-estate"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,17 +50,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - black
   - beige
   - white
+  - black
 typographies:
   - times
   - poppins
 imagery_styles:
+  - bold
   - dynamic
   - clean
   - natural
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.X.com](http://www.X.com)
+- [https://www.aldar.com](https://www.aldar.com)
+- [http://www.x.com](http://www.x.com)
 - [http://www.aldar.com](http://www.aldar.com)
 - [http://www.linkedin.com/company/aldar](http://www.linkedin.com/company/aldar)
-- [https://www.aldar.com/](https://www.aldar.com/)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Andalucia
 slug: andalucia
 description: ""
-date: "2026-03-13T09:22:53.722792"
+date: "2026-03-20T08:22:04.686690"
 draft: false
 sectors:
   - tourism
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - colombia
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://en.andalucia.org/](https://en.andalucia.org/)
-- [https://www.andalucia.org/es/](https://www.andalucia.org/es/)
+- [https://www.andalucia.org/es](https://www.andalucia.org/es)
+- [https://en.andalucia.org](https://en.andalucia.org)
+- [http://www.andalucia-valle.gov.co/index.shtml](http://www.andalucia-valle.gov.co/index.shtml)
 
 ## Brand Guidelines
 

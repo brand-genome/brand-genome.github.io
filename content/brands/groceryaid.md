@@ -2,7 +2,7 @@
 title: GroceryAid
 slug: groceryaid
 description: ""
-date: "2026-03-13T09:22:52.330153"
+date: "2026-03-20T08:22:03.398234"
 draft: false
 sectors:
   - ngo
@@ -30,6 +30,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1857
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.groceryaid.org.uk/](https://www.groceryaid.org.uk/)
+- [https://www.groceryaid.org.uk](https://www.groceryaid.org.uk)
 
 ## Brand Guidelines
 

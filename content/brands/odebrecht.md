@@ -2,11 +2,11 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-03-13T09:22:54.986414"
+date: "2026-03-20T08:22:05.716903"
 draft: false
 sectors:
-  - construction
   - "logistics-supply-chain"
+  - construction
 regions:
   - brazil
 years:
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1944
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,9 +54,9 @@ body_sections: []
 logo_elements:
   - secondary
 brand_colors:
-  - black
-  - white
   - red
+  - white
+  - black
 typographies:
   - impact
 imagery_styles: []
@@ -69,10 +71,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://novonor.com/](https://novonor.com/)
-- [https://www.novonor.com.br/](https://www.novonor.com.br/)
-- [https://www.odebrecht.com.br/](https://www.odebrecht.com.br/)
-- [https://www.oec-eng.com/](https://www.oec-eng.com/)
+- [https://www.oec-eng.com](https://www.oec-eng.com)
+- [https://www.odebrecht.com.br](https://www.odebrecht.com.br)
+- [https://www.novonor.com.br](https://www.novonor.com.br)
+- [https://novonor.com](https://novonor.com)
+- [http://www.odebrecht-ec.com](http://www.odebrecht-ec.com)
 
 ## Brand Guidelines
 

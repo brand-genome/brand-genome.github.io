@@ -2,7 +2,7 @@
 title: Biden for President
 slug: "biden-for-president"
 description: ""
-date: "2026-03-13T09:22:53.716792"
+date: "2026-03-20T08:22:04.680181"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,14 +48,14 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - navy
-  - grey
-  - black
   - red
-  - blue
-  - coral
   - gold
+  - navy
+  - coral
   - white
+  - grey
+  - blue
+  - black
 typographies: []
 imagery_styles:
   - bold
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://joebiden.com/](https://joebiden.com/)
+- [https://joebiden.com](https://joebiden.com)
 
 ## Brand Guidelines
 

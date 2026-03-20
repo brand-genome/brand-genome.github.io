@@ -2,7 +2,7 @@
 title: Iran Air
 slug: "iran-air"
 description: ""
-date: "2026-03-13T09:22:53.607349"
+date: "2026-03-20T08:22:04.472687"
 draft: false
 sectors:
   - airline
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1961
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,21 +51,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
+  - icon
 brand_colors:
   - silver
+  - green
+  - white
   - grey
+  - blue
+  - turquoise
   - orange
   - black
-  - white
-  - blue
-  - green
-  - turquoise
 typographies: []
 imagery_styles:
   - artificial
@@ -78,7 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.iranair.com/](https://www.iranair.com/)
+- [https://www.iranair.com](https://www.iranair.com)
+- [http://www.iranair.com](http://www.iranair.com)
 
 ## Brand Guidelines
 

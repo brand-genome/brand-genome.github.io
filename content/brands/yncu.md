@@ -2,7 +2,7 @@
 title: YNCU
 slug: yncu
 description: ""
-date: "2026-03-13T09:22:53.651628"
+date: "2026-03-20T08:22:04.511408"
 draft: false
 sectors:
   - finance
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,25 +48,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - secondary
   - symbol
   - alternate
-  - primary
-  - stacked
   - emblem
-  - secondary
+  - primary
 brand_colors:
-  - "pantone-7480"
-  - grey
-  - black
-  - "pantone-339"
   - green
+  - "pantone-339"
   - white
+  - grey
+  - "pantone-7480"
+  - black
 typographies:
   - montserrat
 imagery_styles:
-  - photography
   - bold
   - graphic
+  - photography
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q12607306"
 has_twitter: false
@@ -77,8 +78,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.yncu.com/](https://www.yncu.com/)
-- [https://yncuniversity.com/](https://yncuniversity.com/)
+- [https://www.yncu.com](https://www.yncu.com)
+- [https://yncuniversity.com](https://yncuniversity.com)
 
 ## Brand Guidelines
 

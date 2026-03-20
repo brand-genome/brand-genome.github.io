@@ -2,11 +2,11 @@
 title: ATL
 slug: atl
 description: ""
-date: "2026-03-13T09:22:53.244303"
+date: "2026-03-20T08:22:04.162572"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2013
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,19 +54,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
-  - primary
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
+  - icon
 brand_colors:
   - silver
-  - violet
-  - gray
   - red
-  - blue
   - white
+  - blue
+  - gray
+  - violet
 typographies: []
 imagery_styles: []
 wikidata_description: Japanese video game company
@@ -78,8 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://atltransit.ga.gov](https://atltransit.ga.gov)
 - [http://www.ga.gov](http://www.ga.gov)
-- [https://atltransit.ga.gov/](https://atltransit.ga.gov/)
+- [http://www.atlus.co.jp](http://www.atlus.co.jp)
 
 ## Brand Guidelines
 

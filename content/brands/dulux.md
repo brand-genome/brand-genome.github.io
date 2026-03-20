@@ -2,7 +2,7 @@
 title: Dulux
 slug: dulux
 description: ""
-date: "2026-03-13T09:22:52.877915"
+date: "2026-03-20T08:22:03.873450"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,9 +16,9 @@ tags:
   - corporate
 industries: []
 countries:
+  - canada
   - "united-kingdom"
   - india
-  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1931
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,6 +68,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.dulux.co.uk/en](https://www.dulux.co.uk/en)
+- [https://www.dulux.in](https://www.dulux.in)
+- [https://www.dulux.ca](https://www.dulux.ca)
 
 ## Brand Guidelines
 

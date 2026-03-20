@@ -2,16 +2,16 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-03-13T09:22:53.713042"
+date: "2026-03-20T08:22:04.660448"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,21 +56,21 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
+  - red
+  - gold
+  - blue
   - gray
   - black
-  - red
-  - blue
-  - gold
 typographies:
+  - impact
   - trebuchet
   - din
-  - impact
 imagery_styles:
-  - natural
-  - candid
   - staged
-  - photography
   - bold
+  - natural
+  - photography
+  - candid
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q608132"
 has_twitter: false
@@ -80,8 +82,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.scouting.org/](https://www.scouting.org/)
-- [https://www.scoutshop.org/](https://www.scoutshop.org/)
+- [https://www.scouting.org](https://www.scouting.org)
+- [https://www.scoutshop.org](https://www.scoutshop.org)
+- [http://www.scouting.org](http://www.scouting.org)
 
 ## Brand Guidelines
 

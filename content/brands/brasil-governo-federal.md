@@ -2,7 +2,7 @@
 title: Brasil Governo Federal
 slug: "brasil-governo-federal"
 description: ""
-date: "2026-03-13T09:22:53.074333"
+date: "2026-03-20T08:22:04.070380"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal)
-- [https://www.gov.br/pt-br/](https://www.gov.br/pt-br/)
+- [https://www.gov.br/pt-br](https://www.gov.br/pt-br)
 - [https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view](https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view)
+- [https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Moeve
 slug: moeve
 description: ""
-date: "2026-03-13T09:22:51.918935"
+date: "2026-03-20T08:22:03.076462"
 draft: false
 sectors:
   - energy
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1929
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.moeveglobal.com](https://www.moeveglobal.com)
 - [http://www.moeve.es](http://www.moeve.es)
-- [https://www.moeveglobal.com/](https://www.moeveglobal.com/)
+- [https://www.cepsa.com](https://www.cepsa.com)
+- [https://www.cepsa.es](https://www.cepsa.es)
 
 ## Brand Guidelines
 

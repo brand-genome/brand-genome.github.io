@@ -2,7 +2,7 @@
 title: Kinjo Gakuin University
 slug: "kinjo-gakuin-university"
 description: ""
-date: "2026-03-13T09:22:52.866613"
+date: "2026-03-20T08:22:03.866885"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1889
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,9 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kinjo-u.ac.jp/eng](https://www.kinjo-u.ac.jp/eng)
+- [https://www.kinjo-gakuin.jp](https://www.kinjo-gakuin.jp)
 - [http://www.kinjo-gakuin.jp](http://www.kinjo-gakuin.jp)
-- [https://www.kinjo-gakuin.jp/](https://www.kinjo-gakuin.jp/)
-- [https://www.kinjo-u.ac.jp/eng/](https://www.kinjo-u.ac.jp/eng/)
+- [http://www.kinjo-u.ac.jp](http://www.kinjo-u.ac.jp)
+- [https://www.kinjo-u.ac.jp/ja](https://www.kinjo-u.ac.jp/ja)
 
 ## Brand Guidelines
 

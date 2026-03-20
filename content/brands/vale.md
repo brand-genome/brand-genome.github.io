@@ -2,11 +2,11 @@
 title: Vale
 slug: vale
 description: ""
-date: "2026-03-13T09:22:54.557115"
+date: "2026-03-20T08:22:05.402957"
 draft: false
 sectors:
-  - "mining-extraction"
   - "logistics-supply-chain"
+  - "mining-extraction"
 regions:
   - brazil
 years:
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1942
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,28 +53,28 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
   - vertical
+  - symbol
   - primary
 brand_colors:
-  - "pantone-7406"
-  - "pantone-328"
-  - gray
-  - yellow
-  - "pantone-124"
   - red
-  - blue
   - green
   - white
+  - blue
+  - "pantone-124"
+  - yellow
+  - "pantone-328"
+  - gray
+  - "pantone-7406"
 typographies:
   - arial
 imagery_styles:
+  - dynamic
   - artificial
   - minimal
-  - vibrant
-  - dynamic
-  - landscape
   - bold
+  - landscape
+  - vibrant
 wikidata_description: multinational diversified metals and mining corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q583268"
 has_twitter: false
@@ -84,7 +86,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://vale.com/](https://vale.com/)
+- [https://vale.com](https://vale.com)
+- [http://www.vale.com](http://www.vale.com)
 
 ## Brand Guidelines
 

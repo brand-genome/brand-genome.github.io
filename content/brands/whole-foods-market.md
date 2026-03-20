@@ -2,7 +2,7 @@
 title: Whole Foods Market
 slug: "whole-foods-market"
 description: ""
-date: "2026-03-13T09:22:55.141286"
+date: "2026-03-20T08:22:05.841110"
 draft: false
 sectors:
   - airline
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1980
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,10 +54,10 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - alternate
-  - horizontal
+  - wordmark
   - primary
+  - horizontal
 brand_colors:
   - black
 typographies:
@@ -73,7 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.skywest.com/](https://www.skywest.com/)
+- [https://www.skywest.com](https://www.skywest.com)
+- [https://www.wholefoodsmarket.com](https://www.wholefoodsmarket.com)
 
 ## Brand Guidelines
 

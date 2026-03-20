@@ -2,23 +2,23 @@
 title: GSK
 slug: gsk
 description: ""
-date: "2026-03-13T09:22:53.013941"
+date: "2026-03-20T08:22:04.004165"
 draft: false
 sectors:
-  - biotech
   - pharma
+  - biotech
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2022
+  - 2013
 languages:
   - english
 tags:
   - health
 industries:
-  - "pharmaceutical-industry"
   - biotechnology
+  - "pharmaceutical-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -37,6 +37,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2000
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,13 +58,13 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - grey
   - orange
+  - grey
 typographies:
   - akzidenz
 imagery_styles:
-  - photography
   - gradient
+  - photography
 wikidata_description: British multinational pharmaceutical and biotechnology company
 wikidata_url: "https://www.wikidata.org/wiki/Q212322"
 has_twitter: false
@@ -74,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gsk.com/](https://www.gsk.com/)
+- [https://www.gsk.com](https://www.gsk.com)
 
 ## Brand Guidelines
 

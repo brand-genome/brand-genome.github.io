@@ -2,11 +2,11 @@
 title: Lingo Kids
 slug: "lingo-kids"
 description: ""
-date: "2026-03-13T09:22:53.065261"
+date: "2026-03-20T08:22:04.057322"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
-  - app
   - software
+  - education
+  - featured
+  - app
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,6 +32,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lingokids.com/](https://lingokids.com/)
-- [https://store.lingokids.com/](https://store.lingokids.com/)
+- [https://lingokids.com](https://lingokids.com)
+- [https://store.lingokids.com](https://store.lingokids.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: GoTo
 slug: goto
 description: ""
-date: "2026-03-13T09:22:53.080040"
+date: "2026-03-20T08:22:04.078786"
 draft: false
 sectors:
   - software
@@ -33,6 +33,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2003
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +53,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - primary
   - secondary
-  - signature
 brand_colors: []
 typographies:
   - display
 imagery_styles:
-  - photography
   - product
+  - photography
   - professional
 wikidata_description: American software company based in Boston
 wikidata_url: "https://www.wikidata.org/wiki/Q823303"
@@ -72,10 +74,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.twitter.com/GoToCanada](http://www.twitter.com/GoToCanada)
-- [https://www.goto.com/](https://www.goto.com/)
-- [https://www.goto.com/download](https://www.goto.com/download)
+- [https://www.goto.com](https://www.goto.com)
 - [https://www.goto.com/meeting](https://www.goto.com/meeting)
+- [https://www.goto.com/download](https://www.goto.com/download)
+- [http://www.twitter.com/GoToCanada](http://www.twitter.com/GoToCanada)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "U.S. Fish & Wildlife Service"
 slug: "us-fish-wildlife-service"
 description: ""
-date: "2026-03-13T09:22:53.378065"
+date: "2026-03-20T08:22:04.280344"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1940
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fws.gov](https://www.fws.gov)
 - [http://www.fws.gov](http://www.fws.gov)
-- [https://www.fws.gov/](https://www.fws.gov/)
 
 ## Brand Guidelines
 

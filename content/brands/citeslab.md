@@ -2,7 +2,7 @@
 title: CitésLab
 slug: citeslab
 description: ""
-date: "2026-03-13T09:22:53.518853"
+date: "2026-03-20T08:22:04.412953"
 draft: false
 sectors:
   - "public-sector"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,19 +51,19 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - "pantone-130"
-  - black
+  - "pantone-716"
   - "pantone-7635"
   - white
-  - "pantone-716"
   - "pantone-7433"
+  - "pantone-130"
+  - black
 typographies:
-  - arial
-  - helvetica
   - impact
+  - helvetica
+  - arial
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,8 +75,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.citeslab.fr](https://www.citeslab.fr)
 - [https://www.bpifrance.fr/nos-appels-a-projets-concours/citeslab-revelateurs-de-talents](https://www.bpifrance.fr/nos-appels-a-projets-concours/citeslab-revelateurs-de-talents)
-- [https://www.citeslab.fr/](https://www.citeslab.fr/)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Ikan
 slug: ikan
 description: ""
-date: "2026-03-13T09:22:52.324179"
+date: "2026-03-20T08:22:03.392094"
 draft: false
 sectors:
-  - "staffing-recruitment"
   - "logistics-supply-chain"
+  - "staffing-recruitment"
 regions:
   - india
 years:
@@ -33,6 +33,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ikan.com/](https://www.ikan.com/)
+- [https://www.ikan.com](https://www.ikan.com)
+- [http://www.indonesiaseafood.net](http://www.indonesiaseafood.net)
 
 ## Brand Guidelines
 

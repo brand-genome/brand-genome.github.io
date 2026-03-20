@@ -2,7 +2,7 @@
 title: DNN Corporation
 slug: "dnn-corporation"
 description: ""
-date: "2026-03-13T09:22:52.199870"
+date: "2026-03-20T08:22:03.267005"
 draft: false
 sectors:
   - software
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,26 +47,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - alternate
-  - stacked
   - vertical
+  - stacked
   - secondary
   - horizontal
+  - alternate
+  - primary
 brand_colors:
-  - "pantone-2995"
-  - black
   - red
-  - blue
   - "pantone-185"
   - white
+  - blue
+  - "pantone-2995"
+  - black
 typographies:
+  - impact
   - display
   - avenir
-  - impact
 imagery_styles:
-  - gradient
   - bold
+  - gradient
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,9 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dnnsupport.dnnsoftware.com/](https://dnnsupport.dnnsoftware.com/)
-- [https://store.dnnsoftware.com/](https://store.dnnsoftware.com/)
-- [https://www.dnnsoftware.com/](https://www.dnnsoftware.com/)
+- [https://www.dnnsoftware.com](https://www.dnnsoftware.com)
+- [https://store.dnnsoftware.com](https://store.dnnsoftware.com)
+- [https://dnnsupport.dnnsoftware.com](https://dnnsupport.dnnsoftware.com)
 
 ## Brand Guidelines
 

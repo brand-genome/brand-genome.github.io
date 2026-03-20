@@ -2,7 +2,7 @@
 title: Save Lives Foundation
 slug: "save-lives-foundation"
 description: ""
-date: "2026-03-13T09:22:53.016008"
+date: "2026-03-20T08:22:04.006718"
 draft: false
 sectors:
   - ngo
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []

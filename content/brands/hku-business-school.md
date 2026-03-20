@@ -2,7 +2,7 @@
 title: HKU Business School
 slug: "hku-business-school"
 description: ""
-date: "2026-03-13T09:22:52.063514"
+date: "2026-03-20T08:22:03.129467"
 draft: false
 sectors:
   - education
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,14 +64,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.google.com/?query=Montserrat](http://www.google.com/?query=Montserrat)
-- [http://www.hku.hk](http://www.hku.hk)
-- [https://hkubsaa.hkubs.hku.hk/](https://hkubsaa.hkubs.hku.hk/)
-- [https://mba.hkubs.hku.hk/](https://mba.hkubs.hku.hk/)
-- [https://msc.hkubs.hku.hk/](https://msc.hkubs.hku.hk/)
-- [https://www.fbe.hku.hk](https://www.fbe.hku.hk)
 - [https://www.hkubs.hku.hk](https://www.hkubs.hku.hk)
-- [https://www.hkubs.hku.hk/](https://www.hkubs.hku.hk/)
+- [https://mba.hkubs.hku.hk](https://mba.hkubs.hku.hk)
+- [https://msc.hkubs.hku.hk](https://msc.hkubs.hku.hk)
+- [https://hkubsaa.hkubs.hku.hk](https://hkubsaa.hkubs.hku.hk)
+- [http://www.google.com?query=Montserrat](http://www.google.com?query=Montserrat)
+- [http://www.hku.hk](http://www.hku.hk)
+- [https://www.fbe.hku.hk](https://www.fbe.hku.hk)
 
 ## Brand Guidelines
 

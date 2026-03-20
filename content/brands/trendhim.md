@@ -2,12 +2,12 @@
 title: Trendhim
 slug: trendhim
 description: ""
-date: "2026-03-13T09:22:53.966175"
+date: "2026-03-20T08:22:04.891685"
 draft: false
 sectors:
+  - fashion
   - "e-commerce"
   - "consumer-goods"
-  - fashion
 regions:
   - "united-kingdom"
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:
@@ -66,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.trendhim.co.uk/](https://www.trendhim.co.uk/)
+- [https://www.trendhim.co.uk](https://www.trendhim.co.uk)
+- [https://www.trendhim.com](https://www.trendhim.com)
 - [https://www.trendhim.co.uk/collections](https://www.trendhim.co.uk/collections)
-- [https://www.trendhim.com/](https://www.trendhim.com/)
 
 ## Brand Guidelines
 

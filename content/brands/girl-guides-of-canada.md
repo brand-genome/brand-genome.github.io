@@ -2,16 +2,16 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-03-13T09:22:54.707016"
+date: "2026-03-20T08:22:05.507940"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - canada
 years:
-  - 2015
   - 2018
+  - 2015
 languages:
   - english
 tags:
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1910
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,21 +52,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - secondary
   - stacked
   - wordmark
+  - primary
+  - secondary
 brand_colors:
-  - purple
   - silver
-  - gray
-  - black
   - gold
   - white
+  - purple
+  - gray
+  - black
 typographies: []
 imagery_styles:
-  - photography
   - graphic
+  - photography
 wikidata_description: national Guiding association of Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q3768607"
 has_twitter: false
@@ -76,8 +78,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.girlguides.ca/](https://www.girlguides.ca/)
-- [https://www.girlguides.ca/web/qc-fr/](https://www.girlguides.ca/web/qc-fr/)
+- [https://www.girlguides.ca](https://www.girlguides.ca)
+- [https://www.girlguides.ca/web/qc-fr](https://www.girlguides.ca/web/qc-fr)
+- [http://www.girlguides.ca](http://www.girlguides.ca)
 
 ## Brand Guidelines
 

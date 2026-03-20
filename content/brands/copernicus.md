@@ -2,12 +2,12 @@
 title: Copernicus
 slug: copernicus
 description: ""
-date: "2026-03-13T09:22:54.143344"
+date: "2026-03-20T08:22:04.981562"
 draft: false
 sectors:
-  - research
-  - satellite
   - "public-sector"
+  - satellite
+  - research
 regions:
   - europe
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - institution
+  - aeronautic
 industries: []
 countries:
   - germany
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://atmosphere.copernicus.eu/](https://atmosphere.copernicus.eu/)
-- [https://climate.copernicus.eu/](https://climate.copernicus.eu/)
-- [https://www.copernicus.eu/](https://www.copernicus.eu/)
+- [https://www.copernicus.eu](https://www.copernicus.eu)
+- [https://climate.copernicus.eu](https://climate.copernicus.eu)
+- [https://atmosphere.copernicus.eu](https://atmosphere.copernicus.eu)
+- [http://publications.copernicus.org](http://publications.copernicus.org)
 
 ## Brand Guidelines
 

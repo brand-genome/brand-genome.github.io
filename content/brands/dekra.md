@@ -2,11 +2,11 @@
 title: Dekra
 slug: dekra
 description: ""
-date: "2026-03-13T09:22:52.131823"
+date: "2026-03-20T08:22:03.193724"
 draft: false
 sectors:
-  - consulting
   - automobile
+  - consulting
   - cybersecurity
 regions:
   - germany
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - security
+  - transport
 industries: []
 countries:
   - denmark
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1925
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,12 +57,12 @@ body_sections: []
 logo_elements:
   - icon
 brand_colors:
+  - green
+  - white
+  - blue
   - yellow
   - orange
   - black
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
   - bold
@@ -76,9 +78,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.dekra.com](https://www.dekra.com)
+- [https://www.dekra.de](https://www.dekra.de)
 - [http://www.dekra.com](http://www.dekra.com)
-- [https://www.dekra.com/](https://www.dekra.com/)
-- [https://www.dekra.de/](https://www.dekra.de/)
+- [https://www.dekra.dk](https://www.dekra.dk)
+- [https://www.dekra-norisko.fr](https://www.dekra-norisko.fr)
+- [https://www.dekra-pl.com](https://www.dekra-pl.com)
+- [https://www.dekra.it](https://www.dekra.it)
+- [https://www.dekra-arbeit.de](https://www.dekra-arbeit.de)
 
 ## Brand Guidelines
 

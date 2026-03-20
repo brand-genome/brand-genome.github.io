@@ -2,11 +2,11 @@
 title: PlayStation 3
 slug: "playstation-3"
 description: ""
-date: "2026-03-13T09:22:54.219242"
+date: "2026-03-20T08:22:05.047089"
 draft: false
 sectors:
-  - electronics
   - gaming
+  - electronics
 regions:
   - japan
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,15 +52,15 @@ logo_elements:
   - signature
 brand_colors:
   - "pantone-187"
-  - grey
   - red
+  - grey
 typographies:
   - arial
 imagery_styles:
+  - bold
+  - gradient
   - landscape
   - product
-  - gradient
-  - bold
 wikidata_description: Wikimedia category
 wikidata_url: "https://www.wikidata.org/wiki/Q7344765"
 has_twitter: false
@@ -71,10 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.playstation.com/da-dk/support/hardware/ps3/](https://www.playstation.com/da-dk/support/hardware/ps3/)
-- [https://www.playstation.com/en-us/support/hardware/ps3/](https://www.playstation.com/en-us/support/hardware/ps3/)
-- [https://www.playstation.com/sv-se/support/hardware/ps3/](https://www.playstation.com/sv-se/support/hardware/ps3/)
-- [https://www.playstation.com/tr-tr/support/hardware/ps3/](https://www.playstation.com/tr-tr/support/hardware/ps3/)
+- [https://www.playstation.com/en-us/support/hardware/ps3](https://www.playstation.com/en-us/support/hardware/ps3)
+- [https://www.playstation.com/sv-se/support/hardware/ps3](https://www.playstation.com/sv-se/support/hardware/ps3)
+- [https://www.playstation.com/da-dk/support/hardware/ps3](https://www.playstation.com/da-dk/support/hardware/ps3)
+- [https://www.playstation.com/tr-tr/support/hardware/ps3](https://www.playstation.com/tr-tr/support/hardware/ps3)
 
 ## Brand Guidelines
 

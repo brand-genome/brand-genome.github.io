@@ -2,7 +2,7 @@
 title: Cardinal Stritch University
 slug: "cardinal-stritch-university"
 description: ""
-date: "2026-03-13T09:22:54.219574"
+date: "2026-03-20T08:22:05.047276"
 draft: false
 sectors:
   - education
@@ -35,6 +35,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1937
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,15 +55,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - wordmark
-  - primary
   - stacked
   - secondary
+  - wordmark
+  - primary
+  - icon
 brand_colors: []
 typographies:
-  - serif
   - "sans-serif"
+  - serif
 imagery_styles:
   - photography
   - contemporary
@@ -76,10 +78,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://stritch.edu](https://stritch.edu)
+- [https://stritch.edu/closing-information](https://stritch.edu/closing-information)
+- [https://stritch.edu/verification-request](https://stritch.edu/verification-request)
 - [http://www.stritch.edu](http://www.stritch.edu)
-- [https://stritch.edu/](https://stritch.edu/)
-- [https://stritch.edu/closing-information/](https://stritch.edu/closing-information/)
-- [https://stritch.edu/verification-request/](https://stritch.edu/verification-request/)
 
 ## Brand Guidelines
 

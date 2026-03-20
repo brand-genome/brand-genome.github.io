@@ -2,11 +2,11 @@
 title: Carlsberg Group
 slug: "carlsberg-group"
 description: ""
-date: "2026-03-13T09:22:52.176470"
+date: "2026-03-20T08:22:03.243641"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - denmark
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - "food-beverage"
+  - corporate
 industries:
   - "beverage-industry"
   - "food-industry"
@@ -31,15 +31,17 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - water
   - "non-alcoholic-beverage"
   - beer
-  - water
 products: []
 headquarters_locations:
   - copenhagen
 subsidiaries: []
 foundation_dates:
   - 1847
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,17 +60,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
   - primary
   - horizontal
-  - vertical
 brand_colors:
   - green
   - white
 typographies: []
 imagery_styles:
+  - bold
   - dynamic
   - modern
-  - bold
 wikidata_description: Danish brewery group
 wikidata_url: "https://www.wikidata.org/wiki/Q113215"
 has_twitter: false
@@ -80,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.carlsberggroup.com/](https://www.carlsberggroup.com/)
+- [https://www.carlsberggroup.com](https://www.carlsberggroup.com)
 
 ## Brand Guidelines
 
@@ -113,7 +115,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Beer](/products_or_materials_produced/beer/); [Water](/products_or_materials_produced/water/) |
+| Product Or Material Produced | [Water](/products_or_materials_produced/water/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Beer](/products_or_materials_produced/beer/) |
 | Headquarters Location | [Copenhagen](/headquarters_locations/copenhagen/) |
 | Foundation Date | [1847](/foundation_dates/1847/) |
 | Named After | Carl Jacobsen |

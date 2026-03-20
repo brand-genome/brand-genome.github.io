@@ -2,15 +2,15 @@
 title: Make
 slug: make
 description: ""
-date: "2026-03-13T09:22:52.302261"
+date: "2026-03-20T08:22:03.370578"
 draft: false
 sectors:
   - software
 regions:
   - "czech-republic"
 years:
-  - 2024
   - 2023
+  - 2024
 languages:
   - english
 tags:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.make.com/](https://www.make.com/)
+- [https://www.make.com](https://www.make.com)
 - [https://www.make.com/en/press](https://www.make.com/en/press)
+- [https://www.make.com/en](https://www.make.com/en)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Elastic Interface
 slug: "elastic-interface"
 description: ""
-date: "2026-03-13T09:22:52.058431"
+date: "2026-03-20T08:22:03.124549"
 draft: false
 sectors:
   - "consumer-goods"
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.elasticinterface.com/en](https://www.elasticinterface.com/en)
 - [http://www.elasticinterface.com](http://www.elasticinterface.com)
-- [https://www.elasticinterface.com/en/](https://www.elasticinterface.com/en/)
 
 ## Brand Guidelines
 

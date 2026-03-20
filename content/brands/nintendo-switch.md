@@ -2,7 +2,7 @@
 title: Nintendo Switch
 slug: "nintendo-switch"
 description: ""
-date: "2026-03-13T09:22:52.195927"
+date: "2026-03-20T08:22:03.262249"
 draft: false
 sectors:
   - gaming
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2018
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.nintendo.com/jp/switch/](https://support.nintendo.com/jp/switch/)
+- [https://www.nintendo.com/us/switch](https://www.nintendo.com/us/switch)
 - [https://www.nintendo.com/jp/switch](https://www.nintendo.com/jp/switch)
-- [https://www.nintendo.com/us/switch/](https://www.nintendo.com/us/switch/)
+- [https://support.nintendo.com/jp/switch](https://support.nintendo.com/jp/switch)
+- [https://www.nintendo.co.jp/hardware/switch/onlineservice](https://www.nintendo.co.jp/hardware/switch/onlineservice)
 
 ## Brand Guidelines
 

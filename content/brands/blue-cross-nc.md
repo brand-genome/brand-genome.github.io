@@ -2,7 +2,7 @@
 title: Blue Cross NC
 slug: "blue-cross-nc"
 description: ""
-date: "2026-03-13T09:22:53.424689"
+date: "2026-03-20T08:22:04.327561"
 draft: false
 sectors:
   - insurance
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,18 +49,18 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - stacked
+  - primary
 brand_colors:
   - cyan
 typographies:
   - "proxima-nova"
 imagery_styles:
+  - minimal
+  - professional
+  - photography
   - lifestyle
   - candid
-  - minimal
-  - photography
-  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bluecrossnc.com/](https://www.bluecrossnc.com/)
+- [https://www.bluecrossnc.com](https://www.bluecrossnc.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: IMSA
 slug: imsa
 description: ""
-date: "2026-03-13T09:22:52.326586"
+date: "2026-03-20T08:22:03.395244"
 draft: false
 sectors:
   - sports
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1969
+foundation_year_buckets:
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,7 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.imsa.com/](https://www.imsa.com/)
+- [https://www.imsa.com](https://www.imsa.com)
+- [http://www.imsaracing.net](http://www.imsaracing.net)
 
 ## Brand Guidelines
 

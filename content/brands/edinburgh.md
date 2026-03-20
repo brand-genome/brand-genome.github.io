@@ -2,7 +2,7 @@
 title: Edinburgh
 slug: edinburgh
 description: ""
-date: "2026-03-13T09:22:54.780673"
+date: "2026-03-20T08:22:05.563903"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 0601
+foundation_year_buckets:
+  - "7TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.EDINBURGH.ORG](http://www.EDINBURGH.ORG)
-- [https://visitedinburgh.com/](https://visitedinburgh.com/)
-- [https://www.edinburgh.gov.uk/](https://www.edinburgh.gov.uk/)
-- [https://www.visitscotland.com/](https://www.visitscotland.com/)
+- [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
+- [https://visitedinburgh.com](https://visitedinburgh.com)
+- [https://www.visitscotland.com](https://www.visitscotland.com)
+- [http://www.edinburgh.org](http://www.edinburgh.org)
+- [https://edinburgh.org](https://edinburgh.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: BART
 slug: bart
 description: ""
-date: "2026-03-13T09:22:53.027268"
+date: "2026-03-20T08:22:04.021055"
 draft: false
 sectors:
-  - "public-transportation"
   - "public-sector"
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -33,6 +33,7 @@ headquarters_locations:
   - oakland
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,7 +66,16 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bart.gov/](https://www.bart.gov/)
+- [https://www.bart.gov](https://www.bart.gov)
+- [http://www.bart.gov](http://www.bart.gov)
+- [https://www.bart.gov/guide/japanese](https://www.bart.gov/guide/japanese)
+- [https://www.bart.gov/guide/chinese](https://www.bart.gov/guide/chinese)
+- [https://www.bart.gov/guide/german](https://www.bart.gov/guide/german)
+- [https://www.bart.gov/guide/french](https://www.bart.gov/guide/french)
+- [https://www.bart.gov/guide/italian](https://www.bart.gov/guide/italian)
+- [https://www.bart.gov/guide/korean](https://www.bart.gov/guide/korean)
+- [https://www.bart.gov/guide/spanish](https://www.bart.gov/guide/spanish)
+- [https://bart.gov](https://bart.gov)
 
 ## Brand Guidelines
 

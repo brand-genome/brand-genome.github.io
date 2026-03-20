@@ -2,7 +2,7 @@
 title: "Crea-SP"
 slug: "crea-sp"
 description: ""
-date: "2026-03-13T09:22:54.078916"
+date: "2026-03-20T08:22:04.924900"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1998
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,25 +51,25 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - symbol
   - vertical
   - secondary
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - black
-  - gold
   - silver
   - white
+  - gold
+  - black
 typographies:
-  - verdana
-  - din
-  - garamond
   - raleway
+  - verdana
   - impact
+  - garamond
+  - din
 imagery_styles:
-  - minimal
   - bold
+  - minimal
 wikidata_description: "Finnish film prduction company (1998-2010)"
 wikidata_url: "https://www.wikidata.org/wiki/Q126078579"
 has_twitter: false
@@ -79,7 +81,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.creasp.org.br/](https://www.creasp.org.br/)
+- [https://www.creasp.org.br](https://www.creasp.org.br)
 
 ## Brand Guidelines
 

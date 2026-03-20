@@ -2,7 +2,7 @@
 title: Trentino
 slug: trentino
 description: ""
-date: "2026-03-13T09:22:55.162236"
+date: "2026-03-20T08:22:05.863684"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1921
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://marchiotrentino.it/](https://marchiotrentino.it/)
-- [https://www.marchiotrentino.it/](https://www.marchiotrentino.it/)
+- [https://www.marchiotrentino.it](https://www.marchiotrentino.it)
+- [https://marchiotrentino.it](https://marchiotrentino.it)
+- [http://www.actrento.com](http://www.actrento.com)
 
 ## Brand Guidelines
 

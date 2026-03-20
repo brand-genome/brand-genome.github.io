@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-03-13T09:22:54.423295"
+date: "2026-03-20T08:22:05.319069"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2015
   - 2007
+  - 2015
 languages:
   - english
 tags:
@@ -27,17 +27,19 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - bus
-  - truck
   - "commercial-vehicle"
-  - "passenger-car"
   - engine
+  - truck
+  - "passenger-car"
+  - bus
 products: []
 headquarters_locations:
   - stuttgart
 subsidiaries: []
 foundation_dates:
   - 1926
+foundation_year_buckets:
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,29 +58,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
-  - emblem
   - vertical
   - secondary
   - horizontal
+  - emblem
+  - wordmark
+  - primary
 brand_colors:
-  - "pantone-877"
-  - black
   - "pantone-282"
   - white
+  - black
+  - "pantone-877"
 typographies:
   - arial
 imagery_styles:
-  - modern
-  - natural
-  - clean
-  - portrait
   - minimal
-  - photography
-  - landscape
-  - gradient
   - graphic
+  - portrait
+  - natural
+  - modern
+  - photography
+  - clean
+  - gradient
+  - landscape
 wikidata_description: "German automobile brand owned by Mercedes-Benz AG"
 wikidata_url: "https://www.wikidata.org/wiki/Q36008"
 has_twitter: false
@@ -90,9 +92,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://group.mercedes-benz.com/en/](https://group.mercedes-benz.com/en/)
-- [https://www.mbusa.com/](https://www.mbusa.com/)
-- [https://www.mercedes-benz.com/](https://www.mercedes-benz.com/)
+- [https://www.mercedes-benz.com](https://www.mercedes-benz.com)
+- [https://www.mbusa.com](https://www.mbusa.com)
+- [https://group.mercedes-benz.com/en](https://group.mercedes-benz.com/en)
+- [https://www.mercedes-benz.com/en](https://www.mercedes-benz.com/en)
 
 ## Brand Guidelines
 
@@ -195,7 +198,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Engine](/products_or_materials_produced/engine/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Bus](/products_or_materials_produced/bus/) |
 | Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |

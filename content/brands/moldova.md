@@ -2,7 +2,7 @@
 title: Moldova
 slug: moldova
 description: ""
-date: "2026-03-13T09:22:51.982560"
+date: "2026-03-20T08:22:03.083638"
 draft: false
 sectors:
   - "public-sector"
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1600
+foundation_year_buckets:
+  - "16TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,10 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://moldova.travel/en/](https://moldova.travel/en/)
-- [https://moldova.travel/ro/](https://moldova.travel/ro/)
-- [https://turism.gov.md/en/](https://turism.gov.md/en/)
-- [https://turism.gov.md/ro/](https://turism.gov.md/ro/)
+- [https://moldova.travel/en](https://moldova.travel/en)
+- [https://moldova.travel/ro](https://moldova.travel/ro)
+- [https://turism.gov.md/en](https://turism.gov.md/en)
+- [https://turism.gov.md/ro](https://turism.gov.md/ro)
+- [http://www.moldova-noua.ro](http://www.moldova-noua.ro)
 
 ## Brand Guidelines
 

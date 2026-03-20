@@ -2,7 +2,7 @@
 title: Exposure Ninja
 slug: "exposure-ninja"
 description: ""
-date: "2026-03-13T09:22:54.334188"
+date: "2026-03-20T08:22:05.160485"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -27,6 +27,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -45,23 +46,23 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - icon
   - mascot
   - wordmark
+  - primary
 brand_colors:
   - black
-  - grey
   - white
+  - grey
   - blue
 typographies:
   - lato
   - montserrat
 imagery_styles:
-  - clean
-  - colorful
-  - professional
   - bold
+  - colorful
+  - clean
+  - professional
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,7 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://exposureninja.com/](https://exposureninja.com/)
+- [https://exposureninja.com](https://exposureninja.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-03-13T09:22:53.012375"
+date: "2026-03-20T08:22:04.002822"
 draft: false
 sectors:
-  - railroad
   - "logistics-supply-chain"
+  - railroad
   - "public-transportation"
 regions:
   - france
@@ -34,11 +34,13 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "saint-denis"
   - paris
+  - "saint-denis"
 subsidiaries: []
 foundation_dates:
   - 1938
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,11 +73,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.sncf.com/fr/groupe/marques/sncf](http://www.sncf.com/fr/groupe/marques/sncf)
-- [https://www.groupe-sncf.com/](https://www.groupe-sncf.com/)
+- [https://www.groupe-sncf.com](https://www.groupe-sncf.com)
 - [https://www.groupe-sncf.com/en](https://www.groupe-sncf.com/en)
-- [https://www.sncf-connect.com/](https://www.sncf-connect.com/)
-- [https://www.sncf-connect.com/en-en/](https://www.sncf-connect.com/en-en/)
+- [https://www.sncf-connect.com](https://www.sncf-connect.com)
+- [https://www.sncf-connect.com/en-en](https://www.sncf-connect.com/en-en)
+- [http://www.sncf.com/fr/groupe/marques/sncf](http://www.sncf.com/fr/groupe/marques/sncf)
+- [https://www.sncf.com](https://www.sncf.com)
+- [https://www.sncf.fr](https://www.sncf.fr)
 
 ## Brand Guidelines
 
@@ -91,7 +95,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Saint Denis](/headquarters_locations/saint-denis/); [Paris](/headquarters_locations/paris/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [Saint Denis](/headquarters_locations/saint-denis/) |
 | Foundation Date | [1938](/foundation_dates/1938/) |
 | Headquarters Location | Saint-Denis (from 2013, until 2024-12-31), Paris, Saint-Denis (from 2025-01-01) |
 | Follows | Chemins de fer d'Alsace et de Lorraine, Chemins de fer de l'État, Chemins de fer de l'Est, Chemins de fer du Nord, Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (+1 more) |

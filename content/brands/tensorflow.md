@@ -2,7 +2,7 @@
 title: TensorFlow
 slug: tensorflow
 description: ""
-date: "2026-03-13T09:22:54.765537"
+date: "2026-03-20T08:22:05.556090"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2015
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,19 +49,19 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
   - logomark
-  - icon
+  - horizontal
+  - lockup
   - wordmark
   - primary
-  - stacked
-  - lockup
-  - horizontal
+  - icon
 brand_colors:
+  - white
+  - blue
   - gray
   - orange
   - black
-  - blue
-  - white
 typographies: []
 imagery_styles: []
 wikidata_description: machine learning software framework
@@ -73,8 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.tensorflow.org](https://www.tensorflow.org)
 - [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-- [https://www.tensorflow.org/](https://www.tensorflow.org/)
+- [https://tensorflow.org](https://tensorflow.org)
+- [https://tensorflow.google.cn](https://tensorflow.google.cn)
 
 ## Brand Guidelines
 

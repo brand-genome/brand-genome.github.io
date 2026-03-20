@@ -2,7 +2,7 @@
 title: ZIP
 slug: zip
 description: ""
-date: "2026-03-13T09:22:53.264164"
+date: "2026-03-20T08:22:04.190145"
 draft: false
 sectors:
   - finance
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://zip.co/](https://zip.co/)
+- [https://zip.co](https://zip.co)
 - [https://zip.co/au](https://zip.co/au)
+- [http://www.info-zip.org/Zip.html](http://www.info-zip.org/Zip.html)
+- [https://infozip.sourceforge.net/Zip.html](https://infozip.sourceforge.net/Zip.html)
 
 ## Brand Guidelines
 

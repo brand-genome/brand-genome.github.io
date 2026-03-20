@@ -2,11 +2,11 @@
 title: Freepik
 slug: freepik
 description: ""
-date: "2026-03-13T09:22:52.308868"
+date: "2026-03-20T08:22:03.374186"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - spain
 years:
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2010
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.freepik.com/](https://www.freepik.com/)
+- [https://www.freepik.com](https://www.freepik.com)
 
 ## Brand Guidelines
 

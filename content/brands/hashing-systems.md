@@ -2,11 +2,11 @@
 title: Hashing Systems
 slug: "hashing-systems"
 description: ""
-date: "2026-03-13T09:22:54.220622"
+date: "2026-03-20T08:22:05.048653"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,38 +48,38 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - secondary
   - logomark
-  - icon
   - wordmark
   - primary
-  - stacked
   - favicon
-  - secondary
+  - icon
 brand_colors:
-  - gray
-  - "pantone-151"
-  - black
-  - "pantone-717"
   - "pantone-2765"
-  - green
-  - white
-  - "pantone-3265"
-  - "pantone-426"
-  - "pantone-289"
-  - "pantone-1788"
-  - navy
-  - "pantone-7481"
-  - "pantone-2995"
-  - purple
-  - "pantone-152"
-  - orange
   - red
+  - "pantone-289"
+  - purple
   - blue
+  - "pantone-717"
+  - "pantone-1788"
+  - "pantone-2995"
+  - orange
+  - white
+  - gray
+  - "pantone-7481"
+  - green
+  - navy
+  - "pantone-426"
+  - "pantone-152"
   - turquoise
+  - black
+  - "pantone-3265"
+  - "pantone-151"
 typographies:
-  - poppins
-  - verdana
   - "sans-serif"
+  - verdana
+  - poppins
 imagery_styles:
   - clean
   - contemporary
@@ -93,9 +94,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://docs.hashgraph.name/](https://docs.hashgraph.name/)
-- [https://hashingsystems.com/](https://hashingsystems.com/)
-- [https://hns.domains/](https://hns.domains/)
+- [https://hashingsystems.com](https://hashingsystems.com)
+- [https://hns.domains](https://hns.domains)
+- [https://docs.hashgraph.name](https://docs.hashgraph.name)
 
 ## Brand Guidelines
 

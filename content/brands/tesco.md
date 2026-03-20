@@ -2,12 +2,12 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-03-13T09:22:53.961504"
+date: "2026-03-20T08:22:04.884717"
 draft: false
 sectors:
   - "e-commerce"
-  - supermarket
   - "consumer-goods"
+  - supermarket
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - shopping
   - featured
   - corporate
-  - shopping
 industries:
   - "retail-chain"
 countries:
@@ -41,6 +41,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1919
+foundation_year_buckets:
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,17 +64,17 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - purple
-  - black
-  - blue
   - green
+  - purple
+  - blue
   - turquoise
+  - black
 typographies:
   - arial
 imagery_styles:
-  - photography
-  - product
   - bold
+  - product
+  - photography
 wikidata_description: British multinational retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q487494"
 has_twitter: false
@@ -84,9 +86,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tesco.com/](https://www.tesco.com/)
-- [https://www.tesco.com/groceries/](https://www.tesco.com/groceries/)
-- [https://www.tescoplc.com/](https://www.tescoplc.com/)
+- [https://www.tesco.com](https://www.tesco.com)
+- [https://www.tesco.com/groceries](https://www.tesco.com/groceries)
+- [https://www.tescoplc.com](https://www.tescoplc.com)
+- [https://www.tesco.ie](https://www.tesco.ie)
+- [https://tesco.hu](https://tesco.hu)
+- [https://itesco.sk](https://itesco.sk)
+- [https://itesco.cz](https://itesco.cz)
+- [https://tesco.pl](https://tesco.pl)
+- [https://tesco.sk](https://tesco.sk)
 
 ## Brand Guidelines
 

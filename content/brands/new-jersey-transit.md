@@ -2,7 +2,7 @@
 title: New Jersey Transit
 slug: "new-jersey-transit"
 description: ""
-date: "2026-03-13T09:22:53.245288"
+date: "2026-03-20T08:22:04.163359"
 draft: false
 sectors:
   - "public-transportation"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1979
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.njtransit.com/](https://www.njtransit.com/)
+- [https://www.njtransit.com](https://www.njtransit.com)
+- [http://www.njtransit.com](http://www.njtransit.com)
 
 ## Brand Guidelines
 

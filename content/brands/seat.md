@@ -2,7 +2,7 @@
 title: Seat
 slug: seat
 description: ""
-date: "2026-03-13T09:22:54.420620"
+date: "2026-03-20T08:22:05.316633"
 draft: false
 sectors:
   - automobile
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1950
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +57,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles:
   - photography
@@ -71,9 +73,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.seat.com](https://www.seat.com)
+- [https://www.seat.es](https://www.seat.es)
 - [http://www.seat.com](http://www.seat.com)
-- [https://www.seat.com/](https://www.seat.com/)
-- [https://www.seat.es/](https://www.seat.es/)
+- [https://www.seat.fr](https://www.seat.fr)
+- [https://www.seat.de](https://www.seat.de)
+- [https://www.seat.co.uk](https://www.seat.co.uk)
 
 ## Brand Guidelines
 

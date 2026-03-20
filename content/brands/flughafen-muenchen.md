@@ -2,7 +2,7 @@
 title: Flughafen Muenchen
 slug: "flughafen-muenchen"
 description: ""
-date: "2026-03-13T09:22:54.046074"
+date: "2026-03-20T08:22:04.900861"
 draft: false
 sectors:
   - "public-transportation"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,10 +61,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.munich-airport.de](https://www.munich-airport.de)
+- [https://www.munich-airport.com](https://www.munich-airport.com)
 - [http://www.allresto.de](http://www.allresto.de)
 - [http://www.munich-airport.de](http://www.munich-airport.de)
-- [https://www.munich-airport.com/](https://www.munich-airport.com/)
-- [https://www.munich-airport.de/](https://www.munich-airport.de/)
 
 ## Brand Guidelines
 

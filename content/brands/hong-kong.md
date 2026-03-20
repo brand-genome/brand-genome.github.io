@@ -2,7 +2,7 @@
 title: Hong Kong
 slug: "hong-kong"
 description: ""
-date: "2026-03-13T09:22:52.322847"
+date: "2026-03-20T08:22:03.390545"
 draft: false
 sectors:
   - "public-sector"
@@ -11,13 +11,13 @@ regions:
   - "hong-kong"
   - china
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - chinese
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -32,8 +32,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1841
   - 1997
+  - 1841
+foundation_year_buckets:
+  - "19TH-CENTURY"
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,24 +55,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - signature
   - symbol
   - primary
-  - signature
 brand_colors:
-  - cyan
+  - red
+  - green
+  - white
   - purple
+  - cyan
+  - blue
   - yellow
   - orange
   - black
-  - red
-  - blue
-  - green
-  - white
 typographies: []
 imagery_styles:
-  - gradient
   - bold
   - graphic
+  - gradient
 wikidata_description: city and special administrative region of China
 wikidata_url: "https://www.wikidata.org/wiki/Q8646"
 has_twitter: false
@@ -81,10 +84,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.brandhk.gov.hk/](https://www.brandhk.gov.hk/)
-- [https://www.brandhk.gov.hk/en/](https://www.brandhk.gov.hk/en/)
-- [https://www.brandhk.gov.hk/zh-hans/](https://www.brandhk.gov.hk/zh-hans/)
-- [https://www.brandhk.gov.hk/zh-hant/](https://www.brandhk.gov.hk/zh-hant/)
+- [https://www.brandhk.gov.hk](https://www.brandhk.gov.hk)
+- [https://www.brandhk.gov.hk/en](https://www.brandhk.gov.hk/en)
+- [https://www.brandhk.gov.hk/zh-hant](https://www.brandhk.gov.hk/zh-hant)
+- [https://www.brandhk.gov.hk/zh-hans](https://www.brandhk.gov.hk/zh-hans)
+- [http://www.gov.hk](http://www.gov.hk)
 
 ## Brand Guidelines
 
@@ -133,7 +137,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1841](/foundation_dates/1841/); [1997](/foundation_dates/1997/) |
+| Foundation Date | [1997](/foundation_dates/1997/); [1841](/foundation_dates/1841/) |
 | Great Russian Encyclopedia Online Id (2017) | 4177745 |
 | Getty Thesaurus Of Geographic Names Id | 7004542 |
 | Topic'S Main Wikimedia Portal | Portal:Hong Kong |

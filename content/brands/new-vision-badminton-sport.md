@@ -2,7 +2,7 @@
 title: New Vision Badminton Sport
 slug: "new-vision-badminton-sport"
 description: ""
-date: "2026-03-13T09:22:53.115083"
+date: "2026-03-20T08:22:04.114715"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,27 +47,27 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - symbol
-  - primary
   - vertical
   - secondary
   - signature
+  - symbol
   - horizontal
+  - primary
 brand_colors:
-  - violet
-  - black
-  - maroon
   - red
-  - blue
   - green
   - white
+  - maroon
+  - blue
+  - violet
+  - black
 typographies:
-  - display
   - impact
+  - display
 imagery_styles:
+  - bold
   - monochrome
   - photography
-  - bold
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,7 +79,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nvbs.com.qa/](https://www.nvbs.com.qa/)
+- [https://www.nvbs.com.qa](https://www.nvbs.com.qa)
 
 ## Brand Guidelines
 

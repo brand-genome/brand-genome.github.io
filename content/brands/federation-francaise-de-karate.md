@@ -2,7 +2,7 @@
 title: Fédération Française de Karaté
 slug: "federation-francaise-de-karate"
 description: ""
-date: "2026-03-13T09:22:54.738019"
+date: "2026-03-20T08:22:05.534996"
 draft: false
 sectors:
   - sports
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -65,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ffkarate.fr](https://www.ffkarate.fr)
 - [http://www.ffkarate.fr](http://www.ffkarate.fr)
-- [https://www.ffkarate.fr/](https://www.ffkarate.fr/)
 
 ## Brand Guidelines
 

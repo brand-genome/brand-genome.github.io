@@ -2,7 +2,7 @@
 title: Mobilads
 slug: mobilads
 description: ""
-date: "2026-03-13T09:22:54.810486"
+date: "2026-03-20T08:22:05.579531"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -46,21 +47,21 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - stacked
+  - secondary
+  - symbol
+  - lockup
   - wordmark
   - primary
-  - symbol
-  - stacked
-  - lockup
-  - secondary
 brand_colors:
-  - black
   - red
+  - black
 typographies:
   - display
   - montserrat
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.mobilads.co](http://www.mobilads.co)
-- [https://mediakit.mobilads.co/](https://mediakit.mobilads.co/)
-- [https://www.mobilads.co/](https://www.mobilads.co/)
-- [https://www.mobilads.co/privacy-policy](https://www.mobilads.co/privacy-policy)
+- [https://www.mobilads.co](https://www.mobilads.co)
+- [https://mediakit.mobilads.co](https://mediakit.mobilads.co)
 - [https://www.mobilads.co/terms-and-conditions](https://www.mobilads.co/terms-and-conditions)
+- [https://www.mobilads.co/privacy-policy](https://www.mobilads.co/privacy-policy)
+- [http://www.mobilads.co](http://www.mobilads.co)
 
 ## Brand Guidelines
 

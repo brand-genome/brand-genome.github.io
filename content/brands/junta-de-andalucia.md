@@ -2,7 +2,7 @@
 title: Junta de Andalucía
 slug: "junta-de-andalucia"
 description: ""
-date: "2026-03-13T09:22:52.171080"
+date: "2026-03-20T08:22:03.236317"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - institution
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,10 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fonts.google.com/specimen/Montserrat](https://fonts.google.com/specimen/Montserrat)
-- [https://lajunta.es/msdsistemadiseno](https://lajunta.es/msdsistemadiseno)
-- [https://www.juntadeandalucia.es/](https://www.juntadeandalucia.es/)
+- [https://www.juntadeandalucia.es](https://www.juntadeandalucia.es)
 - [https://www.juntadeandalucia.es/identidad](https://www.juntadeandalucia.es/identidad)
+- [https://lajunta.es/msdsistemadiseno](https://lajunta.es/msdsistemadiseno)
+- [https://fonts.google.com/specimen/Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 ## Brand Guidelines
 

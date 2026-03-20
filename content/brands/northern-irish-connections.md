@@ -2,7 +2,7 @@
 title: Northern Irish Connections
 slug: "northern-irish-connections"
 description: ""
-date: "2026-03-13T09:22:53.660236"
+date: "2026-03-20T08:22:04.518777"
 draft: false
 sectors:
   - "public-sector"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,16 +50,16 @@ logo_elements:
   - icon
   - secondary
 brand_colors:
-  - black
-  - grey
   - white
+  - grey
+  - black
 typographies: []
 imagery_styles:
-  - contemporary
+  - product
+  - staged
   - flat
   - dramatic
-  - staged
-  - product
+  - contemporary
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.niconnections.com/](https://www.niconnections.com/)
+- [https://www.niconnections.com](https://www.niconnections.com)
 - [https://www.niconnections.com/event-toolkit](https://www.niconnections.com/event-toolkit)
 
 ## Brand Guidelines

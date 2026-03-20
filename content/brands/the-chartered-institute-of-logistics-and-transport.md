@@ -2,11 +2,11 @@
 title: The Chartered Institute of Logistics and Transport
 slug: "the-chartered-institute-of-logistics-and-transport"
 description: ""
-date: "2026-03-13T09:22:53.340801"
+date: "2026-03-20T08:22:04.250118"
 draft: false
 sectors:
-  - education
   - "logistics-supply-chain"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,10 +50,10 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - purple
   - "pantone-872"
   - gold
   - "pantone-269"
+  - purple
 typographies: []
 imagery_styles:
   - professional
@@ -67,12 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ciltinternational.org](https://ciltinternational.org)
+- [https://ciltuk.org.uk](https://ciltuk.org.uk)
 - [http://www.ciltnigeria.org](http://www.ciltnigeria.org)
 - [http://www.ciltsl.com](http://www.ciltsl.com)
-- [http://www.flickr.com/photos/134390998@N06/](http://www.flickr.com/photos/134390998@N06/)
-- [http://www.slideshare.net/](http://www.slideshare.net/)
-- [https://ciltinternational.org/](https://ciltinternational.org/)
-- [https://ciltuk.org.uk/](https://ciltuk.org.uk/)
+- [http://www.flickr.com/photos/134390998@N06](http://www.flickr.com/photos/134390998@N06)
+- [http://www.slideshare.net](http://www.slideshare.net)
 
 ## Brand Guidelines
 

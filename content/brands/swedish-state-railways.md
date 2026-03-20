@@ -2,7 +2,7 @@
 title: Swedish State Railways
 slug: "swedish-state-railways"
 description: ""
-date: "2026-03-13T09:22:52.102241"
+date: "2026-03-20T08:22:03.160103"
 draft: false
 sectors:
   - railroad
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1888
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,10 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.sj.se](http://www.sj.se)
-- [https://www.sj.no/en](https://www.sj.no/en)
-- [https://www.sj.se/](https://www.sj.se/)
 - [https://www.sj.se/en](https://www.sj.se/en)
+- [https://www.sj.se](https://www.sj.se)
+- [https://www.sj.no/en](https://www.sj.no/en)
+- [http://www.sj.se](http://www.sj.se)
 
 ## Brand Guidelines
 

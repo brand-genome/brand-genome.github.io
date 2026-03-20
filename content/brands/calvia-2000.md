@@ -2,11 +2,11 @@
 title: Calvià 2000
 slug: "calvia-2000"
 description: ""
-date: "2026-03-13T09:22:53.971209"
+date: "2026-03-20T08:22:04.897297"
 draft: false
 sectors:
-  - utilities
   - "public-sector"
+  - utilities
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - catalan
 tags:
-  - city
   - regional
+  - city
 industries: []
 countries: []
 revenue_buckets: []
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,17 +49,17 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - symbol
   - vertical
-  - favicon
+  - symbol
   - horizontal
+  - favicon
+  - icon
 brand_colors:
-  - "pantone-433"
-  - grey
-  - "pantone-376"
   - green
+  - "pantone-376"
+  - "pantone-433"
   - white
+  - grey
 typographies: []
 imagery_styles:
   - bold
@@ -73,8 +74,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.calvia2000.es](https://www.calvia2000.es)
 - [https://www.calvia.com/en/municipal-areas/environment-and-animal-welfare/calvia-2000-1](https://www.calvia.com/en/municipal-areas/environment-and-animal-welfare/calvia-2000-1)
-- [https://www.calvia2000.es/](https://www.calvia2000.es/)
 
 ## Brand Guidelines
 

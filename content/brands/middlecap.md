@@ -2,12 +2,12 @@
 title: Middlecap
 slug: middlecap
 description: ""
-date: "2026-03-13T09:22:54.810760"
+date: "2026-03-20T08:22:05.579799"
 draft: false
 sectors:
-  - consulting
-  - finance
   - "real-estate"
+  - finance
+  - consulting
 regions:
   - slovakia
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - financial
 industries:
-  - "health-care-industry"
   - retail
+  - "health-care-industry"
 countries:
   - "czech-republic"
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 2016
+foundation_year_buckets:
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,29 +55,29 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - favicon
-  - primary
   - icon
+  - primary
+  - favicon
   - secondary
 brand_colors:
-  - cyan
-  - "pantone-299"
-  - gray
-  - orange
   - "pantone-289"
-  - "pantone-7625"
-  - blue
+  - cyan
   - white
+  - blue
+  - gray
+  - "pantone-299"
+  - orange
+  - "pantone-7625"
 typographies:
   - "sans-serif"
 imagery_styles:
-  - modern
-  - serious
-  - geometric
   - minimal
   - colorful
   - professional
   - bold
+  - modern
+  - serious
+  - geometric
 wikidata_description: Czech company operating optician chain
 wikidata_url: "https://www.wikidata.org/wiki/Q130557294"
 has_twitter: false
@@ -87,7 +89,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://middlecap.com/](https://middlecap.com/)
+- [https://middlecap.com](https://middlecap.com)
+- [https://fokusoptik.cz](https://fokusoptik.cz)
 
 ## Brand Guidelines
 

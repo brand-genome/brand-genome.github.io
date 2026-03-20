@@ -2,7 +2,7 @@
 title: Kia
 slug: kia
 description: ""
-date: "2026-03-13T09:22:53.276573"
+date: "2026-03-20T08:22:04.204166"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - engineering
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -28,14 +28,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "commercial-vehicle"
   - car
+  - "commercial-vehicle"
 products: []
 headquarters_locations:
   - seoul
 subsidiaries: []
 foundation_dates:
   - 1944
+foundation_year_buckets:
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,9 +75,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.kia.com](https://www.kia.com)
+- [https://worldwide.kia.com](https://worldwide.kia.com)
 - [http://www.kia.com](http://www.kia.com)
-- [https://worldwide.kia.com/](https://worldwide.kia.com/)
-- [https://www.kia.com/](https://www.kia.com/)
+- [https://kia.com](https://kia.com)
+- [https://www.kia.com/kr](https://www.kia.com/kr)
+- [https://kia.ca](https://kia.ca)
+- [https://www.kia.co.za](https://www.kia.co.za)
+- [https://members.kia.com](https://members.kia.com)
 
 ## Brand Guidelines
 
@@ -119,7 +126,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
 | Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
 | Foundation Date | [1944](/foundation_dates/1944/) |
 | Headquarters Location | Seoul |

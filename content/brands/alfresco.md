@@ -2,7 +2,7 @@
 title: Alfresco
 slug: alfresco
 description: ""
-date: "2026-03-13T09:22:54.558739"
+date: "2026-03-20T08:22:05.404431"
 draft: false
 sectors:
   - software
@@ -29,6 +29,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 2005
+foundation_year_buckets:
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,20 +52,20 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - gray
-  - gold
-  - orange
-  - blue
   - green
+  - gold
   - white
+  - blue
+  - gray
+  - orange
 typographies:
   - slab
   - roboto
 imagery_styles:
-  - bold
   - photography
-  - candid
+  - bold
   - subtle
+  - candid
 wikidata_description: "open-source content-management system"
 wikidata_url: "https://www.wikidata.org/wiki/Q946976"
 has_twitter: false
@@ -75,11 +77,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://connect.hyland.com/](https://connect.hyland.com/)
-- [https://docs.alfresco.com/](https://docs.alfresco.com/)
+- [https://www.alfresco.com](https://www.alfresco.com)
+- [https://docs.alfresco.com](https://docs.alfresco.com)
 - [https://github.com/Alfresco](https://github.com/Alfresco)
-- [https://support.hyland.com/](https://support.hyland.com/)
-- [https://www.alfresco.com/](https://www.alfresco.com/)
+- [https://connect.hyland.com](https://connect.hyland.com)
+- [https://support.hyland.com](https://support.hyland.com)
+- [http://www.alfresco.com](http://www.alfresco.com)
 
 ## Brand Guidelines
 

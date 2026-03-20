@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-03-13T09:22:53.278611"
+date: "2026-03-20T08:22:04.206358"
 draft: false
 sectors:
-  - software
   - broadcasting
   - networking
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - broadcast
+  - software
 industries: []
 countries:
   - "united-states"
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1983
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,11 +57,11 @@ logo_elements:
   - symbol
   - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies:
-  - arial
   - helvetica
+  - arial
 imagery_styles:
   - product
   - professional
@@ -74,12 +76,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ndi.video](https://ndi.video)
+- [https://www.vizrt.com/products/ndi](https://www.vizrt.com/products/ndi)
 - [http://www.linkedin.com/company/ndi-tv](http://www.linkedin.com/company/ndi-tv)
 - [http://www.ndi.tv](http://www.ndi.tv)
 - [http://www.youtube.com/c/NDItv/featured](http://www.youtube.com/c/NDItv/featured)
-- [https://ndi.video/](https://ndi.video/)
 - [https://twitter.com/NDI_tv](https://twitter.com/NDI_tv)
-- [https://www.vizrt.com/products/ndi/](https://www.vizrt.com/products/ndi/)
+- [https://www.ndi.org](https://www.ndi.org)
 
 ## Brand Guidelines
 

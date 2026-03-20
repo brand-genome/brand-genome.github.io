@@ -2,11 +2,11 @@
 title: Containous
 slug: containous
 description: ""
-date: "2026-03-13T09:22:53.969918"
+date: "2026-03-20T08:22:04.895799"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,12 +48,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - logomark
-  - icon
-  - primary
   - stacked
-  - lockup
+  - logomark
   - horizontal
+  - lockup
+  - primary
+  - icon
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -67,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://containo.us/](https://containo.us/)
-- [https://traefik.io/](https://traefik.io/)
+- [https://containo.us](https://containo.us)
+- [https://traefik.io](https://traefik.io)
 
 ## Brand Guidelines
 

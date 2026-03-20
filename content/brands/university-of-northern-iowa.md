@@ -2,7 +2,7 @@
 title: University of Northern Iowa
 slug: "university-of-northern-iowa"
 description: ""
-date: "2026-03-13T09:22:55.147358"
+date: "2026-03-20T08:22:05.846146"
 draft: false
 sectors:
   - education
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1876
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +53,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
-  - primary
   - vertical
   - secondary
   - horizontal
+  - wordmark
+  - primary
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -71,7 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uni.edu/](https://www.uni.edu/)
+- [https://www.uni.edu](https://www.uni.edu)
+- [http://www.uni.edu](http://www.uni.edu)
 
 ## Brand Guidelines
 

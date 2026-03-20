@@ -2,7 +2,7 @@
 title: Zaryadye Park
 slug: "zaryadye-park"
 description: ""
-date: "2026-03-13T09:22:53.281654"
+date: "2026-03-20T08:22:04.211233"
 draft: false
 sectors:
   - tourism
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -62,8 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://welcome.zaryadyepark.ru/](https://welcome.zaryadyepark.ru/)
-- [https://www.zaryadyepark.ru/](https://www.zaryadyepark.ru/)
+- [https://www.zaryadyepark.ru](https://www.zaryadyepark.ru)
+- [https://welcome.zaryadyepark.ru](https://welcome.zaryadyepark.ru)
+- [http://zaryadyepark.ru](http://zaryadyepark.ru)
+- [https://www.zaryadyepark.ru/en](https://www.zaryadyepark.ru/en)
 
 ## Brand Guidelines
 

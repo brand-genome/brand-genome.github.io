@@ -2,7 +2,7 @@
 title: "Canna-Pet"
 slug: "canna-pet"
 description: ""
-date: "2026-03-13T09:22:54.819746"
+date: "2026-03-20T08:22:05.582441"
 draft: false
 sectors:
   - "veterinary-pet-care"
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://canna-pet.com/](https://canna-pet.com/)
+- [https://canna-pet.com](https://canna-pet.com)
 
 ## Brand Guidelines
 

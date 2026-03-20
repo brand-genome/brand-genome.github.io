@@ -2,11 +2,11 @@
 title: Hire Vue
 slug: "hire-vue"
 description: ""
-date: "2026-03-13T09:22:54.804986"
+date: "2026-03-20T08:22:05.576219"
 draft: false
 sectors:
-  - software
   - "staffing-recruitment"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,35 +48,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - lockup
   - symbol
   - primary
-  - lockup
 brand_colors:
-  - "pantone-170"
-  - "pantone-187"
+  - red
+  - green
   - "pantone-3248"
-  - "pantone-7406"
+  - "pantone-185"
+  - white
+  - coral
+  - "pantone-109"
   - "pantone-573"
+  - "pantone-170"
   - gray
   - yellow
-  - "pantone-185"
-  - black
-  - "pantone-109"
-  - red
-  - coral
-  - green
-  - white
+  - "pantone-7406"
   - "pantone-7719"
+  - "pantone-187"
+  - black
 typographies:
   - slab
   - roboto
 imagery_styles:
-  - natural
-  - monochrome
   - minimal
+  - graphic
   - professional
   - bold
-  - graphic
+  - natural
+  - monochrome
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -87,8 +88,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://trust.hirevue.com/](https://trust.hirevue.com/)
-- [https://www.hirevue.com/](https://www.hirevue.com/)
+- [https://www.hirevue.com](https://www.hirevue.com)
+- [https://trust.hirevue.com](https://trust.hirevue.com)
 
 ## Brand Guidelines
 

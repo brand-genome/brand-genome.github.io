@@ -2,11 +2,11 @@
 title: EROAD
 slug: eroad
 description: ""
-date: "2026-03-13T09:22:54.575374"
+date: "2026-03-20T08:22:05.420237"
 draft: false
 sectors:
-  - software
   - "logistics-supply-chain"
+  - software
   - hardware
 regions:
   - "new-zealand"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,11 +50,11 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - wordmark
   - vertical
+  - wordmark
 brand_colors:
-  - black
   - white
+  - black
 typographies:
   - gotham
 imagery_styles:
@@ -69,11 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eroadglobal.com/](https://eroadglobal.com/)
-- [https://help.eroad.com/](https://help.eroad.com/)
-- [https://www.eroad.co.nz/](https://www.eroad.co.nz/)
-- [https://www.eroad.com.au/](https://www.eroad.com.au/)
-- [https://www.eroad.com/](https://www.eroad.com/)
+- [https://www.eroad.co.nz](https://www.eroad.co.nz)
+- [https://www.eroad.com](https://www.eroad.com)
+- [https://www.eroad.com.au](https://www.eroad.com.au)
+- [https://eroadglobal.com](https://eroadglobal.com)
+- [https://help.eroad.com](https://help.eroad.com)
 
 ## Brand Guidelines
 

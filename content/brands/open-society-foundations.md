@@ -2,7 +2,7 @@
 title: Open Society Foundations
 slug: "open-society-foundations"
 description: ""
-date: "2026-03-13T09:22:53.304071"
+date: "2026-03-20T08:22:04.222309"
 draft: false
 sectors:
   - ngo
@@ -32,6 +32,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1993
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -50,12 +52,12 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
-  - wordmark
   - signature
+  - wordmark
+  - primary
 brand_colors:
-  - black
   - white
+  - black
 typographies: []
 imagery_styles: []
 wikidata_description: international grantmaking network founded by business magnate George Soros
@@ -69,7 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.opensocietyfoundations.org/](https://www.opensocietyfoundations.org/)
+- [https://www.opensocietyfoundations.org](https://www.opensocietyfoundations.org)
+- [https://opensocietyfoundations.org](https://opensocietyfoundations.org)
 
 ## Brand Guidelines
 

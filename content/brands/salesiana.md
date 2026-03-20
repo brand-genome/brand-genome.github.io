@@ -2,7 +2,7 @@
 title: Salesiana
 slug: salesiana
 description: ""
-date: "2026-03-13T09:22:53.540466"
+date: "2026-03-20T08:22:04.417362"
 draft: false
 sectors:
   - education
@@ -31,6 +31,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,20 +51,20 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - seal
   - primary
   - monogram
-  - seal
 brand_colors:
   - silver
-  - "pantone-281"
-  - gray
-  - "pantone-8402"
-  - yellow
-  - "pantone-130"
-  - black
-  - blue
   - gold
   - white
+  - "pantone-281"
+  - blue
+  - yellow
+  - gray
+  - "pantone-130"
+  - "pantone-8402"
+  - black
 typographies:
   - "gill-sans"
 imagery_styles:
@@ -78,18 +80,18 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://avac.ups.edu.ec/](https://avac.ups.edu.ec/)
-- [https://bienestar.ups.edu.ec/](https://bienestar.ups.edu.ec/)
-- [https://dspace.ups.edu.ec/](https://dspace.ups.edu.ec/)
-- [https://educacioncontinua.ups.edu.ec/](https://educacioncontinua.ups.edu.ec/)
-- [https://idiomas.ups.edu.ec/](https://idiomas.ups.edu.ec/)
-- [https://portal.ups.edu.ec/](https://portal.ups.edu.ec/)
-- [https://quipux.ups.edu.ec/](https://quipux.ups.edu.ec/)
-- [https://ti.ups.edu.ec/](https://ti.ups.edu.ec/)
-- [https://upsenlinea.com/](https://upsenlinea.com/)
-- [https://www.ups.edu.ec/](https://www.ups.edu.ec/)
+- [https://www.ups.edu.ec](https://www.ups.edu.ec)
 - [https://www.ups.edu.ec/en](https://www.ups.edu.ec/en)
 - [https://www.ups.edu.ec/sede-guayaquil](https://www.ups.edu.ec/sede-guayaquil)
+- [https://avac.ups.edu.ec](https://avac.ups.edu.ec)
+- [https://portal.ups.edu.ec](https://portal.ups.edu.ec)
+- [https://dspace.ups.edu.ec](https://dspace.ups.edu.ec)
+- [https://bienestar.ups.edu.ec](https://bienestar.ups.edu.ec)
+- [https://educacioncontinua.ups.edu.ec](https://educacioncontinua.ups.edu.ec)
+- [https://idiomas.ups.edu.ec](https://idiomas.ups.edu.ec)
+- [https://quipux.ups.edu.ec](https://quipux.ups.edu.ec)
+- [https://ti.ups.edu.ec](https://ti.ups.edu.ec)
+- [https://upsenlinea.com](https://upsenlinea.com)
 
 ## Brand Guidelines
 

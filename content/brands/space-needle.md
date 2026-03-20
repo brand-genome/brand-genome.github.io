@@ -2,7 +2,7 @@
 title: Space Needle
 slug: "space-needle"
 description: ""
-date: "2026-03-13T09:22:54.416026"
+date: "2026-03-20T08:22:05.296597"
 draft: false
 sectors:
   - tourism
@@ -30,6 +30,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1994
+foundation_year_buckets:
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -48,26 +50,26 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - primary
   - vertical
-  - abstract
+  - primary
   - horizontal
+  - abstract
 brand_colors:
-  - black
+  - white
   - gold
   - grey
-  - white
+  - black
 typographies:
   - gotham
 imagery_styles:
-  - modern
   - abstract
-  - photography
   - minimal
-  - clean
   - professional
-  - gradient
   - bold
+  - modern
+  - photography
+  - clean
+  - gradient
 wikidata_description: American rock band
 wikidata_url: "https://www.wikidata.org/wiki/Q7572437"
 has_twitter: false
@@ -79,7 +81,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spaceneedle.com/](https://www.spaceneedle.com/)
+- [https://www.spaceneedle.com](https://www.spaceneedle.com)
+- [http://www.spaceneedlemusic.com](http://www.spaceneedlemusic.com)
 
 ## Brand Guidelines
 

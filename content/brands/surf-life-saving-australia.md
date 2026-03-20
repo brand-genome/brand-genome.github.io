@@ -2,12 +2,12 @@
 title: Surf Life Saving Australia
 slug: "surf-life-saving-australia"
 description: ""
-date: "2026-03-13T09:22:55.002942"
+date: "2026-03-20T08:22:05.718263"
 draft: false
 sectors:
-  - "emergency-services"
   - sports
   - ngo
+  - "emergency-services"
 regions:
   - australia
 years:
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,11 +52,11 @@ body_sections: []
 logo_elements:
   - primary
 brand_colors:
-  - yellow
   - red
+  - yellow
 typographies:
-  - display
   - "sans-serif"
+  - display
 imagery_styles:
   - bold
 wikidata_description: organization
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sls.com.au/](https://www.sls.com.au/)
+- [https://www.sls.com.au](https://www.sls.com.au)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Yoga Campus
 slug: "yoga-campus"
 description: ""
-date: "2026-03-13T09:22:55.041290"
+date: "2026-03-20T08:22:05.743834"
 draft: false
 sectors:
   - education
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.yogacampus.com/](https://www.yogacampus.com/)
+- [https://www.yogacampus.com](https://www.yogacampus.com)
 
 ## Brand Guidelines
 

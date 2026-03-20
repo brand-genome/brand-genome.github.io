@@ -2,7 +2,7 @@
 title: Blue Nun
 slug: "blue-nun"
 description: ""
-date: "2026-03-13T09:22:54.725806"
+date: "2026-03-20T08:22:05.523308"
 draft: false
 sectors:
   - drink
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,12 +54,12 @@ brand_colors:
   - gold
   - blue
 typographies:
-  - display
-  - frutiger
   - times
+  - frutiger
+  - display
 imagery_styles:
-  - monochrome
   - bold
+  - monochrome
 wikidata_description: German wine brand
 wikidata_url: "https://www.wikidata.org/wiki/Q4929585"
 has_twitter: false
@@ -71,8 +72,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://bluenun.wine](https://bluenun.wine)
-- [https://www.bluenunworld.com/](https://www.bluenunworld.com/)
-- [https://www.langguthworld.com/](https://www.langguthworld.com/)
+- [https://www.bluenunworld.com](https://www.bluenunworld.com)
+- [https://www.langguthworld.com](https://www.langguthworld.com)
+- [https://www.bluenun.wine](https://www.bluenun.wine)
 
 ## Brand Guidelines
 

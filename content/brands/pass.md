@@ -2,11 +2,11 @@
 title: Pass
 slug: pass
 description: ""
-date: "2026-03-13T09:22:53.260125"
+date: "2026-03-20T08:22:04.185530"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - nigeria
 years:
@@ -30,6 +30,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,9 +55,9 @@ brand_colors:
   - green
 typographies: []
 imagery_styles:
+  - bold
   - clean
   - professional
-  - bold
 wikidata_description: "Unix-style command-line password manager software"
 wikidata_url: "https://www.wikidata.org/wiki/Q25209352"
 has_twitter: false
@@ -68,9 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ourpass.co](https://www.ourpass.co)
 - [http://www.youtube.com/watch?v=NmpBIqNVLXs](http://www.youtube.com/watch?v=NmpBIqNVLXs)
-- [https://www.ourpass.co/](https://www.ourpass.co/)
 - [https://youtu.be/4RwUhtaf2_E](https://youtu.be/4RwUhtaf2_E)
+- [https://www.passwordstore.org](https://www.passwordstore.org)
 
 ## Brand Guidelines
 

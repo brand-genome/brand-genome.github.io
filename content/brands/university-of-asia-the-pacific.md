@@ -2,7 +2,7 @@
 title: "University of Asia & the Pacific"
 slug: "university-of-asia-the-pacific"
 description: ""
-date: "2026-03-13T09:22:53.015784"
+date: "2026-03-20T08:22:04.006471"
 draft: false
 sectors:
   - university
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://uap.asia/](https://uap.asia/)
+- [https://uap.asia](https://uap.asia)
 
 ## Brand Guidelines
 

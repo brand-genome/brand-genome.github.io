@@ -2,7 +2,7 @@
 title: Brandeis Business School
 slug: "brandeis-business-school"
 description: ""
-date: "2026-03-13T09:22:55.096853"
+date: "2026-03-20T08:22:05.803077"
 draft: false
 sectors:
   - university
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,9 +61,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.brandeis.edu/business/](https://www.brandeis.edu/business/)
-- [https://www.brandeis.edu/global/brand](https://www.brandeis.edu/global/brand)
 - [https://www.brandeis.edu/global/index.html](https://www.brandeis.edu/global/index.html)
+- [https://www.brandeis.edu/business](https://www.brandeis.edu/business)
+- [https://www.brandeis.edu/global/brand](https://www.brandeis.edu/global/brand)
 
 ## Brand Guidelines
 

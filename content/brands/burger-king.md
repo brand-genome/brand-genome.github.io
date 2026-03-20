@@ -2,7 +2,7 @@
 title: Burger King
 slug: "burger-king"
 description: ""
-date: "2026-03-13T09:22:53.069552"
+date: "2026-03-20T08:22:04.063874"
 draft: false
 sectors:
   - restaurant
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries:
   - "fast-food-restaurant-chain"
 countries:
@@ -29,34 +29,36 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "crispy-chicken-burger-king"
-  - "tacos-cu-creveti-si-salsa-de-avocado"
-  - "cartofi-dulci-prajiti-cu-sos-picant"
-  - cheeseburger
-  - "whopper-picant-cu-jalapenos"
-  - "supa-crema-de-rosii-cu-busuioc"
-  - "hot-dog"
-  - "big-king"
-  - "salata-greceasca-cu-branza-feta"
-  - apple
-  - "burger-king-chicken-nuggets"
-  - fries
-  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
-  - "quesadilla-cu-pui-si-branza-cheddar"
-  - dessert
   - "bk-chicken-fries"
+  - apple
+  - "salata-greceasca-cu-branza-feta"
+  - "big-king"
+  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
+  - "cartofi-dulci-prajiti-cu-sos-picant"
+  - dessert
+  - "crispy-chicken-burger-king"
+  - "whopper-picant-cu-jalapenos"
+  - "burger-king-chicken-nuggets"
+  - "soft-drink"
   - "milkshake-de-vanilie-cu-sos-de-caramel"
   - hamburger
-  - salad
-  - "soft-drink"
+  - "hot-dog"
   - whopper
+  - "tacos-cu-creveti-si-salsa-de-avocado"
+  - "quesadilla-cu-pui-si-branza-cheddar"
+  - salad
+  - fries
+  - "supa-crema-de-rosii-cu-busuioc"
+  - cheeseburger
 products: []
 headquarters_locations:
   - "miami-dade-county"
 subsidiaries: []
 foundation_dates:
-  - 1954
   - 1956
+  - 1954
+foundation_year_buckets:
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -89,7 +91,128 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bk.com/](https://www.bk.com/)
+- [https://www.bk.com](https://www.bk.com)
+- [https://www.burgerking.co.uk](https://www.burgerking.co.uk)
+- [https://www.burgerking.co.th](https://www.burgerking.co.th)
+- [https://uae.burgerking.delivery](https://uae.burgerking.delivery)
+- [https://www.burgerking.co.za](https://www.burgerking.co.za)
+- [https://ksa.burgerking.delivery](https://ksa.burgerking.delivery)
+- [https://burgerking.pl](https://burgerking.pl)
+- [https://burgerking.it](https://burgerking.it)
+- [https://www.burgerking.com.tr](https://www.burgerking.com.tr)
+- [https://burgerking.com.br](https://burgerking.com.br)
+- [https://www.burgerking.ca](https://www.burgerking.ca)
+- [https://www.burgerking.com.mx](https://www.burgerking.com.mx)
+- [https://www.burgerking.com.ar](https://www.burgerking.com.ar)
+- [https://www.burgerking.com.bo](https://www.burgerking.com.bo)
+- [https://www.burgerking.cl](https://www.burgerking.cl)
+- [https://www.bk.com.co](https://www.bk.com.co)
+- [http://www.burgerking.com.do](http://www.burgerking.com.do)
+- [https://bk.gt](https://bk.gt)
+- [http://www.burgerking.com.py](http://www.burgerking.com.py)
+- [https://www.burgerkingpr.com](https://www.burgerkingpr.com)
+- [https://www.burgerking.com.uy](https://www.burgerking.com.uy)
+- [https://www.burgerkingbangladesh.com](https://www.burgerkingbangladesh.com)
+- [https://burgerking.com.bn](https://burgerking.com.bn)
+- [https://www.bkchina.cn](https://www.bkchina.cn)
+- [https://www.burgerkingfiji.com](https://www.burgerkingfiji.com)
+- [https://www.burgerking.in](https://www.burgerking.in)
+- [https://www.burgerking.com.my](https://www.burgerking.com.my)
+- [https://www.burgerking.co.nz](https://www.burgerking.co.nz)
+- [https://www.burgerking.co.kr](https://www.burgerking.co.kr)
+- [https://burgerking.vn](https://burgerking.vn)
+- [https://www.burgerking.at](https://www.burgerking.at)
+- [https://burgerking.cz](https://burgerking.cz)
+- [https://www.burgerking.dk](https://www.burgerking.dk)
+- [https://burgerking.fi](https://burgerking.fi)
+- [https://www.burgerking.de](https://www.burgerking.de)
+- [https://burgerking.hu](https://burgerking.hu)
+- [https://www.burgerking.nl](https://www.burgerking.nl)
+- [https://www.burgerking.no](https://www.burgerking.no)
+- [https://www.burgerking.pt](https://www.burgerking.pt)
+- [https://www.burgerking.es](https://www.burgerking.es)
+- [https://www.burgerking.se](https://www.burgerking.se)
+- [https://de.burger-king.ch](https://de.burger-king.ch)
+- [https://burgerking.ru](https://burgerking.ru)
+- [https://burgerking.co.jp](https://burgerking.co.jp)
+- [https://pide.burgerking.com.mx](https://pide.burgerking.com.mx)
+- [https://burgerking.com](https://burgerking.com)
+- [https://burgerking.com.mt](https://burgerking.com.mt)
+- [https://bkdelivery.co.id](https://bkdelivery.co.id)
+- [http://uae.burgerking.me](http://uae.burgerking.me)
+- [https://egypt.burgerking.delivery](https://egypt.burgerking.delivery)
+- [https://bk.uwapi.io](https://bk.uwapi.io)
+- [https://morocco.burgerking.delivery](https://morocco.burgerking.delivery)
+- [https://www.burger-king.ng](https://www.burger-king.ng)
+- [https://www.burgerking-cambodia.com](https://www.burgerking-cambodia.com)
+- [https://www.burgerking.co.il](https://www.burgerking.co.il)
+- [https://www.bk.com.kw](https://www.bk.com.kw)
+- [https://burgerking.kz](https://burgerking.kz)
+- [https://burgerking.kz/en](https://burgerking.kz/en)
+- [https://burgerking.kz/ru](https://burgerking.kz/ru)
+- [https://burgerking.kz/kz](https://burgerking.kz/kz)
+- [https://bklebanon.com](https://bklebanon.com)
+- [https://burgerking.mn](https://burgerking.mn)
+- [https://www.burgerking.com.ph](https://www.burgerking.com.ph)
+- [https://burgerkingdelivery.qa](https://burgerkingdelivery.qa)
+- [https://www.burgerking.com.sa/en](https://www.burgerking.com.sa/en)
+- [https://www.burgerking.com.sa/ar](https://www.burgerking.com.sa/ar)
+- [https://burgerking.lk](https://burgerking.lk)
+- [https://www.burgerking.com.tw](https://www.burgerking.com.tw)
+- [https://www.burgerking.ae/en](https://www.burgerking.ae/en)
+- [https://www.burgerking.ae/ar](https://www.burgerking.ae/ar)
+- [https://burgerking.vn?___store=en](https://burgerking.vn?___store=en)
+- [https://www.burgerking.al](https://www.burgerking.al)
+- [https://www.burgerking.at/en](https://www.burgerking.at/en)
+- [https://www.burgerking.at/de](https://www.burgerking.at/de)
+- [https://burger-king.by](https://burger-king.by)
+- [https://www.burgerking.be](https://www.burgerking.be)
+- [https://www.burgerking.be/fr](https://www.burgerking.be/fr)
+- [https://www.burgerking.be/nl](https://www.burgerking.be/nl)
+- [https://burgerking.hr](https://burgerking.hr)
+- [https://burgerking.com.cy](https://burgerking.com.cy)
+- [https://www.burgerkingdelivers.com.cy](https://www.burgerkingdelivers.com.cy)
+- [https://burgerking.cz/en](https://burgerking.cz/en)
+- [https://burgerking.cz/cs](https://burgerking.cz/cs)
+- [https://www.burgerking.ee](https://www.burgerking.ee)
+- [https://www.burgerking.ee/en](https://www.burgerking.ee/en)
+- [https://www.burgerking.ee/ru](https://www.burgerking.ee/ru)
+- [https://www.whopper.ie](https://www.whopper.ie)
+- [https://burgerkingks.com](https://burgerkingks.com)
+- [https://www.burgerking.lv](https://www.burgerking.lv)
+- [https://www.burgerking.lv/ru](https://www.burgerking.lv/ru)
+- [https://www.burgerking.lv/en](https://www.burgerking.lv/en)
+- [https://www.burgerking.lt](https://www.burgerking.lt)
+- [https://www.burgerking.lt/ru](https://www.burgerking.lt/ru)
+- [https://www.burgerking.lt/en](https://www.burgerking.lt/en)
+- [https://burgerking.com.cy/el](https://burgerking.com.cy/el)
+- [https://burgerking.pl/en](https://burgerking.pl/en)
+- [https://burgerking.pl/pl](https://burgerking.pl/pl)
+- [https://www.burgerking.pt/en](https://www.burgerking.pt/en)
+- [https://www.burgerking.pt/pt](https://www.burgerking.pt/pt)
+- [https://www.burgerking.pt/es](https://www.burgerking.pt/es)
+- [https://burgerking.ro](https://burgerking.ro)
+- [https://burgerking.ro/en](https://burgerking.ro/en)
+- [https://burgerking.ro/ro](https://burgerking.ro/ro)
+- [https://www.burger-king.ch/en](https://www.burger-king.ch/en)
+- [https://www.burger-king.ch/de](https://www.burger-king.ch/de)
+- [https://www.burger-king.ch/fr](https://www.burger-king.ch/fr)
+- [https://www.burger-king.ch/it](https://www.burger-king.ch/it)
+- [https://www.burger-king.ch](https://www.burger-king.ch)
+- [http://burgerking.aw](http://burgerking.aw)
+- [https://www.burgerking.bs](https://www.burgerking.bs)
+- [https://www.burgerking.ky](https://www.burgerking.ky)
+- [https://whoppercr.com](https://whoppercr.com)
+- [https://www.burgerking.com.do](https://www.burgerking.com.do)
+- [https://burgerkinghonduras.hn](https://burgerkinghonduras.hn)
+- [https://www.burgerking.com.mx/en](https://www.burgerking.com.mx/en)
+- [https://www.burgerking.com.mx/es](https://www.burgerking.com.mx/es)
+- [https://www.burgerkinglatino.com](https://www.burgerkinglatino.com)
+- [https://www.burgerking.nc](https://www.burgerking.nc)
+- [https://www.burgerkinggy.com](https://www.burgerkinggy.com)
+- [https://www.burgerking.com.py](https://www.burgerking.com.py)
+- [https://www.burgerking.pe](https://www.burgerking.pe)
+- [https://burgerkingve.com](https://burgerkingve.com)
 
 ## Brand Guidelines
 
@@ -105,9 +228,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Crispy Chicken Burger King](/products_or_materials_produced/crispy-chicken-burger-king/); [Tacos Cu Creveti Si Salsa De Avocado](/products_or_materials_produced/tacos-cu-creveti-si-salsa-de-avocado/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Cheeseburger](/products_or_materials_produced/cheeseburger/); [Whopper Picant Cu Jalapenos](/products_or_materials_produced/whopper-picant-cu-jalapenos/); [Supa Crema De Rosii Cu Busuioc](/products_or_materials_produced/supa-crema-de-rosii-cu-busuioc/); [Hot Dog](/products_or_materials_produced/hot-dog/); [Big King](/products_or_materials_produced/big-king/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Apple](/products_or_materials_produced/apple/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Fries](/products_or_materials_produced/fries/); +9 more |
+| Product Or Material Produced | [Bk Chicken Fries](/products_or_materials_produced/bk-chicken-fries/); [Apple](/products_or_materials_produced/apple/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Big King](/products_or_materials_produced/big-king/); [Desert Mousse De Ciocolata Cu Fructe De Padure](/products_or_materials_produced/desert-mousse-de-ciocolata-cu-fructe-de-padure/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Dessert](/products_or_materials_produced/dessert/); [Crispy Chicken Burger King](/products_or_materials_produced/crispy-chicken-burger-king/); [Whopper Picant Cu Jalapenos](/products_or_materials_produced/whopper-picant-cu-jalapenos/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Milkshake De Vanilie Cu Sos De Caramel](/products_or_materials_produced/milkshake-de-vanilie-cu-sos-de-caramel/); +9 more |
 | Headquarters Location | [Miami Dade County](/headquarters_locations/miami-dade-county/) |
-| Foundation Date | [1954](/foundation_dates/1954/); [1956](/foundation_dates/1956/) |
+| Foundation Date | [1956](/foundation_dates/1956/); [1954](/foundation_dates/1954/) |
 | Viaf Cluster Id | 132616942 |
 | Imdb Id | co0101846 |
 | Topic'S Main Category | Category:Burger King |

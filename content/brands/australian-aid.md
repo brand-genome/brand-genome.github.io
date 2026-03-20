@@ -2,7 +2,7 @@
 title: Australian AID
 slug: "australian-aid"
 description: ""
-date: "2026-03-13T09:22:55.014808"
+date: "2026-03-20T08:22:05.723634"
 draft: false
 sectors:
   - "public-sector"
@@ -31,6 +31,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1987
+foundation_year_buckets:
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -64,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://adp.dfat.gov.au/](https://adp.dfat.gov.au/)
-- [https://www.dfat.gov.au/about-us/publications/Pages/australian-aid](https://www.dfat.gov.au/about-us/publications/Pages/australian-aid)
 - [https://www.dfat.gov.au/development/australias-development-program](https://www.dfat.gov.au/development/australias-development-program)
+- [https://adp.dfat.gov.au](https://adp.dfat.gov.au)
+- [https://www.dfat.gov.au/about-us/publications/Pages/australian-aid](https://www.dfat.gov.au/about-us/publications/Pages/australian-aid)
+- [http://www.ausaid.gov.au](http://www.ausaid.gov.au)
 
 ## Brand Guidelines
 

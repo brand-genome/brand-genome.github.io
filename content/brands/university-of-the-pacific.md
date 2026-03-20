@@ -2,7 +2,7 @@
 title: University of the Pacific
 slug: "university-of-the-pacific"
 description: ""
-date: "2026-03-13T09:22:53.317087"
+date: "2026-03-20T08:22:04.229433"
 draft: false
 sectors:
   - education
@@ -36,6 +36,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1851
+foundation_year_buckets:
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,35 +56,35 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
+  - vertical
+  - seal
+  - secondary
+  - symbol
+  - horizontal
   - wordmark
   - primary
-  - symbol
-  - vertical
-  - secondary
-  - seal
-  - horizontal
 brand_colors:
-  - "pantone-282"
-  - "pantone-555"
   - navy
-  - "pantone-419"
-  - "pantone-165"
-  - orange
-  - "pantone-7409"
-  - black
-  - "pantone-403"
   - "pantone-166"
+  - "pantone-403"
+  - "pantone-282"
   - white
+  - "pantone-165"
+  - "pantone-555"
+  - "pantone-7409"
+  - "pantone-419"
+  - orange
+  - black
 typographies:
+  - arial
   - display
   - georgia
-  - arial
 imagery_styles:
-  - lifestyle
   - dynamic
-  - photography
-  - bold
   - graphic
+  - bold
+  - photography
+  - lifestyle
 wikidata_description: "private university in Stockton, California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q630226"
 has_twitter: false
@@ -94,7 +96,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pacific.edu/](https://www.pacific.edu/)
+- [https://www.pacific.edu](https://www.pacific.edu)
 
 ## Brand Guidelines
 

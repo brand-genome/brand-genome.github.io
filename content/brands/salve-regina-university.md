@@ -2,7 +2,7 @@
 title: Salve Regina University
 slug: "salve-regina-university"
 description: ""
-date: "2026-03-13T09:22:52.313961"
+date: "2026-03-20T08:22:03.380368"
 draft: false
 sectors:
   - university
@@ -34,6 +34,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1934
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://salve.edu/](https://salve.edu/)
+- [https://salve.edu](https://salve.edu)
 
 ## Brand Guidelines
 

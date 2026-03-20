@@ -2,7 +2,7 @@
 title: SAS
 slug: sas
 description: ""
-date: "2026-03-13T09:22:53.334810"
+date: "2026-03-20T08:22:04.244673"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ languages:
 tags:
   - software
 industries:
+  - analytics
   - "artificial-intelligence"
   - "software-industry"
-  - analytics
 countries:
   - "united-states"
 revenue_buckets: []
@@ -35,6 +35,8 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1976
+foundation_year_buckets:
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +60,8 @@ brand_colors:
 typographies:
   - avenir
 imagery_styles:
-  - photography
   - geometric
+  - photography
 wikidata_description: American analytics and artificial intelligence company
 wikidata_url: "https://www.wikidata.org/wiki/Q1473820"
 has_twitter: false
@@ -71,11 +73,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sas.com](https://www.sas.com)
+- [https://brand.sas.com](https://brand.sas.com)
 - [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.linotype.com](http://www.linotype.com)
 - [http://www.sas.com](http://www.sas.com)
-- [https://brand.sas.com/](https://brand.sas.com/)
-- [https://www.sas.com/](https://www.sas.com/)
 
 ## Brand Guidelines
 

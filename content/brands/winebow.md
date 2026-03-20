@@ -2,7 +2,7 @@
 title: Winebow
 slug: winebow
 description: ""
-date: "2026-03-13T09:22:54.326964"
+date: "2026-03-20T08:22:05.148147"
 draft: false
 sectors:
   - drink
@@ -28,6 +28,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,25 +52,25 @@ logo_elements:
   - icon
   - secondary
 brand_colors:
+  - red
+  - green
+  - gold
   - navy
+  - white
+  - blue
   - gray
   - orange
   - black
-  - green
-  - red
-  - blue
-  - gold
-  - white
 typographies:
   - serif
-  - georgia
-  - lato
   - "sans-serif"
+  - lato
+  - georgia
 imagery_styles:
-  - bold
-  - photography
-  - natural
   - organic
+  - bold
+  - natural
+  - photography
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,7 +82,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.winebow.com/](https://www.winebow.com/)
+- [https://www.winebow.com](https://www.winebow.com)
 
 ## Brand Guidelines
 

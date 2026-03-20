@@ -2,17 +2,17 @@
 title: Canon
 slug: canon
 description: ""
-date: "2026-03-13T09:22:52.817849"
+date: "2026-03-20T08:22:03.830145"
 draft: false
 sectors:
   - electronics
   - hardware
 regions:
-  - japan
   - singapore
+  - japan
 years:
-  - 2015
   - 2017
+  - 2015
 languages:
   - english
 tags:
@@ -33,6 +33,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1935
+foundation_year_buckets:
+  - 1930S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,22 +56,22 @@ logo_elements:
   - primary
   - secondary
 brand_colors:
-  - grey
-  - yellow
-  - black
-  - pink
   - red
-  - blue
   - green
   - white
+  - grey
+  - blue
+  - yellow
+  - pink
+  - black
 typographies:
-  - gotham
   - "century-gothic"
+  - gotham
 imagery_styles:
+  - bold
   - portrait
   - landscape
   - professional
-  - bold
 wikidata_description: corporate brand of Canon Inc.
 wikidata_url: "https://www.wikidata.org/wiki/Q63554165"
 has_twitter: false
@@ -81,9 +83,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.canon/](https://global.canon/)
-- [https://global.canon/en/support/](https://global.canon/en/support/)
-- [https://sg.canon/](https://sg.canon/)
+- [https://global.canon](https://global.canon)
+- [https://global.canon/en/support](https://global.canon/en/support)
+- [https://sg.canon](https://sg.canon)
+- [https://global.canon/en/csr/management/brand.html](https://global.canon/en/csr/management/brand.html)
 
 ## Brand Guidelines
 

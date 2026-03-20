@@ -2,11 +2,11 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-03-13T09:22:55.041412"
+date: "2026-03-20T08:22:05.743949"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - italy
@@ -32,6 +32,8 @@ headquarters_locations: []
 subsidiaries: []
 foundation_dates:
   - 1737
+foundation_year_buckets:
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,9 +58,9 @@ brand_colors: []
 typographies:
   - helvetica
 imagery_styles:
-  - photography
   - product
   - bold
+  - photography
 wikidata_description: "opera house in Naples, Italy"
 wikidata_url: "https://www.wikidata.org/wiki/Q628491"
 has_twitter: false
@@ -68,6 +70,10 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
+## Official Websites
+
+- [http://www.teatrosancarlo.it](http://www.teatrosancarlo.it)
+
 ## Brand Guidelines
 
 ### 2006

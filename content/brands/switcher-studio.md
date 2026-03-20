@@ -2,11 +2,11 @@
 title: Switcher Studio
 slug: "switcher-studio"
 description: ""
-date: "2026-03-13T09:22:53.645633"
+date: "2026-03-20T08:22:04.502635"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - usa
 years:
@@ -29,6 +29,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -47,24 +48,24 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - icon
-  - primary
   - vertical
   - secondary
   - horizontal
+  - primary
+  - icon
 brand_colors:
+  - teal
+  - white
+  - blue
   - gray
   - orange
   - black
-  - teal
-  - blue
-  - white
 typographies:
   - verdana
   - montserrat
 imagery_styles:
-  - staged
   - graphic
+  - staged
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,7 +77,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.switcherstudio.com/](https://www.switcherstudio.com/)
+- [https://www.switcherstudio.com](https://www.switcherstudio.com)
 
 ## Brand Guidelines
 

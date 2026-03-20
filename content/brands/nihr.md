@@ -2,11 +2,11 @@
 title: NIHR
 slug: nihr
 description: ""
-date: "2026-03-13T09:22:54.808003"
+date: "2026-03-20T08:22:05.577365"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
   - healthcare
 regions:
   - "united-kingdom"
@@ -31,6 +31,7 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -49,8 +50,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements:
-  - horizontal
   - vertical
+  - horizontal
 brand_colors: []
 typographies: []
 imagery_styles:
@@ -66,8 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nihr.ac.uk/](https://www.nihr.ac.uk/)
+- [https://www.nihr.ac.uk](https://www.nihr.ac.uk)
 - [https://www.nihr.ac.uk/branding](https://www.nihr.ac.uk/branding)
+- [http://nihr.tums.ac.ir/En](http://nihr.tums.ac.ir/En)
+- [http://nihr.tums.ac.ir/Home](http://nihr.tums.ac.ir/Home)
 
 ## Brand Guidelines
 
