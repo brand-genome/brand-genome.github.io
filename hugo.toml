@@ -84,6 +84,12 @@ buildFuture = true
 [pagination]
   pagerSize = 1000
 
+# Sitemap (auto-generated on every build)
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 # Build settings
 [build]
   writeStats = true
