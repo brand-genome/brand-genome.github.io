@@ -2,7 +2,11 @@
 {{- if .IsHome }}
   {{- $title = .Site.Title }}
 {{- else if .Title }}
-  {{- $title = printf "%s | %s" .Title .Site.Title }}
+  {{- if .IsPage }}
+    {{- $title = printf "%s — Brand Identity & Visual DNA | %s" .Title .Site.Title }}
+  {{- else }}
+    {{- $title = printf "%s | %s" .Title .Site.Title }}
+  {{- end }}
 {{- else }}
   {{- $title = .Site.Title }}
 {{- end }}
@@ -11,11 +15,12 @@
 {{- if .Description }}
   {{- $desc = .Description }}
 {{- else if .Params.wikidata_description }}
-  {{- $desc = .Params.wikidata_description | truncate 160 }}
+  {{- $base := .Params.wikidata_description | truncate 120 }}
+  {{- $desc = printf "%s Explore %s's visual identity, brand guidelines, and promotion insights on Brand Genome." $base .Title }}
 {{- else if .IsHome }}
   {{- $desc = .Site.Params.description }}
 {{- else if .Pages }}
-  {{- $desc = printf "Explore %d brands with %s in the Brand Genome knowledge graph." (len .Pages) .Title }}
+  {{- $desc = printf "Explore %d brands categorised under %s. Browse visual identity, brand guidelines, and promotion insights on Brand Genome." (len .Pages) .Title }}
 {{- else }}
   {{- $desc = .Site.Params.description }}
 {{- end }}
@@ -25,8 +30,9 @@
 {{- $ogImage := "" }}
 {{- if .Params.og_image }}
   {{- $ogImage = .Params.og_image | absURL }}
-{{- else if .Params.sample_image_urls }}
-  {{- $ogImage = index .Params.sample_image_urls 0 }}
+{{- else if and .Params.sample_image_urls (gt (len .Params.sample_image_urls) 0) }}
+  {{- $rawImage := index .Params.sample_image_urls 0 }}
+  {{- $ogImage = replace $rawImage "name=large" "name=medium" }}
 {{- else }}
   {{- $ogImage = "/images/og-default.png" | absURL }}
 {{- end }}
