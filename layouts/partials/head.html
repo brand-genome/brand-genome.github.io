@@ -34,7 +34,7 @@
   {{- $rawImage := index .Params.sample_image_urls 0 }}
   {{- $ogImage = replace $rawImage "name=large" "name=medium" }}
 {{- else }}
-  {{- $ogImage = "/images/og-default.png" | absURL }}
+  {{- $ogImage = "/images/og-default.jpg" | absURL }}
 {{- end }}
 
 {{- $ogType := "website" }}
