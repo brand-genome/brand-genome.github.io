@@ -1,0 +1,87 @@
+{{- $title := "" }}
+{{- if .IsHome }}
+  {{- $title = .Site.Title }}
+{{- else if .Title }}
+  {{- $title = printf "%s | %s" .Title .Site.Title }}
+{{- else }}
+  {{- $title = .Site.Title }}
+{{- end }}
+
+{{- $desc := "" }}
+{{- if .Description }}
+  {{- $desc = .Description }}
+{{- else if .Params.wikidata_description }}
+  {{- $desc = .Params.wikidata_description | truncate 160 }}
+{{- else if .IsHome }}
+  {{- $desc = .Site.Params.description }}
+{{- else if .Pages }}
+  {{- $desc = printf "Explore %d brands with %s in the Brand Genome knowledge graph." (len .Pages) .Title }}
+{{- else }}
+  {{- $desc = .Site.Params.description }}
+{{- end }}
+
+{{- $canonical := .Permalink }}
+
+{{- $ogImage := "" }}
+{{- if .Params.og_image }}
+  {{- $ogImage = .Params.og_image | absURL }}
+{{- else if .Params.promotion_image_urls }}
+  {{- $ogImage = index .Params.promotion_image_urls 0 }}
+{{- else }}
+  {{- $ogImage = "/images/og-default.png" | absURL }}
+{{- end }}
+
+{{- $ogType := "website" }}
+{{- if .IsPage }}
+  {{- $ogType = "article" }}
+{{- end }}
+
+{{- $jsonld := dict }}
+{{- if .IsHome }}
+  {{- $jsonld = dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "name" .Site.Title
+    "url" .Site.BaseURL
+    "description" $desc
+  }}
+{{- else if .IsPage }}
+  {{- $jsonld = dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" .Title
+    "description" $desc
+    "url" $canonical
+    "publisher" (dict
+      "@type" "Organization"
+      "name" .Site.Title
+      "url" .Site.BaseURL
+    )
+  }}
+{{- end }}
+
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ $canonical }}">
+<meta name="robots" content="index, follow">
+<meta name="author" content="{{ .Site.Params.author }}">
+
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:type" content="{{ $ogType }}">
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_US">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $ogImage }}">
+
+{{- if $jsonld }}
+<script type="application/ld+json">
+{{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end }}
