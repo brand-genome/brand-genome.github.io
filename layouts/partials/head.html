@@ -25,8 +25,8 @@
 {{- $ogImage := "" }}
 {{- if .Params.og_image }}
   {{- $ogImage = .Params.og_image | absURL }}
-{{- else if .Params.promotion_image_urls }}
-  {{- $ogImage = index .Params.promotion_image_urls 0 }}
+{{- else if .Params.sample_image_urls }}
+  {{- $ogImage = index .Params.sample_image_urls 0 }}
 {{- else }}
   {{- $ogImage = "/images/og-default.png" | absURL }}
 {{- end }}
