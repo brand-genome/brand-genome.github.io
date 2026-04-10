@@ -74,12 +74,12 @@ buildFuture = true
       unsafe = true
 
 [outputs]
-  home = ["HTML", "JSON", "Sitemap"]
+  home = ["HTML", "JSON"]
   page = ["HTML"]
   section = ["HTML", "JSON"]
   taxonomy = ["HTML", "JSON"]
   term = ["HTML", "JSON"]
-  
+
 # Pagination
 [pagination]
   pagerSize = 1000
