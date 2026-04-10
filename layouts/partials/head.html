@@ -40,7 +40,11 @@
 {{- else if .IsHome }}
   {{- $desc = .Site.Params.description }}
 {{- else if .Pages }}
-  {{- $desc = printf "Explore %d brands categorised under %s. Browse visual identity, brand guidelines, and promotion insights on Brand Genome." (len .Pages) .Title }}
+  {{- $itemType := "brands" }}
+  {{- if .Data.Plural }}
+    {{- $itemType = .Data.Plural | humanize | lower }}
+  {{- end }}
+  {{- $desc = printf "Explore %d %s in the Brand Genome knowledge graph. Browse visual identity, brand guidelines, and promotion insights." (len .Pages) $itemType }}
 {{- else }}
   {{- $desc = .Site.Params.description }}
 {{- end }}
