@@ -56,7 +56,7 @@
       "@type" "SearchAction"
       "target" (dict
         "@type" "EntryPoint"
-        "urlTemplate" (printf "%s/brands/{search_term_string}" .Site.BaseURL)
+        "urlTemplate" (printf "%sbrands/{search_term_string}" .Site.BaseURL)
       )
       "query-input" "required name=search_term_string"
     )
